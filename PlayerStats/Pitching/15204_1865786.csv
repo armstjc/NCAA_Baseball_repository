@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/08/2020,away,15204,533,Pace,9,True,17,3,14,win,17 - 3,4954756,477,1,1.0,0,2,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,8,1,1,0,0,0,4,0,0,1865786,2020
+03/11/2020,home,15204,1318,Post,9,True,1,9,-8,loss,1 - 9,4957494,477,1,0.0,0,2,2,0,1,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,4,0,0,1865786,2020
+03/12/2020,home,15204,23157,Felician,9,True,24,8,16,win,24 - 8,4958695,477,1,1.0,0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,5,0,0,1865786,2020

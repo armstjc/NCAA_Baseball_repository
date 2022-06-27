@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,away,15204,485,Norfolk St.,9,True,3,7,-4,loss,3 - 7,4929740,748,1,4.1,0,4,2,2,3,5,0,19,16,1,0,0,0,1,0,0,0,0,0,0,77,2,5,0,0,0,1,2,0,2123884,2020
+02/23/2020,home,15204,539,Penn St.,11,True,2,4,-2,loss,2 - 4,4937390,748,1,5.1,0,2,1,1,2,8,0,20,18,0,1,0,0,0,0,0,0,0,0,0,80,6,2,0,0,0,1,5,0,2123884,2020
+03/01/2020,away,15204,740,VCU,9,True,0,9,-9,loss,0 - 9,4945497,748,1,6.0,0,3,0,0,4,4,0,24,20,1,0,0,0,1,0,0,0,0,0,0,0,11,2,0,0,0,1,1,0,2123884,2020
+03/08/2020,home,15204,519,Ohio,9,True,4,3,1,win,4 - 3,4954129,748,1,5.0,0,6,3,3,3,11,0,25,22,2,0,0,1,0,0,0,0,0,0,0,112,1,3,0,0,0,1,6,0,2123884,2020

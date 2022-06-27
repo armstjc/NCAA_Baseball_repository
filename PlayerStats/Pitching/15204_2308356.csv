@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,471,NJIT,10,True,5,8,-3,loss,5 - 8,4949323,83,1,5.0,0,4,2,1,1,4,0,18,17,1,1,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,1,1,0,2308356,2020
+02/23/2020,away,15204,746,Virginia,9,True,3,12,-9,loss,3 - 12,4937728,83,1,2.2,0,3,4,1,4,3,0,15,10,1,0,0,0,3,1,0,0,0,0,0,63,2,2,0,1,0,1,2,0,2308356,2020
+02/29/2020,home,15204,471,NJIT,9,True,2,14,-12,loss,2 - 14,4946816,83,1,2.1,0,4,5,1,4,2,0,16,12,0,0,0,0,0,0,0,3,0,0,0,0,2,3,0,0,0,2,0,0,2308356,2020
+03/08/2020,home,15204,739,Villanova,10,True,4,6,-2,loss,4 - 6,4954132,83,1,1.0,0,1,0,0,2,0,0,6,4,1,0,0,0,0,0,0,0,0,0,0,25,0,3,0,0,0,2,0,0,2308356,2020
+03/11/2020,home,15204,129,Central Mich.,9,True,5,3,2,win,5 - 3,4958138,83,1,1.0,0,4,3,3,0,1,0,7,6,0,0,0,1,0,0,0,0,0,0,1,0,0,2,0,0,0,2,1,0,2308356,2020

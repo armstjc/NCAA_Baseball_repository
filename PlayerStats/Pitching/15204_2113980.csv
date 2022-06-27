@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,home,15204,493,North Dakota St.,9,True,10,2,8,win,10 - 2,4929869,277,1,2.0,0,1,0,0,0,4,0,7,7,0,0,0,0,0,0,0,0,0,0,0,25,0,2,0,0,0,2,2,0,2113980,2020
+02/22/2020,home,15204,754,Washington St.,9,True,4,3,1,win,4 - 3,4937035,277,1,2.0,0,1,0,0,1,3,0,9,8,0,0,0,0,0,0,0,2,0,0,0,31,0,3,1,0,0,3,2,0,2113980,2020
+03/01/2020,away,15204,736,Vanderbilt,11,True,5,7,-2,loss,5 - 7,4945766,277,1,1.2,0,2,1,1,0,0,0,7,6,1,0,0,0,0,0,0,1,1,0,1,27,2,3,0,0,0,2,0,0,2113980,2020
+03/07/2020,home,15204,529,Oregon,9,True,7,6,1,win,7 - 6,4953577,277,1,1.0,0,0,0,0,2,1,0,6,2,0,0,0,0,0,1,0,0,0,1,0,23,1,1,0,0,0,3,1,0,2113980,2020

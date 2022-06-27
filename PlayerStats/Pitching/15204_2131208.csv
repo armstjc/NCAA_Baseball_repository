@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/22/2020,home,15204,172,Dartmouth,9,True,2,6,-4,loss,2 - 6,4936005,136,1,1.0,0,2,1,1,1,1,0,6,3,0,0,0,0,0,1,0,0,0,1,0,33,1,0,0,0,0,3,1,0,2131208,2020
+03/03/2020,away,15204,301,Illinois,9,True,8,11,-3,loss,8 - 11,4948176,136,1,0.0,0,0,3,3,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,2,0,0,2131208,2020
+03/10/2020,away,15204,367,Louisville,9,True,2,13,-11,loss,2 - 13,4956718,136,1,2.1,0,2,3,3,2,1,0,13,8,0,0,1,0,0,2,0,0,0,0,1,42,2,4,0,0,0,3,1,0,2131208,2020

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/24/2013,home,11320,649,South Dakota St.,9,True,7,12,-5,loss,7 - 12,659834,596,1,1.0,1,2,2,1,0,0,6,4,1,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,4,0,1104720,2013
+02/26/2013,home,11320,450,Mount St. Mary's,9,True,8,14,-6,loss,8 - 14,660000,596,1,4.1,7,7,6,1,2,0,22,19,2,0,1,0,0,1,0,0,0,0,1,0,5,5,0,0,0,3,1,1104720,2013
+03/23/2013,home,11320,812,Xavier,9,True,0,15,-15,loss,0 - 15,666320,596,1,1.0,2,1,1,1,0,0,6,4,1,0,0,1,0,0,0,0,0,0,1,28,1,2,0,0,0,4,0,1104720,2013
+05/11/2013,home,11320,340,La Salle,9,True,7,5,2,win,7 - 5,679035,596,1,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,2,0,1104720,2013

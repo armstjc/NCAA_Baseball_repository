@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/24/2013,home,11320,725,Army West Point,10,True,6,5,1,win,6 - 5,659836,178,1,0.2,0,0,0,2,2,0,5,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1432473,2013
+02/27/2013,away,11320,489,N.C. Central,9,True,1,5,-4,loss,1 - 5,660092,178,1,2.0,1,2,2,4,2,0,11,7,0,0,0,2,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,1432473,2013
+03/02/2013,home,11320,482,Niagara,9,True,11,16,-5,loss,11 - 16,660461,178,1,1.1,4,4,4,3,1,0,13,8,0,0,0,0,0,2,0,0,0,0,0,0,2,2,0,0,0,3,0,1432473,2013

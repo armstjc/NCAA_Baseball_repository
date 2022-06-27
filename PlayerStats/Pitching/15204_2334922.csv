@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,away,15204,697,Texas A&M,9,True,2,6,-4,loss,2 - 6,4929868,414,1,5.0,0,6,3,3,2,5,0,24,20,1,0,0,2,0,1,0,0,0,1,0,81,6,4,0,1,0,1,1,0,2334922,2020
+02/23/2020,home,15204,308,Purdue Fort Wayne,9,True,18,8,10,win,18 - 8,4938609,414,1,2.0,0,4,4,3,1,2,0,11,10,1,1,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,2334922,2020
+03/01/2020,away,15204,9,UAB,9,True,8,6,2,win,8 - 6,4945940,414,1,1.0,0,1,4,4,3,0,0,7,4,0,0,0,1,1,0,0,0,0,0,0,21,3,0,0,0,0,1,0,0,2334922,2020
+03/10/2020,away,15204,810,Wright St.,9,True,5,16,-11,loss,5 - 16,4956756,414,1,2.0,0,5,6,6,3,1,0,13,10,2,0,0,1,0,0,0,0,0,0,0,62,2,2,0,1,0,1,0,0,2334922,2020

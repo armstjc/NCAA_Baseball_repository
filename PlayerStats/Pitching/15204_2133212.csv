@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,away,15204,406,Mercer,9,True,2,3,-1,loss,2 - 3,4927535,393,1,1.2,0,0,0,0,0,2,0,5,5,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,2,0,0,2133212,2020
+02/22/2020,home,15204,14,UAlbany,9,True,4,7,-3,loss,4 - 7,4938826,393,1,2.0,0,3,3,1,1,0,0,11,7,0,0,0,0,0,0,0,2,2,2,1,0,3,2,0,1,0,3,0,0,2133212,2020
+03/07/2020,away,15204,459,UNC Greensboro,9,True,5,8,-3,loss,5 - 8,4955144,393,1,2.0,0,2,2,1,1,2,0,10,8,0,0,0,0,0,1,0,1,0,0,0,42,0,4,0,0,0,3,0,0,2133212,2020
+03/11/2020,home,15204,726,Navy,9,True,5,6,-1,loss,5 - 6,4957755,393,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,4,0,0,2133212,2020

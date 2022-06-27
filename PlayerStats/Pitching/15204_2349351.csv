@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/28/2020,away,15204,48,Charleston So.,9,True,1,13,-12,loss,1 - 13,4942109,178,1,0.1,0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,3,2,0,0,7,1,0,0,0,0,5,0,0,2349351,2020
+03/07/2020,home,15204,572,Rhode Island,9,True,5,23,-18,loss,5 - 23,4952540,178,1,0.1,0,1,3,3,3,0,0,5,2,0,1,0,0,1,0,0,0,0,0,0,22,1,0,0,0,0,3,0,0,2349351,2020

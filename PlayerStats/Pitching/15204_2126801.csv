@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+01/31/2020,away,15204,30198,Cal St. San Marcos,9,True,14,7,7,win,14 - 7,4914971,30095,1,1.0,0,3,1,1,0,1,0,6,6,0,0,0,0,0,0,0,0,0,0,0,24,0,2,0,0,0,3,0,0,2126801,2020
+02/07/2020,home,15204,1274,Northwest Nazarene,9,True,10,4,6,win,10 - 4,4919112,30095,1,2.0,0,3,2,1,1,1,0,10,9,1,0,0,0,0,0,0,3,1,0,0,0,3,1,0,0,0,3,1,0,2126801,2020
+02/08/2020,away,15204,100,Cal State LA,9,True,9,3,6,win,9 - 3,4921910,30095,1,1.0,0,1,1,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,0,2126801,2020
+02/13/2020,home,15204,30146,Azusa Pacific,9,True,8,7,1,win,8 - 7,4925392,30095,1,0.0,0,3,3,3,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,3,0,0,2126801,2020
+02/23/2020,home,15204,30200,Concordia Portland,9,True,10,4,6,win,10 - 4,4938072,30095,1,0.2,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,2,0,0,0,11,0,0,0,0,0,3,1,0,2126801,2020
+03/07/2020,home,15204,929,Adams St.,9,True,23,2,21,win,23 - 2,4952967,30095,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,6,1,2,0,0,0,3,0,0,2126801,2020

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,away,15204,671,Louisiana,9,True,3,2,1,win,3 - 2,4926497,655,1,5.1,0,2,1,1,3,10,0,21,17,0,0,0,0,0,1,0,0,0,0,0,100,3,2,1,0,0,1,5,0,1974583,2020
+02/21/2020,home,15204,316,Jacksonville,9,True,2,1,1,win,2 - 1,4934221,655,1,5.1,0,3,1,1,2,8,0,23,19,0,0,0,0,0,2,0,0,0,0,0,91,3,4,1,0,0,1,2,0,1974583,2020
+02/28/2020,home,15204,683,Stony Brook,9,True,11,0,11,win,11 - 0,4942528,655,1,5.0,0,1,0,0,4,5,0,18,14,0,0,0,0,0,0,0,0,0,0,0,0,1,7,1,0,0,1,0,0,1974583,2020
+03/06/2020,away,15204,1004,Central Ark.,9,True,0,2,-2,loss,0 - 2,4951086,655,1,6.1,0,2,1,1,3,9,0,26,21,0,0,0,1,1,2,0,0,0,0,0,0,5,5,0,1,0,1,1,0,1974583,2020

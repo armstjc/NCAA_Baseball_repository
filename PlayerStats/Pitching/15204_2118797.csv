@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,away,15204,229,Fla. Atlantic,9,True,5,9,-4,loss,5 - 9,4928654,180,1,1.0,0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,22,1,1,0,0,0,5,0,0,2118797,2020
+02/23/2020,home,15204,488,N.C. A&T,9,True,9,8,1,win,9 - 8,4937261,180,1,0.0,0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2118797,2020
+03/04/2020,away,15204,392,Maryland,9,True,6,13,-7,loss,6 - 13,4948938,180,1,2.2,0,2,4,3,4,4,0,15,8,1,0,0,0,3,1,0,2,2,0,2,71,0,4,0,0,0,3,0,0,2118797,2020
+03/10/2020,home,15204,178,Delaware St.,9,True,9,5,4,win,9 - 5,4956742,180,1,0.1,0,0,0,0,2,1,0,3,1,0,0,0,0,0,0,0,1,0,0,0,13,0,0,1,0,0,3,1,0,2118797,2020

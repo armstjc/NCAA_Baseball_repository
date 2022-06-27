@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/13/2013,home,11320,489,N.C. Central,9,True,0,10,-10,loss,0 - 10,672185,61,1,0.2,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,3,2,0,0,5,0,2,0,0,0,6,0,1218884,2013
+04/21/2013,home,11320,488,N.C. A&T,9,True,7,5,2,win,7 - 5,674910,61,1,3.0,3,1,1,1,0,0,12,9,1,0,0,0,0,0,0,0,0,1,1,33,2,6,0,0,0,2,0,1218884,2013
+05/07/2013,away,11320,651,South Fla.,9,True,3,7,-4,loss,3 - 7,678508,61,1,1.0,2,2,2,1,0,0,6,4,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,3,0,1218884,2013
+05/18/2013,home,11320,165,Coppin St.,9,True,4,1,3,win,4 - 1,680051,61,1,4.0,0,0,0,1,6,0,12,11,0,0,0,0,0,0,0,0,0,0,0,49,2,3,0,0,1,2,1,1218884,2013

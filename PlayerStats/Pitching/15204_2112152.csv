@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,away,15204,625,Samford,9,True,1,15,-14,loss,1 - 15,4930054,456,1,4.0,0,5,6,5,3,2,0,20,16,0,0,0,1,0,0,0,0,0,0,1,0,4,4,0,1,0,1,0,0,2112152,2020
+02/21/2020,away,15204,9,UAB,9,True,7,3,4,win,7 - 3,4938875,456,1,8.0,0,4,2,2,2,10,0,31,28,0,0,0,0,1,1,0,0,0,0,0,91,7,7,1,0,0,1,3,0,2112152,2020
+02/28/2020,away,15204,14927,Belmont,9,True,4,16,-12,loss,4 - 16,4942182,456,1,4.0,0,6,6,6,2,3,0,20,18,1,0,0,1,0,0,0,0,0,0,0,0,5,4,0,1,0,1,1,0,2112152,2020
+03/07/2020,home,15204,165,Coppin St.,10,True,3,2,1,win,3 - 2,4952011,456,1,7.0,0,3,2,1,1,6,0,26,25,0,0,0,1,0,0,0,0,0,0,0,0,7,7,0,0,0,1,2,0,2112152,2020

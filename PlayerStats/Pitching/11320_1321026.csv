@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/03/2013,home,11320,748,Wagner,9,True,16,22,-6,loss,16 - 22,669097,603,1,1.2,2,0,0,0,0,0,8,6,1,0,0,0,0,1,0,3,3,0,1,0,1,4,0,0,0,7,0,1321026,2013

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,away,15204,29,Arizona,9,True,3,11,-8,loss,3 - 11,4930248,14,1,3.0,0,4,2,2,1,0,0,15,13,0,1,0,0,1,1,0,0,0,0,0,53,4,5,0,1,0,1,0,0,2115813,2020
+02/23/2020,away,15204,393,UMES,9,True,3,10,-7,loss,3 - 10,4938835,14,1,3.0,0,6,4,4,2,3,0,18,15,0,0,0,0,1,0,0,0,0,1,0,0,5,1,0,1,0,1,0,0,2115813,2020
+03/01/2020,away,15204,485,Norfolk St.,10,True,7,6,1,win,7 - 6,4945547,14,1,4.1,0,4,2,2,3,2,0,19,15,1,0,0,0,1,0,0,0,0,0,1,65,4,6,0,0,0,1,1,0,2115813,2020
+03/08/2020,away,15204,381,Manhattan,9,True,8,2,6,win,8 - 2,4954191,14,1,4.2,0,3,1,1,3,2,0,19,14,1,0,0,0,0,2,0,0,0,0,0,61,4,5,0,0,0,1,1,0,2115813,2020

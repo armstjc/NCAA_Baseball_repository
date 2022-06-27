@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/25/2013,home,11320,576,Rider,9,True,0,2,-2,loss,0 - 2,659866,485,1,4.0,3,0,0,2,6,0,19,17,0,0,0,1,0,0,0,0,0,0,0,79,3,3,0,0,0,1,0,1200462,2013
+03/03/2013,away,11320,632,Savannah St.,9,True,6,16,-10,loss,6 - 16,660944,485,1,3.0,7,8,2,3,1,0,22,16,0,0,0,2,0,0,0,0,0,1,0,0,6,1,0,1,0,1,1,1200462,2013
+03/07/2013,away,11320,489,N.C. Central,9,True,1,6,-5,loss,1 - 6,661741,485,1,2.0,3,3,3,0,2,0,10,9,2,0,0,0,0,1,0,0,0,0,0,0,3,1,0,1,0,1,1,1200462,2013
+03/10/2013,home,11320,748,Wagner,9,True,7,3,4,win,7 - 3,662808,485,1,0.2,2,1,0,1,1,0,5,4,0,0,0,1,0,0,0,0,0,0,0,24,1,0,0,0,0,2,1,1200462,2013

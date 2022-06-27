@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/19/2013,away,11320,7,Alabama St.,9,True,0,4,-4,loss,0 - 4,658709,406,1,1.0,2,1,1,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,8,2,1,0,0,0,4,0,1104532,2013
+02/27/2013,home,11320,228,Florida A&M,9,True,11,1,10,win,11 - 1,660024,406,1,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,6,0,1104532,2013
+03/05/2013,away,11320,255,Georgia Tech,9,True,9,16,-7,loss,9 - 16,661422,406,1,0.1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,0,0,6,1,1104532,2013
+03/20/2013,home,11320,254,Georgia St.,9,True,7,13,-6,loss,7 - 13,665323,406,1,1.0,2,2,1,0,1,0,6,6,2,0,0,0,0,0,0,0,0,0,0,20,2,0,0,0,0,7,1,1104532,2013
+05/08/2013,home,11320,14927,Belmont,10,True,4,6,-2,loss,4 - 6,678634,406,1,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,3,1,0,0,0,0,8,0,1104532,2013

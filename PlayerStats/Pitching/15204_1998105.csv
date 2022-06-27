@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,home,15204,439,Monmouth,9,True,5,4,1,win,5 - 4,4930890,83,1,3.2,0,3,2,2,7,4,0,21,13,1,0,0,0,0,1,0,0,0,0,0,0,0,6,0,0,0,1,2,0,1998105,2020
+02/22/2020,away,15204,746,Virginia,9,True,3,14,-11,loss,3 - 14,4934971,83,1,1.1,0,4,5,5,3,1,0,12,8,4,0,0,0,3,1,0,0,0,0,0,42,1,2,0,1,0,1,0,0,1998105,2020
+03/01/2020,home,15204,471,NJIT,9,True,14,23,-9,loss,14 - 23,4961556,83,1,2.1,0,6,7,6,3,2,0,17,11,1,0,0,0,0,2,0,0,0,0,1,0,1,3,0,1,0,1,1,0,1998105,2020
+03/08/2020,home,15204,739,Villanova,10,True,4,6,-2,loss,4 - 6,4954132,83,1,5.0,0,4,3,2,4,7,0,25,19,0,0,0,1,1,1,0,0,0,0,1,109,2,6,0,0,0,1,2,0,1998105,2020

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,home,15204,505,Northern Ky.,9,True,17,3,14,win,17 - 3,4927778,716,1,6.0,0,1,0,0,3,7,0,20,17,0,0,0,0,0,0,0,0,0,0,0,86,4,5,1,0,0,1,1,0,2309206,2020
+02/22/2020,home,15204,366,Louisiana Tech,9,True,7,4,3,win,7 - 4,4937238,716,1,5.0,0,5,4,4,1,4,0,20,18,1,0,0,1,0,0,0,0,0,1,0,87,5,5,0,0,0,1,1,0,2309206,2020
+02/29/2020,away,15204,235,Florida,9,True,7,10,-3,loss,7 - 10,4944305,716,1,6.0,0,10,4,3,2,5,0,31,27,1,0,0,1,1,1,0,0,0,0,1,103,4,7,0,0,0,1,1,0,2309206,2020
+03/07/2020,home,15204,625,Samford,9,True,5,3,2,win,5 - 3,4951806,716,1,6.0,0,3,1,1,5,1,0,26,19,2,0,0,0,0,2,0,0,0,0,0,101,7,8,1,0,0,1,1,0,2309206,2020

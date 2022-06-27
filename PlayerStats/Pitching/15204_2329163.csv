@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,463,Nebraska,9,True,7,2,5,win,7 - 2,4930060,51,1,2.1,0,2,0,0,2,2,0,10,7,0,0,0,0,0,1,0,0,0,0,0,35,2,1,0,0,0,2,0,0,2329163,2020
+02/22/2020,home,15204,527,Oral Roberts,9,True,7,4,3,win,7 - 4,4935820,51,1,6.1,0,5,4,4,1,4,0,25,24,0,0,0,3,0,0,0,0,0,0,0,82,10,5,1,0,0,1,2,0,2329163,2020
+02/29/2020,home,15204,365,LSU,9,True,6,4,2,win,6 - 4,4944739,51,1,5.2,0,5,3,3,2,8,0,22,20,1,0,0,1,2,0,0,0,0,0,0,85,6,1,0,0,0,1,0,0,2329163,2020
+03/07/2020,away,15204,90,Cal Poly,9,True,8,6,2,win,8 - 6,4953361,51,1,3.2,0,7,4,4,3,3,0,20,17,1,0,0,0,0,0,0,0,0,0,0,80,2,5,0,0,0,1,0,0,2329163,2020

@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,77,BYU,9,True,1,7,-6,loss,1 - 7,4926518,260,1,2.0,0,3,4,4,3,1,0,11,6,0,0,0,0,1,0,1,2,2,0,2,0,1,3,0,0,0,3,0,0,1976049,2020
+02/17/2020,home,15204,473,New Mexico,9,True,5,4,1,win,5 - 4,4931122,260,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,4,0,0,1976049,2020
+02/21/2020,away,15204,31,Arkansas,9,True,3,9,-6,loss,3 - 9,4934447,260,1,1.0,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,3,1,0,1976049,2020
+02/23/2020,away,15204,31,Arkansas,9,True,5,9,-4,loss,5 - 9,4937973,260,1,0.2,0,4,3,2,0,1,0,6,6,2,0,0,0,0,0,0,0,0,0,0,20,0,1,0,0,0,3,0,0,1976049,2020
+03/06/2020,home,15204,101,CSUN,10,True,3,4,-1,loss,3 - 4,4951152,260,1,3.0,0,2,0,0,3,3,0,13,10,0,0,0,0,2,0,1,0,0,0,0,0,2,3,0,0,0,2,2,0,1976049,2020

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/16/2013,home,11320,609,Saint Louis,9,True,4,11,-7,loss,4 - 11,658188,527,1,0.2,1,2,1,2,0,0,5,2,0,0,0,1,0,0,0,0,0,0,1,18,0,2,0,0,0,5,0,1422893,2013
+03/05/2013,away,11320,782,Wichita St.,9,True,1,8,-7,loss,1 - 8,661439,527,1,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,1,0,0,0,14,2,0,0,0,0,4,1,1422893,2013
+03/16/2013,home,11320,97,Cal St. Fullerton,9,True,2,6,-4,loss,2 - 6,664158,527,1,1.1,0,0,0,1,2,0,6,4,0,0,0,0,0,1,0,1,0,0,0,24,1,1,0,0,0,6,0,1422893,2013
+03/20/2013,away,11320,522,Oklahoma,9,True,8,15,-7,loss,8 - 15,665347,527,1,1.1,3,4,4,2,1,0,9,6,2,0,1,0,0,0,0,0,0,0,1,31,0,3,0,0,0,4,0,1422893,2013

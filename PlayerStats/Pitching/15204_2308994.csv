@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,439,Monmouth,12,True,3,4,-1,loss,3 - 4,4956950,471,1,2.0,0,4,1,0,0,1,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,4,0,0,2308994,2020
+02/16/2020,home,15204,83,Bucknell,10,True,8,5,3,win,8 - 5,4949323,471,1,0.2,0,0,2,2,2,1,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,2308994,2020
+02/23/2020,away,15204,363,Longwood,9,True,17,5,12,win,17 - 5,4937627,471,1,3.0,0,2,2,1,2,3,0,14,11,0,0,0,0,0,0,0,0,0,0,1,53,1,5,0,0,0,1,0,0,2308994,2020
+02/29/2020,home,15204,83,Bucknell,9,True,14,2,12,win,14 - 2,4946816,471,1,4.0,0,1,0,0,0,5,0,13,13,1,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,1,2,2,0,2308994,2020
+03/08/2020,away,15204,536,UTRGV,9,True,2,10,-8,loss,2 - 10,4953982,471,1,1.2,0,6,7,7,2,0,0,15,11,2,2,0,0,0,2,0,0,0,0,0,59,1,4,0,1,0,1,0,0,2308994,2020

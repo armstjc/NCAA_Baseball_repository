@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/20/2013,home,11320,463,Nebraska,9,True,10,4,6,win,10 - 4,665341,97,1,1.1,1,1,1,1,0,0,6,5,0,0,1,0,0,0,0,2,0,0,0,18,2,2,0,0,0,3,0,1302480,2013
+04/13/2013,home,11320,104,UC Santa Barbara,9,True,10,2,8,win,10 - 2,671686,97,1,1.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,1302480,2013
+04/16/2013,away,11320,541,Pepperdine,9,True,8,4,4,win,8 - 4,672964,97,1,0.0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,5,0,1302480,2013
+05/10/2013,away,11320,111,UC Riverside,9,True,14,7,7,win,14 - 7,678807,97,1,0.1,2,2,0,0,0,0,4,4,0,0,0,0,0,0,0,1,1,0,0,14,0,1,0,0,0,4,0,1302480,2013
+05/14/2013,home,11320,110,UCLA,9,True,5,2,3,win,5 - 2,679405,97,1,2.1,1,0,0,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0,0,0,5,2,1,0,0,2,0,1302480,2013

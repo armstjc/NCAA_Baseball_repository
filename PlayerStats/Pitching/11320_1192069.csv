@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/15/2013,home,11320,111,UC Riverside,9,True,6,3,3,win,6 - 3,658084,260,1,2.0,2,3,2,2,1,0,12,8,0,1,0,0,0,0,0,0,0,1,1,0,3,2,0,0,0,2,0,1192069,2013
+02/23/2013,away,11320,534,Pacific,9,True,9,8,1,win,9 - 8,659121,260,1,0.1,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,0,0,3,0,1192069,2013
+02/24/2013,away,11320,534,Pacific,9,True,3,9,-6,loss,3 - 9,659504,260,1,1.1,1,4,0,2,0,0,8,5,0,0,0,0,0,0,0,2,1,1,0,0,3,1,0,1,0,2,0,1192069,2013
+03/12/2013,away,11320,277,Hawaii,9,True,0,2,-2,loss,0 - 2,663191,260,1,1.0,1,0,0,1,2,0,5,4,0,0,0,0,1,0,1,0,0,0,0,21,1,0,0,0,0,3,2,1192069,2013
+03/17/2013,home,11320,629,San Francisco,9,True,3,9,-6,loss,3 - 9,664809,260,1,0.2,2,2,2,1,0,0,5,4,1,0,1,0,0,0,0,1,1,0,0,0,0,2,0,0,0,2,0,1192069,2013
+03/22/2013,home,11320,627,San Diego,9,True,6,2,4,win,6 - 2,665626,260,1,1.2,1,1,1,1,0,0,8,6,0,0,0,1,0,1,0,0,0,0,0,0,2,3,0,0,0,2,0,1192069,2013

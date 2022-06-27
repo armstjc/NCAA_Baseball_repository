@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,434,Missouri,9,True,9,8,1,win,9 - 8,4930596,315,1,1.2,0,5,5,5,4,3,0,14,9,1,0,0,0,0,1,0,0,0,0,0,65,0,1,0,0,0,1,1,0,2136195,2020
+02/23/2020,home,15204,129,Central Mich.,11,True,1,2,-1,loss,1 - 2,4937827,315,1,5.2,0,3,1,1,2,4,0,21,17,0,1,0,0,0,1,0,0,0,1,0,74,3,8,0,0,0,1,1,0,2136195,2020
+03/01/2020,home,15204,1092,Gardner-Webb,9,True,15,6,9,win,15 - 6,4945888,315,1,5.0,0,7,4,4,0,5,0,22,22,1,0,0,1,1,0,0,0,0,0,0,87,8,2,1,0,0,1,2,0,2136195,2020
+03/08/2020,away,15204,201,Eastern Ill.,11,True,4,5,-1,loss,4 - 5,4954872,315,1,5.0,0,7,2,1,2,4,0,24,21,1,0,0,0,0,1,0,0,0,0,0,0,5,5,0,0,0,1,1,0,2136195,2020

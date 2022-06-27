@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/10/2013,away,11320,2697,Hawaii Hilo,9,True,15,0,15,win,15 - 0,662875,30095,1,1.0,1,0,0,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,23,0,1,0,0,0,4,2,1308931,2013
+03/22/2013,home,11320,30123,Academy of Art,9,True,5,2,3,win,5 - 2,665805,30095,1,1.2,2,1,1,1,0,0,8,6,0,0,0,0,0,0,0,3,1,1,0,26,4,1,0,0,0,2,0,1308931,2013
+03/27/2013,home,11320,2697,Hawaii Hilo,9,True,4,7,-3,loss,4 - 7,667204,30095,1,1.0,2,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,7,2,0,0,0,0,2,0,1308931,2013
+04/04/2013,home,11320,30175,Holy Names,9,True,15,3,12,win,15 - 3,669260,30095,1,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,2,0,0,0,0,3,0,1308931,2013
+04/13/2013,home,11320,1104,Grand Canyon,9,True,10,11,-1,loss,10 - 11,671775,30095,1,1.1,2,3,2,2,0,0,8,5,0,0,0,0,0,0,0,0,0,1,0,28,3,1,0,0,0,3,0,1308931,2013

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,366,Louisiana Tech,9,True,0,10,-10,loss,0 - 10,4930337,671,1,1.1,0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,0,3,0,0,0,2,0,0,1979502,2020
+02/19/2020,home,15204,718,Tulane,9,True,6,9,-3,loss,6 - 9,4932886,671,1,1.2,0,5,8,8,0,0,0,13,9,2,0,0,1,0,3,0,0,0,0,1,31,4,1,0,1,0,1,0,0,1979502,2020
+02/26/2020,home,15204,508,Northwestern St.,9,True,8,10,-2,loss,8 - 10,4940481,671,1,0.2,0,3,2,2,0,1,0,5,5,0,0,0,0,0,0,0,1,1,0,0,17,1,0,0,0,0,3,0,0,1979502,2020
+03/03/2020,away,15204,574,Rice,9,True,11,2,9,win,11 - 2,4948424,671,1,0.2,0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1979502,2020

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,725,Army West Point,9,True,1,2,-1,loss,1 - 2,4926050,193,1,4.0,0,4,2,1,1,2,0,19,17,1,0,0,0,0,1,0,0,0,0,0,71,7,3,0,1,0,1,0,0,1977231,2020
+02/21/2020,home,15204,167,Cornell,9,True,8,0,8,win,8 - 0,4933895,193,1,9.0,1,0,0,0,0,15,1,27,27,0,0,0,0,0,0,0,0,0,0,0,94,10,2,1,0,0,1,7,0,1977231,2020
+02/28/2020,home,15204,559,Purdue,9,True,5,1,4,win,5 - 1,4942044,193,1,7.0,0,6,1,1,0,11,0,27,25,4,0,0,0,0,1,0,0,0,1,0,97,6,4,1,0,0,1,1,0,1977231,2020
+03/06/2020,home,15204,234,Florida St.,9,True,2,1,1,win,2 - 1,4951452,193,1,7.0,0,1,0,0,1,12,0,24,23,0,0,0,0,1,0,0,0,0,0,0,102,2,8,1,0,0,1,5,0,1977231,2020

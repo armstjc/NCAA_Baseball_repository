@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,away,15204,28600,Lipscomb,9,True,10,15,-5,loss,10 - 15,4926019,71,1,2.0,0,3,2,2,1,0,0,11,9,0,0,0,0,0,0,0,0,0,1,0,37,2,4,0,0,0,4,0,0,1887419,2020
+02/22/2020,away,15204,460,UNCW,9,True,2,5,-3,loss,2 - 5,4938383,71,1,0.1,0,2,1,1,0,0,0,3,3,1,1,0,0,0,0,0,2,2,0,0,13,1,0,0,0,0,4,0,0,1887419,2020
+03/01/2020,away,15204,454,Murray St.,9,True,5,25,-20,loss,5 - 25,4945828,71,1,0.1,0,5,3,3,0,0,0,6,5,2,0,0,0,1,0,0,0,0,0,1,22,0,1,0,0,0,5,0,0,1887419,2020
+03/10/2020,away,15204,817,Youngstown St.,9,True,2,1,1,win,2 - 1,4956707,71,1,1.0,0,2,0,0,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,24,2,1,0,0,0,2,0,0,1887419,2020

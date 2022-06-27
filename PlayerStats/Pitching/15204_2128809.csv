@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,464,Omaha,9,True,4,5,-1,loss,4 - 5,4931577,509,1,5.0,0,8,1,1,0,4,0,21,21,1,0,0,0,0,0,0,0,0,0,0,86,6,2,0,0,0,1,0,0,2128809,2020
+02/21/2020,away,15204,648,South Carolina,10,True,5,2,3,win,5 - 2,4933946,509,1,5.0,0,3,1,1,3,6,0,22,17,2,0,0,0,0,2,0,0,0,0,0,79,5,3,0,0,0,1,1,0,2128809,2020
+02/28/2020,away,15204,651,South Fla.,9,True,1,2,-1,loss,1 - 2,4942581,509,1,5.0,0,2,0,0,2,5,0,20,17,1,0,0,0,0,1,0,0,0,0,0,76,5,4,0,0,0,1,1,0,2128809,2020
+03/06/2020,home,15204,769,Western Caro.,9,True,4,0,4,win,4 - 0,4950363,509,1,6.0,0,4,0,0,0,5,0,20,19,1,0,0,0,0,1,0,0,0,0,0,64,8,2,1,0,0,1,2,0,2128809,2020

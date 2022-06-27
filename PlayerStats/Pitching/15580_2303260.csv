@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/19/2021,home,15580,402,McNeese,9,True,10,6,4,win,10 - 6,5002622,8,1,5.0,0,4,0,0,0,8,0,19,19,1,0,1,0,0,0,0,0,0,0,0,74,3,4,1,0,0,1,2,0,2303260,2021
+04/17/2021,home,15580,37,Auburn,9,True,10,9,1,win,10 - 9,5059554,8,1,1.0,0,1,1,1,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,25,2,0,0,0,0,1,0,0,2303260,2021
+05/16/2021,away,15580,365,LSU,9,True,5,13,-8,loss,5 - 13,5079216,8,1,1.0,0,3,2,2,0,3,0,6,6,1,0,0,1,0,0,0,0,0,0,0,22,0,0,0,1,0,1,1,0,2303260,2021

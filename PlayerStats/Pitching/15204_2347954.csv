@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,129,Central Mich.,9,True,10,8,2,win,10 - 8,4961121,465,1,4.0,0,5,4,3,4,5,0,22,17,0,0,0,0,0,1,0,0,0,0,0,88,1,5,0,0,0,1,1,1,2347954,2020
+02/23/2020,home,15204,8,Alabama,9,True,1,5,-4,loss,1 - 5,4937576,465,1,6.2,0,5,4,4,3,5,0,28,25,1,0,0,2,0,0,1,0,0,0,0,97,4,10,0,1,0,1,1,0,2347954,2020
+03/01/2020,home,15204,169,Creighton,9,True,12,3,9,win,12 - 3,4946123,465,1,7.1,0,6,2,2,1,9,0,27,26,1,1,0,1,0,0,0,0,0,0,0,94,7,3,1,0,0,1,0,0,2347954,2020
+03/08/2020,home,15204,603,St. John's (NY),9,True,16,2,14,win,16 - 2,4954784,465,1,6.0,0,5,2,2,3,4,0,25,22,1,0,0,1,0,0,0,0,0,0,0,89,4,9,1,0,0,1,2,0,2347954,2020

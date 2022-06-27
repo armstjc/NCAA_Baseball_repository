@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/09/2013,home,11320,314,Jackson St.,9,True,13,1,12,win,13 - 1,670929,655,1,6.0,4,1,1,2,4,0,22,19,0,0,0,0,0,0,0,0,0,1,0,73,9,3,1,0,0,1,0,1416934,2013
+04/16/2013,home,11320,474,New Orleans,9,True,7,2,5,win,7 - 2,673011,655,1,2.0,2,1,1,1,5,0,10,9,0,0,0,3,0,0,0,0,0,0,0,39,0,1,0,0,0,2,1,1416934,2013
+05/07/2013,away,11320,646,South Alabama,9,True,0,9,-9,loss,0 - 9,678556,655,1,1.0,2,1,1,2,2,0,7,5,0,0,0,0,0,0,0,0,0,0,0,34,0,1,0,0,0,8,1,1416934,2013
+05/18/2013,away,11320,402,McNeese,9,True,6,4,2,win,6 - 4,679977,655,1,0.2,1,1,1,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,3,0,2,0,0,0,4,0,1416934,2013

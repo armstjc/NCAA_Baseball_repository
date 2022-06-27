@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/01/2014,home,11620,301,Illinois,9,True,1,9,-8,loss,1 - 9,589558,28755,1,1.0,1,2,2,2,2,0,7,4,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,4,1,1310618,2014
+03/30/2014,away,11620,678,Stetson,9,True,9,18,-9,loss,9 - 18,596662,28755,1,1.0,3,3,3,2,0,0,8,6,0,0,0,1,0,0,0,0,0,0,0,24,1,2,0,0,0,7,0,1310618,2014

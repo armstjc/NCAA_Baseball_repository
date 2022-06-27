@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/19/2020,away,15204,287,Houston Baptist,9,True,5,7,-2,loss,5 - 7,4932167,670,1,1.2,0,4,4,4,1,2,0,11,9,2,0,0,1,0,1,0,0,0,0,0,0,1,2,0,1,0,1,2,0,2332155,2020
+03/11/2020,home,15204,553,Prairie View,9,True,11,4,7,win,11 - 4,4957882,670,1,3.0,0,1,0,0,3,3,0,12,9,0,0,0,0,0,0,0,0,0,0,0,46,1,4,1,0,0,1,1,0,2332155,2020

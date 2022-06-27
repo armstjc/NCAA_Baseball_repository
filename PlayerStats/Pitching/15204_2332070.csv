@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,748,Wagner,9,True,7,3,4,win,7 - 3,4929740,485,1,2.2,0,1,0,0,0,4,0,8,8,0,0,0,0,0,0,0,1,0,0,0,31,1,2,1,0,0,3,0,0,2332070,2020
+02/22/2020,home,15204,444,Morehead St.,9,True,6,9,-3,loss,6 - 9,4935803,485,1,1.0,0,1,0,0,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,17,0,1,0,0,0,5,1,0,2332070,2020
+03/01/2020,home,15204,14,UAlbany,10,True,6,7,-1,loss,6 - 7,4945547,485,1,2.0,0,2,1,1,1,2,0,9,8,0,0,0,0,1,0,0,0,0,0,0,31,1,3,0,1,0,3,0,0,2332070,2020
+03/07/2020,away,15204,334,Kentucky,9,True,1,11,-10,loss,1 - 11,4953253,485,1,1.0,0,2,0,0,0,1,0,6,5,0,0,0,0,0,1,0,0,0,0,0,26,0,2,0,0,0,4,1,0,2332070,2020
+03/10/2020,away,15204,523,Old Dominion,10,True,8,4,4,win,8 - 4,4957148,485,1,0.1,0,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,21,0,1,0,0,0,3,0,0,2332070,2020

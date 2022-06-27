@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,204,Eastern Mich.,9,True,13,6,7,win,13 - 6,4930062,43,1,4.0,0,6,4,4,1,1,0,20,16,2,0,0,0,0,1,0,0,0,1,1,59,4,7,0,0,0,1,0,0,1867223,2020
+02/23/2020,home,15204,219,Evansville,9,True,18,11,7,win,18 - 11,4937936,43,1,3.2,0,7,5,5,6,3,0,24,18,2,0,0,0,0,0,1,0,0,0,0,91,4,4,0,0,0,1,1,0,1867223,2020
+03/01/2020,away,15204,316,Jacksonville,9,True,0,7,-7,loss,0 - 7,4945588,43,1,5.1,0,4,1,0,2,5,0,21,18,0,0,0,0,1,1,0,3,0,0,0,84,5,4,0,0,0,2,3,0,1867223,2020
+03/08/2020,home,15204,454,Murray St.,9,True,2,20,-18,loss,2 - 20,4954404,43,1,4.0,0,7,8,7,2,1,0,22,18,2,0,0,2,0,2,0,1,0,0,0,79,3,5,0,0,0,2,0,0,1867223,2020

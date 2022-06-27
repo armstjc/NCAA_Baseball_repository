@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,away,15204,193,Duke,9,True,0,7,-7,loss,0 - 7,4929872,725,1,1.0,0,0,0,0,3,3,0,7,3,0,0,0,0,0,1,0,0,0,0,0,31,0,0,0,0,0,4,0,0,1879826,2020
+02/29/2020,home,15204,721,Air Force,9,True,3,7,-4,loss,3 - 7,4950902,725,1,0.2,0,2,1,1,1,1,0,5,3,0,0,0,0,1,0,0,2,2,1,0,16,1,0,0,0,0,4,0,0,1879826,2020
+03/10/2020,home,15204,606,Saint Joseph's,9,True,5,4,1,win,5 - 4,4956466,725,1,0.1,0,0,1,1,0,1,0,3,1,0,0,0,0,0,2,0,0,0,0,0,9,0,0,0,0,0,2,0,0,1879826,2020

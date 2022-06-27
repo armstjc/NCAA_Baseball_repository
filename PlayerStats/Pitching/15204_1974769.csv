@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,away,15204,314,Jackson St.,9,True,19,8,11,win,19 - 8,4994836,659,1,4.2,0,7,3,3,2,4,0,23,21,0,0,1,0,0,0,0,1,0,0,0,0,3,5,0,0,0,2,2,0,1974769,2020
+02/23/2020,home,15204,1356,Seattle U,9,True,2,9,-7,loss,2 - 9,4937629,659,1,3.2,0,7,4,4,2,2,0,18,16,2,0,0,0,0,0,0,0,0,0,0,50,5,2,0,0,0,3,0,0,1974769,2020
+02/29/2020,away,15204,444,Morehead St.,9,True,7,11,-4,loss,7 - 11,4943766,659,1,2.2,0,1,1,1,1,2,0,10,8,0,0,0,1,1,1,0,1,0,0,0,55,3,2,0,0,0,2,1,0,1974769,2020
+03/08/2020,home,15204,503,NIU,9,True,6,0,6,win,6 - 0,4954363,659,1,4.2,0,2,0,0,0,2,0,15,14,0,0,0,0,0,1,0,3,0,0,0,48,5,5,1,0,0,2,1,0,1974769,2020

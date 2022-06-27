@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,home,15204,14,UAlbany,9,True,15,0,15,win,15 - 0,4929020,29,1,7.0,0,2,0,0,2,10,0,24,22,0,0,0,0,0,0,0,0,0,0,0,96,3,7,1,0,0,1,5,0,1992702,2020
+02/22/2020,home,15204,312,Iowa,9,True,1,4,-3,loss,1 - 4,4936116,29,1,4.2,0,5,4,4,2,5,0,23,20,1,0,0,1,0,1,0,0,0,0,0,79,5,4,0,1,0,1,1,0,1992702,2020
+02/29/2020,home,15204,572,Rhode Island,9,True,19,10,9,win,19 - 10,4944795,29,1,4.2,0,5,7,1,4,5,0,27,23,1,0,0,0,0,0,0,0,0,0,0,109,6,3,0,0,0,1,2,0,1992702,2020
+03/07/2020,home,15204,288,Houston,9,True,1,3,-2,loss,1 - 3,4953275,29,1,5.1,0,6,3,3,1,3,0,22,20,2,0,0,0,0,1,0,0,0,0,0,84,3,8,0,1,0,1,1,0,1992702,2020

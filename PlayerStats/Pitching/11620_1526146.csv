@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/15/2014,away,11620,698,TCU,9,True,1,5,-4,loss,1 - 5,592562,172,1,1.0,0,0,0,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,17,1,1,0,0,0,3,0,1526146,2014
+03/19/2014,home,11620,464,Omaha,9,True,10,3,7,win,10 - 3,593862,172,1,2.0,2,1,1,1,1,0,9,8,0,0,0,0,0,0,0,0,0,0,0,29,4,1,0,0,0,2,0,1526146,2014
+03/22/2014,away,11620,328,Kansas,9,True,7,11,-4,loss,7 - 11,594974,172,1,0.2,2,3,3,2,0,0,6,4,0,0,2,0,0,0,0,2,2,0,0,31,2,0,0,0,0,2,0,1526146,2014

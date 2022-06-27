@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/06/2013,away,11320,463,Nebraska,9,True,5,10,-5,loss,5 - 10,661662,502,1,2.0,1,2,0,1,0,0,9,8,0,0,0,0,0,0,0,0,0,0,0,29,5,0,0,0,0,3,0,1313799,2013
+03/15/2013,away,11320,94,CSU Bakersfield,9,True,0,12,-12,loss,0 - 12,663830,502,1,1.0,1,0,0,1,0,0,5,4,1,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,1313799,2013
+04/14/2013,home,11320,494,North Dakota,9,True,7,23,-16,loss,7 - 23,672459,502,1,1.0,5,3,3,0,0,0,8,7,2,0,0,0,0,0,0,3,3,0,1,28,1,2,0,0,0,8,0,1313799,2013

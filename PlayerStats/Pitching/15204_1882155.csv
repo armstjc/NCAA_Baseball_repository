@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/29/2020,home,15204,222,Fairleigh Dickinson,9,True,20,1,19,win,20 - 1,4944346,327,1,1.0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,9,1,1,0,0,0,2,0,0,1882155,2020
+03/07/2020,away,15204,674,Stanford,9,True,11,1,10,win,11 - 1,4953447,327,1,1.0,0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,18,0,1,0,0,0,3,0,0,1882155,2020
+03/10/2020,home,15204,649,South Dakota St.,9,True,0,4,-4,loss,0 - 4,4957027,327,1,4.0,0,4,4,3,2,4,0,20,17,2,0,0,0,1,1,0,0,0,0,0,63,6,2,0,1,0,1,2,0,1882155,2020

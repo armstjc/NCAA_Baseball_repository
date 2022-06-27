@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/22/2020,home,15204,514,Oakland,9,True,6,5,1,win,6 - 5,4936579,7,1,0.0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,11,0,0,0,0,0,2,0,0,2333489,2020
+03/11/2020,home,15204,735,Valparaiso,9,True,4,2,2,win,4 - 2,4958069,7,1,1.0,0,3,1,1,1,1,0,7,6,2,0,0,0,0,0,0,0,0,0,0,22,1,1,0,0,0,2,1,0,2333489,2020

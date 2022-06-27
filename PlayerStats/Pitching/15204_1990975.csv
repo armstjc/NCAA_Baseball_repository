@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,away,15204,254,Georgia St.,10,True,8,9,-1,loss,8 - 9,4937719,140,1,0.0,0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,4,0,0,1990975,2020
+03/08/2020,home,15204,204,Eastern Mich.,9,True,14,2,12,win,14 - 2,4954239,140,1,1.0,0,1,1,1,1,2,0,5,4,0,0,0,0,2,0,0,0,0,0,0,21,1,0,0,0,0,3,1,0,1990975,2020

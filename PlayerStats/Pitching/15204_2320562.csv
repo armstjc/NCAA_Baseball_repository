@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/23/2020,home,15204,434,Missouri,9,True,4,8,-4,loss,4 - 8,4938051,26172,1,0.2,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,0,0,4,0,0,2320562,2020
+02/25/2020,away,15204,553,Prairie View,9,True,8,4,4,win,8 - 4,4939358,26172,1,0.1,0,1,0,0,1,1,0,3,2,0,0,0,0,0,0,0,1,1,0,0,16,0,0,0,0,0,4,1,0,2320562,2020
+03/01/2020,home,15204,381,Manhattan,10,True,7,6,1,win,7 - 6,4945800,26172,1,2.0,0,3,3,3,1,0,0,9,8,2,0,0,0,0,0,0,3,0,0,0,29,0,5,0,0,0,2,0,0,2320562,2020
+03/10/2020,away,15204,287,Houston Baptist,9,True,6,11,-5,loss,6 - 11,4956723,26172,1,2.0,0,2,1,1,0,1,0,9,8,0,0,0,1,0,1,0,1,1,0,0,32,2,3,0,0,0,4,1,0,2320562,2020

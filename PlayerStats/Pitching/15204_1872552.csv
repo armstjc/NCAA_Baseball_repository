@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/01/2020,away,15204,96,Fresno St.,9,True,3,12,-9,loss,3 - 12,4946339,158,1,2.0,0,5,4,4,1,1,0,12,11,2,1,0,1,0,0,0,0,0,0,0,43,3,2,0,0,0,4,1,0,1872552,2020
+03/08/2020,away,15204,463,Nebraska,9,True,5,12,-7,loss,5 - 12,4954045,158,1,2.0,0,4,4,4,3,1,0,12,9,0,1,0,1,1,0,0,0,0,0,0,49,4,0,0,1,0,1,0,0,1872552,2020

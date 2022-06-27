@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,305,Indiana St.,10,True,10,6,4,win,10 - 6,4929926,518,1,1.0,0,4,2,1,0,2,0,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,5,0,0,1766727,2020
+02/23/2020,away,15204,255,Georgia Tech,9,True,2,12,-10,loss,2 - 12,4937745,518,1,1.1,0,3,1,1,0,3,0,9,9,0,0,0,1,0,0,0,1,1,0,0,38,1,1,0,0,0,4,0,0,1766727,2020
+03/01/2020,away,15204,28600,Lipscomb,9,True,2,4,-2,loss,2 - 4,4945709,518,1,1.0,0,1,1,1,1,2,0,5,4,0,0,0,0,1,0,0,0,0,0,0,27,1,0,0,0,0,3,0,0,1766727,2020
+03/08/2020,home,15204,220,Fairfield,9,True,8,3,5,win,8 - 3,4954947,518,1,1.0,0,0,0,0,2,2,0,6,3,0,0,0,0,0,1,0,0,0,0,0,25,1,0,0,0,0,5,1,0,1766727,2020
+03/11/2020,away,15204,2711,North Florida,9,True,5,9,-4,loss,5 - 9,4957577,518,1,1.0,0,2,1,1,1,3,0,6,5,0,0,0,0,2,0,0,0,0,0,0,25,0,0,0,0,0,3,0,0,1766727,2020

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,away,15204,147,Clemson,9,True,0,1,-1,loss,0 - 1,4928174,355,1,6.0,0,6,1,1,2,3,0,25,21,0,0,0,0,0,1,0,0,0,1,0,0,8,5,0,1,0,1,2,0,1995276,2020
+02/22/2020,home,15204,635,Seton Hall,9,True,3,2,1,win,3 - 2,4936305,355,1,6.1,0,3,1,0,2,6,0,24,22,1,0,0,0,0,0,0,0,0,0,0,97,2,9,1,0,0,1,1,0,1995276,2020
+02/29/2020,home,15204,386,Marist,9,True,6,4,2,win,6 - 4,4943830,355,1,5.1,0,0,4,2,6,5,0,23,15,0,0,0,0,0,1,0,0,0,1,0,95,6,4,0,0,0,1,0,0,1995276,2020
+03/07/2020,home,15204,331,Kent St.,9,True,7,2,5,win,7 - 2,4952935,355,1,5.1,0,5,2,2,3,6,0,26,20,2,0,0,1,0,2,0,0,0,1,0,98,7,3,0,0,0,1,2,0,1995276,2020

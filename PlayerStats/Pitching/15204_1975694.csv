@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,251,Georgetown,9,True,6,16,-10,loss,6 - 16,4929439,726,1,4.2,0,5,7,7,3,7,0,22,18,0,0,0,2,0,1,0,0,0,0,0,0,4,2,0,1,0,1,1,0,1975694,2020
+02/22/2020,home,15204,721,Air Force,9,True,5,4,1,win,5 - 4,4935114,726,1,5.0,0,3,1,1,2,6,0,20,18,0,1,0,0,0,0,0,0,0,0,0,79,4,5,0,0,0,1,0,0,1975694,2020

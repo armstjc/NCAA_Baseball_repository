@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/21/2020,home,15204,368,UMass Lowell,9,True,10,0,10,win,10 - 0,4933773,1068,1,7.0,0,2,0,0,1,11,0,24,22,1,0,0,0,0,0,0,0,0,1,0,95,3,7,1,0,0,1,5,0,1984380,2020
+02/28/2020,home,15204,305,Indiana St.,9,True,0,3,-3,loss,0 - 3,4942137,1068,1,4.1,0,4,1,1,4,5,0,21,16,1,0,0,0,0,1,0,0,0,0,0,94,2,5,0,1,0,1,2,0,1984380,2020
+03/06/2020,home,15204,301,Illinois,9,True,10,6,4,win,10 - 6,4952587,1068,1,5.0,0,8,5,5,3,5,0,25,22,2,0,0,0,1,0,0,0,0,0,0,100,6,3,0,0,0,1,2,0,1984380,2020

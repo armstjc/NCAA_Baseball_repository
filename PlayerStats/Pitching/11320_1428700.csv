@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+05/17/2013,home,11320,649,South Dakota St.,9,True,5,12,-7,loss,5 - 12,679839,464,1,4.2,4,1,1,0,2,0,18,17,1,0,0,0,0,0,0,0,0,0,1,0,3,9,0,0,0,4,0,1428700,2013

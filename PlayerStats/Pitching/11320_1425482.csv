@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/24/2013,home,11320,116,Canisius,9,True,14,2,12,win,14 - 2,659785,456,1,1.0,0,1,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1425482,2013
+03/03/2013,away,11320,141,The Citadel,9,True,5,7,-2,loss,5 - 7,661076,456,1,2.1,1,0,0,1,1,0,8,7,0,0,0,0,0,0,0,1,0,0,0,34,2,3,0,0,0,3,0,1425482,2013
+03/06/2013,away,11320,254,Georgia St.,9,True,5,13,-8,loss,5 - 13,661607,456,1,2.2,3,6,4,3,1,0,17,11,1,0,0,0,0,2,0,0,0,1,0,0,4,3,0,1,0,1,0,1425482,2013
+03/13/2013,home,11320,198,ETSU,9,True,9,20,-11,loss,9 - 20,663405,456,1,1.1,4,5,5,2,0,0,11,8,2,0,0,1,2,1,0,0,0,0,0,0,3,1,0,0,0,1,0,1425482,2013

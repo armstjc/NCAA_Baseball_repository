@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,683,Stony Brook,9,True,4,3,1,win,4 - 3,4929755,670,1,4.1,0,4,0,0,1,8,0,18,17,0,0,0,0,0,0,0,0,0,0,0,74,2,2,0,0,0,1,1,0,1767875,2020
+02/23/2020,home,15204,346,Lamar University,9,True,8,7,1,win,8 - 7,4937811,670,1,1.1,0,4,6,6,4,2,0,12,7,1,0,0,1,0,0,0,0,0,0,1,40,1,1,0,0,0,1,0,0,1767875,2020
+03/01/2020,away,15204,288,Houston,9,True,12,4,8,win,12 - 4,4946103,670,1,3.0,0,1,3,3,4,3,0,15,10,0,0,0,0,1,1,1,0,0,0,0,55,2,4,0,0,0,1,2,0,1767875,2020

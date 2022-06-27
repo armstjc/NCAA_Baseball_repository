@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,away,15204,678,Stetson,9,True,1,4,-3,loss,1 - 4,4929769,721,1,4.1,0,7,4,4,1,2,0,20,19,4,0,0,1,2,0,0,0,0,0,0,65,7,3,0,1,0,1,0,0,2127305,2020
+02/22/2020,away,15204,726,Navy,9,True,1,3,-2,loss,1 - 3,4936011,721,1,7.0,0,5,0,0,0,5,0,26,26,2,0,0,0,0,0,0,0,0,0,0,91,6,9,0,0,0,1,2,0,2127305,2020
+02/29/2020,home,15204,725,Army West Point,9,True,7,3,4,win,7 - 3,4950902,721,1,5.0,0,6,3,3,3,2,0,23,20,4,0,0,1,0,0,0,0,0,0,0,79,8,4,0,0,0,1,0,0,2127305,2020
+03/07/2020,home,15204,649,South Dakota St.,9,True,7,9,-2,loss,7 - 9,4952690,721,1,5.2,0,8,5,5,1,4,0,24,22,4,1,1,0,0,0,0,0,0,0,1,80,5,6,0,0,0,1,1,0,2127305,2020

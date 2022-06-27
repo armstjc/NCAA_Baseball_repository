@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/22/2020,home,15204,136,Chicago St.,9,True,6,2,4,win,6 - 2,4936005,172,1,5.0,0,4,1,1,0,8,0,19,17,0,0,0,0,0,2,0,0,0,0,0,61,2,3,1,0,0,2,3,0,2119905,2020
+02/29/2020,away,15204,746,Virginia,9,True,4,12,-8,loss,4 - 12,4943409,172,1,2.2,0,4,2,2,2,0,0,13,11,0,1,0,0,1,0,0,0,0,0,0,39,2,5,0,0,0,2,0,0,2119905,2020

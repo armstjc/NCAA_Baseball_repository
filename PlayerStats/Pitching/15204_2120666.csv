@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/19/2020,home,15204,346,Lamar University,9,True,6,1,5,win,6 - 1,4932397,703,1,1.0,0,2,0,0,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,20,1,1,0,0,0,6,0,0,2120666,2020
+02/23/2020,home,15204,66,Boise St.,10,True,7,5,2,win,7 - 5,4937815,703,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,0,6,0,0,2120666,2020
+03/01/2020,home,15204,434,Missouri,9,True,8,9,-1,loss,8 - 9,4946538,703,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,0,7,0,0,2120666,2020

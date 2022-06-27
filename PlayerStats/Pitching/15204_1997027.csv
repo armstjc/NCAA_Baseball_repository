@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,away,15204,346,Lamar University,9,True,3,7,-4,loss,3 - 7,4926349,572,1,0.2,0,1,1,1,0,0,0,4,4,0,0,0,0,0,0,0,2,2,0,0,16,0,2,0,1,0,2,0,0,1997027,2020
+02/21/2020,away,15204,392,Maryland,9,True,3,9,-6,loss,3 - 9,4936421,572,1,0.2,0,1,1,1,0,0,0,5,3,0,0,0,0,0,2,0,2,2,0,0,17,1,1,0,0,0,2,0,0,1997027,2020
+02/29/2020,away,15204,29,Arizona,9,True,10,19,-9,loss,10 - 19,4944795,572,1,2.2,0,2,4,0,1,0,0,15,12,1,0,0,0,0,2,0,1,1,0,0,47,5,2,0,0,0,2,0,0,1997027,2020

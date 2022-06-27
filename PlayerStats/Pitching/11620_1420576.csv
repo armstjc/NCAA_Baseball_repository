@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/01/2014,home,11620,301,Illinois,9,True,1,9,-8,loss,1 - 9,589558,28755,1,2.0,1,0,0,1,1,0,8,6,0,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,5,0,1420576,2014
+03/15/2014,home,11620,228,Florida A&M,9,True,15,2,13,win,15 - 2,592564,28755,1,1.0,1,0,0,0,3,0,5,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,1420576,2014
+03/22/2014,away,11620,10411,USC Upstate,9,True,17,5,12,win,17 - 5,594881,28755,1,0.1,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,10,0,1,0,0,0,3,0,1420576,2014
+03/30/2014,away,11620,678,Stetson,9,True,9,18,-9,loss,9 - 18,596662,28755,1,0.0,1,0,0,1,0,0,2,1,1,0,0,0,0,0,0,1,1,0,0,8,0,0,0,0,0,5,0,1420576,2014

@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,away,15204,630,San Jose St.,9,True,13,2,11,win,13 - 2,4929060,631,1,2.0,0,3,2,2,0,2,0,9,9,0,0,0,1,0,0,0,0,0,0,0,0,2,2,0,0,0,3,0,0,2332028,2020
+02/23/2020,away,15204,257,Georgia,9,True,8,4,4,win,8 - 4,4937678,631,1,1.0,0,2,2,2,0,0,0,6,5,1,0,0,0,1,1,0,0,0,0,0,17,2,1,0,0,0,4,0,0,2332028,2020
+03/01/2020,away,15204,102,Sacramento St.,9,True,1,6,-5,loss,1 - 6,4946097,631,1,1.0,0,1,1,1,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,17,1,1,0,0,0,3,0,0,2332028,2020
+03/03/2020,home,15204,90,Cal Poly,9,True,8,5,3,win,8 - 5,4948301,631,1,0.2,0,0,1,0,2,0,0,5,1,0,0,0,0,0,1,0,0,0,0,1,23,0,2,0,0,0,4,0,0,2332028,2020
+03/08/2020,home,15204,94,CSU Bakersfield,9,True,8,0,8,win,8 - 0,4954539,631,1,2.0,0,2,0,0,2,1,0,9,7,0,0,0,0,0,0,0,0,0,0,0,41,0,4,0,0,0,2,0,0,2332028,2020

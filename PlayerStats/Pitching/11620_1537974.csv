@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/02/2014,away,11620,228,Florida A&M,9,True,11,6,5,win,11 - 6,589661,61,1,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,1537974,2014
+03/16/2014,home,11620,488,N.C. A&T,9,True,8,12,-4,loss,8 - 12,593242,61,1,0.0,2,1,1,1,0,0,3,2,0,0,0,0,0,0,0,2,2,0,0,11,0,0,0,0,0,2,0,1537974,2014
+04/01/2014,away,11620,231,FIU,9,True,4,8,-4,loss,4 - 8,596973,61,1,0.1,0,1,1,2,0,0,4,2,0,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,4,0,1537974,2014
+04/09/2014,away,11620,316,Jacksonville,9,True,3,4,-1,loss,3 - 4,599386,61,1,0.1,1,2,1,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,15,0,1,0,0,0,2,0,1537974,2014
+04/15/2014,away,11620,2711,North Florida,9,True,1,12,-11,loss,1 - 12,601330,61,1,2.0,3,1,1,0,0,0,9,8,0,0,0,0,0,0,0,3,3,0,1,30,3,3,0,0,0,3,0,1537974,2014

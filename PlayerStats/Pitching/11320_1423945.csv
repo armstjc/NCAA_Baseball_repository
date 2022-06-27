@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/01/2013,away,11320,363,Longwood,9,True,2,5,-3,loss,2 - 5,660169,86,1,2.0,1,0,0,1,4,0,8,7,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,1423945,2013
+03/09/2013,away,11320,404,Memphis,9,True,1,9,-8,loss,1 - 9,662328,86,1,1.0,1,1,1,0,0,0,5,3,1,0,0,0,0,1,0,0,0,0,1,18,0,3,0,0,0,3,0,1423945,2013
+03/12/2013,away,11320,14927,Belmont,9,True,2,9,-7,loss,2 - 9,663172,86,1,3.0,4,3,3,1,0,0,16,12,1,0,1,0,0,2,0,0,0,0,1,0,4,5,0,0,0,2,0,1423945,2013
+03/16/2013,home,11320,514,Oakland,9,True,3,8,-5,loss,3 - 8,664613,86,1,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1423945,2013
+03/26/2013,away,11320,116,Canisius,9,True,5,6,-1,loss,5 - 6,666856,86,1,1.1,1,1,1,3,0,0,8,4,0,0,0,0,0,0,0,2,1,0,1,38,2,2,0,1,0,3,0,1423945,2013

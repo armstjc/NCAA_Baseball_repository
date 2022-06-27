@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/21/2020,home,15204,768,West Virginia,9,True,1,7,-6,loss,1 - 7,4933786,1157,1,2.0,0,0,0,0,0,1,0,6,6,0,0,0,0,0,0,0,0,0,0,0,26,5,0,0,0,0,3,0,0,1995083,2020
+02/25/2020,away,15204,257,Georgia,9,True,1,15,-14,loss,1 - 15,4939393,1157,1,2.0,0,1,1,1,0,1,0,7,7,0,0,0,1,0,0,0,0,0,0,0,24,1,4,0,0,0,3,0,0,1995083,2020
+02/28/2020,home,15204,540,Penn,9,True,7,10,-3,loss,7 - 10,4947494,1157,1,0.2,0,2,1,1,0,2,0,4,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,1995083,2020
+03/06/2020,home,15204,80,Brown,9,True,5,19,-14,loss,5 - 19,4950820,1157,1,0.0,0,0,3,3,2,0,0,3,0,0,0,0,0,0,1,0,3,3,0,0,12,0,0,0,0,0,3,0,0,1995083,2020
+03/10/2020,home,15204,315,Jacksonville St.,15,True,10,14,-4,loss,10 - 14,4957121,1157,1,0.2,0,3,2,0,0,1,0,5,5,1,0,0,0,0,0,0,1,1,0,0,15,1,0,0,0,0,7,0,0,1995083,2020

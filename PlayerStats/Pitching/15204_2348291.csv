@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,456,UNC Asheville,9,True,15,1,14,win,15 - 1,4930054,625,1,1.0,0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,0,2348291,2020
+02/20/2020,away,15204,14927,Belmont,9,True,4,9,-5,loss,4 - 9,4933112,625,1,1.0,0,1,2,0,2,1,0,7,5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,0,2348291,2020
+02/23/2020,away,15204,28600,Lipscomb,9,True,7,3,4,win,7 - 3,4937809,625,1,0.1,0,1,1,1,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,3,0,0,2348291,2020
+03/01/2020,home,15204,505,Northern Ky.,9,True,10,5,5,win,10 - 5,4947010,625,1,2.0,0,1,1,1,2,1,0,9,5,0,0,0,0,1,0,0,0,0,1,1,0,2,3,1,0,0,3,0,0,2348291,2020
+03/10/2020,home,15204,6,Alabama A&M,9,True,5,1,4,win,5 - 1,4956832,625,1,1.0,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,0,2348291,2020

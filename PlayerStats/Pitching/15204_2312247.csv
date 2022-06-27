@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,away,15204,457,North Carolina,9,True,3,15,-12,loss,3 - 15,4926886,419,1,2.0,0,1,0,0,0,1,0,7,7,0,0,0,0,2,0,0,0,0,0,0,31,2,3,0,0,0,4,0,0,2312247,2020
+02/26/2020,away,15204,8,Alabama,9,True,6,12,-6,loss,6 - 12,4940902,419,1,0.0,0,2,3,3,0,0,0,3,2,0,0,1,0,1,1,0,0,0,0,0,8,0,0,0,0,0,5,0,0,2312247,2020
+03/06/2020,away,15204,149,Coastal Carolina,9,True,6,13,-7,loss,6 - 13,4950887,419,1,3.0,0,3,2,2,2,3,0,13,11,0,0,0,0,0,0,0,3,3,0,0,40,3,2,0,0,0,3,1,0,2312247,2020
+03/11/2020,home,15204,404,Memphis,9,True,2,1,1,win,2 - 1,4961818,419,1,2.2,0,1,0,0,1,2,0,10,9,0,0,0,0,0,0,0,0,0,0,0,48,4,2,0,0,0,1,0,0,2312247,2020

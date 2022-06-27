@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/17/2013,home,11320,539,Penn St.,9,True,9,7,2,win,9 - 7,658496,198,1,0.2,3,2,2,0,1,0,5,5,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,1094134,2013
+02/26/2013,away,11320,694,Tennessee,9,True,7,9,-2,loss,7 - 9,659928,198,1,1.0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,1,0,1094134,2013

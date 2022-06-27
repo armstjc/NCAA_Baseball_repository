@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,away,15204,101,CSUN,9,True,3,7,-4,loss,3 - 7,4928739,629,1,0.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,7,0,0,0,0,0,4,1,0,2131516,2020
+02/25/2020,away,15204,630,San Jose St.,9,True,10,13,-3,loss,10 - 13,4939678,629,1,1.0,0,1,0,0,1,3,0,5,4,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,8,0,0,2131516,2020
+03/03/2020,home,15204,450,Mount St. Mary's,9,True,8,2,6,win,8 - 2,4947971,629,1,1.2,0,0,0,0,2,2,0,8,5,0,0,0,0,0,1,0,0,0,0,0,30,1,2,0,0,0,3,1,0,2131516,2020
+03/07/2020,home,15204,107,California,9,True,1,6,-5,loss,1 - 6,4952933,629,1,0.2,0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,12,0,1,0,0,0,5,1,0,2131516,2020

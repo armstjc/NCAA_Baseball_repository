@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,695,UT Martin,9,True,4,8,-4,loss,4 - 8,4926344,609,1,2.0,0,5,3,3,0,3,0,11,10,0,1,0,1,1,0,0,0,0,0,1,0,2,1,0,0,0,2,0,0,2123408,2020
+02/21/2020,home,15204,519,Ohio,9,True,7,2,5,win,7 - 2,4934217,609,1,1.0,0,0,1,1,3,1,0,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,2123408,2020
+02/26/2020,away,15204,736,Vanderbilt,9,True,2,10,-8,loss,2 - 10,4941435,609,1,1.2,0,5,5,1,2,0,0,13,11,0,0,0,1,0,0,0,0,0,0,0,44,3,2,0,1,0,1,0,0,2123408,2020
+03/03/2020,away,15204,660,SIUE,9,True,11,3,8,win,11 - 3,4948273,609,1,2.0,0,3,1,1,1,3,0,10,9,0,1,0,0,0,0,0,0,0,0,0,33,2,1,0,0,0,1,1,0,2123408,2020

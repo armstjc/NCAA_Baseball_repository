@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/18/2020,home,15204,198,ETSU,9,True,10,3,7,win,10 - 3,4931734,742,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,3,1,0,0,0,0,7,0,0,2303072,2020
+02/28/2020,home,15204,81,Bryant,9,True,15,4,11,win,15 - 4,4941967,742,1,1.0,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,0,0,0,0,4,0,0,2303072,2020
+03/06/2020,away,15204,255,Georgia Tech,9,True,3,4,-1,loss,3 - 4,4951395,742,1,0.2,0,1,0,0,1,2,0,4,3,0,0,0,0,1,0,1,2,1,0,0,10,0,0,0,0,0,7,0,0,2303072,2020
+03/08/2020,away,15204,255,Georgia Tech,10,True,7,6,1,win,7 - 6,4954413,742,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,5,0,0,2303072,2020
+03/11/2020,home,15204,248,George Mason,9,True,5,3,2,win,5 - 3,4957780,742,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,5,2,1,0,0,0,5,0,0,2303072,2020

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,699,Texas Southern,9,True,11,2,9,win,11 - 2,4926161,472,1,7.0,0,3,2,2,0,1,0,26,24,0,0,0,2,0,2,0,0,0,0,0,0,11,9,1,0,0,1,0,0,1884623,2020
+02/21/2020,home,15204,310,Iona,9,True,7,5,2,win,7 - 5,4937964,472,1,5.0,0,8,4,4,1,5,0,23,22,1,0,0,2,1,0,0,0,0,0,0,86,5,4,0,0,0,1,1,0,1884623,2020
+02/28/2020,home,15204,308,Purdue Fort Wayne,9,True,4,2,2,win,4 - 2,4942685,472,1,7.0,0,5,2,2,2,5,0,26,24,0,0,0,0,0,0,0,0,0,0,0,75,12,2,1,0,0,1,0,0,1884623,2020
+03/06/2020,away,15204,697,Texas A&M,9,True,3,8,-5,loss,3 - 8,4951172,472,1,6.0,0,6,5,5,1,9,0,27,26,4,0,0,0,4,0,0,0,0,0,0,94,9,1,0,1,0,1,0,0,1884623,2020

@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,97,Cal St. Fullerton,9,True,1,7,-6,loss,1 - 7,4926659,674,1,1.0,0,2,1,1,1,0,0,6,4,0,1,0,0,0,0,0,0,0,0,1,15,0,3,0,0,0,5,0,0,1996007,2020
+03/06/2020,home,15204,327,Kansas St.,9,True,1,6,-5,loss,1 - 6,4951571,674,1,1.0,0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,1,0,0,0,17,0,2,0,0,0,3,1,0,1996007,2020
+03/07/2020,home,15204,327,Kansas St.,9,True,1,11,-10,loss,1 - 11,4953447,674,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,2,1,0,0,0,5,0,0,1996007,2020

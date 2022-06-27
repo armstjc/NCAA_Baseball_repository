@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,away,15204,706,UTSA,9,True,1,5,-4,loss,1 - 5,4929488,562,1,2.2,0,5,3,3,0,3,0,15,13,1,0,0,0,2,2,0,0,0,0,0,56,2,3,0,1,0,1,1,0,1997864,2020
+02/22/2020,away,15204,317,James Madison,9,True,0,7,-7,loss,0 - 7,4935000,562,1,4.0,0,7,5,5,1,2,0,22,18,1,0,0,2,0,3,0,0,0,0,0,70,3,6,0,1,0,1,1,0,1997864,2020
+03/01/2020,away,15204,741,VMI,9,True,7,14,-7,loss,7 - 14,4946300,562,1,2.1,0,7,10,5,2,2,0,18,14,1,0,1,2,0,1,0,0,0,1,0,0,4,1,0,1,0,1,1,0,1997864,2020
+03/10/2020,away,15204,244,Furman,9,True,8,2,6,win,8 - 2,4956916,562,1,5.0,0,2,1,0,1,2,0,22,19,0,0,0,0,0,1,0,0,0,1,0,79,9,4,1,0,0,1,0,0,1997864,2020

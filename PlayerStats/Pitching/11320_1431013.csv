@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/05/2013,away,11320,473,New Mexico,9,True,3,16,-13,loss,3 - 16,661413,340,1,0.2,2,1,1,1,1,0,6,4,1,0,0,2,0,1,0,3,3,0,0,0,0,1,0,0,0,6,1,1431013,2013
+03/30/2013,home,11320,575,Richmond,9,True,1,22,-21,loss,1 - 22,668034,340,1,1.0,3,0,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,20,0,1,0,0,0,10,2,1431013,2013
+04/10/2013,home,11320,540,Penn,9,True,3,5,-2,loss,3 - 5,671246,340,1,0.2,3,2,2,1,0,0,6,4,0,1,0,0,0,0,1,0,0,1,0,12,2,0,0,1,0,4,0,1431013,2013
+04/12/2013,away,11320,606,Saint Joseph's,9,True,1,12,-11,loss,1 - 12,671489,340,1,2.0,1,2,2,2,1,0,9,6,0,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,2,0,1431013,2013
+05/16/2013,away,11320,249,George Washington,9,True,4,10,-6,loss,4 - 10,679554,340,1,1.2,0,0,0,0,1,0,5,5,0,0,0,1,0,0,0,2,1,0,0,17,2,2,0,0,0,3,0,1431013,2013

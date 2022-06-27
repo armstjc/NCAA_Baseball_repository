@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/16/2013,home,11320,624,Sam Houston,9,True,3,2,1,win,3 - 2,658408,669,1,7.0,6,1,1,1,9,0,28,26,1,0,0,0,0,1,0,0,0,0,0,104,7,4,1,0,0,1,4,1321120,2013
+03/02/2013,home,11320,508,Northwestern St.,9,True,3,11,-8,loss,3 - 11,660778,669,1,2.0,1,0,0,1,4,0,9,8,0,0,0,0,0,0,0,0,0,0,0,38,0,2,0,0,0,1,3,1321120,2013
+03/05/2013,away,11320,521,Oklahoma St.,10,True,4,5,-1,loss,4 - 5,661455,669,1,5.0,4,2,2,4,4,0,25,20,2,0,0,0,0,1,0,0,0,0,0,96,4,7,0,0,0,1,2,1321120,2013
+03/31/2013,home,11320,305,Indiana St.,11,True,8,7,1,win,8 - 7,668578,669,1,8.0,2,0,0,1,7,0,26,24,0,0,0,0,0,0,0,0,0,1,0,92,10,6,0,0,0,1,2,1321120,2013
+04/06/2013,away,11320,299,Illinois St.,9,True,0,6,-6,loss,0 - 6,669691,669,1,5.1,7,4,4,1,3,0,25,23,0,0,1,0,0,0,0,0,0,1,0,0,6,7,0,1,0,1,1,1321120,2013

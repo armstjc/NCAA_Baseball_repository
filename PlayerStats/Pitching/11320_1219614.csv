@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/02/2013,away,11320,726,Navy,9,True,2,3,-1,loss,2 - 3,660604,127,1,5.0,5,2,2,2,1,0,21,19,1,0,0,0,0,0,0,0,0,0,0,73,5,8,0,0,0,1,0,1219614,2013
+03/09/2013,away,11320,606,Saint Joseph's,9,True,1,2,-1,loss,1 - 2,1877795,127,1,2.0,1,0,0,2,4,0,10,7,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,2,1,1219614,2013
+03/24/2013,home,11320,222,Fairleigh Dickinson,9,True,5,2,3,win,5 - 2,666544,127,1,1.1,1,1,1,2,3,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1219614,2013
+04/03/2013,away,11320,572,Rhode Island,9,True,4,0,4,win,4 - 0,669031,127,1,1.0,0,0,0,2,1,0,5,3,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,3,1,1219614,2013
+04/09/2013,home,11320,285,Holy Cross,9,True,5,4,1,win,5 - 4,670926,127,1,7.2,8,3,3,4,4,0,34,29,2,0,0,0,0,1,0,0,0,0,0,0,7,10,1,0,0,1,2,1219614,2013
+04/16/2013,away,11320,400,Massachusetts,9,True,5,9,-4,loss,5 - 9,672969,127,1,4.0,10,4,4,3,2,0,23,20,2,0,0,1,0,0,0,0,0,0,0,92,3,4,0,0,0,1,0,1219614,2013

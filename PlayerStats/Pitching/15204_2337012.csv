@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,away,15204,465,UNLV,9,True,8,10,-2,loss,8 - 10,4961121,129,1,0.2,0,4,7,0,2,0,0,9,7,2,1,0,0,0,0,0,0,0,0,0,34,1,1,0,0,0,1,0,0,2337012,2020
+02/26/2020,away,15204,29,Arizona,10,True,4,2,2,win,4 - 2,4940476,129,1,0.2,0,2,1,1,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,1,10,0,2,0,0,0,5,0,0,2337012,2020
+03/08/2020,away,15204,2711,North Florida,9,True,15,5,10,win,15 - 5,4954031,129,1,1.0,0,2,1,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,26,1,1,0,0,0,3,0,0,2337012,2020

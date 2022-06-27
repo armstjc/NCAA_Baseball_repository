@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,410,Merrimack,9,True,2,1,1,win,2 - 1,4926881,527,1,4.0,0,5,1,0,2,4,0,19,17,0,0,0,0,0,0,0,0,0,0,0,78,4,4,0,0,0,1,1,0,1990934,2020
+02/21/2020,away,15204,51,Baylor,9,True,7,3,4,win,7 - 3,4934357,527,1,6.0,0,3,2,2,1,3,0,22,20,1,0,0,1,0,1,0,0,0,0,0,90,6,9,1,0,0,1,1,0,1990934,2020
+02/28/2020,home,15204,2743,UIW,9,True,5,17,-12,loss,5 - 17,4942166,527,1,5.1,0,8,6,6,4,5,0,27,23,3,0,0,0,1,0,0,0,0,0,0,98,6,4,0,1,0,1,1,0,1990934,2020

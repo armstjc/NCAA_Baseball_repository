@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,home,15204,115,Campbell,9,True,3,7,-4,loss,3 - 7,4928964,646,1,2.1,0,3,1,1,0,0,0,9,9,0,0,0,0,0,0,0,3,0,0,0,43,4,2,0,0,0,4,0,0,2347776,2020
+02/18/2020,away,15204,736,Vanderbilt,9,True,0,3,-3,loss,0 - 3,4932053,646,1,1.0,0,0,0,0,1,1,0,4,3,0,0,1,0,0,0,0,1,0,0,0,15,1,1,0,0,0,3,0,0,2347776,2020
+02/23/2020,home,15204,639,Siena,9,True,8,2,6,win,8 - 2,4938010,646,1,2.0,0,1,1,1,1,0,0,8,7,0,0,0,1,0,0,0,0,0,0,0,26,3,3,0,0,0,2,0,0,2347776,2020
+02/29/2020,home,15204,260,Gonzaga,9,True,3,13,-10,loss,3 - 13,4944395,646,1,0.0,0,3,3,3,1,0,0,4,3,0,0,0,0,1,0,0,1,1,0,0,10,0,0,0,0,0,4,0,0,2347776,2020

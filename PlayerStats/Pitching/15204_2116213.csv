@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,334,Kentucky,9,True,5,1,4,win,5 - 1,4926538,698,1,0.2,0,0,0,0,1,2,0,3,2,0,0,0,0,0,0,0,1,0,0,0,22,0,0,0,0,0,3,1,0,2116213,2020
+02/18/2020,home,15204,2,Abilene Christian,9,True,14,4,10,win,14 - 4,4931896,698,1,2.0,0,2,0,0,0,4,0,7,7,0,0,0,0,0,0,0,2,2,0,0,27,1,0,0,0,0,4,2,0,2116213,2020
+02/23/2020,away,15204,428,Minnesota,9,True,6,7,-1,loss,6 - 7,4938275,698,1,1.0,0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,0,1,0,0,0,3,0,0,2116213,2020
+02/28/2020,home,15204,107,California,9,True,5,4,1,win,5 - 4,4942510,698,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,1,1,0,0,3,0,0,2116213,2020
+03/01/2020,home,15204,107,California,9,True,6,1,5,win,6 - 1,4945777,698,1,1.2,0,0,0,0,1,2,0,5,4,0,0,0,0,0,0,0,2,1,0,0,25,1,1,0,0,0,2,1,0,2116213,2020
+03/03/2020,home,15204,702,UT Arlington,12,True,4,6,-2,loss,4 - 6,4948155,698,1,0.2,0,4,3,2,0,0,0,6,5,1,0,0,1,0,0,0,0,0,0,1,23,0,2,0,0,0,4,0,0,2116213,2020

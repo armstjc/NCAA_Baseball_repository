@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,away,15204,102,Sacramento St.,9,True,1,6,-5,loss,1 - 6,4926482,104,1,3.0,0,3,4,4,4,5,0,16,12,2,0,0,0,4,0,0,0,0,0,0,73,2,2,0,1,0,1,1,0,2140227,2020
+02/21/2020,home,15204,2,Abilene Christian,9,True,7,0,7,win,7 - 0,4938727,104,1,5.2,0,2,0,0,3,8,0,21,18,1,0,0,0,0,0,0,0,0,0,0,98,4,4,1,0,0,1,2,0,2140227,2020
+02/28/2020,home,15204,302,UIC,10,True,3,2,1,win,3 - 2,4942626,104,1,7.1,0,3,2,2,1,12,0,26,25,1,1,0,1,2,0,0,0,0,0,0,112,3,7,0,0,0,1,4,0,2140227,2020
+03/06/2020,away,15204,528,Oregon St.,9,True,6,0,6,win,6 - 0,4961196,104,1,5.1,0,1,0,0,3,6,0,20,17,0,0,0,0,0,0,0,0,0,0,0,99,2,8,1,0,0,1,1,0,2140227,2020

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/25/2020,home,15204,505,Northern Ky.,9,True,15,1,14,win,15 - 1,4939367,694,1,2.0,0,2,0,0,0,2,0,8,7,0,0,0,0,1,1,0,0,0,0,0,25,0,3,0,0,0,4,1,0,2348131,2020
+03/03/2020,home,15204,363,Longwood,9,True,28,2,26,win,28 - 2,4952625,694,1,2.0,0,0,0,0,0,3,0,6,6,0,0,0,0,0,0,0,0,0,0,0,22,2,1,0,0,0,5,1,0,2348131,2020
+03/08/2020,home,15204,810,Wright St.,9,True,3,6,-3,loss,3 - 6,4954377,694,1,1.1,0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,2,0,0,0,8,1,2,0,0,0,4,1,0,2348131,2020
+03/10/2020,home,15204,198,ETSU,9,True,17,5,12,win,17 - 5,4957041,694,1,0.1,0,3,4,4,1,1,0,5,4,1,0,0,1,0,0,0,0,0,0,0,21,1,0,0,0,0,2,0,0,2348131,2020

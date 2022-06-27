@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/17/2013,away,11320,287,Houston Baptist,9,True,15,5,10,win,15 - 5,658487,483,1,1.0,3,2,2,0,0,0,6,6,1,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,1435775,2013
+02/20/2013,home,11320,665,Southern U.,9,True,11,1,10,win,11 - 1,658812,483,1,2.0,1,1,0,1,2,0,10,8,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,2,1,1435775,2013
+02/27/2013,away,11320,671,Louisiana,9,True,1,5,-4,loss,1 - 5,660041,483,1,2.0,1,0,0,1,0,0,9,6,0,0,0,0,0,1,0,0,0,1,0,31,3,3,0,0,0,2,0,1435775,2013
+03/05/2013,home,11320,646,South Alabama,9,True,7,11,-4,loss,7 - 11,661451,483,1,2.2,3,4,4,3,1,0,13,8,2,0,0,0,0,0,0,0,0,1,1,0,3,3,0,0,0,2,1,1435775,2013
+04/02/2013,away,11320,718,Tulane,9,True,5,3,2,win,5 - 3,668806,483,1,1.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,5,0,1435775,2013
+05/07/2013,away,11320,718,Tulane,9,True,7,8,-1,loss,7 - 8,678530,483,1,1.0,2,2,2,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,25,0,2,0,0,0,3,0,1435775,2013

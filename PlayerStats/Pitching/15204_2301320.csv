@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/22/2020,home,15204,539,Penn St.,9,True,0,11,-11,loss,0 - 11,4937389,748,1,1.2,0,2,3,0,2,1,0,10,7,0,0,0,1,1,1,0,2,2,0,0,47,2,1,0,0,0,3,0,0,2301320,2020
+02/25/2020,away,15204,587,Rutgers,9,True,3,15,-12,loss,3 - 15,4939263,748,1,0.2,0,0,1,0,2,1,0,5,3,0,0,0,0,1,0,0,2,2,0,0,25,0,1,0,0,0,3,0,0,2301320,2020
+03/11/2020,away,15204,236,Fordham,9,True,5,11,-6,loss,5 - 11,4957702,748,1,1.2,0,1,0,0,0,1,0,6,6,0,0,0,0,0,0,0,1,1,0,0,0,4,0,0,0,0,4,1,0,2301320,2020

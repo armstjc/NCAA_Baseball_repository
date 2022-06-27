@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,away,15204,624,Sam Houston,9,True,0,4,-4,loss,0 - 4,4926896,610,1,6.0,0,4,3,1,0,7,0,24,21,0,0,0,0,1,3,0,0,0,0,0,77,5,4,0,1,0,1,1,0,1978737,2020
+02/21/2020,away,15204,110,UCLA,9,True,0,5,-5,loss,0 - 5,4934371,610,1,6.0,0,8,3,3,0,7,0,27,25,2,0,0,0,1,1,0,0,0,1,0,92,8,3,0,1,0,1,2,0,1978737,2020
+02/28/2020,home,15204,111,UC Riverside,9,True,2,3,-1,loss,2 - 3,4942172,610,1,7.0,0,8,1,1,0,4,0,29,28,1,0,0,0,0,1,0,0,0,0,0,105,8,8,0,0,0,1,0,0,1978737,2020
+03/05/2020,home,15204,635,Seton Hall,9,True,1,6,-5,loss,1 - 6,4949755,610,1,7.1,0,7,4,4,1,3,0,30,29,1,0,0,0,0,0,1,0,0,0,0,85,5,13,0,1,0,1,1,0,1978737,2020

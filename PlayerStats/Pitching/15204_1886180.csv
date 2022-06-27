@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,home,15204,416,Michigan St.,9,True,3,5,-2,loss,3 - 5,4930328,444,1,4.0,0,5,5,3,3,4,0,19,15,0,1,0,0,0,0,0,0,0,0,1,75,3,4,0,1,0,1,0,0,1886180,2020
+02/23/2020,away,15204,485,Norfolk St.,9,True,11,0,11,win,11 - 0,4937382,444,1,9.0,1,9,0,0,2,5,1,34,32,1,0,0,0,0,0,0,0,0,0,0,96,10,8,1,0,0,1,0,0,1886180,2020
+03/01/2020,home,15204,659,Southern Ill.,9,True,5,22,-17,loss,5 - 22,4945756,444,1,5.0,0,8,6,6,0,5,0,23,22,1,0,0,2,0,0,0,0,0,0,1,79,7,3,0,1,0,1,1,0,1886180,2020
+03/08/2020,home,15204,14927,Belmont,9,True,4,10,-6,loss,4 - 10,4954206,444,1,5.0,0,7,8,7,3,4,0,25,22,1,0,0,4,0,0,0,0,0,0,0,110,6,4,0,1,0,1,1,0,1886180,2020

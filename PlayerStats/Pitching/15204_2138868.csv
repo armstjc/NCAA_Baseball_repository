@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,327,Kansas St.,9,True,0,4,-4,loss,0 - 4,4938766,536,1,0.1,0,2,1,1,0,0,0,3,3,0,1,0,0,0,0,0,1,1,0,0,7,1,0,0,0,0,2,0,0,2138868,2020
+02/23/2020,away,15204,521,Oklahoma St.,9,True,4,8,-4,loss,4 - 8,4938936,536,1,1.1,0,3,3,3,0,0,0,7,6,0,1,0,0,0,0,0,3,0,0,1,16,2,2,0,0,0,3,0,0,2138868,2020
+02/29/2020,home,15204,649,South Dakota St.,9,True,9,7,2,win,9 - 7,4944120,536,1,3.1,0,3,1,1,1,4,0,14,13,0,0,1,1,0,0,0,0,0,0,0,53,1,4,1,0,0,2,1,0,2138868,2020
+03/06/2020,home,15204,471,NJIT,9,True,11,1,10,win,11 - 1,4951276,536,1,3.0,0,2,0,0,0,2,0,10,10,0,0,0,0,0,0,0,0,0,0,0,37,5,1,0,0,1,2,0,0,2138868,2020
+03/11/2020,home,15204,26172,A&M-Corpus Christi,9,True,4,1,3,win,4 - 1,4958080,536,1,1.1,0,3,1,1,0,0,0,6,6,1,0,0,0,0,0,0,2,0,0,0,14,3,0,0,0,0,2,0,0,2138868,2020

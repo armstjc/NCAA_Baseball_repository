@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,630,San Jose St.,9,True,18,4,14,win,18 - 4,4930237,631,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,6,0,0,2330632,2020
+02/22/2020,away,15204,257,Georgia,9,True,1,6,-5,loss,1 - 6,4936149,631,1,1.1,0,2,1,1,0,0,0,6,4,0,0,0,0,0,1,0,2,0,0,1,20,2,1,0,0,0,2,0,0,2330632,2020
+02/28/2020,away,15204,102,Sacramento St.,9,True,4,2,2,win,4 - 2,4942545,631,1,0.0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0,0,2330632,2020
+03/03/2020,home,15204,90,Cal Poly,9,True,8,5,3,win,8 - 5,4948301,631,1,1.1,0,0,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,18,1,1,1,0,0,5,1,0,2330632,2020

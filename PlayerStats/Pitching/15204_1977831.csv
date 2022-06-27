@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,away,15204,370,LMU (CA),9,True,3,6,-3,loss,3 - 6,4929064,756,1,3.2,0,3,4,0,6,8,0,22,15,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,1,0,1,2,0,1977831,2020
+02/21/2020,away,15204,96,Fresno St.,9,True,8,1,7,win,8 - 1,4934384,756,1,6.0,0,4,1,1,1,13,0,23,22,1,0,1,0,1,0,0,0,0,0,0,93,2,3,1,0,0,1,5,0,1977831,2020
+02/28/2020,home,15204,109,UC Irvine,9,True,5,1,4,win,5 - 1,4942666,756,1,6.0,0,7,1,1,1,9,0,23,22,1,0,0,0,1,0,0,0,0,0,0,75,4,2,1,0,0,1,5,0,1977831,2020
+03/08/2020,home,15204,30024,Utah Valley,9,True,4,0,4,win,4 - 0,4954565,756,1,7.0,0,3,0,0,1,8,0,25,24,1,0,0,0,0,0,0,0,0,0,0,100,11,2,1,0,0,1,1,0,1977831,2020

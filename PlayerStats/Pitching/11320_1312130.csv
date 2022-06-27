@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/03/2013,away,11320,700,Texas Tech,9,True,0,7,-7,loss,0 - 7,660923,340,1,2.0,0,1,0,1,2,0,7,6,0,0,0,0,0,0,0,0,0,0,0,29,2,2,0,0,0,2,0,1312130,2013
+03/06/2013,away,11320,473,New Mexico,9,True,4,17,-13,loss,4 - 17,661603,340,1,0.2,3,3,3,3,2,0,8,5,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,7,0,1312130,2013
+03/30/2013,home,11320,575,Richmond,9,True,1,22,-21,loss,1 - 22,668034,340,1,0.2,2,2,2,0,0,0,6,4,0,0,0,0,0,2,0,3,2,0,0,15,0,2,0,0,0,8,0,1312130,2013

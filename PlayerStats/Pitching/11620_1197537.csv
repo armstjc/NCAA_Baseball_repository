@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/19/2014,away,11620,1014,Col. of Charleston,9,True,3,12,-9,loss,3 - 12,587659,48,1,0.0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,0,1197537,2014
+03/02/2014,home,11620,285,Holy Cross,9,True,10,4,6,win,10 - 4,589691,48,1,1.0,2,0,0,0,2,0,5,5,0,0,0,0,0,0,0,0,0,0,0,22,1,0,0,0,0,4,1,1197537,2014
+03/03/2014,home,11620,285,Holy Cross,9,True,12,7,5,win,12 - 7,589917,48,1,1.0,3,1,1,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,22,1,0,0,0,0,7,1,1197537,2014
+03/08/2014,home,11620,709,Toledo,9,True,6,3,3,win,6 - 3,590845,48,1,0.1,1,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,9,0,0,0,0,0,3,0,1197537,2014
+03/16/2014,away,11620,363,Longwood,12,True,7,8,-1,loss,7 - 8,593198,48,1,0.2,0,0,0,1,2,0,3,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4,0,1197537,2014
+03/19/2014,home,11620,1014,Col. of Charleston,9,True,2,9,-7,loss,2 - 9,593781,48,1,0.2,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,1,1,0,0,6,1,0,0,0,0,7,0,1197537,2014

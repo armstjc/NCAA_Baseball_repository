@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/16/2014,home,11620,301,Illinois,9,True,10,6,4,win,10 - 6,587302,254,1,5.0,5,2,2,2,6,0,24,21,2,0,1,0,0,0,0,0,0,1,0,0,4,5,0,0,0,1,2,1437066,2014
+02/23/2014,away,11620,433,Ole Miss,9,True,6,4,2,win,6 - 4,588492,254,1,9.0,8,4,4,4,4,0,38,32,1,1,0,0,0,1,0,0,0,1,0,0,10,11,1,0,0,1,1,1437066,2014
+03/02/2014,home,11620,505,Northern Ky.,9,True,13,2,11,win,13 - 2,589719,254,1,4.0,3,1,1,0,8,0,14,14,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,2,1437066,2014
+03/15/2014,home,11620,772,Western Ky.,9,True,3,4,-1,loss,3 - 4,592798,254,1,2.2,5,2,2,1,2,0,12,10,1,0,1,0,0,0,0,0,0,1,0,0,3,1,0,1,0,1,0,1437066,2014

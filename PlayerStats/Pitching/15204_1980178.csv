@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,285,Holy Cross,9,True,10,0,10,win,10 - 0,4932955,648,1,7.0,0,6,0,0,1,3,0,25,24,1,0,0,0,1,0,0,0,0,0,0,87,12,3,1,0,0,1,1,0,1980178,2020
+02/21/2020,home,15204,509,Northwestern,10,True,2,5,-3,loss,2 - 5,4933946,648,1,7.0,0,3,1,1,1,6,0,25,24,1,0,0,0,0,0,0,0,0,0,0,97,14,1,0,0,0,1,3,0,1980178,2020
+02/28/2020,home,15204,147,Clemson,9,True,1,7,-6,loss,1 - 7,4942473,648,1,6.0,0,10,6,6,1,8,0,30,29,3,0,0,3,0,0,0,0,0,0,0,99,8,2,0,1,0,1,4,0,1980178,2020
+03/06/2020,home,15204,167,Cornell,9,True,10,2,8,win,10 - 2,4950757,648,1,5.1,0,6,2,1,5,5,0,26,20,0,0,0,0,0,0,0,0,0,0,1,100,4,5,1,0,0,1,2,0,1980178,2020

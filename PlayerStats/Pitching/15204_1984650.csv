@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/22/2020,away,15204,575,Richmond,9,True,4,9,-5,loss,4 - 9,4937078,352,1,2.0,0,1,0,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,12,1,3,0,0,0,3,1,0,1984650,2020
+02/28/2020,home,15204,545,Pittsburgh,9,True,4,15,-11,loss,4 - 15,4942251,352,1,3.1,0,7,3,3,1,3,0,18,17,2,0,2,1,0,0,0,0,0,0,0,62,1,6,0,1,0,1,2,0,1984650,2020
+03/04/2020,home,15204,165,Coppin St.,9,True,4,5,-1,loss,4 - 5,4948699,352,1,1.1,0,3,2,2,0,0,0,7,7,0,1,0,0,0,0,0,0,0,0,0,26,0,4,0,1,0,3,0,0,1984650,2020
+03/10/2020,away,15204,222,Fairleigh Dickinson,9,True,4,7,-3,loss,4 - 7,4956505,352,1,6.0,0,6,3,1,1,7,0,24,22,2,0,0,0,1,0,0,0,0,1,0,83,5,4,0,0,0,1,4,0,1984650,2020

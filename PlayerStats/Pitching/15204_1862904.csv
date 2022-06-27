@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,away,15204,32,Little Rock,9,True,0,6,-6,loss,0 - 6,4926501,299,1,6.0,0,7,4,4,0,8,0,26,25,1,0,0,0,0,1,0,0,0,0,0,77,5,5,0,1,0,1,1,0,1862904,2020
+02/21/2020,away,15204,522,Oklahoma,9,True,1,2,-1,loss,1 - 2,4933868,299,1,7.0,0,4,2,2,2,10,0,28,25,2,1,0,0,1,0,1,0,0,1,0,108,7,4,0,1,0,1,1,0,1862904,2020
+02/28/2020,away,15204,498,ULM,9,True,6,3,3,win,6 - 3,4948444,299,1,6.0,0,6,3,0,3,10,0,27,24,1,0,0,0,0,0,0,0,0,0,0,0,5,2,1,0,0,1,6,0,1862904,2020
+03/03/2020,away,15204,31,Arkansas,9,True,8,7,1,win,8 - 7,4948043,299,1,1.0,0,1,0,0,0,3,0,4,4,1,0,0,0,1,0,0,2,2,0,0,0,0,0,0,0,1,7,2,0,1862904,2020
+03/06/2020,home,15204,740,VCU,9,True,8,5,3,win,8 - 5,4972371,299,1,5.0,0,11,4,4,1,6,0,27,26,1,0,0,2,0,0,0,0,0,0,0,0,7,1,1,0,0,1,2,0,1862904,2020

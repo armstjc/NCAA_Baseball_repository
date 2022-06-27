@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/22/2014,away,11620,86,Buffalo,9,True,15,3,12,win,15 - 3,603490,116,1,1.0,0,1,0,1,0,0,6,4,0,0,0,0,0,0,0,0,0,0,1,24,1,2,0,0,0,2,0,1533251,2014
+05/11/2014,away,11620,482,Niagara,9,True,15,5,10,win,15 - 5,607717,116,1,1.0,1,1,1,1,1,0,5,4,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,1533251,2014
+05/16/2014,home,11620,439,Monmouth,9,True,9,2,7,win,9 - 2,608127,116,1,1.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,16,0,1,0,0,0,2,0,1533251,2014

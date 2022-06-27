@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/22/2020,away,15204,740,VCU,9,True,5,4,1,win,5 - 4,4935768,590,1,4.2,0,4,2,2,3,6,0,22,17,1,0,0,1,0,1,0,0,0,0,1,78,3,5,1,0,0,2,3,0,1974406,2020
+02/28/2020,home,15204,80,Brown,9,True,2,1,1,win,2 - 1,4942111,590,1,2.0,0,2,0,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,21,1,3,0,0,1,2,0,0,1974406,2020
+03/03/2020,away,15204,749,Wake Forest,9,True,0,9,-9,loss,0 - 9,4947972,590,1,1.0,0,1,1,1,1,2,0,5,4,1,0,0,0,1,0,0,0,0,0,0,25,0,1,0,0,0,5,0,0,1974406,2020
+03/06/2020,home,15204,47,Ball St.,9,True,1,0,1,win,1 - 0,4951282,590,1,2.0,0,0,0,0,2,1,0,8,5,0,0,0,0,0,0,0,0,0,1,0,0,2,3,1,0,0,2,0,0,1974406,2020

@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,away,15204,485,Norfolk St.,9,True,3,7,-4,loss,3 - 7,4929740,748,1,1.1,0,3,5,5,3,2,0,10,7,0,0,0,0,0,0,0,2,0,0,0,48,1,1,0,1,0,2,0,0,2349680,2020
+02/25/2020,away,15204,587,Rutgers,9,True,3,15,-12,loss,3 - 15,4939263,748,1,3.0,0,1,4,4,6,4,0,18,10,0,1,0,0,0,2,0,0,0,0,0,76,1,4,0,1,0,1,0,0,2349680,2020
+03/01/2020,away,15204,740,VCU,9,True,0,9,-9,loss,0 - 9,4945497,748,1,0.2,0,0,5,5,3,2,0,6,2,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,3,2,0,2349680,2020
+03/07/2020,away,15204,198,ETSU,9,True,1,13,-12,loss,1 - 13,4953048,748,1,1.1,0,1,1,1,0,1,0,5,5,0,0,0,1,0,0,0,3,3,0,0,17,0,3,0,0,0,3,0,0,2349680,2020
+03/11/2020,away,15204,236,Fordham,9,True,5,11,-6,loss,5 - 11,4957702,748,1,4.0,0,5,4,3,3,1,0,20,15,1,0,0,0,1,1,0,0,0,1,0,0,4,6,0,0,0,1,0,0,2349680,2020

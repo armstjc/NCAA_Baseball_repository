@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/26/2013,away,11320,694,Tennessee,9,True,7,9,-2,loss,7 - 9,659928,198,1,1.1,2,0,0,1,1,0,7,6,0,0,0,0,0,0,0,1,1,0,0,21,3,0,0,0,0,4,0,1440592,2013
+03/02/2013,home,11320,386,Marist,11,True,9,8,1,win,9 - 8,660451,198,1,0.1,1,0,0,1,0,0,3,1,0,0,0,0,0,0,0,0,0,1,0,14,1,0,0,0,0,3,0,1440592,2013
+03/13/2013,away,11320,456,UNC Asheville,9,True,20,9,11,win,20 - 9,663405,198,1,1.1,1,1,1,4,1,0,10,6,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,1440592,2013
+03/30/2013,away,11320,2711,North Florida,9,True,4,11,-7,loss,4 - 11,667980,198,1,1.0,2,1,1,0,0,0,5,5,2,0,0,0,0,0,0,0,0,0,0,17,2,1,0,0,0,5,0,1440592,2013
+04/07/2013,away,11320,505,Northern Ky.,9,True,13,4,9,win,13 - 4,670411,198,1,0.0,4,3,3,0,0,0,4,4,2,0,1,0,0,0,0,0,0,0,0,7,0,0,0,0,0,3,0,1440592,2013

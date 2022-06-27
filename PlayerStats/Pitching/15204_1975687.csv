@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,251,Georgetown,9,True,6,3,3,win,6 - 3,4929880,726,1,5.0,0,2,1,1,5,4,0,21,16,0,0,0,1,1,0,0,0,0,0,0,0,6,4,1,0,0,1,2,0,1975687,2020
+02/23/2020,home,15204,721,Air Force,10,True,4,3,1,win,4 - 3,4937657,726,1,5.2,0,6,2,1,2,7,0,27,22,3,0,0,0,0,2,0,0,0,1,0,90,3,7,0,0,0,1,1,0,1975687,2020
+03/01/2020,home,15204,400,Massachusetts,9,True,4,2,2,win,4 - 2,4945196,726,1,3.0,0,2,2,2,3,3,0,14,11,0,0,0,1,0,0,0,0,0,0,0,70,0,6,0,0,0,1,0,0,1975687,2020
+03/07/2020,home,15204,222,Fairleigh Dickinson,9,True,3,1,2,win,3 - 1,4952036,726,1,6.1,0,4,1,1,1,4,0,25,22,0,0,0,0,0,2,0,0,0,0,0,91,3,11,1,0,0,1,1,0,1975687,2020

@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/07/2020,home,15204,167,Cornell,9,True,10,3,7,win,10 - 3,4953001,648,1,1.2,0,0,0,0,0,4,0,6,5,0,0,0,0,0,1,0,2,1,0,0,21,1,0,0,0,0,4,0,0,2111269,2020
+03/10/2020,home,15204,141,The Citadel,9,True,10,1,9,win,10 - 1,4957087,648,1,1.0,0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,13,1,1,0,0,0,6,1,0,2111269,2020

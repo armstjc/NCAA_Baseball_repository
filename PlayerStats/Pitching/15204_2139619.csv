@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,away,15204,702,UT Arlington,9,True,1,4,-3,loss,1 - 4,4928542,26172,1,4.0,0,3,2,2,3,2,0,18,14,1,0,0,0,3,0,0,0,0,0,1,0,2,8,0,1,0,1,1,0,2139619,2020
+02/22/2020,home,15204,327,Kansas St.,9,True,5,2,3,win,5 - 2,4937107,26172,1,5.0,0,4,2,2,3,5,0,23,18,1,0,0,0,3,1,0,0,0,1,0,96,8,1,1,0,0,1,1,0,2139619,2020
+02/29/2020,home,15204,381,Manhattan,10,True,8,9,-1,loss,8 - 9,4945923,26172,1,4.2,0,4,5,5,1,8,0,22,17,0,1,0,0,0,4,0,0,0,0,0,86,3,2,0,0,0,1,2,0,2139619,2020
+03/03/2020,away,15204,697,Texas A&M,9,True,4,5,-1,loss,4 - 5,4948255,26172,1,2.0,0,5,3,3,0,2,0,11,11,0,0,0,0,0,0,0,0,0,0,0,35,3,1,0,0,0,1,1,0,2139619,2020
+03/08/2020,home,15204,2743,UIW,9,True,7,0,7,win,7 - 0,4954298,26172,1,9.0,1,5,0,0,2,6,1,34,31,0,1,0,0,0,1,0,0,0,0,0,122,9,11,1,0,0,1,3,0,2139619,2020

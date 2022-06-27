@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/22/2013,home,11320,655,Southeastern La.,9,True,13,1,12,win,13 - 1,658986,365,1,0.2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,11,2,0,0,0,0,4,0,1436650,2013
+03/05/2013,home,11320,676,SFA,9,True,9,2,7,win,9 - 2,661457,365,1,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,2,0,0,0,5,0,1436650,2013
+04/30/2013,home,11320,402,McNeese,9,True,7,3,4,win,7 - 3,677041,365,1,0.2,1,1,1,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,8,1,1,0,0,0,6,0,1436650,2013

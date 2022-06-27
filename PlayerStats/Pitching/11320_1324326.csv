@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/09/2013,away,11320,606,Saint Joseph's,9,True,4,9,-5,loss,4 - 9,1877797,127,1,2.0,2,1,1,0,0,0,9,8,1,0,0,0,0,1,0,0,0,0,0,0,3,3,0,0,0,1,0,1324326,2013
+03/13/2013,home,11320,164,UConn,9,True,5,8,-3,loss,5 - 8,663501,127,1,1.0,3,3,3,1,0,0,7,5,1,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,3,0,1324326,2013
+04/03/2013,away,11320,572,Rhode Island,9,True,4,0,4,win,4 - 0,669031,127,1,2.0,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,4,2,1,0,0,1,0,1324326,2013
+04/05/2013,away,11320,361,LIU,9,True,1,9,-8,loss,1 - 9,669347,127,1,1.0,2,3,3,3,0,0,7,4,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1324326,2013
+04/16/2013,away,11320,400,Massachusetts,9,True,5,9,-4,loss,5 - 9,672969,127,1,1.2,4,3,3,1,1,0,9,7,0,1,0,0,1,0,0,1,1,0,1,39,1,2,0,0,0,3,0,1324326,2013
+04/24/2013,home,11320,220,Fairfield,9,True,4,12,-8,loss,4 - 12,675240,127,1,4.0,4,2,1,0,6,0,18,18,2,0,0,1,0,0,0,0,0,0,0,0,5,1,0,0,0,3,3,1324326,2013

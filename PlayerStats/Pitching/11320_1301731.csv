@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/22/2013,home,11320,201,Eastern Ill.,9,True,6,3,3,win,6 - 3,658930,664,1,0.1,3,3,3,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,1301731,2013
+03/12/2013,home,11320,430,Mississippi St.,9,True,5,13,-8,loss,5 - 13,663358,664,1,1.2,2,0,0,1,1,0,8,7,0,0,0,0,0,0,0,0,0,0,0,35,2,2,0,0,0,4,0,1301731,2013
+03/16/2013,home,11320,1004,Central Ark.,9,True,3,14,-11,loss,3 - 14,664246,664,1,3.0,3,3,3,4,3,0,17,13,0,0,0,0,0,0,0,0,0,0,0,70,1,5,0,0,0,3,0,1301731,2013
+03/26/2013,home,11320,646,South Alabama,10,True,1,3,-2,loss,1 - 3,666903,664,1,5.0,5,1,0,4,5,0,24,20,0,0,0,0,0,0,0,0,0,0,0,80,4,5,0,0,0,1,2,1301731,2013
+04/10/2013,home,11320,474,New Orleans,9,True,8,5,3,win,8 - 5,671239,664,1,3.0,3,2,2,3,3,0,14,11,1,0,1,0,0,0,0,0,0,0,0,50,0,5,0,0,0,1,1,1301731,2013
+05/14/2013,home,11320,433,Ole Miss,9,True,10,3,7,win,10 - 3,679424,664,1,0.2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,5,0,1301731,2013

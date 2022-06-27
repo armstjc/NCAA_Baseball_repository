@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/04/2020,away,15204,2915,Wofford,9,True,5,23,-18,loss,5 - 23,4949277,1320,1,1.0,0,4,4,4,1,1,0,8,7,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,7,0,0,2301935,2020
+03/07/2020,home,15204,164,UConn,9,True,1,20,-19,loss,1 - 20,4951923,1320,1,0.1,0,2,6,2,1,0,0,8,7,0,0,0,1,0,0,0,3,3,0,0,35,0,1,0,0,0,3,0,0,2301935,2020
+03/10/2020,away,15204,147,Clemson,9,True,0,12,-12,loss,0 - 12,4957026,1320,1,0.2,0,1,0,0,0,1,0,3,3,1,0,0,0,0,0,0,3,3,0,0,0,0,1,0,0,0,5,0,0,2301935,2020

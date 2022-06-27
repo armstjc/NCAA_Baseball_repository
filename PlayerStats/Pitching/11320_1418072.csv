@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/10/2013,away,11320,651,South Fla.,9,True,3,9,-6,loss,3 - 9,671203,128,1,1.0,1,0,0,1,1,0,6,4,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,6,0,1418072,2013
+04/16/2013,home,11320,229,Fla. Atlantic,9,True,2,10,-8,loss,2 - 10,672979,128,1,1.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,6,1,1,0,0,0,7,0,1418072,2013
+05/01/2013,home,11320,61,Bethune-Cookman,9,True,8,1,7,win,8 - 1,677271,128,1,1.1,1,0,0,1,0,0,6,5,1,0,0,0,0,0,0,3,0,0,0,23,4,0,0,0,0,5,0,1418072,2013

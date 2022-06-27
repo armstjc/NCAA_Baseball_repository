@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/21/2020,away,15204,740,VCU,9,True,3,5,-2,loss,3 - 5,4933685,590,1,3.1,0,6,4,4,2,6,0,19,15,0,0,0,0,1,1,0,0,0,1,0,0,1,3,0,1,0,2,2,0,1974409,2020
+02/26/2020,away,15204,236,Fordham,13,True,4,5,-1,loss,4 - 5,4939932,590,1,2.2,0,3,2,2,1,2,0,15,11,0,0,0,0,0,2,1,1,0,1,0,0,2,4,0,0,0,4,2,0,1974409,2020
+03/01/2020,away,15204,749,Wake Forest,9,True,5,9,-4,loss,5 - 9,4945738,590,1,2.2,0,8,6,6,0,3,0,16,15,3,0,0,2,0,0,0,0,0,0,1,67,2,3,0,1,0,1,1,0,1974409,2020
+03/07/2020,home,15204,813,Yale,9,True,3,2,1,win,3 - 2,4954707,590,1,5.1,0,6,1,1,1,4,0,22,21,0,0,0,0,0,0,0,0,0,0,0,90,2,9,1,0,0,1,0,0,1974409,2020

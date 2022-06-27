@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,away,15204,9,UAB,9,True,7,10,-3,loss,7 - 10,4928338,513,1,2.1,0,1,2,2,2,2,0,10,7,0,0,0,0,1,0,0,1,1,1,0,37,2,3,0,0,0,4,0,0,2130471,2020
+02/22/2020,home,15204,706,UTSA,9,True,1,4,-3,loss,1 - 4,4936999,513,1,0.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,5,0,0,2130471,2020
+03/07/2020,away,15204,457,North Carolina,10,True,11,8,3,win,11 - 8,4955590,513,1,1.0,0,0,1,0,1,1,0,5,4,0,0,0,0,0,0,0,1,0,0,0,16,1,1,0,0,0,5,1,0,2130471,2020
+03/08/2020,away,15204,457,North Carolina,9,True,14,8,6,win,14 - 8,4955217,513,1,3.2,0,1,0,0,0,1,0,12,11,0,0,0,0,0,0,0,2,1,0,1,40,3,7,0,0,1,4,0,0,2130471,2020
+03/11/2020,away,15204,563,Radford,9,True,9,8,1,win,9 - 8,4957875,513,1,0.2,0,2,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,13,0,2,0,0,0,2,0,0,2130471,2020

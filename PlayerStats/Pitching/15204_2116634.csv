@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/22/2020,away,15204,173,Davidson,9,True,4,5,-1,loss,4 - 5,4935337,251,1,5.0,0,2,1,1,2,11,0,20,16,1,0,0,0,0,2,0,0,0,0,0,87,2,2,0,0,0,1,4,0,2116634,2020
+02/29/2020,away,15204,740,VCU,9,True,6,20,-14,loss,6 - 20,4947580,251,1,4.0,0,12,10,7,1,5,0,27,25,5,1,0,1,0,0,0,0,0,1,0,0,5,2,0,1,0,1,1,0,2116634,2020
+03/07/2020,home,15204,312,Iowa,9,True,2,22,-20,loss,2 - 22,4952993,251,1,1.0,0,3,4,4,2,2,0,9,6,1,0,0,0,0,1,0,0,0,0,0,36,1,0,0,1,0,1,0,0,2116634,2020
+03/11/2020,home,15204,725,Army West Point,9,True,4,6,-2,loss,4 - 6,4957689,251,1,6.0,0,8,4,4,3,2,0,30,26,2,1,0,0,1,0,0,0,0,1,0,99,6,10,0,1,0,1,1,0,2116634,2020

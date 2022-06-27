@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/22/2020,away,15204,678,Stetson,9,True,0,9,-9,loss,0 - 9,4936482,272,1,1.1,0,1,0,0,0,0,0,5,5,0,0,0,0,0,0,0,2,0,0,0,23,2,2,0,0,0,4,0,0,1997206,2020
+02/28/2020,away,15204,2711,North Florida,9,True,6,2,4,win,6 - 2,4960222,272,1,2.0,0,2,1,1,0,3,0,8,8,0,0,0,1,0,0,0,0,0,0,0,37,0,3,0,0,0,2,1,0,1997206,2020
+03/04/2020,away,15204,127,Central Conn. St.,9,True,8,5,3,win,8 - 5,4948670,272,1,2.0,0,0,0,0,1,2,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,2,0,0,1997206,2020
+03/06/2020,away,15204,141,The Citadel,9,True,2,0,2,win,2 - 0,4950972,272,1,1.0,0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,19,2,0,0,0,0,2,0,0,1997206,2020
+03/10/2020,home,15204,164,UConn,9,True,2,5,-3,loss,2 - 5,4956749,272,1,1.2,0,4,3,3,0,1,0,9,8,0,0,1,1,1,1,0,2,1,0,0,0,2,1,0,1,0,2,0,0,1997206,2020

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,home,15204,771,Western Ill.,9,True,19,0,19,win,19 - 0,4928419,694,1,1.0,0,1,0,0,0,3,0,5,4,0,0,0,0,0,1,0,0,0,0,0,18,0,0,0,0,0,5,2,0,2348139,2020
+02/23/2020,home,15204,674,Stanford,9,True,7,2,5,win,7 - 2,4937684,694,1,4.1,0,5,1,1,0,3,0,17,16,3,0,0,0,0,0,0,3,0,1,0,47,2,7,1,0,0,2,0,0,2348139,2020
+03/01/2020,home,15204,249,George Washington,9,True,10,0,10,win,10 - 0,4945664,694,1,1.0,0,2,0,0,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,28,3,0,0,0,0,4,0,0,2348139,2020
+03/08/2020,home,15204,810,Wright St.,9,True,3,6,-3,loss,3 - 6,4954377,694,1,1.2,0,1,4,4,2,3,0,9,6,0,0,0,1,0,1,0,0,0,0,0,33,2,0,0,0,0,2,1,0,2348139,2020

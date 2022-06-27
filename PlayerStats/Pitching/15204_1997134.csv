@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,317,James Madison,9,True,4,0,4,win,4 - 0,4926903,490,1,7.0,0,2,0,0,2,11,0,22,20,0,0,0,0,0,0,0,0,0,0,0,90,3,4,1,0,0,1,5,0,1997134,2020
+02/22/2020,home,15204,692,Tennessee Tech,9,True,8,2,6,win,8 - 2,4936355,490,1,6.0,0,5,2,2,2,11,0,25,23,1,0,0,1,2,0,0,0,0,0,0,100,3,3,1,0,0,1,4,0,1997134,2020
+02/29/2020,home,15204,559,Purdue,10,True,6,0,6,win,6 - 0,4943418,490,1,8.0,0,1,0,0,0,15,0,26,24,0,0,0,0,0,1,0,0,0,1,0,98,5,4,1,0,0,1,9,0,1997134,2020
+03/07/2020,away,15204,746,Virginia,9,True,6,2,4,win,6 - 2,4952156,490,1,7.0,0,5,2,2,2,5,0,26,23,2,0,0,1,0,0,0,0,0,0,1,0,10,4,1,0,0,1,1,0,1997134,2020

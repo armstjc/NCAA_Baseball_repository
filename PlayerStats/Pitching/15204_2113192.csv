@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/23/2020,home,15204,649,South Dakota St.,11,True,6,5,1,win,6 - 5,4939169,534,1,3.0,0,1,0,0,1,4,0,12,8,0,0,0,0,0,1,0,1,0,2,0,0,4,1,0,0,0,2,1,0,2113192,2020
+03/01/2020,away,15204,1356,Seattle U,9,True,17,1,16,win,17 - 1,4946286,534,1,1.0,0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,2,1,0,2113192,2020
+03/06/2020,away,15204,1104,Grand Canyon,9,True,1,12,-11,loss,1 - 12,4951252,534,1,1.0,0,4,4,4,0,0,0,7,7,1,0,0,1,0,0,0,0,0,0,0,20,1,2,0,0,0,3,0,0,2113192,2020
+03/11/2020,away,15204,96,Fresno St.,9,True,6,7,-1,loss,6 - 7,4958236,534,1,1.1,0,3,1,1,0,2,0,7,7,2,0,0,0,0,0,0,1,1,0,0,27,1,1,0,0,0,5,1,0,2113192,2020

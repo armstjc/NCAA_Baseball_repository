@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/23/2013,home,11320,630,San Jose St.,9,True,17,2,15,win,17 - 2,675139,674,1,0.2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,9,0,2,0,0,0,4,0,1306662,2013
+05/10/2013,home,11320,528,Oregon St.,9,True,3,7,-4,loss,3 - 7,678856,674,1,2.2,2,0,0,0,2,0,10,9,0,0,0,0,0,1,0,1,0,0,0,35,4,0,0,0,0,3,0,1306662,2013
+05/14/2013,home,11320,631,Santa Clara,9,True,0,3,-3,loss,0 - 3,679439,674,1,2.2,2,0,0,0,0,0,10,9,0,0,0,0,0,1,0,0,0,0,0,32,4,3,0,0,0,2,0,1306662,2013
+05/21/2013,home,11320,534,Pacific,9,True,11,2,9,win,11 - 2,680117,674,1,2.0,4,2,2,0,1,0,10,10,0,1,0,0,0,0,0,0,0,0,0,26,2,3,0,0,0,2,1,1306662,2013

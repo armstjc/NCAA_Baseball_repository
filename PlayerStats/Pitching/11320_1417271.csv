@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/16/2013,home,11320,521,Oklahoma St.,13,True,14,15,-1,loss,14 - 15,658178,473,1,0.1,2,3,1,1,1,0,4,3,0,0,0,0,0,0,0,1,1,0,0,17,0,0,0,0,0,3,1,1417271,2013
+02/24/2013,home,11320,522,Oklahoma,9,True,8,10,-2,loss,8 - 10,659799,473,1,1.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,1417271,2013
+03/02/2013,away,11320,463,Nebraska,9,True,5,8,-3,loss,5 - 8,660459,473,1,0.1,2,1,1,1,0,0,4,3,0,0,0,2,0,0,0,3,2,0,0,16,1,0,0,0,0,4,0,1417271,2013
+03/06/2013,home,11320,340,La Salle,9,True,17,4,13,win,17 - 4,661603,473,1,0.0,2,1,1,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1417271,2013

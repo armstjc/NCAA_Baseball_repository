@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,649,South Dakota St.,9,True,13,2,11,win,13 - 2,4930909,1045,1,1.0,0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,11,2,0,0,0,0,2,0,0,2309305,2020
+02/22/2020,away,15204,457,North Carolina,9,True,0,9,-9,loss,0 - 9,4934906,1045,1,4.1,0,4,3,1,4,3,0,20,16,2,0,0,0,0,0,0,1,0,0,0,79,2,6,0,0,0,2,1,0,2309305,2020
+02/29/2020,home,15204,30,Arkansas St.,9,True,7,11,-4,loss,7 - 11,4944044,1045,1,0.1,0,2,2,2,0,1,0,3,3,1,0,0,0,0,0,0,2,2,0,0,9,0,0,0,0,0,3,0,0,2309305,2020

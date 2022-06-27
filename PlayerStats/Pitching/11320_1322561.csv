@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/27/2013,away,11320,317,James Madison,9,True,10,5,5,win,10 - 5,660035,392,1,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,0,2,0,0,0,3,1,1322561,2013
+03/02/2013,home,11320,554,Princeton,9,True,16,3,13,win,16 - 3,660629,392,1,1.0,1,0,0,1,0,0,4,3,1,0,0,0,0,0,0,0,0,0,0,16,0,2,0,0,0,4,0,1322561,2013
+03/12/2013,home,11320,386,Marist,9,True,9,3,6,win,9 - 3,663292,392,1,1.1,2,0,0,1,0,0,7,6,1,0,0,0,0,0,0,0,0,0,0,24,1,2,0,0,0,3,0,1322561,2013
+03/23/2013,home,11320,749,Wake Forest,9,True,7,8,-1,loss,7 - 8,665960,392,1,1.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,19,2,0,0,0,0,6,0,1322561,2013
+04/05/2013,away,11320,457,North Carolina,9,True,4,12,-8,loss,4 - 12,669392,392,1,0.1,0,0,0,1,0,0,3,1,0,0,0,0,0,1,0,1,0,0,0,10,0,1,0,0,0,3,0,1322561,2013
+04/20/2013,home,11320,742,Virginia Tech,9,True,0,11,-11,loss,0 - 11,674396,392,1,1.0,2,1,1,1,1,0,6,5,1,0,0,0,0,0,0,1,1,0,0,23,1,1,0,0,0,4,0,1322561,2013

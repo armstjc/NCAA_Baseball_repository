@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,home,15204,459,UNC Greensboro,9,True,5,7,-2,loss,5 - 7,4927361,742,1,1.1,0,2,2,2,2,1,0,8,4,0,0,0,0,0,0,0,0,0,2,0,32,2,1,0,0,0,2,1,0,1977932,2020
+02/25/2020,home,15204,563,Radford,9,True,3,2,1,win,3 - 2,4946686,742,1,4.0,0,3,1,1,0,3,0,15,15,1,0,0,0,0,0,0,0,0,0,0,42,6,3,0,0,0,1,1,0,1977932,2020
+03/04/2020,home,15204,388,Marshall,9,True,10,5,5,win,10 - 5,4948886,742,1,5.1,0,3,4,3,2,5,0,23,21,0,0,0,0,0,0,0,0,0,0,0,84,4,7,1,0,0,1,2,0,1977932,2020
+03/10/2020,home,15204,786,William & Mary,9,True,19,4,15,win,19 - 4,4956812,742,1,5.0,0,4,2,2,0,8,0,19,19,0,0,0,2,0,0,0,0,0,0,0,77,3,4,1,0,0,1,2,0,1977932,2020

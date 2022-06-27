@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/22/2020,away,15204,654,Southeast Mo. St.,10,True,15,16,-1,loss,15 - 16,4936316,503,1,1.0,0,3,1,1,0,2,0,6,6,1,0,0,0,1,0,0,0,0,0,0,21,1,0,0,0,0,3,0,0,2134576,2020
+02/29/2020,home,15204,464,Omaha,9,True,5,9,-4,loss,5 - 9,4943234,503,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,3,1,0,2134576,2020
+03/08/2020,away,15204,659,Southern Ill.,9,True,0,6,-6,loss,0 - 6,4954363,503,1,1.1,0,1,1,1,0,0,0,5,4,0,0,0,0,0,1,0,0,0,0,0,23,1,2,0,0,0,4,0,0,2134576,2020
+03/10/2020,away,15204,434,Missouri,9,True,3,6,-3,loss,3 - 6,4957091,503,1,1.0,0,0,0,0,0,1,0,4,3,0,0,0,0,0,1,0,0,0,0,0,15,1,1,0,0,0,3,0,0,2134576,2020

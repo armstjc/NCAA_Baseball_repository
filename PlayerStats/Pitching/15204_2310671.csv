@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,away,15204,19651,High Point,9,True,1,3,-2,loss,1 - 3,4929890,342,1,2.0,0,2,1,1,1,2,0,8,7,0,0,0,0,1,0,0,2,0,0,0,38,2,1,0,0,0,3,0,0,2310671,2020
+02/22/2020,away,15204,741,VMI,9,True,1,9,-8,loss,1 - 9,4936092,342,1,3.0,0,3,1,1,1,1,0,13,11,0,0,0,0,1,0,0,0,0,1,0,0,1,7,0,0,0,2,0,0,2310671,2020
+02/28/2020,away,15204,173,Davidson,9,True,8,2,6,win,8 - 2,4942318,342,1,3.0,0,0,1,1,2,6,0,11,8,0,0,0,0,0,0,0,0,0,0,1,46,1,2,0,0,1,2,2,0,2310671,2020
+03/07/2020,away,15204,711,Towson,9,True,6,2,4,win,6 - 2,4953011,342,1,4.0,0,0,0,0,2,9,0,14,11,0,0,0,0,1,1,0,0,0,0,0,66,0,2,0,0,1,2,3,0,2310671,2020

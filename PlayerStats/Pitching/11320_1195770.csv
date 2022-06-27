@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/24/2013,home,11320,180,Delaware,9,True,13,4,9,win,13 - 4,659632,742,1,1.0,0,0,0,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,25,1,1,0,0,0,4,0,1195770,2013
+03/08/2013,home,11320,255,Georgia Tech,9,True,1,11,-10,loss,1 - 11,661885,742,1,0.2,2,2,2,0,2,0,5,4,1,0,0,0,1,1,0,1,1,0,0,22,0,0,0,0,0,6,0,1195770,2013
+03/26/2013,home,11320,741,VMI,9,True,0,8,-8,loss,0 - 8,666913,742,1,1.0,2,4,4,3,1,0,8,5,0,0,0,0,0,0,0,0,0,0,0,26,1,1,0,1,0,1,1,1195770,2013
+04/16/2013,home,11320,694,Tennessee,9,True,4,5,-1,loss,4 - 5,673205,742,1,2.0,4,4,4,2,2,0,13,10,1,1,0,1,0,1,0,0,0,0,0,42,4,0,0,1,0,1,1,1195770,2013
+05/08/2013,home,11320,19651,High Point,9,True,11,4,7,win,11 - 4,678635,742,1,1.0,2,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,15,2,1,0,0,0,4,0,1195770,2013

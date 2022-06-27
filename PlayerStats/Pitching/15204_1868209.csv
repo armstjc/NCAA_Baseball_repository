@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,away,15204,1104,Grand Canyon,9,True,6,4,2,win,6 - 4,4929797,521,1,6.0,0,7,2,1,0,4,0,26,26,1,0,0,0,0,0,0,0,0,0,0,106,10,4,1,0,0,1,0,0,1868209,2020
+02/21/2020,home,15204,536,UTRGV,9,True,17,2,15,win,17 - 2,4934085,521,1,6.0,0,1,0,0,2,10,0,22,19,0,0,0,0,0,1,0,0,0,0,0,105,4,4,1,0,0,1,4,0,1868209,2020
+02/28/2020,home,15204,110,UCLA,9,True,1,8,-7,loss,1 - 8,4942223,521,1,6.0,0,8,5,5,2,4,0,28,24,5,0,0,0,0,0,0,0,0,1,1,104,7,7,0,1,0,1,2,0,1868209,2020
+03/05/2020,home,15204,77,BYU,9,True,2,0,2,win,2 - 0,4949742,521,1,7.0,0,2,0,0,1,13,0,24,21,0,0,0,0,0,1,0,0,0,1,0,100,2,5,1,0,0,1,2,0,1868209,2020

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,away,15204,674,Stanford,9,True,6,1,5,win,6 - 1,4928737,97,1,7.0,0,4,1,1,1,5,0,24,23,1,0,0,0,0,0,0,0,0,0,0,83,8,5,1,0,0,1,0,0,2121691,2020
+02/22/2020,home,15204,718,Tulane,9,True,7,5,2,win,7 - 5,4936972,97,1,6.1,0,5,4,1,1,6,0,28,24,0,1,0,1,0,1,1,0,0,2,0,83,8,4,0,0,0,1,0,0,2121691,2020
+02/29/2020,home,15204,629,San Francisco,9,True,5,4,1,win,5 - 4,4946865,97,1,6.2,0,10,2,2,0,7,0,28,26,1,0,0,0,0,2,0,0,0,0,0,99,5,4,1,0,0,1,1,0,2121691,2020
+03/07/2020,away,15204,703,Texas,9,True,3,4,-1,loss,3 - 4,4952166,97,1,5.0,0,7,3,3,2,2,0,25,21,1,0,0,0,0,1,0,0,0,1,0,86,5,8,0,0,0,1,1,0,2121691,2020

@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/16/2013,away,11320,671,Louisiana,9,True,4,5,-1,loss,4 - 5,658321,129,1,0.2,2,1,1,1,1,0,5,4,0,0,0,0,0,0,0,2,2,0,0,22,0,1,0,1,0,3,0,1302821,2013
+02/24/2013,away,11320,772,Western Ky.,9,True,2,4,-2,loss,2 - 4,659493,129,1,0.2,1,1,1,1,0,0,4,2,1,0,0,0,0,0,0,2,1,0,1,15,1,1,0,0,0,2,0,1302821,2013
+03/03/2013,home,11320,518,Ohio St.,9,True,1,8,-7,loss,1 - 8,661138,129,1,1.0,2,3,2,2,0,0,6,3,0,0,0,0,0,0,0,1,1,0,1,0,0,2,0,0,0,2,0,1302821,2013
+03/09/2013,home,11320,136,Chicago St.,9,True,6,0,6,win,6 - 0,662589,129,1,2.0,1,0,0,3,4,0,9,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,1302821,2013
+03/16/2013,home,11320,388,Marshall,9,True,10,8,2,win,10 - 8,664307,129,1,0.2,1,0,0,0,1,0,4,3,0,1,0,0,0,1,0,2,2,0,0,17,0,1,1,0,0,3,0,1302821,2013
+03/29/2013,home,11320,71,Bowling Green,9,True,0,1,-1,loss,0 - 1,667452,129,1,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,3,0,1302821,2013

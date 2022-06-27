@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,away,15204,231,FIU,9,True,2,18,-16,loss,2 - 18,4932074,236,1,2.0,0,5,4,4,2,3,0,14,11,0,0,0,0,2,1,0,0,0,0,0,55,3,0,0,0,0,3,1,0,2113555,2020
+02/21/2020,home,15204,101,CSUN,9,True,5,12,-7,loss,5 - 12,4936943,236,1,0.0,0,1,4,4,2,0,0,4,1,0,0,0,0,1,1,0,0,0,0,0,17,0,0,0,1,0,2,0,0,2113555,2020
+02/23/2020,away,15204,1104,Grand Canyon,9,True,3,4,-1,loss,3 - 4,4938084,236,1,5.0,0,0,0,0,1,6,0,16,15,0,0,0,0,0,0,0,3,0,0,0,63,5,4,0,0,0,2,4,0,2113555,2020
+03/01/2020,away,15204,244,Furman,9,True,11,3,8,win,11 - 3,4945370,236,1,5.0,0,7,2,2,0,6,0,22,21,0,0,0,0,0,0,0,0,0,1,0,74,3,6,1,0,0,1,0,0,2113555,2020
+03/08/2020,home,15204,310,Iona,9,True,16,2,14,win,16 - 2,4953819,236,1,5.0,0,3,0,0,3,5,0,19,16,0,0,0,0,0,0,0,0,0,0,0,0,4,6,1,0,0,1,0,0,2113555,2020

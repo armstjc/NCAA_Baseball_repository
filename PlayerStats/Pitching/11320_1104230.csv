@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/24/2013,away,11320,392,Maryland,10,True,3,4,-1,loss,3 - 4,659749,514,1,0.0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3,0,1104230,2013
+04/03/2013,home,11320,525,Olivet,9,True,14,2,12,win,14 - 2,669076,514,1,1.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,0,0,0,0,9,1,1104230,2013
+05/08/2013,home,11320,129,Central Mich.,9,True,9,13,-4,loss,9 - 13,678604,514,1,1.0,2,1,1,0,1,0,6,4,1,0,0,1,0,1,0,0,0,0,1,0,1,1,0,0,0,9,1,1104230,2013
+05/10/2013,home,11320,464,Omaha,12,True,2,8,-6,loss,2 - 8,678924,514,1,0.2,4,3,1,0,0,0,6,5,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,4,0,1104230,2013

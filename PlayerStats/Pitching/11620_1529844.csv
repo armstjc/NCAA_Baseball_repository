@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/22/2014,away,11620,277,Hawaii,9,True,7,9,-2,loss,7 - 9,587999,14,1,1.1,1,1,1,1,0,0,7,4,1,0,0,0,0,2,0,1,0,0,0,26,3,0,0,0,0,4,0,1529844,2014
+03/18/2014,home,11620,386,Marist,9,True,4,7,-3,loss,4 - 7,593713,14,1,1.1,0,0,0,3,1,0,8,4,0,0,0,1,0,1,0,0,0,0,0,0,2,0,0,0,0,3,1,1529844,2014
+04/01/2014,away,11620,236,Fordham,9,True,2,8,-6,loss,2 - 8,597143,14,1,0.0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4,0,1529844,2014
+05/06/2014,away,11620,603,St. John's (NY),9,True,5,8,-3,loss,5 - 8,606881,14,1,0.2,3,2,2,1,0,0,6,5,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,1529844,2014

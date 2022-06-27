@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,432,Mississippi Val.,9,True,9,0,9,win,9 - 0,4926895,402,1,6.0,0,0,0,0,0,12,0,18,17,0,0,0,0,0,1,0,0,0,0,0,0,3,2,1,0,0,1,2,0,2141224,2020
+02/22/2020,home,15204,32,Little Rock,9,True,14,2,12,win,14 - 2,4935848,402,1,6.0,0,7,2,2,1,9,0,25,24,0,0,0,0,0,0,0,0,0,0,0,0,3,5,1,0,0,1,2,0,2141224,2020
+02/29/2020,home,15204,664,Southern Miss.,9,True,0,10,-10,loss,0 - 10,4944466,402,1,4.2,0,11,7,7,1,6,0,26,24,2,1,0,1,0,0,0,0,0,0,1,96,1,7,0,1,0,1,2,0,2141224,2020
+03/06/2020,home,15204,498,ULM,9,True,2,8,-6,loss,2 - 8,4951244,402,1,4.0,0,6,3,3,3,10,0,21,18,3,1,0,1,0,0,0,0,0,0,0,97,0,2,0,1,0,1,5,0,2141224,2020

@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/05/2013,home,11320,606,Saint Joseph's,9,True,11,3,8,win,11 - 3,661447,9,1,2.0,0,0,0,0,5,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,1313628,2013
+03/24/2013,home,11320,128,UCF,10,True,10,12,-2,loss,10 - 12,666536,9,1,0.2,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,3,1,0,1,0,0,2,0,0,0,5,0,1313628,2013
+04/10/2013,away,11320,315,Jacksonville St.,9,True,2,8,-6,loss,2 - 8,671191,9,1,2.0,1,0,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,22,3,2,0,0,0,4,1,1313628,2013
+04/21/2013,home,11320,196,East Carolina,9,True,5,9,-4,loss,5 - 9,674476,9,1,1.0,2,2,2,1,0,0,6,4,1,0,1,0,0,0,0,2,0,1,0,0,3,0,0,0,0,4,0,1313628,2013
+04/26/2013,away,11320,664,Southern Miss.,9,True,3,13,-10,loss,3 - 13,675554,9,1,2.0,7,7,7,3,0,0,17,12,0,0,1,0,0,1,1,0,0,1,0,54,4,2,0,0,0,3,0,1313628,2013

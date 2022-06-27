@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/13/2013,away,11320,711,Towson,9,True,5,4,1,win,5 - 4,663445,540,1,4.0,3,3,2,3,1,0,18,15,1,0,0,1,0,0,0,0,0,0,0,68,8,2,1,0,0,2,1,1432597,2013
+03/23/2013,away,11320,342,Lafayette,9,True,8,1,7,win,8 - 1,666310,540,1,1.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,1432597,2013
+04/17/2013,away,11320,352,Lehigh,9,True,13,2,11,win,13 - 2,673263,540,1,1.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,1432597,2013
+04/26/2013,away,11320,158,Columbia,9,True,1,14,-13,loss,1 - 14,675831,540,1,1.1,3,5,5,1,0,0,9,7,0,0,0,0,0,1,0,0,0,0,0,37,1,3,0,0,0,2,0,1432597,2013

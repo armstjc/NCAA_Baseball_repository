@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/02/2013,home,11320,740,VCU,9,True,6,11,-5,loss,6 - 11,660520,141,1,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,6,0,1322746,2013
+03/12/2013,home,11320,5,Akron,9,True,7,1,6,win,7 - 1,663161,141,1,1.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,1,0,0,0,17,2,0,0,0,0,2,1,1322746,2013
+03/19/2013,home,11320,648,South Carolina,9,True,5,9,-4,loss,5 - 9,665157,141,1,0.2,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,6,0,1322746,2013
+03/20/2013,away,11320,1014,Col. of Charleston,9,True,7,11,-4,loss,7 - 11,665312,141,1,0.0,1,2,2,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,6,0,1322746,2013

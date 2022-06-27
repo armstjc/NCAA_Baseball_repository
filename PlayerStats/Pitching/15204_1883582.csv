@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/26/2020,away,15204,740,VCU,9,True,6,3,3,win,6 - 3,4940000,523,1,1.2,0,3,0,0,0,2,0,8,8,1,0,0,0,0,0,0,1,1,0,0,0,1,2,0,0,0,3,0,0,1883582,2020
+03/03/2020,home,15204,741,VMI,9,True,17,2,15,win,17 - 2,4948051,523,1,2.0,0,4,1,1,0,2,0,10,10,0,0,0,0,1,0,0,0,0,0,0,43,3,1,0,0,0,3,1,0,1883582,2020
+03/10/2020,home,15204,485,Norfolk St.,10,True,4,8,-4,loss,4 - 8,4957148,523,1,5.0,0,1,0,0,1,2,0,17,16,1,0,0,0,0,0,0,0,0,0,0,52,5,8,0,0,0,1,0,0,1883582,2020

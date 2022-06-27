@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,26172,A&M-Corpus Christi,9,True,3,1,2,win,3 - 1,4930188,702,1,1.0,0,2,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,1768467,2020
+02/28/2020,home,15204,732,Utah,9,True,6,0,6,win,6 - 0,4941988,702,1,1.0,0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,11,2,0,0,0,0,3,0,0,1768467,2020
+03/03/2020,away,15204,698,TCU,12,True,6,4,2,win,6 - 4,4948155,702,1,3.0,0,1,0,0,3,2,0,13,9,0,0,0,0,0,0,2,0,0,1,0,42,6,1,1,0,0,5,1,0,1768467,2020
+03/08/2020,home,15204,706,UTSA,9,True,1,0,1,win,1 - 0,4954265,702,1,0.2,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,9,0,1,1,0,0,2,1,0,1768467,2020
+03/10/2020,home,15204,522,Oklahoma,9,True,0,3,-3,loss,0 - 3,4957119,702,1,1.0,0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,1,0,0,0,0,11,1,2,0,0,0,4,0,0,1768467,2020

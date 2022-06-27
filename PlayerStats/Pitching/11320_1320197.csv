@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/03/2013,home,11320,439,Monmouth,9,True,11,4,7,win,11 - 4,660935,180,1,1.0,1,0,0,2,1,0,6,4,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,1,1320197,2013
+03/10/2013,away,11320,711,Towson,9,True,14,19,-5,loss,14 - 19,662728,180,1,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,0,0,5,0,1320197,2013
+03/13/2013,home,11320,178,Delaware St.,9,True,4,6,-2,loss,4 - 6,663510,180,1,2.0,3,3,3,3,2,0,12,8,1,0,0,2,0,0,0,0,0,1,0,0,4,0,0,1,0,1,1,1320197,2013
+05/18/2013,home,11320,317,James Madison,9,True,6,11,-5,loss,6 - 11,679934,180,1,1.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,1,1320197,2013

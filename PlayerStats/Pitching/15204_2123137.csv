@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,home,15204,709,Toledo,9,True,6,2,4,win,6 - 2,4925840,198,1,0.2,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,0,0,0,8,0,1,0,0,1,4,0,0,2123137,2020
+02/16/2020,home,15204,709,Toledo,9,True,9,7,2,win,9 - 7,4930184,198,1,1.2,0,1,1,1,0,2,0,6,6,0,0,0,0,0,0,0,2,0,0,0,27,3,0,0,0,0,3,2,0,2123137,2020
+02/21/2020,home,15204,576,Rider,9,True,7,0,7,win,7 - 0,4933881,198,1,1.0,0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,2123137,2020
+03/08/2020,home,15204,519,Ohio,9,True,6,4,2,win,6 - 4,4954693,198,1,0.1,0,1,2,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,4,0,0,2123137,2020
+03/10/2020,away,15204,694,Tennessee,9,True,5,17,-12,loss,5 - 17,4957041,198,1,2.1,0,3,1,1,2,2,0,12,10,1,0,0,0,0,0,0,1,0,0,0,40,2,3,0,0,0,2,0,0,2123137,2020

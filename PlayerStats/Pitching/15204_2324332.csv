@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/15/2020,home,15204,67,Boston College,9,True,10,11,-1,loss,10 - 11,4931985,503,1,4.2,0,7,7,5,4,3,0,26,21,3,0,0,1,4,0,0,0,0,0,1,103,4,7,0,0,0,1,2,0,2324332,2020
+02/22/2020,away,15204,654,Southeast Mo. St.,9,True,7,5,2,win,7 - 5,4936295,503,1,5.0,0,6,4,2,2,4,0,23,20,1,3,0,0,1,0,0,0,0,0,1,82,2,7,0,0,0,1,0,0,2324332,2020
+02/29/2020,home,15204,464,Omaha,9,True,5,9,-4,loss,5 - 9,4943234,503,1,5.0,0,5,4,4,4,5,0,24,19,1,2,0,0,0,0,1,0,0,1,0,91,5,4,0,1,0,1,2,0,2324332,2020
+03/07/2020,away,15204,659,Southern Ill.,9,True,3,4,-1,loss,3 - 4,4952704,503,1,5.2,0,5,2,2,4,8,0,28,22,0,0,0,0,3,1,1,0,0,1,0,102,5,5,0,0,0,1,1,0,2324332,2020

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,466,Nevada,9,True,6,4,2,win,6 - 4,4930068,551,1,1.2,0,1,0,0,1,2,0,7,6,0,0,0,0,0,0,0,0,0,0,0,29,0,3,1,0,0,2,1,0,2125145,2020
+02/21/2020,home,15204,30024,Utah Valley,9,True,8,2,6,win,8 - 2,4934078,551,1,0.1,0,2,1,1,1,1,0,4,3,1,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,2,0,0,2125145,2020
+02/29/2020,home,15204,676,SFA,9,True,8,7,1,win,8 - 7,4943975,551,1,4.0,0,4,0,0,2,1,0,17,15,0,0,0,0,0,0,0,0,0,0,0,79,3,7,0,0,0,2,1,0,2125145,2020
+03/06/2020,away,15204,464,Omaha,9,True,5,7,-2,loss,5 - 7,4950740,551,1,1.1,0,1,0,0,0,2,0,5,5,1,0,0,0,0,0,0,1,1,0,0,24,1,1,0,0,0,4,1,0,2125145,2020

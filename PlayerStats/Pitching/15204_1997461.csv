@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/19/2020,home,15204,404,Memphis,9,True,5,3,2,win,5 - 3,4932423,1004,1,5.0,0,6,2,2,1,2,0,21,19,0,0,0,1,1,0,0,0,0,0,1,0,3,9,1,0,0,1,1,0,1997461,2020
+02/23/2020,away,15204,664,Southern Miss.,9,True,6,8,-2,loss,6 - 8,4937803,1004,1,2.0,0,1,0,0,0,2,0,7,7,0,0,0,0,0,0,0,0,0,0,0,17,2,2,0,0,0,6,0,0,1997461,2020
+02/25/2020,away,15204,404,Memphis,9,True,5,8,-3,loss,5 - 8,4939386,1004,1,3.0,0,7,5,1,0,2,0,18,16,2,0,0,0,0,1,0,0,0,1,0,64,4,2,0,1,0,1,0,0,1997461,2020
+03/03/2020,away,15204,736,Vanderbilt,9,True,2,10,-8,loss,2 - 10,4948078,1004,1,2.2,0,3,3,3,4,1,0,16,10,1,0,0,0,0,2,0,0,0,0,0,67,3,3,0,1,0,1,0,0,1997461,2020
+03/10/2020,home,15204,695,UT Martin,9,True,5,3,2,win,5 - 3,4957031,1004,1,5.2,0,4,2,2,1,6,0,22,20,0,0,0,1,0,0,0,0,0,1,0,0,4,6,0,0,0,1,1,0,1997461,2020

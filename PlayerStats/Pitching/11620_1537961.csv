@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/05/2014,home,11620,231,FIU,9,True,0,6,-6,loss,0 - 6,590104,61,1,1.1,1,1,0,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,27,2,1,0,0,0,3,0,1537961,2014
+03/16/2014,home,11620,488,N.C. A&T,9,True,8,12,-4,loss,8 - 12,593242,61,1,1.0,1,0,0,2,2,0,6,4,0,0,0,0,0,0,0,2,0,0,0,28,0,1,0,0,0,3,1,1537961,2014

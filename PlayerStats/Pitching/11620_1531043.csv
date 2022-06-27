@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/09/2014,home,11620,272,Hartford,9,True,6,18,-12,loss,6 - 18,591078,198,1,1.0,6,3,3,0,0,0,9,9,0,0,1,0,0,0,0,0,0,0,0,26,3,0,0,0,0,6,0,1531043,2014

@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/01/2014,away,11620,257,Georgia,9,True,2,6,-4,loss,2 - 6,589180,62,1,0.2,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,3,0,1541920,2014
+04/09/2014,home,11620,167,Cornell,9,True,1,6,-5,loss,1 - 6,599397,62,1,0.0,0,1,1,2,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1541920,2014
+04/22/2014,away,11620,167,Cornell,10,True,8,6,2,win,8 - 6,603316,62,1,0.1,0,2,2,1,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,1541920,2014

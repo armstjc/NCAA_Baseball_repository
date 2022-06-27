@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/21/2020,away,15204,141,The Citadel,9,True,3,4,-1,loss,3 - 4,4934459,813,1,5.0,0,4,3,3,4,8,0,24,19,1,0,0,0,2,1,1,0,0,0,0,82,3,4,0,1,0,1,2,0,1888443,2020
+02/28/2020,away,15204,523,Old Dominion,9,True,1,6,-5,loss,1 - 6,4941950,813,1,5.0,0,10,5,5,2,2,0,25,22,2,1,0,0,1,0,0,0,0,1,0,85,7,4,0,1,0,1,0,0,1888443,2020
+03/06/2020,home,15204,47,Ball St.,9,True,4,10,-6,loss,4 - 10,4950355,813,1,7.0,0,10,7,4,1,4,0,34,30,0,0,0,1,0,1,1,0,0,1,1,90,7,10,0,1,0,1,0,0,1888443,2020
+03/11/2020,away,15204,316,Jacksonville,9,True,3,8,-5,loss,3 - 8,4958045,813,1,1.0,0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,16,2,0,0,0,0,8,0,0,1888443,2020

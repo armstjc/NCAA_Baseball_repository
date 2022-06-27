@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/15/2013,away,11320,48,Charleston So.,9,True,4,17,-13,loss,4 - 17,657878,202,1,5.0,7,7,6,0,6,0,24,24,0,0,1,0,0,0,0,0,0,0,0,0,4,5,0,1,0,1,1,1107333,2013
+02/23/2013,home,11320,725,Army West Point,9,True,8,6,2,win,8 - 6,659452,202,1,5.0,4,2,1,2,5,0,23,18,0,0,0,0,0,3,0,0,0,0,0,91,7,2,1,0,0,1,1,1107333,2013
+03/08/2013,home,11320,692,Tennessee Tech,9,True,1,5,-4,loss,1 - 5,661938,202,1,5.0,2,2,2,3,3,0,20,17,2,0,0,0,0,0,0,0,0,0,0,85,4,7,0,1,0,1,0,1107333,2013
+03/15/2013,away,11320,654,Southeast Mo. St.,9,True,6,8,-2,loss,6 - 8,663776,202,1,3.1,6,4,4,1,1,0,17,14,2,0,1,0,0,0,0,0,0,1,1,58,4,5,0,0,0,1,0,1107333,2013

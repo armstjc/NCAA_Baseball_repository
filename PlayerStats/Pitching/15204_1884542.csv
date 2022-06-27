@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/14/2020,away,15204,198,ETSU,9,True,2,6,-4,loss,2 - 6,4925840,709,1,4.0,0,4,3,2,4,4,0,22,17,0,0,1,0,1,1,0,0,0,0,0,82,4,4,0,1,0,1,1,0,1884542,2020
+02/21/2020,home,15204,706,UTSA,9,True,5,8,-3,loss,5 - 8,4934203,709,1,5.0,0,7,2,2,2,6,0,24,21,3,0,0,0,0,1,0,0,0,0,0,89,7,1,0,0,0,1,3,0,1884542,2020
+02/28/2020,away,15204,7,Alabama St.,9,True,5,6,-1,loss,5 - 6,4942466,709,1,5.0,0,6,5,5,2,2,0,23,19,0,1,0,0,2,1,0,0,0,1,0,74,10,2,0,0,0,1,0,0,1884542,2020
+03/06/2020,away,15204,9,UAB,9,True,13,4,9,win,13 - 4,4950925,709,1,6.0,0,9,4,1,3,1,0,28,25,2,0,1,0,0,0,0,0,0,0,0,94,8,6,1,0,0,1,1,0,1884542,2020

@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/28/2020,home,15204,503,NIU,9,True,5,8,-3,loss,5 - 8,4942841,464,1,2.0,0,5,2,2,0,2,0,10,9,1,0,0,0,0,0,0,0,0,1,0,37,2,1,0,0,0,4,0,0,2137406,2020
+03/06/2020,home,15204,551,Portland,9,True,7,5,2,win,7 - 5,4950740,464,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,1,1,0,0,3,1,0,2137406,2020

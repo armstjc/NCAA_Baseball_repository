@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/28/2020,home,15204,463,Nebraska,9,True,13,5,8,win,13 - 5,4942647,28,1,1.0,0,3,2,2,0,0,0,6,5,1,0,0,0,1,0,0,0,0,0,1,24,2,1,0,0,0,3,0,0,2137072,2020

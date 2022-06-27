@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/17/2013,away,11320,574,Rice,9,True,0,12,-12,loss,0 - 12,664753,275,1,2.0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,3,0,1438716,2013
+03/19/2013,away,11320,402,McNeese,9,True,0,11,-11,loss,0 - 11,665249,275,1,1.1,4,2,2,0,2,0,8,8,2,0,0,0,0,0,0,2,2,0,0,24,1,1,0,0,0,3,0,1438716,2013
+03/22/2013,away,11320,287,Houston Baptist,9,True,6,12,-6,loss,6 - 12,665592,275,1,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,1438716,2013
+04/07/2013,home,11320,554,Princeton,9,True,20,19,1,win,20 - 19,670597,275,1,1.0,2,2,2,1,0,0,7,5,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,0,0,4,0,1438716,2013

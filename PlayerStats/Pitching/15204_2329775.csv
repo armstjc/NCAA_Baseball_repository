@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/28/2020,away,15204,1157,Kennesaw St.,9,True,10,7,3,win,10 - 7,4947494,540,1,0.1,0,1,3,3,2,0,0,4,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,2329775,2020
+03/10/2020,away,15204,229,Fla. Atlantic,9,True,0,5,-5,loss,0 - 5,4957016,540,1,1.0,0,2,2,2,1,0,0,6,5,0,0,0,1,1,0,0,0,0,0,0,23,0,3,0,1,0,3,0,0,2329775,2020

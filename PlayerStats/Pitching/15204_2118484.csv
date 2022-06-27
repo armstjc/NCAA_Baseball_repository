@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/16/2020,home,15204,519,Ohio,9,True,4,6,-2,loss,4 - 6,4929867,487,1,4.1,0,4,5,3,3,4,0,20,15,0,0,1,0,0,1,0,0,0,1,0,0,5,2,0,1,0,1,3,0,2118484,2020
+02/23/2020,away,15204,508,Northwestern St.,9,True,3,8,-5,loss,3 - 8,4937586,487,1,0.1,0,2,3,3,4,0,0,6,2,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,1,0,1,0,0,2118484,2020
+03/07/2020,away,15204,254,Georgia St.,9,True,4,9,-5,loss,4 - 9,4952451,487,1,1.1,0,1,0,0,1,2,0,6,5,1,0,0,0,0,0,0,0,0,0,0,21,1,1,0,0,0,4,0,0,2118484,2020

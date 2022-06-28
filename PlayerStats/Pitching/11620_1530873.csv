@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/14/2014,away,11620,370,LMU (CA),9,True,1,2,-1,loss,1 - 2,586943,30024,1,2.1,0,0,0,0,2,0,7,7,0,0,0,0,0,0,0,3,0,0,0,31,0,5,0,0,0,3,0,1530873,2014
+02/18/2014,away,11620,29,Arizona,14,True,7,8,-1,loss,7 - 8,587615,30024,1,0.1,2,3,3,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,20,1,0,0,0,0,2,0,1530873,2014
+02/22/2014,away,11620,541,Pepperdine,9,True,2,9,-7,loss,2 - 9,588100,30024,1,2.1,1,2,2,3,1,0,10,7,0,0,0,0,0,0,0,2,0,0,0,0,1,4,0,0,0,4,0,1530873,2014
+03/02/2014,away,11620,534,Pacific,9,True,5,9,-4,loss,5 - 9,589795,30024,1,0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,8,0,0,0,1,0,2,0,1530873,2014
+03/10/2014,away,11620,101,CSUN,9,True,1,7,-6,loss,1 - 7,591633,30024,1,0.2,5,3,3,1,0,0,8,7,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,1530873,2014

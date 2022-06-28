@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/16/2014,away,11620,43,Austin Peay,9,True,4,7,-3,loss,4 - 7,587305,312,1,0.2,2,2,1,0,1,0,4,3,1,1,0,0,0,0,0,2,1,0,1,0,0,1,0,0,0,3,0,1310134,2014
+02/21/2014,home,11620,432,Mississippi Val.,9,True,9,4,5,win,9 - 4,587962,312,1,2.0,1,1,1,0,3,0,7,7,1,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,1,3,3,1310134,2014
+03/16/2014,home,11620,251,Georgetown,9,True,1,10,-9,loss,1 - 10,593354,312,1,0.1,0,0,0,2,1,0,4,1,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,4,0,1310134,2014
+03/26/2014,home,11620,72,Bradley,9,True,0,7,-7,loss,0 - 7,595581,312,1,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,8,1,1310134,2014
+04/06/2014,home,11620,306,Indiana,9,True,3,14,-11,loss,3 - 14,598618,312,1,1.0,3,2,0,0,1,0,7,7,0,0,1,0,0,0,0,0,0,0,0,24,1,1,0,0,0,4,1,1310134,2014

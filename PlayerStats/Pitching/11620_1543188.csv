@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/11/2014,home,11620,248,George Mason,9,True,13,3,10,win,13 - 3,591658,457,1,1.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,16,1,1,0,0,0,3,0,1543188,2014
+04/08/2014,home,11620,488,N.C. A&T,9,True,10,0,10,win,10 - 0,599172,457,1,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,1,1,0,0,0,3,0,1543188,2014

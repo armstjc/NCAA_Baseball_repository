@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/09/2014,home,11620,503,NIU,9,True,10,0,10,win,10 - 0,591115,528,1,2.1,2,0,0,3,2,0,12,8,0,0,0,0,0,1,0,0,0,0,0,46,3,1,0,0,0,1,1,1303043,2014
+04/22/2014,away,11620,102,Sacramento St.,9,True,8,1,7,win,8 - 1,603373,528,1,4.1,1,0,0,4,3,0,20,13,0,0,0,0,0,2,0,0,0,1,0,70,4,6,0,0,0,1,1,1303043,2014
+05/06/2014,away,11620,529,Oregon,12,True,4,3,1,win,4 - 3,606909,528,1,2.0,2,2,2,3,2,0,10,7,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,1,1,1303043,2014
+05/13/2014,home,11620,551,Portland,9,True,8,4,4,win,8 - 4,607835,528,1,5.0,1,0,0,2,5,0,18,15,0,0,0,0,0,0,0,0,0,1,0,66,8,2,0,0,0,1,2,1303043,2014
+05/20/2014,away,11620,529,Oregon,9,True,2,6,-4,loss,2 - 6,608468,528,1,2.1,1,0,0,2,2,0,9,6,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,1,0,1303043,2014

@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/27/2014,home,11620,630,San Jose St.,9,True,14,3,11,win,14 - 3,605024,626,1,0.1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,0,1416483,2014
+04/29/2014,away,11620,370,LMU (CA),9,True,1,7,-6,loss,1 - 7,605425,626,1,0.1,2,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,5,0,1416483,2014

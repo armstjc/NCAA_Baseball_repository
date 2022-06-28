@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/11/2014,away,11620,178,Delaware St.,9,True,17,9,8,win,17 - 9,591800,540,1,0.2,3,4,4,2,1,0,6,4,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1547553,2014
+04/16/2014,home,11620,28594,USciences,9,True,16,1,15,win,16 - 1,601510,540,1,2.0,1,0,0,2,1,0,8,6,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,3,1,1547553,2014

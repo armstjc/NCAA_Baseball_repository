@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+05/06/2014,home,11620,392,Maryland,9,True,1,12,-11,loss,1 - 12,606901,740,1,1.0,0,0,0,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,2,1416600,2014
+05/10/2014,away,11620,400,Massachusetts,9,True,10,6,4,win,10 - 6,607430,740,1,1.0,1,1,1,2,2,0,6,3,0,0,0,0,0,0,0,0,0,0,1,28,0,1,0,0,0,2,2,1416600,2014
+05/13/2014,away,11620,746,Virginia,9,True,3,12,-9,loss,3 - 12,607812,740,1,1.0,6,5,5,1,0,0,10,9,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,4,0,1416600,2014
+05/23/2014,home,11620,609,Saint Louis,16,True,8,6,2,win,8 - 6,608706,740,1,2.2,2,1,0,0,3,0,12,10,0,0,0,0,0,2,0,0,0,0,0,38,0,5,0,0,0,1,2,1416600,2014

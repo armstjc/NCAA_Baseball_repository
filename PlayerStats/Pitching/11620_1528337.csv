@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/19/2014,away,11620,610,Saint Mary's (CA),9,True,12,1,11,win,12 - 1,593750,428,1,2.2,2,1,1,2,1,0,12,9,0,0,0,0,0,0,0,0,0,1,0,37,4,3,0,0,0,1,1,1528337,2014
+04/02/2014,home,11620,38,Augsburg,9,True,1,0,1,win,1 - 0,597442,428,1,3.0,1,0,0,3,0,0,12,9,0,0,0,0,0,0,0,0,0,0,0,47,3,5,0,0,0,1,0,1528337,2014
+04/09/2014,away,11620,649,South Dakota St.,9,True,4,13,-9,loss,4 - 13,599649,428,1,0.1,0,5,5,3,0,0,6,1,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,1,0,1,0,1528337,2014
+05/07/2014,home,11620,161,Concordia-M'head,9,True,2,3,-1,loss,2 - 3,606959,428,1,3.0,2,2,2,1,2,0,13,12,2,0,0,0,0,0,0,0,0,0,0,44,3,4,0,0,0,1,0,1528337,2014

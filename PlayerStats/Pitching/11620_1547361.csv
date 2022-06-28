@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/01/2014,away,11620,9,UAB,9,True,7,2,5,win,7 - 2,597057,716,1,6.0,1,0,0,3,4,0,21,18,0,0,0,1,0,0,0,0,0,0,0,0,6,7,1,0,0,1,1,1547361,2014
+04/08/2014,away,11620,37,Auburn,9,True,0,6,-6,loss,0 - 6,599201,716,1,1.1,6,3,3,0,0,0,10,10,2,0,0,0,0,0,0,0,0,0,0,32,2,2,0,1,0,1,0,1547361,2014
+05/23/2014,home,11620,30,Arkansas St.,9,True,0,12,-12,loss,0 - 12,608692,716,1,0.0,1,4,3,1,0,0,4,3,0,0,0,1,0,0,0,0,0,0,0,12,0,0,0,0,0,4,0,1547361,2014

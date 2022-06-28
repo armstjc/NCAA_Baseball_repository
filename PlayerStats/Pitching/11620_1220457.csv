@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/16/2014,home,11620,485,Norfolk St.,9,True,11,3,8,win,11 - 3,587483,709,1,5.0,4,1,1,5,4,0,24,19,0,0,0,0,0,0,0,0,0,0,0,0,4,6,1,0,0,1,1,1220457,2014
+02/22/2014,away,11620,365,LSU,9,True,1,15,-14,loss,1 - 15,588077,709,1,2.2,6,4,4,3,1,0,18,14,1,1,0,0,0,1,0,0,0,0,0,87,3,4,0,1,0,1,0,1220457,2014
+03/01/2014,home,11620,306,Indiana,9,True,3,8,-5,loss,3 - 8,589567,709,1,6.0,6,4,4,2,2,0,26,22,5,0,0,0,0,0,0,0,0,1,1,0,9,5,0,1,0,1,1,1220457,2014

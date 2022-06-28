@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/15/2014,away,11620,404,Memphis,9,True,2,4,-2,loss,2 - 4,587065,774,1,1.1,4,2,2,1,1,0,9,8,1,0,0,0,0,0,0,2,1,0,0,30,2,1,0,0,0,2,0,1429540,2014
+02/21/2014,away,11620,367,Louisville,9,True,8,21,-13,loss,8 - 21,587851,774,1,1.0,6,4,3,1,0,0,10,8,1,0,0,0,0,0,0,3,1,0,1,34,0,3,0,0,0,2,0,1429540,2014
+03/01/2014,home,11620,352,Lehigh,9,True,4,5,-1,loss,4 - 5,589575,774,1,1.0,2,1,0,0,1,0,5,5,0,0,0,0,1,0,0,2,0,0,0,0,1,0,0,0,0,3,0,1429540,2014
+04/30/2014,away,11620,513,Notre Dame,10,True,6,4,2,win,6 - 4,605559,774,1,1.2,1,0,0,1,2,0,7,6,0,0,0,0,0,0,0,3,0,0,0,22,2,1,1,0,0,5,0,1429540,2014
+05/07/2014,home,11620,735,Valparaiso,9,True,4,8,-4,loss,4 - 8,607015,774,1,1.2,1,0,0,0,1,0,6,6,1,0,0,0,0,0,0,3,1,0,0,15,2,2,0,0,0,5,0,1429540,2014

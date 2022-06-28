@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/23/2014,away,11620,694,Tennessee,9,True,2,4,-2,loss,2 - 4,588516,465,1,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,2,0,1530035,2014
+03/19/2014,home,11620,494,North Dakota,9,True,16,6,10,win,16 - 6,593758,465,1,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,4,0,1,0,0,0,4,0,1530035,2014
+04/09/2014,away,11620,31,Arkansas,9,True,2,9,-7,loss,2 - 9,599430,465,1,1.0,3,2,2,0,0,0,6,5,1,0,0,0,0,0,0,0,0,1,0,15,1,2,0,0,0,3,0,1530035,2014
+04/29/2014,away,11620,111,UC Riverside,9,True,2,8,-6,loss,2 - 8,605411,465,1,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,1530035,2014
+05/13/2014,home,11620,28,Arizona St.,9,True,5,9,-4,loss,5 - 9,607766,465,1,2.0,0,0,0,1,2,0,9,6,0,0,0,0,0,2,0,0,0,0,0,32,3,2,0,0,0,4,0,1530035,2014

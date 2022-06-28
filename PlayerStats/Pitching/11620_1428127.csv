@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/14/2014,away,11620,97,Cal St. Fullerton,9,True,0,12,-12,loss,0 - 12,586925,754,1,2.0,7,3,3,0,3,0,13,13,2,0,0,1,0,0,0,0,0,0,0,46,1,2,0,0,0,4,0,1428127,2014
+02/16/2014,away,11620,97,Cal St. Fullerton,9,True,4,5,-1,loss,4 - 5,587364,754,1,0.2,2,1,1,1,0,0,5,3,1,0,0,0,0,0,1,2,0,1,0,17,1,1,0,1,0,6,0,1428127,2014
+02/21/2014,home,11620,769,Western Caro.,9,True,1,13,-12,loss,1 - 13,587850,754,1,3.0,4,2,0,1,0,0,15,13,1,0,0,0,0,0,0,3,3,0,1,38,7,2,0,0,0,4,0,1428127,2014
+03/14/2014,away,11620,29,Arizona,9,True,1,12,-11,loss,1 - 12,592289,754,1,0.1,1,1,1,1,0,0,3,2,1,0,0,0,0,0,0,3,3,0,0,10,1,0,0,0,0,6,0,1428127,2014
+05/17/2014,away,11620,674,Stanford,9,True,4,9,-5,loss,4 - 9,608295,754,1,1.0,0,0,0,3,1,0,6,3,0,0,0,0,0,0,0,0,0,0,0,24,0,2,0,0,0,6,0,1428127,2014

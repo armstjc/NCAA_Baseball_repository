@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/14/2014,away,11620,624,Sam Houston,9,True,3,5,-2,loss,3 - 5,586887,502,1,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,1437674,2014
+02/16/2014,away,11620,624,Sam Houston,9,True,0,5,-5,loss,0 - 5,587325,502,1,0.1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,2,0,1437674,2014
+02/18/2014,away,11620,698,TCU,9,True,3,10,-7,loss,3 - 10,587581,502,1,2.2,2,2,2,2,4,0,12,9,0,0,1,0,0,1,0,0,0,0,0,56,3,0,0,1,0,1,1,1437674,2014

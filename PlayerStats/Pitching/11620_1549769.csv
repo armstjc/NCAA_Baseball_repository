@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/22/2014,away,11620,251,Georgetown,11,True,10,11,-1,loss,10 - 11,588130,272,1,0.2,2,1,1,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,25,1,0,0,1,0,5,1,1549769,2014
+03/27/2014,home,11620,220,Fairfield,9,True,8,5,3,win,8 - 5,595748,272,1,1.0,1,3,2,2,0,0,7,5,1,0,0,1,0,0,0,0,0,0,0,32,0,3,0,0,0,5,0,1549769,2014

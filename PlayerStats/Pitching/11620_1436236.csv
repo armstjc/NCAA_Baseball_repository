@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/21/2014,home,11620,488,N.C. A&T,9,True,15,1,14,win,15 - 1,603210,563,1,1.0,1,0,0,0,1,0,5,4,0,0,0,0,0,1,0,0,0,0,0,13,1,1,0,0,0,4,1,1436236,2014
+04/30/2014,away,11620,198,ETSU,9,True,4,5,-1,loss,4 - 5,605579,563,1,1.0,2,1,1,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,19,2,1,0,0,0,6,0,1436236,2014
+05/16/2014,home,11620,355,Liberty,9,True,4,9,-5,loss,4 - 9,608144,563,1,1.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,2,0,0,0,0,6,0,1436236,2014

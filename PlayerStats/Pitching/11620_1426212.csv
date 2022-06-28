@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/18/2014,home,11620,624,Sam Houston,9,True,6,18,-12,loss,6 - 18,587585,402,1,0.2,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,1,1,0,0,12,1,1,0,0,0,7,0,1426212,2014
+03/08/2014,away,11620,508,Northwestern St.,9,True,10,5,5,win,10 - 5,590573,402,1,1.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,1,0,0,0,21,0,1,0,0,0,3,1,1426212,2014
+03/16/2014,away,11620,676,SFA,9,True,10,7,3,win,10 - 7,593232,402,1,1.0,3,2,2,0,0,0,6,6,1,0,0,0,0,0,0,2,2,0,0,14,1,2,0,0,1,6,0,1426212,2014

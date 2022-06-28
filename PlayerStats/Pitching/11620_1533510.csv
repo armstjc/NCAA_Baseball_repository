@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/18/2014,home,11620,228,Florida A&M,9,True,12,4,8,win,12 - 4,587568,406,1,0.2,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,1,0,0,0,5,1,1533510,2014
+02/19/2014,home,11620,228,Florida A&M,9,True,10,2,8,win,10 - 2,587665,406,1,1.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,10,0,3,0,0,0,3,0,1533510,2014
+02/22/2014,home,11620,219,Evansville,9,True,8,3,5,win,8 - 3,588021,406,1,1.0,2,1,1,0,1,0,5,5,0,0,1,0,0,0,0,0,0,0,0,17,1,1,0,0,0,5,0,1533510,2014
+03/07/2014,away,11620,37,Auburn,9,True,5,9,-4,loss,5 - 9,590307,406,1,0.2,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,4,0,1533510,2014

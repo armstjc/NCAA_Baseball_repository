@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/11/2014,away,11620,8,Alabama,9,True,1,12,-11,loss,1 - 12,591695,625,1,0.2,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,4,1,0,0,0,0,2,0,1312353,2014
+03/18/2014,home,11620,7,Alabama St.,9,True,7,23,-16,loss,7 - 23,593489,625,1,1.0,2,2,2,1,0,0,5,3,1,0,0,1,0,0,0,3,3,0,1,0,1,1,0,0,0,4,0,1312353,2014
+04/09/2014,away,11620,7,Alabama St.,9,True,8,6,2,win,8 - 6,599450,625,1,0.0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,3,0,0,4,0,0,0,0,0,4,0,1312353,2014
+04/26/2014,home,11620,769,Western Caro.,9,True,7,10,-3,loss,7 - 10,604354,625,1,0.0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1312353,2014
+05/17/2014,away,11620,2915,Wofford,9,True,2,10,-8,loss,2 - 10,608353,625,1,0.1,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,2,0,0,0,8,0,0,0,0,0,8,0,1312353,2014

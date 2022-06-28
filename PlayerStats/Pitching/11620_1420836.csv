@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/15/2014,away,11620,430,Mississippi St.,9,True,1,6,-5,loss,1 - 6,587094,769,1,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,2,0,1420836,2014
+02/21/2014,away,11620,754,Washington St.,9,True,13,1,12,win,13 - 1,587850,769,1,2.0,1,0,0,1,2,0,9,6,1,0,0,0,0,2,0,0,0,0,0,34,2,1,0,0,0,2,1,1420836,2014
+04/08/2014,home,11620,1320,Presbyterian,9,True,16,0,16,win,16 - 0,599219,769,1,1.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,7,0,3,0,0,0,4,0,1420836,2014
+04/16/2014,away,11620,694,Tennessee,9,True,2,6,-4,loss,2 - 6,601568,769,1,0.2,2,0,0,2,0,0,5,3,1,0,0,0,0,0,0,0,0,0,0,22,1,0,0,0,0,2,0,1420836,2014

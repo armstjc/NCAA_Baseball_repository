@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/21/2014,away,11620,1068,Elon,9,True,2,14,-12,loss,2 - 14,587848,748,1,1.0,2,2,2,3,1,0,8,5,0,0,0,1,0,0,0,0,0,0,0,31,1,1,0,0,0,4,1,1525989,2014
+03/23/2014,away,11620,104,UC Santa Barbara,9,True,2,9,-7,loss,2 - 9,595120,748,1,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,1525989,2014
+04/06/2014,away,11620,361,LIU,9,True,1,11,-10,loss,1 - 11,598689,748,1,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,2,1,0,0,0,4,0,1525989,2014
+04/16/2014,away,11620,576,Rider,9,True,4,9,-5,loss,4 - 9,601492,748,1,0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1525989,2014
+04/27/2014,away,11620,127,Central Conn. St.,9,True,0,7,-7,loss,0 - 7,605114,748,1,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,1525989,2014

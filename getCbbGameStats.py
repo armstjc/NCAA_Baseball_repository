@@ -123,7 +123,7 @@ def getSeasonGbgStats(season=2020):
 def main():
     print('starting up')
     #df = getSchoolAllTimeRoster()
-    getSeasonGbgStats(2013)  
+    #getSeasonGbgStats(2013)  
     getSeasonGbgStats(2014)
     getSeasonGbgStats(2015)
     getSeasonGbgStats(2016)
@@ -133,5 +133,6 @@ def main():
     getSeasonGbgStats(2020)
     getSeasonGbgStats(2021)
     getSeasonGbgStats(2022)
+    getSeasonGbgStats(2012)
 if __name__ == "__main__":
     main()

@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/04/2014,home,11620,109,UC Irvine,9,True,1,7,-6,loss,1 - 7,597618,277,1,1.0,1,0,0,0,3,0,4,4,1,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,3,1,1422549,2014
+04/06/2014,home,11620,109,UC Irvine,9,True,8,15,-7,loss,8 - 15,598587,277,1,1.1,1,0,0,0,2,0,6,6,0,0,0,0,0,0,0,1,0,0,0,24,0,2,0,0,0,4,0,1422549,2014
+04/13/2014,home,11620,90,Cal Poly,9,True,3,8,-5,loss,3 - 8,600901,277,1,0.2,3,1,1,0,1,0,5,5,0,0,0,1,0,0,0,1,1,0,0,19,0,1,0,0,0,2,0,1422549,2014
+04/22/2014,away,11620,657,Southern California,9,True,4,10,-6,loss,4 - 10,603342,277,1,0.2,4,4,4,1,0,0,7,4,0,0,0,0,0,0,0,0,0,0,2,20,0,2,0,0,0,7,0,1422549,2014
+05/10/2014,home,11620,99,Long Beach St.,9,True,5,11,-6,loss,5 - 11,607357,277,1,1.0,2,2,2,0,0,0,5,3,1,0,0,0,0,0,0,0,0,2,0,14,3,0,0,0,0,5,0,1422549,2014
+05/18/2014,away,11620,108,UC Davis,9,True,3,12,-9,loss,3 - 12,608410,277,1,1.0,2,0,0,0,1,0,5,5,0,0,0,1,0,0,0,0,0,0,0,19,1,1,0,0,0,7,0,1422549,2014

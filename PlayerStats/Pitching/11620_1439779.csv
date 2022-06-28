@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/01/2014,away,11620,1004,Central Ark.,9,True,3,4,-1,loss,3 - 4,589251,494,1,1.1,1,1,1,3,1,0,8,5,1,0,0,0,0,0,0,0,0,0,0,33,2,1,0,0,0,2,0,1439779,2014
+03/19/2014,away,11620,465,UNLV,9,True,6,16,-10,loss,6 - 16,593758,494,1,0.2,1,1,0,0,1,0,5,5,0,0,0,0,0,0,0,2,2,0,0,23,1,0,0,0,0,8,0,1439779,2014
+04/15/2014,away,11620,649,South Dakota St.,9,True,9,10,-1,loss,9 - 10,601442,494,1,1.0,1,0,0,0,0,0,6,4,0,0,0,0,0,1,0,0,0,1,0,0,1,2,0,0,0,10,0,1439779,2014
+04/29/2014,away,11620,493,North Dakota St.,9,True,4,3,1,win,4 - 3,605527,494,1,9.0,10,3,2,2,6,0,38,35,1,0,0,1,0,0,0,0,0,0,1,135,10,9,1,0,0,1,3,1439779,2014
+05/11/2014,home,11620,1104,Grand Canyon,9,True,3,7,-4,loss,3 - 7,607704,494,1,6.1,11,6,6,4,4,0,33,27,3,1,0,0,0,1,0,0,0,1,0,111,9,4,0,1,0,1,2,1439779,2014

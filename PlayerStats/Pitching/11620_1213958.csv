@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/09/2014,away,11620,346,Lamar University,9,True,3,10,-7,loss,3 - 10,591079,275,1,0.0,3,3,3,0,0,0,3,3,0,0,0,1,0,0,0,2,2,0,0,6,0,0,0,0,0,2,0,1213958,2014
+03/18/2014,home,11620,164,UConn,9,True,4,9,-5,loss,4 - 9,593692,275,1,0.2,0,0,0,0,0,0,3,2,0,0,0,1,0,1,0,2,0,0,0,0,0,2,0,0,0,5,0,1213958,2014
+04/12/2014,home,11620,80,Brown,9,True,10,8,2,win,10 - 8,600544,275,1,0.1,0,0,0,2,1,0,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1213958,2014
+04/29/2014,home,11620,172,Dartmouth,9,True,3,5,-2,loss,3 - 5,605505,275,1,1.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,1213958,2014

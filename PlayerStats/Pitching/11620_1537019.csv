@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/27/2014,home,11620,136,Chicago St.,11,True,1,2,-1,loss,1 - 2,588949,464,1,2.1,2,1,1,3,2,0,12,8,0,0,0,0,0,0,0,0,0,1,0,0,3,1,0,1,0,4,1,1537019,2014
+03/08/2014,away,11620,1104,Grand Canyon,9,True,0,14,-14,loss,0 - 14,590798,464,1,3.2,8,6,6,2,0,0,22,19,0,0,0,1,1,1,0,1,1,0,0,0,2,9,0,0,0,2,0,1537019,2014
+03/20/2014,home,11620,172,Dartmouth,9,True,10,4,6,win,10 - 4,593976,464,1,0.2,2,1,1,0,0,0,4,4,1,0,0,1,0,0,0,1,1,0,0,17,1,1,0,0,0,3,0,1537019,2014
+04/25/2014,home,11620,493,North Dakota St.,10,True,6,8,-2,loss,6 - 8,604254,464,1,1.0,1,0,0,2,0,0,7,4,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,2,0,1537019,2014
+05/10/2014,home,11620,308,Purdue Fort Wayne,9,True,13,6,7,win,13 - 6,607532,464,1,1.1,2,0,0,1,1,0,8,6,0,0,0,0,0,1,0,2,1,0,0,37,0,3,0,0,0,3,0,1537019,2014

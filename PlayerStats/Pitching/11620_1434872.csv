@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/19/2014,away,11620,606,Saint Joseph's,9,True,4,14,-10,loss,4 - 14,593752,439,1,0.0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1434872,2014
+04/18/2014,away,11620,220,Fairfield,9,True,3,10,-7,loss,3 - 10,601963,439,1,1.0,3,1,1,1,1,0,6,5,1,0,0,0,0,0,0,0,0,0,0,19,0,1,0,0,0,4,1,1434872,2014
+04/23/2014,away,11620,342,Lafayette,9,True,9,2,7,win,9 - 2,603640,439,1,1.0,1,1,1,0,0,0,5,4,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,4,0,1434872,2014
+05/15/2014,away,11620,116,Canisius,9,True,4,15,-11,loss,4 - 15,607965,439,1,1.2,1,1,1,0,2,0,8,6,1,0,0,0,0,2,0,2,0,0,0,29,2,1,0,0,0,4,0,1434872,2014

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/18/2014,home,11620,17,Alcorn,9,True,17,4,13,win,17 - 4,587558,521,1,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,0,3,0,1315266,2014
+02/22/2014,home,11620,514,Oakland,9,True,7,10,-3,loss,7 - 10,588265,521,1,1.0,1,3,3,1,1,0,7,4,0,0,0,0,0,2,0,0,0,0,0,25,1,1,0,0,0,3,0,1315266,2014
+04/15/2014,home,11620,522,Oklahoma,18,True,9,12,-3,loss,9 - 12,601360,521,1,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,5,1,0,0,0,0,5,0,1315266,2014
+04/22/2014,away,11620,527,Oral Roberts,9,True,8,15,-7,loss,8 - 15,603372,521,1,0.1,2,0,0,0,0,0,3,3,0,0,0,0,0,0,0,1,1,0,0,13,1,0,0,0,0,5,0,1315266,2014

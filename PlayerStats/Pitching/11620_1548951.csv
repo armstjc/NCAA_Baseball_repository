@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/18/2014,away,11620,769,Western Caro.,9,True,0,8,-8,loss,0 - 8,587597,792,1,1.0,2,1,1,1,3,0,6,5,1,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,6,1,1548951,2014
+03/02/2014,away,11620,316,Jacksonville,9,True,0,8,-8,loss,0 - 8,589750,792,1,1.0,2,1,1,1,0,0,6,5,1,0,0,0,0,0,0,0,0,0,0,20,1,2,0,0,0,5,0,1548951,2014
+03/15/2014,away,11620,1092,Gardner-Webb,9,True,0,8,-8,loss,0 - 8,592953,792,1,1.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,5,0,1548951,2014
+03/22/2014,away,11620,149,Coastal Carolina,9,True,3,9,-6,loss,3 - 9,594459,792,1,0.2,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,2,1,0,0,8,2,0,0,0,0,3,0,1548951,2014
+03/25/2014,home,11620,458,Charlotte,9,True,2,11,-9,loss,2 - 11,595435,792,1,1.0,1,2,0,0,0,0,6,5,0,0,0,1,1,1,0,0,0,0,0,0,3,0,0,0,0,4,0,1548951,2014

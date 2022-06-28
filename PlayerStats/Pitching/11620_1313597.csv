@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/04/2014,home,11620,301,Illinois,9,True,0,13,-13,loss,0 - 13,597644,509,1,1.0,1,3,2,3,0,0,9,5,0,0,0,0,0,1,0,0,0,0,0,32,1,2,0,0,0,4,0,1313597,2014
+04/23/2014,home,11620,136,Chicago St.,9,True,7,6,1,win,7 - 6,603607,509,1,2.2,1,1,0,2,2,0,12,9,0,0,0,0,0,0,1,3,0,1,0,34,2,4,0,0,0,4,0,1313597,2014

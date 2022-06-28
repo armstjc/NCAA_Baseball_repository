@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/22/2014,away,11620,651,South Fla.,9,True,7,11,-4,loss,7 - 11,588055,539,1,1.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,2,0,0,0,0,4,0,1215629,2014
+03/12/2014,away,11620,96,Fresno St.,9,True,3,12,-9,loss,3 - 12,591944,539,1,1.0,1,1,1,0,2,0,4,4,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,6,0,1215629,2014
+04/01/2014,home,11620,817,Youngstown St.,9,True,15,2,13,win,15 - 2,597070,539,1,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,1,0,0,0,0,4,1,1215629,2014
+04/20/2014,home,11620,301,Illinois,9,True,6,7,-1,loss,6 - 7,603076,539,1,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,0,3,0,0,0,3,0,1215629,2014

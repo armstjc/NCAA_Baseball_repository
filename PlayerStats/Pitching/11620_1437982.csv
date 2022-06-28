@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/15/2014,home,11620,746,Virginia,9,True,0,12,-12,loss,0 - 12,587258,741,1,0.2,4,5,0,1,0,0,9,7,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,2,0,1437982,2014
+03/12/2014,away,11620,523,Old Dominion,9,True,5,15,-10,loss,5 - 15,591958,741,1,1.1,6,6,6,0,1,0,10,7,2,0,1,0,0,1,0,0,0,1,1,25,1,1,0,0,0,3,1,1437982,2014
+04/06/2014,away,11620,355,Liberty,9,True,0,17,-17,loss,0 - 17,598687,741,1,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,17,0,1,0,0,0,6,1,1437982,2014

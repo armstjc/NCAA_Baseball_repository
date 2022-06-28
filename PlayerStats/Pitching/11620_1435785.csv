@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/21/2014,away,11620,703,Texas,9,True,3,9,-6,loss,3 - 9,587839,674,1,0.2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,2,0,0,0,10,0,0,0,0,0,6,0,1435785,2014
+03/30/2014,home,11620,529,Oregon,9,True,2,9,-7,loss,2 - 9,596538,674,1,0.2,2,1,1,1,0,0,5,4,0,0,1,0,0,0,0,0,0,0,0,18,1,1,0,0,0,7,0,1435785,2014

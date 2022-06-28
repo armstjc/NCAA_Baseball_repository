@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/16/2014,home,11620,529,Oregon,10,True,5,6,-1,loss,5 - 6,587330,277,1,0.2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,3,1,0,0,8,1,0,0,0,0,3,0,1527750,2014
+02/17/2014,home,11620,529,Oregon,9,True,2,10,-8,loss,2 - 10,587516,277,1,0.0,0,2,2,1,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0,8,0,0,0,0,0,2,0,1527750,2014
+03/01/2014,home,11620,541,Pepperdine,9,True,3,7,-4,loss,3 - 7,589218,277,1,1.2,3,1,1,0,2,0,7,6,0,0,0,2,0,0,0,0,0,1,0,23,2,0,0,0,0,4,0,1527750,2014

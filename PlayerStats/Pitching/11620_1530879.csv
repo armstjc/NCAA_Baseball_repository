@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/16/2014,away,11620,370,LMU (CA),9,True,2,9,-7,loss,2 - 9,587380,30024,1,2.0,3,1,1,0,1,0,10,7,0,0,0,0,1,1,0,2,2,0,2,24,2,3,0,0,0,2,0,1530879,2014
+02/22/2014,away,11620,541,Pepperdine,9,True,2,9,-7,loss,2 - 9,588100,30024,1,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,1530879,2014
+03/07/2014,away,11620,99,Long Beach St.,9,True,0,12,-12,loss,0 - 12,590368,30024,1,0.2,2,3,3,1,0,0,4,3,1,0,0,0,0,0,0,3,2,0,0,13,0,1,0,0,0,3,0,1530879,2014
+03/15/2014,home,11620,494,North Dakota,9,True,1,10,-9,loss,1 - 10,592584,30024,1,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,0,0,3,0,1530879,2014
+03/28/2014,home,11620,94,CSU Bakersfield,9,True,4,10,-6,loss,4 - 10,595844,30024,1,0.1,1,2,2,2,0,0,3,1,1,0,0,1,0,0,0,0,0,0,0,16,0,0,0,0,0,3,0,1530879,2014
+05/18/2014,away,11620,1104,Grand Canyon,9,True,5,9,-4,loss,5 - 9,608420,30024,1,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,7,0,1530879,2014

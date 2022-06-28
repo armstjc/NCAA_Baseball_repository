@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/04/2014,home,11620,735,Valparaiso,9,True,7,1,6,win,7 - 1,590016,703,1,1.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,10,2,1,0,0,0,6,0,1422946,2014
+03/09/2014,home,11620,277,Hawaii,9,True,4,1,3,win,4 - 1,591080,703,1,1.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,1,0,0,0,3,0,1422946,2014

@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/01/2019,away,14781,107,California,9,True,1,13,-12,loss,1 - 13,4719544,610,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,4,1,2127950,2019
+03/09/2019,away,14781,30024,Utah Valley,9,True,13,1,12,win,13 - 1,4728783,610,1,1.0,0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,23,1,0,0,0,0,4,0,2127950,2019
+03/22/2019,away,14781,90,Cal Poly,9,True,3,8,-5,loss,3 - 8,4744422,610,1,1.0,0,1,0,0,0,1,0,5,4,1,0,0,0,0,1,0,0,0,0,0,13,1,1,0,0,0,4,1,2127950,2019
+04/16/2019,home,14781,630,San Jose St.,9,True,14,1,13,win,14 - 1,4772271,610,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,6,0,2127950,2019
+05/07/2019,away,14781,104,UC Santa Barbara,9,True,3,6,-3,loss,3 - 6,4789017,610,1,0.1,0,1,2,2,1,0,0,3,2,0,1,0,0,0,0,0,0,0,0,0,11,0,1,0,0,0,5,0,2127950,2019

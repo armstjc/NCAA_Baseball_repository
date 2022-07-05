@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/24/2019,home,14781,310,Iona,9,True,7,3,4,win,7 - 3,4779098,587,1,1.0,0,2,2,2,1,0,0,6,4,1,0,0,0,0,0,0,0,0,0,1,28,0,3,0,0,0,4,0,1879428,2019

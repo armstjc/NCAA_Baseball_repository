@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/23/2019,home,14781,812,Xavier,9,True,1,7,-6,loss,1 - 7,4714321,625,1,0.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10,1,2139275,2019
+03/01/2019,away,14781,254,Georgia St.,9,True,13,2,11,win,13 - 2,4719250,625,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,3,0,2139275,2019
+04/30/2019,home,14781,315,Jacksonville St.,9,True,5,11,-6,loss,5 - 11,4784830,625,1,0.2,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,1,2139275,2019
+05/18/2019,away,14781,198,ETSU,9,True,9,1,8,win,9 - 1,4792487,625,1,0.1,0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,0,0,6,0,2139275,2019

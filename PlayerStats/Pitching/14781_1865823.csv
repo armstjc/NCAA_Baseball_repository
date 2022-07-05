@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/17/2019,home,14781,366,Louisiana Tech,9,True,8,12,-4,loss,8 - 12,4707960,655,1,5.0,0,9,8,5,2,3,0,26,22,0,0,0,0,0,0,0,0,0,1,1,97,6,5,0,0,0,1,1,1865823,2019
+02/24/2019,home,14781,683,Stony Brook,9,True,8,0,8,win,8 - 0,4715589,655,1,7.0,0,4,0,0,0,9,0,25,25,1,0,0,0,0,0,0,0,0,0,0,82,9,2,1,0,0,1,3,1865823,2019
+03/02/2019,away,14781,716,Troy,9,True,19,4,15,win,19 - 4,4720528,655,1,6.0,0,4,3,3,1,2,0,23,22,3,0,0,0,1,0,0,0,0,0,0,73,12,4,1,0,0,1,0,1865823,2019
+03/09/2019,home,14781,1004,Central Ark.,9,True,2,3,-1,loss,2 - 3,4728843,655,1,6.0,0,5,3,3,0,5,0,23,22,2,0,0,1,0,0,0,0,0,0,1,78,8,4,0,1,0,1,2,1865823,2019

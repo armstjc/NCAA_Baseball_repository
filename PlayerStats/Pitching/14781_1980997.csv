@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+05/01/2019,home,14781,482,Niagara,9,True,9,5,4,win,9 - 5,4785330,596,1,1.2,0,0,0,0,0,2,0,5,5,0,0,0,0,0,0,0,1,0,0,0,20,0,3,0,0,0,5,0,1980997,2019
+05/04/2019,away,14781,606,Saint Joseph's,9,True,2,3,-1,loss,2 - 3,4786989,596,1,0.2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,2,0,1980997,2019
+05/07/2019,home,14781,167,Cornell,10,True,9,8,1,win,9 - 8,4789011,596,1,1.2,0,1,0,0,1,1,0,7,6,0,0,0,0,0,0,0,0,0,0,0,23,2,2,0,0,0,4,0,1980997,2019
+05/10/2019,away,14781,249,George Washington,9,True,9,11,-2,loss,9 - 11,4789933,596,1,0.2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,4,0,1980997,2019
+05/11/2019,away,14781,249,George Washington,9,True,3,10,-7,loss,3 - 10,4790471,596,1,1.2,0,3,2,2,1,2,0,9,8,0,0,0,0,1,0,0,1,1,0,0,0,1,2,0,0,0,4,1,1980997,2019
+05/16/2019,home,14781,173,Davidson,9,True,3,15,-12,loss,3 - 15,4791898,596,1,0.0,0,1,6,6,3,0,0,6,1,0,0,0,0,1,2,0,0,0,0,0,33,0,0,0,0,0,4,0,1980997,2019

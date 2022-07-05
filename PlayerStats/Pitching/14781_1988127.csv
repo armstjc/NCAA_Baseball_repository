@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/16/2019,away,14781,277,Hawaii,9,True,5,9,-4,loss,5 - 9,4708716,551,1,0.1,0,1,2,0,1,1,0,3,2,0,0,0,1,0,0,0,2,2,0,0,0,0,0,0,1,0,4,1,1988127,2019
+02/22/2019,away,14781,536,UTRGV,9,True,6,4,2,win,6 - 4,4712380,551,1,0.0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,4,0,1988127,2019
+03/05/2019,home,14781,529,Oregon,9,True,5,3,2,win,5 - 3,4724169,551,1,0.1,0,0,2,2,1,0,0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,3,0,1988127,2019
+03/21/2019,away,14781,77,BYU,9,True,1,10,-9,loss,1 - 10,4743454,551,1,1.1,0,0,1,0,3,3,0,9,4,0,0,0,0,2,2,0,0,0,0,0,39,0,1,0,0,0,4,1,1988127,2019
+03/27/2019,home,14781,1356,Seattle U,9,True,16,14,2,win,16 - 14,4756316,551,1,0.1,0,1,1,0,1,1,0,3,2,0,0,0,0,1,0,0,3,3,0,0,13,0,0,0,0,0,5,0,1988127,2019

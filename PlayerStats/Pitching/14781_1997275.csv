@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/15/2019,home,14781,521,Oklahoma St.,9,True,3,10,-7,loss,3 - 10,4705954,536,1,1.0,0,2,1,1,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,7,0,1997275,2019

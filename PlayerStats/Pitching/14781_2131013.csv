@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/17/2019,home,14781,301,Illinois,9,True,0,4,-4,loss,0 - 4,4707103,590,1,1.1,0,2,1,1,1,1,0,6,5,1,0,0,0,0,0,0,2,1,0,0,0,1,1,0,0,0,2,0,2131013,2019
+03/06/2019,away,14781,678,Stetson,9,True,5,8,-3,loss,5 - 8,4724960,590,1,4.2,0,4,3,3,2,2,0,20,17,0,0,0,1,0,0,0,0,0,1,0,60,7,5,0,1,0,1,1,2131013,2019
+03/12/2019,away,14781,236,Fordham,9,True,3,12,-9,loss,3 - 12,4732304,590,1,2.0,0,7,4,4,0,1,0,13,13,2,2,0,0,0,0,0,0,0,0,0,36,2,3,0,1,0,1,0,2131013,2019
+03/16/2019,home,14781,361,LIU,9,True,2,3,-1,loss,2 - 3,4737317,590,1,5.0,0,6,3,2,3,1,0,25,19,0,0,0,0,1,1,0,0,0,1,1,0,4,9,0,1,0,1,1,2131013,2019
+04/10/2019,away,14781,813,Yale,9,True,9,8,1,win,9 - 8,4770182,590,1,1.0,0,4,2,1,1,1,0,10,6,0,1,0,1,0,1,1,1,1,2,0,0,2,0,0,0,0,5,0,2131013,2019

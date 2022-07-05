@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/01/2019,home,14781,158,Columbia,9,True,12,3,9,win,12 - 3,4719417,522,1,0.2,0,2,3,3,1,0,0,6,4,0,0,0,0,0,1,0,0,0,0,0,13,1,1,0,0,0,4,0,2124637,2019
+03/06/2019,away,14781,1045,DBU,9,True,2,7,-5,loss,2 - 7,4724814,522,1,0.1,0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,9,0,2124637,2019

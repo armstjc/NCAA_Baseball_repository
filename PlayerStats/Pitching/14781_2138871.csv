@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/19/2019,home,14781,287,Houston Baptist,9,True,6,0,6,win,6 - 0,4709591,536,1,1.0,0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,18,1,1,0,0,0,2,1,2138871,2019
+03/02/2019,home,14781,572,Rhode Island,9,True,15,3,12,win,15 - 3,4720214,536,1,1.0,0,2,1,1,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,2138871,2019
+03/10/2019,home,14781,400,Massachusetts,9,True,11,14,-3,loss,11 - 14,4729715,536,1,0.1,0,0,3,3,3,1,0,5,1,0,0,0,0,0,1,0,0,0,0,0,18,0,0,0,0,0,7,1,2138871,2019
+04/23/2019,away,14781,2743,UIW,9,True,4,6,-2,loss,4 - 6,4778564,536,1,1.0,0,3,1,1,0,0,0,6,5,0,0,0,0,0,1,0,0,0,0,0,10,1,1,0,0,0,3,0,2138871,2019
+05/01/2019,away,14781,700,Texas Tech,9,True,11,19,-8,loss,11 - 19,4785204,536,1,2.2,0,5,2,2,1,1,0,13,12,1,0,0,1,0,0,0,0,0,0,0,55,1,5,0,0,0,1,0,2138871,2019

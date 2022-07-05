@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/01/2019,home,14781,193,Duke,9,True,0,14,-14,loss,0 - 14,4719010,539,1,1.0,0,0,1,0,0,1,0,6,2,0,0,0,0,0,2,0,3,3,0,2,26,0,2,0,0,0,5,1,2131426,2019
+05/04/2019,home,14781,587,Rutgers,9,True,1,5,-4,loss,1 - 5,4789382,539,1,1.0,0,1,1,1,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,19,0,2,0,0,0,4,0,2131426,2019
+05/17/2019,home,14781,29,Arizona,9,True,5,15,-10,loss,5 - 15,4792327,539,1,1.0,0,2,2,2,3,1,0,8,4,0,0,0,0,1,0,0,0,0,0,1,33,0,2,0,0,0,3,1,2131426,2019

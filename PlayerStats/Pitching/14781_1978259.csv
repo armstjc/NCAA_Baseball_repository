@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/13/2019,home,14781,749,Wake Forest,9,True,8,20,-12,loss,8 - 20,4769174,545,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,3,1,0,0,0,0,6,0,1978259,2019
+05/11/2019,home,14781,457,North Carolina,9,True,6,10,-4,loss,6 - 10,4790858,545,1,1.0,0,0,0,0,0,1,0,4,3,0,0,0,0,1,1,0,1,1,0,0,18,1,1,0,0,0,3,0,1978259,2019

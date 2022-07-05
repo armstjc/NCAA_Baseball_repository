@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/15/2019,away,14781,26172,A&M-Corpus Christi,9,True,1,5,-4,loss,1 - 5,4707571,702,1,6.0,0,4,1,0,2,6,0,25,21,1,0,0,0,0,2,0,0,0,0,0,92,8,3,0,0,0,1,2,2124110,2019
+02/23/2019,home,14781,782,Wichita St.,9,True,5,2,3,win,5 - 2,4712954,702,1,1.2,0,1,0,0,0,1,0,6,6,0,0,0,0,0,0,0,0,0,0,0,19,4,0,0,0,0,1,1,2124110,2019

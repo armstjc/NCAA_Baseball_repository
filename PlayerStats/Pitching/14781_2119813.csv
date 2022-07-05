@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/20/2019,home,14781,756,Washington,9,True,8,25,-17,loss,8 - 25,4710885,502,1,1.0,0,4,4,0,0,1,0,9,8,0,0,0,0,0,1,0,0,0,0,0,32,1,1,0,0,0,4,0,2119813,2019
+03/08/2019,away,14781,551,Portland,9,True,2,17,-15,loss,2 - 17,4729652,502,1,2.1,0,2,2,2,5,2,0,14,9,1,0,1,0,0,0,0,3,0,0,0,0,2,3,0,0,0,5,1,2119813,2019
+03/12/2019,away,14781,721,Air Force,9,True,6,9,-3,loss,6 - 9,4732360,502,1,1.1,0,1,2,2,1,1,0,6,5,1,0,0,0,0,0,0,0,0,0,0,20,2,1,0,0,0,2,1,2119813,2019
+03/30/2019,away,14781,536,UTRGV,9,True,1,11,-10,loss,1 - 11,4753279,502,1,0.0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2,2,0,0,3,0,0,0,0,0,3,0,2119813,2019

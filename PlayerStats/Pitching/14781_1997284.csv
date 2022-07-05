@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/24/2019,away,14781,43,Austin Peay,9,True,3,15,-12,loss,3 - 15,4715259,503,1,1.0,0,2,3,3,1,2,0,6,5,0,0,0,1,0,0,0,0,0,0,0,22,0,1,0,0,0,2,0,1997284,2019
+03/13/2019,away,14781,327,Kansas St.,9,True,3,8,-5,loss,3 - 8,4733485,503,1,1.0,0,4,4,4,1,0,0,7,6,0,1,0,2,0,0,0,0,0,0,0,19,1,1,0,0,0,4,0,1997284,2019
+04/09/2019,home,14781,302,UIC,9,True,10,15,-5,loss,10 - 15,4764268,503,1,2.0,0,5,2,2,1,1,0,12,11,0,0,0,0,0,0,0,0,0,0,0,39,2,3,0,0,0,2,0,1997284,2019
+04/23/2019,away,14781,299,Illinois St.,9,True,2,10,-8,loss,2 - 10,4778531,503,1,1.2,0,6,6,6,0,1,0,11,10,2,0,1,1,0,0,0,0,0,0,1,37,2,2,0,0,0,2,0,1997284,2019

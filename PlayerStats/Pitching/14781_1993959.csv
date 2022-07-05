@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/15/2019,home,14781,624,Sam Houston,9,True,7,12,-5,loss,7 - 12,4704905,381,1,1.0,0,0,0,0,0,1,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,4,1,1993959,2019
+03/12/2019,home,14781,471,NJIT,9,True,7,9,-2,loss,7 - 9,4732286,381,1,0.1,0,1,1,1,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,21,1,0,0,0,0,3,0,1993959,2019
+03/20/2019,away,14781,236,Fordham,9,True,0,9,-9,loss,0 - 9,4742197,381,1,1.0,0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,20,1,0,0,0,0,5,0,1993959,2019
+03/27/2019,away,14781,158,Columbia,9,True,2,7,-5,loss,2 - 7,4777185,381,1,2.0,0,3,2,0,1,0,0,10,9,0,1,0,0,0,0,0,0,0,0,0,32,3,2,0,0,0,4,0,1993959,2019
+04/16/2019,home,14781,361,LIU,9,True,4,6,-2,loss,4 - 6,4772129,381,1,0.2,0,3,3,3,2,0,0,7,5,1,0,1,0,1,0,0,0,0,0,0,28,1,1,0,0,0,5,0,1993959,2019

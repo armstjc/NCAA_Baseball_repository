@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/07/2019,home,14781,540,Penn,9,True,1,13,-12,loss,1 - 13,4762985,172,1,0.2,0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,3,1,0,0,6,1,0,0,0,0,6,0,1862960,2019
+04/13/2019,away,14781,80,Brown,9,True,6,13,-7,loss,6 - 13,4768974,172,1,0.2,0,2,2,2,0,0,0,4,4,1,0,0,1,0,0,0,1,1,0,0,13,1,1,0,0,0,5,0,1862960,2019
+04/16/2019,home,14781,420,Middlebury,9,True,7,15,-8,loss,7 - 15,4772429,172,1,1.2,0,2,0,0,0,3,0,7,6,0,0,0,0,0,0,0,1,1,0,1,21,0,2,0,0,0,7,1,1862960,2019

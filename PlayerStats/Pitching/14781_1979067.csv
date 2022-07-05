@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/27/2019,away,14781,254,Georgia St.,9,True,10,0,10,win,10 - 0,4717340,255,1,1.0,0,2,0,0,0,2,0,4,4,0,0,0,0,1,0,0,0,0,0,0,18,0,0,0,0,0,3,1,1979067,2019
+03/02/2019,home,14781,509,Northwestern,9,True,1,5,-4,loss,1 - 5,4721589,255,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,6,0,1979067,2019
+03/06/2019,home,14781,1157,Kennesaw St.,9,True,9,1,8,win,9 - 1,4724896,255,1,1.1,0,0,0,0,0,0,0,3,3,0,0,0,0,1,0,0,2,0,0,0,14,1,2,0,0,0,2,0,1979067,2019

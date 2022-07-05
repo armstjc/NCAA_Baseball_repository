@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/06/2019,home,14781,47,Ball St.,13,True,9,8,1,win,9 - 8,4725197,128,1,0.1,0,0,1,1,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,1,0,2118867,2019
+03/10/2019,home,14781,539,Penn St.,9,True,5,11,-6,loss,5 - 11,4730632,128,1,0.2,0,0,2,0,2,1,0,5,2,0,0,0,0,1,1,0,0,0,0,0,23,0,1,0,0,0,6,0,2118867,2019
+04/02/2019,away,14781,678,Stetson,9,True,13,4,9,win,13 - 4,4756815,128,1,0.2,0,1,2,2,2,2,0,7,3,0,0,0,0,0,2,0,0,0,0,0,36,0,0,0,0,0,4,0,2118867,2019

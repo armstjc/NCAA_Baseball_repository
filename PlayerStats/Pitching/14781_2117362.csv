@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/27/2019,home,14781,740,VCU,9,True,8,11,-3,loss,8 - 11,4717184,457,1,0.0,0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,2,0,2117362,2019
+03/12/2019,home,14781,1092,Gardner-Webb,9,True,18,8,10,win,18 - 8,4732388,457,1,0.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,7,0,2117362,2019
+04/09/2019,home,14781,459,UNC Greensboro,9,True,17,4,13,win,17 - 4,4764448,457,1,0.2,0,1,0,0,0,0,0,3,3,1,0,0,0,0,0,0,1,1,0,0,13,1,1,0,0,0,4,0,2117362,2019
+05/14/2019,home,14781,19651,High Point,9,True,7,0,7,win,7 - 0,4791476,457,1,0.0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2,0,2117362,2019

@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/19/2019,away,14781,651,South Fla.,9,True,1,6,-5,loss,1 - 6,4709946,235,1,2.1,0,5,3,3,2,1,0,14,12,1,0,0,1,0,0,0,0,0,0,0,51,3,3,0,1,0,1,0,1985248,2019
+02/27/2019,home,14781,128,UCF,9,True,9,12,-3,loss,9 - 12,4717530,235,1,0.2,0,2,1,1,0,0,0,4,4,0,0,0,1,0,0,0,0,0,0,0,15,0,2,0,1,0,4,0,1985248,2019
+04/02/2019,home,14781,228,Florida A&M,9,True,12,1,11,win,12 - 1,4756698,235,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,19,1,1,0,0,0,5,0,1985248,2019

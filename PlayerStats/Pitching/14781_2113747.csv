@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/23/2019,home,14781,236,Fordham,9,True,5,8,-3,loss,5 - 8,4718274,2711,1,0.1,0,3,3,3,0,0,0,4,4,2,0,0,0,0,0,0,0,0,0,0,19,1,0,0,1,0,2,0,2113747,2019
+02/27/2019,home,14781,229,Fla. Atlantic,9,True,9,8,1,win,9 - 8,4717154,2711,1,1.2,0,3,4,4,1,0,0,11,8,1,0,0,0,0,2,0,0,0,0,0,21,1,4,0,0,0,3,0,2113747,2019
+03/17/2019,home,14781,158,Columbia,9,True,11,4,7,win,11 - 4,4739714,2711,1,1.1,0,2,0,0,0,0,0,6,5,0,0,0,0,0,1,0,0,0,0,0,26,2,1,0,0,0,3,0,2113747,2019
+03/27/2019,away,14781,128,UCF,9,True,0,5,-5,loss,0 - 5,4750557,2711,1,1.0,0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,1,0,0,0,16,2,1,0,0,0,3,0,2113747,2019

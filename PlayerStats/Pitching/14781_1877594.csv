@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/17/2019,home,14781,228,Florida A&M,9,True,11,1,10,win,11 - 1,4708452,2678,1,5.0,0,6,1,1,2,4,0,23,20,2,0,0,1,0,1,1,0,0,0,0,0,5,5,1,0,0,1,0,1877594,2019
+02/23/2019,away,14781,2,Abilene Christian,9,True,7,9,-2,loss,7 - 9,4713453,2678,1,7.0,0,8,7,7,2,6,0,33,30,0,1,0,3,1,1,0,0,0,0,0,102,3,11,0,0,0,1,0,1877594,2019
+03/02/2019,away,14781,553,Prairie View,9,True,7,9,-2,loss,7 - 9,4721230,2678,1,1.0,0,1,1,1,0,1,0,4,3,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,1,1,1877594,2019

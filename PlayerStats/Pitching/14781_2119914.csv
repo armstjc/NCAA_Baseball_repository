@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/12/2019,away,14781,434,Missouri,9,True,1,16,-15,loss,1 - 16,4732387,30,1,2.0,0,4,4,4,2,1,0,13,10,1,0,0,0,2,1,0,0,0,0,0,58,2,3,0,0,0,3,1,2119914,2019
+04/06/2019,away,14781,671,Louisiana,9,True,5,14,-9,loss,5 - 14,4761484,30,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,4,0,1,0,0,0,6,0,2119914,2019

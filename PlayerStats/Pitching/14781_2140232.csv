@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/13/2019,home,14781,606,Saint Joseph's,9,True,2,8,-6,loss,2 - 8,4733233,127,1,1.0,0,0,0,0,3,0,0,6,3,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,4,0,2140232,2019
+03/23/2019,away,14781,81,Bryant,9,True,3,12,-9,loss,3 - 12,4745440,127,1,1.0,0,2,5,5,3,2,0,8,5,1,1,0,0,1,0,0,0,0,0,0,41,1,0,0,0,0,2,0,2140232,2019
+04/18/2019,home,14781,81,Bryant,9,True,4,16,-12,loss,4 - 16,4777874,127,1,0.1,0,0,2,2,3,0,0,6,1,0,0,0,0,2,2,0,0,0,0,0,0,1,0,0,0,0,3,0,2140232,2019

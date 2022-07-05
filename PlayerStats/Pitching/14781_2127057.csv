@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/15/2019,home,14781,541,Pepperdine,9,True,0,11,-11,loss,0 - 11,4704903,94,1,0.2,0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,3,2,0,0,0,1,1,0,0,0,4,0,2127057,2019
+02/24/2019,away,14781,629,San Francisco,9,True,1,12,-11,loss,1 - 12,4715113,94,1,0.0,0,1,1,1,2,0,0,3,1,1,0,0,0,0,0,0,3,3,0,0,11,0,0,0,0,0,6,0,2127057,2019
+04/20/2019,home,14781,502,Northern Colo.,9,True,16,4,12,win,16 - 4,4776632,94,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,1,0,0,0,4,0,2127057,2019
+04/23/2019,away,14781,111,UC Riverside,9,True,3,6,-3,loss,3 - 6,4778681,94,1,2.2,0,1,1,1,1,1,0,12,8,1,0,0,0,0,2,0,2,1,0,1,0,1,6,0,0,0,2,0,2127057,2019
+04/28/2019,home,14781,30024,Utah Valley,9,True,7,6,1,win,7 - 6,4783629,94,1,0.0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,3,2,0,0,10,0,0,0,0,0,2,0,2127057,2019

@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/19/2019,away,14781,536,UTRGV,9,True,0,6,-6,loss,0 - 6,4709591,287,1,0.2,0,2,1,1,0,0,0,5,4,0,0,0,0,0,1,0,0,0,0,0,23,1,1,0,0,0,3,0,2122613,2019
+03/12/2019,home,14781,553,Prairie View,9,True,21,5,16,win,21 - 5,4732411,287,1,1.0,0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,1,1,0,0,0,5,1,2122613,2019
+03/19/2019,home,14781,706,UTSA,9,True,6,14,-8,loss,6 - 14,4741347,287,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,0,3,0,0,0,6,0,2122613,2019
+03/26/2019,home,14781,553,Prairie View,9,True,10,3,7,win,10 - 3,4749086,287,1,1.0,0,2,2,2,0,1,0,5,4,0,0,0,1,0,1,0,0,0,0,0,13,0,1,0,0,0,4,0,2122613,2019
+04/12/2019,home,14781,2,Abilene Christian,9,True,6,21,-15,loss,6 - 21,4767094,287,1,0.1,0,0,2,2,1,1,0,3,1,0,0,0,0,0,1,0,0,0,0,0,15,0,0,0,0,0,5,1,2122613,2019

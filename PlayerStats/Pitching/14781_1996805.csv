@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+05/16/2019,away,14781,596,St. Bonaventure,9,True,15,3,12,win,15 - 3,4791898,173,1,1.0,0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,17,2,0,0,0,0,3,0,1996805,2019

@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/10/2019,home,14781,817,Youngstown St.,9,True,9,1,8,win,9 - 1,4729345,414,1,1.0,0,3,1,1,0,1,0,6,6,1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,3,1,2120154,2019

@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/09/2019,home,14781,553,Prairie View,9,True,16,3,13,win,16 - 3,4764526,2743,1,0.0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,4,0,1885123,2019

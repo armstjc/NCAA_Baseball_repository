@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/16/2019,away,14781,648,South Carolina,9,True,7,13,-6,loss,7 - 13,4707364,355,1,0.1,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,8,0,1,0,0,0,4,0,1995278,2019
+03/13/2019,home,14781,746,Virginia,9,True,14,5,9,win,14 - 5,4733573,355,1,1.0,0,0,0,0,1,1,0,5,3,0,0,0,0,0,1,0,0,0,0,0,21,0,2,0,0,0,2,1,1995278,2019
+03/23/2019,home,14781,471,NJIT,9,True,2,9,-7,loss,2 - 9,4745768,355,1,0.0,0,2,3,3,1,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,6,0,1995278,2019

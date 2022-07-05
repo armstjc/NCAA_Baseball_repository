@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/10/2019,away,14781,754,Washington St.,9,True,1,10,-9,loss,1 - 10,4729858,101,1,0.2,0,1,1,1,3,1,0,6,3,0,0,0,0,0,0,0,2,2,0,0,24,0,1,0,0,0,4,0,2119226,2019
+04/06/2019,home,14781,111,UC Riverside,9,True,25,1,24,win,25 - 1,4761519,101,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,4,0,2119226,2019
+05/12/2019,away,14781,108,UC Davis,9,True,4,11,-7,loss,4 - 11,4791175,101,1,2.0,0,1,1,1,3,0,0,10,6,0,0,0,0,1,1,0,0,0,0,0,36,2,3,0,0,0,5,0,2119226,2019

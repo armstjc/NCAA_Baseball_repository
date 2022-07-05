@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/02/2019,away,14781,249,George Washington,9,True,7,18,-11,loss,7 - 18,4720221,381,1,1.0,0,2,3,2,1,1,0,8,6,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,5,1,2113881,2019
+03/12/2019,home,14781,471,NJIT,9,True,7,9,-2,loss,7 - 9,4732286,381,1,1.0,0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,0,2,0,0,0,8,0,2113881,2019
+03/15/2019,away,14781,418,Michigan,9,True,2,23,-21,loss,2 - 23,4772754,381,1,2.2,0,7,6,6,0,3,0,14,13,1,0,0,1,0,0,0,3,0,0,1,45,2,2,0,0,0,3,0,2113881,2019
+04/16/2019,home,14781,361,LIU,9,True,4,6,-2,loss,4 - 6,4772129,381,1,1.0,0,0,0,0,3,0,0,6,3,0,0,0,0,0,0,0,0,0,0,0,25,1,2,0,0,0,3,0,2113881,2019

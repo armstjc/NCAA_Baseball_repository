@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+04/23/2021,home,15580,169,Creighton,9,True,0,6,-6,loss,0 - 6,5063956,251,1,1.0,0,2,1,1,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,1,13,1,2,0,0,0,3,0,0,2344064,2021
+04/28/2021,away,15580,249,George Washington,9,True,4,5,-1,loss,4 - 5,5068836,251,1,1.0,0,1,0,0,0,1,0,5,5,0,0,1,0,0,0,0,0,0,0,0,19,0,2,0,0,0,2,0,0,2344064,2021
+05/07/2021,home,15580,739,Villanova,9,True,4,6,-2,loss,4 - 6,5075535,251,1,0.0,0,1,1,1,1,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,2,0,0,2344064,2021
+05/14/2021,away,15580,812,Xavier,9,True,0,9,-9,loss,0 - 9,5080312,251,1,0.2,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,2,1,0,0,9,0,2,0,0,0,4,0,0,2344064,2021
+05/18/2021,away,15580,249,George Washington,9,True,4,15,-11,loss,4 - 15,5079588,251,1,1.1,0,0,1,0,1,0,0,7,6,0,0,0,0,1,0,0,3,1,0,0,20,2,1,0,0,0,7,0,0,2344064,2021
+05/22/2021,home,15580,87,Butler,9,True,3,11,-8,loss,3 - 11,5081083,251,1,0.2,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,2,1,0,1,7,1,1,0,0,0,6,0,0,2344064,2021

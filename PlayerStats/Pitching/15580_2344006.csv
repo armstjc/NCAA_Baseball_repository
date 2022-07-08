@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/20/2021,away,15580,655,Southeastern La.,9,True,0,23,-23,loss,0 - 23,5011307,432,1,3.0,0,5,9,6,6,2,0,23,13,0,1,1,0,3,2,0,0,0,0,2,80,4,3,0,0,0,2,0,0,2344006,2021
+03/20/2021,away,15580,7,Alabama St.,9,True,0,14,-14,loss,0 - 14,5032016,432,1,3.0,0,4,2,2,1,2,0,14,12,1,0,2,0,0,1,0,0,0,0,0,0,3,3,0,0,0,2,1,0,2344006,2021
+05/08/2021,away,15580,314,Jackson St.,9,True,5,19,-14,loss,5 - 19,5075724,432,1,3.2,0,5,4,4,2,3,0,19,17,0,0,1,0,1,0,0,3,3,0,0,0,4,4,0,0,0,3,1,0,2344006,2021

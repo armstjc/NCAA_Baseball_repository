@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/01/2021,home,15580,283,Hofstra,9,True,5,14,-9,loss,5 - 14,5012043,340,1,1.2,0,3,5,5,4,2,0,11,7,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,2137501,2021
+03/07/2021,away,15580,180,Delaware,9,True,4,14,-10,loss,4 - 14,5018498,340,1,0.0,0,1,4,4,3,0,0,4,1,1,0,1,0,0,0,0,0,0,0,0,22,0,0,0,1,0,1,0,0,2137501,2021
+04/07/2021,away,15580,165,Coppin St.,9,True,16,8,8,win,16 - 8,5049486,340,1,1.0,0,1,2,2,1,1,0,6,3,0,0,0,0,4,1,0,0,0,0,1,21,1,1,0,0,0,2,0,0,2137501,2021
+04/14/2021,home,15580,540,Penn,9,True,6,4,2,win,6 - 4,5056095,340,1,2.1,0,2,2,2,1,0,0,10,9,0,1,0,0,0,0,0,0,0,0,0,33,1,6,1,0,0,2,0,0,2137501,2021
+04/20/2021,away,15580,540,Penn,10,True,7,8,-1,loss,7 - 8,5062153,340,1,2.0,0,2,3,3,2,1,0,10,6,1,0,0,0,2,1,0,2,2,0,1,36,2,2,0,0,0,2,0,0,2137501,2021

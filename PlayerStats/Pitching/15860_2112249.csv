@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/06/2022,away,15860,651,South Fla.,9,True,3,6,-3,loss,3 - 6,5226277,80,1,0.2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6,0,1,0,0,0,4,0,0,2112249,2022
+03/11/2022,away,15860,1092,Gardner-Webb,9,True,2,6,-4,loss,2 - 6,5231202,80,1,2.0,0,1,2,2,4,0,0,11,6,0,0,0,0,0,1,0,1,0,0,0,46,2,3,0,0,0,2,0,0,2112249,2022
+03/27/2022,away,15860,172,Dartmouth,9,True,1,14,-13,loss,1 - 14,5247759,80,1,1.0,0,3,2,2,1,0,0,7,6,0,1,0,0,0,0,0,1,1,0,0,22,3,0,0,0,0,4,0,0,2112249,2022
+03/30/2022,home,15860,81,Bryant,9,True,10,14,-4,loss,10 - 14,5250418,80,1,0.2,0,0,3,3,3,1,0,5,1,0,0,0,0,0,1,0,0,0,0,0,26,0,0,0,0,0,3,0,0,2112249,2022
+05/08/2022,home,15860,167,Cornell,9,True,10,7,3,win,10 - 7,5284978,80,1,0.0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4,0,0,2112249,2022

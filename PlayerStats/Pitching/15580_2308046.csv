@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/21/2021,away,15580,219,Evansville,9,True,1,10,-9,loss,1 - 10,5033016,87,1,1.0,0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,0,2308046,2021
+04/02/2021,home,15580,47,Ball St.,9,True,2,7,-5,loss,2 - 7,5044510,87,1,1.0,0,4,4,4,1,2,0,8,7,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,0,2308046,2021
+04/18/2021,away,15580,812,Xavier,9,True,6,16,-10,loss,6 - 16,5060356,87,1,1.1,0,2,1,1,1,2,0,7,6,0,1,0,1,0,0,0,3,3,0,0,26,2,1,0,0,0,5,1,0,2308046,2021
+05/08/2021,home,15580,169,Creighton,9,True,10,11,-1,loss,10 - 11,5075264,87,1,0.1,0,3,2,2,0,0,0,3,3,0,0,0,1,0,0,0,2,2,0,0,0,0,0,0,0,0,3,0,0,2308046,2021

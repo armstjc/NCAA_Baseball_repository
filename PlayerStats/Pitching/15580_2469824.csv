@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/09/2021,away,15580,487,North Ala.,9,True,5,1,4,win,5 - 1,5019852,695,1,1.1,0,0,0,0,0,2,0,4,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,0,0,2469824,2021
+03/11/2021,home,15580,14927,Belmont,9,True,9,6,3,win,9 - 6,5021541,695,1,0.2,0,4,3,3,1,0,0,7,6,0,0,0,1,0,0,0,0,0,0,0,28,1,1,0,0,0,3,0,0,2469824,2021
+03/12/2021,home,15580,14927,Belmont,9,True,0,8,-8,loss,0 - 8,5021923,695,1,1.0,0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,0,3,0,0,0,3,0,0,2469824,2021
+03/30/2021,away,15580,14927,Belmont,9,True,8,9,-1,loss,8 - 9,5042263,695,1,0.1,0,4,4,4,2,0,0,7,5,1,0,0,0,1,0,0,2,2,0,0,0,0,1,0,0,0,2,0,0,2469824,2021

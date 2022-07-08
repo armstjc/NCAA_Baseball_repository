@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/20/2022,home,15860,669,Missouri St.,9,True,2,19,-17,loss,2 - 19,5211290,1004,1,0.2,0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,0,2,0,0,0,6,0,0,2140089,2022
+03/10/2022,home,15860,169,Creighton,9,True,3,10,-7,loss,3 - 10,5230206,1004,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,0,3,0,0,0,6,0,0,2140089,2022
+03/22/2022,away,15860,703,Texas,9,True,2,7,-5,loss,2 - 7,5243194,1004,1,1.0,0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,4,0,0,2140089,2022
+04/05/2022,away,15860,31,Arkansas,9,True,9,21,-12,loss,9 - 21,5256587,1004,1,1.0,0,2,2,2,0,1,0,5,5,0,0,0,2,0,0,0,1,0,0,0,17,0,2,0,0,0,5,0,0,2140089,2022
+05/17/2022,home,15860,32,Little Rock,9,True,6,9,-3,loss,6 - 9,5288579,1004,1,2.2,0,4,2,1,1,5,0,13,12,0,0,0,0,1,0,0,0,0,0,0,53,2,1,0,0,0,5,1,0,2140089,2022

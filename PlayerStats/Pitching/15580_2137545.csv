@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/07/2021,home,15580,249,George Washington,9,True,9,13,-4,loss,9 - 13,5048305,352,1,0.2,0,2,0,0,0,0,0,4,4,0,0,0,0,0,0,0,2,2,0,0,0,0,2,0,0,0,6,0,0,2137545,2021
+04/18/2021,away,15580,725,Army West Point,9,True,11,9,2,win,11 - 9,5061010,352,1,5.0,0,4,4,1,1,5,0,22,19,4,0,0,0,2,1,0,0,0,1,0,90,5,4,1,0,0,3,2,0,2137545,2021
+04/28/2021,home,15580,222,Fairleigh Dickinson,9,True,7,6,1,win,7 - 6,5068878,352,1,1.2,0,3,3,3,1,2,0,10,8,0,0,1,0,1,1,0,1,0,0,0,35,3,0,0,0,0,3,0,0,2137545,2021
+05/26/2021,home,15580,725,Army West Point,9,True,7,22,-15,loss,7 - 22,5081794,352,1,1.1,0,6,5,5,0,0,0,10,9,2,0,1,1,0,0,0,1,1,0,1,34,2,2,0,0,0,3,0,0,2137545,2021

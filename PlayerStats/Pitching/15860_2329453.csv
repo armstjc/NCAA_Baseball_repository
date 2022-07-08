@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/26/2022,away,15860,219,Evansville,9,True,2,11,-9,loss,2 - 11,5216854,175,1,2.0,0,1,2,2,2,2,0,11,7,0,0,1,0,0,1,0,0,0,0,1,43,2,2,0,0,0,3,0,0,2329453,2022
+03/02/2022,away,15860,202,Eastern Ky.,9,True,3,11,-8,loss,3 - 11,5221115,175,1,1.2,0,2,2,1,2,2,0,9,7,1,0,0,0,0,0,0,0,0,0,0,42,1,1,0,1,0,1,0,0,2329453,2022
+03/08/2022,away,15860,810,Wright St.,9,True,0,14,-14,loss,0 - 14,5228889,175,1,1.0,0,4,3,3,2,1,0,9,7,2,0,0,0,0,0,0,2,2,0,0,0,0,2,0,0,0,6,0,0,2329453,2022
+03/18/2022,away,15860,418,Michigan,9,True,6,18,-12,loss,6 - 18,5238331,175,1,1.1,0,3,2,2,1,1,0,9,7,1,0,0,0,1,1,0,1,0,0,0,31,2,1,0,0,0,7,0,0,2329453,2022

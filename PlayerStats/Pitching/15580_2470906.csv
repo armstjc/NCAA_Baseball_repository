@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/19/2021,home,15580,234,Florida St.,9,True,1,13,-12,loss,1 - 13,5030714,415,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,0,2,0,0,0,5,0,0,2470906,2021
+05/08/2021,home,15580,27,App State,9,True,16,1,15,win,16 - 1,5076041,415,1,1.0,0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,17,1,2,0,0,0,5,0,0,2470906,2021
+05/14/2021,home,15580,255,Georgia Tech,9,True,3,14,-11,loss,3 - 14,5078325,415,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,3,1,0,0,0,0,5,0,0,2470906,2021

@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/20/2022,home,15860,746,Virginia,9,True,3,8,-5,loss,3 - 8,5210860,471,1,0.1,0,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,2495246,2022
+02/25/2022,away,15860,749,Wake Forest,9,True,5,16,-11,loss,5 - 16,5217494,471,1,0.2,0,2,6,0,2,0,0,8,5,0,0,0,0,0,1,0,0,0,0,0,35,1,0,0,0,0,3,0,0,2495246,2022
+03/29/2022,away,15860,587,Rutgers,9,True,1,11,-10,loss,1 - 11,5249449,471,1,0.2,0,2,2,2,3,0,0,7,4,1,0,0,0,2,0,0,2,2,0,0,24,2,0,0,0,0,4,0,0,2495246,2022
+04/17/2022,home,15860,391,UMBC,9,True,6,11,-5,loss,6 - 11,5267902,471,1,1.0,0,0,0,0,0,1,0,3,2,0,0,0,0,0,1,0,1,0,0,0,7,1,0,0,0,0,5,0,0,2495246,2022
+04/30/2022,home,15860,683,Stony Brook,9,True,7,13,-6,loss,7 - 13,5279817,471,1,0.0,0,2,2,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,4,0,0,2495246,2022

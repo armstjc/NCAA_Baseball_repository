@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/19/2021,away,15580,464,Omaha,9,True,1,7,-6,loss,1 - 7,5029891,649,1,0.2,0,0,0,0,1,0,0,3,2,0,0,0,0,1,0,0,2,1,0,0,12,2,0,0,0,0,3,0,0,1869739,2021
+04/02/2021,away,15580,219,Evansville,9,True,3,13,-10,loss,3 - 13,5045043,649,1,1.1,0,1,4,4,1,1,0,9,5,0,0,0,1,0,3,0,0,0,0,0,0,0,3,0,0,0,3,0,0,1869739,2021
+04/11/2021,home,15580,464,Omaha,9,True,9,8,1,win,9 - 8,5054006,649,1,1.0,0,3,2,2,1,1,0,7,6,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,5,1,0,1869739,2021
+04/23/2021,home,15580,493,North Dakota St.,9,True,0,5,-5,loss,0 - 5,5063813,649,1,1.0,0,0,1,0,1,2,0,6,4,0,0,0,0,0,1,0,0,0,0,0,21,1,0,0,0,0,2,0,0,1869739,2021
+05/01/2021,away,15580,527,Oral Roberts,9,True,2,6,-4,loss,2 - 6,5071443,649,1,1.0,0,2,2,2,0,0,0,8,6,0,0,0,0,0,2,0,0,0,0,0,24,3,0,0,0,0,2,0,0,1869739,2021
+05/16/2021,away,15580,493,North Dakota St.,9,True,4,10,-6,loss,4 - 10,5079179,649,1,0.1,0,2,3,3,1,1,0,4,3,1,0,0,0,2,0,0,0,0,0,0,16,0,0,0,0,0,4,1,0,1869739,2021

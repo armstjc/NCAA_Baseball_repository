@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/02/2021,away,15580,456,UNC Asheville,11,True,10,9,1,win,10 - 9,5012754,2915,1,1.1,0,0,3,3,3,1,0,7,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,0,2329216,2021
+03/27/2021,away,15580,406,Mercer,9,True,7,13,-6,loss,7 - 13,5039053,2915,1,0.1,0,0,0,0,2,0,0,3,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,5,0,0,2329216,2021

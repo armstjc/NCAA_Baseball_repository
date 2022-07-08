@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/02/2021,away,15580,147,Clemson,9,True,3,7,-4,loss,3 - 7,5012787,198,1,1.0,0,1,1,1,1,2,0,6,4,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,4,1,0,2123121,2021
+03/05/2021,home,15580,202,Eastern Ky.,9,True,7,6,1,win,7 - 6,5014825,198,1,2.1,0,2,1,1,0,3,0,10,9,1,0,0,0,0,1,0,3,0,0,0,39,1,3,1,0,0,3,1,0,2123121,2021
+03/20/2021,home,15580,741,VMI,9,True,7,2,5,win,7 - 2,5031904,198,1,1.0,0,4,2,2,0,1,0,7,7,1,0,0,0,0,0,0,0,0,0,0,23,2,0,0,0,0,3,0,0,2123121,2021
+03/30/2021,away,15580,563,Radford,9,True,5,9,-4,loss,5 - 9,5042218,198,1,0.1,0,2,2,2,0,0,0,3,2,0,0,0,0,0,0,0,0,0,1,0,4,1,0,0,0,0,7,0,0,2123121,2021

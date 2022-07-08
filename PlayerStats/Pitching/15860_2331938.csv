@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/23/2022,home,15860,30,Arkansas St.,9,True,15,5,10,win,15 - 5,5213336,433,1,0.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,3,0,0,2331938,2022
+03/09/2022,home,15860,17,Alcorn,9,True,16,1,15,win,16 - 1,5229716,433,1,1.0,0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,18,0,2,0,0,0,2,0,0,2331938,2022

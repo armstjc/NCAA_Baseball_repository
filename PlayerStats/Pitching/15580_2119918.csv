@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/28/2021,away,15580,28600,Lipscomb,9,True,5,7,-2,loss,5 - 7,5012034,169,1,1.2,0,1,1,1,0,0,0,6,6,1,0,0,0,0,0,0,0,0,0,0,21,3,2,0,1,0,4,0,0,2119918,2021
+03/05/2021,away,15580,464,Omaha,9,True,10,3,7,win,10 - 3,5018749,169,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,0,2119918,2021
+03/20/2021,away,15580,328,Kansas,9,True,3,11,-8,loss,3 - 11,5049815,169,1,1.2,0,2,4,4,3,0,0,11,6,0,0,1,0,1,1,0,0,0,0,1,46,1,4,0,0,0,2,0,0,2119918,2021
+04/09/2021,home,15580,739,Villanova,9,True,9,2,7,win,9 - 2,5051251,169,1,0.2,0,3,2,2,1,0,0,6,5,0,0,0,1,0,0,0,0,0,0,0,25,0,2,0,0,0,2,0,0,2119918,2021

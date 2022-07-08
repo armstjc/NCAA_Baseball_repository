@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/27/2021,home,15580,94,CSU Bakersfield,9,True,9,6,3,win,9 - 6,5010397,96,1,2.2,0,6,5,3,0,1,0,15,14,0,0,0,0,0,1,0,0,0,0,0,51,5,1,0,0,0,2,0,0,2117731,2021
+03/02/2021,away,15580,629,San Francisco,9,True,6,7,-1,loss,6 - 7,5012802,96,1,1.1,0,1,1,1,1,1,0,6,5,1,0,0,0,0,0,0,3,3,0,0,26,1,2,0,1,0,6,0,0,2117731,2021
+03/07/2021,away,15580,626,San Diego St.,9,True,7,12,-5,loss,7 - 12,5018557,96,1,0.1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,4,0,0,2117731,2021
+03/27/2021,away,15580,674,Stanford,9,True,4,12,-8,loss,4 - 12,5039458,96,1,0.1,0,1,1,1,0,0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,9,1,0,0,0,0,4,0,0,2117731,2021
+05/22/2021,home,15580,465,UNLV,9,True,2,13,-11,loss,2 - 13,5081199,96,1,0.0,0,2,2,2,2,0,0,4,2,1,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,4,0,0,2117731,2021

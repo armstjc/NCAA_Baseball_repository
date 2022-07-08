@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/31/2021,away,15580,400,Massachusetts,9,True,7,6,1,win,7 - 6,5042861,285,1,1.0,0,2,0,0,1,0,0,6,4,0,0,0,0,0,1,0,0,0,0,0,23,2,0,0,0,0,1,0,0,2132496,2021
+04/07/2021,home,15580,410,Merrimack,9,True,11,12,-1,loss,11 - 12,5049739,285,1,0.2,0,0,2,0,2,1,0,6,3,0,0,0,0,2,1,0,0,0,0,0,35,1,0,0,0,0,3,0,0,2132496,2021
+05/02/2021,home,15580,725,Army West Point,9,True,1,8,-7,loss,1 - 8,5072414,285,1,1.0,0,1,2,2,3,0,0,8,3,0,0,0,0,0,2,0,1,0,0,0,28,1,1,0,0,0,2,0,1,2132496,2021

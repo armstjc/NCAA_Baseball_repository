@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/15/2022,away,15860,678,Stetson,9,True,1,12,-11,loss,1 - 12,5235468,380,1,1.0,0,3,2,2,4,0,0,9,5,0,0,0,0,0,0,0,0,0,0,0,41,1,1,0,0,0,3,0,0,2510357,2022
+04/19/2022,home,15860,151,Colby,9,True,13,4,9,win,13 - 4,5269017,380,1,1.0,0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,1,0,2510357,2022
+04/27/2022,away,15860,410,Merrimack,9,True,7,5,2,win,7 - 5,5276892,380,1,0.1,0,0,2,2,3,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,0,2510357,2022

@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/21/2021,home,15580,596,St. Bonaventure,9,True,22,6,16,win,22 - 6,5033611,817,1,1.0,0,0,1,1,2,1,0,6,3,0,0,0,0,1,1,0,0,0,0,0,19,2,0,0,0,0,2,0,0,2308693,2021

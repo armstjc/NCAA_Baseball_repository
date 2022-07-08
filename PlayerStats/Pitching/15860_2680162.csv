@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/19/2022,home,15860,312,Iowa,9,True,1,11,-10,loss,1 - 11,5266070,47,1,1.0,0,2,1,1,0,2,0,6,5,0,0,0,1,0,1,0,0,0,0,0,23,0,1,0,0,0,3,0,0,2680162,2022
+03/19/2022,home,15860,71,Bowling Green,9,True,17,1,16,win,17 - 1,5239288,47,1,1.0,0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,2,0,0,2680162,2022
+04/02/2022,away,15860,709,Toledo,9,True,10,2,8,win,10 - 2,5253453,47,1,0.2,0,2,2,2,1,1,0,5,4,1,0,0,0,0,0,0,0,0,0,0,22,0,1,0,0,0,2,0,0,2680162,2022
+04/23/2022,away,15860,503,NIU,9,True,13,0,13,win,13 - 0,5273278,47,1,0.2,0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,0,0,0,0,2,0,0,2680162,2022

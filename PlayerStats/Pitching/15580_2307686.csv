@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+04/13/2021,home,15580,740,VCU,9,True,3,8,-5,loss,3 - 8,5055631,786,1,1.0,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0,0,2307686,2021
+04/18/2021,home,15580,1068,Elon,9,True,9,7,2,win,9 - 7,5060564,786,1,0.1,0,2,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,2307686,2021
+04/24/2021,home,15580,317,James Madison,9,True,5,9,-4,loss,5 - 9,5068042,786,1,1.0,0,0,0,0,0,1,0,3,2,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,4,0,0,2307686,2021
+05/04/2021,away,15580,193,Duke,9,True,6,11,-5,loss,6 - 11,5073545,786,1,1.0,0,1,1,1,1,0,0,5,4,0,0,0,1,0,0,0,1,0,0,0,17,2,1,0,0,0,5,0,0,2307686,2021
+05/26/2021,home,15580,1068,Elon,9,True,3,7,-4,loss,3 - 7,5081800,786,1,0.1,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,11,1,0,0,0,0,5,0,0,2307686,2021

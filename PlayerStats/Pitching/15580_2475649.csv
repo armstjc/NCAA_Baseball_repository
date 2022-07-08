@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/23/2021,home,15580,699,Texas Southern,9,True,20,0,20,win,20 - 0,5006581,698,1,4.0,0,2,0,0,1,4,0,16,12,0,0,0,0,0,2,0,0,0,1,0,58,6,1,1,0,0,1,1,0,2475649,2021
+03/10/2021,away,15580,706,UTSA,9,True,6,3,3,win,6 - 3,5020965,698,1,5.0,0,2,2,1,2,4,0,19,16,1,0,0,1,0,1,0,0,0,0,0,0,8,2,1,0,0,1,1,0,2475649,2021
+04/13/2021,home,15580,1395,Tarleton St.,9,True,10,2,8,win,10 - 2,5055701,698,1,0.1,0,1,1,1,0,0,0,3,1,0,0,0,0,0,1,0,0,0,1,0,12,1,0,0,0,0,1,0,0,2475649,2021

@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/19/2022,home,15860,458,Charlotte,9,True,3,7,-4,loss,3 - 7,5209070,164,1,0.2,0,1,2,2,3,2,0,6,3,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,4,1,0,2462283,2022
+03/08/2022,home,15860,272,Hartford,9,True,8,3,5,win,8 - 3,5228516,164,1,1.0,0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,0,2462283,2022
+03/16/2022,away,15860,99,Long Beach St.,9,True,1,7,-6,loss,1 - 7,5237211,164,1,0.0,0,1,0,0,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,7,0,0,2462283,2022
+04/05/2022,home,15860,127,Central Conn. St.,9,True,25,6,19,win,25 - 6,5256283,164,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,1,1,0,0,0,7,1,0,2462283,2022
+04/10/2022,home,15860,603,St. John's (NY),9,True,10,0,10,win,10 - 0,5260976,164,1,0.1,0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,3,0,0,2462283,2022

@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/21/2021,home,15580,812,Xavier,9,True,15,0,15,win,15 - 0,5004808,697,1,1.0,0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,19,2,1,0,0,0,4,0,0,2480197,2021
+02/28/2021,home,15580,37,Auburn,9,True,1,6,-5,loss,1 - 6,5010940,697,1,0.2,0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,2,1,0,0,18,0,0,0,0,0,4,0,0,2480197,2021
+03/10/2021,home,15580,553,Prairie View,9,True,22,2,20,win,22 - 2,5020938,697,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,5,0,0,2480197,2021
+03/13/2021,home,15580,625,Samford,9,True,21,4,17,win,21 - 4,5024154,697,1,0.1,0,1,2,2,2,0,0,4,2,1,0,0,0,0,0,0,0,0,0,0,18,0,1,0,0,0,3,0,0,2480197,2021

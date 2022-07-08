@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/06/2021,home,15580,165,Coppin St.,9,True,5,15,-10,loss,5 - 15,5017418,450,1,1.0,0,0,0,0,2,1,0,5,3,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,6,0,0,2481507,2021
+03/23/2021,home,15580,340,La Salle,9,True,4,8,-4,loss,4 - 8,5034780,450,1,1.0,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,0,2481507,2021
+03/26/2021,home,15580,81,Bryant,9,True,2,15,-13,loss,2 - 15,5037115,450,1,1.0,0,1,1,1,0,1,0,4,4,0,0,0,1,0,0,0,0,0,0,0,16,2,0,0,0,0,5,0,0,2481507,2021
+04/03/2021,away,15580,127,Central Conn. St.,9,True,3,5,-2,loss,3 - 5,5045736,450,1,0.1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,4,0,0,2481507,2021

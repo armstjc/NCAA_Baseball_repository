@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/24/2021,away,15580,419,Middle Tenn.,9,True,12,7,5,win,12 - 7,5007162,454,1,1.1,0,0,3,3,3,3,0,8,4,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,0,2,1,0,2306556,2021
+02/27/2021,home,15580,308,Purdue Fort Wayne,9,True,3,2,1,win,3 - 2,5027320,454,1,1.1,0,2,2,2,2,0,0,8,5,1,0,0,0,1,0,0,0,0,1,0,41,3,1,0,0,0,1,0,0,2306556,2021
+03/07/2021,away,15580,31,Arkansas,9,True,0,6,-6,loss,0 - 6,5018266,454,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,5,1,0,0,0,0,4,0,0,2306556,2021
+03/09/2021,away,15580,367,Louisville,9,True,3,8,-5,loss,3 - 8,5019836,454,1,0.0,0,1,2,2,1,0,0,2,1,0,0,0,1,1,0,0,1,1,0,0,9,0,0,0,0,0,2,0,0,2306556,2021
+03/28/2021,away,15580,404,Memphis,9,True,1,6,-5,loss,1 - 6,5040670,454,1,1.0,0,1,1,1,1,2,0,5,4,0,0,0,0,2,0,0,1,1,0,0,18,1,0,0,0,0,3,1,0,2306556,2021
+04/06/2021,home,15580,52,Bellarmine,9,True,12,8,4,win,12 - 8,5048729,454,1,0.2,0,2,4,2,3,1,0,7,4,1,0,0,0,0,0,0,0,0,0,0,32,0,1,0,0,0,2,1,0,2306556,2021

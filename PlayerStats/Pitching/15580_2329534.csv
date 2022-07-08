@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/20/2021,away,15580,648,South Carolina,9,True,5,12,-7,loss,5 - 12,5003417,175,1,0.0,0,0,1,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,6,0,0,2329534,2021
+03/07/2021,home,15580,514,Oakland,9,True,7,6,1,win,7 - 6,5017947,175,1,0.1,0,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0,2,2,0,1,0,0,1,0,0,0,3,0,0,2329534,2021
+03/24/2021,away,15580,202,Eastern Ky.,9,True,20,13,7,win,20 - 13,5035901,175,1,1.1,0,1,2,1,3,0,0,10,4,0,0,0,0,0,2,0,0,0,0,1,41,1,3,1,0,0,2,0,0,2329534,2021
+04/06/2021,home,15580,444,Morehead St.,9,True,7,10,-3,loss,7 - 10,5049132,175,1,1.0,0,2,1,1,0,2,0,5,4,2,0,0,0,0,0,0,0,0,1,0,25,1,0,0,0,0,5,1,0,2329534,2021

@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+04/12/2022,away,15860,62,Binghamton,9,True,3,5,-2,loss,3 - 5,5263138,167,1,1.0,0,1,0,0,0,2,0,4,4,0,0,0,0,1,0,0,0,0,0,0,17,0,1,0,0,0,5,0,0,2111755,2022
+04/16/2022,away,15860,540,Penn,9,True,1,10,-9,loss,1 - 10,5266419,167,1,1.0,0,2,2,2,1,1,0,7,5,1,0,0,0,1,1,0,0,0,0,0,24,0,2,0,0,0,4,0,0,2111755,2022
+04/20/2022,home,15860,62,Binghamton,10,True,10,9,1,win,10 - 9,5270321,167,1,0.0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,5,0,0,2111755,2022

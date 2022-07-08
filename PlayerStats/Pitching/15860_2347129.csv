@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/20/2022,home,15860,444,Morehead St.,9,True,5,17,-12,loss,5 - 17,5212437,1157,1,0.0,0,3,3,3,1,0,0,5,3,1,0,0,0,0,1,0,1,1,0,0,18,0,0,0,0,0,4,0,0,2347129,2022
+03/22/2022,home,15860,255,Georgia Tech,9,True,2,13,-11,loss,2 - 13,5243116,1157,1,0.0,0,1,3,3,2,0,0,3,1,0,0,0,0,0,0,0,2,2,0,0,14,0,0,0,0,0,5,0,0,2347129,2022

@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/27/2021,home,15580,414,Miami (OH),9,True,4,21,-17,loss,4 - 21,5010258,231,1,1.0,0,3,5,5,3,0,0,8,4,1,0,0,0,0,0,0,1,1,0,1,30,1,1,0,0,0,5,0,0,2310512,2021
+03/13/2021,away,15580,149,Coastal Carolina,9,True,0,7,-7,loss,0 - 7,5027250,231,1,2.1,0,1,0,0,1,5,0,9,8,0,0,0,0,0,0,0,3,0,0,0,40,1,2,0,0,0,5,1,0,2310512,2021
+03/23/2021,home,15580,678,Stetson,9,True,3,6,-3,loss,3 - 6,5035121,231,1,0.1,0,1,0,0,1,0,0,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2,0,0,2310512,2021
+03/27/2021,away,15580,523,Old Dominion,9,True,0,14,-14,loss,0 - 14,5039624,231,1,0.2,0,0,0,0,0,0,0,2,1,0,0,0,0,1,1,0,2,2,0,0,8,1,0,0,0,0,2,0,0,2310512,2021
+03/28/2021,away,15580,523,Old Dominion,9,True,9,16,-7,loss,9 - 16,5040272,231,1,1.0,0,1,0,0,1,0,0,5,4,0,0,0,0,1,0,0,2,2,0,0,21,1,2,0,0,0,9,0,0,2310512,2021
+04/23/2021,home,15580,229,Fla. Atlantic,9,True,6,11,-5,loss,6 - 11,5064474,231,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,2,1,0,0,4,0,1,0,0,0,3,0,0,2310512,2021

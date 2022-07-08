@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/26/2022,away,15860,659,Southern Ill.,9,True,4,16,-12,loss,4 - 16,5247179,87,1,1.0,0,2,3,3,2,0,0,8,6,0,1,0,0,0,0,0,0,0,0,0,26,3,0,0,0,0,1,0,0,21210120,2022
+04/03/2022,home,15860,201,Eastern Ill.,9,True,2,0,2,win,2 - 0,5255360,87,1,2.2,0,4,0,0,1,2,0,12,11,1,0,0,0,0,0,0,0,0,0,0,41,1,4,0,0,0,1,1,0,21210120,2022
+04/10/2022,away,15860,739,Villanova,9,True,11,3,8,win,11 - 3,5261968,87,1,2.0,0,4,3,2,1,1,0,13,12,2,0,0,0,0,0,0,0,0,0,0,50,3,2,0,0,0,1,1,0,21210120,2022
+04/16/2022,home,15860,251,Georgetown,9,True,4,8,-4,loss,4 - 8,5266431,87,1,4.0,0,4,2,0,1,5,0,18,17,0,0,0,0,0,0,0,0,0,0,0,79,3,4,0,1,0,1,2,0,21210120,2022

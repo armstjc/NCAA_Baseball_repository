@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/21/2021,home,15580,331,Kent St.,9,True,9,2,7,win,9 - 2,5005539,742,1,0.0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,3,0,0,2303070,2021
+03/07/2021,home,15580,457,North Carolina,9,True,6,9,-3,loss,6 - 9,5018099,742,1,0.0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,10,0,0,0,0,0,5,0,0,2303070,2021
+03/14/2021,home,15580,234,Florida St.,9,True,7,14,-7,loss,7 - 14,5025597,742,1,0.0,0,2,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,10,0,0,2303070,2021
+04/27/2021,home,15580,198,ETSU,9,True,12,0,12,win,12 - 0,5069589,742,1,1.0,0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,27,3,0,0,0,0,3,0,0,2303070,2021
+04/30/2021,home,15580,746,Virginia,9,True,1,18,-17,loss,1 - 18,5070099,742,1,1.0,0,1,1,1,2,1,0,6,4,1,0,0,0,0,0,0,0,0,0,0,26,0,2,0,0,0,8,1,0,2303070,2021

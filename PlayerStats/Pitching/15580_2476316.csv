@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/21/2021,away,15580,459,UNC Greensboro,9,True,2,3,-1,loss,2 - 3,5005093,1068,1,0.2,0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,2,0,0,0,9,0,0,0,0,0,5,0,0,2476316,2021
+02/23/2021,away,15580,457,North Carolina,9,True,1,4,-3,loss,1 - 4,5006264,1068,1,1.0,0,1,1,1,1,2,0,5,4,1,0,0,0,0,0,0,0,0,0,0,20,1,0,0,0,0,4,0,0,2476316,2021
+03/07/2021,home,15580,459,UNC Greensboro,9,True,6,14,-8,loss,6 - 14,5019265,1068,1,1.2,0,3,1,1,1,0,0,8,6,0,0,0,0,0,1,0,3,1,0,0,31,3,0,0,0,0,4,0,0,2476316,2021
+03/14/2021,home,15580,488,N.C. A&T,9,True,10,9,1,win,10 - 9,5025635,1068,1,0.2,0,0,3,0,2,1,0,5,3,0,0,0,0,0,0,0,0,0,0,0,24,0,1,0,0,0,4,0,0,2476316,2021

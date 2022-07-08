@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+04/18/2021,home,15580,386,Marist,9,True,3,13,-10,loss,3 - 13,5060653,617,1,0.2,0,2,3,2,1,0,0,5,4,0,0,0,1,0,0,0,0,0,0,0,27,1,1,0,0,0,3,0,0,2528396,2021
+04/24/2021,away,15580,639,Siena,9,True,0,7,-7,loss,0 - 7,5065498,617,1,1.0,0,0,1,1,2,2,0,6,2,0,0,0,0,1,1,0,0,0,0,1,22,0,1,0,0,0,2,1,0,2528396,2021
+05/09/2021,home,15580,439,Monmouth,9,True,0,18,-18,loss,0 - 18,5076384,617,1,3.0,0,6,4,4,1,2,0,15,14,1,0,0,0,2,0,0,0,0,0,0,58,4,2,0,1,0,1,0,0,2528396,2021
+05/12/2021,away,15580,116,Canisius,9,True,11,20,-9,loss,11 - 20,5077792,617,1,1.1,0,6,7,6,2,3,0,13,11,2,2,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,3,0,2528396,2021
+05/16/2021,away,15580,381,Manhattan,9,True,4,5,-1,loss,4 - 5,5079044,617,1,0.1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2,1,0,1,9,0,1,0,0,0,2,0,0,2528396,2021

@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/07/2021,home,15580,505,Northern Ky.,9,True,13,1,12,win,13 - 1,5017942,810,1,1.0,0,0,0,0,0,3,0,4,3,0,0,0,0,0,1,0,0,0,0,0,18,0,0,0,0,0,3,1,0,1986661,2021
+03/12/2021,home,15580,817,Youngstown St.,9,True,12,2,10,win,12 - 2,5022116,810,1,1.0,0,2,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,4,0,0,1986661,2021
+03/27/2021,away,15580,817,Youngstown St.,9,True,20,8,12,win,20 - 8,5039903,810,1,1.0,0,4,2,2,0,1,0,7,7,0,1,0,1,0,0,0,0,0,0,0,20,1,0,0,0,0,3,1,0,1986661,2021
+05/01/2021,away,15580,308,Purdue Fort Wayne,9,True,28,7,21,win,28 - 7,5071412,810,1,1.0,0,1,1,1,1,0,0,5,4,0,0,0,1,0,0,0,0,0,0,0,12,1,2,0,0,0,6,0,0,1986661,2021
+05/14/2021,home,15580,514,Oakland,9,True,16,0,16,win,16 - 0,5078301,810,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,6,2,1,0,0,0,3,0,0,1986661,2021
+05/23/2021,home,15580,1013,Charleston (WV),9,True,12,3,9,win,12 - 3,5081434,810,1,1.0,0,1,1,1,0,1,0,4,4,0,0,0,1,0,0,0,0,0,0,0,9,1,1,0,0,0,5,0,0,1986661,2021

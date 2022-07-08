@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/21/2021,away,15580,625,Samford,9,True,1,3,-2,loss,1 - 3,5004669,695,1,1.0,0,0,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,2469819,2021
+03/05/2021,away,15580,659,Southern Ill.,9,True,7,14,-7,loss,7 - 14,5014944,695,1,0.1,0,4,5,4,1,1,0,7,5,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2469819,2021
+03/09/2021,away,15580,487,North Ala.,9,True,5,1,4,win,5 - 1,5019852,695,1,0.1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,6,0,0,2469819,2021
+03/27/2021,away,15580,261,Grambling,9,True,18,4,14,win,18 - 4,5039604,695,1,2.0,0,2,1,1,2,2,0,12,9,0,0,0,1,1,1,0,0,0,0,0,30,3,1,0,0,0,3,0,0,2469819,2021

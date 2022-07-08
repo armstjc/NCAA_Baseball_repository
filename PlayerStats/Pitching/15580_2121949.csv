@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/30/2021,away,15580,28755,FGCU,9,True,13,11,2,win,13 - 11,5042398,229,1,1.0,0,3,5,5,1,2,0,8,6,0,0,0,2,0,1,0,0,0,0,0,31,1,0,0,0,0,1,0,0,2121949,2021
+05/16/2021,home,15580,664,Southern Miss.,9,True,9,6,3,win,9 - 6,5079114,229,1,0.1,0,0,0,0,2,1,0,3,1,0,0,0,0,0,0,0,2,1,0,0,15,0,0,0,0,0,2,0,0,2121949,2021
+05/18/2021,away,15580,415,Miami (FL),9,True,3,0,3,win,3 - 0,5079602,229,1,2.0,0,1,0,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,24,1,4,0,0,0,2,0,0,2121949,2021
+05/26/2021,home,15580,523,Old Dominion,9,True,2,11,-9,loss,2 - 11,5081805,229,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,2,0,0,0,5,1,0,0,0,0,2,0,0,2121949,2021

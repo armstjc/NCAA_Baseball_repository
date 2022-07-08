@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/07/2021,home,15580,559,Purdue,9,True,4,0,4,win,4 - 0,5017569,463,1,1.0,0,2,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,13,2,0,0,0,0,6,0,0,1992108,2021
+03/14/2021,home,15580,518,Ohio St.,9,True,4,6,-2,loss,4 - 6,5025157,463,1,1.0,0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,20,0,1,0,0,0,3,1,0,1992108,2021
+04/10/2021,home,15580,392,Maryland,9,True,7,10,-3,loss,7 - 10,5052482,463,1,1.0,0,0,2,1,1,0,0,6,3,0,0,0,0,0,2,0,0,0,0,0,23,1,2,0,0,0,4,0,0,1992108,2021
+05/09/2021,away,15580,587,Rutgers,9,True,15,5,10,win,15 - 5,5076476,463,1,1.0,0,2,2,2,0,2,0,5,5,0,0,0,1,0,0,0,0,0,0,0,16,1,0,0,0,0,3,1,0,1992108,2021

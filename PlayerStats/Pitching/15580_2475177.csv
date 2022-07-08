@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/22/2021,away,15580,746,Virginia,9,True,4,10,-6,loss,4 - 10,5034175,545,1,0.1,0,2,2,2,0,0,0,4,3,1,0,0,0,0,1,0,0,0,0,0,15,0,1,0,0,0,5,0,0,2475177,2021
+03/26/2021,home,15580,742,Virginia Tech,9,True,1,5,-4,loss,1 - 5,5037113,545,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,5,0,0,2475177,2021
+03/27/2021,home,15580,742,Virginia Tech,9,True,4,8,-4,loss,4 - 8,5039185,545,1,1.0,0,0,0,0,0,1,0,3,2,0,0,0,0,0,0,0,2,1,0,1,0,0,2,0,0,0,4,0,0,2475177,2021
+04/05/2021,home,15580,513,Notre Dame,9,True,5,11,-6,loss,5 - 11,5048539,545,1,1.0,0,1,1,1,1,0,0,5,4,0,0,0,1,0,0,0,0,0,0,0,21,3,0,0,0,0,5,0,0,2475177,2021
+04/13/2021,home,15580,28600,Lipscomb,9,True,9,6,3,win,9 - 6,5055555,545,1,0.1,0,1,2,2,1,0,0,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,2475177,2021

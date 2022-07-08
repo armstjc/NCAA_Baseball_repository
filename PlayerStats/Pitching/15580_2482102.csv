@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/23/2021,home,15580,735,Valparaiso,9,True,6,3,3,win,6 - 3,5035071,513,1,1.0,0,4,3,3,0,1,0,7,7,0,1,0,0,0,0,0,0,0,0,0,32,2,0,0,0,0,3,1,0,2482102,2021
+04/13/2021,home,15580,129,Central Mich.,9,True,8,4,4,win,8 - 4,5055651,513,1,1.0,0,3,2,2,1,0,0,6,5,1,0,0,0,0,0,0,0,0,0,0,24,1,1,0,0,0,5,0,0,2482102,2021
+06/05/2021,home,15580,164,UConn,9,True,26,3,23,win,26 - 3,5082853,513,1,1.0,0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,19,1,0,0,0,0,3,0,0,2482102,2021

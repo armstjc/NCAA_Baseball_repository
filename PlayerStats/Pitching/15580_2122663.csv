@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/23/2021,away,15580,527,Oral Roberts,9,True,8,2,6,win,8 - 2,5006354,669,1,0.0,0,1,1,1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,5,0,0,2122663,2021
+03/07/2021,away,15580,1004,Central Ark.,9,True,15,9,6,win,15 - 9,5018328,669,1,0.2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,3,0,0,2122663,2021
+04/03/2021,home,15580,72,Bradley,9,True,7,10,-3,loss,7 - 10,5046374,669,1,0.0,0,0,3,3,2,0,0,3,0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,3,0,0,2122663,2021

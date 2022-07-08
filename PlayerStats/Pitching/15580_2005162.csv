@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/28/2021,home,15580,116,Canisius,9,True,8,6,2,win,8 - 6,5042013,310,1,1.2,0,0,3,2,2,2,0,8,6,0,0,0,0,0,0,0,2,0,0,0,34,1,2,0,0,0,2,0,0,2005162,2021
+04/03/2021,home,15580,220,Fairfield,9,True,2,10,-8,loss,2 - 10,5046322,310,1,0.2,0,0,0,0,2,1,0,5,2,0,0,0,0,0,1,0,1,1,0,0,29,0,1,0,0,0,5,1,0,2005162,2021
+04/07/2021,away,15580,381,Manhattan,9,True,1,8,-7,loss,1 - 8,5049165,310,1,0.1,0,2,3,3,1,0,0,6,2,0,0,0,0,0,2,0,1,1,0,1,16,0,1,0,0,0,4,0,0,2005162,2021

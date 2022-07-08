@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+05/11/2021,home,15580,522,Oklahoma,9,True,7,3,4,win,7 - 3,5077309,521,1,1.0,0,1,1,1,2,2,0,6,4,0,0,0,1,1,0,0,0,0,0,0,27,0,1,0,0,0,5,1,0,21305530,2021
+05/16/2021,home,15580,51,Baylor,9,True,3,9,-6,loss,3 - 9,5078283,521,1,0.2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,9,1,1,0,0,0,9,0,0,21305530,2021
+05/20/2021,home,15580,474,New Orleans,9,True,9,6,3,win,9 - 6,5080084,521,1,2.0,0,2,3,3,3,2,0,11,8,1,0,0,0,0,0,0,0,0,0,0,42,1,3,0,0,0,1,0,0,21305530,2021

@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+04/28/2021,away,15580,249,George Washington,9,True,4,5,-1,loss,4 - 5,5068836,251,1,0.0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,0,0,2344065,2021

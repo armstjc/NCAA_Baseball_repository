@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/27/2021,home,15580,695,UT Martin,9,True,5,21,-16,loss,5 - 21,5010299,30,1,0.2,0,1,0,0,2,2,0,5,3,0,0,0,0,0,0,0,3,3,0,0,25,0,0,0,0,0,6,2,0,2500885,2021
+03/05/2021,away,15580,2,Abilene Christian,9,True,3,26,-23,loss,3 - 26,5017136,30,1,0.1,0,0,4,4,4,1,0,5,1,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,4,0,0,2500885,2021
+03/27/2021,away,15580,299,Illinois St.,9,True,9,10,-1,loss,9 - 10,5040133,30,1,0.1,0,1,1,1,1,1,0,4,2,0,0,0,1,0,1,0,0,0,0,0,18,0,0,0,0,0,5,0,0,2500885,2021
+04/10/2021,away,15580,671,Louisiana,9,True,0,9,-9,loss,0 - 9,5052728,30,1,1.1,0,1,3,2,1,0,0,7,6,0,0,0,1,0,0,0,2,0,0,0,18,2,2,0,0,0,4,0,0,2500885,2021
+04/13/2021,away,15580,430,Mississippi St.,9,True,10,18,-8,loss,10 - 18,5055732,30,1,0.1,0,2,4,4,2,0,0,5,3,1,0,0,0,3,0,0,2,2,0,0,0,1,0,0,0,0,6,0,0,2500885,2021

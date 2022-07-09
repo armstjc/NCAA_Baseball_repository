@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/19/2022,away,15860,2711,North Florida,9,True,5,8,-3,loss,5 - 8,5212362,1320,1,0.2,0,2,1,1,1,1,0,5,4,1,0,0,0,1,0,0,2,2,0,0,26,0,1,0,0,0,3,0,0,2301923,2022
+02/23/2022,away,15860,255,Georgia Tech,9,True,7,17,-10,loss,7 - 17,5213633,1320,1,0.0,0,4,3,3,0,0,0,5,4,1,0,0,1,0,1,0,1,1,0,0,13,0,0,0,0,0,6,0,0,2301923,2022
+03/01/2022,home,15860,1014,Col. of Charleston,9,True,3,7,-4,loss,3 - 7,5220213,1320,1,0.2,0,1,1,1,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,19,1,1,0,0,0,3,0,0,2301923,2022
+03/09/2022,home,15860,769,Western Caro.,9,True,2,15,-13,loss,2 - 15,5230052,1320,1,0.1,0,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,2,1,0,0,15,1,0,0,0,0,9,0,0,2301923,2022
+03/27/2022,away,15860,115,Campbell,9,True,4,36,-32,loss,4 - 36,5248363,1320,1,0.2,0,2,4,4,1,1,0,6,4,0,0,0,2,0,1,0,3,3,0,0,21,0,1,0,0,0,10,0,0,2301923,2022

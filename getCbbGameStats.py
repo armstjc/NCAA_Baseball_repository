@@ -122,16 +122,24 @@ def getSeasonGbgStats(season=2020):
 
 def main():
     print('starting up')
-    #df = getSchoolAllTimeRoster()
+    
+    
+    schools =getSchoolList()
+    #print(schools)
+
+    for i in schools.T:
+        print(i)
+        rost = getSchoolAllTimeRoster(i)
+        #rost.to_csv(f'TeamRosters/{i}.csv')
     #getSeasonGbgStats(2013)  
-    getSeasonGbgStats(2014)
-    getSeasonGbgStats(2015)
-    getSeasonGbgStats(2016)
-    getSeasonGbgStats(2017)
-    getSeasonGbgStats(2018)
-    getSeasonGbgStats(2019)
-    getSeasonGbgStats(2020)
-    getSeasonGbgStats(2021)
+    # getSeasonGbgStats(2014)
+    # getSeasonGbgStats(2015)
+    # getSeasonGbgStats(2016)
+    # getSeasonGbgStats(2017)
+    # getSeasonGbgStats(2018)
+    # getSeasonGbgStats(2019)
+    # getSeasonGbgStats(2020)
+    #getSeasonGbgStats(2021)
     getSeasonGbgStats(2022)
     getSeasonGbgStats(2012)
 if __name__ == "__main__":

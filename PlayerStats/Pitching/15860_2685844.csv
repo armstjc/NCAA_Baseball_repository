@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/08/2022,home,15860,14,UAlbany,9,True,7,6,1,win,7 - 6,5241909,127,1,0.1,0,1,0,0,2,0,0,4,2,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,8,0,0,2685844,2022
+04/05/2022,away,15860,164,UConn,9,True,6,25,-19,loss,6 - 25,5256283,127,1,0.2,0,3,5,5,2,0,0,7,5,1,0,0,0,1,0,0,2,0,0,0,22,0,2,0,0,0,5,0,0,2685844,2022

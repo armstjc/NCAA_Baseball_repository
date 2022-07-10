@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/21/2012,away,10942,37,Auburn,9,True,0,22,-22,loss,0 - 22,756361,17,1,3.0,7,8,4,3,0,0,19,13,2,0,0,0,0,1,0,0,0,2,0,81,4,3,0,1,0,1,0,1216767,2012
+03/02/2012,away,10942,527,Oral Roberts,9,True,1,11,-10,loss,1 - 11,758054,17,1,1.0,5,3,3,0,0,0,8,8,2,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,1216767,2012
+03/13/2012,away,10942,257,Georgia,9,True,5,8,-3,loss,5 - 8,761575,17,1,2.0,2,0,0,0,1,0,9,8,1,0,0,0,0,1,0,0,0,0,0,0,1,4,0,0,0,5,1,1216767,2012
+03/16/2012,away,10942,314,Jackson St.,9,True,3,7,-4,loss,3 - 7,762316,17,1,1.0,1,1,0,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,1216767,2012
+03/28/2012,away,10942,655,Southeastern La.,9,True,3,12,-9,loss,3 - 12,766333,17,1,1.0,1,1,1,1,0,0,6,3,0,0,0,0,0,1,0,0,0,0,1,0,0,3,0,0,0,2,0,1216767,2012
+04/04/2012,away,10942,718,Tulane,9,True,3,10,-7,loss,3 - 10,768753,17,1,0.2,2,5,4,4,0,0,9,4,0,0,0,3,0,1,0,0,0,0,0,40,1,1,0,0,0,2,0,1216767,2012

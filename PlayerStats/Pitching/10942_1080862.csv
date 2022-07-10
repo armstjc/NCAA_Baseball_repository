@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/18/2012,home,10942,388,Marshall,9,True,2,16,-14,loss,2 - 16,756078,81,1,2.0,4,2,2,1,2,0,10,9,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,2,1080862,2012
+04/21/2012,away,10942,562,Quinnipiac,9,True,22,4,18,win,22 - 4,774848,81,1,2.0,0,0,0,0,3,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,1080862,2012
+05/01/2012,home,10942,639,Siena,9,True,3,8,-5,loss,3 - 8,777528,81,1,1.0,1,0,0,2,1,0,6,4,0,0,0,1,0,0,0,2,2,0,0,29,2,0,0,0,0,4,0,1080862,2012

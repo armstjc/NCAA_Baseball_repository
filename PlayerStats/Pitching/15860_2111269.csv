@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/20/2022,home,15860,459,UNC Greensboro,10,True,8,7,1,win,8 - 7,5211296,648,1,2.2,0,6,5,4,0,3,0,14,14,1,0,0,0,0,0,0,0,0,0,0,48,3,1,0,0,0,1,0,1,2111269,2022

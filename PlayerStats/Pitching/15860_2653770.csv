@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/20/2022,away,15860,415,Miami (FL),9,True,1,11,-10,loss,1 - 11,5211260,711,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,0,6,0,0,2653770,2022
+03/05/2022,away,15860,459,UNC Greensboro,9,True,1,12,-11,loss,1 - 12,5226371,711,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,0,0,4,0,0,2653770,2022
+03/16/2022,home,15860,482,Niagara,9,True,15,2,13,win,15 - 2,5237406,711,1,2.0,0,2,1,1,0,2,0,9,8,0,0,0,1,0,1,0,0,0,0,0,41,2,2,0,0,0,4,1,0,2653770,2022
+03/19/2022,home,15860,554,Princeton,9,True,11,18,-7,loss,11 - 18,5239092,711,1,0.0,0,3,3,3,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,8,0,0,2653770,2022

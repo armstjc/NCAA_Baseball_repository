@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/15/2022,home,15860,51,Baylor,9,True,11,10,1,win,11 - 10,5235902,624,1,1.0,0,0,0,0,1,2,0,4,3,0,0,0,0,1,0,0,0,0,0,0,19,0,1,0,0,0,4,0,0,2461071,2022
+03/16/2022,away,15860,574,Rice,9,True,5,13,-8,loss,5 - 13,5236813,624,1,2.0,0,6,4,4,1,0,0,13,12,0,0,0,0,0,0,0,0,0,0,0,66,1,5,0,0,0,4,0,0,2461071,2022
+04/03/2022,home,15860,536,UTRGV,9,True,6,13,-7,loss,6 - 13,5254842,624,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,5,0,1,0,0,0,5,0,0,2461071,2022
+04/05/2022,away,15860,288,Houston,9,True,6,8,-2,loss,6 - 8,5256650,624,1,1.0,0,0,0,0,0,1,0,3,2,0,0,0,0,0,1,0,0,0,0,0,10,0,1,0,0,0,5,0,1,2461071,2022
+05/07/2022,home,15860,676,SFA,9,True,15,3,12,win,15 - 3,5284494,624,1,1.0,0,3,2,2,1,0,0,8,6,2,0,0,0,0,1,0,0,0,0,0,21,2,1,0,0,0,3,0,0,2461071,2022

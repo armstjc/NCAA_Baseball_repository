@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/13/2022,home,15860,639,Siena,9,True,13,7,6,win,13 - 7,5233233,141,1,1.0,0,2,1,1,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,22,1,1,0,0,0,4,1,0,2473073,2022
+04/19/2022,away,15860,2711,North Florida,9,True,3,12,-9,loss,3 - 12,5269044,141,1,0.2,0,3,3,3,0,1,0,5,4,0,0,0,0,0,1,0,0,0,0,0,18,0,0,0,0,0,4,1,0,2473073,2022
+05/17/2022,away,15860,1014,Col. of Charleston,9,True,9,15,-6,loss,9 - 15,5288594,141,1,1.0,0,1,1,1,1,0,0,6,4,1,0,0,0,1,0,0,0,0,0,1,17,1,2,0,0,0,8,0,0,2473073,2022

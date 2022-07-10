@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+05/07/2022,home,15860,522,Oklahoma,9,True,7,11,-4,loss,7 - 11,5284496,698,1,1.0,0,1,0,0,1,0,0,5,4,0,0,0,0,1,0,0,0,0,0,0,13,1,2,0,0,0,6,0,0,2654351,2022

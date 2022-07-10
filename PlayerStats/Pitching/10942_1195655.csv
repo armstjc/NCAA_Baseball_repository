@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/13/2012,home,10942,664,Southern Miss.,9,True,8,3,5,win,8 - 3,761648,8,1,1.2,3,1,1,1,1,0,10,7,1,1,0,0,0,1,0,0,0,1,0,37,3,1,0,0,0,2,0,1195655,2012
+03/17/2012,away,10942,31,Arkansas,9,True,4,8,-4,loss,4 - 8,762658,8,1,3.2,2,1,1,4,3,0,17,12,2,0,0,0,0,0,0,3,3,1,0,61,6,2,0,0,0,2,0,1195655,2012
+03/20/2012,away,10942,716,Troy,9,True,0,9,-9,loss,0 - 9,763819,8,1,0.0,0,3,1,2,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,15,0,0,0,1,0,2,0,1195655,2012
+03/30/2012,away,10942,694,Tennessee,9,True,8,10,-2,loss,8 - 10,766687,8,1,2.2,3,1,1,1,1,0,10,9,1,0,0,0,0,0,0,3,0,0,0,24,3,1,0,0,0,2,1,1195655,2012
+04/10/2012,home,10942,9,UAB,9,True,1,9,-8,loss,1 - 9,770622,8,1,0.2,2,3,3,2,1,0,6,4,0,0,0,0,0,0,0,1,1,0,0,24,0,1,0,0,0,3,1,1195655,2012
+04/18/2012,home,10942,432,Mississippi Val.,9,True,3,8,-5,loss,3 - 8,773636,8,1,3.1,2,2,2,3,2,0,15,10,0,0,0,0,0,0,0,0,0,1,1,57,2,6,0,1,0,1,1,1195655,2012

@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/01/2022,home,15860,553,Prairie View,9,True,7,0,7,win,7 - 0,5220506,26172,1,1.0,0,1,0,0,2,2,0,6,4,0,0,0,0,0,0,0,0,0,0,0,26,1,0,0,0,0,6,0,0,2320566,2022
+04/02/2022,away,15860,508,Northwestern St.,9,True,8,11,-3,loss,8 - 11,5253484,26172,1,1.0,0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,0,0,0,0,4,0,0,2320566,2022
+04/22/2022,away,15860,474,New Orleans,9,True,3,13,-10,loss,3 - 13,5271444,26172,1,0.0,0,3,4,4,1,0,0,4,3,2,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,3,0,0,2320566,2022

@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/23/2022,away,15860,746,Virginia,9,True,0,14,-14,loss,0 - 14,5213920,741,1,0.2,0,0,2,2,1,0,0,4,2,0,0,0,0,0,1,0,0,0,0,0,14,1,1,0,0,0,2,0,0,2674881,2022
+03/09/2022,home,15860,285,Holy Cross,9,True,1,5,-4,loss,1 - 5,5229482,741,1,0.1,0,1,1,1,1,0,0,4,2,0,0,0,0,0,1,0,0,0,0,0,17,1,0,0,1,0,2,0,0,2674881,2022
+04/01/2022,away,15860,460,UNCW,9,True,1,18,-17,loss,1 - 18,5251822,741,1,2.0,0,2,3,2,2,5,0,13,9,1,0,0,0,1,2,0,0,0,0,0,59,0,1,0,0,0,4,2,0,2674881,2022
+04/06/2022,home,15860,317,James Madison,9,True,2,12,-10,loss,2 - 12,5257348,741,1,1.0,0,2,3,3,2,1,0,7,5,1,0,0,0,0,0,0,0,0,0,0,26,0,2,0,0,0,2,1,0,2674881,2022
+05/19/2022,home,15860,2915,Wofford,9,True,2,19,-17,loss,2 - 19,5288844,741,1,2.0,0,2,2,1,1,2,0,9,8,0,0,0,1,2,0,0,0,0,0,0,35,0,4,0,0,0,4,0,0,2674881,2022

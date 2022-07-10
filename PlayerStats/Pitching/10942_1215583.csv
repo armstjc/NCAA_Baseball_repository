@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/07/2012,home,10942,7,Alabama St.,9,True,12,3,9,win,12 - 3,759690,9,1,1.0,1,1,1,1,1,0,5,3,0,1,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,4,0,1215583,2012
+04/18/2012,away,10942,625,Samford,9,True,0,11,-11,loss,0 - 11,773419,9,1,1.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,1,1215583,2012

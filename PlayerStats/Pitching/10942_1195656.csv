@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/29/2012,away,10942,664,Southern Miss.,9,True,2,14,-12,loss,2 - 14,757919,8,1,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,1,0,0,0,7,0,1195656,2012
+03/04/2012,away,10942,718,Tulane,9,True,2,7,-5,loss,2 - 7,758780,8,1,1.0,3,2,2,0,3,0,6,6,1,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,2,1,1195656,2012
+03/20/2012,away,10942,716,Troy,9,True,0,9,-9,loss,0 - 9,763819,8,1,1.0,4,1,1,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,21,0,2,0,0,0,5,0,1195656,2012
+03/27/2012,away,10942,9,UAB,12,True,0,1,-1,loss,0 - 1,766058,8,1,1.1,1,1,1,1,0,0,6,5,0,0,0,0,0,0,0,2,0,0,0,23,2,2,0,1,0,4,0,1195656,2012
+04/10/2012,home,10942,9,UAB,9,True,1,9,-8,loss,1 - 9,770622,8,1,0.2,3,1,1,0,1,0,5,5,0,0,0,2,0,0,0,3,3,0,0,15,1,0,0,0,0,4,1,1195656,2012

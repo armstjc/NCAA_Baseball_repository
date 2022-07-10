@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+04/13/2022,away,15860,416,Michigan St.,9,True,18,7,11,win,18 - 7,5263868,774,1,1.0,0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,19,1,2,0,0,0,3,0,0,2121492,2022
+04/22/2022,away,15860,71,Bowling Green,9,True,0,4,-4,loss,0 - 4,5270995,774,1,1.1,0,1,0,0,0,0,0,5,4,1,0,0,0,0,0,0,2,0,1,0,26,2,2,0,0,0,2,0,0,2121492,2022
+05/07/2022,away,15860,129,Central Mich.,9,True,1,14,-13,loss,1 - 14,5284745,774,1,1.0,0,1,3,1,2,2,0,7,4,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,2,0,0,2121492,2022
+05/13/2022,home,15860,331,Kent St.,9,True,9,17,-8,loss,9 - 17,5286988,774,1,3.0,0,4,2,2,2,3,0,15,12,1,0,0,0,0,1,0,1,0,0,0,56,3,2,0,0,0,3,0,0,2121492,2022
+05/21/2022,away,15860,519,Ohio,9,True,3,9,-6,loss,3 - 9,5289457,774,1,1.0,0,1,1,1,1,1,0,6,4,0,0,0,0,0,1,0,0,0,0,0,28,0,2,0,0,0,3,0,0,2121492,2022

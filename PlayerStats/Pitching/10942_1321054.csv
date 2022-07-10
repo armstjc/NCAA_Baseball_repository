@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/02/2012,home,10942,312,Iowa,9,True,3,17,-14,loss,3 - 17,758229,5,1,2.0,6,7,7,3,1,0,17,11,0,1,1,1,0,3,0,0,0,0,0,0,2,2,0,0,0,3,0,1321054,2012
+03/10/2012,home,10942,545,Pittsburgh,9,True,12,4,8,win,12 - 4,760937,5,1,1.0,0,0,0,0,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1321054,2012
+03/14/2012,away,10942,316,Jacksonville,9,True,1,5,-4,loss,1 - 5,761897,5,1,3.0,4,3,2,2,1,0,15,12,0,1,0,0,0,0,0,0,0,0,1,0,3,5,0,1,0,1,0,1321054,2012
+03/20/2012,away,10942,768,West Virginia,9,True,7,12,-5,loss,7 - 12,764015,5,1,3.1,3,4,4,2,0,0,15,12,2,0,1,0,0,0,0,0,0,1,0,0,6,4,0,1,0,1,0,1321054,2012
+03/27/2012,away,10942,817,Youngstown St.,9,True,4,8,-4,loss,4 - 8,766056,5,1,5.0,3,2,2,3,4,0,20,16,0,0,1,0,0,0,0,0,0,1,0,87,3,7,0,1,0,1,2,1321054,2012
+04/10/2012,home,10942,545,Pittsburgh,9,True,5,9,-4,loss,5 - 9,770713,5,1,3.0,2,3,3,7,1,0,19,11,1,0,0,0,0,1,0,0,0,0,0,94,2,6,0,1,0,1,0,1321054,2012

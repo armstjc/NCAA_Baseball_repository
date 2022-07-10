@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/27/2022,away,15860,32,Little Rock,9,True,1,16,-15,loss,1 - 16,5218374,771,1,1.0,0,1,0,0,2,2,0,6,4,0,0,0,0,1,0,0,0,0,0,0,28,0,1,0,0,0,4,1,0,2661927,2022
+03/05/2022,away,15860,458,Charlotte,9,True,4,29,-25,loss,4 - 29,5225321,771,1,0.1,0,4,6,6,3,0,0,8,5,1,0,0,0,0,0,0,0,0,0,0,33,1,0,0,0,0,6,0,0,2661927,2022
+04/19/2022,home,15860,660,SIUE,9,True,5,13,-8,loss,5 - 13,5268943,771,1,1.0,0,0,1,0,1,1,0,6,3,0,0,0,0,0,1,0,0,0,1,0,0,2,0,0,0,0,2,1,0,2661927,2022
+05/03/2022,away,15860,72,Bradley,9,True,1,11,-10,loss,1 - 11,5282332,771,1,0.1,0,2,1,1,1,1,0,4,3,0,0,0,0,1,0,0,0,0,0,0,17,0,0,0,0,0,3,0,0,2661927,2022
+05/17/2022,away,15860,201,Eastern Ill.,9,True,1,6,-5,loss,1 - 6,5288528,771,1,1.0,0,1,0,0,1,0,0,4,3,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,4,0,0,2661927,2022

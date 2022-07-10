@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/25/2012,away,10942,261,Grambling,9,True,9,4,5,win,9 - 4,775668,17,1,2.2,2,0,0,1,3,0,12,10,2,0,0,0,0,1,0,1,0,0,0,0,3,2,0,0,0,3,2,1216761,2012
+05/02/2012,away,10942,483,Nicholls,9,True,4,17,-13,loss,4 - 17,777604,17,1,2.0,4,4,4,0,1,0,12,10,1,0,1,1,0,1,0,0,0,0,1,38,1,4,0,0,0,4,1,1216761,2012

@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/02/2012,home,10942,109,UC Irvine,9,True,0,17,-17,loss,0 - 17,758263,346,1,1.0,2,2,2,2,2,0,7,4,2,0,0,0,0,0,0,3,2,0,1,0,0,1,0,0,0,3,0,1201399,2012
+03/27/2012,home,10942,574,Rice,9,True,2,17,-15,loss,2 - 17,766134,346,1,1.0,2,1,1,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,19,1,1,0,0,0,5,0,1201399,2012

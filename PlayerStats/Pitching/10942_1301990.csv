@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/03/2012,home,10942,352,Lehigh,9,True,9,3,6,win,9 - 3,758340,107,1,1.0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,1301990,2012
+03/04/2012,home,10942,352,Lehigh,9,True,18,3,15,win,18 - 3,759068,107,1,1.0,2,3,3,2,1,0,7,5,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,1301990,2012
+03/30/2012,home,10942,703,Texas,9,True,3,13,-10,loss,3 - 13,766947,107,1,2.0,4,2,2,0,3,0,10,10,1,1,0,0,0,0,0,0,0,0,0,37,2,1,0,0,0,3,1,1301990,2012
+04/09/2012,home,10942,674,Stanford,9,True,6,19,-13,loss,6 - 19,770522,107,1,2.0,5,2,2,0,1,0,11,10,1,0,1,0,0,0,0,0,0,0,1,0,3,2,0,0,0,4,0,1301990,2012

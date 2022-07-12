@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/10/2012,away,10942,283,Hofstra,9,True,1,24,-23,loss,1 - 24,770696,477,1,1.0,3,3,3,1,2,0,7,6,2,0,0,0,0,0,0,0,0,0,0,29,0,1,0,0,0,5,1,1301190,2012
+05/13/2012,home,10942,30024,Utah Valley,9,True,2,11,-9,loss,2 - 11,779693,477,1,0.2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,3,0,0,0,0,0,2,0,0,0,5,0,1301190,2012
+05/19/2012,away,10942,471,NJIT,9,True,4,11,-7,loss,4 - 11,780339,477,1,2.0,4,2,2,2,2,0,12,10,0,0,0,0,1,0,0,0,0,0,0,48,1,3,0,0,0,3,1,1301190,2012
+05/23/2012,home,10942,502,Northern Colo.,9,True,1,11,-10,loss,1 - 11,780521,477,1,0.2,4,5,5,2,1,0,8,6,3,0,0,0,0,0,0,0,0,0,0,30,0,1,0,0,0,2,1,1301190,2012

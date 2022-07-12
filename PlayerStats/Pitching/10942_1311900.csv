@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/24/2012,home,10942,334,Kentucky,9,True,2,6,-4,loss,2 - 6,764842,694,1,2.2,3,3,2,1,0,0,11,10,0,0,0,0,0,0,0,0,0,0,0,36,3,4,0,1,0,1,0,1311900,2012
+03/28/2012,home,10942,432,Mississippi Val.,9,True,8,4,4,win,8 - 4,766380,694,1,1.0,3,3,3,2,1,0,8,5,0,0,0,1,0,0,0,0,0,1,0,45,1,1,0,0,0,1,0,1311900,2012
+05/09/2012,away,10942,404,Memphis,9,True,8,7,1,win,8 - 7,779004,694,1,2.2,3,3,2,4,0,0,16,9,1,0,0,1,0,0,0,0,0,0,2,69,3,4,0,0,0,1,0,1311900,2012
+05/17/2012,home,10942,31,Arkansas,9,True,0,8,-8,loss,0 - 8,779856,694,1,6.1,5,1,1,5,2,0,30,24,1,0,0,0,0,1,0,0,0,0,0,99,9,8,0,0,0,2,1,1311900,2012

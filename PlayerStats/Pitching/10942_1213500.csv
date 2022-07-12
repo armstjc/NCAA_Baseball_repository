@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/23/2012,home,10942,173,Davidson,9,True,16,3,13,win,16 - 3,764442,1014,1,1.1,0,1,0,1,1,0,6,4,0,0,0,0,0,1,0,1,0,0,0,22,1,2,0,0,0,2,0,1213500,2012
+03/28/2012,home,10942,316,Jacksonville,9,True,16,3,13,win,16 - 3,766364,1014,1,1.0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,17,1,0,0,0,0,6,0,1213500,2012

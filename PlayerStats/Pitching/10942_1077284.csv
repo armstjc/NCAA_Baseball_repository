@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/28/2012,away,10942,527,Oral Roberts,9,True,1,3,-2,loss,1 - 3,757804,1004,1,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,1077284,2012
+03/04/2012,home,10942,454,Murray St.,9,True,16,6,10,win,16 - 6,758842,1004,1,0.2,3,2,2,0,0,0,5,5,1,0,1,0,0,0,0,0,0,0,0,16,1,1,0,0,0,2,0,1077284,2012
+03/27/2012,away,10942,434,Missouri,9,True,7,12,-5,loss,7 - 12,766168,1004,1,0.0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,0,0,0,4,0,1077284,2012

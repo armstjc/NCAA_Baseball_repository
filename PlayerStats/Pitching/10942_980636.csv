@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/18/2012,away,10942,488,N.C. A&T,9,True,11,4,7,win,11 - 4,756049,726,1,5.0,3,4,0,4,8,0,25,19,0,0,0,2,0,1,0,0,0,1,0,0,5,2,1,0,0,1,4,980636,2012
+02/26/2012,home,10942,721,Air Force,9,True,7,4,3,win,7 - 4,757652,726,1,6.1,1,1,0,6,5,0,27,19,0,0,0,1,0,1,0,0,0,1,0,99,3,11,0,0,0,1,1,980636,2012
+03/04/2012,home,10942,711,Towson,9,True,2,9,-7,loss,2 - 9,758892,726,1,2.1,4,4,4,3,2,0,14,10,2,0,0,1,2,0,0,0,0,1,0,68,1,4,0,1,0,1,0,980636,2012

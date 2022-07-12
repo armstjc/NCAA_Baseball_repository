@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/19/2012,away,10942,51,Baylor,9,True,2,3,-1,loss,2 - 3,756263,527,1,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,6,0,0,0,0,0,3,0,1312954,2012
+02/26/2012,home,10942,204,Eastern Mich.,9,True,14,1,13,win,14 - 1,757396,527,1,0.1,0,1,1,2,1,0,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,1312954,2012
+03/31/2012,home,10942,366,Louisiana Tech,9,True,14,4,10,win,14 - 4,767015,527,1,1.0,5,3,3,0,2,0,9,8,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,3,1,1312954,2012
+04/24/2012,away,10942,31,Arkansas,9,True,1,6,-5,loss,1 - 6,775480,527,1,2.0,3,2,2,0,2,0,9,8,1,0,1,0,0,1,0,0,0,0,0,23,1,2,0,0,0,3,0,1312954,2012

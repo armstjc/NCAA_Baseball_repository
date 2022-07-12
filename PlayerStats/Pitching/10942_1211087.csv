@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/13/2012,home,10942,748,Wagner,9,True,15,4,11,win,15 - 4,761659,255,1,1.0,0,1,0,1,1,0,6,5,0,0,0,1,0,0,0,0,0,0,0,22,0,2,0,0,0,5,1,1211087,2012
+04/08/2012,home,10942,234,Florida St.,9,True,4,8,-4,loss,4 - 8,770416,255,1,1.0,0,0,0,0,2,0,3,2,0,0,0,0,0,1,0,0,0,0,0,13,0,0,0,0,0,5,0,1211087,2012
+04/21/2012,away,10942,457,North Carolina,9,True,6,12,-6,loss,6 - 12,774694,255,1,1.0,0,0,0,2,1,0,5,2,0,0,0,0,0,1,0,0,0,0,0,28,1,0,0,0,0,3,0,1211087,2012
+05/05/2012,home,10942,458,Charlotte,9,True,9,0,9,win,9 - 0,778151,255,1,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,0,1,0,0,0,3,0,1211087,2012
+05/18/2012,home,10942,415,Miami (FL),9,True,6,8,-2,loss,6 - 8,780063,255,1,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,4,1,0,0,0,0,5,0,1211087,2012

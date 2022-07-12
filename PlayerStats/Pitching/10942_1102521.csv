@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+05/19/2012,home,10942,355,Liberty,9,True,5,10,-5,loss,5 - 10,780267,563,1,1.2,1,1,1,2,1,0,8,6,1,0,0,0,0,0,0,0,0,0,0,29,2,2,0,0,0,3,0,1102521,2012

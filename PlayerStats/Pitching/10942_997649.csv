@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/19/2012,home,10942,603,St. John's (NY),9,True,9,4,5,win,9 - 4,756303,301,1,1.0,1,1,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,11,1,1,0,0,0,3,0,997649,2012
+03/16/2012,away,10942,659,Southern Ill.,9,True,8,2,6,win,8 - 2,762352,301,1,1.0,2,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,18,1,2,0,0,0,2,0,997649,2012
+05/01/2012,home,10942,659,Southern Ill.,9,True,3,7,-4,loss,3 - 7,777533,301,1,1.0,1,1,1,0,0,0,4,4,0,0,1,0,0,0,0,0,0,0,0,13,2,1,0,0,0,3,0,997649,2012

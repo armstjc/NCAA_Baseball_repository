@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/14/2012,home,10942,494,North Dakota,9,True,21,5,16,win,21 - 5,761945,434,1,1.0,0,0,0,0,1,0,6,4,0,0,0,0,0,2,0,0,0,0,0,22,1,1,0,0,0,4,0,1308777,2012
+03/27/2012,home,10942,1004,Central Ark.,9,True,12,7,5,win,12 - 7,766168,434,1,1.0,3,1,1,0,0,0,6,5,0,0,0,0,0,0,0,0,0,1,0,19,2,1,1,0,0,5,0,1308777,2012
+03/28/2012,home,10942,1004,Central Ark.,9,True,2,8,-6,loss,2 - 8,766421,434,1,2.1,1,0,0,2,1,0,10,8,0,0,0,0,0,0,0,0,0,0,0,51,4,2,0,0,0,2,1,1308777,2012
+04/01/2012,away,10942,697,Texas A&M,9,True,6,7,-1,loss,6 - 7,767790,434,1,0.2,1,1,1,2,0,0,6,3,0,0,0,0,0,1,0,0,0,0,0,20,0,2,0,0,0,1,0,1308777,2012

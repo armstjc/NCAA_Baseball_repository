@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/28/2012,home,10942,99,Long Beach St.,9,True,9,1,8,win,9 - 1,757755,110,1,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,1,2,0,0,0,3,0,1305924,2012
+03/03/2012,home,10942,102,Sacramento St.,9,True,6,2,4,win,6 - 2,758308,110,1,0.0,2,1,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,2,0,1305924,2012
+03/06/2012,home,10942,111,UC Riverside,9,True,4,0,4,win,4 - 0,759442,110,1,0.0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,2,0,1305924,2012

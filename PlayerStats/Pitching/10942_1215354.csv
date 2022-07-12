@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/17/2012,home,10942,660,SIUE,9,True,2,4,-2,loss,2 - 4,755587,404,1,3.0,1,0,0,0,4,0,9,9,0,0,0,0,0,0,0,0,0,0,0,40,2,2,0,0,0,2,1,1215354,2012
+02/19/2012,home,10942,660,SIUE,9,True,7,10,-3,loss,7 - 10,756200,404,1,1.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,1,1,0,0,13,1,2,0,0,0,3,0,1215354,2012
+02/26/2012,home,10942,1157,Kennesaw St.,9,True,8,4,4,win,8 - 4,757496,404,1,2.0,1,1,1,0,0,0,7,7,0,1,0,0,0,0,0,0,0,0,0,23,2,4,0,0,0,2,0,1215354,2012
+02/28/2012,away,10942,433,Ole Miss,9,True,2,7,-5,loss,2 - 7,757770,404,1,1.1,4,3,3,0,0,0,8,7,1,0,0,0,0,0,0,0,0,1,0,0,2,2,0,1,0,2,0,1215354,2012
+03/02/2012,home,10942,72,Bradley,9,True,2,6,-4,loss,2 - 6,758059,404,1,1.1,1,0,0,0,1,0,6,4,1,0,0,0,0,1,0,0,0,1,0,21,3,0,0,0,0,2,1,1215354,2012

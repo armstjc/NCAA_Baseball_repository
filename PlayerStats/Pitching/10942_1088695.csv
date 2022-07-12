@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/17/2012,home,10942,81,Bryant,9,True,1,4,-3,loss,1 - 4,755724,606,1,2.0,3,0,0,1,0,0,9,8,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,2,0,1088695,2012
+02/24/2012,away,10942,198,ETSU,9,True,4,12,-8,loss,4 - 12,756748,606,1,2.0,3,2,2,0,0,0,9,9,1,0,1,0,0,0,0,0,0,0,0,29,2,4,0,0,0,3,0,1088695,2012
+03/07/2012,away,10942,1356,Seattle U,9,True,0,1,-1,loss,0 - 1,759748,606,1,4.0,1,1,0,2,2,0,15,13,0,0,0,0,3,0,0,0,0,0,0,65,4,6,0,1,0,1,0,1088695,2012
+03/16/2012,home,10942,62,Binghamton,9,True,0,7,-7,loss,0 - 7,762325,606,1,0.0,2,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1088695,2012

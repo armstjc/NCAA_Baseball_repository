@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/24/2012,home,10942,716,Troy,9,True,0,3,-3,loss,0 - 3,756695,664,1,0.1,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,2,1,0,0,14,0,1,0,0,0,3,0,1215669,2012
+03/06/2012,home,10942,646,South Alabama,9,True,3,5,-2,loss,3 - 5,759493,664,1,0.0,1,1,1,1,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,11,0,0,0,0,0,3,0,1215669,2012
+04/01/2012,away,10942,574,Rice,9,True,6,8,-2,loss,6 - 8,767839,664,1,0.1,1,2,2,1,1,0,3,2,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,4,0,1215669,2012
+04/11/2012,home,10942,365,LSU,9,True,3,8,-5,loss,3 - 8,771207,664,1,0.0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,3,2,0,0,9,0,0,0,0,0,4,0,1215669,2012
+04/18/2012,away,10942,646,South Alabama,9,True,7,8,-1,loss,7 - 8,773501,664,1,0.2,0,0,0,0,0,0,4,2,0,0,0,0,0,1,0,0,0,1,0,11,0,2,0,0,0,5,0,1215669,2012

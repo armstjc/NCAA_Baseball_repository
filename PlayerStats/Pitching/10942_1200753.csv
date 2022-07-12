@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/02/2012,home,10942,513,Notre Dame,9,True,6,0,6,win,6 - 0,758108,670,1,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,1200753,2012
+03/24/2012,away,10942,624,Sam Houston,9,True,4,10,-6,loss,4 - 10,764913,670,1,1.1,2,1,1,0,1,0,6,6,1,0,0,0,0,0,0,2,0,0,0,0,1,2,0,0,0,5,0,1200753,2012
+03/30/2012,home,10942,402,McNeese,9,True,9,1,8,win,9 - 1,766744,670,1,2.0,0,1,0,2,0,0,9,5,0,0,0,0,0,1,0,0,0,0,1,37,4,1,0,0,0,2,0,1200753,2012

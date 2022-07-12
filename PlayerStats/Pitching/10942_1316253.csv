@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/19/2012,home,10942,367,Louisville,9,True,6,7,-1,loss,6 - 7,756314,416,1,1.0,0,0,0,1,2,0,5,3,0,0,0,0,0,1,0,0,0,0,0,18,0,1,0,0,0,3,1,1316253,2012
+03/02/2012,away,10942,697,Texas A&M,9,True,3,7,-4,loss,3 - 7,758097,416,1,1.0,1,1,1,2,0,0,6,3,0,0,0,0,0,0,0,0,0,0,1,27,1,2,0,0,0,2,0,1316253,2012
+03/10/2012,home,10942,635,Seton Hall,15,True,4,3,1,win,4 - 3,760939,416,1,0.2,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,1316253,2012
+03/18/2012,away,10942,140,Cincinnati,9,True,9,4,5,win,9 - 4,763414,416,1,1.1,2,1,1,0,3,0,6,6,1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,3,2,1316253,2012
+04/11/2012,home,10942,204,Eastern Mich.,9,True,5,13,-8,loss,5 - 13,770974,416,1,0.1,5,5,2,1,0,0,8,7,2,0,0,1,0,0,0,0,0,0,0,28,1,0,0,0,0,2,0,1316253,2012

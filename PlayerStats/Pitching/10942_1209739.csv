@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/18/2012,home,10942,30052,North Georgia,9,True,6,0,6,win,6 - 0,773531,234,1,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,2,1,0,0,0,7,0,1209739,2012
+05/05/2012,home,10942,392,Maryland,9,True,10,3,7,win,10 - 3,778127,234,1,0.0,2,2,2,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,4,0,1209739,2012

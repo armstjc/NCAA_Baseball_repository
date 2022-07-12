@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/17/2012,away,10942,2711,North Florida,9,True,4,7,-3,loss,4 - 7,755586,659,1,1.0,3,2,1,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,1201372,2012
+02/21/2012,away,10942,695,UT Martin,9,True,4,9,-5,loss,4 - 9,756388,659,1,3.0,8,7,7,2,0,0,18,14,3,0,2,0,0,1,0,0,0,1,0,52,3,4,0,1,0,1,0,1201372,2012
+02/29/2012,away,10942,14927,Belmont,9,True,7,14,-7,loss,7 - 14,757943,659,1,0.1,2,7,3,3,0,0,8,3,0,0,0,0,0,1,0,0,0,0,1,40,0,1,0,1,0,1,0,1201372,2012
+03/06/2012,home,10942,419,Middle Tenn.,9,True,5,14,-9,loss,5 - 14,759474,659,1,1.0,1,0,0,0,0,0,5,4,0,0,0,0,0,1,0,0,0,0,0,20,2,0,0,0,0,5,0,1201372,2012
+03/16/2012,home,10942,301,Illinois,9,True,2,8,-6,loss,2 - 8,762352,659,1,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,3,0,1201372,2012

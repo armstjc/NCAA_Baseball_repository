@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/25/2012,away,10942,315,Jacksonville St.,9,True,9,3,6,win,9 - 3,756997,2711,1,1.0,1,1,1,0,0,0,6,5,0,1,0,0,0,1,0,0,0,0,0,20,1,2,0,0,0,3,0,1090028,2012
+03/04/2012,away,10942,253,Ga. Southern,9,True,5,9,-4,loss,5 - 9,759082,2711,1,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,4,0,0,0,0,0,3,0,1090028,2012
+03/27/2012,home,10942,228,Florida A&M,9,True,7,1,6,win,7 - 1,766090,2711,1,2.1,2,0,0,0,3,0,9,9,0,0,0,0,0,0,0,0,0,0,0,27,2,1,0,0,0,3,0,1090028,2012
+04/17/2012,home,10942,228,Florida A&M,9,True,13,1,12,win,13 - 1,773121,2711,1,1.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,2,0,0,0,0,3,0,1090028,2012
+05/02/2012,away,10942,141,The Citadel,9,True,1,5,-4,loss,1 - 5,777660,2711,1,0.0,2,0,0,0,0,0,2,2,0,0,0,0,0,0,0,3,3,0,0,7,0,0,0,0,0,2,0,1090028,2012
+05/12/2012,away,10942,406,Mercer,9,True,1,12,-11,loss,1 - 12,779457,2711,1,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,5,0,1090028,2012

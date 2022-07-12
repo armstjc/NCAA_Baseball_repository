@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/21/2012,away,10942,287,Houston Baptist,13,True,9,6,3,win,9 - 6,756393,706,1,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,1,2,0,0,1,7,0,1307032,2012
+03/27/2012,home,10942,536,UTRGV,9,True,13,18,-5,loss,13 - 18,766128,706,1,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,2,0,0,0,6,0,1307032,2012
+04/01/2012,home,10942,624,Sam Houston,9,True,1,15,-14,loss,1 - 15,767830,706,1,0.1,2,1,1,0,0,0,3,3,1,0,0,0,0,0,0,2,2,0,0,8,1,0,0,0,0,4,0,1307032,2012
+05/15/2012,away,10942,51,Baylor,9,True,3,14,-11,loss,3 - 14,779782,706,1,0.1,1,0,0,0,0,0,2,2,0,0,0,1,0,0,0,1,1,0,0,9,0,1,0,0,0,6,0,1307032,2012
+05/18/2012,home,10942,346,Lamar University,10,True,16,15,1,win,16 - 15,780055,706,1,2.0,2,0,0,0,1,0,8,6,0,0,0,0,0,0,0,1,1,1,1,26,4,1,1,0,0,5,0,1307032,2012
+05/19/2012,home,10942,346,Lamar University,9,True,2,7,-5,loss,2 - 7,780266,706,1,1.0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,3,0,1307032,2012

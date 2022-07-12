@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/24/2012,home,10942,173,Davidson,9,True,7,3,4,win,7 - 3,775436,742,1,2.0,1,0,0,0,4,0,7,7,0,0,0,0,0,0,0,0,0,0,0,29,1,1,0,0,0,2,0,1316961,2012
+05/01/2012,home,10942,488,N.C. A&T,9,True,6,0,6,win,6 - 0,777510,742,1,4.0,1,0,0,1,3,0,12,11,0,0,0,0,0,0,0,0,0,0,0,53,3,4,1,0,0,1,0,1316961,2012
+05/15/2012,home,10942,355,Liberty,9,True,4,3,1,win,4 - 3,779756,742,1,2.2,2,0,0,0,2,0,11,10,1,0,0,0,0,1,0,0,0,0,0,37,4,2,0,0,0,3,2,1316961,2012

@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/02/2012,home,10942,518,Ohio St.,9,True,4,9,-5,loss,4 - 9,758254,418,1,0.1,0,2,0,1,0,0,3,1,0,0,0,1,0,0,0,3,2,0,1,18,0,1,0,0,0,6,0,1320901,2012
+03/10/2012,away,10942,365,LSU,9,True,4,6,-2,loss,4 - 6,760487,418,1,1.0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,19,1,1,0,0,0,2,1,1320901,2012
+03/17/2012,away,10942,149,Coastal Carolina,9,True,2,6,-4,loss,2 - 6,762712,418,1,0.1,2,2,2,1,0,0,5,2,0,0,0,1,0,2,0,0,0,0,0,21,0,0,0,0,0,1,0,1320901,2012
+03/25/2012,home,10942,308,Purdue Fort Wayne,9,True,11,3,8,win,11 - 3,765565,418,1,1.0,1,0,0,2,1,0,6,4,0,0,0,1,0,0,0,0,0,0,0,31,1,1,0,0,0,2,1,1320901,2012
+04/11/2012,home,10942,709,Toledo,9,True,2,6,-4,loss,2 - 6,771051,418,1,0.0,2,3,3,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,1,0,2,0,1320901,2012

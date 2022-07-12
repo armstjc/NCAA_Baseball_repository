@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/18/2012,home,10942,665,Southern U.,9,True,5,1,4,win,5 - 1,756107,109,1,4.0,1,0,0,1,2,0,14,13,0,0,0,0,1,0,0,0,0,0,0,51,6,4,1,0,0,2,2,1099020,2012
+02/24/2012,home,10942,756,Washington,9,True,0,3,-3,loss,0 - 3,756700,109,1,4.0,2,0,0,0,6,0,14,14,0,0,0,0,0,0,0,0,0,0,0,56,3,2,0,0,0,2,3,1099020,2012
+03/02/2012,home,10942,346,Lamar University,9,True,17,0,17,win,17 - 0,758263,109,1,9.0,4,0,0,1,10,1,31,30,0,1,0,0,0,0,0,0,0,0,0,0,9,7,1,0,0,1,2,1099020,2012
+03/08/2012,home,10942,77,BYU,9,True,3,1,2,win,3 - 1,759901,109,1,6.0,4,1,1,1,7,0,24,23,1,0,0,0,0,0,0,0,0,0,0,88,7,4,1,0,0,1,3,1099020,2012
+03/15/2012,away,10942,466,Nevada,9,True,3,8,-5,loss,3 - 8,762168,109,1,4.2,6,3,3,0,3,0,19,18,1,0,1,0,0,0,0,0,0,1,0,74,6,4,0,1,0,1,1,1099020,2012

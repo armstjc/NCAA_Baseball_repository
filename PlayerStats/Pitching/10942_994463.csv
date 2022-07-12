@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/21/2012,away,10942,2678,Ark.-Pine Bluff,9,True,13,8,5,win,13 - 8,756375,366,1,0.0,4,5,5,1,0,0,6,4,2,0,0,0,0,1,0,0,0,0,0,13,0,0,0,0,0,5,0,994463,2012
+02/28/2012,home,10942,2678,Ark.-Pine Bluff,9,True,11,6,5,win,11 - 6,757838,366,1,0.2,2,4,4,3,1,0,8,3,0,1,0,0,0,1,0,0,0,0,1,34,0,1,0,0,0,4,0,994463,2012
+04/10/2012,home,10942,676,SFA,9,True,9,5,4,win,9 - 5,770737,366,1,0.0,0,2,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,8,0,994463,2012

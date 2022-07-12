@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/24/2012,away,10942,366,Louisiana Tech,9,True,2,13,-11,loss,2 - 13,756657,402,1,1.0,2,1,1,0,0,0,5,5,0,1,0,0,0,0,0,0,0,0,0,15,1,2,0,0,0,3,0,1214497,2012
+02/29/2012,home,10942,365,LSU,9,True,10,19,-9,loss,10 - 19,757930,402,1,0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,0,1214497,2012
+03/07/2012,home,10942,671,Louisiana,9,True,8,14,-6,loss,8 - 14,759752,402,1,0.1,2,3,3,0,0,0,5,3,1,0,0,0,0,2,0,0,0,0,0,18,1,0,0,1,0,1,0,1214497,2012

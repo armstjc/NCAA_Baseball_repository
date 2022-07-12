@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/21/2012,home,10942,305,Indiana St.,9,True,1,15,-14,loss,1 - 15,764088,434,1,1.0,3,3,3,1,2,0,8,6,0,0,0,0,0,1,0,0,0,0,0,25,0,1,0,0,0,7,0,992614,2012

@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/14/2012,home,10942,433,Ole Miss,9,True,8,18,-10,loss,8 - 18,761939,367,1,1.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,1,0,0,0,6,0,1098928,2012
+03/17/2012,home,10942,47,Ball St.,9,True,14,5,9,win,14 - 5,762667,367,1,1.0,4,2,2,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,3,0,1098928,2012
+04/17/2012,away,10942,306,Indiana,9,True,21,4,17,win,21 - 4,773144,367,1,0.2,3,1,1,0,0,0,6,5,0,0,0,0,0,1,0,0,0,0,0,27,0,2,0,0,0,4,0,1098928,2012

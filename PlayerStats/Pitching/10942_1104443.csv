@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/05/2012,home,10942,164,UConn,10,True,2,8,-6,loss,2 - 8,768843,545,1,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,1104443,2012
+04/17/2012,away,10942,331,Kent St.,9,True,5,6,-1,loss,5 - 6,773180,545,1,2.2,0,0,0,0,2,0,8,8,0,0,0,0,0,0,0,2,0,0,0,36,3,2,0,0,0,3,1,1104443,2012
+04/29/2012,home,10942,251,Georgetown,9,True,3,6,-3,loss,3 - 6,777378,545,1,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,0,1104443,2012
+05/08/2012,home,10942,5,Akron,9,True,8,2,6,win,8 - 2,778904,545,1,3.0,1,0,0,1,0,0,11,10,1,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,1,2,0,1104443,2012
+05/19/2012,home,10942,367,Louisville,9,True,5,9,-4,loss,5 - 9,780270,545,1,0.2,2,2,2,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,1104443,2012

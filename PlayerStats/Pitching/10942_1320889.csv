@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/16/2012,away,10942,149,Coastal Carolina,9,True,3,7,-4,loss,3 - 7,762370,418,1,2.1,3,2,2,2,2,0,13,8,1,0,0,2,0,1,0,2,2,0,2,48,3,2,0,0,0,2,1,1320889,2012
+03/25/2012,home,10942,308,Purdue Fort Wayne,9,True,11,3,8,win,11 - 3,765565,418,1,1.0,2,3,2,2,1,0,7,5,1,0,0,1,0,0,0,0,0,0,0,32,2,0,0,0,0,3,0,1320889,2012
+03/28/2012,away,10942,204,Eastern Mich.,9,True,2,12,-10,loss,2 - 12,766379,418,1,1.0,2,2,2,0,2,0,5,4,1,0,0,1,0,0,0,0,0,0,1,19,0,1,0,0,0,4,1,1320889,2012
+04/14/2012,away,10942,539,Penn St.,9,True,1,14,-13,loss,1 - 14,771764,418,1,1.0,5,4,3,0,2,0,8,8,2,0,0,0,0,0,0,0,0,0,0,25,0,1,0,0,0,5,1,1320889,2012

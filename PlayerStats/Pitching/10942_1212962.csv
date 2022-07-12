@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/29/2012,away,10942,28755,FGCU,9,True,1,8,-7,loss,1 - 8,757935,418,1,0.2,1,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,2,0,0,10,0,0,0,0,0,3,0,1212962,2012
+03/02/2012,home,10942,518,Ohio St.,9,True,4,9,-5,loss,4 - 9,758254,418,1,0.2,1,0,0,2,0,0,5,3,1,0,0,0,0,0,0,3,3,0,0,24,1,1,0,0,0,7,0,1212962,2012
+04/14/2012,away,10942,539,Penn St.,9,True,1,14,-13,loss,1 - 14,771764,418,1,1.2,1,1,1,0,1,0,5,5,0,0,1,0,0,0,0,2,0,0,0,20,2,1,0,0,0,3,1,1212962,2012
+05/17/2012,home,10942,463,Nebraska,9,True,2,15,-13,loss,2 - 15,779896,418,1,2.0,5,4,0,0,1,0,13,12,0,0,0,0,0,1,0,0,0,0,0,45,2,3,0,0,0,4,0,1212962,2012

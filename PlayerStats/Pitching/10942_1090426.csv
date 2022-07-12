@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/27/2012,home,10942,285,Holy Cross,9,True,3,4,-1,loss,3 - 4,766096,400,1,1.0,0,0,0,2,0,0,4,1,0,0,0,0,0,0,0,0,0,1,0,16,2,0,0,0,0,5,0,1090426,2012
+04/14/2012,away,10942,606,Saint Joseph's,9,True,5,11,-6,loss,5 - 11,771754,400,1,0.0,0,1,1,2,0,0,3,0,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,4,0,1090426,2012
+04/17/2012,away,10942,127,Central Conn. St.,9,True,2,11,-9,loss,2 - 11,773272,400,1,0.1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1090426,2012
+05/19/2012,home,10942,249,George Washington,9,True,11,1,10,win,11 - 1,780254,400,1,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,4,0,1090426,2012

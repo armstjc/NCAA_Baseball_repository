@@ -1,0 +1,7 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/25/2012,home,10942,432,Mississippi Val.,9,True,13,5,8,win,13 - 5,757132,430,1,0.2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,8,2,0,0,0,0,4,0,1310679,2012
+02/29/2012,home,10942,404,Memphis,9,True,6,7,-1,loss,6 - 7,757934,430,1,0.1,2,1,1,0,0,0,3,3,1,0,0,0,0,0,0,2,2,0,0,10,0,1,0,0,0,2,0,1310679,2012
+03/04/2012,home,10942,28600,Lipscomb,9,True,16,6,10,win,16 - 6,758910,430,1,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,6,0,1310679,2012
+03/06/2012,home,10942,539,Penn St.,9,True,7,3,4,win,7 - 3,759482,430,1,4.2,0,0,0,2,6,0,16,14,0,0,0,0,0,0,0,2,0,0,0,68,6,2,1,0,0,2,1,1310679,2012
+03/13/2012,away,10942,655,Southeastern La.,9,True,3,4,-1,loss,3 - 4,761616,430,1,1.0,2,1,0,0,1,0,6,5,1,0,0,0,0,1,0,0,0,0,0,32,0,2,0,0,0,1,1,1310679,2012
+03/25/2012,home,10942,31,Arkansas,11,True,5,8,-3,loss,5 - 8,765512,430,1,0.2,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,2,2,0,0,8,1,1,0,0,0,5,0,1310679,2012

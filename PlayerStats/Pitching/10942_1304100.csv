@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/07/2012,away,10942,222,Fairleigh Dickinson,9,True,17,5,12,win,17 - 5,759753,683,1,0.0,2,3,3,2,0,0,5,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,1304100,2012
+03/14/2012,home,10942,310,Iona,9,True,12,7,5,win,12 - 7,761929,683,1,1.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,5,0,1304100,2012
+03/18/2012,home,10942,813,Yale,9,True,10,0,10,win,10 - 0,763642,683,1,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,1304100,2012
+03/20/2012,away,10942,236,Fordham,9,True,11,2,9,win,11 - 2,763888,683,1,1.0,0,1,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,5,0,1304100,2012

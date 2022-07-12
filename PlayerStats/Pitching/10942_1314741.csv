@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+05/15/2012,home,10942,67,Boston College,9,True,9,4,5,win,9 - 4,779804,380,1,1.0,0,1,0,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,1314741,2012
+05/19/2012,home,10942,683,Stony Brook,9,True,9,10,-1,loss,9 - 10,780362,380,1,0.2,2,3,3,1,1,0,5,4,1,0,1,0,0,0,0,3,3,0,0,0,1,0,0,0,0,2,0,1314741,2012
+05/25/2012,away,10942,683,Stony Brook,9,True,6,13,-7,loss,6 - 13,780621,380,1,0.1,0,0,0,2,0,0,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,1314741,2012

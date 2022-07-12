@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/18/2012,away,10942,288,Houston,9,True,1,16,-15,loss,1 - 16,756052,180,1,1.0,2,1,1,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,5,0,1306871,2012
+03/06/2012,away,10942,392,Maryland,9,True,0,2,-2,loss,0 - 2,759449,180,1,0.1,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,2,0,1306871,2012
+04/10/2012,home,10942,391,UMBC,9,True,17,8,9,win,17 - 8,770682,180,1,1.0,4,3,1,0,0,0,8,8,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,1306871,2012
+05/20/2012,home,10942,500,Northeastern,9,True,9,12,-3,loss,9 - 12,780406,180,1,1.0,1,1,0,1,0,0,5,4,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,3,0,1306871,2012

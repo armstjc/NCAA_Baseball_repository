@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/07/2012,away,10942,102,Sacramento St.,9,True,2,7,-5,loss,2 - 7,759702,169,1,1.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,12,0,3,0,0,0,4,0,1305590,2012
+03/10/2012,away,10942,534,Pacific,9,True,3,9,-6,loss,3 - 9,760440,169,1,1.0,3,2,2,0,1,0,6,6,2,0,0,0,0,0,0,0,0,0,0,17,2,0,0,0,0,4,0,1305590,2012
+03/17/2012,home,10942,494,North Dakota,9,True,12,3,9,win,12 - 3,763004,169,1,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,3,1,1305590,2012
+04/28/2012,home,10942,299,Illinois St.,9,True,2,7,-5,loss,2 - 7,776865,169,1,0.2,1,1,1,1,1,0,4,3,1,0,0,1,0,0,0,0,0,0,0,19,1,0,0,0,0,4,0,1305590,2012

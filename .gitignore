@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+PlayerStats/batting_logs.csv
+PlayerStats/pitching_logs.csv

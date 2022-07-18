@@ -2,7 +2,10 @@ from collegebaseball import ncaa_scraper as ncaa
 from collegebaseball import datasets
 from datetime import date
 import time
+import glob
+from tqdm import tqdm
 import pandas as pd
+import numpy as np
 
 def getSchoolList():
     schools = datasets.get_school_table()
@@ -120,16 +123,58 @@ def getSeasonGbgStats(season=2020):
                 #print(data_p)
             time.sleep(5)
 
+def mergeFiles(filePath=""):
+    main = pd.DataFrame()
+    f = 0
+    l = filePath
+
+    for file in glob.iglob(l+"/*csv"):
+        f +=1
+    for file in tqdm(glob.iglob(l+"/*csv"),total=f,ascii=True, bar_format='{l_bar}{bar:30}{r_bar}{bar:-30b}'):
+        try:
+            df = pd.read_csv(file)
+            main = pd.concat([main,df],ignore_index=True)
+        except:
+            pass
+    return main
+
+def mergeBattingLogs():
+    f = "PlayerStats/Batting"
+    df = mergeFiles(f)
+    df.to_csv("PlayerStats/batting_logs.csv",index=False)
+
+def mergePitchingLogs():
+    f = "PlayerStats/Pitching"
+    df = mergeFiles(f)
+    df.to_csv("PlayerStats/pitching_logs.csv",index=False)
+
+def splitBattingStats():
+    print('Reading the batting logs file.')
+    df = pd.read_csv('PlayerStats/batting_logs.csv')
+    print('Done!\n')
+    max_season = df['season'].max()
+    min_season = df['season'].min()
+    for i in range(min_season,max_season+2):
+        print(f'Creating batting logs for the {i} season.')
+        s_df = df[df['season'] == i]
+        partOne = s_df.sample(frac=0.5)
+        partTwo = s_df.drop(partOne.index)
+
+        partOne.to_csv(f'PlayerStats/{i}_01_batting.csv')
+        partTwo.to_csv(f'PlayerStats/{i}_02_batting.csv')
+        #s_df.to_csv(f'PlayerStats/{i}_batting.csv')
+
 def main():
     print('starting up')
-    
-    
-    schools =getSchoolList()
+    #mergePitchingLogs()
+    #mergeBattingLogs()
+    splitBattingStats()
+    #schools =getSchoolList()
     #print(schools)
 
-    for i in schools.T:
-        print(i)
-        rost = getSchoolAllTimeRoster(i)
+    # for i in schools.T:
+    #     print(i)
+    #     rost = getSchoolAllTimeRoster(i)
         #rost.to_csv(f'TeamRosters/{i}.csv')
     #getSeasonGbgStats(2013)  
     # getSeasonGbgStats(2014)
@@ -140,7 +185,7 @@ def main():
     # getSeasonGbgStats(2019)
     # getSeasonGbgStats(2020)
     #getSeasonGbgStats(2021)
-    getSeasonGbgStats(2022)
-    getSeasonGbgStats(2012)
+    # getSeasonGbgStats(2022)
+    # getSeasonGbgStats(2012)
 if __name__ == "__main__":
     main()

@@ -13,6 +13,7 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 import requests
 import numpy as np
 from collegebaseball import datasets
+import ssl
 
 #lookup paths
 _SCHOOL_ID_LU_PATH = datasets.get_school_table()
@@ -65,6 +66,7 @@ def get_gbg_stats(school=None, player=None, season=None, variant='batting'):
       
     data from stats.ncaa.org. valid 2019 - 2022. 
     """
+    ssl._create_default_https_context = ssl._create_unverified_context
     # handling all possible inputs
     # I like the flexibility and intuitiveness this adds
     if season in range(2013, 2023): 
@@ -298,6 +300,8 @@ def get_results(school, season):
         
     data from stats.ncaa.org. valid 2019 - 2022. 
     """
+    ssl._create_default_https_context = ssl._create_unverified_context
+
     try: 
         data = get_gbg_stats(school=school, season=season)
         res = data[['game_id', 'date', 'field', 'opponent_name', 'opponent_id', \
@@ -330,6 +334,8 @@ def get_roster(school, season):
         
     data from stats.ncaa.org
     """
+    ssl._create_default_https_context = ssl._create_unverified_context
+
     # handling the school/school_id input types
     if type(school) is int: 
         school_id = school 
@@ -416,6 +422,8 @@ def get_multiyear_roster(school, start, end):
         
     data from stats.ncaa.org. valid 2013 - 2022. 
     """
+    ssl._create_default_https_context = ssl._create_unverified_context
+
     roster = pd.DataFrame()
     for season in range(start, end+1):
         time.sleep(random.uniform(0, _TIMEOUT))
@@ -460,6 +468,8 @@ def get_career_stats(stats_player_seq, variant):
 
     data from stats.ncaa.org. valid 2013 - 2022.     
     """
+    ssl._create_default_https_context = ssl._create_unverified_context
+
     # craft GET request to NCAA site
     season = lookup_seasons_played(stats_player_seq)[0]
     season_ids = lookup_season_ids(int(season))
@@ -1107,7 +1117,7 @@ def lookup_school_reverse(school_id):
     """
     school_row = _SCHOOL_ID_LU_DF.loc[(_SCHOOL_ID_LU_DF.school_id == school_id)]
     if len(school_row) == 0: 
-        return f'''could not find school {school}'''
+        return f'''could not find school {school_id}'''
     else: 
         return str(school_row['ncaa_name'].values[0])
         
@@ -1155,7 +1165,7 @@ def lookup_player_reverse(player_id, season):
     df = _ROSTERS_DF
     player_row = df.loc[(df.stats_player_seq == player_id) & (df.season == season)]        
     if len(player_row) == 0:
-        return f'''could not find player {player_name}'''
+        return f'''could not find player {player_id}'''
     else: 
         return str(player_row['name'].values[0]), str(player_row['school'].values[0]), int(player_row['school_id'].values[0])
         

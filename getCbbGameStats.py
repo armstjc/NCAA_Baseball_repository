@@ -160,15 +160,32 @@ def splitBattingStats():
         partOne = s_df.sample(frac=0.5)
         partTwo = s_df.drop(partOne.index)
 
-        partOne.to_csv(f'PlayerStats/{i}_01_batting.csv')
-        partTwo.to_csv(f'PlayerStats/{i}_02_batting.csv')
+        partOne.to_csv(f'PlayerStats/{i}_01_batting.csv',index=False)
+        partTwo.to_csv(f'PlayerStats/{i}_02_batting.csv',index=False)
+        #s_df.to_csv(f'PlayerStats/{i}_batting.csv')
+
+def splitPitchingStats():
+    print('Reading the pitching logs file.')
+    df = pd.read_csv('PlayerStats/pitching_logs.csv')
+    print('Done!\n')
+    max_season = df['season'].max()
+    min_season = df['season'].min()
+    for i in range(min_season,max_season+1):
+        print(f'Creating pitching logs for the {i} season.')
+        s_df = df[df['season'] == i]
+        partOne = s_df.sample(frac=0.5)
+        partTwo = s_df.drop(partOne.index)
+
+        partOne.to_csv(f'PlayerStats/{i}_01_pitching.csv',index=False)
+        partTwo.to_csv(f'PlayerStats/{i}_02_pitching.csv',index=False)
         #s_df.to_csv(f'PlayerStats/{i}_batting.csv')
 
 def main():
     print('starting up')
     #mergePitchingLogs()
     #mergeBattingLogs()
-    splitBattingStats()
+    #splitBattingStats()
+    #splitPitchingStats()
     #schools =getSchoolList()
     #print(schools)
 
@@ -181,11 +198,11 @@ def main():
     # getSeasonGbgStats(2015)
     # getSeasonGbgStats(2016)
     # getSeasonGbgStats(2017)
-    # getSeasonGbgStats(2018)
+    getSeasonGbgStats(2018)
     # getSeasonGbgStats(2019)
     # getSeasonGbgStats(2020)
     #getSeasonGbgStats(2021)
-    # getSeasonGbgStats(2022)
+    #getSeasonGbgStats(2022)
     # getSeasonGbgStats(2012)
 if __name__ == "__main__":
     main()

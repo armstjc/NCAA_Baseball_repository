@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/05/2022,away,15860,277,Hawaii,9,True,13,1,12,win,13 - 1,5226450,736,1,1.0,0,0,0,0,0,2,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,4,2,0,2656838,2022
-03/13/2022,home,15860,748,Wagner,9,True,15,5,10,win,15 - 5,5233389,736,1,1.0,0,1,1,1,1,1,0,6,4,0,0,0,0,0,1,0,0,0,0,0,19,1,1,0,0,0,5,0,0,2656838,2022
-03/22/2022,home,15860,14927,Belmont,9,True,13,4,9,win,13 - 4,5243276,736,1,0.1,0,0,1,0,3,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,4,0,0,2656838,2022
-05/19/2022,home,15860,365,LSU,9,True,2,13,-11,loss,2 - 13,5288937,736,1,2.0,0,3,2,2,3,2,0,11,8,0,0,0,1,3,0,0,0,0,0,0,40,1,2,0,0,0,3,1,0,2656838,2022
-05/26/2022,home,15860,694,Tennessee,9,True,1,10,-9,loss,1 - 10,5290234,736,1,1.0,0,0,1,1,3,1,0,6,3,0,0,0,0,1,0,0,0,0,0,0,27,1,1,0,0,0,6,0,0,2656838,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/05/2022,away,15860,277,Hawaii,9,True,13,1,12,win,13 - 1,5226450,736,1,0,1.0,0.0,0,0,0,0,2,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,4,2,0,2656838,2022
+03/13/2022,home,15860,748,Wagner,9,True,15,5,10,win,15 - 5,5233389,736,1,0,1.0,0.0,1,1,1,1,1,0,6,4,0,0,0,0,0,1,0,0,0,0,0,19,1,1,0,0,0,5,0,0,2656838,2022
+03/22/2022,home,15860,14927,Belmont,9,True,13,4,9,win,13 - 4,5243276,736,1,0,0.1,0.0,0,1,0,3,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,4,0,0,2656838,2022
+05/19/2022,home,15860,365,LSU,9,True,2,13,-11,loss,2 - 13,5288937,736,1,0,2.0,0.0,3,2,2,3,2,0,11,8,0,0,0,1,3,0,0,0,0,0,0,40,1,2,0,0,0,3,1,0,2656838,2022
+05/26/2022,home,15860,694,Tennessee,9,True,1,10,-9,loss,1 - 10,5290234,736,1,0,1.0,0.0,0,1,1,3,1,0,6,3,0,0,0,0,1,0,0,0,0,0,0,27,1,1,0,0,0,6,0,0,2656838,2022

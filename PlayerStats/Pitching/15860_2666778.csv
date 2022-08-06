@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/06/2022,home,15860,665,Southern U.,9,True,15,7,8,win,15 - 7,5226520,706,1,2.0,0,1,1,1,0,2,0,7,6,0,0,0,1,0,1,0,0,0,0,0,28,0,3,1,0,0,3,0,0,2666778,2022
-03/13/2022,away,15860,522,Oklahoma,9,True,5,9,-4,loss,5 - 9,5233802,706,1,1.0,0,1,1,1,1,0,0,5,3,1,0,0,0,0,0,0,0,0,1,0,17,3,0,0,0,0,2,0,0,2666778,2022
-03/19/2022,home,15860,366,Louisiana Tech,9,True,4,5,-1,loss,4 - 5,5240048,706,1,0.0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3,0,0,2666778,2022
-03/20/2022,home,15860,366,Louisiana Tech,9,True,13,3,10,win,13 - 3,5241346,706,1,0.0,0,1,2,2,1,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,7,0,0,0,0,0,2,0,0,2666778,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/06/2022,home,15860,665,Southern U.,9,True,15,7,8,win,15 - 7,5226520,706,1,0,2.0,0.0,1,1,1,0,2,0,7,6,0,0,0,1,0,1,0,0,0,0,0,28,0,3,1,0,0,3,0,0,2666778,2022
+03/13/2022,away,15860,522,Oklahoma,9,True,5,9,-4,loss,5 - 9,5233802,706,1,0,1.0,0.0,1,1,1,1,0,0,5,3,1,0,0,0,0,0,0,0,0,1,0,17,3,0,0,0,0,2,0,0,2666778,2022
+03/19/2022,home,15860,366,Louisiana Tech,9,True,4,5,-1,loss,4 - 5,5240048,706,1,0,0.0,0.0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3,0,0,2666778,2022
+03/20/2022,home,15860,366,Louisiana Tech,9,True,13,3,10,win,13 - 3,5241346,706,1,0,0.0,0.0,1,2,2,1,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,7,0,0,0,0,0,2,0,0,2666778,2022

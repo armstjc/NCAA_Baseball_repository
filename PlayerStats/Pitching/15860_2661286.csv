@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/27/2022,home,15860,450,Mount St. Mary's,9,True,4,5,-1,loss,4 - 5,5218724,352,1,0.0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,0,0,2661286,2022
-03/06/2022,away,15860,178,Delaware St.,9,True,7,3,4,win,7 - 3,5226468,352,1,0.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,6,1,0,2661286,2022
-03/16/2022,home,15860,617,Saint Peter's,9,True,19,6,13,win,19 - 6,5236428,352,1,1.0,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,0,1,0,0,0,6,1,0,2661286,2022
-03/19/2022,home,15860,596,St. Bonaventure,9,True,9,5,4,win,9 - 5,5239694,352,1,1.1,0,0,0,0,1,1,0,5,3,0,0,0,0,1,1,0,2,0,0,0,21,1,1,0,0,0,4,0,0,2661286,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/27/2022,home,15860,450,Mount St. Mary's,9,True,4,5,-1,loss,4 - 5,5218724,352,1,0,0.0,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,0,0,2661286,2022
+03/06/2022,away,15860,178,Delaware St.,9,True,7,3,4,win,7 - 3,5226468,352,1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,6,1,0,2661286,2022
+03/16/2022,home,15860,617,Saint Peter's,9,True,19,6,13,win,19 - 6,5236428,352,1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,0,1,0,0,0,6,1,0,2661286,2022
+03/19/2022,home,15860,596,St. Bonaventure,9,True,9,5,4,win,9 - 5,5239694,352,1,0,1.1,0.0,0,0,0,1,1,0,5,3,0,0,0,0,1,1,0,2,0,0,0,21,1,1,0,0,0,4,0,0,2661286,2022

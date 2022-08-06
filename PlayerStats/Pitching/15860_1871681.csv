@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/19/2022,away,15860,147,Clemson,9,True,4,19,-15,loss,4 - 19,5210143,306,1,0.2,0,3,4,4,6,1,0,11,5,1,0,0,1,1,0,0,3,3,0,0,0,1,0,0,0,0,4,1,0,1871681,2022
-03/09/2022,home,15860,308,Purdue Fort Wayne,9,True,12,2,10,win,12 - 2,5229613,306,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,2,0,0,0,5,0,0,1871681,2022
-03/19/2022,home,15860,812,Xavier,9,True,10,12,-2,loss,10 - 12,5239536,306,1,0.2,0,7,6,6,1,0,0,10,9,1,0,0,1,0,0,0,0,0,0,0,28,0,2,0,0,0,3,0,0,1871681,2022
-04/09/2022,away,15860,559,Purdue,9,True,0,17,-17,loss,0 - 17,5259708,306,1,1.0,0,2,4,4,0,1,0,7,5,0,0,0,1,0,2,0,3,3,0,0,25,2,0,0,0,0,5,0,0,1871681,2022
-05/17/2022,home,15860,299,Illinois St.,9,True,12,7,5,win,12 - 7,5288548,306,1,1.0,0,3,2,2,0,2,0,6,6,2,0,0,0,1,0,0,0,0,0,0,14,1,0,0,0,0,2,2,0,1871681,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/19/2022,away,15860,147,Clemson,9,True,4,19,-15,loss,4 - 19,5210143,306,1,0,0.2,0.0,3,4,4,6,1,0,11,5,1,0,0,1,1,0,0,3,3,0,0,0,1,0,0,0,0,4,1,0,1871681,2022
+03/09/2022,home,15860,308,Purdue Fort Wayne,9,True,12,2,10,win,12 - 2,5229613,306,1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,2,0,0,0,5,0,0,1871681,2022
+03/19/2022,home,15860,812,Xavier,9,True,10,12,-2,loss,10 - 12,5239536,306,1,0,0.2,0.0,7,6,6,1,0,0,10,9,1,0,0,1,0,0,0,0,0,0,0,28,0,2,0,0,0,3,0,0,1871681,2022
+04/09/2022,away,15860,559,Purdue,9,True,0,17,-17,loss,0 - 17,5259708,306,1,0,1.0,0.0,2,4,4,0,1,0,7,5,0,0,0,1,0,2,0,3,3,0,0,25,2,0,0,0,0,5,0,0,1871681,2022
+05/17/2022,home,15860,299,Illinois St.,9,True,12,7,5,win,12 - 7,5288548,306,1,0,1.0,0.0,3,2,2,0,2,0,6,6,2,0,0,0,1,0,0,0,0,0,0,14,1,0,0,0,0,2,2,0,1871681,2022

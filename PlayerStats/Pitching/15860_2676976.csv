@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-04/20/2022,away,15860,285,Holy Cross,9,True,15,3,12,win,15 - 3,5270064,725,1,1.0,0,1,0,0,0,3,0,4,4,1,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,6,2,0,2676976,2022
-04/27/2022,home,15860,158,Columbia,9,True,4,9,-5,loss,4 - 9,5276985,725,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6,0,1,0,0,0,6,0,0,2676976,2022
-05/07/2022,home,15860,352,Lehigh,9,True,10,3,7,win,10 - 3,5284636,725,1,1.0,0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,0,0,0,0,2,0,0,2676976,2022
-05/08/2022,home,15860,342,Lafayette,9,True,14,12,2,win,14 - 12,5285329,725,1,1.0,0,0,0,0,0,1,0,3,2,0,0,0,0,0,1,0,2,0,0,0,10,1,0,0,0,1,5,0,0,2676976,2022
-05/25/2022,home,15860,83,Bucknell,9,True,3,13,-10,loss,3 - 13,5290064,725,1,1.1,0,1,0,0,1,1,0,6,5,0,0,0,0,1,0,0,3,1,0,0,24,2,1,0,0,0,6,0,0,2676976,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+04/20/2022,away,15860,285,Holy Cross,9,True,15,3,12,win,15 - 3,5270064,725,1,0,1.0,0.0,1,0,0,0,3,0,4,4,1,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,6,2,0,2676976,2022
+04/27/2022,home,15860,158,Columbia,9,True,4,9,-5,loss,4 - 9,5276985,725,1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6,0,1,0,0,0,6,0,0,2676976,2022
+05/07/2022,home,15860,352,Lehigh,9,True,10,3,7,win,10 - 3,5284636,725,1,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,0,0,0,0,2,0,0,2676976,2022
+05/08/2022,home,15860,342,Lafayette,9,True,14,12,2,win,14 - 12,5285329,725,1,0,1.0,0.0,0,0,0,0,1,0,3,2,0,0,0,0,0,1,0,2,0,0,0,10,1,0,0,0,1,5,0,0,2676976,2022
+05/25/2022,home,15860,83,Bucknell,9,True,3,13,-10,loss,3 - 13,5290064,725,1,0,1.1,0.0,1,0,0,1,1,0,6,5,0,0,0,0,1,0,0,3,1,0,0,24,2,1,0,0,0,6,0,0,2676976,2022

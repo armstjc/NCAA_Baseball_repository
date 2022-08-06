@@ -26,7 +26,7 @@ def getSchoolAllTimeRoster(school='Ohio'):
     minSeason = 2013
     maxSeason = now.year
     #print(minSeason,maxSeason)
-    rost = ncaa.get_multiyear_roster(school,minSeason,maxSeason)
+    rost = ncaa.ncaa_team_roster(school,range(minSeason,maxSeason))
     rost.to_csv(f'TeamRosters/{schoolID}.csv',index=False)
     print(rost)
     return rost
@@ -39,41 +39,47 @@ def getAllGbgStats():
     
     schools =getSchoolList()
     #print(schools)
-
+    hasRoster = True
     for i in schools.T:
         print(i)
-        rost = getSchoolAllTimeRoster(i)
-        arr_season_id = rost['season_id'].to_numpy()
-        arr_school_name = rost['school'].to_numpy()
-        arr_player_name = rost['name'].to_numpy()
-        arr_player_id = rost['stats_player_seq'].to_numpy()
-        maxRost = len(rost)
+        try:
+            rost = getSchoolAllTimeRoster(i)
+            arr_season_id = rost['season_id'].to_numpy()
+            arr_school_name = rost['school'].to_numpy()
+            arr_player_name = rost['name'].to_numpy()
+            arr_player_id = rost['stats_player_seq'].to_numpy()
+            maxRost = len(rost)
+            hasRoster = True
+        except:
+            hasRoster = False
+            print(f'Could not retrive the rosters for {i}.')
         count = 0
-        for j in rost.index:
-            count += 1
-            
-            season_id = arr_season_id[j]
-            school_name = arr_school_name[j]
-            player_name = arr_player_name[j]
-            player_id = arr_player_id[j]
-            print(f'{count}/{maxRost} {season_id} {player_name}')
-            data_b = ncaa.get_gbg_stats(school=school_name, player=player_name, season=season_id, variant='batting')
-            data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv')
-            #print(data_b)
+        if hasRoster == True:
+            for j in rost.index:
+                count += 1
+                
+                season_id = arr_season_id[j]
+                school_name = arr_school_name[j]
+                player_name = arr_player_name[j]
+                player_id = arr_player_id[j]
+                print(f'{count}/{maxRost} {season_id} {player_name}')
+                data_b = ncaa.get_gbg_stats(school=school_name, player=player_name, season=season_id, variant='batting')
+                data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv')
+                #print(data_b)
 
-            data_p = ncaa.get_gbg_stats(school=school_name, player=player_name, season=season_id, variant='pitching')
-            try:
-                data_p = data_p[data_p['OrdAppeared'] != 0]
-            except:
-                pass
+                data_p = ncaa.get_gbg_stats(school=school_name, player=player_name, season=season_id, variant='pitching')
+                try:
+                    data_p = data_p[data_p['OrdAppeared'] != 0]
+                except:
+                    pass
 
-            if (len(data_p)==0):
-                #print('Nothing to save')
-                print('')
-            else:
-                data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv')
-                #print(data_p)
-            time.sleep(4)
+                if (len(data_p)==0):
+                    #print('Nothing to save')
+                    print('')
+                else:
+                    data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv')
+                    #print(data_p)
+                time.sleep(4)
 
 def getSeasonGbgStats(season=2020):
     '''
@@ -85,43 +91,49 @@ def getSeasonGbgStats(season=2020):
     coll_count = 0
     max_schools = len(schools)
     #print(schools)
-
+    hasRoster = True
     for i in schools.T:
         coll_count += 1
         print(f'{coll_count}/{max_schools} {i}')
-        rost = ncaa.get_roster(i,season)
-        print(rost)
-        #arr_season_id = rost['season_id'].to_numpy()
-        #arr_school_name = rost['school'].to_numpy()
-        #arr_player_name = rost['name'].to_numpy()
-        #arr_player_id = rost['stats_player_seq'].to_numpy()
-        maxRost = len(rost)
-        count = 0
-        for j in rost.index:
-            count += 1
+        try:
+            rost = ncaa.ncaa_team_season_roster(i,season)
+            print(rost)
             
-            season_id = rost['season_id'][j]
-            school_name = rost['school'][j]
-            player_name = rost['name'][j]
-            player_id = rost['stats_player_seq'][j]
-            print(f'{count}/{maxRost} {season} {player_name}')
-            data_b = ncaa.get_gbg_stats(school=school_name, player=player_name, season=season_id, variant='batting')
-            data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv',index=False)
-            #print(data_b)
-
-            data_p = ncaa.get_gbg_stats(school=school_name, player=player_name, season=season_id, variant='pitching')
-            try:
-                data_p = data_p[data_p['OrdAppeared'] != 0]
-            except:
-                pass
-
-            if (len(data_p)==0):
-                #print('Nothing to save')
-                pass
-            else:
-                data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
-                #print(data_p)
+            maxRost = len(rost)
+            hasRoster = True
+        except:
+            print(f'Could not retrive roster for {i}.')
             time.sleep(5)
+            hasRoster = False
+        count = 0
+        if hasRoster == True:
+            for j in rost.index:
+                count += 1
+                
+                season_id = rost['season_id'][j]
+                school_name = rost['school'][j]
+                player_name = rost['name'][j]
+                player_id = rost['stats_player_seq'][j]
+                print(f'{count}/{maxRost} {school_name} {season} {player_name}')
+                data_b = ncaa.ncaa_player_game_logs(school=school_name, player=player_name, season=season_id, variant='batting')
+                try:
+                    data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv',index=False)
+                except:
+                    pass
+                #print(data_b)
+
+                data_p = ncaa.ncaa_player_game_logs(school=school_name, player=player_name, season=season_id, variant='pitching')
+                try:
+                    data_p = data_p[data_p['OrdAppeared'] != 0]
+                except:
+                    pass
+
+                try:
+                    data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
+                except:
+                    pass
+                    #print(data_p)
+                time.sleep(5)
 
 def mergeFiles(filePath=""):
     main = pd.DataFrame()
@@ -193,16 +205,21 @@ def main():
     #     print(i)
     #     rost = getSchoolAllTimeRoster(i)
         #rost.to_csv(f'TeamRosters/{i}.csv')
-    #getSeasonGbgStats(2013)  
-    # getSeasonGbgStats(2014)
-    # getSeasonGbgStats(2015)
-    # getSeasonGbgStats(2016)
-    # getSeasonGbgStats(2017)
+    # sea = 2022
+    # tm = "Boise St."
+    # df = ncaa.ncaa_team_season_roster(tm, sea)
+    # print(df)
+    getSeasonGbgStats(2022)
+    getSeasonGbgStats(2021)
+    getSeasonGbgStats(2020)
+    getSeasonGbgStats(2019)
     getSeasonGbgStats(2018)
-    # getSeasonGbgStats(2019)
-    # getSeasonGbgStats(2020)
-    #getSeasonGbgStats(2021)
-    #getSeasonGbgStats(2022)
-    # getSeasonGbgStats(2012)
+    getSeasonGbgStats(2017)
+    getSeasonGbgStats(2016)
+    getSeasonGbgStats(2015)
+    getSeasonGbgStats(2014)
+    getSeasonGbgStats(2013)
+    getSeasonGbgStats(2012)
+    
 if __name__ == "__main__":
     main()

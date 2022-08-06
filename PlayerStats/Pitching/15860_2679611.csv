@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/18/2022,home,15860,434,Missouri,9,True,1,12,-11,loss,1 - 12,5208022,483,1,0.0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,2,1,0,0,8,0,0,0,0,0,4,0,0,2679611,2022
-03/11/2022,home,15860,498,ULM,9,True,8,10,-2,loss,8 - 10,5231800,483,1,0.2,0,1,0,0,1,1,0,3,2,0,0,0,0,0,0,0,1,0,0,0,13,0,0,0,0,0,3,0,0,2679611,2022
-04/19/2022,home,15860,665,Southern U.,9,True,3,0,3,win,3 - 0,5269154,483,1,1.0,0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,2,1,0,2679611,2022
-05/03/2022,away,15860,365,LSU,9,True,6,10,-4,loss,6 - 10,5282394,483,1,0.1,0,0,1,1,1,0,0,3,1,0,0,0,0,1,1,0,0,0,0,0,15,1,0,0,0,0,6,0,0,2679611,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/18/2022,home,15860,434,Missouri,9,True,1,12,-11,loss,1 - 12,5208022,483,1,0,0.0,0.0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,2,1,0,0,8,0,0,0,0,0,4,0,0,2679611,2022
+03/11/2022,home,15860,498,ULM,9,True,8,10,-2,loss,8 - 10,5231800,483,1,0,0.2,0.0,1,0,0,1,1,0,3,2,0,0,0,0,0,0,0,1,0,0,0,13,0,0,0,0,0,3,0,0,2679611,2022
+04/19/2022,home,15860,665,Southern U.,9,True,3,0,3,win,3 - 0,5269154,483,1,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,2,1,0,2679611,2022
+05/03/2022,away,15860,365,LSU,9,True,6,10,-4,loss,6 - 10,5282394,483,1,0,0.1,0.0,0,1,1,1,0,0,3,1,0,0,0,0,1,1,0,0,0,0,0,15,1,0,0,0,0,6,0,0,2679611,2022

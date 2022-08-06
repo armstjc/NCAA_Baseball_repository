@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/18/2022,home,15860,72,Bradley,9,True,6,20,-14,loss,6 - 20,5238223,172,1,0.1,0,3,4,4,3,0,0,7,4,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,2658380,2022
-03/22/2022,home,15860,69,Bowdoin,9,True,19,4,15,win,19 - 4,5242866,172,1,2.0,0,0,0,0,1,4,0,7,6,0,0,0,0,0,0,0,0,0,0,0,36,0,2,0,0,0,3,1,0,2658380,2022
-04/05/2022,away,15860,368,UMass Lowell,9,True,2,14,-12,loss,2 - 14,5256504,172,1,1.0,0,0,1,1,0,1,0,4,3,0,0,0,0,1,1,0,0,0,0,0,16,1,1,0,0,0,3,0,0,2658380,2022
-05/15/2022,home,15860,158,Columbia,10,True,12,11,1,win,12 - 11,5288048,172,1,1.0,0,1,1,1,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,1,1,0,0,0,9,0,0,2658380,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/18/2022,home,15860,72,Bradley,9,True,6,20,-14,loss,6 - 20,5238223,172,1,0,0.1,0.0,3,4,4,3,0,0,7,4,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,2658380,2022
+03/22/2022,home,15860,69,Bowdoin,9,True,19,4,15,win,19 - 4,5242866,172,1,0,2.0,0.0,0,0,0,1,4,0,7,6,0,0,0,0,0,0,0,0,0,0,0,36,0,2,0,0,0,3,1,0,2658380,2022
+04/05/2022,away,15860,368,UMass Lowell,9,True,2,14,-12,loss,2 - 14,5256504,172,1,0,1.0,0.0,0,1,1,0,1,0,4,3,0,0,0,0,1,1,0,0,0,0,0,16,1,1,0,0,0,3,0,0,2658380,2022
+05/15/2022,home,15860,158,Columbia,10,True,12,11,1,win,12 - 11,5288048,172,1,0,1.0,0.0,1,1,1,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,1,1,0,0,0,9,0,0,2658380,2022

@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/05/2022,home,15860,432,Mississippi Val.,9,True,9,16,-7,loss,9 - 16,5235169,2678,1,0,2.1,0.0,5,1,1,0,1,0,14,13,1,0,0,0,0,1,0,1,0,0,0,0,0,6,0,0,0,4,0,0,2129393,2022
+03/26/2022,away,15860,699,Texas Southern,9,True,15,5,10,win,15 - 5,5246922,2678,1,0,1.0,0.0,0,0,0,1,0,0,4,2,0,0,0,0,0,0,0,3,1,0,1,19,1,2,0,0,0,3,0,0,2129393,2022
+04/12/2022,away,15860,31,Arkansas,9,True,0,15,-15,loss,0 - 15,5263347,2678,1,0,0.1,0.0,2,2,2,1,0,0,4,3,1,0,0,1,0,0,0,2,2,0,0,12,0,1,0,0,0,3,0,0,2129393,2022
+04/22/2022,away,15860,553,Prairie View,9,True,4,10,-6,loss,4 - 10,5271256,2678,1,0,1.2,0.0,2,3,3,3,1,0,9,6,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,1,0,2129393,2022
+04/29/2022,home,15860,699,Texas Southern,9,True,6,17,-11,loss,6 - 17,5278444,2678,1,0,0.2,0.0,2,4,4,2,0,0,6,3,0,0,0,0,0,0,1,2,2,1,0,2,2,0,0,0,0,3,0,0,2129393,2022

@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/18/2022,home,15860,219,Evansville,9,True,24,6,18,win,24 - 6,5207611,490,1,0.2,0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,1,1,0,0,15,0,1,0,0,0,4,1,0,2656610,2022
-02/26/2022,home,15860,562,Quinnipiac,9,True,16,4,12,win,16 - 4,5219077,490,1,0.0,0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,2,0,0,10,0,0,0,0,0,2,0,0,2656610,2022
-03/04/2022,home,15860,500,Northeastern,9,True,1,6,-5,loss,1 - 6,5223000,490,1,0.2,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,0,0,0,6,0,1,0,0,0,4,0,0,2656610,2022
-04/01/2022,away,15860,147,Clemson,9,True,3,14,-11,loss,3 - 14,5251905,490,1,1.1,0,1,2,2,3,0,0,8,5,0,0,0,0,1,0,0,1,1,0,0,0,0,4,0,0,0,3,0,0,2656610,2022
-04/08/2022,away,15860,742,Virginia Tech,9,True,10,21,-11,loss,10 - 21,5258591,490,1,0.1,0,4,7,7,3,1,0,8,5,0,0,0,2,0,0,0,0,0,0,0,39,0,0,0,0,0,3,0,0,2656610,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/18/2022,home,15860,219,Evansville,9,True,24,6,18,win,24 - 6,5207611,490,1,0,0.2,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,1,1,0,0,15,0,1,0,0,0,4,1,0,2656610,2022
+02/26/2022,home,15860,562,Quinnipiac,9,True,16,4,12,win,16 - 4,5219077,490,1,0,0.0,0.0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,2,0,0,10,0,0,0,0,0,2,0,0,2656610,2022
+03/04/2022,home,15860,500,Northeastern,9,True,1,6,-5,loss,1 - 6,5223000,490,1,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,0,0,0,6,0,1,0,0,0,4,0,0,2656610,2022
+04/01/2022,away,15860,147,Clemson,9,True,3,14,-11,loss,3 - 14,5251905,490,1,0,1.1,0.0,1,2,2,3,0,0,8,5,0,0,0,0,1,0,0,1,1,0,0,0,0,4,0,0,0,3,0,0,2656610,2022
+04/08/2022,away,15860,742,Virginia Tech,9,True,10,21,-11,loss,10 - 21,5258591,490,1,0,0.1,0.0,4,7,7,3,1,0,8,5,0,0,0,2,0,0,0,0,0,0,0,39,0,0,0,0,0,3,0,0,2656610,2022

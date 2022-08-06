@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/13/2022,home,15860,380,Maine,9,True,0,7,-7,loss,0 - 7,5234109,493,1,0,1.0,0.0,0,0,0,0,3,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2486023,2022
+04/22/2022,away,15860,527,Oral Roberts,9,True,4,10,-6,loss,4 - 10,5271515,493,1,0,1.0,0.0,1,1,1,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,21,1,1,0,0,0,3,0,0,2486023,2022
+05/06/2022,away,15860,415,Miami (FL),9,True,0,22,-22,loss,0 - 22,5284758,493,1,0,2.0,0.0,3,1,1,1,2,0,10,9,1,0,0,1,0,0,0,0,0,0,0,35,2,2,0,0,0,4,0,0,2486023,2022

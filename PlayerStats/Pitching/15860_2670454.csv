@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/20/2022,away,15860,110,UCLA,13,True,3,5,-2,loss,3 - 5,5211531,101,1,0.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,5,1,0,2670454,2022
-02/27/2022,home,15860,534,Pacific,9,True,14,6,8,win,14 - 6,5236125,101,1,0.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6,0,0,0,0,0,4,0,0,2670454,2022
-03/09/2022,away,15860,1104,Grand Canyon,9,True,9,4,5,win,9 - 4,5229449,101,1,3.2,0,2,1,1,4,2,0,17,13,2,0,0,0,0,0,0,0,0,0,0,64,3,5,0,0,0,1,0,0,2670454,2022
-03/13/2022,away,15860,402,McNeese,9,True,6,4,2,win,6 - 4,5233156,101,1,1.1,0,1,0,0,1,0,0,6,5,0,0,0,0,0,0,0,2,0,0,0,25,0,4,0,0,1,3,0,0,2670454,2022
-03/20/2022,away,15860,90,Cal Poly,9,True,4,6,-2,loss,4 - 6,5241318,101,1,3.0,0,1,2,2,5,4,0,16,10,1,0,0,0,0,1,1,0,0,0,0,70,3,2,0,1,0,1,0,0,2670454,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/20/2022,away,15860,110,UCLA,13,True,3,5,-2,loss,3 - 5,5211531,101,1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,5,1,0,2670454,2022
+02/27/2022,home,15860,534,Pacific,9,True,14,6,8,win,14 - 6,5236125,101,1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6,0,0,0,0,0,4,0,0,2670454,2022
+03/09/2022,away,15860,1104,Grand Canyon,9,True,9,4,5,win,9 - 4,5229449,101,1,1,3.2,0.0,2,1,1,4,2,0,17,13,2,0,0,0,0,0,0,0,0,0,0,64,3,5,0,0,0,1,0,0,2670454,2022
+03/13/2022,away,15860,402,McNeese,9,True,6,4,2,win,6 - 4,5233156,101,1,0,1.1,0.0,1,0,0,1,0,0,6,5,0,0,0,0,0,0,0,2,0,0,0,25,0,4,0,0,1,3,0,0,2670454,2022
+03/20/2022,away,15860,90,Cal Poly,9,True,4,6,-2,loss,4 - 6,5241318,101,1,1,3.0,0.0,1,2,2,5,4,0,16,10,1,0,0,0,0,1,1,0,0,0,0,70,3,2,0,1,0,1,0,0,2670454,2022

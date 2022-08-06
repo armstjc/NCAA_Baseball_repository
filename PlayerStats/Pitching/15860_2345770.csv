@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/18/2022,home,15860,528,Oregon St.,9,True,1,21,-20,loss,1 - 21,5207439,473,1,1.0,0,8,11,5,1,2,0,16,14,1,0,0,0,0,1,0,0,0,0,0,52,1,0,0,0,0,4,2,0,2345770,2022
-05/06/2022,away,15860,466,Nevada,9,True,10,18,-8,loss,10 - 18,5283925,473,1,1.0,0,1,2,2,1,0,0,6,4,0,1,0,0,1,1,0,1,1,0,0,21,2,1,0,0,0,7,0,0,2345770,2022
-05/14/2022,away,15860,107,California,9,True,5,23,-18,loss,5 - 23,5287920,473,1,1.0,0,2,2,2,0,0,0,5,5,1,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,5,0,0,2345770,2022
-05/19/2022,home,15860,721,Air Force,9,True,6,25,-19,loss,6 - 25,5288936,473,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,4,0,1,0,0,0,4,0,0,2345770,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/18/2022,home,15860,528,Oregon St.,9,True,1,21,-20,loss,1 - 21,5207439,473,1,0,1.0,0.0,8,11,5,1,2,0,16,14,1,0,0,0,0,1,0,0,0,0,0,52,1,0,0,0,0,4,2,0,2345770,2022
+05/06/2022,away,15860,466,Nevada,9,True,10,18,-8,loss,10 - 18,5283925,473,1,0,1.0,0.0,1,2,2,1,0,0,6,4,0,1,0,0,1,1,0,1,1,0,0,21,2,1,0,0,0,7,0,0,2345770,2022
+05/14/2022,away,15860,107,California,9,True,5,23,-18,loss,5 - 23,5287920,473,1,0,1.0,0.0,2,2,2,0,0,0,5,5,1,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,5,0,0,2345770,2022
+05/19/2022,home,15860,721,Air Force,9,True,6,25,-19,loss,6 - 25,5288936,473,1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,4,0,1,0,0,0,4,0,0,2345770,2022

@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/19/2022,home,15860,700,Texas Tech,9,True,2,1,1,win,2 - 1,5210677,37,1,0.1,0,0,1,1,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2130601,2022
-02/26/2022,home,15860,813,Yale,10,True,4,5,-1,loss,4 - 5,5217756,37,1,0.1,0,0,1,1,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,2,0,0,2130601,2022
-03/02/2022,home,15860,9,UAB,9,True,16,1,15,win,16 - 1,5221503,37,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,2,0,0,0,0,4,1,0,2130601,2022
-03/13/2022,home,15860,419,Middle Tenn.,9,True,10,7,3,win,10 - 7,5233900,37,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,5,0,0,2130601,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/19/2022,home,15860,700,Texas Tech,9,True,2,1,1,win,2 - 1,5210677,37,1,0,0.1,0.0,0,1,1,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2130601,2022
+02/26/2022,home,15860,813,Yale,10,True,4,5,-1,loss,4 - 5,5217756,37,1,0,0.1,0.0,0,1,1,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,2,0,0,2130601,2022
+03/02/2022,home,15860,9,UAB,9,True,16,1,15,win,16 - 1,5221503,37,1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,2,0,0,0,0,4,1,0,2130601,2022
+03/13/2022,home,15860,419,Middle Tenn.,9,True,10,7,3,win,10 - 7,5233900,37,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,5,0,0,2130601,2022

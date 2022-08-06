@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-05/01/2022,home,15860,1045,DBU,9,True,5,14,-9,loss,5 - 14,5280940,299,1,1.2,0,1,1,1,2,4,0,9,6,0,0,0,0,1,1,0,1,1,0,0,41,0,1,0,0,0,5,2,0,2476282,2022
-05/07/2022,away,15860,219,Evansville,9,True,3,5,-2,loss,3 - 5,5284499,299,1,1.0,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,0,1,0,0,0,5,0,0,2476282,2022
-05/13/2022,away,15860,669,Missouri St.,9,True,5,15,-10,loss,5 - 15,5286909,299,1,0.0,0,1,4,4,2,0,0,5,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2476282,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+05/01/2022,home,15860,1045,DBU,9,True,5,14,-9,loss,5 - 14,5280940,299,1,0,1.2,0.0,1,1,1,2,4,0,9,6,0,0,0,0,1,1,0,1,1,0,0,41,0,1,0,0,0,5,2,0,2476282,2022
+05/07/2022,away,15860,219,Evansville,9,True,3,5,-2,loss,3 - 5,5284499,299,1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,0,1,0,0,0,5,0,0,2476282,2022
+05/13/2022,away,15860,669,Missouri St.,9,True,5,15,-10,loss,5 - 15,5286909,299,1,0,0.0,0.0,1,4,4,2,0,0,5,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2476282,2022

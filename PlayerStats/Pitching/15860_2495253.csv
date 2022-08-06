@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/20/2022,home,15860,746,Virginia,9,True,3,8,-5,loss,3 - 8,5210860,471,1,0.2,0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,6,0,0,2495253,2022
-02/27/2022,away,15860,749,Wake Forest,9,True,5,11,-6,loss,5 - 11,5218452,471,1,1.1,0,3,2,1,4,1,0,11,6,0,0,0,0,0,1,0,3,3,0,0,41,1,1,0,0,0,3,0,1,2495253,2022
-03/29/2022,away,15860,587,Rutgers,9,True,1,11,-10,loss,1 - 11,5249449,471,1,2.0,0,1,1,0,1,1,0,9,8,0,0,0,0,1,0,0,3,1,0,0,40,1,4,0,0,0,5,0,0,2495253,2022
-04/02/2022,home,15860,368,UMass Lowell,9,True,1,12,-11,loss,1 - 12,5252333,471,1,1.0,0,3,3,3,1,1,0,7,6,1,1,0,1,0,0,0,0,0,0,0,24,1,1,0,0,0,4,0,0,2495253,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/20/2022,home,15860,746,Virginia,9,True,3,8,-5,loss,3 - 8,5210860,471,1,0,0.2,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,6,0,0,2495253,2022
+02/27/2022,away,15860,749,Wake Forest,9,True,5,11,-6,loss,5 - 11,5218452,471,1,0,1.1,0.0,3,2,1,4,1,0,11,6,0,0,0,0,0,1,0,3,3,0,0,41,1,1,0,0,0,3,0,1,2495253,2022
+03/29/2022,away,15860,587,Rutgers,9,True,1,11,-10,loss,1 - 11,5249449,471,1,0,2.0,0.0,1,1,0,1,1,0,9,8,0,0,0,0,1,0,0,3,1,0,0,40,1,4,0,0,0,5,0,0,2495253,2022
+04/02/2022,home,15860,368,UMass Lowell,9,True,1,12,-11,loss,1 - 12,5252333,471,1,0,1.0,0.0,3,3,3,1,1,0,7,6,1,1,0,1,0,0,0,0,0,0,0,24,1,1,0,0,0,4,0,0,2495253,2022

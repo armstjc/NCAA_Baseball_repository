@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/06/2022,home,15860,361,LIU,9,True,4,8,-4,loss,4 - 8,5226544,283,1,1.0,0,1,1,1,2,1,0,6,3,0,0,0,0,2,0,0,1,1,1,0,0,1,1,0,0,0,4,1,0,2671677,2022
-04/05/2022,home,15860,361,LIU,9,True,5,9,-4,loss,5 - 9,5256252,283,1,2.0,0,3,3,3,2,2,0,10,6,0,0,0,1,1,1,0,0,0,0,1,45,0,2,0,1,0,1,2,0,2671677,2022
-04/26/2022,away,15860,587,Rutgers,9,True,1,18,-17,loss,1 - 18,5276232,283,1,1.0,0,3,4,4,3,0,0,9,6,0,0,0,0,0,0,0,0,0,0,0,34,2,1,0,0,0,7,0,0,2671677,2022
-05/04/2022,away,15860,683,Stony Brook,9,True,7,15,-8,loss,7 - 15,5282648,283,1,1.0,0,0,0,0,2,2,0,5,2,0,0,0,0,1,0,0,2,2,0,1,26,0,1,0,0,0,6,0,0,2671677,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/06/2022,home,15860,361,LIU,9,True,4,8,-4,loss,4 - 8,5226544,283,1,0,1.0,0.0,1,1,1,2,1,0,6,3,0,0,0,0,2,0,0,1,1,1,0,0,1,1,0,0,0,4,1,0,2671677,2022
+04/05/2022,home,15860,361,LIU,9,True,5,9,-4,loss,5 - 9,5256252,283,1,1,2.0,0.0,3,3,3,2,2,0,10,6,0,0,0,1,1,1,0,0,0,0,1,45,0,2,0,1,0,1,2,0,2671677,2022
+04/26/2022,away,15860,587,Rutgers,9,True,1,18,-17,loss,1 - 18,5276232,283,1,0,1.0,0.0,3,4,4,3,0,0,9,6,0,0,0,0,0,0,0,0,0,0,0,34,2,1,0,0,0,7,0,0,2671677,2022
+05/04/2022,away,15860,683,Stony Brook,9,True,7,15,-8,loss,7 - 15,5282648,283,1,0,1.0,0.0,0,0,0,2,2,0,5,2,0,0,0,0,1,0,0,2,2,0,1,26,0,1,0,0,0,6,0,0,2671677,2022

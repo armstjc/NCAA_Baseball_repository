@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/18/2022,home,15860,665,Southern U.,10,True,6,7,-1,loss,6 - 7,5207374,7,1,3.0,0,7,6,6,3,2,0,17,13,0,0,0,1,1,1,0,0,0,0,0,0,2,2,0,0,0,1,0,0,2129576,2022
-02/25/2022,home,15860,695,UT Martin,9,True,3,5,-2,loss,3 - 5,5215571,7,1,2.2,0,5,4,2,0,4,0,14,13,1,0,0,0,1,0,0,0,0,1,0,51,1,3,0,1,0,1,1,0,2129576,2022
-03/01/2022,away,15860,37,Auburn,9,True,7,13,-6,loss,7 - 13,5221856,7,1,2.0,0,3,2,1,0,3,0,9,9,2,0,0,0,2,0,0,0,0,0,0,30,1,2,0,0,0,2,1,0,2129576,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/18/2022,home,15860,665,Southern U.,10,True,6,7,-1,loss,6 - 7,5207374,7,1,1,3.0,0.0,7,6,6,3,2,0,17,13,0,0,0,1,1,1,0,0,0,0,0,0,2,2,0,0,0,1,0,0,2129576,2022
+02/25/2022,home,15860,695,UT Martin,9,True,3,5,-2,loss,3 - 5,5215571,7,1,1,2.2,0.0,5,4,2,0,4,0,14,13,1,0,0,0,1,0,0,0,0,1,0,51,1,3,0,1,0,1,1,0,2129576,2022
+03/01/2022,away,15860,37,Auburn,9,True,7,13,-6,loss,7 - 13,5221856,7,1,0,2.0,0.0,3,2,1,0,3,0,9,9,2,0,0,0,2,0,0,0,0,0,0,30,1,2,0,0,0,2,1,0,2129576,2022

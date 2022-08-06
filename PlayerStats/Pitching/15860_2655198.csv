@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/05/2022,away,15860,646,South Alabama,9,True,3,16,-13,loss,3 - 16,5225288,419,1,0.2,0,2,3,3,2,1,0,7,4,1,0,0,0,1,1,0,0,0,0,0,27,0,1,0,0,0,5,0,0,2655198,2022
-04/12/2022,away,15860,28600,Lipscomb,9,True,7,0,7,win,7 - 0,5263458,419,1,1.0,0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,0,1,0,0,0,3,1,0,2655198,2022
-04/15/2022,home,15860,458,Charlotte,9,True,5,10,-5,loss,5 - 10,5266058,419,1,1.0,0,0,1,1,1,1,0,4,2,0,0,0,0,0,0,0,0,0,0,1,19,1,1,0,0,0,4,0,0,2655198,2022
-04/29/2022,home,15860,706,UTSA,9,True,2,13,-11,loss,2 - 13,5278702,419,1,0.0,0,1,4,4,1,0,0,4,1,0,0,0,0,0,2,0,0,0,0,0,14,0,0,0,0,0,4,0,0,2655198,2022
-05/20/2022,home,15860,664,Southern Miss.,9,True,0,17,-17,loss,0 - 17,5289298,419,1,0.2,0,2,5,5,2,0,0,7,4,1,0,0,1,0,1,0,0,0,0,0,27,0,2,0,0,0,4,0,0,2655198,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/05/2022,away,15860,646,South Alabama,9,True,3,16,-13,loss,3 - 16,5225288,419,1,0,0.2,0.0,2,3,3,2,1,0,7,4,1,0,0,0,1,1,0,0,0,0,0,27,0,1,0,0,0,5,0,0,2655198,2022
+04/12/2022,away,15860,28600,Lipscomb,9,True,7,0,7,win,7 - 0,5263458,419,1,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,0,1,0,0,0,3,1,0,2655198,2022
+04/15/2022,home,15860,458,Charlotte,9,True,5,10,-5,loss,5 - 10,5266058,419,1,0,1.0,0.0,0,1,1,1,1,0,4,2,0,0,0,0,0,0,0,0,0,0,1,19,1,1,0,0,0,4,0,0,2655198,2022
+04/29/2022,home,15860,706,UTSA,9,True,2,13,-11,loss,2 - 13,5278702,419,1,0,0.0,0.0,1,4,4,1,0,0,4,1,0,0,0,0,0,2,0,0,0,0,0,14,0,0,0,0,0,4,0,0,2655198,2022
+05/20/2022,home,15860,664,Southern Miss.,9,True,0,17,-17,loss,0 - 17,5289298,419,1,0,0.2,0.0,2,5,5,2,0,0,7,4,1,0,0,1,0,1,0,0,0,0,0,27,0,2,0,0,0,4,0,0,2655198,2022

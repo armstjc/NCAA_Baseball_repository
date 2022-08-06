@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/04/2022,home,15860,5,Akron,9,True,9,1,8,win,9 - 1,5223368,367,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,19,2,0,0,0,0,3,0,0,24747560,2022
-03/08/2022,home,15860,698,TCU,9,True,9,8,1,win,9 - 8,5228254,367,1,0.1,0,0,2,2,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,20,0,1,0,0,0,4,0,0,24747560,2022
-03/16/2022,home,15860,52,Bellarmine,9,True,11,5,6,win,11 - 5,5236136,367,1,4.0,0,2,2,2,3,5,0,17,14,1,0,0,1,0,0,0,0,0,0,0,73,1,6,1,0,0,1,1,0,24747560,2022
-03/22/2022,home,15860,28600,Lipscomb,9,True,2,6,-4,loss,2 - 6,5242970,367,1,2.2,0,2,4,4,4,5,0,13,8,0,0,0,1,1,0,0,0,0,1,0,58,1,1,0,1,0,1,2,0,24747560,2022
-04/26/2022,home,15860,772,Western Ky.,9,True,11,4,7,win,11 - 4,5276447,367,1,2.2,0,3,3,3,1,6,0,14,11,2,0,0,0,0,2,0,0,0,0,0,54,1,1,0,0,0,1,1,0,24747560,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/04/2022,home,15860,5,Akron,9,True,9,1,8,win,9 - 1,5223368,367,1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,19,2,0,0,0,0,3,0,0,2474756,2022
+03/08/2022,home,15860,698,TCU,9,True,9,8,1,win,9 - 8,5228254,367,1,0,0.1,0.0,0,2,2,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,20,0,1,0,0,0,4,0,0,2474756,2022
+03/16/2022,home,15860,52,Bellarmine,9,True,11,5,6,win,11 - 5,5236136,367,1,1,4.0,0.0,2,2,2,3,5,0,17,14,1,0,0,1,0,0,0,0,0,0,0,73,1,6,1,0,0,1,1,0,2474756,2022
+03/22/2022,home,15860,28600,Lipscomb,9,True,2,6,-4,loss,2 - 6,5242970,367,1,1,2.2,0.0,2,4,4,4,5,0,13,8,0,0,0,1,1,0,0,0,0,1,0,58,1,1,0,1,0,1,2,0,2474756,2022
+04/26/2022,home,15860,772,Western Ky.,9,True,11,4,7,win,11 - 4,5276447,367,1,1,2.2,0.0,3,3,3,1,6,0,14,11,2,0,0,0,0,2,0,0,0,0,0,54,1,1,0,0,0,1,1,0,2474756,2022

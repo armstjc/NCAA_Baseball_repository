@@ -1,2 +1,2 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/05/2022,home,15860,110,UCLA,9,True,3,15,-12,loss,3 - 15,5225743,522,1,0.1,0,0,1,1,1,1,0,2,1,0,0,0,0,2,0,0,0,0,0,0,11,0,0,0,0,0,6,0,0,2679268,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/05/2022,home,15860,110,UCLA,9,True,3,15,-12,loss,3 - 15,5225743,522,1,0,0.1,0.0,0,1,1,1,1,0,2,1,0,0,0,0,2,0,0,0,0,0,0,11,0,0,0,0,0,6,0,0,2679268,2022

@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/11/2022,home,15860,505,Northern Ky.,9,True,20,7,13,win,20 - 7,5231383,10411,1,1.0,0,2,1,1,0,2,0,5,5,0,0,0,1,0,0,0,0,0,0,0,19,0,1,0,0,0,4,0,0,26804040,2022
-03/15/2022,away,15860,257,Georgia,9,True,3,15,-12,loss,3 - 15,5235684,10411,1,2.0,0,1,0,0,0,1,0,7,7,1,0,0,0,0,0,0,0,0,0,0,29,2,3,0,0,0,3,1,0,26804040,2022
-03/22/2022,home,15860,2915,Wofford,9,True,6,10,-4,loss,6 - 10,5243148,10411,1,1.0,0,0,1,1,2,1,0,5,3,0,0,0,0,0,0,0,0,0,0,0,19,0,2,0,1,0,4,0,0,26804040,2022
-04/03/2022,home,15860,19651,High Point,9,True,5,15,-10,loss,5 - 15,5254883,10411,1,0.1,0,0,2,2,2,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,13,0,1,0,0,0,7,0,0,26804040,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/11/2022,home,15860,505,Northern Ky.,9,True,20,7,13,win,20 - 7,5231383,10411,1,0,1.0,0.0,2,1,1,0,2,0,5,5,0,0,0,1,0,0,0,0,0,0,0,19,0,1,0,0,0,4,0,0,2680404,2022
+03/15/2022,away,15860,257,Georgia,9,True,3,15,-12,loss,3 - 15,5235684,10411,1,0,2.0,0.0,1,0,0,0,1,0,7,7,1,0,0,0,0,0,0,0,0,0,0,29,2,3,0,0,0,3,1,0,2680404,2022
+03/22/2022,home,15860,2915,Wofford,9,True,6,10,-4,loss,6 - 10,5243148,10411,1,0,1.0,0.0,0,1,1,2,1,0,5,3,0,0,0,0,0,0,0,0,0,0,0,19,0,2,0,1,0,4,0,0,2680404,2022
+04/03/2022,home,15860,19651,High Point,9,True,5,15,-10,loss,5 - 15,5254883,10411,1,0,0.1,0.0,0,2,2,2,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,13,0,1,0,0,0,7,0,0,2680404,2022

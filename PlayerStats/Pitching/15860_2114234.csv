@@ -1,3 +1,3 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-04/12/2022,home,15860,116,Canisius,9,True,1,11,-10,loss,1 - 11,5264022,596,1,1.0,0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,12,1,2,0,0,0,7,0,0,2114234,2022
-04/15/2022,home,15860,173,Davidson,9,True,3,5,-2,loss,3 - 5,5264958,596,1,1.0,0,2,3,3,2,0,0,7,5,0,0,0,1,0,0,0,0,0,0,0,23,0,3,0,1,0,5,0,0,2114234,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+04/12/2022,home,15860,116,Canisius,9,True,1,11,-10,loss,1 - 11,5264022,596,1,0,1.0,0.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,12,1,2,0,0,0,7,0,0,2114234,2022
+04/15/2022,home,15860,173,Davidson,9,True,3,5,-2,loss,3 - 5,5264958,596,1,0,1.0,0.0,2,3,3,2,0,0,7,5,0,0,0,1,0,0,0,0,0,0,0,23,0,3,0,1,0,5,0,0,2114234,2022

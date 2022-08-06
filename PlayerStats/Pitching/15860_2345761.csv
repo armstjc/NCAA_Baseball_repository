@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/22/2022,home,15860,2743,UIW,9,True,1,0,1,win,1 - 0,5212994,1395,1,0,6.0,0.0,1,0,0,0,6,0,19,19,0,0,0,0,1,0,0,0,0,0,0,66,5,7,1,0,0,2,2,0,2345761,2022
+03/02/2022,home,15860,754,Washington St.,9,True,8,9,-1,loss,8 - 9,5221583,1395,1,1,4.0,0.0,6,5,4,0,3,0,19,19,1,0,0,0,1,0,0,0,0,0,0,75,6,2,0,0,0,1,2,0,2345761,2022
+03/12/2022,away,15860,624,Sam Houston,9,True,3,9,-6,loss,3 - 9,5232516,1395,1,1,4.2,0.0,4,3,3,3,3,0,21,18,1,1,0,0,1,0,0,0,0,0,0,102,2,9,0,0,0,1,0,0,2345761,2022
+03/19/2022,home,15860,536,UTRGV,9,True,10,7,3,win,10 - 7,5239870,1395,1,1,2.2,0.0,2,1,1,2,4,0,12,10,1,0,0,0,0,0,0,0,0,0,0,51,2,2,0,0,0,1,1,0,2345761,2022

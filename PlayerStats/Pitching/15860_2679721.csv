@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/22/2022,home,15860,43,Austin Peay,9,True,10,0,10,win,10 - 0,5212782,659,1,1.0,0,0,0,0,1,2,0,6,3,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,4,1,0,2679721,2022
-03/01/2022,home,15860,771,Western Ill.,9,True,14,5,9,win,14 - 5,5220218,659,1,0.2,0,3,2,2,1,1,0,7,5,0,0,0,0,2,1,0,0,0,0,0,24,0,1,0,0,0,4,1,0,2679721,2022
-03/26/2022,home,15860,87,Butler,9,True,16,4,12,win,16 - 4,5247179,659,1,1.0,0,1,1,1,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,11,2,1,0,0,0,4,0,0,2679721,2022
-04/08/2022,away,15860,219,Evansville,9,True,14,4,10,win,14 - 4,5258590,659,1,0.1,0,0,0,0,1,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,12,0,0,0,0,0,4,1,0,2679721,2022
-05/10/2022,away,15860,660,SIUE,9,True,22,10,12,win,22 - 10,5285981,659,1,0.2,0,5,5,5,1,1,0,9,7,0,0,0,0,0,1,0,0,0,0,0,38,1,0,0,0,0,4,0,0,2679721,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/22/2022,home,15860,43,Austin Peay,9,True,10,0,10,win,10 - 0,5212782,659,1,0,1.0,0.0,0,0,0,1,2,0,6,3,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,4,1,0,2679721,2022
+03/01/2022,home,15860,771,Western Ill.,9,True,14,5,9,win,14 - 5,5220218,659,1,0,0.2,0.0,3,2,2,1,1,0,7,5,0,0,0,0,2,1,0,0,0,0,0,24,0,1,0,0,0,4,1,0,2679721,2022
+03/26/2022,home,15860,87,Butler,9,True,16,4,12,win,16 - 4,5247179,659,1,0,1.0,0.0,1,1,1,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,11,2,1,0,0,0,4,0,0,2679721,2022
+04/08/2022,away,15860,219,Evansville,9,True,14,4,10,win,14 - 4,5258590,659,1,0,0.1,0.0,0,0,0,1,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,12,0,0,0,0,0,4,1,0,2679721,2022
+05/10/2022,away,15860,660,SIUE,9,True,22,10,12,win,22 - 10,5285981,659,1,0,0.2,0.0,5,5,5,1,1,0,9,7,0,0,0,0,0,1,0,0,0,0,0,38,1,0,0,0,0,4,0,0,2679721,2022

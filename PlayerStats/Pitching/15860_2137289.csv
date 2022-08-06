@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/27/2022,away,15860,651,South Fla.,9,True,2,17,-15,loss,2 - 17,5218039,683,1,0.2,0,2,1,1,0,1,0,4,4,1,0,0,0,1,0,0,2,2,0,0,18,1,0,0,0,0,3,1,0,2137289,2022
-03/13/2022,away,15860,523,Old Dominion,9,True,6,18,-12,loss,6 - 18,5233333,683,1,1.0,0,1,1,1,2,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,19,2,0,0,0,0,6,0,0,2137289,2022
-04/05/2022,away,15860,381,Manhattan,9,True,2,9,-7,loss,2 - 9,5256212,683,1,1.0,0,0,0,0,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,6,0,0,2137289,2022
-04/20/2022,home,15860,381,Manhattan,9,True,13,17,-4,loss,13 - 17,5269929,683,1,0.2,0,3,5,5,2,0,0,8,6,1,0,0,1,1,0,0,0,0,0,0,34,2,0,0,1,0,2,0,0,2137289,2022
-04/27/2022,away,15860,220,Fairfield,9,True,2,9,-7,loss,2 - 9,5276890,683,1,1.0,0,2,1,1,1,2,0,6,5,0,0,0,0,1,0,0,0,0,0,0,31,0,1,0,0,0,2,0,0,2137289,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/27/2022,away,15860,651,South Fla.,9,True,2,17,-15,loss,2 - 17,5218039,683,1,0,0.2,0.0,2,1,1,0,1,0,4,4,1,0,0,0,1,0,0,2,2,0,0,18,1,0,0,0,0,3,1,0,2137289,2022
+03/13/2022,away,15860,523,Old Dominion,9,True,6,18,-12,loss,6 - 18,5233333,683,1,0,1.0,0.0,1,1,1,2,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,19,2,0,0,0,0,6,0,0,2137289,2022
+04/05/2022,away,15860,381,Manhattan,9,True,2,9,-7,loss,2 - 9,5256212,683,1,0,1.0,0.0,0,0,0,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,6,0,0,2137289,2022
+04/20/2022,home,15860,381,Manhattan,9,True,13,17,-4,loss,13 - 17,5269929,683,1,0,0.2,0.0,3,5,5,2,0,0,8,6,1,0,0,1,1,0,0,0,0,0,0,34,2,0,0,1,0,2,0,0,2137289,2022
+04/27/2022,away,15860,220,Fairfield,9,True,2,9,-7,loss,2 - 9,5276890,683,1,0,1.0,0.0,2,1,1,1,2,0,6,5,0,0,0,0,1,0,0,0,0,0,0,31,0,1,0,0,0,2,0,0,2137289,2022

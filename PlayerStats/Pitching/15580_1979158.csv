@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/10/2021,home,15580,649,South Dakota St.,9,True,10,0,10,win,10 - 0,5020935,327,1,1.0,0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,22,0,1,0,0,0,5,2,0,1979158,2021
-03/26/2021,away,15580,521,Oklahoma St.,9,True,5,14,-9,loss,5 - 14,5037678,327,1,1.0,0,2,1,0,0,0,0,4,4,0,0,0,0,0,0,0,2,2,0,0,19,2,0,0,0,0,3,0,0,1979158,2021
-04/01/2021,home,15580,700,Texas Tech,9,True,1,17,-16,loss,1 - 17,5043884,327,1,0.2,0,0,0,0,3,1,0,5,2,0,0,0,0,0,0,0,0,0,0,0,25,1,0,0,0,0,4,0,0,1979158,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/10/2021,home,15580,649,South Dakota St.,9,True,10,0,10,win,10 - 0,5020935,327,1,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,22,0,1,0,0,0,5,2,0,1979158,2021
+03/26/2021,away,15580,521,Oklahoma St.,9,True,5,14,-9,loss,5 - 14,5037678,327,1,0,1.0,0.0,2,1,0,0,0,0,4,4,0,0,0,0,0,0,0,2,2,0,0,19,2,0,0,0,0,3,0,0,1979158,2021
+04/01/2021,home,15580,700,Texas Tech,9,True,1,17,-16,loss,1 - 17,5043884,327,1,0,0.2,0.0,0,0,0,3,1,0,5,2,0,0,0,0,0,0,0,0,0,0,0,25,1,0,0,0,0,4,0,0,1979158,2021

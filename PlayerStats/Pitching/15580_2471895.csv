@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/24/2021,home,15580,253,Ga. Southern,9,True,7,18,-11,loss,7 - 18,5006873,1014,1,2.0,0,2,0,0,1,1,0,7,6,0,0,0,0,0,0,0,2,1,0,0,25,3,0,0,0,0,7,0,0,2471895,2021
-02/28/2021,home,15580,10411,USC Upstate,9,True,10,13,-3,loss,10 - 13,5011209,1014,1,0.0,0,5,5,3,0,0,0,5,5,0,1,0,0,0,0,0,3,3,0,0,17,0,0,0,0,0,4,0,0,2471895,2021
-03/07/2021,home,15580,8,Alabama,9,True,3,21,-18,loss,3 - 21,5017934,1014,1,0.2,0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,1,0,0,0,9,1,0,0,0,0,7,1,0,2471895,2021
-04/17/2021,home,15580,317,James Madison,9,True,15,3,12,win,15 - 3,5058849,1014,1,1.0,0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,0,2,0,0,0,3,1,0,2471895,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/24/2021,home,15580,253,Ga. Southern,9,True,7,18,-11,loss,7 - 18,5006873,1014,1,0,2.0,0.0,2,0,0,1,1,0,7,6,0,0,0,0,0,0,0,2,1,0,0,25,3,0,0,0,0,7,0,0,2471895,2021
+02/28/2021,home,15580,10411,USC Upstate,9,True,10,13,-3,loss,10 - 13,5011209,1014,1,0,0.0,0.0,5,5,3,0,0,0,5,5,0,1,0,0,0,0,0,3,3,0,0,17,0,0,0,0,0,4,0,0,2471895,2021
+03/07/2021,home,15580,8,Alabama,9,True,3,21,-18,loss,3 - 21,5017934,1014,1,0,0.2,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,1,0,0,0,9,1,0,0,0,0,7,1,0,2471895,2021
+04/17/2021,home,15580,317,James Madison,9,True,15,3,12,win,15 - 3,5058849,1014,1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,0,2,0,0,0,3,1,0,2471895,2021

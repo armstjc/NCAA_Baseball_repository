@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/02/2021,away,15580,454,Murray St.,9,True,6,9,-3,loss,6 - 9,5012746,30,1,1.0,0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,2,1,0,0,0,1,0,0,2119893,2021
-03/05/2021,away,15580,2,Abilene Christian,9,True,3,26,-23,loss,3 - 26,5017136,30,1,1.2,0,4,6,6,5,2,0,14,9,0,0,0,2,1,0,0,0,0,0,0,62,2,1,0,1,0,1,1,0,2119893,2021
-03/14/2021,away,15580,522,Oklahoma,9,True,15,14,1,win,15 - 14,5025949,30,1,2.0,0,1,0,0,2,0,0,9,7,0,0,0,0,0,0,0,0,0,0,0,38,3,3,0,0,0,1,0,0,2119893,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/02/2021,away,15580,454,Murray St.,9,True,6,9,-3,loss,6 - 9,5012746,30,1,1,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,2,1,0,0,0,1,0,0,2119893,2021
+03/05/2021,away,15580,2,Abilene Christian,9,True,3,26,-23,loss,3 - 26,5017136,30,1,1,1.2,0.0,4,6,6,5,2,0,14,9,0,0,0,2,1,0,0,0,0,0,0,62,2,1,0,1,0,1,1,0,2119893,2021
+03/14/2021,away,15580,522,Oklahoma,9,True,15,14,1,win,15 - 14,5025949,30,1,1,2.0,0.0,1,0,0,2,0,0,9,7,0,0,0,0,0,0,0,0,0,0,0,38,3,3,0,0,0,1,0,0,2119893,2021

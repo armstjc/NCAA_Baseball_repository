@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-04/26/2021,away,15580,812,Xavier,12,True,15,13,2,win,15 - 13,5068035,164,1,1.0,0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,7,1,2,0,0,0,3,0,0,2116524,2021
-05/20/2021,home,15580,635,Seton Hall,9,True,11,4,7,win,11 - 4,5083248,164,1,1.0,0,2,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,11,1,0,0,0,0,3,1,0,2116524,2021
-06/05/2021,home,15580,513,Notre Dame,9,True,3,26,-23,loss,3 - 26,5082853,164,1,1.2,0,4,2,2,1,2,0,9,8,1,0,0,0,0,0,0,3,3,0,0,43,1,1,0,0,0,2,1,0,2116524,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+04/26/2021,away,15580,812,Xavier,12,True,15,13,2,win,15 - 13,5068035,164,1,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,7,1,2,0,0,0,3,0,0,2116524,2021
+05/20/2021,home,15580,635,Seton Hall,9,True,11,4,7,win,11 - 4,5083248,164,1,0,1.0,0.0,2,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,11,1,0,0,0,0,3,1,0,2116524,2021
+06/05/2021,home,15580,513,Notre Dame,9,True,3,26,-23,loss,3 - 26,5082853,164,1,0,1.2,0.0,4,2,2,1,2,0,9,8,1,0,0,0,0,0,0,3,3,0,0,43,1,1,0,0,0,2,1,0,2116524,2021

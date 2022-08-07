@@ -1,3 +1,3 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/20/2021,away,15580,220,Fairfield,9,True,4,13,-9,loss,4 - 13,5033127,116,1,0.2,0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,13,2,0,0,0,0,4,0,0,2308956,2021
-05/12/2021,home,15580,617,Saint Peter's,9,True,20,11,9,win,20 - 11,5077792,116,1,1.0,0,2,3,3,1,2,0,8,5,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,4,1,0,2308956,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/20/2021,away,15580,220,Fairfield,9,True,4,13,-9,loss,4 - 13,5033127,116,1,0,0.2,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,13,2,0,0,0,0,4,0,0,2308956,2021
+05/12/2021,home,15580,617,Saint Peter's,9,True,20,11,9,win,20 - 11,5077792,116,1,0,1.0,0.0,2,3,3,1,2,0,8,5,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,4,1,0,2308956,2021

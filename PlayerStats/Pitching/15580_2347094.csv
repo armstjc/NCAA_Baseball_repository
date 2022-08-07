@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/19/2021,away,15580,147,Clemson,9,True,0,5,-5,loss,0 - 5,5002742,140,1,1.0,0,2,4,4,2,1,0,7,4,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,4,0,0,2347094,2021
-03/28/2021,home,15580,609,Saint Louis,9,True,6,21,-15,loss,6 - 21,5040479,140,1,2.0,0,2,1,1,2,4,0,10,8,1,0,0,0,0,0,0,0,0,0,0,34,1,1,0,0,0,7,1,0,2347094,2021
-04/10/2021,home,15580,128,UCF,9,True,10,20,-10,loss,10 - 20,5052039,140,1,2.0,0,2,4,4,2,3,0,13,9,0,0,0,1,0,2,0,0,0,0,0,47,0,3,0,0,0,7,2,0,2347094,2021
-04/18/2021,away,15580,404,Memphis,9,True,8,4,4,win,8 - 4,5060462,140,1,0.0,0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,2,0,0,2347094,2021
-05/22/2021,home,15580,718,Tulane,9,True,13,12,1,win,13 - 12,5081188,140,1,0.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,1,5,1,0,2347094,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/19/2021,away,15580,147,Clemson,9,True,0,5,-5,loss,0 - 5,5002742,140,1,0,1.0,0.0,2,4,4,2,1,0,7,4,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,4,0,0,2347094,2021
+03/28/2021,home,15580,609,Saint Louis,9,True,6,21,-15,loss,6 - 21,5040479,140,1,0,2.0,0.0,2,1,1,2,4,0,10,8,1,0,0,0,0,0,0,0,0,0,0,34,1,1,0,0,0,7,1,0,2347094,2021
+04/10/2021,home,15580,128,UCF,9,True,10,20,-10,loss,10 - 20,5052039,140,1,0,2.0,0.0,2,4,4,2,3,0,13,9,0,0,0,1,0,2,0,0,0,0,0,47,0,3,0,0,0,7,2,0,2347094,2021
+04/18/2021,away,15580,404,Memphis,9,True,8,4,4,win,8 - 4,5060462,140,1,0,0.0,0.0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,2,0,0,2347094,2021
+05/22/2021,home,15580,718,Tulane,9,True,13,12,1,win,13 - 12,5081188,140,1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,1,5,1,0,2347094,2021

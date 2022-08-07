@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/28/2021,away,15580,28600,Lipscomb,9,True,5,7,-2,loss,5 - 7,5012034,169,1,2.1,0,3,1,1,1,3,0,11,9,1,0,0,0,0,0,0,2,1,0,1,52,1,3,0,0,0,2,3,0,2306128,2021
-03/07/2021,away,15580,464,Omaha,9,True,2,5,-3,loss,2 - 5,5018244,169,1,2.0,0,1,0,0,0,4,0,7,7,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,3,1,0,2306128,2021
-03/21/2021,away,15580,328,Kansas,9,True,4,7,-3,loss,4 - 7,5033151,169,1,1.2,0,2,5,4,4,0,0,12,7,0,0,0,0,1,0,0,0,0,1,0,42,5,0,0,1,0,1,0,0,2306128,2021
-05/01/2021,home,15580,603,St. John's (NY),9,True,1,4,-3,loss,1 - 4,5071508,169,1,1.0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,10,2,0,0,0,0,4,0,0,2306128,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/28/2021,away,15580,28600,Lipscomb,9,True,5,7,-2,loss,5 - 7,5012034,169,1,0,2.1,0.0,3,1,1,1,3,0,11,9,1,0,0,0,0,0,0,2,1,0,1,52,1,3,0,0,0,2,3,0,2306128,2021
+03/07/2021,away,15580,464,Omaha,9,True,2,5,-3,loss,2 - 5,5018244,169,1,0,2.0,0.0,1,0,0,0,4,0,7,7,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,3,1,0,2306128,2021
+03/21/2021,away,15580,328,Kansas,9,True,4,7,-3,loss,4 - 7,5033151,169,1,1,1.2,0.0,2,5,4,4,0,0,12,7,0,0,0,0,1,0,0,0,0,1,0,42,5,0,0,1,0,1,0,0,2306128,2021
+05/01/2021,home,15580,603,St. John's (NY),9,True,1,4,-3,loss,1 - 4,5071508,169,1,0,1.0,0.0,0,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,10,2,0,0,0,0,4,0,0,2306128,2021

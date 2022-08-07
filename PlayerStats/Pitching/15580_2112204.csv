@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/20/2021,home,15580,81,Bryant,9,True,6,7,-1,loss,6 - 7,5004124,19651,1,4.2,0,4,3,1,1,6,0,19,18,2,0,0,0,2,0,0,0,0,0,0,74,3,4,0,0,0,1,0,0,2112204,2021
-03/06/2021,home,15580,456,UNC Asheville,9,True,12,6,6,win,12 - 6,5016978,19651,1,4.0,0,4,2,2,2,5,0,17,15,1,0,0,0,1,0,0,0,0,0,0,67,2,4,0,0,0,1,3,0,2112204,2021
-03/13/2021,home,15580,563,Radford,9,True,5,9,-4,loss,5 - 9,5023677,19651,1,4.1,0,4,4,2,1,2,0,19,15,0,0,0,0,0,0,0,0,0,2,1,60,5,4,0,1,0,1,1,1,2112204,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/20/2021,home,15580,81,Bryant,9,True,6,7,-1,loss,6 - 7,5004124,19651,1,1,4.2,0.0,4,3,1,1,6,0,19,18,2,0,0,0,2,0,0,0,0,0,0,74,3,4,0,0,0,1,0,0,2112204,2021
+03/06/2021,home,15580,456,UNC Asheville,9,True,12,6,6,win,12 - 6,5016978,19651,1,1,4.0,0.0,4,2,2,2,5,0,17,15,1,0,0,0,1,0,0,0,0,0,0,67,2,4,0,0,0,1,3,0,2112204,2021
+03/13/2021,home,15580,563,Radford,9,True,5,9,-4,loss,5 - 9,5023677,19651,1,1,4.1,0.0,4,4,2,1,2,0,19,15,0,0,0,0,0,0,0,0,0,2,1,60,5,4,0,1,0,1,1,1,2112204,2021

@@ -194,10 +194,10 @@ def splitPitchingStats():
 
 def main():
     print('starting up')
-    #mergePitchingLogs()
-    #mergeBattingLogs()
-    #splitBattingStats()
-    #splitPitchingStats()
+    # mergePitchingLogs()
+    # mergeBattingLogs()
+    # splitBattingStats()
+    # splitPitchingStats()
     #schools =getSchoolList()
     #print(schools)
 
@@ -209,7 +209,7 @@ def main():
     # tm = "Boise St."
     # df = ncaa.ncaa_team_season_roster(tm, sea)
     # print(df)
-    getSeasonGbgStats(2022)
+    #getSeasonGbgStats(2022)
     getSeasonGbgStats(2021)
     getSeasonGbgStats(2020)
     getSeasonGbgStats(2019)

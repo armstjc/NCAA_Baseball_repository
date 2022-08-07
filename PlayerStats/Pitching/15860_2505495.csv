@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/18/2022,away,15860,254,Georgia St.,9,True,2,13,-11,loss,2 - 13,5207541,308,1,0.1,0,1,0,0,0,1,0,3,2,0,0,0,0,0,1,0,1,1,0,0,8,0,0,0,0,0,4,0,0,2505495,2022
-02/27/2022,away,15860,30135,California Baptist,9,True,1,11,-10,loss,1 - 11,5218510,308,1,0.1,0,0,0,0,2,1,0,4,2,0,0,0,0,0,0,0,2,2,0,0,22,0,0,0,0,0,7,0,0,2505495,2022
-03/09/2022,away,15860,306,Indiana,9,True,2,12,-10,loss,2 - 12,5229613,308,1,1.0,0,5,1,1,0,1,0,7,7,0,0,0,1,0,0,0,0,0,0,0,25,1,0,0,0,0,7,0,0,2505495,2022
-03/20/2022,home,15860,817,Youngstown St.,9,True,6,12,-6,loss,6 - 12,5241281,308,1,0.0,0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2505495,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/18/2022,away,15860,254,Georgia St.,9,True,2,13,-11,loss,2 - 13,5207541,308,1,0,0.1,0.0,1,0,0,0,1,0,3,2,0,0,0,0,0,1,0,1,1,0,0,8,0,0,0,0,0,4,0,0,2505495,2022
+02/27/2022,away,15860,30135,California Baptist,9,True,1,11,-10,loss,1 - 11,5218510,308,1,0,0.1,0.0,0,0,0,2,1,0,4,2,0,0,0,0,0,0,0,2,2,0,0,22,0,0,0,0,0,7,0,0,2505495,2022
+03/09/2022,away,15860,306,Indiana,9,True,2,12,-10,loss,2 - 12,5229613,308,1,0,1.0,0.0,5,1,1,0,1,0,7,7,0,0,0,1,0,0,0,0,0,0,0,25,1,0,0,0,0,7,0,0,2505495,2022
+03/20/2022,home,15860,817,Youngstown St.,9,True,6,12,-6,loss,6 - 12,5241281,308,1,0,0.0,0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2505495,2022

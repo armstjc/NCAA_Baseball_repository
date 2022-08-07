@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/05/2022,away,15860,756,Washington,9,True,0,7,-7,loss,0 - 7,5227370,813,1,0.1,0,1,1,1,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,0,5,0,0,2462598,2022
-03/20/2022,away,15860,30135,California Baptist,9,True,1,23,-22,loss,1 - 23,5241194,813,1,0.1,0,2,5,5,3,0,0,8,3,0,0,0,2,1,2,0,0,0,0,0,30,1,0,0,0,0,4,0,0,2462598,2022
-04/29/2022,home,15860,540,Penn,9,True,4,27,-23,loss,4 - 27,5278770,813,1,0.2,0,0,2,2,2,0,0,5,2,0,0,0,0,1,1,0,2,2,0,0,0,1,1,0,0,0,4,0,0,2462598,2022
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/05/2022,away,15860,756,Washington,9,True,0,7,-7,loss,0 - 7,5227370,813,1,0,0.1,0.0,1,1,1,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,0,5,0,0,2462598,2022
+03/20/2022,away,15860,30135,California Baptist,9,True,1,23,-22,loss,1 - 23,5241194,813,1,0,0.1,0.0,2,5,5,3,0,0,8,3,0,0,0,2,1,2,0,0,0,0,0,30,1,0,0,0,0,4,0,0,2462598,2022
+04/29/2022,home,15860,540,Penn,9,True,4,27,-23,loss,4 - 27,5278770,813,1,0,0.2,0.0,0,2,2,2,0,0,5,2,0,0,0,0,1,1,0,2,2,0,0,0,1,1,0,0,0,4,0,0,2462598,2022

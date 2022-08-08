@@ -217,9 +217,9 @@ def main():
     getSeasonGbgStats(2017)
     getSeasonGbgStats(2016)
     getSeasonGbgStats(2015)
-    getSeasonGbgStats(2014)
-    getSeasonGbgStats(2013)
-    getSeasonGbgStats(2012)
+    #getSeasonGbgStats(2014)
+    #getSeasonGbgStats(2013)
+    #getSeasonGbgStats(2012)
     
 if __name__ == "__main__":
     main()

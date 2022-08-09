@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/10/2021,away,15580,7,Alabama St.,9,True,3,11,-8,loss,3 - 11,5021117,625,1,0.0,0,1,2,2,0,0,0,2,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,0,0,2493715,2021
-03/16/2021,away,15580,430,Mississippi St.,9,True,2,10,-8,loss,2 - 10,5027788,625,1,0.0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,2,0,0,0,0,0,5,0,0,2493715,2021
-04/13/2021,away,15580,8,Alabama,9,True,3,19,-16,loss,3 - 19,5055727,625,1,0.1,0,2,2,0,1,1,0,5,4,0,0,0,0,0,0,0,1,1,0,0,14,0,0,0,0,0,10,0,0,2493715,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/10/2021,away,15580,7,Alabama St.,9,True,3,11,-8,loss,3 - 11,5021117,625,1,0,0.0,0.0,1,2,2,0,0,0,2,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,0,0,2493715,2021
+03/16/2021,away,15580,430,Mississippi St.,9,True,2,10,-8,loss,2 - 10,5027788,625,1,0,0.0,0.0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,2,0,0,0,0,0,5,0,0,2493715,2021
+04/13/2021,away,15580,8,Alabama,9,True,3,19,-16,loss,3 - 19,5055727,625,1,0,0.1,0.0,2,2,0,1,1,0,5,4,0,0,0,0,0,0,0,1,1,0,0,14,0,0,0,0,0,10,0,0,2493715,2021

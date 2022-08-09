@@ -1,3 +1,3 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/09/2021,home,15580,14,UAlbany,9,True,10,1,9,win,10 - 1,5037163,500,1,1.0,0,0,0,0,3,1,0,6,3,0,0,0,0,0,0,0,0,0,0,0,29,2,0,0,0,0,4,0,0,1991653,2021
-05/08/2021,home,15580,283,Hofstra,9,True,14,8,6,win,14 - 8,5075613,500,1,0.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,4,1,0,1991653,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/09/2021,home,15580,14,UAlbany,9,True,10,1,9,win,10 - 1,5037163,500,1,0,1.0,0.0,0,0,0,3,1,0,6,3,0,0,0,0,0,0,0,0,0,0,0,29,2,0,0,0,0,4,0,0,1991653,2021
+05/08/2021,home,15580,283,Hofstra,9,True,14,8,6,win,14 - 8,5075613,500,1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,4,1,0,1991653,2021

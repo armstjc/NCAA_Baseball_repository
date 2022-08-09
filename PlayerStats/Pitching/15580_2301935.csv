@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/24/2021,home,15580,2915,Wofford,9,True,4,11,-7,loss,4 - 11,5007240,1320,1,1.0,0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,2301935,2021
-03/23/2021,away,15580,10411,USC Upstate,9,True,0,13,-13,loss,0 - 13,5034877,1320,1,0.1,0,2,4,4,1,0,0,5,3,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,0,2301935,2021
-04/20/2021,home,15580,10411,USC Upstate,9,True,8,11,-3,loss,8 - 11,5062168,1320,1,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,5,1,0,0,0,0,7,0,0,2301935,2021
-04/25/2021,home,15580,115,Campbell,9,True,5,21,-16,loss,5 - 21,5066427,1320,1,0.1,0,3,4,4,0,0,0,6,4,1,0,0,2,0,2,0,3,3,0,0,24,0,1,0,0,0,6,0,0,2301935,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/24/2021,home,15580,2915,Wofford,9,True,4,11,-7,loss,4 - 11,5007240,1320,1,0,1.0,0.0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,2301935,2021
+03/23/2021,away,15580,10411,USC Upstate,9,True,0,13,-13,loss,0 - 13,5034877,1320,1,0,0.1,0.0,2,4,4,1,0,0,5,3,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,0,2301935,2021
+04/20/2021,home,15580,10411,USC Upstate,9,True,8,11,-3,loss,8 - 11,5062168,1320,1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,5,1,0,0,0,0,7,0,0,2301935,2021
+04/25/2021,home,15580,115,Campbell,9,True,5,21,-16,loss,5 - 21,5066427,1320,1,0,0.1,0.0,3,4,4,0,0,0,6,4,1,0,0,2,0,2,0,3,3,0,0,24,0,1,0,0,0,6,0,0,2301935,2021

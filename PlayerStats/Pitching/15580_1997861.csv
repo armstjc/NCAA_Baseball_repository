@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/20/2021,home,15580,439,Monmouth,9,True,5,8,-3,loss,5 - 8,5032084,562,1,0.1,0,0,1,1,1,1,0,3,1,0,0,0,0,0,1,0,1,0,0,0,9,0,0,0,0,0,4,1,0,1997861,2021
-03/27/2021,away,15580,576,Rider,9,True,6,12,-6,loss,6 - 12,5038122,562,1,0.2,0,0,1,1,1,1,0,4,1,0,0,0,0,1,1,0,0,0,0,1,26,0,1,0,0,0,2,0,0,1997861,2021
-04/07/2021,away,15580,220,Fairfield,9,True,6,17,-11,loss,6 - 17,5049321,562,1,1.0,0,2,2,2,1,1,0,6,4,0,1,0,0,0,0,0,0,0,1,0,28,2,0,0,0,0,3,0,0,1997861,2021
-05/14/2021,home,15580,386,Marist,9,True,4,12,-8,loss,4 - 12,5078039,562,1,1.0,0,2,0,0,0,3,0,5,5,0,0,0,0,1,0,0,0,0,0,0,25,0,0,0,0,0,3,1,0,1997861,2021
-05/15/2021,home,15580,386,Marist,9,True,4,9,-5,loss,4 - 9,5081529,562,1,1.0,0,2,3,3,1,2,0,8,5,1,0,0,0,0,2,0,0,0,0,0,33,0,1,0,0,0,3,2,0,1997861,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/20/2021,home,15580,439,Monmouth,9,True,5,8,-3,loss,5 - 8,5032084,562,1,0,0.1,0.0,0,1,1,1,1,0,3,1,0,0,0,0,0,1,0,1,0,0,0,9,0,0,0,0,0,4,1,0,1997861,2021
+03/27/2021,away,15580,576,Rider,9,True,6,12,-6,loss,6 - 12,5038122,562,1,0,0.2,0.0,0,1,1,1,1,0,4,1,0,0,0,0,1,1,0,0,0,0,1,26,0,1,0,0,0,2,0,0,1997861,2021
+04/07/2021,away,15580,220,Fairfield,9,True,6,17,-11,loss,6 - 17,5049321,562,1,0,1.0,0.0,2,2,2,1,1,0,6,4,0,1,0,0,0,0,0,0,0,1,0,28,2,0,0,0,0,3,0,0,1997861,2021
+05/14/2021,home,15580,386,Marist,9,True,4,12,-8,loss,4 - 12,5078039,562,1,0,1.0,0.0,2,0,0,0,3,0,5,5,0,0,0,0,1,0,0,0,0,0,0,25,0,0,0,0,0,3,1,0,1997861,2021
+05/15/2021,home,15580,386,Marist,9,True,4,9,-5,loss,4 - 9,5081529,562,1,0,1.0,0.0,2,3,3,1,2,0,8,5,1,0,0,0,0,2,0,0,0,0,0,33,0,1,0,0,0,3,2,0,1997861,2021

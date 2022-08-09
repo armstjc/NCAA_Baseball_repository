@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+02/22/2021,away,15580,664,Southern Miss.,9,True,0,10,-10,loss,0 - 10,5005592,508,1,0,3.0,0.0,2,2,0,1,1,0,13,11,0,0,0,1,0,0,0,2,2,0,1,39,2,6,0,0,0,2,1,0,2129261,2021
+03/05/2021,home,15580,43,Austin Peay,9,True,10,8,2,win,10 - 8,5025026,508,1,0,1.0,0.0,4,5,5,0,0,0,8,7,0,1,0,0,0,1,0,0,0,0,0,28,1,2,0,0,0,2,0,0,2129261,2021
+03/21/2021,away,15580,624,Sam Houston,9,True,3,6,-3,loss,3 - 6,5033718,508,1,0,0.1,0.0,2,2,2,0,0,0,4,3,0,1,0,1,0,1,0,0,0,0,0,13,1,0,0,0,0,3,0,0,2129261,2021
+04/10/2021,home,15580,346,Lamar University,9,True,4,16,-12,loss,4 - 16,5054148,508,1,0,1.2,0.0,4,4,2,3,2,0,12,9,1,1,0,0,2,0,0,2,2,0,0,48,0,2,0,0,0,3,0,0,2129261,2021

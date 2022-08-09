@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/21/2021,away,15580,576,Rider,9,True,0,9,-9,loss,0 - 9,5032589,482,1,1.0,0,2,3,3,1,0,0,6,4,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,4,0,0,2119312,2021
-04/10/2021,away,15580,617,Saint Peter's,9,True,12,1,11,win,12 - 1,5052165,482,1,1.0,0,1,0,0,0,3,0,4,4,0,0,0,0,1,0,0,0,0,0,0,21,0,0,0,0,0,2,1,0,2119312,2021
-04/14/2021,home,15580,116,Canisius,9,True,2,20,-18,loss,2 - 20,5056122,482,1,2.0,0,3,3,3,2,2,0,11,8,0,0,0,0,0,1,0,3,3,0,0,0,3,0,0,0,0,3,0,0,2119312,2021
-04/24/2021,away,15580,386,Marist,9,True,3,14,-11,loss,3 - 14,5065540,482,1,0.2,0,0,1,1,2,2,0,4,2,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,6,2,0,2119312,2021
-05/09/2021,home,15580,220,Fairfield,9,True,8,10,-2,loss,8 - 10,5076215,482,1,4.1,0,5,4,2,0,3,0,18,18,0,0,0,1,0,0,0,0,0,0,0,0,2,7,0,0,0,1,0,0,2119312,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/21/2021,away,15580,576,Rider,9,True,0,9,-9,loss,0 - 9,5032589,482,1,0,1.0,0.0,2,3,3,1,0,0,6,4,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,4,0,0,2119312,2021
+04/10/2021,away,15580,617,Saint Peter's,9,True,12,1,11,win,12 - 1,5052165,482,1,0,1.0,0.0,1,0,0,0,3,0,4,4,0,0,0,0,1,0,0,0,0,0,0,21,0,0,0,0,0,2,1,0,2119312,2021
+04/14/2021,home,15580,116,Canisius,9,True,2,20,-18,loss,2 - 20,5056122,482,1,0,2.0,0.0,3,3,3,2,2,0,11,8,0,0,0,0,0,1,0,3,3,0,0,0,3,0,0,0,0,3,0,0,2119312,2021
+04/24/2021,away,15580,386,Marist,9,True,3,14,-11,loss,3 - 14,5065540,482,1,0,0.2,0.0,0,1,1,2,2,0,4,2,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,6,2,0,2119312,2021
+05/09/2021,home,15580,220,Fairfield,9,True,8,10,-2,loss,8 - 10,5076215,482,1,1,4.1,0.0,5,4,2,0,3,0,18,18,0,0,0,1,0,0,0,0,0,0,0,0,2,7,0,0,0,1,0,0,2119312,2021

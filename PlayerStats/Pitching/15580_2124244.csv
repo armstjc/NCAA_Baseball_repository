@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/13/2021,home,15580,327,Kansas St.,9,True,3,8,-5,loss,3 - 8,5024288,574,1,0.2,0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,3,1,0,0,0,1,1,0,0,0,4,0,0,21242440,2021
-03/17/2021,away,15580,670,Texas St.,9,True,5,16,-11,loss,5 - 16,5028715,574,1,1.0,0,2,0,0,1,2,0,6,5,0,0,0,0,0,0,0,0,0,0,0,27,0,1,0,0,0,5,1,0,21242440,2021
-03/26/2021,home,15580,706,UTSA,9,True,4,16,-12,loss,4 - 16,5037820,574,1,1.0,0,0,1,1,4,0,0,8,3,0,0,0,0,2,1,0,0,0,0,0,39,1,2,0,0,0,3,0,0,21242440,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/13/2021,home,15580,327,Kansas St.,9,True,3,8,-5,loss,3 - 8,5024288,574,1,0,0.2,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,3,1,0,0,0,1,1,0,0,0,4,0,0,2124244,2021
+03/17/2021,away,15580,670,Texas St.,9,True,5,16,-11,loss,5 - 16,5028715,574,1,0,1.0,0.0,2,0,0,1,2,0,6,5,0,0,0,0,0,0,0,0,0,0,0,27,0,1,0,0,0,5,1,0,2124244,2021
+03/26/2021,home,15580,706,UTSA,9,True,4,16,-12,loss,4 - 16,5037820,574,1,0,1.0,0.0,0,1,1,4,0,0,8,3,0,0,0,0,2,1,0,0,0,0,0,39,1,2,0,0,0,3,0,0,2124244,2021

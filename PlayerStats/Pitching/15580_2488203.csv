@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/01/2021,away,15580,108,UC Davis,9,True,1,8,-7,loss,1 - 8,5012391,551,1,2.0,0,2,2,2,1,1,0,12,8,0,0,0,0,1,3,0,0,0,0,0,40,2,3,0,0,0,4,0,0,2488203,2021
-03/13/2021,home,15580,30024,Utah Valley,9,True,6,5,1,win,6 - 5,5024860,551,1,2.0,0,3,3,3,1,1,0,10,8,0,0,0,1,0,1,0,0,0,0,0,0,3,1,0,0,0,1,0,0,2488203,2021
-03/23/2021,away,15580,529,Oregon,9,True,1,10,-9,loss,1 - 10,5035093,551,1,0.0,0,0,2,0,3,0,0,3,0,0,0,0,0,2,0,0,2,2,0,0,16,0,0,0,0,0,2,0,0,2488203,2021
-04/14/2021,home,15580,529,Oregon,9,True,1,18,-17,loss,1 - 18,5060815,551,1,2.0,0,5,4,4,2,2,0,14,11,1,0,0,1,0,1,0,0,0,0,0,0,1,3,0,0,0,3,0,0,2488203,2021
-05/18/2021,home,15580,528,Oregon St.,9,True,7,2,5,win,7 - 2,5079628,551,1,3.0,0,1,0,0,1,5,0,13,11,0,0,0,0,0,1,0,0,0,0,0,57,1,3,1,0,0,2,0,0,2488203,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/01/2021,away,15580,108,UC Davis,9,True,1,8,-7,loss,1 - 8,5012391,551,1,0,2.0,0.0,2,2,2,1,1,0,12,8,0,0,0,0,1,3,0,0,0,0,0,40,2,3,0,0,0,4,0,0,2488203,2021
+03/13/2021,home,15580,30024,Utah Valley,9,True,6,5,1,win,6 - 5,5024860,551,1,1,2.0,0.0,3,3,3,1,1,0,10,8,0,0,0,1,0,1,0,0,0,0,0,0,3,1,0,0,0,1,0,0,2488203,2021
+03/23/2021,away,15580,529,Oregon,9,True,1,10,-9,loss,1 - 10,5035093,551,1,0,0.0,0.0,0,2,0,3,0,0,3,0,0,0,0,0,2,0,0,2,2,0,0,16,0,0,0,0,0,2,0,0,2488203,2021
+04/14/2021,home,15580,529,Oregon,9,True,1,18,-17,loss,1 - 18,5060815,551,1,0,2.0,0.0,5,4,4,2,2,0,14,11,1,0,0,1,0,1,0,0,0,0,0,0,1,3,0,0,0,3,0,0,2488203,2021
+05/18/2021,home,15580,528,Oregon St.,9,True,7,2,5,win,7 - 2,5079628,551,1,0,3.0,0.0,1,0,0,1,5,0,13,11,0,0,0,0,0,1,0,0,0,0,0,57,1,3,1,0,0,2,0,0,2488203,2021

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/21/2021,home,15580,285,Holy Cross,9,True,11,9,2,win,11 - 9,5042191,342,1,1.0,0,0,2,2,4,0,0,8,3,0,0,0,0,2,1,0,3,2,0,0,0,1,2,0,0,0,5,0,0,2310644,2021
-03/23/2021,home,15580,328,Kansas,9,True,5,20,-15,loss,5 - 20,5042236,342,1,1.0,0,2,2,2,2,3,0,8,6,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,2310644,2021
-04/11/2021,away,15580,726,Navy,9,True,8,10,-2,loss,8 - 10,5054062,342,1,0.0,0,2,4,3,3,0,0,6,2,0,0,0,0,0,0,0,0,0,1,0,31,0,0,0,0,0,2,0,0,2310644,2021
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
+03/21/2021,home,15580,285,Holy Cross,9,True,11,9,2,win,11 - 9,5042191,342,1,0,1.0,0.0,0,2,2,4,0,0,8,3,0,0,0,0,2,1,0,3,2,0,0,0,1,2,0,0,0,5,0,0,2310644,2021
+03/23/2021,home,15580,328,Kansas,9,True,5,20,-15,loss,5 - 20,5042236,342,1,0,1.0,0.0,2,2,2,2,3,0,8,6,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,2310644,2021
+04/11/2021,away,15580,726,Navy,9,True,8,10,-2,loss,8 - 10,5054062,342,1,0,0.0,0.0,2,4,3,3,0,0,6,2,0,0,0,0,0,0,0,0,0,1,0,31,0,0,0,0,0,2,0,0,2310644,2021

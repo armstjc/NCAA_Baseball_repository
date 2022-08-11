@@ -6,6 +6,8 @@ import glob
 from tqdm import tqdm
 import pandas as pd
 import numpy as np
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 
 def getSchoolList():
     schools = datasets.get_school_table()
@@ -211,12 +213,12 @@ def main():
     # print(df)
     #getSeasonGbgStats(2022)
     getSeasonGbgStats(2021)
-    getSeasonGbgStats(2020)
-    getSeasonGbgStats(2019)
-    getSeasonGbgStats(2018)
-    getSeasonGbgStats(2017)
-    getSeasonGbgStats(2016)
-    getSeasonGbgStats(2015)
+    #getSeasonGbgStats(2020)
+    #getSeasonGbgStats(2019)
+    #getSeasonGbgStats(2018)
+    #getSeasonGbgStats(2017)
+    #getSeasonGbgStats(2016)
+    #getSeasonGbgStats(2015)
     #getSeasonGbgStats(2014)
     #getSeasonGbgStats(2013)
     #getSeasonGbgStats(2012)

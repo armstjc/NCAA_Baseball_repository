@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/17/2017,home,12560,308,Purdue Fort Wayne,9,True,8,6,2,win,8 - 6,205859,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1773878,2017
 02/18/2017,home,12560,308,Purdue Fort Wayne,9,True,5,3,2,win,5 - 3,206308,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1773878,2017
 02/19/2017,home,12560,308,Purdue Fort Wayne,9,True,1,15,-14,loss,1 - 15,206475,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1773878,2017

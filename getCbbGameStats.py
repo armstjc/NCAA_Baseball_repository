@@ -1,3 +1,4 @@
+from operator import index
 from collegebaseball import ncaa_scraper as ncaa
 from collegebaseball import datasets
 from datetime import date
@@ -29,7 +30,7 @@ def getSchoolAllTimeRoster(school='Ohio'):
     maxSeason = now.year
     #print(minSeason,maxSeason)
     rost = ncaa.ncaa_team_roster(school,range(minSeason,maxSeason))
-    rost.to_csv(f'TeamRosters/{schoolID}.csv',index=False)
+    #rost.to_csv(f'TeamRosters/{schoolID}.csv',index=False)
     print(rost)
     return rost
 
@@ -42,7 +43,9 @@ def getAllGbgStats():
     schools =getSchoolList()
     #print(schools)
     hasRoster = True
-    for i in schools.T:
+
+    for s in range(7,len(schools)):
+        i = schools[s]
         print(i)
         try:
             rost = getSchoolAllTimeRoster(i)
@@ -57,7 +60,7 @@ def getAllGbgStats():
             print(f'Could not retrive the rosters for {i}.')
         count = 0
         if hasRoster == True:
-            for j in rost.index:
+            for j in tqdm(rost.index):
                 count += 1
                 
                 season_id = arr_season_id[j]
@@ -65,22 +68,30 @@ def getAllGbgStats():
                 player_name = arr_player_name[j]
                 player_id = arr_player_id[j]
                 print(f'{count}/{maxRost} {season_id} {player_name}')
-                data_b = ncaa.get_gbg_stats(school=school_name, player=player_name, season=season_id, variant='batting')
-                data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv')
+                data_b = ncaa.ncaa_player_game_logs(school=school_name, player=player_name, season=season_id, variant='batting')
+                try:
+                    if (len(data_b)==0):
+                    #print('Nothing to save')
+                        print('')
+                    else:
+                        data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv',index=False)
+                except:
+                    pass
                 #print(data_b)
 
-                data_p = ncaa.get_gbg_stats(school=school_name, player=player_name, season=season_id, variant='pitching')
+                data_p = ncaa.ncaa_player_game_logs(school=school_name, player=player_name, season=season_id, variant='pitching')
                 try:
                     data_p = data_p[data_p['OrdAppeared'] != 0]
+                    if (len(data_p)==0):
+                        #print('Nothing to save')
+                        print('')
+                    else:
+                        data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
+                        #print(data_p)
                 except:
                     pass
 
-                if (len(data_p)==0):
-                    #print('Nothing to save')
-                    print('')
-                else:
-                    data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv')
-                    #print(data_p)
+                
                 time.sleep(4)
 
 def getSeasonGbgStats(season=2020):
@@ -118,23 +129,14 @@ def getSeasonGbgStats(season=2020):
                 player_id = rost['stats_player_seq'][j]
                 print(f'{count}/{maxRost} {school_name} {season} {player_name}')
                 data_b = ncaa.ncaa_player_game_logs(school=school_name, player=player_name, season=season_id, variant='batting')
-                try:
+                
+                if len(data_b) > 0:
                     data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv',index=False)
-                except:
-                    pass
-                #print(data_b)
-
+            
                 data_p = ncaa.ncaa_player_game_logs(school=school_name, player=player_name, season=season_id, variant='pitching')
-                try:
-                    data_p = data_p[data_p['OrdAppeared'] != 0]
-                except:
-                    pass
 
-                try:
-                    data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
-                except:
-                    pass
-                    #print(data_p)
+                data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
+                
                 time.sleep(5)
 
 def mergeFiles(filePath=""):
@@ -196,23 +198,9 @@ def splitPitchingStats():
 
 def main():
     print('starting up')
-    # mergePitchingLogs()
-    # mergeBattingLogs()
-    # splitBattingStats()
-    # splitPitchingStats()
-    #schools =getSchoolList()
-    #print(schools)
-
-    # for i in schools.T:
-    #     print(i)
-    #     rost = getSchoolAllTimeRoster(i)
-        #rost.to_csv(f'TeamRosters/{i}.csv')
-    # sea = 2022
-    # tm = "Boise St."
-    # df = ncaa.ncaa_team_season_roster(tm, sea)
-    # print(df)
+    getAllGbgStats()
     #getSeasonGbgStats(2022)
-    getSeasonGbgStats(2021)
+    #getSeasonGbgStats(2021)
     #getSeasonGbgStats(2020)
     #getSeasonGbgStats(2019)
     #getSeasonGbgStats(2018)

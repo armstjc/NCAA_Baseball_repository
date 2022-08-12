@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,536,UTRGV,9,True,5,2,3,win,5 - 2,292500,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1547059,2016
 02/20/2016,home,12360,536,UTRGV,9,True,7,2,5,win,7 - 2,292818,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1547059,2016
 02/20/2016,home,12360,536,UTRGV,9,True,3,1,2,win,3 - 1,292926,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1547059,2016

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,72,Bradley,9,True,7,1,6,win,7 - 1,292430,43,0,4,1,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,1529760,2016
 02/20/2016,home,12360,72,Bradley,9,True,8,4,4,win,8 - 4,292680,43,1,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1529760,2016
 02/21/2016,home,12360,72,Bradley,9,True,7,9,-2,loss,7 - 9,293133,43,2,5,4,3,0,0,1,4,0,0,0,0,0,0,0,0,0,0,1529760,2016
@@ -8,7 +8,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 02/28/2016,home,12360,669,Missouri St.,9,True,4,11,-7,loss,4 - 11,294304,43,1,4,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1529760,2016
 03/02/2016,away,12360,334,Kentucky,9,True,2,3,-1,loss,2 - 3,294891,43,0,4,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1529760,2016
 03/04/2016,away,12360,406,Mercer,9,True,10,7,3,win,10 - 7,295236,43,1,3,1,0,0,0,1,1,2,0,0,0,1,0,0,0,0,0,1529760,2016
-03/05/2016,away,12360,406,Mercer,9,True,12,13,-1,loss,12 - 13,295757,43,2,3,2,0,0,0,1,4,2,0,0,0,1,0,0,0,0,0,1529760,2016
+03/05/2016,away,12360,406,Mercer,9,True,12,13,-1,loss,12 - 13,295757,43,2,3,2,0,0,0,1,4,2,0,0,0,1,0,0,0,0,1,1529760,2016
 03/06/2016,away,12360,406,Mercer,9,True,4,14,-10,loss,4 - 14,296151,43,2,3,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1529760,2016
 03/11/2016,home,12360,201,Eastern Ill.,9,True,5,3,2,win,5 - 3,296833,43,2,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1529760,2016
 03/12/2016,home,12360,201,Eastern Ill.,9,True,13,6,7,win,13 - 6,297622,43,1,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1529760,2016

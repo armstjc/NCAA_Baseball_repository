@@ -44,7 +44,7 @@ def getAllGbgStats():
     #print(schools)
     hasRoster = True
 
-    for s in range(7,len(schools)):
+    for s in range(27,len(schools)):
         i = schools[s]
         print(i)
         try:
@@ -62,11 +62,22 @@ def getAllGbgStats():
         if hasRoster == True:
             for j in tqdm(rost.index):
                 count += 1
-                
-                season_id = arr_season_id[j]
-                school_name = arr_school_name[j]
-                player_name = arr_player_name[j]
-                player_id = arr_player_id[j]
+                try:
+                    season_id = arr_season_id[j]
+                except:
+                    season_id = 0
+                try:
+                    school_name = arr_school_name[j]
+                except:
+                    school_name = 0
+                try:
+                    player_name = arr_player_name[j]
+                except:
+                    player_name = 0
+                try:                    
+                    player_id = arr_player_id[j]
+                except:
+                    player_id = 0
                 print(f'{count}/{maxRost} {season_id} {player_name}')
                 data_b = ncaa.ncaa_player_game_logs(school=school_name, player=player_name, season=season_id, variant='batting')
                 try:

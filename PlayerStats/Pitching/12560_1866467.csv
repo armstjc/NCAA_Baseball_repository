@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/17/2017,home,12560,482,Niagara,9,True,7,3,4,win,7 - 3,205842,51,0,0,0.2,0.0,2,2,2,2,0,0,7,4,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,3,0,1866467,2017
+02/28/2017,home,12560,2678,Ark.-Pine Bluff,9,True,17,3,14,win,17 - 3,208025,51,0,0,1.0,0.0,0,0,0,1,0,0,4,2,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,5,0,1866467,2017
+03/28/2017,home,12560,706,UTSA,9,True,9,15,-6,loss,9 - 15,214800,51,0,0,2.0,0.0,4,3,2,0,0,0,10,9,0,0,0,1,1,0,0,0,0,0,1,0,2,4,0,0,0,3,0,1866467,2017
+04/05/2017,home,12560,346,Lamar University,9,True,1,11,-10,loss,1 - 11,216852,51,0,0,0.1,0.0,3,3,3,0,0,0,4,4,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,1866467,2017
+05/10/2017,home,12560,553,Prairie View,9,True,18,1,17,win,18 - 1,225861,51,0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1866467,2017

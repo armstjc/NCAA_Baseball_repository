@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/03/2016,home,12360,434,Missouri,9,True,1,10,-9,loss,1 - 10,303272,31,0,0,1.0,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,3,0,0,0,7,1,1,0,0,0,6,0,1758232,2016
+04/08/2016,away,12360,433,Ole Miss,9,True,3,7,-4,loss,3 - 7,303985,31,0,0,1.0,0.0,0,0,0,1,1,0,5,3,0,0,0,0,1,1,1,0,0,0,0,0,0,2,0,0,0,3,1,1758232,2016
+04/15/2016,home,12360,235,Florida,9,True,2,9,-7,loss,2 - 9,306137,31,0,0,1.0,0.0,1,1,1,1,0,0,4,3,0,0,0,0,1,0,0,0,0,0,0,16,2,0,0,0,0,4,0,1758232,2016
+05/08/2016,away,12360,365,LSU,9,True,1,7,-6,loss,1 - 7,312385,31,0,0,0.1,0.0,2,1,1,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,0,1,0,0,0,4,0,1758232,2016

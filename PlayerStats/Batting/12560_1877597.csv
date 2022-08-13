@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/17/2017,away,12560,366,Louisiana Tech,9,True,0,11,-11,loss,0 - 11,205902,2678,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1877597,2017
 02/18/2017,away,12560,366,Louisiana Tech,9,True,3,13,-10,loss,3 - 13,206090,2678,0,3,2,0,0,2,0,2,0,0,0,0,1,0,0,0,0,0,1877597,2017
 02/19/2017,away,12560,366,Louisiana Tech,9,True,1,16,-15,loss,1 - 16,206526,2678,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1877597,2017

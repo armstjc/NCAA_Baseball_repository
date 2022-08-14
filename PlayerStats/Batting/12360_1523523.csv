@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,away,12360,101,CSUN,9,True,8,5,3,win,8 - 5,292431,94,0,4,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1523523,2016
 02/20/2016,home,12360,101,CSUN,9,True,5,7,-2,loss,5 - 7,292723,94,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1523523,2016
 02/21/2016,away,12360,101,CSUN,9,True,5,3,2,win,5 - 3,293134,94,0,4,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1523523,2016

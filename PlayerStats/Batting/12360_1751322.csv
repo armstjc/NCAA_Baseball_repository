@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,609,Saint Louis,9,True,21,7,14,win,21 - 7,292623,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1751322,2016
 02/20/2016,home,12360,609,Saint Louis,9,True,5,0,5,win,5 - 0,293034,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1751322,2016
 02/20/2016,home,12360,609,Saint Louis,9,True,11,3,8,win,11 - 3,293044,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1751322,2016

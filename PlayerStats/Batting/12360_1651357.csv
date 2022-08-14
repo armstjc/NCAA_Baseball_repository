@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/20/2016,away,12360,674,Stanford,9,True,0,2,-2,loss,0 - 2,293065,97,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1651357,2016
 02/20/2016,away,12360,674,Stanford,9,True,1,2,-1,loss,1 - 2,293076,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1651357,2016
 02/21/2016,away,12360,674,Stanford,9,True,4,3,1,win,4 - 3,293149,97,0,4,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1651357,2016
@@ -26,7 +26,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/01/2016,home,12360,101,CSUN,9,True,7,4,3,win,7 - 4,302308,97,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1651357,2016
 04/02/2016,home,12360,101,CSUN,9,True,2,1,1,win,2 - 1,302574,97,0,3,1,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,1651357,2016
 04/03/2016,home,12360,101,CSUN,9,True,8,5,3,win,8 - 5,303160,97,0,4,2,1,0,0,0,3,0,0,0,0,1,0,1,0,0,0,1651357,2016
-04/05/2016,home,12360,627,San Diego,9,True,4,2,2,win,4 - 2,303552,97,0,2,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,1651357,2016
+04/05/2016,home,12360,627,San Diego,9,True,4,2,2,win,4 - 2,303552,97,0,2,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,2,1651357,2016
 04/08/2016,away,12360,90,Cal Poly,9,True,2,1,1,win,2 - 1,304030,97,0,3,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1651357,2016
 04/09/2016,away,12360,90,Cal Poly,10,True,0,1,-1,loss,0 - 1,304332,97,0,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1651357,2016
 04/10/2016,away,12360,90,Cal Poly,9,True,3,6,-3,loss,3 - 6,304839,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1651357,2016

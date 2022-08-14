@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/19/2016,home,12360,522,Oklahoma,9,True,0,13,-13,loss,0 - 13,299293,94,0,0,1.0,0.0,1,0,0,0,2,0,4,4,1,0,0,0,0,0,0,0,0,0,0,14,0,1,0,0,0,4,0,1749377,2016
+03/22/2016,home,12360,104,UC Santa Barbara,9,True,4,10,-6,loss,4 - 10,300022,94,0,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,3,0,1749377,2016
+04/20/2016,home,12360,370,LMU (CA),9,True,5,17,-12,loss,5 - 17,307798,94,0,0,0.1,0.0,0,2,2,3,0,0,5,1,0,0,0,0,0,1,0,0,0,0,0,20,0,1,0,0,0,6,0,1749377,2016
+05/21/2016,home,12360,494,North Dakota,9,True,16,2,14,win,16 - 2,313996,94,0,0,1.0,0.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,20,2,1,1,0,0,3,0,1749377,2016

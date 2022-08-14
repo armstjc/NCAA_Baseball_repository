@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/20/2016,away,12360,674,Stanford,9,True,0,2,-2,loss,0 - 2,293065,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1651369,2016
 02/20/2016,away,12360,674,Stanford,9,True,1,2,-1,loss,1 - 2,293076,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1651369,2016
 02/21/2016,away,12360,674,Stanford,9,True,4,3,1,win,4 - 3,293149,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1651369,2016
@@ -47,7 +47,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 05/08/2016,home,12360,111,UC Riverside,9,True,9,2,7,win,9 - 2,312353,97,1,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1651369,2016
 05/13/2016,away,12360,104,UC Santa Barbara,9,True,2,3,-1,loss,2 - 3,312947,97,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1651369,2016
 05/14/2016,away,12360,104,UC Santa Barbara,9,True,18,2,16,win,18 - 2,313165,97,2,5,3,0,0,0,0,2,1,0,0,0,1,0,0,0,1,0,1651369,2016
-05/15/2016,away,12360,104,UC Santa Barbara,9,True,6,3,3,win,6 - 3,313399,97,0,4,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1651369,2016
+05/15/2016,away,12360,104,UC Santa Barbara,9,True,6,3,3,win,6 - 3,313399,97,0,4,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1651369,2016
 05/20/2016,home,12360,277,Hawaii,9,True,3,6,-3,loss,3 - 6,313790,97,0,3,1,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,1651369,2016
 05/21/2016,home,12360,277,Hawaii,9,True,8,3,5,win,8 - 3,313988,97,1,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1651369,2016
 05/22/2016,home,12360,277,Hawaii,9,True,2,3,-1,loss,2 - 3,314120,97,1,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1651369,2016

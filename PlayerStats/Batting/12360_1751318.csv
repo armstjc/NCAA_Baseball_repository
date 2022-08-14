@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,609,Saint Louis,9,True,21,7,14,win,21 - 7,292623,77,4,5,4,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,1751318,2016
 02/20/2016,home,12360,609,Saint Louis,9,True,5,0,5,win,5 - 0,293034,77,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1751318,2016
 02/20/2016,home,12360,609,Saint Louis,9,True,11,3,8,win,11 - 3,293044,77,2,2,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1751318,2016
@@ -8,7 +8,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 02/26/2016,away,12360,625,Samford,9,True,5,10,-5,loss,5 - 10,293682,77,0,3,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1751318,2016
 02/27/2016,away,12360,625,Samford,9,True,6,4,2,win,6 - 4,293819,77,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1751318,2016
 03/03/2016,away,12360,328,Kansas,9,True,11,10,1,win,11 - 10,294942,77,3,5,4,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,1751318,2016
-03/04/2016,away,12360,328,Kansas,9,True,8,2,6,win,8 - 2,295089,77,1,4,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1751318,2016
+03/04/2016,away,12360,328,Kansas,9,True,8,2,6,win,8 - 2,295089,77,1,4,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,1,1751318,2016
 03/05/2016,away,12360,328,Kansas,9,True,7,6,1,win,7 - 6,295309,77,0,4,1,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,1751318,2016
 03/08/2016,home,12360,30024,Utah Valley,9,True,6,1,5,win,6 - 1,296294,77,1,3,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1751318,2016
 03/10/2016,home,12360,482,Niagara,9,True,14,1,13,win,14 - 1,296708,77,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1751318,2016

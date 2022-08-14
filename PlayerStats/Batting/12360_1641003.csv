@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,721,Air Force,9,True,0,13,-13,loss,0 - 13,292612,86,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1641003,2016
 02/20/2016,away,12360,173,Davidson,9,True,0,5,-5,loss,0 - 5,292679,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1641003,2016
 02/21/2016,home,12360,386,Marist,9,True,3,8,-5,loss,3 - 8,293303,86,0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1641003,2016

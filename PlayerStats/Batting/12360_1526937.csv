@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,534,Pacific,9,True,6,2,4,win,6 - 2,292490,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1526937,2016
 02/20/2016,home,12360,534,Pacific,10,True,7,6,1,win,7 - 6,292809,90,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1526937,2016
 02/20/2016,home,12360,534,Pacific,9,True,6,3,3,win,6 - 3,292918,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1526937,2016

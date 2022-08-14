@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,534,Pacific,9,True,6,2,4,win,6 - 2,292490,90,0,3,1,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,1417107,2016
 02/20/2016,home,12360,534,Pacific,10,True,7,6,1,win,7 - 6,292809,90,1,4,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1417107,2016
 02/20/2016,home,12360,534,Pacific,9,True,6,3,3,win,6 - 3,292918,90,2,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1417107,2016
@@ -27,7 +27,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/03/2016,home,12360,630,San Jose St.,9,True,7,9,-2,loss,7 - 9,303178,90,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1417107,2016
 04/05/2016,away,12360,631,Santa Clara,9,True,1,10,-9,loss,1 - 10,303575,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1417107,2016
 04/08/2016,home,12360,97,Cal St. Fullerton,9,True,1,2,-1,loss,1 - 2,304030,90,0,4,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1417107,2016
-04/09/2016,home,12360,97,Cal St. Fullerton,10,True,1,0,1,win,1 - 0,304332,90,0,4,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1417107,2016
+04/09/2016,home,12360,97,Cal St. Fullerton,10,True,1,0,1,win,1 - 0,304332,90,0,4,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1417107,2016
 04/10/2016,home,12360,97,Cal St. Fullerton,9,True,6,3,3,win,6 - 3,304839,90,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1417107,2016
 04/12/2016,home,12360,107,California,9,True,1,7,-6,loss,1 - 7,305406,90,0,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1417107,2016
 04/15/2016,away,12360,277,Hawaii,9,True,3,6,-3,loss,3 - 6,306028,90,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1417107,2016

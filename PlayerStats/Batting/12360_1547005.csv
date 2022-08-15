@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 03/05/2016,home,12360,500,Northeastern,9,True,0,6,-6,loss,0 - 6,295671,167,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1547005,2016
 03/05/2016,home,12360,500,Northeastern,9,True,7,5,2,win,7 - 5,295694,167,2,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1547005,2016
 03/06/2016,home,12360,500,Northeastern,9,True,0,11,-11,loss,0 - 11,296026,167,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1547005,2016
@@ -18,8 +18,8 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/02/2016,home,12360,275,Harvard,9,True,6,4,2,win,6 - 4,302947,167,0,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,1547005,2016
 04/09/2016,away,12360,80,Brown,9,True,2,4,-2,loss,2 - 4,304436,167,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1547005,2016
 04/09/2016,away,12360,80,Brown,9,True,6,7,-1,loss,6 - 7,304574,167,1,5,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1547005,2016
-04/10/2016,away,12360,813,Yale,11,True,2,4,-2,loss,2 - 4,304936,167,0,3,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1547005,2016
-04/10/2016,away,12360,813,Yale,10,True,8,9,-1,loss,8 - 9,305005,167,1,4,2,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1547005,2016
+04/10/2016,away,12360,813,Yale,11,True,2,4,-2,loss,2 - 4,304936,167,0,3,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,1547005,2016
+04/10/2016,away,12360,813,Yale,10,True,8,9,-1,loss,8 - 9,305005,167,1,4,2,2,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1547005,2016
 04/13/2016,home,12360,62,Binghamton,9,True,3,2,1,win,3 - 2,305670,167,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1547005,2016
 04/16/2016,home,12360,158,Columbia,9,True,9,3,6,win,9 - 3,306554,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1547005,2016
 04/16/2016,home,12360,158,Columbia,9,True,4,14,-10,loss,4 - 14,306800,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1547005,2016

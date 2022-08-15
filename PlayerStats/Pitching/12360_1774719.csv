@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/20/2016,home,12360,639,Siena,9,True,15,0,15,win,15 - 0,292731,128,0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,4,0,1774719,2016
+03/02/2016,away,12360,235,Florida,9,True,0,4,-4,loss,0 - 4,294869,128,0,0,2.0,0.0,0,0,0,3,0,0,10,6,0,0,0,0,0,0,0,0,0,0,0,33,0,6,0,0,0,2,0,1774719,2016
+03/06/2016,away,12360,574,Rice,9,True,10,13,-3,loss,10 - 13,295855,128,0,0,0.0,0.0,0,0,0,2,0,0,2,0,0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,6,0,1774719,2016
+03/27/2016,home,12360,167,Cornell,9,True,16,0,16,win,16 - 0,301629,128,0,0,0.2,0.0,0,0,0,3,0,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,2,0,1774719,2016

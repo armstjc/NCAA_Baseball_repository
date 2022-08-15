@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/26/2016,home,12360,596,St. Bonaventure,9,True,3,0,3,win,3 - 0,293716,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1668795,2016
 02/27/2016,home,12360,596,St. Bonaventure,9,True,1,8,-7,loss,1 - 8,294134,127,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1668795,2016
 02/28/2016,home,12360,596,St. Bonaventure,9,True,2,6,-4,loss,2 - 6,294521,127,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1668795,2016
@@ -46,7 +46,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 05/08/2016,away,12360,222,Fairleigh Dickinson,9,True,2,3,-1,loss,2 - 3,312540,127,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1668795,2016
 05/08/2016,away,12360,222,Fairleigh Dickinson,9,True,1,2,-1,loss,1 - 2,312555,127,0,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1668795,2016
 05/13/2016,away,12360,81,Bryant,9,True,1,9,-8,loss,1 - 9,312926,127,0,4,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1668795,2016
-05/14/2016,away,12360,81,Bryant,9,True,8,4,4,win,8 - 4,313226,127,2,3,2,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1668795,2016
+05/14/2016,away,12360,81,Bryant,9,True,8,4,4,win,8 - 4,313226,127,2,3,2,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1668795,2016
 05/14/2016,away,12360,81,Bryant,9,True,2,9,-7,loss,2 - 9,313242,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1668795,2016
 05/15/2016,away,12360,81,Bryant,9,True,3,9,-6,loss,3 - 9,313377,127,0,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1668795,2016
 05/17/2016,away,12360,272,Hartford,9,True,0,10,-10,loss,0 - 10,313497,127,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1668795,2016

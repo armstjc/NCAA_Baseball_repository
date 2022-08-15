@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/21/2016,home,12360,746,Virginia,9,True,5,4,1,win,5 - 4,293255,149,0,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,9,1,0,0,0,0,2,0,1755323,2016
+02/28/2016,home,12360,193,Duke,9,True,10,6,4,win,10 - 6,294426,149,0,0,0.2,0.0,3,2,2,0,0,0,5,5,0,0,0,0,0,0,0,1,0,0,0,13,1,1,0,0,0,2,0,1755323,2016
+03/02/2016,away,12360,1014,Col. of Charleston,9,True,4,9,-5,loss,4 - 9,294897,149,0,0,3.2,0.0,3,2,2,2,1,0,14,11,0,1,0,0,0,0,0,2,0,1,0,57,4,4,0,0,0,2,0,1755323,2016
+03/08/2016,home,12360,749,Wake Forest,9,True,0,11,-11,loss,0 - 11,296389,149,0,1,0.0,0.0,2,6,6,3,0,0,7,2,0,0,0,0,0,2,0,0,0,0,0,27,0,0,0,1,0,1,0,1755323,2016
+04/24/2016,home,12360,19651,High Point,9,True,17,5,12,win,17 - 5,309245,149,0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,2,2,0,0,11,1,2,0,0,0,2,0,1755323,2016

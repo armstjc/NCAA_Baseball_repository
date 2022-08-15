@@ -1,0 +1,2 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/21/2016,away,12360,365,LSU,9,True,4,12,-8,loss,4 - 12,293204,140,0,0,0.2,0.0,0,0,0,2,0,0,5,2,0,0,0,0,2,1,0,0,0,0,0,20,2,0,0,0,0,6,0,1770161,2016

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/05/2016,home,12360,93,Cal St. San B'dino,9,True,5,3,2,win,5 - 3,291666,30095,1,4,1,0,1,0,0,2,0,0,0,0,2,0,0,0,0,0,1654942,2016
 02/06/2016,home,12360,93,Cal St. San B'dino,9,True,8,2,6,win,8 - 2,291773,30095,1,5,3,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,1654942,2016
 02/06/2016,home,12360,93,Cal St. San B'dino,9,True,14,2,12,win,14 - 2,291837,30095,0,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1654942,2016
@@ -40,7 +40,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/14/2016,home,12360,30146,Azusa Pacific,9,True,4,6,-2,loss,4 - 6,305889,30095,0,5,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1654942,2016
 04/15/2016,home,12360,30146,Azusa Pacific,9,True,1,8,-7,loss,1 - 8,306167,30095,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1654942,2016
 04/15/2016,home,12360,30146,Azusa Pacific,9,True,9,6,3,win,9 - 6,306195,30095,2,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1654942,2016
-04/16/2016,home,12360,30146,Azusa Pacific,10,True,7,6,1,win,7 - 6,306381,30095,2,5,3,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1654942,2016
+04/16/2016,home,12360,30146,Azusa Pacific,10,True,7,6,1,win,7 - 6,306381,30095,2,5,3,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1654942,2016
 04/22/2016,home,12360,2696,Hawaii Pacific,9,True,4,3,1,win,4 - 3,308266,30095,2,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1654942,2016
 04/22/2016,home,12360,2696,Hawaii Pacific,9,True,11,4,7,win,11 - 4,308298,30095,2,2,1,1,0,0,0,0,3,0,0,0,0,0,1,0,0,0,1654942,2016
 04/23/2016,home,12360,2696,Hawaii Pacific,9,True,10,2,8,win,10 - 2,308707,30095,3,4,2,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,1654942,2016

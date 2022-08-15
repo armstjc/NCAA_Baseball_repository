@@ -44,7 +44,7 @@ def getAllGbgStats():
     #print(schools)
     hasRoster = True
 
-    for s in range(42,len(schools)):
+    for s in range(67,len(schools)):
         i = schools[s]
         print(i)
         try:
@@ -210,17 +210,7 @@ def splitPitchingStats():
 def main():
     print('starting up')
     getAllGbgStats()
-    #getSeasonGbgStats(2022)
-    #getSeasonGbgStats(2021)
-    #getSeasonGbgStats(2020)
-    #getSeasonGbgStats(2019)
-    #getSeasonGbgStats(2018)
-    #getSeasonGbgStats(2017)
-    #getSeasonGbgStats(2016)
-    #getSeasonGbgStats(2015)
-    #getSeasonGbgStats(2014)
-    #getSeasonGbgStats(2013)
-    #getSeasonGbgStats(2012)
+
     
 if __name__ == "__main__":
     main()

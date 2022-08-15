@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/25/2017,home,12560,596,St. Bonaventure,9,True,7,8,-1,loss,7 - 8,207541,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1637026,2017
 02/25/2017,home,12560,204,Eastern Mich.,9,True,8,4,4,win,8 - 4,207542,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1637026,2017
 02/26/2017,home,12560,596,St. Bonaventure,9,True,13,1,12,win,13 - 1,207869,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1637026,2017

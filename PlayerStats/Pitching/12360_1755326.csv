@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/20/2016,home,12360,490,NC State,9,True,10,13,-3,loss,10 - 13,292764,149,0,0,1.0,0.0,3,2,2,0,1,0,6,6,1,0,1,0,1,0,0,0,0,0,0,23,0,2,0,0,0,4,0,1755326,2016
+03/02/2016,away,12360,1014,Col. of Charleston,9,True,4,9,-5,loss,4 - 9,294897,149,0,0,0.0,0.0,1,2,2,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,5,0,1755326,2016
+03/09/2016,home,12360,749,Wake Forest,9,True,7,6,1,win,7 - 6,296586,149,0,1,1.1,0.0,1,2,2,5,4,0,12,5,0,0,0,0,2,2,0,0,0,0,0,51,0,0,0,0,0,1,2,1755326,2016

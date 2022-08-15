@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/13/2016,home,12360,222,Fairleigh Dickinson,9,True,24,35,-11,loss,24 - 35,305679,165,0,0,1.1,0.0,6,6,6,0,0,0,11,9,3,0,1,1,0,1,0,2,2,0,1,0,0,4,0,1,0,4,0,1783555,2016
+04/16/2016,away,12360,178,Delaware St.,9,True,4,14,-10,loss,4 - 14,306551,165,0,0,0.1,0.0,1,3,3,4,0,0,7,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,5,0,1783555,2016

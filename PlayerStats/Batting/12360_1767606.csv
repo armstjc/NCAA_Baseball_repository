@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/26/2016,home,12360,596,St. Bonaventure,9,True,3,0,3,win,3 - 0,293716,127,0,3,1,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1767606,2016
 02/27/2016,home,12360,596,St. Bonaventure,9,True,1,8,-7,loss,1 - 8,294134,127,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1767606,2016
 02/28/2016,home,12360,596,St. Bonaventure,9,True,2,6,-4,loss,2 - 6,294521,127,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1767606,2016
@@ -30,7 +30,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/10/2016,home,12360,450,Mount St. Mary's,9,True,4,6,-2,loss,4 - 6,304822,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1767606,2016
 04/12/2016,away,12360,400,Massachusetts,10,True,5,6,-1,loss,5 - 6,305389,127,0,4,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1767606,2016
 04/15/2016,away,12360,590,Sacred Heart,9,True,11,4,7,win,11 - 4,306066,127,1,5,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,1767606,2016
-04/16/2016,away,12360,590,Sacred Heart,9,True,2,3,-1,loss,2 - 3,306535,127,0,3,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1767606,2016
+04/16/2016,away,12360,590,Sacred Heart,9,True,2,3,-1,loss,2 - 3,306535,127,0,3,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1767606,2016
 04/16/2016,away,12360,590,Sacred Heart,9,True,4,5,-1,loss,4 - 5,306785,127,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1767606,2016
 04/17/2016,away,12360,590,Sacred Heart,9,True,4,7,-3,loss,4 - 7,307114,127,1,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1767606,2016
 04/19/2016,home,12360,639,Siena,9,True,6,5,1,win,6 - 5,307508,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1767606,2016

@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/26/2017,home,12560,609,Saint Louis,9,True,3,7,-4,loss,3 - 7,207870,169,0,0,0.1,0.0,1,0,0,0,1,0,2,2,1,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,5,1,1768031,2017
+03/19/2017,home,12560,30024,Utah Valley,9,True,19,5,14,win,19 - 5,212520,169,0,0,0.1,0.0,1,0,0,1,1,0,4,2,1,0,0,0,0,1,0,1,1,0,0,14,0,0,0,0,0,5,0,1768031,2017

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,away,12360,96,Fresno St.,9,True,1,2,-1,loss,1 - 2,292455,169,0,3,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1433391,2016
 02/20/2016,away,12360,96,Fresno St.,9,True,1,2,-1,loss,1 - 2,292701,169,0,5,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1433391,2016
 02/21/2016,away,12360,96,Fresno St.,9,True,3,7,-4,loss,3 - 7,293159,169,0,3,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1433391,2016
@@ -30,7 +30,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/13/2016,home,12360,649,South Dakota St.,11,True,6,5,1,win,6 - 5,305693,169,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1433391,2016
 04/15/2016,home,12360,87,Butler,9,True,2,1,1,win,2 - 1,306104,169,1,4,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1433391,2016
 04/16/2016,home,12360,87,Butler,9,True,6,4,2,win,6 - 4,306362,169,1,4,2,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1433391,2016
-04/17/2016,home,12360,87,Butler,10,True,4,3,1,win,4 - 3,307148,169,0,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1433391,2016
+04/17/2016,home,12360,87,Butler,10,True,4,3,1,win,4 - 3,307148,169,0,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1433391,2016
 04/19/2016,away,12360,31,Arkansas,9,True,2,6,-4,loss,2 - 6,307648,169,0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1433391,2016
 04/22/2016,away,12360,77,BYU,9,True,4,13,-9,loss,4 - 13,308058,169,0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1433391,2016
 04/23/2016,away,12360,77,BYU,9,True,10,2,8,win,10 - 2,308471,169,0,6,2,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1433391,2016

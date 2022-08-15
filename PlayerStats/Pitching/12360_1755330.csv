@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/08/2016,home,12360,749,Wake Forest,9,True,0,11,-11,loss,0 - 11,296389,149,0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,20,0,1,0,0,0,6,1,1755330,2016
+03/16/2016,away,12360,460,UNCW,9,True,6,4,2,win,6 - 4,298373,149,0,0,1.0,0.0,2,2,2,2,1,0,7,5,1,0,0,0,0,0,0,0,0,0,0,31,1,1,0,0,0,2,0,1755330,2016
+03/24/2016,home,12360,678,Stetson,9,True,11,2,9,win,11 - 2,300481,149,0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,6,2,1,0,0,0,3,0,1755330,2016
+05/06/2016,away,12360,355,Liberty,9,True,14,6,8,win,14 - 6,311592,149,0,0,0.0,0.0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,3,2,0,0,10,0,0,0,0,0,3,0,1755330,2016

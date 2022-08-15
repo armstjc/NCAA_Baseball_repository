@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/25/2017,home,12560,1068,Elon,9,True,13,5,8,win,13 - 5,207279,147,0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,1654484,2017
+02/28/2017,home,12560,2915,Wofford,9,True,9,2,7,win,9 - 2,208046,147,0,0,1.0,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1654484,2017
+03/08/2017,home,12560,416,Michigan St.,9,True,9,2,7,win,9 - 2,209862,147,0,0,1.1,0.0,1,0,0,1,3,0,6,5,0,0,0,0,1,0,0,2,1,0,0,29,1,0,0,0,0,3,1,1654484,2017
+03/15/2017,home,12560,813,Yale,9,True,10,8,2,win,10 - 8,211486,147,0,1,3.1,0.0,3,4,4,3,6,0,15,12,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,1,2,1654484,2017
+03/29/2017,home,12560,792,Winthrop,11,True,6,5,1,win,6 - 5,215010,147,0,1,2.0,0.0,6,3,1,1,2,0,12,11,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1654484,2017

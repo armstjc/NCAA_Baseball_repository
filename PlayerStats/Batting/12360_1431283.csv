@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,386,Marist,9,True,4,3,1,win,4 - 3,292429,173,0,4,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1431283,2016
 02/20/2016,home,12360,86,Buffalo,9,True,5,0,5,win,5 - 0,292679,173,0,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1431283,2016
 02/21/2016,home,12360,721,Air Force,9,True,4,9,-5,loss,4 - 9,293132,173,0,4,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1431283,2016
@@ -9,7 +9,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 03/01/2016,away,12360,193,Duke,9,True,2,9,-7,loss,2 - 9,294752,173,0,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1431283,2016
 03/04/2016,home,12360,342,Lafayette,9,True,2,1,1,win,2 - 1,294990,173,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1431283,2016
 03/05/2016,home,12360,342,Lafayette,9,True,9,14,-5,loss,9 - 14,295247,173,1,3,1,0,0,0,0,3,1,0,1,0,0,0,0,0,0,0,1431283,2016
-03/06/2016,home,12360,342,Lafayette,9,True,5,2,3,win,5 - 2,295775,173,3,3,1,1,0,0,0,0,2,0,0,0,1,0,0,0,2,0,1431283,2016
+03/06/2016,home,12360,342,Lafayette,9,True,5,2,3,win,5 - 2,295775,173,3,3,1,1,0,0,0,0,2,0,0,0,1,0,0,0,2,1,1431283,2016
 03/09/2016,home,12360,317,James Madison,9,True,6,7,-1,loss,6 - 7,296523,173,1,4,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1431283,2016
 03/11/2016,away,12360,115,Campbell,9,True,7,4,3,win,7 - 4,296953,173,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1431283,2016
 03/12/2016,home,12360,305,Indiana St.,9,True,1,7,-6,loss,1 - 7,297486,173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1431283,2016
@@ -33,7 +33,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/10/2016,home,12360,249,George Washington,9,True,8,7,1,win,8 - 7,304787,173,1,3,1,0,1,0,0,2,1,0,0,0,0,0,1,0,1,0,1431283,2016
 04/12/2016,home,12360,193,Duke,9,True,3,13,-10,loss,3 - 13,305356,173,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1431283,2016
 04/15/2016,away,12360,575,Richmond,9,True,3,4,-1,loss,3 - 4,306072,173,0,3,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1431283,2016
-04/16/2016,away,12360,575,Richmond,9,True,14,2,12,win,14 - 2,306344,173,2,5,2,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1431283,2016
+04/16/2016,away,12360,575,Richmond,9,True,14,2,12,win,14 - 2,306344,173,2,5,2,1,0,0,0,2,1,0,0,0,0,0,0,0,0,1,1431283,2016
 04/17/2016,away,12360,575,Richmond,9,True,7,8,-1,loss,7 - 8,307121,173,1,4,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1431283,2016
 04/19/2016,away,12360,792,Winthrop,10,True,12,10,2,win,12 - 10,307470,173,2,4,2,0,0,0,1,2,0,0,1,0,1,0,0,0,0,0,1431283,2016
 04/23/2016,home,12360,236,Fordham,9,True,5,0,5,win,5 - 0,308349,173,1,2,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1431283,2016

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,380,Maine,9,True,3,4,-1,loss,3 - 4,292499,147,0,3,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1654491,2016
 02/20/2016,home,12360,380,Maine,9,True,9,4,5,win,9 - 4,292730,147,1,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1654491,2016
 02/21/2016,home,12360,380,Maine,9,True,19,2,17,win,19 - 2,293194,147,3,4,2,0,0,0,1,4,0,0,0,0,0,0,0,0,1,0,1654491,2016
@@ -31,7 +31,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/08/2016,away,12360,193,Duke,9,True,3,5,-2,loss,3 - 5,304107,147,0,5,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1654491,2016
 04/09/2016,away,12360,193,Duke,9,True,3,2,1,win,3 - 2,304367,147,1,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1654491,2016
 04/10/2016,away,12360,193,Duke,9,True,1,2,-1,loss,1 - 2,304892,147,0,4,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1654491,2016
-04/12/2016,home,12360,769,Western Caro.,10,True,7,6,1,win,7 - 6,305412,147,0,4,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,1654491,2016
+04/12/2016,home,12360,769,Western Caro.,10,True,7,6,1,win,7 - 6,305412,147,0,4,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,1,1654491,2016
 04/15/2016,away,12360,367,Louisville,9,True,2,15,-13,loss,2 - 15,305965,147,0,4,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,1654491,2016
 04/16/2016,away,12360,367,Louisville,9,True,2,7,-5,loss,2 - 7,306270,147,0,2,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1654491,2016
 04/17/2016,away,12360,367,Louisville,9,True,8,9,-1,loss,8 - 9,307026,147,2,4,1,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1654491,2016

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/17/2017,away,12560,433,Ole Miss,9,True,4,5,-1,loss,4 - 5,205850,196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1871386,2017
 02/18/2017,away,12560,433,Ole Miss,9,True,2,3,-1,loss,2 - 3,206055,196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1871386,2017
 02/19/2017,away,12560,433,Ole Miss,9,True,6,8,-2,loss,6 - 8,206464,196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1871386,2017

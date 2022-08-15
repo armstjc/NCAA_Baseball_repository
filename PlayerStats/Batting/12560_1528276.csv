@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/17/2017,away,12560,29,Arizona,9,True,0,6,-6,loss,0 - 6,205912,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1528276,2017
 02/18/2017,away,12560,29,Arizona,9,True,13,16,-3,loss,13 - 16,206099,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1528276,2017
 02/19/2017,away,12560,29,Arizona,9,True,4,18,-14,loss,4 - 18,206538,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1528276,2017

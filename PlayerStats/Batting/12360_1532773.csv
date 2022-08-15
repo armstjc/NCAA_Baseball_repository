@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,464,Omaha,9,True,16,3,13,win,16 - 3,292614,204,3,4,3,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1532773,2016
 02/20/2016,home,12360,464,Omaha,9,True,1,2,-1,loss,1 - 2,293002,204,0,3,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1532773,2016
 02/20/2016,home,12360,471,NJIT,9,True,8,0,8,win,8 - 0,293003,204,1,5,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1532773,2016
@@ -56,5 +56,5 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 05/25/2016,home,12360,331,Kent St.,9,True,0,1,-1,loss,0 - 1,314191,204,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1532773,2016
 05/26/2016,home,12360,503,NIU,9,True,6,2,4,win,6 - 2,314272,204,0,4,1,1,0,0,0,2,0,0,0,0,1,0,0,0,1,0,1532773,2016
 05/27/2016,home,12360,709,Toledo,9,True,6,1,5,win,6 - 1,314356,204,2,3,2,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,1532773,2016
-05/28/2016,home,12360,331,Kent St.,9,True,10,5,5,win,10 - 5,314430,204,2,3,2,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,1532773,2016
+05/28/2016,home,12360,331,Kent St.,9,True,10,5,5,win,10 - 5,314430,204,2,3,2,0,0,0,1,2,2,0,0,0,0,0,0,0,0,1,1532773,2016
 05/28/2016,home,12360,331,Kent St.,9,True,2,4,-2,loss,2 - 4,4149936,331,0,4,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1532773,2016

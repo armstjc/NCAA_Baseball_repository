@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/19/2016,away,12360,646,South Alabama,9,True,4,5,-1,loss,4 - 5,292475,219,0,1,5.0,0.0,5,5,2,1,6,0,23,20,1,0,0,0,0,1,0,0,0,0,1,0,7,2,0,1,0,1,0,1425604,2016
+03/12/2016,away,12360,355,Liberty,9,True,3,5,-2,loss,3 - 5,297188,219,0,1,3.0,0.0,2,0,0,1,2,0,11,10,0,0,0,0,0,0,0,0,0,0,0,47,4,2,0,0,0,1,0,1425604,2016
+03/18/2016,home,12360,661,Southern Ind.,9,True,2,1,1,win,2 - 1,298799,219,0,1,5.1,0.0,2,0,0,0,5,0,18,18,0,0,0,0,0,0,0,0,0,0,0,67,11,0,1,0,0,1,2,1425604,2016
+03/25/2016,away,12360,202,Eastern Ky.,9,True,4,0,4,win,4 - 0,300618,219,0,1,6.0,0.0,3,0,0,1,8,0,21,19,0,0,0,0,0,1,0,0,0,0,0,88,7,1,1,0,0,1,3,1425604,2016
+04/01/2016,home,12360,28755,FGCU,9,True,1,0,1,win,1 - 0,302420,219,0,1,7.0,0.0,4,0,0,3,5,0,25,22,0,0,0,0,0,0,0,0,0,0,0,101,8,5,1,0,0,1,0,1425604,2016

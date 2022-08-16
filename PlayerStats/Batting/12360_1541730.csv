@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,649,South Dakota St.,9,True,11,5,6,win,11 - 5,292633,229,2,5,3,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1541730,2016
 02/19/2016,away,12360,430,Mississippi St.,9,True,10,6,4,win,10 - 6,292550,229,1,3,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,1541730,2016
 02/20/2016,away,12360,430,Mississippi St.,9,True,4,0,4,win,4 - 0,293084,229,0,3,1,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,1541730,2016
@@ -24,7 +24,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/01/2016,away,12360,523,Old Dominion,9,True,10,7,3,win,10 - 7,302280,229,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1541730,2016
 04/02/2016,away,12360,523,Old Dominion,9,True,3,1,2,win,3 - 1,302556,229,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1541730,2016
 04/03/2016,away,12360,523,Old Dominion,9,True,11,0,11,win,11 - 0,303139,229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1541730,2016
-04/05/2016,away,12360,128,UCF,11,True,5,0,5,win,5 - 0,303576,229,0,3,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,1541730,2016
+04/05/2016,away,12360,128,UCF,11,True,5,0,5,win,5 - 0,303576,229,0,3,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,1,1541730,2016
 04/08/2016,home,12360,458,Charlotte,9,True,7,12,-5,loss,7 - 12,304091,229,0,4,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1541730,2016
 04/09/2016,home,12360,458,Charlotte,9,True,17,8,9,win,17 - 8,304364,229,2,4,2,0,0,0,1,2,0,0,0,0,1,0,0,0,0,0,1541730,2016
 04/10/2016,home,12360,458,Charlotte,15,True,6,7,-1,loss,6 - 7,304882,229,1,3,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,1541730,2016

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/17/2017,home,12560,590,Sacred Heart,9,True,5,10,-5,loss,5 - 10,205868,28755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1865888,2017
 02/18/2017,home,12560,590,Sacred Heart,9,True,13,8,5,win,13 - 8,206142,28755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1865888,2017
 02/18/2017,home,12560,590,Sacred Heart,9,True,9,3,6,win,9 - 3,206214,28755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1865888,2017
@@ -55,8 +55,8 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 05/20/2017,away,12560,1157,Kennesaw St.,9,True,13,3,10,win,13 - 3,227106,28755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1865888,2017
 05/24/2017,home,12560,2711,North Florida,9,True,4,0,4,win,4 - 0,227390,28755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1865888,2017
 05/25/2017,home,12560,1157,Kennesaw St.,9,True,3,6,-3,loss,3 - 6,227417,28755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1865888,2017
-05/26/2017,home,12560,1157,Kennesaw St.,9,True,6,5,1,win,6 - 5,227559,28755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1865888,2017
 05/26/2017,home,12560,28600,Lipscomb,9,True,3,1,2,win,3 - 1,227560,28755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1865888,2017
+05/26/2017,home,12560,1157,Kennesaw St.,9,True,6,5,1,win,6 - 5,227559,28755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1865888,2017
 05/27/2017,home,12560,316,Jacksonville,9,True,4,2,2,win,4 - 2,227589,28755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1865888,2017
 05/27/2017,home,12560,316,Jacksonville,10,True,4,3,1,win,4 - 3,227631,28755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1865888,2017
 06/02/2017,home,12560,418,Michigan,9,True,10,6,4,win,10 - 6,227692,28755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1865888,2017

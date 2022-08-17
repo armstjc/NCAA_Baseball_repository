@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,away,12360,2711,North Florida,9,True,7,6,1,win,7 - 6,292462,249,0,4,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1538022,2016
 02/20/2016,away,12360,2711,North Florida,9,True,0,2,-2,loss,0 - 2,292706,249,0,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1538022,2016
 02/21/2016,away,12360,2711,North Florida,9,True,7,10,-3,loss,7 - 10,293164,249,1,4,2,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1538022,2016
@@ -8,7 +8,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 02/28/2016,home,12360,47,Ball St.,9,True,2,0,2,win,2 - 0,294537,249,1,4,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1538022,2016
 03/01/2016,home,12360,317,James Madison,9,True,1,2,-1,loss,1 - 2,294715,249,0,3,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1538022,2016
 03/05/2016,home,12360,101,CSUN,11,True,5,6,-1,loss,5 - 6,295494,249,0,3,1,0,0,0,0,1,0,0,0,2,2,0,0,0,0,0,1538022,2016
-03/05/2016,home,12360,101,CSUN,9,True,2,4,-2,loss,2 - 4,295716,249,0,2,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,1538022,2016
+03/05/2016,home,12360,101,CSUN,9,True,2,4,-2,loss,2 - 4,295716,249,0,2,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,1,1538022,2016
 03/06/2016,home,12360,101,CSUN,9,True,3,9,-6,loss,3 - 9,295816,249,1,4,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1538022,2016
 03/09/2016,away,12360,392,Maryland,9,True,19,10,9,win,19 - 10,296571,249,1,4,0,0,0,0,0,0,1,1,0,0,4,0,0,0,1,0,1538022,2016
 03/11/2016,home,12360,439,Monmouth,9,True,14,5,9,win,14 - 5,296864,249,1,4,2,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1538022,2016

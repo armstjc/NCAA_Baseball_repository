@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,236,Fordham,9,True,2,5,-3,loss,2 - 5,292547,244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1774249,2016
 02/20/2016,home,12360,416,Michigan St.,9,True,8,15,-7,loss,8 - 15,292754,244,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1774249,2016
 02/21/2016,home,12360,1320,Presbyterian,11,True,9,8,1,win,9 - 8,293243,244,1,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1774249,2016
@@ -56,5 +56,5 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 05/21/2016,home,12360,2915,Wofford,9,True,5,13,-8,loss,5 - 13,314077,244,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1774249,2016
 05/25/2016,home,12360,198,ETSU,9,True,3,0,3,win,3 - 0,314202,244,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1774249,2016
 05/26/2016,home,12360,406,Mercer,9,True,1,6,-5,loss,1 - 6,314280,244,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1774249,2016
-05/27/2016,home,12360,459,UNC Greensboro,9,True,15,10,5,win,15 - 10,314365,244,2,4,2,0,0,0,1,2,2,0,0,1,1,1,0,0,0,0,1774249,2016
+05/27/2016,home,12360,459,UNC Greensboro,9,True,15,10,5,win,15 - 10,314365,244,2,4,2,0,0,0,1,2,2,0,0,1,1,1,0,0,0,1,1774249,2016
 05/28/2016,home,12360,625,Samford,9,True,0,2,-2,loss,0 - 2,314442,244,0,5,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1774249,2016

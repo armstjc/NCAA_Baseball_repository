@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/04/2016,away,12360,365,LSU,9,True,1,12,-11,loss,1 - 12,295056,236,0,0,1.0,0.0,1,1,1,0,1,0,4,4,0,0,0,1,0,0,0,0,0,0,0,13,0,2,0,0,0,6,0,1759708,2016
+03/05/2016,away,12360,365,LSU,9,True,1,15,-14,loss,1 - 15,295403,236,0,0,0.2,0.0,0,2,2,2,1,0,6,2,0,0,0,0,1,2,0,0,0,0,0,22,1,0,0,0,0,2,0,1759708,2016
+03/11/2016,home,12360,739,Villanova,9,True,3,11,-8,loss,3 - 11,296854,236,0,0,0.1,0.0,0,2,2,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,15,0,1,0,0,0,3,0,1759708,2016
+03/30/2016,away,12360,14,UAlbany,9,True,9,3,6,win,9 - 3,302106,236,0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1759708,2016

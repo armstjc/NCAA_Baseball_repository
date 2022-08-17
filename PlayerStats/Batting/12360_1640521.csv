@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,away,12360,244,Furman,9,True,5,2,3,win,5 - 2,292547,236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1640521,2016
 02/20/2016,home,12360,1320,Presbyterian,9,True,1,7,-6,loss,1 - 7,293004,236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1640521,2016
 02/21/2016,home,12360,416,Michigan St.,9,True,2,7,-5,loss,2 - 7,293309,236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1640521,2016
@@ -55,5 +55,5 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 05/19/2016,home,12360,175,Dayton,9,True,8,2,6,win,8 - 2,313752,236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1640521,2016
 05/20/2016,home,12360,175,Dayton,9,True,1,2,-1,loss,1 - 2,313770,236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1640521,2016
 05/25/2016,away,12360,609,Saint Louis,9,True,9,7,2,win,9 - 7,314249,236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1640521,2016
-05/26/2016,away,12360,572,Rhode Island,9,True,1,10,-9,loss,1 - 10,314326,236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1640521,2016
 05/26/2016,home,12360,606,Saint Joseph's,9,True,6,7,-1,loss,6 - 7,314331,236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1640521,2016
+05/26/2016,away,12360,572,Rhode Island,9,True,1,10,-9,loss,1 - 10,314326,236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1640521,2016

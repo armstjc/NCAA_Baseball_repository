@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,459,UNC Greensboro,9,True,3,9,-6,loss,3 - 9,292498,19651,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1759787,2016
 02/20/2016,away,12360,459,UNC Greensboro,9,True,5,13,-8,loss,5 - 13,292748,19651,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1759787,2016
 02/21/2016,home,12360,459,UNC Greensboro,9,True,15,5,10,win,15 - 5,293192,19651,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1759787,2016
@@ -24,7 +24,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 03/25/2016,home,12360,792,Winthrop,9,True,4,2,2,win,4 - 2,300669,19651,0,3,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1759787,2016
 03/26/2016,home,12360,792,Winthrop,9,True,2,6,-4,loss,2 - 6,301082,19651,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1759787,2016
 03/29/2016,away,12360,489,N.C. Central,9,True,1,14,-13,loss,1 - 14,301902,19651,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1759787,2016
-04/01/2016,away,12360,392,Maryland,9,True,7,2,5,win,7 - 2,302362,19651,1,2,2,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,1759787,2016
+04/01/2016,away,12360,392,Maryland,9,True,7,2,5,win,7 - 2,302362,19651,1,2,2,1,0,0,0,1,2,0,0,0,0,0,0,0,0,1,1759787,2016
 04/02/2016,away,12360,392,Maryland,9,True,5,13,-8,loss,5 - 13,302618,19651,1,4,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1759787,2016
 04/03/2016,away,12360,392,Maryland,9,True,4,3,1,win,4 - 3,303214,19651,0,3,1,1,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1759787,2016
 04/05/2016,away,12360,457,North Carolina,9,True,1,8,-7,loss,1 - 8,303520,19651,0,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1759787,2016

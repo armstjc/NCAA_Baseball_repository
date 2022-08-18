@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/20/2016,away,12360,459,UNC Greensboro,9,True,5,13,-8,loss,5 - 13,292748,19651,0,0,1.1,0.0,5,4,2,3,1,0,13,9,0,0,0,1,1,1,0,0,0,0,0,0,2,0,0,0,0,2,0,1649017,2016
+03/02/2016,home,12360,810,Wright St.,9,True,11,6,5,win,11 - 6,294852,19651,0,0,1.0,0.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,14,0,2,0,0,0,2,0,1649017,2016
+03/06/2016,home,12360,175,Dayton,9,True,1,5,-4,loss,1 - 5,295841,19651,0,0,0.1,0.0,3,2,2,1,0,0,5,4,0,0,0,1,0,0,0,0,0,0,0,17,1,0,0,0,0,2,0,1649017,2016
+03/29/2016,away,12360,489,N.C. Central,9,True,1,14,-13,loss,1 - 14,301902,19651,0,0,1.0,0.0,1,2,2,1,1,0,6,4,0,1,0,0,1,1,0,1,1,0,0,24,0,2,0,0,0,6,0,1649017,2016

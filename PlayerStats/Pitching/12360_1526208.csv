@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/20/2016,away,12360,419,Middle Tenn.,10,True,4,5,-1,loss,4 - 5,293078,306,0,0,0.2,0.0,2,1,1,0,1,0,4,4,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,2,0,1526208,2016
+03/03/2016,home,12360,635,Seton Hall,9,True,2,7,-5,loss,2 - 7,294958,306,0,0,1.0,0.0,2,3,3,1,1,0,6,5,1,0,0,1,0,0,0,0,0,0,0,15,1,1,0,0,0,3,0,1526208,2016
+03/18/2016,home,12360,709,Toledo,9,True,9,6,3,win,9 - 6,298797,306,0,0,0.2,0.0,3,5,0,1,1,0,8,7,2,0,0,0,0,0,0,0,0,0,0,25,0,1,0,0,0,2,0,1526208,2016
+04/26/2016,home,12360,513,Notre Dame,9,True,0,5,-5,loss,0 - 5,309687,306,0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,2,1,0,0,0,3,0,1526208,2016
+05/07/2016,away,12360,428,Minnesota,9,True,6,8,-2,loss,6 - 8,311895,306,0,0,1.0,0.0,3,1,1,0,0,0,6,5,1,0,0,0,0,0,0,1,0,0,1,0,0,3,0,0,0,3,0,1526208,2016

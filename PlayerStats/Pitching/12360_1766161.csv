@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/12/2016,away,12360,149,Coastal Carolina,9,True,4,10,-6,loss,4 - 10,297265,301,0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,0,1,0,0,0,4,0,1766161,2016
+03/19/2016,home,12360,503,NIU,9,True,3,9,-6,loss,3 - 9,299380,301,0,0,0.0,0.0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,1,0,2,0,1766161,2016
+03/19/2016,away,12360,659,Southern Ill.,9,True,2,3,-1,loss,2 - 3,299118,301,0,0,1.1,0.0,1,0,0,0,1,0,5,4,0,0,0,0,0,0,0,0,0,1,0,15,1,2,0,0,0,2,1,1766161,2016
+04/02/2016,away,12360,463,Nebraska,9,True,8,9,-1,loss,8 - 9,302550,301,0,0,0.1,0.0,2,0,0,0,0,0,3,3,0,0,0,0,0,0,0,3,3,0,0,12,0,1,0,0,0,5,0,1766161,2016
+04/05/2016,home,12360,201,Eastern Ill.,9,True,9,7,2,win,9 - 7,303654,301,0,0,1.0,0.0,0,0,0,2,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,20,1,2,1,0,0,2,0,1766161,2016

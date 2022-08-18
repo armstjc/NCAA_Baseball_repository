@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/13/2016,away,12360,2697,Hawaii Hilo,9,True,0,1,-1,loss,0 - 1,292120,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1759103,2016
 02/14/2016,away,12360,2697,Hawaii Hilo,9,True,11,9,2,win,11 - 9,292283,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1759103,2016
 02/19/2016,home,12360,473,New Mexico,9,True,4,6,-2,loss,4 - 6,292503,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1759103,2016

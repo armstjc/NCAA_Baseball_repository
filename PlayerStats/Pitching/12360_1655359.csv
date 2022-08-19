@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/06/2016,home,12360,165,Coppin St.,9,True,10,4,6,win,10 - 4,303775,352,0,0,2.0,0.0,0,0,0,1,0,0,7,5,0,0,0,0,0,1,0,0,0,0,0,0,3,2,0,0,0,6,0,1655359,2016
+04/11/2016,home,12360,285,Holy Cross,9,True,3,12,-9,loss,3 - 12,305310,352,0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,6,0,1655359,2016
+04/12/2016,home,12360,576,Rider,10,True,9,8,1,win,9 - 8,305385,352,0,0,0.1,0.0,1,0,0,1,0,0,3,2,0,0,0,0,0,0,0,3,3,0,0,0,0,1,0,0,0,3,0,1655359,2016
+04/20/2016,away,12360,393,UMES,9,True,6,7,-1,loss,6 - 7,307875,352,0,0,0.2,0.0,0,0,0,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,1655359,2016

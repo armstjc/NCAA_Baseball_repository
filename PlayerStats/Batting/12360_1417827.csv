@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/27/2016,home,12360,450,Mount St. Mary's,9,True,15,7,8,win,15 - 7,293985,316,0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1417827,2016
 02/27/2016,home,12360,450,Mount St. Mary's,9,True,13,2,11,win,13 - 2,294085,316,0,3,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1417827,2016
 02/28/2016,home,12360,450,Mount St. Mary's,9,True,14,3,11,win,14 - 3,294435,316,1,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1417827,2016
@@ -48,7 +48,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 05/11/2016,away,12360,128,UCF,9,True,3,6,-3,loss,3 - 6,312711,316,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1417827,2016
 05/13/2016,home,12360,471,NJIT,9,True,4,2,2,win,4 - 2,312967,316,0,3,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1417827,2016
 05/14/2016,home,12360,471,NJIT,9,True,11,10,1,win,11 - 10,313186,316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1417827,2016
-05/15/2016,home,12360,471,NJIT,9,True,5,3,2,win,5 - 3,313420,316,0,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1417827,2016
+05/15/2016,home,12360,471,NJIT,9,True,5,3,2,win,5 - 3,313420,316,0,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1417827,2016
 05/19/2016,away,12360,10411,USC Upstate,10,True,3,4,-1,loss,3 - 4,313612,316,1,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1417827,2016
 05/21/2016,away,12360,10411,USC Upstate,9,True,2,3,-1,loss,2 - 3,314075,316,0,3,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1417827,2016
 05/21/2016,away,12360,10411,USC Upstate,9,True,12,3,9,win,12 - 3,314080,316,3,4,4,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1417827,2016

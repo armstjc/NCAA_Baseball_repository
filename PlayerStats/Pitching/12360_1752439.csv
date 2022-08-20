@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/21/2016,home,12360,659,Southern Ill.,9,True,8,4,4,win,8 - 4,293168,402,0,0,0.0,0.0,3,4,4,1,0,0,4,3,1,0,0,0,1,0,0,0,0,0,0,17,0,0,0,0,0,3,0,1752439,2016
+02/23/2016,away,12360,288,Houston,9,True,1,14,-13,loss,1 - 14,293390,402,0,0,1.0,0.0,4,5,0,1,1,0,9,7,1,0,0,1,1,0,0,0,0,0,1,26,0,2,0,0,0,5,0,1752439,2016
+02/27/2016,away,12360,706,UTSA,9,True,8,13,-5,loss,8 - 13,293814,402,0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,6,0,1752439,2016
+03/16/2016,home,12360,498,ULM,9,True,4,12,-8,loss,4 - 12,298389,402,0,0,0.2,0.0,1,0,0,1,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,5,0,1752439,2016

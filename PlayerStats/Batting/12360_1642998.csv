@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,116,Canisius,9,True,9,0,9,win,9 - 0,292630,418,1,5,2,1,0,0,0,2,0,0,0,0,1,1,0,0,0,0,1642998,2016
 02/20/2016,home,12360,116,Canisius,9,True,6,2,4,win,6 - 2,293036,418,0,2,1,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,1642998,2016
 02/20/2016,home,12360,116,Canisius,9,True,3,0,3,win,3 - 0,293046,418,1,4,2,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1642998,2016
@@ -43,7 +43,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 05/03/2016,home,12360,204,Eastern Mich.,9,True,12,4,8,win,12 - 4,311324,418,1,4,1,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,1642998,2016
 05/04/2016,away,12360,204,Eastern Mich.,9,True,12,0,12,win,12 - 0,311444,418,0,4,1,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,1642998,2016
 05/06/2016,home,12360,587,Rutgers,9,True,14,1,13,win,14 - 1,311674,418,2,4,2,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1642998,2016
-05/07/2016,home,12360,587,Rutgers,9,True,13,1,12,win,13 - 1,311958,418,2,3,1,1,0,0,0,2,2,0,0,0,2,0,0,0,0,0,1642998,2016
+05/07/2016,home,12360,587,Rutgers,9,True,13,1,12,win,13 - 1,311958,418,2,3,1,1,0,0,0,2,2,0,0,0,2,0,0,0,0,1,1642998,2016
 05/08/2016,home,12360,587,Rutgers,9,True,12,5,7,win,12 - 5,312415,418,2,4,2,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1642998,2016
 05/11/2016,away,12360,129,Central Mich.,9,True,7,8,-1,loss,7 - 8,312715,418,0,4,2,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,1642998,2016
 05/13/2016,away,12360,518,Ohio St.,9,True,2,3,-1,loss,2 - 3,312963,418,1,4,2,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1642998,2016

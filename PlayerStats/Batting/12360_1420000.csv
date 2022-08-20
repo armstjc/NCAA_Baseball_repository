@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,222,Fairleigh Dickinson,9,True,5,1,4,win,5 - 1,292664,393,1,3,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,1420000,2016
-02/20/2016,home,12360,222,Fairleigh Dickinson,9,True,6,4,2,win,6 - 4,293114,393,2,3,2,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1420000,2016
+02/20/2016,home,12360,222,Fairleigh Dickinson,9,True,6,4,2,win,6 - 4,293114,393,2,3,2,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,1420000,2016
 02/21/2016,home,12360,222,Fairleigh Dickinson,9,True,5,7,-2,loss,5 - 7,293364,393,1,5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1420000,2016
 02/26/2016,home,12360,617,Saint Peter's,9,True,8,10,-2,loss,8 - 10,293720,393,2,4,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1420000,2016
 02/27/2016,home,12360,617,Saint Peter's,9,True,17,5,12,win,17 - 5,294140,393,3,3,1,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,1420000,2016
@@ -17,7 +17,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 03/15/2016,away,12360,193,Duke,9,True,1,9,-8,loss,1 - 9,298219,393,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1420000,2016
 03/16/2016,away,12360,459,UNC Greensboro,9,True,2,8,-6,loss,2 - 8,298430,393,0,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1420000,2016
 03/19/2016,home,12360,165,Coppin St.,9,True,1,3,-2,loss,1 - 3,299143,393,0,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1420000,2016
-03/19/2016,home,12360,165,Coppin St.,9,True,4,3,1,win,4 - 3,299263,393,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1420000,2016
+03/19/2016,home,12360,165,Coppin St.,9,True,4,3,1,win,4 - 3,299263,393,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1420000,2016
 03/25/2016,home,12360,485,Norfolk St.,9,True,2,11,-9,loss,2 - 11,300622,393,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1420000,2016
 03/26/2016,home,12360,485,Norfolk St.,9,True,7,20,-13,loss,7 - 20,301192,393,3,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1420000,2016
 03/26/2016,home,12360,485,Norfolk St.,9,True,6,7,-1,loss,6 - 7,301344,393,0,4,1,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,1420000,2016

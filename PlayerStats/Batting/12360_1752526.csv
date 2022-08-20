@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,away,12360,698,TCU,9,True,5,3,2,win,5 - 3,292557,370,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1752526,2016
 02/20/2016,away,12360,698,TCU,9,True,0,1,-1,loss,0 - 1,292761,370,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1752526,2016
 02/21/2016,away,12360,698,TCU,9,True,0,5,-5,loss,0 - 5,293252,370,0,2,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1752526,2016

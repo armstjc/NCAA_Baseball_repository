@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,away,12360,173,Davidson,9,True,3,4,-1,loss,3 - 4,292429,386,1,4,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1423036,2016
 02/20/2016,home,12360,721,Air Force,9,True,4,8,-4,loss,4 - 8,292999,386,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1423036,2016
 02/21/2016,home,12360,86,Buffalo,9,True,8,3,5,win,8 - 3,293303,386,2,4,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1423036,2016
@@ -17,7 +17,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 03/23/2016,away,12360,471,NJIT,9,True,4,2,2,win,4 - 2,300263,386,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1423036,2016
 03/24/2016,home,12360,562,Quinnipiac,9,True,5,2,3,win,5 - 2,300433,386,0,4,1,1,0,0,0,3,0,0,0,0,1,0,0,0,0,0,1423036,2016
 03/26/2016,home,12360,562,Quinnipiac,9,True,4,2,2,win,4 - 2,301220,386,1,3,1,0,0,0,1,2,0,0,0,0,2,0,0,0,0,0,1423036,2016
-03/26/2016,home,12360,562,Quinnipiac,9,True,6,0,6,win,6 - 0,301377,386,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,1423036,2016
+03/26/2016,home,12360,562,Quinnipiac,9,True,6,0,6,win,6 - 0,301377,386,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,1,1423036,2016
 03/30/2016,home,12360,368,UMass Lowell,9,True,6,3,3,win,6 - 3,302040,386,1,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1423036,2016
 04/02/2016,away,12360,310,Iona,10,True,2,3,-1,loss,2 - 3,302809,386,0,5,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1423036,2016
 04/02/2016,away,12360,310,Iona,9,True,1,2,-1,loss,1 - 2,302978,386,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1423036,2016

@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/13/2016,home,12360,80,Brown,9,True,14,0,14,win,14 - 0,297792,388,0,0,1.0,0.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,0,1766721,2016
+03/15/2016,home,12360,444,Morehead St.,12,True,6,5,1,win,6 - 5,298182,388,0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,0,1766721,2016
+03/18/2016,home,12360,664,Southern Miss.,9,True,4,14,-10,loss,4 - 14,298953,388,0,0,0.1,0.0,1,3,3,0,0,0,4,2,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,3,0,1766721,2016
+03/24/2016,away,12360,231,FIU,9,True,5,10,-5,loss,5 - 10,300399,388,0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,1,0,1,0,0,0,7,0,1766721,2016
+04/16/2016,home,12360,229,Fla. Atlantic,9,True,2,10,-8,loss,2 - 10,306327,388,0,0,0.1,0.0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,4,0,1766721,2016

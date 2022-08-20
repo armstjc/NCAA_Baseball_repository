@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/17/2017,away,12560,523,Old Dominion,9,True,0,13,-13,loss,0 - 13,205904,361,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1530799,2017
 02/18/2017,away,12560,523,Old Dominion,9,True,8,16,-8,loss,8 - 16,206093,361,2,3,1,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,1530799,2017
 02/19/2017,away,12560,523,Old Dominion,9,True,7,11,-4,loss,7 - 11,206530,361,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1530799,2017

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,away,12360,228,Florida A&M,9,True,4,9,-5,loss,4 - 9,292519,388,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1766728,2016
 02/20/2016,away,12360,228,Florida A&M,9,True,4,20,-16,loss,4 - 20,292740,388,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1766728,2016
 02/21/2016,away,12360,228,Florida A&M,12,True,11,9,2,win,11 - 9,293216,388,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1766728,2016

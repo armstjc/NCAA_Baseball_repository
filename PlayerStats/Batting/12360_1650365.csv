@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,553,Prairie View,9,True,7,0,7,win,7 - 0,292628,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1650365,2016
 02/20/2016,home,12360,665,Southern U.,9,True,15,0,15,win,15 - 0,293013,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1650365,2016
 02/21/2016,away,12360,474,New Orleans,9,True,6,9,-3,loss,6 - 9,293372,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1650365,2016

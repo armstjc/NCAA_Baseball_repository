@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,553,Prairie View,9,True,7,0,7,win,7 - 0,292628,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1770016,2016
 02/20/2016,home,12360,665,Southern U.,9,True,15,0,15,win,15 - 0,293013,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1770016,2016
 02/21/2016,away,12360,474,New Orleans,9,True,6,9,-3,loss,6 - 9,293372,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1770016,2016
@@ -59,5 +59,5 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 05/28/2016,home,12360,574,Rice,9,True,13,10,3,win,13 - 10,4149915,574,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1770016,2016
 06/03/2016,home,12360,97,Cal St. Fullerton,9,True,0,1,-1,loss,0 - 1,314561,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1770016,2016
 06/04/2016,home,12360,654,Southeast Mo. St.,9,True,9,4,5,win,9 - 4,314591,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1770016,2016
-06/05/2016,home,12360,97,Cal St. Fullerton,9,True,6,2,4,win,6 - 2,314623,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1770016,2016
 06/05/2016,away,12360,430,Mississippi St.,9,True,0,4,-4,loss,0 - 4,314608,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1770016,2016
+06/05/2016,home,12360,97,Cal St. Fullerton,9,True,6,2,4,win,6 - 2,314623,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1770016,2016

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,away,12360,147,Clemson,9,True,4,3,1,win,4 - 3,292499,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1652622,2016
 02/20/2016,away,12360,147,Clemson,9,True,4,9,-5,loss,4 - 9,292730,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1652622,2016
 02/21/2016,away,12360,147,Clemson,9,True,2,19,-17,loss,2 - 19,293194,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1652622,2016
@@ -51,6 +51,6 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 05/20/2016,away,12360,62,Binghamton,9,True,3,7,-4,loss,3 - 7,313955,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1652622,2016
 05/20/2016,away,12360,62,Binghamton,9,True,2,4,-2,loss,2 - 4,313957,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1652622,2016
 05/21/2016,away,12360,62,Binghamton,9,True,12,7,5,win,12 - 7,314112,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1652622,2016
-05/25/2016,home,12360,683,Stony Brook,9,True,0,1,-1,loss,0 - 1,314220,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1652622,2016
 05/25/2016,home,12360,391,UMBC,9,True,11,1,10,win,11 - 1,314221,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1652622,2016
+05/25/2016,home,12360,683,Stony Brook,9,True,0,1,-1,loss,0 - 1,314220,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1652622,2016
 05/26/2016,home,12360,14,UAlbany,9,True,8,9,-1,loss,8 - 9,314293,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1652622,2016

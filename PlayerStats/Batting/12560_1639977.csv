@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/16/2017,home,12560,104,UC Santa Barbara,9,True,3,6,-3,loss,3 - 6,205769,370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1639977,2017
 02/18/2017,home,12560,104,UC Santa Barbara,9,True,1,0,1,win,1 - 0,206053,370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1639977,2017
 02/19/2017,home,12560,104,UC Santa Barbara,9,True,8,2,6,win,8 - 2,206462,370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1639977,2017
@@ -53,5 +53,5 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 05/20/2017,away,12560,551,Portland,10,True,6,4,2,win,6 - 4,227141,370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1639977,2017
 05/21/2017,away,12560,551,Portland,9,True,16,5,11,win,16 - 5,227267,370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1639977,2017
 05/25/2017,home,12560,77,BYU,9,True,3,2,1,win,3 - 2,227455,370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1639977,2017
-05/26/2017,home,12560,77,BYU,9,True,4,5,-1,loss,4 - 5,227541,370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1639977,2017
 05/26/2017,home,12560,260,Gonzaga,9,True,1,3,-2,loss,1 - 3,227540,370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1639977,2017
+05/26/2017,home,12560,77,BYU,9,True,4,5,-1,loss,4 - 5,227541,370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1639977,2017

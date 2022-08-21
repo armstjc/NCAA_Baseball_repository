@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,1320,Presbyterian,9,True,11,5,6,win,11 - 5,292619,416,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1439099,2016
 02/20/2016,away,12360,244,Furman,9,True,15,8,7,win,15 - 8,292754,416,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1439099,2016
 02/21/2016,home,12360,236,Fordham,9,True,7,2,5,win,7 - 2,293309,416,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1439099,2016

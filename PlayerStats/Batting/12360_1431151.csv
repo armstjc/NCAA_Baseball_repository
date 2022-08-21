@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,231,FIU,9,True,9,2,7,win,9 - 2,292443,433,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1431151,2016
 02/20/2016,home,12360,231,FIU,9,True,7,4,3,win,7 - 4,292689,433,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1431151,2016
 02/21/2016,home,12360,231,FIU,9,True,16,5,11,win,16 - 5,293146,433,0,2,1,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1431151,2016
@@ -41,7 +41,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/23/2016,home,12360,37,Auburn,9,True,7,4,3,win,7 - 4,308363,433,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1431151,2016
 04/24/2016,home,12360,37,Auburn,9,True,6,5,1,win,6 - 5,309123,433,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1431151,2016
 04/26/2016,home,12360,430,Mississippi St.,9,True,0,2,-2,loss,0 - 2,309689,433,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1431151,2016
-04/28/2016,home,12360,365,LSU,9,True,7,6,1,win,7 - 6,309905,433,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1431151,2016
+04/28/2016,home,12360,365,LSU,9,True,7,6,1,win,7 - 6,309905,433,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1431151,2016
 04/29/2016,home,12360,365,LSU,9,True,3,6,-3,loss,3 - 6,309998,433,0,3,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1431151,2016
 04/30/2016,home,12360,365,LSU,9,True,8,2,6,win,8 - 2,310365,433,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1431151,2016
 05/04/2016,home,12360,2678,Ark.-Pine Bluff,9,True,12,1,11,win,12 - 1,311420,433,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1431151,2016

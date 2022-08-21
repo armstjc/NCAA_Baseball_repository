@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,306,Indiana,9,True,4,14,-10,loss,4 - 14,292561,419,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1533538,2016
 02/20/2016,home,12360,306,Indiana,11,True,3,2,1,win,3 - 2,293059,419,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1533538,2016
 02/20/2016,home,12360,306,Indiana,10,True,5,4,1,win,5 - 4,293078,419,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1533538,2016

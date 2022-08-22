@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/26/2017,away,12560,367,Louisville,9,True,0,6,-6,loss,0 - 6,207777,464,0,0,1.0,0.0,2,3,3,1,0,0,6,5,0,0,0,0,0,0,0,2,0,0,0,12,0,3,0,0,0,3,0,1537014,2017
+03/03/2017,away,12560,2743,UIW,9,True,11,12,-1,loss,11 - 12,208354,464,0,0,0.2,0.0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,1,1,0,0,19,2,0,0,0,0,3,0,1537014,2017
+04/18/2017,away,12560,721,Air Force,9,True,5,24,-19,loss,5 - 24,220587,464,0,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,1537014,2017
+04/19/2017,away,12560,721,Air Force,9,True,17,16,1,win,17 - 16,220877,464,0,0,1.0,0.0,4,3,3,0,2,0,7,7,2,0,0,0,0,0,0,1,1,0,0,20,1,0,0,0,0,5,0,1537014,2017
+05/16/2017,away,12560,312,Iowa,9,True,8,9,-1,loss,8 - 9,226651,464,0,0,0.1,0.0,3,2,2,0,0,0,3,3,2,0,0,1,0,0,0,1,1,0,0,10,0,0,0,0,0,4,0,1537014,2017

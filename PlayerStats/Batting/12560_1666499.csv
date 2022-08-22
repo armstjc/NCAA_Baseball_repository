@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/24/2017,away,12560,472,New Mexico St.,9,True,2,13,-11,loss,2 - 13,207024,450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1666499,2017
 02/25/2017,away,12560,472,New Mexico St.,9,True,3,6,-3,loss,3 - 6,207392,450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1666499,2017
 02/25/2017,away,12560,472,New Mexico St.,9,True,4,25,-21,loss,4 - 25,207485,450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1666499,2017

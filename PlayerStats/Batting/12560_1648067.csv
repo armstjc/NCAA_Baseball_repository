@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/17/2017,away,12560,465,UNLV,9,True,3,20,-17,loss,3 - 20,205870,464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1648067,2017
 02/19/2017,away,12560,465,UNLV,9,True,8,2,6,win,8 - 2,206543,464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1648067,2017
 02/19/2017,home,12560,610,Saint Mary's (CA),9,True,3,9,-6,loss,3 - 9,206592,464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1648067,2017

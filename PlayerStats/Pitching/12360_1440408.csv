@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/27/2016,away,12360,316,Jacksonville,9,True,2,13,-11,loss,2 - 13,294085,450,0,1,3.0,0.0,5,5,5,5,2,0,20,12,3,0,0,0,3,1,0,0,0,1,1,0,2,5,0,1,0,1,1,1440408,2016
+03/04/2016,away,12360,456,UNC Asheville,9,True,5,8,-3,loss,5 - 8,295136,450,0,1,2.1,0.0,5,4,4,1,2,0,14,12,0,0,0,2,0,1,0,0,0,0,0,0,1,4,0,1,0,1,1,1440408,2016
+05/20/2016,home,12360,81,Bryant,9,True,1,19,-18,loss,1 - 19,313958,450,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1440408,2016

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,539,Penn St.,9,True,3,1,2,win,3 - 1,292610,439,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1648385,2016
 02/20/2016,home,12360,81,Bryant,17,True,4,8,-4,loss,4 - 8,293038,439,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1648385,2016
 02/20/2016,home,12360,81,Bryant,9,True,5,8,-3,loss,5 - 8,293093,439,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1648385,2016

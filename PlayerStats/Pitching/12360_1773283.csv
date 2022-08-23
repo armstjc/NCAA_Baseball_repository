@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/19/2016,home,12360,711,Towson,9,True,8,5,3,win,8 - 5,292504,472,0,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,18,0,1,0,0,1,4,0,1773283,2016
+02/21/2016,home,12360,711,Towson,9,True,9,8,1,win,9 - 8,293201,472,0,0,3.1,0.0,2,1,0,1,6,0,13,10,0,0,0,0,0,1,0,1,0,1,0,51,3,0,1,0,0,5,2,1773283,2016
+02/27/2016,home,12360,380,Maine,9,True,3,2,1,win,3 - 2,294036,472,0,0,1.0,0.0,0,0,0,0,2,0,3,2,0,0,0,0,0,1,0,0,0,0,0,21,0,0,1,0,0,3,1,1773283,2016
+03/01/2016,away,12360,700,Texas Tech,9,True,7,6,1,win,7 - 6,294738,472,0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4,1,1773283,2016

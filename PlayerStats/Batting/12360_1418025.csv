@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,17,Alcorn,9,True,12,3,9,win,12 - 3,292671,474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1418025,2016
 02/20/2016,home,12360,261,Grambling,9,True,11,8,3,win,11 - 8,293125,474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1418025,2016
 02/21/2016,home,12360,366,Louisiana Tech,9,True,9,6,3,win,9 - 6,293372,474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1418025,2016

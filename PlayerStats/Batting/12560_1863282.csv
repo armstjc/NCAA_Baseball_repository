@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/17/2017,home,12560,136,Chicago St.,9,True,1,11,-10,loss,1 - 11,205962,503,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1863282,2017
 02/17/2017,home,12560,649,South Dakota St.,9,True,2,7,-5,loss,2 - 7,205961,503,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1863282,2017
 02/18/2017,home,12560,136,Chicago St.,12,True,6,7,-1,loss,6 - 7,206370,503,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1863282,2017

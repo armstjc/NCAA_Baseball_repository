@@ -1,11 +1,11 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/06/2016,home,12360,422,Miles,9,True,6,1,5,win,6 - 1,291751,487,1,2,2,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1630638,2016
 02/06/2016,home,12360,422,Miles,9,True,8,2,6,win,8 - 2,291805,487,2,4,3,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1630638,2016
 02/07/2016,home,12360,680,Stillman,9,True,17,2,15,win,17 - 2,291913,487,3,4,4,1,0,0,0,4,0,0,0,0,0,0,0,0,1,0,1630638,2016
 02/07/2016,home,12360,680,Stillman,9,True,12,1,11,win,12 - 1,291921,487,2,4,2,1,0,0,0,2,0,0,0,0,1,0,0,0,1,0,1630638,2016
 02/13/2016,away,12360,30191,Spring Hill,9,True,3,6,-3,loss,3 - 6,292152,487,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1630638,2016
 02/13/2016,away,12360,30191,Spring Hill,9,True,5,6,-1,loss,5 - 6,292187,487,0,5,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1630638,2016
-02/14/2016,away,12360,30191,Spring Hill,9,True,7,4,3,win,7 - 4,292278,487,2,3,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1630638,2016
+02/14/2016,away,12360,30191,Spring Hill,9,True,7,4,3,win,7 - 4,292278,487,2,3,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1630638,2016
 02/19/2016,home,12360,766,West Ga.,9,True,1,13,-12,loss,1 - 13,292595,487,0,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1630638,2016
 02/19/2016,home,12360,766,West Ga.,9,True,3,2,1,win,3 - 2,292605,487,1,4,2,0,0,0,1,2,0,0,0,0,1,0,0,0,0,0,1630638,2016
 02/20/2016,home,12360,766,West Ga.,11,True,5,4,1,win,5 - 4,292745,487,1,5,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1630638,2016

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,523,Old Dominion,9,True,0,5,-5,loss,0 - 5,292627,490,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1660585,2016
 02/20/2016,away,12360,149,Coastal Carolina,9,True,13,10,3,win,13 - 10,292764,490,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1660585,2016
 02/21/2016,home,12360,331,Kent St.,9,True,7,5,2,win,7 - 5,293312,490,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1660585,2016
@@ -44,7 +44,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 05/01/2016,home,12360,193,Duke,9,True,1,2,-1,loss,1 - 2,310986,490,0,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1660585,2016
 05/06/2016,away,12360,147,Clemson,9,True,5,10,-5,loss,5 - 10,311636,490,1,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1660585,2016
 05/07/2016,away,12360,147,Clemson,9,True,20,9,11,win,20 - 9,311926,490,3,3,2,0,0,0,0,2,3,0,0,0,1,0,0,0,0,0,1660585,2016
-05/08/2016,away,12360,147,Clemson,9,True,1,2,-1,loss,1 - 2,312379,490,0,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1660585,2016
+05/08/2016,away,12360,147,Clemson,9,True,1,2,-1,loss,1 - 2,312379,490,0,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1660585,2016
 05/13/2016,away,12360,367,Louisville,9,True,0,2,-2,loss,0 - 2,312884,490,0,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1660585,2016
 05/14/2016,away,12360,367,Louisville,9,True,2,4,-2,loss,2 - 4,313111,490,0,5,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1660585,2016
 05/15/2016,away,12360,367,Louisville,9,True,1,6,-5,loss,1 - 6,313339,490,0,4,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1660585,2016

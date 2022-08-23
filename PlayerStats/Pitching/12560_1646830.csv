@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/28/2017,home,12560,456,UNC Asheville,9,True,14,3,11,win,14 - 3,214815,459,0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,5,0,1646830,2017
+04/11/2017,away,12560,490,NC State,9,True,1,10,-9,loss,1 - 10,218564,459,0,0,2.0,0.0,0,0,0,0,1,0,6,6,0,0,0,0,0,0,0,0,0,0,0,18,1,4,0,0,0,5,0,1646830,2017
+04/13/2017,home,12560,2915,Wofford,9,True,4,13,-9,loss,4 - 13,219121,459,0,0,1.0,0.0,2,3,1,0,2,0,6,5,0,0,0,1,0,0,0,0,0,0,1,24,0,1,0,0,0,4,0,1646830,2017
+05/02/2017,away,12560,1068,Elon,9,True,10,3,7,win,10 - 3,224396,459,0,0,1.0,0.0,0,0,0,0,1,0,4,3,0,0,0,0,0,1,0,0,0,0,0,16,0,2,0,0,0,6,0,1646830,2017
+05/19/2017,away,12560,625,Samford,9,True,1,7,-6,loss,1 - 7,226969,459,0,0,1.0,0.0,3,2,1,0,0,0,7,6,0,0,0,0,0,0,0,0,0,1,0,22,2,1,0,0,0,4,0,1646830,2017

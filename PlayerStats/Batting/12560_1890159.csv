@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/17/2017,home,12560,749,Wake Forest,9,True,0,5,-5,loss,0 - 5,205997,483,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1890159,2017
 02/18/2017,home,12560,749,Wake Forest,9,True,12,5,7,win,12 - 5,206255,483,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1890159,2017
 02/18/2017,away,12560,288,Houston,9,True,3,5,-2,loss,3 - 5,206011,483,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1890159,2017

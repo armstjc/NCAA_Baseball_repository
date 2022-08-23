@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/25/2017,home,12560,482,Niagara,9,True,0,9,-9,loss,0 - 9,207341,485,0,0,1.0,0.0,2,2,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1865296,2017
+05/10/2017,home,12560,363,Longwood,9,True,6,13,-7,loss,6 - 13,225859,485,0,0,1.0,0.0,0,2,0,0,2,0,6,4,0,0,0,0,0,2,0,0,0,0,0,23,0,1,0,0,0,5,0,1865296,2017
+05/19/2017,home,12560,61,Bethune-Cookman,9,True,6,16,-10,loss,6 - 16,227035,485,0,0,4.0,0.0,4,4,4,1,1,0,19,16,1,0,0,3,0,2,0,0,0,0,0,69,1,10,0,0,0,3,1,1865296,2017

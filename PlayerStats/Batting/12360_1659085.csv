@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,432,Mississippi Val.,9,True,6,1,5,win,6 - 1,292509,483,2,4,4,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,1659085,2016
 02/20/2016,home,12360,432,Mississippi Val.,9,True,18,2,16,win,18 - 2,292828,483,1,4,4,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1659085,2016
 02/20/2016,home,12360,432,Mississippi Val.,9,True,15,1,14,win,15 - 1,292936,483,2,3,2,1,0,0,0,4,0,0,1,0,0,0,0,0,0,0,1659085,2016
@@ -12,7 +12,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 03/04/2016,home,12360,2,Abilene Christian,9,True,4,5,-1,loss,4 - 5,295059,483,0,4,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1659085,2016
 03/05/2016,home,12360,2,Abilene Christian,9,True,4,2,2,win,4 - 2,295290,483,0,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1659085,2016
 03/06/2016,home,12360,2,Abilene Christian,9,True,3,5,-2,loss,3 - 5,295852,483,1,2,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1659085,2016
-03/09/2016,home,12360,590,Sacred Heart,9,True,8,7,1,win,8 - 7,296678,483,1,5,2,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1659085,2016
+03/09/2016,home,12360,590,Sacred Heart,9,True,8,7,1,win,8 - 7,296678,483,1,5,2,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1659085,2016
 03/11/2016,home,12360,590,Sacred Heart,9,True,5,0,5,win,5 - 0,297123,483,1,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1659085,2016
 03/11/2016,home,12360,590,Sacred Heart,9,True,5,7,-2,loss,5 - 7,297136,483,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1659085,2016
 03/15/2016,home,12360,718,Tulane,9,True,2,1,1,win,2 - 1,298185,483,0,4,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1659085,2016
@@ -42,7 +42,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/24/2016,away,12360,463,Nebraska,9,True,2,4,-2,loss,2 - 4,309103,483,1,3,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1659085,2016
 04/29/2016,home,12360,402,McNeese,9,True,3,0,3,win,3 - 0,310059,483,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1659085,2016
 04/30/2016,home,12360,402,McNeese,9,True,6,5,1,win,6 - 5,310833,483,0,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1659085,2016
-04/30/2016,home,12360,402,McNeese,9,True,2,1,1,win,2 - 1,310884,483,0,3,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1659085,2016
+04/30/2016,home,12360,402,McNeese,9,True,2,1,1,win,2 - 1,310884,483,0,3,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1659085,2016
 05/03/2016,away,12360,498,ULM,9,True,1,3,-2,loss,1 - 3,311352,483,0,4,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1659085,2016
 05/06/2016,away,12360,287,Houston Baptist,9,True,3,8,-5,loss,3 - 8,311645,483,1,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1659085,2016
 05/07/2016,away,12360,287,Houston Baptist,9,True,5,3,2,win,5 - 3,311934,483,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1659085,2016

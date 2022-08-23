@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/28/2016,home,12360,482,Niagara,9,True,11,12,-1,loss,11 - 12,294441,489,0,0,0.2,0.0,0,0,0,2,1,0,4,2,0,0,0,0,0,0,0,2,2,0,0,27,1,0,0,0,0,6,1,1771399,2016
+03/06/2016,home,12360,471,NJIT,9,True,8,4,4,win,8 - 4,295930,489,0,0,1.0,0.0,2,2,2,1,0,0,6,5,0,0,0,1,1,0,0,0,0,0,0,25,2,1,0,0,0,4,0,1771399,2016
+03/08/2016,away,12360,48,Charleston So.,9,True,6,9,-3,loss,6 - 9,296318,489,0,0,1.0,0.0,0,0,0,1,0,0,5,2,0,0,0,0,0,1,0,1,0,1,0,0,1,2,0,0,0,5,0,1771399,2016
+03/09/2016,home,12360,485,Norfolk St.,9,True,9,13,-4,loss,9 - 13,296595,489,0,0,2.1,0.0,3,1,1,2,1,0,12,10,1,0,0,0,1,0,0,2,1,0,0,46,4,2,0,0,0,2,1,1771399,2016

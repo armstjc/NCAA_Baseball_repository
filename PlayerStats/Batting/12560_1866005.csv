@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/17/2017,away,12560,626,San Diego St.,9,True,5,11,-6,loss,5 - 11,205805,534,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1866005,2017
 02/18/2017,away,12560,626,San Diego St.,10,True,5,1,4,win,5 - 1,206017,534,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1866005,2017
 02/19/2017,away,12560,626,San Diego St.,9,True,0,11,-11,loss,0 - 11,206412,534,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1866005,2017

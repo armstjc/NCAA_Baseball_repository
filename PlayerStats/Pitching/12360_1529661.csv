@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/01/2016,away,12360,768,West Virginia,10,True,4,5,-1,loss,4 - 5,302347,521,0,0,1.0,0.0,1,1,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,1,17,1,2,0,0,0,2,0,1529661,2016
+05/10/2016,home,12360,1045,DBU,11,True,8,7,1,win,8 - 7,312698,521,0,0,2.0,0.0,4,2,2,0,4,0,10,10,0,1,1,0,0,0,0,0,0,0,0,32,0,2,0,0,0,3,2,1529661,2016
+05/14/2016,home,12360,522,Oklahoma,9,True,10,9,1,win,10 - 9,313283,521,0,0,3.1,0.0,4,2,2,1,2,0,14,13,1,0,0,0,0,0,0,2,0,0,0,53,4,3,1,0,0,2,0,1529661,2016

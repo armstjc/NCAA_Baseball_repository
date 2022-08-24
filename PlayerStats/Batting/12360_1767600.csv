@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,709,Toledo,9,True,7,1,6,win,7 - 1,292639,518,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1767600,2016
 02/20/2016,home,12360,482,Niagara,9,True,10,7,3,win,10 - 7,293023,518,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1767600,2016
 02/20/2016,home,12360,545,Pittsburgh,13,True,11,8,3,win,11 - 8,293024,518,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1767600,2016

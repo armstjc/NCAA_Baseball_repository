@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 03/04/2016,away,12360,2711,North Florida,9,True,5,17,-12,loss,5 - 17,295025,540,0,3,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1432601,2016
 03/05/2016,away,12360,2711,North Florida,9,True,3,5,-2,loss,3 - 5,295271,540,1,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1432601,2016
 03/06/2016,away,12360,2711,North Florida,9,True,3,2,1,win,3 - 2,295813,540,1,4,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1432601,2016
@@ -8,7 +8,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 03/12/2016,home,12360,251,Georgetown,9,True,1,9,-8,loss,1 - 9,297526,540,0,4,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1432601,2016
 03/13/2016,home,12360,251,Georgetown,9,True,6,11,-5,loss,6 - 11,297915,540,3,4,3,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1432601,2016
 03/16/2016,away,12360,739,Villanova,9,True,1,6,-5,loss,1 - 6,298425,540,0,3,1,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,1432601,2016
-03/18/2016,home,12360,62,Binghamton,9,True,6,2,4,win,6 - 2,298916,540,1,2,2,1,0,0,0,0,2,1,0,0,0,0,1,0,0,0,1432601,2016
+03/18/2016,home,12360,62,Binghamton,9,True,6,2,4,win,6 - 2,298916,540,1,2,2,1,0,0,0,0,2,1,0,0,0,0,1,0,0,1,1432601,2016
 03/19/2016,home,12360,62,Binghamton,9,True,0,7,-7,loss,0 - 7,299209,540,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1432601,2016
 03/19/2016,home,12360,62,Binghamton,9,True,1,0,1,win,1 - 0,299333,540,0,4,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1432601,2016
 03/23/2016,away,12360,352,Lehigh,9,True,11,4,7,win,11 - 4,300258,540,2,4,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1432601,2016

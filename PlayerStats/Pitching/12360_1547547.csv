@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+03/05/2016,away,12360,2711,North Florida,9,True,3,5,-2,loss,3 - 5,295271,540,0,0,1.2,0.0,0,0,0,2,1,0,8,5,0,0,0,0,0,0,0,1,1,1,0,21,3,1,0,0,0,3,1,1547547,2016
+03/09/2016,home,12360,285,Holy Cross,9,True,3,5,-2,loss,3 - 5,296640,540,0,1,3.0,0.0,5,3,3,1,2,0,14,13,2,0,0,1,0,0,0,0,0,0,0,0,3,3,0,0,0,1,0,1547547,2016
+03/16/2016,away,12360,739,Villanova,9,True,1,6,-5,loss,1 - 6,298425,540,0,1,1.2,0.0,5,5,5,0,2,0,11,10,2,0,0,1,0,1,0,0,0,0,0,40,2,1,0,1,0,1,2,1547547,2016

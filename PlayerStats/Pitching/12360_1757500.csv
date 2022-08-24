@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/21/2016,home,12360,676,SFA,10,True,4,5,-1,loss,4 - 5,293365,521,0,1,2.2,0.0,1,1,1,1,3,0,11,9,1,0,0,0,2,1,0,0,0,0,0,50,1,4,0,0,0,1,1,1757500,2016
+03/01/2016,home,12360,2743,UIW,9,True,7,1,6,win,7 - 1,294817,521,0,1,3.0,0.0,2,1,1,3,5,0,14,11,0,0,0,0,0,0,0,0,0,0,0,53,2,2,0,0,0,1,1,1757500,2016

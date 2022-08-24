@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 03/04/2016,away,12360,367,Louisville,9,True,2,4,-2,loss,2 - 4,295010,554,0,4,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,1547351,2016
 03/05/2016,away,12360,367,Louisville,9,True,1,9,-8,loss,1 - 9,295262,554,0,3,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1547351,2016
 03/06/2016,away,12360,367,Louisville,9,True,0,11,-11,loss,0 - 11,295798,554,0,4,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1547351,2016

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,416,Michigan St.,9,True,5,11,-6,loss,5 - 11,292619,1320,0,3,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1644885,2016
 02/20/2016,home,12360,236,Fordham,9,True,7,1,6,win,7 - 1,293004,1320,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1644885,2016
 02/21/2016,away,12360,244,Furman,11,True,8,9,-1,loss,8 - 9,293243,1320,1,4,2,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1644885,2016
@@ -27,7 +27,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/02/2016,away,12360,456,UNC Asheville,9,True,13,8,5,win,13 - 8,302654,1320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1644885,2016
 04/03/2016,away,12360,456,UNC Asheville,9,True,9,22,-13,loss,9 - 22,303264,1320,2,3,2,1,0,0,1,1,2,0,0,0,1,0,0,0,0,0,1644885,2016
 04/06/2016,away,12360,10411,USC Upstate,9,True,6,5,1,win,6 - 5,303776,1320,0,3,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1644885,2016
-04/08/2016,home,12360,792,Winthrop,9,True,4,3,1,win,4 - 3,303986,1320,1,4,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1644885,2016
+04/08/2016,home,12360,792,Winthrop,9,True,4,3,1,win,4 - 3,303986,1320,1,4,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1644885,2016
 04/09/2016,home,12360,792,Winthrop,9,True,2,1,1,win,2 - 1,304306,1320,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1644885,2016
 04/10/2016,home,12360,792,Winthrop,9,True,9,3,6,win,9 - 3,304803,1320,1,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1644885,2016
 04/13/2016,home,12360,244,Furman,9,True,8,10,-2,loss,8 - 10,305595,1320,1,4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1644885,2016

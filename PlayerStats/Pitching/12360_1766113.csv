@@ -1,0 +1,5 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/21/2016,home,12360,109,UC Irvine,9,True,0,11,-11,loss,0 - 11,293199,630,0,0,0.0,0.0,0,2,2,2,0,0,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1766113,2016
+02/26/2016,home,12360,370,LMU (CA),9,True,4,13,-9,loss,4 - 13,293595,630,0,0,0.1,0.0,0,0,0,1,0,0,3,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,3,0,1766113,2016
+04/12/2016,away,12360,674,Stanford,9,True,0,10,-10,loss,0 - 10,305367,630,0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,0,2,0,0,0,6,1,1766113,2016
+04/29/2016,home,12360,465,UNLV,9,True,0,12,-12,loss,0 - 12,310045,630,0,0,1.0,0.0,2,2,2,0,0,0,5,4,1,0,0,0,0,0,0,0,0,0,1,18,1,2,0,0,0,3,0,1766113,2016

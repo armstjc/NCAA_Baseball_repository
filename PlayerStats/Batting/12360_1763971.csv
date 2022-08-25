@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,away,12360,406,Mercer,9,True,7,10,-3,loss,7 - 10,292668,563,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1763971,2016
 02/20/2016,away,12360,406,Mercer,9,True,7,8,-1,loss,7 - 8,293115,563,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1763971,2016
 02/21/2016,away,12360,406,Mercer,9,True,2,9,-7,loss,2 - 9,293369,563,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1763971,2016
@@ -39,7 +39,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/23/2016,home,12360,248,George Mason,9,True,0,2,-2,loss,0 - 2,308413,563,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1763971,2016
 04/23/2016,home,12360,248,George Mason,9,True,3,9,-6,loss,3 - 9,309039,563,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1763971,2016
 04/24/2016,home,12360,248,George Mason,9,True,8,7,1,win,8 - 7,309192,563,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1763971,2016
-04/26/2016,home,12360,198,ETSU,9,True,6,5,1,win,6 - 5,309603,563,0,4,1,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1763971,2016
+04/26/2016,home,12360,198,ETSU,9,True,6,5,1,win,6 - 5,309603,563,0,4,1,0,0,0,0,0,1,0,0,0,2,0,0,0,0,1,1763971,2016
 04/29/2016,home,12360,1092,Gardner-Webb,9,True,1,0,1,win,1 - 0,310052,563,0,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1763971,2016
 04/30/2016,home,12360,1092,Gardner-Webb,9,True,4,10,-6,loss,4 - 10,310827,563,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1763971,2016
 04/30/2016,home,12360,1092,Gardner-Webb,9,True,6,4,2,win,6 - 4,310869,563,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1763971,2016

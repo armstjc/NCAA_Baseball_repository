@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,529,Oregon,9,True,2,8,-6,loss,2 - 8,292474,626,0,3,0,0,0,0,0,1,0,0,1,0,2,0,0,0,0,0,1309968,2016
 02/20/2016,home,12360,529,Oregon,9,True,5,10,-5,loss,5 - 10,292715,626,1,3,1,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,1309968,2016
 02/21/2016,home,12360,529,Oregon,9,True,3,4,-1,loss,3 - 4,293175,626,1,3,1,0,0,0,1,2,0,1,0,0,0,0,1,0,0,0,1309968,2016
@@ -34,7 +34,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/15/2016,away,12360,700,Texas Tech,9,True,1,3,-2,loss,1 - 3,306054,626,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1309968,2016
 04/16/2016,away,12360,700,Texas Tech,9,True,0,10,-10,loss,0 - 10,306332,626,0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1309968,2016
 04/17/2016,away,12360,700,Texas Tech,9,True,2,7,-5,loss,2 - 7,307097,626,0,3,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1309968,2016
-04/19/2016,home,12360,109,UC Irvine,9,True,5,1,4,win,5 - 1,307516,626,1,2,1,0,0,0,1,1,2,0,0,0,1,0,0,0,1,0,1309968,2016
+04/19/2016,home,12360,109,UC Irvine,9,True,5,1,4,win,5 - 1,307516,626,1,2,1,0,0,0,1,1,2,0,0,0,1,0,0,0,1,1,1309968,2016
 04/22/2016,away,12360,473,New Mexico,9,True,5,10,-5,loss,5 - 10,308075,626,1,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1309968,2016
 04/23/2016,away,12360,473,New Mexico,9,True,7,13,-6,loss,7 - 13,308362,626,2,4,2,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1309968,2016
 04/24/2016,away,12360,473,New Mexico,9,True,10,9,1,win,10 - 9,309122,626,1,4,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1309968,2016

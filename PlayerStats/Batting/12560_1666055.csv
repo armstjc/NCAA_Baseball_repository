@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/17/2017,away,12560,706,UTSA,9,True,5,4,1,win,5 - 4,205844,562,0,4,1,0,0,1,0,1,0,0,0,0,3,0,0,0,1,0,1666055,2017
 02/18/2017,away,12560,706,UTSA,9,True,1,12,-11,loss,1 - 12,206128,562,0,2,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,1666055,2017
 02/18/2017,away,12560,706,UTSA,12,True,8,7,1,win,8 - 7,206198,562,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1666055,2017

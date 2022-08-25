@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/18/2017,home,12560,201,Eastern Ill.,9,True,8,2,6,win,8 - 2,206339,646,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1884741,2017
 02/18/2017,home,12560,201,Eastern Ill.,9,True,32,0,32,win,32 - 0,206352,646,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1884741,2017
 02/19/2017,home,12560,201,Eastern Ill.,9,True,8,3,5,win,8 - 3,206510,646,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1884741,2017

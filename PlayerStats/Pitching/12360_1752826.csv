@@ -1,0 +1,4 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/27/2016,home,12360,698,TCU,9,True,0,10,-10,loss,0 - 10,294112,574,0,0,0.1,0.0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,7,1,0,0,0,0,3,0,1752826,2016
+03/19/2016,away,12360,706,UTSA,9,True,1,6,-5,loss,1 - 6,299046,574,0,0,0.2,0.0,0,2,2,1,0,0,4,1,0,0,0,0,0,1,0,0,0,1,0,8,2,0,0,0,0,2,0,1752826,2016
+05/17/2016,home,12360,288,Houston,9,True,6,24,-18,loss,6 - 24,313538,574,0,0,0.1,0.0,1,5,5,0,0,0,6,2,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0,9,0,1752826,2016

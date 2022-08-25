@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/26/2016,away,12360,2915,Wofford,9,True,4,12,-8,loss,4 - 12,293552,576,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1646954,2016
 02/27/2016,home,12360,456,UNC Asheville,9,True,4,19,-15,loss,4 - 19,294144,576,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1646954,2016
 02/28/2016,away,12360,10411,USC Upstate,9,True,3,10,-7,loss,3 - 10,294343,576,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1646954,2016

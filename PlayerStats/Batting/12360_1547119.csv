@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,494,North Dakota,9,True,0,1,-1,loss,0 - 1,292508,657,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1547119,2016
 02/20/2016,home,12360,494,North Dakota,9,True,4,5,-1,loss,4 - 5,292735,657,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1547119,2016
 02/21/2016,home,12360,494,North Dakota,9,True,7,6,1,win,7 - 6,293206,657,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1547119,2016
@@ -40,7 +40,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/26/2016,home,12360,109,UC Irvine,9,True,5,6,-1,loss,5 - 6,309596,657,2,4,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1547119,2016
 04/28/2016,home,12360,29,Arizona,9,True,5,8,-3,loss,5 - 8,309915,657,1,5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1547119,2016
 04/29/2016,home,12360,29,Arizona,9,True,8,5,3,win,8 - 5,310047,657,2,5,3,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1547119,2016
-04/30/2016,home,12360,29,Arizona,9,True,5,2,3,win,5 - 2,310399,657,2,4,1,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,1547119,2016
+04/30/2016,home,12360,29,Arizona,9,True,5,2,3,win,5 - 2,310399,657,2,4,1,0,0,0,0,0,1,0,0,0,2,0,0,0,1,1,1547119,2016
 05/06/2016,home,12360,756,Washington,9,True,4,3,1,win,4 - 3,311644,657,1,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1547119,2016
 05/07/2016,home,12360,756,Washington,9,True,3,7,-4,loss,3 - 7,311933,657,2,4,1,1,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1547119,2016
 05/08/2016,home,12360,756,Washington,9,True,0,6,-6,loss,0 - 6,312387,657,0,3,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1547119,2016

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,771,Western Ill.,9,True,13,12,1,win,13 - 12,292560,692,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1648210,2016
 02/20/2016,home,12360,771,Western Ill.,9,True,6,3,3,win,6 - 3,293060,692,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1648210,2016
 02/20/2016,home,12360,771,Western Ill.,9,True,6,5,1,win,6 - 5,293079,692,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1648210,2016

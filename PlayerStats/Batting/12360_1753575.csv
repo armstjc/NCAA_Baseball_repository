@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/20/2016,home,12360,97,Cal St. Fullerton,9,True,2,0,2,win,2 - 0,293065,674,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1753575,2016
 02/20/2016,home,12360,97,Cal St. Fullerton,9,True,2,1,1,win,2 - 1,293076,674,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1753575,2016
 02/21/2016,home,12360,97,Cal St. Fullerton,9,True,3,4,-1,loss,3 - 4,293149,674,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1753575,2016

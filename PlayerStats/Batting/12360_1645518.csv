@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,away,12360,314,Jackson St.,9,True,5,8,-3,loss,5 - 8,292507,695,0,2,1,0,0,1,0,3,1,1,1,0,1,0,0,0,0,0,1645518,2016
 02/20/2016,away,12360,314,Jackson St.,9,True,18,9,9,win,18 - 9,292826,695,3,7,3,1,0,4,0,2,0,0,0,0,3,0,0,0,0,0,1645518,2016
 02/20/2016,away,12360,314,Jackson St.,9,True,12,2,10,win,12 - 2,292934,695,1,5,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1645518,2016
@@ -40,7 +40,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/24/2016,home,12360,314,Jackson St.,9,True,11,8,3,win,11 - 8,309242,695,0,4,2,0,0,2,0,4,1,0,0,0,0,0,0,0,0,0,1645518,2016
 04/29/2016,home,12360,660,SIUE,9,True,5,4,1,win,5 - 4,310100,695,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1645518,2016
 04/30/2016,home,12360,660,SIUE,9,True,4,6,-2,loss,4 - 6,310805,695,0,3,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1645518,2016
-04/30/2016,home,12360,660,SIUE,9,True,8,7,1,win,8 - 7,310856,695,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1645518,2016
+04/30/2016,home,12360,660,SIUE,9,True,8,7,1,win,8 - 7,310856,695,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1645518,2016
 05/03/2016,away,12360,30153,Union (TN),9,True,6,7,-1,loss,6 - 7,311325,695,1,4,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1645518,2016
 05/06/2016,away,12360,43,Austin Peay,9,True,3,8,-5,loss,3 - 8,311589,695,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1645518,2016
 05/07/2016,away,12360,43,Austin Peay,9,True,9,7,2,win,9 - 7,311882,695,1,5,1,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,1645518,2016

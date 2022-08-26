@@ -44,7 +44,7 @@ def getAllGbgStats():
     #print(schools)
     hasRoster = True
 
-    for s in range(258,len(schools)):
+    for s in range(266,len(schools)):
         i = schools[s]
         print(i)
         try:

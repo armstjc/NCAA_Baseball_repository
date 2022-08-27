@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,47,Ball St.,9,True,5,1,4,win,5 - 1,292636,30024,1,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1530872,2016
 02/20/2016,home,12360,428,Minnesota,9,True,2,8,-6,loss,2 - 8,293016,30024,1,4,2,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1530872,2016
 02/20/2016,home,12360,528,Oregon St.,9,True,12,9,3,win,12 - 9,293018,30024,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1530872,2016
@@ -8,7 +8,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 02/27/2016,home,12360,108,UC Davis,9,True,0,2,-2,loss,0 - 2,294142,30024,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1530872,2016
 02/28/2016,home,12360,606,Saint Joseph's,9,True,5,6,-1,loss,5 - 6,294526,30024,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1530872,2016
 02/28/2016,home,12360,108,UC Davis,9,True,10,8,2,win,10 - 8,294525,30024,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1530872,2016
-03/03/2016,away,12360,754,Washington St.,9,True,8,0,8,win,8 - 0,294941,30024,1,3,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1530872,2016
+03/03/2016,away,12360,754,Washington St.,9,True,8,0,8,win,8 - 0,294941,30024,1,3,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1530872,2016
 03/04/2016,away,12360,754,Washington St.,9,True,1,10,-9,loss,1 - 10,295082,30024,0,4,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1530872,2016
 03/05/2016,away,12360,754,Washington St.,11,True,10,9,1,win,10 - 9,295305,30024,1,4,1,0,0,0,1,3,2,0,0,0,0,0,0,0,0,0,1530872,2016
 03/06/2016,away,12360,754,Washington St.,9,True,10,6,4,win,10 - 6,295882,30024,0,5,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1530872,2016

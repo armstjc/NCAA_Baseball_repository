@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/19/2016,home,12360,505,Northern Ky.,9,True,10,3,7,win,10 - 3,292573,716,1,5,1,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,1644146,2016
 02/20/2016,home,12360,505,Northern Ky.,9,True,5,0,5,win,5 - 0,292880,716,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1644146,2016
 02/20/2016,home,12360,505,Northern Ky.,9,True,6,1,5,win,6 - 1,292989,716,1,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1644146,2016
@@ -39,7 +39,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 04/19/2016,away,12360,8,Alabama,9,True,3,5,-2,loss,3 - 5,307519,716,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1644146,2016
 04/22/2016,home,12360,702,UT Arlington,9,True,5,2,3,win,5 - 2,308300,716,1,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1644146,2016
 04/23/2016,home,12360,702,UT Arlington,9,True,5,18,-13,loss,5 - 18,308975,716,2,3,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1644146,2016
-04/24/2016,home,12360,702,UT Arlington,10,True,2,4,-2,loss,2 - 4,309431,716,1,4,3,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,1644146,2016
+04/24/2016,home,12360,702,UT Arlington,10,True,2,4,-2,loss,2 - 4,309431,716,1,4,3,0,0,0,1,2,1,0,0,0,0,0,0,0,0,1,1644146,2016
 04/29/2016,away,12360,670,Texas St.,9,True,12,8,4,win,12 - 8,310008,716,3,5,2,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1644146,2016
 04/30/2016,away,12360,670,Texas St.,9,True,5,3,2,win,5 - 3,310372,716,1,5,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1644146,2016
 05/01/2016,away,12360,670,Texas St.,9,True,1,4,-3,loss,1 - 4,310971,716,0,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1644146,2016

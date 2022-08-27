@@ -1,0 +1,3 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+04/30/2016,home,12360,366,Louisiana Tech,9,True,9,14,-5,loss,9 - 14,310384,706,0,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,7,2,0,0,0,0,7,0,1757576,2016
+05/13/2016,home,12360,458,Charlotte,9,True,4,22,-18,loss,4 - 22,312909,706,0,0,0.1,0.0,3,3,1,1,0,0,6,4,2,0,0,0,0,1,0,2,2,0,0,22,0,1,0,0,0,3,0,1757576,2016

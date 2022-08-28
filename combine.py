@@ -10,16 +10,21 @@ def mergeFiles(filePath=""):
     main = pd.DataFrame()
     f = 0
     l = filePath
-
-    for file in glob.iglob(l+"/*csv"):
+    file_list = glob.iglob(l+"/*csv")
+    for file in file_list:
         f +=1
+
+    # with open('filelist.txt','w+',encoding='utf-8') as f:
+    #     f.write(str(file_list))
     for file in tqdm(glob.iglob(l+"/*csv"),total=f,ascii=True, bar_format='{l_bar}{bar:30}{r_bar}{bar:-30b}'):
-        try:
-            df = pd.read_csv(file)
-            main = pd.concat([main,df],ignore_index=True)
-        except:
-            pass
-    return main
+        #len_file = len(file)
+        # if os.stat(file).st_size == 0:
+        #     print(f'{file} is empty')
+        # else:
+        df = pd.read_csv(file)
+        main_df = pd.concat([main,df],ignore_index=True)
+        # main_df = pd.concat([pd.read_csv(f) for f in file_list])
+    return main_df
 
 def mergeBattingLogs():
     f = "PlayerStats/Batting"
@@ -69,7 +74,7 @@ def main():
     mergePitchingLogs()
     splitBattingStats()
     splitPitchingStats()
-    os.remove('PlayerStats/pitching_logs.csv')
-    os.remove('PlayerStats/batting_logs.csv')
+    #os.remove('PlayerStats/pitching_logs.csv')
+    #os.remove('PlayerStats/batting_logs.csv')
 if __name__ == "__main__":
     main()

@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/20/2016,away,12360,772,Western Ky.,9,True,1,11,-10,loss,1 - 11,293083,817,0,0,1.0,0.0,4,4,1,0,0,0,7,7,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,5,0,1528664,2016
+04/20/2016,home,12360,545,Pittsburgh,9,True,5,17,-12,loss,5 - 17,307976,817,0,0,2.1,0.0,3,2,2,1,2,0,13,10,1,0,0,0,0,2,0,3,3,0,0,57,2,3,0,0,0,3,1,1528664,2016
+04/27/2016,home,12360,71,Bowling Green,9,True,2,0,2,win,2 - 0,309902,817,0,0,1.0,0.0,2,0,0,0,3,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1528664,2016
+05/11/2016,away,12360,71,Bowling Green,9,True,9,5,4,win,9 - 5,312717,817,0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,1528664,2016
+05/17/2016,home,12360,331,Kent St.,11,True,11,10,1,win,11 - 10,313543,817,0,0,2.0,0.0,4,4,1,2,3,0,13,11,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,1528664,2016

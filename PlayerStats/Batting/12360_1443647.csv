@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,DP,CS,Picked,SB,IBB,stats_player_seq,season
 02/27/2016,home,12360,280,Hillsdale,9,True,6,3,3,win,6 - 3,293886,52,1,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1443647,2016
 02/27/2016,home,12360,934,Alderson Broaddus,9,True,1,2,-1,loss,1 - 2,293887,52,0,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1443647,2016
 02/28/2016,home,12360,280,Hillsdale,11,True,19,21,-2,loss,19 - 21,294448,52,2,7,3,2,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1443647,2016
@@ -17,7 +17,7 @@ date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored
 03/19/2016,home,12360,510,Northwood,9,True,8,1,7,win,8 - 1,299427,52,2,4,3,1,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1443647,2016
 03/25/2016,away,12360,661,Southern Ind.,9,True,1,12,-11,loss,1 - 12,300839,52,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1443647,2016
 03/25/2016,away,12360,661,Southern Ind.,9,True,0,4,-4,loss,0 - 4,300912,52,0,3,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1443647,2016
-03/26/2016,away,12360,661,Southern Ind.,9,True,6,3,3,win,6 - 3,301293,52,2,2,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1443647,2016
+03/26/2016,away,12360,661,Southern Ind.,9,True,6,3,3,win,6 - 3,301293,52,2,2,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1443647,2016
 03/26/2016,away,12360,661,Southern Ind.,9,True,6,10,-4,loss,6 - 10,301452,52,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1443647,2016
 03/28/2016,home,12360,436,Mo.-St. Louis,9,True,4,7,-3,loss,4 - 7,301691,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1443647,2016
 03/29/2016,home,12360,436,Mo.-St. Louis,9,True,5,8,-3,loss,5 - 8,301911,52,1,5,2,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1443647,2016

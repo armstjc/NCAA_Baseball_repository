@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/21/2016,away,12360,700,Texas Tech,9,True,0,12,-12,loss,0 - 12,293218,797,0,0,0.1,0.0,3,4,4,1,0,0,5,3,1,0,0,0,0,0,0,0,0,0,1,16,0,1,0,0,0,3,0,1753549,2016
+03/04/2016,away,12360,30,Arkansas St.,9,True,3,13,-10,loss,3 - 13,295030,797,0,0,1.2,0.0,1,1,1,3,1,0,10,6,0,0,0,1,2,1,0,1,1,0,0,43,0,4,0,0,0,4,0,1753549,2016
+04/20/2016,home,12360,1066,Edgewood,9,True,7,5,2,win,7 - 5,307779,797,0,0,0.0,0.0,3,2,2,0,0,0,3,3,1,0,0,0,1,0,0,1,1,0,0,14,0,0,0,0,0,6,0,1753549,2016
+04/26/2016,home,12360,20220,MSOE,9,True,15,6,9,win,15 - 6,309569,797,0,0,2.2,0.0,4,2,2,0,5,0,14,12,1,0,0,0,1,2,0,3,1,0,0,64,1,2,0,0,0,4,2,1753549,2016
+05/17/2016,home,12360,503,NIU,9,True,3,7,-4,loss,3 - 7,313485,797,0,0,1.1,0.0,2,1,1,0,1,0,6,6,0,0,0,0,0,0,0,0,0,0,0,22,0,3,0,0,0,4,1,1753549,2016

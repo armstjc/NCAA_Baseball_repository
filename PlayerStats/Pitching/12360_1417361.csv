@@ -1,0 +1,6 @@
+date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
+02/21/2016,home,12360,248,George Mason,9,True,11,6,5,win,11 - 6,293161,2915,0,0,0.1,0.0,0,1,1,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,4,1,1417361,2016
+03/01/2016,away,12360,147,Clemson,9,True,0,7,-7,loss,0 - 7,294730,2915,0,0,1.0,0.0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,3,1,0,1,0,0,3,0,0,0,4,0,1417361,2016
+03/05/2016,home,12360,519,Ohio,9,True,2,16,-14,loss,2 - 16,295487,2915,0,0,1.0,0.0,3,1,1,0,0,0,6,6,2,0,0,0,1,0,0,2,2,0,0,20,1,2,0,0,0,2,0,1417361,2016
+04/01/2016,home,12360,769,Western Caro.,9,True,1,9,-8,loss,1 - 9,302299,2915,0,0,1.0,0.0,1,1,1,1,1,0,5,4,0,0,0,0,1,0,0,0,0,0,0,19,0,2,0,0,0,4,0,1417361,2016
+04/05/2016,away,12360,51,Baylor,9,True,5,9,-4,loss,5 - 9,303655,2915,0,0,0.2,0.0,1,1,1,0,0,0,4,2,0,1,0,0,1,1,0,0,0,0,1,0,0,2,0,0,0,3,0,1417361,2016

@@ -5,9 +5,37 @@ import glob
 from tqdm import tqdm
 import pandas as pd
 import numpy as np
+from multiprocessing import Pool
+
+def reader(filename):
+        
+        return pd.read_csv(filename)
+
+def mergeFilesMultithreaded(filePath=""):
+    #global filecount
+    #filecount = 0
+    num_cpus = os.cpu_count()
+    print(num_cpus)
+
+    pool = Pool(num_cpus-1)
+    main_df = pd.DataFrame()
+    
+    f = 0
+    l = filePath
+    file_list = glob.iglob(l+"/*csv")
+    #print(type(file_list))
+    file_list = list(file_list)
+    for file in file_list:
+        f +=1
+    df_list = pool.map(reader,file_list)
+
+    main_df = pd.concat(df_list)
+
+    return main_df
 
 def mergeFiles(filePath=""):
-    main = pd.DataFrame()
+    
+    main_df = pd.DataFrame()
     f = 0
     l = filePath
     file_list = glob.iglob(l+"/*csv")
@@ -16,24 +44,24 @@ def mergeFiles(filePath=""):
 
     # with open('filelist.txt','w+',encoding='utf-8') as f:
     #     f.write(str(file_list))
-    for file in tqdm(glob.iglob(l+"/*csv"),total=f,ascii=True, bar_format='{l_bar}{bar:30}{r_bar}{bar:-30b}'):
+    for file in tqdm(glob.iglob(l+"/*csv"),total=f):
         #len_file = len(file)
         # if os.stat(file).st_size == 0:
         #     print(f'{file} is empty')
         # else:
         df = pd.read_csv(file)
-        main_df = pd.concat([main,df],ignore_index=True)
+        main_df = pd.concat([main_df,df],ignore_index=True)
         # main_df = pd.concat([pd.read_csv(f) for f in file_list])
     return main_df
 
 def mergeBattingLogs():
     f = "PlayerStats/Batting"
-    df = mergeFiles(f)
+    df = mergeFilesMultithreaded(f)
     df.to_csv("PlayerStats/batting_logs.csv",index=False)
 
 def mergePitchingLogs():
     f = "PlayerStats/Pitching"
-    df = mergeFiles(f)
+    df = mergeFilesMultithreaded(f)
     df.to_csv("PlayerStats/pitching_logs.csv",index=False)
 
 def splitBattingStats():
@@ -42,11 +70,13 @@ def splitBattingStats():
     print('Done!\n')
     max_season = df['season'].max()
     min_season = df['season'].min()
-    for i in range(min_season,max_season+2):
+    for i in range(min_season,max_season+1):
         print(f'Creating batting logs for the {i} season.')
         s_df = df[df['season'] == i]
-        partOne = s_df.sample(frac=0.5)
-        partTwo = s_df.drop(partOne.index)
+        len_s_df = len(s_df)
+        len_s_df = len_s_df // 2
+        partOne = s_df.iloc[:len_s_df,:]
+        partTwo = s_df.iloc[len_s_df:,:]
 
         partOne.to_csv(f'PlayerStats/{i}_01_batting.csv',index=False)
         partTwo.to_csv(f'PlayerStats/{i}_02_batting.csv',index=False)
@@ -56,6 +86,7 @@ def splitPitchingStats():
     print('Reading the pitching logs file.')
     df = pd.read_csv('PlayerStats/pitching_logs.csv')
     print('Done!\n')
+    
     max_season = df['season'].max()
     min_season = df['season'].min()
     for i in range(min_season,max_season+1):
@@ -70,11 +101,11 @@ def splitPitchingStats():
 
 def main():
     print('Starting Up...')
-    mergeBattingLogs()
     mergePitchingLogs()
+    mergeBattingLogs()
     splitBattingStats()
     splitPitchingStats()
-    #os.remove('PlayerStats/pitching_logs.csv')
-    #os.remove('PlayerStats/batting_logs.csv')
+    os.remove('PlayerStats/pitching_logs.csv')
+    os.remove('PlayerStats/batting_logs.csv')
 if __name__ == "__main__":
     main()

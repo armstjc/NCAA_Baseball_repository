@@ -151,7 +151,7 @@ def getSeasonGbgStats(season=2020):
                 time.sleep(5)
 
 def mergeFiles(filePath=""):
-    main = pd.DataFrame()
+    main_df = pd.DataFrame()
     f = 0
     l = filePath
 
@@ -160,10 +160,10 @@ def mergeFiles(filePath=""):
     for file in tqdm(glob.iglob(l+"/*csv"),total=f,ascii=True, bar_format='{l_bar}{bar:30}{r_bar}{bar:-30b}'):
         try:
             df = pd.read_csv(file)
-            main = pd.concat([main,df],ignore_index=True)
+            main_df = pd.concat([main_df,df],ignore_index=True)
         except:
             pass
-    return main
+    return main_df
 
 def mergeBattingLogs():
     f = "PlayerStats/Batting"
@@ -209,7 +209,9 @@ def splitPitchingStats():
 
 def main():
     print('starting up')
-    getAllGbgStats()
+    mergeBattingLogs()
+    mergePitchingLogs()
+    #getAllGbgStats()
 
     
 if __name__ == "__main__":

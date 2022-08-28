@@ -15,7 +15,7 @@ def mergeFilesMultithreaded(filePath=""):
     #global filecount
     #filecount = 0
     num_cpus = os.cpu_count()
-    print(num_cpus)
+    print(f'{num_cpus} cpu cores advalible to this script.')
 
     pool = Pool(num_cpus-1)
     main_df = pd.DataFrame()
@@ -25,9 +25,9 @@ def mergeFilesMultithreaded(filePath=""):
     file_list = glob.iglob(l+"/*csv")
     #print(type(file_list))
     file_list = list(file_list)
-    for file in file_list:
-        f +=1
-    df_list = pool.map(reader,file_list)
+    # for file in file_list:
+    #     f +=1
+    df_list = pool.map(reader,tqdm(file_list))
 
     main_df = pd.concat(df_list)
 
@@ -78,8 +78,8 @@ def splitBattingStats():
         partOne = s_df.iloc[:len_s_df,:]
         partTwo = s_df.iloc[len_s_df:,:]
 
-        partOne.to_csv(f'PlayerStats/{i}_01_batting.csv',index=False)
-        partTwo.to_csv(f'PlayerStats/{i}_02_batting.csv',index=False)
+        partOne.to_csv(f'PlayerStats/{i}_batting_01.csv',index=False)
+        partTwo.to_csv(f'PlayerStats/{i}_batting_02.csv',index=False)
         #s_df.to_csv(f'PlayerStats/{i}_batting.csv')
 
 def splitPitchingStats():
@@ -95,8 +95,8 @@ def splitPitchingStats():
         partOne = s_df.sample(frac=0.5)
         partTwo = s_df.drop(partOne.index)
 
-        partOne.to_csv(f'PlayerStats/{i}_01_pitching.csv',index=False)
-        partTwo.to_csv(f'PlayerStats/{i}_02_pitching.csv',index=False)
+        partOne.to_csv(f'PlayerStats/{i}_pitching_01.csv',index=False)
+        partTwo.to_csv(f'PlayerStats/{i}_pitching_02.csv',index=False)
         #s_df.to_csv(f'PlayerStats/{i}_batting.csv')
 
 def main():

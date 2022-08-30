@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/29/2020,home,15204,241,Franklin Pierce,9,True,17,20,-3,loss,1848791,3,2152442,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,home,15204,241,Franklin Pierce,9,True,10,1,9,win,1832701,3,2152442,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,home,15204,241,Franklin Pierce,9,True,6,4,2,win,1833168,3,2152442,2020
+0,0,0,0,0,0,2,0,0,0,03/04/2020,home,15204,984,Bloomfield,9,True,17,4,13,win,1833405,3,2152442,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,home,15204,468,Southern N.H.,9,True,1,0,1,win,1971295,3,2152442,2020
+0,0,0,0,0,0,1,0,0,0,03/08/2020,home,15204,468,Southern N.H.,9,True,4,10,-6,loss,1971504,3,2152442,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,home,15204,468,Southern N.H.,9,True,0,3,-3,loss,1971549,3,2152442,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,682,Stonehill,9,True,2,9,-7,loss,1972616,3,2152442,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,away,15204,20794,Lynn,9,True,2,4,-2,loss,1835302,3,2152442,2020

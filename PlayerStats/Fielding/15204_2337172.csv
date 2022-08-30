@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/29/2020,away,15204,30050,Ill. Springfield,9,True,7,20,-13,loss,1832756,30222,2337172,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,30050,Ill. Springfield,9,True,1,8,-7,loss,1833100,30222,2337172,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,30050,Ill. Springfield,9,True,3,17,-14,loss,1847818,30222,2337172,2020
+0,0,0,0,0,0,0,0,0,0,03/04/2020,home,15204,0,St. Francis (IL),9,True,10,6,4,win,1833515,30222,2337172,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,away,15204,30002,Trevecca Nazarene,9,True,0,9,-9,loss,1833860,30222,2337172,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,30002,Trevecca Nazarene,9,True,8,4,4,win,1834230,30222,2337172,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,30002,Trevecca Nazarene,9,True,6,3,3,win,1847720,30222,2337172,2020
+0,0,0,0,0,0,0,0,0,0,03/11/2020,home,15204,309,UIndy,9,True,7,3,4,win,1835123,30222,2337172,2020
+0,0,0,0,0,0,0,0,0,0,03/11/2020,home,15204,309,UIndy,9,True,5,9,-4,loss,1848434,30222,2337172,2020

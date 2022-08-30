@@ -1,0 +1,12 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,2,0,0,0,0,0,0,0,02/21/2020,neutral,15204,162,Concordia (NY),9,True,10,2,8,win,1831156,437,2124464,2020
+0,0,0,0,0,0,0,0,0,0,02/21/2020,neutral,15204,162,Concordia (NY),9,True,12,13,-1,loss,1847898,437,2124464,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,neutral,15204,1460,Wilmington (DE),10,True,9,8,1,win,1831479,437,2124464,2020
+0,0,0,0,0,0,0,0,0,0,02/23/2020,neutral,15204,349,Le Moyne,9,True,5,6,-1,loss,1831817,437,2124464,2020
+1,1,2,0,0,0,0,0,0,0,03/01/2020,home,15204,8956,Dominican (NY),9,True,10,9,1,win,1832770,437,2124464,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,home,15204,8956,Dominican (NY),9,True,11,6,5,win,1849166,437,2124464,2020
+0,0,0,0,0,0,0,0,0,0,03/03/2020,home,15204,22,American Int'l,9,True,9,7,2,win,1833422,437,2124464,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,241,Franklin Pierce,9,True,10,5,5,win,1833767,437,2124464,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,643,Slippery Rock,9,True,6,18,-12,loss,1833849,437,2124464,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,143,Clarion,9,True,4,5,-1,loss,1834083,437,2124464,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,470,New Haven,9,True,10,3,7,win,1834474,437,2124464,2020

@@ -1,0 +1,13 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/14/2020,away,15204,9223,North Greenville,9,True,4,8,-4,loss,1830179,333,2134695,2020
+0,0,0,0,0,0,0,0,0,0,02/14/2020,away,15204,9223,North Greenville,9,True,2,9,-7,loss,1847659,333,2134695,2020
+0,0,0,0,0,0,0,0,0,0,02/15/2020,away,15204,9223,North Greenville,9,True,3,9,-6,loss,1830433,333,2134695,2020
+0,0,0,0,0,0,0,0,0,0,02/21/2020,neutral,15204,757,Wayne St. (MI),9,True,3,1,2,win,1831396,333,2134695,2020
+0,0,0,0,0,0,1,0,0,0,02/22/2020,neutral,15204,757,Wayne St. (MI),9,True,4,12,-8,loss,1831444,333,2134695,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,neutral,15204,757,Wayne St. (MI),9,True,6,3,3,win,1848953,333,2134695,2020
+0,0,0,0,0,0,0,0,0,0,02/23/2020,neutral,15204,757,Wayne St. (MI),9,True,3,6,-3,loss,1831801,333,2134695,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,away,15204,230,Florida Tech,9,True,8,2,6,win,1833323,333,2134695,2020
+0,0,0,0,0,0,0,0,0,0,03/03/2020,away,15204,230,Florida Tech,9,True,1,0,1,win,1833455,333,2134695,2020
+0,0,0,0,0,0,0,0,0,0,03/04/2020,away,15204,233,Fla. Southern,9,True,17,8,9,win,1833601,333,2134695,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,away,15204,608,Saint Leo,9,True,4,1,3,win,1833908,333,2134695,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,591,Saginaw Valley,9,True,8,1,7,win,1834043,333,2134695,2020

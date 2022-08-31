@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/03/2020,away,15204,0,Taylor (IN),9,True,2,17,-15,loss,1970973,1050,2354926,2020
+0,3,4,1,0,0,0,0,0,0,03/03/2020,away,15204,0,Taylor (IN),9,True,3,4,-1,loss,1970988,1050,2354926,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,724,Merchant Marine,9,True,7,1,6,win,1834788,1050,2354926,2020
+0,0,1,1,0,0,0,0,0,0,03/09/2020,neutral,15204,724,Merchant Marine,9,True,3,2,1,win,1849782,1050,2354926,2020
+1,2,3,0,0,0,0,0,0,0,03/10/2020,neutral,15204,8911,Wis. Lutheran,9,True,3,2,1,win,1834868,1050,2354926,2020
+1,2,3,0,0,0,0,0,0,0,03/10/2020,neutral,15204,8911,Wis. Lutheran,9,True,4,3,1,win,1849877,1050,2354926,2020
+0,2,2,0,0,0,0,0,0,0,03/12/2020,neutral,15204,30165,SUNY Canton,9,True,10,3,7,win,1835275,1050,2354926,2020
+0,2,3,1,0,0,0,0,0,0,03/12/2020,neutral,15204,30165,SUNY Canton,9,True,6,0,6,win,1849208,1050,2354926,2020
+1,1,3,1,0,0,0,0,0,0,03/13/2020,neutral,15204,276,Haverford,8,True,4,5,-1,loss,1835389,1050,2354926,2020
+0,1,2,1,0,0,0,0,0,0,03/13/2020,neutral,15204,276,Haverford,9,True,6,5,1,win,1849403,1050,2354926,2020

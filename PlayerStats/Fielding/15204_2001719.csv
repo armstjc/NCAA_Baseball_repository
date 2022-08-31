@@ -1,0 +1,12 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/22/2020,away,15204,221,FDU-Florham,9,True,17,9,8,win,1831585,321,2001719,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,382,Manhattanville,9,True,2,11,-9,loss,1832807,321,2001719,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,home,15204,467,New England Col.,9,True,3,21,-18,loss,1970033,321,2001719,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,675,Staten Island,9,True,8,10,-2,loss,1969946,321,2001719,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,8398,Hilbert,8,True,5,6,-1,loss,1833321,321,2001719,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,8398,Hilbert,9,True,4,9,-5,loss,1849728,321,2001719,2020
+0,0,0,0,0,0,0,0,0,0,03/03/2020,neutral,15204,8968,Eastern,9,True,6,22,-16,loss,1833370,321,2001719,2020
+0,0,0,0,0,0,0,0,0,0,03/03/2020,neutral,15204,8968,Eastern,9,True,12,13,-1,loss,1849834,321,2001719,2020
+4,0,4,0,0,0,9,0,0,0,03/04/2020,neutral,15204,203,East. Mennonite,9,True,3,11,-8,loss,1833533,321,2001719,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,away,15204,382,Manhattanville,9,True,2,10,-8,loss,1834733,321,2001719,2020
+3,0,3,0,0,0,0,0,0,0,03/09/2020,away,15204,479,NYU,9,True,0,11,-11,loss,1835191,321,2001719,2020

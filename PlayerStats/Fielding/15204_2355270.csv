@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,517,Ohio Northern,9,True,8,2,6,win,1970130,1434,2355270,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,517,Ohio Northern,9,True,3,6,-3,loss,1970122,1434,2355270,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,161,Concordia-M'head,9,True,7,8,-1,loss,1833304,1434,2355270,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,161,Concordia-M'head,9,True,3,13,-10,loss,1849719,1434,2355270,2020
+0,0,0,0,0,0,0,0,0,0,03/03/2020,neutral,15204,320,John Carroll,9,True,1,11,-10,loss,1833350,1434,2355270,2020
+0,0,0,0,0,0,1,0,0,0,03/03/2020,neutral,15204,15,Albion,9,True,7,13,-6,loss,1833362,1434,2355270,2020
+0,0,0,0,0,0,0,0,0,0,03/05/2020,neutral,15204,30042,Mitchell,9,True,0,3,-3,loss,1833647,1434,2355270,2020
+0,0,0,0,0,0,0,0,0,0,03/05/2020,neutral,15204,30042,Mitchell,9,True,0,13,-13,loss,1848415,1434,2355270,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,452,Mount Union,9,True,6,3,3,win,1970437,1434,2355270,2020
+0,1,1,0,0,0,1,0,0,0,03/06/2020,neutral,15204,452,Mount Union,9,True,5,18,-13,loss,1970427,1434,2355270,2020

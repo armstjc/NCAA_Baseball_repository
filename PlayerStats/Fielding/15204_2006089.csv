@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/28/2020,away,15204,445,Morehouse,9,True,7,2,5,win,1830637,431,2006089,2020
+0,0,0,0,0,0,0,0,0,0,02/28/2020,away,15204,445,Morehouse,9,True,7,0,7,win,1848945,431,2006089,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,home,15204,0,10 - 5,9,True,7,0,7,win,1848945,431,2006089,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,away,15204,144,Clark Atlanta,9,True,16,4,12,win,1969931,431,2006089,2020

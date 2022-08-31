@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,8597,Martin Luther,9,True,2,5,-3,loss,1834072,23725,1874717,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,8597,Martin Luther,9,True,10,5,5,win,1849583,23725,1874717,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,737,Vassar,9,True,0,1,-1,loss,1834458,23725,1874717,2020
+6,0,7,1,0,0,5,0,0,0,03/08/2020,neutral,15204,737,Vassar,9,True,1,2,-1,loss,1848628,23725,1874717,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,170,Curry,9,True,3,10,-7,loss,1835267,23725,1874717,2020
+1,0,1,0,0,0,2,0,0,0,03/12/2020,away,15204,170,Curry,9,True,7,9,-2,loss,1849016,23725,1874717,2020
+2,1,4,1,0,0,3,0,0,0,03/13/2020,neutral,15204,1133,Husson,9,True,6,16,-10,loss,1972717,23725,1874717,2020

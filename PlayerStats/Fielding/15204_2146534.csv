@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+3,0,3,0,0,0,0,0,0,0,02/22/2020,away,15204,336,King's (PA),9,True,1,21,-20,loss,1831509,958,2146534,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,away,15204,336,King's (PA),9,True,0,16,-16,loss,1849668,958,2146534,2020
+1,1,2,0,0,0,0,0,0,0,03/03/2020,away,15204,761,Wells,9,True,3,18,-15,loss,1969520,958,2146534,2020
+2,0,2,0,0,0,0,0,0,0,03/07/2020,away,15204,245,Gallaudet,9,True,1,3,-2,loss,1834252,958,2146534,2020
+2,0,2,0,0,0,0,0,0,0,03/07/2020,away,15204,245,Gallaudet,9,True,2,23,-21,loss,1847742,958,2146534,2020
+2,0,2,0,0,0,0,0,0,0,03/09/2020,neutral,15204,30044,Penn St.-Berks,9,True,5,20,-15,loss,1834774,958,2146534,2020
+1,0,2,1,0,0,0,0,0,0,03/09/2020,neutral,15204,30044,Penn St.-Berks,9,True,1,16,-15,loss,1849778,958,2146534,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,neutral,15204,59,Bethany (WV),9,True,1,18,-17,loss,1972225,958,2146534,2020
+1,0,3,2,0,0,0,0,0,0,03/12/2020,away,15204,0,Penn St.-Beaver,9,True,7,9,-2,loss,1835316,958,2146534,2020

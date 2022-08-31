@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,3,5,1,0,0,0,0,0,0,03/06/2020,neutral,15204,750,Wartburg,9,True,3,5,-2,loss,1833749,8597,2355376,2020
+2,4,6,0,0,0,0,0,0,0,03/06/2020,neutral,15204,750,Wartburg,9,True,3,4,-1,loss,1848807,8597,2355376,2020
+4,2,6,0,0,0,0,0,0,0,03/07/2020,neutral,15204,23725,Medaille,9,True,5,2,3,win,1834072,8597,2355376,2020
+2,4,6,0,0,0,0,0,0,0,03/07/2020,neutral,15204,23725,Medaille,9,True,5,10,-5,loss,1849583,8597,2355376,2020
+1,1,2,0,0,0,0,0,0,0,03/08/2020,neutral,15204,23624,Cazenovia,9,True,6,3,3,win,1834463,8597,2355376,2020
+1,4,7,2,0,0,0,0,0,0,03/08/2020,neutral,15204,23624,Cazenovia,9,True,13,16,-3,loss,1848633,8597,2355376,2020
+3,2,7,2,0,0,0,0,0,0,03/09/2020,neutral,15204,762,Wentworth,9,True,1,3,-2,loss,1834768,8597,2355376,2020
+4,2,7,1,0,0,0,0,1,0,03/09/2020,neutral,15204,762,Wentworth,9,True,3,10,-7,loss,1849775,8597,2355376,2020

@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/21/2020,away,15204,1111,Greenville,9,True,3,1,2,win,1831170,166,2120356,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,away,15204,11538,Fontbonne,9,True,3,7,-4,loss,1831530,166,2120356,2020
+0,1,1,0,0,0,0,0,0,0,02/22/2020,away,15204,11538,Fontbonne,9,True,8,13,-5,loss,1849689,166,2120356,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,1036,Concordia Wisconsin,9,True,8,4,4,win,1833740,166,2120356,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,336,King's (PA),9,True,2,12,-10,loss,1834052,166,2120356,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,605,St. Joseph's (ME),9,True,3,7,-4,loss,1834446,166,2120356,2020
+0,0,0,0,0,0,0,0,0,0,03/11/2020,neutral,15204,779,Wheaton (MA),9,True,0,11,-11,loss,1835088,166,2120356,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,496,North Park,9,True,1,11,-10,loss,1835263,166,2120356,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,neutral,15204,795,Wis.-La Crosse,9,True,3,6,-3,loss,1835365,166,2120356,2020

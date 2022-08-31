@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,84,Buena Vista,9,True,7,15,-8,loss,1969718,264,2005513,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,84,Buena Vista,9,True,3,9,-6,loss,1969771,264,2005513,2020
+1,0,1,0,0,0,1,0,0,0,03/01/2020,neutral,15204,84,Buena Vista,8,True,7,6,1,win,1833006,264,2005513,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,84,Buena Vista,9,True,6,5,1,win,1849564,264,2005513,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,804,Wis.-Superior,9,True,14,7,7,win,1834354,264,2005513,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,804,Wis.-Superior,9,True,13,2,11,win,1848204,264,2005513,2020
+0,1,1,0,0,0,3,0,0,0,03/08/2020,neutral,15204,804,Wis.-Superior,9,True,10,12,-2,loss,1834718,264,2005513,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,804,Wis.-Superior,9,True,14,11,3,win,1849597,264,2005513,2020

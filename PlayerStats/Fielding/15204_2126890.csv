@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/04/2020,away,15204,570,Rensselaer,9,True,6,17,-11,loss,1833183,777,2126890,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,30114,Penn St.-Abington,9,True,1,5,-4,loss,1834041,777,2126890,2020
+1,0,1,0,0,0,0,0,0,0,03/08/2020,neutral,15204,684,Suffolk,8,True,8,12,-4,loss,1834460,777,2126890,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,684,Suffolk,9,True,5,4,1,win,1848630,777,2126890,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,759,Webster,9,True,9,12,-3,loss,1834748,777,2126890,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,573,Rhodes,9,True,3,5,-2,loss,1835244,777,2126890,2020

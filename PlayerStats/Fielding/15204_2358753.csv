@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,618,St. Scholastica,9,True,0,7,-7,loss,1833307,795,2358753,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,618,St. Scholastica,9,True,6,6,0,tie,1849721,795,2358753,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,620,St. Thomas (MN),9,True,1,5,-4,loss,1834822,795,2358753,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,620,St. Thomas (MN),9,True,1,3,-2,loss,1849871,795,2358753,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,neutral,15204,166,Cornell College,9,True,6,3,3,win,1835365,795,2358753,2020
+0,0,0,0,0,0,0,0,0,0,03/14/2020,neutral,15204,759,Webster,9,True,6,11,-5,loss,1972803,795,2358753,2020

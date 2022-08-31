@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,2,2,0,0,0,0,0,1,0,03/01/2020,away,15204,394,Marymount (VA),9,True,12,2,10,win,1833154,258,2147345,2020
+0,2,2,0,0,0,0,0,0,0,03/04/2020,away,15204,411,Messiah,9,True,9,18,-9,loss,1833561,258,2147345,2020
+2,1,3,0,0,0,0,0,0,0,03/08/2020,neutral,15204,179,Delaware Valley,9,True,17,0,17,win,1834482,258,2147345,2020
+0,2,2,0,0,0,0,0,0,0,03/08/2020,neutral,15204,179,Delaware Valley,9,True,3,2,1,win,1848638,258,2147345,2020
+0,3,3,0,0,0,0,0,0,0,03/09/2020,neutral,15204,30031,Northwestern-St. Paul,9,True,14,4,10,win,1834776,258,2147345,2020
+1,1,3,1,0,0,0,0,0,0,03/09/2020,neutral,15204,30031,Northwestern-St. Paul,9,True,11,17,-6,loss,1849780,258,2147345,2020
+2,3,5,0,0,0,0,0,1,0,03/10/2020,neutral,15204,1332,Dominican (IL),9,True,9,6,3,win,1834874,258,2147345,2020
+1,3,5,1,0,0,0,0,1,0,03/12/2020,neutral,15204,394,Marymount (VA),9,True,16,2,14,win,1835278,258,2147345,2020

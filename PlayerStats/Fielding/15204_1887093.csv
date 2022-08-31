@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,1461,Wilmington (OH),9,True,7,5,2,win,1833094,212,1887093,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,30172,IIT,9,True,17,7,10,win,1834113,212,1887093,2020
+5,0,5,0,0,0,5,0,0,0,03/07/2020,neutral,15204,30172,IIT,9,True,6,2,4,win,1849739,212,1887093,2020
+7,2,9,0,0,0,0,0,1,0,03/08/2020,neutral,15204,30172,IIT,9,True,16,7,9,win,1834566,212,1887093,2020
+0,0,0,0,0,0,0,0,0,0,03/15/2020,home,15204,0,0.0,9,True,16,7,9,win,1834566,212,1887093,2020

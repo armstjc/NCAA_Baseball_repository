@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/06/2020,away,15204,2694,Franklin,9,True,15,7,8,win,1833872,286,1878556,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,2694,Franklin,9,True,6,10,-4,loss,1834171,286,1878556,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,2694,Franklin,9,True,3,8,-5,loss,1849852,286,1878556,2020

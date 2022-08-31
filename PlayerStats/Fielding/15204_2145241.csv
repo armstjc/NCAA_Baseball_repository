@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/15/2020,away,15204,23260,Spalding,9,True,11,0,11,win,1830413,805,2145241,2020
+0,0,0,0,0,0,0,0,0,0,02/15/2020,neutral,15204,939,Anderson (IN),9,True,7,6,1,win,1830641,805,2145241,2020
+0,0,0,0,0,0,0,0,0,0,02/16/2020,away,15204,23260,Spalding,9,True,6,8,-2,loss,1830728,805,2145241,2020

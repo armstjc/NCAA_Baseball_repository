@@ -1,0 +1,13 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/28/2020,away,15204,322,Johns Hopkins,9,True,2,1,1,win,1832412,385,2144784,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,578,Roanoke,9,True,6,5,1,win,1832613,385,2144784,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,168,SUNY Cortland,9,True,10,1,9,win,1833038,385,2144784,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,76,Bridgewater St.,9,True,8,4,4,win,1834569,385,2144784,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,685,Susquehanna,9,True,5,3,2,win,1834782,385,2144784,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,686,Swarthmore,9,True,5,6,-1,loss,1834800,385,2144784,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,neutral,15204,1315,Pitt.-Bradford,9,True,10,5,5,win,1971519,385,2144784,2020
+0,0,0,0,0,0,0,0,0,0,03/11/2020,neutral,15204,520,Ohio Wesleyan,9,True,2,1,1,win,1971521,385,2144784,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,neutral,15204,76,Bridgewater St.,9,True,11,5,6,win,1835392,385,2144784,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,neutral,15204,685,Susquehanna,9,True,8,0,8,win,1835412,385,2144784,2020
+0,0,0,0,0,0,1,0,0,0,03/14/2020,neutral,15204,807,Wooster,9,True,12,13,-1,loss,1972496,385,2144784,2020
+0,0,0,0,0,0,0,0,0,0,03/15/2020,neutral,15204,685,Susquehanna,9,True,2,11,-9,loss,1972668,385,2144784,2020

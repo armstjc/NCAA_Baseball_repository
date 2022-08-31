@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/21/2020,neutral,15204,384,Mansfield,9,True,8,0,8,win,1831457,174,2142509,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,neutral,15204,15207,Ohio Valley,9,True,6,2,4,win,1831757,174,2142509,2020
+0,0,0,0,0,0,0,0,0,0,02/23/2020,away,15204,408,Mercyhurst,9,True,6,4,2,win,1832050,174,2142509,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,65,Bloomsburg,9,True,2,6,-4,loss,1969936,174,2142509,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,65,Bloomsburg,9,True,1,6,-5,loss,1833079,174,2142509,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,away,15204,632,Savannah St.,9,True,1,5,-4,loss,1971251,174,2142509,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,632,Savannah St.,9,True,5,2,3,win,1971522,174,2142509,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,632,Savannah St.,9,True,7,8,-1,loss,1971523,174,2142509,2020

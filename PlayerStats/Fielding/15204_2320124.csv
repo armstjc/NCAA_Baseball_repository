@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/01/2020,home,15204,122,CWRU,9,True,1,3,-2,loss,1833158,807,2320124,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,276,Haverford,9,True,6,17,-11,loss,1834785,807,2320124,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,neutral,15204,76,Bridgewater St.,9,True,19,2,17,win,1835030,807,2320124,2020
+0,0,0,0,0,0,0,0,0,0,03/11/2020,neutral,15204,686,Swarthmore,9,True,4,14,-10,loss,1835201,807,2320124,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,neutral,15204,724,Merchant Marine,9,True,6,1,5,win,1835407,807,2320124,2020
+0,0,0,0,0,0,0,0,0,0,03/14/2020,neutral,15204,385,Marietta,9,True,13,12,1,win,1972496,807,2320124,2020
+0,0,0,0,0,0,0,0,0,0,03/15/2020,neutral,15204,30170,Alfred St.,9,True,4,7,-3,loss,1972853,807,2320124,2020
+0,0,0,0,0,0,0,0,0,0,03/15/2020,neutral,15204,30170,Alfred St.,9,True,15,2,13,win,1972854,807,2320124,2020

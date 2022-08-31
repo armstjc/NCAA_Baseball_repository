@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/15/2020,neutral,15204,39,Augusta,9,True,3,4,-1,loss,1830419,2746,2121145,2020
+0,0,0,0,0,0,1,0,0,0,02/15/2020,away,15204,13028,Anderson (SC),9,True,3,8,-5,loss,1830630,2746,2121145,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,36,Assumption,9,True,2,2,0,tie,1832656,2746,2121145,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,36,Assumption,9,True,8,7,1,win,1848612,2746,2121145,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,1347,Saint Rose,9,True,11,1,10,win,1970426,2746,2121145,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,30126,Notre Dame (OH),9,True,7,4,3,win,1834245,2746,2121145,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,30126,Notre Dame (OH),9,True,6,7,-1,loss,1847735,2746,2121145,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,away,15204,1170,Lenoir-Rhyne,9,True,5,6,-1,loss,1834806,2746,2121145,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,away,15204,1170,Lenoir-Rhyne,9,True,1,9,-8,loss,1849786,2746,2121145,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,away,15204,1170,Lenoir-Rhyne,9,True,3,13,-10,loss,1834916,2746,2121145,2020

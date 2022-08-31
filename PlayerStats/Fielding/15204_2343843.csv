@@ -1,0 +1,12 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/22/2020,neutral,15204,192,Dubuque,9,True,7,6,1,win,1831552,42,2343843,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,away,15204,23260,Spalding,9,True,7,1,6,win,1831752,42,2343843,2020
+0,0,0,0,0,0,0,0,0,0,02/23/2020,neutral,15204,517,Ohio Northern,9,True,5,4,1,win,1831848,42,2343843,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,297,Illinois Col.,9,True,12,2,10,win,1832988,42,2343843,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,605,St. Joseph's (ME),9,True,9,3,6,win,1833285,42,2343843,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,30064,Saint Vincent,11,True,5,6,-1,loss,1833288,42,2343843,2020
+0,0,0,0,0,0,0,0,0,0,03/03/2020,neutral,15204,11538,Fontbonne,9,True,17,6,11,win,1833347,42,2343843,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,779,Wheaton (MA),9,True,2,11,-9,loss,1833717,42,2343843,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,25719,Penn St.-Altoona,9,True,8,2,6,win,1834061,42,2343843,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,25719,Penn St.-Altoona,9,True,13,2,11,win,1849572,42,2343843,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,759,Webster,9,True,5,0,5,win,1834433,42,2343843,2020

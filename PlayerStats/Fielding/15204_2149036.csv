@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/17/2020,neutral,15204,213,Elmira,9,True,14,2,12,win,1830927,73,2149036,2020
+0,0,1,1,0,0,0,0,0,0,02/18/2020,neutral,15204,50,Bates,9,True,11,5,6,win,1830950,73,2149036,2020
+0,0,0,0,0,0,0,0,0,0,02/19/2020,neutral,15204,213,Elmira,9,True,11,2,9,win,1831047,73,2149036,2020
+0,0,0,0,0,0,0,0,0,0,02/20/2020,neutral,15204,50,Bates,9,True,15,1,14,win,1831096,73,2149036,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,neutral,15204,40,Augustana (IL),9,True,11,5,6,win,1831441,73,2149036,2020
+0,0,0,0,0,0,0,0,0,0,03/03/2020,away,15204,8981,Endicott,9,True,8,9,-1,loss,1970675,73,2149036,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,69,Bowdoin,9,True,2,8,-6,loss,1834187,73,2149036,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,69,Bowdoin,9,True,2,8,-6,loss,1849865,73,2149036,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,775,Western New Eng.,9,True,13,1,12,win,1834575,73,2149036,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,775,Western New Eng.,9,True,0,4,-4,loss,1849012,73,2149036,2020

@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/21/2020,away,15204,542,Pfeiffer,9,True,3,4,-1,loss,1968272,4,1783013,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,away,15204,542,Pfeiffer,9,True,3,6,-3,loss,1831664,4,1783013,2020
+0,0,0,0,0,0,0,0,0,0,02/23/2020,away,15204,542,Pfeiffer,9,True,2,5,-3,loss,1831988,4,1783013,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,8746,Southwestern (TX),9,True,3,1,2,win,1832805,4,1783013,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,424,Millikin,9,True,3,4,-1,loss,1833042,4,1783013,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,away,15204,426,Millsaps,9,True,10,6,4,win,1833324,4,1783013,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,away,15204,973,Berry,9,True,2,1,1,win,1833678,4,1783013,2020
+7,0,8,1,0,0,0,0,2,0,03/06/2020,neutral,15204,182,Denison,9,True,2,9,-7,loss,1833805,4,1783013,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,798,Wis.-Oshkosh,9,True,5,2,3,win,1834264,4,1783013,2020

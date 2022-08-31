@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,1,2,0,0,03/02/2020,neutral,15204,376,Macalester,9,True,16,9,7,win,1833315,30035,1881438,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,home,15204,0,0.0,9,True,16,9,7,win,1833315,30035,1881438,2020
+0,0,0,0,0,0,0,0,0,0,03/05/2020,neutral,15204,268,Hamline,10,True,2,5,-3,loss,1833684,30035,1881438,2020
+0,0,0,0,0,0,0,0,0,0,03/05/2020,neutral,15204,268,Hamline,9,True,2,3,-1,loss,1848421,30035,1881438,2020
+0,0,1,1,0,0,0,0,0,0,03/12/2020,neutral,15204,532,Elms,9,True,10,3,7,win,1835271,30035,1881438,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,home,15204,532,Elms,9,True,4,1,3,win,1849207,30035,1881438,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,home,15204,53,Beloit,9,True,0,17,-17,loss,1835378,30035,1881438,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,away,15204,53,Beloit,9,True,0,10,-10,loss,1849316,30035,1881438,2020

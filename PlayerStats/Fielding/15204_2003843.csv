@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+6,0,6,0,0,0,0,0,1,0,02/22/2020,away,15204,217,Emory,9,True,1,11,-10,loss,1831460,177,2003843,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,away,15204,217,Emory,9,True,9,12,-3,loss,1849135,177,2003843,2020
+7,0,8,1,0,0,0,0,1,0,02/23/2020,away,15204,2713,Oglethorpe,9,True,3,10,-7,loss,1831314,177,2003843,2020
+1,0,1,0,0,0,0,0,0,0,02/23/2020,away,15204,2713,Oglethorpe,9,True,3,5,-2,loss,1831950,177,2003843,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,1192,Manchester,9,True,7,0,7,win,1834186,177,2003843,2020
+1,0,1,0,0,0,0,0,0,0,03/07/2020,neutral,15204,1192,Manchester,9,True,19,13,6,win,1849864,177,2003843,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,1192,Manchester,9,True,5,3,2,win,1834574,177,2003843,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,1192,Manchester,9,True,8,5,3,win,1849011,177,2003843,2020

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/08/2020,home,15204,564,Ramapo,9,True,2,1,1,win,1834101,1340,2355726,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,home,15204,564,Ramapo,9,True,8,10,-2,loss,1849731,1340,2355726,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,away,15204,787,Wm. Paterson,9,True,6,7,-1,loss,1834954,1340,2355726,2020

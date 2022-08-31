@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,11538,Fontbonne,9,True,11,1,10,win,1833715,571,2153315,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,1133,Husson,9,True,3,2,1,win,1834062,571,2153315,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,1133,Husson,9,True,11,1,10,win,1849573,571,2153315,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,612,Saint Mary's (MN),9,True,8,9,-1,loss,1834739,571,2153315,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,496,North Park,9,True,3,1,2,win,1834749,571,2153315,2020
+0,0,0,0,0,0,0,0,0,0,03/11/2020,neutral,15204,580,RIT,9,True,14,1,13,win,1835077,571,2153315,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,25719,Penn St.-Altoona,9,True,6,3,3,win,1835266,571,2153315,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,25719,Penn St.-Altoona,9,True,7,3,4,win,1849015,571,2153315,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,home,15204,0,0.0,9,True,7,3,4,win,1849015,571,2153315,2020

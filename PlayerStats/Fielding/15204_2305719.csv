@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/22/2020,away,15204,195,Earlham,9,True,4,5,-1,loss,1831714,122,2305719,2020
+0,0,0,0,0,0,0,0,0,0,02/23/2020,away,15204,195,Earlham,9,True,4,5,-1,loss,1831908,122,2305719,2020
+0,0,0,0,0,0,0,0,0,0,02/23/2020,away,15204,195,Earlham,9,True,7,4,3,win,1848586,122,2305719,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,807,Wooster,9,True,3,1,2,win,1833158,122,2305719,2020
+0,1,1,0,0,0,0,0,0,0,03/07/2020,neutral,15204,351,Lebanon Valley,9,True,1,7,-6,loss,1834348,122,2305719,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,583,Roger Williams,9,True,7,8,-1,loss,1834699,122,2305719,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,583,Roger Williams,9,True,0,5,-5,loss,1834787,122,2305719,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,30170,Alfred St.,10,True,4,3,1,win,1834808,122,2305719,2020
+0,0,0,0,0,0,0,0,0,0,03/11/2020,neutral,15204,30170,Alfred St.,9,True,13,2,11,win,1835110,122,2305719,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,583,Roger Williams,9,True,12,3,9,win,1835298,122,2305719,2020

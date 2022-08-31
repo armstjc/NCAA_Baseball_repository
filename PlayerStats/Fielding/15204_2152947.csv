@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1,0,0,0,0,0,0,0,03/01/2020,away,15204,26,Anna Maria,9,True,7,1,6,win,1832616,809,2152947,2020
+0,0,0,0,0,0,0,0,0,0,03/04/2020,home,15204,30219,Dean,9,True,8,11,-3,loss,1970889,809,2152947,2020

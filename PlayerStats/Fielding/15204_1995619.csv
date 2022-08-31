@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/22/2020,away,15204,75,Bridgewater (VA),9,True,3,5,-2,loss,1831462,411,1995619,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,away,15204,75,Bridgewater (VA),9,True,2,7,-5,loss,1849137,411,1995619,2020
+1,2,3,0,0,0,0,0,0,0,02/29/2020,away,15204,390,Mary Washington,9,True,5,3,2,win,1832789,411,1995619,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,away,15204,390,Mary Washington,9,True,4,6,-2,loss,1849185,411,1995619,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,home,15204,239,Franklin & Marshall,9,True,11,9,2,win,1833316,411,1995619,2020
+0,0,0,0,0,0,0,0,0,0,03/04/2020,home,15204,258,Gettysburg,9,True,18,9,9,win,1833561,411,1995619,2020
+0,3,3,0,0,0,0,0,0,0,03/09/2020,away,15204,322,Johns Hopkins,9,True,4,14,-10,loss,1834813,411,1995619,2020

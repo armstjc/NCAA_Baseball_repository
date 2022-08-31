@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/23/2020,away,15204,633,Scranton,9,True,7,5,2,win,1831968,737,2317451,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,18422,Rivier,9,True,17,6,11,win,1832595,737,2317451,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,23725,Medaille,9,True,1,0,1,win,1834458,737,2317451,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,23725,Medaille,9,True,2,1,1,win,1848628,737,2317451,2020
+0,0,0,0,0,0,2,0,0,0,03/09/2020,neutral,15204,526,SUNY Oneonta,9,True,1,10,-9,loss,1834758,737,2317451,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,neutral,15204,761,Wells,9,True,0,3,-3,loss,1834858,737,2317451,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,23624,Cazenovia,9,True,9,4,5,win,1835255,737,2317451,2020
+0,1,1,0,0,0,0,0,0,0,03/13/2020,neutral,15204,325,Juniata,9,True,4,10,-6,loss,1835360,737,2317451,2020

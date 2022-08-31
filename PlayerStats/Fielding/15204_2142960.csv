@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/17/2020,neutral,15204,213,Elmira,9,True,9,4,5,win,1830928,50,2142960,2020
+0,0,0,0,0,0,0,0,0,0,02/18/2020,neutral,15204,213,Elmira,9,True,4,6,-2,loss,1830951,50,2142960,2020
+0,0,0,0,0,0,0,0,0,0,02/18/2020,neutral,15204,73,Brandeis,9,True,5,11,-6,loss,1830950,50,2142960,2020
+0,0,0,0,0,0,0,0,0,0,02/20/2020,neutral,15204,73,Brandeis,9,True,1,15,-14,loss,1831096,50,2142960,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,home,15204,117,Capital,9,True,4,12,-8,loss,1831442,50,2142960,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,484,Nichols,9,True,6,7,-1,loss,1834188,50,2142960,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,484,Nichols,10,True,6,8,-2,loss,1849866,50,2142960,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,away,15204,8981,Endicott,9,True,0,7,-7,loss,1834555,50,2142960,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,away,15204,8981,Endicott,9,True,9,3,6,win,1849001,50,2142960,2020

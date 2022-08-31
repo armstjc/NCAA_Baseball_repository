@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/23/2020,neutral,15204,618,St. Scholastica,9,True,2,5,-3,loss,1968995,376,1978767,2020
+1,1,2,0,0,0,2,1,0,0,02/23/2020,neutral,15204,618,St. Scholastica,9,True,4,2,2,win,1849296,376,1978767,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,30035,Crown (MN),9,True,9,16,-7,loss,1833315,376,1978767,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,home,15204,0,0.0,9,True,9,16,-7,loss,1833315,376,1978767,2020

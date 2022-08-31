@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/22/2020,away,15204,681,Stockton,9,True,2,5,-3,loss,1831536,30190,2351268,2020
+2,0,2,0,0,0,0,0,0,0,02/22/2020,away,15204,681,Stockton,9,True,4,9,-5,loss,1849695,30190,2351268,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,59,Bethany (WV),9,True,8,4,4,win,1834728,30190,2351268,2020
+2,0,3,1,0,0,0,0,0,0,03/08/2020,neutral,15204,59,Bethany (WV),9,True,3,7,-4,loss,1849598,30190,2351268,2020
+1,0,1,0,0,0,0,0,0,0,03/09/2020,home,15204,8404,Hood,9,True,2,15,-13,loss,1834781,30190,2351268,2020
+2,0,2,0,0,0,0,0,0,0,03/10/2020,away,15204,279,Lehman,9,True,9,1,8,win,1834872,30190,2351268,2020
+4,0,4,0,0,0,0,0,0,0,03/10/2020,neutral,15204,124,Catholic,9,True,7,11,-4,loss,1834885,30190,2351268,2020
+0,0,0,0,0,0,0,0,0,0,03/11/2020,neutral,15204,2798,Albertus Magnus,9,True,3,2,1,win,1972850,30190,2351268,2020
+1,0,1,0,0,0,0,0,0,0,03/11/2020,neutral,15204,2798,Albertus Magnus,9,True,5,3,2,win,1972851,30190,2351268,2020
+2,0,2,0,0,0,0,0,0,0,03/12/2020,home,15204,0,Penn St.-Schuylkill,9,True,9,5,4,win,1972859,30190,2351268,2020

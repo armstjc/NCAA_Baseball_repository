@@ -1,0 +1,12 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,675,Staten Island,9,True,10,23,-13,loss,1832746,8398,2337859,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,675,Staten Island,8,True,9,13,-4,loss,1848993,8398,2337859,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,9684,Saint Elizabeth,9,True,12,8,4,win,1833277,8398,2337859,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,9684,Saint Elizabeth,9,True,18,10,8,win,1848203,8398,2337859,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,321,John Jay,8,True,6,5,1,win,1833321,8398,2337859,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,321,John Jay,9,True,9,4,5,win,1849728,8398,2337859,2020
+0,0,0,0,0,0,0,0,0,0,03/05/2020,neutral,15204,443,Moravian,9,True,4,14,-10,loss,1833653,8398,2337859,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,1064,Eastern Nazarene,9,True,2,7,-5,loss,1971869,8398,2337859,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,1064,Eastern Nazarene,9,True,5,6,-1,loss,1833760,8398,2337859,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,30084,Geneva,9,True,3,1,2,win,1834081,8398,2337859,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,30084,Geneva,9,True,10,4,6,win,1849587,8398,2337859,2020

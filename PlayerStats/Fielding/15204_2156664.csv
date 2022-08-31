@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,798,Wis.-Oshkosh,9,True,5,8,-3,loss,1832809,160,2156664,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,496,North Park,9,True,2,6,-4,loss,1833261,160,2156664,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,779,Wheaton (MA),9,True,5,4,1,win,1834030,160,2156664,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,11538,Fontbonne,9,True,7,2,5,win,1834428,160,2156664,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,30047,Keystone,9,True,3,4,-1,loss,1834743,160,2156664,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,away,15204,759,Webster,9,True,2,1,1,win,1834861,160,2156664,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,neutral,15204,759,Webster,9,True,15,11,4,win,1972150,160,2156664,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,259,Rowan,9,True,2,12,-10,loss,1835246,160,2156664,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,neutral,15204,192,Dubuque,9,True,0,1,-1,loss,1835351,160,2156664,2020
+3,0,3,0,0,0,0,0,0,0,03/14/2020,neutral,15204,146,Clarkson,9,True,7,6,1,win,1972801,160,2156664,2020

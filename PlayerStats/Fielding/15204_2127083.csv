@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/22/2020,home,15204,1064,Eastern Nazarene,9,True,1,11,-10,loss,1831544,762,2127083,2020
+2,0,2,0,0,0,0,0,0,0,02/22/2020,home,15204,1064,Eastern Nazarene,9,True,0,2,-2,loss,1849703,762,2127083,2020
+3,0,3,0,0,0,0,0,0,0,03/08/2020,neutral,15204,462,Neb. Wesleyan,9,True,12,8,4,win,1834451,762,2127083,2020
+1,0,1,0,0,0,0,0,0,0,03/08/2020,neutral,15204,462,Neb. Wesleyan,9,True,3,4,-1,loss,1848621,762,2127083,2020
+2,0,2,0,0,0,0,0,0,0,03/09/2020,neutral,15204,8597,Martin Luther,9,True,3,1,2,win,1834768,762,2127083,2020
+1,0,1,0,0,0,0,0,0,0,03/09/2020,neutral,15204,8597,Martin Luther,9,True,10,3,7,win,1849775,762,2127083,2020
+0,1,1,0,0,0,0,0,0,0,03/11/2020,neutral,15204,24317,Lesley,9,True,8,7,1,win,1835092,762,2127083,2020
+1,0,1,0,0,0,0,0,0,0,03/11/2020,neutral,15204,24317,Lesley,9,True,17,4,13,win,1848213,762,2127083,2020
+0,0,0,0,0,0,0,0,0,0,03/14/2020,neutral,15204,296,Benedictine (IL),9,True,2,9,-7,loss,1972798,762,2127083,2020

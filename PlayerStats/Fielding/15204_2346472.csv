@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/14/2020,away,15204,565,Randolph-Macon,9,True,3,7,-4,loss,1830209,1315,2346472,2020
+0,0,0,0,0,0,0,0,0,0,02/15/2020,neutral,15204,168,SUNY Cortland,9,True,3,18,-15,loss,1830420,1315,2346472,2020
+0,0,0,0,0,0,0,0,0,0,02/23/2020,away,15204,59,Bethany (WV),9,True,5,0,5,win,1831905,1315,2346472,2020
+0,0,0,0,0,0,0,0,0,0,02/23/2020,away,15204,59,Bethany (WV),9,True,1,2,-1,loss,1848583,1315,2346472,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,home,15204,761,Wells,9,True,9,0,9,win,1963968,1315,2346472,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,away,15204,761,Wells,9,True,10,0,10,win,1969782,1315,2346472,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,home,15204,761,Wells,9,True,7,4,3,win,1963964,1315,2346472,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,neutral,15204,385,Marietta,9,True,5,10,-5,loss,1971519,1315,2346472,2020
+0,0,0,0,0,0,0,0,0,0,03/11/2020,neutral,15204,76,Bridgewater St.,10,True,3,4,-1,loss,1972505,1315,2346472,2020

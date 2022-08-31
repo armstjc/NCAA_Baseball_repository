@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/09/2020,home,15204,69,Bowdoin,9,True,14,7,7,win,1971795,24,2364303,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,home,15204,18422,Rivier,9,True,25,7,18,win,1972148,24,2364303,2020
+0,0,0,0,0,0,0,0,0,0,03/11/2020,home,15204,789,Williams,9,True,11,2,9,win,1972142,24,2364303,2020

@@ -1,0 +1,12 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,399,Mass. Maritime,9,True,5,4,1,win,1833245,455,2350936,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,399,Mass. Maritime,9,True,3,5,-2,loss,1848199,455,2350936,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,784,Wilkes,9,True,8,3,5,win,1833294,455,2350936,2020
+0,0,0,0,0,0,0,0,0,0,03/03/2020,neutral,15204,351,Lebanon Valley,9,True,9,21,-12,loss,1833367,455,2350936,2020
+0,0,0,0,0,0,0,0,0,0,03/04/2020,neutral,15204,30160,Houghton,9,True,14,2,12,win,1833522,455,2350936,2020
+0,0,0,0,0,0,0,0,0,0,03/05/2020,neutral,15204,211,Elizabethtown,9,True,13,18,-5,loss,1833652,455,2350936,2020
+0,0,0,0,0,0,0,0,0,0,03/05/2020,neutral,15204,211,Elizabethtown,9,True,7,20,-13,loss,1848416,455,2350936,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,190,Drew,9,True,5,3,2,win,1833719,455,2350936,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,478,SUNY Maritime,9,True,6,2,4,win,1834086,455,2350936,2020
+1,0,1,0,0,0,0,0,0,0,03/11/2020,home,15204,182,Denison,9,True,1,16,-15,loss,1835198,455,2350936,2020
+0,0,0,0,0,0,0,0,0,0,03/14/2020,away,15204,182,Denison,9,True,1,8,-7,loss,1972800,455,2350936,2020

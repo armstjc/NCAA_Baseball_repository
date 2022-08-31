@@ -1,0 +1,12 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/23/2020,away,15204,145,Clark (MA),9,True,1,6,-5,loss,1831910,605,2363759,2020
+0,0,0,0,0,0,0,0,0,0,02/23/2020,away,15204,145,Clark (MA),9,True,3,2,1,win,1848588,605,2363759,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,601,St. John Fisher,9,True,1,3,-2,loss,1833007,605,2363759,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,601,St. John Fisher,9,True,2,9,-7,loss,1849565,605,2363759,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,42,Aurora,9,True,3,9,-6,loss,1833285,605,2363759,2020
+0,0,0,0,0,0,0,0,0,0,03/03/2020,neutral,15204,585,Rose-Hulman,9,True,1,3,-2,loss,1833361,605,2363759,2020
+0,0,0,0,0,0,0,0,0,0,03/05/2020,home,15204,297,Illinois Col.,9,True,9,8,1,win,1833631,605,2363759,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,30042,Mitchell,9,True,4,13,-9,loss,1833734,605,2363759,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,759,Webster,9,True,1,3,-2,loss,1834051,605,2363759,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,166,Cornell College,9,True,7,3,4,win,1834446,605,2363759,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,away,15204,8981,Endicott,9,True,2,0,2,win,1834982,605,2363759,2020

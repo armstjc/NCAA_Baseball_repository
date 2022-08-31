@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+2,0,2,0,0,0,0,0,0,0,02/28/2020,away,15204,1305,Cairn,9,True,2,5,-3,loss,1832336,30160,1771591,2020
+1,0,1,0,0,0,0,0,0,0,02/28/2020,away,15204,1305,Cairn,9,True,3,2,1,win,1847701,30160,1771591,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,away,15204,1305,Cairn,9,True,7,11,-4,loss,1969930,30160,1771591,2020
+1,0,1,0,0,0,0,0,0,0,03/02/2020,neutral,15204,1267,Northland,9,True,17,7,10,win,1963897,30160,1771591,2020
+0,0,0,0,0,0,0,0,0,0,03/03/2020,neutral,15204,190,Drew,9,True,14,11,3,win,1833353,30160,1771591,2020
+2,0,2,0,0,0,0,0,0,0,03/04/2020,neutral,15204,455,Muskingum,9,True,2,14,-12,loss,1833522,30160,1771591,2020
+1,0,1,0,0,0,0,0,0,0,03/06/2020,neutral,15204,784,Wilkes,9,True,1,4,-3,loss,1963899,30160,1771591,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,30031,Northwestern-St. Paul,9,True,7,3,4,win,1963898,30160,1771591,2020
+0,0,1,1,0,0,0,0,0,0,03/07/2020,neutral,15204,179,Delaware Valley,9,True,5,4,1,win,1963866,30160,1771591,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,179,Delaware Valley,9,True,1,4,-3,loss,1963867,30160,1771591,2020

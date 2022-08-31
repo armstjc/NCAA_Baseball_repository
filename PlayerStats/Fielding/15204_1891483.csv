@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/23/2020,home,15204,377,MacMurray,10,True,3,4,-1,loss,1832092,297,1891483,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,145,Clark (MA),9,True,8,14,-6,loss,1832989,297,1891483,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,42,Aurora,9,True,2,12,-10,loss,1832988,297,1891483,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,265,Grove City,9,True,8,13,-5,loss,1833302,297,1891483,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,265,Grove City,9,True,4,6,-2,loss,1849717,297,1891483,2020
+0,0,0,0,0,0,0,0,0,0,03/04/2020,neutral,15204,30064,Saint Vincent,9,True,16,3,13,win,1833524,297,1891483,2020
+0,0,0,0,0,0,0,0,0,0,03/05/2020,away,15204,605,St. Joseph's (ME),9,True,8,9,-1,loss,1833631,297,1891483,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,300,Ill. Wesleyan,9,True,8,11,-3,loss,1833723,297,1891483,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,214,Emerson,9,True,3,0,3,win,1833725,297,1891483,2020

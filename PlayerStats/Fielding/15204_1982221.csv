@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/15/2020,neutral,15204,805,Wis.-Whitewater,9,True,6,7,-1,loss,1830641,939,1982221,2020
+0,0,0,0,0,0,0,0,0,0,02/15/2020,away,15204,23260,Spalding,9,True,2,4,-2,loss,1830676,939,1982221,2020
+0,0,0,0,0,0,0,0,0,0,02/16/2020,away,15204,23260,Spalding,9,True,14,6,8,win,1830920,939,1982221,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,away,15204,46,Baldwin Wallace,9,True,8,1,7,win,1831449,939,1982221,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,neutral,15204,278,Heidelberg,9,True,4,3,1,win,1831547,939,1982221,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,296,Benedictine (IL),9,True,7,2,5,win,1832434,939,1982221,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,802,Wis.-Stevens Point,9,True,9,1,8,win,1832623,939,1982221,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,home,15204,15,Albion,9,True,5,0,5,win,1834907,939,1982221,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,home,15204,15,Albion,9,True,7,12,-5,loss,1847752,939,1982221,2020

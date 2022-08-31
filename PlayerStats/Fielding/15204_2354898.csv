@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,8597,Martin Luther,9,True,3,6,-3,loss,1834463,23624,2354898,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,8597,Martin Luther,9,True,16,13,3,win,1848633,23624,2354898,2020
+0,0,0,0,0,0,2,0,0,0,03/09/2020,neutral,15204,8567,Mt. St. Joseph,9,True,11,9,2,win,1834767,23624,2354898,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,8567,Mt. St. Joseph,9,True,6,19,-13,loss,1849774,23624,2354898,2020
+0,1,1,0,0,0,0,0,0,0,03/10/2020,neutral,15204,1099,Gordon,9,True,3,6,-3,loss,1834865,23624,2354898,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,neutral,15204,1099,Gordon,9,True,1,7,-6,loss,1849874,23624,2354898,2020
+0,0,1,1,0,0,2,0,0,0,03/12/2020,neutral,15204,737,Vassar,9,True,4,9,-5,loss,1835255,23624,2354898,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,neutral,15204,1059,D'Youville,9,True,6,12,-6,loss,1835369,23624,2354898,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,neutral,15204,1059,D'Youville,9,True,10,4,6,win,1849307,23624,2354898,2020

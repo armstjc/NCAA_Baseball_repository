@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/01/2020,home,15204,939,Anderson (IN),9,True,2,7,-5,loss,1832434,296,2156180,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,806,Wittenberg,9,True,4,5,-1,loss,1832998,296,2156180,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,802,Wis.-Stevens Point,9,True,2,3,-1,loss,1833017,296,2156180,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,home,15204,118,Carleton,9,True,10,0,10,win,1971259,296,2156180,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,home,15204,118,Carleton,9,True,10,0,10,win,1971302,296,2156180,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,neutral,15204,618,St. Scholastica,9,True,6,1,5,win,1835347,296,2156180,2020
+0,0,0,0,0,0,0,0,0,0,03/14/2020,neutral,15204,762,Wentworth,9,True,9,2,7,win,1972798,296,2156180,2020

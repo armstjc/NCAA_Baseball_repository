@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/29/2020,home,15204,679,Stevens,10,True,6,5,1,win,1832669,401,2348462,2020
+0,4,4,0,0,0,0,0,0,0,03/02/2020,home,15204,684,Suffolk,10,True,8,7,1,win,1832400,401,2348462,2020
+0,0,0,0,0,0,0,0,0,0,03/05/2020,home,15204,398,MIT,9,True,5,9,-4,loss,1833667,401,2348462,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,home,15204,238,Framingham St.,9,True,15,10,5,win,1834802,401,2348462,2020

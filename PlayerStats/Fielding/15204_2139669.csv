@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/18/2020,home,15204,124,Catholic,9,True,0,6,-6,loss,1830974,611,2139669,2020
+0,0,0,0,0,0,0,0,0,0,02/22/2020,home,15204,733,Utica,9,True,10,0,10,win,1831837,611,2139669,2020
+0,0,0,0,0,0,0,0,0,0,02/23/2020,home,15204,1468,Mt. St. Mary (NY),9,True,8,6,2,win,1831161,611,2139669,2020
+0,0,0,0,0,0,0,0,0,0,02/29/2020,home,15204,269,Hampden-Sydney,9,True,2,12,-10,loss,1832640,611,2139669,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,home,15204,313,Ithaca,9,True,18,16,2,win,1969963,611,2139669,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,away,15204,753,Washington Col.,9,True,6,3,3,win,1831253,611,2139669,2020
+0,0,0,0,0,0,0,0,0,0,03/04/2020,away,15204,394,Marymount (VA),9,True,4,6,-2,loss,1833540,611,2139669,2020
+0,0,0,0,0,0,0,0,0,0,03/11/2020,home,15204,763,Wesley,9,True,11,4,7,win,1835177,611,2139669,2020

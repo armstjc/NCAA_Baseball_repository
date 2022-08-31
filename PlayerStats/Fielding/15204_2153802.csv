@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,185,Dickinson,9,True,2,4,-2,loss,1833035,325,2153802,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,185,Dickinson,9,True,1,2,-1,loss,1849711,325,2153802,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,152,Colby-Sawyer,9,True,5,1,4,win,1834454,325,2153802,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,152,Colby-Sawyer,9,True,14,4,10,win,1848624,325,2153802,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,26107,Becker,9,True,10,5,5,win,1834750,325,2153802,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,home,15204,24317,Lesley,9,True,8,4,4,win,1834863,325,2153802,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,364,Loras,9,True,5,8,-3,loss,1835245,325,2153802,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,neutral,15204,462,Neb. Wesleyan,9,True,12,10,2,win,1972233,325,2153802,2020
+0,0,0,0,0,0,0,0,0,0,03/13/2020,neutral,15204,737,Vassar,9,True,10,4,6,win,1835360,325,2153802,2020
+0,0,0,0,0,0,0,0,0,0,03/14/2020,away,15204,330,Keene St.,9,True,3,1,2,win,1835674,325,2153802,2020

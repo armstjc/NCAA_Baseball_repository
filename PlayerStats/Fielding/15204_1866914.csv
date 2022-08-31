@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+3,2,6,1,0,0,4,0,0,0,03/01/2020,neutral,15204,938,Alvernia,9,True,5,9,-4,loss,1833011,987,1866914,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,938,Alvernia,9,True,4,12,-8,loss,1849567,987,1866914,2020
+5,0,5,0,0,0,2,0,0,0,03/02/2020,neutral,15204,602,Saint John's (MN),9,True,4,9,-5,loss,1833312,987,1866914,2020
+0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,602,Saint John's (MN),9,True,3,11,-8,loss,1849724,987,1866914,2020
+4,0,4,0,0,0,0,0,0,0,03/03/2020,neutral,15204,16142,Misericordia,9,True,9,3,6,win,1833374,987,1866914,2020
+2,0,2,0,0,0,0,0,0,0,03/03/2020,neutral,15204,16142,Misericordia,9,True,7,1,6,win,1849836,987,1866914,2020
+7,2,10,1,0,0,2,1,0,0,03/05/2020,neutral,15204,40,Augustana (IL),9,True,2,4,-2,loss,1833674,987,1866914,2020
+6,0,6,0,0,0,0,0,0,0,03/06/2020,neutral,15204,707,Thiel,9,True,11,7,4,win,1833722,987,1866914,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,58,Baruch,9,True,7,6,1,win,1833771,987,1866914,2020
+6,2,8,0,0,0,4,0,0,0,03/07/2020,neutral,15204,582,Rockford,9,True,2,4,-2,loss,1834078,987,1866914,2020

@@ -1,0 +1,13 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/25/2020,neutral,15204,1064,Eastern Nazarene,10,True,5,9,-4,loss,1969220,548,2354135,2020
+0,0,0,0,0,0,0,0,0,0,03/06/2020,home,15204,30032,Finlandia,9,True,10,3,7,win,1833774,548,2354135,2020
+0,1,1,0,0,0,0,0,0,0,03/06/2020,neutral,15204,30032,Finlandia,9,True,11,0,11,win,1848817,548,2354135,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,722,Coast Guard,9,True,8,4,4,win,1834079,548,2354135,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,58,Baruch,9,True,11,6,5,win,1834470,548,2354135,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,806,Wittenberg,9,True,0,13,-13,loss,1971894,548,2354135,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,home,15204,221,FDU-Florham,9,True,8,6,2,win,1834773,548,2354135,2020
+1,0,1,0,0,0,0,0,0,0,03/11/2020,neutral,15204,1164,Lakeland,8,True,7,2,5,win,1835095,548,2354135,2020
+0,0,0,0,0,0,0,0,0,0,03/11/2020,neutral,15204,1164,Lakeland,9,True,1,11,-10,loss,1848216,548,2354135,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,322,Johns Hopkins,9,True,1,6,-5,loss,1835303,548,2354135,2020
+4,0,4,0,0,0,0,0,0,0,03/13/2020,neutral,15204,30165,SUNY Canton,9,True,11,6,5,win,1835471,548,2354135,2020
+0,0,0,0,0,0,0,0,0,0,03/14/2020,neutral,15204,276,Haverford,9,True,8,11,-3,loss,1835706,548,2354135,2020

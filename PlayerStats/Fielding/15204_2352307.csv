@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/29/2020,away,15204,755,WashU,9,True,3,13,-10,loss,1969687,30172,2352307,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,755,WashU,9,True,0,10,-10,loss,1848777,30172,2352307,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,755,WashU,9,True,1,14,-13,loss,1833055,30172,2352307,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,212,Elmhurst,9,True,7,17,-10,loss,1834113,30172,2352307,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,212,Elmhurst,9,True,2,6,-4,loss,1849739,30172,2352307,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,212,Elmhurst,9,True,7,16,-9,loss,1834566,30172,2352307,2020

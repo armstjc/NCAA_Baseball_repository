@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+9,1,10,0,0,0,0,0,1,0,03/01/2020,neutral,15204,806,Wittenberg,9,True,11,4,7,win,1969923,1192,2146805,2020
+12,1,13,0,0,0,0,0,0,0,03/01/2020,neutral,15204,278,Heidelberg,9,True,0,3,-3,loss,1833264,1192,2146805,2020
+7,0,8,1,0,0,0,0,1,0,03/07/2020,neutral,15204,177,DePauw,9,True,0,7,-7,loss,1834186,1192,2146805,2020
+0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,177,DePauw,9,True,13,19,-6,loss,1849864,1192,2146805,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,177,DePauw,9,True,3,5,-2,loss,1834574,1192,2146805,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,177,DePauw,9,True,5,8,-3,loss,1849011,1192,2146805,2020
+1,0,1,0,0,0,0,0,0,0,03/10/2020,away,15204,0,Taylor (IN),9,True,6,5,1,win,1972315,1192,2146805,2020

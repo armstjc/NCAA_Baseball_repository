@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,02/23/2020,away,15204,530,Oswego St.,9,True,4,8,-4,loss,1831800,1163,2344803,2020
+0,0,0,0,0,0,0,0,0,0,02/23/2020,away,15204,46,Baldwin Wallace,9,True,3,4,-1,loss,1831815,1163,2344803,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,686,Swarthmore,9,True,5,4,1,win,1834727,1163,2344803,2020
+0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,278,Heidelberg,9,True,4,8,-4,loss,1834809,1163,2344803,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,neutral,15204,686,Swarthmore,9,True,5,7,-2,loss,1834886,1163,2344803,2020
+0,0,0,0,0,0,0,0,0,0,03/10/2020,neutral,15204,520,Ohio Wesleyan,9,True,6,7,-1,loss,1834981,1163,2344803,2020
+0,0,0,0,0,0,0,0,0,0,03/11/2020,neutral,15204,686,Swarthmore,9,True,4,15,-11,loss,1835111,1163,2344803,2020
+0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,685,Susquehanna,9,True,0,7,-7,loss,1835308,1163,2344803,2020

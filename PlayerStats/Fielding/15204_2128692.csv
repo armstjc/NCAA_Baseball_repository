@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+2,0,3,1,0,0,0,0,0,0,02/29/2020,neutral,15204,30083,Cobleskill St.,9,True,7,9,-2,loss,1832748,486,2128692,2020
+2,0,2,0,0,0,0,0,0,0,02/29/2020,neutral,15204,30083,Cobleskill St.,9,True,0,11,-11,loss,1848995,486,2128692,2020
+3,0,3,0,0,0,0,0,0,0,03/01/2020,neutral,15204,30083,Cobleskill St.,9,True,13,6,7,win,1833115,486,2128692,2020
+0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,30083,Cobleskill St.,8,True,9,10,-1,loss,1847830,486,2128692,2020
+0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,451,CMSV,9,True,8,6,2,win,1834494,486,2128692,2020
+2,0,2,0,0,0,0,0,0,0,03/08/2020,neutral,15204,451,CMSV,9,True,3,2,1,win,1848822,486,2128692,2020

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+5,0,5,0,0,0,0,0,0,0,03/05/2020,home,15204,775,Western New Eng.,9,True,5,12,-7,loss,1833622,238,1891352,2020
+2,0,2,0,0,0,0,0,0,0,03/07/2020,home,15204,8486,Lasell,9,True,14,9,5,win,1834039,238,1891352,2020
+1,0,1,0,0,0,0,0,0,0,03/09/2020,away,15204,401,UMass Boston,9,True,10,15,-5,loss,1834802,238,1891352,2020
+2,0,2,0,0,0,0,0,0,0,03/10/2020,away,15204,214,Emerson,9,True,13,4,9,win,1834959,238,1891352,2020

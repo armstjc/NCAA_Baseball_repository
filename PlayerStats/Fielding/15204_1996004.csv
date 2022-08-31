@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+9,1,10,0,0,0,1,0,0,0,02/22/2020,away,15204,145,Clark (MA),9,True,5,4,1,win,1831493,532,1996004,2020
+6,1,7,0,0,0,2,1,0,0,03/01/2020,neutral,15204,775,Western New Eng.,9,True,5,4,1,win,1970115,532,1996004,2020
+7,1,8,0,0,0,1,0,0,0,03/06/2020,neutral,15204,26107,Becker,9,True,7,1,6,win,1833748,532,1996004,2020
+9,0,9,0,0,1,2,0,0,0,03/06/2020,neutral,15204,26107,Becker,9,True,5,6,-1,loss,1848806,532,1996004,2020
+6,1,7,0,0,0,2,0,0,0,03/08/2020,neutral,15204,8567,Mt. St. Joseph,9,True,6,7,-1,loss,1834464,532,1996004,2020
+9,0,9,0,0,0,1,0,0,0,03/08/2020,neutral,15204,8567,Mt. St. Joseph,9,True,3,8,-5,loss,1848634,532,1996004,2020
+3,0,3,0,0,0,2,0,0,0,03/12/2020,neutral,15204,30035,Crown (MN),9,True,3,10,-7,loss,1835271,532,1996004,2020
+1,0,1,0,0,0,0,0,0,0,03/12/2020,away,15204,30035,Crown (MN),9,True,1,4,-3,loss,1849207,532,1996004,2020
+0,0,0,0,0,0,0,0,0,0,03/15/2020,home,15204,0,0.0,9,True,1,4,-3,loss,1849207,532,1996004,2020

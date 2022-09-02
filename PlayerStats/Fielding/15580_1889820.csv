@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,03/13/2021,neutral,15580,1305,Cairn,9,True,5,8,-3,loss,2058674,55,1889820,2021
+1,0,1,0,0,0,0,0,0,0,03/19/2021,away,15580,0,Morris,9,True,6,12,-6,loss,2063847,55,1889820,2021
+4,1,5,0,0,1,0,1,0,0,03/19/2021,away,15580,0,Morris,9,True,11,4,7,win,2063848,55,1889820,2021
+2,0,2,0,0,2,0,0,0,0,03/20/2021,away,15580,144,Clark Atlanta,9,True,6,14,-8,loss,2063069,55,1889820,2021
+0,0,0,0,0,0,0,0,0,0,04/13/2021,home,15580,0,Morris,9,True,8,7,1,win,2070846,55,1889820,2021
+0,0,0,0,0,0,0,0,0,0,04/13/2021,home,15580,0,Morris,9,True,7,6,1,win,2070847,55,1889820,2021
+0,0,0,0,0,0,0,0,0,0,04/21/2021,home,15580,144,Clark Atlanta,9,True,10,8,2,win,2072325,55,1889820,2021
+0,0,0,0,0,0,0,0,0,0,04/21/2021,home,15580,144,Clark Atlanta,9,True,11,14,-3,loss,2072326,55,1889820,2021

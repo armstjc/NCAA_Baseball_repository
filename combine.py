@@ -64,6 +64,29 @@ def mergePitchingLogs():
     df = mergeFilesMultithreaded(f)
     df.to_csv("PlayerStats/pitching_logs.csv",index=False)
 
+def mergeFieldingLogs():
+    f = "PlayerStats/Fielding"
+    df = mergeFilesMultithreaded(f)
+    df.to_csv("PlayerStats/fielding_logs.csv",index=False)
+
+def splitFieldingStats():
+    print('Reading the fielding logs file.')
+    df = pd.read_csv('PlayerStats/fielding_logs.csv')
+    print('Done!\n')
+    max_season = df['season'].max()
+    min_season = df['season'].min()
+    for i in range(min_season,max_season+1):
+        print(f'Creating batting logs for the {i} season.')
+        s_df = df[df['season'] == i]
+        len_s_df = len(s_df)
+        len_s_df = len_s_df // 2
+        partOne = s_df.iloc[:len_s_df,:]
+        partTwo = s_df.iloc[len_s_df:,:]
+
+        partOne.to_csv(f'PlayerStats/{i}_fielding_01.csv',index=False)
+        partTwo.to_csv(f'PlayerStats/{i}_fielding_02.csv',index=False)
+        #s_df.to_csv(f'PlayerStats/{i}_batting.csv')
+
 def splitBattingStats():
     print('Reading the batting logs file.')
     df = pd.read_csv('PlayerStats/batting_logs.csv')
@@ -103,9 +126,12 @@ def main():
     print('Starting Up...')
     mergePitchingLogs()
     mergeBattingLogs()
+    mergeFieldingLogs()
     splitBattingStats()
     splitPitchingStats()
-    os.remove('PlayerStats/pitching_logs.csv')
+    splitFieldingStats()
     os.remove('PlayerStats/batting_logs.csv')
+    os.remove('PlayerStats/pitching_logs.csv')
+    os.remove('PlayerStats/fielding_logs.csv')
 if __name__ == "__main__":
     main()

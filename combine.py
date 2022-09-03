@@ -76,7 +76,7 @@ def splitFieldingStats():
     max_season = df['season'].max()
     min_season = df['season'].min()
     for i in range(min_season,max_season+1):
-        print(f'Creating batting logs for the {i} season.')
+        print(f'Creating fielding logs for the {i} season.')
         s_df = df[df['season'] == i]
         len_s_df = len(s_df)
         len_s_df = len_s_df // 2

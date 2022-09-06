@@ -158,7 +158,7 @@ def getSeasonFieldingStats(season=2020):
 
 def main():
     print('starting up')
-    getSeasonFieldingStats(season=2021)
+    #getSeasonFieldingStats(season=2021)
     getSeasonFieldingStats(season=2022)
     
 if __name__ == "__main__":

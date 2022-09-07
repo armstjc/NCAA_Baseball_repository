@@ -10,7 +10,7 @@ import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
 def getSchoolList():
-    schools = datasets.get_school_table()
+    schools = datasets.get_school_path()
     school_df = pd.read_parquet(schools)
     #print(school_df)
     school_arr = school_df['ncaa_name'].to_numpy()
@@ -42,7 +42,8 @@ def download_gamelogs():
 
 def main():
     print('Starting Up')
-    download_gamelogs()
-    
+    arr = getSchoolList()
+    for i in tqdm(arr):
+        getSchoolAllTimeRoster(i)
 if __name__ == "__main__":
     main()

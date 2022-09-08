@@ -1,93 +1,4 @@
 jersey,stats_player_seq,name,position,class_year,games_played,games_started,season,season_id,school,school_id
-32,1109785,Eric Anderson,DH,Sr,46,44,2013,11320,Fairleigh Dickinson,222
-6,1316628,Brett Bittiger,INF,So,16,15,2013,11320,Fairleigh Dickinson,222
-17,1316632,Joe Borelli,P,So,13,10,2013,11320,Fairleigh Dickinson,222
-5,1427259,Ryan Brennan,INF,Fr,7,4,2013,11320,Fairleigh Dickinson,222
-23,1316636,Brendan Butler,P,So,11,11,2013,11320,Fairleigh Dickinson,222
-16,1109788,Matt Cadigan,P,Sr,21,5,2013,11320,Fairleigh Dickinson,222
-36,1316639,Anthony Calise,P,So,32,0,2013,11320,Fairleigh Dickinson,222
-25,1427265,Nick Cuono,P,Fr,13,9,2013,11320,Fairleigh Dickinson,222
-2,1427264,Jose Deleon,INF,So,22,1,2013,11320,Fairleigh Dickinson,222
-26,1427266,Logan Frati,P,Fr,14,6,2013,11320,Fairleigh Dickinson,222
-9,1427261,John Giakas,C,Fr,38,35,2013,11320,Fairleigh Dickinson,222
-18,1316633,Jack Loftus,C,So,17,10,2013,11320,Fairleigh Dickinson,222
-29,1316637,Ryan Macdonald,INF,So,44,41,2013,11320,Fairleigh Dickinson,222
-7,1316629,Pat Mcclure,C,So,0,0,2013,11320,Fairleigh Dickinson,222
-8,1427260,Ryan Mcgrath,INF,Fr,44,36,2013,11320,Fairleigh Dickinson,222
-12,1316631,Riley Moonan,OF,So,47,47,2013,11320,Fairleigh Dickinson,222
-44,1316641,Yonah Perline,P,So,23,0,2013,11320,Fairleigh Dickinson,222
-1,1316626,Jordan Ritz,OF,So,47,47,2013,11320,Fairleigh Dickinson,222
-14,1427263,Joel Roman,INF,Fr,47,43,2013,11320,Fairleigh Dickinson,222
-10,1427262,Anthony Romito,P,Fr,1,0,2013,11320,Fairleigh Dickinson,222
-21,1316638,Shane Siebler,OF,So,16,16,2013,11320,Fairleigh Dickinson,222
-19,1316634,Eric Snyder,P,So,22,0,2013,11320,Fairleigh Dickinson,222
-4,1427258,Dylan Sprague,INF,Fr,47,46,2013,11320,Fairleigh Dickinson,222
-11,1109794,Craig Warner,P,Sr,12,7,2013,11320,Fairleigh Dickinson,222
-22,1316642,Kyle Weeks,INF,Sr,48,47,2013,11320,Fairleigh Dickinson,222
-17,1316632,Joe Borelli,P,Jr,10,7,2014,11620,Fairleigh Dickinson,222
-28,1558742,Bray,P,N/A,0,0,2014,11620,Fairleigh Dickinson,222
-5,1427259,Ryan Brennan,INF,So,42,42,2014,11620,Fairleigh Dickinson,222
-23,1316636,Brendan Butler,P,Jr,12,8,2014,11620,Fairleigh Dickinson,222
-36,1316639,Anthony Calise,P,Jr,26,0,2014,11620,Fairleigh Dickinson,222
-10,1544737,John Chalupa,P,Jr,14,10,2014,11620,Fairleigh Dickinson,222
-25,1427265,Nick Cuono,P,So,16,4,2014,11620,Fairleigh Dickinson,222
-20,1558731,Deangelis,SS,N/A,0,0,2014,11620,Fairleigh Dickinson,222
-2,1427264,Jose Deleon,INF,Jr,24,6,2014,11620,Fairleigh Dickinson,222
-9,1558735,Dertouzos,LF,N/A,0,0,2014,11620,Fairleigh Dickinson,222
-22,1544736,Joe Flack,P,Fr,14,10,2014,11620,Fairleigh Dickinson,222
-26,1427266,Logan Frati,P,So,3,3,2014,11620,Fairleigh Dickinson,222
-9,1427261,John Giakas,C,So,47,47,2014,11620,Fairleigh Dickinson,222
-44,1558740,Gieger,P,N/A,0,0,2014,11620,Fairleigh Dickinson,222
-10,1558737,Herron,RF,N/A,0,0,2014,11620,Fairleigh Dickinson,222
-17,1558739,Hofmann,P,N/A,0,0,2014,11620,Fairleigh Dickinson,222
-21,1558733,Laguarina,1B,N/A,0,0,2014,11620,Fairleigh Dickinson,222
-18,1316633,Jack Loftus,C,Jr,13,1,2014,11620,Fairleigh Dickinson,222
-25,1558734,Lyman,DH,N/A,0,0,2014,11620,Fairleigh Dickinson,222
-29,1316637,Ryan Macdonald,INF,Jr,23,9,2014,11620,Fairleigh Dickinson,222
-1,1544734,Matt Mccann,INF,Fr,46,46,2014,11620,Fairleigh Dickinson,222
-7,1316629,Pat Mcclure,C,So,46,41,2014,11620,Fairleigh Dickinson,222
-8,1427260,Ryan Mcgrath,OF,So,28,14,2014,11620,Fairleigh Dickinson,222
-12,1316631,Riley Moonan,OF,Jr,47,47,2014,11620,Fairleigh Dickinson,222
-27,1558730,Onorato,2B,N/A,0,0,2014,11620,Fairleigh Dickinson,222
-44,1316641,Yonah Perline,P,Jr,30,0,2014,11620,Fairleigh Dickinson,222
-14,1427263,Joel Roman,INF,So,45,45,2014,11620,Fairleigh Dickinson,222
-21,1316638,Shane Siebler,OF,Jr,47,46,2014,11620,Fairleigh Dickinson,222
-24,1558738,Sinclair,C,N/A,0,0,2014,11620,Fairleigh Dickinson,222
-19,1316634,Eric Snyder,P,Jr,25,0,2014,11620,Fairleigh Dickinson,222
-4,1427258,Dylan Sprague,INF,So,46,45,2014,11620,Fairleigh Dickinson,222
-4,1558732,Tassielli,CF,N/A,0,0,2014,11620,Fairleigh Dickinson,222
-2,1558741,Thumes,P,N/A,0,0,2014,11620,Fairleigh Dickinson,222
-7,1558736,Tomaszewicz,3B,N/A,0,0,2014,11620,Fairleigh Dickinson,222
-11,1544735,Zach Tondi,C,Fr,42,39,2014,11620,Fairleigh Dickinson,222
-17,1316632,Joe Borelli,P,Sr,12,12,2015,12080,Fairleigh Dickinson,222
-5,1427259,Ryan Brennan,INF,Jr,39,39,2015,12080,Fairleigh Dickinson,222
-23,1666596,Brendan Butler,DH,N/A,1,1,2015,12080,Fairleigh Dickinson,222
-36,1316639,Anthony Calise,P,Sr,17,1,2015,12080,Fairleigh Dickinson,222
-10,1544737,John Chalupa,P,Sr,0,0,2015,12080,Fairleigh Dickinson,222
-25,1427265,Nick Cuono,P,Jr,7,3,2015,12080,Fairleigh Dickinson,222
-2,1427264,Jose Deleon,INF,Sr,15,1,2015,12080,Fairleigh Dickinson,222
-16,1649169,Justin Esteves,P,Fr,3,0,2015,12080,Fairleigh Dickinson,222
-23,1649171,Jason Fatzinger,OF,Fr,21,16,2015,12080,Fairleigh Dickinson,222
-22,1544736,Joe Flack,P,So,9,9,2015,12080,Fairleigh Dickinson,222
-26,1427266,Logan Frati,P,Jr,15,11,2015,12080,Fairleigh Dickinson,222
-20,1649170,Corbin Gapski,OF,Sr,10,1,2015,12080,Fairleigh Dickinson,222
-9,1427261,John Giakas,C,Jr,45,44,2015,12080,Fairleigh Dickinson,222
-33,1649174,Chris Grupp,C,So,18,13,2015,12080,Fairleigh Dickinson,222
-18,1316633,Jack Loftus,C,Sr,6,1,2015,12080,Fairleigh Dickinson,222
-29,1316637,Ryan Macdonald,INF,Sr,0,0,2015,12080,Fairleigh Dickinson,222
-6,1649168,Ryan Macnaughton,INF,Fr,16,7,2015,12080,Fairleigh Dickinson,222
-1,1544734,Matt Mccann,INF,So,46,44,2015,12080,Fairleigh Dickinson,222
-7,1316629,Pat Mcclure,C,Jr,43,42,2015,12080,Fairleigh Dickinson,222
-8,1427260,Ryan Mcgrath,OF,Jr,14,11,2015,12080,Fairleigh Dickinson,222
-12,1316631,Riley Moonan,OF,Sr,47,47,2015,12080,Fairleigh Dickinson,222
-44,1316641,Yonah Perline,P,Sr,16,0,2015,12080,Fairleigh Dickinson,222
-14,1427263,Joel Roman,INF,Jr,46,38,2015,12080,Fairleigh Dickinson,222
-30,1649173,Bobby Romano,SS,Fr,42,39,2015,12080,Fairleigh Dickinson,222
-21,1316638,Shane Siebler,OF,Sr,46,43,2015,12080,Fairleigh Dickinson,222
-19,1316634,Eric Snyder,P,Sr,24,0,2015,12080,Fairleigh Dickinson,222
-3,1649167,Justin Sportsman,OF,Fr,12,1,2015,12080,Fairleigh Dickinson,222
-4,1427258,Dylan Sprague,INF,Jr,47,46,2015,12080,Fairleigh Dickinson,222
-28,1649172,Max Wolfe,P,Fr,5,0,2015,12080,Fairleigh Dickinson,222
 11,1772931,Craig Alleyne,OF,Fr,36,26,2016,12360,Fairleigh Dickinson,222
 5,1427259,Ryan Brennan,OF,Jr,46,42,2016,12360,Fairleigh Dickinson,222
 10,1772930,John Chalupa,P,Sr,11,7,2016,12360,Fairleigh Dickinson,222
@@ -271,42 +182,92 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,1865749,Mike Veit,OF,Sr,37,37,2021,15580,Fairleigh Dickinson,222
 17,2482850,Tommy Verga,INF,Fr,34,33,2021,15580,Fairleigh Dickinson,222
 27,2482881,Tj Werner,INF,Fr,37,36,2021,15580,Fairleigh Dickinson,222
-40,2673953,Ian  Barrett,P,So,8,0,2022,15860,Fairleigh Dickinson,222
-34,2482894,Jude Baxt,P,So,17,5,2022,15860,Fairleigh Dickinson,222
-11,2329376,David Bordieri Jr.,INF,Jr,22,16,2022,15860,Fairleigh Dickinson,222
-33,2673892,Luke Cantwell,INF,Fr,37,30,2022,15860,Fairleigh Dickinson,222
-2,2482840,Hunter D'Amato,INF,So,50,48,2022,15860,Fairleigh Dickinson,222
-43,2482898,Michael Dimartino,P,So,16,0,2022,15860,Fairleigh Dickinson,222
-51,2674008,Nick  Evangelista,P,Sr,15,14,2022,15860,Fairleigh Dickinson,222
-10,2673865,Jack Giovenco,C,Fr,13,5,2022,15860,Fairleigh Dickinson,222
-9,2673872,Brelon Harden,INF,So,42,33,2022,15860,Fairleigh Dickinson,222
-38,2673949,Brenden Katz,P,Fr,3,0,2022,15860,Fairleigh Dickinson,222
-7,2137469,Joey Kosowsky,P,Sr,17,15,2022,15860,Fairleigh Dickinson,222
-26,2482879,Nicolas Kythreotis,P,So,6,0,2022,15860,Fairleigh Dickinson,222
-24,2673881,Leo Lung,INF,Fr,2,0,2022,15860,Fairleigh Dickinson,222
-25,2673882,Christopher  Mattioli,P,Fr,12,1,2022,15860,Fairleigh Dickinson,222
-45,2137523,Brendan Medoro,P,Sr,24,1,2022,15860,Fairleigh Dickinson,222
-31,2673889,Joshua Milleville,P,Fr,9,0,2022,15860,Fairleigh Dickinson,222
-21,2673878,Matthew Milone,OF,So,14,6,2022,15860,Fairleigh Dickinson,222
-28,2673885,Edward Novoa,C,Fr,17,4,2022,15860,Fairleigh Dickinson,222
-35,2673906,Devin  Pelletier,INF,Fr,15,7,2022,15860,Fairleigh Dickinson,222
-22,2673880,William Pope,C,So,21,21,2022,15860,Fairleigh Dickinson,222
-42,2673974,Gavin Price,P,Fr,9,1,2022,15860,Fairleigh Dickinson,222
-44,2673978,Matthew  Puello,INF,Fr,14,9,2022,15860,Fairleigh Dickinson,222
-41,2673970,Rich Racobaldo,P,Jr,16,11,2022,15860,Fairleigh Dickinson,222
-36,2482895,Ethan Rembish,P,So,16,3,2022,15860,Fairleigh Dickinson,222
-32,2673891,Kyle Richards,C,Fr,1,0,2022,15860,Fairleigh Dickinson,222
-39,2137450,Phillip Romeo,P,Sr,8,1,2022,15860,Fairleigh Dickinson,222
-15,2137483,George Rosales,C,Sr,49,44,2022,15860,Fairleigh Dickinson,222
-18,2137449,Tom Ruscitti,OF,Sr,53,52,2022,15860,Fairleigh Dickinson,222
-12,2329400,Justin Sierra,OF,Jr,53,52,2022,15860,Fairleigh Dickinson,222
-14,2673866,Jake Simon,P,Jr,20,2,2022,15860,Fairleigh Dickinson,222
-6,2673861,Joan Sosa,INF,So,50,49,2022,15860,Fairleigh Dickinson,222
-37,2673909,Thomas Spiwak,P,Fr,5,0,2022,15860,Fairleigh Dickinson,222
-30,2004119,Evan Stewart,P,Sr,12,0,2022,15860,Fairleigh Dickinson,222
-1,2673697,Cooper Symmons,P,Fr,5,0,2022,15860,Fairleigh Dickinson,222
-20,2482868,Bryce Timko,P,Jr,6,0,2022,15860,Fairleigh Dickinson,222
-17,2482850,Tommy Verga,INF,So,47,39,2022,15860,Fairleigh Dickinson,222
-27,2482881,Tj Werner,INF,So,48,46,2022,15860,Fairleigh Dickinson,222
-8,2673862,Ryan Wheet,OF,Fr,6,1,2022,15860,Fairleigh Dickinson,222
-4,2673860,Zack Will,INF,So,31,24,2022,15860,Fairleigh Dickinson,222
+32,1109785,Eric Anderson,DH,Sr,46,44,2013,11320,Fairleigh Dickinson,222
+6,1316628,Brett Bittiger,INF,So,16,15,2013,11320,Fairleigh Dickinson,222
+17,1316632,Joe Borelli,P,So,13,10,2013,11320,Fairleigh Dickinson,222
+5,1427259,Ryan Brennan,INF,Fr,7,4,2013,11320,Fairleigh Dickinson,222
+23,1316636,Brendan Butler,P,So,11,11,2013,11320,Fairleigh Dickinson,222
+16,1109788,Matt Cadigan,P,Sr,21,5,2013,11320,Fairleigh Dickinson,222
+36,1316639,Anthony Calise,P,So,32,0,2013,11320,Fairleigh Dickinson,222
+25,1427265,Nick Cuono,P,Fr,13,9,2013,11320,Fairleigh Dickinson,222
+2,1427264,Jose Deleon,INF,So,22,1,2013,11320,Fairleigh Dickinson,222
+26,1427266,Logan Frati,P,Fr,14,6,2013,11320,Fairleigh Dickinson,222
+9,1427261,John Giakas,C,Fr,38,35,2013,11320,Fairleigh Dickinson,222
+18,1316633,Jack Loftus,C,So,17,10,2013,11320,Fairleigh Dickinson,222
+29,1316637,Ryan Macdonald,INF,So,44,41,2013,11320,Fairleigh Dickinson,222
+7,1316629,Pat Mcclure,C,So,0,0,2013,11320,Fairleigh Dickinson,222
+8,1427260,Ryan Mcgrath,INF,Fr,44,36,2013,11320,Fairleigh Dickinson,222
+12,1316631,Riley Moonan,OF,So,47,47,2013,11320,Fairleigh Dickinson,222
+44,1316641,Yonah Perline,P,So,23,0,2013,11320,Fairleigh Dickinson,222
+1,1316626,Jordan Ritz,OF,So,47,47,2013,11320,Fairleigh Dickinson,222
+14,1427263,Joel Roman,INF,Fr,47,43,2013,11320,Fairleigh Dickinson,222
+10,1427262,Anthony Romito,P,Fr,1,0,2013,11320,Fairleigh Dickinson,222
+21,1316638,Shane Siebler,OF,So,16,16,2013,11320,Fairleigh Dickinson,222
+19,1316634,Eric Snyder,P,So,22,0,2013,11320,Fairleigh Dickinson,222
+4,1427258,Dylan Sprague,INF,Fr,47,46,2013,11320,Fairleigh Dickinson,222
+11,1109794,Craig Warner,P,Sr,12,7,2013,11320,Fairleigh Dickinson,222
+22,1316642,Kyle Weeks,INF,Sr,48,47,2013,11320,Fairleigh Dickinson,222
+17,1316632,Joe Borelli,P,Jr,10,7,2014,11620,Fairleigh Dickinson,222
+28,1558742,Bray,P,N/A,0,0,2014,11620,Fairleigh Dickinson,222
+5,1427259,Ryan Brennan,INF,So,42,42,2014,11620,Fairleigh Dickinson,222
+23,1316636,Brendan Butler,P,Jr,12,8,2014,11620,Fairleigh Dickinson,222
+36,1316639,Anthony Calise,P,Jr,26,0,2014,11620,Fairleigh Dickinson,222
+10,1544737,John Chalupa,P,Jr,14,10,2014,11620,Fairleigh Dickinson,222
+25,1427265,Nick Cuono,P,So,16,4,2014,11620,Fairleigh Dickinson,222
+20,1558731,Deangelis,SS,N/A,0,0,2014,11620,Fairleigh Dickinson,222
+2,1427264,Jose Deleon,INF,Jr,24,6,2014,11620,Fairleigh Dickinson,222
+9,1558735,Dertouzos,LF,N/A,0,0,2014,11620,Fairleigh Dickinson,222
+22,1544736,Joe Flack,P,Fr,14,10,2014,11620,Fairleigh Dickinson,222
+26,1427266,Logan Frati,P,So,3,3,2014,11620,Fairleigh Dickinson,222
+9,1427261,John Giakas,C,So,47,47,2014,11620,Fairleigh Dickinson,222
+44,1558740,Gieger,P,N/A,0,0,2014,11620,Fairleigh Dickinson,222
+10,1558737,Herron,RF,N/A,0,0,2014,11620,Fairleigh Dickinson,222
+17,1558739,Hofmann,P,N/A,0,0,2014,11620,Fairleigh Dickinson,222
+21,1558733,Laguarina,1B,N/A,0,0,2014,11620,Fairleigh Dickinson,222
+18,1316633,Jack Loftus,C,Jr,13,1,2014,11620,Fairleigh Dickinson,222
+25,1558734,Lyman,DH,N/A,0,0,2014,11620,Fairleigh Dickinson,222
+29,1316637,Ryan Macdonald,INF,Jr,23,9,2014,11620,Fairleigh Dickinson,222
+1,1544734,Matt Mccann,INF,Fr,46,46,2014,11620,Fairleigh Dickinson,222
+7,1316629,Pat Mcclure,C,So,46,41,2014,11620,Fairleigh Dickinson,222
+8,1427260,Ryan Mcgrath,OF,So,28,14,2014,11620,Fairleigh Dickinson,222
+12,1316631,Riley Moonan,OF,Jr,47,47,2014,11620,Fairleigh Dickinson,222
+27,1558730,Onorato,2B,N/A,0,0,2014,11620,Fairleigh Dickinson,222
+44,1316641,Yonah Perline,P,Jr,30,0,2014,11620,Fairleigh Dickinson,222
+14,1427263,Joel Roman,INF,So,45,45,2014,11620,Fairleigh Dickinson,222
+21,1316638,Shane Siebler,OF,Jr,47,46,2014,11620,Fairleigh Dickinson,222
+24,1558738,Sinclair,C,N/A,0,0,2014,11620,Fairleigh Dickinson,222
+19,1316634,Eric Snyder,P,Jr,25,0,2014,11620,Fairleigh Dickinson,222
+4,1427258,Dylan Sprague,INF,So,46,45,2014,11620,Fairleigh Dickinson,222
+4,1558732,Tassielli,CF,N/A,0,0,2014,11620,Fairleigh Dickinson,222
+2,1558741,Thumes,P,N/A,0,0,2014,11620,Fairleigh Dickinson,222
+7,1558736,Tomaszewicz,3B,N/A,0,0,2014,11620,Fairleigh Dickinson,222
+11,1544735,Zach Tondi,C,Fr,42,39,2014,11620,Fairleigh Dickinson,222
+17,1316632,Joe Borelli,P,Sr,12,12,2015,12080,Fairleigh Dickinson,222
+5,1427259,Ryan Brennan,INF,Jr,39,39,2015,12080,Fairleigh Dickinson,222
+23,1666596,Brendan Butler,DH,N/A,1,1,2015,12080,Fairleigh Dickinson,222
+36,1316639,Anthony Calise,P,Sr,17,1,2015,12080,Fairleigh Dickinson,222
+10,1544737,John Chalupa,P,Sr,0,0,2015,12080,Fairleigh Dickinson,222
+25,1427265,Nick Cuono,P,Jr,7,3,2015,12080,Fairleigh Dickinson,222
+2,1427264,Jose Deleon,INF,Sr,15,1,2015,12080,Fairleigh Dickinson,222
+16,1649169,Justin Esteves,P,Fr,3,0,2015,12080,Fairleigh Dickinson,222
+23,1649171,Jason Fatzinger,OF,Fr,21,16,2015,12080,Fairleigh Dickinson,222
+22,1544736,Joe Flack,P,So,9,9,2015,12080,Fairleigh Dickinson,222
+26,1427266,Logan Frati,P,Jr,15,11,2015,12080,Fairleigh Dickinson,222
+20,1649170,Corbin Gapski,OF,Sr,10,1,2015,12080,Fairleigh Dickinson,222
+9,1427261,John Giakas,C,Jr,45,44,2015,12080,Fairleigh Dickinson,222
+33,1649174,Chris Grupp,C,So,18,13,2015,12080,Fairleigh Dickinson,222
+18,1316633,Jack Loftus,C,Sr,6,1,2015,12080,Fairleigh Dickinson,222
+29,1316637,Ryan Macdonald,INF,Sr,0,0,2015,12080,Fairleigh Dickinson,222
+6,1649168,Ryan Macnaughton,INF,Fr,16,7,2015,12080,Fairleigh Dickinson,222
+1,1544734,Matt Mccann,INF,So,46,44,2015,12080,Fairleigh Dickinson,222
+7,1316629,Pat Mcclure,C,Jr,43,42,2015,12080,Fairleigh Dickinson,222
+8,1427260,Ryan Mcgrath,OF,Jr,14,11,2015,12080,Fairleigh Dickinson,222
+12,1316631,Riley Moonan,OF,Sr,47,47,2015,12080,Fairleigh Dickinson,222
+44,1316641,Yonah Perline,P,Sr,16,0,2015,12080,Fairleigh Dickinson,222
+14,1427263,Joel Roman,INF,Jr,46,38,2015,12080,Fairleigh Dickinson,222
+30,1649173,Bobby Romano,SS,Fr,42,39,2015,12080,Fairleigh Dickinson,222
+21,1316638,Shane Siebler,OF,Sr,46,43,2015,12080,Fairleigh Dickinson,222
+19,1316634,Eric Snyder,P,Sr,24,0,2015,12080,Fairleigh Dickinson,222
+3,1649167,Justin Sportsman,OF,Fr,12,1,2015,12080,Fairleigh Dickinson,222
+4,1427258,Dylan Sprague,INF,Jr,47,46,2015,12080,Fairleigh Dickinson,222
+28,1649172,Max Wolfe,P,Fr,5,0,2015,12080,Fairleigh Dickinson,222

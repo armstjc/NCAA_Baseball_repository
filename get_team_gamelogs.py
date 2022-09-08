@@ -28,7 +28,7 @@ def getSchoolAllTimeRoster(school='Ohio'):
     minSeason = 2013
     maxSeason = now.year
     #print(minSeason,maxSeason)
-    rost = ncaa.ncaa_team_roster(school,range(minSeason,maxSeason))
+    rost = ncaa.ncaa_team_roster(schoolID,range(minSeason,maxSeason))
     rost.to_csv(f'TeamRosters/{schoolID}.csv',index=False)
     print(rost)
     return rost

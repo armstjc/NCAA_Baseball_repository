@@ -119,7 +119,7 @@ def getSeasonFieldingStats(season=2020):
     max_schools = len(schools)
     #print(schools)
     hasRoster = True
-    for s in range(515,945):
+    for s in range(515,max_schools):
         i = schools[s]
         coll_count += 1
         #print(f'{coll_count}/{max_schools} {i}')

@@ -43,7 +43,8 @@ def download_gamelogs():
 def main():
     print('Starting Up')
     arr = getSchoolList()
-    for i in tqdm(arr):
+    for s in tqdm(range(705,len(arr))):
+        i = arr[s]
         getSchoolAllTimeRoster(i)
 if __name__ == "__main__":
     main()

@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/16/2013,away,11320,498,ULM,9,True,0,12,-12,loss,0 - 12,658105,17,1,1.0,1,2,2,4,0,0,8,4,0,0,0,1,0,0,0,2,0,0,0,40,1,1,0,0,0,3,0,1323288,2013
-02/16/2013,home,11320,749,Wake Forest,9,True,2,17,-15,loss,2 - 17,658399,17,1,1.2,2,1,0,1,2,0,10,8,0,0,0,0,0,1,0,3,1,0,0,0,1,2,0,0,0,4,0,1323288,2013
-03/08/2013,away,11320,694,Tennessee,9,True,0,16,-16,loss,0 - 16,661847,17,1,0.1,4,4,4,2,1,0,7,5,0,0,0,1,0,0,0,0,0,0,0,26,0,0,0,0,0,2,0,1323288,2013
-05/11/2013,away,11320,305,Indiana St.,9,True,2,14,-12,loss,2 - 14,679007,17,1,1.0,3,2,2,2,2,0,8,6,0,0,0,0,0,0,0,0,0,0,0,36,0,1,0,0,0,3,1,1323288,2013
-05/12/2013,away,11320,305,Indiana St.,9,True,1,10,-9,loss,1 - 10,679242,17,1,2.0,4,7,1,5,0,0,17,11,0,0,0,1,0,1,0,0,0,0,0,61,2,4,0,0,0,4,0,1323288,2013
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,1,2,2,4,0,0,8,4,0,0,0,1,0,0,0,2,0,0,0,40,1,1,0,0,0,3,0,02/16/2013,away,11320,498,ULM,9,True,0,12,-12,loss,658105,17,1323288,2013
+1,0,1.2,2,1,0,1,2,0,10,8,0,0,0,0,0,1,0,3,1,0,0,0,1,2,0,0,0,4,0,02/16/2013,neutral,11320,749,Wake Forest,9,True,2,17,-15,loss,658399,17,1323288,2013
+1,0,0.1,4,4,4,2,1,0,7,5,0,0,0,1,0,0,0,0,0,0,0,26,0,0,0,0,0,2,0,03/08/2013,away,11320,694,Tennessee,9,True,0,16,-16,loss,661847,17,1323288,2013
+1,0,1.0,3,2,2,2,2,0,8,6,0,0,0,0,0,0,0,0,0,0,0,36,0,1,0,0,0,3,1,05/11/2013,away,11320,305,Indiana St.,9,True,2,14,-12,loss,679007,17,1323288,2013
+1,0,2.0,4,7,1,5,0,0,17,11,0,0,0,1,0,1,0,0,0,0,0,61,2,4,0,0,0,4,0,05/12/2013,away,11320,305,Indiana St.,9,True,1,10,-9,loss,679242,17,1323288,2013

@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/26/2013,home,11320,1157,Kennesaw St.,9,True,2,9,-7,loss,2 - 9,659970,37,1,1.0,1,2,0,1,1,0,7,6,0,0,0,2,0,0,0,0,0,0,0,28,1,1,0,0,0,4,0,1420096,2013
-03/19/2013,home,11320,7,Alabama St.,9,True,10,2,8,win,10 - 2,665097,37,1,5.0,3,1,1,2,1,0,19,17,0,0,0,0,0,0,0,0,0,0,0,74,8,5,1,0,0,2,0,1420096,2013
-03/26/2013,away,11320,716,Troy,9,True,2,11,-9,loss,2 - 11,666847,37,1,3.2,5,2,2,2,1,0,20,16,1,0,0,0,0,2,0,0,0,0,0,57,3,6,0,0,0,1,0,1420096,2013
-04/03/2013,home,11320,2915,Wofford,9,True,7,4,3,win,7 - 4,669120,37,1,2.0,4,3,3,1,2,0,11,9,0,0,0,0,0,0,0,0,0,1,0,44,3,1,0,0,0,1,0,1420096,2013
-04/13/2013,home,11320,257,Georgia,9,True,1,7,-6,loss,1 - 7,672314,37,1,1.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,6,1,1,0,0,0,5,0,1420096,2013
-05/14/2013,home,11320,315,Jacksonville St.,9,True,1,6,-5,loss,1 - 6,679416,37,1,2.0,0,0,0,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,25,1,3,0,0,0,4,1,1420096,2013
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,1,2,0,1,1,0,7,6,0,0,0,2,0,0,0,0,0,0,0,28,1,1,0,0,0,4,0,02/26/2013,home,11320,1157,Kennesaw St.,9,True,2,9,-7,loss,659970,37,1420096,2013
+1,0,5.0,3,1,1,2,1,0,19,17,0,0,0,0,0,0,0,0,0,0,0,74,8,5,1,0,0,2,0,03/19/2013,home,11320,7,Alabama St.,9,True,10,2,8,win,665097,37,1420096,2013
+1,1,3.2,5,2,2,2,1,0,20,16,1,0,0,0,0,2,0,0,0,0,0,57,3,6,0,0,0,1,0,03/26/2013,away,11320,716,Troy,9,True,2,11,-9,loss,666847,37,1420096,2013
+1,1,2.0,4,3,3,1,2,0,11,9,0,0,0,0,0,0,0,0,0,1,0,44,3,1,0,0,0,1,0,04/03/2013,home,11320,2915,Wofford,9,True,7,4,3,win,669120,37,1420096,2013
+1,0,1.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,6,1,1,0,0,0,5,0,04/13/2013,home,11320,257,Georgia,9,True,1,7,-6,loss,672314,37,1420096,2013
+1,0,2.0,0,0,0,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,25,1,3,0,0,0,4,1,05/14/2013,home,11320,315,Jacksonville St.,9,True,1,6,-5,loss,679416,37,1420096,2013

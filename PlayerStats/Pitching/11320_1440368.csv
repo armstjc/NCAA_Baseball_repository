@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/09/2013,away,11320,7,Alabama St.,9,True,2,12,-10,loss,2 - 12,1877552,7,1,1.2,5,3,1,0,1,0,11,10,0,1,0,0,1,0,0,0,0,0,1,0,0,4,0,0,0,2,0,1440368,2013
-03/12/2013,away,11320,31,Arkansas,9,True,2,20,-18,loss,2 - 20,663162,6,1,1.2,3,4,1,4,1,0,13,9,1,0,0,0,0,0,0,3,3,0,0,59,0,4,0,0,0,4,1,1440368,2013
-03/15/2013,away,11320,472,New Mexico St.,9,True,6,20,-14,loss,6 - 20,663741,6,1,0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,0,1440368,2013
-03/29/2013,home,11320,17,Alcorn,9,True,5,11,-6,loss,5 - 11,667779,6,1,2.0,2,1,1,0,1,0,8,8,1,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,4,0,1440368,2013
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.2,5,3,1,0,1,0,11,10,0,1,0,0,1,0,0,0,0,0,1,0,0,4,0,0,0,2,0,03/09/2013,away,11320,7,Alabama St.,9,True,4,10,-6,loss,662139,6,1440368,2013
+1,0,1.2,3,4,1,4,1,0,13,9,1,0,0,0,0,0,0,3,3,0,0,59,0,4,0,0,0,4,1,03/12/2013,away,11320,31,Arkansas,9,True,2,20,-18,loss,663162,6,1440368,2013
+1,0,0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,0,03/15/2013,away,11320,472,New Mexico St.,9,True,6,20,-14,loss,663741,6,1440368,2013
+1,0,2.0,2,1,1,0,1,0,8,8,1,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,4,0,03/29/2013,home,11320,17,Alcorn,9,True,5,11,-6,loss,667779,6,1440368,2013

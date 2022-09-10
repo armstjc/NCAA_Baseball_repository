@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/15/2013,away,11320,459,UNC Greensboro,9,True,4,7,-3,loss,4 - 7,657957,725,1,1.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,1419911,2013
-02/23/2013,home,11320,202,Eastern Ky.,9,True,6,8,-2,loss,6 - 8,659452,725,1,1.0,2,1,1,0,1,0,5,5,1,0,1,0,0,0,0,0,0,0,0,18,2,0,0,0,0,3,1,1419911,2013
-03/26/2013,home,11320,639,Siena,9,True,7,6,1,win,7 - 6,666902,725,1,0.1,1,2,2,1,0,0,4,2,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,4,0,1419911,2013
-03/31/2013,home,11320,726,Navy,9,True,2,4,-2,loss,2 - 4,668633,725,1,2.1,1,0,0,1,0,0,11,7,0,0,0,0,0,2,0,1,0,1,0,0,4,3,0,0,0,2,0,1419911,2013
-04/07/2013,away,11320,352,Lehigh,9,True,10,19,-9,loss,10 - 19,670759,725,1,2.1,8,4,3,0,2,0,15,15,2,0,1,0,0,0,0,3,3,0,0,0,0,5,0,0,0,3,1,1419911,2013
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,02/15/2013,away,11320,459,UNC Greensboro,9,True,4,7,-3,loss,657957,725,1419911,2013
+1,0,1.0,2,1,1,0,1,0,5,5,1,0,1,0,0,0,0,0,0,0,0,18,2,0,0,0,0,3,1,02/23/2013,neutral,11320,202,Eastern Ky.,9,True,6,8,-2,loss,659452,725,1419911,2013
+1,0,0.1,1,2,2,1,0,0,4,2,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,4,0,03/26/2013,home,11320,639,Siena,9,True,7,6,1,win,666902,725,1419911,2013
+1,0,2.1,1,0,0,1,0,0,11,7,0,0,0,0,0,2,0,1,0,1,0,0,4,3,0,0,0,2,0,03/31/2013,home,11320,726,Navy,9,True,2,4,-2,loss,668633,725,1419911,2013
+1,0,2.1,8,4,3,0,2,0,15,15,2,0,1,0,0,0,0,3,3,0,0,0,0,5,0,0,0,3,1,04/07/2013,away,11320,352,Lehigh,9,True,10,19,-9,loss,670759,725,1419911,2013

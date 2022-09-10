@@ -142,7 +142,7 @@ def getSeasonGbgStats(season=2020):
                 player_id = rost['stats_player_seq'][j]
                 print(f'{count}/{maxRost} {school_name} {season} {player_name}')
                 data_b = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='batting',  school=school_name)
-                data_b = data_b[data_b['AB'] != 0 & data_b['BB'] != 0]
+                #data_b = data_b[(data_b['AB'] != 0) & (data_b['BB'] != 0)]
                 if len(data_b) > 0:
                     data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv',index=False)
             
@@ -160,7 +160,8 @@ def getSeasonGbgStats(season=2020):
 
 def main():
     print('starting up')
-    getSeasonGbgStats(season=2015)
+    for i in range(2013,2023):
+        getSeasonGbgStats(season=i)
 
     
 if __name__ == "__main__":

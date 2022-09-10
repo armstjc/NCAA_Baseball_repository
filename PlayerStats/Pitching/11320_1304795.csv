@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/16/2013,away,11320,30,Arkansas St.,9,True,1,10,-9,loss,1 - 10,658112,72,1,0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,3,0,1304795,2013
-03/03/2013,home,11320,370,LMU (CA),9,True,10,23,-13,loss,10 - 23,661158,72,1,1.0,1,1,1,1,0,0,5,4,1,0,0,1,0,0,0,2,2,0,0,20,2,1,0,0,0,6,0,1304795,2013
-03/20/2013,home,11320,751,Wash. & Jeff.,9,True,12,2,10,win,12 - 2,665450,72,1,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,1304795,2013
-04/02/2013,home,11320,218,Eureka,9,True,20,0,20,win,20 - 0,668765,72,1,1.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,0,2,1,1304795,2013
-04/14/2013,home,11320,782,Wichita St.,9,True,8,18,-10,loss,8 - 18,672522,72,1,0.1,0,2,2,1,0,0,3,0,0,0,0,0,0,1,0,2,2,0,1,9,0,1,0,0,0,5,0,1304795,2013
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,3,0,02/16/2013,away,11320,30,Arkansas St.,9,True,1,10,-9,loss,658112,72,1304795,2013
+1,0,1.0,1,1,1,1,0,0,5,4,1,0,0,1,0,0,0,2,2,0,0,20,2,1,0,0,0,6,0,03/03/2013,neutral,11320,370,LMU (CA),9,True,10,23,-13,loss,661158,72,1304795,2013
+1,0,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,03/20/2013,neutral,11320,751,Wash. & Jeff.,9,True,12,2,10,win,665450,72,1304795,2013
+1,0,1.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,0,2,1,04/02/2013,home,11320,218,Eureka,9,True,20,0,20,win,668765,72,1304795,2013
+1,0,0.1,0,2,2,1,0,0,3,0,0,0,0,0,0,1,0,2,2,0,1,9,0,1,0,0,0,5,0,04/14/2013,home,11320,782,Wichita St.,9,True,8,18,-10,loss,672522,72,1304795,2013

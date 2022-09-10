@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/24/2013,away,11320,317,James Madison,9,True,1,14,-13,loss,1 - 14,659736,62,1,2.0,7,9,7,4,1,0,17,13,1,0,1,0,0,0,0,0,0,0,0,0,0,4,0,1,0,1,0,1436241,2013
-03/03/2013,away,11320,741,VMI,9,True,4,6,-2,loss,4 - 6,661087,62,1,5.0,4,0,0,3,6,0,25,19,0,0,0,0,0,2,0,0,0,1,0,100,5,4,0,0,0,1,0,1436241,2013
-03/09/2013,away,11320,488,N.C. A&T,9,True,9,4,5,win,9 - 4,662443,62,1,5.0,6,3,1,4,5,0,23,17,1,0,0,1,0,1,0,0,0,1,0,0,2,4,1,0,0,1,2,1436241,2013
-03/17/2013,away,11320,391,UMBC,9,True,17,11,6,win,17 - 11,664917,62,1,4.1,5,2,1,1,6,0,19,18,1,0,0,1,0,0,0,1,1,0,0,80,5,2,0,0,0,2,3,1436241,2013
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,2.0,7,9,7,4,1,0,17,13,1,0,1,0,0,0,0,0,0,0,0,0,0,4,0,1,0,1,0,02/24/2013,away,11320,317,James Madison,9,True,1,14,-13,loss,659736,62,1436241,2013
+1,1,5.0,4,0,0,3,6,0,25,19,0,0,0,0,0,2,0,0,0,1,0,100,5,4,0,0,0,1,0,03/03/2013,away,11320,741,VMI,9,True,4,6,-2,loss,661087,62,1436241,2013
+1,1,5.0,6,3,1,4,5,0,23,17,1,0,0,1,0,1,0,0,0,1,0,0,2,4,1,0,0,1,2,03/09/2013,away,11320,488,N.C. A&T,9,True,9,4,5,win,662443,62,1436241,2013
+1,0,4.1,5,2,1,1,6,0,19,18,1,0,0,1,0,0,0,1,1,0,0,80,5,2,0,0,0,2,3,03/17/2013,away,11320,391,UMBC,9,True,17,11,6,win,664917,62,1436241,2013

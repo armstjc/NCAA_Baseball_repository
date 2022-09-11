@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/25/2016,away,12360,7,Alabama St.,9,True,0,10,-10,loss,0 - 10,300758,17,0,0,0.1,0.0,2,0,0,0,0,0,3,3,0,0,0,0,0,0,0,1,1,0,0,7,0,1,0,0,0,4,0,1439003,2016
-04/05/2016,away,12360,8,Alabama,9,True,5,8,-3,loss,5 - 8,303730,17,0,1,1.0,0.0,3,2,2,1,0,0,7,5,1,0,0,0,0,1,0,0,0,0,0,26,1,1,0,0,0,1,0,1439003,2016
-04/16/2016,away,12360,314,Jackson St.,9,True,5,11,-6,loss,5 - 11,306879,17,0,0,1.0,0.0,3,2,2,0,0,0,6,4,2,0,0,0,2,0,0,0,0,1,1,0,2,1,0,0,0,5,0,1439003,2016
-05/01/2016,home,12360,7,Alabama St.,9,True,4,10,-6,loss,4 - 10,311011,17,0,0,3.0,0.0,1,0,0,0,0,0,10,9,0,0,0,0,0,1,0,0,0,0,0,35,4,3,0,0,0,2,0,1439003,2016
-05/07/2016,away,12360,742,Virginia Tech,9,True,4,9,-5,loss,4 - 9,312117,17,0,0,2.0,0.0,1,1,1,4,0,0,12,7,0,0,0,0,0,1,0,0,0,0,0,44,2,4,0,0,0,3,0,1439003,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,2,0,0,0,0,0,3,3,0,0,0,0,0,0,0,1,1,0,0,7,0,1,0,0,0,4,0,03/25/2016,away,12360,7,Alabama St.,9,True,0,10,-10,loss,300758,17,1439003,2016
+0,1,1.0,0.0,3,2,2,1,0,0,7,5,1,0,0,0,0,1,0,0,0,0,0,26,1,1,0,0,0,1,0,04/05/2016,away,12360,8,Alabama,9,True,5,8,-3,loss,303730,17,1439003,2016
+0,0,1.0,0.0,3,2,2,0,0,0,6,4,2,0,0,0,2,0,0,0,0,1,1,0,2,1,0,0,0,5,0,04/16/2016,away,12360,314,Jackson St.,9,True,5,11,-6,loss,306879,17,1439003,2016
+0,0,3.0,0.0,1,0,0,0,0,0,10,9,0,0,0,0,0,1,0,0,0,0,0,35,4,3,0,0,0,2,0,05/01/2016,home,12360,7,Alabama St.,9,True,4,10,-6,loss,311011,17,1439003,2016
+0,0,2.0,0.0,1,1,1,4,0,0,12,7,0,0,0,0,0,1,0,0,0,0,0,44,2,4,0,0,0,3,0,05/07/2016,away,12360,742,Virginia Tech,9,True,4,9,-5,loss,312117,17,1439003,2016

@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/23/2016,away,12360,128,UCF,9,True,7,12,-5,loss,7 - 12,293416,61,0,1,1.0,0.0,3,2,2,2,0,0,7,5,0,0,1,0,0,0,0,0,0,0,0,28,2,0,0,1,0,1,0,1668521,2016
-03/06/2016,home,12360,28755,FGCU,9,True,5,15,-10,loss,5 - 15,295787,61,0,0,1.0,0.0,0,4,2,3,0,0,8,2,0,0,0,0,1,2,0,2,0,1,0,27,2,1,0,0,0,5,0,1668521,2016
-03/15/2016,home,12360,2711,North Florida,9,True,1,13,-12,loss,1 - 13,298139,61,0,0,0.2,0.0,1,2,0,1,0,0,7,4,0,0,0,0,0,2,0,0,0,0,0,24,2,0,0,0,0,5,0,1668521,2016
-03/29/2016,home,12360,231,FIU,9,True,8,21,-13,loss,8 - 21,301751,61,0,0,0.2,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,1,0,0,0,9,1,0,0,0,0,4,0,1668521,2016
-04/19/2016,away,12360,651,South Fla.,9,True,2,6,-4,loss,2 - 6,307552,61,0,0,0.1,0.0,0,2,2,1,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,16,1,0,0,0,0,2,0,1668521,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.0,0.0,3,2,2,2,0,0,7,5,0,0,1,0,0,0,0,0,0,0,0,28,2,0,0,1,0,1,0,02/23/2016,away,12360,128,UCF,9,True,7,12,-5,loss,293416,61,1668521,2016
+0,0,1.0,0.0,0,4,2,3,0,0,8,2,0,0,0,0,1,2,0,2,0,1,0,27,2,1,0,0,0,5,0,03/06/2016,home,12360,28755,FGCU,9,True,5,15,-10,loss,295787,61,1668521,2016
+0,0,0.2,0.0,1,2,0,1,0,0,7,4,0,0,0,0,0,2,0,0,0,0,0,24,2,0,0,0,0,5,0,03/15/2016,home,12360,2711,North Florida,9,True,1,13,-12,loss,298139,61,1668521,2016
+0,0,0.2,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,1,0,0,0,9,1,0,0,0,0,4,0,03/29/2016,home,12360,231,FIU,9,True,8,21,-13,loss,301751,61,1668521,2016
+0,0,0.1,0.0,0,2,2,1,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,16,1,0,0,0,0,2,0,04/19/2016,away,12360,651,South Fla.,9,True,2,6,-4,loss,307552,61,1668521,2016

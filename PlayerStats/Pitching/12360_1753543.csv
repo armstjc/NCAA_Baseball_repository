@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/28/2016,home,12360,502,Northern Colo.,9,True,2,3,-1,loss,2 - 3,294306,101,0,0,2.0,0.0,1,0,0,0,2,0,7,7,0,0,0,0,0,0,0,0,0,0,0,34,2,2,0,0,0,2,1,1753543,2016
-03/06/2016,away,12360,249,George Washington,9,True,9,3,6,win,9 - 3,295816,101,0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,0,0,4,0,1753543,2016
-03/08/2016,home,12360,110,UCLA,9,True,20,12,8,win,20 - 12,296299,101,0,0,0.2,0.0,0,2,2,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,16,1,1,1,0,0,2,0,1753543,2016
-03/26/2016,away,12360,551,Portland,9,True,3,7,-4,loss,3 - 7,301057,101,0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,4,0,1,0,0,0,3,0,1753543,2016
-04/03/2016,away,12360,97,Cal St. Fullerton,9,True,5,8,-3,loss,5 - 8,303160,101,0,0,0.0,0.0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1753543,2016
-04/10/2016,home,12360,99,Long Beach St.,9,True,0,12,-12,loss,0 - 12,305192,101,0,0,1.1,0.0,3,2,1,0,1,0,9,8,1,0,0,1,0,1,0,0,0,0,0,22,3,0,0,0,0,2,0,1753543,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,0,0,0,2,0,7,7,0,0,0,0,0,0,0,0,0,0,0,34,2,2,0,0,0,2,1,02/28/2016,home,12360,502,Northern Colo.,9,True,2,3,-1,loss,294306,101,1753543,2016
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,0,0,4,0,03/06/2016,away,12360,249,George Washington,9,True,9,3,6,win,295816,101,1753543,2016
+0,0,0.2,0.0,0,2,2,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,16,1,1,1,0,0,2,0,03/08/2016,home,12360,110,UCLA,9,True,20,12,8,win,296299,101,1753543,2016
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,4,0,1,0,0,0,3,0,03/26/2016,away,12360,551,Portland,9,True,3,7,-4,loss,301057,101,1753543,2016
+0,0,0.0,0.0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,04/03/2016,away,12360,97,Cal St. Fullerton,9,True,5,8,-3,loss,303160,101,1753543,2016
+0,0,1.1,0.0,3,2,1,0,1,0,9,8,1,0,0,1,0,1,0,0,0,0,0,22,3,0,0,0,0,2,0,04/10/2016,home,12360,99,Long Beach St.,9,True,0,12,-12,loss,305192,101,1753543,2016

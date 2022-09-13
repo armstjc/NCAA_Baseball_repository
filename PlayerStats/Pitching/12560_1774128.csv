@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-04/07/2017,away,12560,456,UNC Asheville,9,True,10,3,7,win,10 - 3,217200,48,0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,3,0,1774128,2017
-04/12/2017,home,12560,1014,Col. of Charleston,9,True,5,13,-8,loss,5 - 13,218949,48,0,0,1.0,0.0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,16,2,1,0,0,0,7,0,1774128,2017
-04/19/2017,away,12560,10411,USC Upstate,9,True,1,5,-4,loss,1 - 5,220870,48,0,0,1.0,0.0,3,2,2,0,2,0,6,6,1,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,2,1,1774128,2017
-04/25/2017,home,12560,2915,Wofford,9,True,5,2,3,win,5 - 2,222753,48,0,0,0.2,0.0,0,0,0,1,0,0,3,2,0,0,0,0,1,0,0,0,0,0,0,16,0,1,0,0,0,3,0,1774128,2017
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,3,0,04/07/2017,away,12560,456,UNC Asheville,9,True,10,3,7,win,217200,48,1774128,2017
+0,0,1.0,0.0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,16,2,1,0,0,0,7,0,04/12/2017,home,12560,1014,Col. of Charleston,9,True,5,13,-8,loss,218949,48,1774128,2017
+0,0,1.0,0.0,3,2,2,0,2,0,6,6,1,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,2,1,04/19/2017,away,12560,10411,USC Upstate,9,True,1,5,-4,loss,220870,48,1774128,2017
+0,0,0.2,0.0,0,0,0,1,0,0,3,2,0,0,0,0,1,0,0,0,0,0,0,16,0,1,0,0,0,3,0,04/25/2017,neutral,12560,2915,Wofford,9,True,5,2,3,win,222753,48,1774128,2017

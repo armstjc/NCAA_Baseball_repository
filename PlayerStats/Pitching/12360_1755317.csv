@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,1,4,4,4,2,0,10,6,0,0,0,0,1,0,0,0,0,0,0,40,1,2,0,0,0,3,0,03/15/2016,away,12360,627,San Diego,9,True,5,21,-16,loss,298134,158,1755317,2016
+0,0,1.0,0.0,0,1,1,1,0,0,5,2,0,0,0,0,1,1,0,0,0,1,0,18,2,1,0,0,0,3,0,04/06/2016,home,12360,603,St. John's (NY),9,True,4,1,3,win,303843,158,1755317,2016
+0,1,2.0,0.0,1,2,2,3,2,0,10,7,1,0,0,0,0,0,0,0,0,0,0,44,2,2,0,1,0,1,1,04/20/2016,home,12360,236,Fordham,9,True,1,4,-3,loss,307938,158,1755317,2016
+0,1,2.2,0.0,4,5,5,2,0,0,14,12,0,0,0,0,0,0,0,0,0,0,0,58,4,2,0,0,0,1,0,04/27/2016,home,12360,381,Manhattan,9,True,14,12,2,win,309819,158,1755317,2016

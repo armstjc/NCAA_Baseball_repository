@@ -45,8 +45,9 @@ def getAllGbgStats():
     hasRoster = True
     school_count = 0
     schools_len = len(schools)
-    for s in range(65,len(schools)+1):
-        school_count += 1
+    for s in range(66,len(schools)+1):
+        #school_count += 1
+        school_count = s
         i = schools[s]
         print(f"{school_count}/{schools_len} {i}")
         try:

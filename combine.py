@@ -20,13 +20,9 @@ def mergeFilesMultithreaded(filePath=""):
     pool = Pool(num_cpus-1)
     main_df = pd.DataFrame()
     
-    f = 0
     l = filePath
     file_list = glob.iglob(l+"/*csv")
-    #print(type(file_list))
     file_list = list(file_list)
-    # for file in file_list:
-    #     f +=1
     df_list = pool.map(reader,tqdm(file_list))
 
     main_df = pd.concat(df_list)
@@ -69,10 +65,33 @@ def mergeFieldingLogs():
     df = mergeFilesMultithreaded(f)
     df.to_csv("PlayerStats/fielding_logs.csv",index=False)
 
+def pbpReader(filename):
+        game_id = str(os.path.basename(filename)).replace(".csv","")
+        df = pd.read_csv(filename, encoding='latin-1')
+        df['game_id'] = game_id
+        return df
+
+def mergePbpMultithreaded(filePath=""):
+    #global filecount
+    #filecount = 0
+    num_cpus = os.cpu_count()
+    print(f'{num_cpus} cpu cores advalible to this script.')
+
+    pool = Pool(num_cpus-1)
+    main_df = pd.DataFrame()
+    
+    l = filePath
+    file_list = glob.iglob(l+"/*csv")
+    file_list = list(file_list)
+    df_list = pool.map(pbpReader,tqdm(file_list))
+
+    main_df = pd.concat(df_list)
+
+    return main_df
 
 def mergePbpLogs():
     f = "pbp/games"
-    df = mergeFilesMultithreaded(f)
+    df = mergePbpMultithreaded(f)
     df.to_csv("pbp/pbp_logs.csv",index=False)
 
 
@@ -141,12 +160,16 @@ def splitPbpLogs():
         print(f'Creating play-by-play logs for the {i} season.')
         s_df = df[df['season'] == i]
         len_s_df = len(s_df)
-        len_s_df = len_s_df // 2
-        partOne = s_df.iloc[:len_s_df,:]
-        partTwo = s_df.iloc[len_s_df:,:]
+        len_s_df = len_s_df // 4
+        partOne = s_df.iloc[:len_s_df]
+        partTwo = s_df.iloc[len_s_df:2*len_s_df]
+        partThree = s_df.iloc[2*len_s_df:3*len_s_df]
+        partFour = s_df.iloc[3*len_s_df:]
 
         partOne.to_csv(f'pbp/{i}_pbp_01.csv',index=False)
         partTwo.to_csv(f'pbp/{i}_pbp_02.csv',index=False)
+        partThree.to_csv(f'pbp/{i}_pbp_03.csv',index=False)
+        partFour.to_csv(f'pbp/{i}_pbp_04.csv',index=False)
 
 def main():
     print('Starting Up...')

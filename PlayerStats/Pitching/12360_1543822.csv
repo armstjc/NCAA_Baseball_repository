@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,0.0,7,7,7,3,4,0,22,17,0,0,0,2,0,2,0,0,0,0,0,93,2,4,0,0,0,1,1,02/20/2016,home,12360,810,Wright St.,10,True,11,13,-2,loss,292788,1068,1543822,2016
+0,1,6.0,0.0,3,2,2,2,6,0,22,20,0,0,0,0,1,0,0,0,0,0,0,92,5,6,1,0,0,1,0,02/26/2016,home,12360,340,La Salle,9,True,7,4,3,win,293533,1068,1543822,2016
+0,1,6.2,0.0,6,3,3,4,4,0,29,24,0,0,0,0,0,0,0,0,0,1,0,111,9,6,0,1,0,1,1,03/04/2016,home,12360,71,Bowling Green,9,True,2,6,-4,loss,294996,1068,1543822,2016

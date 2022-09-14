@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/15/2016,home,12360,283,Hofstra,10,True,1,4,-3,loss,1 - 4,298350,222,0,0,1.0,0.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,5,0,1772943,2016
-04/10/2016,home,12360,81,Bryant,9,True,1,19,-18,loss,1 - 19,305183,222,0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,2,1,0,0,0,6,0,1772943,2016
-04/12/2016,away,12360,165,Coppin St.,9,True,8,15,-7,loss,8 - 15,305442,222,0,0,0.2,0.0,4,3,3,1,0,0,6,5,0,0,0,1,0,0,0,2,2,0,0,0,0,1,0,0,0,2,0,1772943,2016
-04/19/2016,away,12360,471,NJIT,9,True,3,14,-11,loss,3 - 14,307525,222,0,0,0.2,0.0,3,4,2,1,1,0,8,5,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,6,1,1772943,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,5,0,03/15/2016,home,12360,283,Hofstra,10,True,1,4,-3,loss,298350,222,1772943,2016
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,2,1,0,0,0,6,0,04/10/2016,home,12360,81,Bryant,9,True,1,19,-18,loss,305183,222,1772943,2016
+0,0,0.2,0.0,4,3,3,1,0,0,6,5,0,0,0,1,0,0,0,2,2,0,0,0,0,1,0,0,0,2,0,04/12/2016,away,12360,165,Coppin St.,9,True,8,15,-7,loss,305442,222,1772943,2016
+0,0,0.2,0.0,3,4,2,1,1,0,8,5,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,6,1,04/19/2016,away,12360,471,NJIT,9,True,3,14,-11,loss,307525,222,1772943,2016

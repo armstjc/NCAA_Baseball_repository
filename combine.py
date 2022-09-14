@@ -9,7 +9,7 @@ from multiprocessing import Pool
 
 def reader(filename):
         
-        return pd.read_csv(filename)
+        return pd.read_csv(filename, encoding='latin-1')
 
 def mergeFilesMultithreaded(filePath=""):
     #global filecount
@@ -69,23 +69,13 @@ def mergeFieldingLogs():
     df = mergeFilesMultithreaded(f)
     df.to_csv("PlayerStats/fielding_logs.csv",index=False)
 
-def splitFieldingStats():
-    print('Reading the fielding logs file.')
-    df = pd.read_csv('PlayerStats/fielding_logs.csv')
-    print('Done!\n')
-    max_season = df['season'].max()
-    min_season = df['season'].min()
-    for i in range(min_season,max_season+1):
-        print(f'Creating fielding logs for the {i} season.')
-        s_df = df[df['season'] == i]
-        len_s_df = len(s_df)
-        len_s_df = len_s_df // 2
-        partOne = s_df.iloc[:len_s_df,:]
-        partTwo = s_df.iloc[len_s_df:,:]
 
-        partOne.to_csv(f'PlayerStats/{i}_fielding_01.csv',index=False)
-        partTwo.to_csv(f'PlayerStats/{i}_fielding_02.csv',index=False)
-        #s_df.to_csv(f'PlayerStats/{i}_batting.csv')
+def mergePbpLogs():
+    f = "pbp/games"
+    df = mergeFilesMultithreaded(f)
+    df.to_csv("pbp/pbp_logs.csv",index=False)
+
+
 
 def splitBattingStats():
     print('Reading the batting logs file.')
@@ -122,16 +112,58 @@ def splitPitchingStats():
         partTwo.to_csv(f'PlayerStats/{i}_pitching_02.csv',index=False)
         #s_df.to_csv(f'PlayerStats/{i}_batting.csv')
 
+def splitFieldingStats():
+    print('Reading the fielding logs file.')
+    df = pd.read_csv('PlayerStats/fielding_logs.csv')
+    print('Done!\n')
+    max_season = df['season'].max()
+    min_season = df['season'].min()
+    for i in range(min_season,max_season+1):
+        print(f'Creating fielding logs for the {i} season.')
+        s_df = df[df['season'] == i]
+        len_s_df = len(s_df)
+        len_s_df = len_s_df // 2
+        partOne = s_df.iloc[:len_s_df,:]
+        partTwo = s_df.iloc[len_s_df:,:]
+
+        partOne.to_csv(f'PlayerStats/{i}_fielding_01.csv',index=False)
+        partTwo.to_csv(f'PlayerStats/{i}_fielding_02.csv',index=False)
+
+
+def splitPbpLogs():
+    print('Reading the play-by-play logs file.')
+    df = pd.read_csv('pbp/pbp_logs.csv')
+    print('Done!\n')
+    df['season'] = pd.DatetimeIndex(df['date']).year
+    max_season = df['season'].max()
+    min_season = df['season'].min()
+    for i in range(min_season,max_season+1):
+        print(f'Creating play-by-play logs for the {i} season.')
+        s_df = df[df['season'] == i]
+        len_s_df = len(s_df)
+        len_s_df = len_s_df // 2
+        partOne = s_df.iloc[:len_s_df,:]
+        partTwo = s_df.iloc[len_s_df:,:]
+
+        partOne.to_csv(f'pbp/{i}_pbp_01.csv',index=False)
+        partTwo.to_csv(f'pbp/{i}_pbp_02.csv',index=False)
+
 def main():
     print('Starting Up...')
     mergePitchingLogs()
     mergeBattingLogs()
     mergeFieldingLogs()
+    mergePbpLogs()
+
     splitBattingStats()
     splitPitchingStats()
     splitFieldingStats()
+    splitPbpLogs()
+    
     os.remove('PlayerStats/batting_logs.csv')
     os.remove('PlayerStats/pitching_logs.csv')
     os.remove('PlayerStats/fielding_logs.csv')
+    os.remove('pbp/pbp_logs.csv')
+
 if __name__ == "__main__":
     main()

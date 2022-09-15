@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,3,0,0,0,2,0,03/08/2016,home,12360,381,Manhattan,9,True,12,3,9,win,296314,236,1529719,2016
+0,1,2.0,0.0,4,3,3,1,3,0,10,9,0,0,0,1,2,0,0,0,0,0,0,0,2,0,0,0,0,1,0,03/16/2016,away,12360,283,Hofstra,9,True,7,6,1,win,298397,236,1529719,2016
+0,1,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,03/23/2016,away,12360,477,New York Tech,9,True,4,5,-1,loss,300313,236,1529719,2016
+0,1,3.0,0.0,3,1,1,1,2,0,12,11,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,1,1,03/30/2016,away,12360,14,UAlbany,9,True,9,3,6,win,302106,236,1529719,2016
+0,1,1.0,0.0,4,3,3,0,0,0,7,7,1,1,0,0,0,0,0,0,0,0,0,25,1,2,0,1,0,1,0,04/06/2016,away,12360,587,Rutgers,9,True,0,5,-5,loss,303844,236,1529719,2016

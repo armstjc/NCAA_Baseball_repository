@@ -23,7 +23,7 @@ for (s in seasons) {
     
     gid = game_list[i]
     print(glue::glue("{i}/{game_list_len}: {gid}"))
-    filename <- glue::glue("pbp/{gid}.csv")
+    filename <- glue::glue("pbp/games/{gid}.csv")
     stats <- ncaa_baseball_pbp(glue::glue('https://stats.ncaa.org/game/play_by_play/{gid}'))
     write.csv(stats,filename,row.names=FALSE)
     Sys.sleep(4)

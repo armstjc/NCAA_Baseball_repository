@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/26/2016,home,12360,528,Oregon St.,9,True,0,14,-14,loss,0 - 14,293729,327,0,0,0.1,0.0,1,1,1,1,1,0,4,2,1,0,0,0,0,1,0,3,3,0,0,21,0,0,0,0,0,5,1,1751022,2016
-03/04/2016,home,12360,2678,Ark.-Pine Bluff,9,True,18,8,10,win,18 - 8,295026,327,0,0,1.0,0.0,0,0,0,0,1,0,4,3,0,0,0,0,0,1,0,0,0,0,0,9,0,2,0,0,0,4,0,1751022,2016
-03/11/2016,home,12360,797,Milwaukee,9,True,1,14,-13,loss,1 - 14,296861,327,0,0,0.2,0.0,3,5,5,3,1,0,8,5,2,0,0,0,0,0,0,0,0,0,0,33,0,1,0,0,0,5,1,1751022,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,1,1,1,1,1,0,4,2,1,0,0,0,0,1,0,3,3,0,0,21,0,0,0,0,0,5,1,02/26/2016,neutral,12360,528,Oregon St.,9,True,0,14,-14,loss,293729,327,1751022,2016
+0,0,1.0,0.0,0,0,0,0,1,0,4,3,0,0,0,0,0,1,0,0,0,0,0,9,0,2,0,0,0,4,0,03/04/2016,home,12360,2678,Ark.-Pine Bluff,9,True,18,8,10,win,295026,327,1751022,2016
+0,0,0.2,0.0,3,5,5,3,1,0,8,5,2,0,0,0,0,0,0,0,0,0,0,33,0,1,0,0,0,5,1,03/11/2016,home,12360,797,Milwaukee,9,True,1,14,-13,loss,296861,327,1751022,2016

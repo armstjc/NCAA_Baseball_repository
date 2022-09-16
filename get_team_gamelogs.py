@@ -27,16 +27,13 @@ def getTeamGameResults(school='Ohio'):
     pitching_df = pd.DataFrame()
     now = date.today()
     schoolID = ncaa.lookup_school_id(school)
-    minSeason = 2013
+    minSeason = 2019
     maxSeason = now.year
     #print(minSeason,maxSeason)
     for i in range(minSeason,maxSeason+1):
         print(f'{i} {schoolID}')
         team_results_df = ncaa.ncaa_team_results(schoolID,i)
         team_results_df.to_csv(f'TeamResults/csv/{schoolID}_{i}.csv',index=False)
-       
-
-
 
 def download_gamelogs():
     schools = getSchoolList()
@@ -50,7 +47,8 @@ def main():
     arr = getSchoolList()
     for s in tqdm(range(0,len(arr))):
         i = arr[s]
-
+        print(i)
         getTeamGameResults(i)
+
 if __name__ == "__main__":
     main()

@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/22/2017,home,12560,699,Texas Southern,9,True,16,3,13,win,16 - 3,213178,288,0,0,1.0,0.0,2,0,0,0,3,0,5,5,0,0,0,0,1,0,0,0,0,0,0,16,0,0,0,0,0,3,1,1867631,2017
-04/04/2017,home,12560,574,Rice,9,True,0,9,-9,loss,0 - 9,216620,288,0,0,3.1,0.0,0,0,0,1,2,0,11,10,0,0,0,0,0,0,0,2,0,0,0,49,5,3,0,0,0,4,0,1867631,2017
-04/15/2017,away,12560,404,Memphis,9,True,9,8,1,win,9 - 8,219831,288,0,0,0.0,0.0,1,2,2,1,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,11,0,0,0,0,0,2,0,1867631,2017
-04/18/2017,home,12560,624,Sam Houston,9,True,4,5,-1,loss,4 - 5,220798,288,0,0,0.2,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,0,0,5,0,1867631,2017
-04/30/2017,away,12560,651,South Fla.,9,True,4,5,-1,loss,4 - 5,224140,288,0,0,0.1,0.0,0,1,1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,11,0,1,0,0,0,3,0,1867631,2017
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,0,0,0,3,0,5,5,0,0,0,0,1,0,0,0,0,0,0,16,0,0,0,0,0,3,1,03/22/2017,home,12560,699,Texas Southern,9,True,16,3,13,win,213178,288,1867631,2017
+0,0,3.1,0.0,0,0,0,1,2,0,11,10,0,0,0,0,0,0,0,2,0,0,0,49,5,3,0,0,0,4,0,04/04/2017,home,12560,574,Rice,9,True,0,9,-9,loss,216620,288,1867631,2017
+0,0,0.0,0.0,1,2,2,1,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,11,0,0,0,0,0,2,0,04/15/2017,away,12560,404,Memphis,9,True,9,8,1,win,219831,288,1867631,2017
+0,0,0.2,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,0,0,5,0,04/18/2017,neutral,12560,624,Sam Houston,9,True,4,5,-1,loss,220798,288,1867631,2017
+0,0,0.1,0.0,0,1,1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,11,0,1,0,0,0,3,0,04/30/2017,away,12560,651,South Fla.,9,True,4,5,-1,loss,224140,288,1867631,2017

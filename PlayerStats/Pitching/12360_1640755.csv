@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/27/2016,home,12360,31,Arkansas,9,True,3,12,-9,loss,3 - 12,294114,288,0,0,3.0,0.0,4,3,2,1,2,0,15,14,1,0,0,1,0,0,0,2,1,0,0,47,4,3,0,0,0,4,1,1640755,2016
-03/04/2016,home,12360,51,Baylor,9,True,2,4,-2,loss,2 - 4,294983,288,0,0,0.1,0.0,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,7,1,0,0,0,0,2,0,1640755,2016
-03/16/2016,home,12360,699,Texas Southern,9,True,7,1,6,win,7 - 1,298358,288,0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6,1,0,0,0,0,2,0,1640755,2016
-05/06/2016,home,12360,404,Memphis,9,True,4,12,-8,loss,4 - 12,311581,288,0,0,2.1,0.0,2,4,1,2,1,0,12,10,1,0,0,0,0,0,0,2,1,0,0,52,3,3,0,0,0,4,0,1640755,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,4,3,2,1,2,0,15,14,1,0,0,1,0,0,0,2,1,0,0,47,4,3,0,0,0,4,1,02/27/2016,neutral,12360,31,Arkansas,9,True,3,12,-9,loss,294114,288,1640755,2016
+0,0,0.1,0.0,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,7,1,0,0,0,0,2,0,03/04/2016,home,12360,51,Baylor,9,True,2,4,-2,loss,294983,288,1640755,2016
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6,1,0,0,0,0,2,0,03/16/2016,home,12360,699,Texas Southern,9,True,7,1,6,win,298358,288,1640755,2016
+0,0,2.1,0.0,2,4,1,2,1,0,12,10,1,0,0,0,0,0,0,2,1,0,0,52,3,3,0,0,0,4,0,05/06/2016,home,12360,404,Memphis,9,True,4,12,-8,loss,311581,288,1640755,2016

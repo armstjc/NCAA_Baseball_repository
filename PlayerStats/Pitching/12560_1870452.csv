@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/21/2017,away,12560,363,Longwood,9,True,4,3,1,win,4 - 3,206741,317,0,1,5.1,0.0,4,0,0,4,1,0,22,18,0,0,0,0,0,0,0,0,0,0,0,0,7,5,1,0,0,1,0,1870452,2017
-03/03/2017,home,12560,86,Buffalo,9,True,8,13,-5,loss,8 - 13,208296,317,0,0,1.2,0.0,2,2,2,2,1,0,8,5,0,0,0,0,0,0,0,0,0,0,1,30,1,2,0,1,0,2,0,1870452,2017
-03/08/2017,away,12560,523,Old Dominion,9,True,4,3,1,win,4 - 3,209819,317,0,1,5.1,0.0,4,2,1,4,2,0,26,21,1,0,0,0,1,1,0,0,0,0,0,85,4,9,0,0,0,1,1,1870452,2017
-03/21/2017,away,12560,355,Liberty,9,True,1,5,-4,loss,1 - 5,212960,317,0,1,4.0,0.0,7,4,3,3,4,0,22,19,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,1,0,1,1,1870452,2017
-03/28/2017,home,12560,741,VMI,9,True,1,6,-5,loss,1 - 6,214791,317,0,1,4.1,0.0,5,4,4,2,4,0,19,17,2,0,0,0,0,0,0,0,0,0,0,0,3,4,0,1,0,1,1,1870452,2017
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.1,0.0,4,0,0,4,1,0,22,18,0,0,0,0,0,0,0,0,0,0,0,0,7,5,1,0,0,1,0,02/21/2017,away,12560,363,Longwood,9,True,4,3,1,win,206741,317,1870452,2017
+0,0,1.2,0.0,2,2,2,2,1,0,8,5,0,0,0,0,0,0,0,0,0,0,1,30,1,2,0,1,0,2,0,03/03/2017,home,12560,86,Buffalo,9,True,8,13,-5,loss,208296,317,1870452,2017
+0,1,5.1,0.0,4,2,1,4,2,0,26,21,1,0,0,0,1,1,0,0,0,0,0,85,4,9,0,0,0,1,1,03/08/2017,away,12560,523,Old Dominion,9,True,4,3,1,win,209819,317,1870452,2017
+0,1,4.0,0.0,7,4,3,3,4,0,22,19,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,1,0,1,1,03/21/2017,away,12560,355,Liberty,9,True,1,5,-4,loss,212960,317,1870452,2017
+0,1,4.1,0.0,5,4,4,2,4,0,19,17,2,0,0,0,0,0,0,0,0,0,0,0,3,4,0,1,0,1,1,03/28/2017,home,12560,741,VMI,9,True,1,6,-5,loss,214791,317,1870452,2017

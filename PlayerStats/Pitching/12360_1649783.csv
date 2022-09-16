@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/11/2016,away,12360,235,Florida,9,True,5,16,-11,loss,5 - 16,296913,275,0,0,2.0,0.0,3,0,0,2,1,0,10,8,0,0,0,0,1,0,0,0,0,0,0,32,2,2,0,0,0,3,0,1649783,2016
-03/16/2016,home,12360,400,Massachusetts,9,True,9,5,4,win,9 - 5,298483,275,0,0,0.2,0.0,2,1,1,2,0,0,6,3,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,3,0,1649783,2016
-03/30/2016,away,12360,285,Holy Cross,9,True,4,11,-7,loss,4 - 11,302058,275,0,0,0.0,0.0,2,2,2,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1649783,2016
-04/12/2016,home,12360,67,Boston College,9,True,9,11,-2,loss,9 - 11,305353,275,0,0,1.1,0.0,1,0,0,0,2,0,5,5,1,0,0,0,0,0,0,0,0,0,0,20,1,1,0,0,0,5,0,1649783,2016
-04/20/2016,away,12360,400,Massachusetts,9,True,2,6,-4,loss,2 - 6,307968,275,0,0,1.0,0.0,1,0,0,1,1,0,5,4,1,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,4,0,1649783,2016
-04/27/2016,away,12360,368,UMass Lowell,9,True,9,4,5,win,9 - 4,309770,275,0,0,1.1,0.0,4,3,2,1,2,0,9,8,0,0,0,0,0,0,0,0,0,0,0,41,2,0,0,0,0,4,2,1649783,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,3,0,0,2,1,0,10,8,0,0,0,0,1,0,0,0,0,0,0,32,2,2,0,0,0,3,0,03/11/2016,away,12360,235,Florida,9,True,5,16,-11,loss,296913,275,1649783,2016
+0,0,0.2,0.0,2,1,1,2,0,0,6,3,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,3,0,03/16/2016,neutral,12360,400,Massachusetts,9,True,9,5,4,win,298483,275,1649783,2016
+0,0,0.0,0.0,2,2,2,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,03/30/2016,away,12360,285,Holy Cross,9,True,4,11,-7,loss,302058,275,1649783,2016
+0,0,1.1,0.0,1,0,0,0,2,0,5,5,1,0,0,0,0,0,0,0,0,0,0,20,1,1,0,0,0,5,0,04/12/2016,home,12360,67,Boston College,9,True,9,11,-2,loss,305353,275,1649783,2016
+0,0,1.0,0.0,1,0,0,1,1,0,5,4,1,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,4,0,04/20/2016,away,12360,400,Massachusetts,9,True,2,6,-4,loss,307968,275,1649783,2016
+0,0,1.1,0.0,4,3,2,1,2,0,9,8,0,0,0,0,0,0,0,0,0,0,0,41,2,0,0,0,0,4,2,04/27/2016,away,12360,368,UMass Lowell,9,True,9,4,5,win,309770,275,1649783,2016

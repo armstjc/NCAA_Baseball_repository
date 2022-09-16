@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/09/2016,away,12360,127,Central Conn. St.,9,True,11,9,2,win,11 - 9,296543,272,0,0,0.0,0.0,2,3,3,1,0,0,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1773317,2016
-03/30/2016,home,12360,813,Yale,9,True,15,8,7,win,15 - 8,302032,272,0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,1773317,2016
-04/20/2016,home,12360,572,Rhode Island,9,True,14,13,1,win,14 - 13,307791,272,0,0,0.0,0.0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,1773317,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,2,3,3,1,0,0,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,03/09/2016,away,12360,127,Central Conn. St.,9,True,11,9,2,win,296543,272,1773317,2016
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,03/30/2016,home,12360,813,Yale,9,True,15,8,7,win,302032,272,1773317,2016
+0,0,0.0,0.0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,04/20/2016,home,12360,572,Rhode Island,9,True,14,13,1,win,307791,272,1773317,2016

@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/30/2016,away,12360,285,Holy Cross,9,True,4,11,-7,loss,4 - 11,302058,275,0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,1554454,2016
-04/02/2016,away,12360,167,Cornell,9,True,4,6,-2,loss,4 - 6,302947,275,0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,1554454,2016
-04/06/2016,home,12360,500,Northeastern,9,True,2,3,-1,loss,2 - 3,303831,275,0,0,1.0,0.0,2,1,1,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,14,1,1,0,1,0,2,0,1554454,2016
-04/09/2016,home,12360,158,Columbia,11,True,3,4,-1,loss,3 - 4,304537,275,0,0,0.2,0.0,1,0,0,0,2,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,1554454,2016
-04/12/2016,home,12360,67,Boston College,9,True,9,11,-2,loss,9 - 11,305353,275,0,0,0.2,0.0,3,4,4,1,1,0,6,5,0,0,0,0,1,0,0,2,0,0,0,31,0,1,0,0,0,2,0,1554454,2016
-04/20/2016,away,12360,400,Massachusetts,9,True,2,6,-4,loss,2 - 6,307968,275,0,1,1.0,0.0,5,3,3,0,2,0,9,8,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1554454,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,03/30/2016,away,12360,285,Holy Cross,9,True,4,11,-7,loss,302058,275,1554454,2016
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,04/02/2016,away,12360,167,Cornell,9,True,4,6,-2,loss,302947,275,1554454,2016
+0,0,1.0,0.0,2,1,1,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,14,1,1,0,1,0,2,0,04/06/2016,home,12360,500,Northeastern,9,True,2,3,-1,loss,303831,275,1554454,2016
+0,0,0.2,0.0,1,0,0,0,2,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,04/09/2016,home,12360,158,Columbia,11,True,3,4,-1,loss,304537,275,1554454,2016
+0,0,0.2,0.0,3,4,4,1,1,0,6,5,0,0,0,0,1,0,0,2,0,0,0,31,0,1,0,0,0,2,0,04/12/2016,home,12360,67,Boston College,9,True,9,11,-2,loss,305353,275,1554454,2016
+0,1,1.0,0.0,5,3,3,0,2,0,9,8,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,04/20/2016,away,12360,400,Massachusetts,9,True,2,6,-4,loss,307968,275,1554454,2016

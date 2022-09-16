@@ -16,22 +16,27 @@ def getSchoolList():
     school_arr = school_df['ncaa_name'].to_numpy()
     return school_arr
 
-def getSchoolAllTimeRoster(school='Ohio'):
+def getTeamGameResults(school='Ohio'):
     '''
-    Gets the all time roster for a given school, starting from the
+    Gets the team game results for given school, starting from the
     2013 season, all the way to the present year.
 
     Args: School="Ohio" (text)
     '''
+    batting_df = pd.DataFrame()
+    pitching_df = pd.DataFrame()
     now = date.today()
     schoolID = ncaa.lookup_school_id(school)
     minSeason = 2013
     maxSeason = now.year
     #print(minSeason,maxSeason)
-    rost = ncaa.ncaa_team_roster(schoolID,range(minSeason,maxSeason))
-    rost.to_csv(f'TeamRosters/{schoolID}.csv',index=False)
-    print(rost)
-    return rost
+    for i in range(minSeason,maxSeason+1):
+        print(f'{i} {schoolID}')
+        team_results_df = ncaa.ncaa_team_results(schoolID,i)
+        team_results_df.to_csv(f'TeamResults/csv/{schoolID}_{i}.csv',index=False)
+       
+
+
 
 def download_gamelogs():
     schools = getSchoolList()
@@ -43,8 +48,9 @@ def download_gamelogs():
 def main():
     print('Starting Up')
     arr = getSchoolList()
-    for s in tqdm(range(705,len(arr))):
+    for s in tqdm(range(0,len(arr))):
         i = arr[s]
-        getSchoolAllTimeRoster(i)
+
+        getTeamGameResults(i)
 if __name__ == "__main__":
     main()

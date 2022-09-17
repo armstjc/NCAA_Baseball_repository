@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/29/2016,home,12360,485,Norfolk St.,9,True,11,9,2,win,11 - 9,301891,363,0,0,1.1,0.0,2,2,2,1,1,0,7,6,0,1,0,0,2,0,0,3,0,0,0,29,1,2,1,0,0,3,0,1425963,2016
-04/04/2016,away,12360,48,Charleston So.,9,True,13,4,9,win,13 - 4,303469,363,0,0,3.0,0.0,0,0,0,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,0,29,3,6,0,0,1,3,0,1425963,2016
-04/09/2016,away,12360,19651,High Point,9,True,2,7,-5,loss,2 - 7,304337,363,0,0,0.1,0.0,1,2,2,0,0,0,3,2,0,0,0,0,1,1,0,0,0,0,0,8,0,1,0,0,0,4,0,1425963,2016
-05/10/2016,away,12360,193,Duke,9,True,5,11,-6,loss,5 - 11,312667,363,0,1,2.2,0.0,5,7,7,1,4,0,16,14,1,0,0,1,1,1,0,0,0,0,0,50,4,1,0,1,0,1,1,1425963,2016
-05/19/2016,away,12360,27,App State,9,True,2,9,-7,loss,2 - 9,313672,363,0,0,1.0,0.0,2,1,1,1,3,0,6,5,0,0,0,0,1,0,0,0,0,0,0,29,0,0,0,0,0,5,1,1425963,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,2,2,2,1,1,0,7,6,0,1,0,0,2,0,0,3,0,0,0,29,1,2,1,0,0,3,0,03/29/2016,home,12360,485,Norfolk St.,9,True,11,9,2,win,301891,363,1425963,2016
+0,0,3.0,0.0,0,0,0,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,0,29,3,6,0,0,1,3,0,04/04/2016,away,12360,48,Charleston So.,9,True,13,4,9,win,303469,363,1425963,2016
+0,0,0.1,0.0,1,2,2,0,0,0,3,2,0,0,0,0,1,1,0,0,0,0,0,8,0,1,0,0,0,4,0,04/09/2016,away,12360,19651,High Point,9,True,2,7,-5,loss,304337,363,1425963,2016
+0,1,2.2,0.0,5,7,7,1,4,0,16,14,1,0,0,1,1,1,0,0,0,0,0,50,4,1,0,1,0,1,1,05/10/2016,away,12360,193,Duke,9,True,5,11,-6,loss,312667,363,1425963,2016
+0,0,1.0,0.0,2,1,1,1,3,0,6,5,0,0,0,0,1,0,0,0,0,0,0,29,0,0,0,0,0,5,1,05/19/2016,away,12360,27,App State,9,True,2,9,-7,loss,313672,363,1425963,2016

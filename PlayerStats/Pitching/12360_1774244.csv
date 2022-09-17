@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/25/2016,home,12360,590,Sacred Heart,9,True,0,11,-11,loss,0 - 11,300903,361,0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,5,2,1,0,0,0,4,0,1774244,2016
-04/13/2016,home,12360,683,Stony Brook,9,True,1,8,-7,loss,1 - 8,305673,361,0,0,0.1,0.0,0,1,1,4,0,0,5,1,0,0,0,0,1,0,0,0,0,0,0,25,1,0,0,0,0,3,0,1774244,2016
-04/27/2016,away,12360,603,St. John's (NY),9,True,7,17,-10,loss,7 - 17,309725,361,0,0,0.1,0.0,1,0,0,2,0,0,4,2,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,6,0,1774244,2016
-05/15/2016,home,12360,222,Fairleigh Dickinson,9,True,2,17,-15,loss,2 - 17,313461,361,0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,20,0,1,0,0,0,5,1,1774244,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,5,2,1,0,0,0,4,0,03/25/2016,home,12360,590,Sacred Heart,9,True,0,11,-11,loss,300903,361,1774244,2016
+0,0,0.1,0.0,0,1,1,4,0,0,5,1,0,0,0,0,1,0,0,0,0,0,0,25,1,0,0,0,0,3,0,04/13/2016,home,12360,683,Stony Brook,9,True,1,8,-7,loss,305673,361,1774244,2016
+0,0,0.1,0.0,1,0,0,2,0,0,4,2,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,6,0,04/27/2016,away,12360,603,St. John's (NY),9,True,7,17,-10,loss,309725,361,1774244,2016
+0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,20,0,1,0,0,0,5,1,05/15/2016,home,12360,222,Fairleigh Dickinson,9,True,2,17,-15,loss,313461,361,1774244,2016

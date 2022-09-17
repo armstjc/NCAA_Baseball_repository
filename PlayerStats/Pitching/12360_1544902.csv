@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/24/2016,home,12360,365,LSU,9,True,12,11,1,win,12 - 11,293448,346,0,1,1.1,0.0,4,6,6,2,0,0,10,7,2,0,0,1,1,1,0,0,0,0,0,0,0,3,0,0,0,1,0,1544902,2016
-03/01/2016,home,12360,553,Prairie View,9,True,13,3,10,win,13 - 3,294685,346,0,0,2.0,0.0,2,0,0,0,2,0,7,7,0,0,0,0,0,0,0,2,2,0,0,20,1,2,0,0,0,3,0,1544902,2016
-03/15/2016,home,12360,288,Houston,9,True,3,4,-1,loss,3 - 4,298225,346,0,1,1.0,0.0,2,1,1,1,0,0,6,5,0,0,2,0,1,0,0,0,0,0,0,19,2,1,0,1,0,1,0,1544902,2016
-04/06/2016,home,12360,483,Nicholls,9,True,14,10,4,win,14 - 10,303823,346,0,0,0.0,0.0,2,2,2,1,0,0,3,2,0,0,0,0,1,0,0,2,2,0,0,11,0,0,0,0,0,3,0,1544902,2016
-05/06/2016,home,12360,655,Southeastern La.,9,True,6,14,-8,loss,6 - 14,311685,346,0,0,0.1,0.0,2,1,1,0,0,0,3,3,1,1,0,0,0,0,0,2,2,0,0,11,0,1,0,0,0,7,0,1544902,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.1,0.0,4,6,6,2,0,0,10,7,2,0,0,1,1,1,0,0,0,0,0,0,0,3,0,0,0,1,0,02/24/2016,home,12360,365,LSU,9,True,12,11,1,win,293448,346,1544902,2016
+0,0,2.0,0.0,2,0,0,0,2,0,7,7,0,0,0,0,0,0,0,2,2,0,0,20,1,2,0,0,0,3,0,03/01/2016,home,12360,553,Prairie View,9,True,13,3,10,win,294685,346,1544902,2016
+0,1,1.0,0.0,2,1,1,1,0,0,6,5,0,0,2,0,1,0,0,0,0,0,0,19,2,1,0,1,0,1,0,03/15/2016,home,12360,288,Houston,9,True,3,4,-1,loss,298225,346,1544902,2016
+0,0,0.0,0.0,2,2,2,1,0,0,3,2,0,0,0,0,1,0,0,2,2,0,0,11,0,0,0,0,0,3,0,04/06/2016,home,12360,483,Nicholls,9,True,14,10,4,win,303823,346,1544902,2016
+0,0,0.1,0.0,2,1,1,0,0,0,3,3,1,1,0,0,0,0,0,2,2,0,0,11,0,1,0,0,0,7,0,05/06/2016,home,12360,655,Southeastern La.,9,True,6,14,-8,loss,311685,346,1544902,2016

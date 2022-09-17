@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/21/2016,away,12360,2743,UIW,9,True,4,7,-3,loss,4 - 7,293249,361,0,0,0.0,0.0,2,2,0,0,0,0,2,2,1,0,0,0,0,0,0,3,3,0,0,11,0,0,0,1,0,4,0,1425179,2016
-04/15/2016,away,12360,635,Seton Hall,9,True,0,10,-10,loss,0 - 10,306000,361,0,0,1.0,0.0,3,2,2,1,0,0,7,4,0,2,0,0,1,0,0,2,2,0,2,27,0,3,0,0,0,2,0,1425179,2016
-04/20/2016,home,12360,283,Hofstra,9,True,6,12,-6,loss,6 - 12,307841,361,0,1,2.0,0.0,5,3,3,1,3,0,12,11,2,0,0,0,1,0,0,0,0,0,0,42,1,2,0,0,0,1,1,1425179,2016
-04/27/2016,away,12360,603,St. John's (NY),9,True,7,17,-10,loss,7 - 17,309725,361,0,1,1.1,0.0,3,1,1,2,0,0,8,6,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,1425179,2016
-04/29/2016,away,12360,450,Mount St. Mary's,9,True,4,5,-1,loss,4 - 5,310260,361,0,0,0.1,0.0,1,0,0,1,0,0,3,2,0,0,0,0,0,0,0,3,2,0,0,0,1,0,0,0,0,5,0,1425179,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,2,2,0,0,0,0,2,2,1,0,0,0,0,0,0,3,3,0,0,11,0,0,0,1,0,4,0,02/21/2016,away,12360,2743,UIW,9,True,4,7,-3,loss,293249,361,1425179,2016
+0,0,1.0,0.0,3,2,2,1,0,0,7,4,0,2,0,0,1,0,0,2,2,0,2,27,0,3,0,0,0,2,0,04/15/2016,away,12360,635,Seton Hall,9,True,0,10,-10,loss,306000,361,1425179,2016
+0,1,2.0,0.0,5,3,3,1,3,0,12,11,2,0,0,0,1,0,0,0,0,0,0,42,1,2,0,0,0,1,1,04/20/2016,home,12360,283,Hofstra,9,True,6,12,-6,loss,307841,361,1425179,2016
+0,1,1.1,0.0,3,1,1,2,0,0,8,6,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,04/27/2016,away,12360,603,St. John's (NY),9,True,7,17,-10,loss,309725,361,1425179,2016
+0,0,0.1,0.0,1,0,0,1,0,0,3,2,0,0,0,0,0,0,0,3,2,0,0,0,1,0,0,0,0,5,0,04/29/2016,away,12360,450,Mount St. Mary's,9,True,4,5,-1,loss,310260,361,1425179,2016

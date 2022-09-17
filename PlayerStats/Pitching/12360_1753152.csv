@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/23/2016,away,12360,419,Middle Tenn.,9,True,6,9,-3,loss,6 - 9,293435,28600,0,0,4.0,0.0,3,3,3,0,6,0,16,15,2,0,0,0,2,1,0,0,0,0,0,0,3,3,0,0,0,2,2,1753152,2016
-02/27/2016,home,12360,725,Army West Point,9,True,8,6,2,win,8 - 6,293803,28600,0,0,0.0,0.0,3,1,1,0,0,0,3,3,0,0,0,0,0,0,0,3,3,0,0,14,0,0,0,0,0,2,0,1753152,2016
-03/02/2016,away,12360,772,Western Ky.,9,True,0,6,-6,loss,0 - 6,294840,28600,0,1,6.0,0.0,6,4,3,0,3,0,25,23,0,0,1,1,0,2,0,0,0,0,0,92,6,7,0,1,0,1,2,1753152,2016
-03/08/2016,away,12360,692,Tennessee Tech,9,True,11,14,-3,loss,11 - 14,296387,28600,0,0,0.1,0.0,0,0,0,2,0,0,2,0,0,0,1,0,1,0,0,3,2,0,0,10,0,0,0,0,0,2,0,1753152,2016
-03/11/2016,away,12360,257,Georgia,11,True,8,9,-1,loss,8 - 9,296930,28600,0,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,8,0,1753152,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,4.0,0.0,3,3,3,0,6,0,16,15,2,0,0,0,2,1,0,0,0,0,0,0,3,3,0,0,0,2,2,02/23/2016,away,12360,419,Middle Tenn.,9,True,6,9,-3,loss,293435,28600,1753152,2016
+0,0,0.0,0.0,3,1,1,0,0,0,3,3,0,0,0,0,0,0,0,3,3,0,0,14,0,0,0,0,0,2,0,02/27/2016,home,12360,725,Army West Point,9,True,8,6,2,win,293803,28600,1753152,2016
+0,1,6.0,0.0,6,4,3,0,3,0,25,23,0,0,1,1,0,2,0,0,0,0,0,92,6,7,0,1,0,1,2,03/02/2016,away,12360,772,Western Ky.,9,True,0,6,-6,loss,294840,28600,1753152,2016
+0,0,0.1,0.0,0,0,0,2,0,0,2,0,0,0,1,0,1,0,0,3,2,0,0,10,0,0,0,0,0,2,0,03/08/2016,away,12360,692,Tennessee Tech,9,True,11,14,-3,loss,296387,28600,1753152,2016
+0,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,8,0,03/11/2016,away,12360,257,Georgia,11,True,8,9,-1,loss,296930,28600,1753152,2016

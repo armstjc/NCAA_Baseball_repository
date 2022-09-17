@@ -1,3 +1,3 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/16/2016,home,12360,17,Alcorn,9,True,15,4,11,win,15 - 4,298390,366,0,0,1.0,0.0,4,3,3,1,2,0,8,6,0,0,0,1,0,0,0,0,0,0,1,27,0,1,0,0,0,5,0,1650362,2016
-05/19/2016,home,12360,574,Rice,9,True,12,2,10,win,12 - 2,313613,366,0,0,0.2,0.0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,1,0,0,0,9,0,0,0,0,0,3,0,1650362,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,4,3,3,1,2,0,8,6,0,0,0,1,0,0,0,0,0,0,1,27,0,1,0,0,0,5,0,03/16/2016,home,12360,17,Alcorn,9,True,15,4,11,win,298390,366,1650362,2016
+0,0,0.2,0.0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,1,0,0,0,9,0,0,0,0,0,3,0,05/19/2016,home,12360,574,Rice,9,True,12,2,10,win,313613,366,1650362,2016

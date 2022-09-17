@@ -25,8 +25,8 @@ def getSchoolAllTimeRoster(school='Ohio'):
     '''
     now = date.today()
     schoolID = ncaa.lookup_school_id(school)
-    minSeason = 2013
-    maxSeason = now.year
+    minSeason = 2012
+    maxSeason = 2024
     #print(minSeason,maxSeason)
     rost = ncaa.ncaa_team_roster(schoolID,range(minSeason,maxSeason))
     rost.to_csv(f'TeamRosters/{schoolID}.csv',index=False)
@@ -43,7 +43,7 @@ def download_gamelogs():
 def main():
     print('Starting Up')
     arr = getSchoolList()
-    for s in tqdm(range(705,len(arr))):
+    for s in tqdm(range(0,len(arr))):
         i = arr[s]
         getSchoolAllTimeRoster(i)
 if __name__ == "__main__":

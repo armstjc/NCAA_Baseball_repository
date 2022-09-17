@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/07/2016,home,12360,596,St. Bonaventure,9,True,2,9,-7,loss,2 - 9,296284,380,0,0,1.0,0.0,1,2,1,2,1,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,1781320,2016
-03/20/2016,home,12360,400,Massachusetts,9,True,1,10,-9,loss,1 - 10,299770,380,0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,1781320,2016
-04/08/2016,home,12360,477,New York Tech,9,True,4,9,-5,loss,4 - 9,304222,380,0,0,0.1,0.0,1,2,2,1,0,0,3,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,1781320,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,2,1,2,1,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,03/07/2016,neutral,12360,596,St. Bonaventure,9,True,2,9,-7,loss,296284,380,1781320,2016
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,03/20/2016,neutral,12360,400,Massachusetts,9,True,1,10,-9,loss,299770,380,1781320,2016
+0,0,0.1,0.0,1,2,2,1,0,0,3,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,04/08/2016,home,12360,477,New York Tech,9,True,4,9,-5,loss,304222,380,1781320,2016

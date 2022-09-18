@@ -1,1 +1,40 @@
-
+jersey,stats_player_seq,name,position,class_year,games_played,games_started,season,season_id,school,school_id
+41,2674009,Cameron Anderson,P,Sr,15,6,2022,15860,Russell Sage,11036
+21,2673971,Alex Andrew,UT,So,32,26,2022,15860,Russell Sage,11036
+35,2674005,Jack Armann,OF,Fr,10,1,2022,15860,Russell Sage,11036
+28,2673987,Jacob Bacenet,INF,Fr,5,3,2022,15860,Russell Sage,11036
+34,2674004,Ethan Basos,P,Fr,11,0,2022,15860,Russell Sage,11036
+12,2673948,Sean Berry,UT,So,36,31,2022,15860,Russell Sage,11036
+10,2673908,Christian Brown,3B,Fr,38,35,2022,15860,Russell Sage,11036
+3,2673888,Adonis Cherry,OF,Fr,4,0,2022,15860,Russell Sage,11036
+99,2673952,Jack Clifford,UT,Fr,4,2,2022,15860,Russell Sage,11036
+8,2673904,Frank Colletta,1B,Fr,33,30,2022,15860,Russell Sage,11036
+6,2673898,Jacob Coonan,OF,Fr,37,31,2022,15860,Russell Sage,11036
+99,2674001,Chris Cuadra,OF,Fr,1,0,2022,15860,Russell Sage,11036
+29,2673993,Jaylen Cuevas,P,Fr,15,2,2022,15860,Russell Sage,11036
+17,2673959,Liam Doyle,UT,Fr,31,24,2022,15860,Russell Sage,11036
+4,2673890,Jack Duane,OF,Fr,20,1,2022,15860,Russell Sage,11036
+22,2673973,Zachary Figueras,UT,Fr,42,41,2022,15860,Russell Sage,11036
+99,2673980,Ross Garrow,UT,Jr,1,0,2022,15860,Russell Sage,11036
+99,2673887,James Geoghan,OF,Fr,5,2,2022,15860,Russell Sage,11036
+1,2673886,Leandro Guzman,OF,Fr,38,38,2022,15860,Russell Sage,11036
+26,2673984,Richard Illa Acosta,P,Fr,3,0,2022,15860,Russell Sage,11036
+23,2673976,Diego Jimenez,OF,Fr,33,30,2022,15860,Russell Sage,11036
+30,2673997,Michael Karpinski,P,Fr,13,5,2022,15860,Russell Sage,11036
+44,2674006,Andrew Knapp,INF,Fr,37,31,2022,15860,Russell Sage,11036
+24,2673977,Nick Marsella,INF,Fr,14,2,2022,15860,Russell Sage,11036
+11,2128702,Dillon Maxon,C,Sr,31,29,2022,15860,Russell Sage,11036
+7,2673901,Jake Milak,C,Fr,7,0,2022,15860,Russell Sage,11036
+13,2674010,Brenden Nihill,3B,Fr,5,0,2022,15860,Russell Sage,11036
+14,2673950,Colby Phelps,P,Fr,19,1,2022,15860,Russell Sage,11036
+19,2673966,Joe Salerno,2B,Fr,32,18,2022,15860,Russell Sage,11036
+5,2673893,Dylan Scherillo,C,Fr,28,13,2022,15860,Russell Sage,11036
+18,2673962,Will Simkin,P,Jr,14,10,2022,15860,Russell Sage,11036
+9,2673907,Ryan Smith,C,Fr,3,0,2022,15860,Russell Sage,11036
+16,2673955,Griffin Snyder,P,Fr,14,8,2022,15860,Russell Sage,11036
+21,2673971,Alex Andrew,UT,6-0,Jr,0,2023,16340,Russell Sage,11036
+3,2673888,Adonis Cherry,OF,6-6,So,0,2023,16340,Russell Sage,11036
+17,2673959,Liam Doyle,UT,5-10,So,0,2023,16340,Russell Sage,11036
+26,2673984,Richard Illa Acosta,P,6-2,So,0,2023,16340,Russell Sage,11036
+13,2674010,Brenden Nihill,3B,6-2,So,0,2023,16340,Russell Sage,11036
+16,2673955,Griffin Snyder,P,6-3,So,0,2023,16340,Russell Sage,11036

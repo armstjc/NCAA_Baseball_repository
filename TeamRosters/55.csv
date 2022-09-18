@@ -129,8 +129,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,1764226,Jerome Holmes,CF,Jr,0,0,2019,14781,Benedict,55
 19,2149077,Trevohn Jeffrey,1b,Jr,14,4,2019,14781,Benedict,55
 33,1997072,Jaylin Jennings,P,Jr,6,0,2019,14781,Benedict,55
-17,1997068,Anthony Johnson,DH,So,30,27,2019,14781,Benedict,55
 19,2161827,Jeremy Johnson,dh,Fr,1,0,2019,14781,Benedict,55
+17,1997068,Anthony Johnson,DH,So,30,27,2019,14781,Benedict,55
 2,1884492,Jacob Lagos,P,Jr,11,9,2019,14781,Benedict,55
 4,1884505,C Lopez,P,So,0,0,2019,14781,Benedict,55
 10,1893549,D Lucas,2B,Jr,0,0,2019,14781,Benedict,55
@@ -212,6 +212,54 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,2149080,Raul Vargas,P,Jr,5,3,2021,15580,Benedict,55
 16,2520337,Quentin Watts,p,Fr,1,0,2021,15580,Benedict,55
 15,2354310,Nick Weston,rf,So,0,0,2021,15580,Benedict,55
+6,2669812,Jarione Avinger,UT,Fr,10,3,2022,15860,Benedict,55
+5,2149081,Jorge Baez,OF,Sr,35,34,2022,15860,Benedict,55
+16,2681909,Taj Bates,3b/c,Fr,41,37,2022,15860,Benedict,55
+4,2684553,Kyle Bethel,p,Fr,13,2,2022,15860,Benedict,55
+28,2691910,Kyron Bethel,p,Fr,9,5,2022,15860,Benedict,55
+17,2669810,Jalen Blash,C,Fr,14,6,2022,15860,Benedict,55
+21,2669809,Myles Blue,C,Fr,9,1,2022,15860,Benedict,55
+23,2676756,Reno Brock,dh,So,32,29,2022,15860,Benedict,55
+29,2669841,Jaylen Buchanan,2B,Fr,2,1,2022,15860,Benedict,55
+9,2513576,Ryan Chesney,cf,So,43,42,2022,15860,Benedict,55
+2,2669796,Jacob Hall,OF,Fr,19,12,2022,15860,Benedict,55
+34,2360639,Michael Howard,INF,Jr,0,0,2022,15860,Benedict,55
+32,2669846,Jalen Hudson,P,Fr,13,1,2022,15860,Benedict,55
+45,2669886,Christian Inyang,INF,So,14,8,2022,15860,Benedict,55
+19,2149077,Trevohn Jeffrey,1B,Sr,16,12,2022,15860,Benedict,55
+34,2669849,Jayden Jordan,P,Fr,18,11,2022,15860,Benedict,55
+20,2669833,Anthony Makinster,INF,Fr,37,25,2022,15860,Benedict,55
+14,2669805,Jalen Mcduffie,P,Fr,47,46,2022,15860,Benedict,55
+44,2669884,Eric Mclaughlin,P,Fr,7,0,2022,15860,Benedict,55
+12,2669804,Jamell Mitchell Jr.,P,Fr,47,43,2022,15860,Benedict,55
+25,1997071,Fareed Mizelle,P,Sr,29,23,2022,15860,Benedict,55
+7,2669799,Dwayne Moore,P,Fr,32,15,2022,15860,Benedict,55
+27,1997089,Bradon O'Connor,LF,Sr,43,43,2022,15860,Benedict,55
+8,2669816,Elijah Parrish,P,Fr,30,11,2022,15860,Benedict,55
+22,2156863,Kerrion Phillips,C,Sr,1,1,2022,15860,Benedict,55
+24,2669835,Ashley Poitier,P,Fr,11,6,2022,15860,Benedict,55
+33,2669848,Craig Randolph,P,Fr,27,11,2022,15860,Benedict,55
+30,2669843,Tony Ruiz,C,So,25,21,2022,15860,Benedict,55
+15,2669832,Shamon Thompson,OF,Fr,6,4,2022,15860,Benedict,55
+31,2669824,Gerson Vidal Cordero,P,Fr,19,3,2022,15860,Benedict,55
+10,2669802,Amarion Watson,P,Fr,8,7,2022,15860,Benedict,55
+18,2520337,Quentin Watts,1B,So,18,1,2022,15860,Benedict,55
+6,2669812,Jarione Avinger,UT,-,So,0,2023,16340,Benedict,55
+23,2676756,Reno Brock,dh,-,Jr,0,2023,16340,Benedict,55
+45,2669886,Christian Inyang,INF,-,Jr,0,2023,16340,Benedict,55
+12,2669804,Jamell Mitchell Jr.,P,-,So,0,2023,16340,Benedict,55
+15,2669832,Shamon Thompson,OF,-,So,0,2023,16340,Benedict,55
+6,1303573,Keith Booker,OF,Fr,0,0,2012,10942,Benedict,55
+18,1303567,Andre Collum Jr.,OF,Fr,0,0,2012,10942,Benedict,55
+12,1303557,Kevin Davis,INF,Fr,0,0,2012,10942,Benedict,55
+2,895444,Dondrelle Folk,OF,So,0,0,2012,10942,Benedict,55
+4,1303553,Lashante Grimes,INF,Fr,0,0,2012,10942,Benedict,55
+8,1331885,Robert Jones,INF,So,0,0,2012,10942,Benedict,55
+45,1303578,Christopher Lail,P,Fr,0,0,2012,10942,Benedict,55
+7,1215225,Elisha Mcdaniel,OF,So,0,0,2012,10942,Benedict,55
+32,1303572,Lydell Moseby,C,Jr,0,0,2012,10942,Benedict,55
+25,996993,Justin Smalls,P,Jr,0,0,2012,10942,Benedict,55
+17,1303556,David Weber,1B,Jr,0,0,2012,10942,Benedict,55
 31,1425085,Doren Blake,C,Fr,34,29,2013,11320,Benedict,55
 21,1425051,Jocquese Brunson,OF,So,41,40,2013,11320,Benedict,55
 6,1425044,Kurtis Burnett,OF,Fr,29,12,2013,11320,Benedict,55

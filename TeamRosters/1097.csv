@@ -132,8 +132,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,1986206,Tucker Smith,P,Sr,17,17,2019,14781,Ga. Southwestern,1097
 27,2116642,Matthew Snider,P,Fr,18,7,2019,14781,Ga. Southwestern,1097
 3,1986205,Tyler Summerall,OF,So,6,0,2019,14781,Ga. Southwestern,1097
-36,2116643,John Austin Sutton,C,Fr,0,0,2019,14781,Ga. Southwestern,1097
 12,2116621,Alex Sutton,P,Fr,0,0,2019,14781,Ga. Southwestern,1097
+36,2116643,John Austin Sutton,C,Fr,0,0,2019,14781,Ga. Southwestern,1097
 33,1986203,Harrison Timberlake,P,So,23,5,2019,14781,Ga. Southwestern,1097
 14,1986208,Stewart Tyler,P,Sr,13,4,2019,14781,Ga. Southwestern,1097
 31,2116623,Miguel Urbina,INF,Jr,20,11,2019,14781,Ga. Southwestern,1097
@@ -168,8 +168,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,1986195,Tyler Skelton,INF,Jr,19,19,2020,15204,Ga. Southwestern,1097
 4,1986206,Tucker Smith,P,Sr,6,6,2020,15204,Ga. Southwestern,1097
 14,2116642,Matthew Snider,P,So,0,0,2020,15204,Ga. Southwestern,1097
-36,2116643,John Austin Sutton,C,So,8,0,2020,15204,Ga. Southwestern,1097
 10,2116621,Alex Sutton,P,So,0,0,2020,15204,Ga. Southwestern,1097
+36,2116643,John Austin Sutton,C,So,8,0,2020,15204,Ga. Southwestern,1097
 33,1986203,Harrison Timberlake,P,Jr,11,0,2020,15204,Ga. Southwestern,1097
 41,1981035,Zack Tong,INF,So,0,0,2020,15204,Ga. Southwestern,1097
 6,2302241,Lucas Trebian,C,Jr,10,7,2020,15204,Ga. Southwestern,1097
@@ -205,13 +205,66 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,2468205,Chase Somers,OF,Fr,1,1,2021,15580,Ga. Southwestern,1097
 40,2468211,Hayes Stills,P,Fr,7,1,2021,15580,Ga. Southwestern,1097
 34,2140216,Brandt Sundean,P,So,21,3,2021,15580,Ga. Southwestern,1097
-36,2116643,John Austin Sutton,C,So,28,21,2021,15580,Ga. Southwestern,1097
 10,2116621,Alex Sutton,P,So,0,0,2021,15580,Ga. Southwestern,1097
+36,2116643,John Austin Sutton,C,So,28,21,2021,15580,Ga. Southwestern,1097
 33,1986203,Harrison Timberlake,P,Sr,0,0,2021,15580,Ga. Southwestern,1097
 6,2302241,Lucas Trebian,C,Jr,13,10,2021,15580,Ga. Southwestern,1097
 38,2311771,Aaron Wainright,P,Fr,10,10,2021,15580,Ga. Southwestern,1097
 8,2302197,Salik Williams,OF,Jr,4,0,2021,15580,Ga. Southwestern,1097
 35,2468209,Gregory Wozniak,C,So,39,34,2021,15580,Ga. Southwestern,1097
+24,2666724,Grant Adams,P,Fr,9,2,2022,15860,Ga. Southwestern,1097
+32,2666750,Juan Anderson,P,Fr,6,1,2022,15860,Ga. Southwestern,1097
+27,2302238,Anthony Angelino,INF,Sr,54,54,2022,15860,Ga. Southwestern,1097
+8,2666673,Kyle Bachle,P,Jr,10,0,2022,15860,Ga. Southwestern,1097
+18,2666683,Garrett Bradley,OF,Fr,40,25,2022,15860,Ga. Southwestern,1097
+2,2302204,Dalton Cameron,P,Sr,16,11,2022,15860,Ga. Southwestern,1097
+23,1986212,Jared Donalson,P,Sr,16,15,2022,15860,Ga. Southwestern,1097
+15,2116638,Hunter Foster,OF,Jr,49,49,2022,15860,Ga. Southwestern,1097
+13,2302233,Colby Gordon,P,So,19,1,2022,15860,Ga. Southwestern,1097
+3,2468207,Miles Hartsfield,INF,So,54,53,2022,15860,Ga. Southwestern,1097
+10,2666675,Reese Jackowiak,P,So,4,1,2022,15860,Ga. Southwestern,1097
+44,2666761,Wade Law,INF,So,10,5,2022,15860,Ga. Southwestern,1097
+7,2116636,Matthew Mamatas,INF,Sr,53,53,2022,15860,Ga. Southwestern,1097
+22,2302229,Jacob Mcclure,P,So,9,0,2022,15860,Ga. Southwestern,1097
+16,2666679,Griffin Mcclure,P,Fr,2,0,2022,15860,Ga. Southwestern,1097
+12,2302198,Nick Mccollum,P,So,15,15,2022,15860,Ga. Southwestern,1097
+4,2666667,Grant Mcdonel,UT,Jr,13,4,2022,15860,Ga. Southwestern,1097
+20,2666701,Mike Monduy,P,Fr,15,2,2022,15860,Ga. Southwestern,1097
+26,2666733,Brice Mortillaro,C,Fr,20,11,2022,15860,Ga. Southwestern,1097
+19,2666696,Josh Newton,INF,Fr,32,25,2022,15860,Ga. Southwestern,1097
+25,2468190,Carsen Plumadore,P,So,20,3,2022,15860,Ga. Southwestern,1097
+30,2302235,Riley Powers,P,Fr,0,0,2022,15860,Ga. Southwestern,1097
+9,2468204,Reid Ragsdale,OF,Jr,54,53,2022,15860,Ga. Southwestern,1097
+14,2302234,Joseph Roden,P,So,1,0,2022,15860,Ga. Southwestern,1097
+37,1986224,Peyton Sells,P,Sr,8,1,2022,15860,Ga. Southwestern,1097
+1,1986195,Tyler Skelton,INF,Sr,53,53,2022,15860,Ga. Southwestern,1097
+6,2666671,Ryan Smith,INF,So,30,29,2022,15860,Ga. Southwestern,1097
+34,2140216,Brandt Sundean,P,Jr,21,0,2022,15860,Ga. Southwestern,1097
+36,2116643,John Austin Sutton,C,Jr,30,24,2022,15860,Ga. Southwestern,1097
+33,1986203,Harrison Timberlake,P,Sr,0,0,2022,15860,Ga. Southwestern,1097
+38,2311771,Aaron Wainright,P,So,6,2,2022,15860,Ga. Southwestern,1097
+35,2468209,Gregory Wozniak,C,Jr,49,47,2022,15860,Ga. Southwestern,1097
+24,2666724,Grant Adams,P,6-2,So,0,2023,16340,Ga. Southwestern,1097
+22,2302229,Jacob Mcclure,P,-,Jr,0,2023,16340,Ga. Southwestern,1097
+25,2468190,Carsen Plumadore,P,-,Jr,0,2023,16340,Ga. Southwestern,1097
+34,2140216,Brandt Sundean,P,-,Sr,0,2023,16340,Ga. Southwestern,1097
+23,1309040,Frank Ambrosino,P,Jr,0,0,2012,10942,Ga. Southwestern,1097
+22,1215088,Corey Benson,OF,So,0,0,2012,10942,Ga. Southwestern,1097
+28,1309042,Chase Burnfin,P,Fr,0,0,2012,10942,Ga. Southwestern,1097
+15,1107269,Michel Coffey,C,Jr,0,0,2012,10942,Ga. Southwestern,1097
+14,1309037,Les Cromer,INF,Fr,0,0,2012,10942,Ga. Southwestern,1097
+2,1215050,John Duran,INF,Jr,0,0,2012,10942,Ga. Southwestern,1097
+16,1309038,Logan Holland,OF,Fr,0,0,2012,10942,Ga. Southwestern,1097
+27,1309041,Justin Lott,P,Jr,0,0,2012,10942,Ga. Southwestern,1097
+19,1309039,Ryan Mosely,P,Fr,0,0,2012,10942,Ga. Southwestern,1097
+24,1215095,Zach Moss,OF,So,0,0,2012,10942,Ga. Southwestern,1097
+4,1215093,Kyle Nobles,INF,So,0,0,2012,10942,Ga. Southwestern,1097
+1,1308947,Blane Parker,INF,Jr,0,0,2012,10942,Ga. Southwestern,1097
+30,1309044,Randall Sheffield,OF,Jr,0,0,2012,10942,Ga. Southwestern,1097
+7,1215094,Michael Sneed,C,So,0,0,2012,10942,Ga. Southwestern,1097
+25,1215089,Matthew Suggs,P,So,0,0,2012,10942,Ga. Southwestern,1097
+12,1215052,Jarrod Taylor,C,So,0,0,2012,10942,Ga. Southwestern,1097
+32,1309043,Chase Young,C,Jr,0,0,2012,10942,Ga. Southwestern,1097
 23,1309040,Frank Ambrosino,P,Sr,16,14,2013,11320,Ga. Southwestern,1097
 22,1215088,Corey Benson,OF,Jr,25,25,2013,11320,Ga. Southwestern,1097
 29,1436009,Bray Bishop,P,Fr,22,0,2013,11320,Ga. Southwestern,1097

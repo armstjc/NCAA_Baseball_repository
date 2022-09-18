@@ -1,3 +1,3 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/12/2016,home,12360,725,Army West Point,9,True,3,10,-7,loss,3 - 10,297581,400,0,0,2.0,0.0,1,2,2,1,2,0,10,7,0,0,0,0,1,2,0,0,0,0,0,31,2,2,0,0,0,3,2,1659209,2016
-04/17/2016,home,12360,606,Saint Joseph's,9,True,7,17,-10,loss,7 - 17,307045,400,0,0,0.1,0.0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,1,0,0,0,10,0,0,0,0,0,7,0,1659209,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,2,2,1,2,0,10,7,0,0,0,0,1,2,0,0,0,0,0,31,2,2,0,0,0,3,2,03/12/2016,neutral,12360,725,Army West Point,9,True,3,10,-7,loss,297581,400,1659209,2016
+0,0,0.1,0.0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,1,0,0,0,10,0,0,0,0,0,7,0,04/17/2016,home,12360,606,Saint Joseph's,9,True,7,17,-10,loss,307045,400,1659209,2016

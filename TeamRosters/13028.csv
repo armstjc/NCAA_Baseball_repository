@@ -149,8 +149,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,2126766,Lucas Smith,P,Fr,16,2,2019,14781,Anderson  (SAC),13028
 32,1980655,Matthew Stanley,P,Sr,8,4,2019,14781,Anderson  (SAC),13028
 8,1980650,Chase Stephens,INF,So,18,10,2019,14781,Anderson  (SAC),13028
-4,1755714,Jackson Strange,INF,Sr,50,50,2019,14781,Anderson  (SAC),13028
 15,1755716,Joseph Strange,C,Jr,25,25,2019,14781,Anderson  (SAC),13028
+4,1755714,Jackson Strange,INF,Sr,50,50,2019,14781,Anderson  (SAC),13028
 36,1980657,Britt Thomas,P,So,0,0,2019,14781,Anderson  (SAC),13028
 33,1980681,Austin Todd,P,Jr,14,11,2019,14781,Anderson  (SAC),13028
 10,1980670,Trevor Weisner,INF,So,33,31,2019,14781,Anderson  (SAC),13028
@@ -205,8 +205,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 20,1875813,Christian Carpenter,P,Sr,15,1,2021,15580,Anderson  (SAC),13028
 5,1875805,Chandler Castleberry,OF,Jr,37,37,2021,15580,Anderson  (SAC),13028
 22,2488713,Joseph  Jr. Cottone,P,So,10,8,2021,15580,Anderson  (SAC),13028
-38,2328986,Jackson Dempsey,P,Fr,5,0,2021,15580,Anderson  (SAC),13028
 47,2488727,Jackson Dempsey,P,So,3,0,2021,15580,Anderson  (SAC),13028
+38,2328986,Jackson Dempsey,P,Fr,5,0,2021,15580,Anderson  (SAC),13028
 45,2488725,Jonathan Duffie,P,Fr,8,0,2021,15580,Anderson  (SAC),13028
 2,2488705,Justin Fox,SS,So,36,36,2021,15580,Anderson  (SAC),13028
 40,1980691,Davis Goodyear,C,Sr,17,13,2021,15580,Anderson  (SAC),13028
@@ -216,11 +216,11 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 28,1980652,Justin Helms,INF,Sr,1,1,2021,15580,Anderson  (SAC),13028
 16,2328961,Landon Henley,P,Fr,9,0,2021,15580,Anderson  (SAC),13028
 21,2488712,Andrew Imperatore,P,So,6,6,2021,15580,Anderson  (SAC),13028
-50,2488731,Kolby King,OF,Fr,0,0,2021,15580,Anderson  (SAC),13028
 41,2488722,Kaleb King,P,Fr,7,0,2021,15580,Anderson  (SAC),13028
+50,2488731,Kolby King,OF,Fr,0,0,2021,15580,Anderson  (SAC),13028
 19,2126781,Jacob Kohns,INF,Jr,37,35,2021,15580,Anderson  (SAC),13028
-32,2329026,Nathan Ledford,P,So,2,0,2021,15580,Anderson  (SAC),13028
 26,2488714,Nathan Ledford,P,So,0,0,2021,15580,Anderson  (SAC),13028
+32,2329026,Nathan Ledford,P,So,2,0,2021,15580,Anderson  (SAC),13028
 6,1980649,Will Lindsey,INF,Sr,16,8,2021,15580,Anderson  (SAC),13028
 13,2488710,Sebastian Martinez,P,Sr,9,2,2021,15580,Anderson  (SAC),13028
 48,2488730,Will Mcswain,P,Jr,12,4,2021,15580,Anderson  (SAC),13028
@@ -238,6 +238,73 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 43,2488724,Ivan  Jr. Vanbeverhoudt,P,Fr,3,0,2021,15580,Anderson  (SAC),13028
 27,2329008,Nick Vella,OF,Sr,37,37,2021,15580,Anderson  (SAC),13028
 10,1980670,Trevor Weisner,INF,Sr,24,20,2021,15580,Anderson  (SAC),13028
+7,2668561,Kye Andress,INF,Jr,45,45,2022,15860,Anderson  (SAC),13028
+45,2329041,Colin Belvin,OF,Jr,1,0,2022,15860,Anderson  (SAC),13028
+12,1980651,Tyler Berry,C,Sr,13,3,2022,15860,Anderson  (SAC),13028
+32,2328965,Ryan Brash,C,Jr,10,0,2022,15860,Anderson  (SAC),13028
+22,2488713,Joseph  Jr. Cottone,P,Jr,16,12,2022,15860,Anderson  (SAC),13028
+29,2488727,Jackson Dempsey,P,So,12,0,2022,15860,Anderson  (SAC),13028
+15,2488725,Jonathan Duffie,P,So,14,0,2022,15860,Anderson  (SAC),13028
+2,2488705,Justin Fox,OF,Jr,46,46,2022,15860,Anderson  (SAC),13028
+33,2488717,Peter Gullo,UT,So,1,0,2022,15860,Anderson  (SAC),13028
+18,2328969,Drew Hallgren,P,Jr,0,0,2022,15860,Anderson  (SAC),13028
+9,2668564,James Hanvey,INF,Fr,27,21,2022,15860,Anderson  (SAC),13028
+16,2328961,Landon Henley,P,Jr,21,0,2022,15860,Anderson  (SAC),13028
+13,2668573,Carlos Hernandez,C,Jr,45,45,2022,15860,Anderson  (SAC),13028
+10,2668565,Jackson Herring,P,Jr,21,0,2022,15860,Anderson  (SAC),13028
+21,2488712,Andrew Imperatore,P,So,15,12,2022,15860,Anderson  (SAC),13028
+41,2488722,Kaleb King,P,So,13,0,2022,15860,Anderson  (SAC),13028
+50,2488731,Kolby King,OF,So,1,0,2022,15860,Anderson  (SAC),13028
+19,2126781,Jacob Kohns,INF,Sr,7,1,2022,15860,Anderson  (SAC),13028
+3,2668558,William Laffin,INF,Jr,16,11,2022,15860,Anderson  (SAC),13028
+1,2668552,James Legrand,INF,Jr,46,46,2022,15860,Anderson  (SAC),13028
+11,2488714,Nathan Ledford,P,Jr,19,4,2022,15860,Anderson  (SAC),13028
+46,2668631,Corey Loggins,P,So,11,2,2022,15860,Anderson  (SAC),13028
+47,2668632,Alexander Maurer,P,So,8,0,2022,15860,Anderson  (SAC),13028
+38,2488718,Nicolas Miller,P,So,8,0,2022,15860,Anderson  (SAC),13028
+35,2668593,Walker Noland,P,Fr,14,11,2022,15860,Anderson  (SAC),13028
+17,2488706,Brayden Owens,INF,So,39,39,2022,15860,Anderson  (SAC),13028
+26,2668591,Anthony Pandolfi,C,So,15,12,2022,15860,Anderson  (SAC),13028
+8,2488708,Jacob Peake,OF,So,4,2,2022,15860,Anderson  (SAC),13028
+34,2668585,Luke Poole,OF,Jr,16,6,2022,15860,Anderson  (SAC),13028
+5,2668505,Trey Princiotto,P,Jr,16,5,2022,15860,Anderson  (SAC),13028
+28,2488711,Kevin Sosa,INF,So,17,9,2022,15860,Anderson  (SAC),13028
+6,2668560,Shane Thomas,OF,Fr,19,9,2022,15860,Anderson  (SAC),13028
+4,2488707,Jackson Van Ness,OF,So,40,37,2022,15860,Anderson  (SAC),13028
+43,2488724,Ivan  Jr. Vanbeverhoudt,P,So,4,0,2022,15860,Anderson  (SAC),13028
+27,2329008,Nick Vella,INF,Sr,42,41,2022,15860,Anderson  (SAC),13028
+23,2668579,Jaxon Young,OF,Fr,43,41,2022,15860,Anderson  (SAC),13028
+7,2668561,Kye Andress,INF,6-2,Sr,0,2023,16340,Anderson  (SAC),13028
+15,2488725,Jonathan Duffie,P,6-2,Jr,0,2023,16340,Anderson  (SAC),13028
+9,2668564,James Hanvey,INF,5-11,So,0,2023,16340,Anderson  (SAC),13028
+50,2488731,Kolby King,OF,6-2,Jr,0,2023,16340,Anderson  (SAC),13028
+47,2668632,Alexander Maurer,P,6-3,Jr,0,2023,16340,Anderson  (SAC),13028
+34,2668585,Luke Poole,OF,6-1,Sr,0,2023,16340,Anderson  (SAC),13028
+4,2488707,Jackson Van Ness,OF,6-0,Jr,0,2023,16340,Anderson  (SAC),13028
+2,1309306,Kyle Bailey,INF,Fr,0,0,2012,10942,Anderson  (SAC),13028
+20,1309310,Landon Beck,P,Fr,0,0,2012,10942,Anderson  (SAC),13028
+21,1309311,Brett Cash,INF,Fr,0,0,2012,10942,Anderson  (SAC),13028
+23,1309312,Paul Como,OF,So,0,0,2012,10942,Anderson  (SAC),13028
+4,1215390,Shawn Delmontagne,INF,So,0,0,2012,10942,Anderson  (SAC),13028
+34,1309315,Spencer Earle,P,Fr,0,0,2012,10942,Anderson  (SAC),13028
+17,1105205,Kyle Francis,P,So,0,0,2012,10942,Anderson  (SAC),13028
+24,1215398,Nathan Galliford,OF,Fr,0,0,2012,10942,Anderson  (SAC),13028
+31,1309314,Josh Hickman,OF,So,0,0,2012,10942,Anderson  (SAC),13028
+37,1309321,Evan Jordan,P,Fr,0,0,2012,10942,Anderson  (SAC),13028
+15,1309308,Paul Ligget,OF,Jr,0,0,2012,10942,Anderson  (SAC),13028
+7,1215391,Ryan Mills,OF,Fr,0,0,2012,10942,Anderson  (SAC),13028
+1,1215394,Harrison Monda,INF,So,0,0,2012,10942,Anderson  (SAC),13028
+40,1215404,Ben Pendleton,C,So,0,0,2012,10942,Anderson  (SAC),13028
+41,1309324,Chris Perez,INF,Fr,0,0,2012,10942,Anderson  (SAC),13028
+46,1427519,Darrin Pittman,P,Fr,0,0,2012,10942,Anderson  (SAC),13028
+6,1105201,Tony Price,INF,Jr,0,0,2012,10942,Anderson  (SAC),13028
+33,1105210,Erick Sanderson,INF,Jr,0,0,2012,10942,Anderson  (SAC),13028
+45,1215405,Jacob Saxon,P,So,0,0,2012,10942,Anderson  (SAC),13028
+36,1309320,Michael Skelly,C,Fr,0,0,2012,10942,Anderson  (SAC),13028
+30,1309313,Hogan Stoner,INF,Fr,0,0,2012,10942,Anderson  (SAC),13028
+39,1309323,Jt Trujillo,P,Fr,0,0,2012,10942,Anderson  (SAC),13028
+26,1215400,Will Walls,P,So,0,0,2012,10942,Anderson  (SAC),13028
+42,1309325,Jonathan Zalud,C,So,0,0,2012,10942,Anderson  (SAC),13028
 10,1427279,Chris Ayers,P,Fr,42,38,2013,11320,Anderson  (SAC),13028
 2,1309306,Kyle Bailey,INF,So,0,0,2013,11320,Anderson  (SAC),13028
 20,1309310,Landon Beck,P,So,21,0,2013,11320,Anderson  (SAC),13028

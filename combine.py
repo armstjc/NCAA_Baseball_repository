@@ -65,11 +65,36 @@ def mergeFieldingLogs():
     df = mergeFilesMultithreaded(f)
     df.to_csv("PlayerStats/fielding_logs.csv",index=False)
 
+
+def mergeRosters():
+    f = "TeamRosters/teams"
+    df = mergeFilesMultithreaded(f)
+    df.to_csv("TeamRosters/rosters.csv",index=False)
+
 def pbpReader(filename):
         game_id = str(os.path.basename(filename)).replace(".csv","")
         df = pd.read_csv(filename, encoding='latin-1')
         df['game_id'] = game_id
         return df
+
+def splitRosters():
+    print('Reading the rosters file.')
+    df = pd.read_csv('TeamRosters/rosters.csv')
+    print('Done!\n')
+    max_season = df['season'].max()
+    min_season = df['season'].min()
+    for i in range(min_season,max_season+1):
+        print(f'Creating the roster file for the {i} season.')
+        s_df = df[df['season'] == i]
+        # len_s_df = len(s_df)
+        # len_s_df = len_s_df // 2
+        # partOne = s_df.iloc[:len_s_df,:]
+        # partTwo = s_df.iloc[len_s_df:,:]
+
+        # partOne.to_csv(f'TeamRosters/{i}_roster_01.csv',index=False)
+        # partTwo.to_csv(f'TeamRosters/{i}_roster_02.csv',index=False)
+        s_df.to_csv(f'TeamRosters/{i}_roster.csv')
+
 
 def mergePbpMultithreaded(filePath=""):
     #global filecount
@@ -177,16 +202,19 @@ def main():
     mergeBattingLogs()
     mergeFieldingLogs()
     mergePbpLogs()
+    mergeRosters()
 
     splitBattingStats()
     splitPitchingStats()
     splitFieldingStats()
     splitPbpLogs()
+    splitRosters()
     
     os.remove('PlayerStats/batting_logs.csv')
     os.remove('PlayerStats/pitching_logs.csv')
     os.remove('PlayerStats/fielding_logs.csv')
     os.remove('pbp/pbp_logs.csv')
+    os.remove('TeamRosters/rosters.csv')
 
 if __name__ == "__main__":
     main()

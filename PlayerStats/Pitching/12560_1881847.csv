@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/18/2017,home,12560,204,Eastern Mich.,9,True,27,9,18,win,27 - 9,206286,434,0,0,2.1,0.0,4,1,1,1,4,0,12,11,0,0,0,0,1,0,0,3,0,0,0,41,3,0,0,0,0,4,1,1881847,2017
-04/12/2017,home,12560,2678,Ark.-Pine Bluff,9,True,15,6,9,win,15 - 6,218936,434,0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,6,0,1881847,2017
-04/28/2017,home,12560,697,Texas A&M,9,True,1,11,-10,loss,1 - 11,223386,434,0,0,2.1,0.0,1,0,0,1,6,0,10,8,0,0,0,0,0,1,0,2,0,0,0,39,0,1,0,0,0,4,1,1881847,2017
-05/07/2017,away,12560,736,Vanderbilt,9,True,5,14,-9,loss,5 - 14,225403,434,0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,2,0,0,0,0,8,0,1881847,2017
-05/16/2017,home,12560,202,Eastern Ky.,9,True,13,4,9,win,13 - 4,226684,434,0,0,1.1,0.0,2,2,2,3,1,0,11,7,0,0,0,0,1,1,0,0,0,0,0,44,2,1,0,0,0,2,0,1881847,2017
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.1,0.0,4,1,1,1,4,0,12,11,0,0,0,0,1,0,0,3,0,0,0,41,3,0,0,0,0,4,1,02/18/2017,neutral,12560,204,Eastern Mich.,9,True,27,9,18,win,206286,434,1881847,2017
+0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,6,0,04/12/2017,home,12560,2678,Ark.-Pine Bluff,9,True,15,6,9,win,218936,434,1881847,2017
+0,0,2.1,0.0,1,0,0,1,6,0,10,8,0,0,0,0,0,1,0,2,0,0,0,39,0,1,0,0,0,4,1,04/28/2017,home,12560,697,Texas A&M,9,True,1,11,-10,loss,223386,434,1881847,2017
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,2,0,0,0,0,8,0,05/07/2017,away,12560,736,Vanderbilt,9,True,5,14,-9,loss,225403,434,1881847,2017
+0,0,1.1,0.0,2,2,2,3,1,0,11,7,0,0,0,0,1,1,0,0,0,0,0,44,2,1,0,0,0,2,0,05/16/2017,home,12560,202,Eastern Ky.,9,True,13,4,9,win,226684,434,1881847,2017

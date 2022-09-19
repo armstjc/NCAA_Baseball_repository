@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-04/18/2017,away,12560,646,South Alabama,9,True,2,5,-3,loss,2 - 5,220709,430,0,0,1.0,0.0,2,1,1,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,5,1,1751545,2017
-04/21/2017,home,12560,8,Alabama,13,True,13,12,1,win,13 - 12,221418,430,0,0,2.2,0.0,1,0,0,1,2,0,10,9,0,0,0,0,0,0,0,3,1,0,0,30,2,4,1,0,0,10,0,1751545,2017
-04/29/2017,home,12560,37,Auburn,9,True,8,17,-9,loss,8 - 17,223966,430,0,0,1.0,0.0,0,1,1,1,0,0,4,2,0,0,0,0,2,0,0,1,1,0,1,15,1,2,0,0,0,5,0,1751545,2017
-05/04/2017,away,12560,697,Texas A&M,9,True,2,9,-7,loss,2 - 9,224667,430,0,0,1.0,0.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,15,0,3,0,0,0,4,0,1751545,2017
-05/12/2017,away,12560,257,Georgia,9,True,9,3,6,win,9 - 3,226064,430,0,0,0.1,0.0,3,3,3,1,0,0,6,4,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,1751545,2017
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,5,1,04/18/2017,away,12560,646,South Alabama,9,True,2,5,-3,loss,220709,430,1751545,2017
+0,0,2.2,0.0,1,0,0,1,2,0,10,9,0,0,0,0,0,0,0,3,1,0,0,30,2,4,1,0,0,10,0,04/21/2017,home,12560,8,Alabama,13,True,13,12,1,win,221418,430,1751545,2017
+0,0,1.0,0.0,0,1,1,1,0,0,4,2,0,0,0,0,2,0,0,1,1,0,1,15,1,2,0,0,0,5,0,04/29/2017,home,12560,37,Auburn,9,True,8,17,-9,loss,223966,430,1751545,2017
+0,0,1.0,0.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,15,0,3,0,0,0,4,0,05/04/2017,away,12560,697,Texas A&M,9,True,2,9,-7,loss,224667,430,1751545,2017
+0,0,0.1,0.0,3,3,3,1,0,0,6,4,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,05/12/2017,away,12560,257,Georgia,9,True,9,3,6,win,226064,430,1751545,2017

@@ -1,2 +1,2 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-05/08/2016,home,12360,659,Southern Ill.,9,True,8,14,-6,loss,8 - 14,312337,669,0,0,2.0,0.0,3,1,1,2,0,0,9,7,1,0,0,0,0,0,0,0,0,0,0,25,3,1,0,0,0,4,0,1544066,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,3,1,1,2,0,0,9,7,1,0,0,0,0,0,0,0,0,0,0,25,3,1,0,0,0,4,0,05/08/2016,home,12360,659,Southern Ill.,9,True,8,14,-6,loss,312337,669,1544066,2016

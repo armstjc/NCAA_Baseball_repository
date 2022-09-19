@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/02/2016,home,12360,178,Delaware St.,9,True,20,4,16,win,20 - 4,294850,726,0,0,2.0,0.0,1,0,0,1,4,0,8,7,0,0,0,0,0,0,0,0,0,0,0,31,2,0,0,0,0,2,0,1750142,2016
-03/30/2016,away,12360,393,UMES,9,True,16,4,12,win,16 - 4,302020,726,0,0,1.0,0.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,1750142,2016
-04/13/2016,away,12360,178,Delaware St.,9,True,16,4,12,win,16 - 4,305667,726,0,0,1.0,0.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,5,0,1750142,2016
-04/19/2016,home,12360,391,UMBC,9,True,4,6,-2,loss,4 - 6,307521,726,0,0,2.0,0.0,1,0,0,0,3,0,6,6,0,0,0,0,0,0,0,1,0,0,0,21,0,2,0,0,0,2,1,1750142,2016
-04/27/2016,away,12360,248,George Mason,9,True,13,9,4,win,13 - 9,309800,726,0,0,1.0,0.0,0,2,2,2,0,0,6,3,0,0,0,0,0,1,0,2,1,0,0,19,1,2,0,0,0,2,0,1750142,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,0,0,1,4,0,8,7,0,0,0,0,0,0,0,0,0,0,0,31,2,0,0,0,0,2,0,03/02/2016,home,12360,178,Delaware St.,9,True,20,4,16,win,294850,726,1750142,2016
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,03/30/2016,away,12360,393,UMES,9,True,16,4,12,win,302020,726,1750142,2016
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,5,0,04/13/2016,away,12360,178,Delaware St.,9,True,16,4,12,win,305667,726,1750142,2016
+0,0,2.0,0.0,1,0,0,0,3,0,6,6,0,0,0,0,0,0,0,1,0,0,0,21,0,2,0,0,0,2,1,04/19/2016,home,12360,391,UMBC,9,True,4,6,-2,loss,307521,726,1750142,2016
+0,0,1.0,0.0,0,2,2,2,0,0,6,3,0,0,0,0,0,1,0,2,1,0,0,19,1,2,0,0,0,2,0,04/27/2016,away,12360,248,George Mason,9,True,13,9,4,win,309800,726,1750142,2016

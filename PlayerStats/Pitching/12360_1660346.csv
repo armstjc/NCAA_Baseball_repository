@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/28/2016,away,12360,109,UC Irvine,9,True,0,6,-6,loss,0 - 6,294636,466,0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,1660346,2016
-03/18/2016,home,12360,603,St. John's (NY),9,True,12,1,11,win,12 - 1,298716,466,0,0,1.0,0.0,1,1,0,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,1660346,2016
-04/16/2016,away,12360,96,Fresno St.,9,True,3,8,-5,loss,3 - 8,306278,466,0,0,0.1,0.0,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,1,0,1,10,0,1,0,0,0,3,0,1660346,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,02/28/2016,away,12360,109,UC Irvine,9,True,0,6,-6,loss,294636,466,1660346,2016
+0,0,1.0,0.0,1,1,0,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,03/18/2016,home,12360,603,St. John's (NY),9,True,12,1,11,win,298716,466,1660346,2016
+0,0,0.1,0.0,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,1,0,1,10,0,1,0,0,0,3,0,04/16/2016,away,12360,96,Fresno St.,9,True,3,8,-5,loss,306278,466,1660346,2016

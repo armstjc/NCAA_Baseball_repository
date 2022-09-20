@@ -93,7 +93,7 @@ def splitRosters():
 
         # partOne.to_csv(f'TeamRosters/{i}_roster_01.csv',index=False)
         # partTwo.to_csv(f'TeamRosters/{i}_roster_02.csv',index=False)
-        s_df.to_csv(f'TeamRosters/{i}_roster.csv')
+        s_df.to_csv(f'TeamRosters/{i}_roster.csv',index=False)
 
 
 def mergePbpMultithreaded(filePath=""):

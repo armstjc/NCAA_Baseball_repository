@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/20/2016,home,12360,444,Morehead St.,9,True,4,24,-20,loss,4 - 24,292769,489,0,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,4,0,1661105,2016
-02/27/2016,home,12360,482,Niagara,9,True,10,6,4,win,10 - 6,294092,489,0,0,0.1,0.0,1,2,2,1,0,0,3,1,0,1,0,0,0,0,0,0,0,0,1,16,0,1,0,0,0,2,0,1661105,2016
-03/08/2016,away,12360,48,Charleston So.,9,True,6,9,-3,loss,6 - 9,296318,489,0,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,7,0,1661105,2016
-03/12/2016,away,12360,488,N.C. A&T,9,True,2,15,-13,loss,2 - 15,297288,489,0,0,0.0,0.0,3,3,3,0,0,0,3,3,0,0,0,1,0,0,0,1,1,0,0,7,0,0,0,0,0,3,0,1661105,2016
-04/02/2016,away,12360,228,Florida A&M,9,True,4,16,-12,loss,4 - 16,302915,489,0,0,0.0,0.0,2,4,4,2,0,0,4,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1661105,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,4,0,02/20/2016,home,12360,444,Morehead St.,9,True,4,24,-20,loss,292769,489,1661105,2016
+0,0,0.1,0.0,1,2,2,1,0,0,3,1,0,1,0,0,0,0,0,0,0,0,1,16,0,1,0,0,0,2,0,02/27/2016,home,12360,482,Niagara,9,True,10,6,4,win,294092,489,1661105,2016
+0,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,7,0,03/08/2016,away,12360,48,Charleston So.,9,True,6,9,-3,loss,296318,489,1661105,2016
+0,0,0.0,0.0,3,3,3,0,0,0,3,3,0,0,0,1,0,0,0,1,1,0,0,7,0,0,0,0,0,3,0,03/12/2016,away,12360,488,N.C. A&T,9,True,2,15,-13,loss,297288,489,1661105,2016
+0,0,0.0,0.0,2,4,4,2,0,0,4,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,04/02/2016,away,12360,228,Florida A&M,9,True,4,16,-12,loss,302915,489,1661105,2016

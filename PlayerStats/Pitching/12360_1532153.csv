@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/21/2016,away,12360,522,Oklahoma,9,True,4,13,-9,loss,4 - 13,293220,500,0,0,0.0,0.0,0,2,2,4,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,21,0,0,0,0,0,5,0,1532153,2016
-04/17/2016,away,12360,180,Delaware,9,True,14,0,14,win,14 - 0,307032,500,0,0,1.0,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,20,1,0,0,0,0,4,0,1532153,2016
-04/19/2016,home,12360,81,Bryant,9,True,2,19,-17,loss,2 - 19,307618,500,0,0,1.0,0.0,2,2,2,3,0,0,8,5,0,0,0,0,0,0,0,0,0,0,0,33,1,2,0,0,0,5,0,1532153,2016
-05/21/2016,home,12360,711,Towson,9,True,4,7,-3,loss,4 - 7,314043,500,0,0,1.0,0.0,1,1,1,1,0,0,6,3,0,1,0,0,0,1,0,0,0,0,1,21,1,2,0,0,0,5,0,1532153,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,0,2,2,4,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,21,0,0,0,0,0,5,0,02/21/2016,away,12360,522,Oklahoma,9,True,4,13,-9,loss,293220,500,1532153,2016
+0,0,1.0,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,20,1,0,0,0,0,4,0,04/17/2016,away,12360,180,Delaware,9,True,14,0,14,win,307032,500,1532153,2016
+0,0,1.0,0.0,2,2,2,3,0,0,8,5,0,0,0,0,0,0,0,0,0,0,0,33,1,2,0,0,0,5,0,04/19/2016,home,12360,81,Bryant,9,True,2,19,-17,loss,307618,500,1532153,2016
+0,0,1.0,0.0,1,1,1,1,0,0,6,3,0,1,0,0,0,1,0,0,0,0,1,21,1,2,0,0,0,5,0,05/21/2016,home,12360,711,Towson,9,True,4,7,-3,loss,314043,500,1532153,2016

@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/28/2016,away,12360,8,Alabama,9,True,1,7,-6,loss,1 - 7,294350,494,0,0,0.2,0.0,0,0,0,1,0,0,3,1,0,0,0,0,1,0,0,1,1,0,1,15,1,1,0,0,0,5,0,1772915,2016
-03/15/2016,away,12360,782,Wichita St.,9,True,3,16,-13,loss,3 - 16,298149,494,0,0,0.2,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,2,0,0,0,6,0,1772915,2016
-04/16/2016,away,12360,536,UTRGV,9,True,2,12,-10,loss,2 - 12,306262,494,0,0,0.1,0.0,0,0,0,3,0,0,4,1,0,0,0,0,1,0,0,2,2,0,0,17,0,1,0,0,0,4,0,1772915,2016
-05/19/2016,away,12360,94,CSU Bakersfield,9,True,2,15,-13,loss,2 - 15,313615,494,0,0,0.0,0.0,1,2,2,2,0,0,4,1,0,0,0,0,0,1,0,0,0,0,0,19,0,0,0,0,0,4,0,1772915,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,1,0,0,3,1,0,0,0,0,1,0,0,1,1,0,1,15,1,1,0,0,0,5,0,02/28/2016,away,12360,8,Alabama,9,True,1,7,-6,loss,294350,494,1772915,2016
+0,0,0.2,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,2,0,0,0,6,0,03/15/2016,away,12360,782,Wichita St.,9,True,3,16,-13,loss,298149,494,1772915,2016
+0,0,0.1,0.0,0,0,0,3,0,0,4,1,0,0,0,0,1,0,0,2,2,0,0,17,0,1,0,0,0,4,0,04/16/2016,away,12360,536,UTRGV,9,True,2,12,-10,loss,306262,494,1772915,2016
+0,0,0.0,0.0,1,2,2,2,0,0,4,1,0,0,0,0,0,1,0,0,0,0,0,19,0,0,0,0,0,4,0,05/19/2016,away,12360,94,CSU Bakersfield,9,True,2,15,-13,loss,313615,494,1772915,2016

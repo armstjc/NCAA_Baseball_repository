@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/27/2016,away,12360,664,Southern Miss.,9,True,5,15,-10,loss,5 - 15,293810,508,0,0,2.0,0.0,3,2,2,0,1,0,9,9,1,0,0,1,0,0,0,0,0,0,0,20,3,2,0,0,0,4,0,1766684,2016
-04/27/2016,home,12360,432,Mississippi Val.,9,True,10,0,10,win,10 - 0,309772,508,0,0,3.0,0.0,0,0,0,0,1,0,9,9,0,0,0,0,0,0,0,0,0,0,0,29,5,3,0,0,0,2,0,1766684,2016
-05/13/2016,away,12360,483,Nicholls,9,True,13,4,9,win,13 - 4,312928,508,0,0,1.0,0.0,2,2,2,0,1,0,6,5,2,0,0,0,0,1,0,0,0,0,0,17,0,2,0,0,0,3,1,1766684,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,3,2,2,0,1,0,9,9,1,0,0,1,0,0,0,0,0,0,0,20,3,2,0,0,0,4,0,02/27/2016,away,12360,664,Southern Miss.,9,True,5,15,-10,loss,293810,508,1766684,2016
+0,0,3.0,0.0,0,0,0,0,1,0,9,9,0,0,0,0,0,0,0,0,0,0,0,29,5,3,0,0,0,2,0,04/27/2016,home,12360,432,Mississippi Val.,9,True,10,0,10,win,309772,508,1766684,2016
+0,0,1.0,0.0,2,2,2,0,1,0,6,5,2,0,0,0,0,1,0,0,0,0,0,17,0,2,0,0,0,3,1,05/13/2016,away,12360,483,Nicholls,9,True,13,4,9,win,312928,508,1766684,2016

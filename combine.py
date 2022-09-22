@@ -1,5 +1,3 @@
-from collegebaseball import ncaa_scraper as ncaa
-from collegebaseball import datasets
 import os
 import glob
 from tqdm import tqdm

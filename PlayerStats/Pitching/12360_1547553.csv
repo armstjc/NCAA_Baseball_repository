@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/04/2016,away,12360,2711,North Florida,9,True,5,17,-12,loss,5 - 17,295025,540,0,0,0.1,0.0,0,3,3,3,1,0,5,1,0,0,0,0,1,1,0,0,0,0,0,20,0,0,0,0,0,4,1,1547553,2016
-03/12/2016,home,12360,251,Georgetown,9,True,1,9,-8,loss,1 - 9,297526,540,0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,7,1,1,0,0,0,3,0,1547553,2016
-03/27/2016,away,12360,342,Lafayette,9,True,12,2,10,win,12 - 2,301659,540,0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,3,0,1547553,2016
-03/29/2016,home,12360,739,Villanova,9,True,4,9,-5,loss,4 - 9,301851,540,0,0,1.2,0.0,4,4,4,1,1,0,10,7,0,0,0,1,0,1,0,2,1,0,1,0,0,3,0,0,0,5,1,1547553,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,3,3,3,1,0,5,1,0,0,0,0,1,1,0,0,0,0,0,20,0,0,0,0,0,4,1,03/04/2016,away,12360,2711,North Florida,9,True,5,17,-12,loss,295025,540,1547553,2016
+0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,7,1,1,0,0,0,3,0,03/12/2016,neutral,12360,251,Georgetown,9,True,1,9,-8,loss,297526,540,1547553,2016
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,3,0,03/27/2016,away,12360,342,Lafayette,9,True,12,2,10,win,301659,540,1547553,2016
+0,0,1.2,0.0,4,4,4,1,1,0,10,7,0,0,0,1,0,1,0,2,1,0,1,0,0,3,0,0,0,5,1,03/29/2016,home,12360,739,Villanova,9,True,4,9,-5,loss,301851,540,1547553,2016

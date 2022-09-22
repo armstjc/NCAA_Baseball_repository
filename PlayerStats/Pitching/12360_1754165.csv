@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/21/2016,away,12360,90,Cal Poly,9,True,2,19,-17,loss,2 - 19,293186,534,0,0,3.0,0.0,6,6,6,3,2,0,17,13,2,0,0,0,1,0,0,0,0,0,1,0,3,3,0,0,0,5,0,1754165,2016
-02/28/2016,home,12360,509,Northwestern,9,True,5,14,-9,loss,5 - 14,294393,534,0,0,3.0,0.0,4,4,4,4,2,0,17,12,0,0,1,0,0,0,0,1,0,1,0,65,2,5,0,0,0,4,1,1754165,2016
-03/06/2016,home,12360,502,Northern Colo.,9,True,1,8,-7,loss,1 - 8,296110,534,0,0,0.1,0.0,1,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,10,1,0,0,0,0,6,0,1754165,2016
-03/17/2016,away,12360,77,BYU,9,True,3,19,-16,loss,3 - 19,298539,534,0,0,2.0,0.0,3,4,0,1,3,0,11,10,2,0,0,0,1,0,0,1,0,0,0,44,1,2,0,0,0,4,0,1754165,2016
-04/08/2016,home,12360,610,Saint Mary's (CA),9,True,2,14,-12,loss,2 - 14,304079,534,0,0,3.1,0.0,8,3,3,0,2,0,18,18,1,0,0,0,0,0,0,3,0,0,0,65,2,6,0,0,0,2,0,1754165,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,6,6,6,3,2,0,17,13,2,0,0,0,1,0,0,0,0,0,1,0,3,3,0,0,0,5,0,02/21/2016,away,12360,90,Cal Poly,9,True,2,19,-17,loss,293186,534,1754165,2016
+0,0,3.0,0.0,4,4,4,4,2,0,17,12,0,0,1,0,0,0,0,1,0,1,0,65,2,5,0,0,0,4,1,02/28/2016,home,12360,509,Northwestern,9,True,5,14,-9,loss,294393,534,1754165,2016
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,10,1,0,0,0,0,6,0,03/06/2016,home,12360,502,Northern Colo.,9,True,1,8,-7,loss,296110,534,1754165,2016
+0,0,2.0,0.0,3,4,0,1,3,0,11,10,2,0,0,0,1,0,0,1,0,0,0,44,1,2,0,0,0,4,0,03/17/2016,away,12360,77,BYU,9,True,3,19,-16,loss,298539,534,1754165,2016
+0,0,3.1,0.0,8,3,3,0,2,0,18,18,1,0,0,0,0,0,0,3,0,0,0,65,2,6,0,0,0,2,0,04/08/2016,home,12360,610,Saint Mary's (CA),9,True,2,14,-12,loss,304079,534,1754165,2016

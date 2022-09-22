@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-05/06/2017,home,12560,346,Lamar University,9,True,6,7,-1,loss,6 - 7,225026,521,0,0,1.2,0.0,4,3,3,1,0,0,11,9,0,0,0,0,0,1,0,0,0,0,0,37,1,4,0,0,0,3,0,1868222,2017
-05/16/2017,away,12560,527,Oral Roberts,9,True,7,11,-4,loss,7 - 11,226710,521,0,0,3.0,0.0,4,1,1,1,4,0,16,15,1,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,4,2,1868222,2017
-05/28/2017,home,12560,703,Texas,9,True,6,5,1,win,6 - 5,227652,521,0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,0,3,0,0,0,3,0,1868222,2017
-06/03/2017,home,12560,527,Oral Roberts,9,True,6,14,-8,loss,6 - 14,227725,521,0,0,0.1,0.0,1,2,2,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,1868222,2017
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,4,3,3,1,0,0,11,9,0,0,0,0,0,1,0,0,0,0,0,37,1,4,0,0,0,3,0,05/06/2017,home,12560,346,Lamar University,9,True,6,7,-1,loss,225026,521,1868222,2017
+0,0,3.0,0.0,4,1,1,1,4,0,16,15,1,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,4,2,05/16/2017,away,12560,527,Oral Roberts,9,True,7,11,-4,loss,226710,521,1868222,2017
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,0,3,0,0,0,3,0,05/28/2017,neutral,12560,703,Texas,9,True,6,5,1,win,227652,521,1868222,2017
+0,0,0.1,0.0,1,2,2,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,06/03/2017,neutral,12560,527,Oral Roberts,9,True,6,14,-8,loss,227725,521,1868222,2017

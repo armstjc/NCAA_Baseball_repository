@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/04/2016,home,12360,32,Little Rock,9,True,14,5,9,win,14 - 5,295076,527,0,0,3.0,0.0,4,2,2,4,2,0,16,12,0,0,0,0,1,0,0,0,0,0,0,0,3,4,0,0,1,2,1,1769261,2016
-03/13/2016,away,12360,37,Auburn,9,True,11,18,-7,loss,11 - 18,297827,527,0,0,0.1,0.0,2,2,2,0,1,0,3,3,1,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,6,0,1769261,2016
-04/01/2016,home,12360,493,North Dakota St.,9,True,10,3,7,win,10 - 3,302355,527,0,0,1.0,0.0,0,0,0,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,1769261,2016
-05/17/2016,home,12360,521,Oklahoma St.,9,True,3,1,2,win,3 - 1,313510,527,0,0,0.2,0.0,0,0,0,3,1,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,1769261,2016
-05/21/2016,away,12360,464,Omaha,9,True,5,11,-6,loss,5 - 11,314009,527,0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,6,0,1769261,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,4,2,2,4,2,0,16,12,0,0,0,0,1,0,0,0,0,0,0,0,3,4,0,0,1,2,1,03/04/2016,home,12360,32,Little Rock,9,True,14,5,9,win,295076,527,1769261,2016
+0,0,0.1,0.0,2,2,2,0,1,0,3,3,1,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,6,0,03/13/2016,away,12360,37,Auburn,9,True,11,18,-7,loss,297827,527,1769261,2016
+0,0,1.0,0.0,0,0,0,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,04/01/2016,home,12360,493,North Dakota St.,9,True,10,3,7,win,302355,527,1769261,2016
+0,0,0.2,0.0,0,0,0,3,1,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,05/17/2016,home,12360,521,Oklahoma St.,9,True,3,1,2,win,313510,527,1769261,2016
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,6,0,05/21/2016,away,12360,464,Omaha,9,True,5,11,-6,loss,314009,527,1769261,2016

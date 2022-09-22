@@ -1,2 +1,2 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/21/2017,home,12560,503,NIU,9,True,12,1,11,win,12 - 1,213071,513,0,0,0.2,0.0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,4,1,1752378,2017
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,4,1,03/21/2017,home,12560,503,NIU,9,True,12,1,11,win,213071,513,1752378,2017

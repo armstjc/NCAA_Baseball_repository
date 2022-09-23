@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/19/2016,home,12360,109,UC Irvine,9,True,2,3,-1,loss,2 - 3,292502,630,0,0,1.0,0.0,3,3,3,3,1,0,9,5,1,1,0,0,0,0,0,0,0,1,0,0,2,0,0,1,0,2,0,1420887,2016
-02/21/2016,home,12360,109,UC Irvine,9,True,0,11,-11,loss,0 - 11,293199,630,0,0,1.0,0.0,2,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,1420887,2016
-02/23/2016,home,12360,631,Santa Clara,9,True,4,7,-3,loss,4 - 7,293418,630,0,1,4.0,0.0,4,2,2,2,0,0,17,15,2,0,0,1,2,0,0,0,0,0,0,0,4,7,0,0,0,1,0,1420887,2016
-03/01/2016,home,12360,534,Pacific,9,True,8,7,1,win,8 - 7,294733,630,0,1,4.1,0.0,9,6,4,3,2,0,27,23,2,0,0,0,0,0,0,0,0,0,1,0,5,4,0,0,0,1,1,1420887,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,3,3,3,1,0,9,5,1,1,0,0,0,0,0,0,0,1,0,0,2,0,0,1,0,2,0,02/19/2016,home,12360,109,UC Irvine,9,True,2,3,-1,loss,292502,630,1420887,2016
+0,0,1.0,0.0,2,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,02/21/2016,home,12360,109,UC Irvine,9,True,0,11,-11,loss,293199,630,1420887,2016
+0,1,4.0,0.0,4,2,2,2,0,0,17,15,2,0,0,1,2,0,0,0,0,0,0,0,4,7,0,0,0,1,0,02/23/2016,home,12360,631,Santa Clara,9,True,4,7,-3,loss,293418,630,1420887,2016
+0,1,4.1,0.0,9,6,4,3,2,0,27,23,2,0,0,0,0,0,0,0,0,0,1,0,5,4,0,0,0,1,1,03/01/2016,home,12360,534,Pacific,9,True,8,7,1,win,294733,630,1420887,2016

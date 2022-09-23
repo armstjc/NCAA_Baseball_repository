@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/27/2016,away,12360,248,George Mason,9,True,11,5,6,win,11 - 5,294212,587,0,0,1.0,0.0,1,2,2,1,1,0,5,4,0,0,0,1,0,0,0,0,0,0,0,19,1,1,0,0,0,4,0,1530358,2016
-03/29/2016,home,12360,439,Monmouth,9,True,20,4,16,win,20 - 4,301912,587,0,0,2.0,0.0,0,0,0,1,1,0,7,6,0,0,0,0,0,0,0,0,0,0,0,28,3,2,0,0,0,4,0,1530358,2016
-04/08/2016,home,12360,606,Saint Joseph's,9,True,11,1,10,win,11 - 1,304145,587,0,0,1.0,0.0,0,0,0,1,0,0,4,2,0,0,0,0,0,1,0,0,0,0,0,15,2,0,0,0,0,3,0,1530358,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,2,2,1,1,0,5,4,0,0,0,1,0,0,0,0,0,0,0,19,1,1,0,0,0,4,0,02/27/2016,away,12360,248,George Mason,9,True,11,5,6,win,294212,587,1530358,2016
+0,0,2.0,0.0,0,0,0,1,1,0,7,6,0,0,0,0,0,0,0,0,0,0,0,28,3,2,0,0,0,4,0,03/29/2016,home,12360,439,Monmouth,9,True,20,4,16,win,301912,587,1530358,2016
+0,0,1.0,0.0,0,0,0,1,0,0,4,2,0,0,0,0,0,1,0,0,0,0,0,15,2,0,0,0,0,3,0,04/08/2016,home,12360,606,Saint Joseph's,9,True,11,1,10,win,304145,587,1530358,2016

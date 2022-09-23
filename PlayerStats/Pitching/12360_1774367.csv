@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-04/02/2016,away,12360,236,Fordham,9,True,7,6,1,win,7 - 6,303070,575,0,0,1.0,0.0,1,0,0,0,2,0,4,4,1,0,0,0,0,0,0,0,0,0,0,17,0,1,1,0,0,3,1,1774367,2016
-04/16/2016,home,12360,173,Davidson,9,True,2,14,-12,loss,2 - 14,306344,575,0,0,0.2,0.0,2,4,1,1,1,0,7,6,0,0,0,0,1,0,0,0,0,0,0,39,0,1,0,0,0,4,0,1774367,2016
-05/04/2016,away,12360,485,Norfolk St.,9,True,4,7,-3,loss,4 - 7,311439,575,0,0,1.0,0.0,1,1,1,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0,1774367,2016
-05/07/2016,home,12360,400,Massachusetts,9,True,14,4,10,win,14 - 4,312250,575,0,0,2.0,0.0,1,0,0,0,2,0,7,6,0,0,0,0,0,1,0,0,0,0,0,24,2,1,0,0,0,2,1,1774367,2016
-05/10/2016,away,12360,317,James Madison,9,True,17,5,12,win,17 - 5,312670,575,0,1,1.2,0.0,3,5,5,3,1,0,11,7,2,0,0,0,0,1,0,0,0,0,0,47,2,1,0,0,0,1,0,1774367,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,2,0,4,4,1,0,0,0,0,0,0,0,0,0,0,17,0,1,1,0,0,3,1,04/02/2016,away,12360,236,Fordham,9,True,7,6,1,win,303070,575,1774367,2016
+0,0,0.2,0.0,2,4,1,1,1,0,7,6,0,0,0,0,1,0,0,0,0,0,0,39,0,1,0,0,0,4,0,04/16/2016,home,12360,173,Davidson,9,True,2,14,-12,loss,306344,575,1774367,2016
+0,0,1.0,0.0,1,1,1,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0,05/04/2016,away,12360,485,Norfolk St.,9,True,4,7,-3,loss,311439,575,1774367,2016
+0,0,2.0,0.0,1,0,0,0,2,0,7,6,0,0,0,0,0,1,0,0,0,0,0,24,2,1,0,0,0,2,1,05/07/2016,home,12360,400,Massachusetts,9,True,14,4,10,win,312250,575,1774367,2016
+0,1,1.2,0.0,3,5,5,3,1,0,11,7,2,0,0,0,0,1,0,0,0,0,0,47,2,1,0,0,0,1,0,05/10/2016,away,12360,317,James Madison,9,True,17,5,12,win,312670,575,1774367,2016

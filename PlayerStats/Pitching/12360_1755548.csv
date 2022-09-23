@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/26/2016,away,12360,2915,Wofford,9,True,4,12,-8,loss,4 - 12,293552,576,0,0,0.1,0.0,1,0,0,1,1,0,3,2,1,0,1,0,0,0,0,1,1,0,0,13,0,0,0,0,0,5,0,1755548,2016
-02/27/2016,home,12360,456,UNC Asheville,9,True,4,19,-15,loss,4 - 19,294144,576,0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0,0,0,6,0,1755548,2016
-03/12/2016,away,12360,19651,High Point,9,True,2,10,-8,loss,2 - 10,297617,576,0,0,0.2,0.0,3,4,4,2,0,0,8,4,2,0,0,0,0,1,0,0,0,0,1,31,0,2,0,0,0,3,0,1755548,2016
-04/02/2016,away,12360,220,Fairfield,9,True,1,13,-12,loss,1 - 13,302984,576,0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0,0,6,0,0,0,0,0,5,0,1755548,2016
-05/11/2016,away,12360,635,Seton Hall,9,True,4,10,-6,loss,4 - 10,312705,576,0,0,0.2,0.0,1,1,1,2,0,0,6,3,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,3,0,1755548,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,1,0,0,1,1,0,3,2,1,0,1,0,0,0,0,1,1,0,0,13,0,0,0,0,0,5,0,02/26/2016,away,12360,2915,Wofford,9,True,4,12,-8,loss,293552,576,1755548,2016
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0,0,0,6,0,02/27/2016,neutral,12360,456,UNC Asheville,9,True,4,19,-15,loss,294144,576,1755548,2016
+0,0,0.2,0.0,3,4,4,2,0,0,8,4,2,0,0,0,0,1,0,0,0,0,1,31,0,2,0,0,0,3,0,03/12/2016,away,12360,19651,High Point,9,True,2,10,-8,loss,297617,576,1755548,2016
+0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0,0,6,0,0,0,0,0,5,0,04/02/2016,away,12360,220,Fairfield,9,True,1,13,-12,loss,302984,576,1755548,2016
+0,0,0.2,0.0,1,1,1,2,0,0,6,3,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,3,0,05/11/2016,away,12360,635,Seton Hall,9,True,4,10,-6,loss,312705,576,1755548,2016

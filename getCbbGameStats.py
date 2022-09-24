@@ -45,7 +45,7 @@ def getAllGbgStats():
     hasRoster = True
     school_count = 0
     schools_len = len(schools)
-    for s in range(230,len(schools)+1):
+    for s in range(241,len(schools)+1):
         #school_count += 1
         school_count = s
         i = schools[s]
@@ -85,9 +85,10 @@ def getAllGbgStats():
                 print(f'{count}/{maxRost} {season_id} {player_name}')
                 
                 try:
-                    player_games_played = arr_player_games[j]
+                    player_games_played = int(arr_player_games[j])
                 except:
                     player_games_played = 0
+
                 if player_games_played == 0:
                     print('This player did not play in this season.')
                 else:

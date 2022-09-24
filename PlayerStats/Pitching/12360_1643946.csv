@@ -1,6 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/21/2016,away,12360,430,Mississippi St.,9,True,5,15,-10,loss,5 - 15,293246,649,0,1,2.0,0.0,8,6,6,1,2,0,15,14,5,0,0,0,0,0,0,0,0,0,0,50,2,2,0,1,0,1,1,1643946,2016
-02/28/2016,home,12360,202,Eastern Ky.,9,True,4,6,-2,loss,4 - 6,294534,649,0,1,6.0,0.0,9,5,4,1,6,0,28,27,2,0,0,2,0,0,0,0,0,0,0,0,5,6,0,1,0,1,1,1643946,2016
-03/08/2016,away,12360,534,Pacific,9,True,2,5,-3,loss,2 - 5,296363,649,0,1,5.2,0.0,8,3,3,2,6,0,28,24,0,0,0,0,3,2,0,0,0,0,0,0,5,4,0,1,0,1,3,1643946,2016
-03/13/2016,away,12360,502,Northern Colo.,9,True,6,7,-1,loss,6 - 7,297820,649,0,1,5.0,0.0,4,2,2,1,1,0,21,16,0,0,0,0,0,2,0,0,0,2,0,0,9,4,0,0,0,1,0,1643946,2016
-03/19/2016,away,12360,527,Oral Roberts,9,True,3,13,-10,loss,3 - 13,299074,649,0,1,0.2,0.0,6,4,4,0,0,0,9,7,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,1643946,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.0,0.0,8,6,6,1,2,0,15,14,5,0,0,0,0,0,0,0,0,0,0,50,2,2,0,1,0,1,1,02/21/2016,away,12360,430,Mississippi St.,9,True,5,15,-10,loss,293246,649,1643946,2016
+0,1,6.0,0.0,9,5,4,1,6,0,28,27,2,0,0,2,0,0,0,0,0,0,0,0,5,6,0,1,0,1,1,02/28/2016,neutral,12360,202,Eastern Ky.,9,True,4,6,-2,loss,294534,649,1643946,2016
+0,1,5.2,0.0,8,3,3,2,6,0,28,24,0,0,0,0,3,2,0,0,0,0,0,0,5,4,0,1,0,1,3,03/08/2016,away,12360,534,Pacific,9,True,2,5,-3,loss,296363,649,1643946,2016
+0,1,5.0,0.0,4,2,2,1,1,0,21,16,0,0,0,0,0,2,0,0,0,2,0,0,9,4,0,0,0,1,0,03/13/2016,away,12360,502,Northern Colo.,9,True,6,7,-1,loss,297820,649,1643946,2016
+0,1,0.2,0.0,6,4,4,0,0,0,9,7,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,03/19/2016,away,12360,527,Oral Roberts,9,True,3,13,-10,loss,299074,649,1643946,2016
+0,1,2.0,0.0,4,0,0,0,3,0,9,8,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,1,0,03/29/2016,home,12360,0,Dakota Wesleyan,9,True,7,4,3,win,301983,649,1643946,2016

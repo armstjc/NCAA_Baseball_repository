@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/08/2016,away,12360,430,Mississippi St.,9,True,3,7,-4,loss,3 - 7,296381,646,0,0,0.2,0.0,1,1,1,0,0,0,3,2,0,0,0,0,0,0,0,0,0,1,0,11,2,0,0,0,0,4,0,1658751,2016
-03/15/2016,away,12360,655,Southeastern La.,9,True,2,9,-7,loss,2 - 9,298158,646,0,0,0.0,0.0,1,2,2,1,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,9,0,0,0,0,0,2,0,1658751,2016
-04/05/2016,away,12360,7,Alabama St.,9,True,7,12,-5,loss,7 - 12,303642,646,0,0,0.2,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,5,0,1658751,2016
-05/07/2016,home,12360,253,Ga. Southern,9,True,9,11,-2,loss,9 - 11,311917,646,0,0,0.0,0.0,1,0,0,1,0,0,3,2,0,0,0,0,0,0,0,1,1,0,0,11,0,0,0,0,0,4,0,1658751,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,1,1,1,0,0,0,3,2,0,0,0,0,0,0,0,0,0,1,0,11,2,0,0,0,0,4,0,03/08/2016,away,12360,430,Mississippi St.,9,True,3,7,-4,loss,296381,646,1658751,2016
+0,0,0.0,0.0,1,2,2,1,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,9,0,0,0,0,0,2,0,03/15/2016,away,12360,655,Southeastern La.,9,True,2,9,-7,loss,298158,646,1658751,2016
+0,0,0.2,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,5,0,04/05/2016,away,12360,7,Alabama St.,9,True,7,12,-5,loss,303642,646,1658751,2016
+0,0,0.0,0.0,1,0,0,1,0,0,3,2,0,0,0,0,0,0,0,1,1,0,0,11,0,0,0,0,0,4,0,05/07/2016,home,12360,253,Ga. Southern,9,True,9,11,-2,loss,311917,646,1658751,2016

@@ -45,7 +45,7 @@ def getAllGbgStats():
     hasRoster = True
     school_count = 0
     schools_len = len(schools)
-    for s in range(180,len(schools)+1):
+    for s in range(230,len(schools)+1):
         #school_count += 1
         school_count = s
         i = schools[s]
@@ -56,6 +56,7 @@ def getAllGbgStats():
             arr_school_name = rost['school'].to_numpy()
             arr_player_name = rost['name'].to_numpy()
             arr_player_id = rost['stats_player_seq'].to_numpy()
+            arr_player_games = rost['games_played'].to_numpy()
             maxRost = len(rost)
             hasRoster = True
         except:
@@ -84,41 +85,48 @@ def getAllGbgStats():
                 print(f'{count}/{maxRost} {season_id} {player_name}')
                 
                 try:
-                    data_b = ncaa.ncaa_player_game_logs(school=school_name, player=player_name, season=season_id, variant='batting')
-                    #data_b = data_b[data_b['AB'] != 0]
-                
-                    if (len(data_b)==0):
-                    #print('Nothing to save')
-                        print('')
-                    else:
-                        data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv',index=False)
+                    player_games_played = arr_player_games[j]
                 except:
-                    pass
-                #print(data_b)
-
-                try:
-
-                    data_p = ncaa.ncaa_player_game_logs(school=school_name, player=player_name, season=season_id, variant='pitching')
-                    #data_p = data_p.loc[data_p['App']>0]
-                
-                    data_p = data_p[data_p['OrdAppeared'] != 0]
-                    if (len(data_p)==0):
+                    player_games_played = 0
+                if player_games_played == 0:
+                    print('This player did not play in this season.')
+                else:
+                    try:
+                        data_b = ncaa.ncaa_player_game_logs(school=school_name, player=player_name, season=season_id, variant='batting')
+                        #data_b = data_b[data_b['AB'] != 0]
+                    
+                        if (len(data_b)==0):
                         #print('Nothing to save')
-                        print('')
-                    else:
-                        data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
-                        #print(data_p)
-                except:
-                    pass
+                            print('')
+                        else:
+                            data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv',index=False)
+                    except:
+                        pass
+                    #print(data_b)
 
-                try:
-                    data_f = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='fielding',  school=school_name)
-                    if len(data_f) > 0:
-                        data_f.to_csv(f'PlayerStats/Fielding/{season_id}_{player_id}.csv',index=False)
-                except:
-                    pass
+                    try:
 
-                time.sleep(4)
+                        data_p = ncaa.ncaa_player_game_logs(school=school_name, player=player_name, season=season_id, variant='pitching')
+                        #data_p = data_p.loc[data_p['App']>0]
+                    
+                        data_p = data_p[data_p['OrdAppeared'] != 0]
+                        if (len(data_p)==0):
+                            #print('Nothing to save')
+                            print('')
+                        else:
+                            data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
+                            #print(data_p)
+                    except:
+                        pass
+
+                    try:
+                        data_f = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='fielding',  school=school_name)
+                        if len(data_f) > 0:
+                            data_f.to_csv(f'PlayerStats/Fielding/{season_id}_{player_id}.csv',index=False)
+                    except:
+                        pass
+
+                    time.sleep(4)
 
 def getSeasonGbgStats(season=2020):
     '''

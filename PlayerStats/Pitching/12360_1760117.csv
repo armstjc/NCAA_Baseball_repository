@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/27/2016,home,12360,508,Northwestern St.,9,True,15,5,10,win,15 - 5,293810,664,0,0,0.1,0.0,1,0,0,1,0,0,3,2,0,0,0,0,0,0,0,1,1,0,0,10,0,1,0,0,0,6,0,1760117,2016
-03/01/2016,away,12360,646,South Alabama,9,True,3,9,-6,loss,3 - 9,294720,664,0,0,0.1,0.0,1,0,0,2,0,0,4,2,0,0,0,0,2,0,0,2,2,0,0,13,1,0,0,0,0,5,0,1760117,2016
-04/19/2016,away,12360,718,Tulane,9,True,0,12,-12,loss,0 - 12,307514,664,0,0,0.2,0.0,2,3,0,3,2,0,8,5,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,5,0,1760117,2016
-05/21/2016,away,12360,231,FIU,9,True,8,13,-5,loss,8 - 13,313972,664,0,0,0.1,0.0,1,2,2,3,0,0,5,2,0,0,0,0,2,0,0,0,0,0,0,22,1,0,0,0,0,4,0,1760117,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,1,0,0,1,0,0,3,2,0,0,0,0,0,0,0,1,1,0,0,10,0,1,0,0,0,6,0,02/27/2016,home,12360,508,Northwestern St.,9,True,15,5,10,win,293810,664,1760117,2016
+0,0,0.1,0.0,1,0,0,2,0,0,4,2,0,0,0,0,2,0,0,2,2,0,0,13,1,0,0,0,0,5,0,03/01/2016,away,12360,646,South Alabama,9,True,3,9,-6,loss,294720,664,1760117,2016
+0,0,0.2,0.0,2,3,0,3,2,0,8,5,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,5,0,04/19/2016,away,12360,718,Tulane,9,True,0,12,-12,loss,307514,664,1760117,2016
+0,0,0.1,0.0,1,2,2,3,0,0,5,2,0,0,0,0,2,0,0,0,0,0,0,22,1,0,0,0,0,4,0,05/21/2016,away,12360,231,FIU,9,True,8,13,-5,loss,313972,664,1760117,2016

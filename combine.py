@@ -147,8 +147,10 @@ def splitPitchingStats():
     for i in range(min_season,max_season+1):
         print(f'Creating pitching logs for the {i} season.')
         s_df = df[df['season'] == i]
-        partOne = s_df.sample(frac=0.5)
-        partTwo = s_df.drop(partOne.index)
+        len_s_df = len(s_df)
+        len_s_df = len_s_df // 2
+        partOne = s_df.iloc[:len_s_df,:]
+        partTwo = s_df.iloc[len_s_df:,:]
 
         partOne.to_csv(f'PlayerStats/{i}_pitching_01.csv',index=False)
         partTwo.to_csv(f'PlayerStats/{i}_pitching_02.csv',index=False)

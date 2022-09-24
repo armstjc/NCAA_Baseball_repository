@@ -162,31 +162,42 @@ def getSeasonGbgStats(season=2020):
                 school_name = rost['school'][j]
                 player_name = rost['name'][j]
                 player_id = rost['stats_player_seq'][j]
-                print(f'{count}/{maxRost} {school_name} {season} {player_name}')
-                
-                try:
-                    data_b = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='batting',  school=school_name)
-                    #data_b = data_b[(data_b['AB'] != 0) & (data_b['BB'] != 0)]
-                    if len(data_b) > 0:
-                        data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv',index=False)
-                except:
-                    print(f'Could not get batting stats for {school_name} {season} {player_name}')
+                arr_player_games = rost['games_played'].to_numpy()
 
                 try:
-                    data_p = ncaa.ncaa_player_game_logs( player=player_name,season=season_id, variant='pitching',  school=school_name)
-                    data_p = data_p.loc[data_p['App']>0]
-                    if len(data_p) > 0:
-                        data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
+                    player_games_played = int(arr_player_games[j])
                 except:
-                    print(f'Could not get pitching stats for {school_name} {season} {player_name}')
+                    player_games_played = 0
 
-                try:
-                    data_f = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='fielding',  school=school_name)
-                    if len(data_f) > 0:
-                        data_f.to_csv(f'PlayerStats/Fielding/{season_id}_{player_id}.csv',index=False)
-                except:
-                    print(f'Could not get fielding stats for {school_name} {season} {player_name}')
-                time.sleep(4)
+                if player_games_played == 0:
+                    print('This player did not play in this season.')
+                else:
+
+                    print(f'{count}/{maxRost} {school_name} {season} {player_name}')
+                    
+                    try:
+                        data_b = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='batting',  school=school_name)
+                        #data_b = data_b[(data_b['AB'] != 0) & (data_b['BB'] != 0)]
+                        if len(data_b) > 0:
+                            data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv',index=False)
+                    except:
+                        print(f'Could not get batting stats for {school_name} {season} {player_name}')
+
+                    try:
+                        data_p = ncaa.ncaa_player_game_logs( player=player_name,season=season_id, variant='pitching',  school=school_name)
+                        data_p = data_p.loc[data_p['App']>0]
+                        if len(data_p) > 0:
+                            data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
+                    except:
+                        print(f'Could not get pitching stats for {school_name} {season} {player_name}')
+
+                    try:
+                        data_f = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='fielding',  school=school_name)
+                        if len(data_f) > 0:
+                            data_f.to_csv(f'PlayerStats/Fielding/{season_id}_{player_id}.csv',index=False)
+                    except:
+                        print(f'Could not get fielding stats for {school_name} {season} {player_name}')
+                    time.sleep(4)
 
 
 def main():

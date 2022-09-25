@@ -1,3 +1,3 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/18/2016,home,12360,695,UT Martin,9,True,12,3,9,win,12 - 3,298775,692,0,0,1.0,0.0,0,0,0,2,1,0,5,3,0,0,0,0,0,0,0,0,0,0,0,23,0,2,0,0,0,4,0,1648193,2016
-04/01/2016,home,12360,43,Austin Peay,9,True,2,10,-8,loss,2 - 10,302391,692,0,0,0.0,0.0,1,1,1,1,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,12,0,0,0,0,0,5,0,1648193,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,2,1,0,5,3,0,0,0,0,0,0,0,0,0,0,0,23,0,2,0,0,0,4,0,03/18/2016,home,12360,695,UT Martin,9,True,12,3,9,win,298775,692,1648193,2016
+0,0,0.0,0.0,1,1,1,1,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,12,0,0,0,0,0,5,0,04/01/2016,home,12360,43,Austin Peay,9,True,2,10,-8,loss,302391,692,1648193,2016

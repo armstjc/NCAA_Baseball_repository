@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/19/2016,home,12360,676,SFA,9,True,1,12,-11,loss,1 - 12,292433,702,0,0,1.1,0.0,0,1,0,2,0,0,9,5,0,0,0,0,1,2,0,0,0,0,0,0,2,2,0,0,0,4,0,1658141,2016
-02/27/2016,away,12360,366,Louisiana Tech,9,True,8,12,-4,loss,8 - 12,293816,702,0,0,2.0,0.0,3,4,4,3,0,0,11,6,1,0,0,0,0,1,0,0,0,1,0,36,3,1,0,0,0,3,0,1658141,2016
-03/22/2016,home,12360,51,Baylor,9,True,6,3,3,win,6 - 3,299975,702,0,1,1.2,0.0,0,0,0,2,0,0,7,4,0,0,0,0,0,1,0,0,0,0,0,24,2,2,0,0,0,1,0,1658141,2016
-04/19/2016,away,12360,1045,DBU,9,True,2,13,-11,loss,2 - 13,307711,702,0,0,0.0,0.0,0,2,2,1,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0,6,0,0,0,0,0,5,0,1658141,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,0,1,0,2,0,0,9,5,0,0,0,0,1,2,0,0,0,0,0,0,2,2,0,0,0,4,0,02/19/2016,home,12360,676,SFA,9,True,1,12,-11,loss,292433,702,1658141,2016
+0,0,2.0,0.0,3,4,4,3,0,0,11,6,1,0,0,0,0,1,0,0,0,1,0,36,3,1,0,0,0,3,0,02/27/2016,away,12360,366,Louisiana Tech,9,True,8,12,-4,loss,293816,702,1658141,2016
+0,1,1.2,0.0,0,0,0,2,0,0,7,4,0,0,0,0,0,1,0,0,0,0,0,24,2,2,0,0,0,1,0,03/22/2016,home,12360,51,Baylor,9,True,6,3,3,win,299975,702,1658141,2016
+0,0,0.0,0.0,0,2,2,1,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0,6,0,0,0,0,0,5,0,04/19/2016,away,12360,1045,DBU,9,True,2,13,-11,loss,307711,702,1658141,2016

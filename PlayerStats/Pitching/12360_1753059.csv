@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/29/2016,home,12360,367,Louisville,9,True,0,17,-17,loss,0 - 17,301780,772,0,0,1.1,0.0,3,3,3,2,0,0,8,6,1,0,0,0,0,0,0,2,0,0,0,27,1,2,0,0,0,6,0,1753059,2016
-04/12/2016,away,12360,367,Louisville,9,True,2,14,-12,loss,2 - 14,305369,772,0,0,0.2,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,5,1,0,0,0,0,6,0,1753059,2016
-05/06/2016,away,12360,664,Southern Miss.,9,True,5,12,-7,loss,5 - 12,311620,772,0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,2,2,0,0,17,0,2,0,0,0,6,1,1753059,2016
-05/14/2016,home,12360,388,Marshall,9,True,1,14,-13,loss,1 - 14,313127,772,0,0,0.2,0.0,2,3,2,2,0,0,6,4,2,0,0,0,0,0,0,1,0,0,0,24,1,1,0,0,0,4,0,1753059,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,3,3,3,2,0,0,8,6,1,0,0,0,0,0,0,2,0,0,0,27,1,2,0,0,0,6,0,03/29/2016,home,12360,367,Louisville,9,True,0,17,-17,loss,301780,772,1753059,2016
+0,0,0.2,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,5,1,0,0,0,0,6,0,04/12/2016,away,12360,367,Louisville,9,True,2,14,-12,loss,305369,772,1753059,2016
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,2,2,0,0,17,0,2,0,0,0,6,1,05/06/2016,away,12360,664,Southern Miss.,9,True,5,12,-7,loss,311620,772,1753059,2016
+0,0,0.2,0.0,2,3,2,2,0,0,6,4,2,0,0,0,0,0,0,1,0,0,0,24,1,1,0,0,0,4,0,05/14/2016,home,12360,388,Marshall,9,True,1,14,-13,loss,313127,772,1753059,2016

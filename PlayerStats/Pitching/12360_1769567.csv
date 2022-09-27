@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/21/2016,away,12360,255,Georgia Tech,9,True,1,9,-8,loss,1 - 9,293215,740,0,1,4.0,0.0,9,4,4,0,3,0,20,20,1,0,0,0,2,0,0,0,0,0,0,52,4,4,0,1,0,1,0,1769567,2016
-02/28/2016,away,12360,460,UNCW,9,True,4,11,-7,loss,4 - 11,294315,740,0,1,3.0,0.0,4,4,3,2,1,0,14,10,0,0,0,0,0,0,0,0,0,0,2,45,2,4,0,0,0,1,0,1769567,2016
-03/06/2016,home,12360,386,Marist,13,True,7,6,1,win,7 - 6,295934,740,0,0,0.2,0.0,3,3,1,1,1,0,7,6,1,0,0,0,0,0,0,0,0,0,0,39,0,1,0,0,0,2,1,1769567,2016
-03/16/2016,home,12360,439,Monmouth,9,True,4,12,-8,loss,4 - 12,298458,740,0,1,3.2,0.0,5,6,6,3,4,0,20,14,3,0,0,0,1,1,0,0,0,1,1,0,2,5,0,1,0,1,2,1769567,2016
-03/30/2016,home,12360,392,Maryland,9,True,1,7,-6,loss,1 - 7,302128,740,0,0,2.0,0.0,3,1,1,1,2,0,10,9,1,0,0,0,2,0,0,0,0,0,0,43,3,1,0,0,0,5,2,1769567,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,0.0,9,4,4,0,3,0,20,20,1,0,0,0,2,0,0,0,0,0,0,52,4,4,0,1,0,1,0,02/21/2016,away,12360,255,Georgia Tech,9,True,1,9,-8,loss,293215,740,1769567,2016
+0,1,3.0,0.0,4,4,3,2,1,0,14,10,0,0,0,0,0,0,0,0,0,0,2,45,2,4,0,0,0,1,0,02/28/2016,away,12360,460,UNCW,9,True,4,11,-7,loss,294315,740,1769567,2016
+0,0,0.2,0.0,3,3,1,1,1,0,7,6,1,0,0,0,0,0,0,0,0,0,0,39,0,1,0,0,0,2,1,03/06/2016,home,12360,386,Marist,13,True,7,6,1,win,295934,740,1769567,2016
+0,1,3.2,0.0,5,6,6,3,4,0,20,14,3,0,0,0,1,1,0,0,0,1,1,0,2,5,0,1,0,1,2,03/16/2016,home,12360,439,Monmouth,9,True,4,12,-8,loss,298458,740,1769567,2016
+0,0,2.0,0.0,3,1,1,1,2,0,10,9,1,0,0,0,2,0,0,0,0,0,0,43,3,1,0,0,0,5,2,03/30/2016,home,12360,392,Maryland,9,True,1,7,-6,loss,302128,740,1769567,2016

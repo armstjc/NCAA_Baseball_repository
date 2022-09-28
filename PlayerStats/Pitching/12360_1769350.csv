@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-04/16/2016,home,12360,503,NIU,9,True,3,17,-14,loss,3 - 17,306295,774,0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,7,1,1769350,2016
-04/17/2016,home,12360,503,NIU,9,True,15,12,3,win,15 - 12,307053,774,0,0,1.1,0.0,1,2,2,1,0,0,7,5,0,0,0,0,0,1,0,3,0,0,0,0,2,2,0,0,0,3,0,1769350,2016
-05/07/2016,away,12360,414,Miami (OH),9,True,6,11,-5,loss,6 - 11,311970,774,0,0,0.2,0.0,2,2,2,1,0,0,5,4,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,1769350,2016
-05/11/2016,away,12360,514,Oakland,9,True,4,9,-5,loss,4 - 9,312720,774,0,0,0.1,0.0,0,0,0,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,3,0,1769350,2016
-05/20/2016,away,12360,129,Central Mich.,9,True,1,8,-7,loss,1 - 8,313825,774,0,0,0.2,0.0,1,1,1,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,3,0,1769350,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,7,1,04/16/2016,home,12360,503,NIU,9,True,3,17,-14,loss,306295,774,1769350,2016
+0,0,1.1,0.0,1,2,2,1,0,0,7,5,0,0,0,0,0,1,0,3,0,0,0,0,2,2,0,0,0,3,0,04/17/2016,home,12360,503,NIU,9,True,15,12,3,win,307053,774,1769350,2016
+0,0,0.2,0.0,2,2,2,1,0,0,5,4,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,05/07/2016,away,12360,414,Miami (OH),9,True,6,11,-5,loss,311970,774,1769350,2016
+0,0,0.1,0.0,0,0,0,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,3,0,05/11/2016,away,12360,514,Oakland,9,True,4,9,-5,loss,312720,774,1769350,2016
+0,0,0.2,0.0,1,1,1,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,3,0,05/20/2016,away,12360,129,Central Mich.,9,True,1,8,-7,loss,313825,774,1769350,2016

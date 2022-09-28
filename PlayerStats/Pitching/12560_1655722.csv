@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/25/2017,home,12560,162,Concordia (NY),9,True,18,0,18,win,18 - 0,207626,410,0,0,1.0,0.0,1,0,0,1,3,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1655722,2017
-02/26/2017,home,12560,8956,Dominican (NY),9,True,1,21,-20,loss,1 - 21,207860,410,0,0,0.1,0.0,3,2,1,0,0,0,5,5,1,0,0,0,0,0,0,3,3,0,0,0,0,1,0,0,0,4,0,1655722,2017
-03/26/2017,home,12560,22,American Int'l,9,True,8,1,7,win,8 - 1,214683,410,0,0,1.0,0.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,1655722,2017
-04/22/2017,home,12560,613,Saint Michael's,9,True,12,3,9,win,12 - 3,221579,410,0,0,1.0,0.0,2,2,0,1,1,0,8,6,0,0,0,0,0,1,0,0,0,0,0,22,1,1,0,0,0,2,0,1655722,2017
-04/28/2017,home,12560,36,Assumption,9,True,16,1,15,win,16 - 1,223088,410,0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,17,2,1,0,0,0,4,0,1655722,2017
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,1,3,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,02/25/2017,neutral,12560,162,Concordia (NY),9,True,18,0,18,win,207626,410,1655722,2017
+0,0,0.1,0.0,3,2,1,0,0,0,5,5,1,0,0,0,0,0,0,3,3,0,0,0,0,1,0,0,0,4,0,02/26/2017,neutral,12560,8956,Dominican (NY),9,True,1,21,-20,loss,207860,410,1655722,2017
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,03/26/2017,neutral,12560,22,American Int'l,9,True,8,1,7,win,214683,410,1655722,2017
+0,0,1.0,0.0,2,2,0,1,1,0,8,6,0,0,0,0,0,1,0,0,0,0,0,22,1,1,0,0,0,2,0,04/22/2017,home,12560,613,Saint Michael's,9,True,12,3,9,win,221579,410,1655722,2017
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,17,2,1,0,0,0,4,0,04/28/2017,home,12560,36,Assumption,9,True,16,1,15,win,223088,410,1655722,2017

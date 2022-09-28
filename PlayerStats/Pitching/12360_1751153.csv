@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/25/2016,away,12360,95,Chico St.,9,True,0,7,-7,loss,0 - 7,300643,112,0,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,1751153,2016
-04/02/2016,home,12360,103,Stanislaus St.,10,True,11,10,1,win,11 - 10,303101,112,0,0,1.2,0.0,2,1,0,2,0,0,9,6,0,0,0,0,0,0,0,0,0,1,0,30,5,0,0,0,0,4,0,1751153,2016
-04/10/2016,away,12360,645,Sonoma St.,9,True,3,2,1,win,3 - 2,305100,112,0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,3,1,0,0,0,0,4,0,1751153,2016
-04/16/2016,home,12360,628,San Fran. St.,9,True,8,7,1,win,8 - 7,307000,112,0,0,0.2,0.0,2,0,0,1,0,0,5,3,0,0,0,0,0,1,0,0,0,0,0,14,1,0,0,0,0,2,0,1751153,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,03/25/2016,away,12360,95,Chico St.,9,True,0,7,-7,loss,300643,112,1751153,2016
+0,0,1.2,0.0,2,1,0,2,0,0,9,6,0,0,0,0,0,0,0,0,0,1,0,30,5,0,0,0,0,4,0,04/02/2016,home,12360,103,Stanislaus St.,10,True,11,10,1,win,303101,112,1751153,2016
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,3,1,0,0,0,0,4,0,04/10/2016,away,12360,645,Sonoma St.,9,True,3,2,1,win,305100,112,1751153,2016
+0,0,0.2,0.0,2,0,0,1,0,0,5,3,0,0,0,0,0,1,0,0,0,0,0,14,1,0,0,0,0,2,0,04/16/2016,home,12360,628,San Fran. St.,9,True,8,7,1,win,307000,112,1751153,2016

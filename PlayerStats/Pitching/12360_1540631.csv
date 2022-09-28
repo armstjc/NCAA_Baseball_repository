@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/28/2016,away,12360,406,Mercer,9,True,14,18,-4,loss,14 - 18,294633,812,0,0,1.1,0.0,0,0,0,3,3,0,7,4,0,0,0,0,0,0,0,2,0,0,0,34,0,1,0,0,0,5,3,1540631,2016
-03/15/2016,away,12360,367,Louisville,9,True,1,11,-10,loss,1 - 11,298144,812,0,0,1.0,0.0,2,2,2,3,0,0,7,4,0,0,0,0,1,0,0,2,2,0,0,23,1,1,0,0,0,4,0,1540631,2016
-04/01/2016,away,12360,299,Illinois St.,9,True,12,1,11,win,12 - 1,302399,812,0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,4,1,1540631,2016
-04/20/2016,home,12360,306,Indiana,9,True,0,8,-8,loss,0 - 8,307822,812,0,0,1.0,0.0,2,1,1,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,5,0,1540631,2016
-05/07/2016,away,12360,635,Seton Hall,9,True,10,6,4,win,10 - 6,312113,812,0,0,0.2,0.0,0,3,2,2,0,0,6,2,0,0,0,0,0,2,0,0,0,0,0,22,2,0,0,0,0,2,0,1540631,2016
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,0,0,0,3,3,0,7,4,0,0,0,0,0,0,0,2,0,0,0,34,0,1,0,0,0,5,3,02/28/2016,away,12360,406,Mercer,9,True,14,18,-4,loss,294633,812,1540631,2016
+0,0,1.0,0.0,2,2,2,3,0,0,7,4,0,0,0,0,1,0,0,2,2,0,0,23,1,1,0,0,0,4,0,03/15/2016,away,12360,367,Louisville,9,True,1,11,-10,loss,298144,812,1540631,2016
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,4,1,04/01/2016,away,12360,299,Illinois St.,9,True,12,1,11,win,302399,812,1540631,2016
+0,0,1.0,0.0,2,1,1,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,5,0,04/20/2016,home,12360,306,Indiana,9,True,0,8,-8,loss,307822,812,1540631,2016
+0,0,0.2,0.0,0,3,2,2,0,0,6,2,0,0,0,0,0,2,0,0,0,0,0,22,2,0,0,0,0,2,0,05/07/2016,away,12360,635,Seton Hall,9,True,10,6,4,win,312113,812,1540631,2016

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,2,2,2,0,0,7,3,0,0,0,0,1,1,0,0,0,0,1,0,1,2,0,0,0,2,0,02/05/2016,home,12360,929,Adams St.,9,True,7,6,1,win,291646,30177,1654209,2016
+0,0,1.0,0.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,5,0,02/06/2016,home,12360,929,Adams St.,9,True,20,4,16,win,291713,30177,1654209,2016
+0,0,0.0,0.0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2,0,02/27/2016,away,12360,2720,CSU Pueblo,9,True,7,15,-8,loss,294006,30177,1654209,2016
+0,0,1.0,0.0,3,3,3,0,0,0,6,4,1,0,0,1,0,0,0,0,0,1,1,0,1,2,1,0,0,2,0,05/07/2016,home,12360,30088,Tex. Permian Basin,9,True,12,9,3,win,311919,30177,1654209,2016

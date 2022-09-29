@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.1,0.0,2,3,2,1,4,0,15,12,0,0,0,1,0,1,0,0,0,1,0,0,2,4,0,1,0,2,2,02/05/2016,away,12360,1167,Lander,9,True,3,8,-5,loss,291638,9223,1767455,2016
+0,0,2.0,0.0,4,4,2,1,1,0,12,9,1,0,0,0,0,0,0,0,0,2,0,41,5,0,0,0,0,2,0,02/09/2016,away,12360,1257,Newberry,9,True,3,6,-3,loss,291954,9223,1767455,2016
+0,0,3.0,0.0,1,0,0,1,2,0,11,10,0,0,0,0,0,0,0,0,0,0,0,0,4,3,1,0,0,2,1,03/01/2016,home,12360,0,Montreat,9,True,9,0,9,win,294728,9223,1767455,2016
+0,0,2.0,0.0,9,5,5,0,3,0,15,14,1,0,0,0,1,0,0,0,0,0,1,0,0,3,0,0,0,2,0,03/07/2016,away,12360,13028,Anderson (SC),9,True,3,10,-7,loss,296171,9223,1767455,2016

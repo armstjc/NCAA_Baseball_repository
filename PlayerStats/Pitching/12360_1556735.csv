@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.0,0.0,7,8,6,2,1,0,16,14,2,0,0,0,0,0,0,0,0,0,0,60,2,3,0,1,0,1,0,02/14/2016,away,12360,1462,Wingate,9,True,3,10,-7,loss,292317,643,1556735,2016
+0,1,8.1,0.0,9,3,2,2,3,0,36,34,3,0,0,0,0,0,0,0,0,0,0,122,15,4,1,0,0,1,1,03/07/2016,neutral,12360,35,Ashland,9,True,7,3,4,win,296189,643,1556735,2016
+0,0,1.1,0.0,5,7,5,2,2,0,11,9,1,0,0,1,2,0,0,1,1,0,0,47,1,0,0,1,0,2,1,03/20/2016,home,12360,546,Pitt.-Johnstown,9,True,4,12,-8,loss,299859,643,1556735,2016
+0,0,2.2,0.0,2,2,2,1,2,0,11,9,0,0,0,0,1,0,0,2,1,0,1,0,2,4,0,1,0,3,2,04/02/2016,home,12360,307,Indiana (PA),9,True,10,11,-1,loss,302923,643,1556735,2016
+0,1,6.1,0.0,9,5,1,2,6,0,33,29,2,0,0,0,0,0,0,0,0,1,1,104,6,6,0,1,0,1,1,04/19/2016,home,12360,10870,Shepherd,9,True,3,5,-2,loss,307727,643,1556735,2016

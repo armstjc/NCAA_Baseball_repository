@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,1,0,0,0,2,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,3,2,02/03/2017,home,12560,1071,Emporia St.,9,True,0,8,-8,loss,205052,2720,1756149,2017
+0,0,1.0,0.0,3,2,2,0,2,0,7,7,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,2,1,02/10/2017,home,12560,9754,UC-Colo. Springs,9,True,8,10,-2,loss,205433,2720,1756149,2017
+0,0,2.0,0.0,3,4,4,2,0,0,11,8,2,0,0,0,0,0,0,0,0,0,1,0,2,4,0,0,0,3,0,02/19/2017,home,12560,568,Regis (CO),9,True,1,10,-9,loss,206629,2720,1756149,2017
+0,0,0.2,0.0,2,4,2,1,0,0,8,5,1,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,2,0,03/03/2017,home,12560,413,MSU Denver,9,True,19,6,13,win,208301,2720,1756149,2017

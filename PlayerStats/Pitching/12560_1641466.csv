@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,1,1,1,2,0,7,3,0,0,0,0,0,3,0,0,0,0,0,27,1,0,0,0,0,3,1,03/13/2017,away,12560,30152,Southern Nazarene,9,True,12,5,7,win,211173,1376,1641466,2017
+0,0,1.0,0.0,1,0,0,1,2,0,5,4,1,0,0,0,0,0,0,0,0,0,0,19,0,1,0,0,0,3,0,04/17/2017,home,12560,0,Tex. A&M-Texarkana,9,True,11,3,8,win,220547,1376,1641466,2017
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,3,0,0,0,0,2,0,04/28/2017,home,12560,8411,Ark.-Monticello,9,True,14,2,12,win,223448,1376,1641466,2017
+0,0,0.0,0.0,3,6,6,2,0,0,6,3,0,0,0,2,0,1,0,1,1,0,0,25,0,0,0,0,0,3,0,04/29/2017,home,12560,8411,Ark.-Monticello,9,True,4,15,-11,loss,223934,1376,1641466,2017
+0,0,0.2,0.0,2,0,0,0,2,0,4,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,4,1,05/11/2017,home,12560,1123,Henderson St.,9,True,5,13,-8,loss,225926,1376,1641466,2017

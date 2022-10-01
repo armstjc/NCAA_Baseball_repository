@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,2,03/08/2016,home,12360,2683,Belmont Abbey,9,True,6,8,-2,loss,296295,1170,1535727,2016
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,18,0,2,0,0,0,5,1,03/15/2016,neutral,12360,1028,Concord,10,True,5,1,4,win,298316,1170,1535727,2016
+0,1,1.1,0.0,4,5,5,3,1,0,11,7,2,0,0,0,0,0,0,0,0,0,1,0,2,1,0,1,0,1,1,04/02/2016,home,12360,1023,Coker,9,True,6,15,-9,loss,302847,1170,1535727,2016
+0,0,1.0,0.0,1,0,0,2,0,0,6,4,1,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,1,4,0,04/11/2016,away,12360,1176,Lincoln Memorial,9,True,6,5,1,win,305270,1170,1535727,2016
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,5,0,04/24/2016,home,12360,13028,Anderson (SC),9,True,5,4,1,win,309445,1170,1535727,2016

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,0,0,0,2,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,03/02/2016,home,12360,0,Concordia (AL),9,True,13,2,11,win,294922,422,1428214,2016
+0,1,7.0,1,11,5,2,1,3,0,33,31,0,0,0,0,0,0,0,0,0,1,0,0,7,8,1,0,0,1,1,03/09/2016,away,12360,0,Tougaloo,9,True,6,5,1,win,296687,422,1428214,2016
+0,0,3.2,0.0,2,0,0,0,0,0,15,14,0,0,0,0,0,1,0,0,0,0,0,0,6,5,1,0,0,3,0,04/24/2016,away,12360,55,Benedict,9,True,14,7,7,win,309487,422,1428214,2016

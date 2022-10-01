@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,2,0,0,1,3,0,9,8,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,3,0,02/02/2016,neutral,12360,15646,Barton,9,True,5,2,3,win,291623,1170,1762997,2016
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,1,02/07/2016,home,12360,1098,Glenville St.,9,True,10,2,8,win,291876,1170,1762997,2016
+0,0,3.1,0.0,4,2,2,0,0,0,15,14,2,0,0,0,0,1,0,0,0,0,0,0,5,5,0,0,0,3,0,02/13/2016,away,12360,30193,Emmanuel (GA),9,True,8,5,3,win,292257,1170,1762997,2016
+0,0,0.1,0.0,1,1,0,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,02/20/2016,home,12360,0,West Va. Tech,9,True,3,4,-1,loss,292787,1170,1762997,2016
+0,0,1.2,0.0,0,0,0,1,3,0,7,5,0,0,0,0,0,1,0,2,0,0,0,0,1,1,1,0,0,2,1,02/21/2016,home,12360,0,West Va. Tech,9,True,25,2,23,win,293131,1170,1762997,2016

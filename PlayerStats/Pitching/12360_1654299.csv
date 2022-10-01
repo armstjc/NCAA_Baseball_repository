@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,0,0,0,0,1,0,5,5,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,0,4,0,03/23/2016,home,12360,358,West Ala.,9,True,6,16,-10,loss,300289,422,1654299,2016
+0,1,7.0,1,12,5,3,7,2,0,38,29,1,0,0,0,0,0,0,0,0,2,0,0,9,6,1,0,0,1,1,03/30/2016,away,12360,0,Concordia (AL),9,True,18,5,13,win,302179,422,1654299,2016
+0,1,1.0,0.0,2,3,3,3,0,0,8,5,0,0,0,0,1,0,0,0,0,0,0,27,1,2,0,0,0,1,0,04/20/2016,away,12360,766,West Ga.,9,True,5,9,-4,loss,307837,422,1654299,2016

@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,0.0,8,2,2,0,3,0,19,19,0,0,0,0,1,0,0,0,0,0,0,0,4,4,1,0,0,1,2,03/08/2016,home,12360,356,Lincoln (MO),9,True,12,3,9,win,296413,561,1763372,2016
+0,0,2.0,0.0,2,3,2,1,1,0,11,7,1,0,0,0,0,2,0,0,0,0,1,0,2,3,0,0,0,2,1,03/30/2016,home,12360,0,Harris-Stowe,9,True,14,5,9,win,302161,561,1763372,2016
+0,0,1.0,0.0,3,4,4,1,0,0,7,6,0,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,0,2,0,04/09/2016,away,12360,436,Mo.-St. Louis,9,True,17,6,11,win,304567,561,1763372,2016
+0,0,4.0,0.0,1,0,0,2,2,0,14,12,1,0,0,0,0,0,0,0,0,0,0,57,6,3,0,0,0,2,1,05/03/2016,away,12360,507,Northwest Mo. St.,9,True,11,8,3,win,311382,561,1763372,2016
+0,0,2.0,0.0,0,0,0,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,28,2,3,0,0,0,4,0,05/07/2016,away,12360,30120,William Jewell,9,True,9,11,-2,loss,312211,561,1763372,2016
+0,0,2.0,0.0,2,0,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,17,3,1,0,0,0,2,0,05/19/2016,home,12360,934,Alderson Broaddus,9,True,20,0,20,win,313677,561,1763372,2016

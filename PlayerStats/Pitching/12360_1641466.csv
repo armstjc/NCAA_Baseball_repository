@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,3,1,1,0,5,0,13,11,2,0,0,0,0,1,0,0,0,0,1,43,2,2,0,0,1,2,3,02/06/2016,neutral,12360,8965,East Central,9,True,7,1,6,win,291845,1376,1641466,2016
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,2,1,0,0,0,5,0,02/14/2016,home,12360,2814,Washburn,9,True,5,13,-8,loss,292289,1376,1641466,2016
+0,0,1.1,0.0,2,2,2,1,0,0,7,6,1,0,0,0,0,0,0,0,0,0,0,24,3,1,0,0,0,2,0,02/16/2016,home,12360,429,Mississippi Col.,9,True,7,6,1,win,292360,1376,1641466,2016
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,2,0,04/09/2016,home,12360,947,Arkansas Tech,9,True,17,3,14,win,304479,1376,1641466,2016
+0,0,3.0,0.0,4,3,3,0,1,0,15,15,0,0,0,3,0,0,0,0,0,0,0,0,2,5,0,0,1,2,1,04/23/2016,away,12360,8965,East Central,9,True,10,3,7,win,308472,1376,1641466,2016

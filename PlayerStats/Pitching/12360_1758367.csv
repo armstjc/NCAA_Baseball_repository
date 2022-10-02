@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,4,0,03/19/2016,away,12360,1314,Pittsburg St.,9,True,13,1,12,win,299090,2814,1758367,2016
+0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,04/22/2016,away,12360,356,Lincoln (MO),9,True,20,3,17,win,308069,2814,1758367,2016

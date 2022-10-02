@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,02/01/2017,home,12560,594,Saint Augustine's,9,True,9,3,6,win,205011,15646,1863550,2017
+0,0,1.0,0.0,1,2,1,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,02/18/2017,home,12560,8366,Goldey-Beacom,9,True,21,3,18,win,206127,15646,1863550,2017
+0,0,1.0,0.0,4,2,2,0,0,0,7,6,0,0,0,0,1,0,0,0,0,0,1,0,0,3,0,0,0,7,0,02/28/2017,home,12560,1023,Coker,9,True,5,22,-17,loss,208026,15646,1863550,2017

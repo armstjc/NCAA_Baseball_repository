@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.2,0.0,7,6,6,5,1,0,25,19,3,0,0,1,2,0,0,0,0,0,1,0,6,6,0,1,0,1,0,02/06/2016,away,12360,30052,North Georgia,9,True,4,8,-4,loss,291724,1000,1766484,2016
+0,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,2,1,03/19/2016,away,12360,1462,Wingate,9,True,10,5,5,win,299302,1000,1766484,2016
+0,0,2.2,0.0,7,5,5,1,2,0,16,13,1,0,0,0,0,0,0,0,0,2,0,50,4,2,0,0,0,2,0,03/22/2016,away,12360,30181,UVA Wise,9,True,4,10,-6,loss,300079,1000,1766484,2016

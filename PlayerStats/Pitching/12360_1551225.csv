@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,2,1,0,1,0,0,5,4,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,4,0,02/28/2016,neutral,12360,2746,Lake Erie,9,True,8,9,-1,loss,294548,1328,1551225,2016
+0,0,2.1,0.0,4,3,3,1,0,0,13,11,0,1,0,0,0,1,0,0,0,0,0,0,1,6,0,0,0,2,0,03/12/2016,neutral,12360,30124,Cedarville,9,True,11,10,1,win,297488,1328,1551225,2016
+0,0,2.0,0.0,4,4,4,0,0,0,11,8,2,1,0,0,0,2,0,1,1,1,0,0,3,2,0,0,0,3,0,03/15/2016,neutral,12360,757,Wayne St. (MI),9,True,10,18,-8,loss,298288,1328,1551225,2016
+0,0,2.2,0.0,2,1,1,0,0,0,9,8,0,0,0,0,0,0,0,2,0,1,0,0,5,2,0,1,0,2,0,03/19/2016,neutral,12360,30050,Ill. Springfield,9,True,4,5,-1,loss,299392,1328,1551225,2016
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,03/22/2016,neutral,12360,799,Wis.-Parkside,9,True,13,2,11,win,300217,1328,1551225,2016

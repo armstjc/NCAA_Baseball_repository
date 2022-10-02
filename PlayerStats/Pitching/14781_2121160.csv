@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,1,0,2,1,0,7,4,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,3,1,02/28/2019,neutral,14781,30028,UT Tyler,9,True,11,3,8,win,1649751,30221,2121160,2019
+1,0,0.2,0.0,0,0,0,3,0,0,5,2,0,0,0,0,2,0,0,0,0,0,0,26,1,1,1,0,0,5,0,03/10/2019,neutral,14781,280,Hillsdale,9,True,9,7,2,win,1717700,30221,2121160,2019
+1,0,2.0,0.0,0,0,0,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,21,3,2,0,0,0,2,0,04/06/2019,away,14781,262,Grand Valley St.,9,True,9,2,7,win,1657925,30221,2121160,2019
+1,0,1.0,0.0,1,0,0,2,3,0,6,4,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,2,1,04/09/2019,away,14781,0,Aquinas,9,True,6,4,2,win,1658638,30221,2121160,2019
+1,0,1.0,0.0,1,1,1,2,1,0,6,4,0,0,0,0,1,0,0,0,0,0,0,28,2,0,0,0,0,3,1,04/12/2019,home,14781,30222,Purdue Northwest,9,True,16,7,9,win,1724644,30221,2121160,2019

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,03/16/2016,home,12360,182,Denison,9,True,10,5,5,win,298409,30028,1782601,2016
+0,0,0.2,0.0,2,1,1,0,0,0,4,3,1,0,0,0,0,0,0,2,2,0,1,10,1,1,0,0,0,4,0,04/09/2016,away,12360,30197,Belhaven,9,True,6,19,-13,loss,304751,30028,1782601,2016
+0,1,4.0,0.0,6,3,2,2,0,0,18,16,0,1,0,0,1,0,0,0,0,0,0,0,5,4,0,0,0,1,0,04/25/2016,away,12360,8746,Southwestern (TX),10,True,5,6,-1,loss,309534,30028,1782601,2016
+0,0,1.1,0.0,5,1,1,0,0,0,8,8,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,4,0,05/20/2016,neutral,12360,715,Trinity (TX),9,True,2,14,-12,loss,313897,30028,1782601,2016

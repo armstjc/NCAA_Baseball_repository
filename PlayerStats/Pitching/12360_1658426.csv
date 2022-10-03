@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,2,0,1,0,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,03/13/2016,home,12360,307,Indiana (PA),9,True,13,6,7,win,297860,197,1658426,2016
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,1,4,0,04/10/2016,home,12360,638,Shippensburg,9,True,11,8,3,win,305088,197,1658426,2016
+0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,2,0,0,0,17,1,0,0,0,1,2,0,05/21/2016,neutral,12360,30063,Seton Hill,9,True,3,0,3,win,314109,197,1658426,2016

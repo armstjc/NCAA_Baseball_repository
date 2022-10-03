@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,1,1,0,2,1,0,4,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,03/26/2016,home,12360,280,Hillsdale,9,True,10,20,-10,loss,301205,757,1426851,2016
+0,0,0.0,0.0,5,4,3,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,2,0,04/02/2016,away,12360,30119,Ohio Dominican,9,True,17,9,8,win,302907,757,1426851,2016
+0,0,0.0,0.0,2,5,5,2,0,0,5,1,1,0,0,0,0,1,0,0,0,1,0,16,0,0,0,1,0,2,0,05/08/2016,home,12360,30137,Malone,9,True,2,6,-4,loss,312492,757,1426851,2016

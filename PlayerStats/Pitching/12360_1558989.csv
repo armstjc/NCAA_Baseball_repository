@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,1,2,2,1,0,0,2,1,0,0,0,0,1,0,0,1,1,0,0,7,0,0,0,0,0,5,0,03/06/2016,home,12360,435,Missouri S&T,9,True,17,14,3,win,295893,30138,1558989,2016
+0,0,0.0,0.0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,4,0,0,0,0,0,4,0,03/11/2016,home,12360,30120,William Jewell,9,True,0,7,-7,loss,297118,30138,1558989,2016
+0,0,0.2,0.0,2,2,1,1,0,0,5,3,0,0,0,0,0,0,0,1,1,1,0,19,2,0,0,0,0,3,0,03/14/2016,home,12360,0,Robert Morris (IL),9,True,2,7,-5,loss,298119,30138,1558989,2016
+0,0,0.0,0.0,2,1,1,0,0,0,2,2,0,0,0,1,0,0,0,3,3,0,0,5,0,0,0,0,0,5,0,04/09/2016,home,12360,309,UIndy,9,True,7,13,-6,loss,304633,30138,1558989,2016
+0,0,1.0,0.0,5,4,4,0,0,0,7,7,2,0,0,1,0,0,0,0,0,0,0,17,0,2,0,0,0,3,0,04/17/2016,home,12360,661,Southern Ind.,9,True,1,13,-12,loss,307241,30138,1558989,2016

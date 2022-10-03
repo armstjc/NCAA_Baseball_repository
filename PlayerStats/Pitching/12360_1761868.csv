@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,1,0,5,3,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,2,0,02/05/2016,home,12360,0,La Sierra,9,True,19,1,18,win,291687,30198,1761868,2016
+0,0,0.2,0.0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,4,0,02/19/2016,home,12360,0,La Sierra,9,True,13,5,8,win,292596,30198,1761868,2016
+0,0,0.1,0.0,0,0,0,1,0,0,4,1,0,0,0,0,1,1,0,1,1,0,1,9,0,1,0,0,0,4,0,02/27/2016,home,12360,100,Cal State LA,9,True,6,8,-2,loss,293871,30198,1761868,2016
+0,0,0.1,0.0,0,2,2,3,0,0,4,1,0,0,0,0,3,0,0,3,0,0,0,16,0,1,0,0,0,4,0,02/28/2016,away,12360,100,Cal State LA,9,True,0,8,-8,loss,294464,30198,1761868,2016
+0,0,1.0,0.0,1,1,1,1,1,0,6,4,0,0,0,0,0,1,0,1,1,0,0,15,2,0,0,0,0,10,0,03/11/2016,home,12360,91,Cal Poly Pomona,9,True,11,17,-6,loss,296933,30198,1761868,2016

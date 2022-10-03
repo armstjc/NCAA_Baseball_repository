@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,8,1,1,0,0,0,5,0,03/05/2017,home,12560,280,Hillsdale,9,True,7,8,-1,loss,209184,30138,1887564,2017
+0,0,0.1,0.0,0,1,0,2,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,03/18/2017,away,12560,1328,Rockhurst,9,True,5,10,-5,loss,212043,30138,1887564,2017
+0,0,1.0,0.0,2,4,4,2,0,0,7,4,0,0,0,1,0,0,0,0,0,1,0,17,1,2,0,0,0,4,0,03/24/2017,home,12560,30050,Ill. Springfield,9,True,6,11,-5,loss,213703,30138,1887564,2017
+0,0,1.0,0.0,1,1,1,1,1,0,4,3,0,0,0,1,0,0,0,0,0,0,0,13,1,0,0,0,0,4,0,04/23/2017,home,12560,604,St. Joseph's (IN),9,True,4,9,-5,loss,222352,30138,1887564,2017

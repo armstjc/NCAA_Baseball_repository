@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,2,1,1,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,20,1,3,0,0,0,5,1,02/04/2017,home,12560,30146,Azusa Pacific,9,True,6,8,-2,loss,205120,30055,1876721,2017
+0,0,1.0,0.0,2,2,2,2,0,0,7,4,0,0,0,0,0,0,0,0,0,0,1,27,2,1,0,0,0,3,0,02/11/2017,home,12560,30200,Concordia Portland,9,True,15,4,11,win,205604,30055,1876721,2017
+0,0,1.2,0.0,1,0,0,1,2,0,8,7,0,0,0,0,0,0,0,3,2,0,0,30,2,1,0,0,0,5,1,03/07/2017,away,12560,30147,Fresno Pacific,9,True,2,7,-5,loss,209540,30055,1876721,2017
+0,0,0.1,0.0,0,3,1,2,1,0,4,1,0,0,0,0,1,0,0,0,0,1,0,19,0,0,0,1,0,2,0,03/12/2017,away,12560,112,UC San Diego,9,True,1,10,-9,loss,210885,30055,1876721,2017
+0,0,0.2,0.0,2,2,2,0,0,0,5,4,1,0,0,0,0,1,0,0,0,0,0,24,1,1,0,0,0,4,0,04/04/2017,home,12560,30147,Fresno Pacific,9,True,9,4,5,win,216733,30055,1876721,2017

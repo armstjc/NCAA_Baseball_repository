@@ -1,0 +1,49 @@
+# This workflow will install Python dependencies, run tests and lint with a variety of Python versions
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Update Stat Files
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.10"]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        #python -m pip install pybaseball
+        python -m pip install pandas
+        #python -m pip install requests
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: runPythonScript
+      run: |
+        python combine.py
+    - name: commit files
+      run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update stat files" -a
+          
+    - name: push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main

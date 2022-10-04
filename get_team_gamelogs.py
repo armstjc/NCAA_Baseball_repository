@@ -44,11 +44,12 @@ def download_gamelogs():
 
 def main():
     print('Starting Up')
-    arr = getSchoolList()
-    for s in tqdm(range(0,len(arr))):
-        i = arr[s]
-        print(i)
-        getTeamGameResults(i)
+    download_gamelogs()
+    # arr = getSchoolList()
+    # for s in tqdm(range(0,len(arr))):
+    #     i = arr[s]
+    #     print(i)
+    #     getTeamGameResults(i)
 
 if __name__ == "__main__":
     main()

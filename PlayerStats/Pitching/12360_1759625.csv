@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,1,0,0,0,3,0,6,6,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,3,1,03/02/2016,neutral,12360,9630,West Va. Wesleyan,9,True,5,10,-5,loss,294911,354,1759625,2016
+0,0,2.2,0.0,1,0,0,1,3,0,11,9,1,0,0,0,0,0,0,2,2,0,1,54,0,5,0,0,0,3,0,04/02/2016,away,12360,309,UIndy,9,True,9,17,-8,loss,302755,354,1759625,2016
+0,0,0.0,0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,04/08/2016,home,12360,30050,Ill. Springfield,9,True,9,7,2,win,304221,354,1759625,2016
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,6,1,0,0,0,0,7,0,04/14/2016,home,12360,0,St. Xavier,9,True,6,8,-2,loss,305874,354,1759625,2016
+0,0,0.1,0.0,0,3,3,3,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,19,0,1,0,0,0,5,0,04/17/2016,home,12360,604,St. Joseph's (IN),9,True,8,16,-8,loss,307315,354,1759625,2016
+0,0,0.2,0.0,2,2,2,2,0,0,6,3,0,0,0,0,1,0,0,2,2,0,1,25,0,2,0,0,0,7,0,05/06/2016,home,12360,52,Bellarmine,9,True,9,16,-7,loss,311838,354,1759625,2016

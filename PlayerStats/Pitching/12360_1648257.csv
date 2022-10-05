@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.2,0.0,3,4,3,3,2,0,16,10,2,0,0,0,1,1,0,1,0,0,2,74,2,4,0,0,0,4,0,02/18/2016,away,12360,98,Cal St. East Bay,9,True,4,17,-13,loss,292408,30147,1648257,2016
+0,0,0.0,0.0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,3,2,0,0,12,0,0,0,0,0,5,0,03/24/2016,home,12360,2697,Hawaii Hilo,9,True,4,13,-9,loss,300522,30147,1648257,2016
+0,0,0.2,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,15,1,1,0,0,0,4,0,04/13/2016,away,12360,30175,Holy Names,9,True,19,3,16,win,305827,30147,1648257,2016

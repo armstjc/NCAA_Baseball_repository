@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,2,2,2,0,0,0,2,2,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,0,02/21/2016,neutral,12360,349,Le Moyne,9,True,4,7,-3,loss,293336,408,1442029,2016
+0,0,1.0,0.0,0,0,0,0,3,0,4,3,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,1,04/05/2016,home,12360,2746,Lake Erie,9,True,14,0,14,win,303626,408,1442029,2016
+0,0,0.1,0.0,0,0,0,1,0,0,3,2,0,0,0,0,1,0,1,1,1,0,0,12,0,1,0,0,0,3,0,04/10/2016,away,12360,246,Gannon,9,True,4,5,-1,loss,304924,408,1442029,2016
+0,0,4.0,0.0,3,4,4,2,7,0,17,15,3,0,0,0,2,0,0,2,1,0,0,76,4,1,0,0,0,2,3,04/16/2016,away,12360,546,Pitt.-Johnstown,9,True,12,11,1,win,306652,408,1442029,2016
+0,0,1.2,0.0,4,3,3,2,0,0,11,9,0,1,0,0,3,0,0,0,0,0,0,0,5,0,0,0,0,2,0,05/23/2016,neutral,12360,423,Millersville,9,True,2,6,-4,loss,314155,408,1442029,2016

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,6,0,03/12/2016,neutral,12360,984,Bloomfield,9,True,13,5,8,win,297515,1348,1545310,2016
+0,0,0.2,0.0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,03/19/2016,neutral,12360,593,St. Anselm,9,True,9,1,8,win,299524,1348,1545310,2016
+0,0,0.2,0.0,0,0,0,0,0,0,3,2,0,0,0,0,1,1,0,2,1,0,0,0,2,0,0,0,0,5,0,04/13/2016,home,12360,1277,Alliance,9,True,10,2,8,win,305684,1348,1545310,2016
+0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,4,0,04/25/2016,away,12360,1277,Alliance,9,True,11,5,6,win,309546,1348,1545310,2016
+0,0,0.0,0.0,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,2,1,0,0,5,0,0,0,0,0,4,0,05/08/2016,away,12360,437,Molloy,9,True,8,7,1,win,312396,1348,1545310,2016

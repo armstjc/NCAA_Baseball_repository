@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,23,3,3,0,0,0,4,0,04/16/2016,away,12360,262,Grand Valley St.,9,True,8,15,-7,loss,306677,30141,1646107,2016
+0,0,2.2,0.0,5,1,1,0,2,0,13,13,0,0,0,1,0,0,0,1,1,0,0,0,2,4,1,0,0,4,1,04/23/2016,home,12360,35,Ashland,9,True,14,12,2,win,308956,30141,1646107,2016
+0,0,1.2,0.0,3,1,1,0,1,0,7,7,0,1,0,1,0,0,0,2,2,0,0,19,2,1,1,0,0,3,0,04/30/2016,away,12360,30119,Ohio Dominican,9,True,11,10,1,win,310506,30141,1646107,2016
+0,0,0.2,0.0,2,1,1,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,05/03/2016,away,12360,2746,Lake Erie,9,True,12,16,-4,loss,311412,30141,1646107,2016
+0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,11,0,2,0,0,0,3,0,05/15/2016,neutral,12360,262,Grand Valley St.,9,True,5,6,-1,loss,313467,30141,1646107,2016

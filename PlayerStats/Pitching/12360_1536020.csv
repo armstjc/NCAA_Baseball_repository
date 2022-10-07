@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,11,0,2,0,0,0,5,0,03/28/2016,away,12360,30095,Utah Tech,9,True,6,20,-14,loss,301712,2697,1536020,2016
+0,0,0.1,0.0,1,0,0,1,1,0,3,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,4,1,04/09/2016,away,12360,2696,Hawaii Pacific,9,True,4,5,-1,loss,304532,2697,1536020,2016
+0,0,1.2,0.0,7,4,4,0,1,0,12,12,1,2,0,0,0,0,0,0,0,0,0,37,0,4,0,0,0,3,1,04/26/2016,away,12360,628,San Fran. St.,9,True,4,11,-7,loss,309574,2697,1536020,2016

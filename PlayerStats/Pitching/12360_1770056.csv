@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,0.0,10,6,4,6,4,0,29,22,3,0,0,0,1,1,0,0,0,0,0,0,3,5,0,1,0,1,0,02/13/2016,away,12360,535,Paine,9,True,1,10,-9,loss,292259,985,1770056,2016
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,02/28/2016,away,12360,445,Morehouse,9,True,2,7,-5,loss,294485,985,1770056,2016
+0,0,1.0,0.0,0,0,0,0,1,0,5,4,0,0,0,0,0,1,0,3,3,0,0,0,1,1,0,0,0,3,0,04/02/2016,neutral,12360,357,Lincoln (PA),9,True,11,5,6,win,302968,985,1770056,2016
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,6,0,04/05/2016,home,12360,15207,Ohio Valley,9,True,2,11,-9,loss,303584,985,1770056,2016

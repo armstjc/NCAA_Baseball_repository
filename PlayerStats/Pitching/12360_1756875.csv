@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,1,1,2,1,0,5,2,0,0,0,0,2,0,0,0,0,1,0,0,2,0,0,0,0,4,0,02/06/2016,away,12360,181,Delta St.,9,True,5,11,-6,loss,291772,1116,1756875,2016
+0,0,0.2,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,0,5,0,03/15/2016,home,12360,1289,Ouachita Baptist,9,True,8,9,-1,loss,298188,1116,1756875,2016
+0,1,2.0,0.0,2,0,0,2,4,0,11,8,0,0,1,0,0,1,0,0,0,0,0,44,2,0,0,0,0,1,1,04/05/2016,home,12360,0,Central Baptist,9,True,7,6,1,win,303588,1116,1756875,2016
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,2,0,0,0,13,0,0,0,0,0,4,1,04/12/2016,away,12360,1376,Southern Ark.,9,True,4,5,-1,loss,305438,1116,1756875,2016

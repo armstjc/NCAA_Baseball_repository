@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0,02/28/2016,neutral,12360,197,East Stroudsburg,9,True,3,22,-19,loss,294600,1318,1442900,2016
+0,0,1.0,0.0,2,1,1,0,1,0,5,4,0,0,1,0,0,0,0,0,0,1,0,0,2,0,0,1,0,2,1,03/31/2016,away,12360,593,St. Anselm,9,True,4,5,-1,loss,302246,1318,1442900,2016
+0,0,1.0,0.0,4,5,5,1,0,0,9,7,1,1,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,4,0,04/02/2016,neutral,12360,1277,Alliance,9,True,0,18,-18,loss,303024,1318,1442900,2016
+0,0,1.0,0.0,5,4,3,0,1,0,7,7,2,1,0,0,0,0,0,0,0,0,0,17,0,1,0,0,0,3,0,04/13/2016,away,12360,23157,Felician,9,True,0,21,-21,loss,305840,1318,1442900,2016
+0,0,1.0,0.0,1,2,2,0,2,0,5,4,0,0,0,1,0,1,0,3,3,0,0,18,1,0,0,0,0,2,0,04/21/2016,home,12360,995,Caldwell,9,True,7,5,2,win,308012,1318,1442900,2016
+0,0,1.0,0.0,2,2,1,0,2,0,7,7,1,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,5,1,04/25/2016,home,12360,658,Southern Conn. St.,9,True,1,11,-10,loss,309520,1318,1442900,2016

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,3,3,3,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,03/12/2017,neutral,12560,995,Caldwell,9,True,2,16,-14,loss,211007,22,1863392,2017
+0,0,1.0,0.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,03/26/2017,neutral,12560,410,Merrimack,9,True,1,8,-7,loss,214683,22,1863392,2017
+0,0,1.0,0.0,0,0,0,2,1,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,04/03/2017,home,12560,349,Le Moyne,9,True,0,7,-7,loss,216525,22,1863392,2017
+0,0,1.0,0.0,1,0,0,2,1,0,5,3,0,0,0,0,0,0,0,0,0,0,0,23,1,0,0,0,0,7,1,04/22/2017,home,12560,3,Adelphi,9,True,2,8,-6,loss,221558,22,1863392,2017

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,3,4,4,1,1,0,7,4,0,0,0,0,0,0,0,2,0,2,0,12,0,0,0,1,0,3,0,02/28/2016,neutral,12360,23157,Felician,9,True,7,11,-4,loss,294510,470,1418730,2016
+0,0,1.0,0.0,1,0,0,0,3,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,04/10/2016,away,12360,410,Merrimack,9,True,17,5,12,win,305050,470,1418730,2016
+0,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,2,1,04/13/2016,home,12360,658,Southern Conn. St.,9,True,6,0,6,win,305644,470,1418730,2016
+0,0,0.2,0.0,1,0,0,1,1,0,4,2,0,0,0,0,0,0,0,1,1,0,1,18,0,1,0,0,0,2,1,04/25/2016,home,12360,593,St. Anselm,9,True,5,2,3,win,309547,470,1418730,2016
+0,0,0.0,0.0,0,3,2,3,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,15,0,0,0,0,0,2,0,05/08/2016,home,12360,1347,Saint Rose,9,True,6,5,1,win,312544,470,1418730,2016

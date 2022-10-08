@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,4,5,5,1,0,0,5,4,3,0,0,0,0,0,0,2,2,0,0,22,0,0,0,0,0,3,0,03/05/2016,away,12360,30191,Spring Hill,9,True,2,22,-20,loss,295500,347,1435414,2016
+0,0,0.1,0.0,2,1,0,0,0,0,3,3,0,0,0,0,0,0,0,3,3,0,0,0,0,1,0,0,0,3,0,03/26/2016,away,12360,332,Kentucky St.,9,True,7,17,-10,loss,301029,347,1435414,2016
+0,0,4.0,0.0,6,2,1,1,5,0,21,20,2,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,2,0,03/28/2016,home,12360,422,Miles,9,True,3,13,-10,loss,301721,347,1435414,2016
+0,0,1.0,0.0,4,5,5,1,1,0,10,7,0,0,0,0,0,2,0,2,0,0,0,0,1,1,0,0,0,3,1,04/09/2016,away,12360,0,Crowley's Ridge,9,True,2,12,-10,loss,304745,347,1435414,2016
+0,0,4.1,0.0,6,5,3,3,1,0,25,20,1,0,0,1,0,1,0,3,1,0,1,0,4,8,0,0,0,2,0,04/16/2016,home,12360,680,Stillman,9,True,3,17,-14,loss,306934,347,1435414,2016

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,1,3,3,1,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,02/07/2016,away,12360,1314,Pittsburg St.,9,True,16,13,3,win,291918,30128,1656055,2016
+0,0,1.0,0.0,1,1,1,1,0,0,6,3,0,1,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,6,0,02/27/2016,away,12360,413,MSU Denver,9,True,4,10,-6,loss,293856,30128,1656055,2016
+0,0,0.2,0.0,5,7,7,1,0,0,9,6,0,0,0,2,1,2,0,0,0,0,0,0,1,0,0,0,0,3,0,04/16/2016,away,12360,54,Bemidji St.,9,True,17,13,4,win,306513,30128,1656055,2016
+0,0,1.0,0.0,4,2,2,0,0,0,6,5,0,0,0,0,0,0,0,0,0,1,0,15,1,1,0,0,0,2,0,04/24/2016,home,12360,790,Winona St.,9,True,9,21,-12,loss,309329,30128,1656055,2016
+0,0,1.0,0.0,3,3,3,1,2,0,7,5,2,0,0,0,2,0,0,0,0,0,1,0,0,1,0,0,0,5,1,05/12/2016,away,12360,427,Minn. Duluth,9,True,1,10,-9,loss,312831,30128,1656055,2016

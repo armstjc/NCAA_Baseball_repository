@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,2,0,0,0,10,0,0,0,0,0,6,0,02/20/2016,away,12360,49,Barry,9,True,0,6,-6,loss,292793,208,1646854,2016
+0,0,1.0,0.0,1,2,2,4,1,0,8,4,0,0,0,0,0,0,0,0,0,0,0,28,1,1,0,0,0,9,0,03/01/2016,home,12360,593,St. Anselm,9,True,18,8,10,win,294740,208,1646854,2016
+0,0,0.1,0.0,1,4,2,2,0,0,5,2,0,0,0,0,2,0,0,0,0,0,1,36,0,1,0,0,0,5,0,03/22/2016,home,12360,30092,Flagler,9,True,2,16,-14,loss,300133,208,1646854,2016
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,13,1,1,0,0,0,3,1,04/16/2016,home,12360,30045,Palm Beach Atl.,9,True,18,7,11,win,306508,208,1646854,2016
+0,0,1.0,0.0,1,1,1,2,0,0,6,4,0,0,0,1,1,0,0,0,0,0,0,25,0,3,0,0,0,4,0,05/06/2016,home,12360,689,Tampa,9,True,4,14,-10,loss,311661,208,1646854,2016

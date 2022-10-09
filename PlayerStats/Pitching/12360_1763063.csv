@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,2,1,0,4,2,0,0,0,0,1,0,0,0,0,0,0,19,1,0,0,0,0,4,1,02/09/2016,home,12360,0,Menlo,9,True,1,3,-2,loss,291957,645,1763063,2016
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,4,0,02/21/2016,home,12360,30200,Concordia Portland,9,True,5,7,-2,loss,293344,645,1763063,2016
+0,0,0.2,0.0,1,1,1,1,1,0,6,3,1,0,0,0,1,2,0,1,1,0,0,21,0,1,0,0,0,3,0,03/04/2016,away,12360,91,Cal Poly Pomona,9,True,2,10,-8,loss,295217,645,1763063,2016
+0,0,1.0,0.0,2,1,1,1,1,0,6,5,0,1,0,0,0,0,0,0,0,0,0,23,1,0,0,0,0,8,0,03/08/2016,away,12360,30123,Academy of Art,9,True,3,4,-1,loss,296335,645,1763063,2016
+0,0,0.2,0.0,4,3,3,0,1,0,6,6,2,0,1,1,0,0,0,2,2,0,0,21,0,1,0,0,0,3,1,04/05/2016,home,12360,628,San Fran. St.,9,True,1,12,-11,loss,303564,645,1763063,2016

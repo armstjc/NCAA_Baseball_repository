@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,0,0,0,6,5,1,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,5,0,02/20/2016,home,12360,197,East Stroudsburg,9,True,7,18,-11,loss,292919,8875,1775429,2016
+0,0,1.0,0.0,2,0,0,0,1,0,5,4,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,4,0,02/28/2016,home,12360,360,Lock Haven,9,True,3,16,-13,loss,294477,8875,1775429,2016
+0,0,0.2,0.0,5,4,4,1,0,0,8,6,0,0,0,0,1,0,0,0,0,0,1,29,1,1,0,0,0,2,0,03/22/2016,away,12360,537,UNC Pembroke,9,True,5,20,-15,loss,300237,8875,1775429,2016
+0,0,1.0,0.0,0,0,0,1,0,0,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,5,0,04/03/2016,home,12360,594,Saint Augustine's,9,True,6,17,-11,loss,303291,8875,1775429,2016
+0,0,2.0,0.0,1,0,0,0,1,0,8,8,1,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,2,1,04/09/2016,away,12360,357,Lincoln (PA),9,True,19,0,19,win,304507,8875,1775429,2016

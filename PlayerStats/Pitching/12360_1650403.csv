@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,4,1,02/21/2016,home,12360,262,Grand Valley St.,9,True,16,6,10,win,293256,661,1650403,2016
+0,0,0.2,0.0,3,2,2,1,1,0,6,5,0,0,0,0,0,0,0,2,1,0,0,22,0,1,0,0,0,3,0,02/26/2016,home,12360,499,Truman St.,11,True,14,13,1,win,293650,661,1650403,2016
+0,0,1.0,0.0,2,1,1,1,1,0,6,5,0,0,0,0,1,0,0,0,0,0,0,25,1,1,0,0,0,5,0,04/19/2016,home,12360,1278,Oakland City,9,True,13,2,11,win,307724,661,1650403,2016
+0,0,0.2,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,11,1,0,0,0,0,4,0,05/01/2016,home,12360,604,St. Joseph's (IN),9,True,11,8,3,win,311117,661,1650403,2016
+0,0,2.2,0.0,6,1,1,0,2,0,15,12,1,0,0,0,0,2,0,3,3,0,1,51,1,4,0,0,0,4,0,05/12/2016,neutral,12360,30120,William Jewell,9,True,4,12,-8,loss,312842,661,1650403,2016
+0,0,0.1,0.0,0,0,0,1,0,0,3,0,0,0,0,0,1,1,1,0,0,1,0,11,1,0,0,0,0,3,0,06/01/2016,neutral,12360,1167,Lander,9,True,2,4,-2,loss,314531,661,1650403,2016

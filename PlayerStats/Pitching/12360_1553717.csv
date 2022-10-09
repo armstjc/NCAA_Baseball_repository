@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,4,2,2,0,3,0,15,13,1,0,0,0,0,2,0,0,0,0,0,0,0,6,0,0,0,2,0,02/06/2016,away,12360,1174,Limestone,9,True,1,5,-4,loss,291729,593,1553717,2016
+0,0,0.1,0.0,1,0,0,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,02/27/2016,neutral,12360,56,Bentley,9,True,1,3,-2,loss,294155,593,1553717,2016
+0,1,3.2,0.0,11,9,7,2,0,0,23,20,2,0,0,1,2,0,0,0,0,0,1,66,4,6,0,1,0,1,0,03/01/2016,away,12360,208,Eckerd,9,True,8,18,-10,loss,294740,593,1553717,2016
+0,0,1.0,0.0,0,1,1,1,0,0,6,2,0,0,0,0,0,3,0,0,0,0,0,0,1,1,0,0,0,2,0,04/17/2016,home,12360,682,Stonehill,9,True,8,4,4,win,307274,593,1553717,2016

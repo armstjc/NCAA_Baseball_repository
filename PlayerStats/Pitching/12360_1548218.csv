@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,3,4,4,2,2,0,7,5,1,0,0,1,0,0,0,0,0,0,0,26,0,0,0,1,0,4,1,02/27/2016,neutral,12360,384,Mansfield,9,True,8,9,-1,loss,294254,36,1548218,2016
+0,0,0.1,0.0,2,3,1,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,22,1,0,0,0,0,2,0,03/08/2016,away,12360,9680,Embry-Riddle (FL),9,True,1,9,-8,loss,296379,36,1548218,2016
+0,0,1.0,0.0,1,2,2,2,1,0,5,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,03/19/2016,home,12360,22,American Int'l,9,True,8,4,4,win,299294,36,1548218,2016
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,03/31/2016,away,12360,410,Merrimack,9,True,0,12,-12,loss,302233,36,1548218,2016
+0,0,1.0,0.0,2,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,04/09/2016,home,12360,470,New Haven,9,True,2,7,-5,loss,304446,36,1548218,2016
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,05/01/2016,away,12360,593,St. Anselm,9,True,12,3,9,win,310978,36,1548218,2016

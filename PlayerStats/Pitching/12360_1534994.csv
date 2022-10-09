@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,0,1,0,5,5,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,01/29/2016,away,12360,689,Tampa,9,True,2,7,-5,loss,291544,56,1534994,2016
+0,0,0.2,0.0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,4,0,01/31/2016,away,12360,689,Tampa,9,True,0,5,-5,loss,291604,56,1534994,2016
+0,0,1.1,0.0,3,4,4,2,1,0,9,6,0,0,0,1,1,0,0,0,0,1,0,34,3,0,0,0,0,2,0,02/14/2016,away,12360,584,Rollins,9,True,1,20,-19,loss,292290,56,1534994,2016
+0,0,3.2,0.0,4,1,1,0,1,0,14,14,0,0,0,0,0,0,0,0,0,0,0,0,2,7,0,0,0,2,0,03/13/2016,neutral,12360,74,Bridgeport,9,True,4,13,-9,loss,297919,56,1534994,2016
+0,0,2.0,0.0,4,2,2,0,2,0,10,10,0,0,0,1,0,0,0,0,0,0,0,30,0,4,0,0,0,2,1,03/29/2016,home,12360,468,Southern N.H.,9,True,2,6,-4,loss,301975,56,1534994,2016

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,4,1,02/18/2016,home,12360,30147,Fresno Pacific,9,True,17,4,13,win,292408,98,1763747,2016
+0,0,1.1,0.0,2,1,1,0,0,0,7,6,2,0,0,0,0,1,0,1,0,0,0,26,2,2,0,0,0,4,0,03/03/2016,home,12360,95,Chico St.,9,True,7,10,-3,loss,294966,98,1763747,2016
+0,0,1.0,0.0,2,1,1,1,1,0,6,4,0,0,0,0,0,1,0,0,0,0,0,22,1,0,0,0,0,4,1,03/19/2016,away,12360,645,Sonoma St.,9,True,1,9,-8,loss,299175,98,1763747,2016
+0,0,1.2,0.0,1,0,0,0,0,0,7,6,0,0,0,0,0,1,0,2,1,0,0,23,1,4,0,0,0,4,0,03/26/2016,home,12360,91,Cal Poly Pomona,9,True,4,11,-7,loss,301317,98,1763747,2016
+0,0,0.0,0.0,3,2,2,0,0,0,3,3,0,0,0,0,0,0,0,3,3,0,0,12,0,0,0,0,0,2,0,04/05/2016,home,12360,95,Chico St.,9,True,10,9,1,win,303705,98,1763747,2016

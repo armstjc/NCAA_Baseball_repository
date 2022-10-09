@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,02/07/2016,away,12360,1023,Coker,9,True,3,7,-4,loss,291927,8875,1766546,2016
+0,0,1.1,0.0,3,2,2,0,0,0,8,8,0,0,0,1,0,0,0,1,0,0,0,0,2,2,0,0,0,2,0,02/21/2016,home,12360,197,East Stroudsburg,9,True,4,7,-3,loss,293341,8875,1766546,2016
+0,0,1.0,0.0,6,4,4,0,1,0,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,02/27/2016,home,12360,360,Lock Haven,9,True,3,7,-4,loss,293931,8875,1766546,2016
+0,0,1.1,0.0,2,1,1,2,1,0,8,5,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,4,0,03/08/2016,away,12360,11276,USC Aiken,9,True,1,18,-17,loss,296292,8875,1766546,2016
+0,0,1.2,0.0,3,2,2,1,1,0,8,7,0,0,0,0,1,0,0,2,1,0,0,0,2,1,0,0,0,2,0,03/12/2016,away,12360,791,Winston-Salem,9,True,7,6,1,win,297674,8875,1766546,2016

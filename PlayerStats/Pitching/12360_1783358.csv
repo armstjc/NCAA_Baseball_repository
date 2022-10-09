@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,1,0,0,1,1,0,11,9,0,0,0,0,0,0,0,2,2,0,1,0,4,3,0,0,0,3,0,04/02/2016,home,12360,19117,Salem (WV),9,True,17,5,12,win,302821,333,1783358,2016
+0,0,2.1,0.0,3,1,1,4,4,0,14,9,1,0,0,0,3,0,0,3,3,1,0,0,3,0,0,0,0,2,2,04/10/2016,away,12360,174,Davis & Elkins,9,True,10,7,3,win,305234,333,1783358,2016
+0,0,2.1,0.0,2,0,0,1,2,0,9,8,0,0,0,0,0,0,0,3,2,0,0,0,3,1,0,0,0,2,0,04/19/2016,home,12360,52,Bellarmine,9,True,11,2,9,win,307731,333,1783358,2016
+0,0,0.1,0.0,3,2,2,0,0,0,4,4,2,0,0,0,0,0,0,3,3,0,0,9,0,1,0,0,0,3,0,04/24/2016,away,12360,934,Alderson Broaddus,9,True,6,14,-8,loss,309490,333,1783358,2016

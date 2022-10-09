@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,3,1,1,0,0,0,4,0,01/30/2016,away,12360,49,Barry,9,True,1,13,-12,loss,291552,12830,1556072,2016
+0,0,0.2,0.0,2,1,1,0,1,0,4,4,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,02/20/2016,home,12360,333,Ky. Wesleyan,9,True,14,2,12,win,292971,12830,1556072,2016
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,03/02/2016,home,12360,30181,UVA Wise,9,True,11,0,11,win,294880,12830,1556072,2016
+0,0,1.0,0.0,2,2,2,0,1,0,5,5,0,0,0,1,0,0,0,0,0,0,0,20,1,1,0,0,0,6,0,05/01/2016,neutral,12360,1000,Carson-Newman,9,True,3,0,3,win,310335,12830,1556072,2016

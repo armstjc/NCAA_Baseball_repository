@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,3,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,02/12/2016,away,12360,30152,Southern Nazarene,9,True,7,1,6,win,292055,996,1752200,2016
+0,0,0.2,0.0,1,1,0,0,1,0,3,3,0,0,1,0,0,0,0,2,2,0,0,15,1,0,0,0,0,2,0,02/19/2016,home,12360,30120,William Jewell,9,True,8,5,3,win,292485,996,1752200,2016
+0,0,2.1,0.0,4,2,2,2,4,0,12,10,1,0,0,0,0,0,0,2,2,0,0,38,0,2,0,0,0,2,0,03/04/2016,away,12360,696,Tex. A&M-Kingsville,9,True,0,9,-9,loss,295104,996,1752200,2016
+0,0,2.0,0.0,3,0,0,1,2,0,11,10,1,0,0,0,0,0,0,1,1,0,0,45,2,2,0,0,0,3,1,03/14/2016,home,12360,767,West Tex. A&M,9,True,0,10,-10,loss,298056,996,1752200,2016
+0,0,0.2,0.0,1,1,0,0,0,0,5,4,0,0,1,0,0,1,0,0,0,0,0,16,0,2,0,0,0,4,0,04/01/2016,home,12360,206,Eastern N.M.,9,True,6,3,3,win,302317,996,1752200,2016
+0,0,1.0,0.0,2,0,0,1,2,0,6,5,0,0,0,0,1,0,0,0,0,0,0,24,1,0,0,0,0,2,0,05/06/2016,away,12360,206,Eastern N.M.,9,True,10,2,8,win,311671,996,1752200,2016

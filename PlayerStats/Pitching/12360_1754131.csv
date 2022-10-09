@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,16,1,1,0,0,0,2,1,04/19/2016,home,12360,1278,Oakland City,9,True,13,2,11,win,307724,661,1754131,2016
+0,0,2.0,0.0,1,0,0,1,0,0,8,6,1,0,0,0,0,1,0,3,1,0,0,27,1,4,1,0,0,3,0,05/01/2016,home,12360,604,St. Joseph's (IN),9,True,11,8,3,win,311117,661,1754131,2016
+0,0,0.0,0.0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,6,0,0,0,0,0,3,0,05/12/2016,neutral,12360,30120,William Jewell,9,True,4,12,-8,loss,312842,661,1754131,2016

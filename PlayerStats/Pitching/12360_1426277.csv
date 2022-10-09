@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,3,3,3,0,3,0,7,7,1,0,3,1,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2,02/05/2016,away,12360,720,Tuskegee,9,True,2,12,-10,loss,291683,445,1426277,2016
+0,0,1.0,0.0,2,2,2,0,0,0,9,6,0,0,0,0,1,3,0,3,2,0,0,0,0,0,0,0,0,2,0,02/14/2016,home,12360,347,Lane,9,True,17,7,10,win,292319,445,1426277,2016

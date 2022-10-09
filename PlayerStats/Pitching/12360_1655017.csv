@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,3,1,0,0,0,0,4,0,02/12/2016,away,12360,30095,Utah Tech,9,True,1,8,-7,loss,292040,205,1655017,2016
+0,0,0.2,0.0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,03/11/2016,away,12360,1274,Northwest Nazarene,9,True,4,12,-8,loss,296969,205,1655017,2016
+0,0,0.0,0.0,1,2,1,1,0,0,3,2,1,0,0,0,1,0,0,3,3,0,0,12,0,0,0,0,0,3,0,03/19/2016,home,12360,30200,Concordia Portland,9,True,1,8,-7,loss,299262,205,1655017,2016

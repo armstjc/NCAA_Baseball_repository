@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.0,0.0,5,5,4,2,1,0,10,7,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,02/27/2016,neutral,12360,410,Merrimack,9,True,3,8,-5,loss,294259,407,1658874,2016
+0,0,3.0,0.0,5,3,3,2,2,0,17,14,3,0,0,0,0,1,0,0,0,0,0,0,2,5,0,0,0,2,1,03/10/2016,away,12360,533,Pace,9,True,5,8,-3,loss,296721,407,1658874,2016
+0,0,1.0,0.0,4,4,4,2,1,0,9,7,2,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,4,0,03/28/2016,home,12360,1348,St. Thomas Aquinas,9,True,3,14,-11,loss,301727,407,1658874,2016
+0,0,2.0,0.0,4,2,2,0,0,0,10,10,0,0,0,1,0,0,0,0,0,0,0,0,5,1,0,0,0,3,0,04/08/2016,home,12360,23157,Felician,9,True,5,10,-5,loss,304278,407,1658874,2016
+0,0,1.2,0.0,1,0,0,0,0,0,6,6,0,0,0,0,0,0,0,1,0,0,0,20,2,3,0,0,0,2,0,04/16/2016,away,12360,2692,Dowling,9,True,1,4,-3,loss,306774,407,1658874,2016

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,2,2,1,2,2,0,9,7,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,1,02/09/2016,home,12360,0,Mobile,9,True,6,4,2,win,291962,11740,1758720,2016
+0,0,2.0,0.0,2,0,0,0,2,0,9,8,0,0,0,0,0,0,0,0,0,1,0,0,3,1,0,0,0,2,0,03/02/2016,home,12360,680,Stillman,9,True,1,0,1,win,294873,11740,1758720,2016
+0,0,1.2,0.0,2,1,0,1,2,0,8,7,1,0,0,0,0,0,0,0,0,0,0,22,2,1,0,0,0,3,1,03/09/2016,home,12360,30191,Spring Hill,10,True,6,5,1,win,296579,11740,1758720,2016
+0,0,2.1,0.0,1,0,0,0,3,0,7,7,0,0,0,0,0,0,0,2,0,0,0,21,1,2,0,0,0,2,1,03/16/2016,home,12360,9680,Embry-Riddle (FL),11,True,2,3,-1,loss,298418,11740,1758720,2016
+0,0,0.0,0.0,1,0,0,1,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,13,0,0,0,0,0,2,0,03/30/2016,home,12360,1238,Montevallo,11,True,5,4,1,win,302073,11740,1758720,2016

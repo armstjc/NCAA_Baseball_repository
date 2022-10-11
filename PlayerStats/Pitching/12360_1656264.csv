@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,0,0,0,0,3,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,1,03/16/2016,home,12360,357,Lincoln (PA),9,True,12,3,9,win,298514,28594,1656264,2016
+0,0,1.1,0.0,4,4,4,2,0,0,10,7,1,1,0,0,1,0,0,0,0,0,1,0,0,4,0,0,0,4,0,04/06/2016,home,12360,21323,Chestnut Hill,9,True,4,21,-17,loss,303894,28594,1656264,2016
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,04/12/2016,away,12360,197,East Stroudsburg,9,True,3,17,-14,loss,305432,28594,1656264,2016
+0,0,1.0,0.0,1,1,1,2,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,04/17/2016,home,12360,162,Concordia (NY),9,True,3,10,-7,loss,307385,28594,1656264,2016
+0,0,2.0,0.0,1,0,0,1,2,0,8,7,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,3,0,04/30/2016,away,12360,8956,Dominican (NY),9,True,2,16,-14,loss,310843,28594,1656264,2016

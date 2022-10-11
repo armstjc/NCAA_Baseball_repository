@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,1,02/17/2016,away,12360,30192,Southern Wesleyan,9,True,3,2,1,win,292375,1199,1750953,2016
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,3,0,02/20/2016,away,12360,30094,Brevard,9,True,9,6,3,win,292846,1199,1750953,2016
+0,0,0.1,0.0,1,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,02/23/2016,away,12360,9223,North Greenville,9,True,3,9,-6,loss,293414,1199,1750953,2016
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,03/01/2016,home,12360,30051,King (TN),9,True,12,14,-2,loss,294815,1199,1750953,2016
+0,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,04/02/2016,home,12360,1176,Lincoln Memorial,9,True,0,4,-4,loss,303110,1199,1750953,2016

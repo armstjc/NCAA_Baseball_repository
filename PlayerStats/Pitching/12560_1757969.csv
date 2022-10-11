@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,0.0,8,2,2,1,2,0,20,19,0,0,0,0,1,0,0,0,0,0,0,69,4,5,0,0,0,1,0,02/05/2017,home,12560,33,Armstrong St.,9,True,2,4,-2,loss,205276,9680,1757969,2017
+0,0,4.0,0.0,9,5,5,1,2,0,22,20,3,1,0,1,2,0,0,0,0,0,1,79,5,5,1,0,0,2,1,02/11/2017,home,12560,30045,Palm Beach Atl.,9,True,17,15,2,win,205501,9680,1757969,2017
+0,0,3.0,0.0,2,1,1,1,0,0,12,10,1,0,0,0,0,0,0,0,0,0,1,0,3,6,0,0,0,2,0,02/18/2017,away,12560,1096,Georgia College,9,True,6,11,-5,loss,206084,9680,1757969,2017
+0,0,4.1,0.0,3,0,0,0,2,0,17,17,1,0,0,0,0,0,0,3,3,0,0,82,4,7,0,0,0,3,0,02/24/2017,away,12560,584,Rollins,9,True,2,11,-9,loss,207023,9680,1757969,2017
+0,0,0.2,0.0,1,0,0,0,2,0,3,3,0,1,0,0,0,0,0,3,3,0,0,18,0,0,0,0,0,2,0,03/04/2017,home,12560,0,Fla. Memorial,9,True,9,11,-2,loss,208679,9680,1757969,2017

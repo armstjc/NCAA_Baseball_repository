@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.0,0.0,5,5,5,0,0,0,9,8,3,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,1,0,03/08/2016,away,12360,30090,Tex. A&M Int'l,12,True,13,11,2,win,296484,28594,1550276,2016
+0,0,2.0,0.0,1,3,3,2,0,0,9,5,1,0,0,0,0,1,0,0,0,0,1,0,2,3,0,0,0,2,0,03/23/2016,home,12360,65,Bloomsburg,9,True,6,14,-8,loss,300375,28594,1550276,2016
+0,1,3.0,0.0,14,9,9,1,1,0,21,20,3,1,0,1,0,0,0,0,0,0,0,0,4,1,0,1,0,1,0,04/12/2016,away,12360,197,East Stroudsburg,9,True,3,17,-14,loss,305432,28594,1550276,2016
+0,0,1.0,0.0,2,2,1,0,2,0,6,6,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,1,04/17/2016,home,12360,162,Concordia (NY),9,True,3,10,-7,loss,307385,28594,1550276,2016
+0,0,3.0,0.0,5,6,5,1,1,0,16,15,2,0,0,1,0,0,0,0,0,0,0,0,2,6,0,0,0,3,0,04/19/2016,home,12360,638,Shippensburg,9,True,0,15,-15,loss,307596,28594,1550276,2016

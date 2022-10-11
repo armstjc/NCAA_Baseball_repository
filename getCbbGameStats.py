@@ -1,12 +1,9 @@
-from operator import index
 from collegebaseball import ncaa_scraper as ncaa
 from collegebaseball import datasets
 from datetime import date
 import time
-import glob
 from tqdm import tqdm
 import pandas as pd
-import numpy as np
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
@@ -45,7 +42,7 @@ def getAllGbgStats():
     hasRoster = True
     school_count = 0
     schools_len = len(schools)
-    for s in range(505,len(schools)+1):
+    for s in range(506,len(schools)+1):
         #school_count += 1
         school_count = s
         i = schools[s]

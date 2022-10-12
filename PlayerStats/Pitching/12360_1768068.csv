@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,4,4,2,1,2,0,11,10,1,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,2,0,03/03/2016,neutral,12360,246,Gannon,9,True,5,12,-7,loss,294962,1079,1768068,2016
+0,1,2.1,0.0,5,3,3,2,0,0,14,11,0,0,0,1,1,1,0,0,0,0,0,0,4,2,0,1,0,1,0,04/06/2016,home,12360,30126,Notre Dame (OH),9,True,5,16,-11,loss,303783,1079,1768068,2016
+0,0,0.2,0.0,1,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,04/24/2016,home,12360,262,Grand Valley St.,9,True,6,13,-7,loss,309376,1079,1768068,2016
+0,0,4.2,0.0,1,0,0,2,6,0,15,12,0,0,0,0,0,0,0,0,0,1,0,0,5,1,1,0,0,2,5,05/03/2016,home,12360,591,Saginaw Valley,9,True,4,3,1,win,311410,1079,1768068,2016
+0,0,1.2,0.0,2,2,2,3,3,0,10,6,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,3,2,05/06/2016,home,12360,35,Ashland,9,True,0,7,-7,loss,311858,1079,1768068,2016

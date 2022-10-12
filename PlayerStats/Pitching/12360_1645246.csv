@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,6,0,03/02/2016,home,12360,535,Paine,9,True,17,0,17,win,294823,11276,1645246,2016
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,1,03/23/2016,home,12360,535,Paine,9,True,14,0,14,win,300240,11276,1645246,2016
+0,0,1.0,0.0,0,0,0,1,2,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,03/29/2016,home,12360,13,Albany St. (GA),9,True,8,1,7,win,301733,11276,1645246,2016

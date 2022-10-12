@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,1,0,0,0,1,0,6,6,0,0,0,0,1,0,0,1,0,0,0,0,0,4,0,0,0,4,0,03/06/2016,neutral,12360,608,Saint Leo,9,True,10,13,-3,loss,296158,728,1646948,2016
+0,0,1.0,0.0,2,3,3,2,0,0,8,3,0,0,0,0,0,1,0,0,0,1,1,0,1,2,0,0,0,3,0,03/25/2016,home,12360,30125,Minot St.,9,True,2,10,-8,loss,300820,728,1646948,2016
+0,0,2.0,0.0,7,7,7,0,1,0,13,13,0,0,0,4,0,0,0,0,0,0,0,0,2,3,0,0,0,3,1,04/09/2016,away,12360,598,St. Cloud St.,9,True,0,19,-19,loss,304677,728,1646948,2016
+0,0,0.2,0.0,4,4,4,0,0,0,7,6,0,0,0,1,0,1,0,3,1,0,0,0,2,0,0,0,0,3,0,04/21/2016,home,12360,383,Minnesota St.,9,True,3,21,-18,loss,308025,728,1646948,2016
+0,0,2.0,0.0,9,8,7,1,1,0,16,15,2,0,0,1,0,0,0,0,0,0,0,44,1,4,0,0,0,2,1,04/29/2016,away,12360,41,Augustana (SD),9,True,4,19,-15,loss,310249,728,1646948,2016

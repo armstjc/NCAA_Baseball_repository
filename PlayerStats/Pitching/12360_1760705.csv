@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,1,1,0,7,5,0,0,0,0,0,1,0,0,0,0,0,33,0,2,0,0,0,3,1,03/19/2016,home,12360,30055,Cal St. Monterey Bay,9,True,0,7,-7,loss,299151,628,1760705,2016
+0,0,1.0,0.0,1,1,1,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,8,1,2,0,0,0,6,0,03/30/2016,home,12360,98,Cal St. East Bay,9,True,14,3,11,win,302126,628,1760705,2016
+0,0,1.0,0.0,2,2,0,0,0,0,5,4,0,0,0,0,1,0,0,0,0,1,0,15,1,1,0,0,0,3,0,04/16/2016,away,12360,112,UC San Diego,9,True,7,8,-1,loss,307000,628,1760705,2016
+0,0,0.2,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,6,1,0,0,0,0,6,0,04/20/2016,home,12360,98,Cal St. East Bay,9,True,2,6,-4,loss,307872,628,1760705,2016
+0,0,2.1,0.0,4,3,3,0,1,0,11,9,0,0,0,0,0,1,0,0,0,1,0,35,2,3,0,0,0,3,0,05/06/2016,home,12360,645,Sonoma St.,9,True,4,11,-7,loss,311608,628,1760705,2016

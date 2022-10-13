@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,1,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,11,0,0,0,0,0,5,1,02/21/2016,away,12360,30055,Cal St. Monterey Bay,9,True,3,11,-8,loss,293173,103,1651848,2016
+0,0,2.0,0.0,5,1,1,0,0,0,10,10,0,0,0,0,0,0,0,3,0,0,0,36,1,4,0,0,0,2,0,02/28/2016,home,12360,98,Cal St. East Bay,9,True,5,7,-2,loss,294294,103,1651848,2016
+0,0,1.1,0.0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,1,0,0,0,13,1,3,0,0,0,4,0,03/08/2016,away,12360,30055,Cal St. Monterey Bay,9,True,1,9,-8,loss,296500,103,1651848,2016
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,0,2,1,0,0,2,0,04/12/2016,home,12360,0,William Jessup,9,True,15,6,9,win,305555,103,1651848,2016
+0,0,0.1,0.0,3,3,3,0,0,0,4,3,0,0,0,1,1,0,0,1,1,0,1,13,0,1,0,0,0,2,0,04/16/2016,away,12360,92,Cal St. Dom. Hills,9,True,7,13,-6,loss,306776,103,1651848,2016
+0,0,2.0,0.0,0,0,0,1,1,0,7,6,0,0,0,0,0,0,0,0,0,0,0,28,3,2,0,0,0,2,0,04/30/2016,home,12360,645,Sonoma St.,10,True,2,6,-4,loss,310576,103,1651848,2016

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,02/07/2016,home,12360,8875,Chowan,9,True,3,7,-4,loss,291920,1023,1766548,2016
+0,0,1.0,0.0,1,1,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,02/10/2016,home,12360,594,Saint Augustine's,9,True,15,2,13,win,291973,1023,1766548,2016
+0,0,0.2,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,3,1,0,0,0,0,2,0,02/20/2016,away,12360,1072,Erskine,9,True,5,9,-4,loss,292837,1023,1766548,2016
+0,0,1.0,0.0,2,3,3,1,0,0,7,5,0,0,0,1,1,1,0,2,2,0,0,21,0,3,0,0,0,3,0,03/11/2016,away,12360,30063,Seton Hill,9,True,6,16,-10,loss,297103,1023,1766548,2016
+0,0,1.0,0.0,0,1,0,1,0,0,5,3,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,6,0,03/30/2016,away,12360,30058,Claflin,9,True,9,4,5,win,302059,1023,1766548,2016

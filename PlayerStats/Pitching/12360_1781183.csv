@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,2,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,04/15/2016,home,12360,30063,Seton Hill,9,True,1,9,-8,loss,306169,143,1781183,2016
+0,0,1.2,0.0,0,0,0,0,1,0,5,5,0,0,0,0,0,0,0,1,0,0,0,10,1,3,0,0,0,3,0,04/16/2016,away,12360,30063,Seton Hill,9,True,4,9,-5,loss,306655,143,1781183,2016
+0,0,3.2,0.0,5,3,3,0,3,0,16,16,0,1,0,0,0,0,0,2,0,0,0,0,3,5,0,0,0,2,2,04/23/2016,home,12360,246,Gannon,9,True,5,17,-12,loss,308475,143,1781183,2016

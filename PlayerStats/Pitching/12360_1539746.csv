@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,1,0,2,0,0,5,3,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,4,0,03/26/2016,home,12360,543,Jefferson,9,True,2,10,-8,loss,301446,357,1539746,2016
+0,0,2.0,0.0,0,0,0,3,4,0,10,6,0,0,0,0,1,1,0,0,0,0,0,0,2,0,0,0,0,2,1,04/03/2016,away,12360,985,Bluefield St.,9,True,6,7,-1,loss,303377,357,1539746,2016
+0,0,1.0,0.0,1,2,1,2,2,0,6,4,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,04/17/2016,away,12360,743,Virginia St.,9,True,3,6,-3,loss,307306,357,1539746,2016

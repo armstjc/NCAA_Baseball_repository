@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,2,2,2,2,2,0,10,6,0,0,0,0,0,1,0,2,1,1,0,0,2,1,0,0,0,2,1,02/10/2016,home,12360,0,Selma,9,True,11,8,3,win,291986,720,1764012,2016
+0,0,0.1,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,2,0,02/19/2016,away,12360,24639,Nova Southeastern,9,True,0,20,-20,loss,292572,720,1764012,2016
+0,1,2.0,0.0,4,4,4,0,2,0,10,10,0,0,0,1,2,0,0,0,0,0,0,0,3,1,0,1,0,1,1,03/02/2016,away,12360,1238,Montevallo,9,True,3,9,-6,loss,294901,720,1764012,2016
+0,0,4.0,0.0,2,1,0,3,5,0,17,14,0,0,0,0,1,0,0,0,0,0,0,0,3,4,0,0,1,2,2,04/05/2016,home,12360,0,Concordia (AL),9,True,12,3,9,win,303603,720,1764012,2016
+0,0,1.2,0.0,1,0,0,0,0,0,7,6,0,0,0,0,0,1,0,1,1,0,0,0,2,3,0,0,0,2,0,04/16/2016,home,12360,30191,Spring Hill,9,True,0,8,-8,loss,306773,720,1764012,2016

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,1,0,0,2,1,0,8,6,0,0,0,0,0,0,0,0,0,0,0,27,2,2,0,0,0,3,1,03/10/2019,away,14781,245,Gallaudet,9,True,9,2,7,win,1706792,12973,2151555,2019
+1,0,1.0,0.0,3,3,3,1,0,0,6,4,0,0,0,0,0,1,0,0,0,0,0,22,0,1,1,0,0,2,0,03/17/2019,away,14781,0,Penn St.-Gr Allegheny,9,True,6,4,2,win,1718862,12973,2151555,2019
+1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,04/07/2019,home,14781,0,Christendom,9,True,14,4,10,win,1666906,12973,2151555,2019
+1,0,1.0,0.0,2,2,2,1,2,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,04/12/2019,home,14781,30047,Keystone,9,True,2,10,-8,loss,1659240,12973,2151555,2019
+1,0,1.0,0.0,3,2,2,0,2,0,6,6,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,05/04/2019,home,14781,30166,Valley Forge,9,True,16,2,14,win,1665140,12973,2151555,2019

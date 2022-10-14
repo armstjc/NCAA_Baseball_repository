@@ -1,8 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/10/2019,away,14781,245,Gallaudet,9,True,9,2,7,win,1706792,12973,2151547,2019
 0,0,0,0,0,0,0,0,0,0,03/10/2019,away,14781,245,Gallaudet,9,True,3,6,-3,loss,1652220,12973,2151547,2019
-0,0,0,0,0,0,0,0,0,0,03/17/2019,away,14781,0,Penn St-Gr Allegheny,9,True,6,4,2,win,1718862,12973,2151547,2019
-0,0,0,0,0,0,0,0,0,0,03/17/2019,away,14781,0,Penn St-Gr Allegheny,9,True,7,4,3,win,1718863,12973,2151547,2019
+0,0,0,0,0,0,0,0,0,0,03/17/2019,away,14781,0,Penn St.-Gr Allegheny,9,True,6,4,2,win,1718862,12973,2151547,2019
+0,0,0,0,0,0,0,0,0,0,03/17/2019,away,14781,0,Penn St.-Gr Allegheny,9,True,7,4,3,win,1718863,12973,2151547,2019
 0,0,0,0,0,0,0,0,0,0,03/18/2019,away,14781,0,Penn St.-Mont Alto,9,True,5,1,4,win,1716899,12973,2151547,2019
 0,0,0,0,0,0,0,1,0,0,03/18/2019,away,14781,0,Penn St.-Mont Alto,9,True,3,7,-4,loss,1653954,12973,2151547,2019
 0,0,0,0,0,0,0,0,0,0,03/19/2019,away,14781,30036,Mount Aloysius,9,True,4,6,-2,loss,1654036,12973,2151547,2019

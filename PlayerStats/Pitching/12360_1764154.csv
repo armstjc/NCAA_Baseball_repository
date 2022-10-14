@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,13,2,1,0,0,0,3,0,04/16/2016,home,12360,309,UIndy,9,True,1,11,-10,loss,306731,799,1764154,2016
+0,0,2.0,0.0,10,9,9,0,3,0,17,17,3,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,2,04/22/2016,away,12360,0,Robert Morris-S'fiel,9,True,23,9,14,win,308309,799,1764154,2016
+0,0,0.1,0.0,1,0,0,1,1,0,3,2,0,0,0,0,1,0,0,0,0,0,0,13,0,0,0,0,0,3,0,05/08/2016,home,12360,30138,McKendree,9,True,1,10,-9,loss,312472,799,1764154,2016

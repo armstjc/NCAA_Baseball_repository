@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,2,2,2,0,0,0,4,3,1,0,0,0,0,0,0,2,2,0,1,13,1,1,0,0,0,4,0,02/14/2016,away,12360,49,Barry,9,True,2,10,-8,loss,292273,799,1657961,2016
+0,1,2.0,0.0,6,7,7,3,2,0,16,12,1,1,0,0,1,1,0,0,0,0,0,0,2,2,0,1,0,1,1,03/22/2016,neutral,12360,1328,Rockhurst,9,True,2,13,-11,loss,300217,799,1657961,2016
+0,0,1.0,0.0,2,2,2,2,0,0,7,5,0,1,0,0,1,0,0,0,0,0,0,0,2,1,0,1,0,2,0,04/04/2016,away,12360,604,St. Joseph's (IN),9,True,0,2,-2,loss,303507,799,1657961,2016
+0,1,1.0,0.0,5,10,7,5,0,0,15,8,1,0,0,0,2,1,0,0,0,1,0,45,2,1,0,1,0,1,0,04/16/2016,home,12360,309,UIndy,9,True,4,11,-7,loss,306483,799,1657961,2016

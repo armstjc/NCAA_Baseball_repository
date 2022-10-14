@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,1,0,0,0,3,0,7,7,0,0,0,0,0,0,0,0,0,0,0,24,1,2,0,0,1,4,0,03/17/2019,away,14781,0,Penn St.-Gr Allegheny,9,True,6,4,2,win,1718862,12973,2151564,2019
+1,0,0.0,0.0,1,2,2,1,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,03/19/2019,away,14781,30036,Mount Aloysius,9,True,4,6,-2,loss,1654036,12973,2151564,2019
+1,0,0.2,0.0,0,1,0,0,1,0,5,3,0,0,2,0,0,2,0,0,0,0,0,0,0,1,0,0,0,5,1,04/18/2019,home,14781,25719,Penn St.-Altoona,9,True,11,5,6,win,1660679,12973,2151564,2019

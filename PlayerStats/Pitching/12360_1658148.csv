@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,0.0,8,5,4,4,3,0,23,19,2,1,0,0,0,0,0,0,0,0,0,0,5,2,0,1,0,1,0,03/12/2016,away,12360,1028,Concord,9,True,4,5,-1,loss,297599,1438,1658148,2016
+0,1,9.0,1,4,2,1,2,9,0,32,30,1,0,0,0,1,0,0,0,0,0,0,112,6,10,1,0,0,1,1,03/22/2016,away,12360,15207,Ohio Valley,9,True,3,2,1,win,300072,1438,1658148,2016
+0,1,5.0,0.0,11,4,4,1,1,0,26,25,1,0,0,1,2,0,0,0,0,0,0,0,4,9,1,0,0,1,1,03/30/2016,away,12360,35,Ashland,9,True,9,8,1,win,302029,1438,1658148,2016
+0,0,0.1,0.0,5,5,5,1,0,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,04/17/2016,away,12360,30104,Urbana,9,True,3,9,-6,loss,307304,1438,1658148,2016

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,2,2,0,1,0,6,6,2,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,02/05/2017,home,12560,652,Sewanee,9,True,16,4,12,win,205298,1162,1657777,2017
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,02/18/2017,neutral,12560,11538,Fontbonne,9,True,9,2,7,win,206258,1162,1657777,2017
+0,0,1.0,0.0,1,1,1,1,1,0,5,4,1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,2,1,03/19/2017,home,12560,44,Averett,9,True,17,2,15,win,212706,1162,1657777,2017

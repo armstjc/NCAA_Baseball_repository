@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,03/12/2016,away,12360,27892,Farmingdale St.,9,True,6,2,4,win,297408,200,1445027,2016
+0,0,1.0,0.0,4,3,3,0,0,0,7,7,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,03/17/2016,neutral,12360,712,TCNJ,9,True,9,10,-1,loss,298595,200,1445027,2016
+0,1,4.1,0.0,7,4,3,1,1,0,20,18,0,0,0,0,1,1,0,0,0,0,0,0,4,6,0,0,0,1,0,03/20/2016,neutral,12360,798,Wis.-Oshkosh,9,True,7,5,2,win,299758,200,1445027,2016
+0,1,4.0,0.0,3,1,1,2,4,0,17,15,0,0,0,0,0,0,0,0,0,0,0,0,2,6,0,0,0,1,2,03/25/2016,neutral,12360,212,Elmhurst,9,True,7,9,-2,loss,300927,200,1445027,2016

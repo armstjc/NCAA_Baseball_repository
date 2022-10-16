@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,0.0,4,1,1,2,2,0,23,19,1,0,0,0,0,0,0,0,0,1,1,0,8,7,0,0,0,1,1,04/05/2016,home,12360,763,Wesley,9,True,1,7,-6,loss,303722,783,1771496,2016
+0,1,6.0,0.0,6,4,4,0,5,0,25,24,3,1,1,2,1,0,0,0,0,0,1,0,2,11,0,0,0,1,0,04/11/2016,away,12360,322,Johns Hopkins,9,True,7,10,-3,loss,305265,783,1771496,2016
+0,1,4.0,0.0,10,8,8,3,2,0,25,22,2,0,0,1,0,0,0,0,0,0,0,68,6,4,0,1,0,1,0,04/20/2016,away,12360,30047,Keystone,9,True,2,17,-15,loss,307771,783,1771496,2016
+0,1,2.0,0.0,7,6,3,0,0,0,14,12,3,0,0,1,0,1,0,0,0,0,1,0,2,3,0,1,0,1,0,04/30/2016,away,12360,411,Messiah,9,True,1,7,-6,loss,310730,783,1771496,2016

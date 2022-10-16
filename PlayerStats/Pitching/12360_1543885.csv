@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,0.0,4,2,2,2,3,0,21,18,2,0,0,0,0,0,0,0,0,1,0,84,10,2,1,0,0,1,1,03/12/2016,home,12360,242,Fredonia,9,True,12,2,10,win,297597,19,1543885,2016
+0,1,4.0,0.0,7,6,3,1,1,0,22,20,2,0,1,0,1,1,0,0,0,0,0,0,6,3,0,1,0,1,0,03/20/2016,neutral,12360,267,Hamilton,9,True,3,12,-9,loss,299871,19,1543885,2016
+0,0,1.2,0.0,2,1,1,0,2,0,8,7,0,0,0,0,0,1,0,0,0,0,0,25,2,1,0,0,0,3,0,04/16/2016,home,12360,281,Hiram,9,True,7,11,-4,loss,306877,19,1543885,2016
+0,1,5.0,0.0,4,3,3,2,3,0,21,18,1,0,0,0,1,1,0,0,0,0,0,73,5,6,1,0,0,1,0,04/24/2016,home,12360,515,Oberlin,9,True,7,4,3,win,309428,19,1543885,2016
+0,0,3.1,0.0,5,6,6,4,4,0,20,15,0,1,0,1,0,0,0,2,2,0,1,73,3,3,0,0,0,2,3,05/08/2016,home,12360,177,DePauw,9,True,5,16,-11,loss,312452,19,1543885,2016

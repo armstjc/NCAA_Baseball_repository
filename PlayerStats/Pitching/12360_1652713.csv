@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,0,3,0,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,03/05/2016,home,12360,781,Whittier,9,True,4,8,-4,loss,295437,549,1652713,2016
+0,0,0.2,0.0,5,8,8,3,1,0,10,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,03/24/2016,home,12360,2751,Pacific (OR),9,True,11,19,-8,loss,300470,549,1652713,2016
+0,0,3.0,0.0,3,1,1,2,1,0,16,11,1,0,0,0,0,2,0,0,0,0,1,0,3,5,0,0,0,6,0,03/26/2016,home,12360,2751,Pacific (OR),9,True,11,16,-5,loss,301132,549,1652713,2016
+0,1,2.0,0.0,4,2,2,1,4,0,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,2,03/30/2016,home,12360,1297,Pacific Lutheran,9,True,0,9,-9,loss,302172,549,1652713,2016
+0,0,0.1,0.0,3,6,5,1,0,0,7,5,2,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,4,0,04/02/2016,home,12360,516,Occidental,9,True,5,19,-14,loss,302792,549,1652713,2016

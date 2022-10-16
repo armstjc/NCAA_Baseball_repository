@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,6,1,03/24/2016,home,12360,2751,Pacific (OR),9,True,11,19,-8,loss,300470,549,1542171,2016
+0,0,2.0,0.0,5,5,5,2,0,0,13,9,2,0,0,0,0,1,0,0,0,0,1,0,3,2,0,0,0,5,0,03/25/2016,home,12360,2751,Pacific (OR),9,True,7,25,-18,loss,300734,549,1542171,2016
+0,0,1.0,0.0,2,1,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,03/30/2016,home,12360,1297,Pacific Lutheran,9,True,0,9,-9,loss,302172,549,1542171,2016
+0,0,1.0,0.0,2,1,1,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,5,0,04/16/2016,home,12360,134,Chapman,9,True,9,13,-4,loss,306824,549,1542171,2016
+0,0,0.1,0.0,2,5,4,2,0,0,6,4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,2,0,04/22/2016,home,12360,89,Caltech,9,True,17,7,10,win,308192,549,1542171,2016

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,2,1,1,2,1,0,9,7,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,3,1,03/05/2016,neutral,12360,64,Blackburn,9,True,22,1,21,win,295607,4,1668514,2016
+0,1,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,04/14/2016,away,12360,0,Siena Heights,9,True,3,4,-1,loss,305895,4,1668514,2016
+0,0,1.0,0.0,1,0,0,2,1,0,6,4,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,04/16/2016,away,12360,21,Alma,9,True,17,0,17,win,306419,4,1668514,2016
+0,0,1.2,0.0,1,1,1,1,1,0,6,4,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,1,0,4,0,04/24/2016,home,12360,15,Albion,9,True,4,7,-3,loss,309514,4,1668514,2016
+0,0,1.2,0.0,2,2,2,1,1,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,3,1,05/07/2016,away,12360,286,Hope,9,True,11,8,3,win,312303,4,1668514,2016

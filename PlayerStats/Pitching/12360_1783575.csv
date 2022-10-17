@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,6,1,04/14/2016,away,12360,0,Siena Heights,9,True,3,4,-1,loss,305895,4,1783575,2016
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7,0,04/17/2016,home,12360,21,Alma,9,True,14,10,4,win,307420,4,1783575,2016
+0,0,0.2,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,3,0,04/24/2016,home,12360,15,Albion,9,True,4,7,-3,loss,309514,4,1783575,2016

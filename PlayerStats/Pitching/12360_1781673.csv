@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,2,03/09/2016,home,12360,30081,Penn St. Harrisburg,9,True,3,8,-5,loss,296532,578,1781673,2016
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,1,03/29/2016,away,12360,225,Ferrum,9,True,4,3,1,win,301878,578,1781673,2016
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,4,0,04/02/2016,home,12360,752,Wash. & Lee,9,True,4,10,-6,loss,303029,578,1781673,2016
+0,0,3.0,0.0,5,2,2,0,0,0,14,13,1,0,0,0,0,0,0,0,0,1,0,0,7,2,0,0,0,2,0,04/21/2016,away,12360,225,Ferrum,9,True,8,12,-4,loss,308007,578,1781673,2016

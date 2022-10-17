@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,03/11/2016,neutral,12360,64,Blackburn,9,True,8,0,8,win,297156,300,1659539,2016
+0,0,4.2,0.0,6,3,3,3,0,0,22,18,2,0,0,0,0,1,0,0,0,0,0,0,7,5,0,0,0,2,0,03/14/2016,away,12360,426,Millsaps,9,True,1,6,-5,loss,298044,300,1659539,2016
+0,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,03/19/2016,neutral,12360,46,Baldwin Wallace,9,True,10,1,9,win,299397,300,1659539,2016
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3,1,04/05/2016,home,12360,496,North Park,9,True,8,6,2,win,303702,300,1659539,2016
+0,1,4.0,0.0,7,5,5,2,1,0,21,16,1,0,0,0,0,1,0,0,0,2,0,0,6,4,0,0,0,1,1,04/13/2016,away,12360,496,North Park,9,True,16,10,6,win,305628,300,1659539,2016

@@ -1,13 +1,9 @@
-from operator import index
-from re import S
 from collegebaseball import ncaa_scraper as ncaa
 from collegebaseball import datasets
 from datetime import date
 import time
-import glob
 from tqdm import tqdm
 import pandas as pd
-import numpy as np
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 

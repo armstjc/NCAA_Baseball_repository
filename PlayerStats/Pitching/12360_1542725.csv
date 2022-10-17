@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,2,2,0,0,0,6,6,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,4,0,03/12/2016,home,12360,1162,LaGrange,9,True,3,11,-8,loss,297219,1130,1542725,2016
+0,0,0.2,0.0,1,1,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,5,0,04/02/2016,home,12360,30111,Covenant,9,True,8,10,-2,loss,302720,1130,1542725,2016
+0,0,1.2,0.0,5,1,1,1,0,0,10,8,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,3,0,04/24/2016,home,12360,1112,Guilford,9,True,11,1,10,win,309175,1130,1542725,2016

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,02/28/2016,away,12360,565,Randolph-Macon,9,True,7,8,-1,loss,294483,259,1765538,2016
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,4,0,03/14/2016,neutral,12360,401,UMass Boston,9,True,17,7,10,win,298088,259,1765538,2016
+0,0,3.0,0.0,5,2,1,2,1,0,13,10,0,0,0,0,0,0,0,0,0,1,0,0,5,0,0,1,0,2,1,03/18/2016,neutral,12360,8981,Endicott,9,True,4,5,-1,loss,298864,259,1765538,2016
+0,1,2.1,0.0,3,6,4,2,1,0,14,10,0,0,0,0,0,1,0,0,0,1,0,0,5,1,0,0,0,1,1,04/13/2016,away,12360,443,Moravian,9,True,11,8,3,win,305844,259,1765538,2016
+0,0,1.0,0.0,4,4,3,1,1,0,9,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,04/23/2016,home,12360,787,Wm. Paterson,9,True,17,7,10,win,308973,259,1765538,2016

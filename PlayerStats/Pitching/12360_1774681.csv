@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,02/28/2016,home,12360,25719,Penn St.-Altoona,9,True,22,1,21,win,294417,637,1774681,2016
+0,0,1.2,0.0,4,3,3,0,1,0,8,7,2,1,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,4,1,03/12/2016,home,12360,578,Roanoke,9,True,3,14,-11,loss,297353,637,1774681,2016
+0,0,1.0,0.0,1,1,1,2,0,0,6,4,0,0,0,0,2,0,0,0,0,0,0,0,2,1,0,0,0,2,0,03/24/2016,home,12360,30036,Mount Aloysius,9,True,20,4,16,win,300478,637,1774681,2016
+0,0,0.0,0.0,2,1,1,1,0,0,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,04/11/2016,away,12360,815,York (PA),9,True,15,14,1,win,305352,637,1774681,2016
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,05/22/2016,neutral,12360,217,Emory,9,True,2,15,-13,loss,314137,637,1774681,2016

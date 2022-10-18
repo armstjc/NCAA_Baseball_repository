@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,0.0,8,5,5,1,5,0,28,26,2,0,0,0,0,1,0,0,0,0,0,0,5,7,1,0,0,1,0,03/14/2016,neutral,12360,547,Plattsburgh St.,9,True,18,5,13,win,298121,684,1557472,2016
+0,1,6.0,0.0,5,2,1,0,2,0,23,22,0,0,0,0,2,1,0,0,0,0,0,81,8,6,1,0,0,1,0,03/30/2016,away,12360,76,Bridgewater St.,9,True,6,2,4,win,302104,684,1557472,2016
+0,1,7.0,0.0,13,4,3,3,5,0,37,32,1,0,1,0,1,0,0,0,0,2,0,111,9,6,1,0,0,1,1,04/14/2016,away,12360,399,Mass. Maritime,9,True,12,4,8,win,305854,684,1557472,2016
+0,1,3.0,0.0,10,6,5,2,1,0,20,18,4,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,1,0,04/22/2016,away,12360,170,Curry,9,True,14,15,-1,loss,308201,684,1557472,2016

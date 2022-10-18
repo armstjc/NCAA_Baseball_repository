@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,0,0,3,3,0,11,6,0,0,0,0,1,0,0,1,1,1,1,0,2,1,0,0,0,2,1,03/10/2016,neutral,12360,251,Georgetown,9,True,1,8,-7,loss,296760,443,1421773,2016
+0,0,0.2,0.0,2,2,2,0,2,0,4,4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,03/31/2016,away,12360,633,Scranton,9,True,1,7,-6,loss,302223,443,1421773,2016
+0,0,2.0,0.0,0,0,0,0,3,0,7,6,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,4,0,04/14/2016,home,12360,30047,Keystone,11,True,1,2,-1,loss,305892,443,1421773,2016
+0,0,0.1,0.0,1,2,2,0,0,0,4,2,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,0,3,0,04/17/2016,home,12360,685,Susquehanna,9,True,4,19,-15,loss,307401,443,1421773,2016
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,3,0,04/26/2016,home,12360,588,Rutgers-Camden,9,True,10,8,2,win,309719,443,1421773,2016
+0,0,0.0,0.0,3,4,4,1,0,0,4,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,05/08/2016,home,12360,211,Elizabethtown,9,True,3,18,-15,loss,312538,443,1421773,2016

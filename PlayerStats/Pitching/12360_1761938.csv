@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,1,0,0,6,4,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,3,0,03/12/2016,neutral,12360,245,Gallaudet,9,True,11,1,10,win,297473,684,1761938,2016
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,03/14/2016,neutral,12360,547,Plattsburgh St.,9,True,18,5,13,win,298121,684,1761938,2016
+0,0,2.1,0.0,3,0,0,0,4,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,1,04/09/2016,home,12360,605,St. Joseph's (ME),9,True,0,10,-10,loss,304664,684,1761938,2016
+0,0,1.0,0.0,1,2,2,1,1,0,5,4,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,04/13/2016,away,12360,200,Eastern Conn. St.,9,True,15,3,12,win,305614,684,1761938,2016
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,04/22/2016,away,12360,170,Curry,9,True,14,15,-1,loss,308201,684,1761938,2016
+0,1,5.0,0.0,7,3,3,1,3,0,24,23,3,0,0,0,2,0,0,0,0,0,0,0,5,7,1,0,0,1,1,04/25/2016,away,12360,623,Salve Regina,9,True,16,10,6,win,309529,684,1761938,2016

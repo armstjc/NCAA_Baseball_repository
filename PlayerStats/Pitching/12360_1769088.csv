@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.1,0.0,5,3,3,4,3,0,24,20,0,0,1,0,1,0,0,0,0,0,0,91,7,5,0,1,0,1,1,02/21/2016,home,12360,78,SUNY Brockport,9,True,0,5,-5,loss,293160,329,1769088,2016
+0,1,6.2,0.0,3,3,3,6,3,0,28,22,0,0,0,0,0,0,0,0,0,0,0,0,7,8,0,0,0,1,0,02/27/2016,home,12360,20,DeSales,9,True,4,3,1,win,293800,329,1769088,2016
+0,1,1.0,0.0,1,2,1,5,1,0,9,4,0,0,0,0,0,0,0,0,0,0,0,45,1,0,0,1,0,1,0,03/10/2016,neutral,12360,16142,Misericordia,9,True,1,5,-4,loss,296762,329,1769088,2016

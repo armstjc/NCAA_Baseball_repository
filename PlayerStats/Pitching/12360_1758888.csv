@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,2,2,0,5,2,0,0,0,0,1,1,0,0,0,0,0,24,0,0,0,0,0,3,1,02/27/2016,away,12360,622,Salisbury,9,True,6,7,-1,loss,293963,966,1758888,2016
+0,0,2.2,0.0,4,2,2,1,0,0,13,10,1,0,0,0,0,2,0,2,1,0,0,0,3,3,0,0,0,2,0,03/12/2016,neutral,12360,319,New Jersey City,9,True,7,8,-1,loss,297487,966,1758888,2016

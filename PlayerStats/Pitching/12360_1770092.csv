@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,4,3,3,0,0,0,4,4,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,03/18/2016,neutral,12360,484,Nichols,9,True,7,5,2,win,298867,30047,1770092,2016
+0,0,1.2,0.0,0,0,0,1,1,0,6,5,0,0,0,0,2,0,0,1,0,0,0,0,3,1,0,0,0,4,1,04/02/2016,home,12360,12399,Gwynedd Mercy,9,True,5,8,-3,loss,302853,30047,1770092,2016
+0,0,1.0,0.0,0,0,0,1,1,0,6,3,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,2,0,04/13/2016,home,12360,190,Drew,9,True,11,4,7,win,305593,30047,1770092,2016
+0,0,0.2,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,3,1,0,0,6,1,0,0,0,0,5,0,04/19/2016,home,12360,588,Rutgers-Camden,9,True,3,6,-3,loss,307485,30047,1770092,2016
+0,0,0.1,0.0,2,6,0,2,1,0,7,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,04/23/2016,away,12360,303,Immaculata,9,True,14,12,2,win,308855,30047,1770092,2016

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,3,2,0,1,0,0,10,8,0,0,0,0,0,0,0,1,1,1,0,0,1,3,0,0,0,2,0,03/17/2016,neutral,12360,475,SUNY New Paltz,9,True,12,12,0,tie,298602,673,1773462,2016
+0,0,2.0,0.0,3,1,0,1,1,0,10,9,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,3,0,03/29/2016,away,12360,398,MIT,9,True,1,11,-10,loss,301755,673,1773462,2016
+0,0,1.1,0.0,4,4,2,1,1,0,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,04/02/2016,home,12360,779,Wheaton (MA),9,True,0,20,-20,loss,303032,673,1773462,2016
+0,0,4.0,0.0,3,0,0,0,4,0,15,15,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,2,2,04/16/2016,away,12360,145,Clark (MA),9,True,1,8,-7,loss,306862,673,1773462,2016
+0,0,0.1,0.0,1,0,0,1,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3,0,04/19/2016,away,12360,214,Emerson,9,True,7,6,1,win,307717,673,1773462,2016

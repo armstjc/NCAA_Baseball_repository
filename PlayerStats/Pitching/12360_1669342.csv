@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.1,0.0,6,6,6,0,1,0,14,11,1,1,0,0,1,2,0,0,0,1,0,0,3,2,0,1,0,1,1,03/08/2016,neutral,12360,538,Penn St.-Behrend,9,True,2,29,-27,loss,296436,30031,1669342,2016
+0,0,3.0,0.0,3,1,1,1,1,0,12,11,0,1,0,0,0,0,0,0,0,0,0,0,5,2,0,1,0,2,0,03/11/2016,neutral,12360,76,Bridgewater St.,9,True,9,10,-1,loss,297075,30031,1669342,2016
+0,1,4.0,0.0,3,3,3,3,3,0,18,13,0,0,0,0,1,2,0,0,0,0,0,0,2,5,0,0,0,1,1,04/18/2016,away,12360,376,Macalester,9,True,5,3,2,win,307425,30031,1669342,2016

@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,2,0,1,0,0,0,6,0,03/01/2016,away,12360,622,Salisbury,9,True,11,22,-11,loss,294747,753,1529969,2016
+0,0,1.0,0.0,2,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,4,0,03/13/2016,neutral,12360,2798,Albertus Magnus,9,True,24,3,21,win,297909,753,1529969,2016
+0,0,2.0,0.0,2,0,0,0,2,0,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,0,03/15/2016,neutral,12360,555,Principia,9,True,10,0,10,win,298320,753,1529969,2016
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,4,1,04/15/2016,away,12360,686,Swarthmore,9,True,1,10,-9,loss,306121,753,1529969,2016
+0,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,04/21/2016,away,12360,239,Franklin & Marshall,9,True,13,2,11,win,308048,753,1529969,2016
+0,1,8.2,0.0,4,1,1,4,3,0,34,28,1,0,0,0,0,0,0,0,0,1,1,0,9,14,0,1,0,1,2,05/03/2016,home,12360,243,Frostburg St.,9,True,0,1,-1,loss,311415,753,1529969,2016

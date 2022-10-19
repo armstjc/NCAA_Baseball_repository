@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,2,1,1,1,0,0,5,4,0,0,0,0,1,0,0,1,0,0,0,22,1,1,0,0,0,5,0,03/01/2016,away,12360,622,Salisbury,9,True,11,22,-11,loss,294747,753,1752295,2016
+0,0,1.1,0.0,2,1,1,0,0,0,6,6,0,0,0,0,2,0,0,0,0,0,0,0,3,1,0,0,0,3,0,03/14/2016,neutral,12360,2798,Albertus Magnus,9,True,19,8,11,win,298106,753,1752295,2016
+0,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,04/21/2016,away,12360,239,Franklin & Marshall,9,True,13,2,11,win,308048,753,1752295,2016

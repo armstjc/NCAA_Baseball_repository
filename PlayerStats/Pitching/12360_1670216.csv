@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,03/05/2016,neutral,12360,182,Denison,9,True,3,10,-7,loss,295670,114,1670216,2016
+0,0,0.1,0.0,3,3,1,0,0,0,4,4,0,1,0,0,0,0,0,2,2,0,0,14,1,0,0,0,0,4,0,03/05/2016,neutral,12360,182,Denison,9,True,11,18,-7,loss,295693,114,1670216,2016
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,03/14/2016,neutral,12360,733,Utica,9,True,9,1,8,win,298128,114,1670216,2016
+0,0,1.2,0.0,5,3,3,0,1,0,9,9,2,0,1,0,0,0,0,3,3,0,0,0,1,2,0,0,0,3,0,03/17/2016,neutral,12360,170,Curry,9,True,3,9,-6,loss,298612,114,1670216,2016
+0,0,2.0,0.0,3,0,0,0,3,0,10,9,0,0,0,0,0,1,0,0,0,0,0,39,2,1,0,0,0,8,2,04/12/2016,home,12360,4,Adrian,9,True,8,24,-16,loss,305544,114,1670216,2016

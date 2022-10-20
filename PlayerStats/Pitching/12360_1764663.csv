@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,0.0,3,2,2,1,5,0,20,17,0,0,0,0,1,2,0,0,0,0,0,0,3,6,1,0,0,1,0,02/20/2016,home,12360,480,CCNY,9,True,13,2,11,win,292931,491,1764663,2016
+0,1,3.1,0.0,5,4,3,3,3,0,20,17,2,0,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,1,2,02/25/2016,home,12360,752,Wash. & Lee,9,True,6,4,2,win,293505,491,1764663,2016
+0,0,0.2,0.0,0,0,0,1,0,0,4,1,0,0,0,0,1,1,0,0,0,0,1,0,0,2,1,0,0,4,0,03/16/2016,home,12360,0,St. Andrews,9,True,11,9,2,win,298405,491,1764663,2016
+0,0,2.0,0.0,3,2,2,2,1,0,11,8,1,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,4,1,04/03/2016,home,12360,21830,Piedmont,9,True,6,15,-9,loss,303194,491,1764663,2016

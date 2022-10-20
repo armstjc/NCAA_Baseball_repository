@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,5,2,2,0,1,0,10,10,2,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,3,0,03/28/2016,home,12360,30037,Trine,9,True,2,11,-9,loss,301700,114,1766895,2016
+0,0,1.1,0.0,2,0,0,1,1,0,7,6,0,0,0,0,2,0,0,1,1,0,0,0,2,1,0,0,0,4,0,04/11/2016,away,12360,4,Adrian,9,True,4,14,-10,loss,305328,114,1766895,2016
+0,0,2.2,0.0,6,4,3,1,4,0,14,13,1,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,2,2,04/19/2016,away,12360,137,UChicago,9,True,2,6,-4,loss,307531,114,1766895,2016
+0,0,0.0,0.0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,05/06/2016,away,12360,326,Kalamazoo,9,True,10,4,6,win,311778,114,1766895,2016
+0,0,0.2,0.0,2,1,1,0,0,0,4,4,0,0,0,0,1,0,0,3,3,0,0,6,1,1,0,0,0,6,0,05/07/2016,home,12360,326,Kalamazoo,10,True,11,16,-5,loss,312173,114,1766895,2016

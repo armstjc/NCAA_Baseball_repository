@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,2,2,1,1,0,6,5,1,0,0,0,0,0,0,3,2,0,0,0,1,0,0,0,0,3,1,03/08/2016,away,12360,28749,Transylvania,9,True,11,10,1,win,296390,23260,1781788,2016
+0,0,1.0,0.0,1,1,1,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,03/23/2016,away,12360,585,Rose-Hulman,9,True,4,14,-10,loss,300391,23260,1781788,2016
+0,0,2.0,0.0,4,3,3,1,1,0,11,10,1,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,5,0,04/24/2016,home,12360,755,WashU,9,True,5,22,-17,loss,309405,23260,1781788,2016

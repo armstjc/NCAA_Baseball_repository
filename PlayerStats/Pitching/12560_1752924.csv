@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,1,0,1,1,0,6,4,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,3,0,03/04/2017,neutral,12560,190,Drew,9,True,3,7,-4,loss,208819,784,1752924,2017
+0,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,03/09/2017,neutral,12560,783,Widener,9,True,1,8,-7,loss,209994,784,1752924,2017
+0,0,0.1,0.0,1,2,2,1,1,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,03/29/2017,away,12560,30044,Penn St.-Berks,9,True,7,13,-6,loss,214953,784,1752924,2017
+0,0,1.0,0.0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,5,1,04/01/2017,away,12560,8968,Eastern,9,True,2,12,-10,loss,215891,784,1752924,2017
+0,0,0.2,0.0,2,0,0,1,2,0,5,4,0,0,0,0,1,0,0,1,1,0,0,27,0,0,1,0,0,5,0,04/19/2017,home,12560,397,Marywood,9,True,10,9,1,win,220861,784,1752924,2017

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,03/29/2016,home,12360,0,Penn St.-Schuylkill,9,True,13,4,9,win,301978,784,1752927,2016
+0,0,0.1,0.0,5,6,6,2,0,0,8,6,1,0,0,0,1,0,0,2,2,0,0,0,1,0,0,0,0,4,0,04/02/2016,home,12360,20,DeSales,9,True,0,18,-18,loss,302844,784,1752927,2016
+0,0,1.1,0.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,1,1,0,0,19,1,2,0,0,0,2,0,05/03/2016,away,12360,411,Messiah,9,True,5,7,-2,loss,311329,784,1752927,2016

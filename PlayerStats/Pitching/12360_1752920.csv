@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,0,1,2,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,03/06/2016,neutral,12360,335,Kenyon,9,True,3,11,-8,loss,296070,784,1752920,2016
+0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,03/08/2016,neutral,12360,1163,La Roche,9,True,8,11,-3,loss,296435,784,1752920,2016
+0,0,0.1,0.0,2,4,4,2,0,0,5,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,3,0,04/02/2016,home,12360,20,DeSales,9,True,0,18,-18,loss,302844,784,1752920,2016
+0,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,0,0,4,1,04/16/2016,home,12360,382,Manhattanville,9,True,8,7,1,win,306642,784,1752920,2016
+0,0,1.2,0.0,2,3,3,1,0,0,9,7,1,0,0,0,0,1,0,2,0,0,0,0,2,3,0,0,0,2,0,04/19/2016,away,12360,397,Marywood,9,True,5,10,-5,loss,307493,784,1752920,2016

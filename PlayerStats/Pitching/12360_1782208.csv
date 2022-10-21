@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,2,1,0,2,3,0,12,9,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,3,0,03/22/2016,neutral,12360,475,SUNY New Paltz,9,True,3,12,-9,loss,300219,286,1782208,2016
+0,0,1.1,0.0,5,3,3,0,0,0,9,9,2,0,0,0,1,0,0,1,0,0,0,30,1,3,0,0,0,3,0,04/01/2016,away,12360,114,Calvin,9,True,10,11,-1,loss,302451,286,1782208,2016
+0,0,2.0,0.0,1,0,0,1,2,0,8,6,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,0,0,2,2,04/19/2016,away,12360,0,Aquinas,9,True,4,5,-1,loss,307735,286,1782208,2016
+0,0,3.0,0.0,2,1,1,3,2,0,14,11,0,0,0,0,2,0,0,0,0,0,0,0,3,4,0,0,0,3,1,05/06/2016,away,12360,4,Adrian,9,True,5,10,-5,loss,311869,286,1782208,2016

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,0,0,0,5,5,1,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,3,0,03/12/2016,neutral,12360,773,McDaniel,9,True,3,11,-8,loss,297568,681,1671989,2016
+0,0,1.2,0.0,2,1,0,0,0,0,8,8,0,0,0,0,0,0,0,2,2,0,0,0,2,3,0,0,0,4,0,03/14/2016,neutral,12360,185,Dickinson,9,True,1,17,-16,loss,298127,681,1671989,2016
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,03/17/2016,neutral,12360,777,Westfield St.,9,True,1,4,-3,loss,298616,681,1671989,2016
+0,0,4.1,0.0,5,4,0,1,2,0,22,19,1,0,0,0,0,2,0,1,1,0,0,0,5,4,0,0,0,2,1,04/15/2016,home,12360,588,Rutgers-Camden,9,True,10,11,-1,loss,305951,681,1671989,2016

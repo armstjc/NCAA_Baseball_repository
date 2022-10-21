@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,3,5,5,0,0,0,6,4,0,0,0,1,1,2,0,2,2,0,0,17,1,0,0,0,0,4,0,03/24/2016,away,12360,622,Salisbury,9,True,10,34,-24,loss,300464,12399,1783117,2016
+0,0,1.0,0.0,2,1,1,1,1,0,6,4,1,0,0,0,0,1,0,0,0,0,0,22,0,1,0,0,0,3,0,04/27/2016,home,12360,179,Delaware Valley,9,True,18,8,10,win,309816,12399,1783117,2016
+0,0,1.0,0.0,1,1,1,0,0,0,4,3,1,0,0,0,0,0,0,0,0,0,1,10,2,1,0,0,0,4,0,05/07/2016,home,12360,12884,Centenary (NJ),9,True,4,11,-7,loss,312190,12399,1783117,2016

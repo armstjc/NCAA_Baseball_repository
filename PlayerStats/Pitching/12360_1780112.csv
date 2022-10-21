@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,4,3,3,0,0,0,4,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,03/12/2016,neutral,12360,185,Dickinson,9,True,3,9,-6,loss,297552,777,1780112,2016
+0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,03/19/2016,neutral,12360,24317,Lesley,9,True,18,0,18,win,299410,777,1780112,2016
+0,0,1.0,0.0,5,5,5,0,0,0,8,8,0,0,2,1,1,0,0,0,0,0,0,0,1,2,0,0,0,4,0,03/25/2016,away,12360,713,Trinity (CT),9,True,9,14,-5,loss,300684,777,1780112,2016
+0,0,1.0,0.0,2,1,0,0,1,0,6,6,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,1,04/13/2016,away,12360,775,Western New Eng.,9,True,2,11,-9,loss,305680,777,1780112,2016
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,04/21/2016,away,12360,200,Eastern Conn. St.,9,True,5,19,-14,loss,307988,777,1780112,2016

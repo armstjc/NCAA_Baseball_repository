@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,1,0,0,0,0,0,7,7,0,0,0,0,0,0,0,1,0,0,0,0,3,2,0,0,0,2,0,03/06/2016,neutral,12360,411,Messiah,9,True,9,6,3,win,296011,16142,1660101,2016
+0,0,2.0,0.0,2,3,3,3,3,0,10,7,1,0,0,0,0,0,0,2,0,0,0,0,1,1,0,1,0,2,1,03/09/2016,neutral,12360,411,Messiah,9,True,4,12,-8,loss,296641,16142,1660101,2016
+0,0,1.2,0.0,1,1,1,0,2,0,8,5,0,0,0,0,0,3,0,0,0,0,0,0,2,0,0,0,0,2,0,04/15/2016,home,12360,179,Delaware Valley,9,True,4,6,-2,loss,306069,16142,1660101,2016
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,0,1,0,0,0,3,0,04/22/2016,away,12360,336,King's (PA),9,True,16,4,12,win,308056,16142,1660101,2016
+0,0,0.0,0.0,2,3,3,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,04/24/2016,away,12360,588,Rutgers-Camden,9,True,5,10,-5,loss,309246,16142,1660101,2016

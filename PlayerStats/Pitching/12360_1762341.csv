@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,3,0,0,0,1,0,9,9,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,6,0,03/14/2016,neutral,12360,38,Augsburg,9,True,2,20,-18,loss,298123,1390,1762341,2016
+0,0,2.0,0.0,2,1,1,0,2,0,8,7,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,3,1,04/26/2016,away,12360,271,Hardin-Simmons,9,True,11,17,-6,loss,309702,1390,1762341,2016
+0,0,2.0,0.0,0,0,0,1,2,0,7,6,0,0,0,0,0,0,0,0,0,0,0,34,2,2,0,0,0,4,2,04/29/2016,home,12360,30028,UT Tyler,9,True,4,18,-14,loss,310016,1390,1762341,2016
+0,0,2.0,0.0,4,5,5,1,0,0,12,9,0,0,0,1,0,1,0,1,0,0,1,35,2,4,0,1,0,3,0,05/07/2016,neutral,12360,1062,East Tex. Baptist,9,True,15,23,-8,loss,312283,1390,1762341,2016

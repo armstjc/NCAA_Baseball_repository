@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,0,0,0,3,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,02/27/2016,home,12360,681,Stockton,9,True,4,0,4,win,293989,686,1776790,2016
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,11,1,2,0,0,0,4,0,03/01/2016,away,12360,12884,Centenary (NJ),9,True,10,2,8,win,294807,686,1776790,2016
+0,0,2.0,0.0,0,0,0,0,1,0,7,6,0,0,0,0,0,1,0,0,0,0,0,0,1,4,0,0,0,2,0,03/07/2016,neutral,12360,30036,Mount Aloysius,9,True,7,3,4,win,296207,686,1776790,2016
+0,1,1.0,0.0,2,4,4,5,0,0,9,4,1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,1,0,1,0,03/09/2016,neutral,12360,30044,Penn St.-Berks,9,True,8,23,-15,loss,296675,686,1776790,2016
+0,0,1.0,0.0,2,2,2,3,1,0,8,4,0,0,0,0,1,0,0,0,0,0,1,26,1,1,0,0,0,3,1,03/18/2016,home,12360,480,CCNY,9,True,19,4,15,win,298793,686,1776790,2016

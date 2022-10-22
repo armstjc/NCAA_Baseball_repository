@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,1,0,0,0,3,0,9,9,0,0,0,0,0,0,0,0,0,0,0,20,1,4,0,0,0,2,1,03/11/2016,home,12360,480,CCNY,9,True,14,2,12,win,297127,12884,1548969,2016
+0,1,1.2,0.0,6,4,4,1,0,0,11,9,2,0,1,0,0,0,0,0,0,1,0,35,3,1,0,1,0,1,0,03/18/2016,away,12360,1254,Neumann,9,True,2,9,-7,loss,298650,12884,1548969,2016
+0,1,4.0,0.0,2,0,0,1,2,0,15,14,0,0,1,0,1,0,0,0,0,0,0,0,4,6,1,0,0,1,0,03/23/2016,away,12360,479,NYU,9,True,7,2,5,win,300337,12884,1548969,2016
+0,0,2.0,0.0,2,2,2,0,0,0,9,9,0,0,0,1,0,0,0,0,0,0,0,32,3,3,0,0,0,3,0,04/06/2016,home,12360,319,New Jersey City,9,True,7,9,-2,loss,303828,12884,1548969,2016
+0,0,1.0,0.0,2,0,0,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,5,0,04/29/2016,home,12360,30047,Keystone,9,True,1,7,-6,loss,310111,12884,1548969,2016

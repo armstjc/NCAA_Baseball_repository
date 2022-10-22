@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,1,0,0,0,0,0,7,5,0,0,0,0,0,1,0,1,0,1,0,26,2,2,0,0,0,2,0,03/07/2016,neutral,12360,30031,Northwestern-St. Paul,15,True,4,5,-1,loss,296280,335,1776439,2016
+0,0,0.2,0.0,1,2,2,2,0,0,6,2,1,0,0,0,1,1,0,0,0,1,0,0,2,0,0,0,0,6,0,03/11/2016,neutral,12360,538,Penn St.-Behrend,9,True,6,9,-3,loss,297088,335,1776439,2016
+0,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,3,1,03/14/2016,neutral,12360,30084,Geneva,9,True,5,4,1,win,298095,335,1776439,2016
+0,0,0.2,0.0,1,3,3,3,0,0,6,3,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,2,0,03/15/2016,neutral,12360,16,Albright,9,True,14,8,6,win,298318,335,1776439,2016
+0,0,0.0,0.0,1,2,2,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,04/24/2016,away,12360,806,Wittenberg,9,True,11,14,-3,loss,309495,335,1776439,2016
+0,0,1.0,0.0,4,5,5,2,1,0,10,7,1,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,6,1,05/07/2016,away,12360,520,Ohio Wesleyan,9,True,4,21,-17,loss,312195,335,1776439,2016

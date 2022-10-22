@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,2,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0,03/19/2016,home,12360,1400,Texas Lutheran,9,True,4,22,-18,loss,299145,953,1770449,2016
+0,0,1.1,0.0,5,2,1,2,0,0,12,10,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,4,0,03/29/2016,neutral,12360,23008,Ozarks (AR),10,True,3,4,-1,loss,301961,953,1770449,2016
+0,0,1.0,0.0,1,1,0,1,1,0,7,3,0,0,0,0,0,1,0,1,0,2,0,0,2,0,0,1,0,6,0,04/16/2016,away,12360,1355,Schreiner,10,True,11,12,-1,loss,306894,953,1770449,2016

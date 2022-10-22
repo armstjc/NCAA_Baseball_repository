@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,0.0,2,0,0,7,1,0,26,19,0,0,0,0,1,0,0,0,0,0,0,0,11,5,1,0,0,1,0,03/13/2016,neutral,12360,577,Ripon,9,True,7,0,7,win,297943,779,1533924,2016
+0,1,6.2,0.0,1,1,0,3,4,0,25,22,0,0,0,0,0,0,0,0,0,0,0,0,4,12,0,0,0,1,1,03/20/2016,neutral,12360,802,Wis.-Stevens Point,9,True,5,4,1,win,299760,779,1533924,2016
+0,1,0.2,0.0,3,4,4,1,0,0,7,4,1,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1,0,03/25/2016,home,12360,684,Suffolk,9,True,5,8,-3,loss,300737,779,1533924,2016
+0,0,2.0,0.0,1,1,1,3,1,0,12,7,0,0,0,0,0,2,0,0,0,0,0,0,3,2,0,0,0,2,0,04/11/2016,home,12360,227,Fitchburg St.,9,True,23,7,16,win,305332,779,1533924,2016
+0,0,1.1,0.0,3,3,3,2,3,0,11,8,1,0,0,0,1,1,0,0,0,0,0,0,2,0,0,0,0,2,0,04/19/2016,home,12360,722,Coast Guard,9,True,12,3,9,win,307602,779,1533924,2016

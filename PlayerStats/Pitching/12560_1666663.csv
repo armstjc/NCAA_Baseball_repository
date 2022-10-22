@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,2,3,3,2,1,0,9,6,0,0,0,1,0,1,0,2,0,0,0,0,3,0,0,0,0,2,1,03/05/2017,neutral,12560,582,Rockford,9,True,11,8,3,win,209208,707,1666663,2017
+0,0,1.2,0.0,5,4,2,0,1,0,13,10,0,0,0,0,1,2,0,1,0,0,1,0,0,4,0,0,0,2,0,03/07/2017,neutral,12560,1332,Dominican (IL),9,True,5,15,-10,loss,209705,707,1666663,2017
+0,0,1.1,0.0,0,1,1,2,0,0,8,4,0,0,0,0,0,2,0,0,0,0,0,0,4,0,0,0,0,4,0,03/11/2017,neutral,12560,722,Coast Guard,9,True,8,9,-1,loss,210690,707,1666663,2017
+0,0,2.2,0.0,3,1,1,4,0,0,14,9,1,0,0,0,0,0,0,0,0,1,0,0,1,5,0,0,0,2,0,03/23/2017,home,12560,23725,Medaille,9,True,8,2,6,win,213112,707,1666663,2017
+0,0,1.0,0.0,4,4,4,1,1,0,9,7,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,3,0,04/05/2017,home,12560,30084,Geneva,9,True,5,11,-6,loss,216904,707,1666663,2017

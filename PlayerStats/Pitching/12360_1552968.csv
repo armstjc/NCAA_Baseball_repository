@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,4,3,1,0,1,0,12,11,1,0,0,0,0,1,0,0,0,0,0,32,4,2,0,0,0,2,0,03/06/2016,away,12360,44,Averett,9,True,10,3,7,win,295937,30081,1552968,2016
+0,0,0.1,0.0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,03/12/2016,home,12360,243,Frostburg St.,9,True,9,15,-6,loss,297717,30081,1552968,2016
+0,0,2.2,0.0,3,1,1,1,0,0,12,11,0,0,0,0,1,0,0,1,1,0,0,41,4,4,0,0,0,4,0,04/16/2016,away,12360,622,Salisbury,9,True,8,15,-7,loss,306799,30081,1552968,2016

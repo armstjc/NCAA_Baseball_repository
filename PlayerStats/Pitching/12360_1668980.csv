@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,0.0,3,3,0,3,8,0,22,19,2,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,1,4,02/27/2016,home,12360,564,Ramapo,9,True,3,4,-1,loss,294213,124,1668980,2016
+0,1,6.1,0.0,8,6,3,1,2,0,28,26,1,0,0,0,0,1,0,0,0,0,0,0,7,7,0,0,0,1,2,03/06/2016,away,12360,390,Mary Washington,10,True,6,7,-1,loss,296157,124,1668980,2016
+0,1,1.2,0.0,1,0,0,1,4,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,03/12/2016,home,12360,8404,Hood,9,True,4,3,1,win,297303,124,1668980,2016

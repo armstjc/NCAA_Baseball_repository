@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,7,0,02/13/2016,home,12360,1130,Huntingdon,9,True,2,11,-9,loss,292140,426,1770724,2016
+0,1,2.0,0.0,3,1,1,2,1,0,11,8,1,0,0,0,1,1,0,0,0,0,0,0,3,1,0,0,0,1,0,03/30/2016,home,12360,30197,Belhaven,10,True,6,8,-2,loss,302170,426,1770724,2016
+0,0,2.0,0.0,2,1,1,1,0,0,9,8,2,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,2,0,04/05/2016,away,12360,1162,LaGrange,9,True,2,10,-8,loss,303734,426,1770724,2016
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,5,0,04/12/2016,home,12360,429,Mississippi Col.,9,True,1,6,-5,loss,305557,426,1770724,2016
+0,0,1.0,0.0,2,1,1,0,1,0,6,5,0,0,2,0,0,1,0,0,0,0,0,0,2,0,0,0,0,4,0,04/23/2016,away,12360,28593,Birmingham-So.,9,True,11,13,-2,loss,308988,426,1770724,2016

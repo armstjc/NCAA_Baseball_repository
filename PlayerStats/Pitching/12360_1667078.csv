@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,5.0,0.0,2,2,2,2,5,0,20,16,1,0,0,0,0,1,1,0,0,1,0,0,6,3,1,0,0,2,1,03/02/2016,away,12360,679,Stevens,9,True,8,6,2,win,294882,319,1667078,2016
+0,1,6.1,0.0,5,3,3,4,3,0,30,23,1,1,0,0,0,2,0,0,0,1,0,86,8,6,0,1,0,1,1,03/11/2016,neutral,12360,411,Messiah,9,True,3,4,-1,loss,297009,319,1667078,2016
+0,1,2.2,0.0,2,0,0,1,1,0,10,9,1,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,1,0,03/16/2016,away,12360,1468,Mt. St. Mary (NY),9,True,5,1,4,win,298444,319,1667078,2016

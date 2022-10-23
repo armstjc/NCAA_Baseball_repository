@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,2,3,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,03/11/2016,neutral,12360,938,Alvernia,9,True,3,11,-8,loss,297160,30042,1446346,2016
+0,0,0.0,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,03/22/2016,home,12360,722,Coast Guard,9,True,7,5,2,win,300197,30042,1446346,2016
+0,0,1.0,0.0,1,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,3,0,04/10/2016,away,12360,2691,Daniel Webster,9,True,13,0,13,win,304896,30042,1446346,2016
+0,0,0.2,0.0,1,0,0,0,0,0,3,3,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,2,0,04/13/2016,home,12360,623,Salve Regina,9,True,3,8,-5,loss,305842,30042,1446346,2016
+0,1,3.2,0.0,10,10,2,0,2,0,23,23,1,0,0,2,0,0,0,0,0,0,0,0,6,3,0,1,0,1,0,04/24/2016,home,12360,24317,Lesley,9,True,4,11,-7,loss,309500,30042,1446346,2016

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,0.0,2,4,4,2,1,0,21,16,1,0,0,0,0,3,0,0,0,0,0,0,10,3,0,0,0,1,0,03/01/2016,home,12360,321,John Jay,9,True,6,4,2,win,294808,479,1779491,2016
+0,0,1.0,0.0,1,2,2,1,0,0,6,4,0,0,0,1,1,1,0,0,0,0,0,0,3,0,0,0,0,4,0,03/06/2016,neutral,12360,581,Rochester (NY),9,True,8,12,-4,loss,296014,479,1779491,2016
+0,1,3.0,0.0,2,4,3,6,1,0,16,10,0,0,0,0,3,0,0,0,0,0,0,69,4,3,0,0,0,1,1,03/11/2016,neutral,12360,581,Rochester (NY),9,True,9,10,-1,loss,297045,479,1779491,2016

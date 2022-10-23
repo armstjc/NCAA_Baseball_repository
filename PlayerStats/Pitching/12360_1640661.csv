@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,0,1,0,5,5,1,1,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,4,0,03/13/2016,neutral,12360,73,Brandeis,9,True,9,3,6,win,298021,217,1640661,2016
+0,0,1.0,0.0,0,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,2,0,04/06/2016,home,12360,28593,Birmingham-So.,9,True,8,3,5,win,303916,217,1640661,2016
+0,0,1.0,0.0,2,3,1,2,1,0,8,6,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,04/09/2016,home,12360,491,N.C. Wesleyan,9,True,17,7,10,win,304580,217,1640661,2016
+0,0,1.0,1,3,1,1,1,2,0,7,6,0,0,0,0,0,0,0,0,0,0,0,30,0,0,1,1,1,5,0,04/15/2016,away,12360,0,Georgia Gwinnett,9,True,3,14,-11,loss,306013,217,1640661,2016
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,1,04/19/2016,away,12360,2713,Oglethorpe,9,True,10,1,9,win,307760,217,1640661,2016
+0,0,1.0,0.0,2,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,05/22/2016,neutral,12360,637,Shenandoah,9,True,15,2,13,win,314137,217,1640661,2016

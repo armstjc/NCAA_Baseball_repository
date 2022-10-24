@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,3,4,2,2,1,0,16,12,2,0,0,0,1,0,0,0,0,1,1,0,3,4,0,0,1,2,1,04/11/2016,home,12360,319,New Jersey City,9,True,15,8,7,win,305278,589,1653264,2016
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,04/14/2016,away,12360,564,Ramapo,9,True,3,5,-2,loss,305880,589,1653264,2016
+0,0,2.0,0.0,1,0,0,1,0,0,8,7,1,0,0,0,0,0,0,0,0,0,0,31,0,6,0,0,0,2,0,04/16/2016,away,12360,329,Kean,9,True,10,3,7,win,306666,589,1653264,2016
+0,0,1.1,0.0,2,1,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,4,0,04/22/2016,away,12360,787,Wm. Paterson,11,True,8,9,-1,loss,308149,589,1653264,2016
+0,0,2.1,0.0,6,3,3,0,1,0,12,12,3,0,0,0,0,0,0,0,0,0,0,0,3,2,0,1,0,2,0,04/30/2016,away,12360,681,Stockton,9,True,5,6,-1,loss,310449,589,1653264,2016

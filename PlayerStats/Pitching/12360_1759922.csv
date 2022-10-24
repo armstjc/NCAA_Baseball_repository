@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,0,0,1,2,0,6,5,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,6,1,03/02/2016,neutral,12360,1254,Neumann,9,True,7,9,-2,loss,294912,601,1759922,2016
+0,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,03/30/2016,home,12360,581,Rochester (NY),9,True,14,2,12,win,302082,601,1759922,2016
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,1,04/10/2016,away,12360,733,Utica,9,True,14,6,8,win,305176,601,1759922,2016
+0,0,1.0,0.0,2,3,3,1,3,0,6,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,04/17/2016,away,12360,30165,SUNY Canton,9,True,24,6,18,win,307088,601,1759922,2016
+0,0,2.1,0.0,5,3,3,2,1,0,13,11,2,0,0,1,0,0,0,1,1,0,0,49,3,2,0,0,0,3,0,05/09/2016,away,12360,580,RIT,9,True,20,13,7,win,312600,601,1759922,2016

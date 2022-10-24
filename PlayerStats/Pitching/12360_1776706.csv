@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,2,4,3,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,02/29/2016,neutral,12360,84,Buena Vista,9,True,2,12,-10,loss,294660,798,1776706,2016
+0,0,0.0,0.0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,04/07/2016,away,12360,1036,Concordia Wisconsin,9,True,17,5,12,win,303962,798,1776706,2016
+0,0,1.1,0.0,0,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,04/20/2016,away,12360,348,Lawrence,9,True,16,3,13,win,307873,798,1776706,2016

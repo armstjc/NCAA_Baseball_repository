@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,4.0,0.0,1,0,0,1,2,0,15,13,0,0,0,0,1,1,0,3,2,0,0,0,4,5,0,0,0,5,1,03/15/2016,home,12360,143,Clarion,9,True,10,17,-7,loss,298248,30036,1754356,2016
+0,0,2.0,0.0,8,9,3,0,0,0,18,16,3,0,0,1,0,0,0,0,0,0,2,0,1,5,0,0,0,2,0,03/24/2016,away,12360,637,Shenandoah,9,True,4,20,-16,loss,300478,30036,1754356,2016
+0,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,04/13/2016,home,12360,11839,Pitt.-Greensburg,9,True,4,8,-4,loss,305730,30036,1754356,2016
+0,0,1.1,0.0,0,0,0,4,0,0,7,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,2,0,04/19/2016,away,12360,25719,Penn St.-Altoona,9,True,15,6,9,win,307758,30036,1754356,2016

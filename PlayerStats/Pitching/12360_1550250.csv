@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,2,2,1,1,0,0,5,4,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,02/28/2016,away,12360,216,Emory & Henry,9,True,11,21,-10,loss,294382,30036,1550250,2016
+0,0,2.0,0.0,3,1,1,1,2,0,9,8,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,1,03/24/2016,away,12360,637,Shenandoah,9,True,4,20,-16,loss,300478,30036,1550250,2016
+0,0,1.0,0.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,04/17/2016,home,12360,242,Fredonia,9,True,17,5,12,win,307076,30036,1550250,2016
+0,1,2.0,0.0,5,5,5,3,2,0,13,10,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,1,1,04/20/2016,home,12360,8404,Hood,9,True,18,10,8,win,307911,30036,1550250,2016

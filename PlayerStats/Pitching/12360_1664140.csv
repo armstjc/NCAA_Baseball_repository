@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,0,0,0,0,1,0,5,5,0,0,0,0,0,0,0,2,1,0,0,0,4,0,1,0,0,2,1,03/12/2016,neutral,12360,30038,Bethany Lutheran,9,True,13,7,6,win,297535,778,1664140,2016
+0,0,0.2,0.0,2,2,1,1,1,0,6,5,0,0,0,1,0,0,0,2,2,0,0,0,0,1,0,0,0,3,1,03/29/2016,home,12360,296,Benedictine (IL),9,True,12,11,1,win,301884,778,1664140,2016
+0,0,1.0,0.0,2,2,2,1,2,0,6,5,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,4,1,04/08/2016,away,12360,40,Augustana (IL),9,True,8,12,-4,loss,304059,778,1664140,2016
+0,0,0.1,0.0,2,1,1,2,1,0,5,3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3,0,04/16/2016,away,12360,212,Elmhurst,9,True,1,11,-10,loss,306630,778,1664140,2016
+0,0,1.0,0.0,0,0,0,1,0,0,5,3,0,0,0,0,0,1,0,0,0,0,0,13,1,2,0,0,0,5,0,04/19/2016,away,12360,1332,Dominican (IL),9,True,10,6,4,win,307565,778,1664140,2016

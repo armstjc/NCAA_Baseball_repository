@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,0,0,0,1,2,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,4,0,02/16/2016,away,12360,2683,Belmont Abbey,9,True,6,12,-6,loss,292354,30094,1542818,2016
+0,0,1.0,0.0,3,3,3,0,1,0,7,5,0,1,0,0,0,1,0,0,0,1,0,20,1,1,0,1,0,2,0,02/21/2016,home,12360,1199,Mars Hill,9,True,4,6,-2,loss,293342,30094,1542818,2016
+0,0,0.2,0.0,1,5,5,2,0,0,8,1,0,0,0,0,0,3,0,0,0,0,2,25,0,2,0,0,0,5,0,02/27/2016,home,12360,1023,Coker,9,True,2,16,-14,loss,294052,30094,1542818,2016
+0,0,0.0,0.0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,3,2,0,0,11,0,0,0,0,0,4,0,03/29/2016,away,12360,9223,North Greenville,9,True,3,9,-6,loss,301836,30094,1542818,2016

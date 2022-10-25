@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,5,1,1,1,1,0,11,10,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,0,2,0,03/14/2016,neutral,12360,278,Heidelberg,10,True,6,5,1,win,298092,803,1665611,2016
+0,0,0.2,0.0,2,3,0,0,1,0,6,5,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,3,1,03/18/2016,neutral,12360,1066,Edgewood,9,True,5,14,-9,loss,298903,803,1665611,2016
+0,0,1.0,0.0,3,4,4,1,0,0,7,5,0,0,0,1,0,0,0,0,0,0,1,0,1,2,0,0,0,3,0,04/10/2016,away,12360,798,Wis.-Oshkosh,9,True,3,13,-10,loss,305225,803,1665611,2016

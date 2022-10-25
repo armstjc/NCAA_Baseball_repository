@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.1,0.0,1,4,4,4,3,0,22,14,0,0,1,0,2,4,0,0,0,0,0,0,7,3,1,0,0,1,1,02/16/2016,home,12360,1124,Hendrix,9,True,9,8,1,win,292353,23008,1650172,2016
+0,0,0.2,0.0,2,1,1,0,1,0,4,4,1,0,0,0,0,0,0,1,1,0,0,13,0,1,0,0,0,4,0,03/05/2016,home,12360,24400,Concordia (TX),9,True,0,9,-9,loss,295402,23008,1650172,2016
+0,1,2.1,0.0,5,4,4,3,0,0,15,10,2,0,0,0,1,0,0,0,0,0,2,57,2,5,0,1,0,1,0,03/16/2016,away,12360,1124,Hendrix,9,True,3,11,-8,loss,298464,23008,1650172,2016
+0,0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,2,0,0,0,0,0,2,0,04/16/2016,away,12360,30028,UT Tyler,9,True,7,4,3,win,306730,23008,1650172,2016

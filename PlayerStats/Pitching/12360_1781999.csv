@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.2,0.0,5,0,0,0,2,0,17,17,0,0,0,0,0,0,0,3,2,0,0,0,4,4,1,0,0,2,0,03/11/2016,neutral,12360,23725,Medaille,9,True,12,8,4,win,297051,45,1781999,2016
+0,1,5.0,0.0,5,4,4,2,3,0,22,19,0,0,0,1,0,1,0,0,0,0,0,0,6,5,0,0,0,1,0,03/16/2016,neutral,12360,570,Rensselaer,9,True,6,4,2,win,298478,45,1781999,2016
+0,1,6.0,0.0,5,2,2,1,2,0,27,23,1,0,0,1,0,3,0,0,0,0,0,0,8,8,0,0,0,1,0,03/24/2016,home,12360,330,Keene St.,9,True,7,4,3,win,300558,45,1781999,2016
+0,1,3.0,0.0,7,7,5,1,2,0,18,15,2,0,0,0,1,1,0,0,0,1,0,0,7,0,0,1,0,1,0,03/31/2016,home,12360,583,Roger Williams,10,True,8,10,-2,loss,302237,45,1781999,2016
+0,1,2.0,0.0,3,4,4,2,1,0,11,9,1,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,04/10/2016,away,12360,808,WPI,9,True,7,8,-1,loss,305195,45,1781999,2016

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,3,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1,02/28/2016,neutral,12360,20220,MSOE,9,True,1,9,-8,loss,294555,1115,1773247,2016
+0,0,1.0,0.0,0,0,0,0,1,0,3,2,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,0,03/01/2016,neutral,12360,30065,NVU-Lyndon,9,True,10,1,9,win,294796,1115,1773247,2016
+0,0,0.2,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,4,0,03/19/2016,home,12360,137,UChicago,9,True,0,7,-7,loss,299439,1115,1773247,2016
+0,0,0.0,0.0,0,2,2,1,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,03/20/2016,home,12360,137,UChicago,9,True,2,10,-8,loss,299723,1115,1773247,2016

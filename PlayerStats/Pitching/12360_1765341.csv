@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,2,2,0,0,0,6,6,1,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,3,0,02/20/2016,away,12360,28593,Birmingham-So.,9,True,0,8,-8,loss,292699,28749,1765341,2016
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,03/05/2016,away,12360,973,Berry,9,True,12,8,4,win,295380,28749,1765341,2016
+0,0,2.0,0.0,4,3,3,0,0,0,10,10,2,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,4,0,03/19/2016,away,12360,520,Ohio Wesleyan,9,True,4,13,-9,loss,299343,28749,1765341,2016

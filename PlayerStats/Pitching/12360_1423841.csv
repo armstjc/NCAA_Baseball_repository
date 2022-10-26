@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,1,3,3,2,1,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,03/22/2016,home,12360,789,Williams,9,True,13,11,2,win,300168,372,1423841,2016
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,4,0,03/25/2016,neutral,12360,60,Bethel (MN),9,True,11,10,1,win,300942,372,1423841,2016
+0,0,0.2,0.0,2,2,2,1,1,0,5,4,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,04/02/2016,away,12360,126,Central (IA),9,True,17,20,-3,loss,303028,372,1423841,2016
+0,0,1.0,0.0,0,2,1,1,0,0,6,2,0,0,0,0,0,2,0,0,0,0,1,0,0,2,0,0,0,4,0,05/02/2016,home,12360,84,Buena Vista,9,True,1,10,-9,loss,311253,372,1423841,2016
+0,0,0.2,0.0,0,1,0,0,0,0,3,1,0,0,0,0,0,2,0,2,2,0,0,0,1,0,0,0,0,2,0,05/06/2016,home,12360,192,Dubuque,9,True,17,10,7,win,311748,372,1423841,2016
+0,0,1.0,0.0,3,3,3,0,0,0,6,6,2,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,5,0,05/19/2016,neutral,12360,160,Concordia Chicago,9,True,3,16,-13,loss,313697,372,1423841,2016

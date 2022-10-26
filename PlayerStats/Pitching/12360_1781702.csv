@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,03/12/2016,home,12360,30039,North Central (MN),9,True,14,4,10,win,297683,372,1781702,2016
+0,1,5.0,0.0,7,3,3,2,6,0,26,22,0,0,0,1,0,2,0,0,0,0,0,92,3,5,1,0,0,1,0,03/24/2016,neutral,12360,515,Oberlin,9,True,12,3,9,win,300551,372,1781702,2016
+0,1,5.2,0.0,5,7,5,5,5,0,28,21,0,1,0,0,1,0,0,0,0,1,1,0,6,6,0,1,0,1,2,04/06/2016,home,12360,750,Wartburg,9,True,5,8,-3,loss,303889,372,1781702,2016
+0,0,3.0,0.0,1,0,0,0,2,0,10,10,0,0,0,0,0,0,0,1,1,0,0,38,4,3,0,0,0,4,0,04/10/2016,away,12360,364,Loras,9,True,5,10,-5,loss,305068,372,1781702,2016
+0,1,4.0,0.0,3,3,3,5,1,0,20,15,1,0,0,0,2,0,0,0,0,0,0,0,5,6,0,0,0,1,1,04/16/2016,home,12360,641,Simpson,9,True,4,3,1,win,306755,372,1781702,2016

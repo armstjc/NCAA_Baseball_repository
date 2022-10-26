@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,1,1,1,1,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,03/12/2016,home,12360,30039,North Central (MN),9,True,19,3,16,win,297638,372,1537979,2016
+0,1,7.0,0.0,7,3,2,4,4,0,29,25,0,0,0,1,0,0,0,0,0,0,0,113,8,5,0,0,0,1,1,03/24/2016,neutral,12360,515,Oberlin,11,True,5,4,1,win,300545,372,1537979,2016
+0,1,2.0,0.0,8,6,5,2,3,0,16,14,2,0,0,0,1,0,0,0,0,0,0,0,2,1,0,1,0,1,1,04/06/2016,home,12360,750,Wartburg,9,True,2,7,-5,loss,303926,372,1537979,2016

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,1,7,6,6,3,5,0,27,23,1,1,0,0,1,1,0,0,0,0,0,55,7,2,0,1,0,1,4,03/06/2016,neutral,12360,12399,Gwynedd Mercy,9,True,2,6,-4,loss,296052,455,1555185,2016
+0,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,03/11/2016,neutral,12360,145,Clark (MA),9,True,16,11,5,win,297080,455,1555185,2016
+0,1,5.1,0.0,7,5,5,2,6,0,28,24,1,0,0,0,0,1,0,0,0,1,0,0,7,3,0,1,0,1,2,03/18/2016,home,12360,21,Alma,9,True,2,7,-5,loss,298931,455,1555185,2016

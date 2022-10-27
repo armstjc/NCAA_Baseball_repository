@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,3.2,0.0,2,4,4,2,2,0,16,11,0,0,1,0,1,1,0,0,0,1,1,0,7,2,0,0,0,1,1,02/21/2016,neutral,12360,815,York (PA),12,True,11,13,-2,loss,293304,745,1771851,2016
+0,1,3.1,0.0,8,4,4,4,1,0,18,13,0,0,0,0,1,1,0,0,0,0,0,0,2,1,0,1,0,1,0,02/28/2016,home,12360,530,Oswego St.,9,True,2,10,-8,loss,294344,745,1771851,2016
+0,0,1.0,0.0,4,3,3,0,2,0,7,7,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,3,0,03/15/2016,away,12360,412,Methodist,9,True,0,4,-4,loss,298198,745,1771851,2016
+0,0,0.1,0.0,0,3,3,4,1,0,6,1,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,2,0,04/11/2016,away,12360,390,Mary Washington,9,True,8,12,-4,loss,305351,745,1771851,2016

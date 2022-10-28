@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,3,0,03/09/2016,neutral,12360,1451,Westminster (PA),9,True,10,2,8,win,296673,438,1656851,2016
+0,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,3,0,03/19/2016,home,12360,30173,Iowa Wesleyan,9,True,14,2,12,win,299206,438,1656851,2016
+0,0,0.1,0.0,0,2,0,1,0,0,6,1,0,0,0,0,0,4,0,3,3,0,0,0,0,1,0,0,0,3,0,04/03/2016,away,12360,0,Roosevelt-Peoria,9,True,11,21,-10,loss,303419,438,1656851,2016
+0,0,1.0,0.0,1,0,0,0,1,0,4,2,0,0,0,0,0,0,0,3,2,0,2,0,0,2,0,0,0,5,0,04/17/2016,home,12360,166,Cornell College,9,True,2,19,-17,loss,307314,438,1656851,2016
+0,0,1.0,0.0,2,0,0,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,1,04/20/2016,home,12360,0,Robert Morris-S'fiel,9,True,14,7,7,win,307832,438,1656851,2016
+0,0,0.2,0.0,2,1,1,1,0,0,5,2,0,0,0,0,0,0,1,2,2,1,1,0,1,1,0,0,0,3,0,05/01/2016,home,12360,297,Illinois Col.,9,True,3,10,-7,loss,311073,438,1656851,2016

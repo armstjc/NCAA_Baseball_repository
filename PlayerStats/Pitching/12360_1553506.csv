@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,0,0,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,03/14/2016,neutral,12360,192,Dubuque,9,True,16,1,15,win,298083,376,1553506,2016
+0,0,2.0,0.0,3,0,0,0,1,0,9,9,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,2,1,03/19/2016,neutral,12360,89,Caltech,9,True,9,3,6,win,299423,376,1553506,2016
+0,1,4.0,0.0,4,1,1,1,2,0,15,14,1,0,0,0,2,0,0,0,0,0,0,0,5,3,1,0,0,1,1,04/15/2016,home,12360,1226,Minn.-Morris,9,True,4,3,1,win,306182,376,1553506,2016
+0,0,2.1,0.0,2,0,0,1,1,0,10,9,1,1,0,0,0,0,0,3,1,0,0,0,4,2,0,0,0,2,0,04/18/2016,home,12360,30031,Northwestern-St. Paul,9,True,3,5,-2,loss,307425,376,1553506,2016
+0,0,1.0,0.0,1,1,1,1,0,0,5,3,0,0,0,0,1,0,0,0,0,0,1,0,0,3,0,0,0,2,0,04/30/2016,away,12360,161,Concordia-M'head,9,True,0,8,-8,loss,310571,376,1553506,2016

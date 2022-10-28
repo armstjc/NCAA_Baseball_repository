@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,0,0,0,4,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,03/15/2016,neutral,12360,656,UMass Dartmouth,9,True,20,3,17,win,298283,712,1768660,2016
+0,1,4.0,0.0,7,7,7,3,1,0,20,17,4,0,0,0,0,0,0,0,0,0,0,77,5,4,0,0,0,1,0,04/05/2016,home,12360,303,Immaculata,9,True,14,8,6,win,303663,712,1768660,2016
+0,1,7.0,0.0,7,3,2,2,2,0,30,27,0,0,0,0,2,1,0,0,0,0,0,88,11,6,1,0,0,1,2,04/19/2016,home,12360,221,FDU-Florham,9,True,10,9,1,win,307647,712,1768660,2016
+0,0,1.0,0.0,4,5,2,0,1,0,8,8,1,0,0,1,0,0,0,0,0,0,0,22,2,0,0,0,0,2,0,05/20/2016,neutral,12360,1340,St. Joseph's (L.I.),9,True,15,5,10,win,313900,712,1768660,2016

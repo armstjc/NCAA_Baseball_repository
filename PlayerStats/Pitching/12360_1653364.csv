@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,2,1,0,0,0,3,0,02/07/2016,neutral,12360,22235,Lewis & Clark,9,True,8,3,5,win,291929,785,1653364,2016
+0,0,0.2,0.0,0,0,0,2,1,0,4,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,2,0,02/14/2016,away,12360,516,Occidental,10,True,10,6,4,win,292293,785,1653364,2016
+0,0,1.0,0.0,1,1,1,2,0,0,7,3,0,0,0,0,0,1,0,0,0,0,1,28,1,2,0,0,0,4,0,03/12/2016,neutral,12360,557,Puget Sound,9,True,4,14,-10,loss,297702,785,1653364,2016

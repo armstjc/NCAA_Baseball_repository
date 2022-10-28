@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,0,2,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,03/13/2016,neutral,12360,1379,Southern Vt.,9,True,12,7,5,win,298010,376,1640359,2016
+0,0,1.0,0.0,1,2,2,3,1,0,8,3,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,2,0,03/17/2016,neutral,12360,804,Wis.-Superior,9,True,9,6,3,win,298610,376,1640359,2016
+0,0,3.1,0.0,3,1,0,2,2,0,17,13,0,0,0,0,0,1,0,1,0,1,0,0,1,6,0,1,0,2,1,04/12/2016,home,12360,602,Saint John's (MN),9,True,7,8,-1,loss,305532,376,1640359,2016
+0,0,0.1,0.0,3,7,7,3,0,0,8,4,0,0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,0,3,0,04/16/2016,away,12360,620,St. Thomas (MN),9,True,3,21,-18,loss,306833,376,1640359,2016
+0,0,1.1,0.0,2,3,3,3,2,0,10,5,0,1,1,0,1,1,0,1,0,1,0,0,1,1,0,0,0,4,1,04/23/2016,home,12360,612,Saint Mary's (MN),9,True,7,13,-6,loss,309023,376,1640359,2016
+0,0,1.0,0.0,3,2,2,0,2,0,7,6,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,3,0,04/30/2016,away,12360,161,Concordia-M'head,9,True,1,13,-12,loss,310736,376,1640359,2016

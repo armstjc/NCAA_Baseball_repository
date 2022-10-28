@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.1,0.0,7,3,1,2,1,0,30,27,2,0,0,0,0,1,0,0,0,0,0,0,5,10,1,0,0,1,0,03/06/2016,neutral,12360,8398,Hilbert,9,True,6,3,3,win,295995,438,1543025,2016
+0,1,7.2,0.0,3,0,0,4,5,0,29,25,1,0,0,0,1,0,0,0,0,0,0,0,14,3,1,0,0,1,1,03/17/2016,away,12360,0,Robert Morris-S'fiel,9,True,1,0,1,win,298556,438,1543025,2016
+0,1,0.2,0.0,9,11,4,1,1,0,13,12,2,0,0,4,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,04/03/2016,away,12360,0,Roosevelt-Peoria,9,True,5,14,-9,loss,303451,438,1543025,2016
+0,1,0.0,0.0,4,4,3,0,0,0,4,4,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,04/09/2016,away,12360,264,Grinnell,9,True,0,6,-6,loss,304718,438,1543025,2016
+0,0,3.0,0.0,5,0,0,0,0,0,11,10,1,0,0,0,0,0,0,2,2,0,1,0,3,3,0,0,0,5,0,04/17/2016,home,12360,166,Cornell College,9,True,14,18,-4,loss,307233,438,1543025,2016
+0,0,2.0,0.0,2,0,0,1,2,0,9,8,2,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,2,0,04/28/2016,away,12360,297,Illinois Col.,9,True,12,9,3,win,309952,438,1543025,2016

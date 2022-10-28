@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,3,3,1,0,0,7,5,1,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,3,0,02/05/2016,away,12360,1130,Huntingdon,9,True,2,7,-5,loss,291647,8746,1760515,2016
+0,0,2.1,0.0,3,3,3,2,0,0,12,10,0,0,0,1,0,0,0,3,0,0,0,46,2,5,1,0,0,2,0,02/13/2016,home,12360,2751,Pacific (OR),9,True,19,7,12,win,292141,8746,1760515,2016
+0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,5,1,1,0,0,0,4,0,02/20/2016,home,12360,125,Centenary (LA),9,True,2,5,-3,loss,292987,8746,1760515,2016
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,3,0,0,0,0,3,0,03/22/2016,away,12360,30028,UT Tyler,9,True,6,7,-1,loss,300044,8746,1760515,2016
+0,0,0.2,0.0,2,3,3,2,0,0,6,4,1,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,03/29/2016,home,12360,23121,Texas-Dallas,9,True,4,21,-17,loss,301899,8746,1760515,2016

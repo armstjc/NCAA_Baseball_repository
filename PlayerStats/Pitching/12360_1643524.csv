@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,0,0,0,0,2,0,7,6,0,0,0,0,0,1,0,0,0,0,0,0,1,3,0,0,1,2,2,03/06/2016,neutral,12360,1164,Lakeland,9,True,6,2,4,win,296065,297,1643524,2016
+0,0,2.1,0.0,2,2,0,2,3,0,12,10,1,1,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,3,1,03/09/2016,neutral,12360,21772,Newbury,9,True,12,10,2,win,296672,297,1643524,2016
+0,0,1.0,0.0,4,4,4,1,0,0,8,6,2,0,0,0,0,1,0,0,0,0,0,0,2,0,0,1,0,5,0,03/25/2016,home,12360,218,Eureka,9,True,5,6,-1,loss,300712,297,1643524,2016
+0,0,1.1,0.0,2,1,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,3,0,04/09/2016,away,12360,166,Cornell College,10,True,2,3,-1,loss,304592,297,1643524,2016
+0,0,1.2,0.0,4,1,1,1,2,0,10,9,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,1,0,4,0,05/08/2016,away,12360,337,Knox,9,True,11,12,-1,loss,312504,297,1643524,2016

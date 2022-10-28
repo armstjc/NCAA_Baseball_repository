@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,5,6,4,1,0,0,8,7,1,0,0,0,0,0,0,3,0,0,0,0,0,2,0,0,0,3,0,03/06/2016,neutral,12360,1164,Lakeland,9,True,13,12,1,win,296037,297,1643529,2016
+0,0,0.1,0.0,3,3,3,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,03/09/2016,neutral,12360,21772,Newbury,9,True,12,10,2,win,296672,297,1643529,2016
+0,1,5.0,0.0,4,6,3,3,3,0,23,19,1,0,0,1,0,0,0,0,0,0,1,0,6,5,0,1,0,1,2,04/12/2016,home,12360,30173,Iowa Wesleyan,9,True,6,10,-4,loss,305435,297,1643529,2016

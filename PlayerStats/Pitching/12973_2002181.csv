@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.1,0.0,3,2,2,3,1,0,15,12,0,0,0,0,0,0,0,3,0,0,0,0,4,4,0,1,0,2,0,03/21/2018,neutral,12973,27892,Farmingdale St.,10,True,9,11,-2,loss,92719,30083,2002181,2018
+0,0,1.0,0.0,0,0,0,0,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,03/29/2018,away,12973,476,New Rochelle,9,True,4,3,1,win,94575,30083,2002181,2018
+0,0,1.0,0.0,1,1,1,1,0,0,5,3,0,0,0,0,1,0,0,0,0,0,1,18,0,3,0,0,0,6,0,04/08/2018,away,12973,267,Hamilton,9,True,4,11,-7,loss,97404,30083,2002181,2018
+0,1,2.0,0.0,10,10,2,2,0,0,19,15,1,0,0,0,3,1,0,0,0,0,1,59,2,4,0,1,0,1,0,04/22/2018,away,12973,30044,Penn St.-Berks,9,True,0,28,-28,loss,101400,30083,2002181,2018
+0,0,1.0,0.0,1,1,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,04/27/2018,away,12973,9500,SUNY Poly,9,True,4,8,-4,loss,102231,30083,2002181,2018

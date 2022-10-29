@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,2,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,2,0,02/29/2016,away,12360,17094,William Peace,9,True,7,8,-1,loss,294651,8968,1539078,2016
+0,0,0.0,0.0,1,5,5,4,0,0,6,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,2,0,03/01/2016,away,12360,412,Methodist,9,True,5,18,-13,loss,294742,8968,1539078,2016
+0,0,1.0,0.0,1,2,2,2,0,0,7,2,0,0,1,0,2,1,0,0,0,1,1,0,1,2,0,0,0,2,0,03/30/2016,away,12360,30085,Lancaster Bible,9,True,12,9,3,win,302107,8968,1539078,2016
+0,0,0.1,0.0,5,4,4,0,1,0,6,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,04/25/2016,away,12360,12399,Gwynedd Mercy,9,True,8,27,-19,loss,309545,8968,1539078,2016

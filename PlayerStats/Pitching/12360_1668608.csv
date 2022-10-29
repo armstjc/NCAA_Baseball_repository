@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,9.0,1,9,3,3,0,6,0,39,36,1,0,0,0,1,1,0,0,0,2,0,0,10,11,1,0,0,1,2,04/12/2016,away,12360,8597,Martin Luther,9,True,11,3,8,win,305509,30038,1668608,2016
+0,1,12.0,1,10,3,2,3,2,0,48,42,2,0,0,0,1,0,0,0,0,3,0,0,19,14,1,0,0,1,1,04/23/2016,home,12360,1226,Minn.-Morris,12,True,4,3,1,win,308518,30038,1668608,2016
+0,1,7.2,0.0,6,4,3,4,12,0,37,27,1,0,0,0,1,4,0,0,0,1,1,0,3,8,0,0,0,1,6,05/02/2016,away,12360,30035,Crown (MN),10,True,4,5,-1,loss,311247,30038,1668608,2016
+0,0,0.2,0.0,4,6,6,2,2,0,8,6,1,0,0,0,2,0,0,0,0,0,0,37,0,0,0,0,0,2,1,05/06/2016,away,12360,268,Hamline,9,True,1,20,-19,loss,311789,30038,1668608,2016

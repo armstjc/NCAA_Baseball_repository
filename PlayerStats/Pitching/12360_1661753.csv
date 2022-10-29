@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,3,3,3,2,2,0,11,9,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,2,1,03/05/2016,home,12360,511,Norwich,9,True,4,3,1,win,295463,962,1661753,2016
+0,0,3.0,0.0,0,0,0,1,3,0,10,9,0,0,0,0,0,0,0,0,0,0,0,43,3,3,0,0,0,2,1,03/13/2016,home,12360,1468,Mt. St. Mary (NY),9,True,1,2,-1,loss,297886,962,1661753,2016
+0,0,2.0,0.0,2,2,2,2,1,0,9,6,1,0,0,0,1,0,0,1,1,1,0,0,3,1,0,1,0,2,1,03/21/2016,away,12360,390,Mary Washington,9,True,5,7,-2,loss,299964,962,1661753,2016

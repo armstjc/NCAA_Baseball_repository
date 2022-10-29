@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,04/20/2016,home,12360,614,St. Norbert,9,True,4,13,-9,loss,307958,1164,1783715,2016
+0,0,1.1,0.0,2,2,1,1,1,0,10,7,1,0,0,0,2,2,0,1,1,0,0,0,1,2,0,0,0,2,1,04/23/2016,home,12360,1036,Concordia Wisconsin,9,True,0,14,-14,loss,309056,1164,1783715,2016
+0,0,1.0,0.0,2,4,4,4,1,0,9,5,0,0,0,0,1,0,0,1,0,0,0,0,2,0,0,0,0,2,0,04/26/2016,away,12360,614,St. Norbert,9,True,0,10,-10,loss,309696,1164,1783715,2016

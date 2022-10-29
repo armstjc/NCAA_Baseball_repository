@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,2,1,0,0,0,6,5,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,2,0,03/02/2017,home,12560,30166,Valley Forge,9,True,23,11,12,win,208200,1305,1771210,2017
+0,0,2.0,0.0,3,1,1,1,2,0,9,8,2,0,0,0,1,0,0,0,0,0,0,36,1,2,0,0,0,3,0,03/24/2017,home,12560,397,Marywood,9,True,16,6,10,win,213476,1305,1771210,2017
+0,0,4.0,0.0,1,0,0,3,5,0,17,13,0,0,0,0,2,1,0,0,0,0,0,59,4,3,1,0,0,2,2,03/30/2017,home,12560,0,Central Penn,9,True,14,1,13,win,215209,1305,1771210,2017
+0,0,1.2,0.0,5,7,6,3,1,0,15,11,4,0,1,0,2,1,0,0,0,0,0,59,2,2,0,0,0,2,0,04/11/2017,home,12560,30072,St. Joseph's (Brkln),9,True,20,12,8,win,218753,1305,1771210,2017

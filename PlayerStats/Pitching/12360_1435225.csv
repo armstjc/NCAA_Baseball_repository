@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,1,03/06/2016,neutral,12360,730,Ursinus,9,True,4,6,-2,loss,296059,762,1435225,2016
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,03/09/2016,neutral,12360,26,Anna Maria,9,True,21,1,20,win,296668,762,1435225,2016
+0,0,1.0,0.0,6,4,4,1,0,0,10,9,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,03/12/2016,neutral,12360,808,WPI,9,True,1,17,-16,loss,297705,762,1435225,2016
+0,0,1.0,0.0,4,5,5,2,0,0,9,7,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,04/01/2016,away,12360,22626,JWU (Providence),9,True,2,17,-15,loss,302358,762,1435225,2016
+0,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,4,0,04/22/2016,away,12360,1099,Gordon,9,True,9,10,-1,loss,308285,762,1435225,2016

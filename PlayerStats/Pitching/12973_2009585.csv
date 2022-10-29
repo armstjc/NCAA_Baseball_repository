@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,2,0,5,0,0,8,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,03/30/2018,home,12973,12884,Centenary (NJ),9,True,4,7,-3,loss,95036,30083,2009585,2018
+0,0,1.1,0.0,3,2,2,3,1,0,10,7,0,0,0,0,0,0,0,3,3,0,0,48,2,1,0,0,0,3,1,04/22/2018,away,12973,30044,Penn St.-Berks,9,True,0,28,-28,loss,101400,30083,2009585,2018
+0,0,2.0,0.0,3,1,1,1,2,0,10,9,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,2,1,04/29/2018,home,12973,1159,Keuka,9,True,0,11,-11,loss,103364,30083,2009585,2018
+0,0,1.0,0.0,1,0,0,1,1,0,5,4,0,0,0,0,1,0,0,1,1,0,0,0,0,2,0,0,0,2,1,05/06/2018,home,12973,245,Gallaudet,9,True,8,9,-1,loss,104779,30083,2009585,2018

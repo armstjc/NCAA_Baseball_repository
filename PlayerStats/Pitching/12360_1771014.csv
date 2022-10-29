@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,02/28/2016,home,12360,28593,Birmingham-So.,9,True,5,14,-9,loss,294632,2713,1771014,2016
+0,0,0.2,0.0,0,1,0,2,0,0,5,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,3,0,03/01/2016,home,12360,1162,LaGrange,9,True,7,6,1,win,294820,2713,1771014,2016
+0,0,0.0,0.0,1,1,1,2,0,0,3,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,03/06/2016,home,12360,426,Millsaps,9,True,7,16,-9,loss,296148,2713,1771014,2016
+0,0,2.0,0.0,3,1,1,0,3,0,10,9,1,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,4,1,03/10/2016,neutral,12360,571,Rhode Island Col.,9,True,16,10,6,win,296773,2713,1771014,2016
+0,0,2.0,0.0,1,0,0,2,0,0,8,6,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,2,0,03/15/2016,home,12360,21830,Piedmont,9,True,6,9,-3,loss,298355,2713,1771014,2016

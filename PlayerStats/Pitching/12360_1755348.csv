@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,02/18/2016,away,12360,245,Gallaudet,9,True,9,0,9,win,292401,139,1755348,2016
+0,0,0.1,0.0,1,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,12,0,1,0,0,0,3,0,02/20/2016,home,12360,589,Rutgers-Newark,9,True,18,10,8,win,292751,139,1755348,2016
+0,0,1.2,0.0,2,0,0,0,1,0,7,7,1,0,0,0,0,0,0,3,1,0,0,26,3,1,0,0,0,5,0,03/09/2016,home,12360,622,Salisbury,9,True,7,14,-7,loss,296580,139,1755348,2016
+0,0,0.1,0.0,4,5,4,0,0,0,6,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,03/23/2016,away,12360,30164,Southern Va.,9,True,12,10,2,win,300300,139,1755348,2016
+0,0,1.1,0.0,5,6,1,1,1,0,12,10,0,1,0,0,0,0,0,0,0,1,0,48,3,0,0,1,0,4,0,04/17/2016,away,12360,0,Apprentice,9,True,7,10,-3,loss,307125,139,1755348,2016

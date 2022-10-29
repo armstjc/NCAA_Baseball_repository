@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,0,0,0,3,1,0,0,0,0,0,1,0,0,0,0,1,0,0,2,0,0,0,3,0,03/20/2018,neutral,12973,325,Juniata,9,True,4,10,-6,loss,92625,30083,2002201,2018
+0,0,3.0,0.0,4,2,2,1,3,0,14,13,1,1,0,0,2,0,0,0,0,0,0,0,4,2,0,1,0,2,0,03/21/2018,neutral,12973,146,Clarkson,9,True,7,9,-2,loss,92718,30083,2002201,2018
+0,0,2.0,0.0,2,4,3,6,0,0,14,7,0,0,0,1,0,0,0,0,0,1,0,0,4,1,0,1,0,2,0,03/30/2018,home,12973,12884,Centenary (NJ),9,True,4,7,-3,loss,95036,30083,2002201,2018
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,1,0,0,0,0,0,0,0,0,0,11,1,2,0,0,0,5,0,04/08/2018,away,12973,267,Hamilton,9,True,4,11,-7,loss,97404,30083,2002201,2018
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,2,0,05/05/2018,home,12973,30085,Lancaster Bible,9,True,5,2,3,win,104490,30083,2002201,2018

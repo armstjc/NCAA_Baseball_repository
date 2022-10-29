@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,02/22/2016,neutral,12360,161,Concordia-M'head,9,True,4,14,-10,loss,293387,30160,1771583,2016
+0,0,1.2,0.0,4,4,0,0,4,0,11,9,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,2,1,02/25/2016,neutral,12360,30065,NVU-Lyndon,11,True,7,5,2,win,293516,30160,1771583,2016
+0,0,0.1,0.0,2,1,1,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,02/27/2016,neutral,12360,612,Saint Mary's (MN),9,True,2,6,-4,loss,294183,30160,1771583,2016
+0,0,2.0,0.0,2,1,1,0,1,0,7,7,2,0,0,0,1,0,0,2,0,0,0,0,3,1,0,0,0,2,0,03/25/2016,home,12360,733,Utica,9,True,12,1,11,win,300699,30160,1771583,2016
+0,0,1.1,0.0,7,4,4,0,1,0,11,11,4,0,0,0,0,0,0,3,2,0,0,0,1,2,0,0,0,3,0,04/01/2016,home,12360,30165,SUNY Canton,9,True,3,16,-13,loss,302509,30160,1771583,2016
+0,0,1.0,0.0,5,5,5,1,0,0,9,8,3,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,5,0,04/20/2016,home,12360,601,St. John Fisher,9,True,2,23,-21,loss,307818,30160,1771583,2016

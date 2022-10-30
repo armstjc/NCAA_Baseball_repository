@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,8.0,0.0,2,1,1,1,8,0,25,22,0,0,0,0,2,1,0,0,0,1,0,0,10,3,1,0,0,1,1,02/21/2016,home,12360,1461,Wilmington (OH),9,True,3,1,2,win,293229,132,1431479,2016
+0,1,6.0,0.0,4,0,0,0,12,0,23,23,1,0,0,0,0,0,0,0,0,0,0,0,2,4,1,0,0,1,2,02/27/2016,home,12360,555,Principia,9,True,6,0,6,win,293957,132,1431479,2016
+0,1,4.0,0.0,10,5,4,0,4,0,22,22,1,0,0,0,2,0,0,0,0,0,0,0,2,6,0,1,0,1,1,03/06/2016,away,12360,28593,Birmingham-So.,9,True,1,7,-6,loss,295808,132,1431479,2016
+0,1,4.0,0.0,5,1,1,2,4,0,19,16,3,1,0,0,0,0,0,0,0,0,1,0,4,3,0,0,0,1,2,03/12/2016,home,12360,426,Millsaps,9,True,7,9,-2,loss,297602,132,1431479,2016

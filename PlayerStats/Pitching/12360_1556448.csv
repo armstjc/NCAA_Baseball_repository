@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,4,3,2,0,0,9,6,1,0,0,0,1,1,0,0,0,0,0,0,1,2,0,0,0,2,0,03/20/2016,away,12360,0,Fisher,9,True,4,8,-4,loss,299608,379,1556448,2016
+0,0,0.2,0.0,1,0,0,1,1,0,4,2,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,2,0,04/09/2016,away,12360,123,Castleton,9,True,1,5,-4,loss,304766,379,1556448,2016
+0,1,6.0,0.0,5,3,3,2,6,0,27,23,2,0,0,0,0,1,0,0,0,0,0,0,7,4,0,1,0,1,2,04/13/2016,home,12360,1133,Husson,9,True,2,3,-1,loss,305845,379,1556448,2016
+0,1,4.2,0.0,8,6,6,1,0,0,23,22,1,1,0,1,0,0,0,0,0,0,0,0,7,7,0,1,0,1,0,04/19/2016,away,12360,50,Bates,9,True,0,6,-6,loss,307721,379,1556448,2016
+0,1,4.0,0.0,7,4,2,5,2,0,23,18,2,0,0,0,0,0,0,0,0,0,0,0,4,5,1,0,0,1,2,04/27/2016,away,12360,2758,Thomas (ME),9,True,18,5,13,win,309892,379,1556448,2016

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,2,1,0,0,1,0,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,03/05/2017,neutral,12560,571,Rhode Island Col.,10,True,8,10,-2,loss,209299,53,1769425,2017
+0,0,0.2,0.0,1,0,0,0,0,0,2,2,1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,5,0,03/06/2017,neutral,12560,30064,Saint Vincent,9,True,6,10,-4,loss,209438,53,1769425,2017
+0,0,0.1,0.0,3,4,4,2,0,0,6,4,1,0,2,0,0,0,0,2,2,0,0,0,1,0,0,0,0,2,0,04/02/2017,home,12560,614,St. Norbert,9,True,0,14,-14,loss,216180,53,1769425,2017
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,5,0,04/15/2017,home,12560,137,UChicago,9,True,10,13,-3,loss,220140,53,1769425,2017
+0,0,1.0,0.0,1,0,0,2,0,0,5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,04/21/2017,neutral,12560,264,Grinnell,9,True,1,4,-3,loss,221369,53,1769425,2017

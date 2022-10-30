@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,0.0,3,0,0,2,3,0,20,18,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0,0,1,0,03/07/2016,neutral,12360,806,Wittenberg,10,True,1,0,1,win,296192,53,1653270,2016
+0,1,2.1,0.0,4,4,4,3,0,0,13,9,1,1,0,0,0,0,0,0,0,1,0,0,2,4,0,0,0,1,0,03/12/2016,neutral,12360,30173,Iowa Wesleyan,9,True,8,4,4,win,297476,53,1653270,2016
+0,0,2.0,0.0,4,5,5,2,2,0,12,9,2,0,0,0,1,0,0,0,0,0,1,0,3,1,0,0,0,2,1,03/28/2016,away,12360,8911,Wis. Lutheran,9,True,14,6,8,win,301710,53,1653270,2016
+0,0,1.0,0.0,2,1,1,1,1,0,6,4,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,3,0,04/17/2016,away,12360,614,St. Norbert,9,True,11,12,-1,loss,307281,53,1653270,2016
+0,0,3.0,0.0,1,0,0,1,0,0,9,8,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1,0,0,4,0,04/26/2016,away,12360,582,Rockford,9,True,9,5,4,win,309655,53,1653270,2016

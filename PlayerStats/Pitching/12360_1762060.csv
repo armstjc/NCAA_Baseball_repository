@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.0,0.0,5,4,3,3,4,0,14,10,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,03/08/2016,neutral,12360,30084,Geneva,9,True,1,7,-6,loss,296478,397,1762060,2016
+0,1,6.0,0.0,5,2,1,3,3,0,28,22,1,0,0,0,0,1,0,0,0,2,0,0,8,7,1,0,0,1,0,04/06/2016,away,12360,0,Penn St.-Brandywine,9,True,14,6,8,win,303756,397,1762060,2016
+0,0,0.1,0.0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,0,04/10/2016,home,12360,303,Immaculata,9,True,7,6,1,win,304933,397,1762060,2016
+0,1,4.2,0.0,9,4,3,2,2,0,24,19,2,0,0,0,0,0,0,0,0,2,1,0,6,4,0,0,0,1,0,04/19/2016,home,12360,784,Wilkes,9,True,10,5,5,win,307493,397,1762060,2016
+0,0,2.0,0.0,2,2,0,0,0,0,12,10,0,0,0,0,0,0,0,0,0,1,1,0,3,3,0,0,0,2,0,04/29/2016,home,12360,1254,Neumann,9,True,0,5,-5,loss,310007,397,1762060,2016

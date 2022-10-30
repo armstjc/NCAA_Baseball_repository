@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,3,4,0,2,1,0,10,7,1,0,0,0,0,0,0,0,0,1,0,0,3,0,0,1,0,3,0,03/18/2016,neutral,12360,278,Heidelberg,9,True,7,11,-4,loss,298888,621,1777443,2016
+0,0,1.0,0.0,5,4,2,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,04/08/2016,home,12360,662,Southern Me.,9,True,3,12,-9,loss,304096,621,1777443,2016
+0,0,5.0,0.0,4,3,1,2,2,0,20,18,0,0,0,0,1,0,0,0,0,0,0,0,6,5,0,0,0,3,1,04/12/2016,away,12360,401,UMass Boston,9,True,9,13,-4,loss,305443,621,1777443,2016
+0,0,2.1,0.0,0,0,0,1,0,0,9,8,0,0,0,0,0,0,0,2,1,0,0,0,5,2,0,0,0,2,0,04/20/2016,home,12360,401,UMass Boston,9,True,5,7,-2,loss,307840,621,1777443,2016
+0,0,1.0,0.0,2,1,1,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,1,05/03/2016,home,12360,1099,Gordon,9,True,10,4,6,win,311398,621,1777443,2016
+0,1,4.2,0.0,10,4,2,0,0,0,25,24,1,0,0,0,2,1,0,0,0,0,0,66,11,2,0,1,0,1,0,05/20/2016,neutral,12360,530,Oswego St.,9,True,3,7,-4,loss,313886,621,1777443,2016

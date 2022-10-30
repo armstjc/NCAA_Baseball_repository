@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,0,0,0,2,0,0,9,6,0,0,0,0,0,1,0,0,0,0,0,0,2,4,0,0,0,2,0,03/07/2016,neutral,12360,351,Lebanon Valley,9,True,2,5,-3,loss,296231,397,1762064,2016
+0,0,2.1,0.0,6,4,4,0,0,0,14,13,0,1,0,0,0,1,0,1,1,0,0,38,3,4,0,0,0,2,0,03/10/2016,neutral,12360,179,Delaware Valley,9,True,5,10,-5,loss,296793,397,1762064,2016
+0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,2,0,0,0,0,1,1,1,0,0,3,0,04/24/2016,home,12360,30081,Penn St. Harrisburg,11,True,5,4,1,win,309271,397,1762064,2016
+0,0,1.0,0.0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,22,1,1,0,0,0,3,0,04/30/2016,away,12360,1254,Neumann,9,True,5,7,-2,loss,310611,397,1762064,2016

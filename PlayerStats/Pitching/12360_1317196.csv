@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,1,1,1,1,0,2,1,0,0,0,0,0,0,0,1,0,0,0,8,0,0,0,0,0,3,0,03/08/2016,away,12360,622,Salisbury,9,True,4,6,-2,loss,296370,1254,1317196,2016
+0,0,0.1,0.0,1,2,0,0,0,0,3,2,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,4,0,03/22/2016,away,12360,259,Rowan,9,True,3,13,-10,loss,300064,1254,1317196,2016
+0,1,3.1,0.0,4,3,2,2,4,0,15,12,2,0,0,0,1,0,0,0,0,1,0,43,4,1,0,0,0,1,1,04/17/2016,home,12360,1305,Cairn,9,True,6,3,3,win,307341,1254,1317196,2016
+0,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,9,0,1,0,0,0,7,1,05/14/2016,neutral,12360,303,Immaculata,9,True,7,19,-12,loss,313265,1254,1317196,2016

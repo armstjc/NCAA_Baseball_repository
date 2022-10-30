@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,4,4,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,7,0,03/17/2016,home,12360,18422,Rivier,9,True,2,9,-7,loss,298638,1064,1776015,2016
+0,0,1.0,0.0,0,0,0,0,3,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,5,0,04/01/2016,away,12360,214,Emerson,9,True,6,5,1,win,302409,1064,1776015,2016
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,4,0,04/16/2016,away,12360,762,Wentworth,9,True,5,4,1,win,306918,1064,1776015,2016
+0,0,1.2,0.0,2,4,0,2,1,0,11,9,0,1,0,1,2,0,0,0,0,0,0,0,1,3,0,1,0,3,0,04/16/2016,away,12360,762,Wentworth,9,True,6,7,-1,loss,306939,1064,1776015,2016

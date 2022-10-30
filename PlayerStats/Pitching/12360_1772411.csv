@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,5,0,03/09/2016,neutral,12360,242,Fredonia,9,True,7,3,4,win,296630,580,1772411,2016
+0,0,0.0,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,0,03/11/2016,away,12360,303,Immaculata,9,True,6,7,-1,loss,296903,580,1772411,2016
+0,0,0.0,0.0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,03/12/2016,away,12360,303,Immaculata,9,True,5,10,-5,loss,297686,580,1772411,2016
+0,0,1.1,0.0,5,3,3,0,0,0,10,8,0,1,0,0,0,1,0,2,0,0,1,0,1,3,0,0,0,3,0,03/21/2016,neutral,12360,614,St. Norbert,9,True,15,10,5,win,299961,580,1772411,2016
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,1,2,0,0,0,4,0,05/03/2016,away,12360,530,Oswego St.,9,True,6,12,-6,loss,311331,580,1772411,2016
+0,0,2.0,0.0,1,0,0,2,0,0,7,5,0,1,0,0,0,0,0,2,0,0,0,25,1,3,0,0,0,5,0,05/09/2016,home,12360,601,St. John Fisher,9,True,13,20,-7,loss,312600,580,1772411,2016

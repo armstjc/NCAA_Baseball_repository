@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,8,0,03/09/2016,neutral,12360,242,Fredonia,9,True,7,3,4,win,296630,580,1772418,2016
+0,0,1.0,0.0,1,1,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,03/12/2016,away,12360,303,Immaculata,9,True,5,10,-5,loss,297686,580,1772418,2016
+0,0,1.0,0.0,2,0,0,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,5,0,04/19/2016,home,12360,78,SUNY Brockport,9,True,11,0,11,win,307535,580,1772418,2016
+0,0,1.0,0.0,1,0,0,0,0,0,4,2,0,0,0,0,1,0,0,1,1,1,1,11,1,2,0,0,0,7,0,04/24/2016,home,12360,737,Vassar,9,True,5,6,-1,loss,309370,580,1772418,2016
+0,0,1.0,0.0,1,1,1,1,2,0,5,3,0,0,0,0,1,0,0,0,0,1,0,27,1,0,0,0,0,5,2,05/01/2016,home,12360,581,Rochester (NY),9,True,8,11,-3,loss,311193,580,1772418,2016
+0,0,0.2,0.0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,7,1,05/09/2016,home,12360,601,St. John Fisher,9,True,13,20,-7,loss,312600,580,1772418,2016

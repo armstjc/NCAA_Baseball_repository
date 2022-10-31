@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,1,2,0,6,5,0,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,4,0,03/06/2016,neutral,12360,23725,Medaille,9,True,2,13,-11,loss,296124,23624,1427091,2016
+0,0,0.2,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,04/02/2016,away,12360,1159,Keuka,9,True,1,16,-15,loss,302929,23624,1427091,2016
+0,0,1.1,0.0,4,2,2,0,0,0,10,8,0,0,0,0,0,2,0,0,0,0,0,0,2,2,0,0,0,3,0,04/16/2016,home,12360,30085,Lancaster Bible,9,True,3,13,-10,loss,306428,23624,1427091,2016
+0,0,2.1,0.0,0,1,0,2,3,0,11,8,0,0,0,0,0,1,0,1,0,0,0,0,2,2,0,0,0,5,2,04/17/2016,home,12360,245,Gallaudet,9,True,9,18,-9,loss,307248,23624,1427091,2016
+0,0,0.2,0.0,2,0,0,1,0,0,5,4,0,0,0,0,0,0,0,3,3,0,0,16,2,0,0,0,0,4,0,04/28/2016,away,12360,168,SUNY Cortland,9,True,4,11,-7,loss,309916,23624,1427091,2016

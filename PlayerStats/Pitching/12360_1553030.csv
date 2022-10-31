@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.1,0.0,5,2,2,1,6,0,24,21,0,0,0,0,2,2,0,0,0,0,0,0,3,7,0,0,0,1,0,03/12/2016,neutral,12360,642,Skidmore,9,True,9,8,1,win,297722,548,1553030,2016
+0,0,2.1,0.0,4,4,3,4,1,0,15,11,1,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,2,0,03/18/2016,neutral,12360,8486,Lasell,9,True,7,9,-2,loss,298992,548,1553030,2016
+0,1,0.2,0.0,1,5,5,3,0,0,7,3,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,1,0,1,0,04/17/2016,away,12360,151,Colby,9,True,6,7,-1,loss,307292,548,1553030,2016
+0,0,2.2,0.0,1,0,0,0,3,0,11,10,0,0,0,0,0,1,0,0,0,0,0,0,2,3,1,0,0,5,0,04/22/2016,home,12360,238,Framingham St.,10,True,10,9,1,win,308068,548,1553030,2016
+0,0,2.1,0.0,0,0,0,0,3,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,2,0,05/03/2016,away,12360,30065,NVU-Lyndon,9,True,2,5,-3,loss,311363,548,1553030,2016

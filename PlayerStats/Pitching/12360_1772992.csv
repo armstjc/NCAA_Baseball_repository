@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,0,3,3,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,02/28/2016,home,12360,58,Baruch,9,True,6,11,-5,loss,294588,1468,1772992,2016
+0,0,1.0,0.0,4,2,2,0,0,0,7,7,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,5,0,03/04/2016,home,12360,78,SUNY Brockport,9,True,0,17,-17,loss,295213,1468,1772992,2016
+0,0,1.0,0.0,2,3,2,1,0,0,7,6,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,03/22/2016,neutral,12360,30047,Keystone,9,True,1,9,-8,loss,300162,1468,1772992,2016
+0,0,3.0,0.0,5,3,3,2,3,0,19,14,0,1,0,0,0,2,0,0,0,0,1,0,1,5,0,0,0,4,2,03/23/2016,neutral,12360,607,St. Lawrence,9,True,5,17,-12,loss,300352,1468,1772992,2016
+0,0,4.2,0.0,11,4,4,1,0,0,25,21,2,0,0,0,1,1,0,3,3,0,2,54,6,6,0,0,0,2,0,04/06/2016,away,12360,382,Manhattanville,9,True,7,14,-7,loss,303819,1468,1772992,2016
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,5,0,04/13/2016,away,12360,2798,Albertus Magnus,9,True,12,1,11,win,305675,1468,1772992,2016

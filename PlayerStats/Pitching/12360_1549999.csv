@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.2,0.0,5,5,5,0,2,0,15,15,1,1,0,2,0,0,0,2,0,0,0,0,7,1,0,0,0,2,0,02/27/2016,neutral,12360,524,Old Westbury,9,True,0,12,-12,loss,294186,58,1549999,2016
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,1,0,0,0,1,0,0,2,1,0,0,0,0,1,0,0,0,2,0,03/06/2016,neutral,12360,938,Alvernia,9,True,3,7,-4,loss,296064,58,1549999,2016
+0,0,4.0,0.0,3,0,0,3,2,0,18,15,1,0,0,0,1,0,0,2,1,0,0,0,6,3,0,0,0,2,1,03/07/2016,neutral,12360,532,Elms,9,True,6,9,-3,loss,296198,58,1549999,2016
+0,0,2.2,0.0,2,2,2,1,1,0,12,9,0,1,0,0,0,1,0,3,0,1,0,0,4,3,0,1,0,2,0,03/19/2016,home,12360,478,SUNY Maritime,9,True,8,10,-2,loss,299146,58,1549999,2016
+0,0,1.0,0.0,3,4,4,3,0,0,9,6,1,0,0,0,0,0,0,1,1,0,0,0,2,1,0,0,0,2,0,03/29/2016,home,12360,319,New Jersey City,9,True,3,9,-6,loss,301761,58,1549999,2016
+0,0,3.2,0.0,11,8,5,2,0,0,24,22,1,0,0,0,1,0,0,1,1,0,0,89,9,1,0,0,0,2,0,04/07/2016,away,12360,27892,Farmingdale St.,9,True,1,16,-15,loss,303948,58,1549999,2016

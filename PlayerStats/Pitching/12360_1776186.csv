@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,1,10,3,2,1,4,0,29,28,1,1,0,0,2,0,0,0,0,0,0,0,8,6,0,1,0,1,2,03/13/2016,neutral,12360,24,Amherst,9,True,2,3,-1,loss,297947,548,1776186,2016
+0,0,0.2,0.0,0,0,0,1,0,0,3,1,0,0,0,0,0,0,0,2,1,0,1,0,0,2,0,0,0,2,0,03/17/2016,neutral,12360,1066,Edgewood,9,True,16,3,13,win,298637,548,1776186,2016
+0,1,1.2,0.0,2,2,2,5,2,0,11,4,0,0,0,0,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,04/10/2016,away,12360,656,UMass Dartmouth,9,True,0,2,-2,loss,305058,548,1776186,2016
+0,0,0.1,0.0,1,1,0,2,1,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,04/22/2016,home,12360,238,Framingham St.,10,True,10,9,1,win,308068,548,1776186,2016

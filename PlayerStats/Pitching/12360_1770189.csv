@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.1,0.0,5,2,2,2,6,0,20,18,2,0,0,0,0,0,0,0,0,0,0,0,5,2,0,1,0,1,0,03/09/2016,neutral,12360,30114,Penn St.-Abington,9,True,1,2,-1,loss,296663,526,1770189,2016
+0,0,0.2,0.0,1,2,2,2,0,0,5,2,0,0,0,0,3,0,0,1,1,1,0,20,1,1,0,0,0,2,0,03/19/2016,away,12360,442,Montclair St.,9,True,1,10,-9,loss,299268,526,1770189,2016
+0,1,0.0,0.0,2,5,4,2,0,0,5,2,1,0,0,1,0,0,0,0,0,0,0,18,0,0,0,1,0,1,0,03/30/2016,away,12360,313,Ithaca,9,True,7,22,-15,loss,302108,526,1770189,2016
+0,1,4.0,0.0,8,4,1,1,2,0,22,20,2,0,0,0,1,0,0,0,0,1,0,59,5,4,0,0,0,1,0,04/21/2016,home,12360,23624,Cazenovia,9,True,5,4,1,win,308032,526,1770189,2016

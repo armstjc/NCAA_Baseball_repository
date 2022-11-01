@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,2,0,0,5,3,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,6,0,03/05/2016,neutral,12360,1434,Waynesburg,9,True,7,16,-9,loss,295676,1099,1647474,2016
+0,0,2.0,0.0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,3,0,04/20/2016,away,12360,713,Trinity (CT),9,True,5,11,-6,loss,307810,1099,1647474,2016
+0,0,0.0,0.0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,5,0,0,0,0,0,3,0,04/22/2016,home,12360,762,Wentworth,9,True,10,9,1,win,308285,1099,1647474,2016
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,05/03/2016,away,12360,621,Salem St.,9,True,4,10,-6,loss,311398,1099,1647474,2016
+0,0,1.0,0.0,2,1,1,1,0,0,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,5,0,05/05/2016,away,12360,8981,Endicott,9,True,4,28,-24,loss,311529,1099,1647474,2016

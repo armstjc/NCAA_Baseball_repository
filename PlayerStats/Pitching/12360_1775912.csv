@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,4,0,1,0,0,8,7,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,03/05/2016,neutral,12360,4,Adrian,9,True,1,22,-21,loss,295607,64,1775912,2016
+0,0,1.0,0.0,3,3,3,0,0,0,6,6,2,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,03/08/2016,away,12360,0,Loyola (LA),9,True,4,8,-4,loss,296499,64,1775912,2016
+0,0,2.0,0.0,3,3,0,0,0,0,11,10,1,0,0,0,0,1,0,0,0,0,0,0,3,3,0,0,0,2,0,04/12/2016,away,12360,0,Lincoln Christian,9,True,14,9,5,win,305572,64,1775912,2016
+0,1,7.0,1,5,3,3,2,4,0,28,25,0,0,0,1,0,0,0,0,0,1,0,0,6,11,1,0,0,1,0,04/16/2016,away,12360,0,Roosevelt-Peoria,9,True,5,3,2,win,306994,64,1775912,2016
+0,0,0.2,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,04/22/2016,away,12360,1111,Greenville,9,True,4,7,-3,loss,308094,64,1775912,2016
+0,0,3.1,0.0,13,12,12,4,2,0,27,22,5,1,1,0,1,0,0,0,0,0,1,0,3,5,0,0,0,2,0,04/26/2016,away,12360,1450,Westminster (MO),9,True,6,21,-15,loss,309708,64,1775912,2016

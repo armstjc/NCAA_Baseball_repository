@@ -129,12 +129,16 @@ def splitBattingStats():
         print(f'Creating batting logs for the {i} season.')
         s_df = df[df['season'] == i]
         len_s_df = len(s_df)
-        len_s_df = len_s_df // 2
-        partOne = s_df.iloc[:len_s_df,:]
-        partTwo = s_df.iloc[len_s_df:,:]
+        len_s_df = len_s_df // 4
+        partOne = s_df.iloc[:len_s_df]
+        partTwo = s_df.iloc[len_s_df:2*len_s_df]
+        partThree = s_df.iloc[2*len_s_df:3*len_s_df]
+        partFour = s_df.iloc[3*len_s_df:]
 
         partOne.to_csv(f'PlayerStats/{i}_batting_01.csv',index=False)
         partTwo.to_csv(f'PlayerStats/{i}_batting_02.csv',index=False)
+        partThree.to_csv(f'PlayerStats/{i}_batting_03.csv',index=False)
+        partFour.to_csv(f'PlayerStats/{i}_batting_04.csv',index=False)
         #s_df.to_csv(f'PlayerStats/{i}_batting.csv')
 
 def splitPitchingStats():

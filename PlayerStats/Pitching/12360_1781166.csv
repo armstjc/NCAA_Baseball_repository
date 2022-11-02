@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,0.0,6,6,2,6,2,0,33,27,2,0,0,0,1,0,0,0,0,0,0,0,9,8,0,1,0,1,0,03/06/2016,neutral,12360,11839,Pitt.-Greensburg,9,True,5,13,-8,loss,295978,30165,1781166,2016
+0,1,7.0,0.0,15,10,8,1,3,0,36,35,1,2,0,1,1,0,0,0,0,0,0,34,5,10,0,1,0,1,2,03/11/2016,neutral,12360,319,New Jersey City,9,True,7,11,-4,loss,297008,30165,1781166,2016
+0,1,1.1,0.0,5,8,6,2,1,0,13,10,2,0,0,1,0,1,0,0,0,0,0,30,1,2,0,1,0,1,0,03/19/2016,away,12360,686,Swarthmore,9,True,4,14,-10,loss,299358,30165,1781166,2016

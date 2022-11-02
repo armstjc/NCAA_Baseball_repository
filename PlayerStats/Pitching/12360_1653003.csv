@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,1,4,1,02/06/2016,neutral,12360,557,Puget Sound,9,True,7,5,2,win,291856,1094,1653003,2016
+0,0,3.0,0.0,4,2,0,2,1,0,17,15,0,0,0,0,0,0,1,0,0,0,0,0,1,7,0,1,0,6,1,02/08/2016,neutral,12360,2751,Pacific (OR),10,True,7,8,-1,loss,291949,1094,1653003,2016
+0,0,0.1,0.0,3,2,2,1,1,0,5,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,1,02/13/2016,neutral,12360,549,Pomona-Pitzer,9,True,1,5,-4,loss,292217,1094,1653003,2016
+0,0,1.0,0.0,2,1,1,0,0,0,5,5,0,0,0,0,0,0,0,2,2,0,0,11,2,1,0,0,0,3,0,02/28/2016,away,12360,785,Willamette,9,True,6,13,-7,loss,294293,1094,1653003,2016
+0,0,1.1,0.0,3,3,3,1,0,0,8,5,1,0,0,0,0,0,1,2,2,2,0,0,2,2,0,0,0,2,0,03/13/2016,away,12360,780,Whitman,9,True,4,5,-1,loss,297974,1094,1653003,2016
+0,0,1.0,0.0,2,1,1,0,0,0,5,5,0,0,0,1,1,0,0,0,0,0,0,0,1,2,0,0,0,3,0,03/14/2016,away,12360,780,Whitman,9,True,10,8,2,win,298110,1094,1653003,2016

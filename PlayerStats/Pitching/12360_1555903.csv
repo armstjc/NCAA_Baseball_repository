@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,8.0,0.0,4,0,0,1,2,0,29,27,0,0,0,0,0,1,0,0,0,0,0,0,9,11,0,0,0,1,1,03/12/2016,away,12360,750,Wartburg,9,True,8,1,7,win,297253,615,1555903,2016
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,1,03/20/2016,neutral,12360,727,Union (NY),9,True,6,1,5,win,299794,615,1555903,2016
+0,1,5.2,0.0,9,9,5,0,3,0,29,29,2,0,0,0,1,0,0,0,0,0,0,0,4,8,0,1,0,1,1,03/22/2016,neutral,12360,805,Wis.-Whitewater,9,True,0,16,-16,loss,300158,615,1555903,2016

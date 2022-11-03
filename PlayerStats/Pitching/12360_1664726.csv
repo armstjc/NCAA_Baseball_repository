@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.1,0.0,8,7,3,2,4,0,32,28,2,0,0,0,0,1,0,0,0,1,0,0,6,8,0,1,0,1,1,03/22/2016,neutral,12360,602,Saint John's (MN),9,True,4,8,-4,loss,300163,770,1664726,2016
+0,1,6.0,0.0,4,1,1,4,9,0,26,22,1,0,0,0,0,0,0,0,0,0,0,0,3,6,0,0,0,1,2,04/09/2016,home,12360,401,UMass Boston,9,True,11,1,10,win,304563,770,1664726,2016
+0,1,4.2,0.0,8,5,5,4,4,0,26,22,3,0,0,0,1,0,0,0,0,0,0,0,4,6,0,1,0,1,1,04/18/2016,away,12360,713,Trinity (CT),9,True,3,11,-8,loss,307424,770,1664726,2016
+0,1,5.0,0.0,9,3,3,2,7,0,27,24,3,1,0,0,0,0,0,0,0,0,1,0,0,7,1,0,0,1,2,04/25/2016,home,12360,564,Ramapo,9,True,7,3,4,win,309519,770,1664726,2016
+0,1,7.0,0.0,1,0,0,2,9,0,23,21,0,1,0,0,0,0,0,0,0,0,0,0,7,4,1,0,0,1,1,05/07/2016,home,12360,200,Eastern Conn. St.,9,True,1,0,1,win,312230,770,1664726,2016
+0,1,5.2,0.0,3,4,4,3,3,0,23,20,1,1,0,1,1,0,0,0,0,0,0,0,13,1,0,1,0,1,0,05/13/2016,neutral,12360,200,Eastern Conn. St.,9,True,3,7,-4,loss,313015,770,1664726,2016

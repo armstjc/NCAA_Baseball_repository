@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,03/20/2016,neutral,12360,451,CMSV,9,True,2,11,-9,loss,299801,8597,1667685,2016
+0,0,1.0,0.0,6,5,5,1,0,0,11,9,2,1,0,0,0,1,0,2,2,0,0,24,0,3,0,0,0,3,0,03/22/2016,neutral,12360,364,Loras,9,True,2,12,-10,loss,300214,8597,1667685,2016
+0,0,0.1,0.0,6,8,6,1,0,0,9,7,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,3,0,04/12/2016,home,12360,30038,Bethany Lutheran,9,True,0,22,-22,loss,305539,8597,1667685,2016

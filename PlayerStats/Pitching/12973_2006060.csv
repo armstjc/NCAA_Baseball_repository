@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,0.0,5,3,1,1,2,0,23,21,1,0,0,0,1,1,0,0,0,0,0,0,6,7,0,1,0,1,1,02/09/2018,away,12973,1044,Dallas,9,True,4,12,-8,loss,84867,431,2006060,2018
+0,1,7.0,1,6,2,1,1,6,0,27,25,2,0,0,0,0,0,0,0,0,1,0,0,6,7,1,0,0,1,2,03/04/2018,home,12973,347,Lane,9,True,4,2,2,win,88457,431,2006060,2018
+0,1,4.0,0.0,13,9,9,2,1,0,26,22,0,1,0,0,0,0,0,0,0,1,1,85,6,4,0,1,0,1,0,03/09/2018,away,12973,652,Sewanee,9,True,0,13,-13,loss,89670,431,2006060,2018

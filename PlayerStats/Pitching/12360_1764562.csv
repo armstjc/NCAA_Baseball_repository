@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,7,8,8,2,2,0,15,11,3,0,0,0,0,1,0,0,0,0,1,0,0,3,0,0,0,2,1,02/13/2016,home,12360,715,Trinity (TX),9,True,4,13,-9,loss,292137,8490,1764562,2016
+0,0,1.2,0.0,6,6,6,1,2,0,14,12,0,1,1,0,1,1,0,0,0,0,0,48,3,1,0,1,0,2,1,03/25/2016,away,12360,30028,UT Tyler,9,True,2,8,-6,loss,300954,8490,1764562,2016
+0,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,0,4,1,03/29/2016,away,12360,125,Centenary (LA),9,True,5,9,-4,loss,301800,8490,1764562,2016

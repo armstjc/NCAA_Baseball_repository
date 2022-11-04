@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.0,0.0,1,1,0,3,1,0,10,7,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,1,0,02/21/2016,away,12360,195,Earlham,9,True,3,4,-1,loss,293339,652,1774751,2016
+0,1,0.2,0.0,1,2,2,4,0,0,6,2,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,03/25/2016,home,12360,1124,Hendrix,9,True,2,3,-1,loss,300729,652,1774751,2016
+0,0,0.2,0.0,1,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,04/16/2016,home,12360,132,Centre,9,True,3,7,-4,loss,306944,652,1774751,2016

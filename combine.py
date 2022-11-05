@@ -207,8 +207,8 @@ def splitPbpLogs():
 
 def main():
     print('Starting Up...')
-    mergePitchingLogs()
     mergeBattingLogs()
+    mergePitchingLogs()
     mergeFieldingLogs()
     mergePbpLogs()
     mergeRosters()

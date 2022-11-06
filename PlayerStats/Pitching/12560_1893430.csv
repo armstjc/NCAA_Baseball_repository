@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,3,1,1,1,0,0,10,8,2,0,0,0,0,1,0,0,0,0,0,40,5,0,0,0,0,2,0,04/18/2017,home,12560,438,Monmouth (IL),9,True,10,1,9,win,220753,150,1893430,2017
+0,0,3.1,0.0,4,3,3,0,2,0,14,14,1,1,0,0,1,0,0,2,0,0,0,43,4,4,0,0,0,3,2,04/25/2017,home,12560,750,Wartburg,9,True,6,18,-12,loss,222721,150,1893430,2017

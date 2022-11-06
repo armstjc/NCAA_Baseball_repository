@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.2,1,6,2,2,1,3,0,24,23,0,0,0,0,0,1,0,0,0,0,0,88,6,5,1,0,0,1,2,03/18/2016,away,12360,0,Lincoln Christian,9,True,5,2,3,win,298817,1194,1670320,2016
+0,1,6.0,1,8,6,4,0,2,0,30,26,2,0,0,0,0,4,0,0,0,0,0,0,11,2,0,1,0,1,0,03/22/2016,away,12360,0,Hiwassee,9,True,1,6,-5,loss,300205,1194,1670320,2016
+0,1,7.0,1,4,0,0,1,10,1,26,24,0,0,0,0,0,1,0,0,0,0,0,0,5,5,1,0,0,1,0,04/11/2016,home,12360,30032,Finlandia,9,True,11,0,11,win,305324,1194,1670320,2016
+0,1,4.2,0.0,6,6,5,7,3,0,27,20,0,0,0,0,1,0,0,0,0,0,0,0,7,2,0,1,0,1,0,04/15/2016,away,12360,30035,Crown (MN),9,True,4,8,-4,loss,306053,1194,1670320,2016
+0,1,7.0,1,7,5,0,0,7,0,31,30,2,0,2,0,0,1,0,0,0,0,0,0,6,8,0,1,0,1,0,04/18/2016,home,12360,30039,North Central (MN),9,True,3,5,-2,loss,307456,1194,1670320,2016
+0,1,7.0,1,8,4,3,1,3,0,29,27,0,0,0,0,1,1,0,0,0,0,0,0,8,8,1,0,0,1,2,04/29/2016,home,12360,8597,Martin Luther,9,True,9,4,5,win,310203,1194,1670320,2016

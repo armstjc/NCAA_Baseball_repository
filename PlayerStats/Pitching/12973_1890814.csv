@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,3.0,0.0,13,13,12,2,2,0,24,21,3,1,0,1,1,1,0,0,0,0,0,0,3,3,0,1,0,1,1,03/05/2018,neutral,12973,602,Saint John's (MN),9,True,0,21,-21,loss,88851,30032,1890814,2018
+0,1,4.2,0.0,11,9,7,2,4,0,29,26,4,0,0,0,0,0,0,0,0,0,1,8,3,7,0,1,0,1,3,03/08/2018,neutral,12973,526,SUNY Oneonta,9,True,5,9,-4,loss,89320,30032,1890814,2018
+0,1,4.0,0.0,2,2,2,5,5,0,21,14,0,0,0,0,1,2,0,0,0,0,0,97,3,3,0,1,0,1,3,03/20/2018,away,12973,21,Alma,9,True,3,8,-5,loss,92605,30032,1890814,2018
+0,1,1.1,0.0,6,7,7,2,0,0,12,10,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,1,0,03/23/2018,away,12973,30031,Northwestern-St. Paul,9,True,5,25,-20,loss,92995,30032,1890814,2018
+0,1,2.0,0.0,8,9,9,4,1,0,18,14,0,0,0,1,1,0,0,0,0,0,0,68,4,1,0,1,0,1,0,04/22/2018,away,12973,804,Wis.-Superior,9,True,3,13,-10,loss,101364,30032,1890814,2018
+0,0,1.2,0.0,2,2,1,1,3,0,8,7,1,0,0,0,1,0,0,2,2,0,0,0,1,1,0,0,0,2,1,05/04/2018,away,12973,675,Staten Island,9,True,11,19,-8,loss,104077,30032,1890814,2018

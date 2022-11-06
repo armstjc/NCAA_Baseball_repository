@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.0,0.0,8,12,12,2,2,0,15,11,0,0,0,3,3,2,0,0,0,0,0,0,0,1,0,1,0,1,1,03/08/2018,neutral,12973,526,SUNY Oneonta,9,True,0,23,-23,loss,89336,30032,1890806,2018
+0,0,0.2,0.0,1,1,1,2,0,0,4,2,0,0,0,0,1,0,0,2,2,0,0,0,0,1,0,0,0,3,0,03/23/2018,away,12973,30031,Northwestern-St. Paul,9,True,5,25,-20,loss,92995,30032,1890806,2018
+0,0,0.1,0.0,0,0,0,1,0,0,3,1,0,0,0,0,0,1,0,3,0,0,0,0,1,0,0,0,0,4,0,04/29/2018,neutral,12973,1267,Northland,9,True,8,6,2,win,103346,30032,1890806,2018
+0,0,0.1,0.0,1,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,5,1,04/29/2018,neutral,12973,1267,Northland,9,True,13,10,3,win,103347,30032,1890806,2018
+0,0,0.2,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,4,0,05/04/2018,away,12973,675,Staten Island,9,True,11,19,-8,loss,104077,30032,1890806,2018

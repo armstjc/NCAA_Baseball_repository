@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,1,1,2,2,0,6,3,0,0,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,3,1,02/17/2018,neutral,12973,797,Milwaukee,9,True,3,8,-5,loss,85657,116,1978239,2018
+0,1,1.0,0.0,1,1,1,2,2,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,04/04/2018,away,12973,167,Cornell,10,True,5,6,-1,loss,96008,116,1978239,2018
+0,1,1.2,0.0,3,4,4,2,0,0,11,8,1,0,0,1,0,1,0,0,0,0,0,0,4,0,0,0,0,1,0,04/11/2018,away,12973,331,Kent St.,9,True,11,13,-2,loss,97890,116,1978239,2018
+0,1,1.0,0.0,3,2,2,1,1,0,7,6,1,0,0,0,2,0,0,0,0,0,0,0,1,1,0,0,0,1,1,04/25/2018,home,12973,482,Niagara,9,True,17,10,7,win,101859,116,1978239,2018
+0,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,3,0,05/04/2018,home,12973,596,St. Bonaventure,9,True,11,0,11,win,103879,116,1978239,2018

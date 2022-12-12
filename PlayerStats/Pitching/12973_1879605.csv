@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.2,0.0,1,0,0,1,1,0,12,9,0,0,0,0,0,2,0,1,0,0,0,46,1,6,0,0,0,3,0,02/20/2018,away,12973,655,Southeastern La.,9,True,1,7,-6,loss,86081,17,1879605,2018
+0,0,1.0,0.0,3,5,5,2,0,0,10,5,0,0,0,1,0,2,0,1,1,0,1,41,2,1,0,0,0,4,0,04/08/2018,home,12973,7,Alabama St.,9,True,5,17,-12,loss,97334,17,1879605,2018
+0,0,2.2,0.0,1,0,0,0,0,0,13,9,0,0,0,0,0,4,0,1,1,0,0,42,3,5,0,0,0,3,0,04/11/2018,away,12973,483,Nicholls,9,True,0,18,-18,loss,97860,17,1879605,2018
+0,0,1.2,0.0,0,0,0,1,2,0,6,5,0,0,0,0,1,0,0,0,0,0,0,21,1,2,0,0,0,3,0,05/10/2018,away,12973,406,Mercer,9,True,3,17,-14,loss,105112,17,1879605,2018

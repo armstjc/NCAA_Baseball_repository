@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,4,3,3,0,0,0,5,5,0,0,0,0,1,0,0,0,0,0,0,17,1,0,0,0,0,4,0,02/18/2018,neutral,12973,528,Oregon St.,9,True,7,16,-9,loss,85931,90,1973901,2018
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,19,1,1,0,0,0,3,1,03/03/2018,home,12973,534,Pacific,9,True,9,0,9,win,87934,90,1973901,2018
+0,0,0.0,0.0,0,2,2,1,0,0,2,0,0,0,0,0,0,1,0,3,2,0,0,9,0,0,0,0,0,4,0,03/10/2018,away,12973,463,Nebraska,9,True,3,22,-19,loss,89857,90,1973901,2018
+0,1,0.2,0.0,1,1,1,2,1,0,6,3,0,0,0,0,0,1,0,0,0,0,0,23,1,0,0,0,0,1,0,05/01/2018,home,12973,631,Santa Clara,9,True,3,4,-1,loss,103459,90,1973901,2018
+0,0,1.1,0.0,0,0,0,2,3,0,6,4,0,0,0,0,0,0,0,0,0,0,0,32,1,0,0,0,0,3,2,05/15/2018,home,12973,541,Pepperdine,9,True,15,6,9,win,105877,90,1973901,2018

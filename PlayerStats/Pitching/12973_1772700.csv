@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,0,0,0,2,0,0,9,7,0,0,0,0,0,0,0,0,0,0,0,38,1,5,0,0,0,2,0,02/17/2018,away,12973,674,Stanford,9,True,3,5,-2,loss,85507,97,1772700,2018
+0,0,1.2,0.0,2,1,0,1,1,0,8,7,0,1,0,0,1,0,0,0,0,0,0,25,0,3,0,1,0,4,0,02/20/2018,home,12973,466,Nevada,9,True,0,2,-2,loss,86084,97,1772700,2018
+0,0,2.0,0.0,2,2,2,1,0,0,9,8,0,0,0,0,0,0,0,0,0,0,0,26,3,3,0,0,0,2,0,02/24/2018,home,12973,288,Houston,9,True,4,9,-5,loss,86529,97,1772700,2018
+0,1,1.1,0.0,2,3,3,1,0,0,7,4,0,0,0,1,1,1,0,0,0,1,0,34,1,2,0,1,0,1,0,02/27/2018,home,12973,110,UCLA,9,True,2,12,-10,loss,87290,97,1772700,2018
+0,0,1.0,0.0,3,2,2,1,1,0,7,6,0,0,0,0,0,0,0,0,0,0,0,24,0,2,0,0,0,4,0,03/04/2018,away,12973,718,Tulane,9,True,3,9,-6,loss,88355,97,1772700,2018

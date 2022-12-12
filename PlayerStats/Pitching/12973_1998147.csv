@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,2,2,1,2,0,6,5,1,0,0,0,0,0,0,0,0,0,0,26,0,1,0,0,0,6,1,03/10/2018,home,12973,460,UNCW,9,True,0,9,-9,loss,89779,28,1998147,2018
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,3,0,0,0,0,6,0,04/08/2018,home,12973,657,Southern California,9,True,4,8,-4,loss,96978,28,1998147,2018
+0,0,1.0,0.0,5,2,2,0,1,0,8,8,1,0,0,0,0,0,0,2,2,0,0,25,0,2,0,0,0,7,1,04/10/2018,away,12973,465,UNLV,9,True,6,14,-8,loss,97508,28,1998147,2018
+0,0,1.0,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,13,0,1,0,0,0,6,1,05/05/2018,home,12973,756,Washington,9,True,3,7,-4,loss,104183,28,1998147,2018

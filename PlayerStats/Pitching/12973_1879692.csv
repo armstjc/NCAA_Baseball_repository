@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,3,0,0,2,1,0,11,7,0,0,0,0,1,1,0,1,1,1,0,0,3,1,1,0,0,7,0,02/16/2018,home,12973,308,Purdue Fort Wayne,10,True,8,7,1,win,85321,6,1879692,2018
+0,0,1.0,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,2,0,02/28/2018,away,12973,434,Missouri,9,True,0,14,-14,loss,87456,6,1879692,2018
+0,0,4.0,0.0,3,2,2,2,4,0,18,14,1,0,0,0,1,0,0,0,0,0,2,0,2,6,0,0,0,2,1,03/04/2018,home,12973,314,Jackson St.,9,True,0,11,-11,loss,88443,6,1879692,2018
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,04/04/2018,away,12973,9,UAB,9,True,3,6,-3,loss,95933,6,1879692,2018
+0,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0,04/10/2018,home,12973,487,North Ala.,9,True,5,10,-5,loss,97642,6,1879692,2018
+0,0,1.0,0.0,1,1,0,1,0,0,5,3,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,7,0,04/18/2018,home,12973,692,Tennessee Tech,9,True,8,12,-4,loss,99761,6,1879692,2018

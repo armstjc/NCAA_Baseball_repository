@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,5,3,3,1,1,0,10,8,2,0,0,0,0,1,0,1,1,0,0,0,2,0,0,0,0,2,1,03/01/2018,home,12973,427,Minn. Duluth,9,True,0,13,-13,loss,87544,54,1997402,2018
+0,0,2.0,0.0,5,4,4,0,1,0,11,11,1,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,3,0,03/14/2018,away,12973,30050,Ill. Springfield,9,True,5,23,-18,loss,90876,54,1997402,2018
+0,0,1.0,0.0,0,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,04/28/2018,home,12973,598,St. Cloud St.,9,True,1,13,-12,loss,102607,54,1997402,2018
+0,0,0.2,0.0,2,0,0,0,0,0,5,4,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,5,0,04/29/2018,away,12973,598,St. Cloud St.,9,True,4,15,-11,loss,103258,54,1997402,2018
+0,0,4.0,0.0,4,9,9,3,1,0,22,15,2,0,0,2,2,4,0,3,1,0,0,88,4,6,0,0,0,2,0,05/04/2018,away,12973,8736,Southwest Minn. St.,9,True,4,15,-11,loss,104086,54,1997402,2018

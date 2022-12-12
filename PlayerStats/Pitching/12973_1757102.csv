@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,5,0,04/21/2018,home,12973,590,Sacred Heart,9,True,6,9,-3,loss,100753,81,1757102,2018
+0,0,1.0,0.0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,21,1,0,0,0,0,9,0,05/01/2018,away,12973,500,Northeastern,9,True,3,10,-7,loss,103603,81,1757102,2018
+0,0,0.0,0.0,2,3,3,1,0,0,3,2,2,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,3,0,05/04/2018,away,12973,683,Stony Brook,9,True,1,9,-8,loss,103839,81,1757102,2018
+0,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,0,5,0,05/25/2018,neutral,12973,361,LIU,9,True,4,13,-9,loss,106750,81,1757102,2018

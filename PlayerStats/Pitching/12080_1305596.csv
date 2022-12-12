@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.0,0,1,1,2,2,0,6,2,0,0,0,0,0,1,0,0,0,0,1,21,0,1,0,0,0,1,0,02/15/2015,away,12080,94,CSU Bakersfield,9,True,10,4,6,win,405404,169,1305596,2015
+0,0,1.0,1,0,0,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,22,0,1,0,0,0,5,2,03/08/2015,home,12080,428,Minnesota,9,True,0,9,-9,loss,408321,169,1305596,2015
+0,1,2.1,0,2,2,4,0,0,11,7,0,0,0,1,0,0,0,0,0,0,0,57,3,4,0,0,0,1,0,03/15/2015,home,12080,30024,Utah Valley,9,True,11,3,8,win,410246,169,1305596,2015
+0,0,0.2,0,0,0,1,2,0,3,2,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,8,0,03/29/2015,home,12080,678,Stetson,9,True,15,5,10,win,413978,169,1305596,2015
+0,1,1.2,1,2,2,2,0,0,9,6,0,0,0,1,0,1,0,0,0,0,0,42,3,2,0,0,0,1,0,04/29/2015,neutral,12080,649,South Dakota St.,9,True,8,5,3,win,423201,169,1305596,2015

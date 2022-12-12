@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,2,2,2,1,0,0,5,2,1,0,0,1,0,1,0,0,0,0,1,22,0,1,0,0,0,4,0,02/22/2015,neutral,12080,116,Canisius,9,True,3,10,-7,loss,406311,27,1421855,2015
+0,0,0.2,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7,0,03/10/2015,away,12080,257,Georgia,9,True,3,6,-3,loss,408832,27,1421855,2015
+0,1,0.2,0,3,0,3,0,0,6,3,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,03/17/2015,away,12080,456,UNC Asheville,9,True,5,11,-6,loss,410867,27,1421855,2015
+0,0,2.0,2,2,0,0,2,0,9,8,0,0,0,0,0,0,0,0,0,0,1,32,3,1,0,0,0,5,1,04/21/2015,away,12080,769,Western Caro.,9,True,15,18,-3,loss,420707,27,1421855,2015
+0,1,3.0,4,8,5,5,2,0,21,13,0,0,0,2,0,3,0,0,0,0,0,86,4,2,0,1,0,1,1,04/28/2015,away,12080,742,Virginia Tech,9,True,4,13,-9,loss,422822,27,1421855,2015

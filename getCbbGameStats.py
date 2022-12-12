@@ -5,6 +5,8 @@ import time
 from tqdm import tqdm
 import pandas as pd
 import ssl
+import warnings
+warnings.simplefilter(action='ignore',category=FutureWarning)
 ssl._create_default_https_context = ssl._create_unverified_context
 
 def getSchoolList():
@@ -137,11 +139,11 @@ def getSeasonGbgStats(season=2020):
     max_schools = len(schools)
     #print(schools)
     hasRoster = True
-    for i in schools.T:
+    for i in range(0,len(schools.T)):
         coll_count += 1
-        print(f'{coll_count}/{max_schools} {i}')
+        print(f'{coll_count}/{max_schools} {schools[i]}')
         try:
-            rost = ncaa.ncaa_team_season_roster(i,season)
+            rost = ncaa.ncaa_team_season_roster(schools[i],season)
             print(rost)
             
             maxRost = len(rost)
@@ -187,12 +189,14 @@ def getSeasonGbgStats(season=2020):
                     #         data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
                     # except:
                     #     print(f'Could not get pitching stats for {school_name} {season} {player_name}')
-                    data_p = ncaa.ncaa_player_game_logs(player=player_name,season=season_id,variant='pitching',school=school_name)
-                    data_p = data_p[(data_p['IP']>0) | (data_p['App']>0) | (data_p['pitches']>0)]
-                    print(data_p)
-                    if len(data_p) > 0:
-                        data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
-
+                    try:
+                        data_p = ncaa.ncaa_player_game_logs(player=player_name,season=season_id,variant='pitching',school=school_name)
+                        data_p = data_p[(data_p['IP']>0) | (data_p['App']>0) | (data_p['pitches']>0)]
+                        #print(data_p)
+                        if len(data_p) > 0:
+                            data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
+                    except:
+                        print(f'Could not get pitching stats for {school_name} {season} {player_name}')
                     # try:
                     #     data_f = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='fielding',  school=school_name)
                     #     if len(data_f) > 0:

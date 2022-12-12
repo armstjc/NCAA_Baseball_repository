@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,1,1,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,3,0,02/28/2015,neutral,12080,669,Missouri St.,9,True,1,10,-9,loss,406972,1004,1659449,2015
+0,1,3.2,4,1,0,2,3,0,19,14,0,0,0,1,0,1,0,0,0,1,0,77,4,3,0,1,0,1,0,03/17/2015,away,12080,521,Oklahoma St.,9,True,1,3,-2,loss,410835,1004,1659449,2015
+0,1,1.0,0,0,0,2,1,0,7,2,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,1,1,03/25/2015,home,12080,32,Little Rock,9,True,15,3,12,win,412846,1004,1659449,2015
+0,0,1.0,1,1,1,2,0,0,6,4,0,0,0,1,0,0,0,0,0,0,0,25,2,1,0,0,0,5,0,05/10/2015,away,12080,655,Southeastern La.,9,True,5,11,-6,loss,425239,1004,1659449,2015

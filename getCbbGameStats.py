@@ -139,7 +139,7 @@ def getSeasonGbgStats(season=2020):
     max_schools = len(schools)
     #print(schools)
     hasRoster = True
-    for i in range(0,len(schools.T)):
+    for i in range(75,len(schools.T)):
         coll_count += 1
         print(f'{coll_count}/{max_schools} {schools[i]}')
         try:

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,5,1,03/02/2018,away,12973,489,N.C. Central,9,True,8,21,-13,loss,87598,310,1778326,2018
+0,0,1.1,0.0,0,0,0,2,1,0,6,4,0,0,0,0,0,0,0,2,0,0,0,20,1,2,0,0,0,4,0,04/10/2018,away,12973,683,Stony Brook,9,True,2,5,-3,loss,97768,310,1778326,2018
+0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,2,1,0,0,9,0,2,0,0,0,4,0,04/17/2018,home,12973,683,Stony Brook,9,True,0,6,-6,loss,99628,310,1778326,2018
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,7,0,05/13/2018,home,12973,617,Saint Peter's,9,True,19,2,17,win,105808,310,1778326,2018

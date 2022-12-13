@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,1,2,2,3,0,0,6,2,1,0,0,0,1,0,0,0,0,0,1,27,0,2,0,0,0,3,0,02/16/2018,home,12973,386,Marist,9,True,13,4,9,win,85292,244,1995257,2018
+0,0,0.0,0.0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,4,0,02/23/2018,away,12973,490,NC State,9,True,0,10,-10,loss,86261,244,1995257,2018
+0,0,1.0,0.0,2,1,1,2,2,0,7,5,0,0,0,0,1,0,0,0,0,0,0,34,1,0,0,0,0,3,2,03/03/2018,home,12973,127,Central Conn. St.,9,True,2,10,-8,loss,87868,244,1995257,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,1,0,0,0,2,1,03/16/2018,home,12973,275,Harvard,9,True,2,6,-4,loss,91464,244,1995257,2018
+0,0,0.0,0.0,1,2,2,3,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,3,0,03/21/2018,home,12973,1014,Col. of Charleston,9,True,6,15,-9,loss,92686,244,1995257,2018

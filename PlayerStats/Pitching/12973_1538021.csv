@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,1,0,0,0,0,0,3,3,1,0,0,0,0,0,0,2,2,0,0,12,1,1,0,0,0,2,0,04/21/2018,away,12973,236,Fordham,9,True,2,7,-5,loss,100346,249,1538021,2018
+0,0,1.0,0.0,2,2,2,1,2,0,6,5,1,0,0,0,0,0,0,0,0,0,0,30,1,0,0,0,0,3,0,05/02/2018,home,12973,165,Coppin St.,9,True,16,5,11,win,103632,249,1538021,2018
+0,1,1.1,0.0,3,3,3,1,0,0,7,6,0,0,0,0,0,0,0,0,0,0,0,22,1,2,0,1,0,1,0,05/19/2018,away,12973,609,Saint Louis,9,True,1,12,-11,loss,106385,249,1538021,2018
+0,0,1.0,0.0,1,0,0,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,38,2,1,0,0,0,8,0,05/25/2018,home,12973,248,George Mason,9,True,4,9,-5,loss,106774,249,1538021,2018

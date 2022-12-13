@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,1,0,0,6,4,1,0,0,0,0,0,1,0,0,1,0,23,3,0,0,0,0,5,0,03/15/2018,away,12973,277,Hawaii,9,True,1,6,-5,loss,91045,299,1862907,2018
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,4,0,04/08/2018,home,12973,1045,DBU,11,True,4,3,1,win,97012,299,1862907,2018
+0,0,1.0,0.0,2,2,2,1,1,0,6,4,0,0,0,0,0,0,0,0,0,1,0,17,1,1,0,0,0,2,0,04/11/2018,home,12973,0,St. Francis (IL),9,True,11,3,8,win,97987,299,1862907,2018

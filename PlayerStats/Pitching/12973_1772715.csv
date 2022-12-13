@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.2,0.0,6,3,2,2,3,0,24,20,0,0,0,0,1,0,0,0,0,1,1,75,6,7,1,0,0,1,2,02/17/2018,home,12973,529,Oregon,9,True,9,3,6,win,85437,465,1772715,2018
+0,1,5.2,0.0,9,6,5,0,2,0,27,26,1,1,0,1,1,0,0,0,0,0,1,88,7,8,1,0,0,1,1,02/24/2018,home,12973,158,Columbia,9,True,13,7,6,win,86612,465,1772715,2018
+0,1,5.0,0.0,6,3,1,1,7,0,23,21,3,0,0,0,1,0,0,0,0,1,0,82,6,1,0,0,0,1,2,03/03/2018,home,12973,96,Fresno St.,9,True,7,6,1,win,87793,465,1772715,2018
+0,1,6.0,0.0,3,2,1,0,2,0,23,22,1,0,0,0,1,0,0,0,0,1,0,70,7,9,1,0,0,1,0,03/10/2018,home,12973,312,Iowa,9,True,11,2,9,win,89745,465,1772715,2018

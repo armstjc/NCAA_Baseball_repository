@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,0.0,6,5,5,3,4,0,27,20,1,1,0,0,1,2,0,0,0,1,1,91,6,6,0,0,0,1,1,02/16/2018,away,12973,28755,FGCU,9,True,5,6,-1,loss,85331,204,1767239,2018
+0,1,6.2,0.0,8,4,3,3,3,0,30,26,2,0,0,0,0,0,0,0,0,1,0,0,8,7,0,1,0,1,0,02/24/2018,away,12973,314,Jackson St.,9,True,3,5,-2,loss,86652,204,1767239,2018
+0,1,4.2,0.0,5,5,3,4,1,0,23,19,0,0,0,0,1,0,0,0,0,0,0,0,8,4,0,1,0,1,0,03/02/2018,home,12973,664,Southern Miss.,9,True,4,9,-5,loss,87772,204,1767239,2018
+0,1,0.1,0.0,3,1,1,1,1,0,5,4,1,0,0,0,2,0,0,0,0,0,0,17,0,0,0,0,0,1,0,03/09/2018,away,12973,521,Oklahoma St.,9,True,3,8,-5,loss,89367,204,1767239,2018

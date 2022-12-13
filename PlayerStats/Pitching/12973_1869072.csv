@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,8,0,03/25/2018,away,12973,10411,USC Upstate,9,True,2,15,-13,loss,93585,175,1869072,2018
+0,0,1.0,0.0,2,2,2,2,0,0,7,5,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,6,0,04/01/2018,home,12973,249,George Washington,9,True,2,17,-15,loss,95680,175,1869072,2018
+0,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,6,0,04/17/2018,home,12973,202,Eastern Ky.,9,True,6,11,-5,loss,99499,175,1869072,2018
+0,0,1.0,0.0,2,1,1,0,2,0,5,5,1,1,0,0,0,0,0,0,0,0,0,21,1,0,0,0,0,4,0,04/25/2018,away,12973,308,Purdue Fort Wayne,9,True,18,5,13,win,101755,175,1869072,2018
+0,0,0.1,0.0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,3,1,0,0,3,1,0,0,0,0,8,0,05/05/2018,away,12973,236,Fordham,9,True,3,10,-7,loss,104185,175,1869072,2018

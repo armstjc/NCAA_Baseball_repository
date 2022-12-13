@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,5,7,5,4,1,0,13,9,3,0,0,0,0,0,0,0,0,0,0,52,0,2,0,0,0,4,1,02/23/2018,away,12973,472,New Mexico St.,9,True,0,39,-39,loss,86265,432,1774297,2018
+0,0,0.1,0.0,1,4,3,3,0,0,6,2,0,0,0,0,1,0,0,3,3,0,1,25,0,1,0,0,0,3,0,02/24/2018,away,12973,472,New Mexico St.,9,True,0,20,-20,loss,86678,432,1774297,2018
+0,0,2.0,0.0,1,0,0,2,2,0,8,6,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,03/14/2018,home,12973,201,Eastern Ill.,9,True,6,11,-5,loss,90929,432,1774297,2018
+0,0,1.0,0.0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,3,0,03/20/2018,away,12973,404,Memphis,9,True,0,14,-14,loss,92549,432,1774297,2018
+0,0,2.0,0.0,11,11,11,2,2,0,18,16,3,1,0,2,0,0,0,0,0,0,0,50,2,1,0,0,0,4,1,04/25/2018,away,12973,508,Northwestern St.,9,True,0,34,-34,loss,101770,432,1774297,2018

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,4,3,0,0,0,0,0,1,0,0,0,0,0,17,1,1,0,0,0,4,1,02/27/2018,away,12973,30,Arkansas St.,9,True,0,9,-9,loss,87320,432,1999908,2018
+0,0,0.0,0.0,0,1,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0,9,0,0,0,1,0,3,0,03/02/2018,away,12973,2,Abilene Christian,10,True,7,8,-1,loss,87670,432,1999908,2018
+0,0,2.0,0.0,4,2,2,2,1,0,12,10,2,0,0,1,0,0,0,0,0,0,0,48,1,4,0,0,0,3,0,04/25/2018,away,12973,508,Northwestern St.,9,True,0,34,-34,loss,101770,432,1999908,2018
+0,0,1.0,0.0,2,4,4,4,0,0,9,5,1,0,0,0,0,0,0,0,0,0,0,37,3,0,0,0,0,4,0,05/09/2018,away,12973,2,Abilene Christian,9,True,4,20,-16,loss,105099,432,1999908,2018
+0,0,1.0,0.0,0,1,1,4,1,0,9,3,0,0,0,0,3,2,0,1,1,0,0,0,2,0,0,0,0,2,0,05/17/2018,neutral,12973,553,Prairie View,9,True,1,13,-12,loss,106061,432,1999908,2018

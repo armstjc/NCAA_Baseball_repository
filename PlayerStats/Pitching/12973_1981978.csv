@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,1,0,0,0,0,0,3,3,1,0,0,0,0,0,0,1,1,0,0,7,1,1,0,0,0,5,0,02/16/2018,away,12973,1045,DBU,9,True,4,7,-3,loss,85232,439,1981978,2018
+0,0,1.0,0.0,3,4,4,2,2,0,8,6,2,0,0,1,1,0,0,0,0,0,0,36,0,1,0,0,0,3,1,02/18/2018,away,12973,1045,DBU,9,True,4,15,-11,loss,85772,439,1981978,2018
+0,0,2.1,0.0,4,2,2,0,1,0,11,11,1,0,0,1,0,0,0,3,0,0,0,37,2,4,0,0,0,3,0,03/03/2018,away,12973,249,George Washington,9,True,6,18,-12,loss,87787,439,1981978,2018
+0,0,1.2,0.0,3,3,3,2,3,0,12,8,1,0,0,0,2,2,0,0,0,0,0,59,2,0,0,1,0,2,1,03/27/2018,home,12973,283,Hofstra,9,True,6,14,-8,loss,94213,439,1981978,2018
+0,0,2.0,0.0,4,2,2,1,1,0,11,10,0,0,0,1,0,0,0,0,0,0,0,37,2,3,0,0,0,2,0,04/13/2018,home,12973,380,Maine,9,True,10,15,-5,loss,98209,439,1981978,2018

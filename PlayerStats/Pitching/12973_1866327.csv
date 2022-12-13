@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,0.0,6,5,5,1,2,0,28,26,2,0,0,1,0,0,0,0,0,0,1,86,5,14,0,1,0,1,1,02/17/2018,away,12973,678,Stetson,9,True,0,5,-5,loss,85457,381,1866327,2018
+0,1,1.0,0.0,2,3,3,1,2,0,6,5,0,1,0,1,0,0,0,0,0,0,0,27,1,0,0,1,0,1,1,02/24/2018,away,12973,101,CSUN,9,True,5,31,-26,loss,86540,381,1866327,2018

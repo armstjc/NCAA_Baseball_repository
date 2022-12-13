@@ -139,9 +139,9 @@ def getSeasonGbgStats(season=2020):
     max_schools = len(schools)
     #print(schools)
     hasRoster = True
-    for i in range(0,len(schools.T)):
+    for i in tqdm(range(160,len(schools.T))):
         coll_count += 1
-        print(f'{coll_count}/{max_schools} {schools[i]}')
+        print(f'\n{i}/{max_schools} {schools[i]}')
         try:
             rost = ncaa.ncaa_team_season_roster(schools[i],season)
             print(rost)
@@ -149,7 +149,7 @@ def getSeasonGbgStats(season=2020):
             maxRost = len(rost)
             hasRoster = True
         except:
-            print(f'Could not retrive roster for {i}.')
+            print(f'\nCould not retrive roster for {i}.')
             time.sleep(5)
             hasRoster = False
         count = 0
@@ -172,7 +172,7 @@ def getSeasonGbgStats(season=2020):
                     print('This player did not play in this season.')
                 else:
 
-                    print(f'{count}/{maxRost} {school_name} {season} {player_name}')
+                    print(f'\n{count}/{maxRost} {school_name} {season} {player_name}')
                     
                     # try:
                     #     data_b = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='batting',  school=school_name)

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,02/20/2018,home,12973,244,Furman,9,True,12,4,8,win,86073,147,1883885,2018
+0,0,0.1,0.0,0,0,0,2,0,0,3,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,2,0,02/24/2018,home,12973,1045,DBU,9,True,9,1,8,win,86829,147,1883885,2018
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,7,0,03/27/2018,away,12973,244,Furman,9,True,10,5,5,win,94138,147,1883885,2018
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,4,0,04/14/2018,home,12973,415,Miami (FL),9,True,1,6,-5,loss,99045,147,1883885,2018

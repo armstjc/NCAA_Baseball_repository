@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,4,4,1,1,2,0,9,8,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,03/28/2015,home,12080,30055,Cal St. Monterey Bay,9,True,0,10,-10,loss,413609,95,1432972,2015
+0,0,0.1,0,1,1,2,1,0,4,1,0,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,3,0,04/03/2015,away,12080,100,Cal State LA,9,True,7,9,-2,loss,415398,95,1432972,2015
+0,0,2.0,1,1,1,0,2,0,9,6,0,0,0,0,0,1,0,0,0,1,1,0,2,2,0,0,0,3,1,04/26/2015,home,12080,98,Cal St. East Bay,9,True,1,4,-3,loss,422246,95,1432972,2015

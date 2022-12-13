@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,03/08/2015,neutral,12080,1460,Wilmington (DE),9,True,8,3,5,win,408635,410,1655726,2015
+0,1,5.1,6,5,3,3,6,0,25,22,1,0,1,2,0,0,0,0,0,0,0,98,3,6,0,1,0,1,2,03/16/2015,neutral,12080,468,Southern N.H.,9,True,1,12,-11,loss,410729,410,1655726,2015
+0,0,4.0,5,0,0,1,5,0,15,13,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,0,0,2,3,03/27/2015,home,12080,682,Stonehill,9,True,2,4,-2,loss,413214,410,1655726,2015
+0,0,2.2,1,2,2,2,1,0,12,9,0,0,0,0,0,1,0,0,0,0,0,54,3,3,0,0,0,2,0,04/06/2015,neutral,12080,593,St. Anselm,10,True,7,3,4,win,416498,410,1655726,2015
+0,0,4.0,4,4,0,1,2,0,19,17,1,0,0,0,0,1,0,0,0,0,0,59,2,7,0,1,0,2,1,04/12/2015,home,12080,613,Saint Michael's,9,True,3,5,-2,loss,418354,410,1655726,2015

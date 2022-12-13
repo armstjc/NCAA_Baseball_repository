@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,3,4,1,1,2,0,11,10,2,0,0,0,0,0,0,0,0,0,0,40,2,2,0,0,0,4,0,03/09/2015,away,12080,49,Barry,9,True,11,21,-10,loss,408830,410,1304348,2015
+0,0,1.2,1,0,0,0,4,0,7,7,0,0,0,0,0,0,0,2,0,0,0,24,0,1,0,0,0,4,3,03/16/2015,neutral,12080,468,Southern N.H.,9,True,1,12,-11,loss,410729,410,1304348,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,03/29/2015,home,12080,682,Stonehill,9,True,2,6,-4,loss,414080,410,1304348,2015
+0,0,0.2,0,0,0,1,1,0,3,1,0,0,0,0,0,0,0,2,2,0,1,12,0,1,0,0,0,3,1,04/11/2015,home,12080,56,Bentley,9,True,4,7,-3,loss,417357,410,1304348,2015
+0,0,1.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,04/18/2015,home,12080,241,Franklin Pierce,9,True,1,13,-12,loss,419565,410,1304348,2015
+0,0,1.0,3,3,2,1,2,0,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,05/02/2015,away,12080,36,Assumption,9,True,6,12,-6,loss,424023,410,1304348,2015

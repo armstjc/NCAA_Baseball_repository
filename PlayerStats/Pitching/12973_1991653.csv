@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,8,1,0,0,0,0,3,0,03/06/2018,neutral,12973,251,Georgetown,9,True,9,5,4,win,89006,500,1991653,2018
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,2,0,0,0,3,0,03/10/2018,away,12973,37,Auburn,9,True,8,14,-6,loss,90176,500,1991653,2018
+0,0,0.2,0.0,3,5,5,2,1,0,8,5,1,0,0,0,1,1,0,0,0,0,0,27,0,1,0,0,0,2,0,03/23/2018,away,12973,700,Texas Tech,9,True,3,22,-19,loss,92942,500,1991653,2018
+0,0,1.0,0.0,2,1,1,0,1,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,6,1,04/17/2018,away,12973,80,Brown,9,True,10,4,6,win,99547,500,1991653,2018
+0,0,0.1,0.0,0,2,1,2,1,0,4,2,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,5,0,04/28/2018,home,12973,711,Towson,9,True,23,6,17,win,102354,500,1991653,2018

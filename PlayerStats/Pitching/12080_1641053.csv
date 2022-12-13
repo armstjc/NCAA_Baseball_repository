@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,5,4,4,2,0,0,11,9,2,1,1,0,0,0,0,2,1,0,0,40,2,2,0,0,0,2,0,02/14/2015,away,12080,488,N.C. A&T,9,True,9,10,-1,loss,405313,726,1641053,2015
+0,0,0.0,3,2,2,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,10,0,0,0,0,0,2,0,02/22/2015,neutral,12080,393,UMES,9,True,11,5,6,win,406310,726,1641053,2015

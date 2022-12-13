@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,0,0,5,4,0,0,0,0,0,1,0,0,0,0,0,23,0,3,1,0,0,7,0,03/02/2015,home,12080,534,Pacific,11,True,13,12,1,win,407233,466,1660329,2015
+0,0,1.0,0,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,13,2,1,0,0,0,7,0,03/10/2015,away,12080,108,UC Davis,9,True,4,10,-6,loss,408867,466,1660329,2015
+0,0,0.1,3,3,3,1,0,0,5,3,1,0,0,0,0,0,1,0,0,1,0,18,1,0,0,0,0,6,0,05/04/2015,away,12080,610,Saint Mary's (CA),9,True,6,13,-7,loss,424394,466,1660329,2015

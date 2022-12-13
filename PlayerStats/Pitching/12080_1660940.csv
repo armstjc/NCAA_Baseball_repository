@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,2,0,0,0,6,0,03/04/2015,away,12080,664,Southern Miss.,9,True,1,5,-4,loss,407463,433,1660940,2015
+0,0,1.2,1,1,0,1,0,0,8,7,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,3,0,03/08/2015,home,12080,678,Stetson,9,True,4,16,-12,loss,408355,433,1660940,2015
+0,0,1.2,1,1,0,2,0,0,8,5,0,0,0,0,0,0,0,2,2,0,1,25,1,4,0,0,0,6,0,03/15/2015,away,12080,365,LSU,9,True,6,18,-12,loss,410177,433,1660940,2015
+0,0,0.0,2,2,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2,0,03/18/2015,home,12080,2678,Ark.-Pine Bluff,9,True,7,6,1,win,411086,433,1660940,2015
+0,0,0.0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,9,0,0,0,0,0,3,0,03/21/2015,home,12080,235,Florida,9,True,4,8,-4,loss,412032,433,1660940,2015

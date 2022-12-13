@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,3,1,1,4,3,0,12,6,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,2,2,02/26/2015,neutral,12080,608,Saint Leo,9,True,3,4,-1,loss,406491,464,1537018,2015
+0,0,2.0,1,0,0,2,2,0,10,7,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0,0,0,3,0,03/01/2015,neutral,12080,450,Mount St. Mary's,9,True,2,8,-6,loss,407176,464,1537018,2015
+0,0,0.1,1,1,1,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,04/04/2015,home,12080,771,Western Ill.,9,True,4,8,-4,loss,415717,464,1537018,2015
+0,0,1.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,05/01/2015,home,12080,527,Oral Roberts,9,True,3,5,-2,loss,423363,464,1537018,2015
+0,0,0.2,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,6,0,05/21/2015,home,12080,2743,UIW,9,True,9,11,-2,loss,426048,464,1537018,2015

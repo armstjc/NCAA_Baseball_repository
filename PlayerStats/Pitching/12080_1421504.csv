@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,2,3,1,0,0,0,5,4,0,0,1,1,0,1,0,3,3,0,0,0,1,0,0,0,0,4,0,02/17/2015,away,12080,314,Jackson St.,9,True,19,10,9,win,405564,655,1421504,2015
+0,0,1.0,0,0,0,0,3,0,3,3,0,0,0,1,0,0,0,0,0,0,0,12,0,0,0,0,0,3,0,03/04/2015,home,12080,665,Southern U.,9,True,11,3,8,win,407473,655,1421504,2015
+0,0,1.0,3,0,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,29,1,0,0,0,0,3,0,03/13/2015,home,12080,2,Abilene Christian,9,True,11,3,8,win,409423,655,1421504,2015
+0,0,0.1,2,3,3,1,0,0,4,3,0,1,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,4,0,03/17/2015,away,12080,718,Tulane,9,True,2,15,-13,loss,410812,655,1421504,2015

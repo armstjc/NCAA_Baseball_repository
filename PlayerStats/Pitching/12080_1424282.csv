@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,3,2,2,2,3,0,8,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,03/15/2015,home,12080,219,Evansville,9,True,12,2,10,win,410344,518,1424282,2015
+0,0,1.0,0,0,0,1,2,0,4,3,0,0,0,1,0,0,0,0,0,0,0,21,1,0,0,0,0,5,0,03/18/2015,home,12080,576,Rider,9,True,7,2,5,win,411062,518,1424282,2015
+0,0,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,4,1,04/22/2015,home,12080,444,Morehead St.,9,True,7,0,7,win,421050,518,1424282,2015
+0,0,1.0,2,0,0,0,2,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,04/24/2015,away,12080,509,Northwestern,9,True,9,2,7,win,421410,518,1424282,2015
+0,0,1.2,4,2,2,1,0,0,10,9,1,0,0,0,0,0,0,2,2,0,0,36,1,4,0,0,0,3,0,05/08/2015,home,12080,392,Maryland,9,True,4,13,-9,loss,424707,518,1424282,2015
+0,0,2.0,2,2,2,0,3,0,8,8,0,0,1,0,0,0,0,0,0,0,0,30,0,3,0,0,0,2,2,05/15/2015,away,12080,306,Indiana,9,True,1,9,-8,loss,425668,518,1424282,2015

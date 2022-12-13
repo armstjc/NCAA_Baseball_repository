@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,5,0,03/04/2015,home,12080,328,Kansas,9,True,5,9,-4,loss,407461,1104,1531450,2015
+0,0,1.2,2,1,0,0,2,0,8,7,0,0,0,0,0,0,0,2,2,1,0,26,2,1,0,0,0,4,1,03/08/2015,away,12080,694,Tennessee,9,True,1,7,-6,loss,408376,1104,1531450,2015
+0,0,1.2,3,2,2,1,1,0,8,7,1,0,0,0,0,0,0,0,0,0,0,39,1,2,0,0,0,3,0,03/14/2015,away,12080,521,Oklahoma St.,9,True,2,3,-1,loss,409516,1104,1531450,2015
+0,0,2.0,1,0,0,0,3,0,7,7,0,0,0,0,0,0,0,3,0,0,0,0,2,1,0,0,0,2,0,03/22/2015,home,12080,494,North Dakota,9,True,11,1,10,win,412230,1104,1531450,2015
+0,1,2.2,5,5,4,2,3,0,16,14,3,0,1,0,0,0,0,0,0,0,0,0,5,0,0,1,0,1,0,03/25/2015,home,12080,631,Santa Clara,9,True,0,15,-15,loss,412910,1104,1531450,2015

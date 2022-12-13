@@ -139,9 +139,9 @@ def getSeasonGbgStats(season=2020):
     max_schools = len(schools)
     #print(schools)
     hasRoster = True
-    for i in range(75,len(schools.T)):
+    for i in tqdm(range(95,len(schools.T))):
         coll_count += 1
-        print(f'{coll_count}/{max_schools} {schools[i]}')
+        print(f'{i}/{max_schools} {schools[i]}')
         try:
             rost = ncaa.ncaa_team_season_roster(schools[i],season)
             print(rost)

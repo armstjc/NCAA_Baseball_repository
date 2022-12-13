@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,1,1,1,2,0,7,5,0,0,0,0,0,1,0,0,0,0,0,22,1,0,0,0,0,7,1,02/19/2015,neutral,12080,513,Notre Dame,9,True,1,14,-13,loss,405648,2743,1646868,2015
+0,0,1.0,1,2,2,3,3,0,7,4,0,1,0,1,0,0,0,0,0,0,0,39,0,0,0,0,0,6,3,02/24/2015,away,12080,706,UTSA,9,True,0,12,-12,loss,406403,2743,1646868,2015
+0,0,1.0,0,0,0,0,0,0,3,3,0,0,0,1,0,0,0,2,0,0,0,9,1,2,0,0,0,7,0,03/29/2015,home,12080,287,Houston Christian,9,True,1,12,-11,loss,413918,2743,1646868,2015
+0,0,1.2,2,1,1,1,2,0,9,7,0,0,0,0,0,1,0,0,0,0,0,29,1,2,0,0,0,3,0,05/02/2015,home,12080,1004,Central Ark.,10,True,8,7,1,win,423677,2743,1646868,2015
+0,0,2.0,4,6,3,3,0,0,15,12,0,0,0,0,0,0,0,1,0,0,0,56,3,3,0,0,0,3,0,05/09/2015,home,12080,26172,A&M-Corpus Christi,9,True,0,13,-13,loss,425049,2743,1646868,2015

@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0,0,7,0,0,0,0,0,6,0,02/28/2015,away,12080,255,Georgia Tech,9,True,2,15,-13,loss,406719,305,1531319,2015
+0,0,1.1,0,0,0,1,2,0,6,4,0,0,0,0,0,1,0,3,2,0,0,28,1,1,0,0,0,6,0,04/07/2015,home,12080,559,Purdue,9,True,6,10,-4,loss,416571,305,1531319,2015
+0,0,0.1,1,1,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,10,0,1,0,0,0,3,0,05/12/2015,home,12080,660,SIUE,9,True,8,2,6,win,425330,305,1531319,2015

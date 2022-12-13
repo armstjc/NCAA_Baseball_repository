@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,02/13/2015,away,12080,459,UNC Greensboro,9,True,8,12,-4,loss,404862,19651,1649010,2015
+0,0,0.2,1,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,1,0,11,1,1,0,0,0,4,0,03/03/2015,home,12080,27,App State,9,True,0,4,-4,loss,407315,19651,1649010,2015
+0,1,2.2,4,2,1,2,0,0,13,11,2,0,0,0,0,0,0,0,0,0,0,42,1,6,0,0,0,1,0,03/17/2015,home,12080,488,N.C. A&T,9,True,8,3,5,win,410790,19651,1649010,2015
+0,0,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,17,0,1,0,0,0,3,1,04/08/2015,away,12080,488,N.C. A&T,9,True,10,7,3,win,416807,19651,1649010,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,2,0,0,0,15,1,1,0,0,0,8,0,05/06/2015,away,12080,173,Davidson,9,True,4,17,-13,loss,424525,19651,1649010,2015

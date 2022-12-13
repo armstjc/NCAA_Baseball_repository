@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,11,0,2,0,0,0,5,1,02/17/2015,away,12080,553,Prairie View,9,True,14,4,10,win,405573,2743,1646870,2015
+0,0,0.2,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,10,0,1,0,0,0,3,0,02/21/2015,neutral,12080,739,Villanova,9,True,7,3,4,win,406141,2743,1646870,2015
+0,0,1.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,5,1,02/25/2015,away,12080,697,Texas A&M,9,True,0,7,-7,loss,406449,2743,1646870,2015
+0,0,0.1,2,1,1,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,9,0,02/28/2015,away,12080,472,New Mexico St.,12,True,7,8,-1,loss,406749,2743,1646870,2015

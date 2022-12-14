@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,5,0,02/18/2018,away,12973,1314,Pittsburg St.,9,True,9,18,-9,loss,85970,30125,1649213,2018
+0,0,1.0,0.0,2,2,2,0,1,0,5,5,0,0,0,1,0,0,0,0,0,0,0,16,1,1,0,0,0,2,0,03/17/2018,away,12973,790,Winona St.,9,True,11,5,6,win,91738,30125,1649213,2018
+0,0,2.0,0.0,0,0,0,0,4,0,6,6,0,0,0,0,0,0,0,0,0,0,0,27,1,1,0,0,0,3,0,05/05/2018,away,12973,30075,Mary,9,True,13,2,11,win,104339,30125,1649213,2018
+0,0,1.0,0.0,1,1,0,0,2,0,5,5,1,0,0,0,1,0,0,1,1,0,0,14,0,1,0,0,0,6,0,05/09/2018,neutral,12973,1266,Northern St.,9,True,6,13,-7,loss,105089,30125,1649213,2018

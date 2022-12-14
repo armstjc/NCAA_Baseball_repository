@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,0.0,4,1,0,4,10,0,29,24,1,0,1,0,0,1,0,0,0,0,0,0,4,6,0,0,0,1,4,02/09/2018,home,12973,996,Cameron,9,True,1,3,-2,loss,84888,30090,1881347,2018
+0,1,6.0,0.0,3,2,0,5,9,0,28,22,2,0,0,0,0,1,0,0,0,0,0,0,5,4,0,1,0,1,0,02/16/2018,home,12973,0,Houston-Victoria,10,True,1,3,-2,loss,85310,30090,1881347,2018
+0,1,7.0,0.0,5,1,1,4,10,0,29,24,0,0,0,0,0,0,0,0,0,1,0,0,4,6,1,0,0,1,2,03/02/2018,away,12973,0,Arlington Baptist,9,True,2,1,1,win,87680,30090,1881347,2018
+0,1,6.0,0.0,4,2,2,3,8,0,25,21,0,0,0,2,0,1,0,0,0,0,0,106,1,8,0,0,0,1,4,03/22/2018,home,12973,30105,Ark.-Fort Smith,9,True,3,2,1,win,92760,30090,1881347,2018
+0,1,5.0,0.0,4,0,0,1,8,0,19,18,0,0,1,0,0,0,0,0,0,0,0,77,6,0,1,0,0,1,1,03/30/2018,away,12973,30180,Rogers St.,9,True,3,0,3,win,94819,30090,1881347,2018

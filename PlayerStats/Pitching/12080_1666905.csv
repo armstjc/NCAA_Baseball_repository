@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,03/13/2015,neutral,12080,722,Coast Guard,9,True,8,3,5,win,409677,258,1666905,2015
+0,0,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,03/24/2015,home,12080,21852,Stevenson,9,True,4,0,4,win,412716,258,1666905,2015
+0,0,2.0,2,0,0,0,2,0,8,8,0,0,0,0,0,0,0,0,0,0,0,22,2,2,1,0,0,2,0,03/26/2015,home,12080,30036,Mount Aloysius,9,True,8,5,3,win,413096,258,1666905,2015
+0,0,1.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,2,2,0,0,17,1,1,0,0,0,3,0,04/02/2015,home,12080,239,Franklin & Marshall,9,True,6,9,-3,loss,414985,258,1666905,2015
+0,0,1.1,2,4,0,1,2,0,8,7,0,0,1,0,0,0,0,2,0,0,0,38,0,2,0,1,0,2,1,04/21/2015,home,12080,773,McDaniel,9,True,9,12,-3,loss,420802,258,1666905,2015

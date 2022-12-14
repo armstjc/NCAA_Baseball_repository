@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,6,1,0,2,2,0,24,22,0,0,0,0,0,0,0,0,0,0,0,0,7,5,1,0,0,1,2,03/08/2015,neutral,12080,675,Staten Island,9,True,6,1,5,win,408637,753,1640915,2015
+0,0,1.0,0,1,0,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,03/17/2015,home,12080,679,Stevens,9,True,6,9,-3,loss,410816,753,1640915,2015
+0,1,6.0,5,1,1,1,2,0,25,23,0,0,0,0,0,0,0,0,0,1,0,0,13,3,1,0,0,1,0,03/22/2015,home,12080,1059,D'Youville,9,True,10,1,9,win,412424,753,1640915,2015
+0,1,8.2,4,1,1,4,5,0,33,27,1,0,0,1,0,0,0,0,0,2,0,0,14,6,1,0,0,1,1,03/29/2015,home,12080,453,Muhlenberg,9,True,2,1,1,win,414245,753,1640915,2015
+0,1,7.1,6,3,2,3,4,0,30,26,0,0,0,1,0,1,0,0,0,0,0,0,8,6,1,0,0,1,0,04/04/2015,home,12080,730,Ursinus,9,True,7,4,3,win,416062,753,1640915,2015

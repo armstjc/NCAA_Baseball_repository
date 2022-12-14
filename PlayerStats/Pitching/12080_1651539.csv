@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,2,4,4,2,0,0,5,3,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,2,0,02/14/2015,away,12080,9223,North Greenville,9,True,1,11,-10,loss,405105,333,1651539,2015
+0,1,6.0,5,4,4,2,0,0,26,22,1,0,0,2,0,0,0,0,0,0,2,0,7,11,1,0,0,1,0,03/09/2015,neutral,12080,643,Slippery Rock,9,True,5,4,1,win,408797,333,1651539,2015
+0,1,5.1,6,3,3,0,3,0,21,19,2,1,0,0,0,2,0,0,0,0,0,0,4,6,0,0,0,1,1,03/24/2015,away,12080,332,Kentucky St.,9,True,5,3,2,win,412788,333,1651539,2015
+0,0,3.0,5,3,3,2,2,0,16,14,2,0,0,1,0,0,0,1,0,0,0,49,4,2,0,0,0,2,2,03/31/2015,away,12080,30124,Cedarville,9,True,10,12,-2,loss,414708,333,1651539,2015
+0,0,1.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,12,0,2,1,0,0,2,0,04/21/2015,away,12080,52,Bellarmine,9,True,7,3,4,win,420917,333,1651539,2015

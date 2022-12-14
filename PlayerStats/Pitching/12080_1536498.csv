@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,3,1,1,0,2,0,6,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,0,02/14/2015,neutral,12080,197,East Stroudsburg,9,True,1,29,-28,loss,405366,23157,1536498,2015
+0,0,0.1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,02/14/2015,neutral,12080,197,East Stroudsburg,9,True,6,11,-5,loss,405371,23157,1536498,2015
+0,0,1.1,1,0,0,0,0,0,7,5,0,0,0,0,0,2,0,0,0,0,0,22,3,1,0,0,0,2,0,02/20/2015,neutral,12080,468,Southern N.H.,9,True,4,6,-2,loss,405838,23157,1536498,2015
+0,0,1.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,0,3,0,0,0,4,0,04/28/2015,home,12080,2692,Dowling,9,True,4,3,1,win,422953,23157,1536498,2015

@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,4,0,0,8,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,03/03/2015,neutral,12080,1468,Mt. St. Mary (NY),9,True,9,2,7,win,407410,265,1667115,2015
+0,0,1.0,1,1,1,2,0,0,6,3,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,5,0,03/04/2015,neutral,12080,815,York (PA),9,True,7,24,-17,loss,407527,265,1667115,2015
+0,0,1.0,5,7,7,3,1,0,11,8,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,03/30/2015,home,12080,707,Thiel,9,True,1,21,-20,loss,414396,265,1667115,2015
+0,0,1.0,2,1,1,1,1,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,04/13/2015,home,12080,1434,Waynesburg,9,True,4,20,-16,loss,418531,265,1667115,2015

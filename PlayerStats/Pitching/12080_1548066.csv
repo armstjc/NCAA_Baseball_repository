@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,1,3,3,3,1,0,5,2,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,2,0,03/15/2015,neutral,12080,751,Wash. & Jeff.,9,True,5,8,-3,loss,410516,530,1548066,2015
+0,0,1.0,0,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,3,0,04/05/2015,away,12080,475,SUNY New Paltz,9,True,10,0,10,win,416299,530,1548066,2015
+0,0,1.0,2,1,1,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,23,1,0,0,0,0,6,0,04/27/2015,away,12080,580,RIT,9,True,16,7,9,win,422720,530,1548066,2015

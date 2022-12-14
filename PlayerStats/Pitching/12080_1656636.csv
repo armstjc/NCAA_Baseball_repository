@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,6,3,2,2,3,0,24,20,1,0,0,0,0,0,0,0,0,2,0,0,6,7,1,0,0,1,2,03/15/2015,neutral,12080,475,SUNY New Paltz,9,True,15,3,12,win,410567,401,1656636,2015
+0,1,2.0,8,7,6,0,1,0,15,14,2,0,0,0,0,0,0,0,0,0,1,0,0,5,0,1,0,1,1,03/20/2015,neutral,12080,182,Denison,9,True,3,10,-7,loss,411563,401,1656636,2015
+0,1,5.0,6,2,2,1,4,0,22,20,2,0,0,0,0,1,0,0,0,0,0,0,3,7,0,1,0,1,1,04/07/2015,away,12080,621,Salem St.,9,True,0,2,-2,loss,416551,401,1656636,2015
+0,1,5.1,8,3,2,1,7,0,28,26,2,0,0,0,0,0,0,0,0,1,0,0,5,4,0,1,0,1,1,04/15/2015,away,12080,583,Roger Williams,9,True,1,6,-5,loss,418891,401,1656636,2015
+0,1,2.1,8,7,7,2,3,0,17,15,0,0,1,1,0,0,0,0,0,0,0,0,1,2,0,1,0,1,1,04/21/2015,home,12080,662,Southern Me.,9,True,10,17,-7,loss,421007,401,1656636,2015
+0,1,3.1,3,5,5,5,4,0,19,11,0,0,0,0,0,2,0,0,0,0,1,0,2,3,0,0,0,1,1,04/27/2015,home,12080,8981,Endicott,9,True,8,7,1,win,422816,401,1656636,2015

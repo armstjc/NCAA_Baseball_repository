@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.2,5,2,1,1,3,0,26,24,0,0,0,0,0,1,0,0,0,0,0,0,9,6,1,0,0,1,0,03/11/2015,neutral,12080,1315,Pitt.-Bradford,9,True,9,4,5,win,409194,1340,1324346,2015
+0,0,2.0,2,2,2,2,0,0,10,7,1,0,0,0,0,0,0,0,0,1,0,0,4,1,0,0,0,2,0,03/24/2015,home,12080,564,Ramapo,9,True,5,2,3,win,412666,1340,1324346,2015
+0,1,5.1,10,5,5,1,0,0,24,23,1,1,0,0,0,0,0,0,0,0,0,0,8,5,0,0,0,1,0,04/12/2015,away,12080,30029,Purchase,9,True,7,5,2,win,418249,1340,1324346,2015
+0,1,7.0,4,2,0,0,3,0,25,24,0,0,0,0,0,0,0,0,0,1,0,0,13,3,1,0,0,1,0,04/18/2015,away,12080,1468,Mt. St. Mary (NY),9,True,7,2,5,win,420115,1340,1324346,2015
+0,1,4.2,5,2,2,1,1,0,20,19,0,0,0,0,0,0,0,0,0,0,0,0,7,6,0,1,0,1,1,04/26/2015,home,12080,30072,St. Joseph's (Brkln),9,True,1,7,-6,loss,422467,1340,1324346,2015
+0,1,5.0,8,5,3,1,1,0,26,23,1,0,0,1,0,0,0,0,0,2,0,0,9,5,0,1,0,1,0,05/02/2015,neutral,12080,27892,Farmingdale St.,9,True,5,10,-5,loss,424065,1340,1324346,2015

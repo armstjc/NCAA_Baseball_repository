@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,1,1,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,03/09/2015,neutral,12080,278,Heidelberg,10,True,6,7,-1,loss,408824,442,1551322,2015
+0,0,0.1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,4,0,03/11/2015,neutral,12080,278,Heidelberg,9,True,7,9,-2,loss,409269,442,1551322,2015
+0,1,4.0,6,3,3,1,3,0,19,17,2,0,0,0,0,1,0,0,0,0,0,70,6,1,1,0,0,1,1,03/15/2015,neutral,12080,496,North Park,9,True,18,8,10,win,410459,442,1551322,2015
+0,1,4.1,5,4,4,2,2,0,20,17,0,0,0,0,0,1,0,0,0,0,0,66,5,4,0,0,0,1,0,04/01/2015,home,12080,30029,Purchase,9,True,13,6,7,win,414835,442,1551322,2015
+0,1,1.1,5,4,3,4,2,0,13,9,0,0,0,0,0,0,0,0,0,0,0,62,1,0,0,0,0,1,0,04/07/2015,home,12080,480,CCNY,9,True,10,4,6,win,416562,442,1551322,2015
+0,0,2.0,0,0,0,2,1,0,8,6,0,0,0,1,0,0,0,0,0,0,0,35,3,2,0,0,0,2,0,04/23/2015,home,12080,588,Rutgers-Camden,9,True,0,7,-7,loss,421224,442,1551322,2015

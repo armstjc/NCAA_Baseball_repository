@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,3.0,6,7,6,3,1,0,20,15,2,2,1,2,0,1,0,0,0,1,0,0,3,5,0,1,0,1,0,03/17/2015,neutral,12080,12884,Centenary (NJ),9,True,4,8,-4,loss,410987,451,1538845,2015
+0,1,2.0,6,6,6,2,1,0,15,11,1,0,1,0,0,2,0,0,0,0,0,0,2,2,0,1,0,1,0,03/29/2015,home,12080,524,Old Westbury,9,True,3,23,-20,loss,414182,451,1538845,2015
+0,0,1.2,0,0,0,2,1,0,9,5,0,0,0,1,1,1,0,2,1,0,1,0,3,1,0,0,0,3,0,04/01/2015,away,12080,724,Merchant Marine,9,True,8,9,-1,loss,414800,451,1538845,2015
+0,1,3.2,9,10,6,2,0,0,26,23,0,0,0,2,0,1,0,0,0,0,0,85,4,7,0,1,0,1,0,04/06/2015,away,12080,336,King's (PA),9,True,1,10,-9,loss,416461,451,1538845,2015
+0,1,3.0,8,8,7,2,3,0,21,16,2,0,1,1,0,2,0,0,0,0,1,0,3,2,0,1,0,1,1,04/12/2015,home,12080,0,Fisher,9,True,6,12,-6,loss,418405,451,1538845,2015
+0,0,2.0,0,0,0,1,3,0,8,6,0,0,0,1,0,0,0,1,1,0,1,0,2,1,0,0,0,3,2,04/30/2015,away,12080,279,Lehman,9,True,3,12,-9,loss,423246,451,1538845,2015

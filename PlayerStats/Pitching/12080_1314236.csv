@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,5.2,2,0,0,1,3,0,21,19,0,0,0,0,0,1,0,2,0,0,0,0,8,6,0,0,0,2,0,03/01/2015,neutral,12080,399,Mass. Maritime,11,True,10,3,7,win,407208,335,1314236,2015
+0,0,3.0,2,1,1,0,3,0,11,10,0,0,0,0,0,1,0,0,0,0,0,0,3,2,0,0,0,2,0,03/09/2015,neutral,12080,179,Delaware Valley,9,True,6,7,-1,loss,408730,335,1314236,2015
+0,1,4.2,5,1,0,1,2,0,19,18,1,0,0,0,0,0,0,0,0,0,0,0,6,4,0,0,0,1,0,03/13/2015,neutral,12080,30084,Geneva,9,True,7,1,6,win,409595,335,1314236,2015
+0,0,2.2,3,3,1,3,3,0,14,10,0,0,0,1,0,0,0,1,0,1,0,0,2,2,0,0,0,2,0,03/29/2015,home,12080,281,Hiram,9,True,14,17,-3,loss,414061,335,1314236,2015
+0,0,0.2,4,4,4,2,0,0,9,6,1,0,0,1,0,1,0,2,2,0,0,0,1,1,0,1,0,6,0,04/05/2015,home,12080,807,Wooster,9,True,16,17,-1,loss,416309,335,1314236,2015
+0,0,0.1,1,2,1,1,1,0,4,3,0,0,0,1,0,0,0,3,1,0,0,0,0,0,0,0,0,2,0,04/29/2015,home,12080,117,Capital,9,True,4,10,-6,loss,423046,335,1314236,2015

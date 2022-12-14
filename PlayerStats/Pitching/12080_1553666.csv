@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,3,1,1,0,0,0,8,8,1,0,0,1,0,0,0,0,0,0,0,0,3,2,0,0,0,2,0,03/16/2015,neutral,12080,239,Franklin & Marshall,9,True,5,10,-5,loss,410738,264,1553666,2015
+0,0,1.2,2,1,1,1,2,0,8,7,0,1,0,0,0,0,0,2,2,0,0,0,1,2,0,0,0,2,0,03/17/2015,neutral,12080,286,Hope,9,True,2,9,-7,loss,410967,264,1553666,2015
+0,0,0.2,0,1,1,2,0,0,4,2,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,3,0,03/21/2015,neutral,12080,620,St. Thomas (MN),9,True,5,10,-5,loss,412102,264,1553666,2015
+0,0,0.2,2,2,2,1,0,0,5,4,0,0,1,2,0,0,0,2,2,0,0,0,1,1,0,0,0,2,0,04/02/2015,home,12080,438,Monmouth (IL),9,True,5,9,-4,loss,415145,264,1553666,2015
+0,0,0.2,3,4,1,0,1,0,7,7,1,0,0,2,0,0,0,0,0,0,0,23,0,2,0,0,0,3,0,04/29/2015,away,12080,150,Coe,9,True,5,14,-9,loss,423058,264,1553666,2015
+0,0,1.0,2,0,0,0,1,0,4,4,1,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,4,1,05/08/2015,home,12080,614,St. Norbert,9,True,3,11,-8,loss,424773,264,1553666,2015

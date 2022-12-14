@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.2,4,1,1,0,6,0,26,25,1,0,1,0,0,1,0,0,0,0,0,0,9,5,0,0,0,1,1,03/09/2015,neutral,12080,278,Heidelberg,10,True,6,7,-1,loss,408824,442,1551321,2015
+0,1,9.0,14,7,7,0,3,0,41,39,2,1,1,0,0,0,0,0,0,2,0,0,15,8,0,1,0,1,0,03/14/2015,neutral,12080,46,Baldwin Wallace,9,True,1,7,-6,loss,410021,442,1551321,2015
+0,1,3.2,5,4,4,1,1,0,21,13,0,0,0,0,0,5,0,0,0,1,1,67,4,5,0,1,0,1,0,04/02/2015,away,12080,564,Ramapo,9,True,3,5,-2,loss,415001,442,1551321,2015
+0,1,5.0,6,3,3,0,4,0,21,20,1,1,0,0,0,0,0,0,0,1,0,65,8,3,0,1,0,1,2,04/09/2015,home,12080,787,Wm. Paterson,9,True,2,6,-4,loss,416937,442,1551321,2015
+0,1,6.0,2,1,1,2,4,0,23,21,1,0,0,0,0,0,0,0,0,0,0,78,7,6,1,0,0,1,2,04/16/2015,away,12080,319,New Jersey City,9,True,14,5,9,win,419135,442,1551321,2015
+0,1,6.0,7,6,2,0,4,0,29,27,4,0,0,1,0,1,0,0,0,1,0,100,10,4,0,1,0,1,0,04/23/2015,home,12080,588,Rutgers-Camden,9,True,0,7,-7,loss,421224,442,1551321,2015

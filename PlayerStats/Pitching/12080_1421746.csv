@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,3,0,4,4,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0,03/27/2015,home,12080,319,New Jersey City,9,True,8,7,1,win,413164,443,1421746,2015
+0,1,4.0,6,6,6,2,3,0,21,16,1,0,0,0,0,1,0,0,0,2,0,70,5,4,0,1,0,1,2,04/01/2015,home,12080,16142,Misericordia,9,True,1,10,-9,loss,414855,443,1421746,2015
+0,1,2.2,7,9,9,1,5,0,21,17,0,0,0,5,0,3,0,0,0,0,0,73,2,3,0,1,0,1,0,04/08/2015,away,12080,259,Rowan,9,True,9,14,-5,loss,416748,443,1421746,2015
+0,0,0.2,0,0,0,1,1,0,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,5,0,04/12/2015,away,12080,685,Susquehanna,9,True,9,10,-1,loss,418054,443,1421746,2015
+0,1,2.0,6,8,5,2,0,0,16,13,2,0,0,2,0,1,0,0,0,0,0,0,4,2,0,1,0,1,0,04/16/2015,away,12080,453,Muhlenberg,9,True,5,13,-8,loss,419156,443,1421746,2015
+0,0,1.0,3,2,2,1,1,0,7,6,0,0,0,1,0,0,0,0,0,0,0,30,1,1,0,0,0,3,0,05/09/2015,home,12080,124,Catholic,9,True,12,16,-4,loss,425069,443,1421746,2015

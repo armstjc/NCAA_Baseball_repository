@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,1,1,2,2,0,6,2,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,3,1,02/07/2015,away,12080,30178,Northwestern Okla.,9,True,16,4,12,win,404430,507,1423798,2015
+0,0,1.0,2,2,2,0,2,0,5,5,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,03/14/2015,home,12080,1156,Neb.-Kearney,9,True,4,11,-7,loss,409945,507,1423798,2015
+0,0,1.0,0,0,0,0,0,0,4,2,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,5,0,03/25/2015,away,12080,0,Culver-Stockton,9,True,3,6,-3,loss,412964,507,1423798,2015
+0,0,1.1,0,0,0,2,3,0,6,4,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,2,1,04/21/2015,home,12080,0,Midland,9,True,5,13,-8,loss,420849,507,1423798,2015

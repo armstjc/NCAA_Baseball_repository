@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,3,4,4,2,0,0,9,5,0,0,0,2,0,1,0,0,0,0,1,32,2,1,0,0,0,4,0,02/13/2015,away,12080,2814,Washburn,9,True,4,20,-16,loss,404900,54,1645619,2015
+0,0,0.0,0,4,4,4,0,0,4,0,0,0,0,0,0,0,0,2,2,0,0,21,0,0,0,0,0,7,0,04/11/2015,home,12080,383,Minnesota St.,9,True,20,41,-21,loss,417716,54,1645619,2015

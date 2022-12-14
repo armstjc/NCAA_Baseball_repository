@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,2,2,0,0,2,0,16,14,1,0,0,1,0,0,0,0,0,2,0,0,3,7,0,0,0,1,1,03/12/2015,neutral,12080,18422,Rivier,9,True,6,2,4,win,409393,686,1325441,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,04/11/2015,home,12080,322,Johns Hopkins,9,True,4,9,-5,loss,417443,686,1325441,2015
+0,0,1.0,2,3,3,2,1,0,6,4,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,04/11/2015,home,12080,322,Johns Hopkins,9,True,2,17,-15,loss,417702,686,1325441,2015
+0,0,0.1,0,1,1,2,0,0,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,2,0,04/17/2015,home,12080,453,Muhlenberg,9,True,3,9,-6,loss,419294,686,1325441,2015
+0,0,2.0,3,0,0,1,0,0,11,10,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,4,0,04/24/2015,home,12080,730,Ursinus,9,True,6,12,-6,loss,421446,686,1325441,2015

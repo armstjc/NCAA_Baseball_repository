@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.2,3,1,1,2,4,0,13,8,1,0,0,2,1,0,0,0,0,2,1,0,1,2,0,1,0,2,3,03/15/2015,neutral,12080,60,Bethel (MN),9,True,2,3,-1,loss,410501,800,1439933,2015
+0,1,8.0,11,3,2,3,8,0,37,33,0,0,1,0,0,1,0,0,0,0,0,0,8,6,1,0,0,1,1,03/19/2015,neutral,12080,192,Dubuque,9,True,9,3,6,win,411300,800,1439933,2015
+0,1,5.2,11,7,3,2,2,0,31,29,1,0,0,0,1,0,0,0,0,0,0,0,10,4,0,1,0,1,1,03/28/2015,away,12080,296,Benedictine (IL),9,True,6,7,-1,loss,413559,800,1439933,2015
+0,1,4.1,11,5,5,1,1,0,24,22,1,0,0,1,0,0,0,0,0,0,1,0,8,2,0,0,0,1,1,04/02/2015,home,12080,1196,Marian (WI),9,True,6,5,1,win,415070,800,1439933,2015

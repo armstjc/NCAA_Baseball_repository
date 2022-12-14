@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,4,3,2,2,0,0,12,10,1,1,0,2,1,0,0,2,2,0,0,0,4,1,0,0,0,2,0,03/07/2015,neutral,12080,30036,Mount Aloysius,9,True,3,7,-4,loss,408272,633,1644084,2015
+0,0,2.0,0,0,0,2,1,0,9,7,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,3,0,03/30/2015,away,12080,784,Wilkes,9,True,8,4,4,win,414326,633,1644084,2015
+0,1,2.0,4,4,4,3,1,0,13,10,1,0,0,1,0,0,0,0,0,0,0,0,2,3,0,0,0,1,0,04/09/2015,home,12080,30190,Penn College,9,True,10,8,2,win,416946,633,1644084,2015
+0,1,5.0,0,1,0,2,5,0,19,15,0,0,0,0,0,1,0,0,0,1,0,0,8,1,1,0,0,1,2,04/13/2015,home,12080,213,Elmira,9,True,15,3,12,win,418495,633,1644084,2015
+0,1,2.0,1,0,0,1,1,0,8,7,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,1,0,04/24/2015,home,12080,958,Clarks Summit,9,True,11,0,11,win,421464,633,1644084,2015
+0,0,1.0,2,2,0,0,1,0,6,5,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,4,1,04/28/2015,home,12080,784,Wilkes,9,True,7,8,-1,loss,423032,633,1644084,2015

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,1,0,8,2,1,0,0,0,3,0,03/03/2018,neutral,12973,174,Davis & Elkins,9,True,5,6,-1,loss,88265,543,1778389,2018
+0,0,0.2,0.0,2,2,1,0,0,0,6,6,1,0,1,0,1,0,0,0,0,0,0,26,0,2,0,0,0,3,0,03/04/2018,neutral,12973,934,Alderson Broaddus,9,True,12,20,-8,loss,88707,543,1778389,2018
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,0,1,0,0,0,3,0,04/11/2018,away,12973,21323,Chestnut Hill,9,True,3,7,-4,loss,97941,543,1778389,2018
+0,0,1.1,0.0,3,3,2,2,1,0,10,7,0,1,0,0,0,1,0,2,0,0,0,40,2,1,0,0,0,2,1,04/13/2018,away,12973,23157,Felician,9,True,1,12,-11,loss,98553,543,1778389,2018
+0,0,1.0,0.0,1,0,0,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,29,1,2,0,0,0,4,0,04/21/2018,away,12973,162,Concordia (NY),9,True,10,4,6,win,100626,543,1778389,2018

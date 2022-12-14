@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,18,0,1,0,0,0,3,0,02/03/2018,home,12973,487,North Ala.,9,True,5,1,4,win,84677,30149,1980724,2018
+0,0,0.2,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,15,2,0,0,0,0,6,0,02/17/2018,home,12973,92,Cal St. Dom. Hills,10,True,5,6,-1,loss,85508,30149,1980724,2018
+0,0,1.0,0.0,1,1,1,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,25,0,3,0,0,0,3,0,03/05/2018,away,12973,2696,Hawaii Pacific,9,True,16,7,9,win,88757,30149,1980724,2018
+0,0,1.0,0.0,1,2,2,1,1,0,6,3,1,0,0,0,0,1,0,0,0,0,1,19,1,1,0,0,0,2,0,04/09/2018,home,12973,30175,Holy Names,9,True,17,4,13,win,97454,30149,1980724,2018

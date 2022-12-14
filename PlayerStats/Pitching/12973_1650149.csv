@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,1,0,0,1,2,0,6,5,0,0,0,0,1,0,0,0,0,0,0,28,0,2,0,0,0,4,2,02/16/2018,away,12973,316,Jacksonville,9,True,5,4,1,win,85248,768,1650149,2018
+0,0,1.1,0.0,3,4,3,1,0,0,7,5,1,0,0,0,0,0,0,2,0,1,0,22,2,1,0,1,0,3,0,02/23/2018,neutral,12973,740,VCU,11,True,2,6,-4,loss,86409,768,1650149,2018
+0,0,0.2,0.0,1,1,0,0,1,0,3,3,1,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,4,0,02/25/2018,away,12973,149,Coastal Carolina,9,True,2,5,-3,loss,86963,768,1650149,2018
+0,0,0.0,0.0,1,1,1,0,0,0,2,1,0,0,0,0,1,1,0,0,0,0,0,6,0,0,0,0,0,3,0,05/09/2018,home,12973,742,Virginia Tech,9,True,10,5,5,win,105034,768,1650149,2018
+0,0,1.2,0.0,2,0,0,1,2,0,7,6,0,0,0,0,0,0,0,2,1,0,0,31,1,1,0,0,0,4,1,05/12/2018,away,12973,698,TCU,9,True,4,10,-6,loss,105493,768,1650149,2018

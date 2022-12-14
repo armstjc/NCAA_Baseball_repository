@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,1,0,0,1,5,0,12,10,0,0,0,0,0,1,0,0,0,0,0,44,2,2,1,0,0,2,3,02/20/2018,home,12973,1123,Henderson St.,9,True,20,6,14,win,86118,1376,1765453,2018
+0,0,1.0,0.0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,0,2,0,0,0,3,1,03/09/2018,home,12973,30152,Southern Nazarene,9,True,13,3,10,win,89502,1376,1765453,2018
+0,0,1.2,0.0,3,5,3,0,0,0,11,9,2,0,0,0,1,2,0,0,0,0,0,39,4,1,0,0,0,2,0,03/13/2018,home,12973,8411,Ark.-Monticello,9,True,12,7,5,win,90727,1376,1765453,2018
+0,0,1.0,0.0,3,1,1,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,15,2,0,0,0,0,3,0,04/25/2018,home,12973,0,Tex. A&M-Texarkana,9,True,8,7,1,win,101748,1376,1765453,2018

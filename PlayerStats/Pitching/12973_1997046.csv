@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,3,3,3,3,0,0,9,6,1,0,0,1,0,0,0,0,0,0,0,46,1,2,0,0,0,4,0,03/20/2018,home,12973,590,Sacred Heart,9,True,5,3,2,win,92646,572,1997046,2018
+0,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,2,0,0,0,0,5,0,03/28/2018,home,12973,500,Northeastern,9,True,8,15,-7,loss,94402,572,1997046,2018
+0,0,1.0,0.0,1,2,1,2,0,0,7,4,1,0,0,0,1,1,0,0,0,0,0,24,1,2,0,0,0,4,0,03/30/2018,home,12973,173,Davidson,9,True,2,12,-10,loss,95063,572,1997046,2018
+0,0,1.0,0.0,3,1,1,0,0,0,7,6,1,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,6,0,04/11/2018,away,12973,285,Holy Cross,9,True,4,9,-5,loss,97877,572,1997046,2018
+0,0,1.0,0.0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,15,2,0,0,0,0,4,0,04/18/2018,home,12973,272,Hartford,9,True,10,2,8,win,99868,572,1997046,2018

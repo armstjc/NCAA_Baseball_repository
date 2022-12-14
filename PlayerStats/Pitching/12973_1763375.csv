@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,1,2,0,5,4,1,0,0,0,0,0,0,0,0,0,0,21,1,0,0,0,0,5,0,03/17/2018,away,12973,661,Southern Ind.,9,True,6,12,-6,loss,91597,561,1763375,2018
+0,1,1.0,0.0,2,4,2,1,1,0,8,7,1,0,0,0,0,0,0,0,0,0,0,34,2,0,0,0,0,1,0,04/11/2018,away,12973,0,Lindenwood (IL),9,True,7,5,2,win,97986,561,1763375,2018
+0,1,3.1,0.0,4,3,2,4,3,0,19,13,0,0,0,0,2,1,0,0,0,1,0,66,3,3,0,0,0,1,0,04/26/2018,home,12973,0,Ind.-South Bend,9,True,13,4,9,win,101972,561,1763375,2018
+0,1,5.0,0.0,4,3,3,5,2,0,25,18,0,0,0,0,0,2,0,0,0,0,0,0,3,9,1,0,0,1,2,05/01/2018,away,12973,728,Upper Iowa,9,True,15,3,12,win,103574,561,1763375,2018
+0,0,0.2,0.0,2,4,4,1,2,0,7,5,0,0,0,0,5,1,0,0,0,0,0,31,0,1,0,0,0,3,1,05/12/2018,neutral,12973,52,Bellarmine,9,True,4,13,-9,loss,105630,561,1763375,2018

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,0,1,0,0,0,4,0,03/17/2018,away,12973,1328,Rockhurst,9,True,18,1,17,win,91683,30050,1867237,2018
+0,0,1.0,0.0,0,1,0,3,1,0,6,2,0,0,0,0,0,0,0,2,0,0,1,26,0,2,0,0,0,4,1,03/26/2018,away,12973,661,Southern Ind.,9,True,10,8,2,win,94027,30050,1867237,2018
+0,0,1.0,0.0,2,3,0,1,0,0,6,5,1,0,0,1,0,0,0,0,0,0,0,29,2,0,0,0,0,6,0,05/01/2018,home,12973,0,Roosevelt-Peoria,9,True,26,5,21,win,103591,30050,1867237,2018
+0,0,0.1,0.0,1,1,1,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,7,0,05/05/2018,home,12973,354,Lewis,9,True,12,2,10,win,104395,30050,1867237,2018

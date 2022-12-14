@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.0,0.0,0,0,0,2,3,0,7,5,0,0,0,0,0,0,0,0,0,0,0,30,1,1,1,0,0,1,0,04/11/2018,away,12973,236,Fordham,9,True,5,3,2,win,98013,639,1754843,2018
+0,0,3.1,0.0,3,3,1,1,5,0,15,13,2,0,0,0,0,1,0,1,1,0,0,0,3,1,0,0,0,2,2,04/17/2018,away,12973,127,Central Conn. St.,9,True,4,7,-3,loss,99627,639,1754843,2018
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,17,1,2,0,0,0,2,0,04/22/2018,away,12973,220,Fairfield,9,True,6,0,6,win,101155,639,1754843,2018
+0,1,1.2,0.0,4,4,3,2,1,0,12,9,2,0,0,0,0,1,0,0,0,0,0,45,3,0,0,1,0,1,0,05/08/2018,home,12973,62,Binghamton,9,True,0,10,-10,loss,105016,639,1754843,2018
+0,0,2.0,0.0,2,1,1,1,2,0,8,7,2,0,0,0,0,0,0,0,0,0,0,27,0,3,0,0,0,2,1,05/18/2018,home,12973,617,Saint Peter's,9,True,7,8,-1,loss,106188,639,1754843,2018
+0,1,7.0,0.0,12,3,3,1,1,0,32,31,2,0,0,1,0,0,0,0,0,0,0,103,10,8,0,0,0,1,0,05/25/2018,neutral,12973,562,Quinnipiac,10,True,6,7,-1,loss,106780,639,1754843,2018

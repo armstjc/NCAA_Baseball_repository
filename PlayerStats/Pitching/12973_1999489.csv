@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,4,0,03/09/2018,neutral,12973,241,Franklin Pierce,9,True,14,3,11,win,89538,1348,1999489,2018
+0,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,11,1,1,0,0,0,2,0,03/31/2018,home,12973,1347,Saint Rose,9,True,17,1,16,win,95626,1348,1999489,2018
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,1,0,0,0,0,3,0,04/08/2018,away,12973,477,New York Tech,9,True,18,2,16,win,97086,1348,1999489,2018
+0,0,0.0,0.0,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4,0,04/10/2018,home,12973,8956,Dominican (NY),9,True,2,6,-4,loss,97771,1348,1999489,2018
+0,0,0.2,0.0,0,3,3,2,0,0,5,1,0,0,0,0,0,1,1,0,0,1,0,0,2,0,0,0,0,2,0,04/15/2018,away,12973,74,Bridgeport,9,True,2,7,-5,loss,99359,1348,1999489,2018
+0,0,0.0,0.0,0,2,2,2,0,0,3,0,0,0,0,0,3,1,0,0,0,0,0,15,0,0,0,0,0,5,0,04/28/2018,home,12973,407,Mercy,9,True,11,2,9,win,102936,1348,1999489,2018

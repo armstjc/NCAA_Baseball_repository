@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,03/05/2018,neutral,12973,30126,Notre Dame (OH),9,True,15,0,15,win,88764,30141,2006486,2018
+0,0,3.0,0.0,4,2,2,0,3,0,13,13,2,0,0,0,0,0,0,2,1,0,0,50,3,3,0,0,0,2,1,05/01/2018,away,12973,643,Slippery Rock,9,True,9,12,-3,loss,103578,30141,2006486,2018

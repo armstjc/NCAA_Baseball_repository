@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,03/04/2018,neutral,12973,1348,St. Thomas Aquinas,9,True,2,3,-1,loss,88710,65,1891507,2018
+0,0,2.0,0.0,2,0,0,0,0,0,9,8,0,0,0,0,0,1,0,0,0,0,0,0,3,2,0,0,0,3,0,03/10/2018,neutral,12973,1439,West Virginia St.,9,True,13,4,9,win,90069,65,1891507,2018
+0,0,0.1,0.0,3,4,4,2,1,0,6,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6,1,03/13/2018,neutral,12973,307,Indiana (PA),9,True,6,17,-11,loss,90822,65,1891507,2018
+0,1,0.2,0.0,2,3,3,3,1,0,7,4,0,0,0,0,2,0,0,0,0,0,0,32,1,0,0,0,0,1,0,04/11/2018,away,12973,339,Kutztown,9,True,14,7,7,win,97993,65,1891507,2018
+0,0,1.0,0.0,1,1,1,0,0,0,5,4,1,0,0,0,1,1,0,0,0,0,0,15,3,0,0,0,0,2,0,04/24/2018,home,12973,349,Le Moyne,9,True,11,10,1,win,101627,65,1891507,2018
+0,0,3.1,0.0,3,3,3,5,1,0,18,10,0,0,0,0,1,2,0,0,0,1,0,62,5,2,0,0,0,2,0,05/01/2018,home,12973,546,Pitt.-Johnstown,9,True,15,5,10,win,103589,65,1891507,2018

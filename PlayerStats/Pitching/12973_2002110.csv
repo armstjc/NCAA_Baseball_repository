@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,3,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,03/10/2018,neutral,12973,1328,Rockhurst,9,True,9,18,-9,loss,90048,384,2002110,2018
+0,0,1.1,0.0,6,4,2,0,1,0,11,11,1,0,0,0,0,0,0,1,0,0,0,38,2,1,0,0,0,3,0,03/12/2018,neutral,12973,643,Slippery Rock,9,True,1,25,-24,loss,90617,384,2002110,2018
+0,0,1.0,0.0,1,1,1,1,0,0,5,4,0,0,0,1,0,0,0,0,0,0,0,22,0,3,0,0,0,5,0,03/14/2018,home,12973,510,Northwood,9,True,9,25,-16,loss,91023,384,2002110,2018
+0,0,1.0,0.0,2,2,2,0,1,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,03/25/2018,away,12973,197,East Stroudsburg,9,True,3,11,-8,loss,93802,384,2002110,2018
+0,0,2.0,0.0,3,2,2,2,5,0,12,10,0,0,0,2,1,0,0,2,0,0,0,51,0,1,0,0,0,3,2,04/20/2018,away,12973,638,Shippensburg,9,True,1,16,-15,loss,100172,384,2002110,2018
+0,0,2.0,0.0,3,2,1,0,3,0,10,10,0,0,0,0,0,0,0,0,0,0,0,39,1,2,0,0,0,4,1,05/04/2018,home,12973,765,West Chester,9,True,5,17,-12,loss,104033,384,2002110,2018

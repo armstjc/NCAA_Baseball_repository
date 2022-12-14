@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,3,2,0,2,12,0,3,0,0,0,3,0,03/20/2018,away,12973,429,Mississippi Col.,9,True,3,7,-4,loss,92517,1123,1862242,2018
+0,0,0.1,0.0,1,4,3,3,0,0,5,2,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,2,0,04/11/2018,home,12973,1015,Christian Brothers,9,True,15,7,8,win,97832,1123,1862242,2018
+0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,7,0,0,0,0,0,3,1,05/05/2018,neutral,12973,30202,Okla. Baptist,9,True,4,11,-7,loss,104498,1123,1862242,2018

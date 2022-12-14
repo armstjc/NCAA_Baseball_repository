@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,2,2,3,1,0,6,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,03/10/2018,home,12973,22,American Int'l,9,True,3,13,-10,loss,90255,984,2005629,2018
+0,0,0.1,0.0,0,2,2,3,0,0,5,2,0,0,0,0,1,0,0,0,0,0,0,21,0,1,0,0,0,2,0,04/11/2018,away,12973,1277,Alliance,9,True,10,4,6,win,97938,984,2005629,2018
+0,0,1.0,0.0,2,2,2,2,1,0,7,5,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,4,1,04/14/2018,home,12973,23157,Felician,9,True,5,15,-10,loss,98874,984,2005629,2018
+0,0,2.0,0.0,2,2,2,1,1,0,9,8,0,1,0,0,1,0,0,0,0,0,0,0,1,4,0,0,0,3,1,04/22/2018,home,12973,1318,Post,9,True,4,11,-7,loss,101341,984,2005629,2018
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,05/01/2018,home,12973,1277,Alliance,9,True,5,13,-8,loss,103614,984,2005629,2018

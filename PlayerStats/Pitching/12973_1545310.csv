@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,2,2,2,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,02/24/2018,neutral,12973,543,Jefferson,9,True,8,3,5,win,86779,1348,1545310,2018
+0,0,1.0,0.0,0,0,0,0,1,0,4,3,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,6,0,03/03/2018,neutral,12973,65,Bloomsburg,9,True,7,13,-6,loss,88168,1348,1545310,2018
+0,0,1.0,0.0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,03/10/2018,neutral,12973,8956,Dominican (NY),9,True,9,1,8,win,90279,1348,1545310,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,0,2,0,0,0,2,1,04/08/2018,away,12973,477,New York Tech,9,True,7,1,6,win,97163,1348,1545310,2018
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,4,0,05/07/2018,home,12973,362,LIU Post,9,True,2,7,-5,loss,104906,1348,1545310,2018

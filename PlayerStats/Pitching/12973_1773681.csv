@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,4,4,4,0,0,0,6,6,2,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,3,0,02/24/2018,neutral,12973,30050,Ill. Springfield,9,True,4,16,-12,loss,86796,30137,1773681,2018
+0,0,0.2,0.0,1,0,0,0,1,0,3,3,1,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,2,1,03/05/2018,neutral,12973,30075,Mary,9,True,5,4,1,win,88815,30137,1773681,2018
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,03/10/2018,neutral,12973,354,Lewis,9,True,6,10,-4,loss,90071,30137,1773681,2018
+0,0,0.1,0.0,0,1,1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,03/17/2018,away,12973,30002,Trevecca Nazarene,9,True,1,3,-2,loss,91700,30137,1773681,2018

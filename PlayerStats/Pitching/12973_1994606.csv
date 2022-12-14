@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,3,0,03/10/2018,away,12973,271,Hardin-Simmons,9,True,6,11,-5,loss,90276,30028,1994606,2018
+0,0,2.0,0.0,0,0,0,1,1,0,7,6,0,0,1,0,0,0,0,0,0,0,0,0,2,3,0,0,0,2,0,03/23/2018,away,12973,8530,McMurry,9,True,14,5,9,win,92937,30028,1994606,2018
+0,1,2.0,0.0,4,3,3,2,1,0,13,10,0,1,0,0,1,1,0,0,0,0,0,52,3,1,0,1,0,1,0,04/03/2018,away,12973,8746,Southwestern (TX),9,True,2,4,-2,loss,95857,30028,1994606,2018

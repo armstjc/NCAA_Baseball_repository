@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,2,0,0,0,3,0,10,10,0,0,0,0,0,0,0,1,0,0,0,0,4,1,1,0,0,2,2,03/10/2018,neutral,12973,436,Mo.-St. Louis,9,True,6,3,3,win,90114,757,1973125,2018
+0,1,6.0,0.0,6,4,4,1,6,0,24,23,0,0,0,1,0,0,0,0,0,0,0,0,2,9,1,0,0,1,0,03/14/2018,neutral,12973,533,Pace,9,True,9,5,4,win,90982,757,1973125,2018
+0,1,4.0,0.0,6,5,5,3,5,0,20,16,2,0,2,1,1,1,0,0,0,0,0,80,2,3,0,1,0,1,0,03/25/2018,away,12973,30221,Davenport,9,True,0,6,-6,loss,93835,757,1973125,2018

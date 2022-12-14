@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,4,0,03/16/2018,home,12973,734,Valdosta St.,9,True,2,5,-3,loss,91370,30093,1986890,2018
+0,0,2.0,0.0,2,2,1,1,2,0,10,9,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,5,1,03/31/2018,away,12973,1238,Montevallo,9,True,4,11,-7,loss,95340,30093,1986890,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,1,1,0,0,0,4,0,04/08/2018,home,12973,30151,Shorter,9,True,2,11,-9,loss,97359,30093,1986890,2018
+0,0,1.1,0.0,1,0,0,2,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,31,2,2,1,0,0,4,0,04/11/2018,home,12973,13,Albany St. (GA),9,True,4,2,2,win,97866,30093,1986890,2018

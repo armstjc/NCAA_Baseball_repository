@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,2,1,1,1,1,0,7,5,0,1,0,0,1,0,0,0,0,1,0,0,3,0,1,0,0,4,0,03/08/2018,away,12973,30058,Claflin,9,True,4,2,2,win,89330,591,1997749,2018
+0,0,1.0,0.0,2,2,0,1,1,0,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,1,03/23/2018,away,12973,1403,Tiffin,9,True,17,3,14,win,93033,591,1997749,2018
+0,0,1.0,0.0,3,2,2,0,0,0,7,6,0,0,0,0,0,1,0,0,0,0,0,23,2,1,1,0,0,2,0,04/10/2018,home,12973,0,Rochester Univ. (MI),9,True,10,7,3,win,97755,591,1997749,2018
+0,0,3.2,0.0,2,2,2,2,1,0,15,13,2,0,0,0,0,0,0,0,0,0,0,59,7,3,0,0,0,3,0,05/04/2018,home,12973,510,Northwood,9,True,3,20,-17,loss,103920,591,1997749,2018
+0,0,1.0,0.0,1,1,1,1,0,0,6,3,0,0,0,0,0,1,0,0,0,1,0,14,3,0,0,0,0,4,0,05/06/2018,home,12973,510,Northwood,9,True,6,8,-2,loss,104723,591,1997749,2018

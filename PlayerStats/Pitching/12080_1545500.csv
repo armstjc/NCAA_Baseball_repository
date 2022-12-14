@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.2,1,1,1,2,1,0,12,9,0,0,0,0,0,1,0,1,0,0,0,0,2,5,0,0,0,2,0,03/08/2015,away,12080,680,Stillman,9,True,0,19,-19,loss,408425,347,1545500,2015
+0,0,0.2,3,2,2,1,0,0,6,5,1,0,0,1,0,0,0,3,3,0,0,0,0,2,0,0,0,3,0,03/21/2015,home,12080,332,Kentucky St.,9,True,2,13,-11,loss,411912,347,1545500,2015
+0,0,1.2,5,2,2,0,0,0,8,8,1,0,0,1,0,0,0,3,1,0,0,0,1,2,0,0,0,3,0,04/12/2015,away,12080,422,Miles,9,True,2,15,-13,loss,418043,347,1545500,2015

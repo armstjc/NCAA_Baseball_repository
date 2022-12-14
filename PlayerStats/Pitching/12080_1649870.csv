@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2,1,0,1,0,0,1,0,0,0,3,0,03/07/2015,away,12080,30002,Trevecca Nazarene,9,True,4,5,-1,loss,408108,309,1649870,2015
+0,1,4.0,7,1,1,2,0,0,20,15,0,0,0,0,0,1,0,0,0,2,0,69,6,3,0,1,0,1,0,04/05/2015,away,12080,661,Southern Ind.,9,True,0,1,-1,loss,416330,309,1649870,2015
+0,1,5.0,4,0,0,0,4,0,18,18,1,0,0,1,0,0,0,0,0,0,0,55,6,4,1,0,0,1,0,04/12/2015,home,12080,30138,McKendree,9,True,13,3,10,win,418400,309,1649870,2015
+0,1,5.0,11,5,4,2,7,0,27,25,0,1,0,0,0,0,0,0,0,0,0,88,3,3,0,0,0,1,2,04/18/2015,away,12080,52,Bellarmine,9,True,6,12,-6,loss,420003,309,1649870,2015

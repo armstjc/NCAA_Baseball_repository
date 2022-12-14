@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,02/22/2015,neutral,12080,1277,Alliance,9,True,9,2,7,win,406320,682,1660266,2015
+0,0,4.0,8,7,6,0,1,0,21,21,1,1,0,0,0,0,0,0,0,0,0,0,7,4,0,0,0,2,0,03/09/2015,neutral,12080,1277,Alliance,9,True,11,8,3,win,408732,682,1660266,2015
+0,0,1.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,04/04/2015,away,12080,241,Franklin Pierce,9,True,2,15,-13,loss,415841,682,1660266,2015
+0,0,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,04/14/2015,away,12080,36,Assumption,9,True,12,6,6,win,418839,682,1660266,2015
+0,0,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,0,0,3,0,04/26/2015,away,12080,613,Saint Michael's,9,True,9,1,8,win,422441,682,1660266,2015
+0,0,1.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,0,05/08/2015,neutral,12080,3,Adelphi,9,True,14,3,11,win,424878,682,1660266,2015

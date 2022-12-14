@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,4,2,2,1,1,0,20,18,1,0,0,1,0,0,0,0,0,1,0,59,7,5,1,0,0,1,0,03/17/2015,away,12080,739,Villanova,9,True,3,2,1,win,410797,543,1544759,2015
+0,1,4.2,4,4,3,2,5,0,21,18,1,0,0,0,0,1,0,0,0,0,0,0,3,5,0,0,0,1,0,03/25/2015,home,12080,162,Concordia (NY),9,True,12,7,5,win,412998,543,1544759,2015
+0,1,1.0,6,6,6,0,0,0,9,8,1,2,0,0,0,1,0,0,0,0,0,0,0,2,0,1,0,1,0,04/02/2015,away,12080,23157,Felician,9,True,4,10,-6,loss,415094,543,1544759,2015
+0,1,5.0,9,6,6,2,8,0,26,23,2,0,0,2,0,1,0,0,0,0,0,0,4,2,0,1,0,1,3,04/08/2015,home,12080,197,East Stroudsburg,9,True,1,6,-5,loss,416846,543,1544759,2015

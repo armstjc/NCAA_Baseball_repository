@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,04/02/2015,home,12080,28594,USciences,9,True,7,1,6,win,415159,197,1658788,2015
+0,0,2.0,2,0,0,0,2,0,8,8,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,3,1,04/15/2015,home,12080,349,Le Moyne,9,True,7,3,4,win,419094,197,1658788,2015
+0,0,1.0,2,1,1,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,7,0,04/25/2015,home,12080,65,Bloomsburg,9,True,1,10,-9,loss,421987,197,1658788,2015

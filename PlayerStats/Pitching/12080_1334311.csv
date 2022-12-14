@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,1,1,0,4,3,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,03/13/2015,away,12080,30002,Trevecca Nazarene,9,True,1,8,-7,loss,409556,280,1334311,2015
+0,0,1.0,1,0,0,0,3,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,03/25/2015,home,12080,15,Albion,9,True,8,2,6,win,412982,280,1334311,2015
+0,0,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,03/30/2015,home,12080,757,Wayne St. (MI),9,True,3,14,-11,loss,414433,280,1334311,2015
+0,0,0.1,1,2,2,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,04/04/2015,away,12080,510,Northwood,9,True,5,6,-1,loss,416014,280,1334311,2015
+0,0,1.0,0,1,0,1,0,0,4,2,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,4,0,04/11/2015,home,12080,30119,Ohio Dominican,9,True,3,7,-4,loss,417859,280,1334311,2015

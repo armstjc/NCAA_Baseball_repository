@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.0,2,0,0,0,1,0,8,8,0,0,0,0,0,0,0,0,0,0,0,32,1,4,0,0,0,1,1,02/10/2015,home,12080,1124,Hendrix,9,True,1,5,-4,loss,404678,1116,1309573,2015
+0,0,1.0,1,1,1,0,0,0,5,4,1,0,0,0,0,1,0,0,0,0,0,22,2,1,0,0,0,5,0,04/07/2015,home,12080,181,Delta St.,9,True,1,10,-9,loss,416524,1116,1309573,2015
+0,0,0.2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,0,0,5,0,04/22/2015,home,12080,1376,Southern Ark.,9,True,2,7,-5,loss,421090,1116,1309573,2015

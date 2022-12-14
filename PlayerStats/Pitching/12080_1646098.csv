@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,4,1,03/02/2015,neutral,12080,30124,Cedarville,9,True,8,4,4,win,407266,30141,1646098,2015
+0,0,2.0,6,7,6,3,0,0,15,10,0,1,0,1,0,0,0,0,0,1,1,0,3,3,0,1,0,2,0,03/04/2015,away,12080,208,Eckerd,9,True,1,8,-7,loss,407487,30141,1646098,2015
+0,0,1.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,14,2,0,1,0,0,4,0,03/17/2015,away,12080,106,California (PA),9,True,6,5,1,win,410889,30141,1646098,2015
+0,0,1.0,2,1,1,0,1,0,5,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,3,0,03/30/2015,away,12080,1403,Tiffin,9,True,10,11,-1,loss,414446,30141,1646098,2015

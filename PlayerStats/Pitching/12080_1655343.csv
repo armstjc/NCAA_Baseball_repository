@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,3,3,3,0,0,7,4,1,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,02/13/2015,away,12080,0,Selma,9,True,2,8,-6,loss,404920,347,1655343,2015
+0,0,1.0,2,2,2,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,02/28/2015,home,12080,30191,Spring Hill,9,True,0,22,-22,loss,406857,347,1655343,2015
+0,0,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,03/24/2015,away,12080,0,Crowley's Ridge,9,True,2,7,-5,loss,412793,347,1655343,2015

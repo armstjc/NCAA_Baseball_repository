@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.0,0,3,1,3,0,0,7,4,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,03/14/2015,away,12080,30045,Palm Beach Atl.,9,True,11,20,-9,loss,409744,470,1662666,2015
+0,0,1.0,2,1,1,1,0,0,6,5,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,04/01/2015,away,12080,533,Pace,9,True,3,5,-2,loss,414802,470,1662666,2015
+0,0,1.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,04/11/2015,home,12080,3,Adelphi,9,True,3,7,-4,loss,417358,470,1662666,2015
+0,0,1.0,3,2,2,0,0,0,6,6,1,0,1,0,0,0,0,3,3,0,0,20,2,1,0,0,0,4,0,04/18/2015,away,12080,1347,Saint Rose,9,True,4,19,-15,loss,420025,470,1662666,2015

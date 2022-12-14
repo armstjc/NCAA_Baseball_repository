@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.1,1,6,6,2,0,0,10,5,0,0,0,0,0,3,0,0,0,0,0,31,3,1,0,0,0,1,0,03/24/2015,away,12080,638,Shippensburg,9,True,13,6,7,win,412801,307,1654629,2015
+0,0,3.0,4,1,1,0,0,0,12,12,1,0,1,1,0,0,0,0,0,0,0,0,3,5,0,0,0,3,0,04/02/2015,neutral,12080,143,Clarion,9,True,30,10,20,win,415193,307,1654629,2015
+0,1,2.1,5,3,3,2,1,0,14,11,2,0,0,0,0,0,0,0,0,0,1,0,2,2,0,0,0,1,0,04/14/2015,home,12080,0,Penn St.-Gr Allegheny,9,True,6,4,2,win,418808,307,1654629,2015
+0,1,1.2,2,8,5,6,0,0,15,8,1,0,0,0,0,1,0,0,0,0,0,0,2,3,0,0,0,1,0,04/20/2015,away,12080,30036,Mount Aloysius,9,True,11,10,1,win,420704,307,1654629,2015

@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,2,1,0,6,4,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,03/24/2015,neutral,12080,326,Kalamazoo,9,True,1,11,-10,loss,412828,2758,1332780,2015
+0,0,1.0,4,4,4,1,0,0,8,7,1,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,04/03/2015,away,12080,1133,Husson,9,True,0,13,-13,loss,415572,2758,1332780,2015
+0,0,0.1,2,4,4,3,0,0,6,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,04/20/2015,away,12080,69,Bowdoin,9,True,4,10,-6,loss,420660,2758,1332780,2015
+0,0,1.0,4,2,2,0,1,0,7,7,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,04/26/2015,home,12080,30065,NVU-Lyndon,9,True,2,11,-9,loss,422466,2758,1332780,2015
+0,0,0.1,1,2,2,1,0,0,5,2,0,0,0,1,0,2,0,0,0,0,0,0,1,0,0,0,0,7,0,05/03/2015,away,12080,123,Castleton,9,True,2,14,-12,loss,424272,2758,1332780,2015

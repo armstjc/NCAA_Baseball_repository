@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,8,2,2,0,4,0,24,23,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,03/05/2015,neutral,12080,265,Grove City,9,True,1,4,-3,loss,407597,453,1436138,2015
+0,1,4.0,4,6,3,4,2,0,21,14,0,0,0,0,0,1,0,0,0,1,1,0,3,7,0,0,0,1,0,03/30/2015,away,12080,589,Rutgers-Newark,9,True,7,11,-4,loss,414324,453,1436138,2015
+0,1,4.0,7,4,4,5,2,0,23,17,1,0,0,0,0,0,0,0,0,0,1,0,5,4,0,0,0,1,0,04/16/2015,home,12080,443,Moravian,9,True,13,5,8,win,419156,453,1436138,2015
+0,0,2.0,1,1,1,2,0,0,9,7,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,2,0,04/22/2015,away,12080,30044,Penn St.-Berks,9,True,5,11,-6,loss,421153,453,1436138,2015

@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,3,2,0,1,0,1,1,0,0,0,4,0,04/11/2015,home,12080,775,Western New Eng.,9,True,6,9,-3,loss,417898,484,1445050,2015
+0,1,6.0,6,2,2,1,4,0,24,23,1,0,0,1,0,0,0,0,0,0,0,0,5,7,1,0,0,1,2,04/14/2015,home,12080,26107,Becker,9,True,14,2,12,win,418819,484,1445050,2015
+0,1,3.2,7,5,2,2,1,0,21,19,1,0,0,0,0,0,0,0,0,0,0,0,6,4,0,0,0,1,1,04/19/2015,home,12080,583,Roger Williams,9,True,5,7,-2,loss,420564,484,1445050,2015
+0,1,6.1,6,6,5,4,0,0,28,24,3,1,0,1,0,0,0,0,0,0,0,0,8,9,1,0,0,1,0,04/26/2015,home,12080,145,Clark (MA),9,True,11,6,5,win,422544,484,1445050,2015

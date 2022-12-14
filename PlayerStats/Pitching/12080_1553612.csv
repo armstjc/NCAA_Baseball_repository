@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,03/10/2015,neutral,12080,268,Hamline,9,True,4,3,1,win,409042,803,1553612,2015
+0,0,3.2,1,0,0,3,4,0,15,12,0,0,0,0,0,0,0,2,2,0,0,0,2,5,0,0,0,2,1,03/19/2015,neutral,12080,621,Salem St.,9,True,9,6,3,win,411251,803,1553612,2015
+0,0,3.0,2,3,1,2,3,0,14,12,1,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,2,1,03/24/2015,home,12080,1267,Northland,9,True,4,3,1,win,412706,803,1553612,2015
+0,1,1.1,6,6,6,1,0,0,12,10,2,0,1,1,0,1,0,0,0,0,0,42,3,1,0,1,0,1,0,04/12/2015,away,12080,376,Macalester,9,True,4,14,-10,loss,418408,803,1553612,2015
+0,0,2.0,1,1,0,0,1,0,9,7,0,0,0,0,0,1,0,0,0,0,1,0,2,3,0,0,0,2,1,04/22/2015,away,12080,804,Wis.-Superior,9,True,0,5,-5,loss,421157,803,1553612,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,04/25/2015,home,12080,798,Wis.-Oshkosh,9,True,5,10,-5,loss,422083,803,1553612,2015

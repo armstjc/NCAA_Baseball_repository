@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,5.1,8,7,7,4,4,0,28,22,1,0,0,0,0,1,0,0,0,1,0,0,6,5,0,0,0,2,2,03/18/2015,neutral,12080,286,Hope,9,True,6,14,-8,loss,411179,45,1670724,2015
+0,0,1.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,03/26/2015,neutral,12080,330,Keene St.,9,True,5,1,4,win,413104,45,1670724,2015
+0,0,1.2,0,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,3,0,04/13/2015,away,12080,656,UMass Dartmouth,9,True,4,7,-3,loss,418493,45,1670724,2015
+0,0,4.1,7,4,4,0,1,0,22,19,1,0,2,0,0,2,0,2,0,0,1,66,5,7,0,1,0,2,1,04/16/2015,home,12080,662,Southern Me.,9,True,5,7,-2,loss,419141,45,1670724,2015
+0,0,1.2,0,0,0,0,1,0,5,5,0,0,0,0,0,0,0,1,0,0,0,0,2,2,0,0,0,3,0,04/22/2015,away,12080,145,Clark (MA),9,True,12,7,5,win,421021,45,1670724,2015

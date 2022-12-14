@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,2,3,3,2,0,0,8,4,0,0,0,0,0,2,0,3,3,0,0,0,2,0,0,0,0,2,0,03/01/2015,neutral,12080,547,Plattsburgh St.,9,True,16,15,1,win,407215,382,1666745,2015
+0,0,1.0,1,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,6,0,03/11/2015,away,12080,787,Wm. Paterson,9,True,5,9,-4,loss,409075,382,1666745,2015

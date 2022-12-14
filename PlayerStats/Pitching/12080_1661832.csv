@@ -1,0 +1,8 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,03/10/2015,neutral,12080,30081,Penn St. Harrisburg,9,True,9,7,2,win,408988,75,1661832,2015
+0,0,3.0,3,4,4,2,2,0,13,11,0,0,1,0,0,0,0,0,0,0,0,0,2,4,0,0,0,3,1,03/11/2015,neutral,12080,30036,Mount Aloysius,10,True,13,12,1,win,409208,75,1661832,2015
+0,0,1.2,3,1,1,2,0,0,10,7,1,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,4,0,03/15/2015,away,12080,745,Va. Wesleyan,9,True,1,7,-6,loss,410260,75,1661832,2015
+0,0,3.0,1,0,0,1,1,0,11,10,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,2,0,04/06/2015,home,12080,390,Mary Washington,9,True,4,15,-11,loss,416488,75,1661832,2015
+0,0,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,04/06/2015,home,12080,390,Mary Washington,9,True,0,3,-3,loss,416451,75,1661832,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,1,1,0,0,0,3,0,04/23/2015,neutral,12080,565,Randolph-Macon,9,True,4,6,-2,loss,421332,75,1661832,2015
+0,0,0.1,1,1,1,0,0,0,4,1,1,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,4,0,05/02/2015,home,12080,394,Marymount (VA),9,True,3,9,-6,loss,424080,75,1661832,2015

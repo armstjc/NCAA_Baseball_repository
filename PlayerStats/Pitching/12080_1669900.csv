@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.2,7,3,3,0,0,0,16,12,1,0,1,0,0,2,0,0,0,0,2,0,2,5,0,0,0,2,0,03/18/2015,away,12080,759,Webster,9,True,2,10,-8,loss,411101,798,1669900,2015
+0,0,2.0,0,0,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,3,0,03/26/2015,neutral,12080,326,Kalamazoo,9,True,13,5,8,win,413105,798,1669900,2015
+0,0,3.2,2,1,0,0,0,0,13,13,0,0,0,0,0,0,0,0,0,0,0,0,5,6,0,0,0,2,0,03/31/2015,away,12080,1036,Concordia Wisconsin,9,True,6,5,1,win,414586,798,1669900,2015
+0,0,1.0,1,1,0,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,04/07/2015,home,12080,805,Wis.-Whitewater,9,True,0,8,-8,loss,416667,798,1669900,2015
+0,0,2.0,1,1,1,1,1,0,9,7,0,0,1,0,0,1,0,0,0,0,0,0,2,2,0,0,0,3,1,04/11/2015,away,12080,802,Wis.-Stevens Point,9,True,6,11,-5,loss,417782,798,1669900,2015
+0,0,6.1,6,3,3,1,4,0,25,22,1,0,0,0,0,0,0,0,0,2,0,0,6,8,0,1,0,2,1,04/29/2015,home,12080,577,Ripon,9,True,5,7,-2,loss,423088,798,1669900,2015

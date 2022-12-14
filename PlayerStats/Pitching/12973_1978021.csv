@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.1,0.0,6,3,3,0,0,0,9,9,1,0,1,1,1,0,0,0,0,0,0,41,1,2,0,0,0,1,0,02/18/2018,away,12973,670,Texas St.,9,True,6,5,1,win,85756,521,1978021,2018
+0,1,3.0,0.0,3,0,0,3,6,0,15,12,0,0,0,0,1,0,0,0,0,0,0,69,3,0,0,0,0,1,2,02/25/2018,home,12973,386,Marist,9,True,3,2,1,win,86924,521,1978021,2018

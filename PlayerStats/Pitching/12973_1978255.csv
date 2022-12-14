@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,3,1,03/06/2018,neutral,12973,617,Saint Peter's,9,True,21,1,20,win,88991,545,1978255,2018
+0,0,2.1,0.0,1,0,0,0,1,0,8,8,0,0,0,0,0,0,0,3,0,0,0,29,4,2,0,0,0,6,1,03/16/2018,away,12973,457,North Carolina,9,True,3,15,-12,loss,91292,545,1978255,2018
+0,0,1.1,0.0,3,1,1,0,2,0,7,7,0,0,0,0,2,0,0,2,0,0,0,26,2,1,0,0,0,5,0,03/23/2018,home,12973,193,Duke,9,True,6,12,-6,loss,92880,545,1978255,2018
+0,0,1.1,0.0,3,3,3,0,1,0,7,7,0,1,0,0,0,0,0,0,0,0,0,30,1,2,0,0,0,4,1,04/11/2018,away,12973,768,West Virginia,9,True,1,12,-11,loss,97980,545,1978255,2018
+0,0,0.1,0.0,2,1,1,0,0,0,3,3,2,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,0,7,0,05/17/2018,home,12973,147,Clemson,9,True,6,16,-10,loss,105976,545,1978255,2018

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.2,0.0,5,1,0,1,1,0,13,11,0,0,0,0,0,1,0,2,1,0,0,0,0,4,0,0,0,2,0,02/18/2018,home,12973,366,Louisiana Tech,9,True,3,9,-6,loss,85784,541,1977593,2018
+0,0,2.2,0.0,3,4,3,5,1,0,17,12,0,0,0,0,1,0,0,3,3,0,0,78,0,7,0,0,0,2,1,02/28/2018,away,12973,115,Campbell,9,True,2,15,-13,loss,87466,541,1977593,2018
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,13,0,3,0,0,0,3,0,03/03/2018,neutral,12973,606,Saint Joseph's,9,True,11,2,9,win,88110,541,1977593,2018
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,2,0,0,0,3,0,03/09/2018,home,12973,101,CSUN,9,True,6,1,5,win,89394,541,1977593,2018
+0,0,3.0,0.0,5,4,1,0,1,0,16,14,0,0,0,0,0,1,0,0,0,1,0,43,3,5,0,0,0,2,0,03/13/2018,home,12973,473,New Mexico,9,True,11,7,4,win,90699,541,1977593,2018

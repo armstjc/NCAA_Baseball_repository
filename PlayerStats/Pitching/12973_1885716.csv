@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,1,1,2,1,0,10,6,0,0,0,0,2,2,0,0,0,0,0,42,4,0,0,0,0,3,0,02/19/2018,neutral,12973,473,New Mexico,9,True,15,3,12,win,86051,528,1885716,2018
+0,0,0.1,0.0,0,1,0,1,1,0,3,1,0,0,0,0,0,1,0,1,0,0,0,13,0,0,0,0,0,3,1,04/24/2018,neutral,12973,551,Portland,9,True,9,2,7,win,101669,528,1885716,2018
+0,0,1.0,0.0,1,1,1,1,1,0,5,4,0,0,0,1,0,0,0,0,0,0,0,25,1,1,0,0,0,3,1,05/04/2018,away,12973,754,Washington St.,9,True,17,3,14,win,103910,528,1885716,2018
+0,0,3.2,0.0,2,1,1,2,3,0,15,12,0,0,0,0,0,1,0,2,2,0,0,54,6,1,0,0,1,3,0,05/14/2018,home,12973,627,San Diego,9,True,23,6,17,win,105851,528,1885716,2018

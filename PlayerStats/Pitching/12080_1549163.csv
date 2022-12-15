@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,03/07/2015,neutral,12080,685,Susquehanna,9,True,6,5,1,win,408133,1163,1549163,2015
+0,0,1.0,2,1,1,0,1,0,6,6,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,3,0,03/08/2015,neutral,12080,618,St. Scholastica,9,True,3,1,2,win,408664,1163,1549163,2015
+0,0,1.2,2,0,0,0,0,0,5,5,0,0,0,0,0,0,0,1,1,0,0,0,2,0,1,0,0,2,0,03/11/2015,neutral,12080,335,Kenyon,9,True,4,2,2,win,409254,1163,1549163,2015
+0,0,1.0,1,2,2,1,0,0,6,3,1,0,0,0,0,0,0,0,0,1,1,0,1,2,0,0,0,4,0,03/19/2015,home,12080,385,Marietta,9,True,8,10,-2,loss,411244,1163,1549163,2015
+0,1,3.0,8,5,4,1,0,0,19,18,2,0,0,0,0,0,0,0,0,0,0,0,7,2,0,0,0,1,0,04/14/2015,home,12080,11839,Pitt.-Greensburg,9,True,6,5,1,win,418751,1163,1549163,2015

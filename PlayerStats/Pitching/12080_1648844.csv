@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0,0,0,2,1,0,4,1,0,0,0,0,0,0,0,0,0,1,0,15,1,0,0,0,0,2,1,02/20/2015,home,12080,629,San Francisco,9,True,1,0,1,win,405707,718,1648844,2015
+0,0,3.0,2,0,0,2,1,0,11,9,0,0,0,0,0,0,0,0,0,0,0,39,5,1,0,0,1,2,0,02/24/2015,away,12080,474,New Orleans,9,True,9,0,9,win,406399,718,1648844,2015
+0,0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2,0,03/13/2015,home,12080,812,Xavier,10,True,3,2,1,win,409510,718,1648844,2015
+0,0,0.0,2,0,0,1,0,0,3,2,0,0,0,1,0,0,0,1,1,0,0,10,0,0,0,0,0,7,0,05/03/2015,home,12080,288,Houston,9,True,1,7,-6,loss,424158,718,1648844,2015

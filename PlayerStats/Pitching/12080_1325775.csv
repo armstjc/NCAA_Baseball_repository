@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,4,0,0,1,8,1,25,24,0,0,0,0,1,0,0,0,0,0,0,0,5,7,1,0,0,1,3,03/07/2015,neutral,12080,185,Dickinson,9,True,4,0,4,win,408253,777,1325775,2015
+0,1,7.0,7,3,1,0,5,0,29,26,2,0,0,0,0,0,0,0,0,3,0,94,12,4,1,0,0,1,2,03/12/2015,neutral,12080,605,St. Joseph's (ME),9,True,4,3,1,win,409382,777,1325775,2015
+0,1,2.1,4,3,1,0,2,0,13,12,1,0,0,1,0,1,0,0,0,0,0,0,3,2,1,0,0,1,0,03/25/2015,neutral,12080,532,Elms,9,True,9,5,4,win,413051,777,1325775,2015
+0,1,2.0,5,5,5,2,3,0,13,11,1,0,2,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,04/11/2015,home,12080,238,Framingham St.,9,True,3,12,-9,loss,417690,777,1325775,2015

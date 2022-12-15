@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,1,0,3,2,0,0,0,0,0,0,0,1,1,0,1,0,0,2,0,0,0,2,0,02/13/2015,away,12080,208,Eckerd,9,True,2,5,-3,loss,404859,11403,1654397,2015
+0,0,0.2,4,5,1,2,1,0,10,8,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,03/18/2015,home,12080,24342,Okla. Panhandle,9,True,10,8,2,win,411124,11403,1654397,2015
+0,0,1.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,03/28/2015,home,12080,2720,CSU Pueblo,9,True,4,11,-7,loss,413757,11403,1654397,2015
+0,0,1.0,0,1,1,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,04/06/2015,home,12080,568,Regis (CO),9,True,10,9,1,win,416462,11403,1654397,2015
+0,0,2.0,2,0,0,0,0,0,7,7,1,0,0,0,0,0,0,2,1,0,0,0,3,2,0,0,0,4,0,04/19/2015,home,12080,11416,Colorado Mesa,9,True,7,18,-11,loss,420520,11403,1654397,2015
+0,0,0.2,3,3,3,1,1,0,6,5,3,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,04/24/2015,home,12080,155,Colo. Sch. of Mines,9,True,4,14,-10,loss,421541,11403,1654397,2015

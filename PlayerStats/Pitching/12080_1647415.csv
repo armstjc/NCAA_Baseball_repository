@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,3,4,4,3,1,0,9,5,1,0,1,1,0,0,0,0,0,0,1,35,1,1,0,0,0,5,0,02/13/2015,away,12080,255,Georgia Tech,9,True,3,17,-14,loss,404808,603,1647415,2015
+0,0,0.1,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,2,0,0,0,10,0,0,0,0,0,6,0,02/22/2015,away,12080,196,East Carolina,9,True,2,9,-7,loss,406271,603,1647415,2015
+0,0,0.1,1,0,0,0,0,0,2,2,1,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,4,0,02/28/2015,neutral,12080,2711,North Florida,9,True,2,14,-12,loss,406942,603,1647415,2015
+0,0,0.1,0,0,0,2,0,0,3,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,4,0,03/28/2015,home,12080,576,Rider,9,True,17,3,14,win,413426,603,1647415,2015
+0,0,2.0,1,1,1,0,3,0,8,7,1,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,4,1,05/15/2015,home,12080,659,Southern Ill.,9,True,8,5,3,win,425611,603,1647415,2015

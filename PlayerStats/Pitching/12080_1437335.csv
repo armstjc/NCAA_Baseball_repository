@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,4,4,4,1,0,0,6,4,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,2,0,03/14/2015,neutral,12080,168,SUNY Cortland,9,True,6,21,-15,loss,410129,621,1437335,2015
+0,0,1.0,1,2,1,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,4,0,04/01/2015,home,12080,1099,Gordon,9,True,10,3,7,win,414823,621,1437335,2015
+0,0,1.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,05/14/2015,neutral,12080,662,Southern Me.,9,True,10,1,9,win,425520,621,1437335,2015

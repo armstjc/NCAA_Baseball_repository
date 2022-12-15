@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,3,3,3,1,0,0,8,5,0,1,1,0,0,1,0,0,0,0,1,0,1,2,0,0,0,4,0,03/07/2015,neutral,12080,4,Adrian,9,True,5,15,-10,loss,408156,28749,1551148,2015
+0,0,2.0,1,0,0,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,4,0,03/15/2015,home,12080,320,John Carroll,9,True,2,7,-5,loss,410413,28749,1551148,2015
+0,0,0.1,1,0,0,0,0,0,3,3,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,04/17/2015,away,12080,2694,Franklin,9,True,6,15,-9,loss,419387,28749,1551148,2015
+0,0,1.0,0,0,0,0,1,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,3,0,04/22/2015,away,12080,23260,Spalding,9,True,5,9,-4,loss,421154,28749,1551148,2015

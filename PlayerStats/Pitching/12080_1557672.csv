@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,9,5,4,1,3,0,32,30,1,0,0,0,0,0,0,0,0,1,0,0,8,8,1,0,0,1,0,03/08/2015,neutral,12080,1461,Wilmington (OH),9,True,6,5,1,win,408621,532,1557672,2015
+0,1,5.1,11,6,5,0,1,0,27,26,0,0,0,0,0,1,0,0,0,0,0,0,9,5,0,1,0,1,1,03/12/2015,neutral,12080,1340,St. Joseph's (L.I.),9,True,4,6,-2,loss,409392,532,1557672,2015
+0,0,2.0,2,0,0,0,2,0,8,8,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,3,0,03/25/2015,neutral,12080,777,Westfield St.,9,True,5,9,-4,loss,413051,532,1557672,2015
+0,1,7.1,12,4,3,1,1,0,34,31,2,0,0,0,0,1,0,0,0,0,1,0,10,8,0,0,0,1,0,04/15/2015,home,12080,673,Springfield,9,True,4,5,-1,loss,418914,532,1557672,2015
+0,1,8.0,12,4,4,0,2,0,37,35,1,1,0,0,0,1,0,0,0,1,0,0,12,9,1,0,0,1,0,04/26/2015,away,12080,2691,Daniel Webster,9,True,6,4,2,win,422308,532,1557672,2015
+0,1,7.0,7,4,3,0,1,0,28,25,0,2,0,0,0,0,0,0,0,2,1,0,9,10,0,1,0,1,1,05/10/2015,away,12080,30042,Mitchell,9,True,3,9,-6,loss,425256,532,1557672,2015

@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,1,0,0,1,0,0,4,2,0,0,0,0,0,0,0,2,2,0,1,14,0,2,0,0,0,6,0,03/04/2015,away,12080,10411,USC Upstate,9,True,3,12,-9,loss,407476,792,1306461,2015
+0,0,1.0,4,2,2,0,1,0,7,7,0,0,0,0,0,0,0,2,2,0,0,19,1,1,0,0,0,5,0,03/27/2015,away,12080,149,Coastal Carolina,9,True,4,19,-15,loss,413227,792,1306461,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,7,0,04/03/2015,home,12080,19651,High Point,9,True,2,17,-15,loss,415354,792,1306461,2015
+0,0,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,2,1,0,0,0,4,0,04/06/2015,away,12080,244,Furman,9,True,26,7,19,win,416378,792,1306461,2015

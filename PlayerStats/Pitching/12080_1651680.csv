@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,2,0,0,1,1,0,7,6,0,0,0,0,0,0,0,2,0,0,0,25,1,2,0,0,0,6,0,02/05/2015,away,12080,30055,Cal St. Monterey Bay,9,True,3,12,-9,loss,404347,30146,1651680,2015
+0,0,1.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,11,0,2,0,0,0,3,0,02/16/2015,neutral,12080,205,Mont. St. Billings,9,True,25,7,18,win,405544,30146,1651680,2015
+0,0,1.1,1,0,0,0,2,0,5,5,0,0,0,0,0,0,0,2,0,0,0,0,0,2,1,0,0,6,1,02/17/2015,neutral,12080,205,Mont. St. Billings,9,True,10,8,2,win,405582,30146,1651680,2015
+0,0,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,1,0,0,7,1,0,0,0,0,2,0,03/10/2015,away,12080,100,Cal State LA,9,True,13,6,7,win,408909,30146,1651680,2015
+0,0,1.0,2,0,0,0,1,0,5,5,0,0,0,0,1,0,0,0,0,0,0,17,1,1,0,0,0,3,0,03/12/2015,away,12080,30147,Fresno Pacific,9,True,2,10,-8,loss,409289,30146,1651680,2015
+0,0,0.1,4,3,0,0,0,0,6,6,1,0,0,0,0,0,0,3,3,0,0,18,0,1,0,0,0,10,0,04/07/2015,away,12080,112,UC San Diego,9,True,2,19,-17,loss,416626,30146,1651680,2015

@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,02/21/2015,neutral,12080,423,Millersville,9,True,1,15,-14,loss,406166,349,1654897,2015
+0,0,2.0,0,2,2,2,0,0,8,6,0,0,0,1,0,0,0,0,0,0,0,39,5,1,0,0,0,3,0,03/10/2015,neutral,12080,21323,Chestnut Hill,9,True,5,11,-6,loss,408994,349,1654897,2015
+0,0,0.1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,03/14/2015,away,12080,543,Jefferson,9,True,9,13,-4,loss,409923,349,1654897,2015
+0,0,2.2,2,2,1,1,2,0,12,11,0,1,1,0,0,0,0,1,1,0,0,54,2,4,0,0,0,3,1,04/03/2015,home,12080,3,Adelphi,9,True,4,8,-4,loss,415375,349,1654897,2015
+0,0,2.0,0,0,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,3,1,04/15/2015,away,12080,197,East Stroudsburg,9,True,3,7,-4,loss,419094,349,1654897,2015
+0,0,2.0,1,1,1,1,1,0,8,6,0,0,0,1,0,0,0,0,0,0,1,32,2,3,0,0,0,2,0,04/28/2015,away,12080,1347,Saint Rose,9,True,10,4,6,win,422863,349,1654897,2015

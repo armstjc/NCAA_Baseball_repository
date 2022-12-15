@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,03/20/2015,away,12080,101,CSUN,9,True,3,4,-1,loss,411602,172,1301155,2015
+0,0,2.0,3,3,3,1,1,0,14,8,0,0,0,2,0,4,0,0,0,0,1,0,0,5,0,0,0,2,0,03/22/2015,away,12080,104,UC Santa Barbara,9,True,1,10,-9,loss,412191,172,1301155,2015
+0,0,1.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,12,0,2,0,0,0,5,1,04/05/2015,home,12080,554,Princeton,9,True,0,4,-4,loss,416324,172,1301155,2015
+0,0,0.2,5,7,7,1,1,0,10,7,1,0,0,1,0,2,0,0,0,0,0,0,1,0,0,0,0,3,0,04/11/2015,away,12080,813,Yale,9,True,22,10,12,win,417679,172,1301155,2015
+0,0,1.0,4,4,0,0,0,0,8,7,2,0,0,0,0,0,0,0,0,0,1,19,0,3,0,0,0,7,0,04/28/2015,home,12080,24,Amherst,9,True,4,15,-11,loss,422820,172,1301155,2015

@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.0,1,1,0,1,1,0,7,5,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,03/10/2015,home,12080,394,Marymount (VA),9,True,3,6,-3,loss,408860,745,1652742,2015
+0,0,1.1,1,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,1,03/31/2015,home,12080,0,Apprentice,9,True,8,4,4,win,414631,745,1652742,2015
+0,0,1.0,1,0,0,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,7,0,04/04/2015,away,12080,637,Shenandoah,9,True,7,16,-9,loss,415851,745,1652742,2015
+0,0,1.0,2,1,1,0,0,0,5,4,1,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,3,0,04/05/2015,away,12080,752,Wash. & Lee,9,True,14,4,10,win,416337,745,1652742,2015
+0,0,1.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,5,0,04/15/2015,home,12080,565,Randolph-Macon,9,True,3,9,-6,loss,418905,745,1652742,2015
+0,1,5.1,6,4,3,2,5,0,24,20,0,0,0,0,1,0,0,0,0,1,1,86,5,5,0,1,0,1,1,04/26/2015,neutral,12080,637,Shenandoah,9,True,2,4,-2,loss,422682,745,1652742,2015

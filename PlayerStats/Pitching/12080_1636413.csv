@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,1,0,0,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,01/30/2015,away,12080,608,Saint Leo,9,True,6,22,-16,loss,404199,12830,1636413,2015
+0,0,1.0,2,1,1,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,04/11/2015,home,12080,30094,Brevard,9,True,17,4,13,win,417858,12830,1636413,2015
+0,1,5.0,7,2,2,0,4,0,23,21,2,0,0,1,0,1,0,0,0,1,0,0,7,4,0,0,0,1,2,04/29/2015,home,12080,30181,UVA Wise,9,True,11,7,4,win,423151,12830,1636413,2015

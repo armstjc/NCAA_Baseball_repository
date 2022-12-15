@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,1,1,0,0,0,7,0,04/05/2015,home,12080,807,Wooster,9,True,16,17,-1,loss,416309,335,1671643,2015
+0,0,1.0,3,3,3,0,1,0,7,5,2,0,0,0,0,1,0,0,0,0,1,18,1,1,0,0,0,5,0,04/12/2015,away,12080,515,Oberlin,9,True,2,16,-14,loss,418467,335,1671643,2015
+0,0,0.1,1,0,0,0,1,0,2,2,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,7,1,05/02/2015,away,12080,520,Ohio Wesleyan,9,True,6,26,-20,loss,423869,335,1671643,2015

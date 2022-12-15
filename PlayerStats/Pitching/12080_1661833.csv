@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,3.0,7,6,6,1,4,0,18,15,2,0,2,0,0,1,0,0,0,1,0,0,2,3,0,1,0,1,2,02/14/2015,away,12080,402,McNeese,9,True,4,8,-4,loss,405058,2678,1661833,2015
+0,1,4.1,5,2,2,2,1,0,19,16,1,0,0,0,0,0,0,0,0,1,0,62,7,4,0,0,0,1,1,02/21/2015,away,12080,366,Louisiana Tech,9,True,5,4,1,win,405910,2678,1661833,2015
+0,1,2.0,2,0,0,2,1,0,11,8,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,1,02/27/2015,away,12080,699,Texas Southern,10,True,1,2,-1,loss,406628,2678,1661833,2015

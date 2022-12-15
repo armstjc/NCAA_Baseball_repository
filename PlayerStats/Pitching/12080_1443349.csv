@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,3,0,0,1,4,0,17,15,0,0,0,0,0,1,0,0,0,0,0,0,4,3,0,0,0,1,2,03/07/2015,neutral,12080,166,Cornell College,9,True,3,11,-8,loss,408161,641,1443349,2015
+0,1,7.0,12,6,6,3,4,0,33,30,0,0,2,0,0,0,0,0,0,0,0,0,10,4,0,1,0,1,2,03/11/2015,neutral,12080,764,Wesleyan (CT),9,True,4,6,-2,loss,409218,641,1443349,2015
+0,1,6.2,9,6,4,3,7,0,32,27,1,0,0,0,0,0,1,0,0,1,1,0,7,4,1,0,0,1,2,03/21/2015,away,12080,364,Loras,9,True,7,6,1,win,411770,641,1443349,2015

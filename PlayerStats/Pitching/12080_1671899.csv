@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,04/23/2015,neutral,12080,422,Miles,9,True,3,2,1,win,421326,13,1671899,2015
+0,1,9.0,11,6,3,3,6,0,41,38,3,0,0,0,0,0,0,0,0,0,0,0,11,9,0,1,0,1,0,04/27/2015,neutral,12080,680,Stillman,9,True,3,6,-3,loss,422810,13,1671899,2015
+0,0,1.0,4,4,4,1,0,0,8,7,2,0,0,0,0,0,0,2,2,0,0,0,1,2,0,0,0,3,0,05/15/2015,neutral,12080,20794,Lynn,9,True,4,16,-12,loss,425716,13,1671899,2015

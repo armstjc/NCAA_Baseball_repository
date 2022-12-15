@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,1,1,1,2,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,03/24/2015,neutral,12080,267,Hamilton,9,True,10,3,7,win,412827,151,1327752,2015
+0,0,2.0,6,3,3,0,2,0,12,12,0,0,0,0,1,0,0,0,0,0,0,0,4,0,1,0,0,2,1,03/25/2015,neutral,12080,1159,Keuka,9,True,12,6,6,win,413064,151,1327752,2015

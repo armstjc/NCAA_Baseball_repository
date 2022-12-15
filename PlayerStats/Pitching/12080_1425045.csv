@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.1,4,2,2,1,1,0,12,10,2,0,0,0,0,0,0,1,0,0,1,0,1,5,0,0,0,5,1,02/07/2015,home,12080,230,Florida Tech,9,True,1,17,-16,loss,404515,55,1425045,2015
+0,0,1.0,0,1,1,1,1,0,4,2,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,3,1,02/14/2015,home,12080,0,Bluefield Col.,9,True,3,12,-9,loss,405325,55,1425045,2015
+0,0,1.0,2,2,2,2,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,03/11/2015,home,12080,0,S.C. Beaufort,9,True,3,11,-8,loss,409137,55,1425045,2015
+0,0,3.0,0,0,0,0,0,0,10,9,0,0,0,0,0,0,0,1,1,1,0,0,4,5,1,0,0,4,0,04/03/2015,home,12080,445,Morehouse,9,True,11,9,2,win,415511,55,1425045,2015
+0,0,1.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,04/12/2015,away,12080,144,Clark Atlanta,9,True,13,8,5,win,417992,55,1425045,2015
+0,0,2.0,4,1,0,0,1,0,9,9,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,2,0,04/24/2015,neutral,12080,13,Albany St. (GA),9,True,5,9,-4,loss,421615,55,1425045,2015

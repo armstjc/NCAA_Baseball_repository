@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,1,1,2,1,0,7,5,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,4,1,03/25/2015,away,12080,165,Coppin St.,9,True,17,5,12,win,412880,352,1655366,2015
+0,0,1.0,3,2,2,1,0,0,7,5,2,0,0,0,0,0,0,1,1,1,0,0,2,1,0,0,0,3,0,04/08/2015,home,12080,617,Saint Peter's,9,True,9,16,-7,loss,416771,352,1655366,2015
+0,0,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3,0,04/14/2015,home,12080,180,Delaware,9,True,1,5,-4,loss,418579,352,1655366,2015
+0,0,2.0,2,2,2,0,3,0,8,8,0,0,1,0,0,0,0,2,2,0,0,0,2,1,0,0,0,4,1,04/18/2015,home,12080,726,Navy,9,True,1,21,-20,loss,420077,352,1655366,2015

@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,3.0,1,2,2,4,2,0,14,8,0,0,0,2,0,0,0,0,0,0,2,0,1,6,1,0,0,1,1,03/11/2015,home,12080,382,Manhattanville,9,True,9,5,4,win,409075,787,1553252,2015
+0,1,6.0,7,2,2,3,5,0,27,24,1,0,0,0,0,0,0,0,0,0,0,0,8,4,1,0,0,1,1,03/16/2015,neutral,12080,28593,Birmingham-So.,9,True,8,2,6,win,410659,787,1553252,2015
+0,1,5.0,3,1,1,4,5,0,23,17,1,0,0,1,0,1,0,0,0,0,1,0,1,8,1,0,0,1,1,03/21/2015,neutral,12080,24,Amherst,9,True,12,2,10,win,412065,787,1553252,2015
+0,1,5.1,2,5,2,3,3,0,23,19,0,0,0,1,0,0,0,0,0,0,1,0,5,8,0,1,0,1,1,03/29/2015,home,12080,588,Rutgers-Camden,9,True,1,5,-4,loss,414223,787,1553252,2015
+0,1,4.0,2,0,0,1,0,0,15,14,0,0,0,0,0,0,0,0,0,0,0,0,6,6,1,0,0,1,0,04/21/2015,home,12080,30029,Purchase,9,True,8,3,5,win,420838,787,1553252,2015

@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,24,2,1,0,0,0,2,0,02/07/2015,home,12080,535,Paine,9,True,15,0,15,win,404522,734,1645375,2015
+0,0,0.2,1,0,0,0,0,0,4,3,0,0,0,0,0,1,0,2,1,0,0,11,1,1,0,0,0,3,0,02/18/2015,home,12080,159,Columbus St.,9,True,3,8,-5,loss,405591,734,1645375,2015
+0,0,1.1,1,1,1,1,1,0,7,5,0,0,0,1,0,1,0,0,0,0,0,0,3,0,0,0,0,7,0,03/04/2015,away,12080,1097,Ga. Southwestern,9,True,2,14,-12,loss,407474,734,1645375,2015
+0,0,1.0,1,2,2,0,0,0,6,5,1,0,0,0,0,1,0,0,0,0,0,22,1,2,0,0,0,3,0,03/10/2015,home,12080,1097,Ga. Southwestern,9,True,24,9,15,win,408913,734,1645375,2015

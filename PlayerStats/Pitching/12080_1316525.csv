@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,2,2,1,4,4,0,17,12,1,1,0,1,0,0,0,0,0,1,0,0,5,1,1,0,0,1,1,03/08/2015,neutral,12080,23624,Cazenovia,9,True,8,6,2,win,408606,325,1316525,2015
+0,1,5.1,6,7,6,3,8,0,28,24,2,0,0,1,1,1,0,0,0,0,0,0,4,4,0,1,0,1,3,03/13/2015,neutral,12080,724,Merchant Marine,9,True,6,9,-3,loss,409678,325,1316525,2015
+0,1,3.0,12,8,8,1,1,0,24,20,1,0,0,1,0,1,0,0,0,1,1,0,4,4,0,1,0,1,0,03/24/2015,away,12080,685,Susquehanna,9,True,2,8,-6,loss,412783,325,1316525,2015
+0,1,7.0,4,1,1,1,6,0,26,24,0,0,0,1,0,0,0,0,0,1,0,0,11,4,1,0,0,1,0,03/29/2015,home,12080,190,Drew,9,True,3,1,2,win,414138,325,1316525,2015
+0,1,4.0,2,2,2,3,1,0,16,12,1,0,0,0,0,0,0,0,0,1,0,63,6,4,0,0,0,1,1,04/04/2015,away,12080,211,Elizabethtown,9,True,2,9,-7,loss,416181,325,1316525,2015

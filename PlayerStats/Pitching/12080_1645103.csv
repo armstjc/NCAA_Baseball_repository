@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,9,5,5,2,2,0,23,20,2,1,0,2,0,1,0,0,0,0,0,0,4,5,1,0,0,1,0,03/17/2015,neutral,12080,613,Saint Michael's,9,True,13,6,7,win,410991,427,1645103,2015
+0,0,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3,0,03/31/2015,away,12080,728,Upper Iowa,9,True,6,14,-8,loss,414676,427,1645103,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,1,0,0,0,3,0,04/15/2015,away,12080,27854,Minn.-Crookston,9,True,10,2,8,win,419059,427,1645103,2015
+0,0,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,2,1,0,0,0,2,0,04/26/2015,away,12080,30075,Mary,9,True,11,1,10,win,422565,427,1645103,2015
+0,0,1.0,0,0,0,0,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,3,2,05/02/2015,away,12080,30125,Minot St.,9,True,10,5,5,win,423933,427,1645103,2015
+0,0,3.1,1,0,0,0,3,0,12,11,0,0,0,0,0,1,0,1,0,0,0,51,3,4,0,0,0,2,3,05/08/2015,home,12080,41,Augustana (SD),9,True,4,9,-5,loss,424802,427,1645103,2015

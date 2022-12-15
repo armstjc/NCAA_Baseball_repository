@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,6,0,02/10/2015,home,12080,55,Benedict,9,True,13,9,4,win,404673,9223,1637419,2015
+0,0,0.2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,6,0,02/20/2015,home,12080,30051,King (TN),9,True,3,14,-11,loss,405773,9223,1637419,2015
+0,0,0.2,2,1,0,1,0,0,6,4,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,7,0,03/17/2015,away,12080,12830,Tusculum,9,True,6,3,3,win,410848,9223,1637419,2015
+0,0,1.0,1,0,0,0,1,0,5,3,0,0,0,0,0,1,0,0,0,0,1,0,0,2,0,0,0,7,0,03/28/2015,home,12080,30192,Southern Wesleyan,9,True,12,5,7,win,413791,9223,1637419,2015

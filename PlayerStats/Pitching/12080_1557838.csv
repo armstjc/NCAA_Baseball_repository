@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,7,7,7,1,0,0,11,8,4,0,0,1,0,0,0,2,2,1,1,0,2,1,0,0,0,2,0,03/14/2015,neutral,12080,538,Penn St.-Behrend,9,True,2,13,-11,loss,409997,770,1557838,2015
+0,0,1.2,1,0,0,0,0,0,5,5,0,0,0,1,0,0,0,3,1,0,0,0,3,1,0,0,0,3,0,03/15/2015,neutral,12080,16,Albright,9,True,7,12,-5,loss,410445,770,1557838,2015
+0,0,1.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,03/18/2015,neutral,12080,611,St. Mary's (MD),9,True,10,1,9,win,411166,770,1557838,2015
+0,1,4.2,7,7,4,6,4,0,28,19,1,1,0,0,0,0,0,0,0,2,1,0,7,3,0,0,0,1,1,04/23/2015,home,12080,713,Trinity (CT),9,True,16,9,7,win,421249,770,1557838,2015
+0,1,5.0,2,2,1,1,2,0,22,15,1,0,0,1,0,3,0,0,0,3,0,0,0,0,0,0,0,1,0,04/30/2015,home,12080,321,John Jay,9,True,6,5,1,win,423265,770,1557838,2015

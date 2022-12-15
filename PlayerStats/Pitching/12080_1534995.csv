@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.1,9,7,7,2,2,0,17,14,1,0,1,0,0,0,0,0,0,0,1,57,2,2,0,1,0,2,1,02/02/2015,away,12080,689,Tampa,9,True,2,15,-13,loss,404291,56,1534995,2015
+0,1,2.1,5,3,3,1,0,0,13,11,0,1,0,0,0,1,0,0,0,0,0,0,3,3,0,0,0,1,0,02/15/2015,away,12080,584,Rollins,10,True,9,10,-1,loss,405392,56,1534995,2015
+0,0,0.2,1,0,0,2,0,0,5,3,0,0,0,0,0,0,0,2,0,0,0,16,2,0,0,0,0,3,0,03/09/2015,neutral,12080,1348,St. Thomas Aquinas,9,True,9,5,4,win,408775,56,1534995,2015

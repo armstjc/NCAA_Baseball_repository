@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,4,5,3,0,0,0,6,5,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,2,0,02/08/2015,home,12080,30136,Lindenwood,9,True,11,8,3,win,404648,1334,1652613,2015
+0,0,1.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,1,03/11/2015,home,12080,1371,Southeastern Okla.,9,True,8,2,6,win,409141,1334,1652613,2015
+0,0,1.0,1,1,1,0,0,0,4,3,0,1,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,2,0,04/18/2015,home,12080,24342,Okla. Panhandle,9,True,12,2,10,win,420170,1334,1652613,2015
+0,0,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,04/25/2015,home,12080,30090,Tex. A&M Int'l,9,True,13,6,7,win,422152,1334,1652613,2015
+0,0,1.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,05/08/2015,neutral,12080,30105,Ark.-Fort Smith,9,True,22,1,21,win,424863,1334,1652613,2015
+0,0,0.1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,5,1,05/15/2015,home,12080,11416,Colorado Mesa,10,True,6,8,-2,loss,425644,1334,1652613,2015

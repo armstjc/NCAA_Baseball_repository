@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,3,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,1,5,1,02/13/2015,home,12080,30123,Academy of Art,9,True,3,2,1,win,404864,98,1651805,2015
+0,0,0.1,5,3,3,0,1,0,7,6,0,0,0,0,0,0,0,0,0,1,0,21,0,0,0,1,0,3,0,02/21/2015,away,12080,30055,Cal St. Monterey Bay,9,True,6,7,-1,loss,406024,98,1651805,2015
+0,0,1.0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,18,2,0,0,0,0,3,1,02/27/2015,home,12080,112,UC San Diego,9,True,0,5,-5,loss,406510,98,1651805,2015
+0,0,1.0,4,3,3,0,0,0,7,7,0,0,1,0,1,0,0,0,0,0,0,27,2,1,0,0,0,3,0,03/01/2015,home,12080,112,UC San Diego,9,True,21,10,11,win,407110,98,1651805,2015
+0,0,1.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,0,0,0,8,1,0,1,0,0,7,0,05/03/2015,home,12080,103,Stanislaus St.,13,True,6,5,1,win,424135,98,1651805,2015

@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0,1,0,1,1,0,9,6,0,0,0,0,0,2,0,0,0,0,0,0,3,0,0,0,0,3,1,03/12/2015,away,12080,332,Kentucky St.,9,True,5,2,3,win,409305,52,1548021,2015
+0,0,1.0,3,1,1,0,0,0,6,6,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,3,0,03/30/2015,away,12080,799,Wis.-Parkside,9,True,18,4,14,win,414416,52,1548021,2015
+0,0,5.0,4,0,0,1,1,0,19,16,0,0,0,0,0,1,1,0,0,1,0,72,6,6,0,0,0,2,0,04/01/2015,away,12080,661,Southern Ind.,10,True,7,8,-1,loss,414877,52,1548021,2015
+0,0,0.2,3,2,2,2,0,0,7,5,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,04/12/2015,away,12080,604,St. Joseph's (IN),9,True,4,5,-1,loss,418323,52,1548021,2015
+0,0,1.2,5,4,3,2,0,0,13,11,1,0,1,0,0,0,0,2,2,0,0,51,4,1,0,0,0,3,0,04/22/2015,home,12080,30002,Trevecca Nazarene,9,True,5,12,-7,loss,421185,52,1548021,2015
+0,0,2.0,4,6,5,5,0,0,15,8,2,0,0,0,0,1,0,0,0,0,1,0,1,4,0,0,0,3,0,05/07/2015,away,12080,30120,William Jewell,9,True,1,15,-14,loss,424656,52,1548021,2015

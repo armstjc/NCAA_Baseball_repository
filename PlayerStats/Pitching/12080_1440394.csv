@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.1,3,1,1,4,5,0,20,16,0,1,0,0,0,0,0,0,0,0,0,0,3,5,1,0,0,1,2,02/14/2015,neutral,12080,310,Iona,9,True,14,2,12,win,405369,434,1440394,2015
+0,1,5.0,1,0,0,3,2,0,20,16,0,0,0,0,0,1,0,0,0,0,0,0,6,7,1,0,0,1,1,02/22/2015,neutral,12080,559,Purdue,9,True,1,0,1,win,406300,434,1440394,2015
+0,1,4.0,6,2,2,2,2,0,21,18,0,0,0,1,0,1,0,0,0,0,0,66,5,5,1,0,0,1,1,03/11/2015,home,12080,660,SIUE,9,True,9,4,5,win,409102,434,1440394,2015
+0,0,0.2,2,2,2,1,0,0,5,4,1,0,0,0,0,0,0,1,1,0,0,18,0,2,0,0,0,4,0,03/29/2015,away,12080,697,Texas A&M,9,True,6,14,-8,loss,413940,434,1440394,2015

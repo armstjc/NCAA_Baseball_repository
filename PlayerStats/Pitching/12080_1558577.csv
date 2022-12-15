@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0,0,0,0,2,0,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,03/13/2015,neutral,12080,1402,Thomas More,9,True,10,6,4,win,409642,656,1558577,2015
+0,0,0.1,0,2,1,3,0,0,5,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,4,0,03/18/2015,neutral,12080,72,Bradley,9,True,0,10,-10,loss,411156,656,1558577,2015
+0,0,1.0,2,2,1,1,1,0,6,5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,1,04/06/2015,away,12080,73,Brandeis,9,True,9,4,5,win,416398,656,1558577,2015
+0,0,1.2,0,0,0,1,2,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,1,04/20/2015,away,12080,717,Tufts,9,True,1,14,-13,loss,420683,656,1558577,2015
+0,0,0.2,2,1,1,0,2,0,4,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,04/25/2015,away,12080,200,Eastern Conn. St.,9,True,1,7,-6,loss,422063,656,1558577,2015

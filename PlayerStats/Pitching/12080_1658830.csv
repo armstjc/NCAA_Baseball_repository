@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,11,2,0,0,0,0,5,0,02/13/2015,home,12080,283,Hofstra,9,True,14,2,12,win,404757,110,1658830,2015
+0,0,1.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,19,0,2,0,0,0,3,0,02/27/2015,home,12080,416,Michigan St.,9,True,14,2,12,win,406531,110,1658830,2015
+0,0,1.1,0,0,0,0,3,0,5,4,0,0,0,0,0,1,0,3,0,0,0,20,1,0,0,0,0,5,0,03/06/2015,home,12080,736,Vanderbilt,9,True,0,6,-6,loss,407676,110,1658830,2015
+0,0,0.0,1,2,2,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,3,0,03/14/2015,home,12080,756,Washington,9,True,1,8,-7,loss,409777,110,1658830,2015

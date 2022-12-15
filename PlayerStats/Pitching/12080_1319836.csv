@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,02/14/2015,away,12080,217,Emory,9,True,3,13,-10,loss,405003,374,1319836,2015
+0,0,0.2,2,1,0,0,0,0,3,3,0,0,0,0,0,0,0,3,2,0,0,0,1,0,0,0,1,4,0,03/06/2015,neutral,12080,8968,Eastern,9,True,6,4,2,win,407787,374,1319836,2015
+0,0,2.0,1,0,0,0,2,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,2,1,03/26/2015,home,12080,30164,Southern Va.,9,True,14,1,13,win,413093,374,1319836,2015
+0,0,0.2,3,2,0,0,0,0,6,4,0,0,0,1,0,0,0,1,1,2,0,0,1,0,0,0,0,2,0,03/31/2015,home,12080,1112,Guilford,9,True,4,11,-7,loss,414599,374,1319836,2015
+0,0,2.0,2,2,1,1,0,0,9,7,0,0,0,1,0,0,0,0,0,0,1,35,1,5,1,0,0,2,0,04/19/2015,home,12080,752,Wash. & Lee,9,True,10,4,6,win,420393,374,1319836,2015

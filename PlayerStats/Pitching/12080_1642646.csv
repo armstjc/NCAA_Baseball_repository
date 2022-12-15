@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,2,1,0,0,1,0,3,3,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,5,0,02/24/2015,neutral,12080,1115,Hanover,9,True,7,18,-11,loss,406416,40,1642646,2015
+0,1,5.0,4,2,2,4,8,0,23,19,2,0,0,1,0,0,0,0,0,0,0,0,1,6,1,0,0,1,0,03/31/2015,home,12080,212,Elmhurst,9,True,15,2,13,win,414707,40,1642646,2015
+0,0,2.0,1,0,0,0,2,0,8,7,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,0,0,3,0,04/22/2015,home,12080,337,Knox,9,True,15,5,10,win,421041,40,1642646,2015
+0,0,1.2,4,1,1,0,2,0,9,9,2,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,0,3,0,04/27/2015,home,12080,778,Wheaton (IL),9,True,3,5,-2,loss,422797,40,1642646,2015
+0,1,7.1,4,4,1,1,4,0,28,27,0,0,0,1,0,0,0,0,0,0,0,0,9,9,1,0,0,1,1,04/29/2015,home,12080,166,Cornell College,9,True,5,4,1,win,423050,40,1642646,2015

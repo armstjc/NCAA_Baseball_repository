@@ -5,6 +5,8 @@ import time
 from tqdm import tqdm
 import pandas as pd
 import ssl
+import warnings
+warnings.simplefilter(action='ignore',category=FutureWarning)
 ssl._create_default_https_context = ssl._create_unverified_context
 
 def getSchoolList():
@@ -42,7 +44,7 @@ def getAllGbgStats():
     hasRoster = True
     school_count = 0
     schools_len = len(schools)
-    for s in range(942,len(schools)+1):
+    for s in range(0,len(schools)+1):
         #school_count += 1
         school_count = s
         i = schools[s]
@@ -137,11 +139,11 @@ def getSeasonGbgStats(season=2020):
     max_schools = len(schools)
     #print(schools)
     hasRoster = True
-    for i in schools.T:
+    for i in tqdm(range(0,len(schools.T))):
         coll_count += 1
-        print(f'{coll_count}/{max_schools} {i}')
+        print(f'{i}/{max_schools} {schools[i]}')
         try:
-            rost = ncaa.ncaa_team_season_roster(i,season)
+            rost = ncaa.ncaa_team_season_roster(schools[i],season)
             print(rost)
             
             maxRost = len(rost)
@@ -172,35 +174,42 @@ def getSeasonGbgStats(season=2020):
 
                     print(f'{count}/{maxRost} {school_name} {season} {player_name}')
                     
-                    try:
-                        data_b = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='batting',  school=school_name)
-                        #data_b = data_b[(data_b['AB'] != 0) & (data_b['BB'] != 0)]
-                        if len(data_b) > 0:
-                            data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv',index=False)
-                    except:
-                        print(f'Could not get batting stats for {school_name} {season} {player_name}')
+                    # try:
+                    #     data_b = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='batting',  school=school_name)
+                    #     #data_b = data_b[(data_b['AB'] != 0) & (data_b['BB'] != 0)]
+                    #     if len(data_b) > 0:
+                    #         data_b.to_csv(f'PlayerStats/Batting/{season_id}_{player_id}.csv',index=False)
+                    # except:
+                    #     print(f'Could not get batting stats for {school_name} {season} {player_name}')
 
+                    # try:
+                    #     data_p = ncaa.ncaa_player_game_logs( player=player_name,season=season_id, variant='pitching',  school=school_name)
+                    #     data_p = data_p.loc[data_p['App']>0]
+                    #     if len(data_p) > 0:
+                    #         data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
+                    # except:
+                    #     print(f'Could not get pitching stats for {school_name} {season} {player_name}')
                     try:
-                        data_p = ncaa.ncaa_player_game_logs( player=player_name,season=season_id, variant='pitching',  school=school_name)
-                        data_p = data_p.loc[data_p['App']>0]
+                        data_p = ncaa.ncaa_player_game_logs(player=player_name,season=season_id,variant='pitching',school=school_name)
+                        data_p = data_p[(data_p['IP']>0) | (data_p['App']>0) | (data_p['pitches']>0)]
+                        #print(data_p)
                         if len(data_p) > 0:
                             data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
                     except:
                         print(f'Could not get pitching stats for {school_name} {season} {player_name}')
-
-                    try:
-                        data_f = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='fielding',  school=school_name)
-                        if len(data_f) > 0:
-                            data_f.to_csv(f'PlayerStats/Fielding/{season_id}_{player_id}.csv',index=False)
-                    except:
-                        print(f'Could not get fielding stats for {school_name} {season} {player_name}')
+                    # try:
+                    #     data_f = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='fielding',  school=school_name)
+                    #     if len(data_f) > 0:
+                    #         data_f.to_csv(f'PlayerStats/Fielding/{season_id}_{player_id}.csv',index=False)
+                    # except:
+                    #     print(f'Could not get fielding stats for {school_name} {season} {player_name}')
                     time.sleep(4)
 
 
 def main():
     print('starting up')
-    getAllGbgStats()
-
+    #getAllGbgStats()
+    getSeasonGbgStats(2015)
     
 if __name__ == "__main__":
     main() 

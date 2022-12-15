@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,2,1,1,0,1,0,9,8,1,0,0,1,0,1,0,0,0,0,0,31,5,0,1,0,0,2,0,03/04/2015,home,12080,489,N.C. Central,9,True,9,3,6,win,407466,460,1638657,2015
+0,0,1.0,2,3,3,3,0,0,7,4,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,03/08/2015,home,12080,392,Maryland,9,True,9,11,-2,loss,408314,460,1638657,2015
+0,0,2.0,2,0,0,0,3,0,7,7,1,0,0,0,0,0,0,0,0,0,0,32,2,0,0,0,0,5,2,03/29/2015,away,12080,711,Towson,9,True,6,10,-4,loss,413943,460,1638657,2015
+0,1,2.1,2,2,1,4,2,0,14,8,0,0,0,0,0,0,0,0,0,1,1,57,1,4,0,0,0,1,1,04/04/2015,home,12080,456,UNC Asheville,9,True,3,2,1,win,415670,460,1638657,2015
+0,0,0.0,1,2,2,2,0,0,3,1,0,0,0,2,0,0,0,2,2,0,0,15,0,0,0,0,0,4,0,04/24/2015,away,12080,1068,Elon,9,True,3,14,-11,loss,421402,460,1638657,2015

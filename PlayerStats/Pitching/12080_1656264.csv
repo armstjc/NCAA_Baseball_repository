@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,03/02/2015,neutral,12080,591,Saginaw Valley,9,True,2,10,-8,loss,407267,28594,1656264,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,03/04/2015,neutral,12080,30141,Walsh,9,True,3,11,-8,loss,407514,28594,1656264,2015
+0,0,0.2,5,4,4,0,0,0,7,7,2,0,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,6,0,04/09/2015,away,12080,765,West Chester,9,True,5,10,-5,loss,416941,28594,1656264,2015
+0,0,3.0,1,0,0,0,1,0,9,9,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,3,0,04/22/2015,home,12080,1460,Wilmington (DE),9,True,4,19,-15,loss,421172,28594,1656264,2015
+0,0,1.0,4,3,3,0,1,0,8,7,2,0,0,1,0,1,0,0,0,0,0,30,0,2,0,0,0,2,0,04/23/2015,away,12080,423,Millersville,9,True,1,21,-20,loss,421259,28594,1656264,2015

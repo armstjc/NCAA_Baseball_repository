@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.2,7,6,4,1,2,0,15,13,1,0,0,0,1,1,0,0,0,0,0,56,3,0,0,1,0,1,0,03/17/2015,away,12080,30179,Okla. Christian,9,True,3,7,-4,loss,410855,30152,1538996,2015
+0,0,1.0,3,0,0,0,0,0,6,5,0,0,0,0,0,1,0,0,0,0,0,20,1,1,0,0,0,3,0,04/04/2015,home,12080,8965,East Central,9,True,7,8,-1,loss,415900,30152,1538996,2015
+0,0,0.2,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,7,1,0,1,0,0,4,0,04/04/2015,home,12080,8965,East Central,9,True,8,7,1,win,416112,30152,1538996,2015
+0,0,1.1,2,3,3,1,1,0,9,4,0,0,0,1,0,3,0,3,0,0,1,0,0,2,0,0,0,2,1,04/10/2015,away,12080,1123,Henderson St.,9,True,5,13,-8,loss,417127,30152,1538996,2015
+0,1,5.2,10,5,5,1,3,0,31,25,0,1,2,1,0,2,0,0,0,1,2,92,2,12,0,1,0,1,2,04/19/2015,home,12080,1289,Ouachita Baptist,9,True,4,10,-6,loss,420406,30152,1538996,2015
+0,1,7.0,7,5,4,0,12,0,29,28,1,0,1,3,0,0,0,0,0,0,0,99,5,4,1,0,0,1,2,04/24/2015,home,12080,0,Randall,9,True,20,5,15,win,421495,30152,1538996,2015

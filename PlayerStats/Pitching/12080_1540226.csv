@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,13,2,1,0,0,0,3,0,02/20/2015,home,12080,98,Cal St. East Bay,9,True,14,4,10,win,405666,30055,1540226,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,04/17/2015,away,12080,30175,Holy Names,9,True,4,12,-8,loss,419391,30055,1540226,2015
+0,0,2.0,5,2,2,1,2,0,11,10,0,0,0,0,0,0,0,0,0,0,0,42,2,1,0,0,0,2,1,04/24/2015,home,12080,92,Cal St. Dom. Hills,9,True,13,3,10,win,421349,30055,1540226,2015
+0,0,1.0,2,0,0,0,2,0,6,5,0,0,0,0,0,1,0,0,0,0,0,20,1,0,0,0,0,4,0,05/02/2015,home,12080,645,Sonoma St.,9,True,10,1,9,win,423796,30055,1540226,2015

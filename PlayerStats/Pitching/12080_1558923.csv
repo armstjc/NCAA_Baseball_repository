@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,10,9,3,3,2,0,28,25,2,1,1,0,0,0,0,0,0,0,0,0,7,4,0,1,0,1,1,03/17/2015,neutral,12080,652,Sewanee,9,True,5,11,-6,loss,410921,673,1558923,2015
+0,1,2.2,9,9,9,1,0,0,20,17,1,0,0,0,0,1,0,0,0,0,1,0,4,3,0,1,0,1,0,04/04/2015,away,12080,722,Coast Guard,9,True,5,10,-5,loss,416218,673,1558923,2015
+0,1,7.0,11,3,3,0,2,0,33,29,1,0,0,0,0,2,0,0,0,0,2,0,4,14,0,1,0,1,1,04/09/2015,home,12080,777,Westfield St.,9,True,2,8,-6,loss,416936,673,1558923,2015
+0,1,9.0,8,2,2,1,6,0,34,33,1,0,0,0,0,0,0,0,0,0,0,0,13,6,1,0,0,1,2,04/14/2015,away,12080,214,Emerson,9,True,12,2,10,win,418717,673,1558923,2015
+0,1,1.1,12,9,9,0,0,0,15,15,2,3,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,04/22/2015,home,12080,571,Rhode Island Col.,9,True,5,14,-9,loss,421058,673,1558923,2015
+0,1,6.0,10,6,5,0,4,0,29,28,2,0,0,0,0,0,0,0,0,1,0,0,7,7,0,0,0,1,1,05/03/2015,home,12080,789,Williams,9,True,7,6,1,win,424381,673,1558923,2015

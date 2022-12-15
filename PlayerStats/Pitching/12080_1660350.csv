@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,3.0,7,5,5,4,0,0,18,13,0,0,0,1,0,1,0,0,0,0,0,0,1,5,0,1,0,1,0,03/02/2015,neutral,12080,42,Aurora,9,True,0,11,-11,loss,407276,26,1660350,2015
+0,1,7.0,3,3,2,5,2,0,33,27,2,0,0,0,0,1,0,0,0,0,0,0,7,11,0,1,0,1,2,03/07/2015,neutral,12080,170,Curry,9,True,0,3,-3,loss,408206,26,1660350,2015
+0,1,4.0,1,1,1,5,4,0,19,13,0,0,1,0,0,1,0,0,0,0,0,87,6,2,0,0,0,1,0,03/22/2015,home,12080,30040,Me.-Presque Isle,9,True,6,3,3,win,412342,26,1660350,2015
+0,1,2.0,9,8,7,2,3,0,17,15,1,2,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,1,1,04/12/2015,away,12080,22626,JWU (Providence),9,True,3,11,-8,loss,418192,26,1660350,2015
+0,1,5.1,8,5,3,4,3,0,29,23,2,1,0,0,0,0,0,0,0,2,0,0,7,6,0,1,0,1,3,04/16/2015,away,12080,8486,Lasell,9,True,2,5,-3,loss,419177,26,1660350,2015

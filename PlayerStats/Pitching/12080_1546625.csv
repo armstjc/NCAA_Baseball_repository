@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,6,1,1,1,4,0,27,26,0,0,0,1,0,0,0,0,0,0,0,0,5,12,1,0,0,1,1,03/07/2015,neutral,12080,759,Webster,9,True,5,2,3,win,408154,443,1546625,2015
+0,1,4.2,7,3,3,3,3,0,23,17,1,0,0,0,0,1,0,0,0,2,0,0,5,4,0,0,0,1,2,03/14/2015,away,12080,124,Catholic,10,True,3,4,-1,loss,409812,443,1546625,2015
+0,1,1.0,0,2,1,2,1,0,8,4,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,1,1,03/27/2015,home,12080,319,New Jersey City,9,True,8,7,1,win,413164,443,1546625,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,4,0,04/01/2015,home,12080,16142,Misericordia,9,True,1,10,-9,loss,414855,443,1546625,2015
+0,1,4.1,6,6,5,1,4,0,21,18,0,1,0,2,0,1,0,0,0,0,1,69,7,2,0,1,0,1,2,04/07/2015,home,12080,16,Albright,9,True,5,9,-4,loss,416507,443,1546625,2015
+0,1,2.1,4,7,0,3,0,0,17,10,1,0,0,1,0,2,0,0,0,1,1,0,2,4,0,0,0,1,0,04/14/2015,away,12080,30047,Keystone,9,True,9,11,-2,loss,418605,443,1546625,2015

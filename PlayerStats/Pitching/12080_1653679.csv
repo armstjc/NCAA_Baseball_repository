@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,02/13/2015,home,12080,0,Ecclesia,9,True,11,0,11,win,404903,30105,1653679,2015
+0,1,2.0,2,4,3,1,0,0,10,8,1,0,0,1,0,0,0,0,0,0,1,0,3,3,0,0,0,1,0,03/31/2015,home,12080,1371,Southeastern Okla.,9,True,17,10,7,win,414719,30105,1653679,2015
+0,0,1.0,0,0,0,2,1,0,4,2,0,0,0,1,0,0,0,3,2,0,0,0,0,1,0,0,0,5,1,04/28/2015,away,12080,1057,Drury,9,True,1,7,-6,loss,423014,30105,1653679,2015

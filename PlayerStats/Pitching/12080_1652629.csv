@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0,1,1,2,1,0,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,02/15/2015,neutral,12080,797,Milwaukee,9,True,6,4,2,win,405525,380,1652629,2015
+0,0,0.2,1,1,1,0,1,0,3,3,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,4,0,02/21/2015,neutral,12080,147,Clemson,9,True,2,10,-8,loss,406169,380,1652629,2015
+0,0,1.0,1,1,1,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,1,03/01/2015,neutral,12080,596,St. Bonaventure,9,True,4,5,-1,loss,407219,380,1652629,2015
+0,1,1.1,6,5,4,1,0,0,11,9,1,0,0,0,0,0,0,0,0,1,0,38,2,2,0,0,0,1,0,03/04/2015,away,12080,61,Bethune-Cookman,9,True,11,8,3,win,407462,380,1652629,2015
+0,0,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,04/12/2015,away,12080,368,UMass Lowell,9,True,6,10,-4,loss,418425,380,1652629,2015
+0,0,2.0,2,0,0,0,1,0,8,7,1,0,0,0,0,1,0,0,0,0,0,0,3,1,0,0,0,3,0,04/14/2015,home,12080,30040,Me.-Presque Isle,9,True,6,0,6,win,418684,380,1652629,2015

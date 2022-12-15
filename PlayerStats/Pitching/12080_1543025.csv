@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,6,5,5,3,0,0,20,14,0,1,1,0,0,1,0,0,0,1,1,0,3,7,0,1,0,1,0,03/07/2015,neutral,12080,517,Ohio Northern,9,True,2,6,-4,loss,408224,438,1543025,2015
+0,0,0.1,1,3,3,2,0,0,4,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,2,0,03/13/2015,neutral,12080,276,Haverford,9,True,1,6,-5,loss,409694,438,1543025,2015
+0,0,2.0,2,1,0,0,0,0,10,9,1,0,0,0,0,1,0,0,0,0,0,0,3,3,0,0,0,2,0,04/29/2015,home,12080,300,Ill. Wesleyan,9,True,3,6,-3,loss,423062,438,1543025,2015

@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,1,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,17,3,3,0,0,0,2,0,03/28/2015,home,12080,1355,Schreiner,9,True,15,1,14,win,413581,8530,1658846,2015
+0,0,1.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,7,1,2,0,0,0,2,0,04/09/2015,home,12080,0,Arlington Baptist,9,True,10,1,9,win,416944,8530,1658846,2015
+0,0,1.0,2,1,0,0,1,0,6,6,1,0,0,0,0,0,0,1,1,0,0,18,0,2,0,0,0,2,1,04/18/2015,away,12080,0,Wayland Baptist,9,True,9,10,-1,loss,420165,8530,1658846,2015
+0,0,1.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,20,0,3,0,0,0,3,0,04/21/2015,home,12080,715,Trinity (TX),9,True,12,4,8,win,420791,8530,1658846,2015
+0,0,1.2,0,0,0,0,3,0,5,5,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,2,1,04/25/2015,away,12080,23121,Texas-Dallas,9,True,13,3,10,win,421761,8530,1658846,2015

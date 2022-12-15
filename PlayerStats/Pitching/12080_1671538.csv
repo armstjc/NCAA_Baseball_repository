@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,04/01/2015,home,12080,137,UChicago,9,True,1,5,-4,loss,414879,296,1671538,2015
+0,1,2.0,6,5,5,2,0,0,14,12,1,0,1,1,0,0,0,0,0,0,0,0,3,3,0,1,0,1,0,04/16/2015,away,12080,212,Elmhurst,9,True,6,9,-3,loss,419165,296,1671538,2015

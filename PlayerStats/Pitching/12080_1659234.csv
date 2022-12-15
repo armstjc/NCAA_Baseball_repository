@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,4,3,3,0,0,0,6,6,0,1,0,0,0,0,0,3,3,0,0,0,2,0,0,0,0,3,0,03/16/2015,neutral,12080,168,SUNY Cortland,9,True,6,11,-5,loss,410654,588,1659234,2015
+0,0,2.0,7,3,3,1,1,0,13,12,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,3,0,03/19/2015,neutral,12080,12884,Centenary (NJ),9,True,2,10,-8,loss,411277,588,1659234,2015
+0,0,1.0,2,0,0,1,2,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,04/04/2015,home,12080,589,Rutgers-Newark,9,True,13,2,11,win,416212,588,1659234,2015

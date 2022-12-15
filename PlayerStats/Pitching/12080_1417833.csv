@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.1,6,6,3,1,4,0,18,17,2,0,1,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,02/14/2015,home,12080,419,Middle Tenn.,9,True,5,8,-3,loss,405008,316,1417833,2015
+0,0,2.0,3,3,3,0,2,0,9,8,1,0,1,0,0,0,0,2,1,1,0,35,2,2,0,1,0,2,0,02/24/2015,away,12080,234,Florida St.,9,True,7,10,-3,loss,406384,316,1417833,2015
+0,0,0.2,1,0,0,3,0,0,7,4,0,0,0,0,0,0,0,3,3,0,0,0,2,0,0,0,0,2,0,03/01/2015,away,12080,792,Winthrop,9,True,4,6,-2,loss,407055,316,1417833,2015

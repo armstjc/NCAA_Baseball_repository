@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,5,2,2,0,0,9,5,2,0,0,0,0,1,0,0,0,0,1,30,1,2,0,0,0,4,0,02/21/2015,away,12080,149,Coastal Carolina,9,True,0,12,-12,loss,405870,14,1640183,2015
+0,0,2.1,8,3,2,0,0,0,13,13,2,0,0,1,0,0,0,3,1,0,0,39,3,2,0,0,0,4,0,02/28/2015,away,12080,196,East Carolina,9,True,3,14,-11,loss,406753,14,1640183,2015
+0,0,3.2,2,1,0,0,2,0,16,14,0,0,0,0,0,2,0,2,1,0,0,0,5,4,0,0,0,2,1,03/17/2015,neutral,12080,386,Marist,9,True,7,5,2,win,410942,14,1640183,2015
+0,0,1.0,2,2,1,1,0,0,7,5,1,0,0,1,0,0,0,0,0,1,0,19,1,2,0,1,0,3,0,04/08/2015,away,12080,386,Marist,9,True,3,6,-3,loss,416841,14,1640183,2015
+0,1,4.0,3,3,3,2,3,0,18,15,0,0,1,0,0,0,0,0,0,1,0,65,3,6,0,0,0,1,2,04/12/2015,home,12080,471,NJIT,9,True,5,3,2,win,418343,14,1640183,2015

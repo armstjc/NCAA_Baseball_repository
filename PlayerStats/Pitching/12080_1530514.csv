@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,1,2,2,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,12,0,1,0,1,0,2,0,02/21/2015,away,12080,115,Campbell,9,True,4,11,-7,loss,406003,576,1530514,2015
+0,0,1.0,1,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,1,0,10,3,0,0,0,0,2,0,02/22/2015,away,12080,115,Campbell,9,True,1,2,-1,loss,406353,576,1530514,2015
+0,0,0.1,2,2,2,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,03/01/2015,away,12080,193,Duke,9,True,3,11,-8,loss,407136,576,1530514,2015
+0,0,1.2,5,4,4,1,0,0,11,10,1,0,2,0,0,0,0,1,1,0,0,0,2,3,0,0,0,3,0,03/13/2015,away,12080,331,Kent St.,9,True,5,13,-8,loss,409482,576,1530514,2015
+0,0,1.0,5,5,2,2,1,0,11,9,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,03/28/2015,away,12080,603,St. John's (NY),9,True,3,17,-14,loss,413426,576,1530514,2015

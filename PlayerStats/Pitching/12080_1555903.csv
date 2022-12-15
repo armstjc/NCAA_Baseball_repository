@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.2,9,9,9,2,1,0,19,16,4,0,3,0,0,1,0,0,0,0,0,0,2,4,0,1,0,1,0,03/15/2015,away,12080,750,Wartburg,9,True,0,11,-11,loss,410338,615,1555903,2015
+0,1,5.0,10,6,6,1,1,0,25,23,3,1,0,0,0,0,0,0,0,0,1,0,4,9,0,1,0,1,1,03/20/2015,neutral,12080,802,Wis.-Stevens Point,9,True,5,6,-1,loss,411534,615,1555903,2015
+0,1,7.0,6,4,4,2,3,0,30,27,1,0,0,1,0,0,0,0,0,1,0,0,8,9,1,0,0,1,0,03/24/2015,neutral,12080,492,North Central (IL),9,True,5,4,1,win,412826,615,1555903,2015

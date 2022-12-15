@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,1,0,0,1,1,0,4,3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,4,1,02/07/2015,away,12080,549,Pomona-Pitzer,9,True,8,9,-1,loss,404490,1454,1657569,2015
+0,0,1.0,1,2,2,2,0,0,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,02/08/2015,away,12080,105,Cal Lutheran,9,True,5,14,-9,loss,404615,1454,1657569,2015
+0,0,1.0,6,7,6,0,0,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,02/20/2015,away,12080,1355,Schreiner,9,True,18,11,7,win,405726,1454,1657569,2015

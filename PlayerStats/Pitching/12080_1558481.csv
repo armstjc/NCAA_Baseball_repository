@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,5,2,2,1,0,0,14,12,0,0,0,0,0,0,0,0,0,0,1,0,3,5,0,0,1,2,0,03/18/2015,neutral,12080,38,Augsburg,9,True,14,8,6,win,411196,30172,1558481,2015
+0,1,4.0,6,3,3,2,5,0,19,15,1,0,0,0,0,1,0,0,0,0,1,0,2,3,1,0,0,1,2,04/03/2015,away,12080,1194,Maranatha Baptist,9,True,16,3,13,win,415576,30172,1558481,2015

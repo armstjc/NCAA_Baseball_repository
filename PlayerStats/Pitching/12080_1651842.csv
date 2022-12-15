@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,4,3,3,0,0,0,7,6,3,0,0,0,0,1,0,3,3,0,0,16,2,0,0,0,0,3,0,02/28/2015,away,12080,92,Cal St. Dom. Hills,9,True,7,15,-8,loss,406762,103,1651842,2015
+0,0,2.1,2,0,0,0,0,0,10,9,0,0,0,0,0,1,0,1,0,0,0,26,2,4,0,0,0,3,0,03/14/2015,home,12080,30055,Cal St. Monterey Bay,9,True,5,9,-4,loss,409873,103,1651842,2015
+0,0,0.2,1,0,0,0,1,0,3,3,0,0,0,1,0,0,0,2,1,0,0,9,0,1,0,0,0,2,0,03/20/2015,away,12080,645,Sonoma St.,9,True,0,7,-7,loss,411496,103,1651842,2015
+0,0,1.1,5,2,2,1,0,0,10,9,1,0,0,0,0,0,0,2,2,0,0,39,3,1,0,0,0,4,0,03/21/2015,home,12080,645,Sonoma St.,9,True,5,15,-10,loss,411943,103,1651842,2015
+0,0,0.2,4,3,3,0,0,0,7,6,0,0,0,0,0,1,0,3,0,0,0,21,1,1,0,0,0,4,0,03/29/2015,away,12080,628,San Fran. St.,9,True,4,12,-8,loss,414305,103,1651842,2015
+0,0,2.2,2,0,0,2,2,0,12,9,0,0,0,0,0,1,0,3,1,0,0,45,3,1,0,0,0,3,1,04/17/2015,home,12080,112,UC San Diego,9,True,0,11,-11,loss,419247,103,1651842,2015

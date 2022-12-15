@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,2,2,2,0,1,0,5,4,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,2,0,02/03/2015,home,12080,1176,Lincoln Memorial,9,True,5,7,-2,loss,404328,30058,1331886,2015
+0,1,4.0,4,4,3,4,0,0,22,16,0,1,0,0,0,2,0,0,0,0,0,0,3,8,0,1,0,1,0,02/06/2015,home,12080,233,Fla. Southern,9,True,2,13,-11,loss,404363,30058,1331886,2015
+0,0,0.1,3,3,2,1,0,0,6,5,1,0,0,2,0,0,0,1,1,0,0,27,0,1,0,0,0,2,0,02/14/2015,away,12080,30191,Spring Hill,9,True,1,11,-10,loss,405284,30058,1331886,2015
+0,0,0.2,0,0,0,3,0,0,5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,2,0,02/22/2015,home,12080,333,Ky. Wesleyan,9,True,1,7,-6,loss,406276,30058,1331886,2015
+0,1,1.2,0,4,2,2,1,0,13,6,0,0,0,0,0,4,0,0,0,1,0,0,4,0,1,0,0,1,1,03/16/2015,away,12080,144,Clark Atlanta,9,True,18,6,12,win,410600,30058,1331886,2015
+0,0,3.0,1,0,0,2,4,0,11,9,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,4,1,03/31/2015,home,12080,1023,Coker,9,True,8,20,-12,loss,414593,30058,1331886,2015

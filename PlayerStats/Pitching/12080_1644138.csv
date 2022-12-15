@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,2,2,0,0,0,1,1,0,0,0,5,0,03/08/2015,neutral,12080,4,Adrian,9,True,3,6,-3,loss,408592,939,1644138,2015
+0,0,2.0,0,0,0,0,0,0,7,5,0,0,0,0,0,2,0,0,0,0,0,0,4,1,0,0,0,4,0,03/15/2015,neutral,12080,264,Grinnell,9,True,3,11,-8,loss,410427,939,1644138,2015
+0,0,1.2,4,2,2,1,0,0,10,9,1,0,0,1,0,0,0,0,0,0,0,0,1,3,0,0,0,2,0,03/31/2015,away,12080,1192,Manchester,9,True,11,7,4,win,414732,939,1644138,2015
+0,0,2.0,2,1,1,1,1,0,11,9,1,0,0,0,0,1,0,0,0,0,0,0,3,2,0,0,0,3,0,04/11/2015,away,12080,8567,Mt. St. Joseph,9,True,8,10,-2,loss,417531,939,1644138,2015

@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,6,7,7,2,1,0,12,9,0,0,0,1,0,1,0,1,0,0,0,42,1,1,0,0,0,6,0,03/07/2015,neutral,12080,160,Concordia Chicago,9,True,1,16,-15,loss,408163,684,1668722,2015
+0,0,1.0,0,0,0,1,0,0,5,3,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,6,0,03/25/2015,home,12080,621,Salem St.,9,True,1,11,-10,loss,412908,684,1668722,2015
+0,1,4.1,5,5,5,5,2,0,25,16,2,0,0,2,0,3,0,0,0,0,1,0,4,6,0,0,0,1,1,04/16/2015,away,12080,200,Eastern Conn. St.,11,True,5,6,-1,loss,419169,684,1668722,2015
+0,1,4.2,8,9,4,4,1,0,30,24,2,0,0,1,0,1,0,0,0,1,0,0,7,4,0,1,0,1,0,04/28/2015,home,12080,623,Salve Regina,9,True,6,12,-6,loss,422896,684,1668722,2015
+0,0,1.0,2,3,3,2,1,0,7,4,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,5,0,05/09/2015,away,12080,8981,Endicott,9,True,5,8,-3,loss,425065,684,1668722,2015

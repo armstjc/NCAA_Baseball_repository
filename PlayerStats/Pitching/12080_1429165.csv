@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,2,04/07/2015,home,12080,374,Lynchburg,9,True,3,10,-7,loss,416703,263,1429165,2015
+0,0,1.2,2,1,1,0,2,0,7,7,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,1,04/08/2015,away,12080,216,Emory & Henry,9,True,2,7,-5,loss,416914,263,1429165,2015
+0,0,0.2,1,0,0,0,1,0,3,3,1,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,3,0,04/18/2015,neutral,12080,21830,Piedmont,9,True,2,4,-2,loss,420238,263,1429165,2015

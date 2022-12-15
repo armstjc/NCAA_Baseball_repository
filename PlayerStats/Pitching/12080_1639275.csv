@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.1,4,5,5,2,1,0,10,8,1,1,0,1,0,0,0,0,0,0,0,39,2,1,0,1,0,1,0,03/04/2015,away,12080,456,UNC Asheville,9,True,6,8,-2,loss,407452,198,1639275,2015
+0,0,0.2,3,3,3,1,0,0,6,5,0,0,2,0,0,0,0,3,3,0,0,19,1,1,0,0,0,3,0,03/07/2015,home,12080,768,West Virginia,9,True,2,18,-16,loss,407874,198,1639275,2015
+0,0,1.1,0,1,1,1,0,0,6,4,0,0,0,0,0,1,0,0,0,0,0,26,2,2,0,0,0,5,0,03/17/2015,away,12080,444,Morehead St.,9,True,17,14,3,win,410759,198,1639275,2015
+0,0,2.0,1,0,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,31,2,3,0,0,0,5,0,03/24/2015,away,12080,563,Radford,10,True,4,7,-3,loss,412623,198,1639275,2015
+0,0,0.2,1,2,2,1,0,0,5,3,1,0,0,1,0,1,0,2,1,0,0,28,2,0,0,0,0,4,0,03/31/2015,home,12080,444,Morehead St.,9,True,9,16,-7,loss,414534,198,1639275,2015

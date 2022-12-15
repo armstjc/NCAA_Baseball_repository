@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,1,0,5,4,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,4,1,04/12/2015,away,12080,1133,Husson,9,True,0,12,-12,loss,418196,123,1661818,2015
+0,0,1.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,04/22/2015,away,12080,30065,NVU-Lyndon,9,True,14,3,11,win,421159,123,1661818,2015
+0,0,0.2,5,4,4,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,04/25/2015,away,12080,379,Me.-Farmington,9,True,11,9,2,win,421795,123,1661818,2015

@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,02/06/2015,away,12080,30058,Claflin,9,True,13,2,11,win,404363,233,1540024,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,02/14/2015,home,12080,1245,Mount Olive,9,True,5,13,-8,loss,405267,233,1540024,2015
+0,0,1.0,2,0,0,0,0,0,5,3,0,0,0,1,0,1,0,0,0,1,0,17,2,0,0,0,0,3,0,02/21/2015,away,12080,13,Albany St. (GA),9,True,13,3,10,win,405957,233,1540024,2015
+0,0,0.0,0,3,3,2,1,0,4,1,0,0,0,2,0,1,0,0,0,0,0,19,0,0,0,0,0,3,0,02/24/2015,home,12080,230,Florida Tech,9,True,0,11,-11,loss,406381,233,1540024,2015

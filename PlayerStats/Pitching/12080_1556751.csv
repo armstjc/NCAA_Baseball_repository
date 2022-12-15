@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,2,0,0,0,3,0,11,10,0,0,0,0,0,1,0,2,0,0,0,0,5,0,0,0,1,2,0,03/14/2015,neutral,12080,1340,St. Joseph's (L.I.),9,True,9,1,8,win,410057,60,1556751,2015
+0,0,1.0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,03/19/2015,neutral,12080,8486,Lasell,9,True,16,2,14,win,411255,60,1556751,2015
+0,0,1.0,0,0,0,1,1,0,4,3,0,0,0,1,0,0,0,2,1,0,0,0,2,0,0,0,0,2,1,03/20/2015,neutral,12080,1066,Edgewood,9,True,16,2,14,win,411255,60,1556751,2015
+0,0,2.0,3,0,0,1,1,0,9,8,1,0,0,1,0,0,0,3,2,0,0,0,3,1,0,0,0,2,1,04/01/2015,home,12080,38,Augsburg,9,True,1,7,-6,loss,414876,60,1556751,2015
+0,0,3.0,2,0,0,3,2,0,13,10,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,1,2,1,04/11/2015,away,12080,118,Carleton,9,True,7,0,7,win,417397,60,1556751,2015
+0,0,1.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,04/22/2015,away,12080,620,St. Thomas (MN),9,True,5,4,1,win,421156,60,1556751,2015

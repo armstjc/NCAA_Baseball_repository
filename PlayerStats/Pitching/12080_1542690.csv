@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.2,5,2,1,0,1,0,10,10,2,0,0,0,0,0,0,0,0,0,0,33,2,1,0,1,0,1,1,02/17/2015,away,12080,8530,McMurry,9,True,5,13,-8,loss,405572,2741,1542690,2015
+0,1,5.1,6,1,1,1,5,0,23,21,0,0,0,0,0,0,0,0,0,1,0,0,8,3,0,0,0,1,0,02/20/2015,away,12080,1203,Mary Hardin-Baylor,9,True,5,2,3,win,405727,2741,1542690,2015
+0,1,6.1,2,1,1,4,7,0,27,23,0,0,0,0,0,0,0,0,0,0,0,0,8,4,1,0,0,1,2,03/02/2015,home,12080,23008,Ozarks (AR),9,True,5,2,3,win,407260,2741,1542690,2015
+0,1,2.0,5,3,3,1,3,0,12,10,2,0,0,2,0,0,0,0,0,1,0,0,3,0,0,1,0,1,2,03/08/2015,away,12080,1182,Louisiana Col.,9,True,1,5,-4,loss,408383,2741,1542690,2015

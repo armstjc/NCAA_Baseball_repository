@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,1,1,0,1,0,5,5,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0,02/13/2015,away,12080,459,UNC Greensboro,9,True,8,12,-4,loss,404862,19651,1649014,2015
+0,0,1.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,2,1,0,0,1,10,0,04/08/2015,away,12080,488,N.C. A&T,9,True,10,7,3,win,416807,19651,1649014,2015
+0,1,3.2,3,0,0,0,4,0,15,14,1,0,0,0,0,1,0,0,0,0,0,61,0,7,1,0,0,1,1,04/22/2015,home,12080,489,N.C. Central,9,True,5,0,5,win,421119,19651,1649014,2015
+0,1,1.1,6,4,4,1,2,0,11,10,3,0,0,0,0,0,0,0,0,0,0,50,2,0,0,1,0,1,1,05/06/2015,away,12080,173,Davidson,9,True,4,17,-13,loss,424525,19651,1649014,2015

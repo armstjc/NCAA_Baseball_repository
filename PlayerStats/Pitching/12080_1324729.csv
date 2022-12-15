@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,1,1,2,1,0,7,4,0,0,1,1,0,1,0,0,0,0,0,24,0,2,0,0,0,4,1,03/08/2015,neutral,12080,80,Brown,9,True,6,13,-7,loss,408530,500,1324729,2015
+0,0,0.2,5,8,8,2,0,0,10,6,1,0,1,1,0,1,0,0,0,0,1,27,1,1,0,0,0,4,0,03/24/2015,home,12080,67,Boston College,9,True,1,22,-21,loss,412605,500,1324729,2015
+0,0,1.0,1,1,1,3,3,0,7,4,0,0,0,0,0,0,0,1,1,0,0,26,0,0,0,0,0,4,0,04/01/2015,away,12080,81,Bryant,9,True,2,18,-16,loss,414805,500,1324729,2015

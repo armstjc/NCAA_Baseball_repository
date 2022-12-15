@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,2,0,0,0,8,0,22,22,0,0,0,0,0,0,0,0,0,0,0,0,6,6,1,0,0,1,2,03/16/2015,neutral,12080,152,Colby-Sawyer,9,True,6,1,5,win,410693,330,1556080,2015
+0,1,3.0,6,5,3,2,3,0,18,13,3,0,0,0,0,2,0,0,0,0,1,0,2,3,0,1,0,1,1,03/26/2015,neutral,12080,45,Babson,9,True,1,5,-4,loss,413104,330,1556080,2015
+0,1,4.1,6,5,4,4,5,0,22,18,2,0,0,1,0,0,0,0,0,0,0,0,3,4,0,1,0,1,0,04/04/2015,away,12080,656,UMass Dartmouth,9,True,3,16,-13,loss,416021,330,1556080,2015
+0,1,3.1,3,1,1,3,5,0,16,13,1,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,1,0,04/14/2015,home,12080,548,Plymouth St.,9,True,8,2,6,win,418721,330,1556080,2015
+0,1,0.1,4,2,2,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,04/23/2015,away,12080,548,Plymouth St.,9,True,1,2,-1,loss,421268,330,1556080,2015
+0,1,4.2,9,6,5,3,2,0,25,21,3,0,0,1,0,1,0,0,0,0,0,0,4,6,0,1,0,1,1,04/27/2015,home,12080,238,Framingham St.,9,True,3,7,-4,loss,422715,330,1556080,2015

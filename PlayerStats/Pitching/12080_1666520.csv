@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,0,0,1,0,0,6,5,0,0,0,0,0,0,0,3,3,0,0,0,2,1,1,0,0,4,0,03/01/2015,neutral,12080,547,Plattsburgh St.,9,True,16,15,1,win,407215,382,1666520,2015
+0,0,1.0,2,2,2,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,20,2,1,0,0,0,2,0,03/22/2015,neutral,12080,336,King's (PA),9,True,14,3,11,win,412466,382,1666520,2015
+0,0,1.0,0,0,0,0,2,0,4,3,0,0,0,0,0,1,0,0,0,0,0,17,0,1,0,0,0,10,2,03/30/2015,home,12080,20,DeSales,9,True,9,16,-7,loss,414341,382,1666520,2015
+0,1,4.0,5,4,3,1,2,0,19,18,0,0,0,1,0,0,0,0,0,0,0,0,1,9,0,1,0,1,1,04/08/2015,away,12080,1468,Mt. St. Mary (NY),9,True,4,6,-2,loss,416833,382,1666520,2015
+0,0,1.2,0,0,0,1,1,0,7,4,0,0,0,0,0,2,0,0,0,0,0,0,2,1,0,0,0,3,1,04/13/2015,away,12080,30029,Purchase,9,True,2,6,-4,loss,418500,382,1666520,2015
+0,0,2.0,2,0,0,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0,0,24,3,3,0,0,1,2,0,04/27/2015,away,12080,336,King's (PA),9,True,6,3,3,win,422742,382,1666520,2015

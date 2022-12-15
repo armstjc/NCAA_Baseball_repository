@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.1,6,4,1,1,1,0,14,13,1,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,2,0,03/06/2015,neutral,12080,211,Elizabethtown,9,True,7,6,1,win,407742,30031,1447525,2015
+0,0,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,03/31/2015,home,12080,30039,North Central (MN),9,True,7,0,7,win,414654,30031,1447525,2015
+0,0,1.0,2,1,1,0,0,0,5,5,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,04/23/2015,home,12080,38,Augsburg,9,True,0,2,-2,loss,421261,30031,1447525,2015

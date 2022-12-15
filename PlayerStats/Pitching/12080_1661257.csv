@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,1,1,0,0,0,4,4,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,03/23/2015,neutral,12080,480,CCNY,9,True,15,1,14,win,412590,524,1661257,2015
+0,0,1.0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,03/29/2015,away,12080,451,CMSV,9,True,23,3,20,win,414182,524,1661257,2015
+0,0,1.0,5,4,4,1,1,0,9,8,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,04/17/2015,away,12080,814,Yeshiva,9,True,16,6,10,win,419417,524,1661257,2015

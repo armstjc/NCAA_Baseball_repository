@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,1,0,0,0,1,0,3,3,1,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,4,0,02/02/2015,home,12080,25,Angelo St.,9,True,4,8,-4,loss,404297,8530,1656817,2015
+0,0,0.2,1,3,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,02/06/2015,away,12080,412,Methodist,9,True,4,3,1,win,404384,8530,1656817,2015
+0,0,0.2,1,0,0,0,1,0,3,3,1,0,0,2,0,0,0,2,2,0,0,0,1,0,0,0,0,4,0,02/10/2015,away,12080,0,Arlington Baptist,9,True,11,6,5,win,404684,8530,1656817,2015
+0,0,2.1,3,1,1,2,2,0,11,9,0,1,0,1,0,0,0,2,1,0,0,43,2,2,0,0,0,3,1,03/13/2015,home,12080,1203,Mary Hardin-Baylor,9,True,7,13,-6,loss,409518,8530,1656817,2015
+0,0,1.0,2,2,2,2,0,0,8,6,0,0,0,0,0,0,0,1,0,0,0,29,2,1,0,0,0,2,0,04/17/2015,away,12080,0,Wayland Baptist,9,True,1,10,-9,loss,419495,8530,1656817,2015

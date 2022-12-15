@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,1,03/17/2018,neutral,12973,26107,Becker,9,True,10,2,8,win,91886,787,1997857,2018
+0,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,0,5,1,04/13/2018,home,12973,589,Rutgers-Newark,9,True,19,10,9,win,98246,787,1997857,2018
+0,0,4.0,0.0,3,0,0,3,3,0,19,15,1,0,0,0,0,1,0,0,0,0,0,76,3,6,0,0,0,3,0,04/20/2018,home,12973,564,Ramapo,9,True,1,10,-9,loss,100064,787,1997857,2018
+0,0,3.2,0.0,9,7,7,1,1,0,21,19,3,1,0,0,1,0,0,1,1,0,1,52,4,6,0,0,0,3,0,04/28/2018,away,12973,259,Rowan,9,True,10,21,-11,loss,102634,787,1997857,2018

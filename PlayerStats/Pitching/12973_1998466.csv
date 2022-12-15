@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,1,6,3,3,0,4,0,27,27,1,0,0,1,0,0,0,0,0,0,0,82,10,7,1,0,0,1,1,03/29/2018,away,12973,30031,Northwestern-St. Paul,9,True,8,3,5,win,94549,60,1998466,2018
+0,1,7.0,1,2,0,0,2,6,1,25,23,0,0,0,0,0,0,0,0,0,0,0,0,4,11,1,0,0,1,3,04/23/2018,neutral,12973,376,Macalester,9,True,9,0,9,win,101472,60,1998466,2018
+0,1,7.0,1,3,0,0,3,3,1,26,23,0,0,0,0,0,0,0,0,0,0,0,0,6,10,1,0,0,1,1,04/29/2018,away,12973,615,St. Olaf,9,True,7,0,7,win,103193,60,1998466,2018
+0,1,6.2,0.0,5,2,2,3,4,0,28,25,0,0,0,1,1,0,0,0,0,0,0,0,7,9,0,1,0,1,2,05/05/2018,home,12973,38,Augsburg,9,True,1,2,-1,loss,104372,60,1998466,2018
+0,1,7.0,0.0,1,0,0,3,5,0,25,21,0,0,0,0,0,1,0,0,0,0,0,98,6,9,1,0,0,1,0,05/13/2018,neutral,12973,602,Saint John's (MN),9,True,8,0,8,win,105826,60,1998466,2018

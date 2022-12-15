@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,16,0,3,0,0,0,6,0,03/12/2018,away,12973,516,Occidental,9,True,1,4,-3,loss,90581,125,1987416,2018
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,0,0,0,0,2,0,03/17/2018,away,12973,1044,Dallas,9,True,15,1,14,win,91658,125,1987416,2018
+0,0,1.2,0.0,1,0,0,2,1,0,8,6,0,0,0,0,0,0,0,0,0,0,0,34,0,4,0,0,0,6,0,03/29/2018,away,12973,30028,UT Tyler,9,True,0,11,-11,loss,94485,125,1987416,2018
+0,0,1.2,0.0,2,1,1,2,2,0,10,7,0,0,0,0,0,1,0,0,0,0,0,34,2,1,0,0,0,3,1,04/09/2018,away,12973,1182,Louisiana Col.,9,True,2,8,-6,loss,97411,125,1987416,2018
+0,0,1.2,0.0,0,0,0,2,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,24,1,4,0,0,0,4,0,04/17/2018,home,12973,1062,East Tex. Baptist,9,True,5,7,-2,loss,99430,125,1987416,2018

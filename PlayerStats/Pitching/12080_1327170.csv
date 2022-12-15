@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,7,4,4,1,1,0,17,16,3,0,1,0,0,0,0,0,0,0,0,0,6,2,0,0,0,2,0,03/10/2015,neutral,12080,443,Moravian,9,True,4,11,-7,loss,408996,520,1327170,2015
+0,0,1.0,3,2,2,1,0,0,7,6,0,0,1,0,0,0,0,0,0,0,0,24,0,3,0,0,0,5,0,04/12/2015,away,12080,177,DePauw,9,True,1,13,-12,loss,418347,520,1327170,2015
+0,0,0.2,2,4,4,2,0,0,6,4,1,1,0,1,1,0,0,2,2,0,0,0,0,2,0,0,0,6,0,04/30/2015,home,12080,117,Capital,9,True,6,11,-5,loss,423260,520,1327170,2015
+0,0,1.0,1,0,0,1,0,0,5,4,0,0,0,1,0,0,0,2,2,0,0,0,1,2,0,0,0,4,0,05/07/2015,neutral,12080,807,Wooster,9,True,3,12,-9,loss,424618,520,1327170,2015

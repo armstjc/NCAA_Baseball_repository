@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.1,8,3,1,2,5,0,30,27,1,0,0,1,0,1,0,0,0,0,0,0,5,8,0,0,0,1,0,03/15/2015,neutral,12080,486,MCLA,9,True,3,4,-1,loss,410519,24317,1670190,2015
+0,0,1.0,4,5,5,3,0,0,11,6,0,0,0,1,0,2,0,0,0,0,0,0,1,1,0,1,0,4,0,03/18/2015,neutral,12080,330,Keene St.,9,True,8,13,-5,loss,411199,24317,1670190,2015
+0,1,7.0,1,0,0,2,2,1,24,22,1,0,0,0,0,0,0,0,0,0,0,92,4,15,1,0,0,1,0,03/27/2015,neutral,12080,2691,Daniel Webster,9,True,6,0,6,win,413342,24317,1670190,2015
+0,1,5.2,8,5,3,1,1,0,25,24,3,0,1,2,0,0,0,0,0,0,0,0,5,8,0,1,0,1,0,03/31/2015,away,12080,532,Elms,9,True,4,5,-1,loss,414721,24317,1670190,2015
+0,1,7.0,6,5,3,3,2,0,34,27,1,0,0,0,0,2,0,0,0,1,1,0,5,14,0,1,0,1,0,04/12/2015,home,12080,1379,Southern Vt.,9,True,1,5,-4,loss,418251,24317,1670190,2015

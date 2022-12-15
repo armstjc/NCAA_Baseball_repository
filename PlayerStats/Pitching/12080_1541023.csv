@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,1,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,02/13/2015,away,12080,263,Greensboro,9,True,13,11,2,win,404972,44,1541023,2015
+0,0,1.0,1,1,1,1,2,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5,0,03/02/2015,away,12080,491,N.C. Wesleyan,9,True,8,7,1,win,407251,44,1541023,2015
+0,0,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,5,1,03/12/2015,home,12080,394,Marymount (VA),9,True,11,4,7,win,409294,44,1541023,2015
+0,0,1.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,03/22/2015,home,12080,1130,Huntingdon,9,True,10,6,4,win,412272,44,1541023,2015
+0,0,0.2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0,1,2,0,1,0,0,1,4,0,04/24/2015,home,12080,30111,Covenant,9,True,7,6,1,win,421556,44,1541023,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,1,1,0,0,0,5,1,04/25/2015,home,12080,30111,Covenant,9,True,7,8,-1,loss,421772,44,1541023,2015

@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,03/11/2015,neutral,12080,166,Cornell College,9,True,4,14,-10,loss,409220,641,1669632,2015
+0,0,0.1,0,1,0,1,1,0,3,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,03/12/2015,neutral,12080,30125,Minot St.,9,True,13,8,5,win,409350,641,1669632,2015
+0,0,1.0,2,2,2,0,0,0,5,5,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,03/18/2015,home,12080,0,AIB College,9,True,5,18,-13,loss,411151,641,1669632,2015
+0,0,1.2,2,2,2,2,0,0,9,7,0,0,0,1,0,0,0,2,2,0,0,0,4,1,0,0,0,2,0,03/21/2015,away,12080,364,Loras,9,True,6,12,-6,loss,411942,641,1669632,2015
+0,0,0.2,2,6,6,2,2,0,8,4,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,03/27/2015,home,12080,372,Luther,9,True,0,14,-14,loss,413311,641,1669632,2015

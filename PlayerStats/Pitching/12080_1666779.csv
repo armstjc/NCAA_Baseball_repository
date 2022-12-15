@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,1,2,1,1,1,0,5,3,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,2,1,03/03/2015,neutral,12080,602,Saint John's (MN),9,True,1,3,-2,loss,407432,938,1666779,2015
+0,0,2.0,0,0,0,1,1,0,8,6,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,3,0,04/01/2015,home,12080,12399,Gwynedd Mercy,9,True,25,8,17,win,414834,938,1666779,2015
+0,1,3.2,2,0,0,4,3,0,17,13,0,0,0,1,0,0,0,0,0,0,0,0,5,3,0,0,0,1,2,04/14/2015,away,12080,589,Rutgers-Newark,9,True,6,0,6,win,418653,938,1666779,2015
+0,1,4.0,7,8,8,3,0,0,24,19,1,0,0,2,0,2,0,0,0,0,0,0,8,4,0,1,0,1,0,04/23/2015,away,12080,443,Moravian,9,True,4,16,-12,loss,421233,938,1666779,2015

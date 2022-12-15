@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.1,7,7,6,7,3,0,28,21,1,0,0,0,1,0,0,0,0,0,0,0,6,5,0,0,0,1,2,03/12/2015,neutral,12080,730,Ursinus,9,True,8,7,1,win,409411,23624,1664881,2015
+0,0,1.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,04/11/2015,away,12080,30085,Lancaster Bible,9,True,8,7,1,win,417847,23624,1664881,2015
+0,1,1.0,2,4,3,2,1,0,10,6,0,0,0,1,0,2,0,0,0,0,0,0,1,2,0,0,0,1,0,04/15/2015,neutral,12080,30165,SUNY Canton,9,True,11,13,-2,loss,419112,23624,1664881,2015
+0,1,2.2,4,5,4,3,1,0,15,10,1,0,0,1,0,1,0,0,0,1,0,46,3,2,0,1,0,1,1,04/28/2015,away,12080,168,SUNY Cortland,9,True,2,11,-9,loss,423031,23624,1664881,2015

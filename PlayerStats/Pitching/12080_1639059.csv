@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.2,2,3,3,4,0,0,10,5,1,0,1,1,0,0,0,0,0,1,0,0,3,1,0,0,0,1,0,03/13/2015,neutral,12080,730,Ursinus,9,True,6,7,-1,loss,409667,242,1639059,2015
+0,0,1.0,0,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,3,0,03/16/2015,neutral,12080,379,Me.-Farmington,9,True,3,4,-1,loss,410675,242,1639059,2015

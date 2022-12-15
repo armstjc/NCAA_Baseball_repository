@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,3,3,2,1,2,0,14,10,2,1,0,0,0,2,0,0,0,0,1,0,4,2,0,0,0,2,1,03/08/2015,neutral,12080,18422,Rivier,9,True,7,9,-2,loss,408573,1164,1648969,2015
+0,1,7.0,8,4,4,5,1,0,34,26,4,0,0,0,0,3,0,0,0,0,0,0,12,5,0,1,0,1,0,03/12/2015,neutral,12080,1064,Eastern Nazarene,9,True,3,4,-1,loss,409419,1164,1648969,2015
+0,0,1.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,3,3,0,0,0,3,0,0,0,0,3,0,03/28/2015,home,12080,8911,Wis. Lutheran,9,True,4,18,-14,loss,413763,1164,1648969,2015
+0,1,3.0,6,8,7,3,4,0,20,16,2,1,1,0,0,1,0,0,0,0,0,0,2,3,0,1,0,1,1,04/01/2015,home,12080,30172,IIT,9,True,1,13,-12,loss,414926,1164,1648969,2015
+0,0,0.1,4,8,8,3,0,0,9,5,2,0,0,0,0,1,0,0,0,0,0,38,0,1,0,0,0,2,0,04/12/2015,away,12080,1196,Marian (WI),9,True,4,22,-18,loss,418248,1164,1648969,2015
+0,1,7.0,6,1,1,4,6,0,30,25,0,0,0,1,0,0,0,0,0,0,1,0,6,8,1,0,0,1,2,04/23/2015,home,12080,1194,Maranatha Baptist,9,True,4,1,3,win,421277,1164,1648969,2015

@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,5,0,03/09/2015,neutral,12080,126,Central (IA),9,True,1,2,-1,loss,408790,1111,1327049,2015
+0,0,0.2,1,1,0,1,0,0,6,2,0,0,0,0,0,2,0,0,0,0,1,0,0,2,0,0,0,3,0,03/17/2015,neutral,12080,939,Anderson (IN),9,True,4,17,-13,loss,410924,1111,1327049,2015
+0,0,2.2,3,4,3,2,0,0,15,12,1,1,0,0,0,0,0,1,1,0,1,0,4,4,0,0,0,4,0,03/18/2015,neutral,12080,577,Ripon,9,True,7,11,-4,loss,411178,1111,1327049,2015

@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,3,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,03/22/2015,home,12080,814,Yeshiva,9,True,22,0,22,win,412409,30029,1671075,2015
+0,0,0.2,2,6,6,5,0,0,9,4,0,0,1,0,0,0,0,3,1,0,0,0,2,0,0,0,0,2,0,03/31/2015,home,12080,2798,Albertus Magnus,9,True,13,18,-5,loss,414606,30029,1671075,2015
+0,1,6.0,5,2,1,2,2,0,26,22,0,0,0,0,0,0,0,0,0,2,0,0,4,12,1,0,0,1,0,04/13/2015,home,12080,382,Manhattanville,9,True,6,2,4,win,418500,30029,1671075,2015
+0,0,0.1,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,04/19/2015,away,12080,27892,Farmingdale St.,9,True,2,5,-3,loss,420584,30029,1671075,2015
+0,1,4.0,7,7,6,4,1,0,23,19,3,0,0,1,0,0,0,0,0,0,0,0,4,6,0,1,0,1,0,04/21/2015,away,12080,787,Wm. Paterson,9,True,3,8,-5,loss,420838,30029,1671075,2015

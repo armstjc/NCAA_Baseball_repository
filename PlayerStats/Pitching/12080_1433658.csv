@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,6,5,4,4,3,0,26,22,0,1,0,0,0,0,0,0,0,0,0,0,5,6,0,1,0,1,1,03/07/2015,neutral,12080,778,Wheaton (IL),9,True,6,7,-1,loss,408254,1099,1433658,2015
+0,1,1.0,1,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,1,0,03/12/2015,neutral,12080,227,Fitchburg St.,9,True,8,6,2,win,409387,1099,1433658,2015
+0,0,0.2,2,1,1,1,0,0,6,4,0,0,0,1,0,1,0,0,0,0,0,19,1,1,0,0,0,3,0,04/22/2015,home,12080,50,Bates,9,True,3,7,-4,loss,421155,1099,1433658,2015
+0,0,1.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,10,0,1,1,0,0,5,0,04/28/2015,home,12080,21772,Newbury,9,True,8,2,6,win,422925,1099,1433658,2015

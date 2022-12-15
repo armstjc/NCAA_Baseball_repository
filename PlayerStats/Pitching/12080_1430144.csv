@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,2,1,1,0,0,0,8,4,1,0,0,0,0,1,0,0,0,3,0,0,4,0,0,1,0,4,0,03/07/2015,neutral,12080,30064,Saint Vincent,9,True,9,10,-1,loss,408147,526,1430144,2015
+0,0,1.0,2,1,1,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,03/09/2015,neutral,12080,23725,Medaille,9,True,10,4,6,win,408736,526,1430144,2015
+0,0,1.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,16,1,2,0,0,0,3,0,04/17/2015,away,12080,168,SUNY Cortland,9,True,0,13,-13,loss,419531,526,1430144,2015
+0,0,1.1,0,0,0,0,2,0,4,4,0,0,0,0,0,0,0,2,0,0,0,13,2,0,0,0,0,5,2,04/24/2015,home,12080,242,Fredonia,9,True,5,13,-8,loss,421372,526,1430144,2015
+0,0,1.0,1,0,0,0,1,0,4,3,0,0,0,1,0,0,0,0,0,1,0,11,2,0,0,0,0,3,0,04/25/2015,home,12080,242,Fredonia,9,True,5,10,-5,loss,421810,526,1430144,2015
+0,0,1.0,2,1,1,2,2,0,7,4,0,0,0,0,0,0,0,0,0,0,1,32,0,1,0,0,0,4,1,04/28/2015,home,12080,213,Elmira,9,True,4,11,-7,loss,422844,526,1430144,2015

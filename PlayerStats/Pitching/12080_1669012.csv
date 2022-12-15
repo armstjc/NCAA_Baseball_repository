@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,3,0,1,0,0,8,4,0,0,0,0,0,3,0,0,0,0,0,0,1,2,0,0,0,3,0,03/07/2015,neutral,12080,23725,Medaille,9,True,2,13,-11,loss,408185,30165,1669012,2015
+0,0,1.0,2,2,2,2,1,0,8,4,0,0,0,1,0,1,0,0,0,0,1,0,1,1,0,0,0,3,0,03/09/2015,neutral,12080,11538,Fontbonne,9,True,0,11,-11,loss,408717,30165,1669012,2015
+0,0,4.0,0,0,0,1,5,0,13,12,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,3,1,04/25/2015,home,12080,30170,Alfred St.,9,True,8,10,-2,loss,422143,30165,1669012,2015
+0,0,2.2,6,4,2,2,0,0,18,15,2,1,0,0,0,0,0,2,2,0,1,53,6,2,0,0,0,2,0,05/07/2015,neutral,12080,313,Ithaca,9,True,9,19,-10,loss,424652,30165,1669012,2015

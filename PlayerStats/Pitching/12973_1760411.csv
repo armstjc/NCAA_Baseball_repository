@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,1,4,1,1,0,0,7,3,0,0,0,0,0,3,0,0,0,0,0,21,0,1,0,0,0,4,0,02/10/2018,away,12973,9680,Embry-Riddle (FL),9,True,3,17,-14,loss,85034,23157,1760411,2018
+0,0,1.0,0.0,0,0,0,3,2,0,6,3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,6,0,02/23/2018,neutral,12973,468,Southern N.H.,9,True,8,12,-4,loss,86431,23157,1760411,2018
+0,0,1.0,0.0,0,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,7,1,1,0,0,0,6,0,03/07/2018,neutral,12973,682,Stonehill,9,True,5,11,-6,loss,89159,23157,1760411,2018
+0,0,1.0,0.0,0,0,0,1,1,0,5,3,0,0,0,0,0,1,0,0,0,0,0,12,1,1,0,0,0,4,0,04/07/2018,away,12973,1277,Alliance,9,True,11,1,10,win,96795,23157,1760411,2018
+0,0,2.0,0.0,2,2,2,3,1,0,11,8,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,6,0,04/22/2018,away,12973,560,Queens (NY),9,True,2,23,-21,loss,101370,23157,1760411,2018

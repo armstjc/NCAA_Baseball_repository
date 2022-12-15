@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,0,1,1,2,1,0,6,4,0,0,1,0,0,0,0,0,0,0,0,20,3,0,0,0,0,6,0,02/03/2018,away,12973,30175,Holy Names,9,True,7,6,1,win,84659,645,1988320,2018
+0,0,1.0,0.0,1,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,03/18/2018,away,12973,30198,Cal St. San Marcos,9,True,3,4,-1,loss,92271,645,1988320,2018
+0,0,1.0,0.0,1,0,0,1,1,0,4,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,03/25/2018,home,12973,92,Cal St. Dom. Hills,9,True,2,3,-1,loss,93914,645,1988320,2018
+0,0,0.0,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,4,0,0,0,0,0,2,0,03/31/2018,away,12973,91,Cal Poly Pomona,9,True,9,7,2,win,95201,645,1988320,2018
+0,0,1.0,0.0,1,2,2,2,0,0,6,3,0,0,0,0,0,1,0,1,0,0,0,23,2,0,0,0,0,2,0,04/13/2018,away,12973,100,Cal State LA,9,True,4,9,-5,loss,98220,645,1988320,2018

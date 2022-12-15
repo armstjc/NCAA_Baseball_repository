@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,2,2,2,2,0,0,4,2,1,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,3,0,03/01/2018,home,12973,333,Ky. Wesleyan,9,True,9,7,2,win,87548,233,1979777,2018
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,0,1,0,0,0,4,1,03/29/2018,away,12973,9680,Embry-Riddle (FL),9,True,26,4,22,win,94444,233,1979777,2018
+0,0,1.0,0.0,3,3,3,0,1,0,6,5,0,0,0,1,0,1,0,0,0,0,0,19,1,0,0,0,0,4,0,04/29/2018,home,12973,24639,Nova Southeastern,9,True,6,21,-15,loss,103363,233,1979777,2018

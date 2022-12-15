@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,1,0,0,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,11,0,2,0,0,0,2,0,02/01/2018,away,12973,9680,Embry-Riddle (FL),9,True,3,10,-7,loss,84508,12830,1988653,2018
+0,0,1.0,0.0,0,0,0,2,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,21,0,3,0,0,0,5,0,02/20/2018,home,12973,1167,Lander,9,True,3,12,-9,loss,86090,12830,1988653,2018
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,3,1,0,0,6,0,1,0,0,0,8,0,03/04/2018,home,12973,1462,Wingate,9,True,11,15,-4,loss,88629,12830,1988653,2018

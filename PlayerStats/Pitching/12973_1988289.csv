@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,5,0,02/03/2018,away,12973,30175,Holy Names,9,True,7,6,1,win,84659,645,1988289,2018
+0,0,1.0,0.0,1,1,1,2,1,0,6,4,0,0,1,0,0,0,0,0,0,0,0,28,0,2,0,0,0,4,0,02/10/2018,away,12973,30147,Fresno Pacific,9,True,7,15,-8,loss,85035,645,1988289,2018
+0,0,1.2,0.0,0,0,0,1,1,0,9,5,0,0,0,0,2,3,0,1,0,0,0,0,2,2,0,0,0,3,1,02/25/2018,home,12973,95,Chico St.,9,True,3,9,-6,loss,86974,645,1988289,2018
+0,0,1.0,0.0,1,2,2,2,1,0,7,4,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,2,0,03/10/2018,home,12973,112,UC San Diego,9,True,2,5,-3,loss,89977,645,1988289,2018

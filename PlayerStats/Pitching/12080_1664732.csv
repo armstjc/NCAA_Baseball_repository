@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,4,0,04/25/2015,home,12080,571,Rhode Island Col.,9,True,1,16,-15,loss,421849,770,1664732,2015
+0,0,1.2,5,5,0,0,1,0,13,12,2,0,1,0,0,1,0,0,0,0,0,0,2,2,0,0,0,2,1,05/01/2015,away,12080,401,UMass Boston,9,True,7,16,-9,loss,423559,770,1664732,2015

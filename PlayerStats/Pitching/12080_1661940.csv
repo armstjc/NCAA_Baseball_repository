@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,1,02/14/2015,home,12080,0,Johnson (TN),9,True,10,1,9,win,405291,652,1661940,2015
+0,0,0.2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,02/28/2015,away,12080,1124,Hendrix,9,True,3,1,2,win,406891,652,1661940,2015
+0,0,4.0,5,3,2,3,7,0,21,16,0,0,0,2,1,1,0,0,0,1,0,0,2,3,0,0,0,2,5,03/08/2015,neutral,12080,573,Rhodes,9,True,3,9,-6,loss,408493,652,1661940,2015
+0,0,2.0,1,0,0,1,0,0,8,7,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,2,0,04/03/2015,home,12080,2713,Oglethorpe,9,True,1,9,-8,loss,415345,652,1661940,2015
+0,0,1.0,4,3,3,3,1,0,10,7,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,3,0,04/07/2015,home,12080,30111,Covenant,9,True,14,15,-1,loss,416625,652,1661940,2015

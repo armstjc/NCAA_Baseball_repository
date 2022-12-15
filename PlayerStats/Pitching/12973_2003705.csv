@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,6,0,03/01/2018,neutral,12973,531,Otterbein,9,True,0,12,-12,loss,87530,30042,2003705,2018
+0,0,1.0,0.0,2,2,1,0,0,0,6,6,1,0,0,1,0,0,0,0,0,0,0,19,2,1,0,0,0,2,0,03/08/2018,neutral,12973,1434,Waynesburg,9,True,14,6,8,win,89322,30042,2003705,2018
+0,0,2.0,0.0,1,1,1,1,1,0,8,7,1,0,1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,2,1,03/30/2018,home,12973,21772,Newbury,9,True,16,1,15,win,95059,30042,2003705,2018
+0,0,1.0,0.0,1,2,0,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,04/11/2018,home,12973,623,Salve Regina,9,True,7,19,-12,loss,98032,30042,2003705,2018
+0,0,1.0,0.0,1,1,1,0,0,0,5,4,1,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,3,0,04/18/2018,away,12973,484,Nichols,9,True,23,7,16,win,99728,30042,2003705,2018

@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,0.2,0.0,5,3,1,1,0,0,8,6,2,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,03/11/2018,neutral,12973,78,SUNY Brockport,9,True,4,16,-12,loss,90487,684,2003515,2018
+0,1,5.0,0.0,6,4,4,1,4,0,22,20,1,0,0,0,0,0,0,0,0,1,0,0,6,4,0,1,0,1,3,03/16/2018,neutral,12973,712,TCNJ,9,True,0,4,-4,loss,91444,684,2003515,2018
+0,0,4.2,0.0,3,2,0,4,3,0,22,14,1,0,0,0,0,1,0,0,0,3,0,66,6,3,0,1,0,3,0,04/17/2018,away,12973,26,Anna Maria,13,True,3,4,-1,loss,99555,684,2003515,2018
+0,1,6.1,0.0,9,4,4,1,4,0,28,27,0,0,0,2,0,0,0,0,0,0,0,101,5,9,0,1,0,1,3,04/26/2018,away,12973,656,UMass Dartmouth,9,True,3,4,-1,loss,101934,684,2003515,2018
+0,0,1.0,0.0,1,2,2,1,1,0,6,4,0,0,0,1,0,1,0,0,0,0,0,27,1,1,0,0,0,2,1,05/06/2018,neutral,12973,605,St. Joseph's (ME),9,True,6,5,1,win,104889,684,2003515,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,2,0,0,0,0,2,0,05/11/2018,away,12973,8981,Endicott,9,True,3,2,1,win,105429,684,2003515,2018

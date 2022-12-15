@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.2,0.0,3,2,2,1,2,0,11,10,1,0,0,0,1,0,0,1,0,0,0,0,3,2,1,0,0,3,0,03/25/2018,neutral,12973,264,Grinnell,9,True,13,10,3,win,93813,802,1668906,2018
+0,0,1.0,0.0,4,2,2,0,2,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,03/30/2018,neutral,12973,151,Colby,9,True,10,5,5,win,94923,802,1668906,2018
+0,0,3.0,0.0,2,0,0,3,2,0,14,11,0,0,0,0,0,0,0,0,0,0,0,61,2,5,0,0,0,2,1,04/08/2018,home,12973,800,Wis.-Platteville,9,True,9,1,8,win,97266,802,1668906,2018
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,0,5,0,04/22/2018,home,12973,795,Wis.-La Crosse,9,True,3,11,-8,loss,101394,802,1668906,2018
+0,0,3.2,0.0,8,4,4,1,1,0,19,18,2,0,1,0,0,0,0,0,0,0,0,56,5,4,0,0,0,3,0,05/05/2018,away,12973,805,Wis.-Whitewater,9,True,3,13,-10,loss,104310,802,1668906,2018

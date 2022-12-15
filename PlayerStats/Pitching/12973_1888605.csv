@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,2,1,1,2,3,0,10,8,2,0,0,0,0,0,0,0,0,0,0,38,0,3,0,0,0,3,0,03/04/2018,neutral,12973,467,New England Col.,9,True,1,10,-9,loss,88731,30190,1888605,2018
+0,0,1.0,0.0,6,5,5,0,1,0,9,8,2,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,3,0,03/07/2018,neutral,12973,75,Bridgewater (VA),9,True,0,25,-25,loss,89174,30190,1888605,2018
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,17,2,0,0,0,0,2,1,04/22/2018,away,12973,245,Gallaudet,9,True,12,2,10,win,101431,30190,1888605,2018
+0,0,0.1,0.0,4,7,5,2,0,0,8,5,0,0,0,0,0,0,0,0,0,0,1,36,0,1,0,0,0,7,0,05/02/2018,away,12973,213,Elmira,9,True,14,12,2,win,103641,30190,1888605,2018
+0,0,0.1,0.0,1,4,2,2,0,0,5,2,0,0,0,0,0,0,0,1,0,1,0,20,0,1,0,1,0,4,0,05/13/2018,away,12973,30044,Penn St.-Berks,9,True,12,17,-5,loss,105795,30190,1888605,2018

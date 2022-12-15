@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.0,0.0,4,3,3,3,0,0,13,8,3,0,0,0,1,1,0,0,0,1,0,55,2,3,0,1,0,1,0,03/12/2018,away,12973,516,Occidental,9,True,3,4,-1,loss,90580,737,1874048,2018
+0,1,2.2,0.0,6,7,2,2,1,0,17,15,0,2,0,0,1,0,0,0,0,0,0,55,4,3,0,1,0,1,1,03/17/2018,away,12973,341,La Verne,9,True,3,10,-7,loss,91523,737,1874048,2018
+0,1,2.1,0.0,7,4,4,2,4,0,15,13,2,0,0,0,1,0,0,0,0,0,0,57,0,2,0,0,0,1,1,03/31/2018,away,12973,607,St. Lawrence,9,True,6,4,2,win,95422,737,1874048,2018
+0,0,2.0,0.0,3,2,1,2,0,0,11,8,0,0,0,0,1,0,0,0,0,1,0,41,2,3,0,0,0,2,0,04/13/2018,away,12973,146,Clarkson,9,True,2,9,-7,loss,98480,737,1874048,2018
+0,1,5.0,0.0,5,3,2,3,4,0,23,18,3,0,0,0,0,1,0,0,0,0,1,85,4,6,1,0,0,1,0,04/24/2018,home,12973,451,CMSV,9,True,6,4,2,win,101674,737,1874048,2018

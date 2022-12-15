@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,3,2,2,2,2,0,15,11,1,0,0,0,0,2,0,0,0,0,0,0,3,3,0,0,0,3,1,03/30/2018,neutral,12973,213,Elmira,9,True,2,12,-10,loss,95040,733,1894685,2018
+0,0,1.0,0.0,0,0,0,0,2,0,6,3,0,0,0,0,0,3,0,0,0,0,0,21,1,0,0,0,0,4,2,04/18/2018,away,12973,168,SUNY Cortland,9,True,3,8,-5,loss,99835,733,1894685,2018
+0,0,1.2,0.0,3,5,5,2,0,0,11,8,1,0,0,1,0,1,0,3,0,0,0,0,2,3,0,0,0,3,0,04/21/2018,home,12973,601,St. John Fisher,9,True,6,15,-9,loss,100810,733,1894685,2018
+0,0,1.0,0.0,1,0,0,0,2,0,5,5,0,0,0,0,1,0,0,0,0,0,0,23,0,1,0,0,0,5,0,04/28/2018,away,12973,679,Stevens,9,True,10,23,-13,loss,102793,733,1894685,2018

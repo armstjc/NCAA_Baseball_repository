@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,1,1,1,1,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,02/02/2018,home,12973,30164,Southern Va.,9,True,6,1,5,win,84538,17094,1985754,2018
+0,0,1.1,0.0,3,1,1,1,0,0,8,6,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,0,0,5,0,02/18/2018,away,12973,1112,Guilford,9,True,4,8,-4,loss,85976,17094,1985754,2018
+0,0,0.0,0.0,3,3,3,0,0,0,3,3,1,0,0,0,2,0,0,0,0,0,0,16,0,0,0,0,0,2,0,02/25/2018,away,12973,412,Methodist,9,True,0,9,-9,loss,87010,17094,1985754,2018
+0,0,1.2,0.0,3,4,4,1,1,0,11,7,0,0,0,1,0,2,0,0,0,0,1,28,0,4,0,0,0,3,0,03/23/2018,away,12973,542,Pfeiffer,9,True,1,14,-13,loss,92946,17094,1985754,2018
+0,0,2.0,0.0,5,2,2,1,0,0,10,9,0,0,0,0,0,0,0,0,0,0,0,27,2,2,0,0,0,2,0,03/27/2018,home,12973,594,Saint Augustine's,9,True,8,3,5,win,94136,17094,1985754,2018

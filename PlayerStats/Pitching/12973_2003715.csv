@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,03/04/2018,neutral,12973,297,Illinois Col.,9,True,25,0,25,win,88616,30042,2003715,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,5,0,03/28/2018,away,12973,2798,Albertus Magnus,9,True,10,2,8,win,94358,30042,2003715,2018
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,04/11/2018,home,12973,623,Salve Regina,9,True,7,19,-12,loss,98032,30042,2003715,2018
+0,0,0.1,0.0,0,0,0,2,0,0,3,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,4,0,04/17/2018,home,12973,713,Trinity (CT),9,True,4,9,-5,loss,99633,30042,2003715,2018

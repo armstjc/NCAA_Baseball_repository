@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,0,0,0,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,2,0,02/23/2018,home,12973,16142,Misericordia,9,True,4,5,-1,loss,86385,637,2002971,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,6,0,03/04/2018,home,12973,480,CCNY,9,True,11,4,7,win,88671,637,2002971,2018
+0,0,1.0,0.0,1,1,1,1,0,0,6,4,1,0,0,0,1,1,0,0,0,0,0,0,2,1,0,0,0,2,0,03/15/2018,home,12973,30036,Mount Aloysius,9,True,17,3,14,win,91049,637,2002971,2018
+0,0,1.0,0.0,3,3,3,2,1,0,8,6,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,03/30/2018,away,12973,1112,Guilford,9,True,16,5,11,win,94932,637,2002971,2018

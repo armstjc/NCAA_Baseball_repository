@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,0,0,2,0,0,3,1,0,0,0,0,1,0,0,3,2,0,0,17,0,1,0,0,0,2,0,02/18/2018,home,12973,168,SUNY Cortland,14,True,6,9,-3,loss,85847,622,1765106,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,1,1,0,0,0,2,0,03/10/2018,home,12973,30170,Alfred St.,9,True,9,1,8,win,90232,622,1765106,2018
+0,0,0.1,0.0,0,0,0,2,1,0,3,1,0,0,0,0,1,0,0,0,0,0,0,19,0,0,0,0,0,2,1,03/11/2018,home,12973,382,Manhattanville,9,True,12,6,6,win,90494,622,1765106,2018
+0,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,4,0,0,0,0,0,5,0,03/24/2018,away,12973,30164,Southern Va.,9,True,5,4,1,win,93486,622,1765106,2018
+0,0,0.1,0.0,2,2,2,1,0,0,4,2,1,0,0,0,2,0,0,3,3,0,1,23,0,1,0,0,0,3,0,04/21/2018,away,12973,815,York (PA),9,True,2,15,-13,loss,100600,622,1765106,2018

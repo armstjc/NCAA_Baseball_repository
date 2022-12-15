@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.1,0.0,6,4,4,0,0,0,13,12,3,0,0,0,0,0,0,0,0,1,0,34,4,3,0,1,0,1,0,03/13/2018,neutral,12973,564,Ramapo,9,True,8,10,-2,loss,90804,78,1992776,2018
+0,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0,03/28/2018,away,12973,30160,Houghton,9,True,9,4,5,win,94331,78,1992776,2018
+0,1,4.0,0.0,5,2,2,4,3,0,21,17,1,0,0,0,0,0,0,0,0,0,0,77,3,6,0,0,0,1,1,04/10/2018,away,12973,581,Rochester (NY),9,True,8,6,2,win,97654,78,1992776,2018
+0,1,2.2,0.0,4,3,3,3,2,0,16,13,1,1,0,0,2,0,0,0,0,0,0,55,3,4,0,1,0,1,0,04/18/2018,away,12973,580,RIT,9,True,1,6,-5,loss,99700,78,1992776,2018
+0,0,1.0,0.0,4,3,2,1,0,0,8,7,2,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,05/01/2018,home,12973,581,Rochester (NY),9,True,10,7,3,win,103524,78,1992776,2018

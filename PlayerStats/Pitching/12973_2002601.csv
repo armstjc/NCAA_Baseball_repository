@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,1,02/25/2018,neutral,12973,538,Penn St.-Behrend,9,True,15,3,12,win,87172,2694,2002601,2018
+0,0,1.0,0.0,1,0,0,0,1,0,6,4,0,0,0,0,0,2,0,0,0,0,0,27,0,2,0,0,0,3,0,03/03/2018,home,12973,15,Albion,9,True,11,1,10,win,87902,2694,2002601,2018
+0,0,0.2,0.0,3,2,2,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,18,0,2,0,0,0,2,0,03/10/2018,home,12973,114,Calvin,9,True,12,8,4,win,89918,2694,2002601,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,0,2,0,0,0,3,0,04/08/2018,away,12973,987,Bluffton,9,True,13,4,9,win,97067,2694,2002601,2018

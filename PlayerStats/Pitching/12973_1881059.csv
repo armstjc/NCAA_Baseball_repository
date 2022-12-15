@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,2,1,0,0,0,3,0,03/06/2018,home,12973,30164,Southern Va.,9,True,8,7,1,win,88940,752,1881059,2018
+0,0,0.0,0.0,1,0,0,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,1,0,4,0,03/17/2018,away,12973,745,Va. Wesleyan,9,True,4,5,-1,loss,91749,752,1881059,2018
+0,0,1.0,0.0,1,1,1,0,0,0,4,4,0,0,0,1,0,0,0,0,0,0,0,19,2,1,0,0,0,3,0,03/23/2018,home,12973,203,East. Mennonite,9,True,3,8,-5,loss,92953,752,1881059,2018
+0,0,1.0,0.0,2,2,1,1,0,0,6,4,0,0,0,0,0,0,0,0,0,0,1,23,0,3,0,0,0,5,0,03/31/2018,home,12973,565,Randolph-Macon,9,True,5,10,-5,loss,95346,752,1881059,2018
+0,0,2.0,0.0,2,0,0,1,1,0,9,8,0,0,0,0,0,0,0,0,0,0,0,35,0,5,0,0,0,4,0,04/14/2018,home,12973,1112,Guilford,9,True,6,5,1,win,98782,752,1881059,2018
+0,1,3.0,0.0,5,2,2,1,1,0,16,12,0,0,0,0,0,2,0,0,0,0,1,50,3,4,0,0,0,1,1,04/22/2018,home,12973,263,Greensboro,9,True,2,7,-5,loss,101238,752,1881059,2018

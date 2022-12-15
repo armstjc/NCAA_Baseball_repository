@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,6,1,03/12/2018,neutral,12973,8404,Hood,9,True,4,19,-15,loss,90669,30031,2000090,2018
+0,0,4.1,0.0,9,5,5,0,0,0,21,20,4,0,0,0,0,0,0,0,0,1,0,0,2,10,0,1,0,2,0,03/13/2018,neutral,12973,258,Gettysburg,9,True,7,9,-2,loss,90820,30031,2000090,2018
+0,0,2.0,0.0,2,3,2,1,0,0,11,8,1,0,0,0,0,1,0,0,0,0,1,32,1,5,0,0,0,2,0,03/29/2018,home,12973,60,Bethel (MN),9,True,3,8,-5,loss,94549,30031,2000090,2018
+0,0,4.0,0.0,4,2,2,3,0,0,18,15,1,0,0,0,1,0,0,0,0,0,0,69,5,4,0,0,0,2,0,04/10/2018,home,12973,1267,Northland,9,True,8,16,-8,loss,97667,30031,2000090,2018
+0,0,3.0,0.0,2,2,1,6,0,0,17,10,1,0,0,0,0,0,1,0,0,1,0,56,4,5,0,1,0,2,0,04/19/2018,away,12973,618,St. Scholastica,10,True,4,5,-1,loss,99905,30031,2000090,2018

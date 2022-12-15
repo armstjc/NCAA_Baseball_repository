@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,5,1,04/07/2018,home,12973,747,Wabash,9,True,1,12,-11,loss,96672,335,1891105,2018
+0,0,1.0,0.0,5,4,3,2,0,0,12,9,1,0,0,0,1,1,0,0,0,0,0,0,2,1,0,0,0,4,0,04/29/2018,away,12973,281,Hiram,9,True,24,13,11,win,103131,335,1891105,2018
+0,0,1.0,0.0,2,2,1,1,2,0,7,6,0,0,0,0,1,0,0,0,0,0,0,29,0,2,0,0,0,7,1,05/05/2018,away,12973,807,Wooster,9,True,1,17,-16,loss,104451,335,1891105,2018

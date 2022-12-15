@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,8,0,1,0,0,0,4,0,03/15/2018,neutral,12973,122,CWRU,9,True,5,15,-10,loss,91106,581,1980336,2018
+0,0,1.0,0.0,1,2,2,2,2,0,6,4,0,1,0,0,0,0,0,0,0,0,0,32,0,1,0,0,0,6,0,03/28/2018,home,12973,601,St. John Fisher,9,True,4,15,-11,loss,94382,581,1980336,2018
+0,0,1.1,0.0,4,2,2,0,0,0,7,6,0,0,0,0,0,0,0,2,2,1,0,27,3,0,0,0,0,2,0,03/31/2018,home,12973,570,Rensselaer,9,True,4,5,-1,loss,95431,581,1980336,2018
+0,0,1.0,0.0,4,4,4,2,0,0,9,5,1,0,0,0,0,0,0,0,0,1,1,0,2,1,0,1,0,2,0,05/01/2018,away,12973,78,SUNY Brockport,9,True,7,10,-3,loss,103524,581,1980336,2018

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.1,0.0,7,7,6,3,0,0,23,17,1,1,0,2,0,0,0,0,0,3,0,0,7,5,0,1,0,1,0,03/05/2018,neutral,12973,615,St. Olaf,9,True,4,14,-10,loss,88810,30031,1877143,2018
+0,0,1.0,0.0,4,2,2,0,1,0,7,7,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,3,0,04/29/2018,away,12973,8597,Martin Luther,9,True,20,9,11,win,103239,30031,1877143,2018
+0,0,1.0,0.0,1,1,1,1,1,0,5,4,0,0,1,0,1,0,0,0,0,0,0,20,0,2,0,0,0,6,0,05/03/2018,home,12973,268,Hamline,9,True,2,18,-16,loss,103795,30031,1877143,2018

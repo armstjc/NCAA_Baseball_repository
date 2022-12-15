@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,18,1,1,0,0,0,5,1,03/31/2018,home,12973,785,Willamette,9,True,3,10,-7,loss,95448,1297,1783304,2018
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,3,0,04/13/2018,away,12973,105,Cal Lutheran,9,True,6,0,6,win,98201,1297,1783304,2018
+0,0,0.0,0.0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,2,0,04/14/2018,away,12973,105,Cal Lutheran,9,True,9,7,2,win,98692,1297,1783304,2018
+0,0,0.1,0.0,2,1,1,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,21,0,1,0,0,0,2,0,04/28/2018,home,12973,1179,Linfield,9,True,8,6,2,win,102389,1297,1783304,2018

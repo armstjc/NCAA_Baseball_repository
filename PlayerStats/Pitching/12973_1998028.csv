@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,4,4,4,1,0,0,7,5,1,1,0,0,2,0,0,0,0,0,1,0,1,1,0,0,0,9,0,02/21/2018,home,12973,411,Messiah,9,True,6,17,-11,loss,86209,30036,1998028,2018
+0,0,2.1,0.0,2,2,2,0,3,0,9,7,1,1,0,0,0,0,0,0,0,1,1,40,2,2,0,0,0,3,1,02/24/2018,away,12973,216,Emory & Henry,9,True,14,15,-1,loss,86804,30036,1998028,2018
+0,0,1.0,0.0,2,2,2,1,0,0,6,4,0,0,0,0,0,0,0,0,0,0,1,16,0,3,0,0,0,3,0,04/20/2018,away,12973,1163,La Roche,9,True,5,11,-6,loss,100268,30036,1998028,2018
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,04/26/2018,home,12973,25719,Penn St.-Altoona,9,True,8,16,-8,loss,101955,30036,1998028,2018
+0,0,1.2,0.0,3,1,1,1,1,0,9,8,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,3,0,04/29/2018,away,12973,538,Penn St.-Behrend,9,True,4,11,-7,loss,103220,30036,1998028,2018

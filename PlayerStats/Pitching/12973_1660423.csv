@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,1,0,0,2,0,0,0,13,0,1,0,0,0,2,1,04/21/2018,home,12973,1159,Keuka,9,True,0,8,-8,loss,100992,245,1660423,2018
+0,0,0.2,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,11,1,1,0,0,0,3,0,04/22/2018,home,12973,30190,Penn College,9,True,2,12,-10,loss,101431,245,1660423,2018
+0,0,0.0,0.0,3,4,4,2,0,0,6,3,1,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,5,0,04/28/2018,away,12973,761,Wells,9,True,11,22,-11,loss,102842,245,1660423,2018

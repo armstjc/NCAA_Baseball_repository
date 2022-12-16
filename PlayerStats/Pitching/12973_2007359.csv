@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,2,2,1,1,0,0,6,5,1,0,0,1,0,0,0,3,3,0,0,19,1,1,0,0,0,6,0,03/07/2018,away,12973,11276,USC Aiken,9,True,3,19,-16,loss,89128,8875,2007359,2018
+0,0,1.0,0.0,2,0,0,1,3,0,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,04/14/2018,away,12973,985,Bluefield St.,9,True,24,3,21,win,98646,8875,2007359,2018

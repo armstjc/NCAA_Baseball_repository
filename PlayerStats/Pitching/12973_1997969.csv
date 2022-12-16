@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,0.0,3,4,4,3,4,0,19,13,0,1,1,0,2,0,0,0,0,2,1,71,6,2,0,1,0,1,2,02/18/2018,away,12973,245,Gallaudet,9,True,1,5,-4,loss,86031,30166,1997969,2018
+0,1,2.1,0.0,9,8,8,2,3,0,18,15,1,2,0,1,0,1,0,0,0,0,0,0,2,1,0,1,0,1,1,03/03/2018,neutral,12973,30084,Geneva,9,True,6,12,-6,loss,88174,30166,1997969,2018
+0,1,1.1,0.0,2,3,3,2,3,0,9,6,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,03/07/2018,neutral,12973,10972,Chatham,9,True,1,12,-11,loss,89224,30166,1997969,2018

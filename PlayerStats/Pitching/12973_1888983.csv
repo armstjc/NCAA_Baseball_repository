@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,4,1,1,0,0,0,7,7,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,03/01/2018,neutral,12973,22626,JWU (Providence),9,True,3,8,-5,loss,87542,321,1888983,2018
+0,0,1.1,0.0,3,2,2,3,0,0,10,7,1,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,3,0,03/02/2018,neutral,12973,1192,Manchester,9,True,10,17,-7,loss,87738,321,1888983,2018
+0,0,4.0,0.0,5,3,3,3,0,0,19,15,1,0,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,4,0,03/17/2018,away,12973,1340,St. Joseph's (L.I.),9,True,3,19,-16,loss,91629,321,1888983,2018
+0,0,0.2,0.0,2,1,1,0,0,0,4,4,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,3,0,03/31/2018,away,12973,12884,Centenary (NJ),9,True,13,8,5,win,95590,321,1888983,2018
+0,0,0.1,0.0,2,4,4,1,0,0,5,2,0,1,0,0,0,1,0,2,2,0,1,0,0,1,0,0,0,2,0,04/18/2018,away,12973,479,NYU,9,True,4,13,-9,loss,99833,321,1888983,2018

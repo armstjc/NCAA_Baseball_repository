@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,8.0,1,16,9,6,0,3,0,41,39,3,0,0,0,0,1,0,0,0,1,0,0,8,11,0,1,0,1,0,03/05/2018,neutral,12973,124,Catholic,9,True,4,9,-5,loss,88784,30044,1867904,2018
+0,1,3.0,0.0,6,5,5,2,0,0,19,15,1,0,0,0,0,2,0,0,0,0,0,0,4,5,0,0,0,1,0,03/30/2018,away,12973,258,Gettysburg,9,True,8,13,-5,loss,94936,30044,1867904,2018
+0,1,5.2,0.0,8,6,6,1,1,0,26,22,0,0,0,3,2,1,0,0,0,2,0,0,9,6,1,0,0,1,0,04/08/2018,away,12973,30085,Lancaster Bible,10,True,16,7,9,win,97212,30044,1867904,2018
+0,0,3.2,0.0,3,1,1,1,2,0,16,12,1,0,0,0,1,1,0,0,0,2,0,59,5,4,0,1,0,3,1,05/06/2018,away,12973,1159,Keuka,9,True,4,5,-1,loss,104897,30044,1867904,2018
+0,0,2.0,0.0,4,1,1,0,0,0,9,9,0,0,1,0,0,0,0,0,0,0,0,29,1,4,0,0,0,3,0,05/13/2018,home,12973,30190,Penn College,9,True,17,12,5,win,105795,30044,1867904,2018

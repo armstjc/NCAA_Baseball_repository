@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.0,0.0,4,7,3,3,0,0,15,9,2,0,0,0,0,1,0,0,0,0,2,0,1,4,0,0,0,1,0,02/13/2018,home,12973,1124,Hendrix,14,True,10,11,-1,loss,85150,23008,1980713,2018
+0,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,03/26/2018,away,12973,1124,Hendrix,9,True,0,3,-3,loss,94016,23008,1980713,2018
+0,0,1.2,0.0,1,0,0,0,0,0,5,5,1,0,0,0,0,0,0,2,1,0,0,14,1,3,0,0,0,5,0,03/31/2018,away,12973,8490,LeTourneau,9,True,8,9,-1,loss,95494,23008,1980713,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,0,2,0,0,0,4,0,04/17/2018,away,12973,1289,Ouachita Baptist,9,True,2,4,-2,loss,99541,23008,1980713,2018

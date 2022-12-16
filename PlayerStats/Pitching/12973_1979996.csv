@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,0.0,8,5,3,3,6,0,31,26,1,1,0,0,1,1,0,0,0,0,1,0,3,8,1,0,0,1,1,02/02/2018,away,12973,2755,Southwest Baptist,9,True,17,14,3,win,84530,8965,1979996,2018
+0,1,6.0,1,12,6,6,2,6,0,30,27,4,1,0,3,2,0,0,0,0,0,1,105,7,3,0,1,0,1,1,02/09/2018,away,12973,1009,Central Okla.,9,True,0,6,-6,loss,84875,8965,1979996,2018
+0,1,7.2,0.0,9,7,7,4,7,0,35,31,2,1,0,0,3,0,0,0,0,0,0,158,4,11,0,1,0,1,2,02/19/2018,away,12973,8411,Ark.-Monticello,9,True,6,9,-3,loss,86060,8965,1979996,2018

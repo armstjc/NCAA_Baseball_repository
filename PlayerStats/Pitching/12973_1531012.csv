@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,2,1,1,1,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,4,0,02/17/2018,home,12973,77,BYU,9,True,5,6,-1,loss,85598,101,1531012,2018
+0,0,1.0,0.0,3,2,2,0,2,0,6,6,0,0,0,1,0,0,0,0,0,0,0,14,0,1,0,0,0,5,0,02/24/2018,home,12973,381,Manhattan,9,True,31,5,26,win,86540,101,1531012,2018
+0,0,0.1,0.0,1,1,1,0,0,0,2,2,0,0,0,0,0,0,0,2,2,0,0,3,1,0,0,0,0,4,0,03/02/2018,neutral,12973,735,Valparaiso,9,True,14,13,1,win,87743,101,1531012,2018
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,10,2,1,0,0,0,5,0,04/10/2018,away,12973,96,Fresno St.,9,True,15,2,13,win,97592,101,1531012,2018
+0,0,0.0,0.0,2,3,3,0,0,0,3,2,1,0,0,0,1,1,0,0,0,0,0,16,0,0,0,0,0,3,0,05/05/2018,away,12973,104,UC Santa Barbara,9,True,0,12,-12,loss,104228,101,1531012,2018
+0,0,0.1,0.0,2,2,2,0,1,0,3,3,0,0,0,1,0,0,0,0,0,0,0,11,0,0,0,0,0,4,0,05/26/2018,away,12973,657,Southern California,9,True,4,8,-4,loss,106796,101,1531012,2018

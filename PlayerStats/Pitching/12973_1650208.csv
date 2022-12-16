@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,1,1,3,2,0,7,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,02/24/2018,away,12973,322,Johns Hopkins,9,True,10,4,6,win,86704,601,1650208,2018
+0,0,1.1,0.0,1,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,2,0,03/04/2018,neutral,12973,531,Otterbein,9,True,5,7,-2,loss,88526,601,1650208,2018
+0,0,1.0,0.0,4,2,2,0,0,0,6,5,1,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,3,0,03/09/2018,neutral,12973,401,UMass Boston,9,True,0,7,-7,loss,89558,601,1650208,2018
+0,0,0.2,0.0,2,2,2,3,2,0,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,03/30/2018,home,12973,313,Ithaca,9,True,8,11,-3,loss,94669,601,1650208,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,04/27/2018,home,12973,30160,Houghton,9,True,16,3,13,win,102257,601,1650208,2018

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.0,0.0,2,0,0,3,0,0,10,6,0,0,0,0,0,0,0,0,0,1,0,33,2,3,0,0,0,1,0,03/15/2018,away,12973,277,Hawaii,9,True,1,6,-5,loss,91045,299,1976577,2018
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,04/18/2018,away,12973,201,Eastern Ill.,9,True,13,17,-4,loss,99838,299,1976577,2018
+0,0,1.0,0.0,5,6,6,0,0,0,9,8,2,0,0,1,0,1,0,0,0,0,0,0,1,2,0,1,0,2,0,04/24/2018,away,12973,300,Ill. Wesleyan,9,True,4,10,-6,loss,101578,299,1976577,2018
+0,1,2.0,0.0,3,2,1,1,0,0,9,8,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,1,0,05/02/2018,away,12973,503,NIU,9,True,7,6,1,win,103736,299,1976577,2018

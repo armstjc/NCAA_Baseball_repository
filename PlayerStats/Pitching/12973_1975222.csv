@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,3.1,0.0,5,4,4,5,2,0,18,12,3,0,0,0,1,1,0,0,0,0,0,0,2,3,0,1,0,1,1,03/09/2018,neutral,12973,241,Franklin Pierce,9,True,0,7,-7,loss,89539,477,1975222,2018
+0,1,2.1,0.0,3,5,5,4,1,0,15,8,1,0,0,0,3,2,0,0,0,0,1,51,0,5,0,1,0,1,0,03/18/2018,away,12973,24639,Nova Southeastern,9,True,4,7,-3,loss,92331,477,1975222,2018
+0,1,6.0,0.0,1,0,0,4,4,0,22,17,0,0,0,0,0,1,0,0,0,0,0,93,7,5,0,0,0,1,3,03/29/2018,away,12973,407,Mercy,10,True,0,1,-1,loss,94509,477,1975222,2018
+0,1,4.0,0.0,5,7,6,3,1,0,20,13,1,0,0,0,1,2,0,0,0,0,2,64,4,5,0,1,0,1,0,04/09/2018,away,12973,1348,St. Thomas Aquinas,9,True,2,11,-9,loss,97421,477,1975222,2018
+0,1,2.1,0.0,3,4,4,4,1,0,13,9,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,1,1,04/18/2018,away,12973,995,Caldwell,9,True,9,6,3,win,99684,477,1975222,2018
+0,0,0.0,0.0,1,2,2,1,0,0,2,1,1,0,0,0,0,0,0,1,1,0,0,11,0,0,0,1,0,3,0,05/06/2018,away,12973,560,Queens (NY),9,True,8,9,-1,loss,104675,477,1975222,2018

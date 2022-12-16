@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,04/18/2018,away,12973,20,DeSales,10,True,1,2,-1,loss,99752,686,1886407,2018
+0,0,1.0,0.0,6,4,4,0,1,0,10,8,1,0,0,0,0,1,0,0,0,0,1,33,0,2,0,0,0,3,1,04/20/2018,away,12973,730,Ursinus,9,True,9,7,2,win,99963,686,1886407,2018
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,2,0,04/24/2018,away,12973,276,Haverford,9,True,3,1,2,win,101599,686,1886407,2018
+0,0,1.0,0.0,2,2,2,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,19,2,1,0,0,0,2,0,04/28/2018,away,12973,773,McDaniel,9,True,26,13,13,win,102489,686,1886407,2018
+0,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,05/25/2018,neutral,12973,160,Concordia Chicago,9,True,4,9,-5,loss,106734,686,1886407,2018

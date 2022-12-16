@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,1,04/12/2018,away,12973,12884,Centenary (NJ),9,True,18,4,14,win,98042,30047,1877205,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,5,0,04/18/2018,away,12973,958,Clarks Summit,9,True,21,3,18,win,99764,30047,1877205,2018
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,04/28/2018,away,12973,1305,Cairn,9,True,17,0,17,win,102681,30047,1877205,2018
+0,0,0.1,0.0,2,3,3,1,1,0,5,4,1,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,2,0,05/02/2018,away,12973,12399,Gwynedd Mercy,9,True,7,4,3,win,103633,30047,1877205,2018
+0,0,0.1,0.0,2,1,1,0,0,0,3,3,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,4,0,05/05/2018,away,12973,601,St. John Fisher,9,True,10,15,-5,loss,104415,30047,1877205,2018

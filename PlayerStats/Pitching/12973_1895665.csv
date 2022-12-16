@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,1,0,1,0,0,5,4,0,0,1,0,0,0,0,0,0,0,0,18,2,1,0,0,1,2,0,04/21/2018,away,12973,245,Gallaudet,9,True,5,4,1,win,100967,1159,1895665,2018
+0,0,0.2,0.0,0,0,0,1,1,0,4,3,0,0,0,0,1,0,0,0,0,0,0,16,1,0,0,0,0,9,0,04/23/2018,home,12973,78,SUNY Brockport,9,True,7,15,-8,loss,101448,1159,1895665,2018
+0,0,1.0,0.0,2,1,1,0,1,0,5,3,0,0,0,0,0,0,0,0,0,1,1,15,1,1,0,0,0,4,0,05/01/2018,home,12973,761,Wells,9,True,12,9,3,win,103571,1159,1895665,2018
+0,0,2.0,0.0,1,0,0,0,1,0,7,6,0,0,0,0,0,0,0,0,0,1,0,30,3,2,0,0,0,3,0,05/06/2018,home,12973,30044,Penn St.-Berks,9,True,5,4,1,win,104897,1159,1895665,2018
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,8,1,1,1,0,0,4,1,05/08/2018,home,12973,30085,Lancaster Bible,9,True,5,4,1,win,105011,1159,1895665,2018
+0,0,2.2,0.0,5,3,3,0,0,0,14,12,2,0,0,0,0,1,0,1,1,1,0,0,6,2,0,1,0,2,0,05/12/2018,neutral,12973,30114,Penn St.-Abington,9,True,7,9,-2,loss,105635,1159,1895665,2018

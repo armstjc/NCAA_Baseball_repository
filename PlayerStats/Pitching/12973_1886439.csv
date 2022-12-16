@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.1,0.0,3,2,2,3,1,0,14,10,1,0,0,0,0,1,0,3,2,0,0,52,2,4,0,0,0,3,0,03/11/2018,neutral,12973,1036,Concordia Wisconsin,9,True,1,14,-13,loss,90546,38,1886439,2018
+0,0,1.0,0.0,1,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,1,2,0,03/14/2018,neutral,12973,1196,Marian (WI),9,True,10,8,2,win,90993,38,1886439,2018
+0,0,1.0,0.0,0,1,0,1,0,0,6,4,0,0,0,0,0,0,1,0,0,0,1,0,0,3,0,1,0,3,0,04/21/2018,home,12973,161,Concordia-M'head,13,True,3,4,-1,loss,100908,38,1886439,2018
+0,0,2.2,0.0,3,1,1,1,0,0,12,11,0,0,2,0,1,0,0,0,0,0,0,0,3,5,0,1,0,3,0,04/21/2018,home,12973,161,Concordia-M'head,9,True,6,7,-1,loss,100821,38,1886439,2018
+0,0,1.1,0.0,1,1,1,1,0,0,7,5,0,0,0,0,0,1,1,0,0,0,0,31,2,2,0,1,0,3,0,04/29/2018,away,12973,268,Hamline,11,True,8,9,-1,loss,103155,38,1886439,2018
+0,0,2.1,0.0,0,0,0,1,1,0,10,6,0,0,0,0,0,2,0,2,0,1,0,28,2,4,0,0,0,2,1,05/06/2018,home,12973,266,Gust. Adolphus,9,True,2,5,-3,loss,104816,38,1886439,2018

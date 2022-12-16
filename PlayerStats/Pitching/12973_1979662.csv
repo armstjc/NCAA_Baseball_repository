@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,1,0,1,2,0,9,8,0,0,0,0,1,0,0,2,2,0,0,28,2,2,0,0,0,4,1,03/06/2018,away,12973,2711,North Florida,9,True,5,12,-7,loss,88894,316,1979662,2018
+0,0,2.0,0.0,2,1,1,0,2,0,8,8,1,0,0,0,0,0,0,0,0,0,0,23,3,1,0,0,0,2,0,03/14/2018,away,12973,651,South Fla.,9,True,1,6,-5,loss,90871,316,1979662,2018
+0,0,1.2,0.0,5,3,3,1,0,0,11,9,3,0,0,0,0,0,0,0,0,0,1,36,2,3,0,0,0,2,0,03/16/2018,home,12973,220,Fairfield,9,True,7,3,4,win,91218,316,1979662,2018
+0,0,0.2,0.0,2,1,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,17,0,1,0,0,0,2,0,03/21/2018,away,12973,235,Florida,9,True,3,10,-7,loss,92663,316,1979662,2018
+0,0,0.0,0.0,2,2,2,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,0,03/29/2018,home,12973,2711,North Florida,9,True,2,8,-6,loss,94455,316,1979662,2018

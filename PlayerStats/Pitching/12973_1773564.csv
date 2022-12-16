@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,6,0,02/24/2018,home,12973,30081,Penn St. Harrisburg,9,True,3,11,-8,loss,86585,203,1773564,2018
+0,0,0.1,0.0,0,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,5,0,03/06/2018,neutral,12973,784,Wilkes,9,True,6,10,-4,loss,89002,203,1773564,2018
+0,0,1.0,0.0,0,0,0,1,0,0,5,3,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,2,0,04/02/2018,home,12973,44,Averett,9,True,3,7,-4,loss,95761,203,1773564,2018
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,04/14/2018,away,12973,565,Randolph-Macon,9,True,0,7,-7,loss,98917,203,1773564,2018

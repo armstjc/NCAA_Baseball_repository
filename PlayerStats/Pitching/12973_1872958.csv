@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,02/02/2018,home,12973,535,Paine,9,True,21,0,21,win,84543,1096,1872958,2018
+0,0,0.0,0.0,1,0,0,0,0,0,2,1,0,0,0,0,1,1,0,0,0,0,0,11,0,0,0,0,0,2,0,02/11/2018,away,12973,689,Tampa,9,True,1,11,-10,loss,85116,1096,1872958,2018
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,5,1,0,0,0,0,6,0,03/13/2018,home,12973,13,Albany St. (GA),9,True,13,3,10,win,90751,1096,1872958,2018
+0,0,0.1,0.0,2,1,1,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,12,1,0,0,0,0,2,0,05/05/2018,home,12973,791,Winston-Salem,9,True,12,5,7,win,104222,1096,1872958,2018

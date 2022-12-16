@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,1,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,03/16/2018,neutral,12973,1036,Concordia Wisconsin,9,True,8,14,-6,loss,91494,621,2000446,2018
+0,1,6.2,0.0,8,3,2,0,3,0,29,28,1,0,0,0,0,1,0,0,0,0,0,0,8,7,0,1,0,1,1,04/12/2018,home,12973,8981,Endicott,9,True,2,7,-5,loss,98060,621,2000446,2018
+0,0,1.1,0.0,1,0,0,1,2,0,5,4,0,0,0,0,0,0,0,1,1,0,0,22,1,0,0,0,0,2,0,04/18/2018,away,12973,401,UMass Boston,9,True,1,15,-14,loss,99765,621,2000446,2018
+0,1,2.2,0.0,8,6,5,1,3,0,17,16,3,0,0,0,0,0,0,0,0,0,0,0,1,4,0,1,0,1,1,04/24/2018,home,12973,238,Framingham St.,9,True,2,8,-6,loss,101658,621,2000446,2018
+0,0,2.1,0.0,1,0,0,1,1,0,8,7,0,0,0,0,0,0,0,1,0,0,0,0,1,4,0,0,0,2,1,05/01/2018,home,12973,45,Babson,9,True,3,6,-3,loss,103499,621,2000446,2018
+0,0,0.2,0.0,2,5,5,3,0,0,6,3,0,0,0,0,2,0,0,1,0,0,0,0,0,1,0,0,0,2,0,05/04/2018,away,12973,777,Westfield St.,9,True,7,13,-6,loss,103958,621,2000446,2018

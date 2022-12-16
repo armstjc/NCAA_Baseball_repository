@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,3,0,02/24/2018,home,12973,984,Bloomfield,9,True,5,9,-4,loss,86654,1277,1996165,2018
+0,0,1.0,0.0,2,1,1,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,03/27/2018,home,12973,407,Mercy,9,True,6,9,-3,loss,94128,1277,1996165,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,1,05/01/2018,away,12973,984,Bloomfield,9,True,1,6,-5,loss,103580,1277,1996165,2018
+0,0,1.0,0.0,2,1,1,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,23,2,1,0,0,0,6,0,05/02/2018,home,12973,560,Queens (NY),9,True,8,9,-1,loss,103666,1277,1996165,2018

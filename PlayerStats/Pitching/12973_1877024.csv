@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,5,0,03/19/2018,home,12973,139,Chris. Newport,9,True,2,11,-9,loss,92503,491,1877024,2018
+0,0,2.0,0.0,3,1,1,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0,0,27,2,3,1,0,0,2,0,03/29/2018,away,12973,374,Lynchburg,9,True,7,3,4,win,94572,491,1877024,2018
+0,0,0.2,0.0,3,3,3,0,0,0,5,5,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,2,0,04/05/2018,away,12973,565,Randolph-Macon,9,True,1,10,-9,loss,96061,491,1877024,2018
+0,0,0.1,0.0,2,2,2,0,0,0,3,2,0,0,0,0,0,0,0,0,0,1,0,4,1,0,0,0,0,4,0,04/13/2018,home,12973,1162,LaGrange,9,True,3,12,-9,loss,98389,491,1877024,2018

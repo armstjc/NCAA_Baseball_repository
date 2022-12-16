@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,3,0,02/28/2018,away,12973,0,Fisher,9,True,2,5,-3,loss,87498,809,2001241,2018
+0,1,2.0,0.0,1,1,1,1,2,0,8,6,0,0,0,0,0,0,0,0,0,0,1,42,1,3,0,0,0,1,1,03/06/2018,neutral,12973,656,UMass Dartmouth,9,True,2,10,-8,loss,89004,809,2001241,2018
+0,1,5.0,0.0,3,2,2,3,2,0,22,18,2,0,0,0,0,1,0,0,0,0,0,0,2,10,1,0,0,1,0,03/18/2018,neutral,12973,212,Elmhurst,9,True,4,3,1,win,92305,809,2001241,2018
+0,1,6.0,1,9,5,5,3,3,0,28,23,1,1,0,0,0,0,0,0,0,1,1,0,4,8,0,1,0,1,1,03/24/2018,neutral,12973,264,Grinnell,9,True,2,5,-3,loss,93452,809,2001241,2018
+0,0,2.1,0.0,5,4,4,0,0,0,13,11,1,0,0,2,0,1,0,0,0,1,0,0,4,3,0,1,0,2,0,03/31/2018,neutral,12973,484,Nichols,9,True,7,10,-3,loss,95612,809,2001241,2018
+0,1,4.0,0.0,6,4,2,2,4,0,18,16,0,0,0,1,0,0,0,0,0,0,0,78,2,3,0,0,0,1,2,04/24/2018,home,12973,227,Fitchburg St.,9,True,7,6,1,win,101665,809,2001241,2018

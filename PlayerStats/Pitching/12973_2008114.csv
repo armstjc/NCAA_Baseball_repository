@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,4,0,03/11/2018,neutral,12973,16,Albright,9,True,1,5,-4,loss,90471,258,2008114,2018
+0,0,1.0,0.0,0,0,0,0,0,0,3,2,0,0,0,0,1,0,0,3,2,0,1,0,1,2,0,0,1,4,0,03/13/2018,neutral,12973,30031,Northwestern-St. Paul,9,True,9,7,2,win,90820,258,2008114,2018
+0,0,0.2,0.0,2,4,4,4,0,0,8,3,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,3,0,03/15/2018,neutral,12973,633,Scranton,9,True,4,5,-1,loss,91098,258,2008114,2018
+0,0,0.2,0.0,0,0,0,2,0,0,5,2,0,0,0,0,0,1,0,2,2,0,0,0,2,0,1,0,0,5,0,03/30/2018,home,12973,30044,Penn St.-Berks,9,True,13,8,5,win,94936,258,2008114,2018
+0,0,1.0,0.0,1,0,0,1,1,0,5,4,1,0,0,0,0,0,0,3,3,0,0,0,1,1,0,0,0,5,0,04/14/2018,home,12973,730,Ursinus,9,True,1,15,-14,loss,98741,258,2008114,2018

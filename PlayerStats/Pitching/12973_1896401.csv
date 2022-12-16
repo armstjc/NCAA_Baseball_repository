@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,2,0,0,1,2,0,8,7,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,03/04/2018,home,12973,0,Penn St.-Gr Allegheny,9,True,21,9,12,win,88631,408,1896401,2018
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,04/10/2018,home,12973,30126,Notre Dame (OH),9,True,9,8,1,win,97629,408,1896401,2018
+0,0,2.1,0.0,3,4,4,0,2,0,11,10,0,0,0,2,0,1,0,2,0,0,0,35,4,1,0,1,0,2,0,04/14/2018,away,12973,643,Slippery Rock,9,True,3,5,-2,loss,99125,408,1896401,2018
+0,0,2.0,0.0,1,2,0,4,3,0,13,8,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,3,2,04/21/2018,away,12973,143,Clarion,9,True,15,3,12,win,100788,408,1896401,2018

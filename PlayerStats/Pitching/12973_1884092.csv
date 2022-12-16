@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,2,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,03/04/2018,neutral,12973,675,Staten Island,9,True,4,2,2,win,88602,30044,1884092,2018
+0,0,1.0,0.0,3,3,0,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,5,0,03/08/2018,neutral,12973,75,Bridgewater (VA),9,True,4,15,-11,loss,89282,30044,1884092,2018
+0,0,0.0,0.0,1,5,4,1,0,0,6,3,0,0,0,0,0,2,0,0,0,0,0,25,0,0,0,0,0,2,0,03/19/2018,home,12973,30081,Penn St. Harrisburg,9,True,12,17,-5,loss,92427,30044,1884092,2018
+0,0,1.2,0.0,5,3,3,0,1,0,10,10,1,0,0,1,1,0,0,1,0,0,0,21,2,2,0,0,0,2,1,04/18/2018,home,12973,966,Arcadia,9,True,1,11,-10,loss,99710,30044,1884092,2018
+0,0,1.2,0.0,1,0,0,0,2,0,6,6,0,0,0,0,0,0,0,2,0,0,0,25,0,3,0,0,0,2,2,04/22/2018,home,12973,30083,Cobleskill St.,9,True,14,1,13,win,101365,30044,1884092,2018
+0,0,1.1,0.0,2,0,0,1,2,0,8,7,0,0,0,0,0,0,0,0,0,0,0,21,0,2,0,0,0,5,0,04/26/2018,away,12973,815,York (PA),9,True,12,24,-12,loss,101931,30044,1884092,2018

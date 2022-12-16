@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,5,0,0,0,0,0,4,0,02/17/2018,away,12973,465,UNLV,9,True,3,9,-6,loss,85437,529,1977794,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,6,0,02/27/2018,home,12973,1356,Seattle U,9,True,14,0,14,win,87359,529,1977794,2018
+0,1,1.0,0.0,4,2,2,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,03/13/2018,home,12973,260,Gonzaga,9,True,6,3,3,win,90770,529,1977794,2018
+0,1,1.0,0.0,2,1,1,0,0,0,5,5,1,0,0,0,1,0,0,0,0,0,0,0,0,3,0,1,0,1,0,03/26/2018,home,12973,629,San Francisco,9,True,1,5,-4,loss,93973,529,1977794,2018
+0,0,0.2,0.0,2,1,1,2,0,0,5,3,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,6,0,05/08/2018,home,12973,528,Oregon St.,9,True,0,10,-10,loss,105001,529,1977794,2018

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,2,0,5,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,4,1,03/04/2018,away,12973,12884,Centenary (NJ),9,True,13,8,5,win,88666,179,1888963,2018
+0,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,2,0,03/10/2018,neutral,12973,8398,Hilbert,9,True,5,1,4,win,90083,179,1888963,2018
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3,0,03/14/2018,neutral,12973,770,WestConn,9,True,15,0,15,win,91007,179,1888963,2018

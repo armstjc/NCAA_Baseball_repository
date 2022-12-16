@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,0.0,3,1,1,1,2,0,16,14,0,0,0,0,1,1,0,0,0,0,0,0,3,5,0,0,0,1,0,02/18/2018,away,12973,549,Pomona-Pitzer,9,True,6,3,3,win,85816,123,1661823,2018
+0,0,1.0,0.0,1,4,3,3,2,0,7,4,0,0,0,1,0,0,0,0,0,0,0,35,1,0,0,0,0,3,0,02/21/2018,away,12973,134,Chapman,9,True,2,10,-8,loss,86193,123,1661823,2018

@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,0,0,2,0,0,8,5,0,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,2,0,03/03/2018,away,12973,269,Hampden-Sydney,9,True,10,11,-1,loss,87892,182,1887903,2018
+0,0,2.0,0.0,3,2,2,2,2,0,11,9,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,3,0,03/17/2018,neutral,12973,4,Adrian,9,True,9,12,-3,loss,91871,182,1887903,2018
+0,0,1.0,0.0,4,4,4,2,2,0,9,7,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,03/19/2018,neutral,12973,492,North Central (IL),9,True,20,4,16,win,92472,182,1887903,2018
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,03/23/2018,neutral,12973,548,Plymouth St.,9,True,15,3,12,win,93128,182,1887903,2018
+0,0,1.0,0.0,3,2,2,0,2,0,8,6,3,0,0,0,0,2,0,0,0,0,0,23,0,1,0,0,0,2,0,04/13/2018,home,12973,281,Hiram,9,True,16,4,12,win,98520,182,1887903,2018
+0,0,1.0,0.0,1,0,0,0,2,0,5,5,0,0,0,0,0,0,0,0,0,0,0,25,0,1,0,0,0,4,1,05/05/2018,away,12973,747,Wabash,9,True,16,1,15,win,104464,182,1887903,2018

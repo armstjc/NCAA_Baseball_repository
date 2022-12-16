@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,02/24/2018,neutral,12973,476,New Rochelle,9,True,27,1,26,win,86742,589,2002160,2018
+0,0,1.0,0.0,3,2,2,0,0,0,6,6,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,03/14/2018,away,12973,781,Whittier,9,True,3,10,-7,loss,90865,589,2002160,2018
+0,0,2.1,0.0,4,2,2,2,1,0,14,12,3,0,0,0,0,0,0,2,2,0,0,51,4,2,0,0,0,4,0,04/05/2018,away,12973,319,New Jersey City,9,True,3,14,-11,loss,96077,589,2002160,2018
+0,0,2.2,0.0,2,2,0,1,2,0,14,13,0,0,0,0,1,0,0,2,2,0,0,0,4,2,0,0,0,3,0,04/14/2018,home,12973,259,Rowan,9,True,4,13,-9,loss,98978,589,2002160,2018
+0,0,0.2,0.0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,3,1,0,1,0,0,2,0,0,0,4,0,04/30/2018,away,12973,681,Stockton,9,True,14,8,6,win,103404,589,2002160,2018

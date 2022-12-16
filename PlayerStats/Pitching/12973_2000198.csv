@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,2,2,2,0,0,5,1,0,0,0,0,0,1,0,0,0,0,1,19,1,1,0,0,0,2,0,02/27/2018,away,12973,1245,Mount Olive,9,True,4,8,-4,loss,87336,8956,2000198,2018
+0,0,1.2,0.0,1,0,0,2,1,0,8,5,0,0,0,0,0,0,0,1,1,0,1,0,0,4,0,0,0,3,0,04/05/2018,home,12973,1277,Alliance,9,True,2,8,-6,loss,96108,8956,2000198,2018
+0,0,3.0,0.0,3,0,0,3,3,0,16,12,0,0,0,0,0,1,1,0,0,0,0,68,1,5,1,0,0,2,3,04/10/2018,away,12973,1348,St. Thomas Aquinas,9,True,6,2,4,win,97771,8956,2000198,2018
+0,0,1.0,0.0,1,2,2,0,0,0,6,4,0,0,0,0,2,2,0,2,2,0,0,26,1,2,0,0,0,3,0,04/14/2018,away,12973,21323,Chestnut Hill,9,True,6,9,-3,loss,98729,8956,2000198,2018
+0,0,1.0,0.0,0,1,0,1,0,0,5,3,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,2,0,04/26/2018,away,12973,1318,Post,9,True,6,7,-1,loss,101970,8956,2000198,2018

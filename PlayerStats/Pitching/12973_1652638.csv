@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.1,0.0,4,4,4,2,0,0,16,10,0,0,0,0,1,3,0,0,0,1,0,0,2,5,0,0,0,1,0,03/12/2018,neutral,12973,330,Keene St.,9,True,7,12,-5,loss,90595,152,1652638,2018
+0,1,3.1,0.0,4,5,5,5,2,0,20,13,0,0,0,0,2,2,0,0,0,0,0,0,5,2,0,1,0,1,1,03/16/2018,neutral,12973,53,Beloit,9,True,4,6,-2,loss,91417,152,1652638,2018
+0,1,5.1,0.0,4,2,1,6,5,0,25,19,0,0,0,0,2,0,0,0,0,0,0,0,8,2,0,1,0,1,3,04/14/2018,home,12973,1133,Husson,9,True,1,2,-1,loss,98842,152,1652638,2018
+0,1,5.0,0.0,9,11,8,2,0,0,29,27,2,0,0,1,3,0,0,0,0,0,0,49,11,4,0,1,0,1,0,04/22/2018,away,12973,379,Me.-Farmington,9,True,5,14,-9,loss,101250,152,1652638,2018
+0,1,7.0,1,7,3,1,1,4,0,31,27,2,0,0,0,0,2,0,0,0,1,0,0,12,3,1,0,0,1,1,04/27/2018,home,12973,2758,Thomas (ME),9,True,9,3,6,win,102269,152,1652638,2018

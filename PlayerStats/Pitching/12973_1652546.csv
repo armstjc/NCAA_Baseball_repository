@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,02/24/2018,neutral,12973,643,Slippery Rock,9,True,1,3,-2,loss,86799,1438,1652546,2018
+0,0,1.0,0.0,0,0,0,2,2,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,03/26/2018,home,12973,1098,Glenville St.,9,True,7,1,6,win,93993,1438,1652546,2018
+0,0,0.1,0.0,1,2,0,1,0,0,5,4,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,3,0,04/08/2018,home,12973,30126,Notre Dame (OH),9,True,1,9,-8,loss,97181,1438,1652546,2018
+0,0,1.0,0.0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,22,1,1,0,0,1,5,0,04/14/2018,away,12973,30104,Urbana,9,True,10,9,1,win,98873,1438,1652546,2018
+0,0,1.0,0.0,4,4,4,0,0,0,9,7,0,1,0,0,0,2,0,2,2,0,0,0,2,1,0,0,0,3,0,04/23/2018,home,12973,30063,Seton Hill,9,True,3,9,-6,loss,101487,1438,1652546,2018
+0,1,2.2,0.0,8,6,6,2,1,0,18,16,0,0,0,1,1,0,0,0,0,0,0,62,4,3,0,1,0,1,1,05/12/2018,neutral,12973,30126,Notre Dame (OH),9,True,10,17,-7,loss,105606,1438,1652546,2018

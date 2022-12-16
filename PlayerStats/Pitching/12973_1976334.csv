@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,0.0,8,6,6,0,2,0,23,20,3,0,0,2,2,2,0,0,0,1,0,72,6,4,0,0,0,1,1,02/02/2018,home,12973,30093,AUM,9,True,7,6,1,win,84531,30191,1976334,2018
+0,1,5.0,0.0,6,2,2,1,4,0,23,20,1,0,0,0,0,1,0,0,0,0,1,73,2,9,0,0,0,1,1,02/14/2018,home,12973,1238,Montevallo,9,True,5,7,-2,loss,85176,30191,1976334,2018
+0,1,2.2,0.0,7,5,5,3,0,0,20,14,4,0,0,0,0,2,0,0,0,1,0,47,5,3,0,1,0,1,0,02/18/2018,away,12973,11740,West Florida,9,True,3,8,-5,loss,85868,30191,1976334,2018
+0,1,6.0,0.0,9,6,6,3,9,0,30,27,3,0,0,0,1,0,0,0,0,0,0,2,2,6,1,0,0,1,1,02/28/2018,away,12973,0,Loyola (LA),9,True,13,7,6,win,87473,30191,1976334,2018

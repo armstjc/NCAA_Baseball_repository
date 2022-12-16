@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,1,1,0,2,0,5,4,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6,2,02/02/2018,home,12973,230,Florida Tech,9,True,4,7,-3,loss,84554,30052,1990655,2018
+0,0,3.2,0.0,3,1,1,1,4,0,15,13,0,0,0,0,0,1,0,2,0,0,0,0,1,5,0,0,0,3,1,02/09/2018,home,12973,233,Fla. Southern,9,True,4,7,-3,loss,84965,30052,1990655,2018
+0,1,5.0,0.0,4,0,0,0,3,0,18,18,1,0,0,0,0,0,0,0,0,0,0,64,6,5,0,0,0,1,2,02/16/2018,home,12973,30002,Trevecca Nazarene,9,True,1,2,-1,loss,85407,30052,1990655,2018
+0,1,3.2,0.0,6,4,4,2,1,0,20,17,0,0,0,0,0,0,0,0,0,1,0,60,7,3,0,1,0,1,1,02/24/2018,away,12973,30092,Flagler,9,True,1,6,-5,loss,86536,30052,1990655,2018

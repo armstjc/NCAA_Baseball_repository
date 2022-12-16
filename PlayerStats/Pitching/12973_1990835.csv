@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,4,2,2,2,3,0,15,13,2,0,0,1,0,0,0,2,2,0,0,52,4,2,0,0,0,3,1,02/03/2018,home,12973,0,Stillman,9,True,13,12,1,win,84644,422,1990835,2018
+0,0,1.0,0.0,2,1,1,0,2,0,5,5,1,1,0,0,0,0,0,0,0,0,0,17,0,1,0,0,0,5,0,02/10/2018,neutral,12973,20794,Lynn,9,True,3,20,-17,loss,85084,422,1990835,2018
+0,0,0.2,0.0,3,3,3,2,0,0,8,5,0,0,0,0,0,1,0,0,0,0,0,32,2,0,0,0,0,2,0,02/28/2018,away,12973,11740,West Florida,9,True,0,16,-16,loss,87467,422,1990835,2018
+0,0,0.2,0.0,2,4,2,1,0,0,6,5,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,03/16/2018,away,12973,445,Morehouse,9,True,14,9,5,win,91363,422,1990835,2018
+0,0,1.0,0.0,2,2,2,2,1,0,7,5,0,0,0,1,0,0,0,0,0,0,0,24,1,1,0,0,0,6,0,04/16/2018,home,12973,30191,Spring Hill,9,True,9,25,-16,loss,99391,422,1990835,2018

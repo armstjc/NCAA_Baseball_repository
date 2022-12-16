@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,02/19/2018,away,12973,1124,Hendrix,10,True,17,8,9,win,86042,424,1772860,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,03/10/2018,away,12973,8746,Southwestern (TX),9,True,19,7,12,win,89817,424,1772860,2018
+0,0,1.0,0.0,3,1,1,0,0,0,6,6,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,03/30/2018,home,12973,492,North Central (IL),9,True,1,15,-14,loss,94954,424,1772860,2018
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,6,0,04/10/2018,away,12973,40,Augustana (IL),9,True,4,11,-7,loss,97682,424,1772860,2018

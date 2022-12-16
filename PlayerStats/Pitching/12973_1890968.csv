@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,3,3,3,0,0,9,6,0,0,0,1,1,0,0,0,0,0,0,37,1,2,0,0,0,3,0,04/11/2018,home,12973,467,New England Col.,9,True,3,9,-6,loss,98030,30065,1890968,2018
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,6,0,3,0,0,0,3,0,04/24/2018,home,12973,152,Colby-Sawyer,9,True,16,5,11,win,101651,30065,1890968,2018
+0,1,2.0,0.0,4,1,1,1,1,0,11,9,1,0,0,0,0,0,0,0,0,1,0,39,3,2,0,0,0,1,0,04/27/2018,home,12973,123,Castleton,9,True,8,5,3,win,102215,30065,1890968,2018
+0,1,4.0,0.0,5,2,2,1,2,0,19,16,0,0,0,0,0,1,0,0,0,0,1,56,4,6,0,1,0,1,1,04/30/2018,away,12973,379,Me.-Farmington,9,True,0,2,-2,loss,103420,30065,1890968,2018
+0,0,0.2,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,4,0,1,0,0,0,5,0,05/06/2018,home,12973,123,Castleton,9,True,5,11,-6,loss,104822,30065,1890968,2018

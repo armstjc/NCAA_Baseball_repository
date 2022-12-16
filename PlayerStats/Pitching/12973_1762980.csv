@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,4,0,02/17/2018,home,12973,8366,Goldey-Beacom,9,True,23,3,20,win,85691,1170,1762980,2018
+0,0,1.0,0.0,4,2,2,0,2,0,7,7,0,1,0,0,0,0,0,0,0,0,0,17,1,0,0,0,0,6,0,02/27/2018,home,12973,2683,Belmont Abbey,9,True,3,19,-16,loss,87413,1170,1762980,2018
+0,0,2.0,0.0,1,0,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,18,2,3,0,0,0,4,1,03/09/2018,home,12973,1257,Newberry,9,True,1,11,-10,loss,89738,1170,1762980,2018
+0,0,0.2,0.0,3,2,2,0,1,0,5,4,1,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,7,0,04/06/2018,home,12973,12830,Tusculum,9,True,4,24,-20,loss,96495,1170,1762980,2018

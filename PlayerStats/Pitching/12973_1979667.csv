@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,15,1,1,0,0,0,3,1,03/09/2018,home,12973,162,Concordia (NY),9,True,18,2,16,win,89406,584,1979667,2018
+0,0,3.0,0.0,1,0,0,0,2,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,3,1,04/13/2018,away,12973,608,Saint Leo,9,True,2,8,-6,loss,98276,584,1979667,2018
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,25,0,2,0,0,0,3,0,04/28/2018,home,12973,689,Tampa,9,True,1,7,-6,loss,102482,584,1979667,2018
+0,0,2.0,0.0,2,0,0,0,0,0,8,8,2,0,0,0,0,0,0,0,0,0,0,28,3,3,0,0,0,3,0,05/12/2018,home,12973,230,Florida Tech,9,True,1,6,-5,loss,105501,584,1979667,2018

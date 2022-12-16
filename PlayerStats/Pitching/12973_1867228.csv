@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,03/06/2018,home,12973,30136,Lindenwood,9,True,14,2,12,win,89034,30050,1867228,2018
+0,0,1.0,0.0,1,0,0,2,2,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1,03/28/2018,home,12973,436,Mo.-St. Louis,9,True,19,6,13,win,94384,30050,1867228,2018
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,5,0,05/01/2018,home,12973,0,Roosevelt-Peoria,9,True,26,5,21,win,103591,30050,1867228,2018
+0,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,1,0,0,0,2,0,05/05/2018,home,12973,354,Lewis,9,True,8,1,7,win,104513,30050,1867228,2018

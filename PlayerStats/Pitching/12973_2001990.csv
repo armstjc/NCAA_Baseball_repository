@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,7,2,1,0,0,0,3,0,03/04/2018,neutral,12973,30029,Purchase,9,True,0,11,-11,loss,88701,221,2001990,2018
+0,1,5.2,0.0,9,5,4,1,4,0,27,25,1,0,0,0,1,1,0,0,0,0,0,76,7,4,1,0,0,1,2,03/14/2018,neutral,12973,570,Rensselaer,9,True,8,6,2,win,91021,221,2001990,2018
+0,1,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,03/27/2018,away,12973,588,Rutgers-Camden,9,True,8,15,-7,loss,94081,221,2001990,2018
+0,0,1.1,0.0,3,2,1,2,1,0,11,8,1,0,0,0,0,0,0,2,2,0,1,0,1,2,0,0,0,2,0,03/31/2018,home,12973,382,Manhattanville,9,True,8,19,-11,loss,95507,221,2001990,2018
+0,1,5.0,0.0,6,2,0,1,2,0,22,20,1,0,0,0,0,0,0,0,0,0,1,59,4,9,1,0,0,1,0,04/22/2018,home,12973,8968,Eastern,9,True,14,7,7,win,101340,221,2001990,2018
+0,0,2.0,0.0,3,2,0,1,1,0,11,10,0,0,0,0,0,0,0,0,0,0,0,34,2,3,0,0,0,2,0,04/29/2018,home,12973,16142,Misericordia,9,True,5,8,-3,loss,103142,221,2001990,2018

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,3,1,02/24/2018,home,12973,202,Eastern Ky.,9,True,12,3,9,win,86558,746,1983426,2018
+0,0,0.1,0.0,2,2,2,1,0,0,4,3,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,2,0,02/27/2018,home,12973,741,VMI,9,True,10,9,1,win,87318,746,1983426,2018
+0,0,1.0,0.0,1,1,1,2,2,0,6,4,0,0,0,1,0,0,0,0,0,0,0,29,1,0,0,0,0,2,1,03/03/2018,home,12973,813,Yale,9,True,4,11,-7,loss,88043,746,1983426,2018
+0,0,1.0,0.0,2,4,4,2,2,0,8,5,0,1,0,0,0,1,0,0,0,0,0,30,1,0,0,0,0,7,1,04/14/2018,home,12973,457,North Carolina,9,True,6,12,-6,loss,99111,746,1983426,2018

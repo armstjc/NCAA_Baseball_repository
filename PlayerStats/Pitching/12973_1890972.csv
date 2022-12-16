@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,0.0,10,6,6,1,7,0,27,24,2,1,0,0,0,1,0,0,0,1,0,0,6,2,0,1,0,1,2,02/28/2018,neutral,12973,1254,Neumann,9,True,3,8,-5,loss,87481,30065,1890972,2018
+0,1,5.0,0.0,14,12,12,1,4,0,31,28,1,0,0,1,0,1,0,0,0,0,1,0,2,9,0,1,0,1,0,03/04/2018,neutral,12973,571,Rhode Island Col.,9,True,5,14,-9,loss,88589,30065,1890972,2018
+0,0,2.0,0.0,0,0,0,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,29,2,1,1,0,0,2,1,04/27/2018,home,12973,123,Castleton,9,True,8,5,3,win,102215,30065,1890972,2018
+0,0,1.0,0.0,1,0,0,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,16,2,1,0,0,0,2,0,04/30/2018,away,12973,379,Me.-Farmington,9,True,0,2,-2,loss,103420,30065,1890972,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,1,1,0,0,3,0,05/05/2018,neutral,12973,467,New England Col.,9,True,6,5,1,win,104495,30065,1890972,2018
+0,0,0.1,0.0,4,3,3,1,0,0,6,5,1,0,0,0,1,0,0,0,0,0,0,16,0,1,0,0,0,4,0,05/06/2018,home,12973,123,Castleton,9,True,5,11,-6,loss,104822,30065,1890972,2018

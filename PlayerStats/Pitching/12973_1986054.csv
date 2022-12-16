@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,04/13/2018,home,12973,1348,St. Thomas Aquinas,9,True,0,16,-16,loss,98555,74,1986054,2018
+0,0,2.0,0.0,2,0,0,1,0,0,9,8,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,3,0,04/24/2018,home,12973,3,Adelphi,9,True,4,10,-6,loss,101713,74,1986054,2018
+0,0,0.1,0.0,3,3,2,1,0,0,5,4,1,0,0,0,3,0,0,2,2,0,0,23,0,1,0,0,0,2,0,04/29/2018,away,12973,560,Queens (NY),9,True,7,16,-9,loss,103336,74,1986054,2018
+0,0,0.1,0.0,0,2,2,2,0,0,5,1,0,0,0,0,0,2,0,0,0,0,0,16,0,1,0,0,0,4,0,05/06/2018,away,12973,407,Mercy,10,True,5,6,-1,loss,104727,74,1986054,2018

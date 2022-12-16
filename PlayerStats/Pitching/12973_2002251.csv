@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,6,6,5,2,1,0,11,9,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,03/15/2018,away,12973,451,CMSV,9,True,2,24,-22,loss,91150,30040,2002251,2018
+0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,3,1,0,0,0,2,0,0,0,0,2,0,03/18/2018,away,12973,675,Staten Island,9,True,1,4,-3,loss,92320,30040,2002251,2018
+0,0,1.2,0.0,0,0,0,1,1,0,5,4,0,0,0,0,0,0,0,2,0,0,0,0,2,1,0,0,0,2,1,03/30/2018,neutral,12973,18422,Rivier,9,True,12,3,9,win,95052,30040,2002251,2018
+0,0,2.1,0.0,1,0,0,1,2,0,10,9,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,2,2,04/01/2018,away,12973,0,Fisher,9,True,4,8,-4,loss,95699,30040,2002251,2018
+0,0,2.1,0.0,3,1,1,1,0,0,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,04/15/2018,away,12973,321,John Jay,9,True,3,4,-1,loss,99302,30040,2002251,2018

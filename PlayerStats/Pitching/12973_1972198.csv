@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,4,4,1,1,1,0,9,7,1,1,0,0,1,0,0,3,3,0,1,0,1,1,0,0,0,3,0,03/06/2018,neutral,12973,939,Anderson (IN),9,True,2,26,-24,loss,89061,525,1972198,2018
+0,0,1.0,0.0,0,0,0,0,0,0,4,3,0,0,0,0,1,1,0,0,0,0,0,20,1,2,0,0,0,7,0,03/30/2018,home,12973,286,Hope,9,True,2,9,-7,loss,94868,525,1972198,2018
+0,0,1.0,0.0,1,0,0,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,5,0,04/26/2018,home,12973,114,Calvin,9,True,7,13,-6,loss,101962,525,1972198,2018
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,5,0,05/05/2018,away,12973,326,Kalamazoo,9,True,0,9,-9,loss,104300,525,1972198,2018
+0,0,1.2,0.0,5,5,4,1,0,0,10,9,1,0,0,0,0,0,0,0,0,0,0,25,2,1,0,0,0,3,0,05/05/2018,away,12973,326,Kalamazoo,9,True,7,14,-7,loss,104422,525,1972198,2018

@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,1,1,0,2,0,8,7,1,0,0,0,0,1,0,0,0,0,0,0,3,1,1,0,0,2,2,03/09/2018,home,12973,0,Central Penn,9,True,10,2,8,win,89730,8404,1757127,2018
+0,0,0.0,0.0,3,2,2,0,0,0,3,3,0,0,0,1,0,0,0,0,0,0,0,7,0,0,0,0,0,7,0,04/30/2018,away,12973,322,Johns Hopkins,12,True,7,5,2,win,103385,8404,1757127,2018

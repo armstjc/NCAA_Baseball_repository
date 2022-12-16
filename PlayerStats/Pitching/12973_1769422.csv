@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,0,0,1,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,03/19/2018,neutral,12973,515,Oberlin,9,True,9,5,4,win,92474,120,1769422,2018
+0,1,1.1,0.0,3,4,4,2,1,0,9,7,1,0,0,1,0,0,0,0,0,0,0,0,1,2,0,1,0,1,1,04/07/2018,away,12973,492,North Central (IL),9,True,0,11,-11,loss,96600,120,1769422,2018
+0,0,0.2,0.0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,04/13/2018,away,12973,300,Ill. Wesleyan,9,True,4,19,-15,loss,98327,120,1769422,2018
+0,0,1.1,0.0,3,3,0,1,1,0,10,9,2,0,1,0,1,0,0,0,0,0,0,48,2,1,0,0,0,3,1,04/25/2018,away,12973,1066,Edgewood,9,True,21,3,18,win,101860,120,1769422,2018
+0,1,4.0,0.0,1,0,0,0,1,0,13,13,0,0,0,0,0,0,0,0,0,0,0,0,3,8,0,0,0,1,1,04/30/2018,away,12973,8911,Wis. Lutheran,9,True,0,2,-2,loss,103421,120,1769422,2018

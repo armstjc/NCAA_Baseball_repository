@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,1,0,0,0,1,0,4,4,0,0,0,0,1,0,0,2,0,0,0,23,1,1,0,0,0,4,0,02/24/2018,home,12973,249,George Washington,9,True,0,9,-9,loss,86537,678,1862336,2018
+0,1,1.2,0.0,3,5,0,3,0,0,13,7,1,0,0,0,1,1,0,0,0,1,1,51,2,3,0,1,0,1,0,03/14/2018,home,12973,725,Army West Point,9,True,4,8,-4,loss,90880,678,1862336,2018
+0,0,3.0,0.0,2,1,1,1,0,0,11,9,0,0,0,1,0,0,0,3,1,1,0,32,6,2,0,0,0,3,0,03/24/2018,away,12973,392,Maryland,9,True,1,6,-5,loss,93245,678,1862336,2018
+0,0,2.2,0.0,2,0,0,2,3,0,12,10,0,0,0,0,0,0,0,2,1,0,0,60,2,3,0,0,0,3,1,04/17/2018,away,12973,234,Florida St.,9,True,0,4,-4,loss,99449,678,1862336,2018

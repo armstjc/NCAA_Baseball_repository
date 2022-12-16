@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,28,4,2,0,0,0,2,0,04/09/2018,away,12973,286,Hope,9,True,14,1,13,win,97447,326,1779135,2018
+0,1,1.2,0.0,6,5,5,1,0,0,13,11,2,0,0,1,0,1,0,0,0,0,0,0,1,3,0,1,0,1,0,04/20/2018,away,12973,114,Calvin,9,True,4,5,-1,loss,100145,326,1779135,2018
+0,0,1.0,0.0,2,2,2,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,11,1,1,0,0,0,2,0,04/28/2018,away,12973,21,Alma,9,True,3,6,-3,loss,102770,326,1779135,2018
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,2,0,05/05/2018,home,12973,525,Olivet,9,True,9,0,9,win,104300,326,1779135,2018

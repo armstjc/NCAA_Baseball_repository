@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,2,1,0,0,2,0,6,6,0,0,0,1,0,0,0,3,3,0,0,18,0,2,0,0,0,7,1,03/06/2018,away,12973,334,Kentucky,9,True,5,16,-11,loss,88873,202,1988324,2018
+0,0,2.1,0.0,4,4,4,2,3,0,12,10,0,0,0,2,0,0,0,1,1,0,0,51,3,0,0,0,0,2,0,03/09/2018,away,12973,14927,Belmont,9,True,5,15,-10,loss,89431,202,1988324,2018
+0,1,3.2,0.0,5,5,5,4,4,0,20,16,1,0,0,1,0,0,0,0,0,0,0,86,1,6,0,1,0,1,0,04/11/2018,home,12973,505,Northern Ky.,9,True,6,14,-8,loss,97978,202,1988324,2018

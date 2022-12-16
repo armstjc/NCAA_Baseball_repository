@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,3,2,0,0,9,0,1,0,0,0,6,0,02/19/2018,away,12973,483,Nicholls,9,True,7,14,-7,loss,86041,683,1866143,2018
+0,0,1.0,0.0,0,0,0,1,0,0,5,2,0,0,0,0,0,1,0,0,0,1,0,14,3,0,0,0,0,6,0,04/04/2018,home,12973,310,Iona,9,True,6,10,-4,loss,95932,683,1866143,2018
+0,0,1.1,0.0,4,4,4,0,2,0,9,8,0,0,0,1,0,1,0,3,3,0,0,31,1,1,0,0,0,4,2,04/26/2018,away,12973,220,Fairfield,9,True,10,19,-9,loss,101920,683,1866143,2018

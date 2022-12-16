@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,1,0,0,0,0,0,0,17,0,2,0,0,0,5,0,02/08/2018,home,12973,10870,Shepherd,9,True,16,7,9,win,84812,11276,1753352,2018
+0,0,1.0,0.0,0,1,0,2,2,0,6,4,0,0,0,0,1,0,0,0,0,0,0,24,1,0,0,0,0,6,1,02/27/2018,home,12973,30193,Emmanuel (GA),9,True,21,4,17,win,87395,11276,1753352,2018
+0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,3,0,05/06/2018,home,12973,30193,Emmanuel (GA),9,True,8,0,8,win,104836,11276,1753352,2018

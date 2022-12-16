@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,1,2,2,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,02/20/2018,away,12973,147,Clemson,9,True,4,12,-8,loss,86073,244,1774257,2018
+0,0,0.1,0.0,1,3,3,2,0,0,4,2,0,0,0,1,0,0,0,0,0,0,0,18,1,0,0,0,0,3,0,03/10/2018,home,12973,301,Illinois,9,True,5,14,-9,loss,89809,244,1774257,2018
+0,0,1.0,0.0,2,1,1,1,0,0,6,5,1,0,0,0,0,0,0,0,0,0,0,20,2,1,0,0,0,5,0,03/21/2018,home,12973,1014,Col. of Charleston,9,True,6,15,-9,loss,92686,244,1774257,2018
+0,0,0.0,0.0,3,5,5,2,0,0,5,3,0,0,0,0,1,0,0,0,0,0,0,19,0,0,0,0,0,4,0,03/24/2018,away,12973,782,Wichita St.,9,True,3,14,-11,loss,93211,244,1774257,2018
+0,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,4,2,04/21/2018,away,12973,741,VMI,9,True,7,13,-6,loss,100347,244,1774257,2018

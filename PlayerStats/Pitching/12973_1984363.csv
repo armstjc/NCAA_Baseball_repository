@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,1,4,4,3,0,0,4,1,0,0,0,0,4,0,0,0,0,0,0,17,0,0,0,0,0,3,0,03/03/2018,away,12973,454,Murray St.,9,True,4,16,-12,loss,87956,308,1984363,2018
+0,0,0.0,0.0,1,1,1,0,0,0,2,1,0,0,0,0,1,1,0,0,0,0,0,10,0,0,0,0,0,4,0,04/10/2018,home,12973,87,Butler,9,True,5,9,-4,loss,97584,308,1984363,2018
+0,0,1.0,0.0,0,0,0,0,2,0,4,4,0,0,0,0,1,0,0,0,0,0,0,15,1,0,0,0,0,7,1,04/25/2018,home,12973,175,Dayton,9,True,5,18,-13,loss,101755,308,1984363,2018
+0,0,1.0,0.0,0,1,1,3,0,0,6,2,0,0,0,0,1,0,0,0,0,0,1,22,2,1,0,0,0,4,0,05/08/2018,away,12973,559,Purdue,9,True,3,27,-24,loss,104953,308,1984363,2018

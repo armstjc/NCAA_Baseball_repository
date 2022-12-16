@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,1,1,2,1,0,6,2,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,3,0,03/04/2018,neutral,12973,8597,Martin Luther,9,True,13,2,11,win,88605,26,1660349,2018
+0,0,0.1,0.0,0,0,0,0,1,0,2,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,5,1,03/09/2018,neutral,12973,808,WPI,9,True,3,13,-10,loss,89604,26,1660349,2018
+0,0,3.1,0.0,1,2,2,0,4,0,13,11,0,0,0,0,3,2,0,0,0,0,0,43,1,5,0,0,0,4,1,03/10/2018,neutral,12973,762,Wentworth,9,True,3,14,-11,loss,90076,26,1660349,2018
+0,0,1.0,0.0,1,1,1,2,1,0,6,4,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,3,1,04/18/2018,home,12973,26107,Becker,9,True,22,5,17,win,99690,26,1660349,2018
+0,0,0.1,0.0,2,2,2,2,0,0,5,3,1,0,0,0,0,0,0,0,0,0,0,19,1,0,0,0,0,4,0,04/22/2018,home,12973,8486,Lasell,9,True,3,13,-10,loss,101369,26,1660349,2018

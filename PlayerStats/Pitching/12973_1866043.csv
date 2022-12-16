@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,4,3,0,0,0,0,0,1,0,0,0,0,0,13,2,0,0,0,0,3,1,02/27/2018,home,12973,30193,Emmanuel (GA),9,True,21,4,17,win,87395,11276,1866043,2018
+0,0,1.0,0.0,2,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,20,0,1,0,0,0,5,0,03/18/2018,away,12973,1097,Ga. Southwestern,9,True,8,1,7,win,92077,11276,1866043,2018
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,04/07/2018,away,12973,39,Augusta,9,True,15,1,14,win,96584,11276,1866043,2018

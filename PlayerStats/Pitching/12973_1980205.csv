@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,3,3,2,1,0,7,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,02/18/2018,away,12973,1176,Lincoln Memorial,9,True,2,11,-9,loss,85983,2746,1980205,2018
+0,0,1.0,0.0,0,0,0,3,2,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,02/24/2018,neutral,12973,423,Millersville,9,True,6,10,-4,loss,86801,2746,1980205,2018
+0,0,1.0,0.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,02/28/2018,away,12973,1170,Lenoir-Rhyne,9,True,1,9,-8,loss,87508,2746,1980205,2018
+0,0,2.0,0.0,1,0,0,1,2,0,8,7,1,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,3,1,04/08/2018,home,12973,30119,Ohio Dominican,9,True,4,15,-11,loss,97268,2746,1980205,2018
+0,1,4.0,0.0,2,2,2,4,1,0,18,13,1,0,0,1,1,0,0,0,0,1,0,73,5,6,0,1,0,1,0,04/19/2018,away,12973,309,UIndy,9,True,0,3,-3,loss,99923,2746,1980205,2018
+0,1,3.0,0.0,6,5,5,4,0,0,18,14,2,0,0,0,1,0,0,0,0,0,0,69,4,4,0,1,0,1,0,04/26/2018,away,12973,246,Gannon,9,True,0,18,-18,loss,101940,2746,1980205,2018

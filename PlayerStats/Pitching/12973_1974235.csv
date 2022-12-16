@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.1,0.0,4,2,2,2,3,0,12,10,0,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,0,2,0,02/28/2018,home,12973,124,Catholic,9,True,9,15,-6,loss,87505,753,1974235,2018
+0,1,3.0,0.0,9,5,5,1,1,0,17,15,0,0,1,0,0,0,0,0,0,1,0,51,5,1,0,1,0,1,1,03/05/2018,away,12973,622,Salisbury,9,True,3,17,-14,loss,88742,753,1974235,2018
+0,1,2.1,0.0,3,3,2,2,0,0,11,8,0,0,0,0,0,0,0,0,0,0,1,0,3,2,0,0,0,1,0,03/12/2018,neutral,12973,397,Marywood,9,True,8,3,5,win,90649,753,1974235,2018
+0,0,1.0,0.0,3,3,2,2,0,0,8,6,3,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,9,0,03/31/2018,home,12973,239,Franklin & Marshall,9,True,9,23,-14,loss,95650,753,1974235,2018
+0,0,1.0,0.0,0,0,0,1,0,0,4,2,0,0,0,0,0,1,0,0,0,0,0,17,1,1,0,0,0,7,0,04/11/2018,home,12973,622,Salisbury,9,True,3,10,-7,loss,97967,753,1974235,2018
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0,04/13/2018,home,12973,276,Haverford,9,True,9,13,-4,loss,98557,753,1974235,2018

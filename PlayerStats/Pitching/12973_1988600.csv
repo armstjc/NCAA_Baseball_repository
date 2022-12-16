@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,2,2,2,1,0,0,9,8,1,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,6,0,04/15/2018,home,12973,807,Wooster,9,True,4,19,-15,loss,99366,585,1988600,2018
+0,0,2.0,0.0,2,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,4,0,04/19/2018,home,12973,177,DePauw,9,True,8,7,1,win,99885,585,1988600,2018
+0,0,1.0,0.0,2,1,0,1,1,0,6,5,0,0,1,0,0,0,0,0,0,0,0,6,0,2,0,1,0,3,0,04/26/2018,away,12973,1111,Greenville,9,True,0,4,-4,loss,101903,585,1988600,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,3,0,05/06/2018,away,12973,747,Wabash,9,True,7,1,6,win,104810,585,1988600,2018
+0,0,1.2,0.0,3,2,2,2,0,0,9,7,1,0,0,1,0,0,0,0,0,0,0,29,1,3,0,0,0,6,0,05/11/2018,home,12973,2694,Franklin,9,True,9,13,-4,loss,105321,585,1988600,2018

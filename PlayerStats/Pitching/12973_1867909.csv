@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,2,1,03/07/2018,neutral,12973,30219,Dean,9,True,17,8,9,win,89208,30044,1867909,2018
+0,0,0.2,0.0,0,0,0,1,0,0,4,3,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,4,0,03/08/2018,neutral,12973,75,Bridgewater (VA),9,True,4,15,-11,loss,89282,30044,1867909,2018
+0,1,4.2,0.0,6,6,2,3,2,0,24,18,2,0,1,0,2,3,0,0,0,0,0,85,6,2,0,1,0,1,0,04/18/2018,home,12973,966,Arcadia,9,True,1,11,-10,loss,99710,30044,1867909,2018
+0,0,1.0,0.0,2,1,1,0,0,0,5,5,1,0,0,1,0,0,0,0,0,0,0,21,1,2,0,0,0,6,0,04/26/2018,away,12973,815,York (PA),9,True,12,24,-12,loss,101931,30044,1867909,2018

@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,2,2,0,0,1,0,10,9,0,1,0,0,0,1,0,0,0,0,0,41,1,2,0,0,0,2,0,02/26/2018,neutral,12973,585,Rose-Hulman,9,True,14,7,7,win,87232,1254,1991266,2018
+0,0,1.1,0.0,1,0,0,1,0,0,8,5,0,0,0,0,0,2,0,0,0,0,0,0,0,4,0,0,0,4,0,02/28/2018,neutral,12973,30065,NVU-Lyndon,9,True,8,3,5,win,87481,1254,1991266,2018
+0,0,2.0,0.0,0,0,0,0,3,0,6,6,0,0,0,0,0,0,0,1,0,0,0,18,2,1,0,0,0,4,0,03/09/2018,away,12973,622,Salisbury,9,True,5,12,-7,loss,89627,1254,1991266,2018
+0,0,1.1,0.0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,2,0,0,0,17,2,1,0,0,0,3,1,03/19/2018,home,12973,622,Salisbury,9,True,0,7,-7,loss,92482,1254,1991266,2018
+0,0,0.0,0.0,2,2,1,0,0,0,3,2,1,0,0,0,1,1,0,0,0,0,0,5,0,0,0,0,0,3,0,04/08/2018,away,12973,637,Shenandoah,9,True,0,11,-11,loss,97221,1254,1991266,2018
+0,0,0.1,0.0,1,4,4,2,0,0,5,2,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,4,0,04/17/2018,away,12973,685,Susquehanna,9,True,10,11,-1,loss,99426,1254,1991266,2018

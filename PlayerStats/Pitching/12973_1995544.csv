@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,2,1,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,13,1,0,0,0,0,4,0,03/05/2018,neutral,12973,281,Hiram,9,True,16,11,5,win,88821,1050,1995544,2018
+0,0,1.0,0.0,3,2,2,1,0,0,7,6,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,03/31/2018,neutral,12973,939,Anderson (IN),9,True,4,21,-17,loss,95615,1050,1995544,2018
+0,0,1.1,0.0,6,5,5,0,1,0,10,9,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,2,0,04/11/2018,away,12973,520,Ohio Wesleyan,9,True,0,20,-20,loss,97859,1050,1995544,2018
+0,0,1.1,0.0,0,0,0,0,1,0,5,5,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,0,0,3,0,04/25/2018,away,12973,114,Calvin,9,True,11,8,3,win,101743,1050,1995544,2018
+0,1,1.1,0.0,7,7,7,1,0,0,12,10,1,0,0,0,0,1,0,0,0,0,0,46,1,1,0,1,0,1,0,04/29/2018,home,12973,278,Heidelberg,9,True,5,16,-11,loss,102971,1050,1995544,2018

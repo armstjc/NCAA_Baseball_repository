@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.2,0.0,4,1,1,2,4,0,15,13,1,0,0,0,0,0,0,0,0,0,0,74,5,0,0,0,0,2,1,03/02/2018,home,12973,398,MIT,9,True,3,10,-7,loss,87663,715,1892326,2018
+0,0,1.1,0.0,2,1,0,2,2,0,9,7,0,0,0,0,1,0,0,0,0,0,0,36,0,2,0,0,0,3,1,03/24/2018,away,12973,953,Austin,9,True,17,9,8,win,93565,715,1892326,2018
+0,0,0.2,0.0,2,2,2,1,2,0,5,4,2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,4,0,03/30/2018,away,12973,1400,Texas Lutheran,9,True,4,8,-4,loss,94979,715,1892326,2018
+0,0,3.1,0.0,6,3,3,0,3,0,16,16,1,0,0,0,1,0,0,3,2,0,0,0,5,1,1,0,0,2,1,04/14/2018,away,12973,1355,Schreiner,9,True,13,6,7,win,98980,715,1892326,2018
+0,0,2.2,0.0,2,2,2,2,3,0,11,8,1,0,0,0,0,1,0,0,0,0,0,41,1,2,0,0,0,2,1,04/23/2018,home,12973,0,Our Lady of the Lake,9,True,7,2,5,win,101438,715,1892326,2018

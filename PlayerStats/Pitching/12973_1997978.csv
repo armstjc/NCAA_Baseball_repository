@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,4.1,0.0,4,3,3,2,3,0,24,17,1,0,0,0,2,5,0,0,0,0,0,93,4,6,0,0,0,3,0,03/29/2018,away,12973,45,Babson,9,True,1,17,-16,loss,94501,170,1997978,2018
+0,0,1.0,0.0,2,1,1,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,04/18/2018,away,12973,30219,Dean,9,True,11,7,4,win,99779,170,1997978,2018

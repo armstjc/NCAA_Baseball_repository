@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,3,0,1,1,0,7,5,0,0,0,0,0,1,0,0,0,0,0,33,2,0,0,0,0,5,0,03/17/2018,home,12973,30050,Ill. Springfield,9,True,1,18,-17,loss,91683,1328,2009271,2018
+0,0,2.2,0.0,5,5,5,2,1,0,16,12,1,0,0,1,0,2,0,0,0,0,0,0,2,4,0,0,0,3,0,04/09/2018,away,12973,1057,Drury,9,True,5,21,-16,loss,97450,1328,2009271,2018
+0,0,1.0,0.0,0,1,1,2,0,0,5,3,0,0,0,0,1,0,0,1,0,0,0,21,1,2,0,0,0,2,0,04/29/2018,home,12973,499,Truman St.,9,True,7,3,4,win,103337,1328,2009271,2018
+0,0,1.0,0.0,0,0,0,2,2,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,1,05/05/2018,away,12973,436,Mo.-St. Louis,9,True,4,8,-4,loss,104418,1328,2009271,2018

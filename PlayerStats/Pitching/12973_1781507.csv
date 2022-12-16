@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,4,1,1,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,6,0,03/07/2018,neutral,12973,75,Bridgewater (VA),9,True,0,25,-25,loss,89174,30190,1781507,2018
+0,0,2.0,0.0,1,0,0,1,2,0,8,7,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,4,1,04/23/2018,away,12973,30036,Mount Aloysius,9,True,13,16,-3,loss,101480,30190,1781507,2018
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,4,0,05/05/2018,home,12973,30044,Penn St.-Berks,9,True,0,8,-8,loss,104441,30190,1781507,2018

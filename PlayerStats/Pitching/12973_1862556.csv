@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,1,1,1,1,0,5,4,0,0,0,0,1,0,0,0,0,0,0,25,1,1,0,0,0,4,0,02/09/2018,home,12973,174,Davis & Elkins,9,True,10,2,8,win,84869,30051,1862556,2018
+0,1,5.0,0.0,3,1,1,1,6,0,19,18,0,0,0,0,1,0,0,0,0,0,0,74,2,7,1,0,0,1,1,03/27/2018,home,12973,0,Ky. Christian,9,True,7,1,6,win,94251,30051,1862556,2018
+0,0,1.0,0.0,3,4,2,0,0,0,8,7,1,0,0,0,0,1,0,0,0,0,0,19,2,1,0,0,0,4,0,04/29/2018,neutral,12973,9223,North Greenville,9,True,1,20,-19,loss,103339,30051,1862556,2018

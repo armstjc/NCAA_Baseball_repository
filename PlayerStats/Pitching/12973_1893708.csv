@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,2,03/04/2018,neutral,12973,30037,Trine,9,True,14,2,12,win,88610,126,1893708,2018
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,03/10/2018,neutral,12973,30035,Crown (MN),9,True,12,1,11,win,90077,126,1893708,2018
+0,0,2.0,0.0,4,3,2,0,4,0,11,10,3,0,0,0,1,1,0,1,1,0,0,0,1,1,0,0,0,5,1,03/31/2018,home,12973,84,Buena Vista,9,True,9,21,-12,loss,95526,126,1893708,2018
+0,0,1.1,0.0,3,2,2,0,1,0,7,7,1,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,0,04/07/2018,away,12973,137,UChicago,9,True,4,11,-7,loss,96763,126,1893708,2018

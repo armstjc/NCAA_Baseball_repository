@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,11,1,0,0,0,0,2,0,04/19/2018,home,12973,30222,Purdue Northwest,9,True,13,3,10,win,99891,354,1638802,2018
+0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,8,0,2,0,0,1,5,0,04/22/2018,home,12973,52,Bellarmine,9,True,12,9,3,win,101285,354,1638802,2018
+0,0,1.0,0.0,3,2,2,0,1,0,6,6,0,0,0,0,1,0,0,0,0,0,0,26,2,0,0,0,0,2,1,04/26/2018,home,12973,0,St. Francis (IL),9,True,9,8,1,win,101918,354,1638802,2018
+0,0,1.1,0.0,6,6,6,3,1,0,14,10,2,1,0,2,0,1,0,0,0,0,0,55,3,0,0,0,0,2,0,05/05/2018,away,12973,30050,Ill. Springfield,9,True,2,12,-10,loss,104395,354,1638802,2018

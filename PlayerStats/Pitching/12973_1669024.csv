@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,2,0,0,1,2,0,7,6,1,0,0,0,1,0,0,2,2,0,0,0,0,2,0,0,0,4,0,03/05/2018,neutral,12973,376,Macalester,9,True,3,15,-12,loss,88824,1226,1669024,2018
+0,1,1.2,0.0,5,5,3,0,3,0,12,11,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,2,03/16/2018,neutral,12973,525,Olivet,9,True,3,16,-13,loss,91380,1226,1669024,2018
+0,0,1.0,0.0,3,5,5,2,0,0,10,6,0,0,0,0,2,1,0,1,1,0,1,44,1,2,0,0,0,3,0,04/21/2018,home,12973,618,St. Scholastica,9,True,1,17,-16,loss,100882,1226,1669024,2018
+0,0,2.0,0.0,3,2,1,1,1,0,9,7,1,0,0,0,0,0,0,0,0,1,0,38,3,1,0,0,0,2,0,04/29/2018,home,12973,0,Mayville St.,9,True,1,7,-6,loss,103287,1226,1669024,2018

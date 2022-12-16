@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,3,3,2,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,24,2,1,0,0,0,5,0,02/09/2018,home,12973,11416,Colorado Mesa,9,True,1,11,-10,loss,84849,112,1752970,2018
+0,0,1.0,0.0,0,1,0,2,2,0,5,3,0,0,0,0,0,0,0,0,0,0,0,20,1,0,0,0,0,4,0,04/14/2018,home,12973,103,Stanislaus St.,9,True,17,2,15,win,98716,112,1752970,2018
+0,0,0.2,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,3,0,05/05/2018,home,12973,30198,Cal St. San Marcos,9,True,12,3,9,win,104318,112,1752970,2018
+0,0,1.0,0.0,2,1,1,1,1,0,5,4,1,0,0,0,1,0,0,0,0,0,0,20,1,0,0,0,0,4,0,05/17/2018,neutral,12973,30149,Point Loma,9,True,22,3,19,win,106040,112,1752970,2018

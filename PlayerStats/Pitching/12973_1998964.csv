@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,1,0,0,0,0,3,0,03/10/2018,away,12973,676,SFA,9,True,7,10,-3,loss,89756,498,1998964,2018
+0,0,2.1,0.0,3,4,4,2,2,0,13,9,1,0,0,0,4,1,0,3,3,0,1,54,3,2,0,0,0,4,1,03/13/2018,away,12973,508,Northwestern St.,9,True,3,14,-11,loss,90756,498,1998964,2018
+0,0,1.2,0.0,2,3,3,3,0,0,10,7,0,0,0,0,2,0,0,2,2,0,0,0,1,4,0,0,0,3,0,03/24/2018,home,12973,30,Arkansas St.,9,True,7,31,-24,loss,93157,498,1998964,2018
+0,0,0.1,0.0,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,14,1,0,0,0,0,3,0,03/30/2018,away,12973,702,UT Arlington,9,True,0,5,-5,loss,94640,498,1998964,2018

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,1,0,0,1,1,0,7,6,0,0,0,0,1,0,0,2,2,0,0,0,0,4,0,0,0,4,0,03/03/2018,home,12973,19651,High Point,9,True,3,17,-14,loss,88051,786,1976214,2018
+0,0,2.0,0.0,4,2,2,2,0,0,11,9,0,0,0,0,1,0,0,0,0,0,0,42,2,3,0,0,0,3,0,03/10/2018,away,12973,115,Campbell,9,True,0,12,-12,loss,90163,786,1976214,2018
+0,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,1,0,0,2,1,0,0,0,0,1,0,0,0,5,0,04/04/2018,home,12973,249,George Washington,9,True,5,9,-4,loss,95964,786,1976214,2018
+0,0,1.0,0.0,3,4,3,3,1,0,9,5,0,0,0,1,1,0,0,0,0,1,0,33,2,0,0,0,0,2,0,04/13/2018,away,12973,317,James Madison,9,True,3,15,-12,loss,98263,786,1976214,2018
+0,0,2.0,0.0,3,2,2,0,1,0,11,9,0,0,0,1,0,1,0,0,0,0,1,35,2,3,0,0,0,4,0,05/18/2018,away,12973,1068,Elon,9,True,4,17,-13,loss,106108,786,1976214,2018

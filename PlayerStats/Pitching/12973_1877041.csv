@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,0,0,1,3,0,9,8,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,2,0,02/21/2018,home,12973,0,St. Andrews,9,True,20,8,12,win,86212,491,1877041,2018
+0,1,4.0,0.0,6,5,3,2,1,0,23,19,0,0,0,0,1,2,0,0,0,0,0,0,3,7,0,1,0,1,0,03/07/2018,home,12973,806,Wittenberg,9,True,5,11,-6,loss,89211,491,1877041,2018
+0,0,1.2,0.0,0,0,0,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,2,0,03/17/2018,home,12973,17094,William Peace,9,True,8,6,2,win,92028,491,1877041,2018
+0,1,3.0,0.0,2,1,1,1,2,0,15,10,0,0,0,0,0,3,0,0,0,0,1,61,0,7,0,0,0,1,0,03/29/2018,away,12973,374,Lynchburg,9,True,7,3,4,win,94572,491,1877041,2018
+0,0,1.1,0.0,2,2,2,3,2,0,9,5,0,0,0,0,2,0,0,0,0,0,1,0,0,2,0,0,0,3,2,04/05/2018,away,12973,565,Randolph-Macon,9,True,1,10,-9,loss,96061,491,1877041,2018
+0,0,0.2,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,17,0,1,0,0,0,7,1,04/08/2018,away,12973,542,Pfeiffer,9,True,4,9,-5,loss,97204,491,1877041,2018

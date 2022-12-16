@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.0,0.0,1,1,1,0,0,0,5,4,1,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,1,0,03/04/2018,away,12973,0,Texas Wesleyan,11,True,4,5,-1,loss,88455,1044,1878929,2018
+0,1,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,1,0,03/12/2018,home,12973,64,Blackburn,9,True,6,10,-4,loss,90568,1044,1878929,2018
+0,1,2.0,0.0,4,3,1,0,0,0,10,7,2,0,0,0,1,1,0,0,0,2,0,34,3,1,0,1,0,1,0,03/17/2018,home,12973,125,Centenary (LA),9,True,4,8,-4,loss,91752,1044,1878929,2018
+0,1,1.2,0.0,1,1,1,4,1,0,11,6,1,0,0,0,0,1,0,0,0,0,0,46,3,1,0,1,0,1,0,03/25/2018,away,12973,8746,Southwestern (TX),9,True,3,17,-14,loss,93680,1044,1878929,2018

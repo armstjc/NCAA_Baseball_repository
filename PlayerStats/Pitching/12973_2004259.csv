@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,2,0,0,0,0,0,0,0,2,1,0,0,0,3,0,03/10/2018,neutral,12973,126,Central (IA),9,True,1,12,-11,loss,90077,30035,2004259,2018
+0,0,2.2,0.0,11,10,6,3,1,0,25,19,1,0,0,2,2,3,0,2,2,0,0,0,1,5,0,0,0,2,1,05/04/2018,home,12973,30038,Bethany Lutheran,9,True,0,29,-29,loss,104112,30035,2004259,2018
+0,0,1.0,0.0,2,1,1,1,1,0,7,5,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,4,0,05/07/2018,away,12973,8597,Martin Luther,9,True,6,12,-6,loss,104934,30035,2004259,2018

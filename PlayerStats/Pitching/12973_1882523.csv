@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,1,2,2,1,0,0,2,1,0,0,0,0,0,0,0,2,1,0,0,8,0,0,0,1,0,2,0,02/28/2018,neutral,12973,38,Augsburg,9,True,5,8,-3,loss,87490,803,1882523,2018
+0,0,2.0,0.0,2,1,0,0,1,0,8,8,0,0,0,0,1,0,0,0,0,0,0,0,2,2,1,0,0,2,1,03/11/2018,neutral,12973,1066,Edgewood,9,True,15,9,6,win,90433,803,1882523,2018
+0,0,1.0,0.0,2,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,03/16/2018,neutral,12973,40,Augustana (IL),9,True,1,5,-4,loss,91388,803,1882523,2018
+0,0,3.0,0.0,4,1,1,1,0,0,14,12,0,0,0,0,0,0,0,0,0,1,0,0,7,2,0,1,0,3,0,05/08/2018,home,12973,795,Wis.-La Crosse,17,True,2,3,-1,loss,105026,803,1882523,2018
+0,0,2.2,0.0,0,0,0,3,1,0,11,8,0,0,0,0,0,0,0,0,0,0,0,46,3,4,1,0,0,4,1,05/12/2018,away,12973,800,Wis.-Platteville,9,True,14,13,1,win,105672,803,1882523,2018

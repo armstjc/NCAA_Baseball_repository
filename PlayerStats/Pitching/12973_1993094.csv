@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,5.0,0.0,12,8,8,2,1,0,27,24,4,0,0,0,1,0,0,2,2,0,1,111,4,8,0,0,0,3,0,03/10/2018,neutral,12973,46,Baldwin Wallace,9,True,4,18,-14,loss,90059,329,1993094,2018
+0,0,3.0,0.0,7,5,5,3,4,0,19,16,1,0,0,0,1,0,0,1,1,0,0,0,1,4,0,0,0,2,0,03/24/2018,away,12973,30047,Keystone,9,True,3,12,-9,loss,93195,329,1993094,2018
+0,1,2.0,0.0,4,3,3,2,1,0,11,8,1,1,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,1,1,04/24/2018,home,12973,190,Drew,9,True,8,5,3,win,101623,329,1993094,2018
+0,0,1.2,0.0,3,1,1,2,2,0,10,8,0,0,0,0,0,0,0,2,2,0,0,38,2,1,0,0,0,5,1,04/29/2018,home,12973,588,Rutgers-Camden,9,True,0,17,-17,loss,103154,329,1993094,2018

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,1,1,2,2,0,9,7,0,0,1,0,0,0,0,0,0,0,0,0,2,2,0,0,1,2,0,03/09/2018,away,12973,13,Albany St. (GA),9,True,7,1,6,win,89344,689,1641257,2018
+0,0,1.2,0.0,0,0,0,0,3,0,5,5,0,0,0,0,0,0,0,2,0,0,0,21,0,2,0,0,0,3,2,05/05/2018,away,12973,208,Eckerd,9,True,16,3,13,win,104263,689,1641257,2018
+0,0,1.0,0.0,2,2,1,0,1,0,6,6,1,0,0,0,0,0,0,0,0,0,0,15,1,1,0,0,0,4,0,05/12/2018,home,12973,233,Fla. Southern,9,True,16,9,7,win,105604,689,1641257,2018
+0,0,2.0,0.0,4,1,1,0,2,0,10,10,0,0,0,0,0,0,0,0,0,0,0,32,3,1,0,0,0,3,0,05/18/2018,neutral,12973,13,Albany St. (GA),9,True,12,2,10,win,106272,689,1641257,2018
+0,0,1.0,0.0,1,1,1,1,1,0,5,3,1,0,0,0,0,1,0,0,0,0,0,18,1,0,0,0,0,4,0,05/22/2018,neutral,12973,429,Mississippi Col.,9,True,7,1,6,win,106540,689,1641257,2018

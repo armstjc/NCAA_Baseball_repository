@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,4.0,0.0,4,2,2,1,2,0,16,15,2,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,2,0,03/24/2018,neutral,12973,727,Union (NY),9,True,4,11,-7,loss,93445,802,1783518,2018
+0,1,1.0,0.0,2,2,1,1,0,0,7,5,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,1,0,03/30/2018,neutral,12973,151,Colby,9,True,10,5,5,win,94923,802,1783518,2018
+0,0,2.0,0.0,3,2,1,1,0,0,10,9,0,0,0,0,0,0,0,0,0,0,0,41,3,2,0,0,0,4,0,04/22/2018,home,12973,795,Wis.-La Crosse,9,True,3,11,-8,loss,101394,802,1783518,2018
+0,1,6.0,0.0,3,1,1,1,4,0,21,19,1,0,1,1,0,1,0,0,0,0,0,80,3,9,1,0,0,1,2,04/28/2018,home,12973,30172,IIT,9,True,5,2,3,win,102688,802,1783518,2018
+0,1,1.0,0.0,2,3,3,2,0,0,8,4,0,0,0,1,0,2,0,0,0,0,0,35,0,2,0,1,0,1,0,05/05/2018,away,12973,805,Wis.-Whitewater,9,True,3,13,-10,loss,104310,802,1783518,2018

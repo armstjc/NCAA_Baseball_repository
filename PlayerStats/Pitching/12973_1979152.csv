@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,3,1,03/10/2018,home,12973,505,Northern Ky.,9,True,10,2,8,win,89797,414,1979152,2018
+0,0,1.0,0.0,1,1,1,0,0,0,4,4,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,6,0,03/18/2018,away,12973,812,Xavier,9,True,3,13,-10,loss,92145,414,1979152,2018
+0,0,0.1,0.0,0,0,0,2,1,0,4,2,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,3,0,04/06/2018,home,12973,71,Bowling Green,9,True,7,0,7,win,96251,414,1979152,2018
+0,0,1.0,0.0,3,3,3,0,1,0,7,6,0,0,0,1,0,1,0,0,0,0,0,20,1,1,0,0,0,4,0,04/18/2018,home,12973,0,Indiana Tech,10,True,11,10,1,win,99846,414,1979152,2018

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,1,1,2,1,0,3,1,0,0,0,0,1,0,0,0,0,0,0,14,0,0,0,0,0,3,0,02/08/2018,neutral,12973,9223,North Greenville,9,True,6,11,-5,loss,84832,30045,1529133,2018
+0,0,1.1,0.0,1,2,2,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,21,2,1,0,0,0,3,0,03/09/2018,home,12973,21323,Chestnut Hill,9,True,11,2,9,win,89443,30045,1529133,2018
+0,0,1.0,0.0,1,1,1,1,0,0,6,5,0,0,0,1,0,0,0,0,0,0,0,28,1,2,0,0,0,3,0,03/24/2018,away,12973,24639,Nova Southeastern,9,True,6,14,-8,loss,93171,30045,1529133,2018
+0,0,0.1,0.0,3,3,0,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,04/27/2018,away,12973,230,Florida Tech,9,True,9,20,-11,loss,102188,30045,1529133,2018

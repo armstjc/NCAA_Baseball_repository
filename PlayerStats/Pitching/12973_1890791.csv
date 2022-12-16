@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,4,6,0,1,0,0,9,7,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2,0,03/06/2018,home,12973,8404,Hood,9,True,2,15,-13,loss,88864,185,1890791,2018
+0,1,3.0,0.0,5,6,3,3,0,0,18,14,3,0,0,0,1,0,0,0,0,1,0,80,6,3,0,1,0,1,0,03/12/2018,away,12973,341,La Verne,9,True,6,11,-5,loss,90567,185,1890791,2018
+0,0,1.0,0.0,0,0,0,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,26,0,2,0,0,0,3,0,03/15/2018,away,12973,134,Chapman,9,True,1,12,-11,loss,91071,185,1890791,2018
+0,0,1.0,0.0,1,2,2,2,2,0,7,4,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,4,1,04/07/2018,home,12973,686,Swarthmore,9,True,1,9,-8,loss,96694,185,1890791,2018
+0,0,1.0,0.0,2,1,1,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,04/11/2018,home,12973,411,Messiah,9,True,3,19,-16,loss,97784,185,1890791,2018

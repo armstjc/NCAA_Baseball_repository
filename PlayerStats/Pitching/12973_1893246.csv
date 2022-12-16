@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,0.0,4,1,1,1,6,0,24,21,1,0,0,0,0,2,0,0,0,0,0,76,6,6,1,0,0,1,2,03/03/2018,neutral,12973,617,Saint Peter's,9,True,13,5,8,win,88120,400,1893246,2018
+0,1,5.0,0.0,6,3,3,2,1,0,22,19,0,0,0,0,0,0,0,0,0,0,1,71,3,9,0,0,0,1,0,03/13/2018,neutral,12973,83,Bucknell,9,True,9,8,1,win,90802,400,1893246,2018
+0,1,2.0,0.0,3,2,2,2,0,0,11,7,1,0,0,0,0,1,0,0,0,0,1,0,2,2,0,0,0,1,0,03/27/2018,away,12973,14,UAlbany,9,True,8,7,1,win,94101,400,1893246,2018
+0,1,6.2,0.0,7,5,3,1,2,0,29,26,1,0,1,0,0,1,0,0,0,1,0,107,9,8,0,0,0,1,0,04/03/2018,home,12973,500,Northeastern,9,True,8,10,-2,loss,95894,400,1893246,2018

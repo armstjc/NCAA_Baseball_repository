@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,2,1,0,0,0,0,3,0,02/21/2018,home,12973,1320,Presbyterian,9,True,15,2,13,win,86164,736,1762083,2018
+0,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,13,2,0,0,0,0,3,0,02/23/2018,home,12973,368,UMass Lowell,9,True,15,0,15,win,86246,736,1762083,2018
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,0,5,1,05/15/2018,home,12973,419,Middle Tenn.,9,True,21,4,17,win,105857,736,1762083,2018

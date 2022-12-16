@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,0,1,0,5,5,0,0,0,0,1,0,0,0,0,0,0,11,1,1,0,0,0,7,0,03/07/2018,away,12973,1023,Coker,9,True,15,5,10,win,89106,537,1980474,2018
+0,0,1.2,0.0,3,3,2,1,0,0,10,8,2,0,0,0,1,1,0,0,0,0,0,27,2,3,0,0,0,5,0,03/24/2018,away,12973,1096,Georgia College,9,True,7,18,-11,loss,93506,537,1980474,2018
+0,0,1.0,0.0,0,0,0,0,0,0,5,4,0,0,0,0,1,1,0,0,0,0,0,20,2,1,0,0,0,4,0,03/31/2018,home,12973,11276,USC Aiken,9,True,2,12,-10,loss,95184,537,1980474,2018
+0,0,1.0,0.0,1,0,0,0,2,0,4,4,0,1,0,0,0,0,0,0,0,0,0,15,0,1,0,0,0,2,1,04/03/2018,home,12973,594,Saint Augustine's,9,True,20,4,16,win,95884,537,1980474,2018
+0,1,1.1,0.0,3,4,4,1,2,0,9,5,1,0,0,0,1,1,0,0,0,2,0,31,2,0,0,0,0,1,1,04/10/2018,away,12973,15646,Barton,9,True,7,6,1,win,97617,537,1980474,2018

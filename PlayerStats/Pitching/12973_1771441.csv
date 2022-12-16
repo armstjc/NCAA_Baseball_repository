@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,3,2,2,0,0,0,5,4,0,0,0,0,1,0,0,0,0,0,1,17,0,2,0,0,0,6,0,04/06/2018,home,12973,322,Johns Hopkins,9,True,7,14,-7,loss,96224,773,1771441,2018
+0,0,1.1,0.0,2,1,1,0,1,0,6,5,2,0,0,0,1,0,0,0,0,0,1,19,1,2,0,0,0,2,0,04/18/2018,home,12973,0,Penn St.-Mont Alto,9,True,14,6,8,win,99682,773,1771441,2018
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,5,0,04/21/2018,home,12973,239,Franklin & Marshall,9,True,5,9,-4,loss,100673,773,1771441,2018
+0,0,1.0,0.0,1,0,0,0,2,0,5,4,1,0,0,0,0,1,0,0,0,0,0,22,0,1,0,0,0,6,1,04/23/2018,away,12973,21852,Stevenson,9,True,5,13,-8,loss,101442,773,1771441,2018
+0,0,0.0,0.0,4,6,6,3,0,0,7,4,1,0,0,1,1,0,0,0,0,0,0,32,0,0,0,0,0,2,0,04/28/2018,home,12973,686,Swarthmore,9,True,13,26,-13,loss,102489,773,1771441,2018

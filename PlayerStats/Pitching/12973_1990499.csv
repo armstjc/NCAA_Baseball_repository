@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,2,2,0,5,2,0,0,0,0,0,1,0,1,1,0,0,20,0,0,0,0,0,5,1,02/02/2018,home,12973,1199,Mars Hill,9,True,6,5,1,win,84523,1072,1990499,2018
+0,0,0.2,0.0,1,1,1,2,2,0,6,4,0,0,0,0,2,0,0,0,0,0,0,28,0,0,0,0,0,5,1,02/08/2018,home,12973,30124,Cedarville,9,True,13,9,4,win,84820,1072,1990499,2018
+0,0,0.1,0.0,2,3,3,1,1,0,4,3,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,1,0,5,0,02/14/2018,home,12973,1176,Lincoln Memorial,9,True,7,8,-1,loss,85157,1072,1990499,2018
+0,0,3.0,0.0,5,3,2,2,4,0,16,14,1,0,0,1,0,0,0,0,0,0,0,73,0,5,0,0,0,3,1,04/13/2018,away,12973,30193,Emmanuel (GA),9,True,8,12,-4,loss,98516,1072,1990499,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,2,0,04/18/2018,home,12973,1167,Lander,9,True,3,5,-2,loss,99652,1072,1990499,2018
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,4,0,04/27/2018,neutral,12973,9223,North Greenville,9,True,0,7,-7,loss,102233,1072,1990499,2018

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,0,0,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,5,0,04/11/2018,home,12973,385,Marietta,9,True,16,22,-6,loss,97932,452,2012205,2018
+0,0,2.0,0.0,1,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,3,0,04/22/2018,away,12973,707,Thiel,9,True,11,7,4,win,101194,452,2012205,2018
+0,0,1.0,0.0,2,1,1,1,0,0,6,5,1,0,0,0,0,0,0,0,0,0,0,24,0,3,0,0,0,2,0,04/26/2018,home,12973,281,Hiram,9,True,20,4,16,win,101943,452,2012205,2018

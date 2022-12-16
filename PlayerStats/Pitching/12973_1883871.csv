@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,2,2,2,5,0,0,13,7,0,0,0,0,0,1,0,0,0,0,0,0,2,3,0,0,0,2,0,02/24/2018,away,12973,1112,Guilford,10,True,10,11,-1,loss,86882,239,1883871,2018
+0,1,4.0,0.0,3,3,2,3,6,0,20,16,1,0,0,0,1,1,0,0,0,0,0,49,3,3,0,0,0,1,2,03/13/2018,neutral,12973,777,Westfield St.,15,True,10,11,-1,loss,90824,239,1883871,2018
+0,0,3.2,0.0,3,3,2,4,2,0,19,13,0,0,0,0,2,1,0,1,0,0,1,0,5,2,1,0,0,2,0,04/09/2018,away,12973,411,Messiah,9,True,10,8,2,win,97486,239,1883871,2018
+0,1,4.0,0.0,3,4,3,4,1,0,20,15,0,0,0,0,0,1,0,0,0,0,0,0,6,4,0,0,0,1,0,04/23/2018,home,12973,211,Elizabethtown,9,True,11,12,-1,loss,101478,239,1883871,2018

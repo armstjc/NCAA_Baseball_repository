@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.2,0.0,3,1,0,0,1,0,12,12,1,0,0,0,0,0,0,0,0,0,0,0,1,6,0,0,0,6,0,03/31/2018,away,12973,1199,Mars Hill,9,True,6,20,-14,loss,95248,1023,1658530,2018
+0,0,1.2,0.0,0,0,0,0,0,0,6,4,0,0,0,0,0,1,0,0,0,0,1,14,2,3,0,0,0,3,0,04/08/2018,home,12973,1176,Lincoln Memorial,9,True,0,6,-6,loss,97372,1023,1658530,2018
+0,0,0.2,0.0,3,1,1,0,1,0,6,5,0,0,0,0,0,1,0,0,0,0,0,19,0,1,0,0,0,4,0,04/10/2018,home,12973,0,St. Andrews,9,True,6,12,-6,loss,97586,1023,1658530,2018
+0,0,1.2,0.0,4,6,6,1,0,0,12,7,0,0,0,1,0,3,0,0,0,0,1,32,0,4,0,0,0,3,0,04/14/2018,home,12973,12830,Tusculum,9,True,2,18,-16,loss,98715,1023,1658530,2018
+0,0,0.2,0.0,4,5,5,1,0,0,7,6,1,0,0,2,0,0,0,1,1,0,0,21,0,2,0,0,0,5,0,04/21/2018,away,12973,1170,Lenoir-Rhyne,9,True,3,17,-14,loss,101015,1023,1658530,2018

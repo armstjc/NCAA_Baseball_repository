@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,2,2,2,2,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,02/09/2018,home,12973,30171,Berea,9,True,14,2,12,win,84887,23008,1980699,2018
+0,0,1.0,0.0,0,1,1,2,1,0,5,2,0,0,0,0,3,0,0,0,0,0,1,0,0,2,0,0,0,6,1,02/18/2018,home,12973,424,Millikin,9,True,5,16,-11,loss,85850,23008,1980699,2018
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,04/27/2018,home,12973,30197,Belhaven,9,True,15,1,14,win,102202,23008,1980699,2018
+0,0,3.0,0.0,2,1,1,2,4,0,14,11,0,1,0,0,1,1,0,0,0,0,0,48,3,2,0,0,0,4,2,05/05/2018,neutral,12973,30028,UT Tyler,9,True,5,12,-7,loss,104573,23008,1980699,2018

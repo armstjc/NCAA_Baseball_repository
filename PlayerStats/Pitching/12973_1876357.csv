@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,1,0,0,1,0,5,5,0,0,1,0,0,0,0,0,0,0,0,14,1,1,0,0,0,3,0,03/03/2018,home,12973,41,Augustana (SD),9,True,2,10,-8,loss,88033,435,1876357,2018
+0,0,0.2,0.0,2,3,3,3,0,0,8,5,0,0,0,1,0,0,0,0,0,0,0,31,0,2,0,0,0,3,0,03/12/2018,home,12973,728,Upper Iowa,9,True,16,8,8,win,90585,435,1876357,2018
+0,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,6,0,05/01/2018,away,12973,30136,Lindenwood,9,True,2,11,-9,loss,103601,435,1876357,2018

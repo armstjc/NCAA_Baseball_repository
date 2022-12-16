@@ -6,7 +6,8 @@ from tqdm import tqdm
 import pandas as pd
 import ssl
 import warnings
-warnings.simplefilter(action='ignore',category=FutureWarning)
+
+warnings.simplefilter(action='ignore', category=FutureWarning)
 ssl._create_default_https_context = ssl._create_unverified_context
 
 def getSchoolList():
@@ -139,6 +140,7 @@ def getSeasonGbgStats(season=2020):
     max_schools = len(schools)
     #print(schools)
     hasRoster = True
+
     for i in tqdm(range(0,len(schools.T))):
         coll_count += 1
         print(f'{i}/{max_schools} {schools[i]}')
@@ -149,7 +151,7 @@ def getSeasonGbgStats(season=2020):
             maxRost = len(rost)
             hasRoster = True
         except:
-            print(f'Could not retrive roster for {i}.')
+            print(f'\nCould not retrive roster for {i}.')
             time.sleep(5)
             hasRoster = False
         count = 0
@@ -172,7 +174,7 @@ def getSeasonGbgStats(season=2020):
                     print('This player did not play in this season.')
                 else:
 
-                    print(f'{count}/{maxRost} {school_name} {season} {player_name}')
+                    print(f'\n{count}/{maxRost} {school_name} {season} {player_name}')
                     
                     # try:
                     #     data_b = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='batting',  school=school_name)
@@ -189,6 +191,7 @@ def getSeasonGbgStats(season=2020):
                     #         data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
                     # except:
                     #     print(f'Could not get pitching stats for {school_name} {season} {player_name}')
+
                     try:
                         data_p = ncaa.ncaa_player_game_logs(player=player_name,season=season_id,variant='pitching',school=school_name)
                         data_p = data_p[(data_p['IP']>0) | (data_p['App']>0) | (data_p['pitches']>0)]
@@ -197,6 +200,7 @@ def getSeasonGbgStats(season=2020):
                             data_p.to_csv(f'PlayerStats/Pitching/{season_id}_{player_id}.csv',index=False)
                     except:
                         print(f'Could not get pitching stats for {school_name} {season} {player_name}')
+
                     # try:
                     #     data_f = ncaa.ncaa_player_game_logs(player=player_name, season=season_id, variant='fielding',  school=school_name)
                     #     if len(data_f) > 0:
@@ -209,7 +213,7 @@ def getSeasonGbgStats(season=2020):
 def main():
     print('starting up')
     #getAllGbgStats()
-    getSeasonGbgStats(2015)
+    getSeasonGbgStats(2018)
     
 if __name__ == "__main__":
     main() 

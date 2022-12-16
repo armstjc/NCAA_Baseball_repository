@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,02/23/2018,home,12973,219,Evansville,12,True,7,6,1,win,86252,1157,1995083,2018
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,1,0,0,9,0,1,0,0,0,3,0,02/24/2018,home,12973,219,Evansville,9,True,8,6,2,win,86673,1157,1995083,2018
+0,0,0.2,0.0,2,2,2,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,18,1,1,0,0,0,7,0,02/27/2018,home,12973,406,Mercer,9,True,0,4,-4,loss,87281,1157,1995083,2018
+0,0,0.2,0.0,1,1,1,0,1,0,3,3,0,0,0,1,0,0,0,1,1,0,0,10,1,0,0,0,0,5,0,03/24/2018,home,12973,261,Grambling,9,True,23,6,17,win,93143,1157,1995083,2018
+0,0,0.2,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,3,1,0,0,0,0,5,0,05/18/2018,away,12973,316,Jacksonville,9,True,3,11,-8,loss,106131,1157,1995083,2018

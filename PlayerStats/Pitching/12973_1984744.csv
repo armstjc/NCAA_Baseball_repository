@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,1,0,0,0,2,0,10,9,0,0,0,0,0,1,0,0,0,0,0,0,3,3,0,0,0,4,0,02/21/2018,home,12973,50,Bates,9,True,17,2,15,win,86184,105,1984744,2018
+0,0,3.0,0.0,5,4,2,1,2,0,17,13,0,0,0,0,1,1,0,0,0,0,2,45,3,4,0,0,0,3,0,03/02/2018,away,12973,567,Redlands,9,True,2,11,-9,loss,87644,105,1984744,2018
+0,0,1.0,0.0,1,1,1,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,5,0,03/12/2018,home,12973,589,Rutgers-Newark,9,True,5,1,4,win,90576,105,1984744,2018
+0,0,1.0,0.0,1,0,0,0,1,0,4,3,0,0,0,0,0,0,0,0,0,1,0,10,1,1,0,0,0,5,0,03/26/2018,home,12973,789,Williams,9,True,11,4,7,win,93964,105,1984744,2018
+0,0,1.0,0.0,1,1,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,04/20/2018,away,12973,89,Caltech,9,True,13,5,8,win,100103,105,1984744,2018

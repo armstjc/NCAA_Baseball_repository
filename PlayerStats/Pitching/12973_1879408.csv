@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,3,1,1,1,2,0,9,8,0,0,0,0,0,0,0,2,0,0,0,33,1,2,0,0,0,3,2,02/16/2018,home,12973,521,Oklahoma St.,9,True,2,6,-4,loss,85219,670,1879408,2018
+0,0,0.1,0.0,1,0,0,1,0,0,3,2,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,7,0,02/20/2018,away,12973,574,Rice,9,True,6,8,-2,loss,86119,670,1879408,2018
+0,0,2.0,0.0,1,1,1,1,0,0,8,6,0,0,0,0,0,0,0,0,0,0,1,26,2,4,0,0,0,4,0,03/20/2018,away,12973,706,UTSA,9,True,2,7,-5,loss,92519,670,1879408,2018
+0,0,1.1,0.0,1,0,0,1,0,0,6,5,0,0,0,0,0,0,0,2,1,0,0,19,4,0,0,0,0,4,0,04/29/2018,home,12973,253,Ga. Southern,9,True,7,10,-3,loss,102993,670,1879408,2018
+0,0,1.0,0.0,0,0,0,0,1,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,4,0,05/15/2018,away,12973,703,Texas,9,True,2,6,-4,loss,105878,670,1879408,2018

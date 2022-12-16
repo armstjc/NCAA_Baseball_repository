@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,1,0,2,2,0,6,4,0,0,0,0,0,0,0,0,0,0,0,27,0,1,0,0,0,2,1,02/02/2018,home,12973,1199,Mars Hill,9,True,6,5,1,win,84523,1072,1990479,2018
+0,0,0.2,0.0,0,0,0,0,1,0,3,3,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,2,1,02/03/2018,home,12973,1199,Mars Hill,9,True,2,6,-4,loss,84656,1072,1990479,2018
+0,0,2.0,0.0,2,1,1,1,2,0,9,8,0,0,0,1,0,0,0,0,0,0,0,34,3,1,0,0,0,3,1,02/08/2018,home,12973,30124,Cedarville,9,True,9,3,6,win,84818,1072,1990479,2018
+0,0,1.1,0.0,3,3,3,1,0,0,7,6,0,0,0,1,0,0,0,2,2,0,0,18,1,2,0,0,0,2,0,03/09/2018,home,12973,9223,North Greenville,9,True,5,18,-13,loss,89358,1072,1990479,2018
+0,0,1.2,0.0,4,2,2,0,1,0,9,9,2,1,0,0,0,0,0,3,2,0,0,41,3,1,0,0,0,3,0,04/10/2018,away,12973,1170,Lenoir-Rhyne,9,True,8,9,-1,loss,97779,1072,1990479,2018

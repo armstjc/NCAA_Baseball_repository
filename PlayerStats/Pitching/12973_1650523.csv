@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,2,3,3,0,1,0,5,4,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,3,0,04/08/2018,home,12973,30028,UT Tyler,9,True,2,12,-10,loss,97159,1203,1650523,2018
+0,0,0.1,0.0,0,2,2,2,0,0,3,1,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,2,0,04/20/2018,home,12973,8530,McMurry,9,True,5,14,-9,loss,100256,1203,1650523,2018
+0,0,0.2,0.0,2,1,1,0,0,0,4,4,1,0,0,0,0,0,0,2,2,0,0,14,0,2,0,0,0,4,0,04/28/2018,away,12973,1390,Sul Ross St.,9,True,4,14,-10,loss,102757,1203,1650523,2018

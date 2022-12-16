@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,27,0,2,0,0,0,2,1,02/18/2018,home,12973,817,Youngstown St.,9,True,5,2,3,win,85818,14927,1865329,2018
+0,0,3.2,0.0,1,0,0,1,5,0,13,11,0,0,0,0,1,0,0,2,0,0,0,0,3,2,0,0,1,3,2,02/24/2018,home,12973,222,Fairleigh Dickinson,9,True,25,9,16,win,86566,14927,1865329,2018
+0,0,1.1,0.0,1,0,0,1,1,0,7,5,0,0,0,0,1,1,0,0,0,0,0,31,2,1,0,0,0,3,1,02/27/2018,home,12973,659,Southern Ill.,9,True,0,3,-3,loss,87325,14927,1865329,2018
+0,0,0.2,0.0,1,0,0,0,0,0,3,2,0,0,0,0,0,0,0,1,1,0,1,8,0,2,0,0,0,4,0,03/03/2018,home,12973,72,Bradley,9,True,10,14,-4,loss,87851,14927,1865329,2018
+0,0,1.0,0.0,1,0,0,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,33,0,3,0,0,0,6,0,03/21/2018,neutral,12973,736,Vanderbilt,9,True,8,5,3,win,92712,14927,1865329,2018
+0,0,1.0,0.0,1,1,1,2,2,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,1,04/10/2018,away,12973,419,Middle Tenn.,9,True,0,9,-9,loss,97507,14927,1865329,2018

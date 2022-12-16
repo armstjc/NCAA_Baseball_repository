@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,2,3,3,2,0,0,5,3,0,0,0,0,1,0,0,0,0,0,0,24,1,0,0,0,0,3,0,03/12/2018,neutral,12973,8404,Hood,9,True,4,19,-15,loss,90669,30031,2000082,2018
+0,0,2.0,0.0,0,0,0,2,3,0,8,6,0,0,0,0,1,0,0,0,0,0,0,32,1,2,0,0,0,3,1,03/27/2018,home,12973,376,Macalester,9,True,3,12,-9,loss,94215,30031,2000082,2018
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,20,1,2,0,0,0,3,0,04/12/2018,away,12973,30038,Bethany Lutheran,9,True,5,9,-4,loss,98087,30031,2000082,2018
+0,0,1.0,0.0,1,0,0,0,2,0,5,5,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,4,0,04/29/2018,away,12973,8597,Martin Luther,9,True,20,9,11,win,103239,30031,2000082,2018
+0,0,2.2,0.0,5,2,2,4,1,0,15,11,0,0,0,0,3,0,0,0,0,0,0,58,3,2,0,0,0,2,0,05/03/2018,home,12973,268,Hamline,9,True,2,18,-16,loss,103795,30031,2000082,2018

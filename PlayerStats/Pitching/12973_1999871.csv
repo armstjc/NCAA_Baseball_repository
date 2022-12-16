@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,3,2,2,1,1,0,10,9,1,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,3,1,03/03/2018,neutral,12973,22626,JWU (Providence),9,True,2,14,-12,loss,88246,279,1999871,2018
+0,0,3.0,0.0,4,2,2,2,0,0,14,12,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,2,0,03/05/2018,neutral,12973,75,Bridgewater (VA),9,True,1,10,-9,loss,88856,279,1999871,2018
+0,0,0.2,0.0,4,4,4,1,2,0,7,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,03/16/2018,home,12973,30040,Me.-Presque Isle,9,True,18,12,6,win,91342,279,1999871,2018
+0,0,1.0,0.0,2,3,3,1,1,0,6,5,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,4,1,04/26/2018,home,12973,770,WestConn,9,True,12,20,-8,loss,101882,279,1999871,2018

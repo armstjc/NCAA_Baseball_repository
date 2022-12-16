@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,0.0,5,4,4,2,4,0,23,19,1,2,0,0,0,1,0,0,0,0,1,76,3,8,0,1,0,1,0,02/02/2018,home,12973,30146,Azusa Pacific,9,True,0,4,-4,loss,84572,628,1986475,2018
+0,0,2.0,0.0,1,0,0,2,2,0,9,7,0,0,0,0,0,0,0,0,0,0,0,29,2,2,0,0,0,3,1,02/13/2018,home,12973,30123,Academy of Art,10,True,1,2,-1,loss,85136,628,1986475,2018
+0,1,1.0,0.0,1,0,0,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,21,0,1,0,0,0,1,2,02/17/2018,away,12973,112,UC San Diego,9,True,4,5,-1,loss,85613,628,1986475,2018

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,2,0,0,0,1,0,3,3,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,5,1,03/18/2018,home,12973,364,Loras,9,True,6,13,-7,loss,92309,177,2003897,2018
+0,0,1.0,0.0,2,2,2,2,0,0,6,4,1,0,2,0,0,0,0,0,0,0,0,17,0,2,0,0,0,4,0,03/26/2018,away,12973,28749,Transylvania,9,True,0,7,-7,loss,94030,177,2003897,2018
+0,0,1.0,0.0,4,3,3,0,0,0,7,7,1,1,0,1,0,0,0,0,0,0,0,29,2,1,0,0,0,3,0,04/21/2018,home,12973,281,Hiram,9,True,19,6,13,win,100668,177,2003897,2018

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,2,2,2,3,2,0,11,8,1,0,0,0,1,0,0,0,0,0,0,38,3,1,0,0,0,2,0,02/02/2018,home,12973,30192,Southern Wesleyan,9,True,13,5,8,win,84589,1085,1873518,2018
+0,0,1.1,0.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,2,0,0,0,18,2,1,0,0,0,3,0,02/06/2018,home,12973,1245,Mount Olive,9,True,4,6,-2,loss,84788,1085,1873518,2018
+0,0,0.0,0.0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,2,0,02/10/2018,home,12973,39,Augusta,9,True,6,5,1,win,85080,1085,1873518,2018
+0,0,1.0,0.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,16,0,2,0,0,0,2,0,02/14/2018,home,12973,8875,Chowan,9,True,4,2,2,win,85177,1085,1873518,2018

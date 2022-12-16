@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,4,2,2,2,4,0,12,10,1,0,0,0,0,0,0,0,0,0,0,53,2,0,0,1,0,2,0,02/13/2018,away,12973,0,St. Thomas (FL),9,True,4,9,-5,loss,85131,24639,1867654,2018
+0,0,4.0,0.0,2,0,0,0,9,0,14,14,0,0,0,0,1,0,0,0,0,0,0,60,2,2,1,0,0,2,3,02/24/2018,away,12973,9680,Embry-Riddle (FL),9,True,12,4,8,win,86686,24639,1867654,2018
+0,1,2.0,0.0,8,7,6,1,1,0,16,15,2,0,0,1,2,0,0,0,0,0,0,51,3,2,0,1,0,1,1,03/03/2018,home,12973,689,Tampa,9,True,6,8,-2,loss,87930,24639,1867654,2018
+0,0,2.0,0.0,1,0,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,20,5,0,1,0,0,5,1,03/06/2018,home,12973,1460,Wilmington (DE),9,True,14,13,1,win,88885,24639,1867654,2018

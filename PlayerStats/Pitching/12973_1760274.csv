@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.0,0.0,4,6,6,3,1,0,15,11,1,1,0,1,0,1,0,0,0,0,0,42,3,2,0,1,0,1,1,03/12/2018,away,12973,435,Missouri S&T,9,True,8,16,-8,loss,90585,728,1760274,2018
+0,1,1.0,0.0,8,6,6,2,0,0,13,11,1,0,0,0,0,0,0,0,0,0,0,38,2,1,0,1,0,1,0,03/29/2018,neutral,12973,427,Minn. Duluth,9,True,3,7,-4,loss,94592,728,1760274,2018

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,5,4,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,6,0,02/22/2018,away,12973,13,Albany St. (GA),9,True,1,11,-10,loss,86215,30093,1871819,2018
+0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,2,0,0,0,10,0,2,0,0,0,5,0,03/07/2018,away,12973,159,Columbus St.,9,True,0,7,-7,loss,89076,30093,1871819,2018
+0,0,0.2,0.0,1,1,1,1,0,0,4,3,0,1,0,0,1,0,0,0,0,0,0,18,0,2,0,0,0,3,0,03/23/2018,away,12973,30013,Lee,9,True,3,9,-6,loss,93088,30093,1871819,2018

@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.2,0.0,5,7,7,7,0,0,18,10,1,0,0,0,2,0,0,0,0,0,1,60,3,3,0,1,0,1,0,03/05/2018,away,12973,567,Redlands,9,True,5,10,-5,loss,88754,730,1774641,2018
+0,0,0.1,0.0,1,2,2,2,1,0,4,2,0,0,0,0,1,0,0,3,3,0,0,0,0,0,0,0,0,4,1,03/08/2018,away,12973,105,Cal Lutheran,9,True,1,16,-15,loss,89244,730,1774641,2018
+0,0,0.2,0.0,2,3,2,3,0,0,8,4,0,0,0,0,1,0,0,0,0,0,1,37,1,1,0,0,0,4,0,03/29/2018,home,12973,12399,Gwynedd Mercy,9,True,13,12,1,win,94430,730,1774641,2018
+0,0,0.1,0.0,3,5,5,1,1,0,6,4,0,0,0,0,0,1,0,0,0,0,0,19,0,0,0,0,0,8,1,04/13/2018,home,12973,239,Franklin & Marshall,9,True,12,26,-14,loss,98160,730,1774641,2018
+0,1,0.2,0.0,3,6,6,2,0,0,8,5,0,0,0,1,0,1,0,0,0,0,0,29,2,0,0,1,0,1,0,04/18/2018,home,12973,0,Penn St.-Brandywine,9,True,10,12,-2,loss,99655,730,1774641,2018
+0,0,0.0,0.0,0,1,1,2,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,9,0,0,0,0,0,6,0,05/01/2018,home,12973,319,New Jersey City,9,True,9,11,-2,loss,103448,730,1774641,2018

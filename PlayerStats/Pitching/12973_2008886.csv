@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,4,3,3,1,1,0,12,10,1,0,0,1,0,1,0,0,0,0,0,0,1,4,0,0,0,3,1,03/15/2018,neutral,12973,60,Bethel (MN),9,True,0,12,-12,loss,91095,1164,2008886,2018
+0,0,1.1,0.0,3,2,2,1,1,0,8,6,2,0,0,0,0,0,0,2,2,0,1,26,0,3,0,0,0,3,0,04/10/2018,home,12973,1066,Edgewood,9,True,3,21,-18,loss,97749,1164,2008886,2018
+0,0,4.0,0.0,7,8,8,5,1,0,25,18,1,3,0,0,1,1,0,2,2,0,1,85,5,6,0,0,0,2,1,04/24/2018,away,12973,160,Concordia Chicago,9,True,1,16,-15,loss,101693,1164,2008886,2018
+0,0,0.1,0.0,2,1,1,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,0,1,0,0,0,2,0,05/02/2018,away,12973,797,Milwaukee,9,True,1,10,-9,loss,103634,1164,2008886,2018

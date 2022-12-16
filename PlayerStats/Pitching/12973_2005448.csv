@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.1,0.0,4,1,0,0,3,0,15,15,1,0,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,4,1,03/12/2018,neutral,12973,1164,Lakeland,9,True,29,5,24,win,90612,1461,2005448,2018
+0,0,1.1,0.0,1,3,1,2,0,0,6,3,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,3,0,03/14/2018,neutral,12973,722,Coast Guard,9,True,14,15,-1,loss,90977,1461,2005448,2018
+0,0,1.2,0.0,4,1,1,1,1,0,9,8,1,0,0,0,0,0,0,0,0,0,0,32,3,0,0,0,0,4,0,03/26/2018,away,12973,806,Wittenberg,9,True,10,14,-4,loss,94015,1461,2005448,2018
+0,0,1.0,0.0,7,4,4,0,2,0,10,10,1,0,0,1,0,0,0,0,0,0,0,34,0,1,0,0,0,4,2,04/06/2018,away,12973,46,Baldwin Wallace,9,True,4,14,-10,loss,96329,1461,2005448,2018

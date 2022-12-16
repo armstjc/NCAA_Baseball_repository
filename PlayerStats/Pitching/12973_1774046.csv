@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,0,2,0,5,5,2,0,0,0,0,0,0,0,0,0,0,15,0,1,0,0,0,6,0,04/08/2018,away,12973,669,Missouri St.,9,True,4,11,-7,loss,97049,219,1774046,2018
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,1,0,0,7,0,1,0,0,0,7,0,04/13/2018,home,12973,72,Bradley,9,True,4,9,-5,loss,98266,219,1774046,2018
+0,0,1.1,0.0,1,0,0,0,0,0,5,5,0,0,0,0,0,0,0,2,0,0,0,15,2,2,0,0,0,6,0,05/19/2018,home,12973,299,Illinois St.,9,True,7,11,-4,loss,106388,219,1774046,2018

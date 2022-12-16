@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,0.0,2,1,0,5,7,0,28,22,0,0,0,0,1,1,0,0,0,0,0,0,9,4,0,0,0,1,2,02/17/2018,away,12973,144,Clark Atlanta,9,True,1,2,-1,loss,85617,332,2005679,2018
+0,1,4.1,0.0,7,4,4,4,6,0,24,20,1,0,0,0,0,0,0,0,0,0,0,0,4,3,1,0,0,1,1,02/26/2018,home,12973,0,Marian (IN),9,True,8,6,2,win,87257,332,2005679,2018
+0,1,7.0,1,7,6,5,3,3,0,31,27,2,0,0,2,2,1,0,0,0,0,0,0,8,8,0,1,0,1,0,03/03/2018,home,12973,19117,Salem (WV),9,True,0,6,-6,loss,87918,332,2005679,2018
+0,1,6.2,0.0,4,1,0,0,11,0,26,26,0,0,0,0,2,0,0,0,0,0,0,0,3,6,1,0,0,1,1,03/09/2018,home,12973,0,Ky. Christian,9,True,9,1,8,win,89629,332,2005679,2018

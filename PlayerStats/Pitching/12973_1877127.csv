@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,0,1,0,0,0,4,0,03/12/2018,neutral,12973,8404,Hood,9,True,4,19,-15,loss,90669,30031,1877127,2018
+0,1,2.0,0.0,7,9,5,4,2,0,18,14,1,1,2,0,0,0,0,0,0,0,0,72,2,2,0,1,0,1,1,03/27/2018,home,12973,376,Macalester,9,True,3,12,-9,loss,94215,30031,1877127,2018

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,0.0,3,0,0,1,10,0,24,23,0,0,0,0,1,0,0,0,0,0,0,0,5,3,1,0,0,1,5,03/06/2018,away,12973,28749,Transylvania,9,True,9,4,5,win,88890,23260,1778698,2018
+0,0,0.0,0.0,2,1,1,2,0,0,4,2,1,0,0,0,1,0,0,0,0,0,0,19,0,0,0,0,0,4,0,03/15/2018,neutral,12973,401,UMass Boston,9,True,11,9,2,win,91076,23260,1778698,2018
+0,1,7.0,1,11,4,2,0,2,0,33,30,5,0,0,0,0,1,0,0,0,2,0,78,10,6,0,1,0,1,1,04/18/2018,home,12973,11538,Fontbonne,9,True,1,4,-3,loss,99784,23260,1778698,2018
+0,1,5.2,0.0,11,7,7,2,6,0,30,26,3,0,0,2,0,0,0,0,0,1,1,98,6,5,0,0,0,1,1,04/25/2018,home,12973,218,Eureka,9,True,9,8,1,win,101797,23260,1778698,2018

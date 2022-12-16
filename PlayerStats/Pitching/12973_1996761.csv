@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,2,0,0,2,1,0,8,5,1,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,3,0,03/05/2018,home,12973,732,Utah,9,True,9,6,3,win,88737,630,1996761,2018
+0,0,1.0,0.0,1,0,0,1,0,0,4,3,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,5,0,03/09/2018,away,12973,466,Nevada,9,True,4,11,-7,loss,89419,630,1996761,2018
+0,0,0.2,0.0,0,0,0,2,1,0,4,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,5,0,03/27/2018,home,12973,610,Saint Mary's (CA),9,True,2,5,-3,loss,94102,630,1996761,2018

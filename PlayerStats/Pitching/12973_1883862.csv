@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,5,5,1,2,0,8,6,1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,3,0,02/09/2018,neutral,12973,144,Clark Atlanta,9,True,18,14,4,win,84933,1076,1883862,2018
+0,0,0.2,0.0,2,1,1,2,1,0,6,4,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,6,0,02/15/2018,neutral,12973,546,Pitt.-Johnstown,9,True,10,11,-1,loss,85204,1076,1883862,2018
+0,0,1.2,0.0,2,3,1,2,0,0,11,7,0,0,0,0,1,2,0,3,2,0,0,0,0,4,0,0,0,2,0,03/10/2018,neutral,12973,143,Clarion,9,True,8,15,-7,loss,90040,1076,1883862,2018
+0,0,1.0,0.0,4,4,4,0,0,0,7,7,1,0,0,1,0,0,0,2,2,0,0,19,2,1,0,0,0,2,0,03/31/2018,away,12973,1028,Concord,9,True,2,18,-16,loss,95286,1076,1883862,2018
+0,1,2.1,0.0,3,8,5,4,1,0,16,9,1,0,0,0,0,2,0,0,0,0,1,0,1,5,0,1,0,1,1,05/01/2018,home,12973,2746,Lake Erie,9,True,6,31,-25,loss,103610,1076,1883862,2018

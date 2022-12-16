@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,0,0,0,2,1,0,6,4,0,0,0,0,0,0,0,2,0,0,0,26,2,1,0,0,0,2,0,03/06/2018,neutral,12973,436,Mo.-St. Louis,9,True,3,4,-1,loss,88990,30063,1979480,2018
+0,0,1.0,0.0,2,2,1,0,2,0,7,6,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,2,1,03/09/2018,neutral,12973,27854,Minn.-Crookston,9,True,6,7,-1,loss,89554,30063,1979480,2018
+0,0,1.0,0.0,1,2,2,2,1,0,5,3,1,0,0,0,1,0,0,0,0,0,0,23,1,0,0,0,0,3,0,04/08/2018,home,12973,408,Mercyhurst,9,True,7,10,-3,loss,97265,30063,1979480,2018
+0,0,1.2,0.0,2,1,1,1,0,0,8,7,0,1,0,0,1,0,0,3,1,0,0,31,1,4,0,0,0,3,0,04/21/2018,home,12973,546,Pitt.-Johnstown,9,True,9,4,5,win,100708,30063,1979480,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,04/23/2018,away,12973,1438,West Liberty,9,True,13,1,12,win,101493,30063,1979480,2018
+0,0,1.0,0.0,3,3,3,1,1,0,7,5,1,0,0,0,1,0,0,0,0,1,0,27,2,0,0,0,0,4,1,05/05/2018,home,12973,143,Clarion,9,True,8,4,4,win,104433,30063,1979480,2018

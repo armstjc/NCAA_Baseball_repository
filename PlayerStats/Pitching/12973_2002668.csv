@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,2,4,4,3,0,0,9,6,0,0,0,0,1,0,0,0,0,0,0,31,2,2,0,0,0,3,0,03/16/2018,neutral,12973,401,UMass Boston,9,True,6,13,-7,loss,91378,618,2002668,2018
+0,0,0.1,0.0,2,2,2,1,0,0,5,2,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,2,0,03/30/2018,away,12973,795,Wis.-La Crosse,9,True,4,6,-2,loss,94773,618,2002668,2018
+0,0,0.0,0.0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,2,1,0,0,9,0,0,0,0,0,2,0,04/19/2018,home,12973,30031,Northwestern-St. Paul,10,True,5,4,1,win,99905,618,2002668,2018
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,0,2,0,0,0,3,1,04/22/2018,away,12973,8597,Martin Luther,9,True,12,0,12,win,101357,618,2002668,2018
+0,0,1.0,0.0,4,5,5,1,0,0,8,6,2,0,0,1,0,0,0,0,0,0,1,20,1,2,0,0,0,2,0,04/30/2018,away,12973,805,Wis.-Whitewater,9,True,1,13,-12,loss,103386,618,2002668,2018

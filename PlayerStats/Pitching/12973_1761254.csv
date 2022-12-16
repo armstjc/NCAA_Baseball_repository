@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,1,1,1,2,0,8,5,1,0,0,0,0,1,0,0,0,1,0,0,3,0,1,0,0,9,0,02/28/2018,away,12973,520,Ohio Wesleyan,9,True,11,9,2,win,87496,987,1761254,2018
+0,1,6.0,0.0,5,1,1,1,2,0,22,21,2,0,0,0,0,0,0,0,0,0,0,0,7,7,1,0,0,1,1,03/04/2018,neutral,12973,707,Thiel,9,True,9,1,8,win,88704,987,1761254,2018
+0,1,4.2,0.0,3,4,2,1,6,0,21,17,0,0,0,0,1,2,0,0,0,0,1,76,5,3,0,0,0,1,1,03/08/2018,neutral,12973,281,Hiram,9,True,9,5,4,win,89270,987,1761254,2018
+0,1,8.0,0.0,3,0,0,0,3,0,31,29,1,0,0,0,0,0,0,0,0,2,0,97,14,7,0,0,0,1,0,03/17/2018,home,12973,1461,Wilmington (OH),9,True,0,1,-1,loss,92029,987,1761254,2018
+0,1,2.2,0.0,0,0,0,1,2,0,9,8,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,1,2,03/25/2018,away,12973,806,Wittenberg,9,True,7,5,2,win,93870,987,1761254,2018

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,1,0,0,3,1,0,9,4,0,0,0,0,1,1,0,3,3,0,1,35,0,3,0,0,0,4,0,03/03/2018,home,12973,696,Tex. A&M-Kingsville,9,True,2,13,-11,loss,88065,30088,1874781,2018
+0,0,1.1,0.0,2,3,2,4,3,0,13,8,0,0,0,0,0,1,0,3,3,0,0,0,0,1,0,0,0,2,2,03/10/2018,away,12973,25,Angelo St.,9,True,3,15,-12,loss,89940,30088,1874781,2018
+0,0,0.0,0.0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,12,0,0,0,0,0,5,0,03/16/2018,home,12973,206,Eastern N.M.,9,True,2,5,-3,loss,91304,30088,1874781,2018
+0,0,1.2,0.0,1,4,0,3,2,0,11,7,0,0,0,1,0,1,0,1,1,0,0,46,1,2,0,0,0,5,0,03/18/2018,home,12973,206,Eastern N.M.,9,True,4,15,-11,loss,92175,30088,1874781,2018

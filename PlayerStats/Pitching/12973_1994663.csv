@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,4,3,3,0,2,0,9,8,1,0,0,0,1,0,0,0,0,1,0,23,3,0,0,0,0,2,0,02/11/2018,neutral,12973,22235,Lewis & Clark,9,True,4,6,-2,loss,85106,557,1994663,2018
+0,0,3.0,0.0,3,1,0,1,2,0,13,12,0,0,0,0,0,0,0,0,0,0,0,45,4,3,0,0,0,2,1,02/24/2018,away,12973,142,Claremont-M-S,9,True,14,6,8,win,86601,557,1994663,2018
+0,0,1.0,0.0,1,0,0,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,13,0,3,0,0,0,4,0,03/04/2018,home,12973,22235,Lewis & Clark,10,True,6,11,-5,loss,88439,557,1994663,2018
+0,0,2.0,0.0,3,1,1,0,4,0,9,9,2,0,0,0,0,0,0,0,0,0,0,28,1,1,0,0,0,3,1,03/14/2018,home,12973,686,Swarthmore,9,True,5,10,-5,loss,91018,557,1994663,2018
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,2,1,0,0,0,2,0,03/17/2018,home,12973,2751,Pacific (OR),9,True,9,0,9,win,91919,557,1994663,2018

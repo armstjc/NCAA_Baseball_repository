@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,0.0,9,4,3,1,1,0,25,22,2,0,0,0,0,0,0,0,0,1,1,0,7,6,1,0,0,1,0,02/03/2018,home,12973,8965,East Central,9,True,18,8,10,win,84631,2755,1883946,2018
+0,1,5.2,0.0,3,4,1,3,3,0,24,21,1,0,0,0,0,0,0,0,0,0,0,0,6,7,0,1,0,1,0,02/10/2018,away,12973,696,Tex. A&M-Kingsville,9,True,0,4,-4,loss,85042,2755,1883946,2018
+0,1,5.0,0.0,6,5,1,1,4,0,22,20,1,0,0,1,0,1,0,0,0,0,0,0,5,4,0,0,0,1,1,02/18/2018,home,12973,1328,Rockhurst,9,True,14,5,9,win,85879,2755,1883946,2018
+0,1,3.1,0.0,7,4,4,3,2,0,20,17,1,0,0,0,0,0,0,0,0,0,0,0,4,4,0,1,0,1,1,02/25/2018,home,12973,1156,Neb.-Kearney,9,True,8,13,-5,loss,86952,2755,1883946,2018
+0,1,1.2,0.0,5,7,6,2,2,0,13,10,2,0,0,0,1,1,0,0,0,0,0,57,1,2,0,0,0,1,0,03/03/2018,away,12973,1071,Emporia St.,10,True,14,15,-1,loss,87805,2755,1883946,2018

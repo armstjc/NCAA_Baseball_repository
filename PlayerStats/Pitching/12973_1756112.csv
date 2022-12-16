@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,16,2,1,0,0,0,5,0,02/24/2018,neutral,12973,87,Butler,9,True,1,12,-11,loss,86787,248,1756112,2018
+0,0,1.1,0.0,0,1,1,4,1,0,8,4,0,0,0,0,0,0,0,0,0,0,0,41,2,1,0,0,0,5,1,04/04/2018,away,12973,363,Longwood,9,True,10,13,-3,loss,95972,248,1756112,2018
+0,0,2.0,0.0,2,0,0,2,2,0,9,6,0,0,0,0,0,1,0,0,0,0,0,38,0,2,0,0,0,3,0,04/13/2018,away,12973,251,Georgetown,9,True,3,7,-4,loss,98170,248,1756112,2018
+0,0,0.2,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,3,1,0,0,7,1,0,0,0,0,3,1,05/25/2018,away,12973,249,George Washington,9,True,9,4,5,win,106774,248,1756112,2018

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,1,1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,10,1,0,0,0,0,4,0,04/23/2018,away,12973,612,Saint Mary's (MN),9,True,1,13,-12,loss,101492,118,1889160,2018
+0,0,1.2,0.0,2,1,1,4,1,0,9,4,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,2,0,04/29/2018,home,12973,620,St. Thomas (MN),9,True,2,6,-4,loss,103259,118,1889160,2018
+0,0,1.0,0.0,1,1,0,1,0,0,7,5,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,2,0,05/01/2018,home,12973,38,Augsburg,9,True,1,4,-3,loss,103552,118,1889160,2018
+0,1,4.0,0.0,4,5,5,5,6,0,22,16,2,0,0,0,0,1,0,0,0,0,0,0,4,2,1,0,0,1,2,05/03/2018,home,12973,8597,Martin Luther,9,True,11,5,6,win,103774,118,1889160,2018

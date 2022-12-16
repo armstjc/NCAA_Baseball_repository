@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,0,0,0,3,0,0,3,0,0,0,0,0,1,0,0,3,3,0,0,16,0,0,0,0,0,4,0,02/09/2018,home,12973,8577,N.M. Highlands,9,True,12,3,9,win,84975,767,1650539,2018
+0,0,2.0,0.0,7,2,2,0,0,0,12,12,0,0,0,0,0,0,0,0,0,0,0,43,4,1,0,0,0,5,0,03/11/2018,away,12973,696,Tex. A&M-Kingsville,9,True,4,12,-8,loss,90335,767,1650539,2018
+0,0,3.0,0.0,6,7,6,3,6,0,20,16,2,1,0,0,1,1,0,2,2,0,0,79,2,1,0,0,0,2,2,04/28/2018,home,12973,696,Tex. A&M-Kingsville,9,True,1,23,-22,loss,102474,767,1650539,2018
+0,0,0.1,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,4,0,05/18/2018,home,12973,1334,St. Edward's,9,True,3,13,-10,loss,106244,767,1650539,2018

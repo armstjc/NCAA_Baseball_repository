@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,0.0,7,4,3,3,6,0,26,22,1,0,0,0,1,1,0,0,0,0,0,0,3,6,0,1,0,1,2,02/04/2018,away,12973,781,Whittier,9,True,1,11,-10,loss,84731,22235,1985852,2018
+0,1,4.0,0.0,6,4,4,4,5,0,21,17,1,0,0,0,1,0,0,0,0,0,0,95,5,1,0,1,0,1,2,02/11/2018,away,12973,2751,Pacific (OR),9,True,3,5,-2,loss,85120,22235,1985852,2018
+0,0,1.0,0.0,1,2,2,2,1,0,6,4,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,4,0,04/09/2018,away,12973,780,Whitman,9,True,6,12,-6,loss,97463,22235,1985852,2018

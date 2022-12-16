@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,5,0,04/02/2018,home,12973,21852,Stevenson,9,True,6,12,-6,loss,95771,8404,1995298,2018
+0,0,0.2,0.0,0,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,13,0,2,0,0,0,4,0,04/20/2018,home,12973,966,Arcadia,10,True,8,10,-2,loss,100286,8404,1995298,2018
+0,0,0.1,0.0,2,2,2,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1,0,7,1,0,0,0,0,3,0,04/21/2018,away,12973,966,Arcadia,9,True,11,14,-3,loss,100588,8404,1995298,2018
+0,0,1.0,0.0,0,1,1,0,1,0,4,1,0,0,0,0,1,1,0,0,0,1,1,10,1,1,1,0,0,6,0,04/30/2018,away,12973,322,Johns Hopkins,12,True,7,5,2,win,103385,8404,1995298,2018
+0,0,1.0,0.0,1,1,0,0,0,0,5,4,0,0,0,0,1,1,0,0,0,0,0,18,3,0,0,0,0,7,0,05/05/2018,neutral,12973,966,Arcadia,9,True,12,25,-13,loss,104592,8404,1995298,2018

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,2,0,0,0,0,0,0,20,1,0,0,0,0,4,0,03/02/2018,away,12973,542,Pfeiffer,9,True,2,12,-10,loss,87686,263,1895408,2018
+0,0,1.1,0.0,3,1,1,1,0,0,7,6,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,0,2,0,03/07/2018,neutral,12973,27854,Minn.-Crookston,9,True,8,7,1,win,88432,263,1895408,2018
+0,0,0.2,0.0,1,2,2,1,0,0,4,3,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,3,0,03/28/2018,away,12973,1112,Guilford,9,True,9,8,1,win,94299,263,1895408,2018
+0,0,1.0,0.0,2,2,2,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,04/06/2018,home,12973,17094,William Peace,9,True,0,14,-14,loss,96377,263,1895408,2018

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,2,3,3,3,1,0,6,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,02/18/2018,away,12973,1176,Lincoln Memorial,9,True,2,11,-9,loss,85983,2746,1884578,2018
+0,0,0.1,0.0,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,3,2,0,0,0,1,0,0,0,0,3,0,02/24/2018,neutral,12973,423,Millersville,9,True,6,10,-4,loss,86801,2746,1884578,2018
+0,1,2.0,0.0,3,2,2,3,4,0,12,9,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,02/27/2018,away,12973,1199,Mars Hill,10,True,14,14,0,tie,87300,2746,1884578,2018

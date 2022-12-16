@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,1,7,8,6,4,2,0,33,27,4,1,0,0,0,1,0,0,0,0,1,0,8,10,0,1,0,1,1,03/05/2018,neutral,12973,266,Gust. Adolphus,9,True,1,8,-7,loss,88857,30039,1779035,2018
+0,1,4.2,0.0,5,4,4,6,2,0,25,19,2,0,0,0,0,0,0,0,0,0,0,0,5,6,0,1,0,1,0,03/09/2018,neutral,12973,747,Wabash,9,True,1,8,-7,loss,89598,30039,1779035,2018
+0,1,3.0,0.0,2,3,3,4,3,0,15,10,0,0,0,0,0,0,0,0,0,0,1,0,5,1,0,1,0,1,1,03/27/2018,neutral,12973,30035,Crown (MN),9,True,0,3,-3,loss,94200,30039,1779035,2018
+0,1,6.1,1,16,14,13,3,3,0,37,31,5,2,0,0,0,1,0,0,0,0,2,102,6,7,0,1,0,1,0,04/24/2018,away,12973,1226,Minn.-Morris,9,True,4,14,-10,loss,101642,30039,1779035,2018
+0,1,5.0,0.0,16,15,15,5,1,0,34,29,2,0,1,3,0,0,0,0,0,0,0,0,3,9,0,1,0,1,0,05/01/2018,away,12973,30038,Bethany Lutheran,9,True,15,19,-4,loss,103549,30039,1779035,2018
+0,1,9.0,1,8,5,5,3,6,0,38,35,2,0,0,0,0,0,0,0,0,0,0,0,6,13,0,1,0,1,3,05/05/2018,home,12973,30031,Northwestern-St. Paul,9,True,2,5,-3,loss,104323,30039,1779035,2018

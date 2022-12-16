@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,1,1,1,0,1,0,3,3,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,02/24/2018,home,12973,735,Valparaiso,9,True,4,11,-7,loss,86517,522,1979316,2018
+0,0,3.0,0.0,2,0,0,1,4,0,11,10,0,0,0,0,0,0,0,0,0,0,0,55,3,1,0,0,0,2,2,03/13/2018,home,12973,699,Texas Southern,9,True,12,0,12,win,90676,522,1979316,2018
+0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,18,0,1,0,0,0,4,0,04/11/2018,home,12973,527,Oral Roberts,9,True,20,3,17,win,97789,522,1979316,2018
+0,0,0.1,0.0,0,0,0,2,0,0,3,1,0,0,0,0,1,0,0,1,0,0,0,13,0,1,0,0,0,4,0,05/19/2018,away,12973,328,Kansas,9,True,14,6,8,win,106302,522,1979316,2018
+0,0,0.2,0.0,2,2,2,1,1,0,6,4,0,0,0,0,1,1,0,2,2,0,0,0,1,0,0,0,0,6,0,05/26/2018,neutral,12973,51,Baylor,9,True,3,10,-7,loss,106826,522,1979316,2018
+0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,9,1,1,0,0,0,6,0,06/03/2018,neutral,12973,430,Mississippi St.,9,True,5,13,-8,loss,106968,522,1979316,2018

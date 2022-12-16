@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.0,0.0,7,8,6,1,1,0,16,15,2,1,0,0,0,0,0,0,0,0,0,55,2,3,0,0,0,1,1,03/04/2018,neutral,12973,1434,Waynesburg,9,True,9,11,-2,loss,88593,25719,1881114,2018
+0,0,1.0,0.0,0,0,0,1,1,0,5,3,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,3,0,03/09/2018,neutral,12973,779,Wheaton (MA),9,True,0,4,-4,loss,89533,25719,1881114,2018
+0,1,1.1,0.0,4,4,4,2,0,0,11,7,1,0,0,0,0,1,0,0,0,0,1,0,2,2,0,0,0,1,0,03/10/2018,neutral,12973,30114,Penn St.-Abington,9,True,17,6,11,win,90027,25719,1881114,2018
+0,0,1.0,0.0,2,3,3,2,1,0,7,5,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,04/10/2018,home,12973,11839,Pitt.-Greensburg,9,True,6,19,-13,loss,97739,25719,1881114,2018
+0,1,6.0,0.0,4,3,0,3,5,0,27,23,0,0,0,0,2,0,0,0,0,0,1,0,0,13,1,0,0,1,1,04/23/2018,away,12973,30064,Saint Vincent,9,True,16,3,13,win,101461,25719,1881114,2018
+0,1,1.0,0.0,2,2,1,2,2,0,7,5,1,0,0,0,1,0,0,0,0,0,0,25,0,1,0,1,0,1,1,05/04/2018,neutral,12973,1315,Pitt.-Bradford,9,True,6,10,-4,loss,104124,25719,1881114,2018

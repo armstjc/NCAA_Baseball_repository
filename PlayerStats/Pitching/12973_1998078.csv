@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.1,0.0,6,4,3,1,2,0,14,13,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,03/15/2018,neutral,12973,258,Gettysburg,9,True,5,4,1,win,91098,633,1998078,2018
+0,0,2.0,0.0,2,0,0,1,1,0,9,8,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,0,0,2,1,03/27/2018,home,12973,453,Muhlenberg,9,True,5,4,1,win,94212,633,1998078,2018
+0,0,1.0,0.0,2,1,1,1,2,0,6,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,1,04/09/2018,home,12973,397,Marywood,9,True,18,19,-1,loss,97433,633,1998078,2018
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,04/11/2018,home,12973,20,DeSales,9,True,10,7,3,win,97902,633,1998078,2018
+0,0,1.0,0.0,0,0,0,0,2,0,4,3,0,0,0,0,0,1,0,0,0,0,0,15,1,0,0,0,0,2,0,05/06/2018,home,12973,685,Susquehanna,9,True,2,4,-2,loss,104736,633,1998078,2018

@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,4,3,0,0,0,0,0,1,0,3,2,0,0,0,2,0,0,0,0,5,0,03/03/2018,home,12973,30179,Okla. Christian,9,True,4,16,-12,loss,88207,996,2005749,2018
+0,1,7.0,0.0,5,5,4,4,4,0,31,25,0,0,0,0,4,0,0,0,0,1,1,114,6,11,1,0,0,1,0,03/13/2018,home,12973,30178,Northwestern Okla.,9,True,14,5,9,win,90837,996,2005749,2018
+0,0,1.1,0.0,1,0,0,2,1,0,6,4,1,0,0,0,1,0,0,1,1,0,0,32,0,2,0,0,0,3,0,03/23/2018,home,12973,25,Angelo St.,9,True,8,13,-5,loss,92940,996,2005749,2018
+0,1,2.2,0.0,3,5,4,6,0,0,18,11,1,0,0,0,0,1,0,0,0,0,0,79,1,7,0,1,0,1,0,04/09/2018,home,12973,30088,Tex. Permian Basin,9,True,2,11,-9,loss,97493,996,2005749,2018
+0,0,1.2,0.0,3,3,3,2,1,0,11,8,1,0,0,0,1,1,0,2,1,0,0,44,3,1,0,0,0,3,0,05/04/2018,away,12973,696,Tex. A&M-Kingsville,9,True,2,14,-12,loss,103875,996,2005749,2018
+0,0,2.1,0.0,2,1,1,1,1,0,9,8,0,0,0,0,1,0,0,2,1,0,0,36,2,3,0,0,0,2,1,05/05/2018,away,12973,696,Tex. A&M-Kingsville,9,True,0,9,-9,loss,104302,996,2005749,2018

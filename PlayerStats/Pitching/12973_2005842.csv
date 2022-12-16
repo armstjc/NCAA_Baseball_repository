@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,3,3,3,2,1,0,8,5,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,3,0,03/04/2018,neutral,12973,126,Central (IA),9,True,2,14,-12,loss,88610,30037,2005842,2018
+0,0,3.1,0.0,5,1,1,2,1,0,15,12,0,0,0,0,0,1,0,2,0,0,0,47,2,4,1,0,0,2,1,03/09/2018,neutral,12973,336,King's (PA),9,True,14,7,7,win,89620,30037,2005842,2018
+0,0,4.0,0.0,2,0,0,2,0,0,16,14,0,0,0,0,0,0,0,0,0,0,0,40,2,9,1,0,0,3,0,04/21/2018,away,12973,286,Hope,9,True,23,10,13,win,101005,30037,2005842,2018
+0,1,1.1,0.0,8,7,7,2,0,0,13,10,1,2,0,0,0,0,0,0,0,0,1,45,2,1,0,1,0,1,0,04/27/2018,away,12973,4,Adrian,9,True,5,15,-10,loss,102217,30037,2005842,2018
+0,0,5.0,0.0,2,0,0,0,3,0,16,16,1,0,0,0,0,0,0,0,0,0,0,0,7,4,1,0,0,2,1,05/06/2018,home,12973,15,Albion,9,True,5,2,3,win,104872,30037,2005842,2018

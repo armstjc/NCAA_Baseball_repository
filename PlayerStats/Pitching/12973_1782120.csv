@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,5,0,03/15/2018,neutral,12973,681,Stockton,9,True,2,5,-3,loss,91132,24317,1782120,2018
+0,0,1.0,0.0,0,0,0,1,0,0,5,2,0,0,0,0,0,1,1,0,0,1,0,0,3,0,0,0,1,4,0,03/27/2018,neutral,12973,30065,NVU-Lyndon,9,True,3,2,1,win,94243,24317,1782120,2018
+0,0,1.0,0.0,2,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,05/01/2018,away,12973,227,Fitchburg St.,10,True,5,6,-1,loss,103429,24317,1782120,2018

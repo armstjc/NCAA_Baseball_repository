@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,2,0,0,0,0,3,0,03/04/2018,away,12973,245,Gallaudet,9,True,9,2,7,win,88728,139,1894635,2018
+0,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,04/12/2018,away,12973,622,Salisbury,9,True,7,17,-10,loss,98065,139,1894635,2018
+0,0,1.0,0.0,1,0,0,1,1,0,5,4,1,0,0,0,0,0,0,0,0,0,0,19,0,2,0,0,0,4,0,05/04/2018,away,12973,30164,Southern Va.,9,True,17,5,12,win,104069,139,1894635,2018

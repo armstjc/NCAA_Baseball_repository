@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,2,2,2,1,0,8,4,0,0,0,0,0,2,0,1,1,0,0,0,2,0,0,0,0,2,1,02/27/2018,home,12973,30166,Valley Forge,9,True,15,4,11,win,87368,1305,1891689,2018
+0,0,3.0,0.0,3,2,2,1,0,0,14,11,0,0,0,0,0,2,0,0,0,0,0,0,5,3,0,0,0,4,0,04/19/2018,home,12973,30114,Penn St.-Abington,9,True,1,9,-8,loss,99909,1305,1891689,2018
+0,0,1.0,0.0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,7,0,04/28/2018,home,12973,30047,Keystone,9,True,0,17,-17,loss,102681,1305,1891689,2018

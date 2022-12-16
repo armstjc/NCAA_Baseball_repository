@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.2,0.0,1,0,0,1,5,0,9,8,0,0,0,0,2,0,0,0,0,0,0,39,1,1,1,0,0,2,0,03/04/2018,neutral,12973,1451,Westminster (PA),10,True,2,1,1,win,88588,9500,1668668,2018
+0,1,6.0,0.0,14,4,4,2,3,0,30,27,3,0,0,0,0,0,0,0,0,0,1,101,4,7,0,1,0,1,1,03/06/2018,neutral,12973,319,New Jersey City,9,True,2,4,-2,loss,88996,9500,1668668,2018
+0,1,4.0,0.0,4,8,7,8,3,0,25,13,0,0,0,0,0,1,0,0,0,2,1,0,5,3,0,1,0,1,1,03/30/2018,away,12973,675,Staten Island,9,True,7,12,-5,loss,94937,9500,1668668,2018
+0,1,1.0,0.0,1,3,3,2,1,0,7,4,0,0,0,0,1,0,0,0,0,1,0,22,2,0,0,1,0,1,1,04/08/2018,away,12973,267,Hamilton,9,True,5,9,-4,loss,97394,9500,1668668,2018
+0,1,3.0,0.0,6,11,5,8,1,0,23,15,1,0,0,0,2,0,0,0,0,0,0,103,2,4,0,1,0,1,1,04/21/2018,away,12973,30044,Penn St.-Berks,9,True,4,13,-9,loss,100448,9500,1668668,2018
+0,1,3.0,0.0,5,7,7,2,0,0,20,13,1,0,0,1,1,4,0,0,0,0,1,0,6,3,0,0,0,1,0,05/06/2018,away,12973,23624,Cazenovia,9,True,10,11,-1,loss,104799,9500,1668668,2018

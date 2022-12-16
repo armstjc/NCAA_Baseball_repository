@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,0,2,0,0,0,3,1,02/28/2018,away,12973,245,Gallaudet,9,True,10,1,9,win,87504,8404,1995308,2018
+0,1,2.0,0.0,2,1,0,4,0,0,11,7,1,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,1,0,03/09/2018,home,12973,0,Central Penn,9,True,10,2,8,win,89730,8404,1995308,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,1,0,0,0,19,1,1,0,0,1,8,0,04/30/2018,away,12973,322,Johns Hopkins,12,True,7,5,2,win,103385,8404,1995308,2018
+0,0,0.0,0.0,3,2,2,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,5,0,05/04/2018,neutral,12973,783,Widener,10,True,13,12,1,win,104123,8404,1995308,2018
+0,0,0.2,0.0,1,1,0,1,1,0,4,3,0,0,0,0,1,0,0,0,0,0,0,23,0,0,0,0,0,9,0,05/05/2018,neutral,12973,966,Arcadia,9,True,12,25,-13,loss,104592,8404,1995308,2018

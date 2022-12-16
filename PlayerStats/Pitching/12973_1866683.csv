@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,4,0,1,0,0,0,3,0,03/02/2018,away,12973,2694,Franklin,9,True,1,5,-4,loss,87557,15,1866683,2018
+0,0,1.0,0.0,3,3,1,0,0,0,7,6,1,0,0,0,0,1,0,0,0,0,0,23,0,3,0,0,0,3,0,03/06/2018,neutral,12973,319,New Jersey City,10,True,14,15,-1,loss,88997,15,1866683,2018
+0,0,1.1,0.0,2,2,2,2,2,0,8,6,0,0,0,0,0,0,0,0,0,0,0,34,0,2,0,0,0,3,1,03/28/2018,neutral,12973,278,Heidelberg,9,True,0,8,-8,loss,94390,15,1866683,2018
+0,0,0.2,0.0,1,0,0,1,0,0,4,3,1,0,0,0,0,0,0,0,0,0,0,13,1,1,0,0,0,2,0,04/18/2018,neutral,12973,326,Kalamazoo,9,True,0,7,-7,loss,99827,15,1866683,2018
+0,0,3.1,0.0,2,4,4,3,3,0,16,11,0,0,0,0,0,1,0,0,0,0,1,65,2,5,0,0,0,2,1,04/22/2018,home,12973,4,Adrian,9,True,1,18,-17,loss,101199,15,1866683,2018
+0,0,1.1,0.0,4,3,3,1,1,0,9,7,1,1,0,0,0,0,0,1,0,0,1,0,0,3,0,0,0,2,0,04/27/2018,home,12973,286,Hope,9,True,6,8,-2,loss,102186,15,1866683,2018

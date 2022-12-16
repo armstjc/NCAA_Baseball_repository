@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,1,1,1,2,3,0,13,10,0,0,0,0,0,1,0,0,0,0,0,43,4,2,0,0,0,3,0,03/06/2018,neutral,12973,809,Worcester St.,9,True,10,2,8,win,89004,656,1863389,2018
+0,1,7.0,0.0,6,4,0,2,7,0,30,27,0,0,0,0,0,1,0,0,0,0,0,87,4,9,1,0,0,1,2,03/12/2018,neutral,12973,23260,Spalding,9,True,9,5,4,win,90606,656,1863389,2018
+0,1,5.1,0.0,8,6,5,3,3,0,29,21,1,0,0,0,0,2,0,0,0,2,1,111,8,4,0,1,0,1,2,03/31/2018,home,12973,548,Plymouth St.,9,True,3,6,-3,loss,95511,656,1863389,2018
+0,1,9.0,1,6,2,2,0,4,0,33,32,2,0,0,1,0,0,0,0,0,0,1,103,13,10,0,1,0,1,1,04/07/2018,home,12973,662,Southern Me.,9,True,1,2,-1,loss,96789,656,1863389,2018
+0,1,4.2,0.0,8,7,3,2,3,0,28,23,2,0,0,0,0,2,0,0,0,1,0,92,6,5,0,1,0,1,1,04/14/2018,away,12973,401,UMass Boston,9,True,3,7,-4,loss,98989,656,1863389,2018

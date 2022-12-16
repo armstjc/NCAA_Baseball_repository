@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.2,0.0,5,4,1,1,3,0,15,14,2,0,0,0,0,0,0,3,3,0,0,0,1,4,0,0,0,2,0,03/18/2018,neutral,12973,372,Luther,9,True,4,14,-10,loss,92292,1267,1670324,2018
+0,0,1.0,0.0,2,3,2,1,0,0,8,4,0,0,0,0,1,2,0,0,0,0,1,0,0,2,0,0,0,3,0,03/30/2018,away,12973,348,Lawrence,9,True,5,15,-10,loss,94908,1267,1670324,2018
+0,0,1.0,0.0,2,2,2,0,1,0,6,5,1,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,3,0,04/26/2018,home,12973,30032,Finlandia,9,True,0,5,-5,loss,101980,1267,1670324,2018
+0,0,2.2,0.0,6,12,7,8,7,0,25,14,1,1,0,1,6,2,0,0,0,0,1,113,0,1,0,0,0,3,3,05/01/2018,home,12973,618,St. Scholastica,9,True,3,20,-17,loss,103621,1267,1670324,2018
+0,0,1.0,0.0,0,0,0,1,3,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,05/05/2018,home,12973,8597,Martin Luther,9,True,14,4,10,win,104438,1267,1670324,2018

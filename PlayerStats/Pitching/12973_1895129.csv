@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,3,1,1,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,03/20/2018,away,12973,0,Johnson (TN),9,True,3,20,-17,loss,92591,1194,1895129,2018
+0,0,1.0,0.0,2,1,0,0,2,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,04/10/2018,away,12973,0,Hannibal-La Grange,9,True,1,12,-11,loss,97733,1194,1895129,2018
+0,0,1.0,0.0,1,0,0,1,0,0,6,3,0,0,0,0,0,1,0,0,0,0,1,0,1,2,0,0,0,2,0,04/20/2018,away,12973,582,Rockford,9,True,0,9,-9,loss,100157,1194,1895129,2018
+0,0,3.0,0.0,4,8,5,6,2,0,25,15,1,0,0,0,0,3,0,0,0,0,1,83,4,3,0,0,0,2,2,04/24/2018,away,12973,20220,MSOE,9,True,3,25,-22,loss,101637,1194,1895129,2018
+0,0,1.0,0.0,1,1,1,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,12,2,1,0,0,0,3,0,04/24/2018,away,12973,20220,MSOE,9,True,3,27,-24,loss,101659,1194,1895129,2018

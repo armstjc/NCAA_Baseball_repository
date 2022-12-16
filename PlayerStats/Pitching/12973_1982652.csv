@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,3,3,2,0,0,7,5,0,0,0,0,0,0,0,2,0,0,0,0,2,1,0,0,0,5,0,03/03/2018,neutral,12973,30166,Valley Forge,9,True,12,6,6,win,88174,30084,1982652,2018
+0,0,1.0,0.0,1,0,0,2,1,0,6,3,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,4,1,03/06/2018,neutral,12973,8398,Hilbert,9,True,4,7,-3,loss,88982,30084,1982652,2018
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,03/12/2018,away,12973,0,Christendom,9,True,13,1,12,win,90656,30084,1982652,2018
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,03/24/2018,neutral,12973,958,Clarks Summit,9,True,7,2,5,win,93540,30084,1982652,2018
+0,0,0.1,0.0,2,1,1,1,0,0,4,3,0,0,1,0,0,0,0,2,2,0,0,13,0,1,0,0,0,5,0,04/21/2018,home,12973,751,Wash. & Jeff.,9,True,7,16,-9,loss,100818,30084,1982652,2018

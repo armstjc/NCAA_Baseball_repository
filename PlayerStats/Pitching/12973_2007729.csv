@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,5,4,4,2,1,0,11,8,1,0,0,1,0,0,0,2,2,0,1,0,2,1,0,1,0,2,0,03/09/2018,neutral,12973,641,Simpson,9,True,6,20,-14,loss,89600,1196,2007729,2018
+0,0,2.1,0.0,3,2,2,2,4,0,11,9,1,0,0,0,0,0,0,2,0,0,0,0,1,1,0,0,0,2,3,03/28/2018,away,12973,577,Ripon,9,True,5,8,-3,loss,94380,1196,2007729,2018
+0,0,1.2,0.0,0,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,16,3,0,0,0,0,3,0,04/25/2018,home,12973,160,Concordia Chicago,9,True,1,5,-4,loss,101813,1196,2007729,2018
+0,1,5.0,0.0,4,2,1,1,5,0,18,16,0,2,0,0,0,0,0,0,0,0,1,0,3,5,0,0,0,1,0,04/30/2018,neutral,12973,53,Beloit,9,True,7,8,-1,loss,103424,1196,2007729,2018

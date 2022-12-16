@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,3,0,0,3,0,7,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,03/03/2018,neutral,12973,8968,Eastern,9,True,2,3,-1,loss,88107,8398,1886919,2018
+0,0,0.1,0.0,2,5,0,3,1,0,7,4,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,3,1,03/07/2018,neutral,12973,30084,Geneva,9,True,1,10,-9,loss,89193,8398,1886919,2018
+0,0,0.1,0.0,2,4,4,0,1,0,5,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,1,03/08/2018,neutral,12973,1064,Eastern Nazarene,9,True,8,16,-8,loss,89274,8398,1886919,2018
+0,0,1.1,0.0,4,5,5,3,1,0,11,7,0,0,0,1,0,0,0,0,0,0,1,0,1,2,0,0,0,3,0,03/31/2018,away,12973,25719,Penn St.-Altoona,9,True,6,19,-13,loss,95483,8398,1886919,2018

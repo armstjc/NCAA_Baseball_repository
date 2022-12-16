@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,0.0,1,2,1,2,5,0,21,18,0,0,0,0,0,1,0,0,0,0,0,0,4,5,1,0,0,1,1,02/27/2018,home,12973,30166,Valley Forge,9,True,15,4,11,win,87368,1305,1656898,2018
+0,1,4.0,0.0,3,3,3,2,0,0,16,13,2,0,0,0,1,1,0,0,0,0,0,0,9,1,0,1,0,1,0,03/11/2018,neutral,12973,1064,Eastern Nazarene,9,True,3,4,-1,loss,90484,1305,1656898,2018
+0,1,4.0,0.0,8,3,3,0,4,0,21,20,0,0,0,0,0,1,0,0,0,0,0,0,3,4,0,0,0,1,0,03/16/2018,neutral,12973,770,WestConn,9,True,5,6,-1,loss,91449,1305,1656898,2018
+0,0,3.1,0.0,3,1,1,0,4,0,14,12,0,1,0,0,0,1,0,1,0,1,0,0,4,1,0,0,0,2,3,04/21/2018,home,12973,88,Cabrini,9,True,1,6,-5,loss,100444,1305,1656898,2018
+0,1,4.0,0.0,6,4,4,2,3,0,19,17,0,0,0,1,0,0,0,0,0,0,0,0,4,4,0,1,0,1,0,04/26/2018,home,12973,12399,Gwynedd Mercy,9,True,1,4,-3,loss,101881,1305,1656898,2018
+0,1,6.2,1,7,6,4,1,4,0,30,29,1,0,0,1,0,0,0,0,0,0,0,0,9,7,1,0,0,1,1,05/04/2018,away,12973,958,Clarks Summit,9,True,11,6,5,win,103995,1305,1656898,2018

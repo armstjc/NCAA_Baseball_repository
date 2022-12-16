@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,0.0,6,2,2,1,1,0,16,15,2,0,0,1,0,0,0,0,0,0,0,49,0,8,0,0,0,4,0,03/06/2018,neutral,12973,1315,Pitt.-Bradford,9,True,14,21,-7,loss,89065,987,1761257,2018
+0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1,03/30/2018,away,12973,195,Earlham,9,True,2,11,-9,loss,94859,987,1761257,2018
+0,0,1.2,0.0,3,4,4,4,1,0,13,7,1,1,0,1,1,0,0,0,0,1,1,49,4,1,0,1,0,2,0,04/11/2018,away,12973,1192,Manchester,9,True,8,11,-3,loss,97919,987,1761257,2018

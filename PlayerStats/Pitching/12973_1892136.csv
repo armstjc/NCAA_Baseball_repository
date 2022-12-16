@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,3,1,1,0,2,0,9,9,0,0,0,0,1,0,0,0,0,0,0,40,3,1,0,0,0,2,0,02/09/2018,away,12973,125,Centenary (LA),9,True,0,10,-10,loss,84949,30197,1892136,2018
+0,0,0.1,0.0,5,4,3,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,02/16/2018,home,12973,973,Berry,9,True,3,9,-6,loss,85427,30197,1892136,2018
+0,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,4,0,0,0,0,0,2,0,02/26/2018,away,12973,23121,Texas-Dallas,9,True,0,14,-14,loss,87205,30197,1892136,2018

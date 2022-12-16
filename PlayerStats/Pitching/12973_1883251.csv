@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.0,0.0,4,3,2,1,1,0,11,9,1,0,0,1,1,0,0,0,0,0,1,0,1,3,0,1,0,1,0,03/21/2018,home,12973,137,UChicago,9,True,4,6,-2,loss,92690,8746,1883251,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,04/20/2018,home,12973,1400,Texas Lutheran,9,True,4,8,-4,loss,100087,8746,1883251,2018
+0,0,3.0,0.0,4,2,2,2,2,0,15,11,1,0,0,0,0,1,0,1,0,1,0,69,2,4,0,0,0,2,0,04/24/2018,away,12973,30028,UT Tyler,9,True,5,15,-10,loss,101570,8746,1883251,2018
+0,0,1.1,0.0,3,3,3,2,1,0,8,6,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,2,1,04/27/2018,away,12973,24400,Concordia (TX),9,True,8,4,4,win,102040,8746,1883251,2018
+0,1,3.2,0.0,2,2,2,2,3,0,16,13,0,1,1,0,0,1,0,0,0,0,0,70,5,3,0,0,0,1,2,05/05/2018,neutral,12973,125,Centenary (LA),9,True,3,6,-3,loss,104578,8746,1883251,2018

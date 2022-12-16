@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,4,0,03/11/2018,neutral,12973,1164,Lakeland,9,True,1,5,-4,loss,90483,276,1761342,2018
+0,0,1.1,0.0,1,4,4,4,0,0,9,5,0,1,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,2,0,03/13/2018,neutral,12973,547,Plattsburgh St.,9,True,9,6,3,win,90796,276,1761342,2018
+0,0,0.0,0.0,1,4,4,3,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,5,0,03/24/2018,away,12973,479,NYU,9,True,3,13,-10,loss,93444,276,1761342,2018
+0,0,0.1,0.0,0,3,3,3,0,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,3,0,03/29/2018,home,12973,88,Cabrini,9,True,7,8,-1,loss,94518,276,1761342,2018
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,17,1,1,0,0,0,6,1,04/10/2018,home,12973,753,Washington Col.,9,True,6,13,-7,loss,97729,276,1761342,2018
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,7,0,04/27/2018,away,12973,686,Swarthmore,9,True,7,15,-8,loss,102172,276,1761342,2018

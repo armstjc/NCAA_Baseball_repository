@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,1,1,0,0,0,7,5,1,0,0,0,0,1,0,3,3,0,1,0,1,2,0,0,0,3,0,03/14/2018,neutral,12973,179,Delaware Valley,9,True,0,15,-15,loss,91007,770,1992782,2018
+0,0,2.1,0.0,2,1,1,0,4,0,9,9,0,0,0,1,0,0,0,0,0,0,0,40,2,1,0,0,0,3,1,04/21/2018,home,12973,656,UMass Dartmouth,9,True,1,15,-14,loss,100711,770,1992782,2018
+0,0,4.1,0.0,5,1,1,1,5,0,18,17,1,0,0,0,0,0,0,2,0,0,0,0,6,1,1,0,0,3,1,04/26/2018,away,12973,279,Lehman,9,True,20,12,8,win,101882,770,1992782,2018
+0,0,3.1,0.0,2,1,1,1,2,0,12,11,1,0,0,1,0,0,0,3,2,0,0,0,4,3,1,0,0,2,0,05/01/2018,home,12973,221,FDU-Florham,9,True,14,8,6,win,103485,770,1992782,2018

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,20,1,1,0,0,0,3,0,02/24/2018,away,12973,8404,Hood,9,True,0,4,-4,loss,86845,480,2001332,2018
+0,0,3.0,0.0,3,3,3,1,3,0,13,12,0,0,0,1,0,0,0,0,0,0,0,0,4,2,1,0,0,2,0,03/17/2018,home,12973,30040,Me.-Presque Isle,9,True,4,3,1,win,91795,480,2001332,2018
+0,0,1.0,0.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,3,0,03/24/2018,away,12973,12884,Centenary (NJ),9,True,6,2,4,win,93357,480,2001332,2018
+0,0,1.0,0.0,1,0,0,1,2,0,5,4,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,2,1,03/31/2018,home,12973,279,Lehman,9,True,5,4,1,win,95442,480,2001332,2018
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,0,2,0,0,0,3,0,04/26/2018,away,12973,1340,St. Joseph's (L.I.),9,True,5,10,-5,loss,101919,480,2001332,2018

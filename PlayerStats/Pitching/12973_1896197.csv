@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,4,4,2,1,0,7,5,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,03/08/2018,neutral,12973,120,Carroll (WI),9,True,3,9,-6,loss,89323,804,1896197,2018
+0,0,0.1,0.0,1,2,1,2,1,0,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,03/17/2018,neutral,12973,120,Carroll (WI),9,True,5,12,-7,loss,91882,804,1896197,2018
+0,1,6.0,0.0,5,4,4,3,3,0,25,21,0,1,0,0,3,0,0,0,0,0,1,83,5,8,0,1,0,1,1,03/21/2018,neutral,12973,515,Oberlin,9,True,3,4,-1,loss,92714,804,1896197,2018
+0,1,4.0,0.0,4,4,4,6,5,0,22,15,1,0,0,0,0,1,0,0,0,0,0,92,3,3,0,0,0,1,1,04/20/2018,away,12973,30031,Northwestern-St. Paul,9,True,6,12,-6,loss,100203,804,1896197,2018
+0,1,6.0,0.0,6,3,3,3,4,0,27,21,0,0,0,0,3,1,0,0,0,0,2,0,6,7,1,0,0,1,0,04/27/2018,home,12973,8597,Martin Luther,9,True,10,4,6,win,102183,804,1896197,2018
+0,1,6.0,0.0,6,2,2,2,3,0,26,23,0,1,2,0,1,1,0,0,0,0,0,0,7,7,1,0,0,1,1,05/06/2018,away,12973,30035,Crown (MN),9,True,16,4,12,win,104783,804,1896197,2018

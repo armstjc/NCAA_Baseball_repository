@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,3,2,1,1,0,0,11,8,0,0,0,0,0,0,0,0,0,1,1,0,1,5,0,0,0,2,0,03/03/2018,neutral,12973,137,UChicago,13,True,7,5,2,win,88109,192,1986943,2018
+0,0,0.2,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,03/12/2018,neutral,12973,38,Augsburg,9,True,2,4,-2,loss,90639,192,1986943,2018
+0,0,2.1,0.0,2,1,1,1,1,0,10,9,0,0,1,0,0,0,0,0,0,0,0,0,3,3,1,0,0,2,0,04/10/2018,home,12973,160,Concordia Chicago,9,True,16,5,11,win,97693,192,1986943,2018
+0,0,1.0,0.0,1,1,1,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,04/17/2018,away,12973,337,Knox,9,True,5,2,3,win,99615,192,1986943,2018
+0,0,1.0,0.0,3,2,2,0,0,0,6,5,1,0,0,1,0,0,0,0,0,1,0,18,2,1,0,0,0,2,0,05/19/2018,neutral,12973,160,Concordia Chicago,9,True,3,6,-3,loss,106437,192,1986943,2018

@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.1,0.0,1,0,0,0,3,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,1,03/15/2018,neutral,12973,330,Keene St.,9,True,6,9,-3,loss,91086,69,1895458,2018
+0,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,3,0,03/19/2018,neutral,12973,1226,Minn.-Morris,9,True,6,2,4,win,92463,69,1895458,2018
+0,0,1.2,0.0,0,0,0,1,1,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,2,1,03/20/2018,neutral,12973,45,Babson,9,True,11,4,7,win,92610,69,1895458,2018
+0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,03/23/2018,neutral,12973,296,Benedictine (IL),9,True,3,5,-2,loss,93008,69,1895458,2018
+0,0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,3,0,03/31/2018,away,12973,50,Bates,9,True,3,5,-2,loss,95489,69,1895458,2018
+0,0,0.1,0.0,1,1,0,1,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,04/07/2018,away,12973,713,Trinity (CT),9,True,3,6,-3,loss,96710,69,1895458,2018

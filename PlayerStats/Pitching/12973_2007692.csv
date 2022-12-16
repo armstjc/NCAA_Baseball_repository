@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,03/09/2018,neutral,12973,25719,Penn St.-Altoona,9,True,9,3,6,win,89535,580,2007692,2018
+0,0,2.0,0.0,2,2,2,1,2,0,9,8,1,0,0,1,0,0,0,0,0,0,0,37,2,2,0,0,0,2,0,03/11/2018,neutral,12973,401,UMass Boston,9,True,2,9,-7,loss,90414,580,2007692,2018
+0,0,1.0,0.0,1,1,1,0,0,0,4,4,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,2,0,03/28/2018,neutral,12973,23624,Cazenovia,9,True,7,2,5,win,94366,580,2007692,2018
+0,0,2.0,0.0,3,1,1,2,2,0,11,9,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,3,0,04/20/2018,away,12973,601,St. John Fisher,9,True,0,3,-3,loss,100212,580,2007692,2018
+0,0,0.2,0.0,2,2,2,3,1,0,7,4,0,1,0,0,0,0,0,2,2,0,0,30,1,0,0,0,0,6,0,04/24/2018,neutral,12973,146,Clarkson,9,True,4,14,-10,loss,101706,580,2007692,2018
+0,0,1.0,0.0,0,0,0,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,5,0,04/29/2018,away,12973,78,SUNY Brockport,9,True,7,8,-1,loss,103289,580,2007692,2018

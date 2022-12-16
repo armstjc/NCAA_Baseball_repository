@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,2,2,1,1,0,7,5,0,0,0,0,1,0,0,0,0,0,1,25,0,3,0,0,0,3,0,03/31/2018,home,12973,737,Vassar,9,True,2,16,-14,loss,95275,607,2009055,2018
+0,0,1.0,0.0,2,1,0,1,1,0,6,5,1,0,0,0,0,0,0,0,0,0,0,19,1,1,0,0,0,5,0,04/21/2018,home,12973,727,Union (NY),9,True,4,18,-14,loss,100919,607,2009055,2018
+0,0,3.0,0.0,2,1,1,0,4,0,11,11,1,0,0,0,0,0,0,0,0,0,0,44,3,2,1,0,0,3,1,04/29/2018,home,12973,962,Bard,9,True,14,10,4,win,103319,607,2009055,2018
+0,0,1.2,0.0,2,1,1,1,0,0,9,7,0,0,0,0,0,1,0,2,1,0,0,0,4,1,0,0,0,2,0,05/01/2018,away,12973,580,RIT,9,True,3,5,-2,loss,103609,607,2009055,2018
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,05/06/2018,home,12973,146,Clarkson,9,True,2,8,-6,loss,104774,607,2009055,2018

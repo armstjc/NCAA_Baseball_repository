@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,4,1,03/04/2018,neutral,12973,336,King's (PA),9,True,10,6,4,win,88604,605,1896678,2018
+0,0,1.0,0.0,1,1,1,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,2,0,03/10/2018,neutral,12973,808,WPI,9,True,3,6,-3,loss,90081,605,1896678,2018
+0,0,1.0,0.0,2,1,1,1,2,0,7,5,0,0,0,0,0,1,0,0,0,0,0,36,0,1,0,0,0,4,0,04/09/2018,home,12973,69,Bowdoin,9,True,14,4,10,win,97405,605,1896678,2018
+0,1,4.0,0.0,5,6,6,2,3,0,20,17,2,0,0,1,0,1,0,0,0,0,0,0,4,5,0,1,0,1,0,05/01/2018,away,12973,511,Norwich,9,True,5,6,-1,loss,103620,605,1896678,2018

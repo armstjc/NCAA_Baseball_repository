@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,0.0,3,0,0,3,6,0,27,24,1,0,0,0,0,0,0,0,0,0,0,106,6,9,1,0,0,1,0,02/26/2018,neutral,12973,24400,Concordia (TX),9,True,2,0,2,win,87239,160,1758069,2018
+0,1,5.0,0.0,1,0,0,1,3,0,15,14,0,0,0,0,0,0,0,0,0,0,0,0,6,4,1,0,0,1,0,03/05/2018,neutral,12973,601,St. John Fisher,9,True,12,0,12,win,88792,160,1758069,2018
+0,1,8.0,0.0,7,1,1,1,1,0,29,28,1,1,0,0,0,0,0,0,0,0,0,104,9,11,1,0,0,1,0,03/11/2018,neutral,12973,712,TCNJ,9,True,9,1,8,win,90459,160,1758069,2018
+0,1,5.2,0.0,3,0,0,2,4,0,22,20,0,0,0,0,0,0,0,0,0,0,0,99,5,8,1,0,0,1,2,03/17/2018,away,12973,750,Wartburg,9,True,4,2,2,win,91592,160,1758069,2018

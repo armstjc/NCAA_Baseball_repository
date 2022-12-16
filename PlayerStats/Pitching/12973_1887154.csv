@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,1,0,0,6,4,1,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,4,0,03/10/2018,neutral,12973,286,Hope,9,True,4,12,-8,loss,90274,1115,1887154,2018
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,23,1,1,0,0,0,7,0,03/31/2018,home,12973,1192,Manchester,9,True,5,14,-9,loss,95461,1115,1887154,2018
+0,0,1.1,0.0,3,4,4,2,1,0,10,7,1,0,0,0,0,1,0,0,0,0,0,30,0,3,0,0,0,2,0,04/06/2018,away,12973,2694,Franklin,10,True,10,11,-1,loss,96305,1115,1887154,2018
+0,0,2.0,0.0,5,5,5,4,2,0,14,10,2,0,0,1,1,0,0,0,0,0,0,64,3,0,0,0,0,3,1,04/06/2018,away,12973,2694,Franklin,9,True,0,18,-18,loss,96327,1115,1887154,2018

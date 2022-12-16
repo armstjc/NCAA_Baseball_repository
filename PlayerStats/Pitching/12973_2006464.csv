@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,03/05/2018,home,12973,0,Central Penn,9,True,20,4,16,win,88734,1305,2006464,2018
+0,0,1.0,0.0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,03/13/2018,neutral,12973,411,Messiah,9,True,9,6,3,win,90797,1305,2006464,2018
+0,0,0.1,0.0,0,1,1,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,03/16/2018,neutral,12973,770,WestConn,9,True,5,6,-1,loss,91449,1305,2006464,2018
+0,0,1.0,0.0,1,1,1,1,0,0,5,2,0,0,0,0,0,1,0,0,0,0,1,0,0,2,1,0,0,2,0,03/28/2018,home,12973,0,Penn St.-Brandywine,9,True,4,2,2,win,94277,1305,2006464,2018
+0,1,2.0,0.0,7,6,5,2,3,0,16,14,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,1,1,04/19/2018,home,12973,30114,Penn St.-Abington,9,True,1,9,-8,loss,99909,1305,2006464,2018
+0,0,0.2,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,3,1,0,0,0,0,1,0,0,0,5,0,04/28/2018,home,12973,30047,Keystone,9,True,0,17,-17,loss,102681,1305,2006464,2018

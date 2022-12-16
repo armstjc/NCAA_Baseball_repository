@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,1,0,1,1,0,6,5,0,0,0,1,0,0,1,0,0,0,0,22,1,1,0,0,0,2,0,02/07/2015,home,12080,30120,William Jewell,10,True,10,9,1,win,404446,30152,1557542,2015
+0,0,0.2,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,9,0,1,0,0,0,4,0,02/20/2015,home,12080,1376,Southern Ark.,9,True,5,12,-7,loss,405795,30152,1557542,2015
+0,0,1.2,1,0,0,1,1,0,7,6,0,0,0,0,0,0,0,3,1,0,0,23,3,1,0,0,0,5,0,02/21/2015,home,12080,1376,Southern Ark.,9,True,1,17,-16,loss,405917,30152,1557542,2015
+0,0,1.1,4,2,2,2,1,0,9,7,1,0,0,1,0,0,2,0,0,0,0,0,1,1,0,0,0,3,0,03/27/2015,away,12080,1371,Southeastern Okla.,9,True,3,13,-10,loss,413260,30152,1557542,2015
+0,0,1.0,4,5,5,1,1,0,8,6,1,0,1,2,0,1,0,2,0,0,0,0,1,0,0,0,0,3,1,04/14/2015,away,12080,30178,Northwestern Okla.,9,True,13,21,-8,loss,418687,30152,1557542,2015

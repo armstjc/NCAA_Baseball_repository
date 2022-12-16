@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.2,3,0,0,0,4,0,10,10,1,0,0,0,0,0,0,3,0,0,0,39,3,0,0,0,0,3,3,02/14/2015,home,12080,129,Central Mich.,12,True,6,7,-1,loss,405212,28755,1532628,2015
+0,0,2.0,2,0,0,0,1,0,8,8,0,0,0,0,0,0,0,0,0,0,0,29,4,1,0,0,0,3,0,04/08/2015,away,12080,234,Florida St.,9,True,5,0,5,win,416812,28755,1532628,2015
+0,0,1.2,4,2,2,1,1,0,10,9,1,0,0,0,0,0,0,0,0,0,0,30,2,2,0,1,0,3,0,04/10/2015,home,12080,316,Jacksonville,9,True,2,4,-2,loss,417021,28755,1532628,2015
+0,0,0.0,2,0,0,1,0,0,3,2,0,0,0,0,0,0,0,2,2,0,0,8,0,0,0,0,0,2,0,04/14/2015,home,12080,229,Fla. Atlantic,9,True,6,10,-4,loss,418587,28755,1532628,2015

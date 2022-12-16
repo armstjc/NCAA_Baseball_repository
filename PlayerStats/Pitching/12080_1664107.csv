@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,4,3,0,1,6,0,28,25,0,0,0,1,0,1,0,0,0,1,0,0,9,7,0,0,0,1,3,02/21/2015,neutral,12080,28749,Transylvania,9,True,4,3,1,win,406190,4,1664107,2015
+0,1,1.2,3,6,1,2,0,0,12,9,1,0,1,0,0,1,0,0,0,0,0,0,5,0,0,1,0,1,0,03/08/2015,neutral,12080,939,Anderson (IN),9,True,1,11,-10,loss,408640,4,1664107,2015
+0,0,1.1,2,0,0,3,0,0,8,5,0,0,0,0,0,0,0,0,0,0,0,30,2,1,0,0,0,3,0,04/21/2015,home,12080,0,Siena Heights,9,True,7,11,-4,loss,421011,4,1664107,2015
+0,0,0.0,3,4,4,1,0,0,4,3,1,0,0,1,0,0,0,0,0,0,0,13,0,0,0,1,0,2,0,05/02/2015,away,12080,114,Calvin,9,True,4,8,-4,loss,423886,4,1664107,2015

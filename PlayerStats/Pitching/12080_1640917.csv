@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0,0,0,0,6,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,03/12/2015,neutral,12080,30190,Penn College,9,True,7,5,2,win,409339,753,1640917,2015
+0,1,5.0,6,2,2,0,6,0,21,20,1,0,1,0,0,1,0,0,0,0,0,0,6,1,1,0,0,1,0,04/02/2015,away,12080,773,McDaniel,9,True,11,7,4,win,415037,753,1640917,2015
+0,1,6.0,7,3,2,1,6,0,28,26,1,0,0,0,0,1,0,0,0,0,0,96,5,7,0,0,0,1,0,04/11/2015,away,12080,258,Gettysburg,10,True,4,5,-1,loss,417771,753,1640917,2015
+0,1,5.2,8,4,1,2,3,0,25,22,4,0,0,0,0,0,0,0,0,0,1,0,6,6,0,0,0,1,1,04/18/2015,away,12080,276,Haverford,9,True,5,4,1,win,420256,753,1640917,2015
+0,1,6.0,5,2,1,1,4,0,27,25,1,0,0,0,0,0,0,0,0,1,0,0,6,6,0,0,0,1,2,04/25/2015,away,12080,185,Dickinson,11,True,2,3,-1,loss,421876,753,1640917,2015

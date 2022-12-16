@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.2,11,5,5,1,3,0,30,26,0,0,0,1,0,1,0,0,0,0,2,0,7,7,0,0,0,1,0,03/08/2015,neutral,12080,150,Coe,9,True,6,7,-1,loss,408653,583,1660374,2015
+0,1,3.1,2,2,2,7,2,0,19,11,1,0,0,1,0,0,0,0,0,1,0,0,6,1,0,0,0,1,0,03/13/2015,neutral,12080,684,Suffolk,12,True,2,3,-1,loss,409669,583,1660374,2015
+0,0,1.2,3,2,2,4,1,0,12,8,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,3,0,03/31/2015,away,12080,621,Salem St.,9,True,2,8,-6,loss,414556,583,1660374,2015
+0,1,2.0,4,5,3,1,1,0,13,12,2,0,0,2,0,0,0,0,0,0,0,0,4,1,0,1,0,1,1,04/12/2015,home,12080,170,Curry,9,True,2,9,-7,loss,418329,583,1660374,2015
+0,0,4.1,1,0,0,1,2,0,16,14,0,0,0,0,0,0,0,2,0,1,0,0,7,4,1,0,0,2,0,04/19/2015,away,12080,484,Nichols,9,True,7,5,2,win,420564,583,1660374,2015

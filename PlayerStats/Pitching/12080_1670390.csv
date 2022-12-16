@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,7,2,2,0,3,0,23,23,2,0,0,0,0,0,0,0,0,0,0,0,8,4,0,0,0,1,1,03/17/2015,neutral,12080,8486,Lasell,9,True,3,2,1,win,410936,322,1670390,2015
+0,0,0.2,2,1,1,1,1,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,04/01/2015,away,12080,185,Dickinson,13,True,8,8,0,tie,414789,322,1670390,2015

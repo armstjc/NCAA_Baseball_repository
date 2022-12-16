@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,3,1,0,0,1,0,9,9,1,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,2,0,02/28/2015,away,12080,537,UNC Pembroke,9,True,5,8,-3,loss,406890,638,1652399,2015
+0,0,0.2,3,3,3,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,25,0,1,0,0,0,3,0,03/08/2015,neutral,12080,349,Le Moyne,9,True,3,11,-8,loss,408611,638,1652399,2015
+0,0,1.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,03/10/2015,away,12080,1001,Catawba,9,True,4,12,-8,loss,408882,638,1652399,2015
+0,1,2.0,7,7,7,2,2,0,14,12,0,0,2,1,0,0,0,0,0,0,0,58,1,2,0,1,0,1,0,03/18/2015,home,12080,1460,Wilmington (DE),9,True,7,13,-6,loss,411116,638,1652399,2015
+0,0,0.1,3,5,5,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,1,0,2,0,03/24/2015,home,12080,307,Indiana (PA),9,True,6,13,-7,loss,412801,638,1652399,2015
+0,0,1.0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,20,2,0,0,0,0,5,1,04/21/2015,home,12080,10870,Shepherd,9,True,0,8,-8,loss,420930,638,1652399,2015

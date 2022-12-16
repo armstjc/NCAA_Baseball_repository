@@ -1,0 +1,8 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,2,2,2,1,0,6,4,1,1,0,0,0,0,0,0,0,0,0,21,0,1,0,0,0,3,1,03/05/2015,neutral,12080,303,Immaculata,9,True,7,10,-3,loss,407583,8597,1667544,2015
+0,0,2.0,6,7,1,2,1,0,13,11,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,2,0,03/08/2015,neutral,12080,179,Delaware Valley,9,True,2,11,-9,loss,408624,8597,1667544,2015
+0,0,2.0,0,0,0,2,0,0,9,6,0,0,0,0,0,0,0,3,2,0,1,0,1,5,0,0,0,3,0,04/04/2015,home,12080,30031,Northwestern-St. Paul,9,True,3,10,-7,loss,415912,8597,1667544,2015
+0,0,1.0,3,4,3,3,1,0,9,6,0,0,0,1,0,0,0,0,0,0,0,41,1,1,0,0,0,2,1,04/08/2015,home,12080,30038,Bethany Lutheran,9,True,4,16,-12,loss,416873,8597,1667544,2015
+0,0,1.0,3,3,3,3,0,0,9,6,0,0,0,0,0,0,0,2,2,0,0,0,1,2,0,0,0,2,0,04/13/2015,away,12080,266,Gust. Adolphus,9,True,8,12,-4,loss,418520,8597,1667544,2015
+0,0,1.2,1,2,1,2,1,0,10,5,0,0,0,1,0,3,0,2,2,0,0,0,1,2,0,0,0,2,0,04/18/2015,home,12080,618,St. Scholastica,9,True,1,11,-10,loss,419643,8597,1667544,2015
+0,0,4.0,6,3,3,1,1,0,18,17,1,0,0,1,0,0,0,0,0,0,0,0,2,8,0,0,0,2,1,04/27/2015,home,12080,266,Gust. Adolphus,9,True,5,10,-5,loss,422752,8597,1667544,2015

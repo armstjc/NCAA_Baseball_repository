@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,3.0,6,4,4,4,3,0,16,12,2,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,1,1,03/17/2015,neutral,12080,278,Heidelberg,9,True,10,12,-2,loss,410994,27892,1659491,2015
+0,0,1.0,2,1,1,0,1,0,5,5,0,1,0,0,0,0,0,3,0,0,0,0,0,2,0,0,0,2,1,03/26/2015,away,12080,787,Wm. Paterson,9,True,3,6,-3,loss,413091,27892,1659491,2015

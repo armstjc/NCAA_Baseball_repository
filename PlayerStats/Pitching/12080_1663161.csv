@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,5,1,0,2,2,0,27,24,1,0,0,0,0,0,0,0,0,1,0,0,10,7,1,0,0,1,0,02/28/2015,neutral,12080,38,Augsburg,9,True,5,1,4,win,407008,2694,1663161,2015
+0,1,7.0,7,1,1,1,1,0,26,25,1,0,0,2,0,0,0,0,0,0,0,0,11,5,0,0,0,1,1,03/11/2015,neutral,12080,117,Capital,10,True,3,4,-1,loss,409262,2694,1663161,2015
+0,0,2.0,6,5,4,0,0,0,13,12,0,2,0,1,0,1,0,0,0,0,0,0,4,1,0,1,0,2,0,03/15/2015,neutral,12080,492,North Central (IL),9,True,6,11,-5,loss,410479,2694,1663161,2015
+0,0,2.2,3,1,1,1,1,0,12,10,1,0,1,0,0,1,0,0,0,0,0,0,2,4,0,0,0,2,0,03/20/2015,away,12080,987,Bluffton,9,True,2,6,-4,loss,411434,2694,1663161,2015
+0,1,3.2,5,4,2,4,1,0,21,17,1,0,0,1,0,0,0,0,0,0,0,0,8,2,0,1,0,1,0,03/25/2015,away,12080,585,Rose-Hulman,9,True,1,7,-6,loss,412983,2694,1663161,2015
+0,0,0.2,1,2,2,4,1,0,7,3,1,0,0,0,0,0,0,3,1,0,0,0,1,0,0,0,0,2,0,03/29/2015,away,12080,939,Anderson (IN),9,True,6,9,-3,loss,414243,2694,1663161,2015

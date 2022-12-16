@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.1,3,5,5,2,0,0,15,11,2,0,0,0,0,2,0,0,0,0,0,0,4,1,0,1,0,1,0,03/08/2015,neutral,12080,707,Thiel,9,True,4,6,-2,loss,408503,525,1641046,2015
+0,1,1.2,2,4,4,2,0,0,9,6,1,0,0,0,0,0,0,0,0,0,1,0,2,3,0,1,0,1,0,03/13/2015,neutral,12080,322,Johns Hopkins,9,True,2,16,-14,loss,409589,525,1641046,2015

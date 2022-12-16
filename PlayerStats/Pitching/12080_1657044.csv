@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,2,2,2,1,1,0,11,8,1,0,0,1,0,2,0,0,0,0,0,52,2,3,0,0,0,7,0,02/21/2015,home,12080,768,West Virginia,9,True,4,12,-8,loss,405905,253,1657044,2015
+0,0,1.0,4,6,6,3,0,0,10,7,1,0,0,0,0,0,0,0,0,0,0,37,3,0,0,0,0,5,0,03/10/2015,away,12080,255,Georgia Tech,9,True,6,22,-16,loss,408850,253,1657044,2015
+0,0,0.1,2,2,2,2,0,0,5,3,1,0,0,1,0,0,0,0,0,0,0,20,0,1,0,0,0,7,0,04/07/2015,away,12080,1014,Col. of Charleston,9,True,0,11,-11,loss,416532,253,1657044,2015

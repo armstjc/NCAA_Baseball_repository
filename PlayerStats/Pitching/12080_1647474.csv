@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,2,0,04/15/2015,home,12080,713,Trinity (CT),9,True,12,9,3,win,418965,1099,1647474,2015
+0,0,0.1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,3,0,0,0,6,0,0,0,0,0,4,0,04/22/2015,home,12080,50,Bates,9,True,3,7,-4,loss,421155,1099,1647474,2015
+0,0,3.0,4,3,2,2,3,0,16,13,2,0,0,2,1,0,0,0,0,0,1,51,1,5,0,0,0,2,0,04/23/2015,home,12080,73,Brandeis,9,True,10,7,3,win,421211,1099,1647474,2015
+0,0,1.0,2,2,2,1,0,0,6,5,0,0,0,2,0,0,0,0,0,0,0,28,2,1,0,0,0,4,0,04/28/2015,home,12080,21772,Newbury,9,True,8,2,6,win,422925,1099,1647474,2015

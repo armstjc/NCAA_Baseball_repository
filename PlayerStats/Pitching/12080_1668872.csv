@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,1,2,0,6,3,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,3,1,03/09/2015,away,12080,426,Millsaps,9,True,9,14,-5,loss,408694,300,1668872,2015
+0,0,1.2,1,0,0,1,1,0,7,6,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,3,0,03/22/2015,away,12080,759,Webster,9,True,5,13,-8,loss,412514,300,1668872,2015
+0,0,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,4,0,03/31/2015,away,12080,496,North Park,9,True,10,2,8,win,414701,300,1668872,2015
+0,0,1.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,3,1,0,0,12,1,0,0,0,0,2,1,04/04/2015,away,12080,492,North Central (IL),9,True,1,9,-8,loss,415803,300,1668872,2015
+0,0,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,04/15/2015,home,12080,296,Benedictine (IL),9,True,5,0,5,win,418883,300,1668872,2015
+0,0,0.2,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,2,1,0,0,0,1,1,0,0,0,4,0,04/20/2015,home,12080,40,Augustana (IL),9,True,3,18,-15,loss,420672,300,1668872,2015

@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,2,2,0,1,0,6,5,2,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,4,0,02/14/2015,away,12080,2713,Oglethorpe,9,True,3,18,-15,loss,405111,479,1661473,2015
+0,0,2.1,1,2,2,5,0,0,12,6,0,0,0,0,0,1,0,0,0,0,0,0,2,3,0,0,0,2,0,03/11/2015,neutral,12080,755,WashU,9,True,0,10,-10,loss,409216,479,1661473,2015
+0,0,0.1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,4,0,03/14/2015,neutral,12080,73,Brandeis,9,True,6,8,-2,loss,410027,479,1661473,2015
+0,0,1.2,1,0,0,0,1,0,5,5,0,0,0,0,0,0,0,2,1,0,0,0,3,0,0,0,0,3,0,04/11/2015,home,12080,30072,St. Joseph's (Brkln),9,True,1,10,-9,loss,417855,479,1661473,2015
+0,0,1.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,04/27/2015,away,12080,730,Ursinus,9,True,5,8,-3,loss,422718,479,1661473,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,3,0,04/29/2015,home,12080,480,CCNY,9,True,9,8,1,win,423158,479,1661473,2015

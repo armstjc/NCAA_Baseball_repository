@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0,0,0,0,1,0,7,6,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0,0,0,2,0,03/14/2015,neutral,12080,245,Gallaudet,9,True,13,2,11,win,409984,45,1443300,2015
+0,1,2.1,5,7,6,4,2,0,18,12,1,0,0,0,0,1,0,0,0,0,1,0,3,2,0,1,0,1,1,03/18/2015,neutral,12080,286,Hope,9,True,6,14,-8,loss,411179,45,1443300,2015
+0,1,4.1,6,4,3,2,1,0,20,18,2,0,0,0,0,0,0,0,0,0,0,0,8,3,0,1,0,1,0,04/13/2015,away,12080,656,UMass Dartmouth,9,True,4,7,-3,loss,418493,45,1443300,2015
+0,0,1.0,3,1,1,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,20,1,0,0,0,0,2,0,04/30/2015,home,12080,401,UMass Boston,9,True,4,8,-4,loss,423249,45,1443300,2015

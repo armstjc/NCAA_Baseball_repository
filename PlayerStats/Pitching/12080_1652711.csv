@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,3,5,5,2,3,0,10,6,1,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,2,1,02/07/2015,home,12080,1454,Whitworth,9,True,2,10,-8,loss,404540,549,1652711,2015
+0,0,1.0,4,3,3,0,1,0,8,7,2,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,2,0,02/18/2015,home,12080,50,Bates,9,True,9,6,3,win,405587,549,1652711,2015
+0,0,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,4,0,03/23/2015,home,12080,398,MIT,9,True,14,4,10,win,412524,549,1652711,2015
+0,0,1.0,3,2,2,1,1,0,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,04/03/2015,away,12080,105,Cal Lutheran,9,True,2,13,-11,loss,415292,549,1652711,2015
+0,0,0.1,1,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,04/10/2015,home,12080,134,Chapman,9,True,3,16,-13,loss,416994,549,1652711,2015

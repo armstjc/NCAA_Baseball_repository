@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,3,2,1,2,1,0,15,13,0,0,0,1,0,0,0,0,0,0,0,0,7,2,0,0,0,1,1,03/09/2015,neutral,12080,30044,Penn St.-Berks,9,True,5,4,1,win,408821,75,1531156,2015
+0,0,0.2,1,2,2,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,03/15/2015,away,12080,745,Va. Wesleyan,9,True,1,7,-6,loss,410260,75,1531156,2015
+0,1,4.0,5,4,3,3,2,0,24,16,0,0,0,1,0,3,0,0,0,1,1,0,8,2,0,0,0,1,0,03/19/2015,home,12080,21852,Stevenson,10,True,7,7,0,tie,411304,75,1531156,2015
+0,0,1.0,3,2,2,0,0,0,6,6,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,6,0,03/25/2015,away,12080,752,Wash. & Lee,9,True,0,13,-13,loss,412853,75,1531156,2015
+0,0,2.0,3,4,1,0,2,0,12,12,1,0,0,1,0,0,0,0,0,0,0,0,1,3,0,0,0,5,0,03/30/2015,home,12080,225,Ferrum,9,True,5,11,-6,loss,414322,75,1531156,2015
+0,0,0.2,2,1,1,0,0,0,6,3,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,3,0,04/06/2015,home,12080,390,Mary Washington,9,True,0,3,-3,loss,416451,75,1531156,2015

@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,6,2,1,1,0,0,11,9,0,0,0,0,0,0,1,0,0,0,1,0,1,3,0,1,0,6,0,02/14/2015,neutral,12080,118,Carleton,10,True,16,17,-1,loss,405335,271,1430637,2015
+0,0,1.2,1,1,1,0,2,0,7,6,0,1,0,1,0,1,0,0,0,0,0,0,0,3,0,0,0,3,0,02/21/2015,home,12080,1400,Texas Lutheran,9,True,2,5,-3,loss,406188,271,1430637,2015
+0,0,0.2,5,3,3,0,0,0,6,6,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,03/08/2015,home,12080,8490,LeTourneau,9,True,2,4,-2,loss,408462,271,1430637,2015
+0,1,1.2,6,7,7,0,0,0,12,10,2,0,1,1,0,1,0,0,0,0,1,0,2,3,0,1,0,1,0,03/24/2015,away,12080,715,Trinity (TX),9,True,4,19,-15,loss,412631,271,1430637,2015

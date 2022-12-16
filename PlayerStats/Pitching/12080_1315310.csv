@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,3,0,02/28/2015,home,12080,101,CSUN,9,True,0,6,-6,loss,406778,610,1315310,2015
+0,0,2.0,0,0,0,0,3,0,6,6,0,0,0,0,0,0,0,0,0,0,0,20,2,1,0,0,0,5,2,03/01/2015,home,12080,101,CSUN,9,True,4,7,-3,loss,407036,610,1315310,2015
+0,0,0.0,0,2,2,1,0,0,2,0,0,0,0,1,0,1,0,0,0,0,0,11,0,0,0,0,0,4,0,03/07/2015,away,12080,30024,Utah Valley,9,True,14,9,5,win,407935,610,1315310,2015
+0,0,0.2,2,3,3,2,1,0,8,4,1,0,0,0,0,2,0,0,0,0,0,34,0,1,0,0,0,4,0,05/08/2015,away,12080,77,BYU,9,True,1,17,-16,loss,424738,610,1315310,2015

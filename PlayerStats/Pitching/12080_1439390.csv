@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,2,2,2,2,0,6,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,02/21/2015,away,12080,1023,Coker,9,True,11,5,6,win,406189,30063,1439390,2015
+0,0,2.0,1,0,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,4,0,03/07/2015,neutral,12080,591,Saginaw Valley,9,True,12,5,7,win,408121,30063,1439390,2015
+0,0,4.0,2,0,0,0,3,0,14,13,1,0,0,0,0,1,0,3,2,0,0,0,6,2,0,0,1,2,1,03/10/2015,neutral,12080,1403,Tiffin,9,True,9,4,5,win,408971,30063,1439390,2015
+0,0,2.2,3,0,0,0,0,0,10,10,0,0,0,0,0,0,0,1,0,0,0,39,6,1,1,0,0,2,0,03/15/2015,home,12080,106,California (PA),9,True,5,2,3,win,410343,30063,1439390,2015
+0,0,1.0,3,2,2,1,0,0,6,5,0,0,1,0,0,0,0,0,0,0,0,24,2,0,0,0,0,2,0,04/04/2015,away,12080,143,Clarion,9,True,14,4,10,win,415991,30063,1439390,2015

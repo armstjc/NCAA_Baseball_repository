@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,1,1,0,2,0,5,5,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,03/14/2015,home,12080,2713,Oglethorpe,9,True,5,10,-5,loss,409817,426,1642884,2015
+0,0,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,4,0,03/24/2015,home,12080,137,UChicago,9,True,18,11,7,win,412617,426,1642884,2015
+0,0,2.0,1,0,0,1,0,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,5,0,03/29/2015,home,12080,132,Centre,9,True,7,2,5,win,413899,426,1642884,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,04/21/2015,home,12080,429,Mississippi Col.,9,True,15,1,14,win,420758,426,1642884,2015

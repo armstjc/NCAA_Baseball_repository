@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,5,0,03/11/2015,away,12080,787,Wm. Paterson,9,True,5,9,-4,loss,409075,382,1667170,2015
+0,0,1.0,1,2,2,0,1,0,5,4,1,0,0,1,0,1,0,0,0,0,0,19,1,1,0,0,0,7,1,03/30/2015,home,12080,20,DeSales,9,True,9,16,-7,loss,414341,382,1667170,2015
+0,0,2.0,1,2,1,2,3,0,9,7,0,0,0,1,0,0,0,2,2,0,0,0,3,0,0,0,0,2,3,04/08/2015,away,12080,1468,Mt. St. Mary (NY),9,True,4,6,-2,loss,416833,382,1667170,2015
+0,0,1.0,1,2,1,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,25,2,0,0,0,0,5,0,04/12/2015,home,12080,8968,Eastern,9,True,5,9,-4,loss,418407,382,1667170,2015
+0,0,0.1,0,0,0,0,2,0,2,2,0,0,0,1,0,0,0,3,1,0,0,8,0,0,0,0,0,4,1,04/14/2015,home,12080,279,Lehman,9,True,5,11,-6,loss,418722,382,1667170,2015
+0,0,1.0,4,3,1,0,0,0,8,8,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,04/25/2015,away,12080,16142,Misericordia,9,True,2,12,-10,loss,421830,382,1667170,2015

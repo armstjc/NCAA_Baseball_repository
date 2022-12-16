@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,3,3,3,1,2,0,7,6,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,02/21/2015,neutral,12080,423,Millersville,9,True,1,15,-14,loss,406166,349,1654896,2015
+0,0,0.2,0,1,0,3,1,0,6,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,03/14/2015,away,12080,543,Jefferson,9,True,9,13,-4,loss,409923,349,1654896,2015
+0,0,1.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,16,0,1,0,0,0,3,0,04/12/2015,away,12080,22,American Int'l,9,True,12,6,6,win,418433,349,1654896,2015
+0,0,1.0,3,2,2,2,1,0,8,6,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,04/15/2015,away,12080,197,East Stroudsburg,9,True,3,12,-9,loss,419036,349,1654896,2015
+0,0,1.0,1,1,1,0,1,0,5,3,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,5,1,05/02/2015,away,12080,533,Pace,9,True,6,8,-2,loss,424018,349,1654896,2015

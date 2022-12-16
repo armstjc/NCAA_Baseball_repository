@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,1,1,0,1,2,0,6,4,0,0,0,0,0,0,0,2,0,0,1,0,1,1,0,0,0,5,1,02/14/2015,away,12080,30135,California Baptist,9,True,5,7,-2,loss,404985,92,1654869,2015
+0,0,0.0,3,2,2,1,0,0,4,3,0,0,1,0,0,0,0,0,0,0,0,18,0,0,0,0,0,3,0,02/19/2015,home,12080,112,UC San Diego,9,True,0,12,-12,loss,405622,92,1654869,2015
+0,0,1.0,2,3,2,0,2,0,8,5,0,0,0,1,0,3,0,0,0,0,0,24,1,0,0,0,0,3,1,02/21/2015,away,12080,112,UC San Diego,9,True,0,19,-19,loss,405940,92,1654869,2015
+0,0,0.0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,3,0,0,0,0,0,3,0,04/24/2015,away,12080,30055,Cal St. Monterey Bay,9,True,3,13,-10,loss,421349,92,1654869,2015

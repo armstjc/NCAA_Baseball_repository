@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,2,2,2,1,0,7,4,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,4,0,03/11/2015,neutral,12080,30114,Penn St.-Abington,9,True,16,20,-4,loss,409244,325,1665705,2015
+0,1,5.0,7,8,5,2,1,0,28,26,0,1,0,0,0,0,0,0,0,0,0,0,3,11,0,1,0,1,0,04/08/2015,home,12080,25719,Penn St.-Altoona,9,True,3,11,-8,loss,416892,325,1665705,2015
+0,1,2.2,1,1,1,4,0,0,12,7,0,0,0,1,0,1,0,0,0,0,0,0,2,4,0,1,0,1,0,04/14/2015,away,12080,30036,Mount Aloysius,9,True,0,2,-2,loss,418821,325,1665705,2015
+0,0,1.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,18,0,2,0,0,0,4,0,04/19/2015,away,12080,443,Moravian,9,True,5,18,-13,loss,420336,325,1665705,2015

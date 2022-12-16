@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,1,2,1,3,3,0,11,8,1,0,0,2,0,0,0,0,0,0,0,0,1,2,0,0,0,2,1,03/11/2015,neutral,12080,1305,Cairn,9,True,24,7,17,win,409182,8567,1647872,2015
+0,0,2.0,2,1,1,3,1,0,11,8,1,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,2,1,03/16/2015,home,12080,1461,Wilmington (OH),9,True,9,7,2,win,410591,8567,1647872,2015
+0,0,0.1,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,03/24/2015,away,12080,195,Earlham,9,True,0,8,-8,loss,412753,8567,1647872,2015
+0,0,0.2,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,03/29/2015,neutral,12080,1050,Defiance,9,True,1,16,-15,loss,414296,8567,1647872,2015
+0,1,3.0,6,8,3,6,4,0,21,14,0,1,0,2,0,0,0,0,0,1,0,0,4,0,0,1,0,1,0,04/01/2015,away,12080,517,Ohio Northern,9,True,9,17,-8,loss,414832,8567,1647872,2015
+0,0,0.0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,2,1,0,0,2,0,0,0,1,0,4,0,04/18/2015,away,12080,1192,Manchester,9,True,4,12,-8,loss,420123,8567,1647872,2015

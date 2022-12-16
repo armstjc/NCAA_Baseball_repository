@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,1,1,1,0,0,0,5,4,0,0,0,1,0,0,0,0,0,1,0,0,1,2,0,0,0,4,0,03/08/2015,neutral,12080,779,Wheaton (MA),9,True,1,7,-6,loss,408496,759,1434388,2015
+0,0,1.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,03/18/2015,home,12080,798,Wis.-Oshkosh,9,True,10,2,8,win,411101,759,1434388,2015
+0,0,0.1,1,1,1,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,5,0,04/17/2015,away,12080,755,WashU,9,True,7,12,-5,loss,419395,759,1434388,2015
+0,0,1.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,04/18/2015,away,12080,555,Principia,9,True,11,1,10,win,420080,759,1434388,2015
+0,0,0.2,2,1,1,1,2,0,5,4,1,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,8,1,04/22/2015,away,12080,299,Illinois St.,9,True,3,13,-10,loss,421079,759,1434388,2015
+0,0,1.0,3,1,1,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,7,0,05/22/2015,neutral,12080,168,SUNY Cortland,9,True,4,12,-8,loss,426167,759,1434388,2015

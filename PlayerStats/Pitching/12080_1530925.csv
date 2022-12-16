@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,02/23/2015,away,12080,419,Middle Tenn.,9,True,2,19,-17,loss,406361,771,1530925,2015
+0,0,0.0,0,2,2,1,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,10,0,0,0,0,0,4,0,03/01/2015,neutral,12080,521,Oklahoma St.,9,True,0,5,-5,loss,407145,771,1530925,2015
+0,0,0.0,0,7,7,4,0,0,7,0,0,0,0,0,0,3,0,0,0,0,0,24,0,0,0,0,0,3,0,03/17/2015,away,12080,782,Wichita St.,9,True,2,18,-16,loss,410904,771,1530925,2015

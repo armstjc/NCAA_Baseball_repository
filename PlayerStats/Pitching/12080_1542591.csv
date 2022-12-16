@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,3,1,02/03/2015,home,12080,9223,North Greenville,9,True,13,2,11,win,404314,1462,1542591,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,2,0,0,0,0,3,1,02/13/2015,away,12080,1023,Coker,9,True,12,5,7,win,404966,1462,1542591,2015
+0,0,0.1,4,6,1,1,1,0,7,6,1,1,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,3,0,03/04/2015,home,12080,2683,Belmont Abbey,9,True,18,16,2,win,407482,1462,1542591,2015
+0,0,1.1,1,1,0,2,0,0,7,5,0,0,0,0,0,0,0,1,0,0,0,28,2,1,0,0,0,5,0,03/17/2015,home,12080,1028,Concord,17,True,17,16,1,win,410836,1462,1542591,2015
+0,0,0.1,1,1,0,2,1,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,04/11/2015,away,12080,1097,Ga. Southwestern,10,True,9,10,-1,loss,417563,1462,1542591,2015
+0,0,0.2,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,0,1,0,0,0,4,1,05/02/2015,away,12080,1072,Erskine,9,True,0,2,-2,loss,423708,1462,1542591,2015

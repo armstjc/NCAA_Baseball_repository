@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.2,4,3,2,1,1,0,15,13,2,0,0,0,0,0,0,0,0,0,1,0,3,3,0,0,0,3,1,03/14/2015,neutral,12080,787,Wm. Paterson,9,True,7,17,-10,loss,410050,330,1556093,2015
+0,0,1.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,03/26/2015,neutral,12080,45,Babson,9,True,1,5,-4,loss,413104,330,1556093,2015
+0,0,3.0,6,8,6,3,2,0,18,13,2,0,0,0,0,0,0,0,0,0,2,0,2,4,0,0,0,2,1,04/03/2015,away,12080,571,Rhode Island Col.,9,True,3,17,-14,loss,415481,330,1556093,2015
+0,0,2.2,6,1,1,0,3,0,15,14,2,0,0,0,0,1,0,0,0,0,0,0,2,3,0,0,0,5,3,04/15/2015,home,12080,717,Tufts,9,True,6,18,-12,loss,418990,330,1556093,2015
+0,0,5.0,9,4,4,0,2,0,23,21,1,0,0,1,0,0,0,0,0,0,2,0,2,10,0,0,0,2,1,04/19/2015,away,12080,623,Salve Regina,9,True,3,10,-7,loss,420523,330,1556093,2015
+0,0,1.2,0,0,0,1,2,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,5,0,04/25/2015,away,12080,662,Southern Me.,9,True,2,7,-5,loss,421822,330,1556093,2015

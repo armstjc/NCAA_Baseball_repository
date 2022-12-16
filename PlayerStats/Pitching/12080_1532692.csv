@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,5,4,3,0,1,0,9,9,1,0,1,0,0,0,0,2,2,0,0,0,3,0,0,0,0,2,1,03/07/2015,away,12080,1156,Neb.-Kearney,9,True,15,16,-1,loss,408064,9011,1532692,2015
+0,0,1.0,0,0,0,0,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,03/13/2015,home,12080,9012,Mo. Southern St.,9,True,8,14,-6,loss,409523,9011,1532692,2015
+0,0,1.2,5,4,4,0,3,0,10,10,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,2,3,03/15/2015,home,12080,9012,Mo. Southern St.,9,True,5,8,-3,loss,410239,9011,1532692,2015
+0,0,2.0,2,2,2,0,4,0,8,7,0,0,1,0,0,0,0,2,2,0,1,24,1,1,0,1,0,4,1,03/18/2015,away,12080,8744,Southwestern Okla.,9,True,6,7,-1,loss,411090,9011,1532692,2015

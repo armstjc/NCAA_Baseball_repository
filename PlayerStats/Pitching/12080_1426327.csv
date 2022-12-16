@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,5,2,2,1,3,0,14,13,2,0,0,0,0,0,0,0,0,0,0,57,1,4,0,0,0,2,1,02/28/2015,away,12080,365,LSU,9,True,2,7,-5,loss,406845,554,1426327,2015
+0,1,1.1,6,7,7,3,1,0,12,9,1,0,2,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,1,03/08/2015,away,12080,459,UNC Greensboro,9,True,7,16,-9,loss,408487,554,1426327,2015

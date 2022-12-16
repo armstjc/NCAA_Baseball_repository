@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0,0,0,1,2,0,6,5,0,0,0,0,0,0,0,2,0,0,0,0,2,1,0,0,0,5,1,02/13/2015,away,12080,1320,Presbyterian,9,True,6,13,-7,loss,404748,178,1659768,2015
+0,0,0.2,1,2,1,1,1,0,4,3,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,02/21/2015,away,12080,193,Duke,9,True,4,9,-5,loss,405877,178,1659768,2015
+0,0,1.0,2,2,2,1,2,0,6,5,1,1,0,0,0,0,0,0,0,0,0,31,1,0,0,0,0,4,0,03/09/2015,away,12080,726,Navy,9,True,2,13,-11,loss,408690,178,1659768,2015
+0,0,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,2,03/15/2015,home,12080,485,Norfolk St.,9,True,17,5,12,win,410183,178,1659768,2015
+0,0,1.2,3,3,3,2,1,0,10,8,2,0,0,0,0,0,0,1,0,0,0,0,3,1,0,0,0,2,0,03/16/2015,home,12080,485,Norfolk St.,9,True,9,8,1,win,410611,178,1659768,2015

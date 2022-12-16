@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,02/14/2015,home,12080,0,Johnson (TN),9,True,20,2,18,win,405172,652,1661945,2015
+0,0,1.0,1,0,0,2,0,0,6,4,0,0,0,0,0,0,0,2,2,0,0,0,0,3,0,0,0,4,0,03/07/2015,neutral,12080,573,Rhodes,9,True,1,12,-11,loss,408211,652,1661945,2015
+0,1,3.0,1,1,0,3,3,0,15,12,0,0,0,3,0,0,0,0,0,0,0,0,3,3,0,0,0,1,2,03/16/2015,neutral,12080,30170,Alfred St.,9,True,16,1,15,win,410696,652,1661945,2015
+0,0,0.2,1,4,2,0,0,0,6,4,1,0,0,0,0,2,0,0,0,0,0,0,1,1,0,1,0,3,0,03/24/2015,home,12080,0,Hiwassee,9,True,10,16,-6,loss,412729,652,1661945,2015
+0,0,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,5,0,03/31/2015,home,12080,396,Maryville (TN),9,True,1,10,-9,loss,414530,652,1661945,2015
+0,0,1.1,5,5,5,2,1,0,11,8,0,0,1,1,0,0,0,0,0,0,1,0,2,1,0,0,0,3,0,04/03/2015,home,12080,2713,Oglethorpe,9,True,1,9,-8,loss,415345,652,1661945,2015

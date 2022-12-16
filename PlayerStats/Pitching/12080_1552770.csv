@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,2,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,03/14/2015,neutral,12080,8398,Hilbert,9,True,13,2,11,win,410118,618,1552770,2015
+0,0,1.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,03/29/2015,away,12080,795,Wis.-La Crosse,9,True,3,6,-3,loss,414078,618,1552770,2015
+0,0,1.2,2,0,0,0,0,0,6,6,1,0,0,0,0,0,0,3,1,0,0,17,2,2,0,0,0,2,0,04/10/2015,home,12080,30035,Crown (MN),9,True,13,2,11,win,417232,618,1552770,2015
+0,0,0.1,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,3,1,0,0,11,0,1,0,0,0,3,0,05/07/2015,home,12080,30038,Bethany Lutheran,9,True,13,3,10,win,424592,618,1552770,2015

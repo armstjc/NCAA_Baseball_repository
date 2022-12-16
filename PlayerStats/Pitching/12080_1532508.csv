@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,1,1,1,2,0,0,4,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,03/17/2015,neutral,12080,733,Utica,9,True,3,4,-1,loss,410969,30035,1532508,2015
+0,0,4.0,8,10,9,5,1,0,28,21,1,1,1,2,0,2,0,3,2,0,0,0,5,5,0,0,0,2,1,03/20/2015,neutral,12080,348,Lawrence,9,True,1,21,-20,loss,411571,30035,1532508,2015
+0,0,1.2,1,4,0,4,2,0,11,7,1,0,0,1,0,0,0,3,3,0,0,52,1,3,0,0,0,2,1,04/10/2015,away,12080,618,St. Scholastica,9,True,2,13,-11,loss,417232,30035,1532508,2015
+0,0,0.1,2,4,1,2,0,0,5,2,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,2,0,04/14/2015,home,12080,8597,Martin Luther,9,True,4,9,-5,loss,418762,30035,1532508,2015
+0,0,4.0,4,2,2,0,1,0,16,15,0,0,0,1,0,0,0,3,1,0,1,0,5,6,0,0,0,2,0,04/28/2015,home,12080,1194,Maranatha Baptist,9,True,4,12,-8,loss,422977,30035,1532508,2015
+0,0,0.2,3,4,4,3,0,0,8,5,1,0,0,0,0,0,0,2,2,0,0,0,1,1,0,0,0,2,0,05/02/2015,away,12080,30031,Northwestern-St. Paul,9,True,3,14,-11,loss,423837,30035,1532508,2015

@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,6,8,8,4,1,0,15,11,0,0,1,3,0,0,0,3,0,0,0,65,1,3,0,0,0,2,0,03/09/2015,away,12080,49,Barry,9,True,11,21,-10,loss,408830,410,1550378,2015
+0,0,1.1,3,5,4,2,1,0,11,8,1,0,1,1,0,1,0,0,0,0,0,46,2,1,0,0,0,3,0,03/16/2015,neutral,12080,468,Southern N.H.,9,True,1,12,-11,loss,410729,410,1550378,2015
+0,0,1.2,0,0,0,1,1,0,5,4,0,0,0,0,0,0,0,3,0,0,0,19,3,0,0,0,0,3,1,04/04/2015,neutral,12080,593,St. Anselm,9,True,8,3,5,win,416197,410,1550378,2015
+0,0,3.0,3,3,0,2,2,0,15,13,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,2,0,04/18/2015,home,12080,241,Franklin Pierce,9,True,1,13,-12,loss,419565,410,1550378,2015
+0,0,0.2,0,4,0,1,1,0,6,3,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,2,1,04/25/2015,away,12080,468,Southern N.H.,9,True,2,8,-6,loss,422035,410,1550378,2015

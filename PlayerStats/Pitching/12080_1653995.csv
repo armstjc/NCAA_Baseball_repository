@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,3,0,3,3,0,0,0,0,1,0,0,1,0,0,0,17,0,0,0,0,0,3,1,02/06/2015,away,12080,24639,Nova Southeastern,9,True,3,10,-7,loss,404361,181,1653995,2015
+0,0,0.2,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,03/15/2015,home,12080,30153,Union (TN),9,True,13,0,13,win,410312,181,1653995,2015
+0,1,1.1,4,4,3,3,1,0,12,7,2,0,0,0,0,0,0,0,0,1,1,40,1,2,0,1,0,1,0,03/25/2015,away,12080,1289,Ouachita Baptist,9,True,4,9,-5,loss,412960,181,1653995,2015
+0,0,2.0,4,4,2,1,0,0,11,10,3,0,0,0,0,0,0,2,0,0,0,0,1,5,0,0,0,2,0,03/31/2015,home,12080,8411,Ark.-Monticello,9,True,8,7,1,win,414608,181,1653995,2015
+0,0,2.0,0,0,0,0,1,0,6,6,0,0,0,0,0,0,0,0,0,0,0,18,3,2,0,0,0,2,0,04/07/2015,away,12080,1116,Harding,9,True,10,1,9,win,416524,181,1653995,2015
+0,0,3.0,6,3,3,0,0,0,16,14,2,0,0,0,0,1,0,2,2,0,1,0,4,5,0,0,1,2,0,05/04/2015,neutral,12080,766,West Ga.,9,True,9,5,4,win,424416,181,1653995,2015

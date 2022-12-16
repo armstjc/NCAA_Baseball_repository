@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,3.0,5,3,2,3,4,0,17,14,2,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,1,2,03/17/2015,neutral,12080,577,Ripon,9,True,14,10,4,win,410981,787,1553257,2015
+0,0,1.0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,4,0,03/29/2015,home,12080,588,Rutgers-Camden,9,True,1,5,-4,loss,414223,787,1553257,2015
+0,1,7.2,4,2,1,3,3,0,31,28,0,0,0,0,0,0,0,0,0,0,0,0,8,11,0,0,0,1,2,04/12/2015,away,12080,712,TCNJ,9,True,3,4,-1,loss,418366,787,1553257,2015
+0,0,1.0,5,3,3,0,0,0,8,6,0,0,0,1,0,0,0,0,0,0,2,0,0,3,0,0,0,3,0,04/21/2015,home,12080,30029,Purchase,9,True,8,3,5,win,420838,787,1553257,2015
+0,0,3.0,1,0,0,0,2,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,4,1,04/25/2015,home,12080,319,New Jersey City,9,True,7,9,-2,loss,422020,787,1553257,2015

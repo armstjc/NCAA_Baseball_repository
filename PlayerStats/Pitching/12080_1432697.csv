@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,11,2,0,0,0,0,3,0,02/21/2015,away,12080,628,San Fran. St.,9,True,11,6,5,win,406187,30147,1432697,2015
+0,0,0.0,0,3,2,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,3,0,02/27/2015,away,12080,2696,Hawaii Pacific,9,True,3,11,-8,loss,406621,30147,1432697,2015
+0,0,0.2,2,2,2,1,0,0,6,4,1,1,0,0,0,1,0,1,1,0,0,0,1,1,0,0,0,5,0,03/28/2015,away,12080,30135,California Baptist,9,True,4,12,-8,loss,413616,30147,1432697,2015
+0,0,0.0,3,3,3,0,0,0,4,3,0,0,1,0,0,1,0,2,2,0,0,7,0,0,0,0,0,6,0,05/01/2015,away,12080,30146,Azusa Pacific,9,True,6,19,-13,loss,423450,30147,1432697,2015

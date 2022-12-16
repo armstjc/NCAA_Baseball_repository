@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,3.0,4,3,2,0,3,0,14,13,1,0,1,0,0,1,0,0,0,0,0,49,5,1,0,0,0,1,1,04/21/2015,home,12080,0,St. Andrews,9,True,11,10,1,win,420855,537,1652507,2015
+0,1,3.2,8,6,6,1,3,0,19,18,2,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,1,2,04/29/2015,home,12080,1462,Wingate,10,True,9,8,1,win,423112,537,1652507,2015

@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.2,7,1,1,3,2,0,22,19,0,0,0,1,1,0,0,0,0,0,0,79,5,5,0,0,0,1,1,03/11/2015,home,12080,12399,Gwynedd Mercy,9,True,4,3,1,win,409128,329,1322400,2015
+0,0,1.0,0,0,0,1,2,0,6,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,5,1,03/19/2015,away,12080,341,La Verne,9,True,6,14,-8,loss,411214,329,1322400,2015
+0,1,1.2,5,5,4,3,2,0,14,10,0,1,0,0,0,1,0,0,0,0,0,0,2,1,0,1,0,1,0,04/03/2015,away,12080,787,Wm. Paterson,9,True,3,9,-6,loss,415261,329,1322400,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,1,1,0,0,0,4,0,04/18/2015,home,12080,681,Stockton,9,True,18,4,14,win,420066,329,1322400,2015
+0,0,0.1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,04/25/2015,away,12080,588,Rutgers-Camden,9,True,0,7,-7,loss,422198,329,1322400,2015
+0,1,5.1,6,3,3,3,3,0,28,22,1,0,0,1,1,2,0,0,0,1,0,94,5,8,1,0,0,1,0,05/07/2015,home,12080,783,Widener,9,True,7,3,4,win,424585,329,1322400,2015

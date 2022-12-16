@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,3,2,2,3,5,0,23,20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,03/05/2015,neutral,12080,265,Grove City,9,True,3,4,-1,loss,407585,453,1547275,2015
+0,1,6.1,7,2,2,2,1,0,27,23,1,0,0,1,0,1,0,0,0,1,0,0,10,6,0,0,0,1,0,04/01/2015,away,12080,730,Ursinus,10,True,6,5,1,win,414861,453,1547275,2015
+0,1,5.2,8,4,4,2,4,0,27,24,1,0,0,0,0,1,0,0,0,0,0,0,3,9,1,0,0,1,0,04/07/2015,home,12080,276,Haverford,9,True,8,4,4,win,416538,453,1547275,2015
+0,1,6.0,8,3,3,1,2,0,27,25,1,0,0,0,0,1,0,0,0,0,0,0,6,9,0,0,0,1,1,04/14/2015,home,12080,686,Swarthmore,9,True,6,4,2,win,418635,453,1547275,2015
+0,1,6.2,5,4,2,4,6,0,29,24,1,0,0,0,0,0,0,0,0,1,0,0,10,3,0,0,0,1,1,04/21/2015,away,12080,185,Dickinson,9,True,5,6,-1,loss,420760,453,1547275,2015

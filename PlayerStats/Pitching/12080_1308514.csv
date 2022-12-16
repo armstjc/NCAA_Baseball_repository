@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,03/09/2015,home,12080,216,Emory & Henry,9,True,5,11,-6,loss,408666,44,1308514,2015
+0,0,1.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,2,0,04/04/2015,home,12080,17094,William Peace,9,True,13,1,12,win,415906,44,1308514,2015
+0,0,0.1,2,4,2,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,21,1,0,0,0,0,3,0,04/24/2015,home,12080,30111,Covenant,9,True,12,7,5,win,421606,44,1308514,2015
+0,0,1.0,0,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,10,2,1,0,0,0,2,0,04/25/2015,home,12080,30111,Covenant,9,True,7,8,-1,loss,421772,44,1308514,2015

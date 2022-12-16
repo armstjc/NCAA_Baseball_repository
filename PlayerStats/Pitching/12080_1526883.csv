@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.2,6,7,7,2,1,0,13,10,0,0,1,0,0,0,0,0,0,1,0,41,3,1,0,1,0,1,0,03/01/2015,away,12080,772,Western Ky.,9,True,6,11,-5,loss,407103,659,1526883,2015
+0,1,4.0,4,1,1,1,2,0,18,16,0,1,0,0,0,0,0,0,0,1,0,65,7,3,0,1,0,1,1,03/08/2015,home,12080,503,NIU,9,True,0,3,-3,loss,408459,659,1526883,2015
+0,1,5.0,3,1,1,0,1,0,19,18,0,0,1,0,0,1,0,0,0,0,0,67,6,8,0,0,0,1,0,03/15/2015,away,12080,301,Illinois,9,True,1,4,-3,loss,410207,659,1526883,2015

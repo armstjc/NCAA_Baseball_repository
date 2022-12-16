@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,03/17/2015,neutral,12080,322,Johns Hopkins,9,True,9,2,7,win,410934,30047,1664423,2015
+0,0,3.0,1,0,0,1,2,0,10,9,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,4,2,03/18/2015,neutral,12080,607,St. Lawrence,9,True,8,13,-5,loss,411164,30047,1664423,2015
+0,0,5.0,5,0,0,3,2,0,21,17,0,0,0,0,0,1,0,1,0,0,0,0,6,4,0,0,0,2,1,04/02/2015,home,12080,27892,Farmingdale St.,9,True,1,5,-4,loss,415117,30047,1664423,2015
+0,0,2.0,2,1,1,0,1,0,8,7,0,0,0,1,0,0,0,0,0,1,0,0,3,2,1,0,0,4,1,04/14/2015,home,12080,443,Moravian,9,True,11,9,2,win,418605,30047,1664423,2015
+0,0,2.0,5,1,1,1,0,0,12,10,1,0,0,0,0,0,0,2,1,0,1,0,1,5,1,0,0,2,0,04/19/2015,home,12080,1305,Cairn,9,True,18,4,14,win,420431,30047,1664423,2015
+0,0,1.0,3,3,1,1,0,0,8,6,2,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,5,0,04/26/2015,home,12080,966,Arcadia,9,True,21,5,16,win,422398,30047,1664423,2015

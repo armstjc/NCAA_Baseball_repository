@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,1,0,0,1,1,0,4,3,0,0,0,1,0,0,0,2,1,0,0,23,1,0,0,0,0,3,1,02/14/2015,away,12080,654,Southeast Mo. St.,9,True,1,5,-4,loss,405074,71,1651723,2015
+0,0,2.2,3,1,0,1,2,0,11,10,1,0,0,2,0,0,0,2,2,0,0,48,2,2,1,0,0,3,0,03/10/2015,neutral,12080,87,Butler,9,True,16,14,2,win,409019,71,1651723,2015
+0,0,0.1,1,1,1,2,0,0,4,2,0,0,1,1,0,0,0,0,0,0,0,16,0,1,0,1,0,4,0,03/18/2015,home,12080,817,Youngstown St.,9,True,2,6,-4,loss,411079,71,1651723,2015
+0,0,2.0,2,1,0,0,2,0,9,9,0,0,0,0,0,0,0,0,0,0,0,27,2,2,0,0,0,4,1,03/28/2015,away,12080,503,NIU,9,True,2,11,-9,loss,413646,71,1651723,2015
+0,0,0.1,1,3,3,2,0,0,4,2,0,0,0,2,0,0,0,0,0,0,0,15,1,0,0,1,0,3,0,04/08/2015,away,12080,204,Eastern Mich.,9,True,1,4,-3,loss,416719,71,1651723,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,2,0,0,0,0,4,0,04/29/2015,away,12080,709,Toledo,9,True,6,13,-7,loss,423043,71,1651723,2015

@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,8,5,5,1,6,0,25,22,2,0,1,0,0,1,0,0,0,0,1,91,5,4,0,1,0,1,3,02/13/2015,home,12080,363,Longwood,9,True,2,8,-6,loss,404770,692,1541452,2015
+0,1,5.2,6,2,1,2,7,0,26,22,1,0,0,0,0,0,0,0,0,2,0,0,4,6,0,0,0,1,3,02/20/2015,neutral,12080,418,Michigan,9,True,5,6,-1,loss,405848,692,1541452,2015
+0,1,6.0,6,2,1,1,3,0,25,24,0,0,0,0,0,0,0,0,0,0,0,106,7,7,0,1,0,1,2,02/27/2015,home,12080,503,NIU,9,True,2,4,-2,loss,406541,692,1541452,2015
+0,1,6.0,9,5,5,1,4,0,28,25,0,1,0,0,0,1,0,0,0,1,0,90,8,5,0,1,0,1,1,03/07/2015,home,12080,444,Morehead St.,9,True,5,7,-2,loss,407843,692,1541452,2015

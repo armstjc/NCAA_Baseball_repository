@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,5,0,04/12/2015,home,12080,673,Springfield,9,True,11,2,9,win,418227,779,1434496,2015
+0,0,1.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,04/16/2015,away,12080,775,Western New Eng.,9,True,5,1,4,win,419147,779,1434496,2015
+0,0,1.0,0,0,0,1,0,0,4,3,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,04/25/2015,away,12080,808,WPI,9,True,12,3,9,win,422161,779,1434496,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,5,0,04/28/2015,away,12080,200,Eastern Conn. St.,9,True,2,4,-2,loss,422937,779,1434496,2015
+0,0,1.0,2,1,1,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,05/02/2015,away,12080,398,MIT,9,True,7,5,2,win,424008,779,1434496,2015

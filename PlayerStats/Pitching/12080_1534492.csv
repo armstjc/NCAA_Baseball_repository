@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,1,0,0,1,0,0,5,3,1,0,0,0,0,1,0,2,2,0,0,16,2,0,0,0,0,4,0,02/08/2015,away,12080,15646,Barton,9,True,4,20,-16,loss,404650,1098,1534492,2015
+0,0,1.1,1,2,1,0,0,0,6,5,0,0,0,1,0,1,0,1,0,0,0,0,0,2,0,0,0,3,0,03/31/2015,home,12080,934,Alderson Broaddus,9,True,11,13,-2,loss,414680,1098,1534492,2015
+0,0,2.0,1,1,1,0,1,0,6,6,0,0,1,0,0,0,0,2,1,0,0,0,3,1,0,0,0,3,1,04/02/2015,away,12080,10870,Shepherd,9,True,5,12,-7,loss,415116,1098,1534492,2015
+0,0,0.1,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,04/21/2015,away,12080,174,Davis & Elkins,9,True,4,5,-1,loss,420937,1098,1534492,2015
+0,0,2.0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,2,0,0,0,0,2,3,0,0,0,3,0,04/24/2015,away,12080,1439,West Virginia St.,9,True,2,5,-3,loss,421588,1098,1534492,2015

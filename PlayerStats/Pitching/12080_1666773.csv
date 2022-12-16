@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,1,2,0,1,2,0,9,8,1,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,4,0,03/01/2015,home,12080,426,Millsaps,9,True,10,11,-1,loss,407061,973,1666773,2015
+0,1,2.1,5,5,4,1,1,0,13,12,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,1,0,03/08/2015,home,12080,28749,Transylvania,9,True,9,11,-2,loss,408389,973,1666773,2015
+0,1,3.2,2,3,0,1,2,0,15,13,1,0,0,0,0,1,0,0,0,0,0,0,6,2,0,0,0,1,0,03/17/2015,away,12080,30111,Covenant,9,True,11,10,1,win,411001,973,1666773,2015
+0,0,1.0,2,1,1,1,1,0,5,4,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,4,1,03/25/2015,home,12080,217,Emory,9,True,9,2,7,win,412866,973,1666773,2015

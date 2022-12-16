@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,1,0,0,1,2,0,7,5,0,0,0,0,0,0,0,1,0,0,1,0,1,2,0,0,0,4,0,02/07/2015,away,12080,1245,Mount Olive,9,True,2,11,-9,loss,404474,593,1657625,2015
+0,0,0.2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,03/03/2015,away,12080,608,Saint Leo,9,True,2,6,-4,loss,407346,593,1657625,2015
+0,0,2.0,4,3,3,0,1,0,10,9,0,0,0,0,1,0,0,0,0,0,1,0,2,3,0,0,0,3,1,03/05/2015,neutral,12080,1347,Saint Rose,9,True,3,16,-13,loss,407576,593,1657625,2015
+0,0,0.1,0,1,1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,04/02/2015,neutral,12080,36,Assumption,9,True,10,4,6,win,415196,593,1657625,2015
+0,0,2.1,5,3,3,0,2,0,12,12,0,0,1,1,0,0,0,3,0,0,0,46,2,3,0,0,0,4,0,04/14/2015,away,12080,241,Franklin Pierce,9,True,4,17,-13,loss,418619,593,1657625,2015
+0,0,0.1,2,1,1,1,0,0,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,04/16/2015,away,12080,468,Southern N.H.,9,True,3,14,-11,loss,419166,593,1657625,2015

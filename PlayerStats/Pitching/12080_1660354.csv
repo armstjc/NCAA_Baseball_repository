@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,3,5,0,1,0,0,8,6,0,0,0,0,0,0,0,1,0,0,1,0,1,2,0,0,0,4,0,03/04/2015,neutral,12080,1254,Neumann,9,True,5,29,-24,loss,407523,26,1660354,2015
+0,0,0.0,4,3,2,0,0,0,5,5,1,0,1,0,0,0,0,3,3,0,0,11,0,0,0,0,0,2,0,03/22/2015,home,12080,30040,Me.-Presque Isle,9,True,9,13,-4,loss,412416,26,1660354,2015
+0,0,2.0,1,0,0,0,2,0,8,7,0,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,3,0,04/11/2015,home,12080,605,St. Joseph's (ME),9,True,5,14,-9,loss,417756,26,1660354,2015
+0,0,0.1,3,4,4,0,0,0,5,4,2,0,0,0,0,0,0,3,3,0,1,0,0,1,0,0,0,3,0,04/12/2015,away,12080,22626,JWU (Providence),9,True,0,15,-15,loss,418450,26,1660354,2015
+0,0,1.0,3,2,2,0,0,0,7,7,1,0,1,1,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,04/18/2015,neutral,12080,18422,Rivier,9,True,0,8,-8,loss,420236,26,1660354,2015
+0,0,1.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,5,0,04/28/2015,away,12080,26107,Becker,9,True,0,8,-8,loss,422821,26,1660354,2015

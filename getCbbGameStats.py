@@ -6,6 +6,7 @@ from tqdm import tqdm
 import pandas as pd
 import ssl
 import warnings
+
 warnings.simplefilter(action='ignore', category=FutureWarning)
 ssl._create_default_https_context = ssl._create_unverified_context
 
@@ -139,9 +140,10 @@ def getSeasonGbgStats(season=2020):
     max_schools = len(schools)
     #print(schools)
     hasRoster = True
-    for i in tqdm(range(750,len(schools.T))):
+
+    for i in tqdm(range(0,len(schools.T))):
         coll_count += 1
-        print(f'\n{i}/{max_schools} {schools[i]}')
+        print(f'{i}/{max_schools} {schools[i]}')
         try:
             rost = ncaa.ncaa_team_season_roster(schools[i],season)
             print(rost)

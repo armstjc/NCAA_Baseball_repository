@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,3,5,2,4,1,0,12,8,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,1,02/08/2015,neutral,12080,23121,Texas-Dallas,9,True,22,10,12,win,404663,1179,1654536,2015
+0,0,1.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,0,04/15/2015,home,12080,22235,Lewis & Clark,9,True,7,1,6,win,418943,1179,1654536,2015
+0,0,3.0,0,0,0,3,2,0,14,10,0,0,0,0,0,1,0,1,0,0,0,0,7,0,1,0,0,2,1,04/18/2015,away,12080,1094,George Fox,9,True,5,4,1,win,420283,1179,1654536,2015
+0,0,1.0,2,0,0,1,0,0,6,5,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,04/25/2015,away,12080,1297,Pacific Lutheran,9,True,6,7,-1,loss,421773,1179,1654536,2015
+0,1,9.0,5,0,0,1,3,1,33,31,0,0,0,0,0,1,0,0,0,0,0,0,15,7,1,0,0,1,2,05/16/2015,neutral,12080,341,La Verne,9,True,7,0,7,win,425902,1179,1654536,2015

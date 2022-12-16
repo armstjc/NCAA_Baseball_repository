@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,4.0,4,2,2,4,4,0,19,14,2,0,0,0,0,0,0,0,0,0,1,0,1,6,0,0,0,2,1,03/02/2015,neutral,12080,30124,Cedarville,9,True,6,8,-2,loss,407265,28594,1442670,2015
+0,0,1.0,2,2,0,0,0,0,5,4,0,0,0,0,0,0,0,1,1,0,1,15,1,2,0,0,0,2,0,04/13/2015,away,12080,995,Caldwell,9,True,0,5,-5,loss,418554,28594,1442670,2015
+0,0,0.1,3,6,6,3,1,0,7,4,0,0,1,0,0,0,0,0,0,0,0,31,0,0,0,0,0,3,0,04/23/2015,away,12080,423,Millersville,9,True,1,21,-20,loss,421259,28594,1442670,2015

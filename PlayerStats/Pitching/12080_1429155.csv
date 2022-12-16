@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,2,2,1,0,0,6,5,2,0,0,1,0,0,0,0,0,0,0,26,1,2,0,0,0,2,0,01/31/2015,away,12080,1015,Christian Brothers,9,True,4,7,-3,loss,404236,350,1429155,2015
+0,1,7.0,10,18,11,7,4,0,48,32,1,0,0,1,0,7,0,0,0,0,2,0,8,5,0,1,0,1,1,03/16/2015,home,12080,332,Kentucky St.,9,True,3,18,-15,loss,410575,350,1429155,2015
+0,1,7.1,8,10,7,2,6,0,37,29,2,0,0,2,0,3,0,0,0,2,1,116,5,11,0,1,0,1,3,03/18/2015,home,12080,1015,Christian Brothers,9,True,0,10,-10,loss,411109,350,1429155,2015
+0,1,7.0,6,3,2,2,4,0,31,27,1,0,0,0,0,2,0,0,0,0,0,0,9,5,1,0,0,1,1,03/28/2015,neutral,12080,347,Lane,9,True,12,3,9,win,413834,350,1429155,2015
+0,1,5.0,9,14,8,6,4,0,36,24,0,1,2,2,0,4,0,0,0,1,1,113,5,5,0,1,0,1,0,04/07/2015,away,12080,10,Alabama Huntsville,9,True,2,14,-12,loss,416662,350,1429155,2015
+0,1,5.0,12,14,8,5,4,0,33,26,2,1,0,4,0,2,0,0,0,0,0,0,3,6,0,1,0,1,2,04/12/2015,away,12080,720,Tuskegee,9,True,3,17,-14,loss,418455,350,1429155,2015

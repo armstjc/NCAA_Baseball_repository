@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,6,3,3,0,10,0,23,23,0,0,0,1,0,0,0,0,0,0,0,0,2,4,0,0,0,1,3,03/16/2015,neutral,12080,30084,Geneva,9,True,3,4,-1,loss,410726,770,1664739,2015
+0,1,6.0,2,1,0,4,4,0,24,19,0,0,0,1,0,0,0,0,0,1,0,0,7,6,0,0,0,1,2,04/08/2015,away,12080,764,Wesleyan (CT),9,True,2,4,-2,loss,416845,770,1664739,2015
+0,1,4.2,9,4,4,3,1,0,25,21,1,1,0,1,0,1,0,0,0,0,0,0,5,6,0,0,0,1,1,04/14/2015,neutral,12080,200,Eastern Conn. St.,9,True,7,12,-5,loss,418831,770,1664739,2015
+0,1,2.1,4,3,3,2,0,0,13,10,0,0,1,0,0,0,0,0,0,1,0,0,4,2,0,1,0,1,0,04/21/2015,away,12080,200,Eastern Conn. St.,9,True,0,9,-9,loss,420801,770,1664739,2015

@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,6,0,0,0,6,0,19,19,1,0,0,0,0,0,0,0,0,0,0,78,4,3,1,0,0,1,1,02/14/2015,home,12080,428,Minnesota,9,True,5,0,5,win,405009,288,1419722,2015
+0,1,4.0,3,4,3,2,3,0,18,16,1,0,0,0,0,0,0,0,0,0,0,54,4,5,0,0,0,1,2,02/21/2015,home,12080,8,Alabama,9,True,14,9,5,win,405869,288,1419722,2015
+0,1,7.0,6,3,3,0,3,0,29,26,1,0,1,0,0,2,0,0,0,1,0,101,13,5,0,0,0,1,1,02/28/2015,home,12080,158,Columbia,13,True,4,5,-1,loss,406782,288,1419722,2015
+0,1,6.1,6,5,3,1,2,0,26,24,1,0,2,0,0,1,0,0,0,0,0,94,7,8,0,1,0,1,2,03/07/2015,neutral,12080,697,Texas A&M,9,True,0,6,-6,loss,408139,288,1419722,2015
+0,1,1.2,3,3,3,1,1,0,10,7,2,0,0,0,0,1,0,0,0,0,1,36,3,1,0,0,0,1,1,03/14/2015,home,12080,86,Buffalo,9,True,9,3,6,win,409718,288,1419722,2015

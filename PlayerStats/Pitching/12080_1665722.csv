@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.1,10,6,6,0,4,0,30,29,3,0,0,1,0,1,0,0,0,0,0,0,4,11,0,1,0,1,2,03/05/2015,neutral,12080,452,Mount Union,9,True,4,6,-2,loss,407572,160,1665722,2015
+0,0,1.0,2,3,0,1,0,0,7,5,1,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,2,0,03/14/2015,neutral,12080,1179,Linfield,9,True,7,13,-6,loss,410033,160,1665722,2015
+0,0,1.1,4,3,3,0,0,0,7,6,1,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,2,0,03/22/2015,neutral,12080,300,Ill. Wesleyan,9,True,8,12,-4,loss,412463,160,1665722,2015
+0,0,2.0,2,0,0,0,2,0,9,7,0,0,0,0,0,2,0,0,0,0,0,0,2,1,0,0,0,2,1,04/04/2015,away,12080,582,Rockford,9,True,12,2,10,win,416215,160,1665722,2015
+0,0,2.0,2,1,1,0,3,0,8,8,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,3,04/26/2015,away,12080,20220,MSOE,9,True,22,2,20,win,422549,160,1665722,2015

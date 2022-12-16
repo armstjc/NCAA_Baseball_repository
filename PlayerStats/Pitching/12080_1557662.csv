@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,6,7,7,4,2,0,28,22,2,1,1,2,0,2,0,0,0,0,0,96,11,3,0,1,0,1,1,03/19/2015,neutral,12080,524,Old Westbury,9,True,1,11,-10,loss,411282,321,1557662,2015
+0,1,1.2,4,7,7,4,0,0,13,9,2,0,0,0,0,0,0,0,0,0,0,0,1,4,0,1,0,1,0,03/30/2015,away,12080,675,Staten Island,9,True,3,17,-14,loss,414404,321,1557662,2015

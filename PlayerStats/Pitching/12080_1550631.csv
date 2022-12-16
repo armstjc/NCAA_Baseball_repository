@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,8.0,6,2,1,1,7,0,31,29,1,0,0,0,0,0,0,0,0,0,1,0,8,8,1,0,0,1,3,03/09/2015,neutral,12080,69,Bowdoin,9,True,3,2,1,win,408738,227,1550631,2015
+0,1,7.1,6,1,1,0,4,0,29,27,1,0,0,0,0,2,0,0,0,0,0,0,8,9,1,0,0,1,1,03/15/2015,neutral,12080,146,Clarkson,9,True,3,1,2,win,410483,227,1550631,2015
+0,1,7.0,5,0,0,0,11,1,26,26,0,0,0,0,0,0,0,0,0,0,0,0,5,4,1,0,0,1,4,04/04/2015,neutral,12080,238,Framingham St.,9,True,2,0,2,win,416210,227,1550631,2015
+0,1,6.0,4,1,1,1,6,0,23,21,0,1,0,0,0,0,0,0,0,1,0,80,8,4,1,0,0,1,1,04/11/2015,away,12080,399,Mass. Maritime,9,True,5,1,4,win,417893,227,1550631,2015
+0,1,7.0,4,1,1,3,8,0,29,26,1,1,0,0,0,0,0,0,0,0,0,0,9,3,0,1,0,1,2,04/14/2015,home,12080,809,Worcester St.,9,True,0,1,-1,loss,418747,227,1550631,2015
+0,1,6.0,7,1,1,2,5,0,26,23,1,0,0,1,0,0,0,0,0,1,0,0,6,6,0,1,0,1,3,04/25/2015,away,12080,621,Salem St.,9,True,0,1,-1,loss,421808,227,1550631,2015

@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,3,0,0,2,4,0,25,23,1,0,0,1,0,0,0,0,0,0,0,0,9,7,1,0,0,1,1,03/06/2015,home,12080,1277,Alliance,9,True,1,0,1,win,407708,1318,1539564,2015
+0,1,6.0,6,3,3,3,3,0,27,23,1,1,0,4,0,0,0,0,0,1,0,0,8,6,1,0,0,1,2,04/12/2015,home,12080,407,Mercy,9,True,6,4,2,win,418212,1318,1539564,2015
+0,1,6.0,5,4,1,4,4,0,27,23,1,0,0,0,0,0,0,0,0,0,0,0,9,4,0,1,0,1,1,04/30/2015,away,12080,658,Southern Conn. St.,9,True,1,10,-9,loss,423247,1318,1539564,2015

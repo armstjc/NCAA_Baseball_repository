@@ -1,0 +1,7 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,3,0,02/07/2015,home,12080,0,Tougaloo,9,True,25,1,24,win,404553,429,1645729,2015
+0,0,2.0,2,3,3,3,1,0,11,8,0,0,1,1,0,0,0,1,1,0,0,44,3,2,0,0,0,3,0,02/28/2015,home,12080,10,Alabama Huntsville,9,True,9,15,-6,loss,406774,429,1645729,2015
+0,0,2.1,5,4,4,2,2,0,13,11,0,0,0,0,0,0,0,0,0,0,0,52,0,4,0,0,0,3,1,03/31/2015,home,12080,30191,Spring Hill,9,True,2,8,-6,loss,414723,429,1645729,2015
+0,0,1.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,1,2,0,0,0,5,0,04/12/2015,home,12080,181,Delta St.,9,True,10,17,-7,loss,418019,429,1645729,2015
+0,0,0.1,0,0,0,3,0,0,4,1,0,0,0,1,0,0,0,1,1,0,0,19,0,1,0,0,0,3,0,04/20/2015,home,12080,487,North Ala.,9,True,2,13,-11,loss,420674,429,1645729,2015
+0,0,0.2,2,0,0,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,04/21/2015,away,12080,426,Millsaps,9,True,1,15,-14,loss,420758,429,1645729,2015

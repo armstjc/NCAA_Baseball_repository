@@ -1,0 +1,3 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,3.2,1,1,1,6,5,0,16,9,0,0,0,0,0,0,0,0,0,1,0,74,4,0,0,0,0,1,2,02/14/2015,away,12080,10411,USC Upstate,9,True,11,9,2,win,405081,725,1660705,2015
+0,1,1.2,5,5,5,3,1,0,13,10,1,0,0,1,0,0,0,0,0,0,0,58,1,3,0,1,0,1,1,03/01/2015,neutral,12080,363,Longwood,9,True,2,6,-4,loss,407163,725,1660705,2015

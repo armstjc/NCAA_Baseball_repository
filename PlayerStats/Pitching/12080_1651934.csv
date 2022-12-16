@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,4,1,1,2,0,0,11,9,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,2,0,02/14/2015,home,12080,985,Bluefield St.,9,True,9,2,7,win,405261,1112,1651934,2015
+0,0,1.1,5,7,7,2,2,0,12,9,1,0,0,2,0,1,0,0,0,0,0,0,2,0,0,0,0,3,1,03/16/2015,home,12080,717,Tufts,9,True,7,20,-13,loss,410584,1112,1651934,2015
+0,0,0.1,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,03/23/2015,away,12080,263,Greensboro,9,True,2,1,1,win,412542,1112,1651934,2015
+0,0,1.0,2,1,1,0,1,0,5,3,0,0,0,0,0,1,0,0,0,0,1,23,0,1,0,0,0,5,0,04/01/2015,away,12080,44,Averett,9,True,4,6,-2,loss,414824,1112,1651934,2015

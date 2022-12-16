@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.1,5,5,5,3,0,0,17,12,1,0,0,3,0,2,0,3,2,0,0,0,4,3,0,0,0,2,0,03/15/2015,neutral,12080,712,TCNJ,9,True,1,12,-11,loss,410532,614,1543704,2015
+0,0,2.0,3,1,1,0,0,0,9,9,0,0,0,1,0,0,0,0,0,0,0,0,3,3,0,0,0,3,0,03/19/2015,neutral,12080,24,Amherst,9,True,7,20,-13,loss,411279,614,1543704,2015
+0,0,1.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,1,03/21/2015,neutral,12080,615,St. Olaf,9,True,2,9,-7,loss,412117,614,1543704,2015
+0,0,1.0,1,1,1,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,04/08/2015,away,12080,1036,Concordia Wisconsin,9,True,7,5,2,win,416770,614,1543704,2015
+0,1,2.2,3,3,3,0,2,0,14,12,0,0,1,2,0,2,0,0,0,0,0,0,4,2,0,0,0,1,0,04/14/2015,away,12080,137,UChicago,9,True,5,6,-1,loss,418842,614,1543704,2015

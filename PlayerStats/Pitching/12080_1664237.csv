@@ -1,0 +1,6 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,3,2,2,0,0,0,9,9,1,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,3,0,03/13/2015,neutral,12080,759,Webster,9,True,3,12,-9,loss,409581,200,1664237,2015
+0,0,0.1,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,4,0,03/15/2015,neutral,12080,795,Wis.-La Crosse,9,True,0,10,-10,loss,410429,200,1664237,2015
+0,0,1.0,3,2,2,0,2,0,6,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,2,04/02/2015,home,12080,623,Salve Regina,9,True,4,17,-13,loss,415018,200,1664237,2015
+0,0,1.0,4,2,2,1,2,0,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,04/18/2015,away,12080,571,Rhode Island Col.,9,True,7,16,-9,loss,419982,200,1664237,2015
+0,0,1.1,4,2,2,2,0,0,10,8,2,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,8,0,04/22/2015,away,12080,779,Wheaton (MA),9,True,3,25,-22,loss,421035,200,1664237,2015

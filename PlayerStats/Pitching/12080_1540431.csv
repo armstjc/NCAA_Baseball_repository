@@ -1,0 +1,4 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,2,4,0,2,1,0,11,6,0,1,0,1,0,0,0,0,0,1,2,0,2,3,0,0,0,5,0,02/08/2015,away,12080,225,Ferrum,9,True,9,14,-5,loss,404597,269,1540431,2015
+0,0,1.0,1,0,0,0,1,0,5,4,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,4,0,02/11/2015,neutral,12080,394,Marymount (VA),9,True,3,5,-2,loss,404717,269,1540431,2015
+0,0,2.0,2,1,1,1,0,0,9,7,0,0,0,1,0,0,0,0,0,1,0,0,4,2,0,0,0,2,0,03/09/2015,neutral,12080,601,St. John Fisher,14,True,2,3,-1,loss,408756,269,1540431,2015

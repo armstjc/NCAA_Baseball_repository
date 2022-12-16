@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,2,1,1,1,1,0,6,5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,03/28/2015,home,12080,578,Roanoke,9,True,0,6,-6,loss,413540,752,1320735,2015
+0,0,2.2,3,1,1,0,2,0,12,10,2,0,0,1,0,1,0,0,0,0,1,0,3,3,0,0,0,3,2,04/05/2015,home,12080,745,Va. Wesleyan,9,True,4,14,-10,loss,416337,752,1320735,2015
+0,0,1.0,3,3,3,0,0,0,8,5,0,0,0,0,0,2,0,0,0,1,0,0,1,2,0,0,0,3,0,04/09/2015,home,12080,374,Lynchburg,9,True,4,11,-7,loss,416928,752,1320735,2015
+0,0,3.0,5,2,1,2,2,0,16,14,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,2,0,04/18/2015,home,12080,269,Hampden-Sydney,9,True,0,5,-5,loss,419701,752,1320735,2015

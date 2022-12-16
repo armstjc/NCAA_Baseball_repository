@@ -1,0 +1,5 @@
+App,GS,IP,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.0,1,0,0,2,5,0,12,10,1,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,3,1,04/07/2015,away,12080,479,NYU,9,True,10,5,5,win,416645,451,1438104,2015
+0,1,7.0,0,0,0,1,14,1,23,21,0,0,0,0,0,1,0,0,0,0,0,95,1,5,1,0,0,1,6,04/11/2015,away,12080,478,SUNY Maritime,9,True,3,0,3,win,417728,451,1438104,2015
+0,1,6.1,13,8,3,3,4,0,35,32,1,0,0,0,0,0,0,0,0,0,0,0,6,7,1,0,0,1,2,04/18/2015,away,12080,27892,Farmingdale St.,9,True,19,8,11,win,419732,451,1438104,2015
+0,1,7.0,4,2,2,3,10,0,30,26,1,0,0,0,0,1,0,0,0,0,0,0,6,5,1,0,0,1,4,04/25/2015,neutral,12080,1468,Mt. St. Mary (NY),9,True,6,2,4,win,422190,451,1438104,2015

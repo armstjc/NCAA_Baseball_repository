@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/23/2022,home,15860,716,Troy,9,True,13,1,12,win,13 - 1,5213819,37,1,0,1.0,0.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,17,1,1,0,0,0,6,1,0,2334052,2022
-03/01/2022,home,15860,7,Alabama St.,9,True,13,7,6,win,13 - 7,5221856,37,1,0,2.0,0.0,1,0,0,2,2,0,8,6,0,0,0,0,0,0,0,0,0,0,0,37,2,1,0,0,0,6,1,0,2334052,2022
-03/09/2022,home,15860,692,Tennessee Tech,9,True,4,3,1,win,4 - 3,5256851,37,1,0,0.2,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,1,0,0,0,4,0,0,2334052,2022
-03/13/2022,home,15860,419,Middle Tenn.,9,True,10,7,3,win,10 - 7,5233900,37,1,0,0.0,0.0,2,1,1,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,5,0,0,0,0,0,7,0,0,2334052,2022
-03/18/2022,home,15860,433,Ole Miss,9,True,19,5,14,win,19 - 5,5238601,37,1,0,1.2,0.0,1,0,0,1,0,0,7,6,0,0,0,0,1,0,0,2,1,0,0,25,1,4,0,0,0,4,0,0,2334052,2022
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,17,1,1,0,0,0,6,1,0,02/23/2022,home,15860,716,Troy,9,True,13,1,12,win,2168751,37,2334052,2022
+1,0,2.0,0.0,1,0,0,2,2,0,8,6,0,0,0,0,0,0,0,0,0,0,0,37,2,1,0,0,0,6,1,0,03/01/2022,home,15860,7,Alabama St.,9,True,13,7,6,win,2169948,37,2334052,2022
+1,0,0.2,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,1,0,0,0,4,0,0,03/09/2022,neutral,15860,692,Tennessee Tech,9,True,4,3,1,win,2171226,37,2334052,2022
+1,0,0.0,0.0,2,1,1,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,5,0,0,0,0,0,7,0,0,03/13/2022,home,15860,419,Middle Tenn.,9,True,10,7,3,win,2172234,37,2334052,2022
+1,0,1.2,0.0,1,0,0,1,0,0,7,6,0,0,0,0,1,0,0,2,1,0,0,25,1,4,0,0,0,4,0,0,03/18/2022,home,15860,433,Ole Miss,9,True,19,5,14,win,2173106,37,2334052,2022

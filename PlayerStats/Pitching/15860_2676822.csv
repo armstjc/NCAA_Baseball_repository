@@ -1,6 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/19/2022,away,15860,792,Winthrop,9,True,6,8,-2,loss,6 - 8,5209699,204,1,0,0.0,0.0,0,1,0,2,0,0,3,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,2,0,0,2676822,2022
-02/27/2022,away,15860,692,Tennessee Tech,9,True,2,11,-9,loss,2 - 11,5256847,204,1,0,1.0,0.0,0,0,0,0,1,0,3,2,0,0,0,0,0,1,0,0,0,0,0,10,1,0,0,0,0,5,0,0,2676822,2022
-03/14/2022,away,15860,47,Ball St.,9,True,8,11,-3,loss,8 - 11,5234590,204,1,0,0.0,0.0,2,1,1,0,0,0,3,2,0,0,0,1,0,1,0,2,2,0,0,5,0,0,0,0,0,5,0,0,2676822,2022
-03/25/2022,home,15860,5,Akron,9,True,18,6,12,win,18 - 6,5245282,204,1,0,1.0,0.0,1,0,0,0,1,0,5,4,0,0,0,0,0,1,0,0,0,0,0,27,0,2,0,0,0,3,0,0,2676822,2022
-04/03/2022,home,15860,774,Western Mich.,9,True,4,6,-2,loss,4 - 6,5254591,204,1,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,12,1,2,0,0,0,4,0,0,2676822,2022
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,1,0,2,0,0,3,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,2,0,0,02/19/2022,away,15860,792,Winthrop,9,True,6,8,-2,loss,2168282,204,2676822,2022
+1,0,1.0,0.0,0,0,0,0,1,0,3,2,0,0,0,0,0,1,0,0,0,0,0,10,1,0,0,0,0,5,0,0,02/27/2022,away,15860,692,Tennessee Tech,9,True,2,11,-9,loss,2169545,204,2676822,2022
+1,0,0.0,0.0,2,1,1,0,0,0,3,2,0,0,0,1,0,1,0,2,2,0,0,5,0,0,0,0,0,5,0,0,03/14/2022,away,15860,47,Ball St.,9,True,8,11,-3,loss,2171776,204,2676822,2022
+1,0,1.0,0.0,1,0,0,0,1,0,5,4,0,0,0,0,0,1,0,0,0,0,0,27,0,2,0,0,0,3,0,0,03/25/2022,home,15860,5,Akron,9,True,18,6,12,win,2264761,204,2676822,2022
+1,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,12,1,2,0,0,0,4,0,0,04/03/2022,home,15860,774,Western Mich.,9,True,4,6,-2,loss,2176983,204,2676822,2022
+1,0,1.0,0.0,0,0,0,2,2,0,5,3,0,0,0,0,0,0,0,0,0,0,0,23,0,1,0,0,0,2,2,0,04/19/2022,home,15860,0,Siena Heights,9,True,14,1,13,win,2180132,204,2676822,2022

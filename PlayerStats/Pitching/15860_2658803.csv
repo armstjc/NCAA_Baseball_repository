@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/20/2022,home,15860,654,Southeast Mo. St.,9,True,13,5,8,win,13 - 5,5211335,1045,1,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,6,0,0,2658803,2022
-03/26/2022,home,15860,392,Maryland,9,True,5,11,-6,loss,5 - 11,5246956,1045,1,0,1.0,0.0,2,0,0,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,5,0,0,2658803,2022
-04/02/2022,home,15860,2915,Wofford,9,True,6,9,-3,loss,6 - 9,5253452,1045,1,0,1.2,0.0,3,0,0,0,1,0,7,7,1,0,0,0,0,0,0,2,2,0,0,21,1,2,0,0,0,3,0,0,2658803,2022
-04/09/2022,home,15860,669,Missouri St.,9,True,17,16,1,win,17 - 16,5260003,1045,1,0,0.0,0.0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,3,3,0,0,4,0,0,0,0,0,5,0,0,2658803,2022
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,6,0,0,02/20/2022,home,15860,654,Southeast Mo. St.,9,True,13,5,8,win,2168548,1045,2658803,2022
+1,0,1.0,0.0,2,0,0,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,5,0,0,03/26/2022,home,15860,392,Maryland,9,True,5,11,-6,loss,2175188,1045,2658803,2022
+1,0,1.2,0.0,3,0,0,0,1,0,7,7,1,0,0,0,0,0,0,2,2,0,0,21,1,2,0,0,0,3,0,0,04/02/2022,home,15860,2915,Wofford,9,True,6,9,-3,loss,2176707,1045,2658803,2022
+1,0,0.0,0.0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,3,3,0,0,4,0,0,0,0,0,5,0,0,04/09/2022,home,15860,669,Missouri St.,9,True,17,16,1,win,2178195,1045,2658803,2022

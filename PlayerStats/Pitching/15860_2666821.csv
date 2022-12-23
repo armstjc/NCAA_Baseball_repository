@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/04/2022,home,15860,665,Southern U.,9,True,15,4,11,win,15 - 4,5223491,706,1,0,2.0,0.0,1,0,0,1,4,0,8,7,0,0,0,0,0,0,0,0,0,0,0,37,1,1,0,0,0,3,0,0,2666821,2022
-03/13/2022,away,15860,522,Oklahoma,9,True,3,8,-5,loss,3 - 8,5233804,706,1,0,2.2,0.0,1,1,1,2,2,0,9,7,0,0,0,0,0,0,0,3,0,0,0,47,2,1,0,0,0,3,0,0,2666821,2022
-03/26/2022,away,15860,229,Fla. Atlantic,9,True,9,12,-3,loss,9 - 12,5247517,706,1,0,2.0,0.0,3,3,3,1,2,0,9,7,0,0,0,1,0,0,0,0,0,0,1,33,1,2,0,0,0,4,0,0,2666821,2022
-04/17/2022,away,15860,574,Rice,9,True,7,16,-9,loss,7 - 16,5267909,706,1,0,0.0,0.0,1,3,3,1,0,0,3,1,0,0,0,0,0,1,0,2,2,0,0,15,0,0,0,0,0,7,0,0,2666821,2022
-05/19/2022,home,15860,9,UAB,9,True,7,18,-11,loss,7 - 18,5288930,706,1,0,3.0,0.0,1,1,1,0,3,0,11,11,0,0,0,0,0,0,0,0,0,0,0,43,3,3,0,0,0,2,0,0,2666821,2022
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,1,0,0,1,4,0,8,7,0,0,0,0,0,0,0,0,0,0,0,37,1,1,0,0,0,3,0,0,03/04/2022,home,15860,665,Southern U.,9,True,15,4,11,win,2170155,706,2666821,2022
+1,0,2.2,0.0,1,1,1,2,2,0,9,7,0,0,0,0,0,0,0,3,0,0,0,47,2,1,0,0,0,3,0,0,03/13/2022,away,15860,522,Oklahoma,9,True,3,8,-5,loss,2172233,706,2666821,2022
+1,0,2.0,0.0,3,3,3,1,2,0,9,7,0,0,0,1,0,0,0,0,0,0,1,33,1,2,0,0,0,4,0,0,03/26/2022,away,15860,229,Fla. Atlantic,9,True,9,12,-3,loss,2174882,706,2666821,2022
+1,0,0.0,0.0,1,3,3,1,0,0,3,1,0,0,0,0,0,1,0,2,2,0,0,15,0,0,0,0,0,7,0,0,04/17/2022,away,15860,574,Rice,9,True,7,16,-9,loss,2179935,706,2666821,2022
+1,0,3.0,0.0,1,1,1,0,3,0,11,11,0,0,0,0,0,0,0,0,0,0,0,43,3,3,0,0,0,2,0,0,05/19/2022,home,15860,9,UAB,9,True,7,18,-11,loss,2184437,706,2666821,2022

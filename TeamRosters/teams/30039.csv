@@ -1,155 +1,36 @@
 jersey,stats_player_seq,name,position,class_year,games_played,games_started,season,season_id,school,school_id
-28,1779037,Tate Andrews,3B,Fr,40,40,2016,12360,North Central  (UMAC),30039
-8,1779040,Bobby Donohoe,2B,Fr,40,40,2016,12360,North Central  (UMAC),30039
-99,1671363,Andrew Eliason,OF,So,1,0,2016,12360,North Central  (UMAC),30039
-15,1783793,Jared High,DH,Fr,5,5,2016,12360,North Central  (UMAC),30039
-4,1779033,Taylor Justice,C,Fr,40,38,2016,12360,North Central  (UMAC),30039
-5,1556191,Matthew Juve,OF,Jr,36,35,2016,12360,North Central  (UMAC),30039
-10,1779031,Cory Kukkola,SS,Fr,40,40,2016,12360,North Central  (UMAC),30039
-7,1779038,James Lissick,INF,Fr,39,37,2016,12360,North Central  (UMAC),30039
-11,1556189,Taylor Madrinich,DH,Jr,28,28,2016,12360,North Central  (UMAC),30039
-20,1779035,Bryce Riege,P,Fr,29,29,2016,12360,North Central  (UMAC),30039
-18,1779039,Elijah Valder,P,Fr,40,40,2016,12360,North Central  (UMAC),30039
-2,1445307,Cody Van Sickle,SS,Sr,32,28,2016,12360,North Central  (UMAC),30039
-6,1783794,Travis Voigt,DH,Jr,4,3,2016,12360,North Central  (UMAC),30039
-9,1783438,Bryce Witzman,C,Jr,5,1,2016,12360,North Central  (UMAC),30039
-18,1556571,Caleb Wyre,OF,Jr,2,1,2016,12360,North Central  (UMAC),30039
-28,1779037,Tate Andrews,3B,So,7,7,2017,12560,North Central  (UMAC),30039
-8,1779040,Bobby Donohoe,2B,So,32,32,2017,12560,North Central  (UMAC),30039
-7,1886922,Blazsen Ferreira,P,Fr,30,30,2017,12560,North Central  (UMAC),30039
-17,1886938,Noah Harvey,OF,Fr,17,9,2017,12560,North Central  (UMAC),30039
-26,1783793,Jared High,DH,Fr,23,23,2017,12560,North Central  (UMAC),30039
-4,1779033,Taylor Justice,C,So,31,31,2017,12560,North Central  (UMAC),30039
-10,1779031,Cory Kukkola,SS,So,32,32,2017,12560,North Central  (UMAC),30039
-15,1886937,Jonathon Kutzke,P,Fr,14,9,2017,12560,North Central  (UMAC),30039
-21,1886940,Michael Mulligan,OF,Fr,1,0,2017,12560,North Central  (UMAC),30039
-19,1886939,Michael Nolte,3B,Fr,2,0,2017,12560,North Central  (UMAC),30039
-22,1886941,Grant Payne,P,Fr,32,32,2017,12560,North Central  (UMAC),30039
-20,1779035,Bryce Riege,P,So,32,31,2017,12560,North Central  (UMAC),30039
-24,1886942,Brandon Scott,C,Jr,30,29,2017,12560,North Central  (UMAC),30039
-18,1779039,Elijah Valder,P,So,32,28,2017,12560,North Central  (UMAC),30039
-29,1886943,Maddison Waddell,3B,Fr,2,1,2017,12560,North Central  (UMAC),30039
-28,1779037,Tate Andrews,3B,Jr,22,22,2018,12973,North Central  (UMAC),30039
-21,2005124,Steven De Silva,OF,Fr,27,26,2018,12973,North Central  (UMAC),30039
-8,1779040,Bobby Donohoe,2B,Jr,24,21,2018,12973,North Central  (UMAC),30039
-7,1886922,Blazsen Ferreira,P,So,25,16,2018,12973,North Central  (UMAC),30039
-9,2005121,Chris Harding,INF,Fr,25,25,2018,12973,North Central  (UMAC),30039
-26,1783793,Jared High,DH,So,0,0,2018,12973,North Central  (UMAC),30039
-4,1779033,Taylor Justice,C,Jr,22,22,2018,12973,North Central  (UMAC),30039
-16,2005123,Andrew Kemper,P,Jr,7,3,2018,12973,North Central  (UMAC),30039
-10,1779031,Cory Kukkola,SS,Jr,27,27,2018,12973,North Central  (UMAC),30039
-15,1886937,Jonathon Kutzke,P,So,9,4,2018,12973,North Central  (UMAC),30039
-12,2005122,Bradley Nakamura,OF,Fr,2,2,2018,12973,North Central  (UMAC),30039
-19,1886939,Michael Nolte,3B,So,0,0,2018,12973,North Central  (UMAC),30039
-22,1886941,Grant Payne,P,So,15,10,2018,12973,North Central  (UMAC),30039
-20,1779035,Bryce Riege,P,Jr,24,24,2018,12973,North Central  (UMAC),30039
-24,1886942,Brandon Scott,C,Sr,9,9,2018,12973,North Central  (UMAC),30039
-23,2005125,Joshua Thompson,C,Fr,27,27,2018,12973,North Central  (UMAC),30039
-5,2005120,Justin Torres,UT,Fr,27,27,2018,12973,North Central  (UMAC),30039
-18,1779039,Elijah Valder,P,Jr,15,0,2018,12973,North Central  (UMAC),30039
-28,1779037,Tate Andrews,3B,Sr,4,1,2019,14781,North Central  (UMAC),30039
-23,2151100,Michael Barrientos,P,Fr,28,27,2019,14781,North Central  (UMAC),30039
-21,2005124,Steven De Silva,OF,So,11,11,2019,14781,North Central  (UMAC),30039
-25,2133744,Dylan Dietrich,P,Jr,1,0,2019,14781,North Central  (UMAC),30039
-8,1779040,Bobby Donohoe,2B,Sr,28,28,2019,14781,North Central  (UMAC),30039
-11,2133733,Chase Drill,C,Jr,25,25,2019,14781,North Central  (UMAC),30039
-7,1886922,Blazsen Ferreira,P,Jr,9,1,2019,14781,North Central  (UMAC),30039
-6,2133732,Caiden Gelowicz,P,Fr,7,4,2019,14781,North Central  (UMAC),30039
-9,2005121,Chris Harding,INF,So,25,25,2019,14781,North Central  (UMAC),30039
-4,1779033,Taylor Justice,C,Sr,31,31,2019,14781,North Central  (UMAC),30039
-16,2005123,Andrew Kemper,P,Sr,17,11,2019,14781,North Central  (UMAC),30039
-10,1779031,Cory Kukkola,SS,Sr,31,31,2019,14781,North Central  (UMAC),30039
-12,2005122,Bradley Nakamura,OF,So,7,2,2019,14781,North Central  (UMAC),30039
-19,1886939,Michael Nolte,3B,Jr,0,0,2019,14781,North Central  (UMAC),30039
-22,1886941,Grant Payne,P,Jr,21,9,2019,14781,North Central  (UMAC),30039
-20,1779035,Bryce Riege,P,Sr,12,5,2019,14781,North Central  (UMAC),30039
-24,1886942,Brandon Scott,C,Sr,31,31,2019,14781,North Central  (UMAC),30039
-14,2133743,Cole Sneed,C,Fr,31,31,2019,14781,North Central  (UMAC),30039
-5,2005120,Justin Torres,OF,So,31,29,2019,14781,North Central  (UMAC),30039
-13,2305887,Rene Brockman,2B,So,5,5,2020,15204,North Central  (UMAC),30039
-23,2305888,Joseph Cobb,OF,Fr,2,0,2020,15204,North Central  (UMAC),30039
-21,2005124,Steven De Silva,OF,Jr,5,5,2020,15204,North Central  (UMAC),30039
-11,2133733,Chase Drill,C,Sr,5,5,2020,15204,North Central  (UMAC),30039
-7,1886922,Blazsen Ferreira,P,Sr,3,3,2020,15204,North Central  (UMAC),30039
-9,2005121,Chris Harding,INF,Jr,3,3,2020,15204,North Central  (UMAC),30039
-4,2305889,Kyle Huerth,OF,Fr,5,5,2020,15204,North Central  (UMAC),30039
-17,2305872,Justin Krull,P,Fr,5,4,2020,15204,North Central  (UMAC),30039
-12,2005122,Bradley Nakamura,OF,Jr,2,0,2020,15204,North Central  (UMAC),30039
-16,2305893,Tanner Oka,OF,Fr,2,0,2020,15204,North Central  (UMAC),30039
-20,2305894,Jack Parker,C,Fr,5,4,2020,15204,North Central  (UMAC),30039
-22,1886941,Grant Payne,P,Sr,4,4,2020,15204,North Central  (UMAC),30039
-15,2305898,Hayden Schigur,P,Fr,5,3,2020,15204,North Central  (UMAC),30039
-14,2133743,Cole Sneed,C,So,5,5,2020,15204,North Central  (UMAC),30039
-2,2005120,Justin Torres,OF,Jr,5,4,2020,15204,North Central  (UMAC),30039
-26,2489025,Jesse Barreno,P,Fr,6,6,2021,15580,North Central  (UMAC),30039
-15,2489021,Noah Beckjorden,1B,Fr,7,0,2021,15580,North Central  (UMAC),30039
-28,2489026,Tyler Bloom,P,Fr,21,20,2021,15580,North Central  (UMAC),30039
-6,2489006,Nate Boyer,2B,Fr,18,10,2021,15580,North Central  (UMAC),30039
-13,2305887,Rene Brockman,SS,Jr,23,23,2021,15580,North Central  (UMAC),30039
-22,2305888,Joseph Cobb,OF,Fr,14,10,2021,15580,North Central  (UMAC),30039
-20,2489023,Kristian Garcia,OF,Jr,23,19,2021,15580,North Central  (UMAC),30039
-14,2005121,Chris Harding,3B,Jr,21,21,2021,15580,North Central  (UMAC),30039
-5,2489003,Primeau Hill,OF,Fr,17,13,2021,15580,North Central  (UMAC),30039
-4,2305889,Kyle Huerth,OF,So,19,17,2021,15580,North Central  (UMAC),30039
-21,2489024,Daniel Montana,C,Fr,23,23,2021,15580,North Central  (UMAC),30039
-9,2489015,Edwin Morrow,P,So,5,0,2021,15580,North Central  (UMAC),30039
-16,2305893,Tanner Oka,OF,So,10,1,2021,15580,North Central  (UMAC),30039
-11,2305894,Jack Parker,C,So,23,23,2021,15580,North Central  (UMAC),30039
-12,2305898,Hayden Schigur,P,Fr,10,2,2021,15580,North Central  (UMAC),30039
-2,2005120,Justin Torres,OF,Jr,21,21,2021,15580,North Central  (UMAC),30039
-1,2690050,Blaine Alden,C,Fr,7,2,2022,15860,North Central  (UMAC),30039
-2,2689888,Noah Block,OF,Fr,19,15,2022,15860,North Central  (UMAC),30039
-6,2489006,Nate Boyer,2B,Fr,25,25,2022,15860,North Central  (UMAC),30039
-20,2690092,Julian Encinas,C,Fr,25,25,2022,15860,North Central  (UMAC),30039
-23,2489023,Kristian Garcia,OF,Jr,24,23,2022,15860,North Central  (UMAC),30039
-31,2690095,Chris Garza,2B,Fr,14,4,2022,15860,North Central  (UMAC),30039
-3,2690060,Teyghan Hovland,OF,Fr,16,15,2022,15860,North Central  (UMAC),30039
-4,2305889,Kyle Huerth,OF,So,25,25,2022,15860,North Central  (UMAC),30039
-34,2489024,Daniel Montana,1B,Fr,20,19,2022,15860,North Central  (UMAC),30039
-13,2689890,Devin O'Dell,P,Fr,8,1,2022,15860,North Central  (UMAC),30039
-7,2690067,Matthew Oakley,SS,Fr,25,25,2022,15860,North Central  (UMAC),30039
-17,2305893,Tanner Oka,OF,So,13,4,2022,15860,North Central  (UMAC),30039
-11,2305894,Jack Parker,C,So,25,24,2022,15860,North Central  (UMAC),30039
-15,2690071,Christian Rodriguez,P,Fr,25,25,2022,15860,North Central  (UMAC),30039
-14,2690069,Nicolas Sheley,3B,Fr,13,3,2022,15860,North Central  (UMAC),30039
-1,2690050,Blaine Alden,C,5-8,So,0,2023,16340,North Central  (UMAC),30039
-3,2690060,Teyghan Hovland,OF,6-3,So,0,2023,16340,North Central  (UMAC),30039
-11,2305894,Jack Parker,C,5-9,Jr,0,2023,16340,North Central  (UMAC),30039
-20,1203908,Ian Andrews,P,So,0,0,2012,10942,North Central  (UMAC),30039
 5,1203887,Ben Freitag,OF,Jr,0,0,2012,10942,North Central  (UMAC),30039
 3,1203885,Devin Lehnhoff,P,Jr,0,0,2012,10942,North Central  (UMAC),30039
 23,1324214,Eli Odle,OF,Fr,0,0,2012,10942,North Central  (UMAC),30039
 26,1324215,Gary Ramos,C,So,0,0,2012,10942,North Central  (UMAC),30039
 21,1203909,Matt Reed,P,So,0,0,2012,10942,North Central  (UMAC),30039
 25,1324216,Matt Shepard,OF,So,0,0,2012,10942,North Central  (UMAC),30039
-20,1203908,Ian Andrews,P,Jr,23,23,2013,11320,North Central  (UMAC),30039
-2,1445309,Joshua Core,RF,N/A,20,16,2013,11320,North Central  (UMAC),30039
-5,1203887,Ben Freitag,OF,Sr,14,13,2013,11320,North Central  (UMAC),30039
-3,1203885,Devin Lehnhoff,P,Sr,22,22,2013,11320,North Central  (UMAC),30039
-23,1324214,Eli Odle,OF,So,0,0,2013,11320,North Central  (UMAC),30039
-1,1445310,Steven Olmst,CF,N/A,11,5,2013,11320,North Central  (UMAC),30039
-6,1445311,Terrell Poll,1B,N/A,21,18,2013,11320,North Central  (UMAC),30039
-26,1324215,Gary Ramos,C,Jr,25,25,2013,11320,North Central  (UMAC),30039
+20,1203908,Ian Andrews,P,So,0,0,2012,10942,North Central  (UMAC),30039
 21,1203909,Matt Reed,P,Jr,22,21,2013,11320,North Central  (UMAC),30039
-10,1445308,William Rose,3B,N/A,25,25,2013,11320,North Central  (UMAC),30039
-12,1324216,Matt Shepard,OF,Jr,17,14,2013,11320,North Central  (UMAC),30039
-4,1445307,Cody Van Sickle,SS,N/A,23,23,2013,11320,North Central  (UMAC),30039
-19,1447993,,P,N/A,10,1,2013,11320,North Central  (UMAC),30039
 8,1447994,,2B,N/A,20,19,2013,11320,North Central  (UMAC),30039
-20,1203908,Ian Andrews,P,Sr,0,0,2014,11620,North Central  (UMAC),30039
-2,1556184,Babcock,SS,N/A,27,27,2014,11620,North Central  (UMAC),30039
-9,1556190,Brady,2B,N/A,22,18,2014,11620,North Central  (UMAC),30039
-2,1445309,Joshua Core,RF,Fr,0,0,2014,11620,North Central  (UMAC),30039
-1,1556188,Grimmett,RF,N/A,27,27,2014,11620,North Central  (UMAC),30039
-13,1556187,Hemmesch,CF,N/A,23,23,2014,11620,North Central  (UMAC),30039
-5,1556191,Matthew Juve,LF,N/A,23,21,2014,11620,North Central  (UMAC),30039
-11,1556189,Taylor Madrinich,C,N/A,27,27,2014,11620,North Central  (UMAC),30039
+19,1447993,,P,N/A,10,1,2013,11320,North Central  (UMAC),30039
+4,1445307,Cody Van Sickle,SS,N/A,23,23,2013,11320,North Central  (UMAC),30039
+12,1324216,Matt Shepard,OF,Jr,17,14,2013,11320,North Central  (UMAC),30039
+10,1445308,William Rose,3B,N/A,25,25,2013,11320,North Central  (UMAC),30039
+26,1324215,Gary Ramos,C,Jr,25,25,2013,11320,North Central  (UMAC),30039
+1,1445310,Steven Olmst,CF,N/A,11,5,2013,11320,North Central  (UMAC),30039
+23,1324214,Eli Odle,OF,So,0,0,2013,11320,North Central  (UMAC),30039
+3,1203885,Devin Lehnhoff,P,Sr,22,22,2013,11320,North Central  (UMAC),30039
+5,1203887,Ben Freitag,OF,Sr,14,13,2013,11320,North Central  (UMAC),30039
+2,1445309,Joshua Core,RF,N/A,20,16,2013,11320,North Central  (UMAC),30039
+20,1203908,Ian Andrews,P,Jr,23,23,2013,11320,North Central  (UMAC),30039
+6,1445311,Terrell Poll,1B,N/A,21,18,2013,11320,North Central  (UMAC),30039
 17,1324214,Eli Odle,OF,Jr,16,11,2014,11620,North Central  (UMAC),30039
-1,1445310,Steven Olmst,CF,Fr,0,0,2014,11620,North Central  (UMAC),30039
 6,1445311,Terrell Poll,1B,Fr,0,0,2014,11620,North Central  (UMAC),30039
+1,1445310,Steven Olmst,CF,Fr,0,0,2014,11620,North Central  (UMAC),30039
+11,1556189,Taylor Madrinich,C,N/A,27,27,2014,11620,North Central  (UMAC),30039
 26,1324215,Gary Ramos,C,Sr,0,0,2014,11620,North Central  (UMAC),30039
+13,1556187,Hemmesch,CF,N/A,23,23,2014,11620,North Central  (UMAC),30039
+1,1556188,Grimmett,RF,N/A,27,27,2014,11620,North Central  (UMAC),30039
+2,1445309,Joshua Core,RF,Fr,0,0,2014,11620,North Central  (UMAC),30039
+5,1556191,Matthew Juve,LF,N/A,23,21,2014,11620,North Central  (UMAC),30039
 21,1203909,Matt Reed,P,Sr,6,2,2014,11620,North Central  (UMAC),30039
-6,1556572,Reetz,RF,N/A,2,0,2014,11620,North Central  (UMAC),30039
+20,1203908,Ian Andrews,P,Sr,0,0,2014,11620,North Central  (UMAC),30039
 10,1445308,William Rose,3B,Fr,20,20,2014,11620,North Central  (UMAC),30039
 12,1324216,Matt Shepard,OF,Sr,0,0,2014,11620,North Central  (UMAC),30039
 7,1559719,Ben Spafford,PH,N/A,1,0,2014,11620,North Central  (UMAC),30039
@@ -158,26 +39,145 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18,1556571,Caleb Wyre,2B,N/A,24,16,2014,11620,North Central  (UMAC),30039
 8,1447994,,2B,Fr,0,0,2014,11620,North Central  (UMAC),30039
 19,1447993,,P,Fr,0,0,2014,11620,North Central  (UMAC),30039
-4,1556184,Babcock,SS,Fr,30,30,2015,12080,North Central  (UMAC),30039
-9,1556190,Brady,2B,Fr,0,0,2015,12080,North Central  (UMAC),30039
-15,1668828,Cardinelli,3B,N/A,30,30,2015,12080,North Central  (UMAC),30039
-2,1445309,Joshua Core,RF,So,0,0,2015,12080,North Central  (UMAC),30039
-10,1671363,Andrew Eliason,RF,N/A,23,23,2015,12080,North Central  (UMAC),30039
-8,1668826,Fair,CF,N/A,29,29,2015,12080,North Central  (UMAC),30039
-1,1556188,Grimmett,RF,Fr,24,24,2015,12080,North Central  (UMAC),30039
-13,1556187,Hemmesch,CF,Fr,0,0,2015,12080,North Central  (UMAC),30039
-5,1556191,Matthew Juve,LF,Fr,30,30,2015,12080,North Central  (UMAC),30039
-11,1556189,Taylor Madrinich,C,Fr,30,30,2015,12080,North Central  (UMAC),30039
-17,1324214,Eli Odle,OF,Sr,12,8,2015,12080,North Central  (UMAC),30039
-1,1445310,Steven Olmst,CF,So,0,0,2015,12080,North Central  (UMAC),30039
-6,1445311,Terrell Poll,1B,So,0,0,2015,12080,North Central  (UMAC),30039
-6,1556572,Reetz,RF,Fr,0,0,2015,12080,North Central  (UMAC),30039
-13,1671386,Ricena,3B,N/A,11,6,2015,12080,North Central  (UMAC),30039
-10,1445308,William Rose,3B,So,0,0,2015,12080,North Central  (UMAC),30039
-7,1559719,Ben Spafford,PH,Fr,0,0,2015,12080,North Central  (UMAC),30039
-17,1671688,Sullivan,3B,N/A,6,3,2015,12080,North Central  (UMAC),30039
-22,1556185,Treadwell,1B,Fr,0,0,2015,12080,North Central  (UMAC),30039
-2,1445307,Cody Van Sickle,SS,So,30,30,2015,12080,North Central  (UMAC),30039
-18,1556571,Caleb Wyre,2B,Fr,27,27,2015,12080,North Central  (UMAC),30039
-8,1447994,,2B,So,0,0,2015,12080,North Central  (UMAC),30039
+9,1556190,Brady,2B,N/A,22,18,2014,11620,North Central  (UMAC),30039
+6,1556572,Reetz,RF,N/A,2,0,2014,11620,North Central  (UMAC),30039
+2,1556184,Babcock,SS,N/A,27,27,2014,11620,North Central  (UMAC),30039
 19,1447993,,P,So,0,0,2015,12080,North Central  (UMAC),30039
+9,1556190,Brady,2B,Fr,0,0,2015,12080,North Central  (UMAC),30039
+18,1556571,Caleb Wyre,2B,Fr,27,27,2015,12080,North Central  (UMAC),30039
+2,1445307,Cody Van Sickle,SS,So,30,30,2015,12080,North Central  (UMAC),30039
+22,1556185,Treadwell,1B,Fr,0,0,2015,12080,North Central  (UMAC),30039
+17,1671688,Sullivan,3B,N/A,6,3,2015,12080,North Central  (UMAC),30039
+7,1559719,Ben Spafford,PH,Fr,0,0,2015,12080,North Central  (UMAC),30039
+10,1445308,William Rose,3B,So,0,0,2015,12080,North Central  (UMAC),30039
+13,1671386,Ricena,3B,N/A,11,6,2015,12080,North Central  (UMAC),30039
+6,1556572,Reetz,RF,Fr,0,0,2015,12080,North Central  (UMAC),30039
+6,1445311,Terrell Poll,1B,So,0,0,2015,12080,North Central  (UMAC),30039
+1,1445310,Steven Olmst,CF,So,0,0,2015,12080,North Central  (UMAC),30039
+17,1324214,Eli Odle,OF,Sr,12,8,2015,12080,North Central  (UMAC),30039
+11,1556189,Taylor Madrinich,C,Fr,30,30,2015,12080,North Central  (UMAC),30039
+5,1556191,Matthew Juve,LF,Fr,30,30,2015,12080,North Central  (UMAC),30039
+13,1556187,Hemmesch,CF,Fr,0,0,2015,12080,North Central  (UMAC),30039
+1,1556188,Grimmett,RF,Fr,24,24,2015,12080,North Central  (UMAC),30039
+8,1668826,Fair,CF,N/A,29,29,2015,12080,North Central  (UMAC),30039
+10,1671363,Andrew Eliason,RF,N/A,23,23,2015,12080,North Central  (UMAC),30039
+2,1445309,Joshua Core,RF,So,0,0,2015,12080,North Central  (UMAC),30039
+15,1668828,Cardinelli,3B,N/A,30,30,2015,12080,North Central  (UMAC),30039
+4,1556184,Babcock,SS,Fr,30,30,2015,12080,North Central  (UMAC),30039
+8,1447994,,2B,So,0,0,2015,12080,North Central  (UMAC),30039
+28,1779037,Tate Andrews,3B,Fr,40,40,2016,12360,North Central  (UMAC),30039
+18,1779039,Elijah Valder,P,Fr,40,40,2016,12360,North Central  (UMAC),30039
+18,1556571,Caleb Wyre,OF,Jr,2,1,2016,12360,North Central  (UMAC),30039
+9,1783438,Bryce Witzman,C,Jr,5,1,2016,12360,North Central  (UMAC),30039
+6,1783794,Travis Voigt,DH,Jr,4,3,2016,12360,North Central  (UMAC),30039
+2,1445307,Cody Van Sickle,SS,Sr,32,28,2016,12360,North Central  (UMAC),30039
+20,1779035,Bryce Riege,P,Fr,29,29,2016,12360,North Central  (UMAC),30039
+7,1779038,James Lissick,INF,Fr,39,37,2016,12360,North Central  (UMAC),30039
+11,1556189,Taylor Madrinich,DH,Jr,28,28,2016,12360,North Central  (UMAC),30039
+5,1556191,Matthew Juve,OF,Jr,36,35,2016,12360,North Central  (UMAC),30039
+4,1779033,Taylor Justice,C,Fr,40,38,2016,12360,North Central  (UMAC),30039
+15,1783793,Jared High,DH,Fr,5,5,2016,12360,North Central  (UMAC),30039
+99,1671363,Andrew Eliason,OF,So,1,0,2016,12360,North Central  (UMAC),30039
+8,1779040,Bobby Donohoe,2B,Fr,40,40,2016,12360,North Central  (UMAC),30039
+10,1779031,Cory Kukkola,SS,Fr,40,40,2016,12360,North Central  (UMAC),30039
+22,1886941,Grant Payne,P,Fr,32,32,2017,12560,North Central  (UMAC),30039
+19,1886939,Michael Nolte,3B,Fr,2,0,2017,12560,North Central  (UMAC),30039
+24,1886942,Brandon Scott,C,Jr,30,29,2017,12560,North Central  (UMAC),30039
+20,1779035,Bryce Riege,P,So,32,31,2017,12560,North Central  (UMAC),30039
+29,1886943,Maddison Waddell,3B,Fr,2,1,2017,12560,North Central  (UMAC),30039
+21,1886940,Michael Mulligan,OF,Fr,1,0,2017,12560,North Central  (UMAC),30039
+18,1779039,Elijah Valder,P,So,32,28,2017,12560,North Central  (UMAC),30039
+15,1886937,Jonathon Kutzke,P,Fr,14,9,2017,12560,North Central  (UMAC),30039
+26,1783793,Jared High,DH,Fr,23,23,2017,12560,North Central  (UMAC),30039
+4,1779033,Taylor Justice,C,So,31,31,2017,12560,North Central  (UMAC),30039
+17,1886938,Noah Harvey,OF,Fr,17,9,2017,12560,North Central  (UMAC),30039
+7,1886922,Blazsen Ferreira,P,Fr,30,30,2017,12560,North Central  (UMAC),30039
+8,1779040,Bobby Donohoe,2B,So,32,32,2017,12560,North Central  (UMAC),30039
+28,1779037,Tate Andrews,3B,So,7,7,2017,12560,North Central  (UMAC),30039
+10,1779031,Cory Kukkola,SS,So,32,32,2017,12560,North Central  (UMAC),30039
+18,1779039,Elijah Valder,P,Jr,15,0,2018,12973,North Central  (UMAC),30039
+15,1886937,Jonathon Kutzke,P,So,9,4,2018,12973,North Central  (UMAC),30039
+5,2005120,Justin Torres,UT,Fr,27,27,2018,12973,North Central  (UMAC),30039
+23,2005125,Joshua Thompson,C,Fr,27,27,2018,12973,North Central  (UMAC),30039
+24,1886942,Brandon Scott,C,Sr,9,9,2018,12973,North Central  (UMAC),30039
+20,1779035,Bryce Riege,P,Jr,24,24,2018,12973,North Central  (UMAC),30039
+22,1886941,Grant Payne,P,So,15,10,2018,12973,North Central  (UMAC),30039
+19,1886939,Michael Nolte,3B,So,0,0,2018,12973,North Central  (UMAC),30039
+12,2005122,Bradley Nakamura,OF,Fr,2,2,2018,12973,North Central  (UMAC),30039
+10,1779031,Cory Kukkola,SS,Jr,27,27,2018,12973,North Central  (UMAC),30039
+21,2005124,Steven De Silva,OF,Fr,27,26,2018,12973,North Central  (UMAC),30039
+4,1779033,Taylor Justice,C,Jr,22,22,2018,12973,North Central  (UMAC),30039
+26,1783793,Jared High,DH,So,0,0,2018,12973,North Central  (UMAC),30039
+9,2005121,Chris Harding,INF,Fr,25,25,2018,12973,North Central  (UMAC),30039
+7,1886922,Blazsen Ferreira,P,So,25,16,2018,12973,North Central  (UMAC),30039
+8,1779040,Bobby Donohoe,2B,Jr,24,21,2018,12973,North Central  (UMAC),30039
+28,1779037,Tate Andrews,3B,Jr,22,22,2018,12973,North Central  (UMAC),30039
+16,2005123,Andrew Kemper,P,Jr,7,3,2018,12973,North Central  (UMAC),30039
+25,2133744,Dylan Dietrich,P,Jr,1,0,2019,14781,North Central  (UMAC),30039
+5,2005120,Justin Torres,OF,So,31,29,2019,14781,North Central  (UMAC),30039
+21,2005124,Steven De Silva,OF,So,11,11,2019,14781,North Central  (UMAC),30039
+8,1779040,Bobby Donohoe,2B,Sr,28,28,2019,14781,North Central  (UMAC),30039
+11,2133733,Chase Drill,C,Jr,25,25,2019,14781,North Central  (UMAC),30039
+7,1886922,Blazsen Ferreira,P,Jr,9,1,2019,14781,North Central  (UMAC),30039
+6,2133732,Caiden Gelowicz,P,Fr,7,4,2019,14781,North Central  (UMAC),30039
+4,1779033,Taylor Justice,C,Sr,31,31,2019,14781,North Central  (UMAC),30039
+9,2005121,Chris Harding,INF,So,25,25,2019,14781,North Central  (UMAC),30039
+10,1779031,Cory Kukkola,SS,Sr,31,31,2019,14781,North Central  (UMAC),30039
+12,2005122,Bradley Nakamura,OF,So,7,2,2019,14781,North Central  (UMAC),30039
+19,1886939,Michael Nolte,3B,Jr,0,0,2019,14781,North Central  (UMAC),30039
+22,1886941,Grant Payne,P,Jr,21,9,2019,14781,North Central  (UMAC),30039
+20,1779035,Bryce Riege,P,Sr,12,5,2019,14781,North Central  (UMAC),30039
+24,1886942,Brandon Scott,C,Sr,31,31,2019,14781,North Central  (UMAC),30039
+23,2151100,Michael Barrientos,P,Fr,28,27,2019,14781,North Central  (UMAC),30039
+14,2133743,Cole Sneed,C,Fr,31,31,2019,14781,North Central  (UMAC),30039
+16,2005123,Andrew Kemper,P,Sr,17,11,2019,14781,North Central  (UMAC),30039
+28,1779037,Tate Andrews,3B,Sr,4,1,2019,14781,North Central  (UMAC),30039
+13,2305887,Rene Brockman,2B,So,5,5,2020,15204,North Central  (UMAC),30039
+22,1886941,Grant Payne,P,Sr,4,4,2020,15204,North Central  (UMAC),30039
+2,2005120,Justin Torres,OF,Jr,5,4,2020,15204,North Central  (UMAC),30039
+14,2133743,Cole Sneed,C,So,5,5,2020,15204,North Central  (UMAC),30039
+15,2305898,Hayden Schigur,P,Fr,5,3,2020,15204,North Central  (UMAC),30039
+20,2305894,Jack Parker,C,Fr,5,4,2020,15204,North Central  (UMAC),30039
+16,2305893,Tanner Oka,OF,Fr,2,0,2020,15204,North Central  (UMAC),30039
+17,2305872,Justin Krull,P,Fr,5,4,2020,15204,North Central  (UMAC),30039
+12,2005122,Bradley Nakamura,OF,Jr,2,0,2020,15204,North Central  (UMAC),30039
+9,2005121,Chris Harding,INF,Jr,3,3,2020,15204,North Central  (UMAC),30039
+7,1886922,Blazsen Ferreira,P,Sr,3,3,2020,15204,North Central  (UMAC),30039
+11,2133733,Chase Drill,C,Sr,5,5,2020,15204,North Central  (UMAC),30039
+21,2005124,Steven De Silva,OF,Jr,5,5,2020,15204,North Central  (UMAC),30039
+23,2305888,Joseph Cobb,OF,Fr,2,0,2020,15204,North Central  (UMAC),30039
+4,2305889,Kyle Huerth,OF,Fr,5,5,2020,15204,North Central  (UMAC),30039
+13,2305887,Rene Brockman,SS,Jr,23,23,2021,15580,North Central  (UMAC),30039
+22,2305888,Joseph Cobb,OF,Fr,14,10,2021,15580,North Central  (UMAC),30039
+6,2489006,Nate Boyer,2B,Fr,18,10,2021,15580,North Central  (UMAC),30039
+4,2305889,Kyle Huerth,OF,So,19,17,2021,15580,North Central  (UMAC),30039
+15,2489021,Noah Beckjorden,1B,Fr,7,0,2021,15580,North Central  (UMAC),30039
+26,2489025,Jesse Barreno,P,Fr,6,6,2021,15580,North Central  (UMAC),30039
+20,2489023,Kristian Garcia,OF,Jr,23,19,2021,15580,North Central  (UMAC),30039
+28,2489026,Tyler Bloom,P,Fr,21,20,2021,15580,North Central  (UMAC),30039
+14,2005121,Chris Harding,3B,Jr,21,21,2021,15580,North Central  (UMAC),30039
+5,2489003,Primeau Hill,OF,Fr,17,13,2021,15580,North Central  (UMAC),30039
+21,2489024,Daniel Montana,C,Fr,23,23,2021,15580,North Central  (UMAC),30039
+9,2489015,Edwin Morrow,P,So,5,0,2021,15580,North Central  (UMAC),30039
+16,2305893,Tanner Oka,OF,So,10,1,2021,15580,North Central  (UMAC),30039
+11,2305894,Jack Parker,C,So,23,23,2021,15580,North Central  (UMAC),30039
+12,2305898,Hayden Schigur,P,Fr,10,2,2021,15580,North Central  (UMAC),30039
+2,2005120,Justin Torres,OF,Jr,21,21,2021,15580,North Central  (UMAC),30039
+14,2690069,Nicolas Sheley,3B,Fr,13,3,2022,15860,North Central  (UMAC),30039
+15,2690071,Christian Rodriguez,P,Fr,25,25,2022,15860,North Central  (UMAC),30039
+11,2305894,Jack Parker,C,So,25,24,2022,15860,North Central  (UMAC),30039
+17,2305893,Tanner Oka,OF,So,13,4,2022,15860,North Central  (UMAC),30039
+7,2690067,Matthew Oakley,SS,Fr,25,25,2022,15860,North Central  (UMAC),30039
+13,2689890,Devin O'Dell,P,Fr,8,1,2022,15860,North Central  (UMAC),30039
+34,2489024,Daniel Montana,1B,Fr,20,19,2022,15860,North Central  (UMAC),30039
+31,2690095,Chris Garza,2B,Fr,14,4,2022,15860,North Central  (UMAC),30039
+3,2690060,Teyghan Hovland,OF,Fr,16,15,2022,15860,North Central  (UMAC),30039
+23,2489023,Kristian Garcia,OF,Jr,24,23,2022,15860,North Central  (UMAC),30039
+20,2690092,Julian Encinas,C,Fr,25,25,2022,15860,North Central  (UMAC),30039
+6,2489006,Nate Boyer,2B,Fr,25,25,2022,15860,North Central  (UMAC),30039
+2,2689888,Noah Block,OF,Fr,19,15,2022,15860,North Central  (UMAC),30039
+1,2690050,Blaine Alden,C,Fr,7,2,2022,15860,North Central  (UMAC),30039
+4,2305889,Kyle Huerth,OF,So,25,25,2022,15860,North Central  (UMAC),30039
+11,2305894,Jack Parker,C,5-9,Jr,0,2023,16340,North Central  (UMAC),30039
+1,2690050,Blaine Alden,C,5-8,So,0,2023,16340,North Central  (UMAC),30039
+3,2690060,Teyghan Hovland,OF,6-3,So,0,2023,16340,North Central  (UMAC),30039

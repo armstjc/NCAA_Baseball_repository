@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-04/12/2022,home,15860,454,Murray St.,9,True,8,2,6,win,8 - 2,5262671,433,1,0,1.0,0.0,1,0,0,0,2,0,4,4,1,0,0,0,0,0,0,0,0,0,0,21,1,0,0,0,0,3,0,0,1984682,2022
-04/19/2022,home,15860,654,Southeast Mo. St.,9,True,3,13,-10,loss,3 - 13,5269236,433,1,0,0.2,0.0,2,3,3,2,1,0,6,3,1,0,0,0,1,0,0,0,0,0,1,27,0,1,0,0,0,4,0,0,1984682,2022
-05/19/2022,home,15860,697,Texas A&M,9,True,5,10,-5,loss,5 - 10,5288939,433,1,0,0.2,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,9,0,1,0,0,0,5,0,0,1984682,2022
-05/21/2022,home,15860,697,Texas A&M,9,True,5,12,-7,loss,5 - 12,5289576,433,1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,5,0,0,1984682,2022
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,2,0,4,4,1,0,0,0,0,0,0,0,0,0,0,21,1,0,0,0,0,3,0,0,04/12/2022,home,15860,454,Murray St.,9,True,8,2,6,win,2178610,433,1984682,2022
+1,0,0.2,0.0,2,3,3,2,1,0,6,3,1,0,0,0,1,0,0,0,0,0,1,27,0,1,0,0,0,4,0,0,04/19/2022,home,15860,654,Southeast Mo. St.,9,True,3,13,-10,loss,2180032,433,1984682,2022
+1,0,0.2,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,9,0,1,0,0,0,5,0,0,05/19/2022,home,15860,697,Texas A&M,9,True,5,10,-5,loss,2184416,433,1984682,2022
+1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,5,0,0,05/21/2022,home,15860,697,Texas A&M,9,True,5,12,-7,loss,2184679,433,1984682,2022

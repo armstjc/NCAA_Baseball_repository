@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/18/2022,home,15860,563,Radford,9,True,6,5,1,win,6 - 5,5208091,646,1,0,4.0,0.0,4,1,1,1,4,0,13,12,0,0,0,0,0,0,0,0,0,0,0,50,2,2,1,0,0,2,1,0,2483995,2022
-02/26/2022,home,15860,572,Rhode Island,9,True,9,1,8,win,9 - 1,5216867,646,1,0,2.0,0.0,2,1,0,0,0,0,10,10,0,0,0,0,0,0,0,0,0,0,0,23,3,3,0,0,0,2,0,0,2483995,2022
-03/08/2022,away,15860,664,Southern Miss.,9,True,5,7,-2,loss,5 - 7,5228727,646,1,1,2.0,0.0,2,0,0,2,1,0,10,8,0,0,0,0,0,0,0,0,0,0,0,38,3,2,0,0,0,1,0,0,2483995,2022
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,4.0,0.0,4,1,1,1,4,0,13,12,0,0,0,0,0,0,0,0,0,0,0,50,2,2,1,0,0,2,1,0,02/18/2022,home,15860,563,Radford,9,True,6,5,1,win,2168046,646,2483995,2022
+1,0,2.0,0.0,2,1,0,0,0,0,10,10,0,0,0,0,0,0,0,0,0,0,0,23,3,3,0,0,0,2,0,0,02/26/2022,home,15860,572,Rhode Island,9,True,9,1,8,win,2169414,646,2483995,2022
+1,1,2.0,0.0,2,0,0,2,1,0,10,8,0,0,0,0,0,0,0,0,0,0,0,38,3,2,0,0,0,1,0,0,03/08/2022,away,15860,664,Southern Miss.,9,True,5,7,-2,loss,2171358,646,2483995,2022

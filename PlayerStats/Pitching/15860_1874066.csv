@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/25/2022,away,15860,630,San Jose St.,9,True,15,6,9,win,15 - 6,5217329,551,1,0,1.0,0.0,2,1,1,0,1,0,5,5,0,0,0,1,0,0,0,0,0,0,0,25,0,2,0,0,0,3,0,0,1874066,2022
-03/06/2022,away,15860,96,Fresno St.,9,True,1,7,-6,loss,1 - 7,5226560,551,1,0,1.1,0.0,1,0,0,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,22,2,1,0,0,0,4,0,0,1874066,2022
-03/08/2022,away,15860,529,Oregon,9,True,2,18,-16,loss,2 - 18,5228773,551,1,0,1.0,0.0,3,4,4,1,0,0,7,5,0,0,0,1,0,0,0,1,1,0,1,28,1,2,0,0,0,5,0,0,1874066,2022
-04/29/2022,away,15860,1356,Seattle U,9,True,8,9,-1,loss,8 - 9,5278694,551,1,0,0.0,0.0,1,3,3,1,0,0,3,1,1,0,0,0,0,1,0,1,1,0,0,16,0,0,0,0,0,4,0,0,1874066,2022
-05/17/2022,home,15860,754,Washington St.,9,True,0,3,-3,loss,0 - 3,5288531,551,1,0,1.1,0.0,2,0,0,1,1,0,7,6,0,0,0,0,1,0,0,0,0,0,0,26,2,1,0,0,0,3,1,0,1874066,2022
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,1,1,0,1,0,5,5,0,0,0,1,0,0,0,0,0,0,0,25,0,2,0,0,0,3,0,0,02/25/2022,away,15860,630,San Jose St.,9,True,15,6,9,win,2168987,551,1874066,2022
+1,0,1.1,0.0,1,0,0,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,22,2,1,0,0,0,4,0,0,03/06/2022,away,15860,96,Fresno St.,9,True,1,7,-6,loss,2171098,551,1874066,2022
+1,0,1.0,0.0,3,4,4,1,0,0,7,5,0,0,0,1,0,0,0,1,1,0,1,28,1,2,0,0,0,5,0,0,03/08/2022,away,15860,529,Oregon,9,True,2,18,-16,loss,2171331,551,1874066,2022
+1,0,0.0,0.0,1,3,3,1,0,0,3,1,1,0,0,0,0,1,0,1,1,0,0,16,0,0,0,0,0,4,0,0,04/29/2022,away,15860,1356,Seattle U,9,True,8,9,-1,loss,2182909,551,1874066,2022
+1,0,1.1,0.0,2,0,0,1,1,0,7,6,0,0,0,0,1,0,0,0,0,0,0,26,2,1,0,0,0,3,1,0,05/17/2022,home,15860,754,Washington St.,9,True,0,3,-3,loss,2184324,551,1874066,2022

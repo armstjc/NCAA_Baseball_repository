@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,2,3,3,3,0,0,6,3,0,0,0,0,0,0,0,0,0,0,0,23,0,1,0,0,0,3,0,0,02/20/2022,neutral,15860,64,Blackburn,9,True,25,7,18,win,2168553,177,2528490,2022
+1,0,1.2,0.0,6,4,3,2,0,0,13,9,1,0,0,0,0,0,0,0,0,1,1,44,3,1,0,0,0,4,0,0,03/29/2022,away,15860,1000,Carson-Newman,9,True,3,13,-10,loss,2265007,177,2528490,2022
+1,0,1.0,0.0,0,0,0,1,1,0,4,1,0,0,0,0,0,0,0,0,0,0,2,18,1,1,0,0,0,6,1,0,04/07/2022,away,15860,182,Denison,9,True,2,12,-10,loss,2186466,177,2528490,2022
+1,0,1.2,0.0,2,1,1,1,1,0,10,6,0,0,0,0,0,2,0,3,3,0,1,29,2,2,0,0,0,3,1,0,04/16/2022,home,15860,335,Kenyon,9,True,1,12,-11,loss,2179740,177,2528490,2022
+1,0,1.0,0.0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,11,2,1,0,0,0,3,0,0,04/19/2022,away,15860,806,Wittenberg,9,True,10,11,-1,loss,2180081,177,2528490,2022

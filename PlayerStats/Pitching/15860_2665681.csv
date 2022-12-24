@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.2,0.0,0,2,2,3,1,0,8,5,0,0,0,0,0,0,0,0,0,0,0,34,4,0,0,0,0,5,0,0,03/05/2022,home,15860,557,Puget Sound,9,True,6,17,-11,loss,2170954,785,2665681,2022
+1,0,1.1,0.0,3,3,3,1,0,0,7,5,1,1,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,3,0,0,03/27/2022,away,15860,780,Whitman,9,True,16,25,-9,loss,2175360,785,2665681,2022
+1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,5,0,0,04/05/2022,home,15860,0,Bushnell,9,True,12,3,9,win,2263346,785,2665681,2022
+1,0,0.2,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,0,0,5,1,0,04/13/2022,away,15860,0,Bushnell,9,True,14,5,9,win,2263332,785,2665681,2022

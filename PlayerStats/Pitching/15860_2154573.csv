@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.1,0.0,3,0,0,1,1,0,12,11,0,0,0,0,0,0,0,0,0,0,0,36,1,6,0,0,0,3,0,0,03/13/2022,neutral,15860,515,Oberlin,9,True,7,8,-1,loss,2262003,30085,2154573,2022
+1,0,1.0,0.0,0,1,1,2,0,0,5,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,0,0,0,2,0,0,03/22/2022,away,15860,258,Gettysburg,9,True,8,11,-3,loss,2174260,30085,2154573,2022
+1,0,0.1,0.0,1,0,0,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,18,0,1,0,0,0,2,0,0,04/04/2022,home,15860,1305,Cairn,9,True,1,12,-11,loss,2266014,30085,2154573,2022

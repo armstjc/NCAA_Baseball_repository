@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.1,0.0,4,2,2,0,1,0,11,10,0,0,0,0,0,1,0,0,0,0,0,0,1,4,0,0,0,2,0,0,03/16/2022,neutral,15860,613,Saint Michael's,9,True,14,8,6,win,2259501,803,2350556,2022
+1,0,1.0,0.0,2,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,0,1,0,0,0,3,0,0,03/29/2022,neutral,15860,800,Wis.-Platteville,9,True,7,3,4,win,2175359,803,2350556,2022
+1,0,1.1,0.0,2,5,3,2,2,0,9,5,0,0,0,1,0,0,0,0,0,1,1,0,0,2,0,0,0,2,1,0,04/19/2022,home,15860,802,Wis.-Stevens Point,9,True,5,11,-6,loss,2179203,803,2350556,2022
+1,0,1.2,0.0,3,2,2,2,2,0,9,7,1,0,0,1,0,0,0,1,0,0,0,0,0,2,0,0,0,4,1,0,04/24/2022,home,15860,795,Wis.-La Crosse,9,True,3,11,-8,loss,2181280,803,2350556,2022
+1,0,1.0,0.0,2,2,2,1,0,0,7,5,0,0,0,0,0,1,0,0,0,0,0,17,2,1,0,0,0,3,0,0,05/02/2022,away,15860,805,Wis.-Whitewater,9,True,4,12,-8,loss,2185969,803,2350556,2022

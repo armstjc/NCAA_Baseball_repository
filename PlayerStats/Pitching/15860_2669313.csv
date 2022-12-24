@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,3,3,2,3,0,8,6,0,1,0,0,0,0,0,0,0,0,0,41,1,0,0,0,0,3,1,0,02/04/2022,away,15860,30147,Fresno Pacific,9,True,0,13,-13,loss,2185149,1446,2669313,2022
+1,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,4,1,0,02/26/2022,away,15860,1010,Central Wash.,9,True,2,9,-7,loss,2188765,1446,2669313,2022
+1,1,2.0,0.0,1,1,1,6,1,0,13,6,0,0,0,0,1,1,0,0,0,0,0,56,2,2,0,0,0,1,0,0,03/08/2022,away,15860,1094,George Fox,9,True,8,5,3,win,2171279,1446,2669313,2022
+1,0,1.0,0.0,0,1,1,2,2,0,5,3,0,0,0,0,2,0,0,0,0,0,0,23,1,0,0,0,0,2,1,0,03/22/2022,home,15860,0,Bushnell,9,True,13,4,9,win,2174153,1446,2669313,2022

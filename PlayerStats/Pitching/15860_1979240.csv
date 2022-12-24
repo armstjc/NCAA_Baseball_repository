@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,2,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,0,03/02/2022,home,15860,30181,UVA Wise,9,True,5,3,2,win,2169995,1028,1979240,2022
+1,0,2.0,0.0,0,0,0,0,3,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,4,1,0,03/23/2022,away,15860,30181,UVA Wise,9,True,14,11,3,win,2187470,1028,1979240,2022
+1,0,1.0,0.0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,17,1,1,0,0,0,2,0,0,04/16/2022,home,15860,9630,West Va. Wesleyan,9,True,14,2,12,win,2186658,1028,1979240,2022

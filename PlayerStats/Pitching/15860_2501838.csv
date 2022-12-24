@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,1,1,1,2,3,0,8,6,1,0,0,0,1,0,0,0,0,0,0,38,1,1,0,0,0,2,0,0,03/25/2022,home,15860,339,Kutztown,9,True,18,2,16,win,2174645,65,2501838,2022
+1,0,1.1,0.0,2,3,3,3,3,0,9,6,1,0,0,0,2,0,0,2,1,0,0,49,1,0,0,0,0,2,1,0,04/09/2022,away,15860,197,East Stroudsburg,9,True,1,11,-10,loss,2178045,65,2501838,2022
+1,0,1.0,0.0,1,0,0,0,3,0,6,4,0,0,0,0,0,2,0,0,0,0,0,21,0,0,0,0,0,5,1,0,04/12/2022,home,15860,3,Adelphi,9,True,11,3,8,win,2178656,65,2501838,2022
+1,0,0.1,0.0,2,1,1,1,1,0,4,3,0,0,0,0,0,0,0,2,2,0,0,18,0,0,0,0,0,2,0,0,04/23/2022,home,15860,384,Mansfield,9,True,14,18,-4,loss,2186139,65,2501838,2022
+1,0,0.2,0.0,1,5,0,1,2,0,8,5,0,0,0,1,1,2,0,0,0,0,0,28,0,0,0,0,0,3,1,0,05/03/2022,home,15860,546,Pitt.-Johnstown,9,True,11,17,-6,loss,2182950,65,2501838,2022

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,2.0,0.0,3,3,3,3,2,0,12,7,1,0,1,0,0,1,0,0,0,0,1,45,1,2,0,0,0,1,0,1,03/10/2022,neutral,15860,351,Lebanon Valley,9,True,5,15,-10,loss,2171611,806,2652778,2022
+1,0,1.0,0.0,1,1,0,0,3,0,5,5,0,0,0,0,1,0,0,0,0,0,0,21,0,0,0,0,0,5,0,0,04/02/2022,home,15860,182,Denison,9,True,6,12,-6,loss,2176492,806,2652778,2022
+1,0,1.0,0.0,4,2,2,0,0,0,7,7,0,0,0,0,1,0,0,0,0,0,0,21,3,0,0,0,0,4,0,0,04/16/2022,home,15860,515,Oberlin,9,True,6,12,-6,loss,2179671,806,2652778,2022
+1,1,5.0,0.0,5,3,2,0,4,0,20,20,1,0,1,1,0,0,0,0,0,0,0,74,5,5,1,0,0,1,0,1,04/28/2022,away,15860,117,Capital,9,True,9,3,6,win,2181870,806,2652778,2022
+1,0,0.2,0.0,0,0,0,3,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,05/08/2022,away,15860,520,Ohio Wesleyan,9,True,8,1,7,win,2185752,806,2652778,2022

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,1,2,0,5,3,0,0,0,0,0,1,0,0,0,0,0,4,0,1,0,0,0,4,1,0,02/12/2022,neutral,15860,10,Alabama Huntsville,9,True,3,19,-16,loss,2167667,144,2525200,2022
+1,0,0.1,0.0,2,7,7,6,1,0,10,3,0,0,0,1,0,1,0,0,0,0,0,44,0,0,0,0,0,3,0,0,02/26/2022,home,15860,332,Kentucky St.,9,True,4,16,-12,loss,2188987,144,2525200,2022
+1,0,0.1,0.0,0,1,1,1,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,8,1,0,0,0,0,3,0,0,03/27/2022,away,15860,30191,Spring Hill,9,True,5,15,-10,loss,2175007,144,2525200,2022
+1,0,1.0,0.0,2,4,3,1,1,0,9,6,0,0,0,2,0,1,0,0,0,0,1,35,1,1,0,0,0,4,0,0,04/26/2022,home,15860,0,0 - 16,9,True,4,10,-6,loss,2273001,144,2525200,2022

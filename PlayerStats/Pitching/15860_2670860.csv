@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,6,8,8,2,0,0,11,8,0,1,0,2,0,1,0,0,0,0,0,37,1,1,0,0,0,2,0,0,04/06/2022,home,15860,718,Tulane,9,True,5,19,-14,loss,2177472,665,2670860,2022
+1,0,1.0,0.0,0,0,0,2,0,0,6,2,0,0,0,0,0,2,0,0,0,0,0,22,1,1,0,0,0,2,0,0,04/19/2022,away,15860,483,Nicholls,9,True,0,3,-3,loss,2180274,665,2670860,2022
+1,1,2.0,0.0,5,4,4,0,0,0,12,11,1,0,0,0,2,1,0,0,0,0,0,37,4,2,0,1,0,1,0,0,05/10/2022,away,15860,346,Lamar University,9,True,1,10,-9,loss,2183822,665,2670860,2022
+1,1,2.0,0.0,1,1,0,2,0,0,9,7,1,0,0,0,0,0,0,0,0,0,0,26,2,3,0,0,0,1,0,0,05/17/2022,away,15860,474,New Orleans,9,True,4,5,-1,loss,2184341,665,2670860,2022

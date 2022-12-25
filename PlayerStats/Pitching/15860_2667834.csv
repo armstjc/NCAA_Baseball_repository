@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,19,1,0,0,0,0,3,1,0,03/11/2022,neutral,15860,452,Mount Union,9,True,4,0,4,win,2171705,583,2667834,2022
+1,0,0.0,0.0,1,2,2,1,0,0,3,1,0,0,0,0,0,1,0,1,1,0,0,13,0,0,0,0,0,2,0,0,03/19/2022,neutral,15860,564,Ramapo,9,True,10,8,2,win,2173514,583,2667834,2022
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,0,04/02/2022,away,15860,684,Suffolk,9,True,8,3,5,win,2185590,583,2667834,2022
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,1,0,0,0,2,0,0,04/14/2022,away,15860,330,Keene St.,9,True,11,1,10,win,2179017,583,2667834,2022
+1,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,0,05/05/2022,home,15860,656,UMass Dartmouth,11,True,12,12,0,tie,2183091,583,2667834,2022

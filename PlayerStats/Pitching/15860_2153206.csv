@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,2,3,3,1,0,0,5,4,1,0,0,1,0,0,0,2,2,0,0,0,0,1,1,0,0,2,0,0,03/08/2022,neutral,15860,778,Wheaton (IL),9,True,15,8,7,win,2259881,30038,2153206,2022
+1,0,1.0,0.0,4,3,3,0,1,0,7,7,1,1,0,1,0,0,0,0,0,0,0,19,0,2,0,0,0,4,0,0,03/09/2022,neutral,15860,8736,Southwest Minn. St.,9,True,9,20,-11,loss,2260927,30038,2153206,2022
+1,0,1.1,0.0,4,3,3,1,2,0,9,7,1,0,0,1,0,0,0,1,1,0,1,0,1,1,0,0,0,2,0,0,03/11/2022,neutral,15860,42,Aurora,9,True,0,12,-12,loss,2218221,30038,2153206,2022
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,1,0,04/01/2022,home,15860,8597,Martin Luther,9,True,17,0,17,win,2175726,30038,2153206,2022
+1,0,0.0,0.0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,5,0,0,0,0,0,5,0,0,05/13/2022,away,15860,30031,Northwestern-St. Paul,9,True,0,10,-10,loss,2274395,30038,2153206,2022

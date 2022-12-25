@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,2.0,0.0,2,6,3,3,4,0,14,9,0,0,0,0,0,2,0,0,0,0,0,48,1,0,0,0,0,1,2,0,04/02/2022,home,15860,321,John Jay,9,True,0,11,-11,loss,2187756,30166,2695042,2022
+1,0,1.0,0.0,1,2,2,2,0,0,8,4,0,0,0,0,1,2,0,0,0,0,0,35,0,3,0,0,0,2,0,0,04/09/2022,away,15860,12973,Wilson,9,True,2,18,-16,loss,2177895,30166,2695042,2022
+1,1,2.0,0.0,2,3,2,2,1,0,11,8,0,0,0,0,0,1,0,0,0,0,0,31,3,1,0,0,0,1,0,0,04/27/2022,home,15860,179,Delaware Valley,8,True,0,9,-9,loss,2270738,30166,2695042,2022
+1,0,3.2,0.0,2,3,2,0,3,0,15,14,0,0,0,0,2,0,0,0,0,0,1,42,1,7,0,0,0,2,0,0,04/30/2022,home,15860,15882,Rosemont,9,True,9,10,-1,loss,2185980,30166,2695042,2022
+1,0,1.0,0.0,4,3,2,0,2,0,8,7,0,0,0,0,2,1,0,0,0,0,0,33,1,0,0,0,0,4,2,0,05/03/2022,away,15860,15882,Rosemont,9,True,0,10,-10,loss,2182902,30166,2695042,2022

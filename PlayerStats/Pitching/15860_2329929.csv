@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,1,1,1,1,0,0,4,2,0,0,0,0,1,1,0,1,1,0,0,11,0,1,0,0,0,4,0,0,02/12/2022,home,15860,0,Providence Christian,9,True,13,3,10,win,2167656,2696,2329929,2022
+1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,0,3,0,0,0,4,0,0,03/04/2022,home,15860,30175,Holy Names,9,True,2,10,-8,loss,2170233,2696,2329929,2022
+1,0,0.2,0.0,2,4,0,1,0,0,8,6,0,0,0,0,0,1,0,0,0,0,0,22,1,1,0,0,0,4,0,0,03/30/2022,home,15860,30123,Academy of Art,9,True,25,7,18,win,2185576,2696,2329929,2022

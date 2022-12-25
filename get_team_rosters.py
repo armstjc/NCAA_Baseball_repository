@@ -1,11 +1,11 @@
 from collegebaseball import ncaa_scraper as ncaa
 from collegebaseball import datasets
 from datetime import date
-import time
-import glob
+# import time
+# import glob
 from tqdm import tqdm
 import pandas as pd
-import numpy as np
+# import numpy as np
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
@@ -29,6 +29,7 @@ def getSchoolAllTimeRoster(school='Ohio'):
     maxSeason = 2024
     #print(minSeason,maxSeason)
     rost = ncaa.ncaa_team_roster(schoolID,range(minSeason,maxSeason))
+    rost = rost.sort_values(by=['season'])
     rost.to_csv(f'TeamRosters/teams/{schoolID}.csv',index=False)
     print(rost)
     return rost

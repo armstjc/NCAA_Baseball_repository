@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,1,1,1,1,0,0,5,3,1,0,0,0,0,1,0,0,0,0,0,19,1,1,0,0,0,4,0,0,03/06/2022,away,15860,637,Shenandoah,9,True,10,8,2,win,2171106,530,2514345,2022
+1,0,1.0,0.0,2,1,1,2,2,0,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,03/18/2022,neutral,15860,662,Southern Me.,9,True,5,15,-10,loss,2173172,530,2514345,2022
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,1,0,04/03/2022,neutral,15860,475,SUNY New Paltz,9,True,14,3,11,win,2176154,530,2514345,2022
+1,0,0.2,0.0,1,0,0,0,0,0,5,3,1,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,3,0,0,04/13/2022,home,15860,581,Rochester (NY),9,True,3,4,-1,loss,2267707,530,2514345,2022
+1,0,1.0,0.0,2,3,3,2,2,0,7,5,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,05/06/2022,neutral,15860,242,Fredonia,9,True,23,8,15,win,2183240,530,2514345,2022

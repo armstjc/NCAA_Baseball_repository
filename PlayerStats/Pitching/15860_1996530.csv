@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,0,0,6,0,0,04/10/2022,home,15860,276,Haverford,9,True,3,7,-4,loss,2186077,773,1996530,2022
+1,0,1.1,0.0,2,2,2,2,1,0,8,6,0,0,0,0,1,0,0,0,0,0,0,32,2,1,0,0,0,4,0,0,04/15/2022,home,15860,753,Washington Col.,9,True,8,16,-8,loss,2179392,773,1996530,2022
+1,0,0.2,0.0,2,0,0,0,0,0,5,3,0,0,0,0,0,1,0,0,0,0,1,20,1,1,0,0,0,5,0,0,04/26/2022,home,15860,185,Dickinson,9,True,10,20,-10,loss,2181617,773,1996530,2022
+1,0,1.2,0.0,0,0,0,1,1,0,7,4,0,0,0,0,0,2,0,0,0,0,0,24,2,1,1,0,0,3,0,0,04/30/2022,home,15860,453,Muhlenberg,9,True,6,5,1,win,2186567,773,1996530,2022

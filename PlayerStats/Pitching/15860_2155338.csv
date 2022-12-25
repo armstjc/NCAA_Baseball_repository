@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,1,2,0,3,0,0,11,7,0,0,0,0,0,1,0,0,0,0,0,47,2,3,0,0,0,2,0,0,03/09/2022,neutral,15860,804,Wis.-Superior,9,True,5,2,3,win,2188783,126,2155338,2022
+1,1,2.0,0.0,4,6,6,2,1,0,14,8,1,0,0,1,1,2,0,0,0,1,1,0,4,1,0,0,0,1,0,0,03/15/2022,away,15860,337,Knox,9,True,12,9,3,win,2188971,126,2155338,2022
+1,0,3.0,0.0,3,2,2,3,2,0,16,12,1,0,0,0,0,1,0,0,0,0,0,0,4,2,0,0,0,2,2,0,03/18/2022,neutral,15860,9500,SUNY Poly,9,True,6,5,1,win,2188707,126,2155338,2022
+1,0,0.2,0.0,5,7,7,1,0,0,9,7,2,0,1,0,1,1,0,0,0,0,0,33,1,1,0,0,0,2,0,0,03/26/2022,home,15860,84,Buena Vista,9,True,18,22,-4,loss,2175019,126,2155338,2022
+1,0,0.0,0.0,3,7,6,3,0,0,7,4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,04/16/2022,home,15860,192,Dubuque,9,True,6,20,-14,loss,2179568,126,2155338,2022

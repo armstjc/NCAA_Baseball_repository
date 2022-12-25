@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,03/29/2022,home,15860,319,New Jersey City,9,True,16,2,14,win,2175757,221,2672276,2022
+1,0,0.1,0.0,1,2,2,1,0,0,4,2,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,3,0,0,04/09/2022,home,15860,16142,Misericordia,9,True,4,10,-6,loss,2177968,221,2672276,2022
+1,0,1.0,0.0,3,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,0,04/13/2022,home,15860,382,Manhattanville,9,True,5,9,-4,loss,2178906,221,2672276,2022
+1,0,2.2,0.0,2,3,3,2,3,0,12,10,0,0,0,1,0,0,0,0,0,0,0,0,1,4,0,0,0,4,0,0,04/20/2022,away,15860,478,SUNY Maritime,9,True,4,13,-9,loss,2180276,221,2672276,2022
+1,0,1.0,0.0,1,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,0,04/22/2022,away,15860,966,Arcadia,9,True,2,9,-7,loss,2180621,221,2672276,2022
+1,0,1.0,0.0,1,0,0,0,1,0,5,4,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,2,0,0,04/27/2022,home,15860,9684,Saint Elizabeth,9,True,6,3,3,win,2181809,221,2672276,2022

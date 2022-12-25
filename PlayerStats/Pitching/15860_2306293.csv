@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.0,0.0,4,2,2,1,0,0,14,11,1,0,0,1,0,1,0,0,0,1,0,48,7,1,0,0,0,4,0,0,02/28/2022,home,15860,1289,Ouachita Baptist,9,True,11,16,-5,loss,2168944,30202,2306293,2022
+1,0,2.0,0.0,3,3,3,1,1,0,11,9,1,0,0,0,0,1,0,0,0,0,0,55,2,2,0,0,0,4,0,0,03/08/2022,home,15860,1009,Central Okla.,9,True,3,11,-8,loss,2171340,30202,2306293,2022
+1,0,1.0,0.0,2,0,0,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,4,1,1,03/13/2022,away,15860,8965,East Central,9,True,25,8,17,win,2262716,30202,2306293,2022
+1,0,2.0,0.0,4,6,4,3,0,0,14,10,2,0,0,0,1,1,0,0,0,0,0,43,5,1,1,0,0,2,0,0,03/29/2022,home,15860,8965,East Central,9,True,24,10,14,win,2175720,30202,2306293,2022
+1,0,2.0,0.0,1,0,0,1,2,0,7,6,0,0,0,0,1,0,0,1,1,0,0,31,2,1,0,0,0,3,0,0,04/12/2022,home,15860,1371,Southeastern Okla.,9,True,16,6,10,win,2178797,30202,2306293,2022
+1,0,0.2,0.0,2,2,2,3,0,0,7,4,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,04/22/2022,away,15860,8411,Ark.-Monticello,9,True,1,11,-10,loss,2180558,30202,2306293,2022

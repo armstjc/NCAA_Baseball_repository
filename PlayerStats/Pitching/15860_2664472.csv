@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,7,1,1,0,0,0,4,0,0,03/20/2022,home,15860,517,Ohio Northern,9,True,3,11,-8,loss,2188646,15,2664472,2022
+1,0,1.1,0.0,4,4,4,2,2,0,10,8,0,1,0,1,0,0,0,0,0,0,0,39,1,1,0,0,0,4,2,0,04/15/2022,home,15860,4,Adrian,9,True,3,15,-12,loss,2268938,15,2664472,2022
+1,0,5.0,0.0,4,1,1,2,5,0,22,19,1,0,0,0,5,1,0,0,0,0,0,88,4,6,1,0,0,2,0,0,04/24/2022,away,15860,987,Bluffton,9,True,13,8,5,win,2175005,15,2664472,2022
+1,0,3.2,0.0,2,0,0,0,3,0,12,12,0,0,0,0,0,0,0,0,0,0,0,46,5,2,0,0,0,2,1,0,04/30/2022,home,15860,30037,Trine,9,True,8,4,4,win,2182244,15,2664472,2022
+1,0,4.0,0.0,7,6,5,1,1,0,21,19,2,0,0,0,2,0,0,0,0,1,0,76,6,4,0,0,0,2,1,0,05/05/2022,home,15860,114,Calvin,9,True,4,11,-7,loss,2183092,15,2664472,2022

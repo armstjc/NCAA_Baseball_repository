@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,1,1,0,5,4,0,1,0,0,0,0,0,0,0,0,0,16,0,2,0,0,0,3,0,0,03/23/2022,home,15860,118,Carleton,9,True,19,2,17,win,2174424,341,2128121,2022
+1,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,2,0,0,04/02/2022,away,15860,89,Caltech,9,True,12,0,12,win,2176454,341,2128121,2022
+1,0,1.0,0.0,2,1,1,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,0,04/16/2022,away,15860,781,Whittier,9,True,14,2,12,win,2179618,341,2128121,2022
+1,0,0.2,0.0,1,0,0,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,3,0,0,05/07/2022,away,15860,134,Chapman,9,True,1,9,-8,loss,2185528,341,2128121,2022

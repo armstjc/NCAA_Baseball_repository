@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,6.0,0.0,2,1,1,3,8,0,23,19,0,0,0,0,0,0,0,0,0,1,0,0,4,6,0,0,0,1,1,0,03/20/2022,away,15860,478,SUNY Maritime,9,True,1,2,-1,loss,2173973,58,2683507,2022
+1,1,7.0,1,6,2,2,3,11,0,31,25,0,0,0,0,0,3,0,0,0,0,0,0,1,7,1,0,0,1,6,1,03/27/2022,home,15860,480,CCNY,9,True,5,2,3,win,2186190,58,2683507,2022
+1,1,7.0,1,3,5,2,6,7,0,34,25,0,0,0,0,0,2,0,0,0,1,0,0,8,3,1,0,0,1,2,0,04/09/2022,home,15860,279,Lehman,9,True,8,5,3,win,2266953,58,2683507,2022
+1,1,6.0,0.0,4,0,0,0,10,0,23,22,0,0,0,0,0,1,0,0,0,0,0,0,4,3,1,0,0,1,4,0,04/30/2022,away,15860,279,Lehman,9,True,16,0,16,win,2182423,58,2683507,2022
+1,1,5.0,0.0,7,4,3,3,7,0,26,22,1,0,0,0,0,1,1,0,0,0,0,92,2,5,0,0,0,1,3,0,05/06/2022,neutral,15860,480,CCNY,9,True,14,13,1,win,2272439,58,2683507,2022

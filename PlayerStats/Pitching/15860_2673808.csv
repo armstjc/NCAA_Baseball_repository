@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/13/2022,away,15860,28755,FGCU,9,True,4,14,-10,loss,4 - 14,5233574,220,1,0,0.2,0.0,0,4,4,3,1,0,6,2,0,0,0,0,1,1,0,0,0,0,0,27,0,1,0,0,0,4,1,0,2673808,2022
-03/29/2022,home,15860,272,Hartford,9,True,8,2,6,win,8 - 2,5249359,220,1,0,1.0,0.0,2,1,1,1,2,0,6,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,2673808,2022
-05/17/2022,home,15860,590,Sacred Heart,9,True,3,2,1,win,3 - 2,5288504,220,1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,1,0,0,0,4,0,0,2673808,2022
-05/20/2022,home,15860,639,Siena,9,True,15,4,11,win,15 - 4,5289068,220,1,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,5,0,0,2673808,2022
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,0,4,4,3,1,0,6,2,0,0,0,0,1,1,0,0,0,0,0,27,0,1,0,0,0,4,1,0,03/13/2022,away,15860,28755,FGCU,9,True,4,14,-10,loss,2172306,220,2673808,2022
+1,0,1.0,0.0,2,1,1,1,2,0,6,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,03/29/2022,home,15860,272,Hartford,9,True,8,2,6,win,2175606,220,2673808,2022
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,1,0,0,0,4,0,0,05/17/2022,home,15860,590,Sacred Heart,9,True,3,2,1,win,2184327,220,2673808,2022
+1,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,5,0,0,05/20/2022,home,15860,639,Siena,9,True,15,4,11,win,2184535,220,2673808,2022

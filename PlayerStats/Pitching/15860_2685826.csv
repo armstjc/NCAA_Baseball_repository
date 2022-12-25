@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,2,2,1,1,0,6,4,0,0,0,0,2,1,0,0,0,0,0,26,1,1,0,0,0,7,1,0,02/26/2022,home,15860,30220,Biola,9,True,4,17,-13,loss,2169167,30175,2685826,2022
+1,0,1.0,0.0,3,5,2,1,0,0,9,7,1,0,0,0,2,0,0,0,0,0,1,31,0,3,0,0,0,5,0,0,04/02/2022,home,15860,30147,Fresno Pacific,9,True,3,15,-12,loss,2176438,30175,2685826,2022
+1,0,1.2,0.0,7,4,2,0,1,0,13,12,2,0,0,0,0,1,0,3,3,0,0,31,0,4,0,0,0,4,0,0,04/15/2022,away,15860,30147,Fresno Pacific,9,True,6,24,-18,loss,2179222,30175,2685826,2022
+1,0,0.0,0.0,0,4,4,2,0,0,4,0,0,0,0,0,1,2,0,0,0,0,0,14,0,0,0,0,0,4,0,0,05/11/2022,home,15860,30199,CUI,9,True,11,23,-12,loss,2183869,30175,2685826,2022

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,2,1,0,5,3,0,0,0,0,0,0,0,0,0,0,0,20,2,0,0,0,0,4,0,0,04/20/2022,home,15860,437,Molloy,9,True,8,3,5,win,2180140,470,2680087,2022
+1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,0,1,0,0,0,3,1,0,04/22/2022,home,15860,22,American Int'l,9,True,12,3,9,win,2180598,470,2680087,2022
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,2,1,0,0,0,4,0,0,05/06/2022,away,15860,658,Southern Conn. St.,9,True,12,15,-3,loss,2183171,470,2680087,2022

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.0,0.0,7,5,2,2,1,0,20,16,1,0,0,0,0,1,0,0,0,0,1,67,3,5,0,0,0,2,0,0,02/05/2022,away,15860,15646,Barton,9,True,2,11,-9,loss,2185064,423,2665618,2022
+1,0,3.2,0.0,1,0,0,1,5,0,13,12,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1,0,0,2,1,0,02/20/2022,neutral,15860,307,Indiana (PA),8,True,5,1,4,win,2258396,423,2665618,2022
+1,1,3.0,0.0,5,5,5,1,6,0,16,15,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,02/27/2022,neutral,15860,1098,Glenville St.,9,True,0,5,-5,loss,2169582,423,2665618,2022
+1,1,2.1,0.0,2,0,0,0,5,0,9,9,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,2,0,03/06/2022,away,15860,8366,Goldey-Beacom,9,True,6,2,4,win,2170976,423,2665618,2022

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,1,0,1,1,0,6,5,1,0,0,0,0,0,0,0,0,0,0,33,1,1,0,0,0,2,0,0,03/16/2022,neutral,15860,146,Clarkson,9,True,9,7,2,win,2172908,641,2337303,2022
+1,0,2.0,0.0,1,2,2,2,0,0,8,6,0,0,0,0,0,0,0,3,1,0,0,0,3,2,0,0,0,4,0,0,04/09/2022,home,15860,84,Buena Vista,9,True,4,14,-10,loss,2187041,641,2337303,2022
+1,0,1.0,0.0,0,0,0,0,1,0,3,2,0,0,0,0,0,1,0,0,0,0,0,9,1,0,0,0,0,4,0,0,05/04/2022,away,15860,40,Augustana (IL),9,True,6,8,-2,loss,2182890,641,2337303,2022

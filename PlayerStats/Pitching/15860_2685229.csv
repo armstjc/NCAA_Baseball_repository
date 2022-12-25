@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,2,1,1,1,0,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0,0,03/08/2022,neutral,15860,682,Stonehill,9,True,6,17,-11,loss,2171253,984,2685229,2022
+1,1,5.0,0.0,5,3,3,3,3,0,21,16,1,0,0,0,1,0,0,0,0,1,1,73,4,5,0,0,0,1,0,0,03/11/2022,away,15860,437,Molloy,9,True,3,7,-4,loss,2171770,984,2685229,2022
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,0,2,0,0,0,2,0,0,03/26/2022,home,15860,21323,Chestnut Hill,8,True,6,10,-4,loss,2175080,984,2685229,2022
+1,0,1.0,0.0,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,16,0,1,0,0,0,3,0,1,03/27/2022,home,15860,23157,Felician,9,True,5,10,-5,loss,2175373,984,2685229,2022
+1,0,1.0,0.0,0,0,0,2,0,0,6,3,0,0,0,0,0,1,0,0,0,0,0,21,1,2,0,0,0,2,0,0,05/01/2022,home,15860,1277,Alliance,9,True,10,0,10,win,2259814,984,2685229,2022

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,3,0,0,0,2,0,9,8,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,5,1,0,03/08/2022,home,15860,1254,Neumann,9,True,10,14,-4,loss,2171298,681,2680262,2022
+1,0,1.0,0.0,3,1,1,0,0,0,6,6,1,0,0,1,0,0,0,0,0,0,0,20,0,3,0,0,0,2,0,0,03/17/2022,neutral,15860,78,SUNY Brockport,9,True,0,11,-11,loss,2173035,681,2680262,2022
+1,0,0.0,0.0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,13,0,0,0,0,0,5,0,0,03/26/2022,away,15860,773,McDaniel,9,True,10,9,1,win,2187294,681,2680262,2022
+1,0,0.1,0.0,3,3,3,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,03/29/2022,home,15860,303,Immaculata,9,True,11,18,-7,loss,2175746,681,2680262,2022
+1,0,1.0,0.0,3,4,4,2,0,0,9,6,0,0,0,0,0,1,0,0,0,0,0,36,1,2,0,0,0,2,0,0,04/08/2022,away,15860,329,Kean,9,True,0,9,-9,loss,2177501,681,2680262,2022

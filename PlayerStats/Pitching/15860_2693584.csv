@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.0,0.0,4,4,1,2,0,0,15,11,1,0,0,0,0,1,0,0,0,0,1,0,4,4,0,0,0,2,0,0,03/22/2022,away,15860,781,Whittier,9,True,13,14,-1,loss,2174239,118,2693584,2022
+1,0,2.0,0.0,5,7,7,3,5,0,15,11,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3,0,03/26/2022,neutral,15860,557,Puget Sound,9,True,4,19,-15,loss,2174950,118,2693584,2022
+1,0,1.0,0.0,4,6,4,3,0,0,11,7,0,0,0,1,0,0,0,0,0,1,0,0,2,1,0,0,0,3,0,0,04/10/2022,away,15860,266,Gust. Adolphus,9,True,1,17,-16,loss,2185431,118,2693584,2022

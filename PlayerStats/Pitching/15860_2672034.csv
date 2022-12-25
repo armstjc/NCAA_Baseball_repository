@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,9,0,0,0,0,0,6,0,0,04/09/2022,away,15860,296,Benedictine (IL),9,True,5,15,-10,loss,2178049,30172,2672034,2022
+1,0,1.2,0.0,3,3,3,1,1,0,10,8,3,0,0,0,0,1,0,0,0,0,0,34,0,4,0,0,0,3,0,0,04/21/2022,neutral,15860,137,UChicago,9,True,7,8,-1,loss,2258796,30172,2672034,2022
+1,0,2.0,0.0,2,0,0,1,3,0,7,6,0,0,0,0,1,0,0,0,0,0,0,31,0,1,0,0,0,7,1,1,04/24/2022,home,15860,20220,MSOE,9,True,4,12,-8,loss,2187829,30172,2672034,2022
+1,0,2.0,0.0,3,3,2,2,3,0,13,9,1,0,0,0,1,1,0,0,0,1,0,46,2,1,0,0,0,3,1,0,05/01/2022,home,15860,8911,Wis. Lutheran,9,True,6,10,-4,loss,2185505,30172,2672034,2022
+1,0,1.0,0.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,9,0,3,0,0,0,5,0,0,05/07/2022,home,15860,1066,Edgewood,9,True,8,9,-1,loss,2183455,30172,2672034,2022

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,4,2,2,1,1,0,6,5,0,1,0,0,2,0,0,3,3,0,0,0,0,0,0,0,0,2,1,0,02/20/2022,neutral,15860,21830,Piedmont,9,True,5,15,-10,loss,2168470,160,2655882,2022
+1,0,1.0,0.0,1,1,0,2,0,0,7,4,0,0,0,0,3,0,0,0,0,0,1,25,2,1,0,0,0,4,0,0,03/11/2022,neutral,15860,146,Clarkson,9,True,4,11,-7,loss,2171685,160,2655882,2022
+1,0,2.0,0.0,0,0,0,0,1,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,3,1,0,04/10/2022,neutral,15860,8911,Wis. Lutheran,9,True,3,6,-3,loss,2178447,160,2655882,2022
+1,0,1.0,0.0,3,2,2,0,0,0,7,7,1,0,0,0,0,0,0,0,0,0,0,19,2,1,0,0,0,2,0,0,04/16/2022,away,15860,278,Heidelberg,9,True,9,4,5,win,2264503,160,2655882,2022
+1,1,4.0,0.0,6,1,1,0,2,0,17,17,0,0,0,0,1,0,0,0,0,0,0,59,5,4,0,0,0,1,1,1,04/24/2022,away,15860,1036,Concordia Wisconsin,9,True,15,5,10,win,2187677,160,2655882,2022

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,1,1,1,1,0,6,4,0,0,0,0,0,1,0,0,0,0,0,29,0,2,0,0,0,3,0,0,02/13/2022,away,15860,0,Houston-Victoria,9,True,4,12,-8,loss,2167688,2810,2666504,2022
+1,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,12,1,0,0,0,0,2,0,0,03/29/2022,away,15860,0,Our Lady of the Lake,9,True,2,12,-10,loss,2187319,2810,2666504,2022
+1,0,1.0,0.0,2,2,2,0,1,0,7,5,1,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,6,0,0,04/15/2022,home,15860,8746,Southwestern (TX),9,True,4,18,-14,loss,2179320,2810,2666504,2022

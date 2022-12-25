@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,1,1,1,1,0,6,5,1,0,0,0,1,0,0,0,0,0,0,18,1,1,0,0,0,3,0,0,03/15/2022,neutral,15860,1226,Minn.-Morris,9,True,0,15,-15,loss,2172737,379,2692424,2022
+1,0,2.0,0.0,1,0,0,3,0,0,9,6,0,0,0,0,0,0,0,0,0,0,0,4,1,4,0,0,0,6,0,0,03/17/2022,neutral,15860,486,MCLA,9,True,4,12,-8,loss,2173036,379,2692424,2022
+1,0,1.0,0.0,4,6,6,3,0,0,11,8,1,0,0,0,1,0,0,0,0,0,0,40,1,2,0,0,0,7,0,0,04/09/2022,away,15860,2758,Thomas (ME),9,True,5,22,-17,loss,2187017,379,2692424,2022
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,1,0,0,0,4,0,0,04/28/2022,away,15860,605,St. Joseph's (ME),9,True,1,4,-3,loss,2181862,379,2692424,2022
+1,0,0.1,0.0,5,4,4,0,0,0,6,6,1,1,0,0,0,0,0,0,0,0,0,24,1,0,0,0,0,2,0,0,04/30/2022,away,15860,1133,Husson,9,True,2,11,-9,loss,2182373,379,2692424,2022

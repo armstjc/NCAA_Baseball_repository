@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,1,0,03/05/2022,neutral,15860,30029,Purchase,9,True,10,5,5,win,2187968,242,2005281,2022
+1,1,4.0,0.0,1,0,0,3,4,0,15,12,0,0,0,0,0,0,0,0,0,0,0,65,2,5,0,0,0,1,2,0,03/14/2022,neutral,15860,1111,Greenville,9,True,6,0,6,win,2188697,242,2005281,2022
+1,0,0.1,0.0,2,7,7,3,0,0,8,2,0,0,0,0,0,2,0,1,1,0,1,0,0,1,0,0,0,3,0,0,03/18/2022,neutral,15860,607,St. Lawrence,9,True,4,15,-11,loss,2173196,242,2005281,2022
+1,0,1.0,0.0,0,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,7,2,0,0,0,0,4,0,1,04/22/2022,home,15860,547,Plattsburgh St.,9,True,9,12,-3,loss,2180590,242,2005281,2022
+1,0,1.0,0.0,1,1,0,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,22,0,2,0,0,0,3,1,0,04/23/2022,home,15860,547,Plattsburgh St.,9,True,6,10,-4,loss,2186131,242,2005281,2022
+1,0,1.0,0.0,1,0,0,2,1,0,5,3,0,0,0,0,0,0,0,0,0,0,0,26,0,1,0,0,0,3,0,0,05/07/2022,home,15860,530,Oswego St.,9,True,1,10,-9,loss,2185763,242,2005281,2022

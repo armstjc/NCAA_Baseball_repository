@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,2,2,0,0,0,5,3,0,0,0,0,0,1,0,0,0,0,1,14,0,2,0,0,0,6,0,0,03/16/2022,neutral,15860,146,Clarkson,9,True,9,7,2,win,2172908,641,2660598,2022
+1,0,1.0,0.0,2,0,0,0,0,0,5,5,0,0,0,0,0,0,0,2,2,0,0,0,2,1,0,0,0,3,0,0,03/18/2022,neutral,15860,300,Ill. Wesleyan,9,True,5,9,-4,loss,2188702,641,2660598,2022
+1,0,1.0,0.0,1,0,0,2,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,03/27/2022,away,15860,192,Dubuque,9,True,9,11,-2,loss,2186966,641,2660598,2022
+1,0,0.2,0.0,0,0,0,1,1,0,3,2,0,0,0,0,2,0,0,1,0,0,0,0,1,0,0,0,0,6,0,0,04/09/2022,home,15860,84,Buena Vista,9,True,4,14,-10,loss,2187041,641,2660598,2022

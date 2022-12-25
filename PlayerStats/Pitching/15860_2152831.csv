@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,1,2,2,2,1,0,5,2,1,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,2,1,0,03/19/2022,away,15860,750,Wartburg,9,True,0,10,-10,loss,2173829,615,2152831,2022
+1,0,1.0,0.0,1,3,1,2,0,0,8,5,0,0,0,0,1,1,0,0,0,0,0,0,3,0,0,0,0,2,0,0,03/26/2022,neutral,15860,420,Middlebury,9,True,7,12,-5,loss,2174953,615,2152831,2022
+1,0,2.0,0.0,1,2,0,0,2,0,8,8,0,0,0,1,0,0,0,1,1,0,0,31,2,2,0,0,0,5,1,0,04/16/2022,home,15860,602,Saint John's (MN),9,True,6,14,-8,loss,2179591,615,2152831,2022
+1,0,3.0,0.0,6,6,6,4,4,0,19,13,1,1,0,0,0,0,0,0,0,1,1,82,3,2,0,0,0,2,2,0,04/23/2022,home,15860,161,Concordia-M'head,9,True,2,14,-12,loss,2180858,615,2152831,2022
+1,0,1.2,0.0,4,2,0,0,4,0,9,9,0,0,0,1,0,0,0,1,1,0,0,41,0,1,0,0,0,3,2,0,05/07/2022,home,15860,266,Gust. Adolphus,9,True,0,14,-14,loss,2183423,615,2152831,2022

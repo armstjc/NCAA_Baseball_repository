@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,2.0,0.0,14,17,15,6,1,0,27,21,3,1,0,0,1,0,0,0,0,0,0,0,2,2,0,1,0,1,1,0,04/12/2022,away,15860,582,Rockford,9,True,1,20,-19,loss,2178738,1194,2157805,2022
+1,0,1.0,1,2,4,4,2,1,0,7,4,1,0,0,0,0,0,0,0,0,0,1,15,1,0,1,1,1,2,1,0,04/23/2022,away,15860,0,Grace Christian (MI),9,True,5,17,-12,loss,2181183,1194,2157805,2022
+1,0,7.0,0.0,14,12,7,3,7,0,43,39,3,0,0,1,0,1,0,0,0,0,0,0,4,10,0,1,0,1,3,0,04/25/2022,home,15860,1267,Northland,9,True,2,12,-10,loss,2185427,1194,2157805,2022

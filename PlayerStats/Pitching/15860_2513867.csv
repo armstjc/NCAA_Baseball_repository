@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,1,0,0,0,5,0,0,02/13/2022,away,15860,1062,East Tex. Baptist,9,True,3,9,-6,loss,2184969,30197,2513867,2022
+1,0,0.1,0.0,0,0,0,2,1,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,03/12/2022,home,15860,2810,St. Thomas (TX),9,True,2,7,-5,loss,2172135,30197,2513867,2022
+1,0,0.0,0.0,2,3,2,1,0,0,3,2,2,0,0,0,0,0,0,3,3,0,0,15,0,0,0,0,0,4,0,0,03/18/2022,away,15860,1390,Sul Ross St.,9,True,23,11,12,win,2188908,30197,2513867,2022

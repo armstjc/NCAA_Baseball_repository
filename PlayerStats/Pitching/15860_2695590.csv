@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,1,1,0,0,0,6,6,2,0,0,0,1,0,0,0,0,0,0,28,1,2,0,0,0,6,0,0,04/10/2022,home,15860,751,Wash. & Jeff.,9,True,1,15,-14,loss,2178140,1434,2695590,2022
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,1,0,0,0,5,0,0,04/21/2022,away,15860,30069,Franciscan,9,True,10,21,-11,loss,2187719,1434,2695590,2022
+1,0,1.2,0.0,5,4,4,2,1,0,12,10,3,0,0,0,0,0,0,3,3,0,0,0,1,2,0,0,0,2,0,0,04/23/2022,home,15860,30064,Saint Vincent,9,True,7,19,-12,loss,2185498,1434,2695590,2022

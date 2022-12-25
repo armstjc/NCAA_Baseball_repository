@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,2,0,1,0,0,7,6,1,0,0,0,0,0,0,0,0,0,0,21,0,3,0,0,0,2,0,0,02/27/2022,home,15860,0,UC Clermont,9,True,1,13,-12,loss,2259465,30171,2682234,2022
+1,0,0.1,0.0,0,0,0,2,0,0,3,1,0,0,0,0,1,0,0,0,0,0,0,11,1,0,0,0,0,6,0,0,03/05/2022,home,15860,515,Oberlin,9,True,11,22,-11,loss,2170605,30171,2682234,2022
+1,0,0.2,0.0,6,8,8,2,2,0,11,8,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,03/08/2022,away,15860,0,UC Clermont,9,True,2,17,-15,loss,2171281,30171,2682234,2022
+1,0,1.2,0.0,5,7,7,1,1,0,12,10,0,2,0,1,0,1,0,0,0,0,0,38,2,2,0,0,0,2,1,0,04/07/2022,home,15860,1461,Wilmington (OH),9,True,4,15,-11,loss,2177093,30171,2682234,2022

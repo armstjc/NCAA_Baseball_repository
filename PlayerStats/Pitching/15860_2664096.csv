@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,0,0,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,21,3,1,0,0,0,3,2,0,03/22/2022,home,15860,958,Clarks Summit,9,True,14,6,8,win,2174145,761,2664096,2022
+1,0,1.1,0.0,3,1,1,0,3,0,7,7,1,0,0,0,0,0,0,0,0,0,0,29,1,0,0,0,0,2,2,0,04/10/2022,home,15860,30190,Penn College,9,True,3,10,-7,loss,2185646,761,2664096,2022
+1,0,2.0,0.0,3,1,1,1,0,0,10,9,0,0,0,0,0,0,0,0,0,0,0,29,4,2,0,0,0,3,0,0,04/24/2022,home,15860,30114,Penn St.-Abington,9,True,4,16,-12,loss,2185473,761,2664096,2022
+1,0,3.0,0.0,2,0,0,2,1,0,13,11,1,0,0,0,0,0,0,0,0,0,0,45,2,6,0,0,0,3,1,0,05/01/2022,home,15860,30085,Lancaster Bible,9,True,7,13,-6,loss,2186729,761,2664096,2022

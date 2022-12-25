@@ -17,7 +17,7 @@ from time import sleep
 _TIMEOUT = 1
 
 
-def download_rosters(seasons: list[int], divisions: list[int], save=True):
+def download_rosters(seasons: list, divisions: list, save=True):
     res = pd.DataFrame()
     failures = []
     for season in seasons:

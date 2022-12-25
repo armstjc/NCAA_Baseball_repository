@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/20/2021,away,15580,541,Pepperdine,9,True,6,10,-4,loss,6 - 10,5003682,30135,1,0,0.0,0.0,0,2,2,1,0,0,2,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,1,0,2,0,0,2333899,2021
-02/27/2021,home,15580,610,Saint Mary's (CA),9,True,4,8,-4,loss,4 - 8,5010492,30135,1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,6,0,0,2333899,2021
-03/14/2021,home,15580,502,Northern Colo.,9,True,7,4,3,win,7 - 4,5026122,30135,1,0,0.1,0.0,0,0,0,0,0,0,2,1,0,0,0,0,1,1,0,0,0,0,0,7,0,1,0,0,0,3,0,0,2333899,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,2,2,1,0,0,2,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,1,0,2,0,0,02/20/2021,away,15580,541,Pepperdine,9,True,6,10,-4,loss,2016275,30135,2333899,2021
+1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,6,0,0,02/27/2021,home,15580,610,Saint Mary's (CA),9,True,4,8,-4,loss,2024703,30135,2333899,2021
+1,0,0.1,0.0,0,0,0,0,0,0,2,1,0,0,0,0,1,1,0,0,0,0,0,7,0,1,0,0,0,3,0,0,03/14/2021,home,15580,502,Northern Colo.,9,True,7,4,3,win,2018097,30135,2333899,2021

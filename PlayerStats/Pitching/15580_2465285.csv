@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-04/10/2021,home,15580,222,Fairleigh Dickinson,9,True,14,0,14,win,14 - 0,5051470,81,1,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,1,0,0,0,0,0,0,22,0,1,0,0,0,2,0,0,2465285,2021
-04/27/2021,home,15580,725,Army West Point,9,True,16,8,8,win,16 - 8,5068288,81,1,0,1.2,0.0,4,2,2,0,1,0,8,8,0,1,0,0,0,0,0,0,0,0,0,25,0,3,0,0,0,2,0,0,2465285,2021
-05/01/2021,home,15580,361,LIU,9,True,3,8,-5,loss,3 - 8,5070695,81,1,0,2.0,0.0,1,0,0,2,2,0,7,5,1,0,0,0,0,0,0,0,0,0,0,29,1,1,0,0,0,2,2,1,2465285,2021
-05/27/2021,home,15580,361,LIU,9,True,17,13,4,win,17 - 13,5081929,81,1,0,0.2,0.0,3,6,3,2,1,0,8,6,1,1,0,0,2,0,0,0,0,0,0,30,0,1,0,0,0,3,0,0,2465285,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,1,0,0,0,0,0,0,22,0,1,0,0,0,2,0,0,04/10/2021,home,15580,222,Fairleigh Dickinson,9,True,14,0,14,win,2069624,81,2465285,2021
+1,0,1.2,0.0,4,2,2,0,1,0,8,8,0,1,0,0,0,0,0,0,0,0,0,25,0,3,0,0,0,2,0,0,04/27/2021,home,15580,725,Army West Point,9,True,16,8,8,win,2075006,81,2465285,2021
+1,0,2.0,0.0,1,0,0,2,2,0,7,5,1,0,0,0,0,0,0,0,0,0,0,29,1,1,0,0,0,2,2,1,05/01/2021,home,15580,361,LIU,9,True,3,8,-5,loss,2028511,81,2465285,2021
+1,0,0.2,0.0,3,6,3,2,1,0,8,6,1,1,0,0,2,0,0,0,0,0,0,30,0,1,0,0,0,3,0,0,05/27/2021,neutral,15580,361,LIU,9,True,17,13,4,win,2080293,81,2465285,2021

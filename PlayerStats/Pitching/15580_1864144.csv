@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,5,2,2,1,0,0,8,7,1,0,0,1,1,0,0,3,3,0,0,23,0,2,0,0,0,4,0,0,03/06/2021,home,15580,587,Rutgers,9,True,1,16,-15,loss,2046614,428,1864144,2021
+1,0,2.0,0.0,2,0,0,0,3,0,7,7,1,0,0,0,0,0,0,0,0,0,0,27,1,1,0,0,0,6,0,0,04/16/2021,home,15580,418,Michigan,9,True,5,21,-16,loss,2053154,428,1864144,2021
+1,0,2.2,0.0,3,1,1,0,3,0,11,10,0,0,0,0,1,0,0,3,2,1,0,43,4,1,0,0,0,3,2,0,04/30/2021,away,15580,392,Maryland,9,True,4,12,-8,loss,2053163,428,1864144,2021
+1,0,2.0,0.0,5,4,2,3,1,0,15,11,0,0,0,0,0,0,0,0,0,0,1,58,3,2,0,0,0,3,0,0,05/22/2021,home,15580,559,Purdue,9,True,4,17,-13,loss,2053189,428,1864144,2021
+1,0,2.2,0.0,1,0,0,1,4,0,9,8,0,0,0,0,0,0,0,3,0,0,0,37,2,1,0,0,0,3,2,0,05/29/2021,neutral,15580,539,Penn St.,9,True,3,7,-4,loss,2053202,428,1864144,2021

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/21/2021,home,15580,698,TCU,9,True,2,3,-1,loss,2 - 3,5004668,430,1,0,1.0,0.0,1,1,1,1,1,0,5,3,1,0,0,0,1,0,0,0,0,0,1,19,0,2,0,0,0,3,0,0,2332247,2021
-02/24/2021,home,15580,314,Jackson St.,9,True,7,3,4,win,7 - 3,5006965,430,1,0,1.0,0.0,1,1,1,0,0,0,4,4,0,0,0,0,1,0,0,0,0,0,0,17,2,1,0,0,0,7,0,0,2332247,2021
-03/09/2021,home,15580,261,Grambling,9,True,10,0,10,win,10 - 0,5020081,430,1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,1,2,0,0,0,7,0,0,2332247,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,1,1,1,1,0,5,3,1,0,0,0,1,0,0,0,0,0,1,19,0,2,0,0,0,3,0,0,02/21/2021,neutral,15580,698,TCU,9,True,2,3,-1,loss,2016311,430,2332247,2021
+1,0,1.0,0.0,1,1,1,0,0,0,4,4,0,0,0,0,1,0,0,0,0,0,0,17,2,1,0,0,0,7,0,0,02/24/2021,home,15580,314,Jackson St.,9,True,7,3,4,win,2016540,430,2332247,2021
+1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,1,2,0,0,0,7,0,0,03/09/2021,home,15580,261,Grambling,9,True,10,0,10,win,2017606,430,2332247,2021

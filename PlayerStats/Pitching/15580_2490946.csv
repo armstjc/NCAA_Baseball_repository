@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/20/2021,home,15580,649,South Dakota St.,9,True,5,8,-3,loss,5 - 8,5004409,328,1,0,0.0,0.0,0,2,2,1,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2490946,2021
-03/20/2021,home,15580,169,Creighton,9,True,11,3,8,win,11 - 3,5031721,328,1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,1,0,0,0,0,0,0,0,0,14,0,2,0,0,0,2,1,0,2490946,2021
-03/23/2021,away,15580,342,Lafayette,9,True,20,5,15,win,20 - 5,5042236,328,1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,0,2490946,2021
-03/27/2021,away,15580,768,West Virginia,9,True,2,15,-13,loss,2 - 15,5039692,328,1,0,1.0,0.0,1,2,2,3,2,0,7,4,0,0,0,0,1,0,0,0,0,0,0,33,0,1,0,0,0,4,0,0,2490946,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,2,2,1,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,02/20/2021,neutral,15580,649,South Dakota St.,9,True,5,8,-3,loss,2016261,328,2490946,2021
+1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,1,0,0,0,0,0,0,0,0,14,0,2,0,0,0,2,1,0,03/20/2021,home,15580,169,Creighton,9,True,11,3,8,win,2018618,328,2490946,2021
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,0,03/23/2021,away,15580,342,Lafayette,9,True,20,5,15,win,2064035,328,2490946,2021
+1,0,1.0,0.0,1,2,2,3,2,0,7,4,0,0,0,0,1,0,0,0,0,0,0,33,0,1,0,0,0,4,0,0,03/27/2021,away,15580,768,West Virginia,9,True,2,15,-13,loss,2019478,328,2490946,2021

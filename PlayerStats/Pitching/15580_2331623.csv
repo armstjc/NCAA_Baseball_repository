@@ -1,3 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/20/2021,away,15580,287,Houston Baptist,9,True,3,7,-4,loss,3 - 7,5031489,402,1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,6,1,0,0,0,0,4,0,0,2331623,2021
-04/02/2021,away,15580,655,Southeastern La.,9,True,3,6,-3,loss,3 - 6,5044921,402,1,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,2,1,0,0,6,0,0,0,0,0,5,0,0,2331623,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.2,0.0,1,1,1,2,2,0,8,6,0,0,0,1,1,0,0,0,0,0,0,38,2,1,0,0,0,2,1,0,03/16/2021,home,15580,0,LSU-Alexandria,9,True,16,6,10,win,2061485,402,2331623,2021
+1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,6,1,0,0,0,0,4,0,0,03/20/2021,away,15580,287,Houston Christian,9,True,3,7,-4,loss,2024226,402,2331623,2021
+1,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,2,1,0,0,6,0,0,0,0,0,5,0,0,04/02/2021,away,15580,655,Southeastern La.,9,True,3,6,-3,loss,2025465,402,2331623,2021

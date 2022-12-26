@@ -1,4 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/28/2021,home,15580,2678,Ark.-Pine Bluff,9,True,17,11,6,win,17 - 11,5011207,314,1,0,3.1,0.0,5,2,2,0,4,0,15,15,1,1,0,0,0,0,0,2,1,0,0,0,2,4,0,0,0,3,1,0,2494078,2021
-03/05/2021,away,15580,7,Alabama St.,9,True,8,7,1,win,8 - 7,5015412,314,1,0,1.0,0.0,0,1,1,1,0,0,4,3,0,0,0,0,0,0,0,3,0,0,0,0,2,1,0,0,0,2,0,0,2494078,2021
-04/21/2021,away,15580,498,ULM,9,True,6,18,-12,loss,6 - 18,5063040,314,1,1,0.2,0.0,3,2,1,2,1,0,6,4,0,0,0,0,1,0,0,0,0,0,0,28,0,0,0,1,0,1,0,0,2494078,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.1,0.0,5,2,2,0,4,0,15,15,1,1,0,0,0,0,0,2,1,0,0,0,2,4,0,0,0,3,1,0,02/28/2021,home,15580,2678,Ark.-Pine Bluff,9,True,17,11,6,win,2047381,314,2494078,2021
+1,0,1.0,0.0,0,1,1,1,0,0,4,3,0,0,0,0,0,0,0,3,0,0,0,0,2,1,0,0,0,2,0,0,03/05/2021,away,15580,7,Alabama St.,9,True,8,7,1,win,2017226,314,2494078,2021
+1,0,1.0,0.0,4,5,5,1,1,0,8,6,1,0,0,0,0,1,0,0,0,0,0,35,1,0,0,0,0,5,0,0,03/10/2021,home,15580,0,Tougaloo,9,True,16,6,10,win,2058792,314,2494078,2021
+1,0,1.0,0.0,1,0,0,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,24,1,2,0,0,0,4,0,0,04/06/2021,home,15580,0,Tougaloo,9,True,17,3,14,win,2020306,314,2494078,2021
+1,1,0.2,0.0,3,2,1,2,1,0,6,4,0,0,0,0,1,0,0,0,0,0,0,28,0,0,0,1,0,1,0,0,04/21/2021,away,15580,498,ULM,9,True,6,18,-12,loss,2021010,314,2494078,2021

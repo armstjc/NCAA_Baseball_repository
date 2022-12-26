@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.1,0.0,2,1,1,1,2,0,12,10,1,0,0,0,0,1,0,0,0,0,0,47,2,3,0,0,0,3,2,0,05/02/2021,away,15580,740,VCU,9,True,2,11,-9,loss,2022876,248,2309663,2021
+1,0,2.2,0.0,3,2,2,1,1,0,12,10,1,0,0,1,0,0,0,2,1,0,1,41,1,6,0,0,0,2,0,0,05/08/2021,home,15580,249,George Washington,9,True,8,11,-3,loss,2029116,248,2309663,2021
+1,0,2.2,0.0,1,2,2,4,0,0,14,9,1,0,1,0,0,1,0,3,1,0,0,63,2,6,0,1,0,2,0,0,05/15/2021,away,15580,173,Davidson,9,True,7,8,-1,loss,2079026,248,2309663,2021

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/07/2021,home,15580,249,George Washington,9,True,9,13,-4,loss,9 - 13,5048305,352,1,0,0.2,0.0,2,4,2,1,1,0,6,4,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,1,0,5,0,0,2484864,2021
-04/21/2021,away,15580,340,La Salle,9,True,6,18,-12,loss,6 - 18,5062754,352,1,0,0.0,0.0,1,5,5,3,0,0,5,1,1,0,0,0,2,1,0,1,1,0,0,27,0,0,0,0,0,3,0,0,2484864,2021
-05/26/2021,home,15580,725,Army West Point,9,True,7,22,-15,loss,7 - 22,5081794,352,1,0,0.2,0.0,1,1,1,1,2,0,4,3,1,0,0,0,1,0,0,3,3,0,0,17,0,0,0,0,0,5,1,0,2484864,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,2,4,2,1,1,0,6,4,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,1,0,5,0,0,03/07/2021,home,15580,249,George Washington,9,True,9,13,-4,loss,2017410,352,2484864,2021
+1,0,0.0,0.0,1,5,5,3,0,0,5,1,1,0,0,0,2,1,0,1,1,0,0,27,0,0,0,0,0,3,0,0,04/21/2021,away,15580,340,La Salle,9,True,6,18,-12,loss,2073120,352,2484864,2021
+1,0,0.2,0.0,1,1,1,1,2,0,4,3,1,0,0,0,1,0,0,3,3,0,0,17,0,0,0,0,0,5,1,0,05/26/2021,home,15580,725,Army West Point,9,True,7,22,-15,loss,2078493,352,2484864,2021

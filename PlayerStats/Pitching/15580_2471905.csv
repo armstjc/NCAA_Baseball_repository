@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/20/2021,away,15580,328,Kansas,9,True,3,11,-8,loss,3 - 11,5031721,169,1,0,1.2,0.0,1,0,0,0,3,0,6,6,0,0,0,0,0,0,0,2,1,0,0,28,1,1,0,0,0,3,2,0,2471905,2021
-04/09/2021,home,15580,739,Villanova,9,True,9,2,7,win,9 - 2,5051251,169,1,0,1.1,0.0,0,0,0,0,3,0,4,4,0,0,0,0,0,0,0,2,0,0,0,14,1,0,0,0,0,3,1,0,2471905,2021
-05/15/2021,away,15580,635,Seton Hall,9,True,0,15,-15,loss,0 - 15,5078729,169,1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,1,1,0,0,0,0,5,0,0,2471905,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.2,0.0,1,0,0,0,3,0,6,6,0,0,0,0,0,0,0,2,1,0,0,28,1,1,0,0,0,3,2,0,03/20/2021,away,15580,328,Kansas,9,True,3,11,-8,loss,2018618,169,2471905,2021
+1,0,1.1,0.0,0,0,0,0,3,0,4,4,0,0,0,0,0,0,0,2,0,0,0,14,1,0,0,0,0,3,1,0,04/09/2021,home,15580,739,Villanova,9,True,9,2,7,win,2020506,169,2471905,2021
+1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,1,1,0,0,0,0,5,0,0,05/15/2021,away,15580,635,Seton Hall,9,True,0,15,-15,loss,2035549,169,2471905,2021

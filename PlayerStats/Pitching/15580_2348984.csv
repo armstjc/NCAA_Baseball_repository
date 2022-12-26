@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/07/2021,home,15580,71,Bowling Green,9,True,4,10,-6,loss,4 - 10,5018070,317,1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,7,0,2,0,0,0,5,0,0,2348984,2021
-03/11/2021,home,15580,741,VMI,9,True,9,5,4,win,9 - 5,5021352,317,1,0,0.0,0.0,2,2,2,0,0,0,4,2,0,0,0,0,0,2,0,0,0,0,0,24,0,0,0,0,0,3,0,0,2348984,2021
-05/20/2021,home,15580,740,VCU,10,True,18,20,-2,loss,18 - 20,5080268,317,1,0,3.2,0.0,5,2,2,1,1,0,17,15,0,0,0,0,1,0,0,2,0,0,1,47,2,8,0,0,0,4,0,0,2348984,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,7,0,2,0,0,0,5,0,0,03/07/2021,home,15580,71,Bowling Green,9,True,4,10,-6,loss,2027531,317,2348984,2021
+1,0,0.0,0.0,2,2,2,0,0,0,4,2,0,0,0,0,0,2,0,0,0,0,0,24,0,0,0,0,0,3,0,0,03/11/2021,home,15580,741,VMI,9,True,9,5,4,win,2027532,317,2348984,2021
+1,0,3.2,0.0,5,2,2,1,1,0,17,15,0,0,0,0,1,0,0,2,0,0,1,47,2,8,0,0,0,4,0,0,05/20/2021,home,15580,740,VCU,10,True,18,20,-2,loss,2023858,317,2348984,2021

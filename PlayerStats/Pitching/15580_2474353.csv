@@ -1,3 +1,3 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-04/09/2021,home,15580,639,Siena,9,True,6,10,-4,loss,6 - 10,5050773,562,1,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,12,1,0,0,0,0,5,0,0,2474353,2021
-05/10/2021,away,15580,116,Canisius,9,True,2,10,-8,loss,2 - 10,5076969,562,1,0,4.2,0.0,0,1,0,3,10,0,18,14,0,0,0,0,0,1,0,2,0,0,0,77,0,4,0,0,0,3,3,0,2474353,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,12,1,0,0,0,0,5,0,0,04/09/2021,home,15580,639,Siena,9,True,6,10,-4,loss,2069347,562,2474353,2021
+1,0,4.2,0.0,0,1,0,3,10,0,18,14,0,0,0,0,0,1,0,2,0,0,0,77,0,4,0,0,0,3,3,0,05/10/2021,away,15580,116,Canisius,9,True,2,10,-8,loss,2025333,562,2474353,2021

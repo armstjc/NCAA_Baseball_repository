@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/05/2021,away,15580,147,Clemson,9,True,7,13,-6,loss,7 - 13,5015210,513,1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,5,1,0,1888237,2021
-03/23/2021,home,15580,735,Valparaiso,9,True,6,3,3,win,6 - 3,5035071,513,1,1,1.2,0.0,0,0,0,4,3,0,9,5,0,0,0,0,0,0,0,0,0,0,0,44,0,2,0,0,0,1,2,0,1888237,2021
-04/23/2021,away,15580,67,Boston College,9,True,0,10,-10,loss,0 - 10,5064352,513,1,0,1.0,0.0,1,0,0,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,18,2,1,0,0,0,5,0,0,1888237,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,5,1,0,03/05/2021,away,15580,147,Clemson,9,True,7,13,-6,loss,2017096,513,1888237,2021
+1,1,1.2,0.0,0,0,0,4,3,0,9,5,0,0,0,0,0,0,0,0,0,0,0,44,0,2,0,0,0,1,2,0,03/23/2021,home,15580,735,Valparaiso,9,True,6,3,3,win,2041227,513,1888237,2021
+1,0,1.0,0.0,1,0,0,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,18,2,1,0,0,0,5,0,0,04/23/2021,away,15580,67,Boston College,9,True,0,10,-10,loss,2021899,513,1888237,2021

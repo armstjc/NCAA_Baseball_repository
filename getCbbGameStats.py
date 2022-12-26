@@ -110,7 +110,7 @@ def getAllGbgStats():
                         data_p = ncaa.ncaa_player_game_logs(school=school_name, player=player_name, season=season_id, variant='pitching')
                         #data_p = data_p.loc[data_p['App']>0]
                     
-                        data_p = data_p[data_p['OrdAppeared'] != 0]
+                        data_p = data_p[(data_p['IP']>0) | (data_p['App']>0) | (data_p['pitches']>0)]
                         if (len(data_p)==0):
                             #print('Nothing to save')
                             print('')
@@ -141,7 +141,7 @@ def getSeasonGbgStats(season=2020):
     #print(schools)
     hasRoster = True
 
-    for i in tqdm(range(0,len(schools.T))):
+    for i in tqdm(range(230,len(schools.T))):
         coll_count += 1
         print(f'{i}/{max_schools} {schools[i]}')
         try:

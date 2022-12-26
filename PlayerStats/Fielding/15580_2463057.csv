@@ -1,7 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
-0,0,0,0,0,0,0,0,0,0,02/20/2021,home,15580,287,Houston Baptist,10,True,7,8,-1,loss,2047084,574,2463057,2021
-0,0,0,0,0,0,0,0,0,0,02/21/2021,home,15580,287,Houston Baptist,9,True,9,3,6,win,2016390,574,2463057,2021
-0,0,0,0,0,0,0,0,0,0,02/22/2021,home,15580,287,Houston Baptist,9,True,1,0,1,win,2047106,574,2463057,2021
+0,0,0,0,0,0,0,0,0,0,02/20/2021,home,15580,287,Houston Christian,10,True,7,8,-1,loss,2047084,574,2463057,2021
+0,0,0,0,0,0,0,0,0,0,02/21/2021,home,15580,287,Houston Christian,9,True,9,3,6,win,2016390,574,2463057,2021
+0,0,0,0,0,0,0,0,0,0,02/22/2021,home,15580,287,Houston Christian,9,True,1,0,1,win,2047106,574,2463057,2021
 0,0,0,0,0,0,0,0,0,0,02/26/2021,away,15580,671,Louisiana,9,True,3,7,-4,loss,2016590,574,2463057,2021
 2,0,2,0,0,0,0,0,0,0,02/27/2021,away,15580,671,Louisiana,9,True,3,5,-2,loss,2016711,574,2463057,2021
 0,0,0,0,0,0,0,0,0,0,02/28/2021,away,15580,671,Louisiana,9,True,3,6,-3,loss,2016886,574,2463057,2021
@@ -9,7 +9,7 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 3,0,3,0,0,0,0,0,0,0,03/05/2021,neutral,15580,624,Sam Houston,9,True,4,12,-8,loss,2017193,574,2463057,2021
 0,0,0,0,0,0,0,0,0,0,03/06/2021,neutral,15580,26172,A&M-Corpus Christi,9,True,16,5,11,win,2037616,574,2463057,2021
 2,0,2,0,0,0,0,0,0,0,03/07/2021,neutral,15580,670,Texas St.,9,True,1,9,-8,loss,2017556,574,2463057,2021
-0,0,0,0,0,0,0,0,0,0,03/09/2021,home,15580,287,Houston Baptist,9,True,3,1,2,win,2017610,574,2463057,2021
+0,0,0,0,0,0,0,0,0,0,03/09/2021,home,15580,287,Houston Christian,9,True,3,1,2,win,2017610,574,2463057,2021
 3,0,3,0,0,0,0,0,0,0,03/12/2021,home,15580,503,NIU,9,True,6,3,3,win,2017723,574,2463057,2021
 4,0,4,0,0,0,0,0,0,0,03/13/2021,home,15580,327,Kansas St.,9,True,3,8,-5,loss,2017862,574,2463057,2021
 1,0,1,0,0,0,0,0,0,0,03/13/2021,home,15580,503,NIU,9,True,4,1,3,win,2018085,574,2463057,2021

@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/21/2021,away,15580,551,Portland,9,True,0,7,-7,loss,0 - 7,5006526,1356,1,0.2,0,1,2,0,1,2,0,4,3,0,0,0,1,0,0,0,2,2,0,0,0,0,0,0,0,0,3,0,0,2300570,2021
-04/18/2021,away,15580,102,Sacramento St.,9,True,4,11,-7,loss,4 - 11,5060840,1356,1,1.0,0,0,1,0,0,0,0,4,3,0,0,1,0,0,0,0,0,0,0,1,14,1,2,0,0,0,6,0,0,2300570,2021
-04/30/2021,home,15580,30135,California Baptist,9,True,1,9,-8,loss,1 - 9,5070019,1356,1,0.1,0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,1,0,0,0,12,0,0,0,0,0,4,0,0,2300570,2021
-05/02/2021,home,15580,30135,California Baptist,9,True,1,9,-8,loss,1 - 9,5072090,1356,1,0.2,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,1,0,0,0,12,0,2,0,0,0,5,0,0,2300570,2021
-05/16/2021,away,15580,30095,Utah Tech,9,True,4,14,-10,loss,4 - 14,5079160,1356,1,0.2,0,4,5,5,1,1,0,8,6,1,0,0,1,0,1,0,0,0,0,0,33,0,1,0,0,0,3,0,0,2300570,2021
-05/28/2021,home,15580,536,UTRGV,9,True,9,19,-10,loss,9 - 19,5082207,1356,1,0.2,0,1,4,0,2,0,0,8,3,0,0,0,0,1,2,0,0,0,0,1,47,0,1,0,0,0,7,0,0,2300570,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,1,2,0,1,2,0,4,3,0,0,0,1,0,0,0,2,2,0,0,0,0,0,0,0,0,3,0,0,02/21/2021,away,15580,551,Portland,9,True,0,7,-7,loss,2025954,1356,2300570,2021
+1,0,1.0,0.0,0,1,0,0,0,0,4,3,0,0,1,0,0,0,0,0,0,0,1,14,1,2,0,0,0,6,0,0,04/18/2021,away,15580,102,Sacramento St.,9,True,4,11,-7,loss,2021681,1356,2300570,2021
+1,0,0.1,0.0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,1,0,0,0,12,0,0,0,0,0,4,0,0,04/30/2021,home,15580,30135,California Baptist,9,True,1,9,-8,loss,2022608,1356,2300570,2021
+1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,1,0,0,0,12,0,2,0,0,0,5,0,0,05/02/2021,home,15580,30135,California Baptist,9,True,1,9,-8,loss,2022958,1356,2300570,2021
+1,0,0.2,0.0,4,5,5,1,1,0,8,6,1,0,0,1,0,1,0,0,0,0,0,33,0,1,0,0,0,3,0,0,05/16/2021,away,15580,30095,Utah Tech,9,True,4,14,-10,loss,2023818,1356,2300570,2021
+1,0,0.2,0.0,1,4,0,2,0,0,8,3,0,0,0,0,1,2,0,0,0,0,1,47,0,1,0,0,0,7,0,0,05/28/2021,neutral,15580,536,UTRGV,9,True,9,19,-10,loss,2080657,1356,2300570,2021

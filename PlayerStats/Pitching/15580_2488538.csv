@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/26/2021,away,15580,198,ETSU,9,True,1,9,-8,loss,1 - 9,5008674,456,1,0,0.2,0.0,0,0,0,3,0,0,5,2,0,0,1,0,0,0,0,2,2,0,0,25,1,1,0,0,0,3,0,0,2488538,2021
-03/20/2021,home,15580,115,Campbell,9,True,4,17,-13,loss,4 - 17,5031833,456,1,0,0.0,0.0,1,3,2,1,0,0,3,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,4,0,0,2488538,2021
-03/26/2021,home,15580,563,Radford,9,True,6,11,-5,loss,6 - 11,5037038,456,1,0,0.0,0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,2488538,2021
-04/20/2021,away,15580,1092,Gardner-Webb,9,True,4,15,-11,loss,4 - 15,5062241,456,1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,1,1,0,0,0,8,0,0,2488538,2021
-05/01/2021,away,15580,115,Campbell,9,True,2,12,-10,loss,2 - 12,5071444,456,1,0,0.0,0.0,1,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,5,0,0,2488538,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,0,0,0,3,0,0,5,2,0,0,1,0,0,0,0,2,2,0,0,25,1,1,0,0,0,3,0,0,02/26/2021,away,15580,198,ETSU,9,True,1,9,-8,loss,2016636,456,2488538,2021
+1,0,0.0,0.0,1,3,2,1,0,0,3,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,4,0,0,03/20/2021,home,15580,115,Campbell,9,True,4,17,-13,loss,2024269,456,2488538,2021
+1,0,0.0,0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,03/26/2021,home,15580,563,Radford,9,True,6,11,-5,loss,2019341,456,2488538,2021
+1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,1,1,0,0,0,8,0,0,04/20/2021,away,15580,1092,Gardner-Webb,9,True,4,15,-11,loss,2038107,456,2488538,2021
+1,0,0.0,0.0,1,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,5,0,0,05/01/2021,away,15580,115,Campbell,9,True,2,12,-10,loss,2022721,456,2488538,2021

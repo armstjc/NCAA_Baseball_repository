@@ -1,2 +1,2 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/28/2021,away,15580,234,Florida St.,13,True,9,7,2,win,9 - 7,5011463,545,1,0,1.0,0.0,1,2,2,3,0,0,7,4,0,0,0,1,0,0,0,0,0,0,0,26,2,1,0,0,0,4,0,0,2475175,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,2,2,3,0,0,7,4,0,0,0,1,0,0,0,0,0,0,0,26,2,1,0,0,0,4,0,0,02/28/2021,away,15580,234,Florida St.,13,True,9,7,2,win,2016879,545,2475175,2021

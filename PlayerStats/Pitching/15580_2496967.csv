@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/07/2021,home,15580,301,Illinois,9,True,0,8,-8,loss,0 - 8,5019523,518,1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,5,0,0,2496967,2021
-04/16/2021,away,15580,392,Maryland,9,True,6,10,-4,loss,6 - 10,5057795,518,1,0,1.1,0.0,1,0,0,0,1,0,5,5,0,0,0,0,0,0,0,2,0,0,0,12,2,1,0,0,0,5,0,0,2496967,2021
-05/02/2021,home,15580,559,Purdue,9,True,15,16,-1,loss,15 - 16,5072659,518,1,0,0.2,0.0,2,2,0,0,0,0,5,4,1,0,0,0,1,0,0,0,0,1,0,7,2,0,0,0,0,4,0,0,2496967,2021
-05/30/2021,home,15580,509,Northwestern,9,True,2,8,-6,loss,2 - 8,5082533,518,1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,3,0,1,0,0,0,6,0,0,2496967,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,5,0,0,03/07/2021,neutral,15580,301,Illinois,9,True,0,8,-8,loss,2049903,518,2496967,2021
+1,0,1.1,0.0,1,0,0,0,1,0,5,5,0,0,0,0,0,0,0,2,0,0,0,12,2,1,0,0,0,5,0,0,04/16/2021,away,15580,392,Maryland,9,True,6,10,-4,loss,2058279,518,2496967,2021
+1,0,0.2,0.0,2,2,0,0,0,0,5,4,1,0,0,0,1,0,0,0,0,1,0,7,2,0,0,0,0,4,0,0,05/02/2021,home,15580,559,Purdue,9,True,15,16,-1,loss,2055484,518,2496967,2021
+1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,3,0,1,0,0,0,6,0,0,05/30/2021,home,15580,509,Northwestern,9,True,2,8,-6,loss,2080166,518,2496967,2021

@@ -242,8 +242,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,1888526,Michael Villanueva,P,Jr,0,0,2019,14781,Texas Southern,699
 28,2137367,A.J. Winger,P,Fr,15,0,2019,14781,Texas Southern,699
 9,2137327,Nic Garza,INF,Jr,50,50,2019,14781,Texas Southern,699
-31,2137358,Kevin Garcia,C,Fr,3,0,2019,14781,Texas Southern,699
 5,2137356,Austin Garcia,C,Fr,26,20,2019,14781,Texas Southern,699
+31,2137358,Kevin Garcia,C,Fr,3,0,2019,14781,Texas Southern,699
 36,1997628,Mason Furlong,UT,Sr,25,13,2019,14781,Texas Southern,699
 4,2137355,Levi Dixon,INF,Jr,22,16,2019,14781,Texas Southern,699
 3,1997614,Ryan Diaz,OF,Sr,48,41,2019,14781,Texas Southern,699
@@ -326,8 +326,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2137366,Tyson Thompson,OF,Sr,36,28,2021,15580,Texas Southern,699
 39,2137334,Seth Soliz,OF,Jr,0,0,2021,15580,Texas Southern,699
 28,2137367,A.J. Winger,P,Sr,18,2,2022,15860,Texas Southern,699
-19,2494407,Tyler Williams,ph,So,32,10,2022,15860,Texas Southern,699
 13,2140624,Brian Williams,P,Sr,13,12,2022,15860,Texas Southern,699
+19,2494407,Tyler Williams,ph,So,32,10,2022,15860,Texas Southern,699
 26,2515763,Herbert Watts,pr,So,9,0,2022,15860,Texas Southern,699
 5,2347453,Jordan Vidato,OF,Jr,32,8,2022,15860,Texas Southern,699
 46,2681176,Tyler Legendre,ph,Fr,12,0,2022,15860,Texas Southern,699
@@ -353,9 +353,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,2137352,Roderick Coffee,OF,Jr,40,32,2022,15860,Texas Southern,699
 3,1862546,Justin Cooper,INF,Sr,53,53,2022,15860,Texas Southern,699
 6,2120944,Jeremy Gaines,INF,Sr,49,49,2022,15860,Texas Southern,699
-55,2683345,Roberto Garcia,p,Fr,5,1,2022,15860,Texas Southern,699
-17,2681404,Josiah Castro,p,So,13,5,2022,15860,Texas Southern,699
 16,1981330,Jesse Garcia,P,Sr,10,0,2022,15860,Texas Southern,699
+17,2681404,Josiah Castro,p,So,13,5,2022,15860,Texas Southern,699
+55,2683345,Roberto Garcia,p,Fr,5,1,2022,15860,Texas Southern,699
 8,2347454,Reuben Bennevendo,C,-,Jr,0,2023,16340,Texas Southern,699
 55,2683345,Roberto Garcia,p,-,So,0,2023,16340,Texas Southern,699
 24,1991150,George Osborne Iii,P,6-2,Sr,0,2023,16340,Texas Southern,699

@@ -287,8 +287,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,1767240,Caleb Hester,P,Sr,4,0,2020,15204,Eastern Mich.,204
 18,1871055,John Holt,P,Sr,3,0,2020,15204,Eastern Mich.,204
 17,2127121,Taylor Hopkins,INF,So,13,13,2020,15204,Eastern Mich.,204
-35,2349387,Trevor House,P,Fr,5,0,2020,15204,Eastern Mich.,204
 33,1982341,Thomas House,P,Jr,4,3,2020,15204,Eastern Mich.,204
+35,2349387,Trevor House,P,Fr,5,0,2020,15204,Eastern Mich.,204
 14,1871056,Nick Jones,UT,Sr,14,14,2020,15204,Eastern Mich.,204
 9,2354107,Tyler Helgeson,UT,Fr,5,0,2020,15204,Eastern Mich.,204
 15,1982366,Jared Kauffman,INF,Sr,34,27,2021,15580,Eastern Mich.,204
@@ -342,7 +342,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26,2349393,Daniel Warkentin,INF,Sr,48,47,2022,15860,Eastern Mich.,204
 45,2349389,Justin Reinkall,P,Sr,20,0,2022,15860,Eastern Mich.,204
 31,2463659,Mark Kattula,INF,So,2,2,2022,15860,Eastern Mich.,204
-33,1982341,Thomas House,P,Sr,14,14,2022,15860,Eastern Mich.,204
+35,2349387,Trevor House,P,Jr,17,0,2022,15860,Eastern Mich.,204
 30,2134560,Brady Huebbe,OF,Sr,55,55,2022,15860,Eastern Mich.,204
 10,2676815,Brendan Alvord,P,Fr,5,0,2022,15860,Eastern Mich.,204
 14,2676816,Dom Anderson,P,Fr,12,2,2022,15860,Eastern Mich.,204
@@ -359,7 +359,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,1982337,Eli Gora,C,Sr,36,34,2022,15860,Eastern Mich.,204
 9,2354107,Tyler Helgeson,UT,Jr,8,0,2022,15860,Eastern Mich.,204
 17,2127121,Taylor Hopkins,INF,Sr,54,54,2022,15860,Eastern Mich.,204
-35,2349387,Trevor House,P,Jr,17,0,2022,15860,Eastern Mich.,204
+33,1982341,Thomas House,P,Sr,14,14,2022,15860,Eastern Mich.,204
 18,2676802,Adam Falinski,P,Fr,12,12,2022,15860,Eastern Mich.,204
 10,2676815,Brendan Alvord,P,-,So,0,2023,16340,Eastern Mich.,204
 18,2676802,Adam Falinski,P,-,So,0,2023,16340,Eastern Mich.,204

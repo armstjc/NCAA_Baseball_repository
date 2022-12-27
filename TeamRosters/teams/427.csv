@@ -237,8 +237,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,2122591,Zach Matthews,P,Fr,12,0,2019,14781,Minn. Duluth,427
 6,2122523,Gage Merhar,UT,Fr,14,7,2019,14781,Minn. Duluth,427
 16,2122554,Wyatt O'Bey,P,So,9,5,2019,14781,Minn. Duluth,427
-14,2006128,Tyler Peterson,P,Fr,22,11,2019,14781,Minn. Duluth,427
 17,2122558,Mccale Peterson,INF,Fr,46,43,2019,14781,Minn. Duluth,427
+14,2006128,Tyler Peterson,P,Fr,22,11,2019,14781,Minn. Duluth,427
 27,2005626,Paul Petit,P,So,21,3,2019,14781,Minn. Duluth,427
 8,1774578,Cory Krolikowski,OF,Sr,41,34,2019,14781,Minn. Duluth,427
 25,2122584,Tim Pokornowski,OF,Fr,30,14,2019,14781,Minn. Duluth,427
@@ -260,13 +260,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,1889903,Drew Stewart,OF,Sr,8,8,2020,15204,Minn. Duluth,427
 11,2122584,Tim Pokornowski,OF,So,5,2,2020,15204,Minn. Duluth,427
 6,2319835,Alex Sturnieks,P,Fr,2,1,2020,15204,Minn. Duluth,427
-24,2319844,Russ Tanner,P,Fr,1,1,2020,15204,Minn. Duluth,427
+25,2319858,Sam Tanner,OF,Fr,0,0,2020,15204,Minn. Duluth,427
 28,2319805,Daniel Van De Steeg,P,Fr,2,1,2020,15204,Minn. Duluth,427
 22,2007430,Mitchell Waletzki,P,Jr,3,3,2020,15204,Minn. Duluth,427
 17,2319837,Alex Wattermann,INF,Fr,8,8,2020,15204,Minn. Duluth,427
 30,1870399,Alex Welder,1B,Sr,7,7,2020,15204,Minn. Duluth,427
 5,2122542,Aaron Wukmir,P,So,2,0,2020,15204,Minn. Duluth,427
-25,2319858,Sam Tanner,OF,Fr,0,0,2020,15204,Minn. Duluth,427
+24,2319844,Russ Tanner,P,Fr,1,1,2020,15204,Minn. Duluth,427
 27,2005626,Paul Petit,P,Jr,1,1,2020,15204,Minn. Duluth,427
 9,2006128,Tyler Peterson,C,So,3,1,2020,15204,Minn. Duluth,427
 8,2319836,Brodie Paulson,INF,Jr,6,6,2020,15204,Minn. Duluth,427
@@ -297,8 +297,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,2122597,Jake Salonek,1B,Jr,6,0,2021,15580,Minn. Duluth,427
 3,1781460,Ben Shepard,P,Jr,9,9,2021,15580,Minn. Duluth,427
 6,2319835,Alex Sturnieks,P,Fr,0,0,2021,15580,Minn. Duluth,427
-24,2319844,Russ Tanner,P,So,8,8,2021,15580,Minn. Duluth,427
 25,2319858,Sam Tanner,OF,So,18,14,2021,15580,Minn. Duluth,427
+24,2319844,Russ Tanner,P,So,8,8,2021,15580,Minn. Duluth,427
 30,2467791,Mason Thiel,P,Fr,11,0,2021,15580,Minn. Duluth,427
 35,2467792,Mason Torve,P,Fr,0,0,2021,15580,Minn. Duluth,427
 28,2319805,Daniel Van De Steeg,P,So,0,0,2021,15580,Minn. Duluth,427
@@ -324,10 +324,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 37,2467746,Jack Nemetz,C,Fr,0,0,2021,15580,Minn. Duluth,427
 16,2122554,Wyatt O'Bey,P,Jr,9,5,2021,15580,Minn. Duluth,427
 32,2467802,Dylan Wilson,INF,Fr,0,0,2021,15580,Minn. Duluth,427
-20,2319840,Hayden Brown,UT,Jr,9,3,2022,15860,Minn. Duluth,427
-12,2689026,Isaac Benesh,p,Jr,10,6,2022,15860,Minn. Duluth,427
-25,2319858,Sam Tanner,OF,Jr,41,34,2022,15860,Minn. Duluth,427
 32,2691225,August Brown,ph,Fr,16,1,2022,15860,Minn. Duluth,427
+12,2689026,Isaac Benesh,p,Jr,10,6,2022,15860,Minn. Duluth,427
+24,2319844,Russ Tanner,P,Jr,3,3,2022,15860,Minn. Duluth,427
+20,2319840,Hayden Brown,UT,Jr,9,3,2022,15860,Minn. Duluth,427
 38,2467782,Jack Puder,INF,So,50,48,2022,15860,Minn. Duluth,427
 41,2467785,Ben Reilley,P,So,12,2,2022,15860,Minn. Duluth,427
 15,2467773,Luke Ricker,P,So,5,0,2022,15860,Minn. Duluth,427
@@ -342,9 +342,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2319837,Alex Wattermann,INF,Jr,49,49,2022,15860,Minn. Duluth,427
 32,2467802,Dylan Wilson,INF,So,6,1,2022,15860,Minn. Duluth,427
 5,2122542,Aaron Wukmir,P,Sr,11,6,2022,15860,Minn. Duluth,427
-24,2319844,Russ Tanner,P,Jr,3,3,2022,15860,Minn. Duluth,427
-9,2006128,Tyler Peterson,C,Sr,0,0,2022,15860,Minn. Duluth,427
+25,2319858,Sam Tanner,OF,Jr,41,34,2022,15860,Minn. Duluth,427
 18,2122558,Mccale Peterson,INF,Jr,0,0,2022,15860,Minn. Duluth,427
+9,2006128,Tyler Peterson,C,Sr,0,0,2022,15860,Minn. Duluth,427
 16,2122554,Wyatt O'Bey,P,Sr,13,4,2022,15860,Minn. Duluth,427
 28,2689035,Ethan Cole,3b,Fr,39,29,2022,15860,Minn. Duluth,427
 1,2319859,Eli Drexler,P,So,8,0,2022,15860,Minn. Duluth,427

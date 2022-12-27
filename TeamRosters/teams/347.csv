@@ -134,13 +134,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,1988899,Derrick Mcgowan,OF,Sr,6,3,2019,14781,Lane,347
 6,1985710,Mario Alston,OF,Sr,16,11,2019,14781,Lane,347
 24,2131240,Thomas Arias,P,Fr,42,42,2019,14781,Lane,347
-8,1874821,Christian Armstrong,INF,Jr,44,39,2019,14781,Lane,347
 19,1985707,Jahneal Armstrong,C,So,27,26,2019,14781,Lane,347
+8,1874821,Christian Armstrong,INF,Jr,44,39,2019,14781,Lane,347
 7,1985708,Joel Ballard,P,Jr,25,16,2019,14781,Lane,347
 20,1874824,Kendrick Binford,C,Sr,4,1,2019,14781,Lane,347
 23,2131260,Jermyn Brock,P,Fr,2,0,2019,14781,Lane,347
-4,1874835,Tavariz Brown,OF,Jr,26,16,2019,14781,Lane,347
 3,1874834,Treviz Brown,P,Jr,40,39,2019,14781,Lane,347
+4,1874835,Tavariz Brown,OF,Jr,26,16,2019,14781,Lane,347
 14,1874833,Courtney Joyner,INF,Jr,36,34,2019,14781,Lane,347
 11,1880585,Keishaun Clark,P,Jr,28,27,2019,14781,Lane,347
 9,1874822,Melvin Crayton,INF,Jr,41,38,2019,14781,Lane,347
@@ -199,9 +199,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2473365,Kalum Banks,INF,So,25,25,2022,15860,Lane,347
 10,2666159,Cullen Odom,,So,12,3,2022,15860,Lane,347
 9,2666160,Caleb Osee,,So,12,6,2022,15860,Lane,347
+1,2331719,Jordan Smith,OF,Jr,33,31,2022,15860,Lane,347
 12,2331720,Pharoah Smith,INF,Sr,21,11,2022,15860,Lane,347
 2,2666161,Andrew Smith,,So,34,32,2022,15860,Lane,347
-1,2331719,Jordan Smith,OF,Jr,33,31,2022,15860,Lane,347
 6,2666162,Walt Thomson,,Fr,33,28,2022,15860,Lane,347
 13,2331712,Omar Tompkins,P,Sr,12,7,2022,15860,Lane,347
 25,2131281,Shamond Villaflor,OF,Sr,1,0,2022,15860,Lane,347

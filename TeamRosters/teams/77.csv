@@ -231,7 +231,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,2116083,Hobbs Nyberg,UT,Fr,24,6,2019,14781,BYU,77
 12,2116124,Dj Mcnew,INF,So,19,12,2019,14781,BYU,77
 6,1974986,Mitch Mcintyre,OF,So,53,52,2019,14781,BYU,77
-18,1975006,Justin Sterner,P,So,15,13,2019,14781,BYU,77
+21,2116130,Jack Sterner,P,Fr,0,0,2019,14781,BYU,77
 22,2116121,Jarod Lessar,P,Jr,19,7,2019,14781,BYU,77
 17,1751323,Keaton Kringlen,INF,Sr,45,38,2019,14781,BYU,77
 19,1974980,Koby Kelton,UT,So,2,0,2019,14781,BYU,77
@@ -239,7 +239,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 41,2116118,Noah Hughes,OF,Fr,0,0,2019,14781,BYU,77
 14,1974982,Blake Inouye,P,Sr,24,2,2019,14781,BYU,77
 5,2116122,Carson Matthews,INF,Fr,33,29,2019,14781,BYU,77
-21,2116130,Jack Sterner,P,Fr,0,0,2019,14781,BYU,77
+18,1975006,Justin Sterner,P,So,15,13,2019,14781,BYU,77
 31,2116123,Reid Mclaughlin,P,Fr,25,0,2019,14781,BYU,77
 9,1751328,Easton Walker,P,So,19,10,2019,14781,BYU,77
 24,1974981,Drew Zimmerman,P,So,24,2,2019,14781,BYU,77
@@ -324,8 +324,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2477755,Jacob Wilk,INF,Jr,38,27,2021,15580,BYU,77
 44,2301735,Chase Taylor,C,So,7,2,2021,15580,BYU,77
 5,2301734,Hunter Swapp,OF,So,17,6,2021,15580,BYU,77
-21,2116130,Jack Sterner,P,So,14,14,2021,15580,BYU,77
 36,2477664,Luke Sterner,P,Fr,5,0,2021,15580,BYU,77
+21,2116130,Jack Sterner,P,So,14,14,2021,15580,BYU,77
 26,2301733,Carter Smith,P,So,19,5,2021,15580,BYU,77
 11,2116084,Abraham Valdez,C,Sr,30,27,2021,15580,BYU,77
 19,2301732,Bryce Robison,P,So,19,9,2022,15860,BYU,77

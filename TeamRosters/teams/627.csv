@@ -254,9 +254,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,1984974,Shane Mcguire,C,So,52,52,2019,14781,San Diego,627
 27,2140431,Josh Hendrickson,P,Jr,12,10,2019,14781,San Diego,627
 35,1870191,Nate Walker,P,Jr,21,0,2019,14781,San Diego,627
-17,2140441,Grady Miller,P,Jr,23,5,2019,14781,San Diego,627
-32,2140462,Jake Miller,P,Fr,17,7,2019,14781,San Diego,627
 30,2140464,Preston Miller,UT,Fr,16,5,2019,14781,San Diego,627
+32,2140462,Jake Miller,P,Fr,17,7,2019,14781,San Diego,627
+17,2140441,Grady Miller,P,Jr,23,5,2019,14781,San Diego,627
 42,2140448,Mike Yourg,OF,Fr,0,0,2019,14781,San Diego,627
 19,2140446,Caleb Ricketts,UT,Fr,32,26,2019,14781,San Diego,627
 15,2140470,Ripken Reyes,INF,Sr,53,51,2019,14781,San Diego,627
@@ -279,11 +279,11 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,2309191,Will Worthington,INF,Fr,9,6,2020,15204,San Diego,627
 45,2140448,Mike Yourg,OF,Fr,1,1,2020,15204,San Diego,627
 27,2309243,Kohl Simas,P,So,4,0,2020,15204,San Diego,627
-17,2140441,Grady Miller,P,Sr,5,5,2020,15204,San Diego,627
-18,2309246,James Sashin,P,Fr,0,0,2020,15204,San Diego,627
 32,2140462,Jake Miller,P,So,5,2,2020,15204,San Diego,627
-29,2309253,Lucas Braun,P,Fr,2,0,2020,15204,San Diego,627
+18,2309246,James Sashin,P,Fr,0,0,2020,15204,San Diego,627
 8,2140464,Preston Miller,UT,So,5,2,2020,15204,San Diego,627
+29,2309253,Lucas Braun,P,Fr,2,0,2020,15204,San Diego,627
+17,2140441,Grady Miller,P,Sr,5,5,2020,15204,San Diego,627
 11,1870195,Louis Crow,P,Sr,0,0,2020,15204,San Diego,627
 30,2309254,Michael Dixon,OF,Fr,15,10,2020,15204,San Diego,627
 40,2140429,Jack Dolak,P,So,6,1,2020,15204,San Diego,627

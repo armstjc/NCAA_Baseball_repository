@@ -258,8 +258,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,2001795,Luke Correia,C,So,2,0,2019,14781,Mercyhurst,408
 34,2159244,Chad Cwik,p,Fr,8,3,2019,14781,Mercyhurst,408
 5,2146946,D. Derenzo,c,N/A,50,50,2019,14781,Mercyhurst,408
-48,2162062,Connor Demoss,,Sr,0,0,2019,14781,Mercyhurst,408
 48,2159245,Unknown Demoss,p,Sr,2,0,2019,14781,Mercyhurst,408
+48,2162062,Connor Demoss,,Sr,0,0,2019,14781,Mercyhurst,408
 21,2001768,Jack Elliott,INF,So,52,52,2019,14781,Mercyhurst,408
 15,2156887,Anthony Fachet,ph/lf,Fr,5,0,2019,14781,Mercyhurst,408
 44,2147266,James Filippelli,p,Fr,2,2,2019,14781,Mercyhurst,408
@@ -315,7 +315,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,1892689,Jared Kapturasky,OF,Sr,4,0,2020,15204,Mercyhurst,408
 27,2001766,Ryan Smerkar,P,Jr,1,0,2020,15204,Mercyhurst,408
 90,2508252,Matt Christopher,ph/ss,N/A,4,0,2021,15580,Mercyhurst,408
-13,2514288,Brett Whiteman,p,Sr,9,6,2021,15580,Mercyhurst,408
+34,2354777,William Whiteman,P,Sr,1,0,2021,15580,Mercyhurst,408
 15,2354321,Michael Mcdonough,P,Sr,11,11,2021,15580,Mercyhurst,408
 11,2001764,Nicholas Mcrandal,P,Sr,0,0,2021,15580,Mercyhurst,408
 10,2001791,Tyler Passmore,P,Sr,2,0,2021,15580,Mercyhurst,408
@@ -338,7 +338,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,2001787,Josh Surowiec,INF,Sr,42,42,2021,15580,Mercyhurst,408
 14,2001796,Jordan Zilka,C,Sr,15,10,2021,15580,Mercyhurst,408
 3,2507494,T. Zaluski,dh,Sr,40,40,2021,15580,Mercyhurst,408
-34,2354777,William Whiteman,P,Sr,1,0,2021,15580,Mercyhurst,408
+13,2514288,Brett Whiteman,p,Sr,9,6,2021,15580,Mercyhurst,408
 53,2508256,John Susnik,C,Fr,6,0,2021,15580,Mercyhurst,408
 37,2514286,Korey Shoupe,lf,So,6,0,2021,15580,Mercyhurst,408
 7,2001744,Hunter Treece,P,Sr,9,0,2021,15580,Mercyhurst,408
@@ -419,5 +419,5 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 0,2507999,Aiden Shephard,ph/rf,-,So,0,2023,16340,Mercyhurst,408
 35,2658219,John Anservitz,P,-,Jr,0,2023,16340,Mercyhurst,408
 29,2507495,John Bufford,P,-,Jr,0,2023,16340,Mercyhurst,408
-11,2508253,Corbin Foy,p,-,Jr,0,2023,16340,Mercyhurst,408
+3,2508253,Corbin Foy,P,-,Sr,0,2023,16340,Mercyhurst,408
 34,2686411,Chris Juchno,rf,-,So,0,2023,16340,Mercyhurst,408

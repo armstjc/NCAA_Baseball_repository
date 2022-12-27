@@ -47,8 +47,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,1318110,Chris Gould,P,So,13,11,2013,11320,Saint Rose,1347
 27,1543263,Louis Ferrari,3B,Fr,16,9,2014,11620,Saint Rose,1347
 12,1433892,Chad Adams,3B,So,38,36,2014,11620,Saint Rose,1347
-8,1433889,Zac Bellinger,1B,Jr,41,41,2014,11620,Saint Rose,1347
 30,1543264,Brad Bellinger,P,Jr,3,1,2014,11620,Saint Rose,1347
+8,1433889,Zac Bellinger,1B,Jr,41,41,2014,11620,Saint Rose,1347
 RS,1433887,Joseph Carcone,SS,Sr,0,0,2014,11620,Saint Rose,1347
 10,1318108,Bryan Carr,P,Jr,15,7,2014,11620,Saint Rose,1347
 23,1543262,Alex Chandler,OF,Fr,14,4,2014,11620,Saint Rose,1347
@@ -251,8 +251,8 @@ RS,1433887,Joseph Carcone,SS,Sr,0,0,2014,11620,Saint Rose,1347
 20,2143928,Cameron Flynn,P,Fr,8,6,2019,14781,Saint Rose,1347
 44,2143943,Max Gebauer,C,Fr,17,12,2019,14781,Saint Rose,1347
 9,1768299,Joe Guerette,P,Jr,8,0,2019,14781,Saint Rose,1347
-45,2001115,Stephen Hill,P,Sr,9,7,2019,14781,Saint Rose,1347
 3,2143856,Brian Hill,INF,Jr,25,21,2019,14781,Saint Rose,1347
+45,2001115,Stephen Hill,P,Sr,9,7,2019,14781,Saint Rose,1347
 33,2001100,Michael Hughes,P,So,0,0,2019,14781,Saint Rose,1347
 37,2001074,Francisco Infante,INF,So,6,6,2019,14781,Saint Rose,1347
 22,2001087,Alexander Koshgarian,OF,Sr,34,33,2019,14781,Saint Rose,1347

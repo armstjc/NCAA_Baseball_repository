@@ -235,7 +235,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 3,2130460,Drew Reed,INF,So,9,4,2020,15204,East Central,8965
 45,2319872,Brian Terry,P,Fr,6,0,2020,15204,East Central,8965
 13,2319843,Garrett Lemons,OF,So,14,9,2020,15204,East Central,8965
-10,2319842,Davis Rogers,P,Jr,8,2,2020,15204,East Central,8965
+37,2134763,Hunter Rogers,INF,Jr,0,0,2020,15204,East Central,8965
 28,2319809,Colton Schaper-Kotter,UT,Fr,23,23,2020,15204,East Central,8965
 23,2131023,Jeffrey Shafer,P,Sr,0,0,2020,15204,East Central,8965
 11,2122548,Gabriel Simons,OF,Sr,17,14,2020,15204,East Central,8965
@@ -245,7 +245,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,2130461,Gage Wall,P,Sr,0,0,2020,15204,East Central,8965
 14,1979996,Chris Sanchez,P,Sr,4,0,2020,15204,East Central,8965
 38,2130458,Dylan Lang,C,Sr,19,18,2020,15204,East Central,8965
-37,2134763,Hunter Rogers,INF,Jr,0,0,2020,15204,East Central,8965
+10,2319842,Davis Rogers,P,Jr,8,2,2020,15204,East Central,8965
 31,2134762,Breydan Jackson,P,So,4,0,2020,15204,East Central,8965
 20,2319861,Spencer Johnston,P,Jr,6,6,2020,15204,East Central,8965
 8,2130429,Tanner Barnes,C,So,13,8,2020,15204,East Central,8965
@@ -268,8 +268,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,1979958,Hayden George,INF,Sr,37,37,2021,15580,East Central,8965
 41,2319869,Kyle Foster,P,Fr,0,0,2021,15580,East Central,8965
 28,2465904,Annan Finlay,INF,Fr,0,0,2021,15580,East Central,8965
-15,2130457,Ryan Collins,P,Sr,13,12,2021,15580,East Central,8965
 11,2465898,Tanner Collins,INF,Fr,0,0,2021,15580,East Central,8965
+15,2130457,Ryan Collins,P,Sr,13,12,2021,15580,East Central,8965
 30,2319865,Justin Chitty,P,Fr,9,5,2021,15580,East Central,8965
 34,2153323,Zach Burgherr,OF,So,0,0,2021,15580,East Central,8965
 21,2130456,Khaji Butler,OF,Jr,20,15,2021,15580,East Central,8965
@@ -303,7 +303,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 20,2319861,Spencer Johnston,P,Jr,10,10,2021,15580,East Central,8965
 12,2130461,Gage Wall,P,Sr,15,0,2021,15580,East Central,8965
 22,2465901,Nolan Herchock,INF,So,0,0,2022,15860,East Central,8965
-2,2130454,Anderson Allen,OF,Jr,32,15,2022,15860,East Central,8965
+21,2660297,Dione Allen,INF,So,9,4,2022,15860,East Central,8965
 35,2660346,Cooper Hunt,P,Fr,1,0,2022,15860,East Central,8965
 17,2465900,Will Isaly,C,So,11,0,2022,15860,East Central,8965
 38,2660332,Trae Lowe,OF,Fr,24,14,2022,15860,East Central,8965
@@ -321,7 +321,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2660317,Zac Green,OF,Jr,18,11,2022,15860,East Central,8965
 25,2319857,Kyle Busker,C,So,25,11,2022,15860,East Central,8965
 18,2319807,Mason Glowacki,INF,Fr,47,47,2022,15860,East Central,8965
-21,2660297,Dione Allen,INF,So,9,4,2022,15860,East Central,8965
+2,2130454,Anderson Allen,OF,Jr,32,15,2022,15860,East Central,8965
 34,2660344,Louis Aquila,P,Fr,13,2,2022,15860,East Central,8965
 8,2130429,Tanner Barnes,C,Jr,20,19,2022,15860,East Central,8965
 23,2660301,Colt Bartling,P,So,15,7,2022,15860,East Central,8965

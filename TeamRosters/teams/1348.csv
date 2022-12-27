@@ -252,9 +252,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 45,1887819,Reyan Mustafoski,P,Jr,17,0,2019,14781,St. Thomas Aquinas,1348
 30,2134847,Jack Wilde,P,Fr,6,0,2019,14781,St. Thomas Aquinas,1348
 55,2134880,Justin Baeyens,P,Fr,12,1,2019,14781,St. Thomas Aquinas,1348
-22,2134834,Robert Hazelton,INF,Fr,3,0,2019,14781,St. Thomas Aquinas,1348
-24,1887807,Chris Cepeda,P,Sr,14,12,2019,14781,St. Thomas Aquinas,1348
+51,1775632,Donald Hazelton,P,Jr,2,0,2019,14781,St. Thomas Aquinas,1348
 8,2134820,Jonnathan Cepeda,INF,So,25,14,2019,14781,St. Thomas Aquinas,1348
+24,1887807,Chris Cepeda,P,Sr,14,12,2019,14781,St. Thomas Aquinas,1348
 38,2134879,Darnell Chandler,P,Fr,5,0,2019,14781,St. Thomas Aquinas,1348
 27,2134843,Christopher Conti,OF,Fr,18,4,2019,14781,St. Thomas Aquinas,1348
 52,2134850,Michael Cunney,C,Fr,3,0,2019,14781,St. Thomas Aquinas,1348
@@ -266,7 +266,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 3,2134829,John Greeley,P,Jr,14,11,2019,14781,St. Thomas Aquinas,1348
 32,2134861,Tj Gregory,P,Fr,10,5,2019,14781,St. Thomas Aquinas,1348
 41,1775628,Scott Hannon,P,Sr,14,1,2019,14781,St. Thomas Aquinas,1348
-51,1775632,Donald Hazelton,P,Jr,2,0,2019,14781,St. Thomas Aquinas,1348
+22,2134834,Robert Hazelton,INF,Fr,3,0,2019,14781,St. Thomas Aquinas,1348
 15,1999489,Jeffrey Dominguez,P,So,5,0,2019,14781,St. Thomas Aquinas,1348
 20,2134833,Jaden Jorgenson,INF,Fr,33,21,2019,14781,St. Thomas Aquinas,1348
 88,1999479,Josten Beato,P,So,2,0,2019,14781,St. Thomas Aquinas,1348
@@ -312,8 +312,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,2134829,John Greeley,P,Sr,5,0,2020,15204,St. Thomas Aquinas,1348
 34,2134861,Tj Gregory,P,So,4,3,2020,15204,St. Thomas Aquinas,1348
 33,2343765,Andrew Guerra,OF,So,10,7,2020,15204,St. Thomas Aquinas,1348
-22,2134834,Robert Hazelton,INF,So,1,0,2020,15204,St. Thomas Aquinas,1348
 27,1775632,Donald Hazelton,P,Sr,4,0,2020,15204,St. Thomas Aquinas,1348
+22,2134834,Robert Hazelton,INF,So,1,0,2020,15204,St. Thomas Aquinas,1348
 46,2343811,Ryan Hicks,P,Fr,3,0,2020,15204,St. Thomas Aquinas,1348
 31,2134874,Andrew Jemison,INF,So,14,14,2020,15204,St. Thomas Aquinas,1348
 13,2134880,Justin Baeyens,P,So,3,0,2020,15204,St. Thomas Aquinas,1348
@@ -330,8 +330,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 38,2511137,Billy Minett,C,Fr,13,12,2021,15580,St. Thomas Aquinas,1348
 47,1887819,Reyan Mustafoski,P,Sr,6,4,2021,15580,St. Thomas Aquinas,1348
 36,2511138,Nate Novia,P,Fr,0,0,2021,15580,St. Thomas Aquinas,1348
-1,2511106,Nick O'Connor,INF,Fr,0,0,2021,15580,St. Thomas Aquinas,1348
 30,2511136,Aidan O'Connor,P,Fr,0,0,2021,15580,St. Thomas Aquinas,1348
+1,2511106,Nick O'Connor,INF,Fr,0,0,2021,15580,St. Thomas Aquinas,1348
 0,2343714,Yanni Orfanidis,P,Sr,9,0,2021,15580,St. Thomas Aquinas,1348
 41,2343808,Franklin Padilla,INF,So,2,0,2021,15580,St. Thomas Aquinas,1348
 43,2511139,Santiago Peguero,OF,Fr,1,0,2021,15580,St. Thomas Aquinas,1348

@@ -399,9 +399,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 28,2304159,Dylan Frandsen,P,So,10,1,2021,15580,Drury,1057
 5,2116062,Nikko Calabro,C,Jr,40,40,2021,15580,Drury,1057
 20,1973440,Tom Tewes,P,Sr,8,5,2021,15580,Drury,1057
-39,2116095,Austin Anderson,INF,Sr,3,0,2022,15860,Drury,1057
-13,2503397,Isaac Ammann,OF,So,21,1,2022,15860,Drury,1057
 36,2304148,Hamilton Anderson,C,Jr,0,0,2022,15860,Drury,1057
+13,2503397,Isaac Ammann,OF,So,21,1,2022,15860,Drury,1057
+39,2116095,Austin Anderson,INF,Sr,3,0,2022,15860,Drury,1057
 8,2304142,Dj Mcnew,INF,Sr,51,47,2022,15860,Drury,1057
 48,2503405,Cody Bahl,P,So,14,14,2022,15860,Drury,1057
 31,2503401,Jack Jones,P,So,14,0,2022,15860,Drury,1057
@@ -417,8 +417,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 52,2503408,Stephen Pursley,P,So,1,0,2022,15860,Drury,1057
 9,2116086,Stephen Randazzo,INF,Sr,48,47,2022,15860,Drury,1057
 46,2503404,Charlie Roder,P,So,0,0,2022,15860,Drury,1057
-25,1973455,Brant Schaffitzel,INF,Sr,41,38,2022,15860,Drury,1057
 30,2304163,Brock Schaffitzel,INF,Jr,6,0,2022,15860,Drury,1057
+25,1973455,Brant Schaffitzel,INF,Sr,41,38,2022,15860,Drury,1057
 15,2503399,Carson Shaver,C,So,29,17,2022,15860,Drury,1057
 29,2304162,Sawyer Smith,OF,Sr,3,0,2022,15860,Drury,1057
 20,1973440,Tom Tewes,P,Sr,10,3,2022,15860,Drury,1057

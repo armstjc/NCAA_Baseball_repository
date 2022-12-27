@@ -326,8 +326,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 38,2129443,Dalton Acosta,P,Sr,12,0,2021,15580,Prairie View,553
 4,2502306,Paul Castro,C,Fr,15,11,2021,15580,Prairie View,553
 19,2500538,Samuel Denker,p,So,10,1,2021,15580,Prairie View,553
-13,1887854,Andrew Garcia,INF,Sr,28,27,2021,15580,Prairie View,553
 37,2330238,David Garcia,3B,So,0,0,2021,15580,Prairie View,553
+13,1887854,Andrew Garcia,INF,Sr,28,27,2021,15580,Prairie View,553
 26,2140586,Justin Maxcey,P,Jr,6,0,2021,15580,Prairie View,553
 16,2504799,Jordon Ginn,ph,Fr,8,5,2021,15580,Prairie View,553
 11,2330104,Jackson Hydorn,C,Jr,1,0,2021,15580,Prairie View,553
@@ -344,8 +344,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 20,1977616,Dominic Cox,OF,Sr,37,34,2022,15860,Prairie View,553
 14,2502309,Benjamin Ybarra,INF,So,50,50,2022,15860,Prairie View,553
 1,2678127,Jayden Williams,OF,So,26,8,2022,15860,Prairie View,553
-7,2130755,Wilbert Tre Turner,OF,Sr,48,45,2022,15860,Prairie View,553
 37,2678133,Zackary Turner,INF,So,16,2,2022,15860,Prairie View,553
+7,2130755,Wilbert Tre Turner,OF,Sr,48,45,2022,15860,Prairie View,553
 22,2330201,Tyrone Ty Tubbs,P,Jr,19,1,2022,15860,Prairie View,553
 8,2330081,Zachary Trevino,INF,Jr,53,50,2022,15860,Prairie View,553
 5,1998771,Demarie' Smith,OF,Sr,52,51,2022,15860,Prairie View,553
@@ -357,7 +357,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26,2140586,Justin Maxcey,P,Sr,15,0,2022,15860,Prairie View,553
 12,2140585,Alex Martinez,INF,Sr,53,53,2022,15860,Prairie View,553
 4,2502306,Paul Castro,C,So,41,36,2022,15860,Prairie View,553
-15,2502308,Roberto Maldonado,P,Jr,15,15,2022,15860,Prairie View,553
+6,2502307,Keanu Maldonado,INF,So,19,10,2022,15860,Prairie View,553
 36,2678120,Anthony Larzabal,P,Fr,1,0,2022,15860,Prairie View,553
 45,1977620,Joshua Larzabal,P,Sr,19,3,2022,15860,Prairie View,553
 13,2678118,Matthew Krall,P,Fr,15,14,2022,15860,Prairie View,553
@@ -372,7 +372,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 41,2678000,Michael Dews,P,Jr,13,0,2022,15860,Prairie View,553
 19,2500538,Samuel Denker,1B,Jr,14,4,2022,15860,Prairie View,553
 35,1998668,Derrick Curry,P,Sr,17,3,2022,15860,Prairie View,553
-6,2502307,Keanu Maldonado,INF,So,19,10,2022,15860,Prairie View,553
+15,2502308,Roberto Maldonado,P,Jr,15,15,2022,15860,Prairie View,553
 24,2500537,Sebastian Coria,1B,Jr,41,38,2022,15860,Prairie View,553
 16,2504799,Jordon Ginn,OF,6-0,Jr,0,2023,16340,Prairie View,553
 23,2678012,Jeremy Abreu,OF,5-7,Sr,0,2023,16340,Prairie View,553

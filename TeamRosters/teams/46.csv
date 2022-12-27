@@ -244,9 +244,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18,1660401,Chad Kuebler,P,Sr,7,0,2018,12973,Baldwin Wallace,46
 21,1660410,Matt Koskinen,INF,Sr,6,1,2018,12973,Baldwin Wallace,46
 58,1997748,Matt Kocur,P,Jr,1,0,2018,12973,Baldwin Wallace,46
-39,1997757,Jake Smith,C,So,1,0,2018,12973,Baldwin Wallace,46
-36,1997744,Jeremy Mcclure,P,Fr,6,2,2018,12973,Baldwin Wallace,46
 37,1997756,Nick Smith,INF,Fr,16,7,2018,12973,Baldwin Wallace,46
+36,1997744,Jeremy Mcclure,P,Fr,6,2,2018,12973,Baldwin Wallace,46
+39,1997757,Jake Smith,C,So,1,0,2018,12973,Baldwin Wallace,46
 10,1778712,Racco Dilauro,DH,So,0,0,2018,12973,Baldwin Wallace,46
 15,1777728,Griffin Watterson,INF,Jr,13,6,2018,12973,Baldwin Wallace,46
 28,1782724,Asa Adams,C,Jr,20,6,2018,12973,Baldwin Wallace,46
@@ -272,8 +272,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 45,1997767,Scott Kirchhoff,UT,So,0,0,2018,12973,Baldwin Wallace,46
 9,1660393,Chase Knodle,OF,Sr,47,47,2018,12973,Baldwin Wallace,46
 53,2139156,Matthew Schutz,P,Fr,0,0,2019,14781,Baldwin Wallace,46
-3,1782724,Asa Adams,C,Sr,43,42,2019,14781,Baldwin Wallace,46
 27,1889228,Max Adams,P,Jr,8,2,2019,14781,Baldwin Wallace,46
+3,1782724,Asa Adams,C,Sr,43,42,2019,14781,Baldwin Wallace,46
 7,1777727,Reese Albright,OF,Sr,43,43,2019,14781,Baldwin Wallace,46
 19,1889636,Spencer Aukerman,P,Jr,13,10,2019,14781,Baldwin Wallace,46
 40,1892293,Spencer Berg,P,Jr,15,1,2019,14781,Baldwin Wallace,46
@@ -282,8 +282,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,2139153,Brandon Casto,C,Fr,1,0,2019,14781,Baldwin Wallace,46
 26,1997754,Luke Razzante,INF,So,30,17,2019,14781,Baldwin Wallace,46
 29,2139162,Maxwell Cebulak,P,Fr,0,0,2019,14781,Baldwin Wallace,46
-39,1997757,Jake Smith,C,Jr,2,0,2019,14781,Baldwin Wallace,46
 37,1997756,Nick Smith,INF,So,11,9,2019,14781,Baldwin Wallace,46
+39,1997757,Jake Smith,C,Jr,2,0,2019,14781,Baldwin Wallace,46
 13,2152515,S. Sustersic,ph,N/A,24,19,2019,14781,Baldwin Wallace,46
 4,1889223,Dudley Taw,OF,Jr,10,10,2019,14781,Baldwin Wallace,46
 57,2139157,Conner Warner,OF,Fr,0,0,2019,14781,Baldwin Wallace,46
@@ -333,8 +333,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 53,2139156,Matthew Schutz,P,So,0,0,2020,15204,Baldwin Wallace,46
 41,2139163,Brandon Skory,P,So,0,0,2020,15204,Baldwin Wallace,46
 12,2364087,Ethan Sloane,pr,N/A,4,0,2020,15204,Baldwin Wallace,46
-39,1997757,Jake Smith,C,Sr,3,1,2020,15204,Baldwin Wallace,46
 37,1997756,Nick Smith,INF,Jr,0,0,2020,15204,Baldwin Wallace,46
+39,1997757,Jake Smith,C,Sr,3,1,2020,15204,Baldwin Wallace,46
 10,2353804,Nick Stoltz,lf,N/A,5,0,2020,15204,Baldwin Wallace,46
 13,2152515,S. Sustersic,ph,Fr,0,0,2020,15204,Baldwin Wallace,46
 4,1889223,Dudley Taw,OF,Sr,11,11,2020,15204,Baldwin Wallace,46

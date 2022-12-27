@@ -298,14 +298,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,1984811,Trenton Denholm,P,Jr,4,4,2020,15204,UC Irvine,109
 9,1984819,Michael Frias,P,So,4,1,2020,15204,UC Irvine,109
 36,1862857,Adrian Damla,INF,Sr,15,15,2020,15204,UC Irvine,109
-42,2111460,Brett Garcia,P,Fr,2,0,2020,15204,UC Irvine,109
+8,2111458,Darius Garcia,P,So,0,0,2020,15204,UC Irvine,109
 18,2305171,Sebastian Garcia Jr.,C,Fr,0,0,2020,15204,UC Irvine,109
 11,2305166,Josh Ibarra,P,Jr,7,0,2020,15204,UC Irvine,109
 39,2305189,Gordon Ingebritson,P,Jr,7,0,2020,15204,UC Irvine,109
 5,2111454,Sam Ireland,INF,So,10,10,2020,15204,UC Irvine,109
 7,2111455,John Jensen,OF,Sr,9,1,2020,15204,UC Irvine,109
 32,2305185,Riley Kasper,UT,Jr,6,6,2020,15204,UC Irvine,109
-8,2111458,Darius Garcia,P,So,0,0,2020,15204,UC Irvine,109
+42,2111460,Brett Garcia,P,Fr,2,0,2020,15204,UC Irvine,109
 11,2305166,Josh Ibarra,P,Jr,20,0,2021,15580,UC Irvine,109
 27,2305186,Jacob King,UT,Fr,29,0,2021,15580,UC Irvine,109
 12,2470252,Caden Kendle,OF,Fr,29,5,2021,15580,UC Irvine,109
@@ -345,8 +345,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 44,2651173,Nick Rincover,P,Jr,11,0,2022,15860,UC Irvine,109
 21,2651168,Cooper Robinson,P,Fr,14,1,2022,15860,UC Irvine,109
 11,2651165,Myles Smith,OF,Fr,22,11,2022,15860,UC Irvine,109
-42,2137726,Jake Spillane,P,Jr,7,0,2022,15860,UC Irvine,109
 33,2305187,Luke Spillane,OF,So,50,41,2022,15860,UC Irvine,109
+42,2137726,Jake Spillane,P,Jr,7,0,2022,15860,UC Irvine,109
 20,2470254,Michael Stanford,P,Sr,11,5,2022,15860,UC Irvine,109
 41,2470259,Roger Thomas,P,Fr,1,0,2022,15860,UC Irvine,109
 36,2305155,Troy Taylor,P,So,26,0,2022,15860,UC Irvine,109

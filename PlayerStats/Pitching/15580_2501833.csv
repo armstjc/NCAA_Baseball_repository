@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,1,2,2,1,2,0,5,4,0,0,0,1,0,0,0,0,0,0,0,21,1,0,0,0,0,3,0,0,04/23/2021,away,15580,423,Millersville,9,True,0,8,-8,loss,2021945,65,2501833,2021
+1,0,1.0,0.0,2,1,0,3,0,0,8,4,1,0,0,0,0,0,0,3,3,0,1,35,1,2,0,0,0,4,0,0,04/24/2021,home,15580,423,Millersville,9,True,8,16,-8,loss,2025272,65,2501833,2021
+1,0,0.2,0.0,2,2,2,2,2,0,6,4,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,0,05/02/2021,away,15580,360,Lock Haven,9,True,5,4,1,win,2076403,65,2501833,2021
+1,0,3.0,0.0,4,2,2,1,2,0,14,13,1,0,0,0,0,0,0,0,0,0,0,38,1,6,0,0,0,3,1,0,05/06/2021,home,15580,638,Shippensburg,9,True,4,7,-3,loss,2044498,65,2501833,2021
+1,0,2.1,0.0,0,1,0,1,2,0,9,7,0,0,0,0,0,0,0,2,0,1,0,36,3,2,0,0,0,3,0,0,05/21/2021,away,15580,30063,Seton Hill,9,True,5,7,-2,loss,2079697,65,2501833,2021
+1,0,0.0,0.0,1,2,2,1,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,6,0,0,0,0,0,2,0,0,05/29/2021,home,15580,1013,Charleston (WV),9,True,8,14,-6,loss,2080978,65,2501833,2021

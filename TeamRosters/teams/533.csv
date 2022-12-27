@@ -226,8 +226,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 37,2153201,Nick Cona,P,Jr,5,0,2019,14781,Pace,533
 7,1880275,Noah Clement,2B,Jr,33,32,2019,14781,Pace,533
 27,2006260,Felix Camacho,DH,Sr,20,7,2019,14781,Pace,533
-98,2149591,J C,UT,Sr,0,0,2019,14781,Pace,533
 99,2149590,N C,UT,Sr,0,0,2019,14781,Pace,533
+98,2149591,J C,UT,Sr,0,0,2019,14781,Pace,533
 42,2005633,Alex Busby,RF,Sr,10,10,2019,14781,Pace,533
 15,1885173,Brian Bohlander,INF,Jr,45,44,2019,14781,Pace,533
 2,2005647,Matt Bass,SS,So,33,28,2019,14781,Pace,533
@@ -264,14 +264,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,2153169,Nick Palumbo,P,So,4,2,2020,15204,Pace,533
 21,1885218,Joe Pizzingrillo,P,Sr,3,0,2020,15204,Pace,533
 33,2153191,Christian Lovecchio,C,Sr,4,2,2020,15204,Pace,533
-2,2354303,Brian Primm,C,Fr,5,1,2020,15204,Pace,533
+26,2354599,Andrew Primm,c,N/A,8,8,2020,15204,Pace,533
 32,2153203,Michael Roll,P,So,4,2,2020,15204,Pace,533
 25,1885178,Lorenzo Russo,P,Sr,3,3,2020,15204,Pace,533
 41,2364623,C. Ryan,p,N/A,1,0,2020,15204,Pace,533
 4,2152629,Justin Scotto,OF,So,9,8,2020,15204,Pace,533
 24,2006285,Harrison Treble,OF,Jr,9,7,2020,15204,Pace,533
 12,2008829,Greg Tsouprakos,3B,Jr,12,12,2020,15204,Pace,533
-26,2354599,Andrew Primm,c,N/A,8,8,2020,15204,Pace,533
+2,2354303,Brian Primm,C,Fr,5,1,2020,15204,Pace,533
 42,2354581,Christian Aich,p,N/A,4,0,2020,15204,Pace,533
 11,2005631,Matt Almonte,C,Jr,8,5,2020,15204,Pace,533
 34,2153168,Nelson Arroyo,P,So,3,0,2020,15204,Pace,533
@@ -297,8 +297,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 38,2008351,Greg Najar,P,Sr,9,0,2021,15580,Pace,533
 25,2525714,Andrew Oakland,2b,So,15,12,2021,15580,Pace,533
 23,2153169,Nick Palumbo,P,Jr,4,4,2021,15580,Pace,533
-26,2354599,Andrew Primm,c,Fr,19,19,2021,15580,Pace,533
 2,2354303,Brian Primm,C,So,8,2,2021,15580,Pace,533
+26,2354599,Andrew Primm,c,Fr,19,19,2021,15580,Pace,533
 8,2522941,L. Rivara,ph,N/A,9,1,2021,15580,Pace,533
 14,2009766,Angus Mccloskey,P,Sr,1,0,2021,15580,Pace,533
 32,2153203,Michael Roll,P,Jr,9,7,2021,15580,Pace,533

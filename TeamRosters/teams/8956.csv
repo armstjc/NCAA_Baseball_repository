@@ -71,7 +71,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 40,1543537,Andrew Morano,P,Fr,9,2,2014,11620,Dominican  (CACC),8956
 13,1085977,Ryan Calby,P,Sr,13,9,2014,11620,Dominican  (CACC),8956
 37,1543534,Justin Mixon,OF,Fr,11,4,2014,11620,Dominican  (CACC),8956
-1,1543511,Jonathan Martinez,OF,Fr,43,38,2014,11620,Dominican  (CACC),8956
+32,1321705,Peter Martinez,P,Jr,12,8,2014,11620,Dominican  (CACC),8956
 6,1543515,Alex Lorenzo,INF,Fr,42,39,2014,11620,Dominican  (CACC),8956
 19,1438522,Carlos Lopez,OF,So,44,44,2014,11620,Dominican  (CACC),8956
 38,1543535,Peter Llerena,P,Fr,5,3,2014,11620,Dominican  (CACC),8956
@@ -82,7 +82,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,1543516,Joseph Delacruz,P,Fr,7,1,2014,11620,Dominican  (CACC),8956
 5,1543514,Donald Crispyn,INF,Fr,14,8,2014,11620,Dominican  (CACC),8956
 31,1543520,Christopher Cockle,OF,Fr,23,12,2014,11620,Dominican  (CACC),8956
-32,1321705,Peter Martinez,P,Jr,12,8,2014,11620,Dominican  (CACC),8956
+1,1543511,Jonathan Martinez,OF,Fr,43,38,2014,11620,Dominican  (CACC),8956
 33,1438527,Jesse Mcilwaine,P,Sr,15,0,2014,11620,Dominican  (CACC),8956
 18,1655116,Brendan Woodruff,OF,Fr,28,22,2015,12080,Dominican  (CACC),8956
 6,1321698,Robert Alonso,INF,Sr,45,45,2015,12080,Dominican  (CACC),8956
@@ -255,8 +255,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 38,2352555,Jovon Portuondo,P,Jr,2,0,2020,15204,Dominican  (CACC),8956
 9,2352538,Brandon Prescod,OF,Fr,0,0,2020,15204,Dominican  (CACC),8956
 16,2352548,Arthur Quinones,INF,So,9,6,2020,15204,Dominican  (CACC),8956
-25,2352571,Ivan Rodriguez,UT,Jr,4,0,2020,15204,Dominican  (CACC),8956
 21,2352569,John Rodriguez,P,So,3,0,2020,15204,Dominican  (CACC),8956
+25,2352571,Ivan Rodriguez,UT,Jr,4,0,2020,15204,Dominican  (CACC),8956
 24,2143844,Billy Rotella,INF,Sr,13,13,2020,15204,Dominican  (CACC),8956
 33,2352574,Brian Parzyck,C,Fr,7,2,2020,15204,Dominican  (CACC),8956
 0,2352563,Ryan Ruziecki,INF,Jr,13,13,2020,15204,Dominican  (CACC),8956

@@ -163,14 +163,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,1892904,Malcolm Smith,1B,Jr,34,34,2019,14781,Lincoln  (ECC),357
 17,2006549,Jordan Rorer,LF,So,25,24,2019,14781,Lincoln  (ECC),357
 9,2007550,Grant Lindsey,SS,Sr,27,25,2019,14781,Lincoln  (ECC),357
-5,1775669,Joshua Roberson,1B,Sr,0,0,2019,14781,Lincoln  (ECC),357
+24,1775673,Orlando Roberson,P,Sr,0,0,2019,14781,Lincoln  (ECC),357
 4,1889996,Dominic Rheubottom,DH,Jr,0,0,2019,14781,Lincoln  (ECC),357
 24,2007357,Bradley Regalado,C,So,9,7,2019,14781,Lincoln  (ECC),357
-6,1779783,Luis Nieves,P,Sr,15,6,2019,14781,Lincoln  (ECC),357
 22,2139816,Carlos Nieves,c,Fr,11,3,2019,14781,Lincoln  (ECC),357
+6,1779783,Luis Nieves,P,Sr,15,6,2019,14781,Lincoln  (ECC),357
 3,2143735,Justin Mcclain,PR,Fr,13,0,2019,14781,Lincoln  (ECC),357
 28,2006568,Pedro Martinez,3B,So,0,0,2019,14781,Lincoln  (ECC),357
-24,1775673,Orlando Roberson,P,Sr,0,0,2019,14781,Lincoln  (ECC),357
+5,1775669,Joshua Roberson,1B,Sr,0,0,2019,14781,Lincoln  (ECC),357
 4,2143734,Jason Aldred,C,Fr,14,13,2019,14781,Lincoln  (ECC),357
 15,2139838,Xavier Storey,P,Sr,0,0,2020,15204,Lincoln  (ECC),357
 23,2007341,Trevon Sutton,P,Jr,3,2,2020,15204,Lincoln  (ECC),357
@@ -236,8 +236,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 20,2663743,Sebastian Iguaran,C,Fr,13,13,2022,15860,Lincoln  (ECC),357
 28,2663765,Miguel Agramonte,OF,Fr,30,26,2022,15860,Lincoln  (ECC),357
 20,2139837,Sheldon Johnson,OF,Sr,19,14,2022,15860,Lincoln  (ECC),357
-17,2663742,Connor Jones,P,Fr,16,0,2022,15860,Lincoln  (ECC),357
 6,2350103,Alex Jones,OF,Jr,38,37,2022,15860,Lincoln  (ECC),357
+17,2663742,Connor Jones,P,Fr,16,0,2022,15860,Lincoln  (ECC),357
 11,2350104,Josiah Lara,2B,Jr,32,20,2022,15860,Lincoln  (ECC),357
 3,2143735,Justin Mcclain,OF,Sr,21,12,2022,15860,Lincoln  (ECC),357
 12,2350082,Leon Mcknight,P,So,13,1,2022,15860,Lincoln  (ECC),357

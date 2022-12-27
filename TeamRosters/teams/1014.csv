@@ -152,8 +152,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,1646989,Chris Clayton,C,So,0,0,2016,12360,Col. of Charleston,1014
 6,1764729,Connor Grant,OF,Fr,21,9,2016,12360,Col. of Charleston,1014
 5,1764728,Dupree Hart,INF,Fr,53,48,2016,12360,Col. of Charleston,1014
-20,1764735,Clay Helvey,P,Fr,9,3,2016,12360,Col. of Charleston,1014
 20,1429977,Nathan Helvey,P,Sr,14,12,2016,12360,Col. of Charleston,1014
+20,1764735,Clay Helvey,P,Fr,9,3,2016,12360,Col. of Charleston,1014
 3,1646986,Bradley Dixon,INF,Fr,51,45,2016,12360,Col. of Charleston,1014
 40,1764745,Joey Mundy,INF,Jr,56,49,2017,12560,Col. of Charleston,1014
 20,1879327,Trent Rider,P,Fr,5,0,2017,12560,Col. of Charleston,1014
@@ -255,13 +255,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,2139369,Tradd James,P,Jr,19,5,2019,14781,Col. of Charleston,1014
 17,2139365,Tanner Mccallister,UT,Fr,11,3,2019,14781,Col. of Charleston,1014
 5,2345724,Sajon Belser,OF,Fr,8,4,2020,15204,Col. of Charleston,1014
-12,2345672,Caswell Smith,P,Fr,4,4,2020,15204,Col. of Charleston,1014
+15,2345673,Grant Smith,P,Jr,2,0,2020,15204,Col. of Charleston,1014
 27,1996987,Zach Williams,P,Jr,7,1,2020,15204,Col. of Charleston,1014
 31,2347686,Ben Wetenhall,INF,Fr,3,0,2020,15204,Col. of Charleston,1014
 32,2345676,Jaxon Weatherford,1B,Fr,12,7,2020,15204,Col. of Charleston,1014
 35,2345739,Tyler Vermillion,P,Fr,0,0,2020,15204,Col. of Charleston,1014
 28,1879336,Luke Stageberg,INF,Sr,14,14,2020,15204,Col. of Charleston,1014
-15,2345673,Grant Smith,P,Jr,2,0,2020,15204,Col. of Charleston,1014
+12,2345672,Caswell Smith,P,Fr,4,4,2020,15204,Col. of Charleston,1014
 11,1879321,Ari Sechopoulos,INF,Sr,14,14,2020,15204,Col. of Charleston,1014
 38,2139373,Mclendon Sears,UT,So,14,11,2020,15204,Col. of Charleston,1014
 25,2139368,Josh Price,P,Sr,9,0,2020,15204,Col. of Charleston,1014
@@ -316,9 +316,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 44,2347686,Ben Wetenhall,INF,Fr,6,1,2021,15580,Col. of Charleston,1014
 32,2345676,Jaxon Weatherford,1B,Fr,14,4,2021,15580,Col. of Charleston,1014
 2,1879336,Luke Stageberg,INF,Sr,43,38,2021,15580,Col. of Charleston,1014
-15,2345673,Grant Smith,P,Sr,3,0,2021,15580,Col. of Charleston,1014
-12,2345672,Caswell Smith,P,Fr,3,3,2021,15580,Col. of Charleston,1014
 25,2471888,Ryan Smith,P,Jr,18,0,2021,15580,Col. of Charleston,1014
+12,2345672,Caswell Smith,P,Fr,3,3,2021,15580,Col. of Charleston,1014
+15,2345673,Grant Smith,P,Sr,3,0,2021,15580,Col. of Charleston,1014
 38,2139373,Mclendon Sears,UT,Jr,27,11,2021,15580,Col. of Charleston,1014
 36,2471893,Michael Schultz,P,Fr,13,1,2021,15580,Col. of Charleston,1014
 19,2471887,William Privette,P,Fr,14,6,2021,15580,Col. of Charleston,1014

@@ -38,7 +38,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,1317991,Jordan Freeman,INF,So,39,39,2013,11320,Huntingdon,1130
 37,1435407,Landon Sessions,INF,Fr,4,0,2013,11320,Huntingdon,1130
 39,1435408,Cheston Wesson,OF,Fr,1,0,2013,11320,Huntingdon,1130
-4,1317985,Trey Smith,OF,Sr,38,36,2013,11320,Huntingdon,1130
+24,1208908,Hunter Smith,C,Sr,3,1,2013,11320,Huntingdon,1130
 19,1317990,Tyler Spivey,P,So,8,0,2013,11320,Huntingdon,1130
 34,1435406,Cameron Sweat,OF,Jr,9,3,2013,11320,Huntingdon,1130
 45,1435411,Victor Taylor,P,So,0,0,2013,11320,Huntingdon,1130
@@ -46,7 +46,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,1102416,Austin White,SS,Sr,42,42,2013,11320,Huntingdon,1130
 31,1435405,Trey Worthington,P,So,0,0,2013,11320,Huntingdon,1130
 52,1435412,Neil Lawler,P,Jr,24,0,2013,11320,Huntingdon,1130
-24,1208908,Hunter Smith,C,Sr,3,1,2013,11320,Huntingdon,1130
+4,1317985,Trey Smith,OF,Sr,38,36,2013,11320,Huntingdon,1130
 6,1208903,Keegan Lambeth,INF,Sr,34,26,2013,11320,Huntingdon,1130
 14,1446179,Gavin Free,P,Jr,13,12,2013,11320,Huntingdon,1130
 55,1435413,Jarrett Hall,INF,Jr,0,0,2013,11320,Huntingdon,1130
@@ -57,8 +57,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,1317993,Grant Hayes,OF,Jr,1,0,2013,11320,Huntingdon,1130
 9,1317986,Cory Belyeu,P,Sr,14,8,2013,11320,Huntingdon,1130
 10,1208880,Tyler Blackwell,INF,Jr,28,27,2013,11320,Huntingdon,1130
-2,1317984,Grant Brown,DH,Sr,43,43,2013,11320,Huntingdon,1130
 27,1317989,Craig Brown,P,Sr,10,10,2013,11320,Huntingdon,1130
+2,1317984,Grant Brown,DH,Sr,43,43,2013,11320,Huntingdon,1130
 26,1435403,Chris Barrentine,P,Sr,8,5,2013,11320,Huntingdon,1130
 12,1317987,Seth Currie,OF,Sr,40,38,2013,11320,Huntingdon,1130
 36,1317997,Will Davis,P,Jr,2,0,2013,11320,Huntingdon,1130

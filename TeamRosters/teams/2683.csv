@@ -291,8 +291,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,2126425,Jason White,INF,Fr,39,29,2019,14781,Belmont Abbey,2683
 8,1872440,Nolan Wilson,P,Jr,16,0,2019,14781,Belmont Abbey,2683
 18,2126429,Quintin Pittman,P,So,0,0,2020,15204,Belmont Abbey,2683
-24,2334905,Sean Johnson,OF,Jr,25,25,2020,15204,Belmont Abbey,2683
 43,2126451,Blake Johnson,P,Sr,0,0,2020,15204,Belmont Abbey,2683
+24,2334905,Sean Johnson,OF,Jr,25,25,2020,15204,Belmont Abbey,2683
 3,1872433,Ryan Jones,OF,Sr,0,0,2020,15204,Belmont Abbey,2683
 18,2126448,Mitchell Keener,P,Sr,9,1,2020,15204,Belmont Abbey,2683
 39,2334906,Nick Mauer,1B,Fr,10,2,2020,15204,Belmont Abbey,2683
@@ -334,7 +334,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 38,1986162,Jimmy Hartley,P,Sr,0,0,2020,15204,Belmont Abbey,2683
 21,1873512,Sam High,P,Sr,0,0,2020,15204,Belmont Abbey,2683
 7,1872435,Alex Nodarse,P,Sr,0,0,2020,15204,Belmont Abbey,2683
-10,2126427,Zach Aehlert,C,Jr,34,28,2021,15580,Belmont Abbey,2683
+43,2519608,Nic Aehlert,p,N/A,3,0,2021,15580,Belmont Abbey,2683
 27,2494318,Aj Jaworoski,1B,Fr,4,0,2021,15580,Belmont Abbey,2683
 24,2334905,Sean Johnson,OF,Sr,37,37,2021,15580,Belmont Abbey,2683
 18,2126448,Mitchell Keener,P,Sr,12,0,2021,15580,Belmont Abbey,2683
@@ -359,7 +359,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,2126425,Jason White,INF,Jr,10,9,2021,15580,Belmont Abbey,2683
 5,2335922,Michael Hoes,INF,So,0,0,2021,15580,Belmont Abbey,2683
 15,2126428,Andre Hevesy,P,Jr,0,0,2021,15580,Belmont Abbey,2683
-43,2519608,Nic Aehlert,p,N/A,3,0,2021,15580,Belmont Abbey,2683
+10,2126427,Zach Aehlert,C,Jr,34,28,2021,15580,Belmont Abbey,2683
 23,2126420,Collin Andres,C,Sr,0,0,2021,15580,Belmont Abbey,2683
 22,1872412,Griffin Baker,P,Sr,10,8,2021,15580,Belmont Abbey,2683
 4,2126412,Matty Bapt,C,Jr,29,23,2021,15580,Belmont Abbey,2683
@@ -381,9 +381,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,2350101,Luke Hahn,P,So,7,3,2021,15580,Belmont Abbey,2683
 21,1873512,Sam High,P,Sr,11,9,2021,15580,Belmont Abbey,2683
 28,2494320,Jake Williams,1B,Fr,19,4,2021,15580,Belmont Abbey,2683
-10,2126427,Zach Aehlert,C,Sr,51,51,2022,15860,Belmont Abbey,2683
-2,2675858,T. Beck,ss,N/A,2,1,2022,15860,Belmont Abbey,2683
 43,2519608,Nic Aehlert,P,So,21,6,2022,15860,Belmont Abbey,2683
+2,2675858,T. Beck,ss,N/A,2,1,2022,15860,Belmont Abbey,2683
+10,2126427,Zach Aehlert,C,Sr,51,51,2022,15860,Belmont Abbey,2683
 45,2697415,Aengus Adams,ph/3b,So,1,0,2022,15860,Belmont Abbey,2683
 4,2126412,Matty Bapt,C,Sr,19,15,2022,15860,Belmont Abbey,2683
 30,2112155,David Dobson,P,So,3,0,2022,15860,Belmont Abbey,2683
@@ -413,8 +413,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 42,2681910,Reed Marcum,ph/cf,Fr,1,0,2022,15860,Belmont Abbey,2683
 36,2674789,Kai Giro,p,Fr,2,0,2022,15860,Belmont Abbey,2683
 11,2670690,Jake Craddock,P,So,15,0,2022,15860,Belmont Abbey,2683
-5,2494035,Danny Cruz,1B,So,0,0,2022,15860,Belmont Abbey,2683
 44,2126452,Trey Cruz,P,Sr,10,1,2022,15860,Belmont Abbey,2683
+5,2494035,Danny Cruz,1B,So,0,0,2022,15860,Belmont Abbey,2683
 38,2508225,Juan Diaz,ph,Fr,0,0,2022,15860,Belmont Abbey,2683
 26,2667590,Carter Duhaime,OF,Fr,22,7,2022,15860,Belmont Abbey,2683
 5,2496960,Brady Emerson,OF,Fr,31,13,2022,15860,Belmont Abbey,2683

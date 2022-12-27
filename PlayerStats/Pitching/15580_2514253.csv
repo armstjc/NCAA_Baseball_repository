@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,2,2,0,1,0,6,5,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,0,0,03/13/2021,away,15580,347,Lane,9,True,3,18,-15,loss,2029884,332,2514253,2021
+1,0,2.0,0.0,2,0,0,2,3,0,9,7,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,1,0,03/14/2021,away,15580,347,Lane,9,True,10,6,4,win,2029889,332,2514253,2021
+1,0,4.0,0.0,6,8,2,4,4,0,26,20,0,0,0,0,0,2,0,0,0,0,0,83,2,5,0,0,0,2,0,0,03/20/2021,home,15580,720,Tuskegee,9,True,6,16,-10,loss,2062920,332,2514253,2021
+1,0,1.1,0.0,2,4,4,2,2,0,8,6,0,0,0,0,0,0,0,0,0,0,0,33,1,1,0,0,0,4,0,0,04/18/2021,home,15580,30191,Spring Hill,9,True,4,11,-7,loss,2021666,332,2514253,2021

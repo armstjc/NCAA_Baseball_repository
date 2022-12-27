@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,4,2,2,1,0,0,7,6,0,0,0,0,0,0,0,0,0,0,0,34,0,2,0,0,0,4,0,0,02/07/2021,away,15580,30013,Lee,9,True,2,12,-10,loss,2015971,30153,2121499,2021
+1,0,1.0,0.0,1,0,0,1,2,0,6,4,0,0,0,0,1,1,0,0,0,0,0,23,0,1,0,0,0,3,0,0,03/03/2021,home,15580,347,Lane,9,True,24,4,20,win,2054799,30153,2121499,2021
+1,0,1.0,0.0,0,0,0,0,0,0,5,2,0,0,0,0,0,2,0,3,2,0,1,13,1,2,0,0,0,6,0,0,03/06/2021,home,15580,30093,AUM,9,True,7,10,-3,loss,2024415,30153,2121499,2021
+1,0,1.0,0.0,5,6,6,1,2,0,9,8,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,03/28/2021,home,15580,429,Mississippi Col.,9,True,5,18,-13,loss,2024280,30153,2121499,2021

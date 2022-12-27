@@ -62,10 +62,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,1425168,Brad Royer,OF,Sr,44,38,2014,11620,Union  (Gulf South),30153
 21,1425170,Zach Wylie,C,Jr,0,0,2015,12080,Union  (Gulf South),30153
 30,1530461,Teddy Christie,P,So,14,13,2015,12080,Union  (Gulf South),30153
-25,1530470,Andrew Wilson,P,So,17,0,2015,12080,Union  (Gulf South),30153
+44,1530471,Chaz Wilson,C,So,46,46,2015,12080,Union  (Gulf South),30153
 15,1648134,Shane Wilder,OF,So,29,29,2015,12080,Union  (Gulf South),30153
-9,1648133,Ty Warnimont,OF,Fr,32,24,2015,12080,Union  (Gulf South),30153
 1,1530468,Caleb Warnimont,2B,Sr,33,33,2015,12080,Union  (Gulf South),30153
+9,1648133,Ty Warnimont,OF,Fr,32,24,2015,12080,Union  (Gulf South),30153
 10,1530467,Preston Thompson,P,Sr,13,7,2015,12080,Union  (Gulf South),30153
 23,1327776,Hunter Smith,OF,Sr,43,42,2015,12080,Union  (Gulf South),30153
 8,1530466,Davis Shoemaker,SS,So,29,14,2015,12080,Union  (Gulf South),30153
@@ -80,7 +80,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 24,1648107,Marty Coursey,P,Fr,14,12,2015,12080,Union  (Gulf South),30153
 19,1648106,Brady Cook,OF,Fr,46,46,2015,12080,Union  (Gulf South),30153
 3,1425165,Trae Bain,3B,Jr,46,45,2015,12080,Union  (Gulf South),30153
-44,1530471,Chaz Wilson,C,So,46,46,2015,12080,Union  (Gulf South),30153
+25,1530470,Andrew Wilson,P,So,17,0,2015,12080,Union  (Gulf South),30153
 8,1763470,Mick Atchley,INF,Fr,0,0,2016,12360,Union  (Gulf South),30153
 9,1763471,Charlie Ellis,OF,Fr,21,3,2016,12360,Union  (Gulf South),30153
 25,1530470,Andrew Wilson,P,Jr,21,0,2016,12360,Union  (Gulf South),30153
@@ -200,7 +200,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,1866199,Tyler Thomas,INF,Jr,30,22,2019,14781,Union  (Gulf South),30153
 22,1763477,Cooper Thompson,OF,Jr,0,0,2019,14781,Union  (Gulf South),30153
 34,2121514,Spencer Woods,P,Jr,15,1,2019,14781,Union  (Gulf South),30153
-7,1866199,Tyler Thomas,INF,Sr,17,14,2020,15204,Union  (Gulf South),30153
+26,2328174,Dylan Thomas,P,Fr,1,0,2020,15204,Union  (Gulf South),30153
 14,2121488,Brandon Maxwell,P,Sr,5,5,2020,15204,Union  (Gulf South),30153
 1,1985476,Sam Mcmillin,P,Jr,9,0,2020,15204,Union  (Gulf South),30153
 12,1990344,Ryan Mets,P,Sr,6,6,2020,15204,Union  (Gulf South),30153
@@ -228,7 +228,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,2328100,Andrey Arnett,P,Jr,7,0,2020,15204,Union  (Gulf South),30153
 11,2121493,Walker Adkisson,P,So,6,6,2020,15204,Union  (Gulf South),30153
 3,2328060,Austin Hefner,UT,Jr,3,0,2020,15204,Union  (Gulf South),30153
-26,2328174,Dylan Thomas,P,Fr,1,0,2020,15204,Union  (Gulf South),30153
+7,1866199,Tyler Thomas,INF,Sr,17,14,2020,15204,Union  (Gulf South),30153
 23,1985474,Josh Bozoian,OF,Sr,36,36,2021,15580,Union  (Gulf South),30153
 1,1985476,Sam Mcmillin,P,Sr,10,10,2021,15580,Union  (Gulf South),30153
 26,2463849,Ryan Middleton,P,So,16,0,2021,15580,Union  (Gulf South),30153

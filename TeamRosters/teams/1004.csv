@@ -264,7 +264,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2140062,Beau Orlando,INF,Jr,56,56,2019,14781,Central Ark.,1004
 34,2140067,Marco Navarro,OF,Jr,36,35,2019,14781,Central Ark.,1004
 40,2140128,Hunter Hicks,INF,Fr,13,1,2019,14781,Central Ark.,1004
-37,2140092,Wren Williams,C,Fr,0,0,2019,14781,Central Ark.,1004
+24,1766510,Conner Williams,P,Sr,22,0,2019,14781,Central Ark.,1004
 23,2140065,Josh Ragan,OF,Jr,59,56,2019,14781,Central Ark.,1004
 20,2140084,Gavin Heltemes,P,Jr,4,0,2019,14781,Central Ark.,1004
 12,1766500,Mark Moyer,P,Jr,14,11,2019,14781,Central Ark.,1004
@@ -282,7 +282,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 3,2140054,Joshmar Doran,INF,Jr,41,38,2019,14781,Central Ark.,1004
 4,2140000,Cole Fiori,INF,Jr,35,29,2019,14781,Central Ark.,1004
 32,1997461,Logan Gilbertson,P,So,7,5,2019,14781,Central Ark.,1004
-24,1766510,Conner Williams,P,Sr,22,0,2019,14781,Central Ark.,1004
+37,2140092,Wren Williams,C,Fr,0,0,2019,14781,Central Ark.,1004
 1,2140053,Kolby Johnson,OF,Fr,51,43,2019,14781,Central Ark.,1004
 33,2344236,Cole Halpin,P,Jr,1,1,2020,15204,Central Ark.,1004
 34,2344232,Cole Alexander,OF,Fr,4,1,2020,15204,Central Ark.,1004
@@ -352,8 +352,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,2140082,Brad Verel,P,Sr,16,0,2021,15580,Central Ark.,1004
 38,2140093,Grant Plunkett,C,Fr,0,0,2021,15580,Central Ark.,1004
 3,1990927,Rj Pearson,INF,Jr,37,35,2021,15580,Central Ark.,1004
-47,2472673,Avery Williams,INF,Fr,0,0,2021,15580,Central Ark.,1004
 24,1766510,Conner Williams,P,Sr,19,6,2021,15580,Central Ark.,1004
+47,2472673,Avery Williams,INF,Fr,0,0,2021,15580,Central Ark.,1004
 44,2344583,Cade White,INF,Fr,1,0,2021,15580,Central Ark.,1004
 11,2140089,Brady Walker,P,Fr,0,0,2021,15580,Central Ark.,1004
 10,2140062,Beau Orlando,INF,Sr,39,30,2021,15580,Central Ark.,1004

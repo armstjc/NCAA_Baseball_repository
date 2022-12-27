@@ -270,7 +270,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,1872824,Griffin Roe,P,So,9,8,2018,12973,West Va. Wesleyan,9630
 49,1871175,Ryan Estay,3B,So,0,0,2018,12973,West Va. Wesleyan,9630
 48,1872833,Collin Finke,C,So,0,0,2018,12973,West Va. Wesleyan,9630
-44,2007785,Kyle Riggleman,P,So,11,1,2019,14781,West Va. Wesleyan,9630
+36,1872826,Ian Riggleman,P,Jr,0,0,2019,14781,West Va. Wesleyan,9630
 53,1872835,Spencer Rodgers,OF,Jr,0,0,2019,14781,West Va. Wesleyan,9630
 34,1872824,Griffin Roe,P,Jr,12,11,2019,14781,West Va. Wesleyan,9630
 35,2136437,William Rosa,3B,So,1,1,2019,14781,West Va. Wesleyan,9630
@@ -279,7 +279,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2157186,David Sanders,2b,N/A,1,0,2019,14781,West Va. Wesleyan,9630
 43,1872829,Lake Sankey,OF,Sr,0,0,2019,14781,West Va. Wesleyan,9630
 10,2007330,C Scheitzach,P,So,0,0,2019,14781,West Va. Wesleyan,9630
-36,1872826,Ian Riggleman,P,Jr,0,0,2019,14781,West Va. Wesleyan,9630
+44,2007785,Kyle Riggleman,P,So,11,1,2019,14781,West Va. Wesleyan,9630
 24,1758265,Alex Skinner,OF,Sr,34,28,2019,14781,West Va. Wesleyan,9630
 38,1637643,Brandon Stratton,1B,Jr,0,0,2019,14781,West Va. Wesleyan,9630
 37,2007761,Tbrine,P,So,0,0,2019,14781,West Va. Wesleyan,9630
@@ -337,8 +337,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,2318833,Alec Tamburri,UT,Fr,5,0,2020,15204,West Va. Wesleyan,9630
 35,2318865,Fox Wagner,1B,Jr,3,3,2020,15204,West Va. Wesleyan,9630
 26,2318838,Andrew Walker,INF,Jr,4,4,2020,15204,West Va. Wesleyan,9630
-21,2157223,Trahern White,OF,Jr,0,0,2020,15204,West Va. Wesleyan,9630
 31,2318862,Luke White,P,Fr,2,0,2020,15204,West Va. Wesleyan,9630
+21,2157223,Trahern White,OF,Jr,0,0,2020,15204,West Va. Wesleyan,9630
 11,2136328,Leo White,OF,Jr,10,9,2020,15204,West Va. Wesleyan,9630
 30,1872820,Kolby Wolf,OF,Sr,6,3,2020,15204,West Va. Wesleyan,9630
 7,2318785,Geovani Sostre,UT,Jr,9,7,2020,15204,West Va. Wesleyan,9630
@@ -347,8 +347,8 @@ x,2318877,Dharyl Moon,OF,Fr,0,0,2020,15204,West Va. Wesleyan,9630
 43,2007780,Tanner Mccallister,INF,Jr,11,10,2020,15204,West Va. Wesleyan,9630
 20,2136326,Noah Birthisel,OF,So,0,0,2020,15204,West Va. Wesleyan,9630
 x,2005901,Logan Brouwer,P,So,0,0,2020,15204,West Va. Wesleyan,9630
-23,2158991,Todd Burner,INF,So,9,8,2020,15204,West Va. Wesleyan,9630
 27,2318861,Luke Burner,UT,Fr,8,6,2020,15204,West Va. Wesleyan,9630
+23,2158991,Todd Burner,INF,So,9,8,2020,15204,West Va. Wesleyan,9630
 15,2318835,Mitchell Courtney,P,Jr,4,3,2020,15204,West Va. Wesleyan,9630
 3,2005896,Adrian Delgado,C,Jr,14,14,2020,15204,West Va. Wesleyan,9630
 9,2007319,Bryson Fluke,OF,Sr,10,10,2020,15204,West Va. Wesleyan,9630

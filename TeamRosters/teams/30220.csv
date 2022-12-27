@@ -92,13 +92,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 28,2119192,Kenny Carillo,P,Jr,4,4,2020,15204,Biola,30220
 1,1997099,Cole Beemer,2B,Jr,11,7,2020,15204,Biola,30220
 18,2306336,Rylan Greenlee,OF,So,10,6,2020,15204,Biola,30220
-32,2306337,Carson Cody,P,Fr,0,0,2020,15204,Biola,30220
+12,1992384,Brandon Cody,OF,Jr,4,4,2020,15204,Biola,30220
 22,1993340,Jackson Collins,1B,Jr,8,7,2020,15204,Biola,30220
 23,1997007,Robertanthony Cruz,INF,Jr,14,14,2020,15204,Biola,30220
 3,2119169,Brayden Englert,P,So,2,1,2020,15204,Biola,30220
 44,2333382,Ryan Flippo,p,Fr,1,0,2020,15204,Biola,30220
 13,2119168,Michael Fritchman,OF,So,1,0,2020,15204,Biola,30220
-12,1992384,Brandon Cody,OF,Jr,4,4,2020,15204,Biola,30220
+32,2306337,Carson Cody,P,Fr,0,0,2020,15204,Biola,30220
 55,2119196,Jonathan Robinson,P,So,0,0,2021,15580,Biola,30220
 34,2119194,Zach Reitmeyer,P,So,0,0,2021,15580,Biola,30220
 24,1992388,Jacob Portaro,3B,Sr,31,30,2021,15580,Biola,30220
@@ -108,7 +108,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,2519352,Evan Rowe,lf,N/A,12,9,2021,15580,Biola,30220
 16,1992407,Tyler Piston,1B,Sr,0,0,2021,15580,Biola,30220
 17,2119190,Tyler Mead,P,Jr,13,0,2021,15580,Biola,30220
-5,2119186,Caleb Watson,C,Jr,9,3,2021,15580,Biola,30220
+15,2519385,Matthew Watson,p,N/A,5,2,2021,15580,Biola,30220
 9,1998102,Ben Smith,C,Sr,26,22,2021,15580,Biola,30220
 48,2333365,Mark Stanford,3b,Sr,0,0,2021,15580,Biola,30220
 13,2520420,Rhett Stein,c,N/A,13,8,2021,15580,Biola,30220
@@ -116,7 +116,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,1999886,Anthony Villegas,P,Sr,0,0,2021,15580,Biola,30220
 21,2520436,Keith Walker,p,N/A,10,1,2021,15580,Biola,30220
 8,2306334,Gilbert Lopez,INF,So,14,5,2021,15580,Biola,30220
-15,2519385,Matthew Watson,p,N/A,5,2,2021,15580,Biola,30220
+5,2119186,Caleb Watson,C,Jr,9,3,2021,15580,Biola,30220
 1,2519360,Tyler White,ss,N/A,24,20,2021,15580,Biola,30220
 31,2522951,Jeff Woolson,p,N/A,2,0,2021,15580,Biola,30220
 16,2519353,Johnny Sage,cf,N/A,33,32,2021,15580,Biola,30220

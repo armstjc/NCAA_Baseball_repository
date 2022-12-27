@@ -266,7 +266,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,1980681,Austin Todd,P,Jr,14,11,2019,14781,Anderson  (SAC),13028
 31,1980654,Will Gee,P,Sr,12,12,2019,14781,Anderson  (SAC),13028
 36,1980657,Britt Thomas,P,So,0,0,2019,14781,Anderson  (SAC),13028
-15,1755716,Joseph Strange,C,Jr,25,25,2019,14781,Anderson  (SAC),13028
+4,1755714,Jackson Strange,INF,Sr,50,50,2019,14781,Anderson  (SAC),13028
 38,2126781,Jacob Kohns,INF,Fr,26,10,2019,14781,Anderson  (SAC),13028
 6,1980649,Will Lindsey,INF,So,39,38,2019,14781,Anderson  (SAC),13028
 35,2126760,Zach Mcclure,P,Fr,0,0,2019,14781,Anderson  (SAC),13028
@@ -282,7 +282,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,2126766,Lucas Smith,P,Fr,16,2,2019,14781,Anderson  (SAC),13028
 32,1980655,Matthew Stanley,P,Sr,8,4,2019,14781,Anderson  (SAC),13028
 8,1980650,Chase Stephens,INF,So,18,10,2019,14781,Anderson  (SAC),13028
-4,1755714,Jackson Strange,INF,Sr,50,50,2019,14781,Anderson  (SAC),13028
+15,1755716,Joseph Strange,C,Jr,25,25,2019,14781,Anderson  (SAC),13028
 42,1980691,Davis Goodyear,C,So,5,0,2019,14781,Anderson  (SAC),13028
 21,2126755,Gage Gambrell,P,Fr,9,1,2019,14781,Anderson  (SAC),13028
 25,2126767,Cameron Hall,P,So,21,0,2019,14781,Anderson  (SAC),13028
@@ -332,8 +332,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 38,2328986,Jackson Dempsey,P,Fr,5,0,2021,15580,Anderson  (SAC),13028
 10,1980670,Trevor Weisner,INF,Sr,24,20,2021,15580,Anderson  (SAC),13028
 19,2126781,Jacob Kohns,INF,Jr,37,35,2021,15580,Anderson  (SAC),13028
-32,2329026,Nathan Ledford,P,So,2,0,2021,15580,Anderson  (SAC),13028
 26,2488714,Nathan Ledford,P,So,0,0,2021,15580,Anderson  (SAC),13028
+32,2329026,Nathan Ledford,P,So,2,0,2021,15580,Anderson  (SAC),13028
 6,1980649,Will Lindsey,INF,Sr,16,8,2021,15580,Anderson  (SAC),13028
 13,2488710,Sebastian Martinez,P,Sr,9,2,2021,15580,Anderson  (SAC),13028
 48,2488730,Will Mcswain,P,Jr,12,4,2021,15580,Anderson  (SAC),13028
@@ -348,9 +348,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2488711,Kevin Sosa,INF,Fr,19,15,2021,15580,Anderson  (SAC),13028
 29,2329017,Ethan Stallnecker,P,So,6,5,2021,15580,Anderson  (SAC),13028
 4,2488707,Jackson Van Ness,OF,Fr,8,2,2021,15580,Anderson  (SAC),13028
-41,2488722,Kaleb King,P,Fr,7,0,2021,15580,Anderson  (SAC),13028
-43,2488724,Ivan  Jr. Vanbeverhoudt,P,Fr,3,0,2021,15580,Anderson  (SAC),13028
 50,2488731,Kolby King,OF,Fr,0,0,2021,15580,Anderson  (SAC),13028
+43,2488724,Ivan  Jr. Vanbeverhoudt,P,Fr,3,0,2021,15580,Anderson  (SAC),13028
+41,2488722,Kaleb King,P,Fr,7,0,2021,15580,Anderson  (SAC),13028
 16,2328961,Landon Henley,P,Fr,9,0,2021,15580,Anderson  (SAC),13028
 7,2126751,Cody Adams,OF,Sr,33,32,2021,15580,Anderson  (SAC),13028
 12,1980651,Tyler Berry,C,Sr,29,26,2021,15580,Anderson  (SAC),13028
@@ -390,7 +390,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,2668585,Luke Poole,OF,Jr,16,6,2022,15860,Anderson  (SAC),13028
 3,2668558,William Laffin,INF,Jr,16,11,2022,15860,Anderson  (SAC),13028
 11,2488714,Nathan Ledford,P,Jr,19,4,2022,15860,Anderson  (SAC),13028
-41,2488722,Kaleb King,P,So,13,0,2022,15860,Anderson  (SAC),13028
+50,2488731,Kolby King,OF,So,1,0,2022,15860,Anderson  (SAC),13028
 45,2329041,Colin Belvin,OF,Jr,1,0,2022,15860,Anderson  (SAC),13028
 12,1980651,Tyler Berry,C,Sr,13,3,2022,15860,Anderson  (SAC),13028
 32,2328965,Ryan Brash,C,Jr,10,0,2022,15860,Anderson  (SAC),13028
@@ -405,7 +405,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,2668573,Carlos Hernandez,C,Jr,45,45,2022,15860,Anderson  (SAC),13028
 10,2668565,Jackson Herring,P,Jr,21,0,2022,15860,Anderson  (SAC),13028
 21,2488712,Andrew Imperatore,P,So,15,12,2022,15860,Anderson  (SAC),13028
-50,2488731,Kolby King,OF,So,1,0,2022,15860,Anderson  (SAC),13028
+41,2488722,Kaleb King,P,So,13,0,2022,15860,Anderson  (SAC),13028
 18,2328969,Drew Hallgren,P,Jr,0,0,2022,15860,Anderson  (SAC),13028
 4,2488707,Jackson Van Ness,OF,6-0,Jr,0,2023,16340,Anderson  (SAC),13028
 7,2668561,Kye Andress,INF,6-2,Sr,0,2023,16340,Anderson  (SAC),13028

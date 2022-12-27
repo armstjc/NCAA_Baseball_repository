@@ -237,9 +237,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,2134520,Roderick Hammond,P,Fr,7,0,2019,14781,Alcorn,17
 34,1991165,Hunter Wilson,INF,Sr,0,0,2019,14781,Alcorn,17
 1,2134537,Micah Walker,INF,Jr,25,19,2019,14781,Alcorn,17
-5,1879610,Tyler Smith,P,Sr,12,5,2019,14781,Alcorn,17
-13,2134533,Jaden Smith,INF,Fr,33,29,2019,14781,Alcorn,17
 28,1879609,Joe Smith,P,Sr,11,0,2019,14781,Alcorn,17
+13,2134533,Jaden Smith,INF,Fr,33,29,2019,14781,Alcorn,17
+5,1879610,Tyler Smith,P,Sr,12,5,2019,14781,Alcorn,17
 22,2134527,Abdallah Salman,P,Jr,16,2,2019,14781,Alcorn,17
 18,2134531,Brandon Rembert,OF,Jr,41,39,2019,14781,Alcorn,17
 15,1879607,Zachary Perez,C,Sr,7,0,2019,14781,Alcorn,17
@@ -259,9 +259,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,2134530,Travaris Cole,OF,Sr,12,12,2020,15204,Alcorn,17
 26,1991160,Kyle Jenkins,C,Sr,11,11,2020,15204,Alcorn,17
 1,2134537,Micah Walker,INF,Sr,5,4,2020,15204,Alcorn,17
+28,1879609,Joe Smith,P,Sr,5,1,2020,15204,Alcorn,17
 5,1879610,Tyler Smith,UT,Sr,3,0,2020,15204,Alcorn,17
 13,2134533,Jaden Smith,INF,So,6,5,2020,15204,Alcorn,17
-28,1879609,Joe Smith,P,Sr,5,1,2020,15204,Alcorn,17
 8,2307373,Konnor Short,P,So,0,0,2020,15204,Alcorn,17
 18,2134531,Brandon Rembert,OF,Sr,12,12,2020,15204,Alcorn,17
 2,2312016,Christopher Pittman,OF,Jr,0,0,2020,15204,Alcorn,17
@@ -308,9 +308,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2510462,Raylan Wagner,p,Fr,10,1,2021,15580,Alcorn,17
 2,2312016,Christopher Pittman,OF,Sr,0,0,2021,15580,Alcorn,17
 28,1879609,Joe Smith,P,Sr,10,0,2021,15580,Alcorn,17
-31,2510461,Khalil Smith,cf,Fr,25,25,2021,15580,Alcorn,17
-8,2307373,Konnor Short,P,Jr,1,0,2021,15580,Alcorn,17
 5,1879610,Tyler Smith,UT,Sr,25,25,2021,15580,Alcorn,17
+8,2307373,Konnor Short,P,Jr,1,0,2021,15580,Alcorn,17
+31,2510461,Khalil Smith,cf,Fr,25,25,2021,15580,Alcorn,17
 16,2674479,Clayvonje Wright,OF,Fr,28,22,2022,15860,Alcorn,17
 33,2674465,Rodney Walker,OF,So,5,1,2022,15860,Alcorn,17
 29,2674468,Ire Tolbert,OF,Fr,12,4,2022,15860,Alcorn,17

@@ -219,8 +219,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,1779028,Kellen Larkin,P,Jr,5,0,2019,14781,UVA Wise,30181
 34,1783558,Justin Leary,P,Jr,0,0,2019,14781,UVA Wise,30181
 23,1659442,Brett Yates,INF,Jr,52,52,2019,14781,UVA Wise,30181
-35,1999331,Gabe Wurtz,RF,Sr,11,11,2019,14781,UVA Wise,30181
 26,1995506,Gabe Wurtz,P,So,6,0,2019,14781,UVA Wise,30181
+35,1999331,Gabe Wurtz,RF,Sr,11,11,2019,14781,UVA Wise,30181
 9,2136398,Isaac Whitehead,ss,Fr,5,4,2019,14781,UVA Wise,30181
 40,1990954,Rj Vanvickle,P,So,15,12,2019,14781,UVA Wise,30181
 45,1994526,Jimmy Vanosdale,P,So,10,1,2019,14781,UVA Wise,30181
@@ -250,8 +250,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,2136397,Tristan Peccerelli,3B,Sr,18,18,2020,15204,UVA Wise,30181
 16,2334911,Caleb Pritchard,C,Fr,4,1,2020,15204,UVA Wise,30181
 14,2141622,Bret Roberts,2B,So,21,21,2020,15204,UVA Wise,30181
-30,2331949,Michael Smith,1B,Fr,1,0,2020,15204,UVA Wise,30181
 37,2122004,Christian Smith,P,Jr,1,0,2020,15204,UVA Wise,30181
+30,2331949,Michael Smith,1B,Fr,1,0,2020,15204,UVA Wise,30181
 5,1884066,Will Stamper,P,Sr,3,3,2020,15204,UVA Wise,30181
 29,2141696,Garrett Stiltner,P,So,6,2,2020,15204,UVA Wise,30181
 40,2331953,Blake Stinson,UT,Fr,1,0,2020,15204,UVA Wise,30181
@@ -271,8 +271,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,2143749,Jeremiah Ball,P,So,4,0,2020,15204,UVA Wise,30181
 17,1880261,Tyler Blaum,C,Jr,21,21,2020,15204,UVA Wise,30181
 20,1881645,Dawson Cagle,3B,Sr,17,17,2020,15204,UVA Wise,30181
-12,2334910,Shawn Campbell,P,Fr,7,4,2020,15204,UVA Wise,30181
 4,2331918,Tyler Campbell,1B,Jr,16,13,2020,15204,UVA Wise,30181
+12,2334910,Shawn Campbell,P,Fr,7,4,2020,15204,UVA Wise,30181
 24,1881655,Matthew Branham,RF,Sr,19,19,2020,15204,UVA Wise,30181
 18,2136396,Ethan Fletcher,OF,Jr,19,18,2020,15204,UVA Wise,30181
 36,2136367,Tyler Hayes,UT,So,9,0,2020,15204,UVA Wise,30181
@@ -302,8 +302,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,2468410,Camden Bartee,P,Fr,10,0,2021,15580,UVA Wise,30181
 11,2128834,James Balogh,P,So,4,0,2021,15580,UVA Wise,30181
 8,2466436,Hunter Anderson,P,Fr,12,2,2021,15580,UVA Wise,30181
-9,2466442,Seth Adams,P,Fr,8,0,2021,15580,UVA Wise,30181
 27,2110652,Clark Adams,P,So,5,0,2021,15580,UVA Wise,30181
+9,2466442,Seth Adams,P,Fr,8,0,2021,15580,UVA Wise,30181
 34,2468446,Justin Reed,3B,Fr,14,7,2021,15580,UVA Wise,30181
 4,2468415,Jackson Gay,C,Fr,6,3,2021,15580,UVA Wise,30181
 14,2141622,Bret Roberts,2B,So,19,18,2021,15580,UVA Wise,30181

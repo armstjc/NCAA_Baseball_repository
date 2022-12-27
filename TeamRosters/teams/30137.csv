@@ -232,7 +232,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,1884771,Nate Cobb,OF,Jr,0,0,2019,14781,Malone,30137
 25,1999534,Clay Cooper,P,So,22,0,2019,14781,Malone,30137
 48,2143919,Ivan Zamora,OF,Fr,7,0,2019,14781,Malone,30137
-8,1773686,Braun Miller,P,Jr,3,3,2019,14781,Malone,30137
+34,2143853,Danny Miller,P,Fr,1,0,2019,14781,Malone,30137
 44,2143916,Tyler Mckee,P,Fr,7,0,2019,14781,Malone,30137
 18,1999546,Mitch Massaro,OF,Fr,13,9,2019,14781,Malone,30137
 1,1884758,Kyle Kovach,P,Jr,2,0,2019,14781,Malone,30137
@@ -249,12 +249,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,1884767,Tom Eslich,C,Sr,0,0,2019,14781,Malone,30137
 45,1884792,Trey Davis,C,Jr,11,5,2019,14781,Malone,30137
 12,1773680,Joe Crank,SS,Sr,3,3,2019,14781,Malone,30137
-34,2143853,Danny Miller,P,Fr,1,0,2019,14781,Malone,30137
+8,1773686,Braun Miller,P,Jr,3,3,2019,14781,Malone,30137
 11,1650635,Shawn Mills,P,Jr,2,1,2019,14781,Malone,30137
 56,2143854,Manny Miranda,INF,Fr,0,0,2019,14781,Malone,30137
-5,1999539,Jake Mottice,OF,So,50,50,2019,14781,Malone,30137
-22,1773685,Clyde Yoder,P,So,13,12,2019,14781,Malone,30137
+10,1999535,Cade Mottice,INF,Fr,44,34,2019,14781,Malone,30137
 52,1999557,Bryan Yoder,C,Fr,21,19,2019,14781,Malone,30137
+22,1773685,Clyde Yoder,P,So,13,12,2019,14781,Malone,30137
 9,1999545,Clay Wisner,INF,So,43,41,2019,14781,Malone,30137
 3,1999548,Alex Widmer,P,So,4,1,2019,14781,Malone,30137
 16,1650647,Austin White,3B,Sr,50,50,2019,14781,Malone,30137
@@ -269,8 +269,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 50,1999553,Taylor Reynolds,3B,So,1,0,2019,14781,Malone,30137
 38,1773691,Matt Noel,C,Sr,51,51,2019,14781,Malone,30137
 6,1884765,Eric Mullet,P,Jr,14,13,2019,14781,Malone,30137
+5,1999539,Jake Mottice,OF,So,50,50,2019,14781,Malone,30137
 4,1884788,Zach Mottice,INF,Jr,51,48,2019,14781,Malone,30137
-10,1999535,Cade Mottice,INF,Fr,44,34,2019,14781,Malone,30137
 24,1773689,Anthony Stillwagon,P,Sr,8,1,2019,14781,Malone,30137
 19,2143912,Doug Belanger,C,Fr,1,0,2019,14781,Malone,30137
 3,1999548,Alex Widmer,P,Jr,0,0,2020,15204,Malone,30137

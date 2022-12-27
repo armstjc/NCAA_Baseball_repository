@@ -79,7 +79,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 37,1537469,Shane Richins,INF,Jr,41,34,2014,11620,CSU Pueblo,2720
 12,1537447,Doug Finley,P,Jr,22,0,2014,11620,CSU Pueblo,2720
 3,1537466,Chris Ramsey,OF,Jr,33,13,2014,11620,CSU Pueblo,2720
-29,1537465,Mike Ortiz,3B,Jr,1,1,2014,11620,CSU Pueblo,2720
+43,1312995,J.J. Ortiz,OF,Jr,34,8,2014,11620,CSU Pueblo,2720
 19,1427628,Branden Mondragon,3B,Fr,23,2,2014,11620,CSU Pueblo,2720
 36,1427627,Kevin Megyeri,P,So,0,0,2014,11620,CSU Pueblo,2720
 35,1312992,Ryan Masterson,P,Jr,4,0,2014,11620,CSU Pueblo,2720
@@ -90,7 +90,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,1427621,Scott Hoyt,OF,Sr,49,49,2014,11620,CSU Pueblo,2720
 41,1537449,Ryan Hernandez,P,Fr,0,0,2014,11620,CSU Pueblo,2720
 11,1537448,Derek Goodwin,C,Jr,34,8,2014,11620,CSU Pueblo,2720
-43,1312995,J.J. Ortiz,OF,Jr,34,8,2014,11620,CSU Pueblo,2720
+29,1537465,Mike Ortiz,3B,Jr,1,1,2014,11620,CSU Pueblo,2720
 25,1427634,Nathan Smith,P,Sr,6,0,2014,11620,CSU Pueblo,2720
 33,1657519,Zac Wittmus,P,N/A,15,15,2015,12080,CSU Pueblo,2720
 45,1657516,Jake Berg-Rosenblatt,1B,Jr,25,2,2015,12080,CSU Pueblo,2720
@@ -260,9 +260,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,1988080,Chris Douglas,P,Sr,7,5,2019,14781,CSU Pueblo,2720
 18,1988074,Robbie Espinosa,OF,Sr,41,15,2019,14781,CSU Pueblo,2720
 43,2129323,Gary Fayard,P,Jr,4,0,2019,14781,CSU Pueblo,2720
-45,2129307,Ian Garcia,OF,So,0,0,2019,14781,CSU Pueblo,2720
-41,1988099,Jacob Garcia,P,So,0,0,2019,14781,CSU Pueblo,2720
 40,2129300,Javy Garcia,OF,So,0,0,2019,14781,CSU Pueblo,2720
+41,1988099,Jacob Garcia,P,So,0,0,2019,14781,CSU Pueblo,2720
+45,2129307,Ian Garcia,OF,So,0,0,2019,14781,CSU Pueblo,2720
 47,2129308,Logan Gibbons,OF,Jr,40,6,2019,14781,CSU Pueblo,2720
 39,2129304,Andrew Coverly,P,Jr,22,0,2019,14781,CSU Pueblo,2720
 6,1988067,Timmy Burtzloff,P,Sr,19,0,2019,14781,CSU Pueblo,2720
@@ -334,7 +334,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,2129278,Zac Hanenberg,UT,So,5,0,2020,15204,CSU Pueblo,2720
 2,2129259,Kodee Martin,INF,Sr,2,2,2020,15204,CSU Pueblo,2720
 11,2336549,Mike Gonzalez,UT,Jr,20,18,2021,15580,CSU Pueblo,2720
-40,2336548,Cole Martin,P,Jr,6,0,2021,15580,CSU Pueblo,2720
+2,2129259,Kodee Martin,INF,Sr,33,32,2021,15580,CSU Pueblo,2720
 25,2129301,Adrian Martinez,OF,Sr,39,39,2021,15580,CSU Pueblo,2720
 21,2129290,Brett Matthews,P,Sr,9,9,2021,15580,CSU Pueblo,2720
 50,2336551,Tim Mcintyre,P,Jr,10,2,2021,15580,CSU Pueblo,2720
@@ -355,7 +355,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,2129325,Emilio Martinez,INF,Sr,14,1,2021,15580,CSU Pueblo,2720
 26,1988037,Aidan Welch,SS,Jr,39,38,2021,15580,CSU Pueblo,2720
 13,2129275,Reggie Williams,INF,So,35,35,2021,15580,CSU Pueblo,2720
-2,2129259,Kodee Martin,INF,Sr,33,32,2021,15580,CSU Pueblo,2720
+40,2336548,Cole Martin,P,Jr,6,0,2021,15580,CSU Pueblo,2720
 34,2129296,Daniel Abiles,C,Sr,25,17,2021,15580,CSU Pueblo,2720
 3,2129289,Easton Adler,OF,Sr,0,0,2021,15580,CSU Pueblo,2720
 4,2336439,Cody Beck,INF,Jr,8,3,2021,15580,CSU Pueblo,2720
@@ -390,8 +390,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18,2336540,Manny Sierra,C,Sr,21,17,2022,15860,CSU Pueblo,2720
 25,2651801,Dylan Weaver,P,So,18,0,2022,15860,CSU Pueblo,2720
 51,2651802,Frank Wierman,P,Fr,15,0,2022,15860,CSU Pueblo,2720
-3,2651774,Charlie Williams,P,So,14,2,2022,15860,CSU Pueblo,2720
 13,2129275,Reggie Williams,INF,Jr,53,51,2022,15860,CSU Pueblo,2720
+3,2651774,Charlie Williams,P,So,14,2,2022,15860,CSU Pueblo,2720
 6,2472130,Brodie Blackford,3B,So,20,5,2022,15860,CSU Pueblo,2720
 21,2472132,Nick Parisi,P,So,1,0,2022,15860,CSU Pueblo,2720
 38,2651791,Tyson Pallatt,OF,Fr,32,29,2022,15860,CSU Pueblo,2720

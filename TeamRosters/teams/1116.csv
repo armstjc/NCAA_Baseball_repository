@@ -204,8 +204,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 24,1874225,Miles Humphreys,OF,So,27,19,2018,12973,Harding,1116
 20,1978286,Nolan Fertig,OF,Jr,47,46,2018,12973,Harding,1116
 9,2112297,Kaden Kirby,P,Fr,13,5,2019,14781,Harding,1116
-11,2112299,Carter Mccall,P,Fr,2,0,2019,14781,Harding,1116
 30,1874228,Logan Mccall,P,Jr,15,14,2019,14781,Harding,1116
+11,2112299,Carter Mccall,P,Fr,2,0,2019,14781,Harding,1116
 32,1874229,Connor Mcvay,P,Sr,0,0,2019,14781,Harding,1116
 6,1756871,Matt Sherry,P,Sr,8,2,2019,14781,Harding,1116
 14,1999625,Brendan Perrett,C,So,50,44,2019,14781,Harding,1116
@@ -246,8 +246,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,1756870,Brooks Pitaniello,INF,Sr,8,2,2020,15204,Harding,1116
 14,1999625,Brendan Perrett,C,Jr,18,18,2020,15204,Harding,1116
 1,2328416,Drew Mcneel,INF,Fr,2,0,2020,15204,Harding,1116
-11,2112299,Carter Mccall,P,So,8,1,2020,15204,Harding,1116
 30,1874228,Logan Mccall,P,Sr,6,6,2020,15204,Harding,1116
+11,2112299,Carter Mccall,P,So,8,1,2020,15204,Harding,1116
 6,2328414,Owen Martin,OF,Jr,20,19,2020,15204,Harding,1116
 26,2328421,Brent Southerland,P,Jr,9,0,2020,15204,Harding,1116
 12,1874221,Connor Kelly,INF,Sr,24,24,2020,15204,Harding,1116
@@ -285,9 +285,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,2328414,Owen Martin,OF,Sr,16,6,2021,15580,Harding,1116
 8,2328403,Michael Dewald,INF,So,1,0,2021,15580,Harding,1116
 38,2328310,Thomas Barbara,P,Sr,2,0,2021,15580,Harding,1116
-11,2112299,Carter Mccall,P,Jr,12,3,2021,15580,Harding,1116
-1,2328416,Drew Mcneel,INF,So,3,0,2021,15580,Harding,1116
 30,1874228,Logan Mccall,P,Sr,11,6,2021,15580,Harding,1116
+1,2328416,Drew Mcneel,INF,So,3,0,2021,15580,Harding,1116
+11,2112299,Carter Mccall,P,Jr,12,3,2021,15580,Harding,1116
 32,2112319,Ryder Yakel,P,Sr,15,3,2021,15580,Harding,1116
 15,2328426,Chris Witzke,P,Sr,41,41,2021,15580,Harding,1116
 25,2112334,Zak Whitis,C,Jr,10,1,2021,15580,Harding,1116

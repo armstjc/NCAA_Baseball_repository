@@ -233,10 +233,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2122386,John Macdonald,P,Fr,14,6,2019,14781,Bryant,81
 19,1982749,Tyler Mattison,P,So,15,15,2019,14781,Bryant,81
 8,1869728,Vito Morgese,P,Jr,8,8,2019,14781,Bryant,81
-9,1757101,Jack Owens,P,Jr,20,0,2019,14781,Bryant,81
+20,1982811,Sam Owens,INF,So,54,47,2019,14781,Bryant,81
 21,2122384,Brian Nicolas,INF,Fr,41,29,2019,14781,Bryant,81
 25,1982809,Shane Kelly,OF,So,44,31,2019,14781,Bryant,81
-20,1982811,Sam Owens,INF,So,54,47,2019,14781,Bryant,81
+9,1757101,Jack Owens,P,Jr,20,0,2019,14781,Bryant,81
 28,1982810,Nick Mulligan,C,So,9,0,2019,14781,Bryant,81
 34,1869726,Jack Ipsen,P,Jr,21,0,2019,14781,Bryant,81
 40,1757105,Nathan Wrighter,P,Sr,26,4,2019,14781,Bryant,81
@@ -337,8 +337,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 45,2679534,Kyle Rizy,P,Fr,15,1,2022,15860,Bryant,81
 0,2465288,Damaurys Rodriguez,C,So,25,24,2022,15860,Bryant,81
 42,2310604,Sam Sinisgalli,C,Jr,8,0,2022,15860,Bryant,81
-11,2310576,Derek Smith,OF,Jr,54,54,2022,15860,Bryant,81
 6,2679498,Matt Smith,OF,Jr,41,22,2022,15860,Bryant,81
+11,2310576,Derek Smith,OF,Jr,54,54,2022,15860,Bryant,81
 22,1982813,Matthew Stansky,P,Sr,7,0,2022,15860,Bryant,81
 34,2495197,Coleman Picard,P,So,16,0,2022,15860,Bryant,81
 3,1980538,John Tuccillo,C,Sr,53,49,2022,15860,Bryant,81

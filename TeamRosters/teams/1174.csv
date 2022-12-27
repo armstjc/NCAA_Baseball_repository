@@ -256,7 +256,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,1762222,Eric Mullinax,P,Sr,15,2,2019,14781,Limestone,1174
 26,2128905,Tyler Zak,P,Jr,11,1,2019,14781,Limestone,1174
 32,2128913,Jordan Adcox,P,Jr,13,9,2019,14781,Limestone,1174
-28,2128923,Marcus Johnson,P,Jr,12,8,2019,14781,Limestone,1174
+8,2128845,Lucas Johnson,OF,Fr,0,0,2019,14781,Limestone,1174
 13,2009805,Allen Coor,OF,Jr,8,0,2019,14781,Limestone,1174
 30,2128925,Jacob Cornatzer,P,Jr,2,0,2019,14781,Limestone,1174
 18,2128885,Alex Cornell,UT,Jr,47,46,2019,14781,Limestone,1174
@@ -268,10 +268,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,1986382,Alex Grooms,P,Sr,12,11,2019,14781,Limestone,1174
 12,2128860,Cody Harris,OF,Sr,10,4,2019,14781,Limestone,1174
 39,2128938,Matt Hilderbrandt,OF,Jr,45,45,2019,14781,Limestone,1174
-27,2128922,Benjamin Huber,1B,Fr,47,45,2019,14781,Limestone,1174
 17,1774058,Trey Huber,P,Jr,11,2,2019,14781,Limestone,1174
+27,2128922,Benjamin Huber,1B,Fr,47,45,2019,14781,Limestone,1174
 36,2128916,Trey Jenkins,P,Jr,8,0,2019,14781,Limestone,1174
-8,2128845,Lucas Johnson,OF,Fr,0,0,2019,14781,Limestone,1174
+28,2128923,Marcus Johnson,P,Jr,12,8,2019,14781,Limestone,1174
 37,2128917,Payton Macpherson,P,Fr,13,12,2019,14781,Limestone,1174
 4,1986408,Justin Mack,OF,Sr,2,0,2019,14781,Limestone,1174
 14,1783052,Michael Colombi,P,Sr,4,0,2019,14781,Limestone,1174

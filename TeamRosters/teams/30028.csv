@@ -268,8 +268,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 48,2005246,Ethan Cherry,P,Jr,11,2,2019,14781,UT Tyler,30028
 37,2134851,Zach Fernandez,P,Fr,5,0,2019,14781,UT Tyler,30028
 2,1993601,Bowie Farris,2B,Jr,5,5,2019,14781,UT Tyler,30028
-98,2135029,K F,UT,Sr,0,0,2019,14781,UT Tyler,30028
 2,2135035,B F,SS,Sr,0,0,2019,14781,UT Tyler,30028
+98,2135029,K F,UT,Sr,0,0,2019,14781,UT Tyler,30028
 1,304146,Brian Finegan,SS,Sr,1,1,2019,14781,UT Tyler,30028
 99,2135033,E C,UT,Sr,0,0,2019,14781,UT Tyler,30028
 9,139248,Ria Hoog,3B,Jr,0,0,2019,14781,UT Tyler,30028
@@ -312,10 +312,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 24,2135021,Christian Reeves,P,So,2,0,2019,14781,UT Tyler,30028
 4,157911,Kate Lankin,,Sr,0,0,2019,14781,UT Tyler,30028
 26,2135002,Brandon Rossiter,OF,So,17,4,2019,14781,UT Tyler,30028
-92,2135005,A S,UT,Sr,0,0,2019,14781,UT Tyler,30028
 95,2135006,H S,UT,Sr,0,0,2019,14781,UT Tyler,30028
-30,2134848,Zach Sanchez,INF,Fr,24,18,2019,14781,UT Tyler,30028
+92,2135005,A S,UT,Sr,0,0,2019,14781,UT Tyler,30028
 9,1883596,Henry Sanchez,2B,Sr,36,35,2019,14781,UT Tyler,30028
+30,2134848,Zach Sanchez,INF,Fr,24,18,2019,14781,UT Tyler,30028
 19,1993602,Tanner Roach,OF,So,38,38,2019,14781,UT Tyler,30028
 51,2322176,Blaine Parker,P,Jr,3,0,2020,15204,UT Tyler,30028
 20,2322182,Lukas Polanco,UT,Jr,23,23,2020,15204,UT Tyler,30028
@@ -370,8 +370,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,1974339,Reagan Macdonald,P,Sr,8,0,2021,15580,UT Tyler,30028
 27,2322184,Garrett Arredondo,P,Fr,4,4,2021,15580,UT Tyler,30028
 11,2475815,Ethan Bedgood,C,Fr,30,23,2021,15580,UT Tyler,30028
-37,2475928,Nolan Cox,P,So,12,7,2021,15580,UT Tyler,30028
 5,2475810,Carson Cox,OF,So,24,11,2021,15580,UT Tyler,30028
+37,2475928,Nolan Cox,P,So,12,7,2021,15580,UT Tyler,30028
 14,2322180,Josh Garza,P,So,5,0,2021,15580,UT Tyler,30028
 1,2321876,Corbin Geisendorff,INF,Sr,23,12,2021,15580,UT Tyler,30028
 34,2134849,Matthew Mcmillan,P,So,20,0,2021,15580,UT Tyler,30028
@@ -413,8 +413,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26,2475811,Kyle Hawkins,OF,Jr,29,17,2022,15860,UT Tyler,30028
 24,2140404,Jordan Gochenour,INF,Jr,37,37,2022,15860,UT Tyler,30028
 14,2322180,Josh Garza,P,Sr,5,0,2022,15860,UT Tyler,30028
-37,2475928,Nolan Cox,P,Jr,11,10,2022,15860,UT Tyler,30028
 5,2475810,Carson Cox,OF,Jr,48,46,2022,15860,UT Tyler,30028
+37,2475928,Nolan Cox,P,Jr,11,10,2022,15860,UT Tyler,30028
 16,2301771,Hayden Collins,P,Jr,11,4,2022,15860,UT Tyler,30028
 2,2475803,Hayden Clearman,OF,So,36,23,2022,15860,UT Tyler,30028
 35,2322186,Kyle Mcshaffry,INF,Sr,52,51,2022,15860,UT Tyler,30028

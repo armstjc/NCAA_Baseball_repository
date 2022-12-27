@@ -265,13 +265,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 40,2146567,R.J. Schreck,rf,Fr,32,21,2019,14781,Duke,193
 33,1867936,Adam Laskey,P,Jr,6,3,2019,14781,Duke,193
 10,2122112,Matt Stinebiser,C,Fr,16,1,2019,14781,Duke,193
-2,2122123,Cooper Stinson,P,Fr,18,14,2019,14781,Duke,193
+31,1867935,Graeme Stinson,P,Jr,5,5,2019,14781,Duke,193
 5,2122116,Jake Swartz,OF,Fr,0,0,2019,14781,Duke,193
 15,1758926,Kennie Taylor,OF,Sr,61,61,2019,14781,Duke,193
 18,1868376,Aaron Therien,C,Sr,2,0,2019,14781,Duke,193
 22,2122144,Jake Topolski,INF,Fr,0,0,2019,14781,Duke,193
 50,1977224,Tyler Wardwell,INF,So,13,7,2019,14781,Duke,193
-31,1867935,Graeme Stinson,P,Jr,5,5,2019,14781,Duke,193
+2,2122123,Cooper Stinson,P,Fr,18,14,2019,14781,Duke,193
 6,2122082,Jimmy Loper,P,Fr,0,0,2019,14781,Duke,193
 4,1977220,Wil Hoyle,INF,So,27,6,2019,14781,Duke,193
 9,2122101,Damon Lux,OF,Fr,12,0,2019,14781,Duke,193
@@ -320,7 +320,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,1977232,Steve Mann,OF,Jr,0,0,2020,15204,Duke,193
 17,1977229,Matt Dockman,P,Jr,8,0,2020,15204,Duke,193
 35,2304851,Britt Fuller,INF,So,0,0,2021,15580,Duke,193
-47,2304882,Henry Williams,P,So,8,6,2021,15580,Duke,193
+29,1867934,Coleman Williams,P,Sr,0,0,2021,15580,Duke,193
 1,2122091,Ethan Murray,INF,Jr,54,54,2021,15580,Duke,193
 42,1867937,Erikson Nichols,INF,Sr,52,52,2021,15580,Duke,193
 37,1977222,Josh Nifong,P,Sr,13,4,2021,15580,Duke,193
@@ -357,7 +357,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,1977221,Joey Loperfido,OF,Sr,53,53,2021,15580,Duke,193
 9,2122101,Damon Lux,OF,Jr,16,1,2021,15580,Duke,193
 41,2479995,Luke Fox,P,Fr,20,9,2021,15580,Duke,193
-29,1867934,Coleman Williams,P,Sr,0,0,2021,15580,Duke,193
+47,2304882,Henry Williams,P,So,8,6,2021,15580,Duke,193
 48,2479996,Adam Boucher,P,Fr,3,0,2021,15580,Duke,193
 49,1864074,Richard Brereton,UT,Sr,12,2,2021,15580,Duke,193
 8,2479962,Josh Allen,P,Fr,22,0,2021,15580,Duke,193

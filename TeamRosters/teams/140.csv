@@ -234,11 +234,11 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 20,2139170,Mike Mcdonough,P,So,0,0,2019,14781,Cincinnati,140
 24,2139172,Sean Mclaughlin,INF,Fr,10,3,2019,14781,Cincinnati,140
 3,1876201,Jace Mercer,INF,Jr,56,56,2019,14781,Cincinnati,140
-38,1770167,Cole Murphy,INF,Sr,48,38,2019,14781,Cincinnati,140
+48,2139175,Jackson Murphy,P,Fr,5,0,2019,14781,Cincinnati,140
 4,2139174,Nate Meyer,INF,Fr,22,3,2019,14781,Cincinnati,140
 31,1876202,Nathan Moore,P,Jr,26,0,2019,14781,Cincinnati,140
 49,1876200,Nathan Kroger,P,Jr,5,5,2019,14781,Cincinnati,140
-48,2139175,Jackson Murphy,P,Fr,5,0,2019,14781,Cincinnati,140
+38,1770167,Cole Murphy,INF,Sr,48,38,2019,14781,Cincinnati,140
 8,2139200,Griffin Merritt,INF,Fr,37,26,2019,14781,Cincinnati,140
 0,1753410,Jeremy Johnson,OF,Jr,62,62,2019,14781,Cincinnati,140
 26,1990975,Joey Wiemer,OF,So,62,62,2019,14781,Cincinnati,140
@@ -296,10 +296,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,2139754,Paul Komistek,OF,So,14,13,2020,15204,Cincinnati,140
 49,1876200,Nathan Kroger,P,Sr,4,4,2020,15204,Cincinnati,140
 24,2139172,Sean Mclaughlin,INF,So,0,0,2020,15204,Cincinnati,140
-35,2347095,Jacob Meyer,P,Jr,3,0,2020,15204,Cincinnati,140
+4,2139174,Nate Meyer,INF,So,10,2,2020,15204,Cincinnati,140
 3,1876201,Jace Mercer,INF,Sr,15,15,2020,15204,Cincinnati,140
 8,2139200,Griffin Merritt,INF,So,13,12,2020,15204,Cincinnati,140
-4,2139174,Nate Meyer,INF,So,10,2,2020,15204,Cincinnati,140
+35,2347095,Jacob Meyer,P,Jr,3,0,2020,15204,Cincinnati,140
 39,2347094,Evan Kemp,P,Fr,5,0,2020,15204,Cincinnati,140
 24,2139172,Sean Mclaughlin,INF,Jr,1,0,2021,15580,Cincinnati,140
 46,1864122,Dean Mccarthy,P,Sr,19,7,2021,15580,Cincinnati,140
@@ -320,7 +320,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 3,1876201,Jace Mercer,INF,Sr,53,53,2021,15580,Cincinnati,140
 40,2493026,Cole Harting,OF,Fr,53,51,2021,15580,Cincinnati,140
 2,2139167,Joey Bellini,INF,Sr,53,53,2021,15580,Cincinnati,140
-17,2139203,Nick Murray,P,Jr,2,0,2021,15580,Cincinnati,140
+21,1996307,Jake Murray,OF,Sr,31,22,2021,15580,Cincinnati,140
 31,1876202,Nathan Moore,P,Sr,17,0,2021,15580,Cincinnati,140
 35,2347095,Jacob Meyer,P,Sr,2,0,2021,15580,Cincinnati,140
 25,1990972,Jalen Wade,P,Jr,12,8,2021,15580,Cincinnati,140
@@ -332,7 +332,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,2139200,Griffin Merritt,INF,Jr,52,51,2021,15580,Cincinnati,140
 11,1990967,Garrett Schoenle,P,Sr,15,15,2021,15580,Cincinnati,140
 20,2139175,Jackson Murphy,P,Jr,22,0,2021,15580,Cincinnati,140
-21,1996307,Jake Murray,OF,Sr,31,22,2021,15580,Cincinnati,140
+17,2139203,Nick Murray,P,Jr,2,0,2021,15580,Cincinnati,140
 44,2347096,Ryan Nicholson,INF,So,50,45,2021,15580,Cincinnati,140
 43,2347124,Zach Segal,P,So,18,9,2021,15580,Cincinnati,140
 10,1876205,Eric Santiago,INF,Sr,54,53,2021,15580,Cincinnati,140

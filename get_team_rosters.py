@@ -40,7 +40,6 @@ def download_gamelogs():
 
     df.to_csv('school-list.csv')
     
-
 def main():
     print('Starting Up')
     arr = getSchoolList()

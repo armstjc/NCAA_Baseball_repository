@@ -241,10 +241,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,2137859,Vince Flores,INF,Fr,0,0,2019,14781,Washington,756
 42,1977848,Cole Galvagno,P,Fr,1,1,2019,14781,Washington,756
 34,1876501,Harrison Goonewardene,P,So,0,0,2019,14781,Washington,756
-19,1876506,Jordan Jones,P,Jr,15,15,2019,14781,Washington,756
+5,1876505,Christian Jones,OF,Jr,3,3,2019,14781,Washington,756
 1,1977832,Noah Hsue,INF,So,14,10,2019,14781,Washington,756
 31,1977831,Stevie Emanuels,P,So,31,0,2019,14781,Washington,756
-5,1876505,Christian Jones,OF,Jr,3,3,2019,14781,Washington,756
+19,1876506,Jordan Jones,P,Jr,15,15,2019,14781,Washington,756
 24,2137860,Albert Hsiao,C,Fr,11,2,2019,14781,Washington,756
 41,1977824,Jack Decooman,P,So,9,5,2019,14781,Washington,756
 7,1977851,Braiden Ward,OF,So,52,49,2019,14781,Washington,756
@@ -351,7 +351,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,2681288,Luke Rohleder,rf,So,28,1,2022,15860,Washington,756
 27,2685068,Gianluca Shinn,p,Fr,2,0,2022,15860,Washington,756
 22,2683300,Jarred Mazzaferro,2b,So,26,9,2022,15860,Washington,756
-9,1998102,Ben Smith,C,Sr,19,4,2022,15860,Washington,756
+19,2319176,Gabe Smith,P,Sr,0,0,2022,15860,Washington,756
 16,2319177,Michael Snyder,INF,So,50,48,2022,15860,Washington,756
 2,2319179,Johnny Tincher,C,So,54,52,2022,15860,Washington,756
 1,2309103,Josh Urps,INF,Sr,47,42,2022,15860,Washington,756
@@ -359,7 +359,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,2319180,Preston Viltz,OF,So,29,9,2022,15860,Washington,756
 13,2683301,Colby Wallace,ph,Fr,28,20,2022,15860,Washington,756
 10,2319139,Will Simpson,INF,So,56,55,2022,15860,Washington,756
-19,2319176,Gabe Smith,P,Sr,0,0,2022,15860,Washington,756
+9,1998102,Ben Smith,C,Sr,19,4,2022,15860,Washington,756
 36,2472140,Case Matter,P,So,19,7,2022,15860,Washington,756
 43,2472143,Jake Leitgeb,C,So,13,6,2022,15860,Washington,756
 44,2681293,Bryce Armstrong,p,So,17,2,2022,15860,Washington,756

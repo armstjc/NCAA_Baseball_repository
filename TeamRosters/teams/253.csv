@@ -327,15 +327,15 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 44,2311726,Jarrett Brown,INF,So,53,48,2021,15580,Ga. Southern,253
 43,2311775,Conner Bruce,P,So,7,0,2021,15580,Ga. Southern,253
 30,1872362,Steven Curry,INF,Sr,51,51,2021,15580,Ga. Southern,253
-3,2122257,Chandler Davis,C,Jr,19,6,2021,15580,Ga. Southern,253
 8,1996734,Griffin Davis,P,Jr,17,2,2021,15580,Ga. Southern,253
+3,2122257,Chandler Davis,C,Jr,19,6,2021,15580,Ga. Southern,253
 41,1996743,Christian Avant,C,Sr,57,56,2021,15580,Ga. Southern,253
 9,2464451,Chase Dollander,P,Fr,12,11,2021,15580,Ga. Southern,253
 21,2122253,Jonathan Edwards,P,Jr,6,1,2021,15580,Ga. Southern,253
 55,2464459,Corey Dowdell,1B,Fr,0,0,2021,15580,Ga. Southern,253
 13,2122264,Jp Tighe,C,Jr,44,31,2021,15580,Ga. Southern,253
-22,1996721,Austin Thompson,SS,Sr,52,52,2021,15580,Ga. Southern,253
 26,2311719,Jay Thompson,P,Jr,24,0,2021,15580,Ga. Southern,253
+22,1996721,Austin Thompson,SS,Sr,52,52,2021,15580,Ga. Southern,253
 2,1996735,Jason Swan,INF,Sr,54,50,2021,15580,Ga. Southern,253
 11,1996717,Cody Shook,OF,Jr,2,0,2021,15580,Ga. Southern,253
 49,2464458,J.C. Peacher,OF,Fr,0,0,2021,15580,Ga. Southern,253
@@ -357,8 +357,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,2122258,Braden Hays,P,Jr,12,4,2021,15580,Ga. Southern,253
 33,2311763,Jordan Jackson,P,Sr,16,14,2021,15580,Ga. Southern,253
 00,2464450,Jarrett Jenkins,INF,Fr,0,0,2021,15580,Ga. Southern,253
-45,2464455,Ben Johnson,P,Fr,21,5,2021,15580,Ga. Southern,253
 37,1996741,David Johnson,P,Sr,17,0,2021,15580,Ga. Southern,253
+45,2464455,Ben Johnson,P,Fr,21,5,2021,15580,Ga. Southern,253
 25,1996722,Nick Jones,P,Sr,29,0,2021,15580,Ga. Southern,253
 33,2653240,Thomas Ross,P,So,18,1,2022,15860,Ga. Southern,253
 42,2464454,Jaylen Paden,UT,So,23,18,2022,15860,Ga. Southern,253
@@ -369,8 +369,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,1996715,Noah Searcy,OF,Sr,44,32,2022,15860,Ga. Southern,253
 29,2653219,Sean White,C,Fr,16,7,2022,15860,Ga. Southern,253
 2,1996735,Jason Swan,INF,Sr,60,60,2022,15860,Ga. Southern,253
-26,2311719,Jay Thompson,P,Sr,37,0,2022,15860,Ga. Southern,253
 22,1996721,Austin Thompson,SS,Sr,61,61,2022,15860,Ga. Southern,253
+26,2311719,Jay Thompson,P,Sr,37,0,2022,15860,Ga. Southern,253
 13,2122264,Jp Tighe,C,Sr,25,19,2022,15860,Ga. Southern,253
 25,2653217,Ga'Von Wray,P,So,21,2,2022,15860,Ga. Southern,253
 17,2653237,Danny Madden,P,Sr,18,8,2022,15860,Ga. Southern,253

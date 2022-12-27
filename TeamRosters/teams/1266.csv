@@ -257,7 +257,7 @@ E,1890417,Noah Vreeman,C,Fr,0,0,2017,12560,Northern St.,1266
 2,1756136,Hayden Houts,C,Jr,45,45,2019,14781,Northern St.,1266
 10,1987560,Jeffery Disla,INF,Sr,35,21,2019,14781,Northern St.,1266
 24,2145229,Cody Curfman,P,Jr,12,11,2019,14781,Northern St.,1266
-17,1641312,Luke Chevalier,P,Sr,12,10,2019,14781,Northern St.,1266
+5,1987559,Isaiah Chevalier,INF,Fr,30,30,2019,14781,Northern St.,1266
 18,1987600,Tyler Jones,P,Jr,19,0,2019,14781,Northern St.,1266
 39,1890398,Ben Carolin,INF,Jr,0,0,2019,14781,Northern St.,1266
 16,1987599,Justin Barreneche,OF,Sr,38,38,2019,14781,Northern St.,1266
@@ -267,7 +267,7 @@ E,1890417,Noah Vreeman,C,Fr,0,0,2017,12560,Northern St.,1266
 25,1756161,Tyler Hair,INF,Jr,10,2,2019,14781,Northern St.,1266
 RS,2145235,Ryan Greene,OF,N/A,0,0,2019,14781,Northern St.,1266
 45,2145217,Nick Graham,P,Fr,1,0,2019,14781,Northern St.,1266
-5,1987559,Isaiah Chevalier,INF,Fr,30,30,2019,14781,Northern St.,1266
+17,1641312,Luke Chevalier,P,Sr,12,10,2019,14781,Northern St.,1266
 28,1987602,Holt Hunziker,P,Sr,8,2,2019,14781,Northern St.,1266
 RS,2145233,Alex Gauer,3B,N/A,0,0,2019,14781,Northern St.,1266
 42,2145231,Bryce Krattiger,OF,Jr,3,0,2019,14781,Northern St.,1266
@@ -283,7 +283,7 @@ RS,2145234,Mitchell Tolk,3B,N/A,0,0,2019,14781,Northern St.,1266
 26,1987606,Andrew Pugliano,P,Fr,1,0,2019,14781,Northern St.,1266
 23,2145228,John Poldberg,P,Jr,25,0,2019,14781,Northern St.,1266
 8,1890417,Noah Vreeman,1B,So,6,3,2019,14781,Northern St.,1266
-9,1890414,Carter Paulson,INF,So,1,0,2019,14781,Northern St.,1266
+RS,2145232,Jack Paulson,INF,N/A,0,0,2019,14781,Northern St.,1266
 13,2143974,Niko Pezonella,C,Fr,18,6,2019,14781,Northern St.,1266
 RS,2145238,Brandon Kusler,OF,N/A,0,0,2019,14781,Northern St.,1266
 12,2143972,Spenser Larson,OF,Jr,40,31,2019,14781,Northern St.,1266
@@ -291,7 +291,7 @@ RS,2145238,Brandon Kusler,OF,N/A,0,0,2019,14781,Northern St.,1266
 4,1987605,Zachery Lanier,INF,Fr,2,0,2019,14781,Northern St.,1266
 RS,2145236,Nathan Martinson,P,N/A,0,0,2019,14781,Northern St.,1266
 35,1987603,Sam Mcmacken,INF,So,39,30,2019,14781,Northern St.,1266
-RS,2145232,Jack Paulson,INF,N/A,0,0,2019,14781,Northern St.,1266
+9,1890414,Carter Paulson,INF,So,1,0,2019,14781,Northern St.,1266
 6,1890395,Jordan Malainey,OF,Jr,13,5,2019,14781,Northern St.,1266
 RS,2145239,Brandon Ford,P,N/A,0,0,2019,14781,Northern St.,1266
 41,2328754,Connor Knecht,OF,Fr,0,0,2020,15204,Northern St.,1266
@@ -355,9 +355,9 @@ RS,2145239,Brandon Ford,P,N/A,0,0,2019,14781,Northern St.,1266
 16,2328671,Seth Brewer,P,Sr,13,11,2021,15580,Northern St.,1266
 45,2328760,Kai Brisk,INF,So,24,7,2021,15580,Northern St.,1266
 10,2328662,Connor Burgess,OF,Sr,11,4,2021,15580,Northern St.,1266
-39,1890398,Ben Carolin,INF,Sr,37,36,2021,15580,Northern St.,1266
-46,2488040,Drew Talberg,P,So,0,0,2021,15580,Northern St.,1266
 3,2488019,Zach Carolin,C,Fr,0,0,2021,15580,Northern St.,1266
+46,2488040,Drew Talberg,P,So,0,0,2021,15580,Northern St.,1266
+39,1890398,Ben Carolin,INF,Sr,37,36,2021,15580,Northern St.,1266
 18,2488023,Michael Chevalier,P,Fr,0,0,2021,15580,Northern St.,1266
 37,2145239,Brandon Ford,P,So,8,0,2021,15580,Northern St.,1266
 12,2145233,Alex Gauer,UT,Jr,23,14,2021,15580,Northern St.,1266
@@ -391,10 +391,10 @@ RS,2145239,Brandon Ford,P,N/A,0,0,2019,14781,Northern St.,1266
 16,2328671,Seth Brewer,P,Sr,13,8,2022,15860,Northern St.,1266
 45,2328760,Kai Brisk,INF,Jr,28,17,2022,15860,Northern St.,1266
 3,2488019,Zach Carolin,C,So,10,1,2022,15860,Northern St.,1266
-5,1987559,Isaiah Chevalier,INF,Sr,36,34,2022,15860,Northern St.,1266
+18,2488023,Michael Chevalier,P,So,8,6,2022,15860,Northern St.,1266
 8,2488020,Jackson Meyer,INF,So,20,6,2022,15860,Northern St.,1266
 37,2145239,Brandon Ford,P,Jr,1,0,2022,15860,Northern St.,1266
-18,2488023,Michael Chevalier,P,So,8,6,2022,15860,Northern St.,1266
+5,1987559,Isaiah Chevalier,INF,Sr,36,34,2022,15860,Northern St.,1266
 15,2668923,Evan Helvig,INF,Fr,5,0,2022,15860,Northern St.,1266
 22,2488024,Taite Hensley,P,So,3,0,2022,15860,Northern St.,1266
 14,2328591,Karson Hesser,INF,Jr,37,35,2022,15860,Northern St.,1266

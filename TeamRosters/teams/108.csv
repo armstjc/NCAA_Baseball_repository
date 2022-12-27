@@ -262,8 +262,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2137727,Wyatt Tucker,P,Jr,10,1,2019,14781,UC Davis,108
 31,2137726,Jake Spillane,P,Fr,14,9,2019,14781,UC Davis,108
 41,2137729,Justin Smith,P,Jr,4,0,2019,14781,UC Davis,108
-33,2137743,Alec Smith,OF,Jr,14,5,2019,14781,UC Davis,108
 15,2137742,Jalen Smith,INF,Fr,34,27,2019,14781,UC Davis,108
+33,2137743,Alec Smith,OF,Jr,14,5,2019,14781,UC Davis,108
 26,1996880,Jared Sasaki,P,So,0,0,2019,14781,UC Davis,108
 25,1996903,Ryan Rodriguez,P,So,7,0,2019,14781,UC Davis,108
 30,2137731,Nathan Peng,C,Fr,10,0,2019,14781,UC Davis,108
@@ -279,8 +279,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,2137731,Nathan Peng,C,So,1,0,2020,15204,UC Davis,108
 25,1996903,Ryan Rodriguez,P,Jr,3,0,2020,15204,UC Davis,108
 14,2346883,J.D. Mico,2B,Jr,11,8,2020,15204,UC Davis,108
-41,2137729,Justin Smith,P,Sr,3,0,2020,15204,UC Davis,108
 33,2137743,Alec Smith,OF,Sr,5,0,2020,15204,UC Davis,108
+41,2137729,Justin Smith,P,Sr,3,0,2020,15204,UC Davis,108
 31,2137726,Jake Spillane,P,So,4,4,2020,15204,UC Davis,108
 35,2137727,Wyatt Tucker,P,Sr,1,1,2020,15204,UC Davis,108
 40,2346836,Isaiah Verrett,OF,Jr,5,2,2020,15204,UC Davis,108

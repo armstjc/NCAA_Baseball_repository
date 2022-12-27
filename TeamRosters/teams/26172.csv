@@ -297,8 +297,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,2139615,Scott Hastings,1B,Sr,16,14,2020,15204,A&M-Corpus Christi,26172
 27,2320564,Nic Hernandez,P,Fr,0,0,2020,15204,A&M-Corpus Christi,26172
 17,2139620,Mason Hopkins,P,So,0,0,2020,15204,A&M-Corpus Christi,26172
-41,2320565,Diego Johnson,INF,Fr,1,0,2020,15204,A&M-Corpus Christi,26172
 26,2320566,Dylan Johnson,P,Fr,5,0,2020,15204,A&M-Corpus Christi,26172
+41,2320565,Diego Johnson,INF,Fr,1,0,2020,15204,A&M-Corpus Christi,26172
 18,1998326,Will Floyd,P,Sr,3,0,2020,15204,A&M-Corpus Christi,26172
 3,2320567,Tre Jones,OF,Fr,0,0,2020,15204,A&M-Corpus Christi,26172
 32,2320569,Justin Lewis,P,So,4,0,2021,15580,A&M-Corpus Christi,26172
@@ -309,7 +309,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 3,2320567,Tre Jones,OF,Fr,26,12,2021,15580,A&M-Corpus Christi,26172
 36,2139591,Tyler Miller,P,So,17,1,2021,15580,A&M-Corpus Christi,26172
 18,2492952,Leo Markotic,2B,So,48,41,2021,15580,A&M-Corpus Christi,26172
-4,2320565,Diego Johnson,INF,Fr,19,13,2021,15580,A&M-Corpus Christi,26172
+26,2320566,Dylan Johnson,P,Fr,14,5,2021,15580,A&M-Corpus Christi,26172
 6,1998282,John Gaddis,P,Jr,13,10,2021,15580,A&M-Corpus Christi,26172
 17,2139620,Mason Hopkins,P,So,7,2,2021,15580,A&M-Corpus Christi,26172
 25,2320564,Nic Hernandez,P,Fr,1,0,2021,15580,A&M-Corpus Christi,26172
@@ -320,7 +320,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 28,2492966,Tyler Byrd,C,Fr,23,12,2021,15580,A&M-Corpus Christi,26172
 7,2320561,Henry Bird,P,Jr,15,4,2021,15580,A&M-Corpus Christi,26172
 20,2320559,Bryce Balusek,INF,Fr,2,1,2021,15580,A&M-Corpus Christi,26172
-26,2320566,Dylan Johnson,P,Fr,14,5,2021,15580,A&M-Corpus Christi,26172
+4,2320565,Diego Johnson,INF,Fr,19,13,2021,15580,A&M-Corpus Christi,26172
 1,1884356,Itchy Burts,OF,Sr,54,54,2021,15580,A&M-Corpus Christi,26172
 33,2320547,Daniel Nelson,P,Jr,11,2,2021,15580,A&M-Corpus Christi,26172
 41,2492991,Nick Mueller,OF,Fr,13,7,2021,15580,A&M-Corpus Christi,26172

@@ -304,9 +304,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,1998722,Zack Radcliffe,P,So,12,0,2019,14781,Randolph-Macon,565
 49,2147230,Spencer Pietruszynski,OF,Fr,11,7,2019,14781,Randolph-Macon,565
 41,1998718,Rj Payne,P,So,0,0,2019,14781,Randolph-Macon,565
+25,1766728,Shawn Nickles,OF,Jr,39,39,2019,14781,Randolph-Macon,565
 30,1874431,Mike Nickles,3B,Jr,38,38,2019,14781,Randolph-Macon,565
 32,1874430,Matt Nickles,P,Jr,7,6,2019,14781,Randolph-Macon,565
-25,1766728,Shawn Nickles,OF,Jr,39,39,2019,14781,Randolph-Macon,565
 2,1765683,Jarrett Mustain,INF,Sr,15,4,2019,14781,Randolph-Macon,565
 4,1765691,Andrew Mullen,OF,Sr,10,0,2019,14781,Randolph-Macon,565
 44,2147228,Ryan Morris,OF,Fr,0,0,2019,14781,Randolph-Macon,565
@@ -327,8 +327,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,1865929,Hayden Moore,P,Sr,7,0,2020,15204,Randolph-Macon,565
 27,2147228,Ryan Morris,OF,So,0,0,2020,15204,Randolph-Macon,565
 30,1874431,Mike Nickles,3B,Sr,16,16,2020,15204,Randolph-Macon,565
-25,1766728,Shawn Nickles,OF,Sr,16,16,2020,15204,Randolph-Macon,565
 32,1874430,Matt Nickles,P,Sr,6,6,2020,15204,Randolph-Macon,565
+25,1766728,Shawn Nickles,OF,Sr,16,16,2020,15204,Randolph-Macon,565
 14,1998718,Rj Payne,P,Jr,2,0,2020,15204,Randolph-Macon,565
 2,2147230,Spencer Pietruszynski,OF,So,16,15,2020,15204,Randolph-Macon,565
 34,1998722,Zack Radcliffe,P,Jr,6,0,2020,15204,Randolph-Macon,565
@@ -414,9 +414,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,2494573,Trey Pridgen,INF,Fr,7,1,2021,15580,Randolph-Macon,565
 2,2147230,Spencer Pietruszynski,OF,Jr,17,5,2021,15580,Randolph-Macon,565
 14,1998718,Rj Payne,P,Sr,14,0,2021,15580,Randolph-Macon,565
-24,1766728,Shawn Nickles,OF,Sr,24,24,2021,15580,Randolph-Macon,565
-30,1874431,Mike Nickles,3B,Sr,34,34,2021,15580,Randolph-Macon,565
 32,1874430,Matt Nickles,P,Sr,10,10,2021,15580,Randolph-Macon,565
+30,1874431,Mike Nickles,3B,Sr,34,34,2021,15580,Randolph-Macon,565
+24,1766728,Shawn Nickles,OF,Sr,24,24,2021,15580,Randolph-Macon,565
 45,2494572,Matt Myers,OF,Fr,9,1,2021,15580,Randolph-Macon,565
 10,1865929,Hayden Moore,P,Sr,13,0,2021,15580,Randolph-Macon,565
 50,2494578,Myles Webb,OF,Fr,9,4,2021,15580,Randolph-Macon,565

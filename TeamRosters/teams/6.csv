@@ -211,8 +211,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,1879691,Njike Hunter,OF,So,6,3,2019,14781,Alabama A&M,6
 28,2118017,Michael Hovermill,P,Jr,15,13,2019,14781,Alabama A&M,6
 35,2118019,Will Hampson,INF,Sr,22,18,2019,14781,Alabama A&M,6
-7,2118001,Jalen Ford,INF,Fr,28,17,2019,14781,Alabama A&M,6
 4,1879676,Isom Ford,C,Jr,16,9,2019,14781,Alabama A&M,6
+7,2118001,Jalen Ford,INF,Fr,28,17,2019,14781,Alabama A&M,6
 37,2118020,Yavier Febus,P,Fr,10,6,2019,14781,Alabama A&M,6
 10,1998527,Richard Polinsky,INF,So,0,0,2019,14781,Alabama A&M,6
 26,1879697,Jesus Diaz,P,So,4,0,2019,14781,Alabama A&M,6
@@ -266,10 +266,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,2308870,Jason Garcia,P,Fr,3,2,2020,15204,Alabama A&M,6
 12,2349679,Malik Frails,INF,Fr,7,3,2020,15204,Alabama A&M,6
 35,2308919,Jackson Holcombe,C,Fr,5,2,2020,15204,Alabama A&M,6
-4,1879676,Isom Ford,C,Sr,3,1,2020,15204,Alabama A&M,6
+7,2118001,Jalen Ford,INF,So,0,0,2020,15204,Alabama A&M,6
 5,1998507,Jose Figueroa,P,Jr,2,1,2020,15204,Alabama A&M,6
 37,2118020,Yavier Febus,P,So,3,0,2020,15204,Alabama A&M,6
-7,2118001,Jalen Ford,INF,So,0,0,2020,15204,Alabama A&M,6
+4,1879676,Isom Ford,C,Sr,3,1,2020,15204,Alabama A&M,6
 32,2118018,Peyton Baker,P,Jr,12,9,2021,15580,Alabama A&M,6
 21,2308903,Janmikell Bastardo,OF,Fr,26,25,2021,15580,Alabama A&M,6
 6,2117979,Pierre Brewton,INF,Sr,27,26,2021,15580,Alabama A&M,6
@@ -287,12 +287,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,2472296,Cole Stewart,P,Fr,6,0,2021,15580,Alabama A&M,6
 33,2142605,Logan Smith,C,So,11,2,2021,15580,Alabama A&M,6
 25,2118012,Dillon Roop,C,So,29,29,2021,15580,Alabama A&M,6
-27,2472300,Alden Moore,UT,Fr,9,4,2021,15580,Alabama A&M,6
+13,1998525,Brandon Moore,OF,Sr,0,0,2021,15580,Alabama A&M,6
 7,2118001,Jalen Ford,INF,Fr,29,28,2021,15580,Alabama A&M,6
 15,2117995,Brock Mitchell,C,Fr,19,13,2021,15580,Alabama A&M,6
 9,2308871,Dylan Hall,C,Fr,26,22,2021,15580,Alabama A&M,6
 28,2118017,Michael Hovermill,P,Sr,13,4,2021,15580,Alabama A&M,6
-13,1998525,Brandon Moore,OF,Sr,0,0,2021,15580,Alabama A&M,6
+27,2472300,Alden Moore,UT,Fr,9,4,2021,15580,Alabama A&M,6
 24,2308915,Jason Marono,P,Fr,5,1,2021,15580,Alabama A&M,6
 20,2308901,Carlos Mas,INF,Fr,22,13,2021,15580,Alabama A&M,6
 10,2472299,Brendon Lopez,P,Fr,2,0,2021,15580,Alabama A&M,6

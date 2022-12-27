@@ -227,7 +227,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 44,2123882,Quinn Mimnaugh,INF,Fr,0,0,2019,14781,Wagner,748
 9,1863054,Nick Zuppe,P,Jr,6,3,2019,14781,Wagner,748
 36,2123881,Shendi Ulaj,C,Fr,1,0,2019,14781,Wagner,748
-19,1863047,Eric Lauk,OF,Jr,27,13,2019,14781,Wagner,748
+10,1863048,Ryan Lauk,P,Jr,20,2,2019,14781,Wagner,748
 2,2123873,Griffin Schneider,OF,Jr,43,41,2019,14781,Wagner,748
 8,1977907,Tyler Sanfillippo,INF,Jr,49,48,2019,14781,Wagner,748
 31,1749697,Douglas Molnar,P,Sr,5,0,2019,14781,Wagner,748
@@ -235,7 +235,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,1863052,Nick Robino,P,Jr,19,0,2019,14781,Wagner,748
 23,1977906,Mike Pirrotta,P,So,8,0,2019,14781,Wagner,748
 40,1749700,Joe Silvestrone,OF,Sr,49,49,2019,14781,Wagner,748
-10,1863048,Ryan Lauk,P,Jr,20,2,2019,14781,Wagner,748
+19,1863047,Eric Lauk,OF,Jr,27,13,2019,14781,Wagner,748
 33,1863055,Freddy Sabido,DH,Jr,49,49,2019,14781,Wagner,748
 18,2123877,Johnny Kampes,C,Fr,37,34,2019,14781,Wagner,748
 15,1749698,Anthony Pecora,INF,Sr,50,50,2019,14781,Wagner,748
@@ -273,7 +273,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 42,1977888,Emil Matti,OF,Jr,10,5,2020,15204,Wagner,748
 38,2301308,Henry Martinez,OF,Fr,13,12,2020,15204,Wagner,748
 31,2301320,Dallen Turner,P,Fr,3,0,2020,15204,Wagner,748
-22,1863048,Ryan Lauk,P,Sr,4,4,2020,15204,Wagner,748
+19,1863047,Eric Lauk,OF,Sr,4,2,2020,15204,Wagner,748
 35,1977883,Nick Lepre,P,Jr,6,0,2020,15204,Wagner,748
 28,2301305,Cody Bey,INF,Fr,14,14,2020,15204,Wagner,748
 20,2123878,Justin Beyer,P,Sr,4,0,2020,15204,Wagner,748
@@ -289,7 +289,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18,2123877,Johnny Kampes,C,So,5,1,2020,15204,Wagner,748
 11,2123876,John Lapointe,P,So,4,2,2020,15204,Wagner,748
 27,2123879,Brandon Demma,P,So,5,0,2020,15204,Wagner,748
-19,1863047,Eric Lauk,OF,Sr,4,2,2020,15204,Wagner,748
+22,1863048,Ryan Lauk,P,Sr,4,4,2020,15204,Wagner,748
 3,2488795,Cole Kumpf,INF,Fr,1,0,2021,15580,Wagner,748
 11,2123876,John Lapointe,P,Jr,10,1,2021,15580,Wagner,748
 22,1863048,Ryan Lauk,P,Sr,12,12,2021,15580,Wagner,748

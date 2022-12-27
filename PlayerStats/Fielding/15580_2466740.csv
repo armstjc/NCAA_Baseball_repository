@@ -1,7 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
-0,1,2,1,0,0,1,0,0,0,02/26/2021,away,15580,106,Cal U (PA),9,True,1,12,-11,loss,2016586,12799,2466740,2021
-0,0,0,0,0,0,0,0,0,0,02/27/2021,away,15580,106,Cal U (PA),9,True,1,7,-6,loss,2016708,12799,2466740,2021
-0,0,0,0,0,0,0,0,0,0,03/01/2021,away,15580,106,Cal U (PA),9,True,9,8,1,win,2016882,12799,2466740,2021
+0,1,2,1,0,0,1,0,0,0,02/26/2021,away,15580,106,California (PA),9,True,1,12,-11,loss,2016586,12799,2466740,2021
+0,0,0,0,0,0,0,0,0,0,02/27/2021,away,15580,106,California (PA),9,True,1,7,-6,loss,2016708,12799,2466740,2021
+0,0,0,0,0,0,0,0,0,0,03/01/2021,away,15580,106,California (PA),9,True,9,8,1,win,2016882,12799,2466740,2021
 0,0,0,0,0,0,0,0,0,0,03/05/2021,away,15580,1028,Concord,9,True,5,3,2,win,2017208,12799,2466740,2021
 0,0,0,0,0,0,0,0,0,0,03/06/2021,neutral,15580,408,Mercyhurst,9,True,4,2,2,win,2030512,12799,2466740,2021
 0,0,0,0,0,0,0,0,0,0,03/06/2021,away,15580,408,Mercyhurst,9,True,7,12,-5,loss,2030513,12799,2466740,2021

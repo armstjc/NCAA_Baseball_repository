@@ -60,8 +60,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,1437754,Tom Murphy,C,So,23,15,2014,11620,St. Anselm,593
 4,1437717,Ken Morrisino,OF,So,38,31,2014,11620,St. Anselm,593
 19,1330457,Joe Morin,OF,Jr,45,45,2014,11620,St. Anselm,593
-32,1437720,Allan Mcquarrie,C,So,31,29,2014,11620,St. Anselm,593
 6,1553706,Jon Mcquarrie,INF,Fr,19,10,2014,11620,St. Anselm,593
+32,1437720,Allan Mcquarrie,C,So,31,29,2014,11620,St. Anselm,593
 1,1211601,Tito Lluberes,INF,Sr,20,20,2014,11620,St. Anselm,593
 29,1437756,Seve Llanio,P,So,12,0,2014,11620,St. Anselm,593
 13,1555290,Andrew Chandler,OF,Sr,18,12,2014,11620,St. Anselm,593
@@ -72,8 +72,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,1330454,Mike Hayden,1B,Jr,12,12,2014,11620,St. Anselm,593
 9,1211602,Kyle Grumoli,INF,Sr,32,28,2014,11620,St. Anselm,593
 11,1553703,Autrey Gates,P,Fr,14,2,2014,11620,St. Anselm,593
-36,1553718,Mack Flynn,P,So,6,0,2014,11620,St. Anselm,593
 2,1553708,Matthew Flynn,2B,Fr,27,16,2014,11620,St. Anselm,593
+36,1553718,Mack Flynn,P,So,6,0,2014,11620,St. Anselm,593
 40,1553694,Macneill Finnegan,OF,Fr,41,39,2014,11620,St. Anselm,593
 33,1553709,Bryan Even,1B,Fr,7,2,2014,11620,St. Anselm,593
 25,1553707,Frank D'Amato,3B,Fr,26,15,2014,11620,St. Anselm,593
@@ -235,7 +235,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2142347,Salvatore Pezzolla,INF,Jr,15,11,2019,14781,St. Anselm,593
 28,1872284,Jared Ferris,P,Jr,10,1,2019,14781,St. Anselm,593
 12,1766416,Jonathan Dunn,P,Sr,14,10,2019,14781,St. Anselm,593
-4,2354392,L. Doran,SS,N/A,12,12,2020,15204,St. Anselm,593
+4,2113983,Logan Doran,SS,So,0,0,2020,15204,St. Anselm,593
 35,2354585,Travis Macmurdo,P,Fr,3,0,2020,15204,St. Anselm,593
 5,2354401,Reece Manor,INF,Fr,2,0,2020,15204,St. Anselm,593
 3,2142375,Enzo Merlonghi,C,So,9,9,2020,15204,St. Anselm,593
@@ -257,8 +257,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 99,1998662,Blaine Johnson Iii,DH,Sr,0,0,2020,15204,St. Anselm,593
 6,2142371,David Hunter,P,So,3,2,2020,15204,St. Anselm,593
 7,1999040,Ben Horsfall,OF,Jr,4,2,2020,15204,St. Anselm,593
+4,2354392,L. Doran,SS,N/A,12,12,2020,15204,St. Anselm,593
 1,2354393,Brady Doran,INF,Fr,12,12,2020,15204,St. Anselm,593
-4,2113983,Logan Doran,SS,So,0,0,2020,15204,St. Anselm,593
 12,2354398,John Donovan,P,Fr,3,0,2020,15204,St. Anselm,593
 28,1872284,Jared Ferris,P,Sr,2,0,2020,15204,St. Anselm,593
 2,2142365,Matt Collins,SS,So,12,12,2020,15204,St. Anselm,593
@@ -289,8 +289,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,2354600,Avery Mosseau,P,So,6,0,2021,15580,St. Anselm,593
 22,2142347,Salvatore Pezzolla,INF,Sr,19,19,2021,15580,St. Anselm,593
 13,2142376,Mike Pierro,OF,Jr,23,23,2021,15580,St. Anselm,593
-16,2142350,Chris Schworer,C,Jr,10,10,2021,15580,St. Anselm,593
 37,1999230,Ryan Schworer,P,Sr,8,6,2021,15580,St. Anselm,593
+16,2142350,Chris Schworer,C,Jr,10,10,2021,15580,St. Anselm,593
 28,2514247,Ryan Semenetz,P,Fr,2,0,2021,15580,St. Anselm,593
 45,2354403,Joe Sgobbo,P,So,3,0,2021,15580,St. Anselm,593
 23,2002782,Max Silverman,PH,Sr,13,12,2021,15580,St. Anselm,593

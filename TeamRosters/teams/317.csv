@@ -328,8 +328,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,2348983,Andrew Weight,P,Fr,2,0,2021,15580,James Madison,317
 38,2348987,Eric Volpi,1B,Fr,1,0,2021,15580,James Madison,317
 36,2486610,Joe Vogatsky,P,Fr,9,3,2021,15580,James Madison,317
-37,1997560,Nick Stewart,P,Jr,9,6,2021,15580,James Madison,317
 26,2486607,Michael Stewart,P,Fr,1,0,2021,15580,James Madison,317
+37,1997560,Nick Stewart,P,Jr,9,6,2021,15580,James Madison,317
 25,2116551,Callaway Sigler,OF,So,11,5,2021,15580,James Madison,317
 31,1997559,Justin Showalter,P,Jr,6,6,2021,15580,James Madison,317
 3,2123253,Josh Maguire,INF,So,2,2,2021,15580,James Madison,317
@@ -349,7 +349,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,2116550,Travis Reifsnider,C,Jr,43,40,2022,15860,James Madison,317
 25,2669576,Jason Schiavone,C,Fr,40,25,2022,15860,James Madison,317
 31,1997559,Justin Showalter,P,Sr,14,14,2022,15860,James Madison,317
-43,2669562,Casey Smith,UT,Fr,11,2,2022,15860,James Madison,317
+39,2669563,Evan Smith,P,Fr,6,0,2022,15860,James Madison,317
 17,2669577,Jacob Steinberg,UT,So,38,22,2022,15860,James Madison,317
 30,2116546,Kyle Novak,INF,Jr,53,53,2022,15860,James Madison,317
 26,2486607,Michael Stewart,P,So,10,0,2022,15860,James Madison,317
@@ -357,7 +357,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,2669565,Fenwick Trimble,OF,Fr,52,52,2022,15860,James Madison,317
 36,2486610,Joe Vogatsky,P,So,11,4,2022,15860,James Madison,317
 11,2116500,Nick Zona,INF,Jr,49,47,2022,15860,James Madison,317
-39,2669563,Evan Smith,P,Fr,6,0,2022,15860,James Madison,317
+43,2669562,Casey Smith,UT,Fr,11,2,2022,15860,James Madison,317
 24,1997560,Nick Stewart,P,Sr,6,0,2022,15860,James Madison,317
 3,2669575,Todd Mozoki,P,Fr,9,2,2022,15860,James Madison,317
 4,1997558,Liam Mcdonnell,P,Sr,16,13,2022,15860,James Madison,317

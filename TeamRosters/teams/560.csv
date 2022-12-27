@@ -211,7 +211,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,2121281,Jesse Spellman,,Fr,33,21,2019,14781,Queens  (ECC),560
 24,2002033,Anthony Scotti,DH,Jr,26,23,2019,14781,Queens  (ECC),560
 7,2002053,Eric Roubal,PH,Jr,48,47,2019,14781,Queens  (ECC),560
-4,2121239,Jayson Rodopoulos,,Fr,38,21,2019,14781,Queens  (ECC),560
+14,2121260,John Rodopoulos,,Fr,13,3,2019,14781,Queens  (ECC),560
 53,2002061,Adam Abreu,P,Sr,9,0,2019,14781,Queens  (ECC),560
 13,1765991,Robert Amato,P,Sr,0,0,2019,14781,Queens  (ECC),560
 9,1891614,Louis Antos,3B,Jr,50,50,2019,14781,Queens  (ECC),560
@@ -232,7 +232,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,1891732,James Mcgee,P,Jr,17,0,2019,14781,Queens  (ECC),560
 13,2002051,Ron Linsalato,CF,Sr,45,44,2019,14781,Queens  (ECC),560
 16,1643757,Michael Lamneck,P,Jr,14,12,2019,14781,Queens  (ECC),560
-14,2121260,John Rodopoulos,,Fr,13,3,2019,14781,Queens  (ECC),560
+4,2121239,Jayson Rodopoulos,,Fr,38,21,2019,14781,Queens  (ECC),560
 21,2002042,Kevin Kochen,P,So,16,1,2019,14781,Queens  (ECC),560
 42,1891730,Dylan Hughes,P,Jr,13,9,2019,14781,Queens  (ECC),560
 23,1891729,Brandon Hoskins,P,Jr,19,0,2019,14781,Queens  (ECC),560
@@ -267,7 +267,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2348160,Danny Gargano,P,Fr,4,2,2020,15204,Queens  (ECC),560
 1,2348149,Colin Diez,OF,Fr,11,10,2020,15204,Queens  (ECC),560
 34,2518161,John Dougherty,P,Fr,8,6,2021,15580,Queens  (ECC),560
-3,2121239,Jayson Rodopoulos,OF,Jr,25,23,2021,15580,Queens  (ECC),560
+14,2121260,John Rodopoulos,P,Jr,7,1,2021,15580,Queens  (ECC),560
 1,2518143,Jordan Ramlogan,2B,Fr,17,10,2021,15580,Queens  (ECC),560
 21,2518156,Liam Pulsipher,UT,So,15,11,2021,15580,Queens  (ECC),560
 45,2002039,Dimitri Papazoglou,P,Sr,11,0,2021,15580,Queens  (ECC),560
@@ -275,7 +275,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,2348152,Dante Interlandi,P,So,7,0,2021,15580,Queens  (ECC),560
 42,1891730,Dylan Hughes,P,Sr,8,4,2021,15580,Queens  (ECC),560
 19,2348154,Reed Hoskins,C,So,26,26,2021,15580,Queens  (ECC),560
-14,2121260,John Rodopoulos,P,Jr,7,1,2021,15580,Queens  (ECC),560
+3,2121239,Jayson Rodopoulos,OF,Jr,25,23,2021,15580,Queens  (ECC),560
 12,2518149,James Mahoney,2B,Fr,21,12,2021,15580,Queens  (ECC),560
 20,2518155,Brad Sakellarides,C,Fr,24,24,2021,15580,Queens  (ECC),560
 16,2518150,Robert Puccio,P,Fr,3,0,2021,15580,Queens  (ECC),560

@@ -320,8 +320,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,2112454,Dawson Brigman,INF,Jr,48,47,2021,15580,Santa Clara,631
 21,1996771,Michael Bowes,OF,Sr,48,45,2021,15580,Santa Clara,631
 12,1993772,Tony Boetto,C,Sr,38,36,2021,15580,Santa Clara,631
-20,2112462,Holden Bernhardt,P,Sr,10,3,2021,15580,Santa Clara,631
 23,2112464,Locke Bernhardt,P,Sr,16,4,2021,15580,Santa Clara,631
+20,2112462,Holden Bernhardt,P,Sr,10,3,2021,15580,Santa Clara,631
 10,2112466,Cam Allie,OF,So,0,0,2021,15580,Santa Clara,631
 35,1880834,Jason Dicochea,INF,Sr,51,50,2021,15580,Santa Clara,631
 24,2488892,Jonjon Berring,OF,Fr,22,7,2021,15580,Santa Clara,631
@@ -366,8 +366,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,2112453,Connor Henriques,INF,Sr,25,4,2022,15860,Santa Clara,631
 28,2685427,Nick Bacura,1B,Fr,6,2,2022,15860,Santa Clara,631
 24,2488892,Jonjon Berring,OF,So,47,42,2022,15860,Santa Clara,631
-3,2330628,Coleman Brigman,OF,Jr,51,51,2022,15860,Santa Clara,631
 4,2112454,Dawson Brigman,INF,Sr,44,42,2022,15860,Santa Clara,631
+3,2330628,Coleman Brigman,OF,Jr,51,51,2022,15860,Santa Clara,631
 17,1999872,Cal Christofori,C,Sr,47,43,2022,15860,Santa Clara,631
 14,2330631,Cole Kitchen,UT,Jr,15,14,2022,15860,Santa Clara,631
 3,1998123,Drake Davis,P,Jr,4,1,2022,15860,Santa Clara,631
@@ -378,8 +378,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,2681791,Robert Hipwell,dh,Fr,15,4,2022,15860,Santa Clara,631
 46,2488906,Skylar Hales,UT,So,15,12,2022,15860,Santa Clara,631
 31,2112487,John Hanley,UT,Sr,43,41,2022,15860,Santa Clara,631
-36,2488900,Jeffrey Heinrich,P,So,16,0,2022,15860,Santa Clara,631
 19,2112463,Ethan Heinrich,P,Sr,4,0,2022,15860,Santa Clara,631
+36,2488900,Jeffrey Heinrich,P,So,16,0,2022,15860,Santa Clara,631
 18,2331997,Jared Feikes,P,Jr,18,9,2022,15860,Santa Clara,631
 23,2685380,Blake Hammond,1B,Fr,21,3,2022,15860,Santa Clara,631
 28,2685427,Nick Bacura,1B,-,So,0,2023,16340,Santa Clara,631

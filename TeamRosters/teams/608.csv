@@ -73,15 +73,15 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,1535535,Ryan Sadler,P,Sr,12,5,2014,11620,Saint Leo,608
 12,1535550,Zachary Sabo,INF,Fr,7,0,2014,11620,Saint Leo,608
 30,1420640,Wilfred Ras,C,So,0,0,2014,11620,Saint Leo,608
-6,1535539,Nick Perez,INF,Jr,40,38,2014,11620,Saint Leo,608
+1,1420639,Taylor Perez,INF,So,49,49,2014,11620,Saint Leo,608
 11,1535562,Timothy  Jr. Osborne,OF,Fr,5,0,2014,11620,Saint Leo,608
 35,1535538,Liam O'Sullivan,P,Jr,16,12,2014,11620,Saint Leo,608
 37,1535563,Brett Nizamoff,P,Jr,6,0,2014,11620,Saint Leo,608
 15,1194432,Chris Newcomb,OF,Sr,45,38,2014,11620,Saint Leo,608
 44,1307879,Brandon Mumaw,P,Jr,0,0,2014,11620,Saint Leo,608
 18,1535553,Josh Mollett,P,Fr,4,3,2014,11620,Saint Leo,608
-38,1307880,Tyrone Miller,P,Jr,18,4,2014,11620,Saint Leo,608
 8,1535541,Chad Miller,INF,Fr,0,0,2014,11620,Saint Leo,608
+38,1307880,Tyrone Miller,P,Jr,18,4,2014,11620,Saint Leo,608
 23,1420644,Alex Mata,INF,Fr,44,42,2014,11620,Saint Leo,608
 28,1535560,Ethan Lichtenberg,P,Fr,11,0,2014,11620,Saint Leo,608
 39,1420647,Brent Krauss,P,Sr,14,6,2014,11620,Saint Leo,608
@@ -89,7 +89,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,1420646,Brandon Hemberger,OF,So,0,0,2014,11620,Saint Leo,608
 24,1535558,Dylan Harris,INF,Fr,49,49,2014,11620,Saint Leo,608
 2,1535537,Zachary Gary,P,Fr,13,3,2014,11620,Saint Leo,608
-1,1420639,Taylor Perez,INF,So,49,49,2014,11620,Saint Leo,608
+6,1535539,Nick Perez,INF,Jr,40,38,2014,11620,Saint Leo,608
 3,1194431,Bobby Twitty,OF,Sr,49,49,2015,12080,Saint Leo,608
 30,1647972,Carrington Boniske,INF,Fr,16,2,2015,12080,Saint Leo,608
 20,1653558,Chase Turner,CF,N/A,30,12,2015,12080,Saint Leo,608

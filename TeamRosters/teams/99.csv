@@ -278,8 +278,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 41,2305152,Jake Rons,P,Fr,4,1,2020,15204,Long Beach St.,99
 10,1979668,Santino Rivera,INF,Jr,15,13,2020,15204,Long Beach St.,99
 27,1884463,Connor Riley,P,Jr,1,0,2020,15204,Long Beach St.,99
-37,2305157,Luis Ramirez,P,Fr,4,4,2020,15204,Long Beach St.,99
 25,2305154,Isaac Ramirez,C,Fr,0,0,2020,15204,Long Beach St.,99
+37,2305157,Luis Ramirez,P,Fr,4,4,2020,15204,Long Beach St.,99
 33,2123307,Tyler Porter,INF,So,11,11,2020,15204,Long Beach St.,99
 35,2305242,Alex Pimentel,OF,Fr,14,4,2020,15204,Long Beach St.,99
 45,2123371,Basilio Pacheco,P,Fr,0,0,2020,15204,Long Beach St.,99
@@ -349,7 +349,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2305242,Alex Pimentel,OF,So,33,21,2022,15860,Long Beach St.,99
 32,2127948,Dalton Ponce,P,Jr,16,0,2022,15860,Long Beach St.,99
 33,2123307,Tyler Porter,INF,So,31,19,2022,15860,Long Beach St.,99
-37,2305157,Luis Ramirez,P,So,7,7,2022,15860,Long Beach St.,99
+12,2305154,Isaac Ramirez,UT,So,15,5,2022,15860,Long Beach St.,99
 14,2305240,Javier Rosales,OF,Sr,14,6,2022,15860,Long Beach St.,99
 8,2305152,Jake Rons,P,So,17,2,2022,15860,Long Beach St.,99
 1,2123287,Brennan Rozell,INF,Jr,16,5,2022,15860,Long Beach St.,99
@@ -358,7 +358,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 39,2655180,Zach Voelker,P,Fr,14,7,2022,15860,Long Beach St.,99
 23,2513137,Juaron Watts-Brown,P,Fr,15,12,2022,15860,Long Beach St.,99
 36,2655225,Tyler White,OF,Fr,38,20,2022,15860,Long Beach St.,99
-12,2305154,Isaac Ramirez,UT,So,15,5,2022,15860,Long Beach St.,99
+37,2305157,Luis Ramirez,P,So,7,7,2022,15860,Long Beach St.,99
 16,2655213,Kaden Moeller,P,Fr,26,14,2022,15860,Long Beach St.,99
 17,2123303,Charlie Loust,UT,So,16,11,2022,15860,Long Beach St.,99
 9,2305225,Jesse Lopez,OF,Sr,16,4,2022,15860,Long Beach St.,99

@@ -222,7 +222,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,1879725,Jonathan Tenaglia,OF,Sr,27,24,2018,12973,New York Tech,477
 34,1774428,Jake Lebel,1B,Jr,34,34,2018,12973,New York Tech,477
 6,1865784,Nick Vitale,INF,So,5,5,2018,12973,New York Tech,477
-21,1865779,Joseph Murphy,P,Jr,15,11,2019,14781,New York Tech,477
+11,2116593,Ryan Murphy,3B,Fr,14,3,2019,14781,New York Tech,477
 16,1759252,Brandon Alberto,P,Sr,0,0,2019,14781,New York Tech,477
 20,2116594,Matt Malone,C,Fr,44,39,2019,14781,New York Tech,477
 22,1865776,Dj Masuck,P,Jr,18,13,2019,14781,New York Tech,477
@@ -230,7 +230,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,2116569,Billy Mcquillan,P,Fr,2,0,2019,14781,New York Tech,477
 32,2116627,Matt Mione,P,Fr,2,0,2019,14781,New York Tech,477
 29,2116596,Trey Moran,1B,Fr,23,9,2019,14781,New York Tech,477
-11,2116593,Ryan Murphy,3B,Fr,14,3,2019,14781,New York Tech,477
+21,1865779,Joseph Murphy,P,Jr,15,11,2019,14781,New York Tech,477
 18,1975218,Joseph Pesce,OF,So,41,34,2019,14781,New York Tech,477
 40,1878539,Elvin Ramos Jr.,P,Sr,13,0,2019,14781,New York Tech,477
 37,2116612,Moises Robles,P,Jr,10,8,2019,14781,New York Tech,477
@@ -271,8 +271,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 48,2354583,Eric Luebcke,P,Fr,1,0,2020,15204,New York Tech,477
 17,1865774,Zach Kleinwaks,DH,Sr,7,2,2020,15204,New York Tech,477
 36,2116626,Alex Doskoez,P,So,0,0,2020,15204,New York Tech,477
-23,2116595,Kieran Dowd,3B,So,12,11,2020,15204,New York Tech,477
 3,1865771,Brendan Dowd,OF,Sr,4,0,2020,15204,New York Tech,477
+23,2116595,Kieran Dowd,3B,So,12,11,2020,15204,New York Tech,477
 28,2354142,Frankie Dimartino,2b,Fr,7,1,2020,15204,New York Tech,477
 9,1975219,Ej Cumbo,OF,So,14,14,2020,15204,New York Tech,477
 4,1865770,Timmy Cassese,INF,Sr,2,0,2020,15204,New York Tech,477

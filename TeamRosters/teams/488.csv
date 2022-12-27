@@ -225,8 +225,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,1873472,Justin Williams,INF,So,27,24,2019,14781,N.C. A&T,488
 24,2138770,Donte Wade,OF,Fr,38,25,2019,14781,N.C. A&T,488
 35,1873473,Ryne Stanley,C,Jr,50,48,2019,14781,N.C. A&T,488
-19,2138596,Gianni Smith,P,Fr,13,4,2019,14781,N.C. A&T,488
 8,1772278,Dawnoven Smith,OF,Sr,53,52,2019,14781,N.C. A&T,488
+19,2138596,Gianni Smith,P,Fr,13,4,2019,14781,N.C. A&T,488
 13,1772270,James Rorie,C,So,18,9,2019,14781,N.C. A&T,488
 34,1983931,Walfrank Pineiro,P,Sr,14,0,2019,14781,N.C. A&T,488
 32,1772271,Jarrett Norman,C,Sr,36,26,2019,14781,N.C. A&T,488
@@ -339,9 +339,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2488911,Daniel Carter,P,Jr,12,12,2022,15860,N.C. A&T,488
 41,2126719,Avery Cain,P,Jr,0,0,2022,15860,N.C. A&T,488
 24,2488928,Xavier Bussey,OF,So,30,30,2022,15860,N.C. A&T,488
-3,2674730,Jaheim Brown,P,Fr,17,10,2022,15860,N.C. A&T,488
-2,2674732,Camden Jackson,OF,So,44,42,2022,15860,N.C. A&T,488
 9,2674753,Canyon Brown,C,Fr,52,52,2022,15860,N.C. A&T,488
+2,2674732,Camden Jackson,OF,So,44,42,2022,15860,N.C. A&T,488
+3,2674730,Jaheim Brown,P,Fr,17,10,2022,15860,N.C. A&T,488
 32,2674763,Bret Mersman,INF,-,Sr,0,2023,16340,N.C. A&T,488
 6,2488899,Tj Ash,OF,-,Jr,0,2023,16340,N.C. A&T,488
 41,2126719,Avery Cain,P,-,Sr,0,2023,16340,N.C. A&T,488

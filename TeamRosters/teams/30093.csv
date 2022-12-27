@@ -59,7 +59,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,1986864,Davis Dunn,OF,Jr,10,1,2018,12973,AUM,30093
 20,1986863,Josh Flowers,UT,Jr,28,23,2018,12973,AUM,30093
 1,1871749,Donovan Chandler,OF,Sr,37,37,2018,12973,AUM,30093
-32,2131546,Micah Henderson,P,Jr,17,10,2019,14781,AUM,30093
+15,2131536,Casey Henderson,UT,Jr,46,37,2019,14781,AUM,30093
 2,1986890,Aaron Hill,UT,Sr,39,9,2019,14781,AUM,30093
 27,1871827,Hunter Hillyer,INF,Jr,13,3,2019,14781,AUM,30093
 99,2134146,Hunter Jones,INF,Fr,0,0,2019,14781,AUM,30093
@@ -73,7 +73,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,2131547,Will Sheffield,P,Jr,1,0,2019,14781,AUM,30093
 17,2131543,Sage Smelley,INF,Jr,46,43,2019,14781,AUM,30093
 39,1986910,Connor Smith,P,Sr,11,3,2019,14781,AUM,30093
-15,2131536,Casey Henderson,UT,Jr,46,37,2019,14781,AUM,30093
+32,2131546,Micah Henderson,P,Jr,17,10,2019,14781,AUM,30093
 8,2131535,Jolan Stieringer,UT,Jr,7,3,2019,14781,AUM,30093
 25,1986905,Matthew Zielonko,OF,Jr,48,48,2019,14781,AUM,30093
 8,1986892,Logan Nix,UT,Sr,0,0,2019,14781,AUM,30093
@@ -114,8 +114,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2131543,Sage Smelley,INF,Sr,13,9,2020,15204,AUM,30093
 27,1871827,Hunter Hillyer,INF,Sr,7,0,2020,15204,AUM,30093
 4,2131532,Quinterrious Arrington,OF,Sr,16,16,2020,15204,AUM,30093
-32,2131546,Micah Henderson,P,Sr,6,6,2020,15204,AUM,30093
 15,2131536,Casey Henderson,UT,Sr,16,12,2020,15204,AUM,30093
+32,2131546,Micah Henderson,P,Sr,6,6,2020,15204,AUM,30093
 30,2131544,Corey Armstrong,INF,Jr,14,11,2020,15204,AUM,30093
 40,2131548,Grayson Blackwell,INF,Sr,16,9,2020,15204,AUM,30093
 18,2329489,Tyler Britton,P,Fr,8,5,2020,15204,AUM,30093
@@ -143,8 +143,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,2131543,Sage Smelley,INF,Sr,38,36,2021,15580,AUM,30093
 24,2333403,P. Hope,C,Jr,3,1,2021,15580,AUM,30093
 5,2469485,Ethan Wells,OF,So,27,15,2021,15580,AUM,30093
-15,2131536,Casey Henderson,UT,Sr,41,41,2021,15580,AUM,30093
 32,2131546,Micah Henderson,P,Sr,13,13,2021,15580,AUM,30093
+15,2131536,Casey Henderson,UT,Sr,41,41,2021,15580,AUM,30093
 30,2131544,Corey Armstrong,INF,Jr,34,25,2021,15580,AUM,30093
 4,2131532,Quinterrious Arrington,OF,Sr,36,35,2021,15580,AUM,30093
 18,2329489,Tyler Britton,P,Fr,10,0,2021,15580,AUM,30093

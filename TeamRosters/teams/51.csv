@@ -247,12 +247,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 45,1866480,Cole Weaver,INF,Sr,17,11,2019,14781,Baylor,51
 29,2138953,Jake Walsh,C,Fr,1,0,2019,14781,Baylor,51
 50,1865510,Mackenzie Mueller,UT,Jr,23,17,2019,14781,Baylor,51
-16,1981335,Tyler Thomas,P,So,14,7,2019,14781,Baylor,51
+25,1866479,Andy Thomas,C,Jr,47,47,2019,14781,Baylor,51
 36,2138954,Ryan Segner,P,Fr,3,0,2019,14781,Baylor,51
 13,1866477,Hunter Seay,OF,Jr,6,1,2019,14781,Baylor,51
 37,1981336,Chase Wehsener,1B,Fr,53,51,2019,14781,Baylor,51
 15,1756910,Kyle Hill,P,Sr,24,0,2019,14781,Baylor,51
-25,1866479,Andy Thomas,C,Jr,47,47,2019,14781,Baylor,51
+16,1981335,Tyler Thomas,P,So,14,7,2019,14781,Baylor,51
 35,2138956,Brooks Helmer,P,Fr,7,0,2019,14781,Baylor,51
 20,1756913,T.J. Raguse,OF,Sr,8,2,2019,14781,Baylor,51
 30,1981328,Jacob Ashkinos,P,So,20,6,2019,14781,Baylor,51
@@ -323,7 +323,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,2471974,Jd Gregson,C,Fr,2,0,2021,15580,Baylor,51
 49,2471971,Grant Golomb,P,Fr,3,0,2021,15580,Baylor,51
 27,2329163,Evan Godwin,P,Fr,0,0,2021,15580,Baylor,51
-44,2138958,Logan Freeman,P,Sr,20,1,2021,15580,Baylor,51
+38,2309301,Chandler Freeman,UT,Fr,7,0,2021,15580,Baylor,51
 9,1981329,Davion Downey,OF,Jr,50,50,2021,15580,Baylor,51
 19,2329149,Cade Currington,C,Fr,32,27,2021,15580,Baylor,51
 40,2471967,Zac Childers,P,Fr,5,0,2021,15580,Baylor,51
@@ -333,7 +333,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,2329154,Nicolas Balsano,C,Fr,6,0,2021,15580,Baylor,51
 30,1981328,Jacob Ashkinos,P,Jr,18,0,2021,15580,Baylor,51
 35,2138956,Brooks Helmer,P,So,2,1,2021,15580,Baylor,51
-38,2309301,Chandler Freeman,UT,Fr,7,0,2021,15580,Baylor,51
+44,2138958,Logan Freeman,P,Sr,20,1,2021,15580,Baylor,51
 15,2329141,Will Rigney,P,Fr,2,0,2021,15580,Baylor,51
 32,2329128,Tre Richardson,INF,Fr,51,51,2021,15580,Baylor,51
 33,2471986,Jack Pineda,INF,So,51,51,2021,15580,Baylor,51
@@ -343,10 +343,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 3,2472000,Antonio Valdez,INF,So,42,30,2021,15580,Baylor,51
 31,2471998,Luke Thompson,P,Fr,2,1,2021,15580,Baylor,51
 36,2471983,Ryan Patterson,OF,Fr,1,0,2021,15580,Baylor,51
-25,1866479,Andy Thomas,C,Sr,51,51,2021,15580,Baylor,51
+16,1981335,Tyler Thomas,P,Jr,11,11,2021,15580,Baylor,51
 1,2329113,Nolan Rodriguez,OF,Fr,11,0,2021,15580,Baylor,51
 42,2471990,Jacob Schoenvogel,OF,Fr,19,5,2021,15580,Baylor,51
-16,1981335,Tyler Thomas,P,Jr,11,11,2021,15580,Baylor,51
+25,1866479,Andy Thomas,C,Sr,51,51,2021,15580,Baylor,51
 51,2471995,Cole Stasio,P,Fr,1,0,2021,15580,Baylor,51
 52,2471991,Joey Schott,P,Fr,0,0,2021,15580,Baylor,51
 47,2471965,Beau Wimpee,INF,So,24,2,2022,15860,Baylor,51

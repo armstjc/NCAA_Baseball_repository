@@ -305,8 +305,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,2521783,Nate Beal,P,Fr,0,0,2021,15580,Penn,540
 3,2329767,Jackson Appel,C,So,8,6,2021,15580,Penn,540
 7,1973609,Kyle Cronk,OF,Sr,8,3,2021,15580,Penn,540
-2,2329764,Ben Miller,INF,So,11,10,2021,15580,Penn,540
 33,2137381,Joe Miller,P,Jr,5,4,2021,15580,Penn,540
+2,2329764,Ben Miller,INF,So,11,10,2021,15580,Penn,540
 14,2521779,Carson Ozmer,SS,Fr,3,0,2021,15580,Penn,540
 31,2521781,Justin Neskie,P,Fr,1,0,2021,15580,Penn,540
 26,2329777,Brian Zeldin,P,So,4,1,2021,15580,Penn,540
@@ -320,7 +320,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2329769,Cole Palis,UT,So,12,4,2021,15580,Penn,540
 23,2329775,David Shoemaker,P,So,4,0,2021,15580,Penn,540
 25,2656016,Nate Polo,OF,Fr,24,24,2022,15860,Penn,540
-2,2329764,Ben Miller,INF,Jr,48,48,2022,15860,Penn,540
+33,2137381,Joe Miller,P,Sr,13,11,2022,15860,Penn,540
 17,2656011,Noah Millikan,P,Fr,5,2,2022,15860,Penn,540
 31,2521781,Justin Neskie,P,So,2,0,2022,15860,Penn,540
 14,2521779,Carson Ozmer,SS,So,25,10,2022,15860,Penn,540
@@ -330,7 +330,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,2329775,David Shoemaker,P,Jr,21,0,2022,15860,Penn,540
 13,2656018,Will Tobin,P,Fr,6,2,2022,15860,Penn,540
 37,2656022,Eli Trop,P,Fr,10,0,2022,15860,Penn,540
-33,2137381,Joe Miller,P,Sr,13,11,2022,15860,Penn,540
+2,2329764,Ben Miller,INF,Jr,48,48,2022,15860,Penn,540
 39,2656024,Asa Wilson,C,Fr,20,16,2022,15860,Penn,540
 12,2521778,Cole Zaffiro,P,So,14,10,2022,15860,Penn,540
 26,2329777,Brian Zeldin,P,Jr,2,2,2022,15860,Penn,540

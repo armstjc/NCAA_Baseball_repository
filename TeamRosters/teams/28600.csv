@@ -261,8 +261,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,2123329,Haddon Adams,INF,Sr,16,16,2020,15204,Lipscomb,28600
 28,2309745,Dylan Bierman,P,Jr,4,4,2020,15204,Lipscomb,28600
 12,1974044,Carson Wright,OF,Jr,7,2,2020,15204,Lipscomb,28600
-44,2309752,Malik Williams,INF,Jr,16,16,2020,15204,Lipscomb,28600
 31,2309758,Patrick Williams,P,Fr,5,2,2020,15204,Lipscomb,28600
+44,2309752,Malik Williams,INF,Jr,16,16,2020,15204,Lipscomb,28600
 10,2309728,Jordan Wilkie,INF,Fr,0,0,2020,15204,Lipscomb,28600
 27,1753151,Von Watson,OF,Sr,13,10,2020,15204,Lipscomb,28600
 29,2309749,Logan Van Treeck,P,Fr,7,2,2020,15204,Lipscomb,28600
@@ -316,12 +316,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 43,2462546,Hayden Skipper,UT,Fr,0,0,2021,15580,Lipscomb,28600
 21,2309737,John Shields,OF,Jr,0,0,2021,15580,Lipscomb,28600
 12,1974044,Carson Wright,OF,Jr,16,2,2021,15580,Lipscomb,28600
-34,2462543,Caleb Williams,P,So,13,2,2021,15580,Lipscomb,28600
 44,2309752,Malik Williams,INF,Jr,40,38,2021,15580,Lipscomb,28600
+31,2309758,Patrick Williams,P,Fr,16,3,2021,15580,Lipscomb,28600
 26,2462559,Tanner Morgan,P,Fr,15,0,2021,15580,Lipscomb,28600
 29,2309749,Logan Van Treeck,P,Fr,10,10,2021,15580,Lipscomb,28600
 5,2112669,Carter Smith,UT,Sr,36,34,2021,15580,Lipscomb,28600
-31,2309758,Patrick Williams,P,Fr,16,3,2021,15580,Lipscomb,28600
+34,2462543,Caleb Williams,P,So,13,2,2021,15580,Lipscomb,28600
 15,1974047,Noah Thompson,P,Jr,5,2,2021,15580,Lipscomb,28600
 23,2462540,Ethan Stamps,INF,Fr,25,22,2021,15580,Lipscomb,28600
 24,2678932,Collin Witzke,P,So,17,8,2022,15860,Lipscomb,28600
@@ -336,8 +336,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,1974047,Noah Thompson,P,Sr,18,2,2022,15860,Lipscomb,28600
 29,2309749,Logan Van Treeck,P,So,13,7,2022,15860,Lipscomb,28600
 30,2678913,Trace Willhoite,INF,Fr,58,58,2022,15860,Lipscomb,28600
-31,2309758,Patrick Williams,P,So,15,0,2022,15860,Lipscomb,28600
 44,2309752,Malik Williams,INF,Sr,58,58,2022,15860,Lipscomb,28600
+31,2309758,Patrick Williams,P,So,15,0,2022,15860,Lipscomb,28600
 21,2309737,John Shields,OF,Sr,50,46,2022,15860,Lipscomb,28600
 11,2462546,Hayden Skipper,UT,So,11,1,2022,15860,Lipscomb,28600
 22,2123316,Matthew Maldonado,UT,Jr,21,0,2022,15860,Lipscomb,28600

@@ -143,14 +143,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,1754306,Gavin Crimmins,INF,Jr,13,4,2018,12973,Spring Hill,30191
 9,1867425,Daniel Rodriguez,INF,So,30,30,2018,12973,Spring Hill,30191
 11,1976330,Chet Silveria,OF,Sr,14,2,2019,14781,Spring Hill,30191
-8,1976329,Grayson Williams,OF,So,50,50,2019,14781,Spring Hill,30191
+15,1754304,Jonathan Williams,P,So,0,0,2019,14781,Spring Hill,30191
 15,2133963,Taylor Gibson,P,So,12,11,2019,14781,Spring Hill,30191
 16,1754298,Brennan Fontenot,C,Sr,50,49,2019,14781,Spring Hill,30191
 18,1882066,A.J. Fell,OF,Jr,16,6,2019,14781,Spring Hill,30191
 26,1976334,Luke Dykes,P,Jr,12,9,2019,14781,Spring Hill,30191
 38,2133950,Garrett Dyess,P,Fr,0,0,2019,14781,Spring Hill,30191
-23,2156849,J. Delrio,p,Fr,1,0,2019,14781,Spring Hill,30191
 40,2133962,R.J. Delrio,P,Fr,9,0,2019,14781,Spring Hill,30191
+23,2156849,J. Delrio,p,Fr,1,0,2019,14781,Spring Hill,30191
 1,1976291,Garrett Dearaujo,OF,So,1,0,2019,14781,Spring Hill,30191
 24,2133964,Ashton Goldring,OF,Fr,7,1,2019,14781,Spring Hill,30191
 10,1754306,Gavin Crimmins,INF,Sr,6,0,2019,14781,Spring Hill,30191
@@ -185,7 +185,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,2133965,Colin Millar,P,Fr,13,0,2019,14781,Spring Hill,30191
 25,2133955,Christian Long,P,So,8,0,2019,14781,Spring Hill,30191
 4,1754295,Maverick Latour,SS,Sr,28,8,2019,14781,Spring Hill,30191
-15,1754304,Jonathan Williams,P,So,0,0,2019,14781,Spring Hill,30191
+8,1976329,Grayson Williams,OF,So,50,50,2019,14781,Spring Hill,30191
 37,2008486,Chris George,INF,So,9,3,2019,14781,Spring Hill,30191
 13,1867427,Michael Romano,P,Jr,8,0,2020,15204,Spring Hill,30191
 14,2303807,Logan Clark,P,Jr,5,5,2020,15204,Spring Hill,30191

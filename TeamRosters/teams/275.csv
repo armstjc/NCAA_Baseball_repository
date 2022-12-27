@@ -243,8 +243,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,1975738,Matt Thomas,C,So,25,11,2019,14781,Harvard,275
 15,1866185,Jake Suddleson,OF,Jr,43,43,2019,14781,Harvard,275
 19,2137511,Harrison Stovern,UT,Fr,14,0,2019,14781,Harvard,275
-25,1762722,Kevin Stone,P,Sr,12,8,2019,14781,Harvard,275
 26,1866184,Grant Stone,P,Jr,5,0,2019,14781,Harvard,275
+25,1762722,Kevin Stone,P,Sr,12,8,2019,14781,Harvard,275
 36,1975737,Nate Stephens,C,So,0,0,2019,14781,Harvard,275
 38,1975712,Enzo Stefanoni,P,So,20,1,2019,14781,Harvard,275
 19,1762712,Rey Pascual,C,Sr,0,0,2019,14781,Harvard,275
@@ -263,9 +263,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 38,1975712,Enzo Stefanoni,P,Jr,2,2,2020,15204,Harvard,275
 25,2309228,Adam Stone,P,Fr,0,0,2020,15204,Harvard,275
 26,1866184,Grant Stone,P,Sr,0,0,2020,15204,Harvard,275
-13,2309236,Pryor Thomas,UT,Fr,5,2,2020,15204,Harvard,275
-15,1866185,Jake Suddleson,OF,Sr,5,5,2020,15204,Harvard,275
 14,1975738,Matt Thomas,C,Jr,6,6,2020,15204,Harvard,275
+15,1866185,Jake Suddleson,OF,Sr,5,5,2020,15204,Harvard,275
+13,2309236,Pryor Thomas,UT,Fr,5,2,2020,15204,Harvard,275
 22,2309227,Spencer Williams,OF,Fr,1,1,2020,15204,Harvard,275
 77,2309209,Tim Williamson,P,Fr,2,0,2020,15204,Harvard,275
 21,1975739,Jaren Zinn,P,Jr,2,0,2020,15204,Harvard,275

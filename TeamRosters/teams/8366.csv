@@ -96,17 +96,17 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,1888092,Trevor Powers,OF,Sr,5,1,2020,15204,Goldey-Beacom,8366
 4,1869855,Zach Roseman,INF,Sr,8,7,2020,15204,Goldey-Beacom,8366
 7,2128831,Mason Maxwell,INF,So,17,16,2020,15204,Goldey-Beacom,8366
-27,2128841,Carlos Solis,P,Sr,4,0,2020,15204,Goldey-Beacom,8366
+13,2128836,Ivan Solis,C,Sr,14,14,2020,15204,Goldey-Beacom,8366
 37,1988670,Bailey Spence,P,Sr,4,4,2020,15204,Goldey-Beacom,8366
 17,2319895,Luke Taylor,P,Fr,5,1,2020,15204,Goldey-Beacom,8366
-5,1869856,Tevin Thomas,INF,Sr,16,14,2020,15204,Goldey-Beacom,8366
 20,2319888,Troy Thomas,P,Sr,2,1,2020,15204,Goldey-Beacom,8366
+5,1869856,Tevin Thomas,INF,Sr,16,14,2020,15204,Goldey-Beacom,8366
 35,2319891,Hayden Trimarco,P,Fr,0,0,2020,15204,Goldey-Beacom,8366
-13,2128836,Ivan Solis,C,Sr,14,14,2020,15204,Goldey-Beacom,8366
+27,2128841,Carlos Solis,P,Sr,4,0,2020,15204,Goldey-Beacom,8366
 26,1869863,Jake Kinsell,P,Sr,5,1,2020,15204,Goldey-Beacom,8366
 33,1869891,Isaiah Holmes,P,Sr,0,0,2020,15204,Goldey-Beacom,8366
-34,1988669,Trevor Jump,P,Jr,4,4,2020,15204,Goldey-Beacom,8366
 30,2319899,Justin Jump,P,Fr,5,0,2020,15204,Goldey-Beacom,8366
+34,1988669,Trevor Jump,P,Jr,4,4,2020,15204,Goldey-Beacom,8366
 9,2128815,Marshall Awtry,C,So,14,14,2020,15204,Goldey-Beacom,8366
 25,1869888,John Barkley Jr.,P,Sr,3,0,2020,15204,Goldey-Beacom,8366
 2,2000266,Bryan Bell,INF,Jr,12,11,2020,15204,Goldey-Beacom,8366
@@ -175,9 +175,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2319895,Luke Taylor,P,So,10,1,2022,15860,Goldey-Beacom,8366
 25,2319891,Hayden Trimarco,P,So,1,0,2022,15860,Goldey-Beacom,8366
 10,2654759,Jake Vitale,INF,Fr,11,0,2022,15860,Goldey-Beacom,8366
-36,2319899,Justin Jump,P,So,13,4,2022,15860,Goldey-Beacom,8366
-41,2654781,Logan Musey,P,Fr,2,0,2022,15860,Goldey-Beacom,8366
 34,1988669,Trevor Jump,P,Sr,10,3,2022,15860,Goldey-Beacom,8366
+41,2654781,Logan Musey,P,Fr,2,0,2022,15860,Goldey-Beacom,8366
+36,2319899,Justin Jump,P,So,13,4,2022,15860,Goldey-Beacom,8366
 19,2654762,Cole Fowler,INF,Fr,30,24,2022,15860,Goldey-Beacom,8366
 1,2503513,Demetrius Johnson,OF,So,50,50,2022,15860,Goldey-Beacom,8366
 13,2654761,Wyatt Atkinson,P,Fr,9,2,2022,15860,Goldey-Beacom,8366

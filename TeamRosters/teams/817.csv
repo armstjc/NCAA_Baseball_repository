@@ -268,7 +268,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,1868743,Zack Minney,P,Sr,1,0,2020,15204,Youngstown St.,817
 26,1777799,Cameron Murray,OF,Sr,9,3,2020,15204,Youngstown St.,817
 1,1974026,Lucas Nasonti,OF,Jr,14,14,2020,15204,Youngstown St.,817
-25,2308649,Padraig O'Shaughnessy,1B,So,7,2,2020,15204,Youngstown St.,817
+23,2308647,Braeden O'Shaughnessy,INF,Fr,9,6,2020,15204,Youngstown St.,817
 33,2126079,Travis Perry,P,So,3,3,2020,15204,Youngstown St.,817
 31,1974004,Nick Labrasca,1B,So,1,0,2020,15204,Youngstown St.,817
 38,2126038,John Ritter,C,So,0,0,2020,15204,Youngstown St.,817
@@ -276,7 +276,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,2126080,Dylan Swarmer,C,So,4,2,2020,15204,Youngstown St.,817
 18,2308671,Bryce Warwick,P,Fr,5,1,2020,15204,Youngstown St.,817
 7,1974031,Jeff Wehler,OF,Jr,14,14,2020,15204,Youngstown St.,817
-23,2308647,Braeden O'Shaughnessy,INF,Fr,9,6,2020,15204,Youngstown St.,817
+25,2308649,Padraig O'Shaughnessy,1B,So,7,2,2020,15204,Youngstown St.,817
 40,1974003,Grant Kersh,P,So,1,0,2020,15204,Youngstown St.,817
 34,2308687,Kenny Misik,P,Fr,0,0,2020,15204,Youngstown St.,817
 21,2308645,Turner Grau,OF,Fr,14,13,2020,15204,Youngstown St.,817
@@ -337,8 +337,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 3,1751893,Joel Hake,P,Sr,26,0,2021,15580,Youngstown St.,817
 34,2308687,Kenny Misik,P,So,23,0,2022,15860,Youngstown St.,817
 1,1974026,Lucas Nasonti,OF,Sr,55,55,2022,15860,Youngstown St.,817
-23,2308647,Braeden O'Shaughnessy,INF,Jr,57,57,2022,15860,Youngstown St.,817
 25,2308649,Padraig O'Shaughnessy,1B,Sr,57,56,2022,15860,Youngstown St.,817
+23,2308647,Braeden O'Shaughnessy,INF,Jr,57,57,2022,15860,Youngstown St.,817
 36,2659272,Pete Panko,OF,Sr,1,1,2022,15860,Youngstown St.,817
 26,2471822,Nick Perez,P,So,17,4,2022,15860,Youngstown St.,817
 41,2348226,Andrew Russell,P,Jr,6,0,2022,15860,Youngstown St.,817

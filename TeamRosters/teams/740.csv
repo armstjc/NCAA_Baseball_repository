@@ -178,8 +178,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,1865933,Austin Gregory,OF,Fr,4,0,2017,12560,VCU,740
 27,1769561,Dylan Isquirdo,C,Sr,47,42,2017,12560,VCU,740
 40,1769565,Jack Alkire,P,So,1,0,2017,12560,VCU,740
-15,1548890,Darian Carpenter,INF,Sr,57,57,2017,12560,VCU,740
 1,1865926,Steven Carpenter,INF,Fr,38,26,2017,12560,VCU,740
+15,1548890,Darian Carpenter,INF,Sr,57,57,2017,12560,VCU,740
 13,1769557,Zac Ching,INF,So,57,57,2017,12560,VCU,740
 7,1769556,Brody Cook,INF,So,13,2,2017,12560,VCU,740
 35,1769568,Luke Crabb,P,Sr,11,0,2017,12560,VCU,740
@@ -232,7 +232,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,2140555,Connor Hicks,C,Fr,0,0,2019,14781,VCU,740
 16,1991701,Liam Hibbits,1B,So,57,53,2019,14781,VCU,740
 23,1991726,Devin Dunn,P,So,13,2,2019,14781,VCU,740
-99,1893250,Brooks Knapek,P,So,0,0,2019,14781,VCU,740
+98,1893254,Carter Knapek,P,So,0,0,2019,14781,VCU,740
 12,2140554,Brandon Henson,OF,Jr,35,34,2019,14781,VCU,740
 25,1769560,Benjamin Dum,P,Sr,22,1,2019,14781,VCU,740
 22,1876298,Andrew Puglielli,3B,Fr,24,5,2019,14781,VCU,740
@@ -244,7 +244,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,1991719,Curtis Bafus,P,Sr,16,7,2019,14781,VCU,740
 21,2140549,Logan Amiss,C,Fr,34,19,2019,14781,VCU,740
 40,1769565,Jack Alkire,P,Sr,17,7,2019,14781,VCU,740
-98,1893254,Carter Knapek,P,So,0,0,2019,14781,VCU,740
+99,1893250,Brooks Knapek,P,So,0,0,2019,14781,VCU,740
 30,1769563,Michael Dailey,P,Sr,0,0,2019,14781,VCU,740
 14,2140556,Brett Norwood,INF,Jr,54,54,2019,14781,VCU,740
 28,1991697,Mac Mccarty,P,Sr,7,0,2019,14781,VCU,740

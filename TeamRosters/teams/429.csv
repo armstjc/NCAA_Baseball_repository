@@ -285,7 +285,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2118317,Chauncey Callier,OF,Sr,20,20,2020,15204,Mississippi Col.,429
 26,2118327,Cj Berry,OF,So,5,2,2020,15204,Mississippi Col.,429
 36,2118338,Sam Ciaccio,P,Jr,3,0,2021,15580,Mississippi Col.,429
-18,2319019,Truitt Smith,P,Sr,5,0,2021,15580,Mississippi Col.,429
+31,2462169,Josh Smith,P,Jr,6,1,2021,15580,Mississippi Col.,429
 3,2319011,Markarius Lee,OF,Sr,24,18,2021,15580,Mississippi Col.,429
 35,2118334,Bryce Lewis,P,So,12,11,2021,15580,Mississippi Col.,429
 4,2140038,Dylan Marsh,P,Sr,13,2,2021,15580,Mississippi Col.,429
@@ -312,7 +312,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,2319016,Jackson Bridges,P,Jr,12,12,2021,15580,Mississippi Col.,429
 14,2118321,Dustan Dille,P,Sr,4,0,2021,15580,Mississippi Col.,429
 33,2319022,David Dunn,P,Sr,8,1,2021,15580,Mississippi Col.,429
-11,2462167,Jackson Smith,P,Jr,14,0,2021,15580,Mississippi Col.,429
+18,2319019,Truitt Smith,P,Sr,5,0,2021,15580,Mississippi Col.,429
 5,1868893,Dylan Duplechain,INF,Sr,36,36,2021,15580,Mississippi Col.,429
 32,2319021,Luke Files,P,Sr,3,0,2021,15580,Mississippi Col.,429
 15,2462113,Cooper Gadman,P,Fr,1,0,2021,15580,Mississippi Col.,429
@@ -322,7 +322,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,2328949,Alex Hay,C,Sr,27,26,2021,15580,Mississippi Col.,429
 38,1980054,Brewer Hendrix,P,Jr,4,0,2021,15580,Mississippi Col.,429
 16,2319015,George Farid,INF,Sr,36,36,2021,15580,Mississippi Col.,429
-31,2462169,Josh Smith,P,Jr,6,1,2021,15580,Mississippi Col.,429
+11,2462167,Jackson Smith,P,Jr,14,0,2021,15580,Mississippi Col.,429
 1,2462164,John Rice,INF,So,19,16,2022,15860,Mississippi Col.,429
 4,2118327,Cj Berry,OF,Sr,25,19,2022,15860,Mississippi Col.,429
 17,2319023,Lane Willis,INF,Jr,48,48,2022,15860,Mississippi Col.,429

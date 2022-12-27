@@ -206,8 +206,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,1668346,Matt Yates,P,Sr,8,8,2019,14781,Cedarville,30124
 6,1889970,Matthew Biermann,C,Jr,44,44,2019,14781,Cedarville,30124
 12,2132510,Kevin Zhang,P,Fr,9,0,2019,14781,Cedarville,30124
-44,2132525,Trace Gillis,P,Jr,13,9,2019,14781,Cedarville,30124
 31,2132514,Tanner Gillis,P,Fr,4,0,2019,14781,Cedarville,30124
+44,2132525,Trace Gillis,P,Jr,13,9,2019,14781,Cedarville,30124
 12,2132510,Kevin Zhang,P,So,2,1,2020,15204,Cedarville,30124
 5,1993312,Brendan Toungate,C,Jr,10,9,2020,15204,Cedarville,30124
 36,2000408,Conner Tenhove,P,Jr,0,0,2020,15204,Cedarville,30124
@@ -256,7 +256,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2494442,Wyatt Petek,P,Fr,3,0,2021,15580,Cedarville,30124
 28,1765244,Riley Landrum,P,Sr,17,0,2021,15580,Cedarville,30124
 1,1992883,Bryce Hughes,OF,Sr,14,14,2021,15580,Cedarville,30124
-22,2319887,Blais Hale,INF,So,39,39,2021,15580,Cedarville,30124
+29,2319889,Reid Hale,P,So,13,0,2021,15580,Cedarville,30124
 25,2132450,Jadon Ambrose,INF,Jr,13,6,2021,15580,Cedarville,30124
 31,2319890,Westin Blattner,C,Jr,22,15,2021,15580,Cedarville,30124
 6,2494438,Dylan Bower,P,Fr,6,0,2021,15580,Cedarville,30124
@@ -271,7 +271,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2132525,Trace Gillis,P,Sr,11,9,2021,15580,Cedarville,30124
 44,2132514,Tanner Gillis,P,Jr,8,0,2021,15580,Cedarville,30124
 21,2494444,Caleb Gross,P,Fr,0,0,2021,15580,Cedarville,30124
-29,2319889,Reid Hale,P,So,13,0,2021,15580,Cedarville,30124
+22,2319887,Blais Hale,INF,So,39,39,2021,15580,Cedarville,30124
 13,2494441,Alex Sparks,P,Fr,7,0,2021,15580,Cedarville,30124
 00,2494436,Daniel Sewak,C,Jr,32,31,2021,15580,Cedarville,30124
 42,2319913,Ethan Milburn,P,Jr,13,12,2022,15860,Cedarville,30124

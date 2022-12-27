@@ -75,8 +75,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,1554077,Connor Foley,3B,N/A,44,41,2014,11620,Saginaw Valley,591
 33,1554080,D.J. Reetz,P,N/A,16,0,2014,11620,Saginaw Valley,591
 47,1218031,Mike Schaaf,P,Sr,0,0,2014,11620,Saginaw Valley,591
-41,1308881,Jeff Schalk,P,Jr,16,1,2014,11620,Saginaw Valley,591
 12,1308879,Brad Schalk,OF,Jr,46,46,2014,11620,Saginaw Valley,591
+41,1308881,Jeff Schalk,P,Jr,16,1,2014,11620,Saginaw Valley,591
 26,1427140,Tyler Schwanz,OF,So,46,46,2014,11620,Saginaw Valley,591
 38,1308880,Scott Sency,P,Jr,0,0,2014,11620,Saginaw Valley,591
 20,1427142,Garrett Soule,INF,So,13,8,2014,11620,Saginaw Valley,591
@@ -320,12 +320,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,2143013,Nolan Knauf,P,So,2,0,2020,15204,Saginaw Valley,591
 27,2146869,Thomas Loftus,OF,So,12,11,2020,15204,Saginaw Valley,591
 7,1867049,Austin Koin,UT,Sr,11,10,2020,15204,Saginaw Valley,591
-8,2343776,Parker Jatczak,INF,So,16,7,2021,15580,Saginaw Valley,591
+35,2507485,Hayden Jatczak,1b,Fr,32,32,2021,15580,Saginaw Valley,591
 17,2142442,Anthony Kania,C,Jr,0,0,2021,15580,Saginaw Valley,591
 9,2343777,Jordan Klapko,C,Jr,0,0,2021,15580,Saginaw Valley,591
 23,2143013,Nolan Knauf,P,Jr,8,7,2021,15580,Saginaw Valley,591
 27,2146869,Thomas Loftus,OF,Jr,30,28,2021,15580,Saginaw Valley,591
-35,2507485,Hayden Jatczak,1b,Fr,32,32,2021,15580,Saginaw Valley,591
+8,2343776,Parker Jatczak,INF,So,16,7,2021,15580,Saginaw Valley,591
 15,2507486,Connor Mcclennen,ss,Fr,29,29,2021,15580,Saginaw Valley,591
 32,2507487,Tyler Mclaren,p,Fr,8,1,2021,15580,Saginaw Valley,591
 29,2343860,Hunter Merillat,P,So,12,2,2021,15580,Saginaw Valley,591
@@ -364,8 +364,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,2142432,Martin Money,INF,Jr,45,45,2022,15860,Saginaw Valley,591
 26,2343826,Matt Montroy,P,So,0,0,2022,15860,Saginaw Valley,591
 13,1997733,Todd Paperd,C,Jr,47,45,2022,15860,Saginaw Valley,591
-47,2657125,Nolan Raymond,C,So,9,0,2022,15860,Saginaw Valley,591
 40,2657083,Reed Raymond,OF,Fr,48,48,2022,15860,Saginaw Valley,591
+47,2657125,Nolan Raymond,C,So,9,0,2022,15860,Saginaw Valley,591
 4,2146723,Tucker Roe,INF,Jr,46,41,2022,15860,Saginaw Valley,591
 50,2657124,Ethan Rose,INF,Fr,13,2,2022,15860,Saginaw Valley,591
 43,2343864,Christopher Schmees,P,So,12,10,2022,15860,Saginaw Valley,591

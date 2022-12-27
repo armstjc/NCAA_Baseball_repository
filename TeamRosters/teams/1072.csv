@@ -336,7 +336,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,1990522,Isaiah Lewis,DH,Sr,0,0,2019,14781,Erskine,1072
 32,1884072,Jake Bennett,C,Jr,0,0,2019,14781,Erskine,1072
 40,1878466,Ian Kimbrell,P,Sr,0,0,2019,14781,Erskine,1072
-3,1993864,Justin Brasher,PH/SS,So,0,0,2019,14781,Erskine,1072
+30,2007685,Brandon Brasher,P,Jr,0,0,2019,14781,Erskine,1072
 28,1763175,Alex Calvert,P,Sr,17,14,2019,14781,Erskine,1072
 29,2130214,Corey Cannon,p,Fr,6,0,2019,14781,Erskine,1072
 14,1878416,Zach Carter,P,Jr,14,8,2019,14781,Erskine,1072
@@ -365,7 +365,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,1763119,Trevor Wood,DH,Jr,38,31,2019,14781,Erskine,1072
 43,1878409,Mike Webb,1B,Jr,0,0,2019,14781,Erskine,1072
 41,1650617,Zack Bowers,P,Sr,13,13,2019,14781,Erskine,1072
-30,2007685,Brandon Brasher,P,Jr,0,0,2019,14781,Erskine,1072
+3,1993864,Justin Brasher,PH/SS,So,0,0,2019,14781,Erskine,1072
 23,1990510,Drew Yniesta,RF,So,49,49,2019,14781,Erskine,1072
 4,1980480,Cal Bocchino,INF,So,24,20,2020,15204,Erskine,1072
 6,2130221,Trevor Lesane,cf,Sr,25,23,2020,15204,Erskine,1072
@@ -377,8 +377,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,2136404,Zach Overholt,P,Fr,12,3,2020,15204,Erskine,1072
 27,2331188,Jaisen Randolph,,Jr,12,8,2020,15204,Erskine,1072
 49,2331217,Dalton Reeves,,Fr,1,0,2020,15204,Erskine,1072
+28,2331203,Livan Reinoso,,Jr,21,19,2020,15204,Erskine,1072
 25,2331202,Dayan Reinoso,,Jr,18,17,2020,15204,Erskine,1072
-15,2331201,Adan Reinoso,,Jr,2,0,2020,15204,Erskine,1072
 42,2331193,Allan Saathoff,,Jr,5,4,2020,15204,Erskine,1072
 8,2130217,Gregory Sanders,rf,So,25,24,2020,15204,Erskine,1072
 24,2130223,Asher Smith,ph,Sr,18,11,2020,15204,Erskine,1072
@@ -387,9 +387,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 50,2331218,Chris Tyler,,Jr,1,0,2020,15204,Erskine,1072
 12,2130224,Xander Vizzcorando,c,Sr,21,20,2020,15204,Erskine,1072
 23,1990510,Drew Yniesta,RF,Jr,26,26,2020,15204,Erskine,1072
-28,2331203,Livan Reinoso,,Jr,21,19,2020,15204,Erskine,1072
-44,2331212,Quinten Kinard,,Jr,3,0,2020,15204,Erskine,1072
+15,2331201,Adan Reinoso,,Jr,2,0,2020,15204,Erskine,1072
 54,2331220,Cody Kinard,,Fr,1,0,2020,15204,Erskine,1072
+44,2331212,Quinten Kinard,,Jr,3,0,2020,15204,Erskine,1072
 51,2331219,Weston Kerley,,Jr,3,2,2020,15204,Erskine,1072
 14,1878416,Zach Carter,P,Sr,23,21,2020,15204,Erskine,1072
 39,2331191,Parker Cassell,,Fr,3,0,2020,15204,Erskine,1072
@@ -429,8 +429,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 38,2458429,Nick Pineda,P,Fr,8,3,2021,15580,Erskine,1072
 41,2331217,Dalton Reeves,,So,38,33,2021,15580,Erskine,1072
 99,2331201,Adan Reinoso,,Sr,0,0,2021,15580,Erskine,1072
-25,2331202,Dayan Reinoso,,Sr,43,43,2021,15580,Erskine,1072
 28,2331203,Livan Reinoso,,Sr,43,43,2021,15580,Erskine,1072
+25,2331202,Dayan Reinoso,,Sr,43,43,2021,15580,Erskine,1072
 42,2331193,Allan Saathoff,,Sr,11,11,2021,15580,Erskine,1072
 55,2458438,Peniel Sabino,1B,So,11,1,2021,15580,Erskine,1072
 8,2130217,Gregory Sanders,rf,Jr,24,12,2021,15580,Erskine,1072

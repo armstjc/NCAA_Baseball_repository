@@ -294,13 +294,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,1983114,Caleb Nash,C,So,4,0,2020,15204,Tex. A&M-Kingsville,696
 35,2330234,Matthew Oleson,P,Jr,8,0,2020,15204,Tex. A&M-Kingsville,696
 3,1983139,Giancarlo Servin,INF,Jr,22,22,2020,15204,Tex. A&M-Kingsville,696
-1,2330259,Damian Rodriguez,INF,Fr,18,15,2020,15204,Tex. A&M-Kingsville,696
+24,2330269,John Mike Rodriguez,P,Jr,6,6,2020,15204,Tex. A&M-Kingsville,696
 38,1880271,Nick Hutchison,P,Jr,2,0,2020,15204,Tex. A&M-Kingsville,696
 40,2131965,Matthew Sesler,P,So,10,0,2020,15204,Tex. A&M-Kingsville,696
 22,2330300,Brandon Symmank,P,Jr,2,0,2020,15204,Tex. A&M-Kingsville,696
 2,1880269,Kohl Ullman,UT,Sr,21,20,2020,15204,Tex. A&M-Kingsville,696
 33,1983146,Jacob Vasquez,P,So,3,0,2020,15204,Tex. A&M-Kingsville,696
-24,2330269,John Mike Rodriguez,P,Jr,6,6,2020,15204,Tex. A&M-Kingsville,696
+1,2330259,Damian Rodriguez,INF,Fr,18,15,2020,15204,Tex. A&M-Kingsville,696
 16,2330194,Tyler Henson,P,Jr,5,0,2020,15204,Tex. A&M-Kingsville,696
 23,1983098,Tyler Flores,P,Jr,6,4,2020,15204,Tex. A&M-Kingsville,696
 28,2330183,Chase Glover,P,Jr,9,0,2020,15204,Tex. A&M-Kingsville,696
@@ -365,8 +365,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,1983114,Caleb Nash,C,Jr,0,0,2022,15860,Tex. A&M-Kingsville,696
 5,2330177,Matthew Castro,OF,So,44,37,2022,15860,Tex. A&M-Kingsville,696
 1,2676724,Brandon Ramirez,cf,Fr,13,2,2022,15860,Tex. A&M-Kingsville,696
-24,2330269,John Mike Rodriguez,P,Sr,0,0,2022,15860,Tex. A&M-Kingsville,696
 1,2330259,Damian Rodriguez,INF,So,0,0,2022,15860,Tex. A&M-Kingsville,696
+24,2330269,John Mike Rodriguez,P,Sr,0,0,2022,15860,Tex. A&M-Kingsville,696
 3,1983139,Giancarlo Servin,INF,Sr,53,53,2022,15860,Tex. A&M-Kingsville,696
 40,2131965,Matthew Sesler,P,Jr,14,0,2022,15860,Tex. A&M-Kingsville,696
 21,2672071,Robbie Spencer,p,Fr,15,4,2022,15860,Tex. A&M-Kingsville,696
@@ -375,8 +375,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,2670751,Colton Taylor,p,So,23,1,2022,15860,Tex. A&M-Kingsville,696
 26,2670753,Jackson Teer,p,Fr,12,0,2022,15860,Tex. A&M-Kingsville,696
 8,2471600,Garrett Thompson,INF,So,49,44,2022,15860,Tex. A&M-Kingsville,696
-33,1983146,Jacob Vasquez,P,Jr,0,0,2022,15860,Tex. A&M-Kingsville,696
 38,2471606,Matt Vasquez,P,Jr,0,0,2022,15860,Tex. A&M-Kingsville,696
+33,1983146,Jacob Vasquez,P,Jr,0,0,2022,15860,Tex. A&M-Kingsville,696
 26,2471603,Cole Williams,P,Jr,0,0,2022,15860,Tex. A&M-Kingsville,696
 10,2670754,Nick Wolf,c,So,51,48,2022,15860,Tex. A&M-Kingsville,696
 30,2670730,Cole Payne,1b,So,27,14,2022,15860,Tex. A&M-Kingsville,696

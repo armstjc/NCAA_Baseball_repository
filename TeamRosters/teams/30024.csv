@@ -305,9 +305,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 40,2484454,Spencer Olsen,C,Fr,0,0,2021,15580,Utah Valley,30024
 9,2331644,Ty Mead,INF,Fr,13,5,2021,15580,Utah Valley,30024
 17,2331650,Cody Johnson,C,Fr,4,2,2021,15580,Utah Valley,30024
-6,2331668,Connor Hall,OF,Fr,12,4,2021,15580,Utah Valley,30024
-24,1996794,Pacen Hayes,1B,Jr,27,21,2021,15580,Utah Valley,30024
 37,2150272,Tevin Hall,P,So,10,1,2021,15580,Utah Valley,30024
+24,1996794,Pacen Hayes,1B,Jr,27,21,2021,15580,Utah Valley,30024
+6,2331668,Connor Hall,OF,Fr,12,4,2021,15580,Utah Valley,30024
 25,2131008,Andrew Hacker,OF,Fr,24,18,2021,15580,Utah Valley,30024
 26,2131009,Mason Gray,P,Jr,14,14,2021,15580,Utah Valley,30024
 34,2310289,Dawson Day,P,Jr,13,0,2021,15580,Utah Valley,30024
@@ -351,8 +351,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,2130976,Mick Madsen,INF,Jr,55,55,2022,15860,Utah Valley,30024
 36,2324168,Cal Beardsley,P,Sr,2,2,2022,15860,Utah Valley,30024
 10,2331669,Garrett Broussard,INF,So,38,28,2022,15860,Utah Valley,30024
-15,2463876,Josh Brown,P,So,17,0,2022,15860,Utah Valley,30024
 38,2484449,Carson Brown,P,So,15,2,2022,15860,Utah Valley,30024
+15,2463876,Josh Brown,P,So,17,0,2022,15860,Utah Valley,30024
 6,2484425,Kyle Coburn,INF,So,49,41,2022,15860,Utah Valley,30024
 34,2343580,Luke Mccollough,P,So,17,2,2022,15860,Utah Valley,30024
 12,2673895,Trey Cutchen,OF,So,51,49,2022,15860,Utah Valley,30024

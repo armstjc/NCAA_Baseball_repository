@@ -379,8 +379,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 44,2649889,Jackson Webster,1B,Fr,4,0,2022,15860,Birmingham-So.,28593
 21,2649877,Jt Weisberg,INF,Fr,5,0,2022,15860,Birmingham-So.,28593
 11,2649873,Joey White,P,Sr,15,12,2022,15860,Birmingham-So.,28593
-31,2649886,Davis Williams,P,Fr,26,0,2022,15860,Birmingham-So.,28593
 43,2649888,Braden Williams,P,Fr,5,1,2022,15860,Birmingham-So.,28593
+31,2649886,Davis Williams,P,Fr,26,0,2022,15860,Birmingham-So.,28593
 23,1994291,Brian Williams,INF,Sr,48,45,2022,15860,Birmingham-So.,28593
 39,2135213,Oliver Livingston,P,Sr,10,5,2022,15860,Birmingham-So.,28593
 16,2488348,Josh Leerssen,p,So,14,11,2022,15860,Birmingham-So.,28593
@@ -394,7 +394,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2135158,Wes Diamantis,1B,Sr,31,22,2022,15860,Birmingham-So.,28593
 7,2487499,Andrew Dutton,1B,So,51,51,2022,15860,Birmingham-So.,28593
 2,2302987,Will Lantis,INF,Jr,51,46,2022,15860,Birmingham-So.,28593
-10,2649872,Austin Frye,3B,So,4,0,2022,15860,Birmingham-So.,28593
+12,2649874,Garrett Frye,INF,So,5,0,2022,15860,Birmingham-So.,28593
 13,2135202,Jack Fleming,C,Sr,50,48,2022,15860,Birmingham-So.,28593
 14,2488347,Austin Gentry,c,Sr,24,10,2022,15860,Birmingham-So.,28593
 24,1994264,Alfredo Granier,SS,Sr,22,17,2022,15860,Birmingham-So.,28593
@@ -403,7 +403,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,1994290,Tristan Harvin,P,Sr,4,4,2022,15860,Birmingham-So.,28593
 30,2139241,David Higginbotham,P,Sr,1,0,2022,15860,Birmingham-So.,28593
 29,1998983,Preston Jenkins,P,Sr,18,1,2022,15860,Birmingham-So.,28593
-12,2649874,Garrett Frye,INF,So,5,0,2022,15860,Birmingham-So.,28593
+10,2649872,Austin Frye,3B,So,4,0,2022,15860,Birmingham-So.,28593
 31,2649886,Davis Williams,P,-,So,0,2023,16340,Birmingham-So.,28593
 22,2649885,Connor Adams,P,-,So,0,2023,16340,Birmingham-So.,28593
 12,2649874,Garrett Frye,INF,-,Jr,0,2023,16340,Birmingham-So.,28593

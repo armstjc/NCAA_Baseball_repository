@@ -409,7 +409,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 48,1978550,Logan Pate,INF,Sr,0,0,2021,15580,Newberry,1257
 33,2507528,K. Mcgrath,ph,N/A,6,2,2021,15580,Newberry,1257
 37,2666589,Zach Mcalister,P,Fr,3,0,2022,15860,Newberry,1257
-6,2502400,Jacob Lebron,OF,So,47,46,2022,15860,Newberry,1257
+36,2666588,Ethan Lebron,P,Fr,13,13,2022,15860,Newberry,1257
 19,2666526,Wesley Livingston,P,So,13,0,2022,15860,Newberry,1257
 9,2666432,Jomar Lugo,INF,Fr,47,38,2022,15860,Newberry,1257
 28,2321384,Devin Makovsky,P,So,0,0,2022,15860,Newberry,1257
@@ -418,7 +418,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2666550,Scott Templeton,P,Fr,7,0,2022,15860,Newberry,1257
 3,2487386,Gabriel Santiago,INF,So,31,3,2022,15860,Newberry,1257
 11,2122154,Zane Tarrance,OF,Sr,51,51,2022,15860,Newberry,1257
-36,2666588,Ethan Lebron,P,Fr,13,13,2022,15860,Newberry,1257
+6,2502400,Jacob Lebron,OF,So,47,46,2022,15860,Newberry,1257
 20,1978544,Beau Thompson,INF,Sr,43,40,2022,15860,Newberry,1257
 44,2666612,Tyler Tuck,P,So,12,0,2022,15860,Newberry,1257
 12,2666453,Jonathan Velez,C,Fr,50,50,2022,15860,Newberry,1257

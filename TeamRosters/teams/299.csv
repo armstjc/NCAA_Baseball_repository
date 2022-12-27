@@ -244,8 +244,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,1862909,Matt Walker,P,Jr,16,16,2019,14781,Illinois St.,299
 2,2120944,Jeremy Gaines,INF,So,31,13,2019,14781,Illinois St.,299
 40,1976578,Tyler Carpenter,1B,So,16,8,2019,14781,Illinois St.,299
-17,1862897,Joe Butler,INF,Jr,62,62,2019,14781,Illinois St.,299
 10,1862896,Jack Butler,OF,So,51,47,2019,14781,Illinois St.,299
+17,1862897,Joe Butler,INF,Jr,62,62,2019,14781,Illinois St.,299
 41,2121097,Jackson Bronke,P,Jr,14,0,2019,14781,Illinois St.,299
 44,1976577,Jack Anderson,P,So,22,0,2019,14781,Illinois St.,299
 27,1862901,Joe Aeilts,INF,Jr,62,62,2019,14781,Illinois St.,299
@@ -270,7 +270,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,1862900,Jordan Libman,OF,Sr,15,15,2020,15204,Illinois St.,299
 27,1976588,Jake Mccaw,UT,Jr,14,12,2020,15204,Illinois St.,299
 36,1976585,Connor Peplow,P,Jr,4,0,2020,15204,Illinois St.,299
-15,2121063,Gunner Peterson,OF,So,11,9,2020,15204,Illinois St.,299
+11,2314993,Tanner Peterson,OF,Fr,9,2,2020,15204,Illinois St.,299
 43,2121076,Sean Sinisko,P,So,4,4,2020,15204,Illinois St.,299
 29,1862908,Michael Sebby,P,Sr,5,0,2020,15204,Illinois St.,299
 33,2314970,Trey Krause,P,Fr,0,0,2020,15204,Illinois St.,299
@@ -280,7 +280,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,2314981,Nolan Young,UT,Jr,3,0,2020,15204,Illinois St.,299
 51,2121122,Derek Salata,P,So,6,0,2020,15204,Illinois St.,299
 14,2314994,Tanner Kelly,INF,Fr,2,0,2020,15204,Illinois St.,299
-11,2314993,Tanner Peterson,OF,Fr,9,2,2020,15204,Illinois St.,299
+15,2121063,Gunner Peterson,OF,So,11,9,2020,15204,Illinois St.,299
 37,1862904,Colton Johnson,P,Sr,5,4,2020,15204,Illinois St.,299
 44,1976577,Jack Anderson,P,Jr,3,3,2020,15204,Illinois St.,299
 24,2123493,Hayden Jones,C,So,0,0,2020,15204,Illinois St.,299
@@ -310,8 +310,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 2,2120944,Jeremy Gaines,INF,Sr,27,16,2021,15580,Illinois St.,299
 5,2477650,Luke Cheng,INF,Fr,26,22,2021,15580,Illinois St.,299
 21,2314963,Ryan Cermak,INF,So,55,53,2021,15580,Illinois St.,299
-17,1862897,Joe Butler,INF,Sr,41,39,2021,15580,Illinois St.,299
 10,1862896,Jack Butler,OF,Sr,56,56,2021,15580,Illinois St.,299
+17,1862897,Joe Butler,INF,Sr,41,39,2021,15580,Illinois St.,299
 41,2121097,Jackson Bronke,P,Sr,7,0,2021,15580,Illinois St.,299
 44,1976577,Jack Anderson,P,Sr,11,8,2021,15580,Illinois St.,299
 46,2314970,Trey Krause,P,So,0,0,2021,15580,Illinois St.,299

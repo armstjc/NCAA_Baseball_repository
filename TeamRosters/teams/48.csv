@@ -257,7 +257,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,2125106,Kyle Sandstrom,OF,Jr,0,0,2019,14781,Charleston So.,48
 36,2125092,Hunter Iling,P,Fr,16,0,2019,14781,Charleston So.,48
 7,1977634,Ryan Rizk,INF,So,26,23,2019,14781,Charleston So.,48
-25,1977632,Derek Horton,OF,Sr,25,4,2019,14781,Charleston So.,48
+3,2125091,Kyle Horton,UT,Fr,42,39,2019,14781,Charleston So.,48
 5,1869777,Jason Miller,INF,Sr,59,59,2019,14781,Charleston So.,48
 40,2125088,Logan Adams,P,Fr,11,5,2019,14781,Charleston So.,48
 2,1869776,Alex Andronica,INF,Jr,38,8,2019,14781,Charleston So.,48
@@ -273,7 +273,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,2125090,Reid Hardwick,INF,Jr,58,58,2019,14781,Charleston So.,48
 33,1774136,Eddie Hiott,P,Sr,32,0,2019,14781,Charleston So.,48
 13,2125105,Payton Holdsworth,UT,Jr,30,19,2019,14781,Charleston So.,48
-3,2125091,Kyle Horton,UT,Fr,42,39,2019,14781,Charleston So.,48
+25,1977632,Derek Horton,OF,Sr,25,4,2019,14781,Charleston So.,48
 29,1774138,Cody Maw,P,Sr,15,13,2019,14781,Charleston So.,48
 22,1977641,Josh Asbill,INF,Jr,4,1,2020,15204,Charleston So.,48
 40,2125088,Logan Adams,P,So,0,0,2020,15204,Charleston So.,48
@@ -283,7 +283,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,2125106,Kyle Sandstrom,OF,Sr,0,0,2020,15204,Charleston So.,48
 24,2311401,Kyle Sandstrom,OF,Sr,17,16,2020,15204,Charleston So.,48
 12,2311416,Peyton Schofield,P,Fr,5,3,2020,15204,Charleston So.,48
-27,1869794,Seth Owens,P,Sr,8,0,2020,15204,Charleston So.,48
+1,2311474,Simms Owens,OF,Fr,3,2,2020,15204,Charleston So.,48
 31,2125094,Trent Seibert,P,Sr,6,0,2020,15204,Charleston So.,48
 26,2311404,Dylan Stewart,INF,Fr,2,1,2020,15204,Charleston So.,48
 19,1869783,Ryan Stoudemire,1B,Sr,18,18,2020,15204,Charleston So.,48
@@ -292,7 +292,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,2125095,Cam Weinberger,P,Sr,5,5,2020,15204,Charleston So.,48
 20,1870259,Connor Yoder,P,Sr,7,1,2020,15204,Charleston So.,48
 34,2349204,John Sendziak,P,Jr,4,0,2020,15204,Charleston So.,48
-1,2311474,Simms Owens,OF,Fr,3,2,2020,15204,Charleston So.,48
+27,1869794,Seth Owens,P,Sr,8,0,2020,15204,Charleston So.,48
 29,2311407,Holden Tucker,P,Fr,5,2,2020,15204,Charleston So.,48
 5,2311329,Shane Kelleher,INF,Jr,17,17,2020,15204,Charleston So.,48
 8,1977635,Christian Maggio,C,Jr,14,12,2020,15204,Charleston So.,48
@@ -306,8 +306,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,2125089,Lucas Ford,P,Sr,5,0,2020,15204,Charleston So.,48
 10,2311390,Henry Gibson,C,Fr,7,7,2020,15204,Charleston So.,48
 4,2125090,Reid Hardwick,INF,Sr,14,11,2020,15204,Charleston So.,48
-3,2125091,Kyle Horton,OF,So,15,14,2020,15204,Charleston So.,48
 25,1977632,Derek Horton,OF,Sr,6,2,2020,15204,Charleston So.,48
+3,2125091,Kyle Horton,OF,So,15,14,2020,15204,Charleston So.,48
 49,2311492,Sam Hunt,P,Jr,4,0,2020,15204,Charleston So.,48
 32,1887445,Ian Foggo,P,Sr,6,0,2020,15204,Charleston So.,48
 36,2125092,Hunter Iling,P,So,5,0,2020,15204,Charleston So.,48

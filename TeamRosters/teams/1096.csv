@@ -52,8 +52,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 44,1311485,Clay Ardeeser,INF,Jr,51,51,2014,11620,Georgia College,1096
 37,1549151,Jake Anthony,P,Jr,11,2,2014,11620,Georgia College,1096
 9,1215105,Daniel Bick,INF,Sr,52,52,2014,11620,Georgia College,1096
-3,1438427,Austin Clark,P,Jr,0,0,2014,11620,Georgia College,1096
 18,1311465,John Clark,P,Jr,2,0,2014,11620,Georgia College,1096
+3,1438427,Austin Clark,P,Jr,0,0,2014,11620,Georgia College,1096
 26,1547866,Dallas Draviczki,P,Jr,9,2,2014,11620,Georgia College,1096
 27,1438444,Christian Wonders,P,Sr,0,0,2014,11620,Georgia College,1096
 14,1215110,John Welborn,OF,Sr,23,0,2014,11620,Georgia College,1096
@@ -348,11 +348,11 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 43,2309190,Garrett Houston,P,Jr,10,1,2021,15580,Georgia College,1096
 19,2134419,Josh Hudgins,P,So,10,10,2021,15580,Georgia College,1096
 41,2309216,Parker Kauffmann,C,Fr,1,0,2021,15580,Georgia College,1096
-35,2672101,Mason Brown,P,Fr,9,1,2022,15860,Georgia College,1096
+10,2134416,K.C. Brown,UT,Sr,41,39,2022,15860,Georgia College,1096
 42,1990235,Bryce Bowen,P,Sr,6,0,2022,15860,Georgia College,1096
 5,2134427,Matthew Chester,OF,Jr,23,4,2022,15860,Georgia College,1096
 18,2472945,Dominic Arienzo,INF,So,30,27,2022,15860,Georgia College,1096
-10,2134416,K.C. Brown,UT,Sr,41,39,2022,15860,Georgia College,1096
+35,2672101,Mason Brown,P,Fr,9,1,2022,15860,Georgia College,1096
 22,2472957,Brandon Bellflower,OF,So,51,48,2022,15860,Georgia College,1096
 40,2472976,Matthew Cassandra,OF,So,6,2,2022,15860,Georgia College,1096
 19,2134419,Josh Hudgins,P,Jr,14,14,2022,15860,Georgia College,1096

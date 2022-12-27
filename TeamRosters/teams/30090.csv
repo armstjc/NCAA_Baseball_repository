@@ -214,7 +214,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,1763196,Jeremy Valadez,LF,So,0,0,2018,12973,Tex. A&M Int'l,30090
 4,1880180,Jorge Gonzalez,P,Fr,33,33,2018,12973,Tex. A&M Int'l,30090
 4,1880177,Ricky Gonzalez,RF,Fr,13,13,2018,12973,Tex. A&M Int'l,30090
-4,2133399,Philip Sanchez,UT,Jr,40,40,2019,14781,Tex. A&M Int'l,30090
+32,2133392,J.J. Sanchez,P,Fr,11,0,2019,14781,Tex. A&M Int'l,30090
 10,1994884,Ruben Solis,P,Sr,14,14,2019,14781,Tex. A&M Int'l,30090
 22,1892713,Mathew Trevino,DH,Jr,30,27,2019,14781,Tex. A&M Int'l,30090
 99,2133296,Freddy Barrera,P,Jr,0,0,2019,14781,Tex. A&M Int'l,30090
@@ -231,10 +231,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,2133325,Bryce Faust,P,Jr,1,0,2019,14781,Tex. A&M Int'l,30090
 27,2133327,Joseph Garza-Delapena,P,Fr,9,0,2019,14781,Tex. A&M Int'l,30090
 25,2133328,Hector Gonzalez,C,Fr,7,6,2019,14781,Tex. A&M Int'l,30090
-32,2133392,J.J. Sanchez,P,Fr,11,0,2019,14781,Tex. A&M Int'l,30090
+4,2133399,Philip Sanchez,UT,Jr,40,40,2019,14781,Tex. A&M Int'l,30090
 8,2133329,Anthony Handel,OF,Jr,47,47,2019,14781,Tex. A&M Int'l,30090
 18,2133331,Andrew Hernandez,P,Fr,14,12,2019,14781,Tex. A&M Int'l,30090
-20,2133382,Kenneth Saenz,P,Sr,7,2,2019,14781,Tex. A&M Int'l,30090
+20,2133376,David Saenz,1B,Jr,0,0,2019,14781,Tex. A&M Int'l,30090
 14,2133336,Kolbe Kutak,P,Fr,3,0,2019,14781,Tex. A&M Int'l,30090
 3,2005858,Mauro Luna,P,Sr,14,13,2019,14781,Tex. A&M Int'l,30090
 6,1881346,Hugo Mendiola,P,Jr,13,6,2019,14781,Tex. A&M Int'l,30090
@@ -253,7 +253,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,1766487,Osvaldo Rosas,DH,Jr,0,0,2019,14781,Tex. A&M Int'l,30090
 12,2133354,Justin Rumley,P,Jr,13,3,2019,14781,Tex. A&M Int'l,30090
 93,2133384,Xavier Saenz,3B,Fr,0,0,2019,14781,Tex. A&M Int'l,30090
-20,2133376,David Saenz,1B,Jr,0,0,2019,14781,Tex. A&M Int'l,30090
+20,2133382,Kenneth Saenz,P,Sr,7,2,2019,14781,Tex. A&M Int'l,30090
 95,2133330,Brock Hargens,OF,Fr,0,0,2019,14781,Tex. A&M Int'l,30090
 1,2133421,Hunter Trinidad,OF,Jr,32,28,2019,14781,Tex. A&M Int'l,30090
 31,1994900,Mark Trimble,P,Sr,0,0,2019,14781,Tex. A&M Int'l,30090
@@ -269,8 +269,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 24,2011065,Nick Montemayor,P,Sr,0,0,2020,15204,Tex. A&M Int'l,30090
 5,2133352,Andrew Pavon,INF,So,5,2,2020,15204,Tex. A&M Int'l,30090
 12,2133354,Justin Rumley,P,Sr,7,4,2020,15204,Tex. A&M Int'l,30090
-10,2133392,J.J. Sanchez,P,So,6,5,2020,15204,Tex. A&M Int'l,30090
 4,2133399,Philip Sanchez,UT,Sr,21,20,2020,15204,Tex. A&M Int'l,30090
+10,2133392,J.J. Sanchez,P,So,6,5,2020,15204,Tex. A&M Int'l,30090
 31,1994900,Mark Trimble,P,Sr,2,0,2020,15204,Tex. A&M Int'l,30090
 1,2133421,Hunter Trinidad,OF,Sr,21,21,2020,15204,Tex. A&M Int'l,30090
 29,2133423,Matthew Villanueva,C,So,0,0,2020,15204,Tex. A&M Int'l,30090
@@ -312,8 +312,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,2312346,Jerry Villareal,OF,So,18,18,2021,15580,Tex. A&M Int'l,30090
 12,2471617,Jose Gonzalez Jr.,P,Fr,6,2,2021,15580,Tex. A&M Int'l,30090
 27,2133327,Joseph Garza-Delapena,P,Jr,12,11,2021,15580,Tex. A&M Int'l,30090
-19,2138872,Abanny Garcia,P,Jr,12,11,2021,15580,Tex. A&M Int'l,30090
 23,2312313,Ricky Garcia,OF,Sr,0,0,2021,15580,Tex. A&M Int'l,30090
+19,2138872,Abanny Garcia,P,Jr,12,11,2021,15580,Tex. A&M Int'l,30090
 11,2312271,Luis Flores,INF,Sr,33,33,2021,15580,Tex. A&M Int'l,30090
 1,2133325,Bryce Faust,P,Sr,14,5,2021,15580,Tex. A&M Int'l,30090
 3,2312289,Sergio Esqueda,INF,Sr,21,15,2021,15580,Tex. A&M Int'l,30090

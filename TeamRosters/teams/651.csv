@@ -240,14 +240,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 47,2138573,Ben Koff,P,Jr,8,3,2019,14781,South Fla.,651
 17,1973640,Baron Stuart,P,So,10,10,2019,14781,South Fla.,651
 30,2138567,Matt Marini,P,Jr,8,0,2019,14781,South Fla.,651
-10,1973641,Jake Sullivan,C,So,45,41,2019,14781,South Fla.,651
+15,1873084,Collin Sullivan,P,Jr,14,14,2019,14781,South Fla.,651
 3,1973654,Jordan Feist,INF,Sr,28,1,2019,14781,South Fla.,651
 16,2138562,Nelson Alvarez,P,Jr,23,0,2019,14781,South Fla.,651
 33,2138568,Alex Bello,INF,Fr,40,30,2019,14781,South Fla.,651
 42,2138575,Austin Bodrato,OF,Jr,49,44,2019,14781,South Fla.,651
 6,2138525,Dylan Buck,INF,Fr,25,18,2019,14781,South Fla.,651
 12,1754209,Dylan Burns,P,Jr,21,5,2019,14781,South Fla.,651
-15,1873084,Collin Sullivan,P,Jr,14,14,2019,14781,South Fla.,651
+10,1973641,Jake Sullivan,C,So,45,41,2019,14781,South Fla.,651
 24,1754204,Chris Chatfield,OF,Sr,49,45,2019,14781,South Fla.,651
 37,1973656,Richie Cruz,P,Sr,19,1,2019,14781,South Fla.,651
 38,1754205,Tyler Dietrich,C,Sr,48,44,2019,14781,South Fla.,651
@@ -315,8 +315,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2138566,Logan Lyle,P,Sr,26,0,2021,15580,South Fla.,651
 45,2478524,Brad Lord,P,So,17,11,2021,15580,South Fla.,651
 51,2478569,Hayden Wynja,P,So,2,0,2021,15580,South Fla.,651
-10,1973641,Jake Sullivan,C,Jr,56,51,2021,15580,South Fla.,651
 15,1873084,Collin Sullivan,P,Sr,17,16,2021,15580,South Fla.,651
+10,1973641,Jake Sullivan,C,Jr,56,51,2021,15580,South Fla.,651
 17,1973640,Baron Stuart,P,Jr,17,3,2021,15580,South Fla.,651
 44,2305381,Joe Sanchez,P,So,19,1,2021,15580,South Fla.,651
 6,2478556,Matt Ruiz,OF,Fr,61,61,2021,15580,South Fla.,651

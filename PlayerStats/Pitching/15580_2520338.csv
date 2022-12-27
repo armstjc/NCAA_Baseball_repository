@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,2.0,0.0,3,5,4,3,1,0,12,8,0,0,0,0,2,0,0,0,0,0,0,48,2,2,0,1,0,1,0,0,03/20/2021,away,15580,144,Clark Atlanta,9,True,6,14,-8,loss,2063069,55,2520338,2021
+1,0,0.1,0.0,0,3,3,3,0,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,04/13/2021,home,15580,0,Morris,9,True,7,6,1,win,2070847,55,2520338,2021
+1,0,2.2,0.0,2,3,3,3,2,0,16,8,0,0,0,0,3,4,0,3,0,0,1,0,2,2,0,0,0,3,0,0,04/21/2021,home,15580,144,Clark Atlanta,9,True,11,14,-3,loss,2072326,55,2520338,2021

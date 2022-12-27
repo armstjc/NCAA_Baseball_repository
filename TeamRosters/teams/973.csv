@@ -135,7 +135,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,1441831,T.J. Montgomery,P,Jr,9,8,2015,12080,Berry,973
 30,1658272,Tyler Will,P,So,20,0,2015,12080,Berry,973
 4,1766085,Parker Austin,P,So,10,0,2016,12360,Berry,973
-19,1439716,Ryan Smith,C,Sr,0,0,2016,12360,Berry,973
+23,1658269,Brady Smith,2B,So,33,27,2016,12360,Berry,973
 20,1666773,Austin Loper,P,So,4,0,2016,12360,Berry,973
 10,1549758,Greg Keel,OF,Sr,35,23,2016,12360,Berry,973
 5,1527513,Sam Joyce,INF,Jr,0,0,2016,12360,Berry,973
@@ -165,7 +165,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,1766086,Casey Whitaker,OF,Fr,40,32,2016,12360,Berry,973
 2,1441706,Dusty Tyson,OF,Sr,42,42,2016,12360,Berry,973
 44,1780721,Daniel Stimpson,P,So,7,0,2016,12360,Berry,973
-23,1658269,Brady Smith,2B,So,33,27,2016,12360,Berry,973
+19,1439716,Ryan Smith,C,Sr,0,0,2016,12360,Berry,973
 16,1439649,Devin Skelton,C,Sr,28,19,2016,12360,Berry,973
 21,1766089,Trey Rampy,P,So,15,9,2016,12360,Berry,973
 6,1527498,Joey Bell,P,Jr,0,0,2016,12360,Berry,973
@@ -276,8 +276,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,1988432,Milan Sutaria,P,So,18,0,2019,14781,Berry,973
 14,1988420,Tanner Still,P,So,11,3,2019,14781,Berry,973
 33,2129345,Dylan Stalzer,INF,Fr,3,0,2019,14781,Berry,973
-2,1988323,Quinn Smith,P,Jr,40,39,2019,14781,Berry,973
 8,1988429,Dalton Smith,INF,So,29,23,2019,14781,Berry,973
+2,1988323,Quinn Smith,P,Jr,40,39,2019,14781,Berry,973
 18,2129342,Dylan Schoknecht,P,Jr,6,0,2019,14781,Berry,973
 19,1988417,Evan Romeo,OF,So,19,5,2019,14781,Berry,973
 26,2129332,Trevor Proctor,C,Fr,3,1,2019,14781,Berry,973
@@ -335,8 +335,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 44,2322164,Patrick O'Rourke,P,So,11,10,2021,15580,Berry,973
 48,2482692,Walker Payton,C,Fr,7,0,2021,15580,Berry,973
 53,2482693,Andrew Pendleton,C,Fr,16,13,2021,15580,Berry,973
-4,2482688,Jack Poist,OF,Fr,34,31,2021,15580,Berry,973
 3,2321873,John Poist,INF,So,27,17,2021,15580,Berry,973
+4,2482688,Jack Poist,OF,Fr,34,31,2021,15580,Berry,973
 26,2129332,Trevor Proctor,C,Jr,3,1,2021,15580,Berry,973
 19,1988417,Evan Romeo,OF,Sr,27,14,2021,15580,Berry,973
 8,1988429,Dalton Smith,INF,Sr,41,38,2021,15580,Berry,973
@@ -385,8 +385,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,2129333,Andrew Norred,P,Sr,17,0,2022,15860,Berry,973
 19,2322164,Patrick O'Rourke,P,Jr,13,12,2022,15860,Berry,973
 53,2482693,Andrew Pendleton,C,So,39,36,2022,15860,Berry,973
-3,2321873,John Poist,INF,Jr,31,19,2022,15860,Berry,973
 4,2482688,Jack Poist,OF,So,35,35,2022,15860,Berry,973
+3,2321873,John Poist,INF,Jr,31,19,2022,15860,Berry,973
 26,2129332,Trevor Proctor,C,Sr,6,0,2022,15860,Berry,973
 8,1988429,Dalton Smith,INF,Sr,34,25,2022,15860,Berry,973
 40,2322162,Charles Stephenson,INF,Jr,15,6,2022,15860,Berry,973

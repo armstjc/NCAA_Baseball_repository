@@ -55,8 +55,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 3,1215166,Spencer Haynes,INF,Jr,18,10,2013,11320,UCF,128
 31,1418070,Zac Favre,P,Fr,32,0,2013,11320,UCF,128
 18,1418069,Bo Decker,OF,Fr,18,12,2013,11320,UCF,128
-32,1418076,Daniel Davis,P,Jr,18,7,2013,11320,UCF,128
 35,1418074,Spencer Davis,P,So,28,0,2013,11320,UCF,128
+32,1418076,Daniel Davis,P,Jr,18,7,2013,11320,UCF,128
 37,1099297,Gregg Cooke,P,Jr,2,0,2013,11320,UCF,128
 30,1308332,Nick Carrillo,OF,Sr,16,4,2013,11320,UCF,128
 9,1099266,Ryan Breen,C,Sr,44,37,2013,11320,UCF,128
@@ -337,8 +337,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 45,1991223,Will Saxton,P,Sr,24,9,2022,15860,UCF,128
 19,2309945,Connor Staine,P,So,12,12,2022,15860,UCF,128
 44,2673274,Andrew Sundean,C,Fr,43,37,2022,15860,UCF,128
-4,2673171,Ryan Taylor,INF,Fr,36,21,2022,15860,UCF,128
 5,2347434,Trent Taylor,UT,Sr,52,36,2022,15860,UCF,128
+4,2673171,Ryan Taylor,INF,Fr,36,21,2022,15860,UCF,128
 37,2486035,Ben Vespi,P,So,25,9,2022,15860,UCF,128
 35,2486034,Nick Vieira,P,So,0,0,2022,15860,UCF,128
 43,2312446,Riley Wash,C,Sr,29,16,2022,15860,UCF,128

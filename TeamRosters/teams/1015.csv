@@ -291,8 +291,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18,2478820,Alex Meadows,P,Fr,13,5,2021,15580,Christian Brothers,1015
 28,2139036,Jamarion White,1B,So,20,13,2021,15580,Christian Brothers,1015
 7,1985864,Luke Wewers,C,Jr,29,28,2021,15580,Christian Brothers,1015
-1,1985875,Keagan Voss,OF,Jr,37,37,2021,15580,Christian Brothers,1015
 4,2329942,Reid Voss,OF,Fr,31,26,2021,15580,Christian Brothers,1015
+1,1985875,Keagan Voss,OF,Jr,37,37,2021,15580,Christian Brothers,1015
 14,2329974,Will Turner,OF,Fr,27,23,2021,15580,Christian Brothers,1015
 2,2478808,Justin Tilley,OF,Fr,2,0,2021,15580,Christian Brothers,1015
 20,2478825,Matthew Mcdaniel,C,Fr,14,4,2021,15580,Christian Brothers,1015
@@ -300,8 +300,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,1881970,Kyle Raburn,P,Sr,8,0,2021,15580,Christian Brothers,1015
 40,2478908,Charlie Seahorn,P,Fr,13,1,2021,15580,Christian Brothers,1015
 6,1985873,Garrett Stebbins-Johnson,P,Jr,9,0,2021,15580,Christian Brothers,1015
-31,2478903,Hayden Smith,INF,Fr,8,7,2021,15580,Christian Brothers,1015
 16,2329976,Payne Smith,INF,Fr,33,31,2021,15580,Christian Brothers,1015
+31,2478903,Hayden Smith,INF,Fr,8,7,2021,15580,Christian Brothers,1015
 36,2478905,Ben Seeger,P,Fr,0,0,2021,15580,Christian Brothers,1015
 18,2478820,Alex Meadows,P,So,30,22,2022,15860,Christian Brothers,1015
 33,2661404,Jake Neese,INF,Fr,33,31,2022,15860,Christian Brothers,1015
@@ -311,8 +311,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 44,2478905,Ben Seeger,P,So,12,0,2022,15860,Christian Brothers,1015
 20,2478825,Matthew Mcdaniel,C,So,26,24,2022,15860,Christian Brothers,1015
 7,2661362,Van True,INF,Fr,46,46,2022,15860,Christian Brothers,1015
-1,1985875,Keagan Voss,OF,Sr,46,46,2022,15860,Christian Brothers,1015
 4,2329942,Reid Voss,OF,So,11,9,2022,15860,Christian Brothers,1015
+1,1985875,Keagan Voss,OF,Sr,46,46,2022,15860,Christian Brothers,1015
 28,2139036,Jamarion White,1B,Jr,11,9,2022,15860,Christian Brothers,1015
 22,2672994,Jake Wurms,p,Fr,15,5,2022,15860,Christian Brothers,1015
 3,2478903,Hayden Smith,INF,So,8,1,2022,15860,Christian Brothers,1015

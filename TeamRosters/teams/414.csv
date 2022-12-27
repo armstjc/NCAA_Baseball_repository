@@ -77,8 +77,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,1436326,Jake Romano,OF,So,37,37,2014,11620,Miami (OH),414
 2,1323211,Scott Slappey,INF,Jr,48,47,2014,11620,Miami (OH),414
 40,1436382,Chad Sedio,OF,So,48,47,2014,11620,Miami (OH),414
-31,1547014,Brad Schwartz,P,Fr,19,0,2014,11620,Miami (OH),414
 25,1547015,Will Schwartz,INF,Fr,2,0,2014,11620,Miami (OH),414
+31,1547014,Brad Schwartz,P,Fr,19,0,2014,11620,Miami (OH),414
 4,1436331,Reed Schlesner,INF,So,38,4,2014,11620,Miami (OH),414
 11,1547013,Steve Sada,INF,Fr,54,50,2014,11620,Miami (OH),414
 38,1547012,Gary Russo,OF,So,55,55,2014,11620,Miami (OH),414
@@ -335,8 +335,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,2334919,Brian Zapp,INF,So,50,46,2021,15580,Miami (OH),414
 14,2334917,Jj Woolwine,OF,So,12,2,2021,15580,Miami (OH),414
 30,2334920,Jacob Webb,P,Sr,18,0,2021,15580,Miami (OH),414
-1,1977224,Tyler Wardwell,INF,Sr,45,43,2021,15580,Miami (OH),414
 8,2488317,Jax Wardwell,INF,Fr,0,0,2021,15580,Miami (OH),414
+1,1977224,Tyler Wardwell,INF,Sr,45,43,2021,15580,Miami (OH),414
 35,1887422,Jay Wilson,P,Sr,2,0,2021,15580,Miami (OH),414
 7,1979150,Cristian Tejada,INF,Sr,8,6,2021,15580,Miami (OH),414
 9,2334925,Dylan Swensen,P,So,0,0,2021,15580,Miami (OH),414
@@ -352,13 +352,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,1998049,Nick Neibauer,C,Sr,47,44,2022,15860,Miami (OH),414
 29,2654955,David Novak,C,Fr,27,22,2022,15860,Miami (OH),414
 5,2488312,Martin Sosna,P,Fr,8,0,2022,15860,Miami (OH),414
-1,1977224,Tyler Wardwell,INF,Sr,6,6,2022,15860,Miami (OH),414
+4,2488317,Jax Wardwell,INF,So,3,0,2022,15860,Miami (OH),414
 31,2654965,Ryan Starr,P,Fr,12,0,2022,15860,Miami (OH),414
 36,2334923,Nate Stone,OF,So,1,1,2022,15860,Miami (OH),414
 7,1979150,Cristian Tejada,OF,Sr,9,7,2022,15860,Miami (OH),414
 37,2314421,Sloan Thomsen,P,Sr,0,0,2022,15860,Miami (OH),414
 18,2488328,Aaron Massie,P,So,16,5,2022,15860,Miami (OH),414
-4,2488317,Jax Wardwell,INF,So,3,0,2022,15860,Miami (OH),414
+1,1977224,Tyler Wardwell,INF,Sr,6,6,2022,15860,Miami (OH),414
 14,2334917,Jj Woolwine,OF,Fr,45,36,2022,15860,Miami (OH),414
 6,2334919,Brian Zapp,INF,Jr,52,50,2022,15860,Miami (OH),414
 16,2334924,Michael Spinozzi,P,Sr,14,3,2022,15860,Miami (OH),414

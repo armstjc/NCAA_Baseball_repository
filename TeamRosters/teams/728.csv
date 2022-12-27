@@ -376,8 +376,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18,2354562,Jarrett Ramer,P,Fr,11,10,2021,15580,Upper Iowa,728
 24,2354561,Keaton Parker,P,Fr,14,2,2021,15580,Upper Iowa,728
 49,2505429,Sj Mousseau,P,Jr,5,0,2021,15580,Upper Iowa,728
-25,2505428,Steve Marhefke,3B,Fr,15,1,2021,15580,Upper Iowa,728
 35,2505427,Sam Marhefke,P,Jr,6,2,2021,15580,Upper Iowa,728
+25,2505428,Steve Marhefke,3B,Fr,15,1,2021,15580,Upper Iowa,728
 1,2007528,Colin Lacey,P,So,9,2,2021,15580,Upper Iowa,728
 19,2505425,Evan Kerlin,1B,So,9,5,2021,15580,Upper Iowa,728
 21,2354532,Jason Katz,P,Jr,10,2,2021,15580,Upper Iowa,728
@@ -389,7 +389,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2354300,Grant Vervoort,P,So,8,5,2022,15860,Upper Iowa,728
 39,2505415,Braden Albert,P,So,4,0,2022,15860,Upper Iowa,728
 14,2685960,Kainoa Torres,C,Jr,28,28,2022,15860,Upper Iowa,728
-25,2505428,Steve Marhefke,3B,So,0,0,2022,15860,Upper Iowa,728
+27,2505427,Sam Marhefke,P,Sr,16,0,2022,15860,Upper Iowa,728
 47,2697232,Freddie Modera,ss,Fr,2,2,2022,15860,Upper Iowa,728
 24,2354561,Keaton Parker,P,So,11,10,2022,15860,Upper Iowa,728
 30,2686558,Nicholas Pica,P,Sr,11,5,2022,15860,Upper Iowa,728
@@ -406,7 +406,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,2685990,Nicholas Vite,UT,Jr,41,38,2022,15860,Upper Iowa,728
 11,2505434,Brennan Sefrit,P,So,9,1,2022,15860,Upper Iowa,728
 13,2685959,Cael Luzum,OF,Fr,40,39,2022,15860,Upper Iowa,728
-27,2505427,Sam Marhefke,P,Sr,16,0,2022,15860,Upper Iowa,728
+25,2505428,Steve Marhefke,3B,So,0,0,2022,15860,Upper Iowa,728
 19,2505425,Evan Kerlin,1B,Jr,9,7,2022,15860,Upper Iowa,728
 9,2354277,Drew Callon,P,So,1,0,2022,15860,Upper Iowa,728
 41,2505416,Hunter Destival,C,Sr,14,4,2022,15860,Upper Iowa,728

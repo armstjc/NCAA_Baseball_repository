@@ -257,7 +257,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,2110618,Garret Suiter,C,So,17,15,2020,15204,Augusta,39
 5,2110616,Brian Smith,OF,Sr,18,13,2020,15204,Augusta,39
 2,1976091,Mason Robertson,INF,Jr,19,19,2020,15204,Augusta,39
-17,2110623,Cody Powell,INF,So,0,0,2020,15204,Augusta,39
+23,2334528,Theron Powell,LF,Jr,20,20,2020,15204,Augusta,39
 4,2110648,John Paul,INF,So,14,8,2020,15204,Augusta,39
 27,2334516,Hunter Norman,P,Jr,6,6,2020,15204,Augusta,39
 13,1866018,Jose Nogueras,C,Sr,7,5,2020,15204,Augusta,39
@@ -266,7 +266,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 41,2343360,B. Miller,p,N/A,2,0,2020,15204,Augusta,39
 47,2343359,Noah Mcfarlin,p,N/A,1,0,2020,15204,Augusta,39
 7,2110649,Ben Markiewicz,INF,So,20,20,2020,15204,Augusta,39
-23,2334528,Theron Powell,LF,Jr,20,20,2020,15204,Augusta,39
+17,2110623,Cody Powell,INF,So,0,0,2020,15204,Augusta,39
 8,2110617,Matthew Lee,C,So,3,0,2020,15204,Augusta,39
 14,1976097,Trent Maddox,INF,Jr,18,18,2020,15204,Augusta,39
 31,2334526,Will Cantrell,P,Fr,6,3,2020,15204,Augusta,39
@@ -291,7 +291,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2334527,Rylan Laird,PH/2B,So,1,0,2021,15580,Augusta,39
 26,2523101,N. Grove,p,N/A,5,0,2021,15580,Augusta,39
 8,2110617,Matthew Lee,C,Jr,0,0,2021,15580,Augusta,39
-19,2523084,Trevor Maddox,,N/A,7,5,2021,15580,Augusta,39
+14,1976097,Trent Maddox,INF,Sr,36,36,2021,15580,Augusta,39
 44,2502390,Benjamin Koch,p,Fr,15,1,2021,15580,Augusta,39
 15,2110621,Trevor Gordon,INF,Jr,10,0,2021,15580,Augusta,39
 21,2497189,Jasper Dubberly,P,Jr,15,0,2021,15580,Augusta,39
@@ -317,7 +317,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,2110618,Garret Suiter,C,Jr,0,0,2021,15580,Augusta,39
 24,2497193,Walker Sinclair,INF,Jr,33,30,2021,15580,Augusta,39
 2,1976091,Mason Robertson,INF,Sr,33,30,2021,15580,Augusta,39
-14,1976097,Trent Maddox,INF,Sr,36,36,2021,15580,Augusta,39
+19,2523084,Trevor Maddox,,N/A,7,5,2021,15580,Augusta,39
 17,2110623,Cody Powell,INF,Jr,0,0,2021,15580,Augusta,39
 19,2343334,C. Moore,ph,Fr,0,0,2021,15580,Augusta,39
 1,1986621,Skylor Murphy,OF,Sr,35,35,2021,15580,Augusta,39

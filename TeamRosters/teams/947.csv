@@ -47,7 +47,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,1442100,Landon Huggins,P,Fr,2,0,2013,11320,Arkansas Tech,947
 8,1436123,Trennis Grant,OF,Jr,16,0,2013,11320,Arkansas Tech,947
 29,1304013,Jay Johnson,3B,Jr,25,7,2013,11320,Arkansas Tech,947
-29,1304013,Jay Johnson,3B,Sr,56,56,2014,11620,Arkansas Tech,947
+2,1436099,Zac Johnson,OF,Sr,55,55,2014,11620,Arkansas Tech,947
 34,1538043,Trent Armstrong,P,Fr,18,5,2014,11620,Arkansas Tech,947
 46,1538051,Cody Beaver,2B,Fr,0,0,2014,11620,Arkansas Tech,947
 7,1436111,Jake Bell,P,Sr,33,0,2014,11620,Arkansas Tech,947
@@ -57,8 +57,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 48,1538053,Mitchell Collins,INF,Fr,0,0,2014,11620,Arkansas Tech,947
 36,1196219,Ethan Crocker,P,Sr,23,0,2014,11620,Arkansas Tech,947
 45,1538050,Kris Ayers,1B,Jr,53,48,2014,11620,Arkansas Tech,947
-2,1436099,Zac Johnson,OF,Sr,55,55,2014,11620,Arkansas Tech,947
 30,1538042,Rafiel Johnson,P,Jr,21,2,2014,11620,Arkansas Tech,947
+29,1304013,Jay Johnson,3B,Sr,56,56,2014,11620,Arkansas Tech,947
 3,1538035,Marcus Wilson,OF,Fr,12,4,2014,11620,Arkansas Tech,947
 8,1538038,Seth Wheeler,OF,Fr,0,0,2014,11620,Arkansas Tech,947
 26,1442116,Mark Vaughn,INF,Fr,0,0,2014,11620,Arkansas Tech,947
@@ -111,8 +111,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 40,1656418,Lt Hawkins,INF,Fr,0,0,2015,12080,Arkansas Tech,947
 13,1653561,Bryan Heward,OF,Sr,50,50,2015,12080,Arkansas Tech,947
 25,1653753,Tyler Huffstickler,P,Jr,3,0,2015,12080,Arkansas Tech,947
-44,1538049,Aaron Johnson,P,Sr,13,9,2015,12080,Arkansas Tech,947
 2,1538042,Rafiel Johnson,P,Sr,38,30,2015,12080,Arkansas Tech,947
+44,1538049,Aaron Johnson,P,Sr,13,9,2015,12080,Arkansas Tech,947
 21,1653566,Cody Jones,P,Jr,15,13,2015,12080,Arkansas Tech,947
 14,1304012,Keenan Jumper,C,Sr,44,40,2015,12080,Arkansas Tech,947
 6,1538037,John Lassiter,2B,Sr,36,25,2015,12080,Arkansas Tech,947

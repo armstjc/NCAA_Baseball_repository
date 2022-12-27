@@ -286,11 +286,11 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,2123585,Noah Bates,P,Jr,11,0,2020,15204,Okla. Christian,30179
 4,2123567,Brendon Bavester,C,So,7,6,2020,15204,Okla. Christian,30179
 26,2305125,Hayden Boyd,P,Fr,6,2,2020,15204,Okla. Christian,30179
-18,2346464,Bob Britton,P,Jr,0,0,2020,15204,Okla. Christian,30179
+18,2343333,Bob Britton,INF,Jr,4,0,2020,15204,Okla. Christian,30179
 19,2123561,Chase Berberich,P,Jr,5,0,2020,15204,Okla. Christian,30179
 0,2123538,Kevin Collyar,INF,So,18,18,2020,15204,Okla. Christian,30179
 97,2123555,Alex Hansen,INF,So,0,0,2020,15204,Okla. Christian,30179
-18,2343333,Bob Britton,INF,Jr,4,0,2020,15204,Okla. Christian,30179
+18,2346464,Bob Britton,P,Jr,0,0,2020,15204,Okla. Christian,30179
 95,2305123,Matthew Gamblin,P,Fr,0,0,2020,15204,Okla. Christian,30179
 24,2123560,Blake Empkey,OF,So,22,22,2020,15204,Okla. Christian,30179
 31,2305129,Austin Hamilton,C,Fr,1,0,2020,15204,Okla. Christian,30179
@@ -368,9 +368,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 24,2123560,Blake Empkey,OF,Jr,43,42,2022,15860,Okla. Christian,30179
 9,2653548,Connor Jackson,INF,So,33,30,2022,15860,Okla. Christian,30179
 34,2666730,Kyle Higgins,P,So,12,6,2022,15860,Okla. Christian,30179
-16,2305095,Jaren Hill,INF,So,29,21,2022,15860,Okla. Christian,30179
-25,2653541,Matthew Conerly,INF,Sr,24,13,2022,15860,Okla. Christian,30179
 28,2467970,Ryan Hill,P,Jr,8,2,2022,15860,Okla. Christian,30179
+25,2653541,Matthew Conerly,INF,Sr,24,13,2022,15860,Okla. Christian,30179
+16,2305095,Jaren Hill,INF,So,29,21,2022,15860,Okla. Christian,30179
 5,2653523,Chris Huerta,P,So,12,0,2022,15860,Okla. Christian,30179
 30,2653542,Aaron Hunter,OF,So,3,0,2022,15860,Okla. Christian,30179
 26,2305125,Hayden Boyd,P,So,12,0,2022,15860,Okla. Christian,30179

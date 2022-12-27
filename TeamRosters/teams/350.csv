@@ -175,8 +175,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,1881599,Tyquavious Noland,PH,Jr,22,22,2019,14781,LeMoyne-Owen,350
 2,1782486,Martez Briggs,P,Jr,15,12,2019,14781,LeMoyne-Owen,350
 1,1991501,David Nicholas,LF,So,0,0,2019,14781,LeMoyne-Owen,350
-10,1763173,Ulric Johnson,P,Jr,0,0,2019,14781,LeMoyne-Owen,350
 3,1763172,John Johnson,SS,Jr,0,0,2019,14781,LeMoyne-Owen,350
+10,1763173,Ulric Johnson,P,Jr,0,0,2019,14781,LeMoyne-Owen,350
 11,1763169,Cameron Haynes,1B,Jr,0,0,2019,14781,LeMoyne-Owen,350
 23,1763167,Pedro Gomez,DH,Jr,0,0,2019,14781,LeMoyne-Owen,350
 19,1894243,Ian Gary,SS,Jr,0,0,2019,14781,LeMoyne-Owen,350
@@ -212,8 +212,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,1763169,Cameron Haynes,1B,Sr,0,0,2020,15204,LeMoyne-Owen,350
 17,2139044,Robert Akines,P,Sr,2,2,2020,15204,LeMoyne-Owen,350
 19,2357280,Unknown Austin,rf,N/A,2,2,2020,15204,LeMoyne-Owen,350
-1,1763166,Lawerence Baker,2B,Sr,2,1,2020,15204,LeMoyne-Owen,350
 2,1896127,Deanthony Baker,C,Sr,4,3,2020,15204,LeMoyne-Owen,350
+1,1763166,Lawerence Baker,2B,Sr,2,1,2020,15204,LeMoyne-Owen,350
 5,2357281,Unknown Booker,ss,N/A,5,5,2020,15204,LeMoyne-Owen,350
 3,2357284,Unknown Boyd,3b,N/A,2,2,2020,15204,LeMoyne-Owen,350
 2,1782486,Martez Briggs,P,Sr,0,0,2020,15204,LeMoyne-Owen,350
@@ -253,8 +253,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,2681394,Justin Shelby,p,So,15,7,2022,15860,LeMoyne-Owen,350
 22,2674131,Alex Rodriguez,1b,Fr,19,18,2022,15860,LeMoyne-Owen,350
 32,2357998,Peyton Phillips,c,So,0,0,2022,15860,LeMoyne-Owen,350
-13,2697793,F Mills,cf,N/A,1,0,2022,15860,LeMoyne-Owen,350
 13,1991502,Emari Mills,P,Sr,21,19,2022,15860,LeMoyne-Owen,350
+13,2697793,F Mills,cf,N/A,1,0,2022,15860,LeMoyne-Owen,350
 4,2357287,Unknown Martin,c,So,3,2,2022,15860,LeMoyne-Owen,350
 11,2681392,Katabe Jr,rf/p,So,3,3,2022,15860,LeMoyne-Owen,350
 21,2681436,Amir Morgan,ss,Fr,8,3,2022,15860,LeMoyne-Owen,350
@@ -282,8 +282,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,2674109,George Diaz,2b,Sr,29,26,2022,15860,LeMoyne-Owen,350
 32,2679587,Avery Willis,p,Fr,11,7,2022,15860,LeMoyne-Owen,350
 16,2695607,K Williams,rf,N/A,1,0,2022,15860,LeMoyne-Owen,350
-8,2674132,Jonathan Williams,ss,Fr,25,25,2022,15860,LeMoyne-Owen,350
 16,2692133,C. Williams,cf,N/A,6,5,2022,15860,LeMoyne-Owen,350
+8,2674132,Jonathan Williams,ss,Fr,25,25,2022,15860,LeMoyne-Owen,350
 20,2155149,Eyon Curry,ph,Sr,0,0,2022,15860,LeMoyne-Owen,350
 32,2679587,Avery Willis,p,-,So,0,2023,16340,LeMoyne-Owen,350
 19,2679638,Breeze Johns,dh,-,So,0,2023,16340,LeMoyne-Owen,350

@@ -220,8 +220,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,1894537,Jeremy Stouffer,P,Jr,9,2,2019,14781,Southwest Minn. St.,8736
 14,2139664,Robbie Smith,OF,Fr,21,10,2019,14781,Southwest Minn. St.,8736
 7,1896656,Derek Smith,C,Jr,27,24,2019,14781,Southwest Minn. St.,8736
-29,2139665,Donny Schroeder,P,So,11,0,2019,14781,Southwest Minn. St.,8736
 8,2011487,Spencer Schroeder,P,So,8,7,2019,14781,Southwest Minn. St.,8736
+29,2139665,Donny Schroeder,P,So,11,0,2019,14781,Southwest Minn. St.,8736
 31,2005802,Wes Sarsland,P,So,8,3,2019,14781,Southwest Minn. St.,8736
 17,1894527,Spencer Rudnik,C,Jr,23,16,2019,14781,Southwest Minn. St.,8736
 36,1778319,Cole Petersen,P,Sr,9,8,2019,14781,Southwest Minn. St.,8736
@@ -239,10 +239,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,1778306,Jayden Fleck,SS,Sr,38,38,2019,14781,Southwest Minn. St.,8736
 15,1778310,Justin Clark,P,Sr,2,2,2019,14781,Southwest Minn. St.,8736
 32,2005818,Teddy Broxterman,P,So,14,1,2019,14781,Southwest Minn. St.,8736
-11,2005810,Matt Bezdicek,DH,So,28,25,2019,14781,Southwest Minn. St.,8736
+22,2005801,John Bezdicek,P,So,10,8,2019,14781,Southwest Minn. St.,8736
 6,2005799,Nathan Kuhn,SS,Jr,35,35,2019,14781,Southwest Minn. St.,8736
 34,1894262,Brady Lanoue,PH,Jr,28,28,2019,14781,Southwest Minn. St.,8736
-22,2005801,John Bezdicek,P,So,10,8,2019,14781,Southwest Minn. St.,8736
+11,2005810,Matt Bezdicek,DH,So,28,25,2019,14781,Southwest Minn. St.,8736
 3,2005829,Christopher Berg,PR,So,16,0,2019,14781,Southwest Minn. St.,8736
 11,2005810,Matt Bezdicek,DH,Jr,10,10,2020,15204,Southwest Minn. St.,8736
 19,1778834,Shawn Williams,P,Sr,4,0,2020,15204,Southwest Minn. St.,8736
@@ -296,8 +296,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 37,2511332,Kolby Kiser,p,Fr,5,4,2021,15580,Southwest Minn. St.,8736
 5,2139662,Andy Andresen,OF,Jr,23,12,2021,15580,Southwest Minn. St.,8736
 3,2005829,Christopher Berg,OF,Sr,0,0,2021,15580,Southwest Minn. St.,8736
-22,2005801,John Bezdicek,P,Sr,8,7,2021,15580,Southwest Minn. St.,8736
 11,2005810,Matt Bezdicek,DH,Sr,33,33,2021,15580,Southwest Minn. St.,8736
+22,2005801,John Bezdicek,P,Sr,8,7,2021,15580,Southwest Minn. St.,8736
 35,2522977,Brady Brosz,p,Fr,4,0,2021,15580,Southwest Minn. St.,8736
 32,2005818,Teddy Broxterman,P,Sr,9,1,2021,15580,Southwest Minn. St.,8736
 24,2354336,Trent Fredenburg,OF,Sr,0,0,2021,15580,Southwest Minn. St.,8736

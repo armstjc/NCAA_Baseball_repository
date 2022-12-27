@@ -83,7 +83,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 0,1549707,Jacob Polk,P,Fr,10,1,2014,11620,Southern U.,665
 30,1549682,Conner Baumgardner,P,Fr,10,2,2014,11620,Southern U.,665
 44,1549706,Harold Myles,P,Fr,7,1,2014,11620,Southern U.,665
-17,1549691,Brady May,P,Fr,6,2,2014,11620,Southern U.,665
+28,1549705,Sam May,C,Jr,15,7,2014,11620,Southern U.,665
 2,1435340,Robinson Mateo,INF,So,34,27,2014,11620,Southern U.,665
 40,1213628,Cade Lablanc,P,Sr,13,0,2014,11620,Southern U.,665
 3,1213581,Tyler Kirksey,OF,Jr,27,26,2014,11620,Southern U.,665
@@ -98,7 +98,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,1549684,Ryan Flynn,P,Jr,9,5,2014,11620,Southern U.,665
 21,1549683,Rafael Diaz,P,Jr,13,1,2014,11620,Southern U.,665
 1,1549744,Bud Morton,SS,N/A,24,24,2014,11620,Southern U.,665
-28,1549705,Sam May,C,Jr,15,7,2014,11620,Southern U.,665
+17,1549691,Brady May,P,Fr,6,2,2014,11620,Southern U.,665
 45,1549712,Lane Williams,OF,Fr,5,5,2015,12080,Southern U.,665
 24,1435346,Jose Delatorre,C,Jr,43,40,2015,12080,Southern U.,665
 33,1666157,Troy White,LF,N/A,6,4,2015,12080,Southern U.,665
@@ -337,12 +337,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 50,2494764,Caleb Tart,2b,Fr,10,1,2021,15580,Southern U.,665
 11,1866381,Tremaine Spears,OF,Jr,49,49,2021,15580,Southern U.,665
 22,2349685,Dillen Miller,P,Jr,12,1,2021,15580,Southern U.,665
-29,2349689,Darren Smith,P,Sr,1,1,2021,15580,Southern U.,665
+20,2494763,Quincy Smith,lf,Fr,12,3,2021,15580,Southern U.,665
 48,2501519,Enrique Ozoa,p,So,13,0,2021,15580,Southern U.,665
 9,2349687,Mykel Page,UT,Sr,11,0,2021,15580,Southern U.,665
 18,1866984,Jacob Snyder,P,Sr,17,3,2021,15580,Southern U.,665
 2,2349688,Taj Porter,UT,Sr,45,43,2021,15580,Southern U.,665
-20,2494763,Quincy Smith,lf,Fr,12,3,2021,15580,Southern U.,665
+29,2349689,Darren Smith,P,Sr,1,1,2021,15580,Southern U.,665
 25,1981986,Khristian Paul,P,Jr,10,1,2021,15580,Southern U.,665
 22,2349685,Dillen Miller,P,Sr,8,0,2022,15860,Southern U.,665
 10,1981980,Zavier Moore,INF,Sr,18,14,2022,15860,Southern U.,665

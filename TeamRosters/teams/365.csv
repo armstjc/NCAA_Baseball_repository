@@ -293,9 +293,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,2132600,Chase Costello,P,So,3,0,2020,15204,LSU,365
 16,2333910,Collier Cranford,INF,Fr,15,11,2020,15204,LSU,365
 17,2333927,Zack Mathis,INF,Jr,17,17,2020,15204,LSU,365
-4,2333922,Cade Doughty,INF,Fr,16,16,2020,15204,LSU,365
-46,2132623,Rye Gunter,P,So,2,0,2020,15204,LSU,365
 45,1991431,Braden Doughty,C,Jr,4,0,2020,15204,LSU,365
+46,2132623,Rye Gunter,P,So,2,0,2020,15204,LSU,365
+4,2333922,Cade Doughty,INF,Fr,16,16,2020,15204,LSU,365
 6,2132617,Gavin Dugas,INF,So,13,7,2020,15204,LSU,365
 28,1991448,Devin Fontenot,P,Jr,7,0,2020,15204,LSU,365
 13,2132595,Saul Garza,C,Jr,14,14,2020,15204,LSU,365
@@ -311,8 +311,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,2132621,Aaron George,P,Sr,14,0,2021,15580,LSU,365
 6,2132617,Gavin Dugas,INF,Jr,62,62,2021,15580,LSU,365
 7,2132594,Giovanni Digiacomo,OF,Jr,31,29,2021,15580,LSU,365
-4,2333922,Cade Doughty,INF,So,58,58,2021,15580,LSU,365
 45,1991431,Braden Doughty,C,Sr,22,0,2021,15580,LSU,365
+4,2333922,Cade Doughty,INF,So,58,58,2021,15580,LSU,365
 3,2486588,Dylan Crews,OF,Fr,63,63,2021,15580,LSU,365
 16,2333910,Collier Cranford,INF,So,31,12,2021,15580,LSU,365
 49,2486632,Javen Coleman,P,Fr,14,2,2021,15580,LSU,365

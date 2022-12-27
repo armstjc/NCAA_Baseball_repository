@@ -236,13 +236,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 2,1994301,Miguel Ortiz Sanchez,2B,Sr,46,46,2019,14781,Mercy,407
 28,2127845,Daniel Hopper,C,Fr,1,0,2019,14781,Mercy,407
 37,1994318,Nicholas Pellegrino,C,So,16,9,2019,14781,Mercy,407
-47,2127868,Rafael Perez,OF,Jr,20,10,2019,14781,Mercy,407
+12,1994330,Odalis Perez,P,Sr,10,0,2019,14781,Mercy,407
 22,2127843,Justin Renauto,2B,Fr,12,0,2019,14781,Mercy,407
 15,1750821,Joseph Sadallah,INF,Sr,49,48,2019,14781,Mercy,407
 25,2127829,Ryan Saltzman,OF,Fr,41,41,2019,14781,Mercy,407
 2,2006911,O. Sanchez,2B,Jr,2,2,2019,14781,Mercy,407
 41,1997320,Manuel Sanchez,P,So,11,0,2019,14781,Mercy,407
-12,1994330,Odalis Perez,P,Sr,10,0,2019,14781,Mercy,407
+47,2127868,Rafael Perez,OF,Jr,20,10,2019,14781,Mercy,407
 8,1994325,Alonso Tenya,P,Sr,14,0,2019,14781,Mercy,407
 42,1885770,James Jakuba,P,Jr,13,11,2019,14781,Mercy,407
 35,1994317,Jack Kelly,P,So,13,11,2019,14781,Mercy,407
@@ -308,8 +308,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,2302879,Anthony Burgio,P,So,9,8,2021,15580,Mercy,407
 18,1994312,Paul Cozzolino,1B,Sr,15,11,2021,15580,Mercy,407
 21,2127842,Austin Derosa,SS,Jr,8,6,2021,15580,Mercy,407
-45,2302911,Ryan Dieguez,P,So,3,3,2021,15580,Mercy,407
 26,2127844,James Dieguez,OF,Jr,12,10,2021,15580,Mercy,407
+45,2302911,Ryan Dieguez,P,So,3,3,2021,15580,Mercy,407
 20,2514386,Jonathan Diforio,P,Jr,9,0,2021,15580,Mercy,407
 12,2144422,Nikko Liguori,INF,Jr,23,19,2021,15580,Mercy,407
 32,1995728,Osvaldo Encarnacion,P,Sr,4,0,2021,15580,Mercy,407

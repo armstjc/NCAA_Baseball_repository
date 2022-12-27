@@ -232,8 +232,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 3,1658158,Rodney Corbin,INF,Sr,45,45,2018,12973,Texas-Dallas,23121
 1,1658164,Josh Covey,OF,Sr,37,37,2018,12973,Texas-Dallas,23121
 6,1883453,Thomas Craig,OF,Jr,35,35,2018,12973,Texas-Dallas,23121
-29,1770598,Michael Deacon,P,Sr,15,0,2018,12973,Texas-Dallas,23121
 18,1782190,Mathew Deacon,C,Sr,22,19,2018,12973,Texas-Dallas,23121
+29,1770598,Michael Deacon,P,Sr,15,0,2018,12973,Texas-Dallas,23121
 39,1887239,Junior Escobar,P,So,5,0,2018,12973,Texas-Dallas,23121
 27,1990610,Nick Gambirasi,P,Fr,0,0,2018,12973,Texas-Dallas,23121
 12,1658161,Norman Cordova,INF,Sr,13,11,2018,12973,Texas-Dallas,23121
@@ -361,8 +361,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2127204,Orion Drymond,P,Jr,14,0,2021,15580,Texas-Dallas,23121
 22,2515958,Peter Dyar,c,Jr,7,6,2021,15580,Texas-Dallas,23121
 10,1990610,Nick Gambirasi,P,Sr,0,0,2021,15580,Texas-Dallas,23121
-28,2501094,Kenny Garza,p,N/A,11,8,2021,15580,Texas-Dallas,23121
 10,1997328,Ramon Garza,UT,Jr,42,42,2021,15580,Texas-Dallas,23121
+28,2501094,Kenny Garza,p,N/A,11,8,2021,15580,Texas-Dallas,23121
 29,2515959,Mitchell Herring,p,Jr,2,1,2021,15580,Texas-Dallas,23121
 22,2337429,Kaden Ingram,C,Sr,0,0,2021,15580,Texas-Dallas,23121
 59,1990635,Shai James,UT,Sr,0,0,2021,15580,Texas-Dallas,23121
@@ -381,8 +381,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,2127234,Ryan Vera,P,So,20,0,2022,15860,Texas-Dallas,23121
 17,2133673,Marcos Villegas,OF,Fr,52,52,2022,15860,Texas-Dallas,23121
 26,2673449,Alex Vo,P,Fr,2,0,2022,15860,Texas-Dallas,23121
-19,2117226,Zac Vorst,INF,So,38,37,2022,15860,Texas-Dallas,23121
 29,2673475,Andrew Vorst,P,Fr,15,0,2022,15860,Texas-Dallas,23121
+19,2117226,Zac Vorst,INF,So,38,37,2022,15860,Texas-Dallas,23121
 65,2490286,Kenton Weiland,P,Fr,0,0,2022,15860,Texas-Dallas,23121
 6,2337430,Nick Williby,OF,So,2,0,2022,15860,Texas-Dallas,23121
 34,2337435,Joshua Wood,P,Fr,17,2,2022,15860,Texas-Dallas,23121

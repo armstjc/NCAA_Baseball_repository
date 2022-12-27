@@ -270,8 +270,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 50,2127032,Jakob Reyes,P,So,7,0,2019,14781,Eastern N.M.,206
 23,2010150,Connor Reece,P,Jr,9,0,2019,14781,Eastern N.M.,206
 19,2127022,Bryan Waltemath,C,Jr,25,20,2019,14781,Eastern N.M.,206
-9,1985947,Eurick Perez,C,Sr,45,44,2019,14781,Eastern N.M.,206
 16,1655516,Enrique Perez,P,Sr,13,12,2019,14781,Eastern N.M.,206
+9,1985947,Eurick Perez,C,Sr,45,44,2019,14781,Eastern N.M.,206
 26,2127026,Alex Kuhn,INF,Fr,18,11,2019,14781,Eastern N.M.,206
 42,2127016,Randall Lucero,INF,Fr,12,5,2019,14781,Eastern N.M.,206
 29,2127013,Aaron Jasso,C,Fr,0,0,2019,14781,Eastern N.M.,206
@@ -280,7 +280,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,2127006,Joel Paulino,INF,Fr,45,42,2019,14781,Eastern N.M.,206
 35,2127015,Lawrence Mirabal,C,Fr,3,0,2019,14781,Eastern N.M.,206
 14,2127007,Anthony Inge,P,Jr,1,0,2019,14781,Eastern N.M.,206
-29,2306685,Camden Matthews,UT,Fr,11,7,2020,15204,Eastern N.M.,206
+35,2306702,Braeton Matthews,UT,Fr,0,0,2020,15204,Eastern N.M.,206
 34,2306688,James Romero,UT,Fr,15,11,2020,15204,Eastern N.M.,206
 13,2127015,Lawrence Mirabal,C,So,3,0,2020,15204,Eastern N.M.,206
 12,2127028,Ross Montoya,INF,So,14,10,2020,15204,Eastern N.M.,206
@@ -293,7 +293,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18,2306651,Andrew Stockton,UT,Fr,1,1,2020,15204,Eastern N.M.,206
 21,2127014,Joel Torres,P,Sr,6,5,2020,15204,Eastern N.M.,206
 1,2306664,Shaun Watson,P,So,6,0,2020,15204,Eastern N.M.,206
-35,2306702,Braeton Matthews,UT,Fr,0,0,2020,15204,Eastern N.M.,206
+29,2306685,Camden Matthews,UT,Fr,11,7,2020,15204,Eastern N.M.,206
 25,2127027,Liam Sabiston,P,Jr,7,1,2020,15204,Eastern N.M.,206
 11,2306679,Josh Lewis,P,Jr,6,6,2020,15204,Eastern N.M.,206
 6,1985915,Ethan Coombes,P,So,6,6,2020,15204,Eastern N.M.,206
@@ -335,7 +335,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,2127028,Ross Montoya,INF,Jr,3,2,2021,15580,Eastern N.M.,206
 1,2306664,Shaun Watson,P,Jr,5,0,2021,15580,Eastern N.M.,206
 26,2472499,Sammy Williamson,UT,Fr,3,1,2021,15580,Eastern N.M.,206
-17,2306685,Camden Matthews,UT,So,37,37,2021,15580,Eastern N.M.,206
+30,2306702,Braeton Matthews,UT,So,30,24,2021,15580,Eastern N.M.,206
 11,2472466,Damian Acosta,P,So,11,3,2021,15580,Eastern N.M.,206
 16,2306650,Mario Armendariz,UT,So,6,2,2021,15580,Eastern N.M.,206
 33,2472510,Dempsey Battin,P,So,3,0,2021,15580,Eastern N.M.,206
@@ -350,7 +350,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,2127026,Alex Kuhn,INF,Jr,14,1,2021,15580,Eastern N.M.,206
 12,2306679,Josh Lewis,P,Sr,8,8,2021,15580,Eastern N.M.,206
 6,2472463,Cole Luedeking,OF,So,33,33,2021,15580,Eastern N.M.,206
-30,2306702,Braeton Matthews,UT,So,30,24,2021,15580,Eastern N.M.,206
+17,2306685,Camden Matthews,UT,So,37,37,2021,15580,Eastern N.M.,206
 20,2472481,William Mcbride,P,So,4,0,2021,15580,Eastern N.M.,206
 11,2472466,Damian Acosta,P,Jr,13,13,2022,15860,Eastern N.M.,206
 28,2472502,Nick Schifftner,INF,Jr,46,42,2022,15860,Eastern N.M.,206
@@ -371,7 +371,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,2472499,Sammy Williamson,UT,So,47,47,2022,15860,Eastern N.M.,206
 34,2306688,James Romero,UT,Jr,3,0,2022,15860,Eastern N.M.,206
 18,2130202,Thomas Wisneski,OF,Jr,7,0,2022,15860,Eastern N.M.,206
-1,2306685,Camden Matthews,UT,Jr,46,46,2022,15860,Eastern N.M.,206
+2,2306702,Braeton Matthews,UT,Jr,38,38,2022,15860,Eastern N.M.,206
 31,2665106,John Martinez,UT,Fr,6,0,2022,15860,Eastern N.M.,206
 7,2665035,Luke Baca,OF,So,4,1,2022,15860,Eastern N.M.,206
 25,2665094,Ruger Bravo,P,So,14,11,2022,15860,Eastern N.M.,206
@@ -379,7 +379,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2665041,Jorge Colon,INF,Fr,26,21,2022,15860,Eastern N.M.,206
 30,2665105,Noah De La Riva,P,Fr,11,11,2022,15860,Eastern N.M.,206
 42,2306584,Nyles Duren,UT,So,27,25,2022,15860,Eastern N.M.,206
-2,2306702,Braeton Matthews,UT,Jr,38,38,2022,15860,Eastern N.M.,206
+1,2306685,Camden Matthews,UT,Jr,46,46,2022,15860,Eastern N.M.,206
 5,2665054,Dax Edmonds,INF,Fr,48,48,2022,15860,Eastern N.M.,206
 19,2306652,Rio Granger,OF,Jr,9,2,2022,15860,Eastern N.M.,206
 27,2472500,Cooper Hamilton,P,So,48,48,2022,15860,Eastern N.M.,206

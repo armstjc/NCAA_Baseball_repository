@@ -74,7 +74,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,1200464,Chase Kyriacou,OF,Sr,31,24,2014,11620,Norfolk St.,485
 1,1418230,Cooper Jones,P,So,21,1,2014,11620,Norfolk St.,485
 27,1200465,Justin Bhatti,P,Sr,17,9,2014,11620,Norfolk St.,485
-48,1532897,Noah Johnson,OF,Fr,12,0,2014,11620,Norfolk St.,485
+35,1418237,Jay Dee Johnson,P,So,4,0,2014,11620,Norfolk St.,485
 5,1532890,Omar Hotusing,C,Jr,40,33,2014,11620,Norfolk St.,485
 20,1532889,Devin Hemmerich,P,Fr,21,5,2014,11620,Norfolk St.,485
 16,1532888,Corey Haynes,P,Jr,11,4,2014,11620,Norfolk St.,485
@@ -88,7 +88,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 37,1532883,Stephen Butt,P,Jr,16,9,2014,11620,Norfolk St.,485
 31,1532882,Justin Burrell,3B,Fr,48,46,2014,11620,Norfolk St.,485
 33,1312202,Mikey Bruno,OF,Jr,27,1,2014,11620,Norfolk St.,485
-35,1418237,Jay Dee Johnson,P,So,4,0,2014,11620,Norfolk St.,485
+48,1532897,Noah Johnson,OF,Fr,12,0,2014,11620,Norfolk St.,485
 32,1418235,Ian Horne,OF,Jr,6,0,2014,11620,Norfolk St.,485
 46,1659531,Lane Ward,P,Fr,8,1,2015,12080,Norfolk St.,485
 47,1532881,Matt Boone,P,So,7,0,2015,12080,Norfolk St.,485
@@ -226,7 +226,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,2117503,Mike Pyers,P,Fr,10,0,2019,14781,Norfolk St.,485
 35,2117496,Nick Wimmers,C,Fr,11,1,2019,14781,Norfolk St.,485
 23,1989992,Alsander Womack,INF,So,42,42,2019,14781,Norfolk St.,485
-18,1652733,Trey Hanchey,P,Sr,18,0,2019,14781,Norfolk St.,485
+14,2140892,Ty Hanchey,C,Fr,36,29,2019,14781,Norfolk St.,485
 40,2117491,Kevin Alicea,P,Jr,15,7,2019,14781,Norfolk St.,485
 5,1770894,Chase Anderson,P,Sr,17,14,2019,14781,Norfolk St.,485
 42,1865296,Stephen Baughan,1B,Jr,48,47,2019,14781,Norfolk St.,485
@@ -240,7 +240,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,2117479,James Deloatch,P,Fr,23,8,2019,14781,Norfolk St.,485
 41,1865300,Tyrin Everette,P,So,9,0,2019,14781,Norfolk St.,485
 30,1989994,Miguel Cameron,OF,So,4,0,2019,14781,Norfolk St.,485
-14,2140892,Ty Hanchey,C,Fr,36,29,2019,14781,Norfolk St.,485
+18,1652733,Trey Hanchey,P,Sr,18,0,2019,14781,Norfolk St.,485
 49,2332119,Dalton Barham,P,Fr,0,0,2020,15204,Norfolk St.,485
 22,1989991,Khie Simms,OF,Jr,8,5,2020,15204,Norfolk St.,485
 29,1762490,Alex Wright,P,Sr,4,4,2020,15204,Norfolk St.,485

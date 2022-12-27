@@ -397,7 +397,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 42,2302264,Zarian Forde,OF,Fr,28,12,2021,15580,St. Edward's,1334
 19,2302275,Tyler Dean,1B,Jr,18,8,2021,15580,St. Edward's,1334
 26,2124716,Jake Hahn,INF,Jr,40,40,2021,15580,St. Edward's,1334
-15,2127511,Ashton Davis,P,Fr,2,0,2021,15580,St. Edward's,1334
+17,2124729,Nick Davis,OF,So,0,0,2021,15580,St. Edward's,1334
 27,2476508,Chase Cos,UT,Fr,40,40,2021,15580,St. Edward's,1334
 85,2476507,Hunter Conner,UT,Fr,9,2,2021,15580,St. Edward's,1334
 47,2302252,Alejandro Betancourt,P,Fr,1,0,2021,15580,St. Edward's,1334
@@ -407,12 +407,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,2302249,Cullen Ainsworth,C,Fr,37,34,2021,15580,St. Edward's,1334
 38,2476506,Lucas Abbott,UT,Fr,1,0,2021,15580,St. Edward's,1334
 6,2302277,Jack Granack,P,Fr,13,13,2021,15580,St. Edward's,1334
-17,2124729,Nick Davis,OF,So,0,0,2021,15580,St. Edward's,1334
+15,2127511,Ashton Davis,P,Fr,2,0,2021,15580,St. Edward's,1334
 25,1870203,Dante Gutierrez,C,So,6,0,2021,15580,St. Edward's,1334
 13,2302294,Alan Villarreal,INF,Fr,1,0,2021,15580,St. Edward's,1334
 4,2302287,Reid Stiefel,INF,Fr,3,0,2021,15580,St. Edward's,1334
-61,2124742,Ryan Ragazzo,INF,So,0,0,2021,15580,St. Edward's,1334
 56,2302284,Dominic Ragazzo,OF,Fr,0,0,2021,15580,St. Edward's,1334
+61,2124742,Ryan Ragazzo,INF,So,0,0,2021,15580,St. Edward's,1334
 34,2476520,Jesse Reed,P,Fr,13,5,2021,15580,St. Edward's,1334
 43,2124722,Rudy Reyna,OF,So,3,0,2021,15580,St. Edward's,1334
 10,2476524,Eric Roden,3B,Fr,0,0,2021,15580,St. Edward's,1334
@@ -443,8 +443,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,2476517,Tyroun Murray,UT,Fr,2,0,2021,15580,St. Edward's,1334
 48,2124725,Aj Myers,OF,So,0,0,2021,15580,St. Edward's,1334
 70,2302280,J.D. Nguyen,OF,Fr,0,0,2021,15580,St. Edward's,1334
-40,2476518,Braden Olson,P,Fr,3,0,2021,15580,St. Edward's,1334
 37,1985385,Turner Olson,OF,Jr,11,9,2021,15580,St. Edward's,1334
+40,2476518,Braden Olson,P,Fr,3,0,2021,15580,St. Edward's,1334
 29,2302267,Jacques Palmer,UT,Jr,5,3,2021,15580,St. Edward's,1334
 3,2124730,Jonathan Mendez,INF,So,8,3,2021,15580,St. Edward's,1334
 37,2660088,Preston Keltner,P,Fr,2,0,2022,15860,St. Edward's,1334
@@ -455,7 +455,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,2660073,Guilio Monello,C,So,15,14,2022,15860,St. Edward's,1334
 48,2124725,Aj Myers,OF,Jr,2,0,2022,15860,St. Edward's,1334
 53,2302278,Brady Huckfelt,P,So,3,0,2022,15860,St. Edward's,1334
-7,1985385,Turner Olson,OF,Sr,56,54,2022,15860,St. Edward's,1334
+40,2476518,Braden Olson,P,So,8,1,2022,15860,St. Edward's,1334
 3,2124730,Jonathan Mendez,INF,Jr,0,0,2022,15860,St. Edward's,1334
 26,2124716,Jake Hahn,INF,Sr,57,57,2022,15860,St. Edward's,1334
 27,2476508,Chase Cos,OF,So,28,23,2022,15860,St. Edward's,1334
@@ -468,11 +468,11 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,2476510,Ryan Feddersen,INF,So,10,2,2022,15860,St. Edward's,1334
 33,2302263,Austin Essex,P,So,20,0,2022,15860,St. Edward's,1334
 8,2302262,Davis Drewek,OF,So,50,49,2022,15860,St. Edward's,1334
-40,2476518,Braden Olson,P,So,8,1,2022,15860,St. Edward's,1334
+7,1985385,Turner Olson,OF,Sr,56,54,2022,15860,St. Edward's,1334
 6,2302277,Jack Granack,P,So,14,14,2022,15860,St. Edward's,1334
 11,2124721,Garret Phillips,P,Jr,12,0,2022,15860,St. Edward's,1334
 17,2124729,Nick Davis,OF,Jr,0,0,2022,15860,St. Edward's,1334
-61,2124742,Ryan Ragazzo,INF,Jr,0,0,2022,15860,St. Edward's,1334
+56,2302284,Dominic Ragazzo,OF,So,0,0,2022,15860,St. Edward's,1334
 50,2302251,Wyatt Bell,UT,So,1,0,2022,15860,St. Edward's,1334
 45,2660110,Stacey Bailey,INF,So,49,48,2022,15860,St. Edward's,1334
 2,2124698,Morgan Allen,INF,Jr,57,57,2022,15860,St. Edward's,1334
@@ -487,7 +487,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,2302287,Reid Stiefel,INF,So,1,0,2022,15860,St. Edward's,1334
 39,2660014,Luke Short,P,So,15,15,2022,15860,St. Edward's,1334
 43,2124722,Rudy Reyna,OF,Jr,3,0,2022,15860,St. Edward's,1334
-56,2302284,Dominic Ragazzo,OF,So,0,0,2022,15860,St. Edward's,1334
+61,2124742,Ryan Ragazzo,INF,Jr,0,0,2022,15860,St. Edward's,1334
 47,2302252,Alejandro Betancourt,P,So,14,0,2022,15860,St. Edward's,1334
 91,2476507,Hunter Conner,OF,So,26,20,2022,15860,St. Edward's,1334
 47,2302252,Alejandro Betancourt,P,6-0,Jr,0,2023,16340,St. Edward's,1334

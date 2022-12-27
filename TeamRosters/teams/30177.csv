@@ -136,8 +136,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 2,1878533,Brenon Rhodes,INF,Sr,20,1,2018,12973,Lubbock Christian,30177
 29,1984426,Shandon Herrera,P,Fr,12,0,2018,12973,Lubbock Christian,30177
 15,1878538,Nick Hooper,P,Sr,13,0,2018,12973,Lubbock Christian,30177
-18,1984415,Ryan Johnson,P,Jr,14,13,2018,12973,Lubbock Christian,30177
 8,1982476,Callan Johnson,P,Jr,13,13,2018,12973,Lubbock Christian,30177
+18,1984415,Ryan Johnson,P,Jr,14,13,2018,12973,Lubbock Christian,30177
 28,1878540,Reagan Lucia,P,So,9,0,2018,12973,Lubbock Christian,30177
 33,1984417,Connor Mccafferty,OF,Jr,8,2,2018,12973,Lubbock Christian,30177
 9,1982486,Andres Negron,SS,Jr,54,54,2018,12973,Lubbock Christian,30177
@@ -178,14 +178,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,1984412,Payton Rhodes,OF,Sr,0,0,2019,14781,Lubbock Christian,30177
 4,1982468,Braden Hayward,3B,Sr,52,52,2019,14781,Lubbock Christian,30177
 25,1767705,Andrew Pratt,C,Sr,52,52,2019,14781,Lubbock Christian,30177
-8,1982476,Callan Johnson,P,Sr,12,10,2019,14781,Lubbock Christian,30177
+18,1984415,Ryan Johnson,P,Sr,16,16,2019,14781,Lubbock Christian,30177
 9,1982486,Andres Negron,SS,Sr,52,52,2019,14781,Lubbock Christian,30177
 15,2131200,Logan Mccrummen,p,Sr,16,5,2019,14781,Lubbock Christian,30177
 33,1984417,Connor Mccafferty,OF,Sr,0,0,2019,14781,Lubbock Christian,30177
 3,1759002,Peyton Maddox,INF,Jr,19,2,2019,14781,Lubbock Christian,30177
 28,1878540,Reagan Lucia,P,Jr,12,0,2019,14781,Lubbock Christian,30177
 22,1878537,Aj Perez,OF,Jr,17,0,2019,14781,Lubbock Christian,30177
-18,1984415,Ryan Johnson,P,Sr,16,16,2019,14781,Lubbock Christian,30177
+8,1982476,Callan Johnson,P,Sr,12,10,2019,14781,Lubbock Christian,30177
 30,1881388,James Hardberger,C,Sr,50,40,2019,14781,Lubbock Christian,30177
 16,1878532,Keaton Greenwalt,INF,Jr,52,52,2019,14781,Lubbock Christian,30177
 26,1984404,Drew Austin,C,Sr,21,10,2019,14781,Lubbock Christian,30177
@@ -233,8 +233,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,2136494,Tate Ellison,ph,Sr,15,0,2020,15204,Lubbock Christian,30177
 20,1984429,Kameron Deterding,P,Jr,2,0,2020,15204,Lubbock Christian,30177
 2,2307837,John Figueroa,C,Jr,11,4,2020,15204,Lubbock Christian,30177
-34,1886945,Brennen Fowler,P,Sr,7,0,2020,15204,Lubbock Christian,30177
 16,2307847,Jaden Fowler,P,Fr,9,0,2020,15204,Lubbock Christian,30177
+34,1886945,Brennen Fowler,P,Sr,7,0,2020,15204,Lubbock Christian,30177
 12,2151315,Colin Frondorf,p,Sr,4,0,2020,15204,Lubbock Christian,30177
 8,2307844,Grant Griffin,OF,Jr,16,7,2020,15204,Lubbock Christian,30177
 40,2307863,Brett Hedges,INF,Fr,0,0,2020,15204,Lubbock Christian,30177

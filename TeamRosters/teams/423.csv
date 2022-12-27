@@ -258,8 +258,8 @@ RS,1762596,Bobby Dorta,P,Fr,0,0,2016,12360,Millersville,423
 35,2137205,Kris Pirozzi,P,So,5,1,2020,15204,Millersville,423
 11,2330450,Chase Simmons,OF,Fr,6,1,2020,15204,Millersville,423
 12,1994538,Matt Stevenson,P,Jr,0,0,2020,15204,Millersville,423
-6,2330441,Justin Taylor,INF,Fr,10,4,2020,15204,Millersville,423
 10,2330442,Bren Taylor,OF,Fr,14,9,2020,15204,Millersville,423
+6,2330441,Justin Taylor,INF,Fr,10,4,2020,15204,Millersville,423
 29,2333355,Jeff Taylor,p,Jr,6,6,2020,15204,Millersville,423
 7,1990856,Luke Trainer,DH,Jr,18,18,2020,15204,Millersville,423
 55,1762595,John Turner,C,Sr,3,0,2020,15204,Millersville,423
@@ -272,7 +272,7 @@ RS,1762596,Bobby Dorta,P,Fr,0,0,2016,12360,Millersville,423
 27,1762600,Kyle Peterson,P,Sr,4,1,2020,15204,Millersville,423
 9,1995589,Jacob Paulishak,UT,Jr,4,0,2020,15204,Millersville,423
 24,1762597,Jimmy Cain,P,Sr,18,18,2020,15204,Millersville,423
-16,2330435,Darin Miller,3B,Fr,18,16,2020,15204,Millersville,423
+25,1889729,Drew Miller,P,Sr,6,6,2020,15204,Millersville,423
 8,1879924,Eric Callahan,SS,Sr,18,18,2020,15204,Millersville,423
 21,1762596,Bobby Dorta,P,Sr,5,0,2020,15204,Millersville,423
 15,2330458,Gavilan Fogarty-Harnish,P,Sr,5,2,2020,15204,Millersville,423
@@ -285,8 +285,8 @@ RS,1762596,Bobby Dorta,P,Fr,0,0,2016,12360,Millersville,423
 47,2330437,Garrett Lowe,3B,Fr,2,0,2020,15204,Millersville,423
 5,2330440,Nick Mancuso,UT,Jr,14,10,2020,15204,Millersville,423
 3,1990867,Andrew Mayhew,P,Jr,5,0,2020,15204,Millersville,423
+16,2330435,Darin Miller,3B,Fr,18,16,2020,15204,Millersville,423
 33,2330444,Cole Miller,C,Jr,10,2,2020,15204,Millersville,423
-25,1889729,Drew Miller,P,Sr,6,6,2020,15204,Millersville,423
 28,2330453,Ryan Jacobs,P,Fr,0,0,2020,15204,Millersville,423
 30,2137204,Alex Mykut,P,So,6,5,2020,15204,Millersville,423
 99,2486948,Will Conroy,P,Fr,0,0,2021,15580,Millersville,423
@@ -297,9 +297,9 @@ RS,1762596,Bobby Dorta,P,Fr,0,0,2016,12360,Millersville,423
 11,2330450,Chase Simmons,OF,So,15,4,2021,15580,Millersville,423
 24,2486972,Keegan Soltis,3B,Fr,0,0,2021,15580,Millersville,423
 12,1994538,Matt Stevenson,P,Sr,4,1,2021,15580,Millersville,423
-29,2333355,Jeff Taylor,p,Sr,12,12,2021,15580,Millersville,423
 17,2330442,Bren Taylor,OF,So,45,45,2021,15580,Millersville,423
 6,2330441,Justin Taylor,INF,So,38,35,2021,15580,Millersville,423
+29,2333355,Jeff Taylor,p,Sr,12,12,2021,15580,Millersville,423
 7,1990856,Luke Trainer,C,Sr,45,45,2021,15580,Millersville,423
 23,1888747,Wyatt Tyson,P,Sr,18,1,2021,15580,Millersville,423
 32,1996803,Pete Vaccaro,INF,So,31,24,2021,15580,Millersville,423
@@ -309,7 +309,7 @@ RS,1762596,Bobby Dorta,P,Fr,0,0,2016,12360,Millersville,423
 9,1995589,Jacob Paulishak,P,Jr,6,1,2021,15580,Millersville,423
 18,1990857,Christian Wingard,P,Sr,17,1,2021,15580,Millersville,423
 30,2137204,Alex Mykut,P,Jr,5,5,2021,15580,Millersville,423
-16,2330435,Darin Miller,3B,So,23,15,2021,15580,Millersville,423
+33,2330444,Cole Miller,C,Sr,0,0,2021,15580,Millersville,423
 8,1879924,Eric Callahan,SS,Sr,45,45,2021,15580,Millersville,423
 44,2486946,Zach Chowansky,OF,Fr,9,3,2021,15580,Millersville,423
 25,2486949,Conor Cook,P,Fr,9,6,2021,15580,Millersville,423
@@ -325,7 +325,7 @@ RS,1762596,Bobby Dorta,P,Fr,0,0,2016,12360,Millersville,423
 5,2330440,Nick Mancuso,UT,Sr,36,31,2021,15580,Millersville,423
 3,1990867,Andrew Mayhew,P,Sr,11,1,2021,15580,Millersville,423
 10,2137183,Mark Miller,1B,Jr,33,18,2021,15580,Millersville,423
-33,2330444,Cole Miller,C,Sr,0,0,2021,15580,Millersville,423
+16,2330435,Darin Miller,3B,So,23,15,2021,15580,Millersville,423
 13,2330452,Corey Woodcock,OF,Jr,6,0,2021,15580,Millersville,423
 55,2665621,Evan Rishell,P,Fr,10,6,2022,15860,Millersville,423
 8,2486971,John Seibert,C,Fr,29,20,2022,15860,Millersville,423
@@ -334,9 +334,9 @@ RS,1762596,Bobby Dorta,P,Fr,0,0,2016,12360,Millersville,423
 11,2330450,Chase Simmons,OF,Jr,55,54,2022,15860,Millersville,423
 24,2486972,Keegan Soltis,3B,Fr,47,42,2022,15860,Millersville,423
 6,2330441,Justin Taylor,INF,Jr,36,23,2022,15860,Millersville,423
-17,2330442,Bren Taylor,OF,Jr,55,55,2022,15860,Millersville,423
-14,2486969,Harry Prince,P,So,12,0,2022,15860,Millersville,423
 29,2333355,Jeff Taylor,p,Sr,12,9,2022,15860,Millersville,423
+14,2486969,Harry Prince,P,So,12,0,2022,15860,Millersville,423
+17,2330442,Bren Taylor,OF,Jr,55,55,2022,15860,Millersville,423
 58,2665622,Zack Tukis,P,Fr,3,0,2022,15860,Millersville,423
 22,1996803,Pete Vaccaro,INF,Jr,25,4,2022,15860,Millersville,423
 20,1990858,Aidan Welch,P,Sr,2,2,2022,15860,Millersville,423

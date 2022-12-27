@@ -154,13 +154,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,1777410,Jake Schubert,INF,So,4,1,2016,12360,Bethel  (MIAC),60
 3,1435433,Matt Conrad,OF,Sr,38,37,2016,12360,Bethel  (MIAC),60
 44,1556746,Bret Neuville,1B,Jr,36,36,2016,12360,Bethel  (MIAC),60
-27,1672530,Tyler Meyer,P,So,0,0,2016,12360,Bethel  (MIAC),60
+33,1668803,Brandon Meyer,INF,So,24,19,2016,12360,Bethel  (MIAC),60
 25,1556751,Grant Martinson,P,Jr,15,0,2016,12360,Bethel  (MIAC),60
 9,1556744,Bryce Marquardt,OF,Jr,38,38,2016,12360,Bethel  (MIAC),60
 12,1777411,Noah Luedtke,P,So,7,7,2016,12360,Bethel  (MIAC),60
 1,1435432,Logan Lisle,INF,Sr,27,14,2016,12360,Bethel  (MIAC),60
 17,1669352,Austin Ledin,C,So,32,29,2016,12360,Bethel  (MIAC),60
-33,1668803,Brandon Meyer,INF,So,24,19,2016,12360,Bethel  (MIAC),60
+27,1672530,Tyler Meyer,P,So,0,0,2016,12360,Bethel  (MIAC),60
 13,1777412,Michael Bohlke,P,Fr,16,0,2016,12360,Bethel  (MIAC),60
 19,1777416,Christian Brausen,P,Fr,0,0,2016,12360,Bethel  (MIAC),60
 21,1777418,Jacob Ashworth,1B,Fr,8,2,2016,12360,Bethel  (MIAC),60
@@ -391,8 +391,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2120159,Zach Haala,INF,Sr,8,2,2022,15860,Bethel  (MIAC),60
 25,2506559,Drew Hillman,C,So,0,0,2022,15860,Bethel  (MIAC),60
 23,2120142,Keenan Hodgkin,INF,Sr,44,44,2022,15860,Bethel  (MIAC),60
-4,2692064,Sam Johnson,ph/rf,Fr,2,0,2022,15860,Bethel  (MIAC),60
 41,2120168,Nick Johnson,P,Sr,8,0,2022,15860,Bethel  (MIAC),60
+4,2692064,Sam Johnson,ph/rf,Fr,2,0,2022,15860,Bethel  (MIAC),60
 2,2126125,Bryce Delay,P,Sr,9,0,2022,15860,Bethel  (MIAC),60
 6,2691205,Max Sutter,p,-,So,0,2023,16340,Bethel  (MIAC),60
 29,2696531,J. Axberg,p,-,So,0,2023,16340,Bethel  (MIAC),60

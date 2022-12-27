@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/02/2021,away,15580,698,TCU,9,True,3,9,-6,loss,3 - 9,5013965,676,1,0.1,0,0,4,4,3,1,0,5,1,0,0,0,0,0,1,0,0,0,0,0,21,0,0,0,0,0,4,0,0,2477973,2021
-04/06/2021,home,15580,261,Grambling,9,True,10,8,2,win,10 - 8,5049476,676,1,1.0,0,1,0,0,1,2,0,5,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,4,1,0,2477973,2021
-04/14/2021,away,15580,700,Texas Tech,9,True,5,7,-2,loss,5 - 7,5056262,676,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,2,0,0,0,5,0,0,2477973,2021
-04/17/2021,home,15580,655,Southeastern La.,9,True,2,6,-4,loss,2 - 6,5059590,676,1,1.0,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,0,2477973,2021
-04/18/2021,home,15580,655,Southeastern La.,9,True,3,5,-2,loss,3 - 5,5061757,676,1,2.0,0,1,0,0,0,0,0,7,7,0,0,0,0,0,0,0,2,1,0,0,18,0,6,0,0,0,2,0,0,2477973,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,0,4,4,3,1,0,5,1,0,0,0,0,0,1,0,0,0,0,0,21,0,0,0,0,0,4,0,0,03/02/2021,away,15580,698,TCU,9,True,3,9,-6,loss,2017006,676,2477973,2021
+1,0,1.0,0.0,1,0,0,1,2,0,5,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,4,1,0,04/06/2021,home,15580,261,Grambling,9,True,10,8,2,win,2068619,676,2477973,2021
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,2,0,0,0,5,0,0,04/14/2021,away,15580,700,Texas Tech,9,True,5,7,-2,loss,2026734,676,2477973,2021
+1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,0,04/17/2021,home,15580,655,Southeastern La.,9,True,2,6,-4,loss,2021456,676,2477973,2021
+1,0,2.0,0.0,1,0,0,0,0,0,7,7,0,0,0,0,0,0,0,2,1,0,0,18,0,6,0,0,0,2,0,0,04/18/2021,home,15580,655,Southeastern La.,9,True,3,5,-2,loss,2021702,676,2477973,2021

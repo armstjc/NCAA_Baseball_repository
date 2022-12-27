@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/06/2021,away,15580,342,Lafayette,9,True,14,12,2,win,14 - 12,5016979,748,1,1.0,0,3,5,5,1,1,0,9,6,1,0,0,0,0,2,0,3,0,0,0,0,1,1,0,0,0,3,0,0,2488803,2021
-03/14/2021,home,15580,380,Maine,9,True,3,12,-9,loss,3 - 12,5025305,748,1,0.0,0,4,4,4,0,0,0,5,4,1,0,0,1,0,1,0,2,2,0,0,0,0,0,0,0,0,2,0,0,2488803,2021
-04/01/2021,away,15580,81,Bryant,9,True,1,12,-11,loss,1 - 12,5043507,748,1,0.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,2488803,2021
-04/20/2021,away,15580,222,Fairleigh Dickinson,9,True,11,10,1,win,11 - 10,5062187,748,1,1.1,0,5,3,3,2,2,0,11,9,1,0,0,1,1,0,0,0,0,0,0,45,1,1,0,0,0,1,0,0,2488803,2021
-05/22/2021,away,15580,590,Sacred Heart,9,True,6,14,-8,loss,6 - 14,5081118,748,1,0.1,0,0,3,3,2,1,0,4,1,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,4,1,0,2488803,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,5,5,1,1,0,9,6,1,0,0,0,0,2,0,3,0,0,0,0,1,1,0,0,0,3,0,0,03/06/2021,away,15580,342,Lafayette,9,True,14,12,2,win,2056060,748,2488803,2021
+1,0,0.0,0.0,4,4,4,0,0,0,5,4,1,0,0,1,0,1,0,2,2,0,0,0,0,0,0,0,0,2,0,0,03/14/2021,home,15580,380,Maine,9,True,3,12,-9,loss,2048564,748,2488803,2021
+1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,04/01/2021,away,15580,81,Bryant,9,True,1,12,-11,loss,2028498,748,2488803,2021
+1,1,1.1,0.0,5,3,3,2,2,0,11,9,1,0,0,1,1,0,0,0,0,0,0,45,1,1,0,0,0,1,0,0,04/20/2021,away,15580,222,Fairleigh Dickinson,9,True,11,10,1,win,2069556,748,2488803,2021
+1,0,0.1,0.0,0,3,3,2,1,0,4,1,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,4,1,0,05/22/2021,away,15580,590,Sacred Heart,9,True,6,14,-8,loss,2030660,748,2488803,2021

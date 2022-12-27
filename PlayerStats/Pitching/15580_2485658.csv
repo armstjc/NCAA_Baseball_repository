@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/24/2021,home,15580,772,Western Ky.,9,True,12,1,11,win,12 - 1,5007128,736,1,1.0,0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,18,0,1,0,0,0,5,0,0,2485658,2021
-02/28/2021,home,15580,254,Georgia St.,9,True,12,2,10,win,12 - 2,5011158,736,1,1.0,0,0,0,0,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,17,1,1,0,0,0,4,0,0,2485658,2021
-03/05/2021,home,15580,302,UIC,9,True,15,0,15,win,15 - 0,5015199,736,1,1.0,0,1,0,0,1,0,0,4,3,1,0,1,0,0,0,0,0,0,0,0,22,2,0,0,0,0,4,0,0,2485658,2021
-04/08/2021,home,15580,257,Georgia,9,True,2,14,-12,loss,2 - 14,5050273,736,1,2.0,0,4,5,3,0,2,0,12,12,0,0,0,4,0,0,0,0,0,0,0,31,2,2,0,0,0,4,2,0,2485658,2021
-05/18/2021,home,15580,231,FIU,9,True,20,4,16,win,20 - 4,5079631,736,1,1.0,0,3,3,3,0,2,0,6,6,0,0,0,1,1,0,0,0,0,0,0,28,1,0,0,0,0,3,1,0,2485658,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,18,0,1,0,0,0,5,0,0,02/24/2021,home,15580,772,Western Ky.,9,True,12,1,11,win,2016509,736,2485658,2021
+1,0,1.0,0.0,0,0,0,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,17,1,1,0,0,0,4,0,0,02/28/2021,home,15580,254,Georgia St.,9,True,12,2,10,win,2029321,736,2485658,2021
+1,0,1.0,0.0,1,0,0,1,0,0,4,3,1,0,1,0,0,0,0,0,0,0,0,22,2,0,0,0,0,4,0,0,03/05/2021,home,15580,302,UIC,9,True,15,0,15,win,2017139,736,2485658,2021
+1,0,2.0,0.0,4,5,3,0,2,0,12,12,0,0,0,4,0,0,0,0,0,0,0,31,2,2,0,0,0,4,2,0,04/08/2021,home,15580,257,Georgia,9,True,2,14,-12,loss,2020459,736,2485658,2021
+1,0,1.0,0.0,3,3,3,0,2,0,6,6,0,0,0,1,1,0,0,0,0,0,0,28,1,0,0,0,0,3,1,0,05/18/2021,home,15580,231,FIU,9,True,20,4,16,win,2040067,736,2485658,2021

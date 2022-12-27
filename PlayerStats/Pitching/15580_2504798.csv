@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/03/2021,away,15580,365,LSU,9,True,1,16,-15,loss,1 - 16,5013652,665,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,0,3,0,0,0,5,0,0,2504798,2021
-03/13/2021,away,15580,553,Prairie View,9,True,4,12,-8,loss,4 - 12,5029227,665,1,1.0,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,4,1,0,2504798,2021
-03/16/2021,home,15580,346,Lamar University,11,True,5,7,-2,loss,5 - 7,5029300,665,1,1.0,0,2,2,2,1,1,0,7,5,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0,5,0,0,2504798,2021
-03/19/2021,away,15580,574,Rice,10,True,2,14,-12,loss,2 - 14,5030114,665,1,1.0,0,1,1,1,1,0,0,4,3,0,0,0,1,0,0,0,3,3,0,0,0,1,1,0,0,0,5,0,0,2504798,2021
-04/21/2021,away,15580,646,South Alabama,9,True,0,5,-5,loss,0 - 5,5063027,665,1,1.0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,12,2,1,0,0,0,7,0,0,2504798,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,0,3,0,0,0,5,0,0,03/03/2021,away,15580,365,LSU,9,True,1,16,-15,loss,2016513,665,2504798,2021
+1,0,1.0,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,4,1,0,03/13/2021,away,15580,553,Prairie View,9,True,4,12,-8,loss,2018139,665,2504798,2021
+1,0,1.0,0.0,2,2,2,1,1,0,7,5,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0,5,0,0,03/16/2021,home,15580,346,Lamar University,11,True,5,7,-2,loss,2027418,665,2504798,2021
+1,0,1.0,0.0,1,1,1,1,0,0,4,3,0,0,0,1,0,0,0,3,3,0,0,0,1,1,0,0,0,5,0,0,03/19/2021,away,15580,574,Rice,10,True,2,14,-12,loss,2018362,665,2504798,2021
+1,0,1.0,0.0,0,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,12,2,1,0,0,0,7,0,0,04/21/2021,away,15580,646,South Alabama,9,True,0,5,-5,loss,2071276,665,2504798,2021

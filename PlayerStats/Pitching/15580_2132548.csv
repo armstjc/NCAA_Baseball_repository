@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/27/2021,away,15580,624,Sam Houston,9,True,10,4,6,win,10 - 4,5010665,706,1,5.0,0,3,1,1,4,3,0,22,16,1,0,0,1,0,1,0,1,0,1,0,85,2,9,1,0,0,2,0,0,2132548,2021
-03/06/2021,home,15580,702,UT Arlington,9,True,3,0,3,win,3 - 0,5017013,706,1,7.0,1,5,0,0,1,9,1,25,24,0,0,0,0,0,0,0,0,0,0,0,0,6,4,1,0,0,1,2,0,2132548,2021
-03/13/2021,away,15580,365,LSU,13,True,9,10,-1,loss,9 - 10,5025001,706,1,6.0,0,4,4,4,1,4,0,24,21,1,0,0,1,0,2,0,0,0,0,0,83,5,8,0,0,0,1,0,0,2132548,2021
-03/20/2021,away,15580,26172,A&M-Corpus Christi,9,True,7,4,3,win,7 - 4,5031187,706,1,6.0,0,5,1,1,1,9,0,23,21,0,0,0,0,1,0,0,0,0,1,0,84,6,2,0,0,0,1,2,0,2132548,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,5.0,0.0,3,1,1,4,3,0,22,16,1,0,0,1,0,1,0,1,0,1,0,85,2,9,1,0,0,2,0,0,02/27/2021,away,15580,624,Sam Houston,9,True,10,4,6,win,2016703,706,2132548,2021
+1,1,7.0,1,5,0,0,1,9,1,25,24,0,0,0,0,0,0,0,0,0,0,0,0,6,4,1,0,0,1,2,0,03/06/2021,home,15580,702,UT Arlington,9,True,3,0,3,win,2055967,706,2132548,2021
+1,1,6.0,0.0,4,4,4,1,4,0,24,21,1,0,0,1,0,2,0,0,0,0,0,83,5,8,0,0,0,1,0,0,03/13/2021,away,15580,365,LSU,13,True,9,10,-1,loss,2017885,706,2132548,2021
+1,1,6.0,0.0,5,1,1,1,9,0,23,21,0,0,0,0,1,0,0,0,0,1,0,84,6,2,0,0,0,1,2,0,03/20/2021,away,15580,26172,A&M-Corpus Christi,9,True,7,4,3,win,2018541,706,2132548,2021

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.2,0.0,2,1,1,2,0,0,9,6,0,0,0,0,0,0,0,2,0,0,1,0,2,3,0,0,0,2,0,0,02/22/2021,neutral,15580,9013,Missouri Western,9,True,9,6,3,win,2016370,435,2324979,2021
+1,0,0.0,0.0,2,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,3,0,0,03/06/2021,away,15580,436,Mo.-St. Louis,10,True,5,6,-1,loss,2024746,435,2324979,2021
+1,0,2.0,0.0,4,3,3,2,1,0,12,9,0,0,0,0,0,0,0,0,0,1,0,0,3,2,0,0,0,2,0,0,03/13/2021,neutral,15580,309,UIndy,9,True,4,7,-3,loss,2026678,435,2324979,2021
+1,0,1.0,0.0,5,6,4,1,0,0,11,8,2,0,0,1,0,0,0,0,0,2,0,29,3,0,0,0,0,4,0,0,03/27/2021,home,15580,561,Quincy,9,True,14,21,-7,loss,2024811,435,2324979,2021
+1,0,1.1,0.0,4,1,1,0,3,0,8,8,0,0,0,0,0,0,0,3,1,0,0,33,1,0,0,0,0,5,0,0,04/11/2021,home,15580,1057,Drury,9,True,3,17,-14,loss,2020984,435,2324979,2021

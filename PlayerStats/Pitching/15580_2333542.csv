@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-03/20/2021,away,15580,302,UIC,9,True,12,4,8,win,12 - 4,5031858,810,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,2,0,0,2333542,2021
-03/28/2021,away,15580,817,Youngstown St.,9,True,10,11,-1,loss,10 - 11,5040450,810,1,1.2,0,1,1,0,0,3,0,8,7,0,0,0,0,0,0,0,1,1,1,0,30,2,0,0,1,0,4,0,0,2333542,2021
-04/17/2021,away,15580,28755,FGCU,9,True,4,6,-2,loss,4 - 6,5058416,810,1,2.0,0,3,2,1,2,1,0,12,8,1,0,0,0,1,0,1,0,0,2,0,34,3,2,0,1,0,2,1,0,2333542,2021
-04/23/2021,away,15580,505,Northern Ky.,9,True,8,6,2,win,8 - 6,5063940,810,1,1.1,0,2,0,0,0,2,0,5,5,0,0,0,0,0,0,0,2,0,0,0,18,0,1,0,0,0,2,0,0,2333542,2021
-05/08/2021,home,15580,797,Milwaukee,9,True,20,5,15,win,20 - 5,5075821,810,1,0.2,0,3,3,3,0,2,0,6,5,0,1,0,0,0,1,0,0,0,0,0,15,0,0,0,0,0,7,0,0,2333542,2021
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,2,0,0,03/20/2021,away,15580,302,UIC,9,True,12,4,8,win,2018590,810,2333542,2021
+1,0,1.2,0.0,1,1,0,0,3,0,8,7,0,0,0,0,0,0,0,1,1,1,0,30,2,0,0,1,0,4,0,0,03/28/2021,away,15580,817,Youngstown St.,9,True,10,11,-1,loss,2019453,810,2333542,2021
+1,0,2.0,0.0,3,2,1,2,1,0,12,8,1,0,0,0,1,0,1,0,0,2,0,34,3,2,0,1,0,2,1,0,04/17/2021,away,15580,28755,FGCU,9,True,4,6,-2,loss,2070736,810,2333542,2021
+1,0,1.1,0.0,2,0,0,0,2,0,5,5,0,0,0,0,0,0,0,2,0,0,0,18,0,1,0,0,0,2,0,0,04/23/2021,away,15580,505,Northern Ky.,9,True,8,6,2,win,2024377,810,2333542,2021
+1,0,0.2,0.0,3,3,3,0,2,0,6,5,0,1,0,0,0,1,0,0,0,0,0,15,0,0,0,0,0,7,0,0,05/08/2021,home,15580,797,Milwaukee,9,True,20,5,15,win,2025332,810,2333542,2021

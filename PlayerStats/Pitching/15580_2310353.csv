@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/20/2021,home,15580,81,Bryant,9,True,0,10,-10,loss,2028496,410,2310353,2021
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/21/2021,home,15580,81,Bryant,9,True,1,18,-17,loss,2028495,410,2310353,2021
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/21/2021,home,15580,81,Bryant,9,True,0,14,-14,loss,2028497,410,2310353,2021
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/14/2021,away,15580,400,Massachusetts,9,True,8,9,-1,loss,2071069,410,2310353,2021
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/24/2021,away,15580,222,Fairleigh Dickinson,9,True,7,2,5,win,2073882,410,2310353,2021

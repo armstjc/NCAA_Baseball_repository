@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,1.1,0.0,6,9,7,3,0,0,14,11,2,0,0,1,0,0,0,0,0,0,0,0,2,1,0,1,0,1,0,0,03/05/2021,neutral,15580,1403,Tiffin,9,True,6,22,-16,loss,2055772,35,2507094,2021
+1,1,4.2,0.0,6,3,3,2,3,0,22,18,2,0,0,0,0,1,0,0,0,0,1,0,6,5,0,0,0,1,0,0,03/12/2021,away,15580,1013,Charleston (WV),9,True,9,6,3,win,2017811,35,2507094,2021
+1,1,1.2,0.0,4,5,5,1,1,0,11,9,1,0,0,0,1,1,0,0,0,0,0,38,3,0,0,1,0,1,0,0,03/21/2021,away,15580,30063,Seton Hill,9,True,3,12,-9,loss,2037874,35,2507094,2021
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/01/2021,away,15580,799,Wis.-Parkside,9,True,32,11,21,win,2050510,35,2507094,2021
+1,1,3.0,0.0,5,2,2,0,3,0,15,14,0,0,0,1,0,1,0,0,0,0,0,44,2,4,0,0,0,1,0,0,05/02/2021,away,15580,799,Wis.-Parkside,9,True,15,7,8,win,2050513,35,2507094,2021

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2021,home,15580,14,UAlbany,9,True,14,5,9,win,2044708,410,2310334,2021
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/20/2021,home,15580,81,Bryant,9,True,0,10,-10,loss,2028496,410,2310334,2021
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/21/2021,home,15580,81,Bryant,9,True,1,18,-17,loss,2028495,410,2310334,2021
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/15/2021,home,15580,590,Sacred Heart,9,True,15,3,12,win,2044747,410,2310334,2021
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/21/2021,away,15580,361,LIU,10,True,2,3,-1,loss,2038180,410,2310334,2021

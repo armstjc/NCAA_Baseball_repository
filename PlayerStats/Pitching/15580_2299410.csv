@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,7.1,0.0,4,3,3,3,3,0,30,25,2,1,0,0,1,1,0,0,0,1,0,95,10,9,1,0,0,1,0,0,02/23/2021,away,15580,130,Central Mo.,9,True,6,3,3,win,2016379,30221,2299410,2021
+1,1,2.0,0.0,2,1,1,1,3,0,11,8,1,0,0,0,0,1,0,0,0,0,0,46,1,2,0,0,0,1,1,0,03/06/2021,away,15580,561,Quincy,9,True,16,7,9,win,2017388,30221,2299410,2021
+1,0,0.2,0.0,1,0,0,3,0,0,5,2,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,0,0,3,0,0,04/18/2021,away,15580,30222,Purdue Northwest,9,True,14,5,9,win,2071504,30221,2299410,2021
+1,1,1.2,0.0,7,7,7,2,1,0,14,11,1,0,0,0,0,1,0,0,0,0,0,50,3,0,0,1,0,1,1,1,04/25/2021,away,15580,510,Northwood,9,True,6,13,-7,loss,2074231,30221,2299410,2021
+1,1,2.0,0.0,2,5,5,3,2,0,12,7,0,1,0,0,1,1,0,0,0,1,0,41,3,1,0,0,0,1,0,0,05/02/2021,home,15580,262,Grand Valley St.,9,True,12,8,4,win,2053844,30221,2299410,2021

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,0,02/06/2021,away,15580,767,West Tex. A&M,9,True,3,9,-6,loss,2015963,30202,2481558,2021
+1,0,1.0,0.0,0,0,0,3,1,0,6,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,0,03/13/2021,home,15580,8965,East Central,9,True,18,5,13,win,2026424,30202,2481558,2021
+1,0,1.0,0.0,1,0,0,0,2,0,4,4,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,4,1,0,04/17/2021,away,15580,1376,Southern Ark.,9,True,2,13,-11,loss,2026229,30202,2481558,2021
+1,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,0,04/24/2021,home,15580,8411,Ark.-Monticello,9,True,8,12,-4,loss,2074095,30202,2481558,2021

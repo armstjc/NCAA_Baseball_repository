@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/21/2021,home,15580,121,Carthage,9,True,3,14,-11,loss,2047494,11538,2464102,2021
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/28/2021,home,15580,218,Eureka,9,True,13,2,11,win,2026175,11538,2464102,2021
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/05/2021,home,15580,0,Harris-Stowe,9,True,19,0,19,win,2067457,11538,2464102,2021
+1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,6,0,0,04/21/2021,away,15580,609,Saint Louis,9,True,0,13,-13,loss,2072757,11538,2464102,2021
+1,0,1.0,0.0,2,1,1,0,2,0,5,5,1,1,0,0,0,0,0,0,0,0,0,18,0,1,0,0,0,3,1,0,05/07/2021,home,15580,23260,Spalding,9,True,5,10,-5,loss,2023349,11538,2464102,2021

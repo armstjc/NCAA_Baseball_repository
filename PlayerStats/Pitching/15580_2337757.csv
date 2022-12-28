@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.1,0.0,2,0,0,1,2,0,11,9,0,0,0,0,0,1,0,0,0,0,0,38,0,5,0,0,0,2,2,0,05/01/2021,home,15580,134,Chapman,9,True,12,1,11,win,2074761,341,2337757,2021
+1,1,5.0,0.0,4,0,0,1,4,0,21,20,0,0,0,0,0,0,0,0,0,0,0,72,4,7,0,0,0,1,0,0,05/09/2021,away,15580,105,Cal Lutheran,9,True,8,9,-1,loss,2074756,341,2337757,2021
+1,1,5.0,0.0,5,2,2,0,1,0,20,20,1,0,0,1,1,0,0,0,0,0,0,62,7,7,1,0,0,1,1,0,05/15/2021,home,15580,567,Redlands,9,True,11,7,4,win,2074766,341,2337757,2021
+1,1,3.1,0.0,2,4,1,2,0,0,16,13,1,0,0,0,1,0,0,0,0,0,1,0,4,6,0,1,0,1,0,0,05/21/2021,away,15580,105,Cal Lutheran,9,True,3,12,-9,loss,2079610,341,2337757,2021

@@ -285,7 +285,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 3,2139343,Ryan Wall,INF,So,3,0,2020,15204,Stevens,679
 29,2348597,Stephen Willey,P,Fr,0,0,2020,15204,Stevens,679
 5,2348573,Chris Zickert,OF,Fr,5,0,2020,15204,Stevens,679
-26,1998373,Eli Zuckerman,P,Jr,1,0,2020,15204,Stevens,679
+13,1998374,Nathan Zuckerman,C,Jr,12,11,2020,15204,Stevens,679
 7,1998369,Gannon Kenney-Mcgowan,1B,Jr,11,10,2020,15204,Stevens,679
 16,2139349,Chris Silos,INF,So,12,11,2020,15204,Stevens,679
 35,2139348,Tom James,1B,So,12,12,2020,15204,Stevens,679
@@ -305,12 +305,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,1998365,Tyler Armstrong,P,Jr,1,0,2020,15204,Stevens,679
 11,2348482,Michael Anthony,P,Fr,2,0,2020,15204,Stevens,679
 32,1998368,Roy Iversen,P,Jr,5,0,2020,15204,Stevens,679
-13,1998374,Nathan Zuckerman,C,Jr,12,11,2020,15204,Stevens,679
+26,1998373,Eli Zuckerman,P,Jr,1,0,2020,15204,Stevens,679
 28,2513969,Axel Johnson,P,Fr,5,1,2021,15580,Stevens,679
 40,2514043,Jacob Buurman,P,Fr,10,0,2021,15580,Stevens,679
 11,2348474,Leo Bristow,P,So,11,5,2021,15580,Stevens,679
-26,1998373,Eli Zuckerman,P,Sr,11,0,2021,15580,Stevens,679
 13,1998374,Nathan Zuckerman,C,Sr,35,35,2021,15580,Stevens,679
+26,1998373,Eli Zuckerman,P,Sr,11,0,2021,15580,Stevens,679
 17,2348573,Chris Zickert,OF,So,22,5,2021,15580,Stevens,679
 29,2348597,Stephen Willey,P,So,2,0,2021,15580,Stevens,679
 3,2139343,Ryan Wall,INF,Jr,35,34,2021,15580,Stevens,679

@@ -223,9 +223,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,1878564,Jared Blum,SS,Jr,0,0,2019,14781,Hope,286
 19,2154886,Dylan Berghorst,P,N/A,10,1,2019,14781,Hope,286
 2,1994987,Evan Becker,OF,So,22,3,2019,14781,Hope,286
-9,2154885,Grant Barrett,3B,N/A,8,2,2019,14781,Hope,286
-23,1878563,Nicholas Holt,P,Sr,0,0,2019,14781,Hope,286
 7,1994985,Cal Barrett,C,So,13,2,2019,14781,Hope,286
+23,1878563,Nicholas Holt,P,Sr,0,0,2019,14781,Hope,286
+9,2154885,Grant Barrett,3B,N/A,8,2,2019,14781,Hope,286
 6,2156027,Ethan Willett,P,N/A,7,0,2019,14781,Hope,286
 27,2156045,Al Vasquez,P,N/A,4,0,2019,14781,Hope,286
 15,1878556,Matt Vandyken,P,Jr,8,1,2019,14781,Hope,286
@@ -303,7 +303,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2508315,Reece Crabtree,P,Fr,9,0,2021,15580,Hope,286
 31,1994994,Ted Eppinga,1B,Sr,11,11,2021,15580,Hope,286
 17,2530276,P. Friend,ph,N/A,3,0,2021,15580,Hope,286
-7,1994985,Cal Barrett,C,Sr,39,39,2021,15580,Hope,286
+8,2154885,Grant Barrett,3B,Jr,22,18,2021,15580,Hope,286
 9,2154887,Tucker Fritz,OF,Jr,4,1,2021,15580,Hope,286
 6,2355542,Nolan Gardner,2B,So,39,39,2021,15580,Hope,286
 26,2355549,Jace Gerlach,P,So,5,1,2021,15580,Hope,286
@@ -314,7 +314,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,1994995,Max Gaishin,P,Sr,10,9,2021,15580,Hope,286
 2,1994987,Evan Becker,OF,Sr,29,12,2021,15580,Hope,286
 13,2355560,Kainan Bayn,OF,Jr,34,33,2021,15580,Hope,286
-8,2154885,Grant Barrett,3B,Jr,22,18,2021,15580,Hope,286
+7,1994985,Cal Barrett,C,Sr,39,39,2021,15580,Hope,286
 19,2672690,Matt Blesch,P,Fr,6,0,2022,15860,Hope,286
 11,2508321,Devin Meeuwsen,SS,So,14,4,2022,15860,Hope,286
 2,2672693,Al Money,INF,Fr,37,37,2022,15860,Hope,286

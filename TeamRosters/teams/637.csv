@@ -258,7 +258,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 40,2009239,Hampton Thomas,P,Jr,2,0,2018,12973,Shenandoah,637
 41,1889312,Gerard Dephillips,P,So,11,6,2018,12973,Shenandoah,637
 60,2002588,Keegan Woolford,DH,Jr,44,43,2018,12973,Shenandoah,637
-58,2009010,Steven Baker,P,Fr,1,0,2018,12973,Shenandoah,637
+7,1774677,Tristan Baker,2B,Jr,47,47,2018,12973,Shenandoah,637
 34,2012769,Ty Bennett,C,Fr,1,0,2018,12973,Shenandoah,637
 32,1889311,Michael Bugonowicz,P,Sr,19,5,2018,12973,Shenandoah,637
 99,2010170,R C,UT,Sr,0,0,2018,12973,Shenandoah,637
@@ -266,7 +266,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,1775627,Ryan Coulon,INF,Jr,1,0,2018,12973,Shenandoah,637
 58,1889248,Michael Cruz,OF,So,17,2,2018,12973,Shenandoah,637
 13,2009009,Jonathan Dance,P,Sr,14,0,2018,12973,Shenandoah,637
-7,1774677,Tristan Baker,2B,Jr,47,47,2018,12973,Shenandoah,637
+58,2009010,Steven Baker,P,Fr,1,0,2018,12973,Shenandoah,637
 8,2001000,Henry Delavergne,OF,Fr,47,45,2018,12973,Shenandoah,637
 24,2000995,David Delawder,3B,Jr,7,5,2018,12973,Shenandoah,637
 48,2001005,Cole Dubois,P,Jr,11,0,2018,12973,Shenandoah,637
@@ -459,8 +459,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,2486463,Colby Martin,2B,So,0,0,2022,15860,Shenandoah,637
 5,2001002,Matt Moon,C,Sr,39,27,2022,15860,Shenandoah,637
 11,2331306,Reilly Owen,P,So,17,13,2022,15860,Shenandoah,637
-1,2133359,Austin Partin,UT,Sr,7,1,2022,15860,Shenandoah,637
 47,2486473,Dillon Partin,C,So,1,0,2022,15860,Shenandoah,637
+1,2133359,Austin Partin,UT,Sr,7,1,2022,15860,Shenandoah,637
 37,2133458,Calvin Pastel,UT,Sr,13,12,2022,15860,Shenandoah,637
 53,2668138,Brody Pickette,C,Fr,11,6,2022,15860,Shenandoah,637
 4,2486444,Ethan Laird,P,Jr,6,2,2022,15860,Shenandoah,637

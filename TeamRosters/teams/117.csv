@@ -294,13 +294,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,1780241,Travis Gilbert,C,Sr,25,19,2018,12973,Capital,117
 19,1664127,Benjamin Ginsberg,P,Sr,1,0,2018,12973,Capital,117
 12,1782937,Mitchell Bodden,OF,Jr,21,4,2018,12973,Capital,117
-25,2146188,Bryant Caporale,P,Fr,14,0,2019,14781,Capital,117
+4,1778145,Joe Caporale,INF,Jr,34,33,2019,14781,Capital,117
 31,1892851,Kole Carter,P,Jr,1,0,2019,14781,Capital,117
 22,2146207,T. Cavanaugh,cf,N/A,10,1,2019,14781,Capital,117
 15,2147167,A. Gannon,p,N/A,5,3,2019,14781,Capital,117
 18,2146206,Dakota Destefano,ph,N/A,13,6,2019,14781,Capital,117
 13,1991250,Drew Ellis,INF,So,33,32,2019,14781,Capital,117
-4,1778145,Joe Caporale,INF,Jr,34,33,2019,14781,Capital,117
+25,2146188,Bryant Caporale,P,Fr,14,0,2019,14781,Capital,117
 36,1778679,Doug Connor,1B,Sr,0,0,2019,14781,Capital,117
 41,1991303,Garrett Camp,C,So,0,0,2019,14781,Capital,117
 8,1892827,Beau Otto,SS,Jr,34,33,2019,14781,Capital,117
@@ -450,7 +450,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,2146205,Cole Callaghan,OF,Sr,37,35,2022,15860,Capital,117
 4,2146188,Bryant Caporale,P,Sr,15,2,2022,15860,Capital,117
 38,2666301,Ryan Brophy,INF,Fr,5,0,2022,15860,Capital,117
-28,2666291,John Clark,OF,Fr,1,0,2022,15860,Capital,117
+30,2348183,Curtis Clark,P,Jr,11,11,2022,15860,Capital,117
 18,2469273,Connor Feeney,OF,So,30,27,2022,15860,Capital,117
 19,2666284,Josh  Gilmore,OF,Fr,13,10,2022,15860,Capital,117
 24,2469272,Connor Jones,P,So,7,6,2022,15860,Capital,117
@@ -458,7 +458,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2348162,Spencer Knight,P,Jr,13,0,2022,15860,Capital,117
 35,2666297,Garrett Kroese,P,Fr,5,0,2022,15860,Capital,117
 17,2469292,Justin Mason,P,So,8,2,2022,15860,Capital,117
-30,2348183,Curtis Clark,P,Jr,11,11,2022,15860,Capital,117
+28,2666291,John Clark,OF,Fr,1,0,2022,15860,Capital,117
 41,2469284,Ben Hatfield,P,So,2,0,2022,15860,Capital,117
 10,2469270,Cade Anderson,OF,-,Jr,0,2023,16340,Capital,117
 30,2348183,Curtis Clark,P,-,Sr,0,2023,16340,Capital,117

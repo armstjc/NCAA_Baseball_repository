@@ -279,10 +279,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,2001110,Manny Miqueo,OF,Jr,3,0,2020,15204,Centenary  (Atlantic East),12884
 3,2137768,Matt Oehrlein,P,So,3,2,2020,15204,Centenary  (Atlantic East),12884
 9,2137771,Tyler Martinez,INF,So,2,1,2020,15204,Centenary  (Atlantic East),12884
-8,2513393,Miron Miller,OF,Fr,8,3,2021,15580,Centenary  (Atlantic East),12884
-9,2137771,Tyler Martinez,INF,Jr,7,6,2021,15580,Centenary  (Atlantic East),12884
 42,2137786,Chris Miller,C,Sr,8,6,2021,15580,Centenary  (Atlantic East),12884
+9,2137771,Tyler Martinez,INF,Jr,7,6,2021,15580,Centenary  (Atlantic East),12884
 37,2137785,Jared Miller,P,Jr,8,4,2021,15580,Centenary  (Atlantic East),12884
+8,2513393,Miron Miller,OF,Fr,8,3,2021,15580,Centenary  (Atlantic East),12884
 3,2137768,Matt Oehrlein,P,Jr,7,3,2021,15580,Centenary  (Atlantic East),12884
 21,2006545,Brian Rapillo,OF,Sr,11,2,2021,15580,Centenary  (Atlantic East),12884
 26,2137782,Jonathan Pezzato,C,Sr,5,3,2021,15580,Centenary  (Atlantic East),12884
@@ -296,8 +296,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 48,2519589,Nick Guiro,P,Fr,7,3,2021,15580,Centenary  (Atlantic East),12884
 23,2137778,Paul Links,OF,Jr,17,17,2021,15580,Centenary  (Atlantic East),12884
 55,2513392,James Howlett,C,Fr,9,6,2021,15580,Centenary  (Atlantic East),12884
-28,2519588,Liam Hixenbaugh,C,Fr,1,0,2021,15580,Centenary  (Atlantic East),12884
 10,2519585,Aidan Hixenbaugh,P,Fr,4,0,2021,15580,Centenary  (Atlantic East),12884
+28,2519588,Liam Hixenbaugh,C,Fr,1,0,2021,15580,Centenary  (Atlantic East),12884
 22,2352831,Nicholas Grifone,C,Sr,12,10,2021,15580,Centenary  (Atlantic East),12884
 12,2513391,Ivan Gonzalez,INF,Fr,11,4,2021,15580,Centenary  (Atlantic East),12884
 13,2519586,Matthew Gibbons,P,So,5,0,2021,15580,Centenary  (Atlantic East),12884
@@ -318,8 +318,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 50,2678908,Bobby Baumann,C,Fr,1,0,2022,15860,Centenary  (Atlantic East),12884
 2,2352841,Marty Lucibello Iii,OF,Sr,0,0,2022,15860,Centenary  (Atlantic East),12884
 42,2519603,Zach Mankin,INF,So,3,0,2022,15860,Centenary  (Atlantic East),12884
-8,2513393,Miron Miller,OF,So,14,5,2022,15860,Centenary  (Atlantic East),12884
 37,2137785,Jared Miller,P,Sr,4,4,2022,15860,Centenary  (Atlantic East),12884
+8,2513393,Miron Miller,OF,So,14,5,2022,15860,Centenary  (Atlantic East),12884
 3,2137768,Matt Oehrlein,P,Sr,18,1,2022,15860,Centenary  (Atlantic East),12884
 29,2678893,Nick Payne,C,Fr,30,24,2022,15860,Centenary  (Atlantic East),12884
 4,2513394,Matt Perine,UT,So,1,0,2022,15860,Centenary  (Atlantic East),12884

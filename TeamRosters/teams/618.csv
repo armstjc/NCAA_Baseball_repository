@@ -325,8 +325,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,2150690,Bryce Huffman,1B,So,6,6,2020,15204,St. Scholastica,618
 1,2150691,Marty Kalina,UT,So,0,0,2020,15204,St. Scholastica,618
 24,2351883,Wes Kemming,P,Fr,1,1,2020,15204,St. Scholastica,618
-12,2002655,Reed Larson,OF,Jr,1,1,2020,15204,St. Scholastica,618
 47,2351893,Kam Larson,C,Fr,5,4,2020,15204,St. Scholastica,618
+12,2002655,Reed Larson,OF,Jr,1,1,2020,15204,St. Scholastica,618
 54,2351895,Andrew Lee,P,Jr,0,0,2020,15204,St. Scholastica,618
 2,1893492,Braydon Hanson,UT,Sr,6,4,2020,15204,St. Scholastica,618
 30,2351886,Riley Ahrndt,2B,So,14,5,2021,15580,St. Scholastica,618
@@ -348,7 +348,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,2499452,Nolan Ruprecht,P,Fr,2,0,2021,15580,St. Scholastica,618
 52,2351838,Jack Perala,P,So,9,4,2021,15580,St. Scholastica,618
 10,2499451,Alex Haapajoki,1B,Fr,29,28,2021,15580,St. Scholastica,618
-25,2150689,Mitchell Olson,OF,Jr,27,27,2021,15580,St. Scholastica,618
+42,2351892,Kobe Olson,P,So,0,0,2021,15580,St. Scholastica,618
 8,2351877,Mitchell Novak,INF,So,29,29,2021,15580,St. Scholastica,618
 22,2002636,Dallas Miller,P,Sr,10,9,2021,15580,St. Scholastica,618
 15,2150682,Grant Mergen,P,Jr,4,0,2021,15580,St. Scholastica,618
@@ -357,7 +357,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,2002655,Reed Larson,OF,Sr,8,0,2021,15580,St. Scholastica,618
 24,2351883,Wes Kemming,P,So,12,1,2021,15580,St. Scholastica,618
 1,2150691,Marty Kalina,UT,Jr,1,0,2021,15580,St. Scholastica,618
-42,2351892,Kobe Olson,P,So,0,0,2021,15580,St. Scholastica,618
+25,2150689,Mitchell Olson,OF,Jr,27,27,2021,15580,St. Scholastica,618
 27,2150690,Bryce Huffman,1B,Jr,23,22,2021,15580,St. Scholastica,618
 55,2684441,Kyle  Oswald,C,Fr,1,0,2022,15860,St. Scholastica,618
 52,2351838,Jack Perala,P,Jr,9,4,2022,15860,St. Scholastica,618

@@ -110,8 +110,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,1433503,James Lovett,C,Jr,34,28,2015,12080,N.C. Wesleyan,491
 31,1321485,Stephen Machin,OF,Sr,21,13,2015,12080,N.C. Wesleyan,491
 16,1433499,Robert Mondoux,OF,Jr,11,10,2015,12080,N.C. Wesleyan,491
-38,1321483,George Moore,INF,Sr,21,1,2015,12080,N.C. Wesleyan,491
 7,1433498,Dillon Moore,INF,Jr,21,0,2015,12080,N.C. Wesleyan,491
+38,1321483,George Moore,INF,Sr,21,1,2015,12080,N.C. Wesleyan,491
 35,1650298,Caleb Narron,INF,Fr,19,9,2015,12080,N.C. Wesleyan,491
 6,1433495,Ciro Norzagaray,INF,Jr,35,33,2015,12080,N.C. Wesleyan,491
 21,1538377,Luis Palencia,OF,So,26,26,2015,12080,N.C. Wesleyan,491
@@ -279,8 +279,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,1992626,Chris Day,P,So,1,0,2019,14781,N.C. Wesleyan,491
 46,2112148,Jackson Murray,1B,Fr,27,21,2019,14781,N.C. Wesleyan,491
 1,1877030,Kevin Berry,OF,Jr,14,4,2019,14781,N.C. Wesleyan,491
-22,1877023,Nick Beaver,C,Jr,13,10,2019,14781,N.C. Wesleyan,491
 23,1877024,Galen Beaver,P,Jr,8,3,2019,14781,N.C. Wesleyan,491
+22,1877023,Nick Beaver,C,Jr,13,10,2019,14781,N.C. Wesleyan,491
 26,2112124,Grant Bartlett,P,Fr,5,2,2019,14781,N.C. Wesleyan,491
 16,1764665,Chris Aubry,2B,Sr,14,4,2019,14781,N.C. Wesleyan,491
 19,1764659,Logan Andrews,OF,Sr,38,38,2019,14781,N.C. Wesleyan,491

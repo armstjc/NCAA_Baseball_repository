@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,4,2,2,0,1,0,8,8,1,0,0,0,0,0,0,0,0,0,0,27,2,1,0,0,0,2,0,0,03/04/2021,away,15580,30045,Palm Beach Atl.,9,True,11,2,9,win,2050005,233,2130462,2021
+1,0,3.0,0.0,3,3,3,2,2,0,15,11,0,0,0,1,0,1,0,0,0,0,1,52,1,6,1,0,0,2,1,0,03/21/2021,away,15580,49,Barry,9,True,10,7,3,win,2062267,233,2130462,2021
+1,0,4.0,0.0,6,3,2,1,4,0,19,18,0,0,0,2,0,0,0,0,0,0,0,64,0,7,0,0,0,2,1,0,03/26/2021,home,15580,584,Rollins,9,True,9,12,-3,loss,2046435,233,2130462,2021
+1,0,1.2,0.0,2,1,1,0,0,0,7,7,0,0,0,1,0,0,0,0,0,0,0,17,4,1,0,0,0,2,0,0,04/02/2021,away,15580,20794,Lynn,9,True,12,10,2,win,2049858,233,2130462,2021
+1,0,0.2,0.0,4,4,2,2,0,0,9,6,2,0,0,0,0,0,0,0,0,1,0,28,1,1,0,0,0,2,0,0,04/07/2021,home,15580,608,Saint Leo,9,True,2,12,-10,loss,2049313,233,2130462,2021

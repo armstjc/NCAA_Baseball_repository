@@ -245,8 +245,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,2147790,Matt Pallotta,p,Jr,12,0,2019,14781,Gwynedd Mercy,12399
 12,1883620,Jacee Orta,INF,Jr,0,0,2019,14781,Gwynedd Mercy,12399
 23,1775298,Tommy Nardini,C,Sr,29,26,2019,14781,Gwynedd Mercy,12399
-16,1658175,Jason Mulvey,OF,Sr,35,35,2019,14781,Gwynedd Mercy,12399
 17,1775290,Nick Mulvey,3B,Sr,36,36,2019,14781,Gwynedd Mercy,12399
+16,1658175,Jason Mulvey,OF,Sr,35,35,2019,14781,Gwynedd Mercy,12399
 26,1781541,Evan Miller,1B,Sr,22,8,2019,14781,Gwynedd Mercy,12399
 9,2004516,Mcgrody,P,So,0,0,2019,14781,Gwynedd Mercy,12399
 7,1775295,Sachael Sciarretta,P,Sr,36,36,2019,14781,Gwynedd Mercy,12399
@@ -269,9 +269,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,2349290,Jake Morello,INF,Fr,3,2,2020,15204,Gwynedd Mercy,12399
 16,2361059,Pat Hasson,lf,Fr,2,0,2020,15204,Gwynedd Mercy,12399
 22,2353828,Dave Anderson,ph/rf,Fr,2,0,2020,15204,Gwynedd Mercy,12399
-600,2349304,S B,UT,Sr,0,0,2020,15204,Gwynedd Mercy,12399
-4,1883621,Bobby Heck,OF,Jr,11,11,2020,15204,Gwynedd Mercy,12399
 270,2349287,W B,DH,Sr,0,0,2020,15204,Gwynedd Mercy,12399
+4,1883621,Bobby Heck,OF,Jr,11,11,2020,15204,Gwynedd Mercy,12399
+600,2349304,S B,UT,Sr,0,0,2020,15204,Gwynedd Mercy,12399
 2,2136349,Rob Bailey,INF,So,10,9,2020,15204,Gwynedd Mercy,12399
 1,2136371,Connor Boyd,INF,So,3,0,2020,15204,Gwynedd Mercy,12399
 23,2349286,Justin Blakey,OF,Fr,10,8,2020,15204,Gwynedd Mercy,12399
@@ -325,8 +325,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,2136376,Jack Jamison,OF,Sr,35,28,2022,15860,Gwynedd Mercy,12399
 20,2677436,Cody Judge,1B,Fr,8,0,2022,15860,Gwynedd Mercy,12399
 27,2677446,Joe Golden,P,So,15,0,2022,15860,Gwynedd Mercy,12399
-22,2677444,Ryan Bailey,P,Fr,12,7,2022,15860,Gwynedd Mercy,12399
 2,2136349,Rob Bailey,INF,Sr,38,38,2022,15860,Gwynedd Mercy,12399
+22,2677444,Ryan Bailey,P,Fr,12,7,2022,15860,Gwynedd Mercy,12399
 19,2677434,Anthony Barbosa,P,Fr,7,1,2022,15860,Gwynedd Mercy,12399
 1,2136371,Connor Boyd,INF,Sr,5,3,2022,15860,Gwynedd Mercy,12399
 8,2509865,Mitchell Bramsway,P,So,19,0,2022,15860,Gwynedd Mercy,12399

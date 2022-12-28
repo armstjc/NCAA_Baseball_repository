@@ -189,7 +189,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,1757707,Evan Reichel,P,Sr,2,0,2019,14781,St. Lawrence,607
 9,2143008,Sam Putney,P,Fr,2,0,2019,14781,St. Lawrence,607
 10,1757699,Charlie Pacilio,INF,Sr,15,1,2019,14781,St. Lawrence,607
-28,1757704,Anthony Butler,C,Sr,31,29,2019,14781,St. Lawrence,607
+13,2143001,Nicholas Butler,OF,Fr,37,37,2019,14781,St. Lawrence,607
 18,1757701,Alex Black,P,Sr,29,21,2019,14781,St. Lawrence,607
 25,1757703,Evan O'Keeffe,INF,Sr,25,25,2019,14781,St. Lawrence,607
 14,2009049,Cameron Morrissey,P,So,9,7,2019,14781,St. Lawrence,607
@@ -200,7 +200,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,2009051,Joe Levin,C,So,8,8,2019,14781,St. Lawrence,607
 16,1896068,Louis Lacivita,P,Jr,12,0,2019,14781,St. Lawrence,607
 3,2143006,Huck Haun,P,Fr,8,2,2019,14781,St. Lawrence,607
-13,2143001,Nicholas Butler,OF,Fr,37,37,2019,14781,St. Lawrence,607
+28,1757704,Anthony Butler,C,Sr,31,29,2019,14781,St. Lawrence,607
 2,1757698,Jeremy Gerringer,INF,Sr,18,17,2019,14781,St. Lawrence,607
 30,1757705,Robert Gates,P,Sr,0,0,2019,14781,St. Lawrence,607
 8,2143005,Christian Forgione,INF,Fr,30,26,2019,14781,St. Lawrence,607
@@ -307,12 +307,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 41,2143011,Brian Comerford,OF,Sr,31,21,2022,15860,St. Lawrence,607
 37,2346616,Michael Goretti,OF,Sr,32,32,2022,15860,St. Lawrence,607
 23,2682792,Timothy Connor,OF,Fr,6,0,2022,15860,St. Lawrence,607
-20,2143003,Drew Courtwright,INF,Sr,27,17,2022,15860,St. Lawrence,607
+22,2143004,Ryan Courtwright,OF,Sr,20,10,2022,15860,St. Lawrence,607
 19,2146992,Jake Delaney,INF,Sr,34,34,2022,15860,St. Lawrence,607
 5,2682708,Sean Desjardins,INF,Fr,28,20,2022,15860,St. Lawrence,607
 18,2512178,Brett Federico,UT,So,25,7,2022,15860,St. Lawrence,607
 8,2143005,Christian Forgione,INF,Sr,27,27,2022,15860,St. Lawrence,607
-22,2143004,Ryan Courtwright,OF,Sr,20,10,2022,15860,St. Lawrence,607
+20,2143003,Drew Courtwright,INF,Sr,27,17,2022,15860,St. Lawrence,607
 26,2512182,Joe Perras,P,-,Jr,0,2023,16340,St. Lawrence,607
 10,2346619,Ethan Baldwin,P,-,Sr,0,2023,16340,St. Lawrence,607
 6,2682774,Caleb Clark,OF,-,So,0,2023,16340,St. Lawrence,607

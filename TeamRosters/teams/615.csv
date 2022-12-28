@@ -212,7 +212,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 2,1894422,Elliot Syverson,P,So,11,2,2018,12973,St. Olaf,615
 15,1894272,Dylan Blake,3B,So,36,36,2018,12973,St. Olaf,615
 36,2010625,Jac Childs,P,Fr,2,0,2018,12973,St. Olaf,615
-13,2162121,Tanner Mcdonald,pr,So,1,0,2019,14781,St. Olaf,615
+3,1308985,Tommy Mcdonald,INF,Jr,42,40,2019,14781,St. Olaf,615
 19,1896076,Cameron Gray,P,Jr,11,4,2019,14781,St. Olaf,615
 18,1896071,Luke Feigal,P,Jr,13,0,2019,14781,St. Olaf,615
 21,1770669,Satchel Daleo,OF,Sr,6,1,2019,14781,St. Olaf,615
@@ -243,7 +243,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,1896070,Hanson Devine,P,Jr,8,6,2019,14781,St. Olaf,615
 9,2157241,Ethan Lorentzen,C,Fr,0,0,2019,14781,St. Olaf,615
 36,2152831,Forrest Kobelt,P,Fr,7,6,2019,14781,St. Olaf,615
-3,1308985,Tommy Mcdonald,INF,Jr,42,40,2019,14781,St. Olaf,615
+13,2162121,Tanner Mcdonald,pr,So,1,0,2019,14781,St. Olaf,615
 11,1894273,Travis Mcdonald,OF,Jr,5,3,2019,14781,St. Olaf,615
 30,1896078,Max Marshall,P,Jr,9,4,2019,14781,St. Olaf,615
 20,2006525,Bobby Isbell,C,Jr,3,3,2020,15204,St. Olaf,615
@@ -296,7 +296,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,2152521,Andrew Nomoto,INF,Jr,23,23,2021,15580,St. Olaf,615
 25,2479482,Jack Fochtman,C,Fr,9,8,2021,15580,St. Olaf,615
 4,2479462,Brian Nevin,INF,Fr,20,18,2021,15580,St. Olaf,615
-11,1894273,Travis Mcdonald,OF,Sr,21,21,2021,15580,St. Olaf,615
+29,2162121,Tanner Mcdonald,OF,Sr,3,1,2021,15580,St. Olaf,615
 26,2009446,Hunter Barber,P,Sr,7,6,2021,15580,St. Olaf,615
 10,2306324,Harald Borg,C,So,17,16,2021,15580,St. Olaf,615
 38,2162102,Doug Byers,OF,Sr,0,0,2021,15580,St. Olaf,615
@@ -309,7 +309,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 20,2479480,Sam Lavin,P,Fr,23,19,2021,15580,St. Olaf,615
 9,2157241,Ethan Lorentzen,C,Jr,0,0,2021,15580,St. Olaf,615
 16,2479478,Owen Manning,P,Fr,1,1,2021,15580,St. Olaf,615
-29,2162121,Tanner Mcdonald,OF,Sr,3,1,2021,15580,St. Olaf,615
+11,1894273,Travis Mcdonald,OF,Sr,21,21,2021,15580,St. Olaf,615
 14,2479476,Derek Hansen,P,Fr,4,0,2021,15580,St. Olaf,615
 24,2010625,Jac Childs,C,Sr,6,0,2021,15580,St. Olaf,615
 21,2663825,Jack Alley,INF,Fr,10,3,2022,15860,St. Olaf,615

@@ -256,14 +256,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2003506,Tanner Boros,P,So,23,10,2019,14781,Wittenberg,806
 43,2154875,Jc Bricker,PH,N/A,6,2,2019,14781,Wittenberg,806
 36,1896377,Luke Campbell,P,Jr,0,0,2019,14781,Wittenberg,806
-29,1894965,Chase Carpenter,3B,Jr,1,1,2019,14781,Wittenberg,806
 35,2006458,Gage Carpenter,LF,So,13,13,2019,14781,Wittenberg,806
+29,1894965,Chase Carpenter,3B,Jr,1,1,2019,14781,Wittenberg,806
 3,2154898,Jeff Chonko,PH,N/A,8,2,2019,14781,Wittenberg,806
 12,2002238,Nicholas Cipriani,PH,So,0,0,2019,14781,Wittenberg,806
 13,1894969,Joshua Darang,P,Jr,0,0,2019,14781,Wittenberg,806
 5,1776978,Jace Barga,OF,Sr,9,7,2019,14781,Wittenberg,806
-21,2159249,Mitchell Davis,p,Fr,4,0,2019,14781,Wittenberg,806
 33,2002241,Mason Davis,3B,So,33,28,2019,14781,Wittenberg,806
+19,2009210,Bo Davis,C,So,0,0,2019,14781,Wittenberg,806
 28,1776981,Blake Eckert,INF,Sr,0,0,2019,14781,Wittenberg,806
 33,1776982,Marshall Eippert,OF,Sr,0,0,2019,14781,Wittenberg,806
 34,1894990,Aaron Fasano,3B,Jr,9,1,2019,14781,Wittenberg,806
@@ -272,7 +272,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 45,2002256,Tanner Griggs,P,So,11,10,2019,14781,Wittenberg,806
 32,1776985,David Hall,OF,Sr,0,0,2019,14781,Wittenberg,806
 37,1895286,Andrew Hammond,C,Jr,3,0,2019,14781,Wittenberg,806
-19,2009210,Bo Davis,C,So,0,0,2019,14781,Wittenberg,806
+21,2159249,Mitchell Davis,p,Fr,4,0,2019,14781,Wittenberg,806
 10,2002254,David Hamrick,3B,So,29,27,2019,14781,Wittenberg,806
 31,2009209,Parker Thompson,CF,So,13,4,2019,14781,Wittenberg,806
 1,1776990,Greg Vanerstrom,INF,Sr,18,6,2019,14781,Wittenberg,806
@@ -392,8 +392,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 43,2154875,Jc Bricker,C,Sr,3,0,2022,15860,Wittenberg,806
 25,2511157,Jared Burick,P,Sr,37,21,2022,15860,Wittenberg,806
 23,2329779,Nick Cunningham,P,Jr,12,4,2022,15860,Wittenberg,806
-21,2159249,Mitchell Davis,p,Sr,2,0,2022,15860,Wittenberg,806
 33,2002241,Mason Davis,OF,Sr,28,21,2022,15860,Wittenberg,806
+21,2159249,Mitchell Davis,p,Sr,2,0,2022,15860,Wittenberg,806
 20,2513974,Tyler Defibaugh,P,Sr,10,0,2022,15860,Wittenberg,806
 14,2519624,Preston Dorsey,INF,So,1,0,2022,15860,Wittenberg,806
 31,2652765,Nate Floyd,P,Fr,6,4,2022,15860,Wittenberg,806

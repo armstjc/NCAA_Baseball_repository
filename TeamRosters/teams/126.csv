@@ -229,7 +229,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,2155344,Collin Lefeber,2B,So,0,0,2019,14781,Central  (American Rivers),126
 27,1893702,Trevor Kimm,C,Jr,34,33,2019,14781,Central  (American Rivers),126
 26,2155071,John Horner,ph,So,2,0,2019,14781,Central  (American Rivers),126
-1,2153281,Chris Hensley,2b,So,11,0,2019,14781,Central  (American Rivers),126
+29,2155280,Dawson Hensley,C,Fr,0,0,2019,14781,Central  (American Rivers),126
 38,2006020,Connor Blair,P,So,2,0,2019,14781,Central  (American Rivers),126
 5,1776768,Ryan Bouwman,1B,Sr,40,40,2019,14781,Central  (American Rivers),126
 2,1671272,Adam Carey,P,Sr,12,7,2019,14781,Central  (American Rivers),126
@@ -243,7 +243,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 39,1776775,Zach Greder,P,Sr,4,0,2019,14781,Central  (American Rivers),126
 4,2006018,Kyle Hauser,UT,So,5,0,2019,14781,Central  (American Rivers),126
 34,1893705,Cole Havlovic,OF,Jr,16,8,2019,14781,Central  (American Rivers),126
-29,2155280,Dawson Hensley,C,Fr,0,0,2019,14781,Central  (American Rivers),126
+1,2153281,Chris Hensley,2b,So,11,0,2019,14781,Central  (American Rivers),126
 7,2005855,Lucas Farren,CF,So,29,25,2019,14781,Central  (American Rivers),126
 19,2006024,Nick Strysik,OF,So,5,1,2019,14781,Central  (American Rivers),126
 21,2006031,Marcus Wenzel,P,So,14,1,2019,14781,Central  (American Rivers),126
@@ -335,8 +335,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,2005855,Lucas Farren,OF,Sr,41,41,2021,15580,Central  (American Rivers),126
 4,2006018,Kyle Hauser,UT,Sr,41,41,2021,15580,Central  (American Rivers),126
 37,2489837,Adam Hein,P,So,0,0,2021,15580,Central  (American Rivers),126
-33,2155280,Dawson Hensley,C,Jr,1,0,2021,15580,Central  (American Rivers),126
 1,2153281,Chris Hensley,2B,Sr,31,25,2021,15580,Central  (American Rivers),126
+33,2155280,Dawson Hensley,C,Jr,1,0,2021,15580,Central  (American Rivers),126
 37,2358914,Max Hernandez,P,So,0,0,2021,15580,Central  (American Rivers),126
 32,2489828,Carter Hope,OF,Fr,0,0,2021,15580,Central  (American Rivers),126
 25,2489787,Zach Jacobson,P,Fr,0,0,2021,15580,Central  (American Rivers),126

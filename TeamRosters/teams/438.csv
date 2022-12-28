@@ -252,8 +252,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 44,2134910,Matt Nunamaker,P,Fr,0,0,2019,14781,Monmouth  (MWC),438
 35,2134909,Bryan Peters,P,Fr,0,0,2019,14781,Monmouth  (MWC),438
 50,2134932,Jimmy Peterson,OF,Fr,1,0,2019,14781,Monmouth  (MWC),438
-41,2134930,Kaleb Plattenberger,INF,Fr,0,0,2019,14781,Monmouth  (MWC),438
 23,2134925,Kody Plattenberger,C,Fr,0,0,2019,14781,Monmouth  (MWC),438
+41,2134930,Kaleb Plattenberger,INF,Fr,0,0,2019,14781,Monmouth  (MWC),438
 27,1989043,Grant Powers,1B,So,11,7,2019,14781,Monmouth  (MWC),438
 19,1889415,Campbell Quirk,P,Jr,16,12,2019,14781,Monmouth  (MWC),438
 28,2134927,Kole Renken,1B,Fr,1,0,2019,14781,Monmouth  (MWC),438
@@ -344,9 +344,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,2350503,Christian Centeno,OF,So,5,0,2021,15580,Monmouth  (MWC),438
 17,2134908,Mike Datlof,P,Jr,1,0,2021,15580,Monmouth  (MWC),438
 2,1889404,Mike Dato,1B,Sr,25,25,2021,15580,Monmouth  (MWC),438
-16,1989040,Sean Davis,INF,Sr,28,28,2021,15580,Monmouth  (MWC),438
-37,1989091,Austin Vannaken,P,Sr,4,0,2021,15580,Monmouth  (MWC),438
 20,2350507,Trevor Davis,INF,Sr,9,3,2021,15580,Monmouth  (MWC),438
+37,1989091,Austin Vannaken,P,Sr,4,0,2021,15580,Monmouth  (MWC),438
+16,1989040,Sean Davis,INF,Sr,28,28,2021,15580,Monmouth  (MWC),438
 23,2350509,Cal Engebretson,P,So,8,0,2021,15580,Monmouth  (MWC),438
 7,2350511,Riley Fetterer,UT,So,7,0,2021,15580,Monmouth  (MWC),438
 35,2350523,Addison Fletcher,P,So,9,9,2021,15580,Monmouth  (MWC),438

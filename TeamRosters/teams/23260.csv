@@ -210,8 +210,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,1998248,Isaiah Scott,INF,So,2,0,2019,14781,Spalding,23260
 13,1778956,Dillon Sievert,INF,Sr,41,41,2019,14781,Spalding,23260
 31,2141377,Cameron Singer,C,Fr,1,0,2019,14781,Spalding,23260
-3,2141374,Jaylen Smith,INF,Fr,7,0,2019,14781,Spalding,23260
 45,2141378,Jaxson Smith,OF,Fr,3,2,2019,14781,Spalding,23260
+3,2141374,Jaylen Smith,INF,Fr,7,0,2019,14781,Spalding,23260
 35,1778697,Bryce Spalding,INF,Sr,30,27,2019,14781,Spalding,23260
 23,2141371,Cameron Spencer,INF,Fr,5,2,2019,14781,Spalding,23260
 39,2141396,Andrew Spurlock,P,So,0,0,2019,14781,Spalding,23260
@@ -271,7 +271,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,2141368,Luke Douglas,INF,Jr,0,0,2020,15204,Spalding,23260
 54,2350006,Brandon Davis,PR,So,4,3,2020,15204,Spalding,23260
 39,2349543,Carson Crump,1b,Fr,8,4,2020,15204,Spalding,23260
-4,2349519,Marcus Collins,2b,Fr,12,11,2020,15204,Spalding,23260
+7,2350005,Caleb Collins,P,Fr,6,1,2020,15204,Spalding,23260
 10,2349986,Brian Campbell,PH,Jr,8,0,2020,15204,Spalding,23260
 14,1998229,Aaron Blake,P,Jr,3,0,2020,15204,Spalding,23260
 18,1998231,Zane Baker,C,Jr,9,9,2020,15204,Spalding,23260
@@ -289,7 +289,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26,2141373,Harol Matos,INF,Jr,0,0,2020,15204,Spalding,23260
 21,2141370,Cameron Mattingly,P,So,2,0,2020,15204,Spalding,23260
 19,1998234,Zach Jones,P,Sr,4,4,2020,15204,Spalding,23260
-7,2350005,Caleb Collins,P,Fr,6,1,2020,15204,Spalding,23260
+4,2349519,Marcus Collins,2b,Fr,12,11,2020,15204,Spalding,23260
 36,2465986,Eric Bronner,OF,Fr,15,3,2021,15580,Spalding,23260
 22,1998233,Eric Meyer,INF,Sr,43,43,2021,15580,Spalding,23260
 26,2465943,Jacob Muse,P,Fr,2,1,2021,15580,Spalding,23260
@@ -316,17 +316,17 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,1998229,Aaron Blake,P,Sr,11,0,2021,15580,Spalding,23260
 28,2465944,Clay Burton,P,Fr,8,1,2021,15580,Spalding,23260
 10,2349986,Brian Campbell,PH,Sr,16,13,2021,15580,Spalding,23260
-42,2465992,Wesley Clark,P,Fr,4,0,2021,15580,Spalding,23260
 3,2465983,Cameron Clark,P,Fr,2,0,2021,15580,Spalding,23260
+42,2465992,Wesley Clark,P,Fr,4,0,2021,15580,Spalding,23260
 34,1889326,Isaac Lineberry,C,Sr,17,11,2021,15580,Spalding,23260
-4,2349519,Marcus Collins,INF,So,34,33,2021,15580,Spalding,23260
+7,2350005,Caleb Collins,P,So,12,11,2021,15580,Spalding,23260
 43,2465995,Dylan Gray,P,Fr,3,0,2021,15580,Spalding,23260
 9,1998232,Peyton Hood,P,Sr,13,9,2021,15580,Spalding,23260
 11,2359643,Cody Hupp,P,So,4,0,2021,15580,Spalding,23260
 5,2141367,Jt Johnson,INF,Jr,38,38,2021,15580,Spalding,23260
 37,2349813,Bradley Jones,C,So,5,2,2021,15580,Spalding,23260
 15,1889325,Logan Koch,OF,Sr,9,0,2021,15580,Spalding,23260
-7,2350005,Caleb Collins,P,So,12,11,2021,15580,Spalding,23260
+4,2349519,Marcus Collins,INF,So,34,33,2021,15580,Spalding,23260
 14,1998229,Aaron Blake,P,Sr,15,0,2022,15860,Spalding,23260
 46,2681496,Jason  Bassett,P,Fr,4,1,2022,15860,Spalding,23260
 28,2465944,Clay Burton,P,So,12,11,2022,15860,Spalding,23260
@@ -354,7 +354,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2681477,Sam Pinho,INF,Fr,21,15,2022,15860,Spalding,23260
 39,2681495,Blake Perrill,INF,Fr,0,0,2022,15860,Spalding,23260
 38,2681490,Jackson  Gutzwiller,C,Fr,5,0,2022,15860,Spalding,23260
-42,2465992,Wesley Clark,P,So,11,5,2022,15860,Spalding,23260
+3,2465983,Cameron Clark,P,So,2,0,2022,15860,Spalding,23260
 54,2681513,Everette Cogan,UT,Fr,11,2,2022,15860,Spalding,23260
 7,2350005,Caleb Collins,P,Jr,1,1,2022,15860,Spalding,23260
 4,2349519,Marcus Collins,INF,Jr,42,40,2022,15860,Spalding,23260
@@ -369,7 +369,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 20,2465988,Jahlyn Mckie,OF,So,23,11,2022,15860,Spalding,23260
 41,2681512,Jake Mueller,P,Fr,8,4,2022,15860,Spalding,23260
 27,2681485,Ethan Murphy,P,Fr,3,0,2022,15860,Spalding,23260
-3,2465983,Cameron Clark,P,So,2,0,2022,15860,Spalding,23260
+42,2465992,Wesley Clark,P,So,11,5,2022,15860,Spalding,23260
 10,2681475,Brooks Chandler,INF,So,1,0,2022,15860,Spalding,23260
 15,2681477,Sam Pinho,INF,-,So,0,2023,16340,Spalding,23260
 37,2681489,Matthew Mcdowell,OF,-,So,0,2023,16340,Spalding,23260

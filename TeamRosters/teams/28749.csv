@@ -298,7 +298,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 37,2472041,Trent Pahl,INF,Fr,43,41,2021,15580,Transylvania,28749
 41,2347603,Dustyn Kilgore,P,So,2,0,2021,15580,Transylvania,28749
 3,1976289,Evan Patrick,P,Sr,0,0,2021,15580,Transylvania,28749
-19,2472037,Brennan Perry,P,Fr,12,1,2021,15580,Transylvania,28749
+0,2310838,Grant Perry,C,So,0,0,2021,15580,Transylvania,28749
 13,1976314,Jake Schmidt,P,Sr,14,12,2021,15580,Transylvania,28749
 45,2310863,Parker Tuszynski,C,So,25,22,2021,15580,Transylvania,28749
 22,1976319,Nick Wade,C,Sr,36,34,2021,15580,Transylvania,28749
@@ -306,7 +306,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,1976322,Luke Wilson,P,Sr,0,0,2021,15580,Transylvania,28749
 24,2123972,Devyn Wilson-Cowan,OF,Jr,36,35,2021,15580,Transylvania,28749
 33,1976323,Andrew Winningham,INF,Sr,13,2,2021,15580,Transylvania,28749
-0,2310838,Grant Perry,C,So,0,0,2021,15580,Transylvania,28749
+19,2472037,Brennan Perry,P,Fr,12,1,2021,15580,Transylvania,28749
 30,2123995,Tj Keck,C,Jr,9,9,2021,15580,Transylvania,28749
 26,2472040,Trent Youngblood,P,Fr,42,41,2021,15580,Transylvania,28749
 11,2123969,Charlie Henry,INF,Jr,4,0,2021,15580,Transylvania,28749
@@ -325,8 +325,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,2472035,Gabe Dillard,INF,Fr,0,0,2021,15580,Transylvania,28749
 12,1976313,Zion Echols,OF,Sr,1,0,2021,15580,Transylvania,28749
 43,2123974,Sam Flora,OF,Jr,4,0,2021,15580,Transylvania,28749
-10,1976309,Evan Hall,P,Sr,12,12,2021,15580,Transylvania,28749
 18,2310851,Griffin Hall,INF,So,6,1,2021,15580,Transylvania,28749
+10,1976309,Evan Hall,P,Sr,12,12,2021,15580,Transylvania,28749
 34,2123973,Devon Hart,P,Jr,3,3,2021,15580,Transylvania,28749
 36,2310825,Chase Harvard,INF,So,2,0,2021,15580,Transylvania,28749
 40,1976325,Joey Yancey,P,Sr,1,0,2021,15580,Transylvania,28749

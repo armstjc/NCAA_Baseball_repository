@@ -227,15 +227,15 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,1894156,Cam Schuett,P,Jr,1,0,2019,14781,Wis.-Stevens Point,802
 31,2152076,Christopher Schiera,P,Fr,1,0,2019,14781,Wis.-Stevens Point,802
 22,2152075,Mitchel Neubauer,P,Jr,9,0,2019,14781,Wis.-Stevens Point,802
+25,2007368,Payton Nelson,OF,So,38,38,2019,14781,Wis.-Stevens Point,802
 3,1783651,Weston Nelson,P,Sr,28,22,2019,14781,Wis.-Stevens Point,802
 14,1894154,Brett Nelson,OF,Jr,5,0,2019,14781,Wis.-Stevens Point,802
-25,2007368,Payton Nelson,OF,So,38,38,2019,14781,Wis.-Stevens Point,802
 23,1782668,Kyle Mrozinski,C,Sr,38,38,2019,14781,Wis.-Stevens Point,802
 27,2007396,Matthew Morgan,P,Jr,10,3,2019,14781,Wis.-Stevens Point,802
 8,2152070,Anthony Moore,OF,Fr,0,0,2019,14781,Wis.-Stevens Point,802
 28,1894161,Zachary Miller,P,Jr,5,0,2019,14781,Wis.-Stevens Point,802
-30,1894152,Neal Matson,OF,Jr,8,3,2019,14781,Wis.-Stevens Point,802
 32,1894162,Nolan Matson,C,Jr,18,18,2019,14781,Wis.-Stevens Point,802
+30,1894152,Neal Matson,OF,Jr,8,3,2019,14781,Wis.-Stevens Point,802
 34,2007371,Lucas Luedtke,INF,Jr,1,1,2019,14781,Wis.-Stevens Point,802
 13,2152072,Caleb Krommenakker,P,Fr,9,0,2019,14781,Wis.-Stevens Point,802
 36,2007397,Jakob Kastenholz,INF,So,0,0,2019,14781,Wis.-Stevens Point,802
@@ -294,7 +294,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,2515069,Mitchell Manns,C,Fr,9,6,2021,15580,Wis.-Stevens Point,802
 33,2515071,Jacob Meinholz,P,Fr,5,2,2021,15580,Wis.-Stevens Point,802
 15,2355420,Wyatt Mitchell,C,Jr,1,0,2021,15580,Wis.-Stevens Point,802
-13,2152072,Caleb Krommenakker,P,Jr,10,7,2021,15580,Wis.-Stevens Point,802
+14,2515062,Nathan Krommenakker,P,Fr,11,1,2021,15580,Wis.-Stevens Point,802
 25,2007368,Payton Nelson,OF,Sr,42,42,2021,15580,Wis.-Stevens Point,802
 32,2515083,Nick Paulsen,P,Fr,12,2,2021,15580,Wis.-Stevens Point,802
 19,2355404,Carter Perusich,OF,So,3,0,2021,15580,Wis.-Stevens Point,802
@@ -304,7 +304,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,2007360,Aaron Simmons,OF,Sr,43,43,2021,15580,Wis.-Stevens Point,802
 29,2515068,Devyn Palmer,OF,Fr,2,0,2021,15580,Wis.-Stevens Point,802
 20,2152074,Austin Syvertson,P,Jr,15,1,2021,15580,Wis.-Stevens Point,802
-14,2515062,Nathan Krommenakker,P,Fr,11,1,2021,15580,Wis.-Stevens Point,802
+13,2152072,Caleb Krommenakker,P,Jr,10,7,2021,15580,Wis.-Stevens Point,802
 31,2515082,Lukas Kleveland,INF,Fr,1,0,2021,15580,Wis.-Stevens Point,802
 16,2355421,Joey Bartolone,INF,So,8,0,2021,15580,Wis.-Stevens Point,802
 5,2515060,Matt Baumann,OF,Fr,37,33,2021,15580,Wis.-Stevens Point,802

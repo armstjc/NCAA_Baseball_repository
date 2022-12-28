@@ -286,12 +286,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,2310755,J.J. Slack,P,Fr,3,0,2020,15204,Southwestern  (SCAC),8746
 17,2159162,Brandt Daughtry,P,So,1,0,2020,15204,Southwestern  (SCAC),8746
 42,2310730,William Slanina-Wertz,INF,Fr,2,0,2020,15204,Southwestern  (SCAC),8746
-29,2112017,Jd Sparks,P,So,4,0,2020,15204,Southwestern  (SCAC),8746
 6,1988948,Seth Sparks,INF,Jr,13,13,2020,15204,Southwestern  (SCAC),8746
+29,2112017,Jd Sparks,P,So,4,0,2020,15204,Southwestern  (SCAC),8746
 43,2310735,Jacob Tanner,SS,Fr,3,0,2020,15204,Southwestern  (SCAC),8746
 3,2141077,Chase Thinger,INF,So,13,13,2020,15204,Southwestern  (SCAC),8746
-62,2310780,Christian Verret,P,Fr,0,0,2020,15204,Southwestern  (SCAC),8746
 62,2310781,Christian Verret,P,Fr,0,0,2020,15204,Southwestern  (SCAC),8746
+62,2310780,Christian Verret,P,Fr,0,0,2020,15204,Southwestern  (SCAC),8746
 41,2310726,Adam Werchan,OF,Fr,3,0,2020,15204,Southwestern  (SCAC),8746
 51,2310744,Skyler White,P,Fr,0,0,2020,15204,Southwestern  (SCAC),8746
 33,2310715,Tyler Wilson,INF,Fr,1,1,2020,15204,Southwestern  (SCAC),8746
@@ -341,8 +341,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,1988947,Trey Schwarz,C,Sr,16,0,2021,15580,Southwestern  (SCAC),8746
 52,1988942,R.J. Senining,INF,Sr,0,0,2021,15580,Southwestern  (SCAC),8746
 55,2310750,Jacob Sifuentes,P,So,0,0,2021,15580,Southwestern  (SCAC),8746
-54,2310748,Kyle Simpson,1B,So,0,0,2021,15580,Southwestern  (SCAC),8746
 60,2520928,Braden Simpson,p,N/A,2,2,2021,15580,Southwestern  (SCAC),8746
+54,2310748,Kyle Simpson,1B,So,0,0,2021,15580,Southwestern  (SCAC),8746
 19,2310673,Preston Witt,INF,So,34,34,2021,15580,Southwestern  (SCAC),8746
 63,2518950,Tate Winfield,,N/A,2,0,2021,15580,Southwestern  (SCAC),8746
 33,2310715,Tyler Wilson,INF,So,0,0,2021,15580,Southwestern  (SCAC),8746
@@ -352,9 +352,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,2310755,J.J. Slack,P,So,10,6,2021,15580,Southwestern  (SCAC),8746
 3,2141077,Chase Thinger,INF,Jr,14,11,2021,15580,Southwestern  (SCAC),8746
 43,2310735,Jacob Tanner,SS,So,34,32,2021,15580,Southwestern  (SCAC),8746
-6,1988948,Seth Sparks,INF,Sr,0,0,2021,15580,Southwestern  (SCAC),8746
-15,2142467,Benjamin Ludwig,P,Jr,8,8,2021,15580,Southwestern  (SCAC),8746
 29,2112017,Jd Sparks,P,Jr,6,0,2021,15580,Southwestern  (SCAC),8746
+15,2142467,Benjamin Ludwig,P,Jr,8,8,2021,15580,Southwestern  (SCAC),8746
+6,1988948,Seth Sparks,INF,Sr,0,0,2021,15580,Southwestern  (SCAC),8746
 9,2151343,Ted Lobkowicz,OF,Jr,35,31,2021,15580,Southwestern  (SCAC),8746
 49,2310756,Cole Johnson,P,So,9,0,2021,15580,Southwestern  (SCAC),8746
 57,2310764,Preston Allen,SS,So,0,0,2021,15580,Southwestern  (SCAC),8746

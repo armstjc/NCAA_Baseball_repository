@@ -297,8 +297,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,1765950,Blaine Mcray,C,Sr,35,35,2019,14781,McMurry,8530
 13,2002230,Devin Molina,SS,So,22,6,2019,14781,McMurry,8530
 37,2158981,Mark Navarro,ph,N/A,1,0,2019,14781,McMurry,8530
-23,2131519,Evan Perez,1B,Fr,9,5,2019,14781,McMurry,8530
 7,2131475,Joseph Perez,P,Jr,13,0,2019,14781,McMurry,8530
+23,2131519,Evan Perez,1B,Fr,9,5,2019,14781,McMurry,8530
 21,1765952,J.P. Poe,P,Jr,12,8,2019,14781,McMurry,8530
 17,2131509,Ethan Schmidt,2B,Fr,2,1,2019,14781,McMurry,8530
 12,1896659,Chris Lewis,P,Jr,14,3,2019,14781,McMurry,8530
@@ -355,12 +355,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,1892349,Hunter Brooks,P,Sr,1,1,2020,15204,McMurry,8530
 3,2343729,Landon Caldwell,INF,So,0,0,2020,15204,McMurry,8530
 34,1998437,Matthew Bass,P,Jr,6,4,2020,15204,McMurry,8530
-26,2131526,Marty Carnahan,UT,Jr,15,14,2020,15204,McMurry,8530
+23,2343733,Mitch Carnahan,C,Fr,9,6,2020,15204,McMurry,8530
 25,1883448,Mike Gonzales,OF,Sr,2,2,2020,15204,McMurry,8530
 40,1994740,Nick Hamel,1B,Jr,0,0,2020,15204,McMurry,8530
 36,2131542,Sam Hillyer,UT,Jr,17,17,2020,15204,McMurry,8530
 4,2131517,Reed Hodges,C,So,12,11,2020,15204,McMurry,8530
-23,2343733,Mitch Carnahan,C,Fr,9,6,2020,15204,McMurry,8530
+26,2131526,Marty Carnahan,UT,Jr,15,14,2020,15204,McMurry,8530
 15,2476080,Jonathan Enriquez,P,Fr,13,2,2021,15580,McMurry,8530
 32,2476084,Braden Fryer,UT,Fr,4,1,2021,15580,McMurry,8530
 25,1883448,Mike Gonzales,OF,Sr,33,33,2021,15580,McMurry,8530

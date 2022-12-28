@@ -143,10 +143,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,1882230,Will Kirk,INF,Fr,35,28,2017,12560,Centre,132
 12,1771732,Wesley Jorette,OF,So,34,21,2017,12560,Centre,132
 14,1889315,Hoffman,P,So,1,1,2017,12560,Centre,132
-8,1889313,Klein,PH,Jr,2,0,2017,12560,Centre,132
+8,1638238,Casey Klein,P,Jr,1,0,2017,12560,Centre,132
 14,1771721,Nick Hoffman,P,So,12,10,2017,12560,Centre,132
 33,1771720,Colin Hathorn,P,So,1,0,2017,12560,Centre,132
-8,1638238,Casey Klein,P,Jr,1,0,2017,12560,Centre,132
+8,1889313,Klein,PH,Jr,2,0,2017,12560,Centre,132
 28,1882241,Michael Flora,INF,Fr,2,0,2017,12560,Centre,132
 4,1882232,Daniel Brown,INF,Fr,1,0,2017,12560,Centre,132
 24,1548862,Greyson Evans,1B,Sr,30,25,2017,12560,Centre,132
@@ -166,8 +166,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,1882236,Harrison Williams,INF,Fr,3,0,2017,12560,Centre,132
 2,1771700,Brahm Whittinghill,INF,So,35,25,2017,12560,Centre,132
 38,1882246,Dunning Weed,INF,Fr,17,3,2017,12560,Centre,132
-25,1882238,Tyler Tucker,OF,Fr,12,0,2017,12560,Centre,132
 25,1889314,Tucker,RF,Fr,2,0,2017,12560,Centre,132
+25,1882238,Tyler Tucker,OF,Fr,12,0,2017,12560,Centre,132
 30,1882242,Reed Thomas,C,Fr,2,0,2017,12560,Centre,132
 36,1882244,Brady Swift,INF,Fr,0,0,2017,12560,Centre,132
 35,1638240,Mark Dill,P,Jr,5,0,2017,12560,Centre,132

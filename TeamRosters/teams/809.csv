@@ -202,12 +202,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,2009174,Jake Karelas,C,Fr,10,2,2018,12973,Worcester St.,809
 34,1663600,Matt Irzyk,P,Sr,13,6,2018,12973,Worcester St.,809
 9,2001219,Josh Boucher,P,Jr,11,6,2018,12973,Worcester St.,809
-11,2001234,Parker Bigelow,OF,So,16,0,2019,14781,Worcester St.,809
 3,2001236,Cooper Bigelow,SS,Jr,40,39,2019,14781,Worcester St.,809
+11,2001234,Parker Bigelow,OF,So,16,0,2019,14781,Worcester St.,809
 18,1886479,Luke Brennan,P,Sr,0,0,2019,14781,Worcester St.,809
 32,2158928,Matt Bouley,C,N/A,3,0,2019,14781,Worcester St.,809
 12,2001235,Jake Breton,INF,So,39,30,2019,14781,Worcester St.,809
-35,1886496,Seth Allen,P,Jr,7,0,2019,14781,Worcester St.,809
+19,1886480,Sam Allen,3B,Jr,39,38,2019,14781,Worcester St.,809
 27,2153187,A. Abernathy,p,N/A,12,0,2019,14781,Worcester St.,809
 9,2001219,Josh Boucher,P,Sr,6,3,2019,14781,Worcester St.,809
 43,2001240,Alphonse Caruso,P,Sr,1,0,2019,14781,Worcester St.,809
@@ -252,7 +252,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 24,2153389,Justin Pena,p,N/A,7,3,2019,14781,Worcester St.,809
 6,1886475,Ben Palatino,1B,Jr,37,37,2019,14781,Worcester St.,809
 14,1886477,Colin Medeiros,OF,Jr,0,0,2019,14781,Worcester St.,809
-19,1886480,Sam Allen,3B,Jr,39,38,2019,14781,Worcester St.,809
+35,1886496,Seth Allen,P,Jr,7,0,2019,14781,Worcester St.,809
 18,2152965,Joey Zawisza,P,So,2,0,2020,15204,Worcester St.,809
 6,2001241,Sean Mahan,P,Jr,2,1,2020,15204,Worcester St.,809
 8,2331788,Kevin Zarnoch Jr.,P,Fr,2,0,2020,15204,Worcester St.,809

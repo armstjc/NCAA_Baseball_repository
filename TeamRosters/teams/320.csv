@@ -194,7 +194,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,1762466,Clayton Dubbs,OF,So,1,1,2017,12560,John Carroll,320
 24,1887747,Freddy Moore,P,Fr,12,11,2017,12560,John Carroll,320
 19,1666831,Drake Hlavin,P,Jr,0,0,2017,12560,John Carroll,320
-37,1762483,Monroe Donnelly,C,Jr,39,39,2017,12560,John Carroll,320
+16,1666477,Matthew Donnelly,INF,So,38,38,2017,12560,John Carroll,320
 4,1762463,Derek Penman,OF,So,32,30,2017,12560,John Carroll,320
 8,1666478,Mike Raschilla,INF,Jr,17,16,2017,12560,John Carroll,320
 7,1887727,Michael Platten,OF,Fr,6,1,2017,12560,John Carroll,320
@@ -203,7 +203,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,1671948,Steven Virost,P,Jr,17,0,2017,12560,John Carroll,320
 18,1551344,Drew Vargo,P,Sr,11,11,2017,12560,John Carroll,320
 31,1887772,Kyle Svenson,INF,Fr,1,0,2017,12560,John Carroll,320
-16,1666477,Matthew Donnelly,INF,So,38,38,2017,12560,John Carroll,320
+37,1762483,Monroe Donnelly,C,Jr,39,39,2017,12560,John Carroll,320
 22,1666833,Jake Servidio,P,Jr,9,9,2017,12560,John Carroll,320
 42,1762460,Carter Semancik,P,So,15,1,2017,12560,John Carroll,320
 10,1551259,Patrick Scholla,OF,Sr,33,32,2017,12560,John Carroll,320
@@ -226,8 +226,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,1762463,Derek Penman,OF,Jr,38,38,2018,12973,John Carroll,320
 17,2007271,Erich Payne,P,Fr,6,0,2018,12973,John Carroll,320
 28,2010155,Did Not Play,P,Fr,7,0,2018,12973,John Carroll,320
-24,1887747,Freddy Moore,P,So,8,8,2018,12973,John Carroll,320
 24,1887794,Eli Moore,C,So,4,1,2018,12973,John Carroll,320
+24,1887747,Freddy Moore,P,So,8,8,2018,12973,John Carroll,320
 99,2006463,Dominic Mittiga,UT,Sr,0,0,2018,12973,John Carroll,320
 53,1762487,Rodrigo Sarmiento,P,Jr,0,0,2018,12973,John Carroll,320
 8,2002124,Mike Mccarty,2B,Fr,34,30,2018,12973,John Carroll,320
@@ -366,8 +366,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2007271,Erich Payne,P,Sr,5,0,2021,15580,John Carroll,320
 49,2337264,Maxwell Schumaker,P,So,7,0,2021,15580,John Carroll,320
 28,2144549,Garrett Siegel,P,Jr,2,0,2021,15580,John Carroll,320
-18,2146444,Joseph Smith,P,Jr,7,0,2021,15580,John Carroll,320
 16,2158823,Trey Smith,INF,Jr,1,0,2021,15580,John Carroll,320
+18,2146444,Joseph Smith,P,Jr,7,0,2021,15580,John Carroll,320
 56,2510046,Sylvan Wiley,P,Fr,8,0,2021,15580,John Carroll,320
 2,2002153,Matthew Thiel,UT,Sr,20,15,2021,15580,John Carroll,320
 45,2337262,Danny Murphy,OF,Jr,4,3,2021,15580,John Carroll,320

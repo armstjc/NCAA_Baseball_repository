@@ -315,8 +315,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 28,1891440,Justin Mcmann,2B,Sr,14,4,2019,14781,Adrian,4
 26,1896506,Daniel Mcmichael,P,Jr,7,0,2019,14781,Adrian,4
 99,2149766,Neiko Megrichian,C,Fr,6,0,2019,14781,Adrian,4
-4,2149767,Thomas Miller,INF,So,45,45,2019,14781,Adrian,4
 41,2003455,Trey Miller,P,So,0,0,2019,14781,Adrian,4
+4,2149767,Thomas Miller,INF,So,45,45,2019,14781,Adrian,4
 30,2003457,Sean Millspaugh,P,So,1,0,2019,14781,Adrian,4
 1,2152009,Nathan Mix,INF,Fr,0,0,2019,14781,Adrian,4
 3,2149768,Brian Naidus,OF,Fr,11,0,2019,14781,Adrian,4
@@ -438,8 +438,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2677656,Ben Sullivan,OF,So,8,0,2022,15860,Adrian,4
 39,2347658,Michael Swanson,UT,Jr,12,7,2022,15860,Adrian,4
 37,2347680,Joe Toth,UT,Jr,15,4,2022,15860,Adrian,4
-21,2152013,Trevor Usher,P,Sr,4,0,2022,15860,Adrian,4
 29,2152014,Tyler Usher,P,Sr,9,0,2022,15860,Adrian,4
+21,2152013,Trevor Usher,P,Sr,4,0,2022,15860,Adrian,4
 8,1999066,Aaron Valentine,1B,Sr,32,28,2022,15860,Adrian,4
 2,2677584,William Weaks,INF,Fr,29,25,2022,15860,Adrian,4
 16,2677614,Tyler Whitfield,OF,Fr,5,0,2022,15860,Adrian,4
@@ -460,8 +460,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 41,2151993,Andrew Giorno,P,Sr,13,6,2022,15860,Adrian,4
 14,2677612,Don Goodes,OF,Jr,38,38,2022,15860,Adrian,4
 15,2677613,Nathan Grega,C,Fr,14,3,2022,15860,Adrian,4
-45,2677664,Daniel Gutierrez,P,Fr,8,3,2022,15860,Adrian,4
 18,2677618,Adrian Gutierrez,C,Fr,6,0,2022,15860,Adrian,4
+45,2677664,Daniel Gutierrez,P,Fr,8,3,2022,15860,Adrian,4
 32,2347647,Jacob Hanoian,P,Sr,20,0,2022,15860,Adrian,4
 11,2677609,Linken Hayward,INF,Fr,18,3,2022,15860,Adrian,4
 5,2151999,Andrew Hribar,OF,Sr,10,2,2022,15860,Adrian,4

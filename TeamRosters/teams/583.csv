@@ -256,8 +256,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 37,2131799,Andrew Declement,C,Fr,1,0,2019,14781,Roger Williams,583
 6,2004073,Tyler Cedeno,INF,Jr,9,9,2020,15204,Roger Williams,583
 36,2004085,Ethan Klein,P,Jr,1,1,2020,15204,Roger Williams,583
-13,2333728,Matt Massaro,INF,Fr,1,0,2020,15204,Roger Williams,583
 40,2333736,Dan Massaro,P,Fr,0,0,2020,15204,Roger Williams,583
+13,2333728,Matt Massaro,INF,Fr,1,0,2020,15204,Roger Williams,583
 41,2004079,Ryan Mcgahern,P,Jr,1,0,2020,15204,Roger Williams,583
 12,2333741,Evan Melo,OF,Fr,2,0,2020,15204,Roger Williams,583
 44,2333738,Jojo Ortiz,1B,Fr,5,0,2020,15204,Roger Williams,583
@@ -295,8 +295,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,2131784,James Jackson,INF,Jr,0,0,2021,15580,Roger Williams,583
 8,2004074,Eddy Jackson,INF,Sr,30,27,2021,15580,Roger Williams,583
 34,2004082,Brandon Jenkins,1B,Sr,31,31,2021,15580,Roger Williams,583
-13,2333728,Matt Massaro,INF,So,27,25,2021,15580,Roger Williams,583
 14,2333736,Dan Massaro,P,So,7,6,2021,15580,Roger Williams,583
+13,2333728,Matt Massaro,INF,So,27,25,2021,15580,Roger Williams,583
 41,2004079,Ryan Mcgahern,P,Sr,8,0,2021,15580,Roger Williams,583
 12,2333741,Evan Melo,OF,So,2,0,2021,15580,Roger Williams,583
 45,2004768,Connor Hewlette,P,Sr,8,8,2021,15580,Roger Williams,583
@@ -342,8 +342,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 51,2667852,Brett Lauterbach,P,So,8,0,2022,15860,Roger Williams,583
 19,2667825,Alec Lavallee,OF,Fr,12,7,2022,15860,Roger Williams,583
 25,2524818,Michael Masino,INF,So,32,32,2022,15860,Roger Williams,583
-14,2333736,Dan Massaro,P,Jr,9,8,2022,15860,Roger Williams,583
 13,2333728,Matt Massaro,INF,Jr,40,40,2022,15860,Roger Williams,583
+14,2333736,Dan Massaro,P,Jr,9,8,2022,15860,Roger Williams,583
 12,2333741,Evan Melo,OF,Jr,4,0,2022,15860,Roger Williams,583
 2,2495747,Jack Morin,C,So,32,31,2022,15860,Roger Williams,583
 17,2131798,Connor Padovich,P,Sr,4,0,2022,15860,Roger Williams,583
@@ -364,8 +364,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,2333735,Cam Duffy,UT,Jr,0,0,2022,15860,Roger Williams,583
 39,2667840,Kyle Egan,P,Fr,1,0,2022,15860,Roger Williams,583
 5,2333743,Matt Falvey,OF,Jr,18,8,2022,15860,Roger Williams,583
-20,2519246,Christopher Flynn,OF,Jr,35,35,2022,15860,Roger Williams,583
 32,2004081,Chris Flynn,P,Sr,15,13,2022,15860,Roger Williams,583
+20,2519246,Christopher Flynn,OF,Jr,35,35,2022,15860,Roger Williams,583
 9,2131783,Tommy Hobin,INF,Sr,31,28,2022,15860,Roger Williams,583
 15,1891233,Justin Garcia,P,Sr,11,11,2022,15860,Roger Williams,583
 47,2495754,Conor Gaughan,P,So,0,0,2022,15860,Roger Williams,583

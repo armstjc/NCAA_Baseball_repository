@@ -365,8 +365,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,2335255,Daniel Quintero Jr.,P,Jr,9,4,2022,15860,Hiram,281
 3,2335246,Zachary Scalf,P,Jr,7,0,2022,15860,Hiram,281
 31,2668677,Jacob Koces,P,Fr,7,0,2022,15860,Hiram,281
+49,2307737,Austin Smith,P,So,13,0,2022,15860,Hiram,281
 15,2486546,Carter Smith,1B,So,14,4,2022,15860,Hiram,281
-33,2668654,Cooper Smith,P,Fr,3,0,2022,15860,Hiram,281
 44,2335270,Tj Staton,OF,Jr,1,0,2022,15860,Hiram,281
 39,2486551,Aidan Stephens,P,So,11,3,2022,15860,Hiram,281
 40,2335236,Alex Stevenson,3B,Jr,2,0,2022,15860,Hiram,281
@@ -375,7 +375,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 43,2335238,Cody Wilson,OF,Jr,37,37,2022,15860,Hiram,281
 1,2143512,Kyle Workman,3B,Sr,40,40,2022,15860,Hiram,281
 45,2668684,Isaiah Wright,C,Fr,1,0,2022,15860,Hiram,281
-49,2307737,Austin Smith,P,So,13,0,2022,15860,Hiram,281
+33,2668654,Cooper Smith,P,Fr,3,0,2022,15860,Hiram,281
 38,2335268,Matthew Kardos,P,Jr,10,0,2022,15860,Hiram,281
 19,2335251,Stephen Javorek,P,Jr,12,9,2022,15860,Hiram,281
 9,2335235,Aidan Jantz,1B,Jr,17,8,2022,15860,Hiram,281

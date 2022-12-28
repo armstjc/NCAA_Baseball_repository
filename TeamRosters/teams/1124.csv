@@ -293,7 +293,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2489249,Teddy Olander,P,Fr,10,6,2021,15580,Hendrix,1124
 17,2126116,Zach Orlando,P,Jr,10,0,2021,15580,Hendrix,1124
 30,1981852,Aaron Little,P,Sr,3,0,2021,15580,Hendrix,1124
-6,2302550,Justin Scott,OF,So,16,16,2021,15580,Hendrix,1124
+9,2522400,Justin Scott,OF,So,5,5,2021,15580,Hendrix,1124
 1,2302551,Nathan Silva,P,So,4,0,2021,15580,Hendrix,1124
 47,2126124,Andrei Stoyanow,P,Jr,9,9,2021,15580,Hendrix,1124
 23,2302552,Ethan Thomas,P,So,7,1,2021,15580,Hendrix,1124
@@ -301,7 +301,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 49,2488337,Joseph Watts,OF,Fr,16,13,2021,15580,Hendrix,1124
 18,2126117,Tyler Webb,P,Jr,17,15,2021,15580,Hendrix,1124
 6,2126132,Kyle Wellman,P,Jr,9,7,2021,15580,Hendrix,1124
-9,2522400,Justin Scott,OF,So,5,5,2021,15580,Hendrix,1124
+6,2302550,Justin Scott,OF,So,16,16,2021,15580,Hendrix,1124
 37,2126129,Tyler Wilson,P,Jr,1,0,2021,15580,Hendrix,1124
 29,2488335,Kyle Kirk,OF,Fr,13,10,2021,15580,Hendrix,1124
 44,2126131,Jack Hodgins,P,Jr,9,9,2021,15580,Hendrix,1124
@@ -316,8 +316,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,2488334,Travis Hurn,INF,Fr,16,15,2021,15580,Hendrix,1124
 14,2302525,Tuffy Dornburg,INF,So,2,0,2021,15580,Hendrix,1124
 25,1981842,Tom Flisk,C,Sr,20,16,2021,15580,Hendrix,1124
-8,2494957,John Fowler,P,Fr,4,1,2021,15580,Hendrix,1124
 50,2522406,Bobby Fowler,P,Fr,0,0,2021,15580,Hendrix,1124
+8,2494957,John Fowler,P,Fr,4,1,2021,15580,Hendrix,1124
 32,2126127,Rail Gilliam,C,Jr,28,25,2021,15580,Hendrix,1124
 42,2494959,Will Graves,P,Fr,3,0,2021,15580,Hendrix,1124
 35,2522405,Ian Guthrie,C,Fr,0,0,2021,15580,Hendrix,1124
@@ -356,8 +356,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,2676424,Jackson Corrigan,P,Fr,10,1,2022,15860,Hendrix,1124
 39,2678479,Lane Dalrymple,OF,Fr,0,0,2022,15860,Hendrix,1124
 42,2522404,Max Dawson,P,So,0,0,2022,15860,Hendrix,1124
-8,2494957,John Fowler,P,So,14,1,2022,15860,Hendrix,1124
 50,2522406,Bobby Fowler,P,So,1,0,2022,15860,Hendrix,1124
+8,2494957,John Fowler,P,So,14,1,2022,15860,Hendrix,1124
 32,2126127,Rail Gilliam,C,Sr,43,43,2022,15860,Hendrix,1124
 11,2678380,Johnny Miles,P,Fr,0,0,2022,15860,Hendrix,1124
 35,2522405,Ian Guthrie,C,So,12,1,2022,15860,Hendrix,1124

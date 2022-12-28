@@ -192,7 +192,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,1895373,Zach Pipa,P,So,22,0,2018,12973,Wheaton  (NEWC),779
 15,1895081,Nick Raposo,C,So,40,40,2018,12973,Wheaton  (NEWC),779
 24,1895374,Bryant Salkind,INF,So,40,40,2018,12973,Wheaton  (NEWC),779
-32,1987634,Joshua Roberge,P,Fr,0,0,2018,12973,Wheaton  (NEWC),779
+32,1987634,Josh Roberge,P,Fr,0,0,2018,12973,Wheaton  (NEWC),779
 12,1652852,Chris Ruocco,INF,Sr,40,40,2018,12973,Wheaton  (NEWC),779
 22,1987635,Patrick Santorella,OF,Fr,0,0,2018,12973,Wheaton  (NEWC),779
 9,1765296,Jared Sharkey,INF,Jr,40,40,2018,12973,Wheaton  (NEWC),779
@@ -246,7 +246,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,1765296,Jared Sharkey,INF,Sr,41,41,2019,14781,Wheaton  (NEWC),779
 22,1987635,Patrick Santorella,OF,So,7,2,2019,14781,Wheaton  (NEWC),779
 24,1895374,Bryant Salkind,INF,Jr,36,34,2019,14781,Wheaton  (NEWC),779
-32,1987634,Joshua Roberge,P,So,11,0,2019,14781,Wheaton  (NEWC),779
+32,1987634,Josh Roberge,P,So,11,0,2019,14781,Wheaton  (NEWC),779
 10,2152835,Jacob Studley,RF,Fr,30,27,2019,14781,Wheaton  (NEWC),779
 15,1895081,Nick Raposo,C,Jr,40,40,2019,14781,Wheaton  (NEWC),779
 11,2152834,Stephen Quigley,P,Fr,39,34,2019,14781,Wheaton  (NEWC),779
@@ -268,7 +268,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 45,2154305,Andrew Spirito,INF,So,0,0,2020,15204,Wheaton  (NEWC),779
 48,2149126,Griffin Young,P,So,0,0,2020,15204,Wheaton  (NEWC),779
 40,2361349,Max Pierce,P,Fr,2,0,2020,15204,Wheaton  (NEWC),779
-32,1987634,Joshua Roberge,P,Jr,2,2,2020,15204,Wheaton  (NEWC),779
+32,1987634,Josh Roberge,P,Jr,2,2,2020,15204,Wheaton  (NEWC),779
 1,1987633,George Mulcahey,INF,Jr,8,8,2020,15204,Wheaton  (NEWC),779
 7,1895371,Quinn Krais,C,Sr,7,5,2020,15204,Wheaton  (NEWC),779
 17,1895084,Paul Mcgeehan,P,Sr,1,0,2020,15204,Wheaton  (NEWC),779
@@ -306,7 +306,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 45,2154305,Andrew Spirito,INF,Jr,28,24,2021,15580,Wheaton  (NEWC),779
 22,1987635,Patrick Santorella,OF,Sr,26,26,2021,15580,Wheaton  (NEWC),779
 33,2529518,Allan Dilone Rodriguez,lf,N/A,1,0,2021,15580,Wheaton  (NEWC),779
-32,1987634,Joshua Roberge,P,Sr,16,3,2021,15580,Wheaton  (NEWC),779
+32,1987634,Josh Roberge,P,Sr,16,3,2021,15580,Wheaton  (NEWC),779
 49,2525025,E. Whitehead,cf,N/A,0,0,2021,15580,Wheaton  (NEWC),779
 11,2152834,Stephen Quigley,P,Jr,28,28,2021,15580,Wheaton  (NEWC),779
 41,1987608,Gavin Reily,P,Sr,10,10,2021,15580,Wheaton  (NEWC),779

@@ -128,7 +128,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,1999256,Mason Weir,P,So,8,0,2019,14781,Elmira,213
 13,1777247,Harrison Zambarano,INF,Sr,37,37,2019,14781,Elmira,213
 22,1999257,Jack Volpe,OF,Jr,2,2,2019,14781,Elmira,213
-2,1999279,Mark Ryan,INF,So,27,26,2019,14781,Elmira,213
+1,2142593,Mason Ryan,INF,Fr,36,36,2019,14781,Elmira,213
 24,2145104,Connor Trower,P,Fr,4,0,2019,14781,Elmira,213
 32,2145106,Kyle Tubbs,P,Fr,9,0,2019,14781,Elmira,213
 21,1776052,Andy Reed,P,Sr,16,3,2019,14781,Elmira,213
@@ -147,7 +147,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,1783012,Jack Donnelly,C,Sr,18,9,2019,14781,Elmira,213
 9,2142591,James Delaney,OF,Fr,26,19,2019,14781,Elmira,213
 18,1890213,Corey Demauro,P,Jr,13,2,2019,14781,Elmira,213
-1,2142593,Mason Ryan,INF,Fr,36,36,2019,14781,Elmira,213
+2,1999279,Mark Ryan,INF,So,27,26,2019,14781,Elmira,213
 5,1999281,Alex Crysler,P,So,7,0,2019,14781,Elmira,213
 16,1890212,Jansen Crossley,INF,Jr,34,34,2019,14781,Elmira,213
 41,1777249,Nick Cottone,P,Sr,10,10,2019,14781,Elmira,213
@@ -211,8 +211,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,1999281,Alex Crysler,P,Sr,18,2,2021,15580,Elmira,213
 6,1999280,Taber Carter,P,Sr,12,8,2021,15580,Elmira,213
 27,2143630,Angus Adams,UT,Jr,18,14,2021,15580,Elmira,213
-9,2142593,Mason Ryan,INF,Jr,23,23,2021,15580,Elmira,213
 2,1999279,Mark Ryan,OF,Sr,9,9,2021,15580,Elmira,213
+9,2142593,Mason Ryan,INF,Jr,23,23,2021,15580,Elmira,213
 27,2143630,Angus Adams,UT,Sr,12,10,2022,15860,Elmira,213
 25,2658168,Carter Wisely,P,Fr,8,6,2022,15860,Elmira,213
 23,2490419,Michael Millross,UT,So,14,2,2022,15860,Elmira,213

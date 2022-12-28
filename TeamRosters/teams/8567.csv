@@ -111,8 +111,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,1557784,Jordan Corbett,INF,So,25,12,2016,12360,Mt. St. Joseph,8567
 20,1647859,Zach Farmer,P,Jr,40,39,2016,12360,Mt. St. Joseph,8567
 35,1647876,Ben Frizzell,P,So,13,0,2016,12360,Mt. St. Joseph,8567
-27,1766199,Nick Gunnell,P,Fr,12,1,2016,12360,Mt. St. Joseph,8567
 33,1557788,Jacob Gunnell,P,Jr,14,1,2016,12360,Mt. St. Joseph,8567
+27,1766199,Nick Gunnell,P,Fr,12,1,2016,12360,Mt. St. Joseph,8567
 30,1766197,Mike Hilliard,P,So,12,0,2016,12360,Mt. St. Joseph,8567
 9,1557789,Matt Hofmann,P,Jr,38,35,2016,12360,Mt. St. Joseph,8567
 17,1766202,Chris Honebrink,P,Fr,11,0,2016,12360,Mt. St. Joseph,8567
@@ -275,7 +275,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 38,2324309,Jared Ellerman,P,So,1,0,2020,15204,Mt. St. Joseph,8567
 41,2324310,Bronson Barker,P,Fr,1,0,2020,15204,Mt. St. Joseph,8567
 32,1991397,Tyrell Anderson,1B,Sr,40,38,2021,15580,Mt. St. Joseph,8567
-8,1991380,Ryan Murray,OF,Sr,37,36,2021,15580,Mt. St. Joseph,8567
+10,1991382,Patrick Murray,OF,Sr,29,29,2021,15580,Mt. St. Joseph,8567
 5,1991377,Brandon Shelton,P,Sr,7,5,2021,15580,Mt. St. Joseph,8567
 23,2324274,Hunter Schoengart,P,So,4,0,2021,15580,Mt. St. Joseph,8567
 17,1991385,Nathan Renner,P,Sr,11,10,2021,15580,Mt. St. Joseph,8567
@@ -285,7 +285,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 20,2324270,Carter Owen,INF,Jr,34,32,2021,15580,Mt. St. Joseph,8567
 33,2498769,William Nagel,P,Fr,1,0,2021,15580,Mt. St. Joseph,8567
 6,2149673,Ian Mustard,INF,Jr,39,37,2021,15580,Mt. St. Joseph,8567
-10,1991382,Patrick Murray,OF,Sr,29,29,2021,15580,Mt. St. Joseph,8567
+8,1991380,Ryan Murray,OF,Sr,37,36,2021,15580,Mt. St. Joseph,8567
 42,2498774,Pedro Munoz,UT,Fr,23,17,2021,15580,Mt. St. Joseph,8567
 12,2324244,Thomas Williams,P,So,9,7,2021,15580,Mt. St. Joseph,8567
 38,2498772,Jacob Miles,P,Fr,4,0,2021,15580,Mt. St. Joseph,8567

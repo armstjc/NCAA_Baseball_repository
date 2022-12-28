@@ -86,7 +86,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,1533270,Scott Orr,P,So,10,4,2014,11620,Plattsburgh St.,547
 2,1319541,Mike Vargues,OF,Sr,31,30,2015,12080,Plattsburgh St.,547
 29,1662714,Travis Brown,PH,N/A,3,0,2015,12080,Plattsburgh St.,547
-19,1533276,Joe Tolosky,1B,Sr,7,4,2015,12080,Plattsburgh St.,547
+10,1650592,Jack Tolosky,2B,Fr,18,9,2015,12080,Plattsburgh St.,547
 9,1662717,Ryan Sarena,2B,N/A,1,1,2015,12080,Plattsburgh St.,547
 34,1533274,Billy Rombauts,OF,So,29,28,2015,12080,Plattsburgh St.,547
 3,1662713,Alex Rodriguez,C,N/A,27,18,2015,12080,Plattsburgh St.,547
@@ -106,14 +106,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,1533268,Jd Jenkins,P,Sr,0,0,2015,12080,Plattsburgh St.,547
 17,1666533,Sean Howard,P,N/A,9,3,2015,12080,Plattsburgh St.,547
 25,1533267,Zach Hieb,2B,So,5,2,2015,12080,Plattsburgh St.,547
-23,1533266,Will Flynn,P,Sr,9,9,2015,12080,Plattsburgh St.,547
 20,1533265,Ray Flynn,1B,So,11,3,2015,12080,Plattsburgh St.,547
+23,1533266,Will Flynn,P,Sr,9,9,2015,12080,Plattsburgh St.,547
 50,1650596,Mitch Crispens,P,Fr,5,0,2015,12080,Plattsburgh St.,547
 32,1662715,Tyler Bulich,3B,N/A,20,11,2015,12080,Plattsburgh St.,547
 1,1662716,Brandon Buksa,LF,N/A,25,22,2015,12080,Plattsburgh St.,547
 45,1533263,Frank Buksa,C,Sr,31,31,2015,12080,Plattsburgh St.,547
 28,1319544,Ross Levinson,P,Jr,7,0,2015,12080,Plattsburgh St.,547
-10,1650592,Jack Tolosky,2B,Fr,18,9,2015,12080,Plattsburgh St.,547
+19,1533276,Joe Tolosky,1B,Sr,7,4,2015,12080,Plattsburgh St.,547
 18,1775758,Jon Bixby,P,Jr,4,2,2016,12360,Plattsburgh St.,547
 20,1533265,Ray Flynn,1B,Jr,34,32,2016,12360,Plattsburgh St.,547
 34,1533274,Billy Rombauts,OF,Jr,32,31,2016,12360,Plattsburgh St.,547
@@ -224,8 +224,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 55,2143243,Chris Dreier,P,Jr,7,0,2019,14781,Plattsburgh St.,547
 9,1775756,Jon Craft,INF,Sr,29,28,2019,14781,Plattsburgh St.,547
 10,2006727,Rocco Cipriano,OF,Sr,29,24,2019,14781,Plattsburgh St.,547
-13,1894140,Patrick Bryant,P,Sr,25,25,2019,14781,Plattsburgh St.,547
 3,1894123,Stephen Bryant,SS,Jr,31,30,2019,14781,Plattsburgh St.,547
+13,1894140,Patrick Bryant,P,Sr,25,25,2019,14781,Plattsburgh St.,547
 5,2006742,Tom Bowe,INF,So,10,4,2019,14781,Plattsburgh St.,547
 17,2006728,Jack Bermingham,INF,So,10,4,2019,14781,Plattsburgh St.,547
 4,2006726,Simon Alvarez,3B,So,21,20,2019,14781,Plattsburgh St.,547

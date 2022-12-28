@@ -218,8 +218,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18,2135853,Samuel Peddycord,P,Fr,16,0,2019,14781,William Peace,17094
 20,1760884,Easton Payton,OF,Sr,33,33,2019,14781,William Peace,17094
 45,2135852,Austin Padgett,P,Fr,16,0,2019,14781,William Peace,17094
-47,1985755,Isaiah Ortega,P,So,12,0,2019,14781,William Peace,17094
 24,2135851,Rafael Ortega,INF,Fr,7,0,2019,14781,William Peace,17094
+47,1985755,Isaiah Ortega,P,So,12,0,2019,14781,William Peace,17094
 32,1985748,Jake Norris,C,So,11,6,2019,14781,William Peace,17094
 48,2135849,Nick Montrose,INF,Jr,16,6,2019,14781,William Peace,17094
 49,1985757,Jamey May,P,Jr,10,0,2019,14781,William Peace,17094
@@ -227,8 +227,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26,2135869,Phillip Locklear,P,So,0,0,2020,15204,William Peace,17094
 9,2135850,Jordan Moss,INF,So,0,0,2020,15204,William Peace,17094
 4,1985748,Jake Norris,C,Jr,13,12,2020,15204,William Peace,17094
-24,2135851,Rafael Ortega,INF,So,1,0,2020,15204,William Peace,17094
 30,1985755,Isaiah Ortega,P,Jr,6,0,2020,15204,William Peace,17094
+24,2135851,Rafael Ortega,INF,So,1,0,2020,15204,William Peace,17094
 45,2135852,Austin Padgett,P,So,3,0,2020,15204,William Peace,17094
 50,2330127,Garrett Pannell,INF,Fr,7,2,2020,15204,William Peace,17094
 5,2135853,Samuel Peddycord,P,So,6,4,2020,15204,William Peace,17094
@@ -280,8 +280,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26,2330067,Tyshawn Barrett,1B,Sr,38,37,2021,15580,William Peace,17094
 52,2330135,Connor Behan,P,So,0,0,2021,15580,William Peace,17094
 59,2494676,Nathaniel Varnier,P,Fr,7,0,2021,15580,William Peace,17094
-30,1985755,Isaiah Ortega,P,Sr,0,0,2021,15580,William Peace,17094
 24,2135851,Rafael Ortega,INF,Jr,0,0,2021,15580,William Peace,17094
+30,1985755,Isaiah Ortega,P,Sr,0,0,2021,15580,William Peace,17094
 45,2135852,Austin Padgett,P,Jr,7,0,2021,15580,William Peace,17094
 50,2330127,Garrett Pannell,INF,So,0,0,2021,15580,William Peace,17094
 5,2135853,Samuel Peddycord,P,Jr,11,11,2021,15580,William Peace,17094
@@ -324,8 +324,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 40,2330114,Peyton Howard,P,So,14,1,2021,15580,William Peace,17094
 36,2494307,Jamaiz Hunt,INF,Jr,14,3,2021,15580,William Peace,17094
 46,2330120,Mccallum Hutchins,INF,So,0,0,2021,15580,William Peace,17094
-55,2504605,Tyler Johnson,P,So,7,0,2021,15580,William Peace,17094
 41,1985752,Austin Johnson,INF,Sr,0,0,2021,15580,William Peace,17094
+55,2504605,Tyler Johnson,P,So,7,0,2021,15580,William Peace,17094
 26,2135869,Phillip Locklear,P,Jr,0,0,2021,15580,William Peace,17094
 10,2330049,Jackson May,OF,So,30,23,2021,15580,William Peace,17094
 20,2330058,Ethan May,1B,So,3,0,2021,15580,William Peace,17094

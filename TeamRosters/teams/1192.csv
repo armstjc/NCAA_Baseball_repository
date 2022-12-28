@@ -295,8 +295,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 38,2146812,Bobby Dockendorf,UT,Fr,0,0,2019,14781,Manchester,1192
 50,1775723,Jordan Hillyard,P,Sr,12,9,2019,14781,Manchester,1192
 32,2146810,Carter Hooks,P,Fr,13,3,2019,14781,Manchester,1192
-25,1893116,Joe Gallatin,OF,Jr,26,25,2019,14781,Manchester,1192
 19,2146827,John Gallatin,OF,Fr,0,0,2019,14781,Manchester,1192
+25,1893116,Joe Gallatin,OF,Jr,26,25,2019,14781,Manchester,1192
 45,2146816,Seth Hamilton,OF,Fr,1,0,2019,14781,Manchester,1192
 24,2005083,Joe Henschel,3B,So,32,31,2019,14781,Manchester,1192
 20,2146805,Ryan Mueller,1B,So,4,3,2020,15204,Manchester,1192
@@ -365,14 +365,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 24,2005083,Joe Henschel,3B,Sr,33,33,2021,15580,Manchester,1192
 23,2146807,Andrew Mild,OF,Jr,0,0,2021,15580,Manchester,1192
 29,2501116,Jalen Hines,C,Fr,1,0,2021,15580,Manchester,1192
-35,2345156,Peyton Jackson,P,So,8,1,2021,15580,Manchester,1192
+25,2501110,Cody Jackson,P,Fr,4,0,2021,15580,Manchester,1192
 1,2501104,Austin Knowles,INF,Fr,34,31,2021,15580,Manchester,1192
 34,2146830,Austin Kresl,P,Jr,14,9,2021,15580,Manchester,1192
 22,2005310,Brett Kron,INF,Sr,38,37,2021,15580,Manchester,1192
 21,2501109,Austin Lemar,INF,Fr,15,5,2021,15580,Manchester,1192
 36,2501123,Blake Lynch,P,Fr,2,0,2021,15580,Manchester,1192
 37,2345106,Andrew Magurany,UT,Jr,0,0,2021,15580,Manchester,1192
-25,2501110,Cody Jackson,P,Fr,4,0,2021,15580,Manchester,1192
+35,2345156,Peyton Jackson,P,So,8,1,2021,15580,Manchester,1192
 4,2345103,Paul Barrow,OF,Jr,23,11,2022,15860,Manchester,1192
 8,2501107,Mitchell Baker,INF,So,30,26,2022,15860,Manchester,1192
 29,2682746,Mitchell Cobb,UT,Fr,9,6,2022,15860,Manchester,1192

@@ -177,8 +177,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,1551435,Nik Mattson,C,Sr,28,23,2017,12560,Wis.-Superior,804
 19,1551439,Brock Mcdermid,P,Sr,8,5,2017,12560,Wis.-Superior,804
 2,1768262,Nick Mcnosky,INF,Jr,37,35,2017,12560,Wis.-Superior,804
-33,1768267,Travis Miller,INF,So,40,38,2017,12560,Wis.-Superior,804
 30,1896262,Austin Miller,P,Fr,9,6,2017,12560,Wis.-Superior,804
+33,1768267,Travis Miller,INF,So,40,38,2017,12560,Wis.-Superior,804
 6,1768257,Mike Moskaylk,INF,So,0,0,2017,12560,Wis.-Superior,804
 24,1768263,Alex Osness,INF,So,27,14,2017,12560,Wis.-Superior,804
 8,1551434,Chad Patko,INF,Sr,39,38,2017,12560,Wis.-Superior,804
@@ -252,9 +252,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,1768268,Colin Welch,C,Sr,8,2,2019,14781,Wis.-Superior,804
 39,1896197,Trevor Roszczewski,P,Sr,6,4,2019,14781,Wis.-Superior,804
 34,1896098,Brandon Rolf,OF,Jr,36,35,2019,14781,Wis.-Superior,804
-13,2006159,Ryan Rodriguez,P,So,10,8,2019,14781,Wis.-Superior,804
-8,1896194,Cameron Lee,OF,Jr,14,5,2019,14781,Wis.-Superior,804
 11,1768258,Mike Rodriguez,OF,Sr,27,6,2019,14781,Wis.-Superior,804
+8,1896194,Cameron Lee,OF,Jr,14,5,2019,14781,Wis.-Superior,804
+13,2006159,Ryan Rodriguez,P,So,10,8,2019,14781,Wis.-Superior,804
 18,1896094,Cory Albertson,C,Jr,40,40,2019,14781,Wis.-Superior,804
 6,1896097,Alec Rabin,INF,Jr,25,21,2019,14781,Wis.-Superior,804
 5,1780233,Michael Piletich,P,Sr,8,4,2019,14781,Wis.-Superior,804
@@ -353,8 +353,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,2680385,Michael Brannon,INF,Fr,1,0,2022,15860,Wis.-Superior,804
 11,2492353,Will Bess,OF,Sr,8,3,2022,15860,Wis.-Superior,804
 27,2492379,James Besaw,OF,Jr,3,0,2022,15860,Wis.-Superior,804
-21,2680299,Brayden Bender,C,Fr,1,0,2022,15860,Wis.-Superior,804
 34,2006254,Dante Bender,P,Sr,2,0,2022,15860,Wis.-Superior,804
+21,2680299,Brayden Bender,C,Fr,1,0,2022,15860,Wis.-Superior,804
 18,2492374,Jack Barnett,P,So,2,1,2022,15860,Wis.-Superior,804
 25,2347703,Matt Tappe,INF,6-3,Jr,0,2023,16340,Wis.-Superior,804
 26,2492378,Joey Barker,P,6-4,Jr,0,2023,16340,Wis.-Superior,804

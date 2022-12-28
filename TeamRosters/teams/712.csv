@@ -115,8 +115,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,1768664,Matt Giacose,OF,Fr,3,0,2016,12360,TCNJ,712
 3,1552556,Cj Gearhart,C,Jr,36,33,2016,12360,TCNJ,712
 11,1660060,Mike Follet,OF,So,39,39,2016,12360,TCNJ,712
-2,1768663,Ryan Fischer,INF,Fr,6,0,2016,12360,TCNJ,712
 57,1768662,Michael Fischer,P,Fr,10,4,2016,12360,TCNJ,712
+2,1768663,Ryan Fischer,INF,Fr,6,0,2016,12360,TCNJ,712
 22,1660065,Ryan Fearon,INF,So,14,9,2016,12360,TCNJ,712
 9,1427309,Matthew Facas,C,Sr,13,11,2016,12360,TCNJ,712
 18,1427301,Joseph Dilorenzo,P,Sr,12,0,2016,12360,TCNJ,712
@@ -274,12 +274,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,1996348,Joseph Felipe,P,Jr,2,0,2020,15204,TCNJ,712
 16,1996334,Yariel Levin,P,Jr,0,0,2020,15204,TCNJ,712
 49,1891386,Nick Kleftogiannis,P,Sr,2,0,2020,15204,TCNJ,712
-30,2358349,Jack Felipe,INF,So,11,9,2021,15580,TCNJ,712
+12,1996348,Joseph Felipe,P,Sr,5,4,2021,15580,TCNJ,712
 14,2519226,Jack Haynes,OF,Fr,27,25,2021,15580,TCNJ,712
 20,2153231,Grant Sible,OF,Jr,17,13,2021,15580,TCNJ,712
 42,2526725,Alec Schwartz,P,Fr,4,0,2021,15580,TCNJ,712
-11,1996393,Tim Schumacher,P,Sr,7,6,2021,15580,TCNJ,712
 32,2519227,Michael Schumacher,OF,Fr,17,8,2021,15580,TCNJ,712
+11,1996393,Tim Schumacher,P,Sr,7,6,2021,15580,TCNJ,712
 25,2358348,Nicholas Scerbo,P,So,3,0,2021,15580,TCNJ,712
 17,2153210,Chris Reeder,C,Jr,22,20,2021,15580,TCNJ,712
 6,1996339,Zachary Padersky,P,Sr,3,0,2021,15580,TCNJ,712
@@ -293,7 +293,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,2358346,Regan Goldberg,INF,Jr,10,0,2021,15580,TCNJ,712
 36,2526532,Zach Gelo,P,Fr,4,0,2021,15580,TCNJ,712
 2,2153230,Nick Francisco,INF,Jr,3,1,2021,15580,TCNJ,712
-12,1996348,Joseph Felipe,P,Sr,5,4,2021,15580,TCNJ,712
+30,2358349,Jack Felipe,INF,So,11,9,2021,15580,TCNJ,712
 9,1996329,Avery Epstein,UT,Sr,27,27,2021,15580,TCNJ,712
 26,2153211,Joey Cruciata,OF,Jr,18,11,2021,15580,TCNJ,712
 29,2357992,Matthew Crawford,P,So,6,0,2021,15580,TCNJ,712

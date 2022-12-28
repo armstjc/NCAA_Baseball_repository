@@ -190,14 +190,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,2003866,Devin Turrell,P,So,8,0,2018,12973,SUNY Poly,9500
 9,2003854,Noah Valvo,P,Fr,10,2,2018,12973,SUNY Poly,9500
 4,1781040,Jacob Vanbeber,P,Jr,8,1,2018,12973,SUNY Poly,9500
-15,2003859,Seth Vanderbeck,OF,Fr,26,16,2018,12973,SUNY Poly,9500
+30,2003831,Noah Vanderbeck,UT,Jr,23,15,2018,12973,SUNY Poly,9500
 10,1668938,Matt Fippinger,OF,Sr,26,22,2018,12973,SUNY Poly,9500
 99,2003826,B F,UT,Sr,0,0,2018,12973,SUNY Poly,9500
 8,1781045,Dalton Earl,OF,Jr,24,22,2018,12973,SUNY Poly,9500
 11,1894218,Bradley Dietz,INF,So,14,8,2018,12973,SUNY Poly,9500
 24,2003829,John Andrews,INF,Jr,27,25,2018,12973,SUNY Poly,9500
 13,1668665,Joshua Rodriguez,INF,Sr,27,27,2018,12973,SUNY Poly,9500
-30,2003831,Noah Vanderbeck,UT,Jr,23,15,2018,12973,SUNY Poly,9500
+15,2003859,Seth Vanderbeck,OF,Fr,26,16,2018,12973,SUNY Poly,9500
 5,1781664,Brett Flint,P,Sr,7,3,2018,12973,SUNY Poly,9500
 7,2003827,Zachary France,C,Fr,3,0,2018,12973,SUNY Poly,9500
 12,2153428,Julian Moffett,p,Jr,10,0,2019,14781,SUNY Poly,9500
@@ -212,7 +212,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,2153897,Stephen Anderson,p,Fr,2,0,2019,14781,SUNY Poly,9500
 33,2153174,Alex Winchell,1b,Jr,14,12,2019,14781,SUNY Poly,9500
 2,1894406,Dalton Henry,C,Jr,0,0,2019,14781,SUNY Poly,9500
-15,2003859,Seth Vanderbeck,OF,So,33,31,2019,14781,SUNY Poly,9500
+35,2003831,Noah Vanderbeck,UT,Sr,27,19,2019,14781,SUNY Poly,9500
 6,1781040,Jacob Vanbeber,P,Sr,17,11,2019,14781,SUNY Poly,9500
 9,2003854,Noah Valvo,P,So,10,3,2019,14781,SUNY Poly,9500
 23,2003866,Devin Turrell,P,Jr,8,2,2019,14781,SUNY Poly,9500
@@ -224,7 +224,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,1781665,Sebastian Pannuto,INF,Sr,31,29,2019,14781,SUNY Poly,9500
 12,2003856,Nate Palmer,INF,Sr,0,0,2019,14781,SUNY Poly,9500
 22,1894404,Dean Natalizio,INF,Jr,31,30,2019,14781,SUNY Poly,9500
-35,2003831,Noah Vanderbeck,UT,Sr,27,19,2019,14781,SUNY Poly,9500
+15,2003859,Seth Vanderbeck,OF,So,33,31,2019,14781,SUNY Poly,9500
 19,2003864,Jeremiah Horton,P,Sr,10,9,2019,14781,SUNY Poly,9500
 34,2154311,Matthew Gamache,p,Fr,2,1,2019,14781,SUNY Poly,9500
 17,2153173,Jake Laferriere,p,Jr,26,25,2019,14781,SUNY Poly,9500

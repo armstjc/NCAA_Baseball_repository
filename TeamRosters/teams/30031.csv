@@ -197,13 +197,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,1877124,Carter Michaelson,OF,Jr,0,0,2019,14781,Northwestern-St. Paul,30031
 26,2158101,Jc Micklich,rf,Fr,1,0,2019,14781,Northwestern-St. Paul,30031
 10,2000089,Wyatt Morrell,P,So,43,43,2019,14781,Northwestern-St. Paul,30031
-24,1776676,Quinton Lindow,P,Sr,11,9,2019,14781,Northwestern-St. Paul,30031
-8,2002637,Sam Peterson,INF,So,42,40,2019,14781,Northwestern-St. Paul,30031
+11,2000081,Carlton Lindow,C,So,41,41,2019,14781,Northwestern-St. Paul,30031
+7,2000080,Eric Peterson,INF,So,22,17,2019,14781,Northwestern-St. Paul,30031
 12,2000090,Caleb Piersma,OF,So,34,29,2019,14781,Northwestern-St. Paul,30031
 21,2153430,Dylan Ramberg,p,Fr,10,0,2019,14781,Northwestern-St. Paul,30031
 28,2000100,Kana Schuman,C,So,0,0,2019,14781,Northwestern-St. Paul,30031
-7,2000080,Eric Peterson,INF,So,22,17,2019,14781,Northwestern-St. Paul,30031
-11,2000081,Carlton Lindow,C,So,41,41,2019,14781,Northwestern-St. Paul,30031
+8,2002637,Sam Peterson,INF,So,42,40,2019,14781,Northwestern-St. Paul,30031
+24,1776676,Quinton Lindow,P,Sr,11,9,2019,14781,Northwestern-St. Paul,30031
 23,1877143,Henry Waage,P,Jr,0,0,2019,14781,Northwestern-St. Paul,30031
 2,2000063,Sam Knight,C,So,0,0,2019,14781,Northwestern-St. Paul,30031
 8,2000079,Noah Kinniburgh,P,So,0,0,2019,14781,Northwestern-St. Paul,30031
@@ -273,8 +273,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 28,2462526,Owen Atherton,OF,Fr,3,0,2021,15580,Northwestern-St. Paul,30031
 15,2335315,Noah Franzen,P,Jr,3,2,2021,15580,Northwestern-St. Paul,30031
 2,1877125,Max Barthel,INF,Sr,11,1,2021,15580,Northwestern-St. Paul,30031
-8,2002637,Sam Peterson,INF,Sr,38,38,2021,15580,Northwestern-St. Paul,30031
 25,2335318,Daniel Peterson,OF,So,10,2,2021,15580,Northwestern-St. Paul,30031
+8,2002637,Sam Peterson,INF,Sr,38,38,2021,15580,Northwestern-St. Paul,30031
 6,2000080,Eric Peterson,INF,Sr,19,15,2021,15580,Northwestern-St. Paul,30031
 18,2000091,Jared Woelfel,INF,Sr,2,0,2021,15580,Northwestern-St. Paul,30031
 12,2335320,Brandon Welch,OF,So,2,0,2021,15580,Northwestern-St. Paul,30031

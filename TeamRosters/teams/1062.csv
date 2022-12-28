@@ -291,8 +291,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 42,2128986,Adrian Stover,P,So,4,1,2020,15204,East Tex. Baptist,1062
 32,2128988,Alan Underwood,P,So,5,5,2020,15204,East Tex. Baptist,1062
 1,2336187,Lucas Mccrum,INF,Fr,10,8,2020,15204,East Tex. Baptist,1062
-26,2336188,Peyton Miller,P,Fr,6,4,2020,15204,East Tex. Baptist,1062
 16,2128906,Jake Miller,UT,So,16,16,2020,15204,East Tex. Baptist,1062
+26,2336188,Peyton Miller,P,Fr,6,4,2020,15204,East Tex. Baptist,1062
 11,1875277,Cameron Neel,C,Sr,12,8,2020,15204,East Tex. Baptist,1062
 41,1875278,Devyn Nicholson,OF,Sr,11,7,2020,15204,East Tex. Baptist,1062
 15,1875281,Zackery Pierce,P,Sr,2,0,2020,15204,East Tex. Baptist,1062
@@ -348,13 +348,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,1875262,Blake Corbin,P,Sr,15,7,2021,15580,East Tex. Baptist,1062
 9,2336180,Sayers Collins,1B,Fr,20,7,2021,15580,East Tex. Baptist,1062
 5,2478813,Brock Calvillo,OF,Fr,15,3,2021,15580,East Tex. Baptist,1062
-47,2478847,Mackenson Bobo,P,Fr,0,0,2021,15580,East Tex. Baptist,1062
+22,2478821,Mason Bobo,OF,Fr,12,7,2021,15580,East Tex. Baptist,1062
 19,2478819,Austin Barry,C,So,34,32,2021,15580,East Tex. Baptist,1062
 21,1875260,Alek Arellano,P,Sr,11,0,2021,15580,East Tex. Baptist,1062
 4,2336179,Isaiah Alvarenga,P,So,14,13,2021,15580,East Tex. Baptist,1062
 29,2128965,Will Kelley,1B,Jr,45,45,2021,15580,East Tex. Baptist,1062
 26,2336181,Peter Delkus,P,So,3,0,2021,15580,East Tex. Baptist,1062
-22,2478821,Mason Bobo,OF,Fr,12,7,2021,15580,East Tex. Baptist,1062
+47,2478847,Mackenson Bobo,P,Fr,0,0,2021,15580,East Tex. Baptist,1062
 8,2478816,Fox Locke,INF,Fr,26,21,2021,15580,East Tex. Baptist,1062
 1,2336187,Lucas Mccrum,INF,So,0,0,2021,15580,East Tex. Baptist,1062
 39,2336196,Blakely Welch,OF,So,6,0,2021,15580,East Tex. Baptist,1062
@@ -373,8 +373,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 41,1875278,Devyn Nicholson,OF,Sr,2,0,2021,15580,East Tex. Baptist,1062
 11,1875277,Cameron Neel,C,Sr,36,31,2021,15580,East Tex. Baptist,1062
 33,2478831,Josh Mueller,P,Fr,0,0,2021,15580,East Tex. Baptist,1062
-13,2336188,Peyton Miller,P,So,0,0,2021,15580,East Tex. Baptist,1062
 16,2128906,Jake Miller,UT,Jr,42,42,2021,15580,East Tex. Baptist,1062
+13,2336188,Peyton Miller,P,So,0,0,2021,15580,East Tex. Baptist,1062
 40,2478842,Zachary Mcnulty,P,Fr,1,0,2021,15580,East Tex. Baptist,1062
 50,2478862,James Mcdowell,C,Fr,2,0,2021,15580,East Tex. Baptist,1062
 46,2336201,Julian Pokorny,P,So,3,0,2021,15580,East Tex. Baptist,1062
@@ -383,8 +383,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,2478819,Austin Barry,C,Jr,34,32,2022,15860,East Tex. Baptist,1062
 22,2667302,Blake Mullen,INF,So,10,7,2022,15860,East Tex. Baptist,1062
 40,2478842,Zachary Mcnulty,P,So,0,0,2022,15860,East Tex. Baptist,1062
-4,2336188,Peyton Miller,P,Jr,12,0,2022,15860,East Tex. Baptist,1062
 16,2128906,Jake Miller,UT,Sr,38,38,2022,15860,East Tex. Baptist,1062
+4,2336188,Peyton Miller,P,Jr,12,0,2022,15860,East Tex. Baptist,1062
 12,2478817,Carson Wilson,UT,So,42,41,2022,15860,East Tex. Baptist,1062
 39,2336196,Blakely Welch,OF,Jr,0,0,2022,15860,East Tex. Baptist,1062
 24,2669692,Brett Wagner,INF,Jr,46,46,2022,15860,East Tex. Baptist,1062
@@ -402,8 +402,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,2336187,Lucas Mccrum,INF,Jr,2,0,2022,15860,East Tex. Baptist,1062
 29,2128965,Will Kelley,1B,Sr,46,46,2022,15860,East Tex. Baptist,1062
 52,2667296,Jc Barry,C,Fr,2,0,2022,15860,East Tex. Baptist,1062
-47,2478847,Mackenson Bobo,P,So,7,0,2022,15860,East Tex. Baptist,1062
 11,2478821,Mason Bobo,OF,So,12,1,2022,15860,East Tex. Baptist,1062
+47,2478847,Mackenson Bobo,P,So,7,0,2022,15860,East Tex. Baptist,1062
 3,2666842,Dylan Burnaman,INF,Fr,2,0,2022,15860,East Tex. Baptist,1062
 5,2478813,Brock Calvillo,OF,So,12,0,2022,15860,East Tex. Baptist,1062
 36,2667280,Nicolas Chavez,C,Fr,10,7,2022,15860,East Tex. Baptist,1062
@@ -415,8 +415,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 41,2478837,Charles Gordan,OF,So,26,20,2022,15860,East Tex. Baptist,1062
 14,2478818,Baxton Hacker,1B,So,7,0,2022,15860,East Tex. Baptist,1062
 35,2691828,Casen Holden,p,So,3,0,2022,15860,East Tex. Baptist,1062
-7,2478815,Jase Jones,C,Jr,36,33,2022,15860,East Tex. Baptist,1062
 13,2666925,Ben Jones,INF,Fr,10,6,2022,15860,East Tex. Baptist,1062
+7,2478815,Jase Jones,C,Jr,36,33,2022,15860,East Tex. Baptist,1062
 30,2667278,Braden Karnes,P,Fr,14,6,2022,15860,East Tex. Baptist,1062
 23,2336182,Rece Gustafson,P,Jr,8,3,2022,15860,East Tex. Baptist,1062
 8,2666923,Braden Fowler,OF,Fr,8,0,2022,15860,East Tex. Baptist,1062

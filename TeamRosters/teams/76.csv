@@ -159,8 +159,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,1779418,Chandler Furtado,3B,Jr,2,1,2018,12973,Bridgewater St.,76
 23,1665197,Drew Gentile,C,Sr,11,11,2018,12973,Bridgewater St.,76
 20,1889558,Justin Jacobsen,P,Jr,0,0,2018,12973,Bridgewater St.,76
-29,1779425,Colin Josselyn,P,Fr,5,3,2018,12973,Bridgewater St.,76
 17,2006768,Matt Josselyn,P,Fr,4,1,2018,12973,Bridgewater St.,76
+29,1779425,Colin Josselyn,P,Fr,5,3,2018,12973,Bridgewater St.,76
 10,1779419,Ryan Kelleher,OF,Sr,24,24,2018,12973,Bridgewater St.,76
 1,1889551,Tyler Morini,2B,Sr,27,27,2018,12973,Bridgewater St.,76
 5,2006752,Matt Lauria,C,Fr,2,1,2018,12973,Bridgewater St.,76
@@ -217,11 +217,11 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,2149975,Patrick Cashin,INF,So,16,8,2019,14781,Bridgewater St.,76
 2,2149995,Ruben Gonzalez,INF,Fr,33,32,2019,14781,Bridgewater St.,76
 20,2007467,Trever Dennett,P,So,10,6,2019,14781,Bridgewater St.,76
-17,2006768,Matt Josselyn,P,So,11,8,2019,14781,Bridgewater St.,76
 29,1779425,Colin Josselyn,P,So,26,20,2019,14781,Bridgewater St.,76
+17,2006768,Matt Josselyn,P,So,11,8,2019,14781,Bridgewater St.,76
 25,2150007,Chris Hanna,P,Fr,9,2,2019,14781,Bridgewater St.,76
 26,2150008,Patrick Hagerty,OF,So,14,9,2019,14781,Bridgewater St.,76
-17,2006768,Matt Josselyn,P,Jr,2,0,2020,15204,Bridgewater St.,76
+19,1779425,Colin Josselyn,P,Sr,6,5,2020,15204,Bridgewater St.,76
 26,2357576,Luke Tamulevich,SS,Jr,8,8,2020,15204,Bridgewater St.,76
 6,2149996,David Skiendiel,OF,Jr,5,3,2020,15204,Bridgewater St.,76
 12,2357574,Dan Saraceno,1B,Fr,7,5,2020,15204,Bridgewater St.,76
@@ -248,7 +248,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,2357581,Jake Graham,P,Fr,2,0,2020,15204,Bridgewater St.,76
 25,2150003,Jonathan Livolsi,UT,Sr,6,6,2020,15204,Bridgewater St.,76
 8,2005568,David Kerns,P,Jr,2,2,2020,15204,Bridgewater St.,76
-19,1779425,Colin Josselyn,P,Sr,6,5,2020,15204,Bridgewater St.,76
+17,2006768,Matt Josselyn,P,Jr,2,0,2020,15204,Bridgewater St.,76
 16,2357582,Harrison Loud,P,Fr,2,0,2020,15204,Bridgewater St.,76
 2,2149975,Patrick Cashin,INF,Jr,4,2,2020,15204,Bridgewater St.,76
 7,2357579,Sean Goudey,OF,Fr,7,6,2021,15580,Bridgewater St.,76
@@ -267,8 +267,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2516631,Eric Longley,C,Fr,0,0,2021,15580,Bridgewater St.,76
 16,2357582,Harrison Loud,P,Fr,3,0,2021,15580,Bridgewater St.,76
 9,2005568,David Kerns,P,Jr,8,8,2021,15580,Bridgewater St.,76
-19,1779425,Colin Josselyn,P,Sr,25,23,2021,15580,Bridgewater St.,76
 17,2006768,Matt Josselyn,P,Jr,8,6,2021,15580,Bridgewater St.,76
+19,1779425,Colin Josselyn,P,Sr,25,23,2021,15580,Bridgewater St.,76
 3,2516408,Cam James,UT,Fr,28,27,2021,15580,Bridgewater St.,76
 29,2357581,Jake Graham,P,So,2,0,2021,15580,Bridgewater St.,76
 18,2516624,Ethan Grade,P,Fr,7,0,2021,15580,Bridgewater St.,76

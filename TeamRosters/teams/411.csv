@@ -236,7 +236,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 37,1781678,Matt Wright,P,Jr,17,0,2018,12973,Messiah,411
 0,1887457,Luke Rosina,P,So,2,0,2018,12973,Messiah,411
 20,1887455,Jj Robinson,SS,So,21,7,2018,12973,Messiah,411
-34,1775416,Sam Stewart,C,Sr,29,21,2019,14781,Messiah,411
+31,1995618,Ben Stewart,P,So,11,0,2019,14781,Messiah,411
 41,2145957,Paul Hansel,P,So,10,0,2019,14781,Messiah,411
 11,1887449,Nick Godwin,P,Jr,2,1,2019,14781,Messiah,411
 32,1995619,Derek Freed,INF,So,0,0,2019,14781,Messiah,411
@@ -262,7 +262,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,2157789,Ben Writer,P,Fr,5,3,2019,14781,Messiah,411
 6,2159523,Jorge Zambrano,P,Fr,5,2,2019,14781,Messiah,411
 41,1774300,Drew Betz,P,Sr,0,0,2019,14781,Messiah,411
-31,1995618,Ben Stewart,P,So,11,0,2019,14781,Messiah,411
+34,1775416,Sam Stewart,C,Sr,29,21,2019,14781,Messiah,411
 2,1887447,Ryan Hentschel,OF,Jr,30,25,2019,14781,Messiah,411
 48,2161354,A. Jeon,p,N/A,1,1,2019,14781,Messiah,411
 38,1995621,Carson Spangler,P,So,14,1,2019,14781,Messiah,411
@@ -370,7 +370,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 43,1995627,Clayton Roberts,OF,Sr,26,24,2021,15580,Messiah,411
 8,2509696,Josh Nielsen,INF,Fr,10,0,2021,15580,Messiah,411
 29,1995604,Zak Muffitt,P,Sr,10,0,2021,15580,Messiah,411
-10,2509698,Sam Zercher,C,Jr,40,40,2022,15860,Messiah,411
+15,2675326,Isaiah Zercher,OF,Fr,1,0,2022,15860,Messiah,411
 14,2509703,Joshua Ammons,1B,So,40,40,2022,15860,Messiah,411
 6,2159523,Jorge Zambrano,P,Sr,10,0,2022,15860,Messiah,411
 36,2145956,Kenny Runkel,P,Sr,9,0,2022,15860,Messiah,411
@@ -386,7 +386,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,2354860,Christian Woodie,p,Jr,10,8,2022,15860,Messiah,411
 29,2675341,Jj Zirkle,P,Fr,11,5,2022,15860,Messiah,411
 32,2675300,Thomas Ziegler,OF,Fr,19,3,2022,15860,Messiah,411
-15,2675326,Isaiah Zercher,OF,Fr,1,0,2022,15860,Messiah,411
+10,2509698,Sam Zercher,C,Jr,40,40,2022,15860,Messiah,411
 23,2675299,Aaron Renniger,P,Fr,4,0,2022,15860,Messiah,411
 8,2509696,Josh Nielsen,INF,So,10,0,2022,15860,Messiah,411
 43,1995627,Clayton Roberts,OF,Sr,40,40,2022,15860,Messiah,411

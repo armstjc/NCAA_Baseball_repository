@@ -80,7 +80,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,1541048,John Lamotta,P,Jr,27,0,2016,12360,Marymount  (Atlantic East),394
 32,1548437,Jake Kniatt,P,Jr,8,0,2016,12360,Marymount  (Atlantic East),394
 42,1645802,Javier Herrera,OF,So,8,2,2016,12360,Marymount  (Atlantic East),394
-10,1645783,Stephen Berczek,INF,So,39,36,2016,12360,Marymount  (Atlantic East),394
+14,1541038,Ben Berczek,C,Jr,31,31,2016,12360,Marymount  (Atlantic East),394
 7,1541043,Karlis Graubics,INF,Jr,13,2,2016,12360,Marymount  (Atlantic East),394
 40,1645800,Dylan Gerdts,P,So,13,10,2016,12360,Marymount  (Atlantic East),394
 19,1645785,Charlie Diguilian,P,Sr,15,7,2016,12360,Marymount  (Atlantic East),394
@@ -94,7 +94,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,1645788,Ryan Blake,INF,Sr,19,16,2016,12360,Marymount  (Atlantic East),394
 6,1762547,Patrick Berthelette,P,Fr,6,0,2016,12360,Marymount  (Atlantic East),394
 11,1762548,Cal Berman,INF,Fr,7,2,2016,12360,Marymount  (Atlantic East),394
-14,1541038,Ben Berczek,C,Jr,31,31,2016,12360,Marymount  (Atlantic East),394
+10,1645783,Stephen Berczek,INF,So,39,36,2016,12360,Marymount  (Atlantic East),394
 43,1762555,Evan Todd,INF,So,4,0,2017,12560,Marymount  (Atlantic East),394
 1,1762544,Luke Tyree,OF,So,41,38,2017,12560,Marymount  (Atlantic East),394
 27,1645786,Collin Bazemore,P,Jr,12,10,2017,12560,Marymount  (Atlantic East),394
@@ -192,8 +192,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2132682,Kenny Frank,P,Fr,10,4,2019,14781,Marymount  (Atlantic East),394
 25,2132675,Noah Floyd,P,Fr,1,0,2019,14781,Marymount  (Atlantic East),394
 29,2132677,Mike Ferrara,INF,Jr,36,35,2019,14781,Marymount  (Atlantic East),394
-19,2132673,Will Digiulian,UT,Jr,33,18,2019,14781,Marymount  (Atlantic East),394
 12,1997548,James Digiulian,C,So,38,33,2019,14781,Marymount  (Atlantic East),394
+19,2132673,Will Digiulian,UT,Jr,33,18,2019,14781,Marymount  (Atlantic East),394
 15,1865059,Justin Didonato,P,Jr,5,2,2019,14781,Marymount  (Atlantic East),394
 23,1762553,Brian Carmichael,P,Sr,4,0,2019,14781,Marymount  (Atlantic East),394
 4,2132670,David Kurzrock,OF,Fr,23,23,2019,14781,Marymount  (Atlantic East),394

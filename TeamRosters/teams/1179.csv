@@ -308,8 +308,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,1986432,Wyatt Smith,INF,Jr,16,16,2020,15204,Linfield,1179
 47,2131581,Jared Stark,OF,So,0,0,2020,15204,Linfield,1179
 38,2330312,Cody Stevenson,C,Jr,11,8,2020,15204,Linfield,1179
-50,1986449,Dylan Thomas,INF,Jr,0,0,2020,15204,Linfield,1179
 30,1986450,Austin Thomas,P,Jr,7,0,2020,15204,Linfield,1179
+50,1986449,Dylan Thomas,INF,Jr,0,0,2020,15204,Linfield,1179
 5,1986424,Ben Whitt,INF,Jr,12,9,2020,15204,Linfield,1179
 17,2131553,Thomas Kolander,INF,So,3,1,2020,15204,Linfield,1179
 21,2330278,Cameron Skinner,INF,Fr,13,8,2020,15204,Linfield,1179
@@ -320,12 +320,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,1986446,Zach Cokos,C,Jr,0,0,2020,15204,Linfield,1179
 25,2131552,Brian Cromwell,INF,Sr,13,13,2020,15204,Linfield,1179
 28,2330287,Andrew Del Biaggio,P,Fr,5,1,2020,15204,Linfield,1179
-43,2131560,Treve Earhart,C,So,9,4,2020,15204,Linfield,1179
+2,1986433,Tanner Earhart,OF,Jr,15,15,2020,15204,Linfield,1179
 18,2131551,David Brosius,P,Sr,15,14,2020,15204,Linfield,1179
 27,2330214,Evan Bates,INF,Fr,6,2,2020,15204,Linfield,1179
 52,1881612,Ayden Allen,C,Sr,5,0,2020,15204,Linfield,1179
 45,2131583,Sam Adams,P,So,6,0,2020,15204,Linfield,1179
-2,1986433,Tanner Earhart,OF,Jr,15,15,2020,15204,Linfield,1179
+43,2131560,Treve Earhart,C,So,9,4,2020,15204,Linfield,1179
 23,2330283,Cage Hardy,C,Fr,5,4,2020,15204,Linfield,1179
 51,2330346,Kai Herko,P,Jr,3,0,2020,15204,Linfield,1179
 42,2330341,Jackson Horner,INF,Fr,0,0,2020,15204,Linfield,1179

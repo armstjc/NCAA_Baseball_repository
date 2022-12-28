@@ -138,8 +138,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18,1307936,Josh Branch,P,Sr,6,0,2016,12360,Pfeiffer,542
 9,1652046,Jordan Eckard,OF,So,44,44,2016,12360,Pfeiffer,542
 21,1536933,John Elwood,INF,Jr,29,24,2016,12360,Pfeiffer,542
-7,1652014,Colson Everett,P,So,13,2,2016,12360,Pfeiffer,542
 99,1652015,Duncan Everett,P,Sr,13,11,2016,12360,Pfeiffer,542
+7,1652014,Colson Everett,P,So,13,2,2016,12360,Pfeiffer,542
 26,1428850,Ethan Greene,P,Sr,20,14,2016,12360,Pfeiffer,542
 35,1652018,Gauge Gantt,C,So,4,0,2016,12360,Pfeiffer,542
 36,1652032,Christian Marciano,P,So,8,1,2016,12360,Pfeiffer,542
@@ -312,8 +312,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2126409,Slayton Fletcher,P,So,3,0,2020,15204,Pfeiffer,542
 66,2337718,Michael Glenn,P,So,5,0,2020,15204,Pfeiffer,542
 8,2126408,Brett Graham,INF,Jr,3,2,2020,15204,Pfeiffer,542
-22,2117342,Zach Grice,P,So,3,2,2020,15204,Pfeiffer,542
 2,2126406,Seth Grice,INF,Jr,12,10,2020,15204,Pfeiffer,542
+22,2117342,Zach Grice,P,So,3,2,2020,15204,Pfeiffer,542
 21,1988758,Noah Handy,UT,Jr,3,1,2020,15204,Pfeiffer,542
 18,2126410,Brandon Holden,P,Jr,0,0,2020,15204,Pfeiffer,542
 30,2126418,Grayson Huneycutt,P,So,5,0,2020,15204,Pfeiffer,542
@@ -365,8 +365,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2126409,Slayton Fletcher,P,Jr,0,0,2021,15580,Pfeiffer,542
 66,2337718,Michael Glenn,P,Jr,0,0,2021,15580,Pfeiffer,542
 8,2126408,Brett Graham,INF,Sr,4,1,2021,15580,Pfeiffer,542
-2,2126406,Seth Grice,INF,Sr,21,20,2021,15580,Pfeiffer,542
 22,2117342,Zach Grice,P,Jr,5,5,2021,15580,Pfeiffer,542
+2,2126406,Seth Grice,INF,Sr,21,20,2021,15580,Pfeiffer,542
 21,1988758,Noah Handy,UT,Sr,8,4,2021,15580,Pfeiffer,542
 18,2126410,Brandon Holden,P,Sr,0,0,2021,15580,Pfeiffer,542
 30,2126418,Grayson Huneycutt,P,Jr,8,1,2021,15580,Pfeiffer,542

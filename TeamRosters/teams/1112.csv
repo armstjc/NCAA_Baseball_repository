@@ -257,9 +257,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,2148259,J. Best,1b,N/A,1,0,2019,14781,Guilford,1112
 27,1753052,Bryce Best,INF,Sr,9,2,2019,14781,Guilford,1112
 33,2117259,Austin Bailey,INF,Fr,29,16,2019,14781,Guilford,1112
-12,1877652,Caleb Smith,INF,Jr,16,7,2019,14781,Guilford,1112
-1,1877651,Brody Holloman,P,Jr,13,0,2019,14781,Guilford,1112
 23,2118844,Matt Smith,P,Fr,9,0,2019,14781,Guilford,1112
+1,1877651,Brody Holloman,P,Jr,13,0,2019,14781,Guilford,1112
+12,1877652,Caleb Smith,INF,Jr,16,7,2019,14781,Guilford,1112
 400,2349123,A C,UT,Sr,0,0,2020,15204,Guilford,1112
 27,2328254,Josh Sadler,P,Fr,1,0,2020,15204,Guilford,1112
 21,1987262,Logan King,C,Jr,11,11,2020,15204,Guilford,1112
@@ -338,8 +338,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,2489363,Ryan Mangum,P,Fr,5,2,2021,15580,Guilford,1112
 20,2118833,Max Lattomus,P,Jr,3,0,2021,15580,Guilford,1112
 12,2466042,Joey Kooken,P,Fr,1,0,2021,15580,Guilford,1112
-37,2328232,Dylan King,P,So,5,3,2021,15580,Guilford,1112
 21,1987262,Logan King,C,Sr,13,13,2021,15580,Guilford,1112
+37,2328232,Dylan King,P,So,5,3,2021,15580,Guilford,1112
 11,2002743,Saunders Joplin,C,Sr,14,13,2021,15580,Guilford,1112
 5,1974463,Sam Mennitt,INF,Jr,11,10,2021,15580,Guilford,1112
 39,2328230,Allden Horne,INF,So,5,2,2021,15580,Guilford,1112

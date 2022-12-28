@@ -346,7 +346,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26,2354025,Hunter Ralston,P,So,8,5,2021,15580,Scranton,633
 29,2128351,Josh Lydon,P,Jr,9,8,2021,15580,Scranton,633
 00,2516336,Dillon Mclaughlin,OF,Fr,0,0,2021,15580,Scranton,633
-15,2516292,Joe Lisicky,P,Fr,1,0,2021,15580,Scranton,633
+17,2128350,Jake Lisicky,UT,Jr,30,28,2021,15580,Scranton,633
 34,2354026,Robert Beyer,1B,So,10,1,2021,15580,Scranton,633
 12,2128382,Mason Boettger,C,Jr,3,0,2021,15580,Scranton,633
 1,2354021,Braden Breithaupt,INF,So,6,4,2021,15580,Scranton,633
@@ -354,15 +354,15 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,2516293,Kevin Donovan,P,Fr,9,0,2021,15580,Scranton,633
 43,2516235,Brendan Douthit,C,Fr,2,0,2021,15580,Scranton,633
 3,2517398,Michael Fox,P,Fr,7,0,2021,15580,Scranton,633
-17,2128350,Jake Lisicky,UT,Jr,30,28,2021,15580,Scranton,633
+15,2516292,Joe Lisicky,P,Fr,1,0,2021,15580,Scranton,633
 20,2354008,Caleb Gross,P,So,2,2,2021,15580,Scranton,633
 4,2128377,James Gadue,P,Jr,7,5,2021,15580,Scranton,633
 18,2516295,Jack Heineman,INF,Fr,20,13,2021,15580,Scranton,633
 22,2128383,Ryan Heiser,P,Jr,12,0,2021,15580,Scranton,633
 25,2128380,Luke Hoey,P,Jr,0,0,2021,15580,Scranton,633
 6,2354007,George Jenkins,C,So,20,20,2021,15580,Scranton,633
-24,1998097,Kevin Johnson,OF,Sr,31,30,2021,15580,Scranton,633
 28,2354009,Daniel Johnson,P,So,9,7,2021,15580,Scranton,633
+24,1998097,Kevin Johnson,OF,Sr,31,30,2021,15580,Scranton,633
 5,2128373,Tyler Kirsten,INF,Jr,31,31,2021,15580,Scranton,633
 21,2144689,Tanner Kohler,OF,Jr,8,5,2021,15580,Scranton,633
 2,2516230,Garret Kurtz,INF,Fr,11,10,2021,15580,Scranton,633
@@ -392,8 +392,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,2516289,Corey Zientek,OF,So,39,39,2022,15860,Scranton,633
 40,2680447,Owen Maul,INF,Fr,1,0,2022,15860,Scranton,633
 29,2128351,Josh Lydon,P,Sr,11,7,2022,15860,Scranton,633
-15,2516292,Joe Lisicky,P,So,1,0,2022,15860,Scranton,633
 17,2128350,Jake Lisicky,UT,Sr,32,32,2022,15860,Scranton,633
+15,2516292,Joe Lisicky,P,So,1,0,2022,15860,Scranton,633
 16,2516293,Kevin Donovan,P,So,5,0,2022,15860,Scranton,633
 43,2516235,Brendan Douthit,C,So,7,1,2022,15860,Scranton,633
 38,2680445,Jake Elston,INF,Fr,22,2,2022,15860,Scranton,633

@@ -203,7 +203,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,1882520,Ben Vanhove,INF,So,35,32,2018,12973,Wis.-Stout,803
 3,1882515,Kyle Hamilton,INF,So,31,28,2018,12973,Wis.-Stout,803
 6,1882517,Jack Hemsath,INF,So,36,35,2018,12973,Wis.-Stout,803
-11,2148356,Connor Langbehn,INF,Fr,3,1,2019,14781,Wis.-Stout,803
+13,2001726,Logan Langbehn,P,So,10,0,2019,14781,Wis.-Stout,803
 3,1882515,Kyle Hamilton,INF,Jr,31,31,2019,14781,Wis.-Stout,803
 19,2148358,Joe Halling,OF,Jr,3,1,2019,14781,Wis.-Stout,803
 28,2001724,Jack Donahue,P,Sr,10,10,2019,14781,Wis.-Stout,803
@@ -233,7 +233,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,1781368,Jared Jarvensivu,INF,Sr,33,32,2019,14781,Wis.-Stout,803
 6,1882517,Jack Hemsath,INF,Jr,29,23,2019,14781,Wis.-Stout,803
 18,2148357,Alex Mahaz,P,Fr,5,0,2019,14781,Wis.-Stout,803
-13,2001726,Logan Langbehn,P,So,10,0,2019,14781,Wis.-Stout,803
+11,2148356,Connor Langbehn,INF,Fr,3,1,2019,14781,Wis.-Stout,803
 8,2148354,Alex Jinkins,C,Jr,17,14,2019,14781,Wis.-Stout,803
 32,1982989,Paul Weise,C,Jr,2,2,2020,15204,Wis.-Stout,803
 14,2350557,Reese Vold,OF,Fr,0,0,2020,15204,Wis.-Stout,803

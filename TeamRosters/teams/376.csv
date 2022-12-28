@@ -330,7 +330,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,2500038,Matt Odom,INF,So,33,32,2022,15860,Macalester,376
 2,2147142,Anthony Palma,INF,Sr,29,26,2022,15860,Macalester,376
 33,2695675,Jacob Posner,p,N/A,2,0,2022,15860,Macalester,376
-37,2691874,L. Moore,p,N/A,5,1,2022,15860,Macalester,376
+34,2691830,C. Moore,1b,N/A,7,5,2022,15860,Macalester,376
 17,2695540,Ryan Przespolewski,p,N/A,5,0,2022,15860,Macalester,376
 12,2330355,Kenny Rodriguez,UT,Jr,29,27,2022,15860,Macalester,376
 26,2691867,C. Scholl,p,N/A,6,0,2022,15860,Macalester,376
@@ -340,7 +340,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,2691833,B. Wingard,c,N/A,26,17,2022,15860,Macalester,376
 14,2500041,Matt Rade,P,So,6,4,2022,15860,Macalester,376
 29,2691754,S. Mizuno,p,N/A,6,0,2022,15860,Macalester,376
-34,2691830,C. Moore,1b,N/A,7,5,2022,15860,Macalester,376
+37,2691874,L. Moore,p,N/A,5,1,2022,15860,Macalester,376
 7,2500039,Tyson Maddox,OF,So,0,0,2022,15860,Macalester,376
 5,2500037,Jack Conner,C,So,14,8,2022,15860,Macalester,376
 32,2695539,Zach Crane,p,N/A,3,0,2022,15860,Macalester,376

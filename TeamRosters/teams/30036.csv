@@ -251,13 +251,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,2144843,Tyler Suder,INF,Fr,13,5,2019,14781,Mount Aloysius,30036
 15,2144847,Dakota Sunday,UT,Fr,2,0,2019,14781,Mount Aloysius,30036
 6,2144842,Trap Wentling,UT,Fr,19,9,2019,14781,Mount Aloysius,30036
-15,2352448,Seth Smith,P,Fr,2,1,2020,15204,Mount Aloysius,30036
+12,2144846,Cody Smith,OF,So,7,7,2020,15204,Mount Aloysius,30036
 17,1877892,Alan Mackey,C,Sr,2,1,2020,15204,Mount Aloysius,30036
 5,1887017,Patrick Mahon,OF,Sr,5,5,2020,15204,Mount Aloysius,30036
 10,1877878,Michael Mccourt,P,Sr,2,2,2020,15204,Mount Aloysius,30036
 14,1877880,Creek Miller,P,Jr,1,0,2020,15204,Mount Aloysius,30036
 31,1877894,Dj Olenchick,1B,Sr,1,0,2020,15204,Mount Aloysius,30036
-12,2144846,Cody Smith,OF,So,7,7,2020,15204,Mount Aloysius,30036
+15,2352448,Seth Smith,P,Fr,2,1,2020,15204,Mount Aloysius,30036
 34,1877896,Andrew Pasko,OF,Sr,3,2,2020,15204,Mount Aloysius,30036
 43,1998013,Ryan Leonard,OF,Jr,6,6,2020,15204,Mount Aloysius,30036
 33,1877895,Doug Smith,C,Sr,7,6,2020,15204,Mount Aloysius,30036
@@ -282,7 +282,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,2144840,James Rice,INF,So,1,0,2020,15204,Mount Aloysius,30036
 38,2352452,Brayden Lackey,OF,Sr,7,6,2020,15204,Mount Aloysius,30036
 2,2144838,Tanner Perrone,P,So,2,1,2020,15204,Mount Aloysius,30036
-21,1998002,Matthew Brown,INF,Jr,15,6,2021,15580,Mount Aloysius,30036
+45,2485169,Joshua Brown,OF,Fr,31,30,2021,15580,Mount Aloysius,30036
 43,1998013,Ryan Leonard,OF,Jr,33,33,2021,15580,Mount Aloysius,30036
 17,1877892,Alan Mackey,C,Jr,17,10,2021,15580,Mount Aloysius,30036
 5,1887017,Patrick Mahon,OF,Sr,20,5,2021,15580,Mount Aloysius,30036
@@ -295,8 +295,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2485160,Colby Peterson,P,Fr,1,0,2021,15580,Mount Aloysius,30036
 4,2144840,James Rice,INF,So,7,0,2021,15580,Mount Aloysius,30036
 42,2485168,Josh Robinson,OF,Fr,7,0,2021,15580,Mount Aloysius,30036
-12,2144846,Cody Smith,OF,So,33,33,2021,15580,Mount Aloysius,30036
 15,2352448,Seth Smith,P,Fr,7,4,2021,15580,Mount Aloysius,30036
+12,2144846,Cody Smith,OF,So,33,33,2021,15580,Mount Aloysius,30036
 33,2485164,Graham Spitz,P,Fr,14,5,2021,15580,Mount Aloysius,30036
 2,2144838,Tanner Perrone,P,So,6,4,2021,15580,Mount Aloysius,30036
 30,1998011,Austin Steedle,P,Jr,3,2,2021,15580,Mount Aloysius,30036
@@ -304,7 +304,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,2144851,Jake Kost,P,So,3,0,2021,15580,Mount Aloysius,30036
 3,2352442,Evan Becquet,C,Fr,7,4,2021,15580,Mount Aloysius,30036
 20,2352444,Aidan Bell,UT,Fr,17,2,2021,15580,Mount Aloysius,30036
-45,2485169,Joshua Brown,OF,Fr,31,30,2021,15580,Mount Aloysius,30036
+21,1998002,Matthew Brown,INF,Jr,15,6,2021,15580,Mount Aloysius,30036
 24,1998003,Douglas Cannon,P,Jr,14,2,2021,15580,Mount Aloysius,30036
 28,1998025,Dylan Coyle,P,Jr,11,10,2021,15580,Mount Aloysius,30036
 16,2485161,Brent Creehan,UT,Fr,9,5,2021,15580,Mount Aloysius,30036

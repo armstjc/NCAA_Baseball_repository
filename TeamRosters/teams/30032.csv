@@ -269,7 +269,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,2518906,Bobby Sains,lf,So,0,0,2022,15860,Finlandia,30032
 18,2689027,J. Bishop,p,N/A,10,7,2022,15860,Finlandia,30032
 31,2312141,Sheridan Brady,1B,Sr,12,6,2022,15860,Finlandia,30032
-34,2312174,Michael Martinez,OF,Jr,0,0,2022,15860,Finlandia,30032
+37,2312152,Ian Martinez,OF,Jr,0,0,2022,15860,Finlandia,30032
 15,2518905,Jacob Mead,rf,So,39,36,2022,15860,Finlandia,30032
 13,2519263,Brayden Blain,2b,So,0,0,2022,15860,Finlandia,30032
 4,2154001,Curtis Mick,2B,Sr,0,0,2022,15860,Finlandia,30032
@@ -277,7 +277,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 76,2527004,Unknown Rothenberger,p,So,0,0,2022,15860,Finlandia,30032
 60,2519267,Marc Robles,c,Sr,20,20,2022,15860,Finlandia,30032
 36,2153957,Blaec Rowden,1B,Sr,6,1,2022,15860,Finlandia,30032
-37,2312152,Ian Martinez,OF,Jr,0,0,2022,15860,Finlandia,30032
+34,2312174,Michael Martinez,OF,Jr,0,0,2022,15860,Finlandia,30032
 41,2522066,Ethan Spain,p,So,0,0,2022,15860,Finlandia,30032
 1,2154231,Kenny Weimer,P,Sr,4,0,2022,15860,Finlandia,30032
 43,2312161,Greg Walker,P,Jr,6,1,2022,15860,Finlandia,30032
@@ -294,8 +294,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2312109,Jack Brundage,OF,Jr,0,0,2022,15860,Finlandia,30032
 25,2519241,Thomas Burns,p,Jr,0,0,2022,15860,Finlandia,30032
 27,2518902,Eastyn Culp,3b,Jr,0,0,2022,15860,Finlandia,30032
-50,2312147,Jimmy D'Angelo,C,Jr,0,0,2022,15860,Finlandia,30032
 24,2518903,Jordan D'Angelo,2b,So,36,35,2022,15860,Finlandia,30032
+50,2312147,Jimmy D'Angelo,C,Jr,0,0,2022,15860,Finlandia,30032
 10,2686467,Cale Fransen,p,Fr,10,9,2022,15860,Finlandia,30032
 72,2522064,Unknown Futrell,p,So,0,0,2022,15860,Finlandia,30032
 35,2312144,Antonio Ficara,C,Jr,0,0,2022,15860,Finlandia,30032

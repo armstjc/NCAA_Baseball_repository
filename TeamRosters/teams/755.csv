@@ -152,8 +152,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 20,1419533,Kyle Kozak,C,Sr,50,46,2016,12360,WashU,755
 8,1773569,Curtis Hoffman,P,Fr,7,1,2016,12360,WashU,755
 32,1549343,Ben Browdy,INF,Jr,51,51,2016,12360,WashU,755
-34,1419541,Julian Clarke,P,Sr,16,13,2016,12360,WashU,755
 22,1773574,Sean Clarke,OF,Fr,20,0,2016,12360,WashU,755
+34,1419541,Julian Clarke,P,Sr,16,13,2016,12360,WashU,755
 13,1549354,Matt Clohisy,P,Jr,19,1,2016,12360,WashU,755
 26,1549345,Max Cormier,P,Jr,8,0,2016,12360,WashU,755
 30,1773575,John Howard,P,Fr,3,0,2016,12360,WashU,755
@@ -276,8 +276,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,2303838,Joseph Hettinger,P,Fr,3,0,2020,15204,WashU,755
 15,1864383,Matthew Ashbaugh,P,Sr,4,4,2020,15204,WashU,755
 17,2112285,Andrew Huang,INF,So,11,3,2020,15204,WashU,755
-38,2112310,Matt Bauer,P,So,3,1,2020,15204,WashU,755
 32,1974455,Troy Bauer,P,Jr,10,10,2020,15204,WashU,755
+38,2112310,Matt Bauer,P,So,3,1,2020,15204,WashU,755
 12,1864385,Jack Besser,P,Sr,2,0,2020,15204,WashU,755
 10,1974447,Mitchell Black,P,Jr,1,0,2020,15204,WashU,755
 5,1864380,John Brinkman,INF,Sr,12,12,2020,15204,WashU,755

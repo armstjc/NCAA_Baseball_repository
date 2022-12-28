@@ -276,8 +276,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,2132206,Jason Leonard,INF,Jr,23,23,2021,15580,Curry,170
 21,2132146,Zachary Wensley,P,Sr,8,6,2021,15580,Curry,170
 35,2345640,Brendan Teixeira,P,So,3,0,2021,15580,Curry,170
-25,2345594,Peter Sylvia,C,So,10,7,2021,15580,Curry,170
 24,2345639,Peyton Sylvia,INF,So,7,5,2021,15580,Curry,170
+25,2345594,Peter Sylvia,C,So,10,7,2021,15580,Curry,170
 7,2517557,Tyler Sepinski,INF,Fr,6,6,2021,15580,Curry,170
 30,2132201,Eric Sennott,OF,Jr,15,12,2021,15580,Curry,170
 5,2345558,Donovan Potemri,P,So,3,0,2021,15580,Curry,170
@@ -327,7 +327,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,2671756,Anthony Ferreira,P,Fr,2,0,2022,15860,Curry,170
 50,2671789,Tommy Marshall,P,Fr,20,16,2022,15860,Curry,170
 44,2671777,Bobby Marshall,P,Fr,7,4,2022,15860,Curry,170
-36,2671769,Erik Leonard,INF,Fr,4,2,2022,15860,Curry,170
+8,2132206,Jason Leonard,INF,Sr,33,32,2022,15860,Curry,170
 9,1997918,Garrett Fosher,P,Sr,28,18,2022,15860,Curry,170
 46,2671785,Tino Gagliardi,INF,Fr,6,4,2022,15860,Curry,170
 2,2517553,Ryan Goonan,INF,So,27,26,2022,15860,Curry,170
@@ -341,7 +341,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 28,2132198,Nick Kavrakis,P,Sr,7,0,2022,15860,Curry,170
 6,1882580,Jared Keller,OF,Sr,27,23,2022,15860,Curry,170
 16,2132183,Philip Ledwith,P,Sr,11,5,2022,15860,Curry,170
-8,2132206,Jason Leonard,INF,Sr,33,32,2022,15860,Curry,170
+36,2671769,Erik Leonard,INF,Fr,4,2,2022,15860,Curry,170
 29,2517561,Calvin Ingemi,INF,So,1,0,2022,15860,Curry,170
 29,2517561,Calvin Ingemi,INF,5-7,Jr,0,2023,16340,Curry,170
 12,2671697,Conor Quinlan,P,5-9,So,0,2023,16340,Curry,170

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,0,02/23/2020,home,15204,771,Western Ill.,9,True,9,4,5,win,1968190,87,1974387,2020
+1,0,0.1,0.0,3,4,4,1,1,0,5,4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,03/03/2020,home,15204,0,St. Francis (IN),9,True,22,4,18,win,1833407,87,1974387,2020
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,2,0,0,0,6,0,0,03/10/2020,neutral,15204,46,Baldwin Wallace,9,True,9,12,-3,loss,1834860,87,1974387,2020
+1,0,1.2,0.0,1,0,0,1,0,0,7,6,0,0,0,0,1,0,0,3,2,0,0,0,2,3,0,0,0,3,0,0,03/11/2020,neutral,15204,606,Saint Joseph's,9,True,8,6,2,win,1835084,87,1974387,2020

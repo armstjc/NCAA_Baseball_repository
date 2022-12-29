@@ -69,7 +69,7 @@ def download_season_rosters(season: int, division: int, save=True):
     if save:
         res.to_parquet('collegebaseball/data/d'+str(division) +
                        '_'+str(season)+'_rosters.parquet', index=False)
-    return res
+    return res, failures
 
 
 def download_team_results(season: int):

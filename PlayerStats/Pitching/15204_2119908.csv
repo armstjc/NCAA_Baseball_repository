@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/16/2020,home,15204,676,SFA,9,True,8,4,4,win,8 - 4,4929957,30,1,7.0,0,5,0,0,1,5,0,25,24,1,0,0,0,0,0,0,0,0,0,0,90,6,8,1,0,0,1,2,0,2119908,2020
-02/23/2020,home,15204,474,New Orleans,9,True,1,2,-1,loss,1 - 2,4937515,30,1,7.0,0,2,0,0,1,1,0,23,21,1,0,0,0,0,0,0,0,0,1,0,96,9,10,0,0,0,1,0,0,2119908,2020
-03/01/2020,away,15204,1045,DBU,9,True,4,12,-8,loss,4 - 12,4945829,30,1,6.0,0,10,6,6,1,4,0,29,27,4,0,0,2,1,1,0,0,0,0,0,96,5,8,0,1,0,1,1,0,2119908,2020
-03/08/2020,home,15204,1092,Gardner-Webb,9,True,6,1,5,win,6 - 1,4954088,30,1,6.0,0,6,1,1,4,6,0,29,25,1,0,0,0,1,0,0,0,0,0,0,106,9,3,1,0,0,1,2,0,2119908,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,7.0,0.0,5,0,0,1,5,0,25,24,1,0,0,0,0,0,0,0,0,0,0,90,6,8,1,0,0,1,2,0,02/16/2020,home,15204,676,SFA,9,True,8,4,4,win,1830861,30,2119908,2020
+1,1,7.0,0.0,2,0,0,1,1,0,23,21,1,0,0,0,0,0,0,0,0,1,0,96,9,10,0,0,0,1,0,0,02/23/2020,home,15204,474,New Orleans,9,True,1,2,-1,loss,1831999,30,2119908,2020
+1,1,6.0,0.0,10,6,6,1,4,0,29,27,4,0,0,2,1,1,0,0,0,0,0,96,5,8,0,1,0,1,1,0,03/01/2020,away,15204,1045,DBU,9,True,4,12,-8,loss,1833197,30,2119908,2020
+1,1,6.0,0.0,6,1,1,4,6,0,29,25,1,0,0,0,1,0,0,0,0,0,0,106,9,3,1,0,0,1,2,0,03/08/2020,home,15204,1092,Gardner-Webb,9,True,6,1,5,win,1834538,30,2119908,2020

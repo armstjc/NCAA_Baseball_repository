@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/21/2020,away,15204,792,Winthrop,11,True,5,6,-1,loss,5 - 6,4937108,116,1,0.2,0,2,3,2,2,0,0,6,4,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,3,0,0,21176640,2020
-03/01/2020,away,15204,388,Marshall,13,True,11,9,2,win,11 - 9,4946149,116,1,0.0,0,3,1,1,0,0,0,3,3,0,0,0,0,0,0,0,1,1,0,0,13,0,0,0,0,0,3,0,0,21176640,2020
-03/08/2020,away,15204,563,Radford,9,True,2,12,-10,loss,2 - 12,4954220,116,1,1.1,0,3,3,2,2,0,0,8,6,1,0,0,0,0,0,0,2,2,0,0,31,3,0,0,0,0,5,0,0,21176640,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,2,3,2,2,0,0,6,4,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,3,0,0,02/21/2020,away,15204,792,Winthrop,11,True,5,6,-1,loss,1831290,116,2117664,2020
+1,0,0.0,0.0,3,1,1,0,0,0,3,3,0,0,0,0,0,0,0,1,1,0,0,13,0,0,0,0,0,3,0,0,03/01/2020,away,15204,388,Marshall,13,True,11,9,2,win,1832373,116,2117664,2020
+1,0,1.1,0.0,3,3,2,2,0,0,8,6,1,0,0,0,0,0,0,2,2,0,0,31,3,0,0,0,0,5,0,0,03/08/2020,away,15204,563,Radford,9,True,2,12,-10,loss,1834580,116,2117664,2020

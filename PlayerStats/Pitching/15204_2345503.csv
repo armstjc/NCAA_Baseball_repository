@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/15/2020,home,15204,739,Villanova,9,True,1,2,-1,loss,1 - 2,4928284,28,1,1.0,0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,19,0,1,0,0,0,3,1,0,2345503,2020
-02/23/2020,home,15204,67,Boston College,9,True,8,4,4,win,8 - 4,4937953,28,1,1.0,0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,9,1,2,0,0,0,6,0,0,2345503,2020
-02/25/2020,home,15204,472,New Mexico St.,10,True,6,5,1,win,6 - 5,4939895,28,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,0,2,1,0,0,6,0,0,2345503,2020
-02/28/2020,home,15204,463,Nebraska,9,True,13,5,8,win,13 - 5,4942647,28,1,0.2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,9,0,2,0,0,0,5,0,0,2345503,2020
-03/01/2020,home,15204,463,Nebraska,9,True,10,18,-8,loss,10 - 18,4945989,28,1,0.1,0,4,3,3,0,1,0,5,5,2,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,3,0,0,2345503,2020
-03/03/2020,away,15204,97,Cal St. Fullerton,9,True,12,2,10,win,12 - 2,4948285,28,1,1.0,0,0,0,0,0,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,2,0,0,2345503,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,19,0,1,0,0,0,3,1,0,02/15/2020,home,15204,739,Villanova,9,True,1,2,-1,loss,1830431,28,2345503,2020
+1,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,9,1,2,0,0,0,6,0,0,02/23/2020,home,15204,67,Boston College,9,True,8,4,4,win,1831922,28,2345503,2020
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,0,2,1,0,0,6,0,0,02/25/2020,home,15204,472,New Mexico St.,10,True,6,5,1,win,1832185,28,2345503,2020
+1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,9,0,2,0,0,0,5,0,0,02/28/2020,home,15204,463,Nebraska,9,True,13,5,8,win,1832537,28,2345503,2020
+1,0,0.1,0.0,4,3,3,0,1,0,5,5,2,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,3,0,0,03/01/2020,home,15204,463,Nebraska,9,True,10,18,-8,loss,1833116,28,2345503,2020
+1,0,1.0,0.0,0,0,0,0,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,2,0,0,03/03/2020,away,15204,97,Cal St. Fullerton,9,True,12,2,10,win,1833468,28,2345503,2020

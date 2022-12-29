@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/15/2020,away,15204,1092,Gardner-Webb,9,True,4,5,-1,loss,4 - 5,4929713,27,1,1.1,0,4,2,2,0,1,0,8,8,0,0,0,0,1,0,0,3,0,0,0,23,2,1,0,1,0,4,0,0,2120778,2020
-02/22/2020,away,15204,334,Kentucky,9,True,4,21,-17,loss,4 - 21,4935433,27,1,3.0,0,3,4,1,2,0,0,15,10,0,0,0,0,1,3,0,0,0,0,0,54,4,2,0,0,0,4,0,0,2120778,2020
-02/29/2020,away,15204,459,UNC Greensboro,9,True,6,5,1,win,6 - 5,4946458,27,1,5.0,0,6,3,3,4,2,0,23,19,4,0,0,0,0,0,0,3,0,0,0,74,5,6,1,0,0,2,0,0,2120778,2020
-03/04/2020,away,15204,769,Western Caro.,9,True,2,0,2,win,2 - 0,4948859,27,1,1.0,0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,3,0,0,2120778,2020
-03/06/2020,away,15204,48,Charleston So.,9,True,8,4,4,win,8 - 4,4951253,27,1,2.0,0,3,2,2,0,4,0,10,10,0,0,0,0,1,0,0,0,0,0,0,39,1,2,0,0,0,3,1,0,2120778,2020
-03/10/2020,home,15204,639,Siena,9,True,7,5,2,win,7 - 5,4957080,27,1,5.1,0,4,4,4,1,1,0,22,18,0,0,0,0,0,3,0,0,0,0,0,74,7,6,1,0,0,1,0,0,2120778,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,4,2,2,0,1,0,8,8,0,0,0,0,1,0,0,3,0,0,0,23,2,1,0,1,0,4,0,0,02/15/2020,away,15204,1092,Gardner-Webb,9,True,4,5,-1,loss,1830649,27,2120778,2020
+1,0,3.0,0.0,3,4,1,2,0,0,15,10,0,0,0,0,1,3,0,0,0,0,0,54,4,2,0,0,0,4,0,0,02/22/2020,away,15204,334,Kentucky,9,True,4,21,-17,loss,1831397,27,2120778,2020
+1,0,5.0,0.0,6,3,3,4,2,0,23,19,4,0,0,0,0,0,0,3,0,0,0,74,5,6,1,0,0,2,0,0,02/29/2020,away,15204,459,UNC Greensboro,9,True,6,5,1,win,1832570,27,2120778,2020
+1,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,3,0,0,03/04/2020,away,15204,769,Western Caro.,9,True,2,0,2,win,1833437,27,2120778,2020
+1,0,2.0,0.0,3,2,2,0,4,0,10,10,0,0,0,0,1,0,0,0,0,0,0,39,1,2,0,0,0,3,1,0,03/06/2020,away,15204,48,Charleston So.,9,True,8,4,4,win,1833910,27,2120778,2020
+1,1,5.1,0.0,4,4,4,1,1,0,22,18,0,0,0,0,0,3,0,0,0,0,0,74,7,6,1,0,0,1,0,0,03/10/2020,home,15204,639,Siena,9,True,7,5,2,win,1834935,27,2120778,2020

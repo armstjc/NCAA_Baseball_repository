@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/16/2020,home,15204,204,Eastern Mich.,9,True,13,6,7,win,13 - 6,4930062,43,1,4.0,0,4,2,2,0,2,0,16,14,0,0,1,0,0,2,0,0,0,0,0,57,5,3,1,0,0,2,2,0,2328983,2020
-02/21/2020,home,15204,625,Samford,9,True,0,6,-6,loss,0 - 6,4933871,43,1,2.0,0,3,0,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,27,2,1,0,0,0,2,0,0,2328983,2020
-02/22/2020,home,15204,72,Bradley,9,True,4,11,-7,loss,4 - 11,4935769,43,1,1.2,0,1,1,1,2,0,0,7,5,0,0,1,1,0,0,0,3,0,0,0,27,2,2,0,0,0,2,0,0,2328983,2020
-03/01/2020,away,15204,316,Jacksonville,9,True,0,7,-7,loss,0 - 7,4945588,43,1,1.2,0,4,4,4,2,1,0,12,9,0,0,0,0,0,1,0,0,0,0,0,52,3,1,0,1,0,1,1,0,2328983,2020
-03/07/2020,home,15204,454,Murray St.,9,True,12,10,2,win,12 - 10,4954371,43,1,3.1,0,5,3,2,2,0,0,17,14,0,0,0,0,1,1,0,0,0,0,0,53,4,5,0,0,0,1,0,0,2328983,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,4.0,0.0,4,2,2,0,2,0,16,14,0,0,1,0,0,2,0,0,0,0,0,57,5,3,1,0,0,2,2,0,02/16/2020,home,15204,204,Eastern Mich.,9,True,13,6,7,win,1830877,43,2328983,2020
+1,0,2.0,0.0,3,0,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,27,2,1,0,0,0,2,0,0,02/21/2020,home,15204,625,Samford,9,True,0,6,-6,loss,1831257,43,2328983,2020
+1,0,1.2,0.0,1,1,1,2,0,0,7,5,0,0,1,1,0,0,0,3,0,0,0,27,2,2,0,0,0,2,0,0,02/22/2020,home,15204,72,Bradley,9,True,4,11,-7,loss,1831589,43,2328983,2020
+1,1,1.2,0.0,4,4,4,2,1,0,12,9,0,0,0,0,0,1,0,0,0,0,0,52,3,1,0,1,0,1,1,0,03/01/2020,away,15204,316,Jacksonville,9,True,0,7,-7,loss,1833121,43,2328983,2020
+1,1,3.1,0.0,5,3,2,2,0,0,17,14,0,0,0,0,1,1,0,0,0,0,0,53,4,5,0,0,0,1,0,0,03/07/2020,home,15204,454,Murray St.,9,True,12,10,2,win,1834213,43,2328983,2020

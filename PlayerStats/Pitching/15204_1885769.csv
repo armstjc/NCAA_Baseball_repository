@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/21/2020,away,15204,61,Bethune-Cookman,9,True,2,0,2,win,2 - 0,4934200,127,1,6.0,0,1,0,0,0,7,0,20,20,1,0,0,0,0,0,0,0,0,0,0,0,8,3,1,0,0,1,2,0,1885769,2020
-02/28/2020,home,15204,545,Pittsburgh,9,True,5,7,-2,loss,5 - 7,4942227,127,1,5.2,0,4,3,3,4,11,0,25,21,0,0,0,1,1,0,0,0,0,0,0,107,1,5,0,0,0,1,5,0,1885769,2020
-03/06/2020,away,15204,683,Stony Brook,9,True,2,3,-1,loss,2 - 3,4950395,127,1,6.0,0,6,3,2,3,3,0,26,21,0,0,0,0,0,0,0,0,0,1,1,109,4,7,0,1,0,1,2,0,1885769,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,6.0,0.0,1,0,0,0,7,0,20,20,1,0,0,0,0,0,0,0,0,0,0,0,8,3,1,0,0,1,2,0,02/21/2020,away,15204,61,Bethune-Cookman,9,True,2,0,2,win,1831387,127,1885769,2020
+1,1,5.2,0.0,4,3,3,4,11,0,25,21,0,0,0,1,1,0,0,0,0,0,0,107,1,5,0,0,0,1,5,0,02/28/2020,neutral,15204,545,Pittsburgh,9,True,5,7,-2,loss,1832474,127,1885769,2020
+1,1,6.0,0.0,6,3,2,3,3,0,26,21,0,0,0,0,0,0,0,0,0,1,1,109,4,7,0,1,0,1,2,0,03/06/2020,away,15204,683,Stony Brook,9,True,2,3,-1,loss,1971146,127,1885769,2020

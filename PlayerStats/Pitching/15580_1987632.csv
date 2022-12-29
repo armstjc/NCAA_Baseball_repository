@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.0,0.0,0,0,0,0,4,0,10,10,0,0,0,0,2,0,0,0,0,0,0,38,2,3,0,0,0,3,1,0,04/18/2021,away,15580,45,Babson,9,True,3,5,-2,loss,2062185,779,1987632,2021
+1,1,5.0,0.0,4,1,0,1,5,0,20,18,1,0,0,0,0,1,0,0,0,0,0,75,5,3,1,0,0,1,2,0,05/02/2021,home,15580,808,WPI,9,True,3,2,1,win,2074353,779,1987632,2021
+1,1,4.1,0.0,5,7,7,4,2,0,22,18,1,0,0,2,0,0,0,0,0,0,0,87,3,8,0,1,0,1,1,0,05/23/2021,away,15580,717,Tufts,9,True,6,7,-1,loss,2080325,779,1987632,2021
+1,0,3.2,0.0,5,4,4,0,4,0,16,16,0,0,0,2,0,0,0,3,2,0,0,0,5,2,0,0,0,2,0,0,06/05/2021,neutral,15580,622,Salisbury,9,True,9,11,-2,loss,2081298,779,1987632,2021

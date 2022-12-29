@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/03/2021,home,15580,565,Randolph-Macon,9,True,2,11,-9,loss,2020136,75,2120050,2021
+1,0,0.0,0.0,3,3,3,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,6,0,0,04/03/2021,home,15580,565,Randolph-Macon,9,True,4,17,-13,loss,2025844,75,2120050,2021
+1,0,0.1,0.0,1,0,0,0,1,0,2,2,1,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,7,0,0,04/20/2021,away,15580,637,Shenandoah,9,True,8,17,-9,loss,2021822,75,2120050,2021
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,16,1,1,0,0,0,6,0,0,04/25/2021,home,15580,269,Hampden-Sydney,9,True,5,12,-7,loss,2022318,75,2120050,2021
+1,0,0.1,0.0,0,2,2,0,0,0,3,1,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,4,0,0,05/02/2021,away,15580,374,Lynchburg,9,True,1,17,-16,loss,2022907,75,2120050,2021

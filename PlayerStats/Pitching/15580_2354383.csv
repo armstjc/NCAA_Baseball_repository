@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,03/27/2021,away,15580,238,Framingham St.,9,True,0,5,-5,loss,2064683,777,2354383,2021
+1,0,1.0,0.0,3,1,1,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,0,04/03/2021,home,15580,227,Fitchburg St.,9,True,20,4,16,win,2020435,777,2354383,2021
+1,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,2,0,0,0,0,0,0,8,2,1,0,0,0,2,0,0,05/01/2021,away,15580,76,Bridgewater St.,9,True,9,2,7,win,2070454,777,2354383,2021
+1,0,2.0,0.0,2,0,0,0,2,0,7,7,0,0,0,0,0,0,0,0,0,0,0,18,2,1,0,0,0,4,1,0,05/09/2021,home,15580,621,Salem St.,9,True,1,3,-2,loss,2061766,777,2354383,2021

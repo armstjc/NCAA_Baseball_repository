@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,4,0,0,04/03/2021,away,15580,727,Union (NY),9,True,5,10,-5,loss,2061810,737,2317481,2021
+1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,5,0,0,04/10/2021,home,15580,313,Ithaca,9,True,1,17,-16,loss,2063652,737,2317481,2021
+1,0,1.0,0.0,3,4,0,2,0,0,9,7,0,1,0,0,0,0,0,2,2,0,0,0,2,1,0,0,0,4,0,0,04/24/2021,home,15580,962,Bard,9,True,11,15,-4,loss,2063700,737,2317481,2021
+1,0,1.0,0.0,1,1,1,1,1,0,5,3,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,2,1,0,05/02/2021,home,15580,727,Union (NY),9,True,16,8,8,win,2077154,737,2317481,2021
+1,0,1.0,0.0,1,2,2,3,0,0,7,3,0,0,0,0,2,0,0,0,0,0,1,0,0,3,0,0,0,5,0,0,05/09/2021,home,15580,570,Rensselaer,9,True,8,11,-3,loss,2072985,737,2317481,2021

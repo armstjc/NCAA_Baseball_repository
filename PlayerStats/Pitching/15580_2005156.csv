@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.0,0.0,1,0,0,1,4,0,11,10,1,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,3,0,0,05/05/2021,away,15580,531,Otterbein,9,True,11,3,8,win,2029130,385,2005156,2021
+1,0,2.1,0.0,2,0,0,1,4,0,10,9,0,0,0,0,0,0,0,3,0,0,0,45,1,2,1,0,0,3,1,0,05/11/2021,home,15580,278,Heidelberg,9,True,7,6,1,win,2037706,385,2005156,2021
+1,0,1.2,0.0,1,1,1,1,0,0,7,5,1,0,0,0,0,0,0,2,0,1,0,20,1,4,0,0,0,2,0,0,05/16/2021,home,15580,452,Mount Union,11,True,6,5,1,win,2037712,385,2005156,2021
+1,0,0.1,0.0,1,2,1,2,1,0,4,2,0,0,0,0,1,0,0,1,0,0,0,19,0,0,0,0,0,2,0,0,05/29/2021,home,15580,491,N.C. Wesleyan,9,True,6,4,2,win,2080872,385,2005156,2021
+1,0,1.1,0.0,2,0,0,0,0,0,5,5,0,0,0,0,0,0,0,3,0,0,0,25,0,3,0,0,0,2,0,0,05/29/2021,away,15580,259,Rowan,9,True,0,2,-2,loss,2081002,385,2005156,2021

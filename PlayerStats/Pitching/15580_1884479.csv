@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,2.2,0.0,3,0,0,1,2,0,11,10,2,0,0,0,0,0,0,0,0,0,0,48,2,3,0,0,0,1,0,0,04/06/2021,home,15580,1203,Mary Hardin-Baylor,9,True,6,0,6,win,2020352,715,1884479,2021
+1,1,4.1,0.0,3,2,2,1,5,0,18,15,0,0,0,0,0,1,0,0,0,1,0,70,4,4,0,0,0,1,2,0,04/13/2021,away,15580,24400,Concordia (TX),9,True,3,4,-1,loss,2070813,715,1884479,2021
+1,1,2.0,0.0,3,2,2,2,1,0,11,9,1,0,0,1,0,0,0,0,0,0,0,44,2,3,0,0,0,1,1,0,04/20/2021,away,15580,1400,Texas Lutheran,9,True,13,12,1,win,2021790,715,1884479,2021
+1,1,4.1,0.0,2,4,3,2,2,0,18,15,0,0,0,0,1,1,0,0,0,0,0,74,3,7,0,0,0,1,1,0,04/24/2021,home,15580,125,Centenary (LA),9,True,9,6,3,win,2025290,715,1884479,2021
+1,1,2.2,0.0,6,3,3,3,0,0,16,12,3,0,0,0,0,0,0,0,0,1,0,53,5,2,0,0,0,1,0,0,05/07/2021,neutral,15580,125,Centenary (LA),9,True,9,7,2,win,2076899,715,1884479,2021

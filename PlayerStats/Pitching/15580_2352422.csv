@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.1,0.0,1,0,0,2,3,0,10,8,0,0,0,0,1,0,0,1,0,0,0,0,1,2,0,0,0,2,1,0,03/30/2021,home,15580,12973,Wilson,9,True,5,4,1,win,2019644,30036,2352422,2021
+1,0,0.0,0.0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2,0,0,04/03/2021,away,15580,30047,Keystone,9,True,8,9,-1,loss,2061881,30036,2352422,2021
+1,0,1.2,0.0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,1,0,0,2,3,0,0,0,2,0,0,04/17/2021,home,15580,30170,Alfred St.,9,True,6,5,1,win,2024610,30036,2352422,2021
+1,0,4.1,0.0,8,6,6,0,4,0,21,21,2,2,0,0,2,0,0,2,0,0,0,0,7,2,0,0,0,3,2,0,04/26/2021,home,15580,1163,La Roche,9,True,3,19,-16,loss,2026252,30036,2352422,2021
+1,0,1.1,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,4,0,0,05/02/2021,home,15580,637,Shenandoah,9,True,4,14,-10,loss,2076368,30036,2352422,2021

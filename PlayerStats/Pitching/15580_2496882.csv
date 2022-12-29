@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,5.2,0.0,4,1,1,2,7,0,23,20,1,0,0,1,1,1,0,0,0,0,0,102,3,6,0,1,0,2,3,1,04/27/2021,home,15580,1400,Texas Lutheran,9,True,1,2,-1,loss,2018482,715,2496882,2021
+1,0,3.2,0.0,4,3,1,0,1,0,17,16,1,0,0,0,0,1,0,1,0,0,0,34,6,4,1,0,0,2,1,0,05/07/2021,neutral,15580,125,Centenary (LA),9,True,9,7,2,win,2076899,715,2496882,2021
+1,0,0.1,0.0,3,1,1,0,1,0,4,4,1,0,0,1,0,0,0,0,0,0,0,20,0,0,0,0,0,4,1,0,05/28/2021,neutral,15580,322,Johns Hopkins,9,True,2,11,-9,loss,2080954,715,2496882,2021

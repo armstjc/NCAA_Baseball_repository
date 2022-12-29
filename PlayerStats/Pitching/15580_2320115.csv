@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,2,2,0,3,0,5,5,0,0,0,1,0,0,0,0,0,0,0,17,0,0,0,1,0,8,2,0,03/28/2021,home,15580,182,Denison,9,True,9,11,-2,loss,2046966,807,2320115,2021
+1,0,0.2,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,5,1,1,0,0,0,4,0,0,04/04/2021,away,15580,281,Hiram,9,True,28,5,23,win,2047448,807,2320115,2021
+1,0,2.0,0.0,4,2,1,0,3,0,9,9,1,0,0,0,0,0,0,0,0,0,0,28,0,2,0,0,0,3,1,1,05/02/2021,away,15580,19,Allegheny,9,True,7,10,-3,loss,2050811,807,2320115,2021
+1,1,0.1,0.0,3,6,6,2,0,0,7,4,0,0,0,0,0,1,0,0,0,0,0,25,0,1,0,1,0,1,0,0,05/16/2021,away,15580,122,CWRU,9,True,7,21,-14,loss,2077345,807,2320115,2021

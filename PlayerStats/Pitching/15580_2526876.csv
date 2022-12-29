@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,3,3,3,0,1,0,8,5,1,0,0,0,1,1,0,0,0,0,2,0,0,3,0,1,0,3,0,0,04/18/2021,away,15580,151,Colby,8,True,4,5,-1,loss,2066557,717,2526876,2021
+1,1,2.0,0.0,0,0,0,0,3,0,7,6,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,1,2,0,05/16/2021,away,15580,22626,JWU (Providence),9,True,5,6,-1,loss,2079376,717,2526876,2021
+1,1,2.0,0.0,1,0,0,1,0,0,9,8,0,0,0,0,0,0,0,0,0,0,0,32,3,3,1,0,0,1,0,0,05/23/2021,home,15580,779,Wheaton (MA),9,True,7,6,1,win,2080325,717,2526876,2021
+1,0,1.0,0.0,3,3,3,0,2,0,7,6,1,0,0,0,0,1,0,2,2,0,0,29,1,0,0,0,0,4,0,0,05/27/2021,neutral,15580,168,SUNY Cortland,9,True,21,17,4,win,2080536,717,2526876,2021
+1,0,1.1,0.0,2,2,2,0,0,0,8,5,1,0,0,0,0,2,0,2,2,1,0,25,3,1,0,0,0,3,0,0,05/31/2021,neutral,15580,168,SUNY Cortland,9,True,2,13,-11,loss,2081085,717,2526876,2021

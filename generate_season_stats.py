@@ -108,5 +108,8 @@ def generate_season_fielding_stats(season:int):
     finished_df.to_parquet(f'season_stats/player/fielding_season_stats/parquet/{season}_player_season_fielding.parquet',index=False)
 
 if __name__ == "__main__":
-    for i in range(2016,2023):
-        generate_season_fielding_stats(i)
+    for i in range(2013,2023):
+        generate_season_batting_stats(i)
+        generate_season_pitching_stats(i)
+        if i >= 2016:
+            generate_season_fielding_stats(i)

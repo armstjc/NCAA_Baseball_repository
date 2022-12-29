@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,04/02/2021,away,15580,30044,Penn St.-Berks,9,True,8,4,4,win,2066500,30085,2154573,2021
+1,0,2.0,0.0,2,5,3,6,3,0,15,8,1,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,3,2,0,04/10/2021,home,15580,30081,Penn St. Harrisburg,8,True,1,18,-17,loss,2068471,30085,2154573,2021
+1,0,0.1,0.0,3,5,5,2,0,0,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,04/13/2021,away,15580,761,Wells,9,True,4,13,-9,loss,2068473,30085,2154573,2021
+1,0,1.0,0.0,2,1,0,0,1,0,5,4,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,7,1,0,04/28/2021,away,15580,30081,Penn St. Harrisburg,9,True,2,24,-22,loss,2068481,30085,2154573,2021
+1,0,0.1,0.0,1,1,1,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,05/10/2021,away,15580,30081,Penn St. Harrisburg,9,True,5,7,-2,loss,2078298,30085,2154573,2021

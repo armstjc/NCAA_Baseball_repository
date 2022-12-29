@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,5.0,0.0,4,1,1,1,5,0,21,18,1,0,0,0,0,0,0,0,0,2,0,80,2,6,0,0,0,2,3,0,04/25/2021,home,15580,443,Moravian,9,True,4,6,-2,loss,2057267,685,2529458,2021
+1,0,1.0,0.0,0,0,0,1,1,0,4,2,0,0,0,0,0,0,0,0,0,1,0,15,1,1,0,0,0,2,1,0,05/01/2021,away,15580,124,Catholic,9,True,0,9,-9,loss,2073268,685,2529458,2021
+1,0,0.2,0.0,1,0,0,0,1,0,4,3,0,0,0,0,0,0,0,0,0,0,1,18,0,1,0,0,0,4,0,0,05/02/2021,home,15580,124,Catholic,9,True,6,11,-5,loss,2073270,685,2529458,2021
+1,0,4.1,0.0,3,0,0,0,6,0,15,15,0,0,0,0,0,0,0,0,0,0,0,75,1,4,1,0,0,2,5,1,05/09/2021,away,15580,190,Drew,9,True,3,2,1,win,2068349,685,2529458,2021
+1,0,2.0,0.0,2,3,3,2,0,0,9,7,0,0,0,0,1,0,0,0,0,0,0,24,3,2,0,0,0,2,0,0,05/15/2021,neutral,15580,443,Moravian,9,True,11,4,7,win,2079003,685,2529458,2021

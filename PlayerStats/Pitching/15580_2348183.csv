@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,3.0,0.0,7,8,8,2,4,0,19,15,2,0,1,1,0,1,0,0,0,0,1,70,2,3,0,1,0,1,0,0,04/03/2021,home,15580,278,Heidelberg,9,True,1,11,-10,loss,2041788,117,2348183,2021
+1,0,5.0,0.0,3,1,1,2,5,0,18,16,0,0,0,0,0,0,0,1,0,0,0,77,6,2,1,0,0,2,4,1,04/12/2021,home,15580,385,Marietta,9,True,4,3,1,win,2070506,117,2348183,2021
+1,1,4.0,0.0,9,7,7,3,4,0,22,19,3,0,0,0,3,0,0,0,0,0,0,0,4,2,0,0,0,1,2,0,04/18/2021,away,15580,531,Otterbein,9,True,8,9,-1,loss,2029109,117,2348183,2021
+1,1,8.0,0.0,8,4,2,0,4,0,31,30,1,1,0,0,0,1,0,0,0,0,0,0,8,9,0,0,0,1,1,1,04/25/2021,home,15580,452,Mount Union,9,True,5,7,-2,loss,2019338,117,2348183,2021
+1,1,6.1,0.0,9,4,4,0,4,0,27,24,3,0,1,1,0,1,0,0,0,1,1,0,7,6,0,1,0,1,1,0,05/02/2021,away,15580,46,Baldwin Wallace,9,True,4,8,-4,loss,2081216,117,2348183,2021
+1,1,3.2,0.0,7,8,5,3,2,0,25,20,1,0,2,0,2,1,0,0,0,0,1,0,5,5,0,1,0,1,1,0,05/11/2021,home,15580,1461,Wilmington (OH),9,True,7,8,-1,loss,2041792,117,2348183,2021

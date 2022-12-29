@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.2,0.0,6,7,7,3,4,0,25,18,1,0,0,1,1,2,0,0,0,1,1,76,2,8,0,1,0,1,0,0,04/11/2021,away,15580,2758,Thomas (ME),9,True,3,7,-4,loss,2063841,30040,2511548,2021
+1,0,0.0,0.0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,04/12/2021,away,15580,2758,Thomas (ME),9,True,3,4,-1,loss,2063840,30040,2511548,2021
+1,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,13,0,3,0,0,0,3,0,0,04/24/2021,away,15580,1133,Husson,9,True,2,3,-1,loss,2022947,30040,2511548,2021
+1,1,2.1,0.0,7,6,5,2,1,0,18,16,1,0,0,0,0,0,0,0,0,0,0,53,4,2,0,1,0,1,0,0,04/25/2021,away,15580,1133,Husson,9,True,4,6,-2,loss,2074224,30040,2511548,2021

@@ -4281,7 +4281,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,1326487,Chris Wirth-Kenyon,P,Sr,0,0,2015,12080,FDU-Florham,221
 2,1319541,Mike Vargues,OF,Sr,31,30,2015,12080,Plattsburgh St.,547
 29,1662714,Travis Brown,PH,,3,0,2015,12080,Plattsburgh St.,547
-19,1533276,Joe Tolosky,1B,Sr,7,4,2015,12080,Plattsburgh St.,547
+10,1650592,Jack Tolosky,2B,Fr,18,9,2015,12080,Plattsburgh St.,547
 9,1662717,Ryan Sarena,2B,,1,1,2015,12080,Plattsburgh St.,547
 34,1533274,Billy Rombauts,OF,So,29,28,2015,12080,Plattsburgh St.,547
 3,1662713,Alex Rodriguez,C,,27,18,2015,12080,Plattsburgh St.,547
@@ -4301,14 +4301,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,1533268,Jd Jenkins,P,Sr,0,0,2015,12080,Plattsburgh St.,547
 17,1666533,Sean Howard,P,,9,3,2015,12080,Plattsburgh St.,547
 25,1533267,Zach Hieb,2B,So,5,2,2015,12080,Plattsburgh St.,547
-23,1533266,Will Flynn,P,Sr,9,9,2015,12080,Plattsburgh St.,547
 20,1533265,Ray Flynn,1B,So,11,3,2015,12080,Plattsburgh St.,547
+23,1533266,Will Flynn,P,Sr,9,9,2015,12080,Plattsburgh St.,547
 50,1650596,Mitch Crispens,P,Fr,5,0,2015,12080,Plattsburgh St.,547
 32,1662715,Tyler Bulich,3B,,20,11,2015,12080,Plattsburgh St.,547
 1,1662716,Brandon Buksa,LF,,25,22,2015,12080,Plattsburgh St.,547
 45,1533263,Frank Buksa,C,Sr,31,31,2015,12080,Plattsburgh St.,547
 28,1319544,Ross Levinson,P,Jr,7,0,2015,12080,Plattsburgh St.,547
-10,1650592,Jack Tolosky,2B,Fr,18,9,2015,12080,Plattsburgh St.,547
+19,1533276,Joe Tolosky,1B,Sr,7,4,2015,12080,Plattsburgh St.,547
 28,1661025,Connor Wrye,C,Jr,51,51,2015,12080,Prairie View,553
 7,1661031,Alberto Aveytia,P,Jr,13,13,2015,12080,Prairie View,553
 2,1434414,Walter Wells,INF,Sr,49,49,2015,12080,Prairie View,553
@@ -5542,8 +5542,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,1323281,Patrick Reagan,P,Sr,14,0,2015,12080,Lebanon Valley,351
 3,1668013,Jared Mccabe,P,,6,4,2015,12080,Lebanon Valley,351
 4,1548873,Corey Sell,P,So,6,3,2015,12080,Lebanon Valley,351
-7,1548875,Zach Smith,INF,Jr,29,28,2015,12080,Lebanon Valley,351
 23,1666365,Paul Smith,3B,,11,6,2015,12080,Lebanon Valley,351
+7,1548875,Zach Smith,INF,Jr,29,28,2015,12080,Lebanon Valley,351
 23,1196099,Mike Specht,P,Sr,0,0,2015,12080,Lebanon Valley,351
 14,1548876,Anthony Stone,OF,Jr,0,0,2015,12080,Lebanon Valley,351
 19,1666841,John Toomey,P,,4,0,2015,12080,Lebanon Valley,351
@@ -9695,8 +9695,8 @@ RS,1535560,Ethan Lichtenberg,P,So,0,0,2015,12080,Saint Leo,608
 22,1433503,James Lovett,C,Jr,34,28,2015,12080,N.C. Wesleyan,491
 31,1321485,Stephen Machin,OF,Sr,21,13,2015,12080,N.C. Wesleyan,491
 16,1433499,Robert Mondoux,OF,Jr,11,10,2015,12080,N.C. Wesleyan,491
-38,1321483,George Moore,INF,Sr,21,1,2015,12080,N.C. Wesleyan,491
 7,1433498,Dillon Moore,INF,Jr,21,0,2015,12080,N.C. Wesleyan,491
+38,1321483,George Moore,INF,Sr,21,1,2015,12080,N.C. Wesleyan,491
 35,1650298,Caleb Narron,INF,Fr,19,9,2015,12080,N.C. Wesleyan,491
 6,1433495,Ciro Norzagaray,INF,Jr,35,33,2015,12080,N.C. Wesleyan,491
 21,1538377,Luis Palencia,OF,So,26,26,2015,12080,N.C. Wesleyan,491
@@ -25115,10 +25115,10 @@ RS,1437806,Mark Sanchez,C,Jr,0,0,2015,12080,California Baptist,30135
 38,1539859,David Williams,OF,So,0,0,2015,12080,Webster,759
 21,1425170,Zach Wylie,C,Jr,0,0,2015,12080,Union  (Gulf South),30153
 30,1530461,Teddy Christie,P,So,14,13,2015,12080,Union  (Gulf South),30153
-25,1530470,Andrew Wilson,P,So,17,0,2015,12080,Union  (Gulf South),30153
+44,1530471,Chaz Wilson,C,So,46,46,2015,12080,Union  (Gulf South),30153
 15,1648134,Shane Wilder,OF,So,29,29,2015,12080,Union  (Gulf South),30153
-9,1648133,Ty Warnimont,OF,Fr,32,24,2015,12080,Union  (Gulf South),30153
 1,1530468,Caleb Warnimont,2B,Sr,33,33,2015,12080,Union  (Gulf South),30153
+9,1648133,Ty Warnimont,OF,Fr,32,24,2015,12080,Union  (Gulf South),30153
 10,1530467,Preston Thompson,P,Sr,13,7,2015,12080,Union  (Gulf South),30153
 23,1327776,Hunter Smith,OF,Sr,43,42,2015,12080,Union  (Gulf South),30153
 8,1530466,Davis Shoemaker,SS,So,29,14,2015,12080,Union  (Gulf South),30153
@@ -25133,7 +25133,7 @@ RS,1437806,Mark Sanchez,C,Jr,0,0,2015,12080,California Baptist,30135
 24,1648107,Marty Coursey,P,Fr,14,12,2015,12080,Union  (Gulf South),30153
 19,1648106,Brady Cook,OF,Fr,46,46,2015,12080,Union  (Gulf South),30153
 3,1425165,Trae Bain,3B,Jr,46,45,2015,12080,Union  (Gulf South),30153
-44,1530471,Chaz Wilson,C,So,46,46,2015,12080,Union  (Gulf South),30153
+25,1530470,Andrew Wilson,P,So,17,0,2015,12080,Union  (Gulf South),30153
 25.0,1549438,Douglas Zimmel,1B,So,0,0,2015,12080,Minn.-Morris,1226
 34.0,1319464,Shane Boettcher,RF,,11,0,2015,12080,Minn.-Morris,1226
 23.0,1549441,Todd Woelfel,P,Sr,9,5,2015,12080,Minn.-Morris,1226
@@ -26892,8 +26892,8 @@ RS,1437806,Mark Sanchez,C,Jr,0,0,2015,12080,California Baptist,30135
 40,1656418,Lt Hawkins,INF,Fr,0,0,2015,12080,Arkansas Tech,947
 13,1653561,Bryan Heward,OF,Sr,50,50,2015,12080,Arkansas Tech,947
 25,1653753,Tyler Huffstickler,P,Jr,3,0,2015,12080,Arkansas Tech,947
-44,1538049,Aaron Johnson,P,Sr,13,9,2015,12080,Arkansas Tech,947
 2,1538042,Rafiel Johnson,P,Sr,38,30,2015,12080,Arkansas Tech,947
+44,1538049,Aaron Johnson,P,Sr,13,9,2015,12080,Arkansas Tech,947
 21,1653566,Cody Jones,P,Jr,15,13,2015,12080,Arkansas Tech,947
 14,1304012,Keenan Jumper,C,Sr,44,40,2015,12080,Arkansas Tech,947
 6,1538037,John Lassiter,2B,Sr,36,25,2015,12080,Arkansas Tech,947

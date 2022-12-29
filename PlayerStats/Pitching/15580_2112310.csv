@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.0,0.0,4,1,1,2,7,0,18,16,1,0,0,0,0,0,0,0,0,0,0,62,1,4,0,0,0,1,2,0,04/09/2021,home,15580,1450,Westminster (MO),9,True,10,4,6,win,2024145,755,2112310,2021
+1,0,0.2,0.0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,5,1,0,04/24/2021,away,15580,84,Buena Vista,9,True,2,8,-6,loss,2072301,755,2112310,2021
+1,0,3.1,0.0,3,3,3,2,3,0,15,11,2,1,0,0,0,0,0,0,0,1,1,53,1,6,0,0,0,4,1,0,05/30/2021,neutral,15580,182,Denison,9,True,10,14,-4,loss,2081037,755,2112310,2021
+1,0,0.0,0.0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,13,0,0,0,0,0,2,0,0,06/06/2021,neutral,15580,4,Adrian,9,True,16,5,11,win,2081299,755,2112310,2021

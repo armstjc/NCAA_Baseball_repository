@@ -17,8 +17,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,2655372,Tyler Kennedy,P,Fr,12,3,2022,15860,Pittsburgh,545
 55,2311732,Logan Evans,P,So,14,14,2022,15860,Pittsburgh,545
 21,2123173,Kyle Hess,OF,Jr,29,26,2022,15860,Pittsburgh,545
-5,1983738,Jordan Anderson,OF,Sr,37,30,2022,15860,Pittsburgh,545
 33,2128810,Jack Anderson,UT,Jr,50,42,2022,15860,Pittsburgh,545
+5,1983738,Jordan Anderson,OF,Sr,37,30,2022,15860,Pittsburgh,545
 20,2312451,Cameron Barto,INF,So,15,1,2022,15860,Pittsburgh,545
 29,2655371,Jonathan Bautista,P,Fr,15,5,2022,15860,Pittsburgh,545
 32,2123210,Billy Corcoran,P,Jr,14,14,2022,15860,Pittsburgh,545
@@ -254,7 +254,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2345031,Stone Wormuth,INF,Jr,5,5,2022,15860,Wilkes,784
 34,2509108,Loch Williams,INF,So,4,0,2022,15860,Wilkes,784
 27,1998073,Tony Molitoris,P,Sr,10,9,2022,15860,Wilkes,784
-14,2345062,Alexis Velez,C,Jr,6,1,2022,15860,Wilkes,784
+7,2678465,Aiden Velez,INF,Fr,1,0,2022,15860,Wilkes,784
 15,2345033,Peyton Schuck,C,Jr,28,19,2022,15860,Wilkes,784
 18,2345035,Jonathan Martens,P,Jr,5,0,2022,15860,Wilkes,784
 22,2345037,Sawyer Kemp,P,Jr,15,0,2022,15860,Wilkes,784
@@ -275,7 +275,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,2678515,Justin Stefanowicz,C,So,6,1,2022,15860,Wilkes,784
 20,2345036,Darren Kerdesky,OF,Jr,17,15,2022,15860,Wilkes,784
 37,2678555,Sean Granahan,INF,So,14,8,2022,15860,Wilkes,784
-7,2678465,Aiden Velez,INF,Fr,1,0,2022,15860,Wilkes,784
+14,2345062,Alexis Velez,C,Jr,6,1,2022,15860,Wilkes,784
 27.0,2121517,Derek Baumgartner,C,Sr,40,39,2022,15860,Winona St.,790
 34.0,2312281,Bailey Banaszynski,P,Jr,8,8,2022,15860,Winona St.,790
 11.0,2520418,C Stenson,p,Fr,3,0,2022,15860,Winona St.,790
@@ -408,8 +408,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,2516289,Corey Zientek,OF,So,39,39,2022,15860,Scranton,633
 40,2680447,Owen Maul,INF,Fr,1,0,2022,15860,Scranton,633
 29,2128351,Josh Lydon,P,Sr,11,7,2022,15860,Scranton,633
-15,2516292,Joe Lisicky,P,So,1,0,2022,15860,Scranton,633
 17,2128350,Jake Lisicky,UT,Sr,32,32,2022,15860,Scranton,633
+15,2516292,Joe Lisicky,P,So,1,0,2022,15860,Scranton,633
 16,2516293,Kevin Donovan,P,So,5,0,2022,15860,Scranton,633
 43,2516235,Brendan Douthit,C,So,7,1,2022,15860,Scranton,633
 38,2680445,Jake Elston,INF,Fr,22,2,2022,15860,Scranton,633
@@ -484,8 +484,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2673216,Fisher Paulsen,P,Fr,15,14,2022,15860,The Citadel,141
 42,2673195,Matthew Polk,P,Fr,7,0,2022,15860,The Citadel,141
 44,2673230,Dominick Poole,OF,Fr,31,14,2022,15860,The Citadel,141
-5,2473063,Sawyer Reeves,INF,So,47,41,2022,15860,The Citadel,141
 15,2120347,Cameron Reeves,P,Jr,14,14,2022,15860,The Citadel,141
+5,2473063,Sawyer Reeves,INF,So,47,41,2022,15860,The Citadel,141
 40,2473067,Gray Sobel,C,So,13,4,2022,15860,The Citadel,141
 22,1998630,Tilo Skole,INF,Jr,57,57,2022,15860,The Citadel,141
 31,2328934,Caleb Speedy,P,So,2,0,2022,15860,The Citadel,141
@@ -913,8 +913,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 20,2663743,Sebastian Iguaran,C,Fr,13,13,2022,15860,Lincoln  (ECC),357
 28,2663765,Miguel Agramonte,OF,Fr,30,26,2022,15860,Lincoln  (ECC),357
 20,2139837,Sheldon Johnson,OF,Sr,19,14,2022,15860,Lincoln  (ECC),357
-17,2663742,Connor Jones,P,Fr,16,0,2022,15860,Lincoln  (ECC),357
 6,2350103,Alex Jones,OF,Jr,38,37,2022,15860,Lincoln  (ECC),357
+17,2663742,Connor Jones,P,Fr,16,0,2022,15860,Lincoln  (ECC),357
 11,2350104,Josiah Lara,2B,Jr,32,20,2022,15860,Lincoln  (ECC),357
 3,2143735,Justin Mcclain,OF,Sr,21,12,2022,15860,Lincoln  (ECC),357
 12,2350082,Leon Mcknight,P,So,13,1,2022,15860,Lincoln  (ECC),357
@@ -1345,8 +1345,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,2311786,Stone Simmons,P,Fr,0,0,2022,15860,Mississippi St.,430
 23,2332240,Landon Sims,P,So,3,3,2022,15860,Mississippi St.,430
 36,2465018,Brayland Skinner,OF,Jr,34,4,2022,15860,Mississippi St.,430
-7,2123479,Brandon Smith,P,Jr,19,8,2022,15860,Mississippi St.,430
 15,2464902,Cade Smith,P,So,14,14,2022,15860,Mississippi St.,430
+7,2123479,Brandon Smith,P,Jr,19,8,2022,15860,Mississippi St.,430
 39,2465020,Mikey Tepper,P,So,17,2,2022,15860,Mississippi St.,430
 47,2465025,Drew Talley,P,Sr,19,0,2022,15860,Mississippi St.,430
 19,2332239,Logan Tanner,C,So,55,55,2022,15860,Mississippi St.,430
@@ -1417,24 +1417,24 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2678728,Xavier Williams,P,Fr,2,0,2022,15860,Alabama St.,7
 5,2129593,Hunter May,C,Sr,55,55,2022,15860,Alabama St.,7
 8,2678720,Kyler Mcintosh,UT,Fr,41,29,2022,15860,Alabama St.,7
-32,2494756,Adiel Melendez,P,So,4,3,2022,15860,Alabama St.,7
 22,2678725,Omar Melendez,P,Fr,14,0,2022,15860,Alabama St.,7
+32,2494756,Adiel Melendez,P,So,4,3,2022,15860,Alabama St.,7
 23,2494757,Osvaldo Mendez,P,Jr,19,4,2022,15860,Alabama St.,7
 50,2495385,Nate Palmer,P,Jr,7,1,2022,15860,Alabama St.,7
 30,2129598,Breon Pooler,P,Sr,17,15,2022,15860,Alabama St.,7
-38,2129576,Jeremy Rivera,P,Jr,3,2,2022,15860,Alabama St.,7
 20,2129572,Ricardo Rivera,P,Jr,12,2,2022,15860,Alabama St.,7
+38,2129576,Jeremy Rivera,P,Jr,3,2,2022,15860,Alabama St.,7
 28,2333495,Luis Rodriguez,P,So,30,6,2022,15860,Alabama St.,7
 9,2333485,Jayden Sloan,2B,So,16,6,2022,15860,Alabama St.,7
 26,2333494,Fred Stewart,C,Sr,9,3,2022,15860,Alabama St.,7
 1,2333483,Jabronski Williams,OF,Sr,52,48,2022,15860,Alabama St.,7
-13,2678723,Kevin Matos,P,Fr,9,5,2022,15860,Alabama St.,7
-17,2129596,Jorge Rivera,C,Sr,1,0,2022,15860,Alabama St.,7
 2,2333491,Ian Matos,OF,Jr,41,39,2022,15860,Alabama St.,7
+17,2129596,Jorge Rivera,C,Sr,1,0,2022,15860,Alabama St.,7
+13,2678723,Kevin Matos,P,Fr,9,5,2022,15860,Alabama St.,7
 16,2678606,Hunter Lopacki,C,Fr,7,1,2022,15860,Alabama St.,7
 12,2333499,Kenny Allred,P,Sr,4,0,2022,15860,Alabama St.,7
-37,2678729,Shadai Colon,P,Fr,18,2,2022,15860,Alabama St.,7
 4,2333474,Sebastian Colon,P,So,18,0,2022,15860,Alabama St.,7
+37,2678729,Shadai Colon,P,Fr,18,2,2022,15860,Alabama St.,7
 14,1996885,Cristopher Deguzman,SS,Sr,59,58,2022,15860,Alabama St.,7
 29,2349508,Ct Dodd,P,Sr,3,0,2022,15860,Alabama St.,7
 24,2678726,Christian Lopez,3B,So,52,48,2022,15860,Alabama St.,7
@@ -2183,14 +2183,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 44,2673294,Joshua Kuroda-Grauer,UT,Fr,53,49,2022,15860,Rutgers,587
 5,1995606,Danny Digeorgio,INF,Sr,57,57,2022,15860,Rutgers,587
 35,2503428,Ben Gorski,P,So,23,1,2022,15860,Rutgers,587
-7,2337460,Mason Staz,INF,Jr,42,40,2022,15860,Roanoke,578
+40,2657475,Ty Staz,OF,Fr,20,12,2022,15860,Roanoke,578
 39,2657474,Justin Steens,OF,Fr,2,0,2022,15860,Roanoke,578
 33,2504612,Anthony Sullivan,P,So,13,0,2022,15860,Roanoke,578
 6,2337488,Will Turner,P,Jr,13,12,2022,15860,Roanoke,578
 32,2135050,Jarett Lorusso,P,Sr,4,0,2022,15860,Roanoke,578
 4,2499153,Jack Marshal,1B,So,9,7,2022,15860,Roanoke,578
 15,2337464,Alex Markus,P,Jr,7,0,2022,15860,Roanoke,578
-40,2657475,Ty Staz,OF,Fr,20,12,2022,15860,Roanoke,578
+7,2337460,Mason Staz,INF,Jr,42,40,2022,15860,Roanoke,578
 28,2494675,Jonny Wall,INF,So,42,41,2022,15860,Roanoke,578
 18,2000427,Will Smith,OF,Sr,36,32,2022,15860,Roanoke,578
 37,2657569,Michael Michalles,P,So,2,0,2022,15860,Roanoke,578
@@ -2444,8 +2444,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 50,2678908,Bobby Baumann,C,Fr,1,0,2022,15860,Centenary  (Atlantic East),12884
 2,2352841,Marty Lucibello Iii,OF,Sr,0,0,2022,15860,Centenary  (Atlantic East),12884
 42,2519603,Zach Mankin,INF,So,3,0,2022,15860,Centenary  (Atlantic East),12884
-8,2513393,Miron Miller,OF,So,14,5,2022,15860,Centenary  (Atlantic East),12884
 37,2137785,Jared Miller,P,Sr,4,4,2022,15860,Centenary  (Atlantic East),12884
+8,2513393,Miron Miller,OF,So,14,5,2022,15860,Centenary  (Atlantic East),12884
 3,2137768,Matt Oehrlein,P,Sr,18,1,2022,15860,Centenary  (Atlantic East),12884
 29,2678893,Nick Payne,C,Fr,30,24,2022,15860,Centenary  (Atlantic East),12884
 4,2513394,Matt Perine,UT,So,1,0,2022,15860,Centenary  (Atlantic East),12884
@@ -2490,8 +2490,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,2142432,Martin Money,INF,Jr,45,45,2022,15860,Saginaw Valley,591
 26,2343826,Matt Montroy,P,So,0,0,2022,15860,Saginaw Valley,591
 13,1997733,Todd Paperd,C,Jr,47,45,2022,15860,Saginaw Valley,591
-47,2657125,Nolan Raymond,C,So,9,0,2022,15860,Saginaw Valley,591
 40,2657083,Reed Raymond,OF,Fr,48,48,2022,15860,Saginaw Valley,591
+47,2657125,Nolan Raymond,C,So,9,0,2022,15860,Saginaw Valley,591
 4,2146723,Tucker Roe,INF,Jr,46,41,2022,15860,Saginaw Valley,591
 50,2657124,Ethan Rose,INF,Fr,13,2,2022,15860,Saginaw Valley,591
 43,2343864,Christopher Schmees,P,So,12,10,2022,15860,Saginaw Valley,591
@@ -3061,7 +3061,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,2671208,Hammer Franks,p,So,15,13,2022,15860,Delta St.,181
 25,2672493,Harrison Haley,p,So,15,15,2022,15860,Delta St.,181
 18,2343267,Ryan Crowley,p,Sr,3,0,2022,15860,Delta St.,181
-1,2354432,Nathan Lancianese,1B,Jr,39,38,2022,15860,Earlham,195
+2,2359987,Christian Lancianese,1B,Jr,38,37,2022,15860,Earlham,195
 44,2691155,Dilloon Bandi,p,Fr,6,0,2022,15860,Earlham,195
 11,2360644,Brandon Lucero,ph,Jr,0,0,2022,15860,Earlham,195
 5,2138553,Cameron Mccabe,C,Sr,32,31,2022,15860,Earlham,195
@@ -3080,7 +3080,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,2685190,Reece Zonts,dh,Fr,13,8,2022,15860,Earlham,195
 19,2138556,Louis Lipthratt,P,Sr,0,0,2022,15860,Earlham,195
 40,2685235,David Lally,lf,Fr,11,5,2022,15860,Earlham,195
-2,2359987,Christian Lancianese,1B,Jr,38,37,2022,15860,Earlham,195
+1,2354432,Nathan Lancianese,1B,Jr,39,38,2022,15860,Earlham,195
 28,2519228,George Dizard,p,So,3,0,2022,15860,Earlham,195
 8,2138561,Andrew Bradley,C,Sr,34,31,2022,15860,Earlham,195
 51,2138581,Nick Carrizales,P,Sr,15,1,2022,15860,Earlham,195
@@ -3168,8 +3168,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2683353,Quintin Gonzalez,1B,Fr,11,1,2022,15860,Wis.-Stout,803
 34,2308687,Kenny Misik,P,So,23,0,2022,15860,Youngstown St.,817
 1,1974026,Lucas Nasonti,OF,Sr,55,55,2022,15860,Youngstown St.,817
-23,2308647,Braeden O'Shaughnessy,INF,Jr,57,57,2022,15860,Youngstown St.,817
 25,2308649,Padraig O'Shaughnessy,1B,Sr,57,56,2022,15860,Youngstown St.,817
+23,2308647,Braeden O'Shaughnessy,INF,Jr,57,57,2022,15860,Youngstown St.,817
 36,2659272,Pete Panko,OF,Sr,1,1,2022,15860,Youngstown St.,817
 26,2471822,Nick Perez,P,So,17,4,2022,15860,Youngstown St.,817
 41,2348226,Andrew Russell,P,Jr,6,0,2022,15860,Youngstown St.,817
@@ -3281,7 +3281,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,2477670,Gavin Kriegel,INF,So,28,22,2022,15860,Lewis,354
 25,2653404,Jason Krol,C,Fr,29,24,2022,15860,Lewis,354
 1,2481721,Cherokee Lebeau,INF,Jr,23,21,2022,15860,Lewis,354
-37,2324325,Jake Huisman,P,Jr,2,0,2022,15860,Lewis,354
+34,2653363,Mason Huisman,P,Fr,2,0,2022,15860,Lewis,354
 10,2002701,Jake Lotz,P,Sr,21,0,2022,15860,Lewis,354
 16,2463222,Dalton Meredith,UT,So,10,0,2022,15860,Lewis,354
 29,2463232,Ryne Meriel,C,So,10,0,2022,15860,Lewis,354
@@ -3292,7 +3292,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18,2653402,Anthony Sorrentino,P,Fr,11,8,2022,15860,Lewis,354
 13,2463212,Tyler Macdougall,C,So,5,0,2022,15860,Lewis,354
 21,2006926,Max Warren,C,Sr,18,9,2022,15860,Lewis,354
-44,2146131,Nick Huisman,P,Jr,6,0,2022,15860,Lewis,354
+37,2324325,Jake Huisman,P,Jr,2,0,2022,15860,Lewis,354
 24,2121065,Matt Helwig,P,Jr,15,0,2022,15860,Lewis,354
 5,2653399,David Ascencio,INF,Jr,42,40,2022,15860,Lewis,354
 9,2158063,Nick Bacarella,P,Sr,5,0,2022,15860,Lewis,354
@@ -3301,7 +3301,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 40,2463208,Jackson Brown,P,Sr,6,2,2022,15860,Lewis,354
 12,2324323,Angelo Cantelo,C,Jr,26,24,2022,15860,Lewis,354
 17,2324288,Aj Casmer,UT,Jr,7,0,2022,15860,Lewis,354
-34,2653363,Mason Huisman,P,Fr,2,0,2022,15860,Lewis,354
+44,2146131,Nick Huisman,P,Jr,6,0,2022,15860,Lewis,354
 27,2146944,Dalton Crowder,OF,Sr,23,10,2022,15860,Lewis,354
 22,2146924,Kurt Dankovich,P,Sr,6,0,2022,15860,Lewis,354
 19,2324289,Ben Davis,P,Sr,14,5,2022,15860,Lewis,354
@@ -3392,8 +3392,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 40,2332758,Jackson Hauge,INF,So,47,43,2022,15860,Minnesota St.,383
 33,2499775,Mitch Gutknecht,P,So,8,0,2022,15860,Minnesota St.,383
 3,2133643,Mikey Gottschalk,INF,So,44,41,2022,15860,Minnesota St.,383
-36,2332760,Ryan Friedges,INF,So,17,0,2022,15860,Minnesota St.,383
 24,2133651,Jack Friedges,INF,Jr,33,6,2022,15860,Minnesota St.,383
+36,2332760,Ryan Friedges,INF,So,17,0,2022,15860,Minnesota St.,383
 21,2133648,Mikey Fredrickson,C,Jr,26,9,2022,15860,Minnesota St.,383
 20,2005894,Trevor Divinski,P,Sr,0,0,2022,15860,Minnesota St.,383
 15,2133638,Collin Denk,P,Jr,11,6,2022,15860,Minnesota St.,383
@@ -3518,8 +3518,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 28,2687363,Landen Sobieski,OF,Fr,5,0,2022,15860,Lakeland,1164
 49,1991905,Collin Schutz,OF,Sr,38,37,2022,15860,Lakeland,1164
 23,1991887,Gio Ramirez,SS,Sr,19,2,2022,15860,Lakeland,1164
-1,2519326,Tyler Penny,P,So,3,0,2022,15860,Lakeland,1164
 17,1991854,Dylan Penny,UT,Sr,20,10,2022,15860,Lakeland,1164
+1,2519326,Tyler Penny,P,So,3,0,2022,15860,Lakeland,1164
 11,2687362,Austin Palmer,C,Fr,22,16,2022,15860,Lakeland,1164
 14,2153950,Jackson Pahl,P,Jr,3,0,2022,15860,Lakeland,1164
 3,2520927,Kaylab Owings,INF,So,29,17,2022,15860,Lakeland,1164
@@ -3707,10 +3707,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2121570,Kevin Graham,OF,Sr,47,47,2022,15860,Ole Miss,433
 20,2495856,Calvin Harris,C,So,43,29,2022,15860,Ole Miss,433
 2,2331970,Derek Diamond,P,Jr,18,14,2022,15860,Ole Miss,433
-20,2319840,Hayden Brown,UT,Jr,9,3,2022,15860,Minn. Duluth,427
-12,2689026,Isaac Benesh,p,Jr,10,6,2022,15860,Minn. Duluth,427
-25,2319858,Sam Tanner,OF,Jr,41,34,2022,15860,Minn. Duluth,427
 32,2691225,August Brown,ph,Fr,16,1,2022,15860,Minn. Duluth,427
+12,2689026,Isaac Benesh,p,Jr,10,6,2022,15860,Minn. Duluth,427
+24,2319844,Russ Tanner,P,Jr,3,3,2022,15860,Minn. Duluth,427
+20,2319840,Hayden Brown,UT,Jr,9,3,2022,15860,Minn. Duluth,427
 38,2467782,Jack Puder,INF,So,50,48,2022,15860,Minn. Duluth,427
 41,2467785,Ben Reilley,P,So,12,2,2022,15860,Minn. Duluth,427
 15,2467773,Luke Ricker,P,So,5,0,2022,15860,Minn. Duluth,427
@@ -3725,9 +3725,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2319837,Alex Wattermann,INF,Jr,49,49,2022,15860,Minn. Duluth,427
 32,2467802,Dylan Wilson,INF,So,6,1,2022,15860,Minn. Duluth,427
 5,2122542,Aaron Wukmir,P,Sr,11,6,2022,15860,Minn. Duluth,427
-24,2319844,Russ Tanner,P,Jr,3,3,2022,15860,Minn. Duluth,427
-9,2006128,Tyler Peterson,C,Sr,0,0,2022,15860,Minn. Duluth,427
+25,2319858,Sam Tanner,OF,Jr,41,34,2022,15860,Minn. Duluth,427
 18,2122558,Mccale Peterson,INF,Jr,0,0,2022,15860,Minn. Duluth,427
+9,2006128,Tyler Peterson,C,Sr,0,0,2022,15860,Minn. Duluth,427
 16,2122554,Wyatt O'Bey,P,Sr,13,4,2022,15860,Minn. Duluth,427
 28,2689035,Ethan Cole,3b,Fr,39,29,2022,15860,Minn. Duluth,427
 1,2319859,Eli Drexler,P,So,8,0,2022,15860,Minn. Duluth,427
@@ -3831,8 +3831,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2677656,Ben Sullivan,OF,So,8,0,2022,15860,Adrian,4
 39,2347658,Michael Swanson,UT,Jr,12,7,2022,15860,Adrian,4
 37,2347680,Joe Toth,UT,Jr,15,4,2022,15860,Adrian,4
-21,2152013,Trevor Usher,P,Sr,4,0,2022,15860,Adrian,4
 29,2152014,Tyler Usher,P,Sr,9,0,2022,15860,Adrian,4
+21,2152013,Trevor Usher,P,Sr,4,0,2022,15860,Adrian,4
 8,1999066,Aaron Valentine,1B,Sr,32,28,2022,15860,Adrian,4
 2,2677584,William Weaks,INF,Fr,29,25,2022,15860,Adrian,4
 16,2677614,Tyler Whitfield,OF,Fr,5,0,2022,15860,Adrian,4
@@ -3853,8 +3853,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 41,2151993,Andrew Giorno,P,Sr,13,6,2022,15860,Adrian,4
 14,2677612,Don Goodes,OF,Jr,38,38,2022,15860,Adrian,4
 15,2677613,Nathan Grega,C,Fr,14,3,2022,15860,Adrian,4
-45,2677664,Daniel Gutierrez,P,Fr,8,3,2022,15860,Adrian,4
 18,2677618,Adrian Gutierrez,C,Fr,6,0,2022,15860,Adrian,4
+45,2677664,Daniel Gutierrez,P,Fr,8,3,2022,15860,Adrian,4
 32,2347647,Jacob Hanoian,P,Sr,20,0,2022,15860,Adrian,4
 11,2677609,Linken Hayward,INF,Fr,18,3,2022,15860,Adrian,4
 5,2151999,Andrew Hribar,OF,Sr,10,2,2022,15860,Adrian,4
@@ -3999,8 +3999,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 43.0,2527513,Jonathan Hampton,P,So,6,2,2022,15860,Texas Lutheran,1400
 33.0,2650834,Joseph De Luna,P,Jr,11,0,2022,15860,Texas Lutheran,1400
 5,2335409,Dominic Ragazzo,INF,So,28,28,2022,15860,Delaware,180
-34,1973397,Chris Ludman,P,Sr,11,11,2022,15860,Delaware,180
 16,2302823,Eric Ludman,INF,So,9,1,2022,15860,Delaware,180
+34,1973397,Chris Ludman,P,Sr,11,11,2022,15860,Delaware,180
 43,2468198,Wyatt Nelson,P,So,16,10,2022,15860,Delaware,180
 37,2302829,Luke Pizzico,P,So,5,0,2022,15860,Delaware,180
 22,2302825,Aidan Riley,OF,So,0,0,2022,15860,Delaware,180
@@ -4101,8 +4101,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 45,2679534,Kyle Rizy,P,Fr,15,1,2022,15860,Bryant,81
 0,2465288,Damaurys Rodriguez,C,So,25,24,2022,15860,Bryant,81
 42,2310604,Sam Sinisgalli,C,Jr,8,0,2022,15860,Bryant,81
-11,2310576,Derek Smith,OF,Jr,54,54,2022,15860,Bryant,81
 6,2679498,Matt Smith,OF,Jr,41,22,2022,15860,Bryant,81
+11,2310576,Derek Smith,OF,Jr,54,54,2022,15860,Bryant,81
 22,1982813,Matthew Stansky,P,Sr,7,0,2022,15860,Bryant,81
 34,2495197,Coleman Picard,P,So,16,0,2022,15860,Bryant,81
 3,1980538,John Tuccillo,C,Sr,53,49,2022,15860,Bryant,81
@@ -4155,8 +4155,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,2112453,Connor Henriques,INF,Sr,25,4,2022,15860,Santa Clara,631
 28,2685427,Nick Bacura,1B,Fr,6,2,2022,15860,Santa Clara,631
 24,2488892,Jonjon Berring,OF,So,47,42,2022,15860,Santa Clara,631
-3,2330628,Coleman Brigman,OF,Jr,51,51,2022,15860,Santa Clara,631
 4,2112454,Dawson Brigman,INF,Sr,44,42,2022,15860,Santa Clara,631
+3,2330628,Coleman Brigman,OF,Jr,51,51,2022,15860,Santa Clara,631
 17,1999872,Cal Christofori,C,Sr,47,43,2022,15860,Santa Clara,631
 14,2330631,Cole Kitchen,UT,Jr,15,14,2022,15860,Santa Clara,631
 3,1998123,Drake Davis,P,Jr,4,1,2022,15860,Santa Clara,631
@@ -4167,8 +4167,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,2681791,Robert Hipwell,dh,Fr,15,4,2022,15860,Santa Clara,631
 46,2488906,Skylar Hales,UT,So,15,12,2022,15860,Santa Clara,631
 31,2112487,John Hanley,UT,Sr,43,41,2022,15860,Santa Clara,631
-36,2488900,Jeffrey Heinrich,P,So,16,0,2022,15860,Santa Clara,631
 19,2112463,Ethan Heinrich,P,Sr,4,0,2022,15860,Santa Clara,631
+36,2488900,Jeffrey Heinrich,P,So,16,0,2022,15860,Santa Clara,631
 18,2331997,Jared Feikes,P,Jr,18,9,2022,15860,Santa Clara,631
 23,2685380,Blake Hammond,1B,Fr,21,3,2022,15860,Santa Clara,631
 17,2512116,Emerson Abromavage,1B,So,6,3,2022,15860,Clarion,143
@@ -4373,8 +4373,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26,2345184,Luke Hannum,OF,So,21,16,2022,15860,Winthrop,792
 36,2345200,Ty Hooks,C,So,50,49,2022,15860,Winthrop,792
 25,2666540,Dyson Johnson,P,Jr,8,1,2022,15860,Winthrop,792
-7,2119750,Tyler Jones,P,Sr,15,10,2022,15860,Winthrop,792
 27,2666543,Caleb Jones,P,Fr,4,0,2022,15860,Winthrop,792
+7,2119750,Tyler Jones,P,Sr,15,10,2022,15860,Winthrop,792
 20,2666531,Sean Flannery,INF,Jr,16,7,2022,15860,Winthrop,792
 28,2668738,Matthew Pizzelli,P,So,13,0,2022,15860,Wheaton  (NEWC),779
 10,2152835,Jacob Studley,OF,Sr,43,43,2022,15860,Wheaton  (NEWC),779
@@ -4532,8 +4532,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 39,2122302,Justin Alintoff,P,Sr,16,15,2022,15860,Rollins,584
 20,2472899,Kyle Bullcok,OF,Jr,38,19,2022,15860,Rollins,584
 48,2657364,Ray Zhang,P,Fr,6,1,2022,15860,Rollins,584
-12,2657323,Jeslyn Whitehead,UT,So,60,60,2022,15860,Rollins,584
 13,1979033,Jaylyn Whitehead,P,Sr,18,17,2022,15860,Rollins,584
+12,2657323,Jeslyn Whitehead,UT,So,60,60,2022,15860,Rollins,584
 3,1979008,Adams Torres,INF,Sr,54,52,2022,15860,Rollins,584
 9,2657320,Sam Tanous,INF,Fr,29,10,2022,15860,Rollins,584
 18,2123163,Steven Swift,P,Jr,22,0,2022,15860,Rollins,584
@@ -4807,8 +4807,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 20,1977616,Dominic Cox,OF,Sr,37,34,2022,15860,Prairie View,553
 14,2502309,Benjamin Ybarra,INF,So,50,50,2022,15860,Prairie View,553
 1,2678127,Jayden Williams,OF,So,26,8,2022,15860,Prairie View,553
-7,2130755,Wilbert Tre Turner,OF,Sr,48,45,2022,15860,Prairie View,553
 37,2678133,Zackary Turner,INF,So,16,2,2022,15860,Prairie View,553
+7,2130755,Wilbert Tre Turner,OF,Sr,48,45,2022,15860,Prairie View,553
 22,2330201,Tyrone Ty Tubbs,P,Jr,19,1,2022,15860,Prairie View,553
 8,2330081,Zachary Trevino,INF,Jr,53,50,2022,15860,Prairie View,553
 5,1998771,Demarie' Smith,OF,Sr,52,51,2022,15860,Prairie View,553
@@ -4820,7 +4820,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26,2140586,Justin Maxcey,P,Sr,15,0,2022,15860,Prairie View,553
 12,2140585,Alex Martinez,INF,Sr,53,53,2022,15860,Prairie View,553
 4,2502306,Paul Castro,C,So,41,36,2022,15860,Prairie View,553
-15,2502308,Roberto Maldonado,P,Jr,15,15,2022,15860,Prairie View,553
+6,2502307,Keanu Maldonado,INF,So,19,10,2022,15860,Prairie View,553
 36,2678120,Anthony Larzabal,P,Fr,1,0,2022,15860,Prairie View,553
 45,1977620,Joshua Larzabal,P,Sr,19,3,2022,15860,Prairie View,553
 13,2678118,Matthew Krall,P,Fr,15,14,2022,15860,Prairie View,553
@@ -4835,7 +4835,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 41,2678000,Michael Dews,P,Jr,13,0,2022,15860,Prairie View,553
 19,2500538,Samuel Denker,1B,Jr,14,4,2022,15860,Prairie View,553
 35,1998668,Derrick Curry,P,Sr,17,3,2022,15860,Prairie View,553
-6,2502307,Keanu Maldonado,INF,So,19,10,2022,15860,Prairie View,553
+15,2502308,Roberto Maldonado,P,Jr,15,15,2022,15860,Prairie View,553
 24,2500537,Sebastian Coria,1B,Jr,41,38,2022,15860,Prairie View,553
 50,2649789,Anthony Ursitti,P,Fr,15,1,2022,15860,Florida,235
 3,1866421,Garrett Milchin,P,Sr,8,3,2022,15860,Florida,235
@@ -4872,7 +4872,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 2,2649763,Ty Evans,OF,Fr,35,26,2022,15860,Florida,235
 36,2478632,Wyatt Langford,UT,So,66,66,2022,15860,Florida,235
 22,2465901,Nolan Herchock,INF,So,0,0,2022,15860,East Central,8965
-2,2130454,Anderson Allen,OF,Jr,32,15,2022,15860,East Central,8965
+21,2660297,Dione Allen,INF,So,9,4,2022,15860,East Central,8965
 35,2660346,Cooper Hunt,P,Fr,1,0,2022,15860,East Central,8965
 17,2465900,Will Isaly,C,So,11,0,2022,15860,East Central,8965
 38,2660332,Trae Lowe,OF,Fr,24,14,2022,15860,East Central,8965
@@ -4890,7 +4890,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2660317,Zac Green,OF,Jr,18,11,2022,15860,East Central,8965
 25,2319857,Kyle Busker,C,So,25,11,2022,15860,East Central,8965
 18,2319807,Mason Glowacki,INF,Fr,47,47,2022,15860,East Central,8965
-21,2660297,Dione Allen,INF,So,9,4,2022,15860,East Central,8965
+2,2130454,Anderson Allen,OF,Jr,32,15,2022,15860,East Central,8965
 34,2660344,Louis Aquila,P,Fr,13,2,2022,15860,East Central,8965
 8,2130429,Tanner Barnes,C,Jr,20,19,2022,15860,East Central,8965
 23,2660301,Colt Bartling,P,So,15,7,2022,15860,East Central,8965
@@ -4937,8 +4937,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 45,2475832,Ruben Carpio,OF,So,29,17,2022,15860,FIU,231
 29,2310561,Bryan Pazos,P,Fr,12,0,2022,15860,FIU,231
 42,2475827,Richie Pena,P,So,18,1,2022,15860,FIU,231
-18,2678400,Noel Perez,INF,So,45,44,2022,15860,FIU,231
 35,2678389,Gabriel Perez,OF,Fr,3,0,2022,15860,FIU,231
+18,2678400,Noel Perez,INF,So,45,44,2022,15860,FIU,231
 43,2473034,Pat Pridgen,P,So,14,14,2022,15860,FIU,231
 31,2678419,Owen Puk,P,Fr,12,2,2022,15860,FIU,231
 40,2689731,Jonah Ravelo,C,Fr,3,0,2022,15860,FIU,231
@@ -4962,10 +4962,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,1991226,Jan Figueroa,P,Sr,13,1,2022,15860,FIU,231
 26,2475781,Adrian Figueroa,INF,So,43,41,2022,15860,FIU,231
 1,2475738,Dante Girardi,INF,So,47,46,2022,15860,FIU,231
-9,2678393,Matthew Gonzalez,C,Fr,40,31,2022,15860,FIU,231
 11,2678381,Juhlien Gonzalez,INF,Fr,5,0,2022,15860,FIU,231
-14,2475739,Rey Hernandez,INF,So,25,11,2022,15860,FIU,231
+9,2678393,Matthew Gonzalez,C,Fr,40,31,2022,15860,FIU,231
 12,2475826,Orlando Hernandez,P,So,14,0,2022,15860,FIU,231
+14,2475739,Rey Hernandez,INF,So,25,11,2022,15860,FIU,231
 4,2678383,Dalton Hurst,INF,Fr,28,12,2022,15860,FIU,231
 44,2310570,Zac Lampton,P,So,21,0,2022,15860,FIU,231
 5,2347495,Carlos Lequerica,P,Jr,16,11,2022,15860,FIU,231
@@ -5344,7 +5344,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,1988958,Justin Nase,OF,Sr,45,27,2022,15860,VMI,741
 16,2674883,Ryan  Peterson,UT,Fr,23,9,2022,15860,VMI,741
 34,2674858,Caden Plummer,P,Fr,20,5,2022,15860,VMI,741
-7,2681192,Laxon Lloyd,p,Fr,1,0,2022,15860,VMI,741
+7,2674856,Jaxon Lloyd,P,Fr,7,2,2022,15860,VMI,741
 18,2474467,Sebastian Silva,C,So,12,3,2022,15860,VMI,741
 36,2674892,Ethan Smith,P,Fr,4,0,2022,15860,VMI,741
 6,2327855,Justin Starke,C,Jr,43,37,2022,15860,VMI,741
@@ -5353,7 +5353,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 38,2135128,Reeves Whitmore,INF,Sr,38,35,2022,15860,VMI,741
 4,2674881,Gehrig Wright,INF,Fr,5,0,2022,15860,VMI,741
 24,2474478,Will Riley,UT,So,29,1,2022,15860,VMI,741
-7,2674856,Jaxon Lloyd,P,Fr,7,2,2022,15860,VMI,741
+7,2681192,Laxon Lloyd,p,Fr,1,0,2022,15860,VMI,741
 20,1986418,Will Knight,UT,Sr,56,56,2022,15860,VMI,741
 21,2327899,Ty Barker,P,Jr,11,0,2022,15860,VMI,741
 12,2474462,Zed Barrett,INF,So,36,28,2022,15860,VMI,741
@@ -5767,8 +5767,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 43,2154875,Jc Bricker,C,Sr,3,0,2022,15860,Wittenberg,806
 25,2511157,Jared Burick,P,Sr,37,21,2022,15860,Wittenberg,806
 23,2329779,Nick Cunningham,P,Jr,12,4,2022,15860,Wittenberg,806
-21,2159249,Mitchell Davis,p,Sr,2,0,2022,15860,Wittenberg,806
 33,2002241,Mason Davis,OF,Sr,28,21,2022,15860,Wittenberg,806
+21,2159249,Mitchell Davis,p,Sr,2,0,2022,15860,Wittenberg,806
 20,2513974,Tyler Defibaugh,P,Sr,10,0,2022,15860,Wittenberg,806
 14,2519624,Preston Dorsey,INF,So,1,0,2022,15860,Wittenberg,806
 31,2652765,Nate Floyd,P,Fr,6,4,2022,15860,Wittenberg,806
@@ -5794,8 +5794,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,2122812,Justin Pennybacker,P,Jr,12,11,2022,15860,West Liberty,1438
 26,2499914,Jake Probst,UT,So,14,9,2022,15860,West Liberty,1438
 2,2122715,Isaac Rine,C,Sr,27,27,2022,15860,West Liberty,1438
-11,2659813,James Salvatori,OF,Fr,25,17,2022,15860,West Liberty,1438
 5,2122720,Ross Salvatori,OF,Jr,12,10,2022,15860,West Liberty,1438
+11,2659813,James Salvatori,OF,Fr,25,17,2022,15860,West Liberty,1438
 12,2659812,Jacob Sherman,OF,Fr,35,32,2022,15860,West Liberty,1438
 21,1982137,Gaetan Sinigalli,P,Sr,10,1,2022,15860,West Liberty,1438
 18,2659791,Justin Studd,P,Sr,13,10,2022,15860,West Liberty,1438
@@ -6039,9 +6039,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,2330450,Chase Simmons,OF,Jr,55,54,2022,15860,Millersville,423
 24,2486972,Keegan Soltis,3B,Fr,47,42,2022,15860,Millersville,423
 6,2330441,Justin Taylor,INF,Jr,36,23,2022,15860,Millersville,423
-17,2330442,Bren Taylor,OF,Jr,55,55,2022,15860,Millersville,423
-14,2486969,Harry Prince,P,So,12,0,2022,15860,Millersville,423
 29,2333355,Jeff Taylor,p,Sr,12,9,2022,15860,Millersville,423
+14,2486969,Harry Prince,P,So,12,0,2022,15860,Millersville,423
+17,2330442,Bren Taylor,OF,Jr,55,55,2022,15860,Millersville,423
 58,2665622,Zack Tukis,P,Fr,3,0,2022,15860,Millersville,423
 22,1996803,Pete Vaccaro,INF,Jr,25,4,2022,15860,Millersville,423
 20,1990858,Aidan Welch,P,Sr,2,2,2022,15860,Millersville,423
@@ -6197,8 +6197,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,2309865,Jack Keenan,P,Jr,5,2,2022,15860,Marist,386
 1,2528821,Marco Ali,INF,So,37,31,2022,15860,Marist,386
 9,2118875,Niko Amory,C,Sr,34,24,2022,15860,Marist,386
-24,1982265,Reece Armitage,OF,Sr,45,43,2022,15860,Marist,386
 12,1982250,Robbie Armitage,INF,Sr,42,41,2022,15860,Marist,386
+24,1982265,Reece Armitage,OF,Sr,45,43,2022,15860,Marist,386
 46,1982267,Trevor Backman,P,Sr,12,1,2022,15860,Marist,386
 26,2678363,Danny Keon,P,Jr,1,0,2022,15860,Marist,386
 18,2665850,Jack Bowery,P,Fr,17,6,2022,15860,Marist,386
@@ -6414,8 +6414,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,2681394,Justin Shelby,p,So,15,7,2022,15860,LeMoyne-Owen,350
 22,2674131,Alex Rodriguez,1b,Fr,19,18,2022,15860,LeMoyne-Owen,350
 32,2357998,Peyton Phillips,c,So,0,0,2022,15860,LeMoyne-Owen,350
-13,2697793,F Mills,cf,,1,0,2022,15860,LeMoyne-Owen,350
 13,1991502,Emari Mills,P,Sr,21,19,2022,15860,LeMoyne-Owen,350
+13,2697793,F Mills,cf,,1,0,2022,15860,LeMoyne-Owen,350
 4,2357287,Unknown Martin,c,So,3,2,2022,15860,LeMoyne-Owen,350
 11,2681392,Katabe Jr,rf/p,So,3,3,2022,15860,LeMoyne-Owen,350
 21,2681436,Amir Morgan,ss,Fr,8,3,2022,15860,LeMoyne-Owen,350
@@ -6443,8 +6443,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,2674109,George Diaz,2b,Sr,29,26,2022,15860,LeMoyne-Owen,350
 32,2679587,Avery Willis,p,Fr,11,7,2022,15860,LeMoyne-Owen,350
 16,2695607,K Williams,rf,,1,0,2022,15860,LeMoyne-Owen,350
-8,2674132,Jonathan Williams,ss,Fr,25,25,2022,15860,LeMoyne-Owen,350
 16,2692133,C. Williams,cf,,6,5,2022,15860,LeMoyne-Owen,350
+8,2674132,Jonathan Williams,ss,Fr,25,25,2022,15860,LeMoyne-Owen,350
 20,2155149,Eyon Curry,ph,Sr,0,0,2022,15860,LeMoyne-Owen,350
 18,2335943,William Johnson,1B,Sr,44,40,2022,15860,Miles,422
 14,2670758,Justin Allen,P,Fr,12,2,2022,15860,Miles,422
@@ -6530,14 +6530,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2673639,Nathan Paulsen,OF,Fr,45,45,2022,15860,West Virginia St.,1439
 37,2336400,Dane Peterson,P,Jr,14,1,2022,15860,West Virginia St.,1439
 21,2502675,Nick Saranczak,P,Sr,5,0,2022,15860,West Virginia St.,1439
-12,2116459,Michael Stone,UT,Sr,44,44,2022,15860,West Virginia St.,1439
+9,1867289,Andrew Stone,UT,Sr,45,44,2022,15860,West Virginia St.,1439
 19,2502674,Camron Lewis,P,Jr,8,0,2022,15860,West Virginia St.,1439
 33,2673645,Peyton Stover,INF,Fr,8,1,2022,15860,West Virginia St.,1439
 5,2673628,Quincy Thornton,INF,Fr,10,9,2022,15860,West Virginia St.,1439
 30,2673647,Riley Vadasz,P,Fr,13,1,2022,15860,West Virginia St.,1439
 7,2673638,Dante Zamudio,UT,Fr,37,28,2022,15860,West Virginia St.,1439
 6,2673635,Andrew Sharp,C,Sr,39,38,2022,15860,West Virginia St.,1439
-9,1867289,Andrew Stone,UT,Sr,45,44,2022,15860,West Virginia St.,1439
+12,2116459,Michael Stone,UT,Sr,44,44,2022,15860,West Virginia St.,1439
 31,2116460,Stanley Kinder,P,Jr,0,0,2022,15860,West Virginia St.,1439
 25,2116461,Cole Kiddy,C,Sr,5,3,2022,15860,West Virginia St.,1439
 13,2116418,Dylan Ball,UT,So,24,21,2022,15860,West Virginia St.,1439
@@ -6891,13 +6891,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,2353251,Jared Salas,P,Jr,0,0,2022,15860,Buena Vista,84
 17,2145712,Logan Mueller,UT,Sr,38,34,2022,15860,Buena Vista,84
 28,2353254,Spencer Holmes,P,Jr,10,0,2022,15860,Buena Vista,84
-4,2353269,Jordan Mathewson,INF,Jr,39,39,2022,15860,Buena Vista,84
+7,2353255,Caden Mathewson,INF,Jr,41,40,2022,15860,Buena Vista,84
 40,2353265,Garrett Anderson,P,Jr,0,0,2022,15860,Buena Vista,84
 22,2353259,Zack Beekman,INF,Jr,35,31,2022,15860,Buena Vista,84
 2,2353249,Aiden Brock,UT,Jr,9,0,2022,15860,Buena Vista,84
 30,2353264,Kyler Corcoran,OF,Jr,27,20,2022,15860,Buena Vista,84
 20,2353218,Michael Demers,P,Sr,10,1,2022,15860,Buena Vista,84
-7,2353255,Caden Mathewson,INF,Jr,41,40,2022,15860,Buena Vista,84
+4,2353269,Jordan Mathewson,INF,Jr,39,39,2022,15860,Buena Vista,84
 10,2680899,Jacob Eversole,OF,Fr,6,0,2022,15860,Buena Vista,84
 21,2680902,Mark Eddie,P,Fr,13,13,2022,15860,Buena Vista,84
 11,2680900,Joel Garcia,SS,Fr,41,39,2022,15860,Buena Vista,84
@@ -7026,8 +7026,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27.0,2129333,Andrew Norred,P,Sr,17,0,2022,15860,Berry,973
 19.0,2322164,Patrick O'Rourke,P,Jr,13,12,2022,15860,Berry,973
 53.0,2482693,Andrew Pendleton,C,So,39,36,2022,15860,Berry,973
-3.0,2321873,John Poist,INF,Jr,31,19,2022,15860,Berry,973
 4.0,2482688,Jack Poist,OF,So,35,35,2022,15860,Berry,973
+3.0,2321873,John Poist,INF,Jr,31,19,2022,15860,Berry,973
 26.0,2129332,Trevor Proctor,C,Sr,6,0,2022,15860,Berry,973
 8.0,1988429,Dalton Smith,INF,Sr,34,25,2022,15860,Berry,973
 40.0,2322162,Charles Stephenson,INF,Jr,15,6,2022,15860,Berry,973
@@ -7122,14 +7122,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,1976059,Mckabe Cottrell,P,Jr,15,13,2022,15860,Washington St.,754
 30,2671303,Will Cresswell,C,Fr,26,21,2022,15860,Washington St.,754
 49,2472098,Duke Brotherton,P,So,6,0,2022,15860,Washington St.,754
-36,2332025,Matt Erickson,C,So,0,0,2022,15860,Washington St.,754
+40,1999863,Matthew Erickson,P,Jr,5,1,2022,15860,Washington St.,754
 57,2472106,Elias Farland,P,So,14,0,2022,15860,Washington St.,754
 41,2471764,Chase Grillo,P,So,30,0,2022,15860,Washington St.,754
 7,2671287,Hylan Hall,OF,So,28,17,2022,15860,Washington St.,754
 24,2472089,Dakota Hawkins,P,Jr,10,2,2022,15860,Washington St.,754
 54,2472102,Tyler Hoeft,P,So,25,1,2022,15860,Washington St.,754
 11,2472084,Keith Jones Ii,OF,So,19,8,2022,15860,Washington St.,754
-40,1999863,Matthew Erickson,P,Jr,5,1,2022,15860,Washington St.,754
+36,2332025,Matt Erickson,C,So,0,0,2022,15860,Washington St.,754
 35,2673220,Deaton Oak,P,Fr,2,0,2022,15860,West Virginia,768
 37,2138490,Zach Ottinger,P,Sr,17,0,2022,15860,West Virginia,768
 43,2138493,Daniel Ouderkirk,P,Jr,9,0,2022,15860,West Virginia,768
@@ -7174,8 +7174,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 44,2478905,Ben Seeger,P,So,12,0,2022,15860,Christian Brothers,1015
 20,2478825,Matthew Mcdaniel,C,So,26,24,2022,15860,Christian Brothers,1015
 7,2661362,Van True,INF,Fr,46,46,2022,15860,Christian Brothers,1015
-1,1985875,Keagan Voss,OF,Sr,46,46,2022,15860,Christian Brothers,1015
 4,2329942,Reid Voss,OF,So,11,9,2022,15860,Christian Brothers,1015
+1,1985875,Keagan Voss,OF,Sr,46,46,2022,15860,Christian Brothers,1015
 28,2139036,Jamarion White,1B,Jr,11,9,2022,15860,Christian Brothers,1015
 22,2672994,Jake Wurms,p,Fr,15,5,2022,15860,Christian Brothers,1015
 3,2478903,Hayden Smith,INF,So,8,1,2022,15860,Christian Brothers,1015
@@ -7450,7 +7450,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2664500,Benjamin Kleiman,P,Fr,3,0,2022,15860,Lesley,24317
 7,2309242,Cj Fusco,OF,Jr,7,0,2022,15860,Lesley,24317
 25,2656016,Nate Polo,OF,Fr,24,24,2022,15860,Penn,540
-2,2329764,Ben Miller,INF,Jr,48,48,2022,15860,Penn,540
+33,2137381,Joe Miller,P,Sr,13,11,2022,15860,Penn,540
 17,2656011,Noah Millikan,P,Fr,5,2,2022,15860,Penn,540
 31,2521781,Justin Neskie,P,So,2,0,2022,15860,Penn,540
 14,2521779,Carson Ozmer,SS,So,25,10,2022,15860,Penn,540
@@ -7460,7 +7460,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,2329775,David Shoemaker,P,Jr,21,0,2022,15860,Penn,540
 13,2656018,Will Tobin,P,Fr,6,2,2022,15860,Penn,540
 37,2656022,Eli Trop,P,Fr,10,0,2022,15860,Penn,540
-33,2137381,Joe Miller,P,Sr,13,11,2022,15860,Penn,540
+2,2329764,Ben Miller,INF,Jr,48,48,2022,15860,Penn,540
 39,2656024,Asa Wilson,C,Fr,20,16,2022,15860,Penn,540
 12,2521778,Cole Zaffiro,P,So,14,10,2022,15860,Penn,540
 26,2329777,Brian Zeldin,P,Jr,2,2,2022,15860,Penn,540
@@ -7521,8 +7521,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 51,2667852,Brett Lauterbach,P,So,8,0,2022,15860,Roger Williams,583
 19,2667825,Alec Lavallee,OF,Fr,12,7,2022,15860,Roger Williams,583
 25,2524818,Michael Masino,INF,So,32,32,2022,15860,Roger Williams,583
-14,2333736,Dan Massaro,P,Jr,9,8,2022,15860,Roger Williams,583
 13,2333728,Matt Massaro,INF,Jr,40,40,2022,15860,Roger Williams,583
+14,2333736,Dan Massaro,P,Jr,9,8,2022,15860,Roger Williams,583
 12,2333741,Evan Melo,OF,Jr,4,0,2022,15860,Roger Williams,583
 2,2495747,Jack Morin,C,So,32,31,2022,15860,Roger Williams,583
 17,2131798,Connor Padovich,P,Sr,4,0,2022,15860,Roger Williams,583
@@ -7543,8 +7543,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,2333735,Cam Duffy,UT,Jr,0,0,2022,15860,Roger Williams,583
 39,2667840,Kyle Egan,P,Fr,1,0,2022,15860,Roger Williams,583
 5,2333743,Matt Falvey,OF,Jr,18,8,2022,15860,Roger Williams,583
-20,2519246,Christopher Flynn,OF,Jr,35,35,2022,15860,Roger Williams,583
 32,2004081,Chris Flynn,P,Sr,15,13,2022,15860,Roger Williams,583
+20,2519246,Christopher Flynn,OF,Jr,35,35,2022,15860,Roger Williams,583
 9,2131783,Tommy Hobin,INF,Sr,31,28,2022,15860,Roger Williams,583
 15,1891233,Justin Garcia,P,Sr,11,11,2022,15860,Roger Williams,583
 47,2495754,Conor Gaughan,P,So,0,0,2022,15860,Roger Williams,583
@@ -7633,7 +7633,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,2681288,Luke Rohleder,rf,So,28,1,2022,15860,Washington,756
 27,2685068,Gianluca Shinn,p,Fr,2,0,2022,15860,Washington,756
 22,2683300,Jarred Mazzaferro,2b,So,26,9,2022,15860,Washington,756
-9,1998102,Ben Smith,C,Sr,19,4,2022,15860,Washington,756
+19,2319176,Gabe Smith,P,Sr,0,0,2022,15860,Washington,756
 16,2319177,Michael Snyder,INF,So,50,48,2022,15860,Washington,756
 2,2319179,Johnny Tincher,C,So,54,52,2022,15860,Washington,756
 1,2309103,Josh Urps,INF,Sr,47,42,2022,15860,Washington,756
@@ -7641,7 +7641,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,2319180,Preston Viltz,OF,So,29,9,2022,15860,Washington,756
 13,2683301,Colby Wallace,ph,Fr,28,20,2022,15860,Washington,756
 10,2319139,Will Simpson,INF,So,56,55,2022,15860,Washington,756
-19,2319176,Gabe Smith,P,Sr,0,0,2022,15860,Washington,756
+9,1998102,Ben Smith,C,Sr,19,4,2022,15860,Washington,756
 36,2472140,Case Matter,P,So,19,7,2022,15860,Washington,756
 43,2472143,Jake Leitgeb,C,So,13,6,2022,15860,Washington,756
 44,2681293,Bryce Armstrong,p,So,17,2,2022,15860,Washington,756
@@ -7679,8 +7679,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18,2336540,Manny Sierra,C,Sr,21,17,2022,15860,CSU Pueblo,2720
 25,2651801,Dylan Weaver,P,So,18,0,2022,15860,CSU Pueblo,2720
 51,2651802,Frank Wierman,P,Fr,15,0,2022,15860,CSU Pueblo,2720
-3,2651774,Charlie Williams,P,So,14,2,2022,15860,CSU Pueblo,2720
 13,2129275,Reggie Williams,INF,Jr,53,51,2022,15860,CSU Pueblo,2720
+3,2651774,Charlie Williams,P,So,14,2,2022,15860,CSU Pueblo,2720
 6,2472130,Brodie Blackford,3B,So,20,5,2022,15860,CSU Pueblo,2720
 21,2472132,Nick Parisi,P,So,1,0,2022,15860,CSU Pueblo,2720
 38,2651791,Tyson Pallatt,OF,Fr,32,29,2022,15860,CSU Pueblo,2720
@@ -7890,9 +7890,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2503197,Ethan Edelson,P,So,20,0,2022,15860,Delaware St.,178
 17,2508739,Peter Carreca,P,So,12,8,2022,15860,Delaware St.,178
 5,2508737,Brady Daniels,INF,So,32,27,2022,15860,Delaware St.,178
-10,2126427,Zach Aehlert,C,Sr,51,51,2022,15860,Belmont Abbey,2683
-2,2675858,T. Beck,ss,,2,1,2022,15860,Belmont Abbey,2683
 43,2519608,Nic Aehlert,P,So,21,6,2022,15860,Belmont Abbey,2683
+2,2675858,T. Beck,ss,,2,1,2022,15860,Belmont Abbey,2683
+10,2126427,Zach Aehlert,C,Sr,51,51,2022,15860,Belmont Abbey,2683
 45,2697415,Aengus Adams,ph/3b,So,1,0,2022,15860,Belmont Abbey,2683
 4,2126412,Matty Bapt,C,Sr,19,15,2022,15860,Belmont Abbey,2683
 30,2112155,David Dobson,P,So,3,0,2022,15860,Belmont Abbey,2683
@@ -7922,8 +7922,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 42,2681910,Reed Marcum,ph/cf,Fr,1,0,2022,15860,Belmont Abbey,2683
 36,2674789,Kai Giro,p,Fr,2,0,2022,15860,Belmont Abbey,2683
 11,2670690,Jake Craddock,P,So,15,0,2022,15860,Belmont Abbey,2683
-5,2494035,Danny Cruz,1B,So,0,0,2022,15860,Belmont Abbey,2683
 44,2126452,Trey Cruz,P,Sr,10,1,2022,15860,Belmont Abbey,2683
+5,2494035,Danny Cruz,1B,So,0,0,2022,15860,Belmont Abbey,2683
 38,2508225,Juan Diaz,ph,Fr,0,0,2022,15860,Belmont Abbey,2683
 26,2667590,Carter Duhaime,OF,Fr,22,7,2022,15860,Belmont Abbey,2683
 5,2496960,Brady Emerson,OF,Fr,31,13,2022,15860,Belmont Abbey,2683
@@ -7987,8 +7987,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,2139043,Deandre Swift,OF,Sr,36,17,2022,15860,Clark Atlanta,144
 1,2478280,Menra Mapfumo,OF,So,9,0,2022,15860,Clark Atlanta,144
 15,2525200,Noah Jones,2B,So,5,0,2022,15860,Clark Atlanta,144
-44,2150639,Jakir Jackson,3B,Sr,1,0,2022,15860,Clark Atlanta,144
 2,2369839,Bradley Jackson,OF,Jr,4,0,2022,15860,Clark Atlanta,144
+44,2150639,Jakir Jackson,3B,Sr,1,0,2022,15860,Clark Atlanta,144
 28,2693470,C. Holloway,p,,4,0,2022,15860,Clark Atlanta,144
 7,2346104,Daniel Gay,OF,Jr,29,15,2022,15860,Clark Atlanta,144
 25,2674425,Andrew Gaskin,1B,Sr,39,26,2022,15860,Clark Atlanta,144
@@ -8007,8 +8007,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,2513842,Herbert Dudley,OF,So,1,1,2022,15860,Clark Atlanta,144
 11,2346103,Michael Fegins,1B,Jr,22,10,2022,15860,Clark Atlanta,144
 26,2674422,Jaden Foster,INF,Fr,20,5,2022,15860,Clark Atlanta,144
-6,2520315,Jerry Freeman,C,Sr,30,16,2022,15860,Clark Atlanta,144
 6,2676739,Tripp Freeman,c,Fr,3,3,2022,15860,Clark Atlanta,144
+6,2520315,Jerry Freeman,C,Sr,30,16,2022,15860,Clark Atlanta,144
 27.0,2322184,Garrett Arredondo,P,Fr,13,1,2022,15860,UT Tyler,30028
 50.0,2656827,Tyler Baack,P,Fr,6,0,2022,15860,UT Tyler,30028
 1.0,2475823,Alex Bruce,OF,Jr,26,4,2022,15860,UT Tyler,30028
@@ -8038,8 +8038,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26.0,2475811,Kyle Hawkins,OF,Jr,29,17,2022,15860,UT Tyler,30028
 24.0,2140404,Jordan Gochenour,INF,Jr,37,37,2022,15860,UT Tyler,30028
 14.0,2322180,Josh Garza,P,Sr,5,0,2022,15860,UT Tyler,30028
-37.0,2475928,Nolan Cox,P,Jr,11,10,2022,15860,UT Tyler,30028
 5.0,2475810,Carson Cox,OF,Jr,48,46,2022,15860,UT Tyler,30028
+37.0,2475928,Nolan Cox,P,Jr,11,10,2022,15860,UT Tyler,30028
 16.0,2301771,Hayden Collins,P,Jr,11,4,2022,15860,UT Tyler,30028
 2.0,2475803,Hayden Clearman,OF,So,36,23,2022,15860,UT Tyler,30028
 35.0,2322186,Kyle Mcshaffry,INF,Sr,52,51,2022,15860,UT Tyler,30028
@@ -8419,8 +8419,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,2677746,Ben Slaughter,C,Fr,10,2,2022,15860,Middlebury,420
 26,2348191,Mitchell Schroeder,C,Jr,27,25,2022,15860,Middlebury,420
 4,2677772,Nathan Samii,INF,Fr,28,20,2022,15860,Middlebury,420
-42,2677777,Isaac Rosario,OF,Fr,10,3,2022,15860,Middlebury,420
 7,2145179,Alex Rosario,P,Jr,10,10,2022,15860,Middlebury,420
+42,2677777,Isaac Rosario,OF,Fr,10,3,2022,15860,Middlebury,420
 15,2354964,Beau Root,OF,So,39,33,2022,15860,Middlebury,420
 5,2145163,Alec Ritch,OF,Jr,43,43,2022,15860,Middlebury,420
 22,2145180,Alex Price,P,Jr,13,12,2022,15860,Middlebury,420
@@ -8491,16 +8491,16 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23.0,2661625,Nick Remy,P,Fr,17,8,2022,15860,UMBC,391
 45.0,2661646,Hunter Rivera,OF,Fr,4,0,2022,15860,UMBC,391
 13.0,2484617,Drew Roberts,INF,So,53,53,2022,15860,UMBC,391
-9.0,2308074,Jack Ryan,C,Jr,11,0,2022,15860,UMBC,391
 12.0,2661591,Matt Ryan,INF,,42,37,2022,15860,UMBC,391
-40.0,1988376,Michael Schwartz,P,Sr,7,0,2022,15860,UMBC,391
+9.0,2308074,Jack Ryan,C,Jr,11,0,2022,15860,UMBC,391
+3.0,2116525,Adam Schwartz,OF,Jr,11,0,2022,15860,UMBC,391
 24.0,2318911,Max Nielsen,P,Jr,3,0,2022,15860,UMBC,391
 17.0,2661614,Eric  Shandler,INF,Fr,29,5,2022,15860,UMBC,391
 35.0,2661594,Jayden Shertel,P,Fr,45,26,2022,15860,UMBC,391
 30.0,2661618,Justin  Taylor,P,Jr,54,54,2022,15860,UMBC,391
 18.0,2484629,Luke Trythall,INF,So,54,46,2022,15860,UMBC,391
 16.0,2127170,Luke Wootten,P,Jr,0,0,2022,15860,UMBC,391
-3.0,2116525,Adam Schwartz,OF,Jr,11,0,2022,15860,UMBC,391
+40.0,1988376,Michael Schwartz,P,Sr,7,0,2022,15860,UMBC,391
 43.0,2661612,Evan Selmer,INF,Fr,19,1,2022,15860,UMBC,391
 34.0,2484623,Tyler Mcdonnell,P,Sr,6,0,2022,15860,UMBC,391
 34.0,2308010,Keegan Leffler,P,Sr,20,7,2022,15860,UMBC,391
@@ -8644,8 +8644,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 40,2484574,Ian Wilbur,P,So,10,0,2022,15860,Mansfield,384
 4,2484550,Zachary Shertzer,INF,So,42,40,2022,15860,Mansfield,384
 22,2484562,Dylan Mercedes,INF,So,33,24,2022,15860,Mansfield,384
-32,2307149,Brandon Mengel,2B,Jr,0,0,2022,15860,Mansfield,384
 10,1889176,Brady Mengel,SS,Sr,44,44,2022,15860,Mansfield,384
+32,2307149,Brandon Mengel,2B,Jr,0,0,2022,15860,Mansfield,384
 36,2307179,Todd Erney,P,Jr,8,4,2022,15860,Mansfield,384
 6,2307146,Josh Farina,OF,Jr,21,14,2022,15860,Mansfield,384
 28,2307150,Lorenzo Febbo,OF,Sr,12,0,2022,15860,Mansfield,384
@@ -8744,9 +8744,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2473365,Kalum Banks,INF,So,25,25,2022,15860,Lane,347
 10,2666159,Cullen Odom,,So,12,3,2022,15860,Lane,347
 9,2666160,Caleb Osee,,So,12,6,2022,15860,Lane,347
+1,2331719,Jordan Smith,OF,Jr,33,31,2022,15860,Lane,347
 12,2331720,Pharoah Smith,INF,Sr,21,11,2022,15860,Lane,347
 2,2666161,Andrew Smith,,So,34,32,2022,15860,Lane,347
-1,2331719,Jordan Smith,OF,Jr,33,31,2022,15860,Lane,347
 6,2666162,Walt Thomson,,Fr,33,28,2022,15860,Lane,347
 13,2331712,Omar Tompkins,P,Sr,12,7,2022,15860,Lane,347
 25,2131281,Shamond Villaflor,OF,Sr,1,0,2022,15860,Lane,347
@@ -8913,8 +8913,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23.0,2680385,Michael Brannon,INF,Fr,1,0,2022,15860,Wis.-Superior,804
 11.0,2492353,Will Bess,OF,Sr,8,3,2022,15860,Wis.-Superior,804
 27.0,2492379,James Besaw,OF,Jr,3,0,2022,15860,Wis.-Superior,804
-21.0,2680299,Brayden Bender,C,Fr,1,0,2022,15860,Wis.-Superior,804
 34.0,2006254,Dante Bender,P,Sr,2,0,2022,15860,Wis.-Superior,804
+21.0,2680299,Brayden Bender,C,Fr,1,0,2022,15860,Wis.-Superior,804
 18.0,2492374,Jack Barnett,P,So,2,1,2022,15860,Wis.-Superior,804
 10,2307270,David Asbill,OF,Jr,13,9,2022,15860,Averett,44
 30,2457462,Logan Albertson,UT,So,0,0,2022,15860,Averett,44
@@ -9219,8 +9219,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,2486463,Colby Martin,2B,So,0,0,2022,15860,Shenandoah,637
 5,2001002,Matt Moon,C,Sr,39,27,2022,15860,Shenandoah,637
 11,2331306,Reilly Owen,P,So,17,13,2022,15860,Shenandoah,637
-1,2133359,Austin Partin,UT,Sr,7,1,2022,15860,Shenandoah,637
 47,2486473,Dillon Partin,C,So,1,0,2022,15860,Shenandoah,637
+1,2133359,Austin Partin,UT,Sr,7,1,2022,15860,Shenandoah,637
 37,2133458,Calvin Pastel,UT,Sr,13,12,2022,15860,Shenandoah,637
 53,2668138,Brody Pickette,C,Fr,11,6,2022,15860,Shenandoah,637
 4,2486444,Ethan Laird,P,Jr,6,2,2022,15860,Shenandoah,637
@@ -9431,11 +9431,11 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 40,2676769,Izaiah Ayala,p,Fr,8,1,2022,15860,Hawaii Pacific,2696
 36,2507477,Maxime Beaulieu,p,So,9,5,2022,15860,Hawaii Pacific,2696
 35,2522930,Noah Blythe,1b,So,0,0,2022,15860,Hawaii Pacific,2696
-15,2329865,Daniel Cortez,UT,Jr,10,1,2022,15860,Hawaii Pacific,2696
+7,2675910,Giancarlo Cortez,p,So,22,8,2022,15860,Hawaii Pacific,2696
 39,2329945,Edward Lee,P,Jr,14,0,2022,15860,Hawaii Pacific,2696
 16,2685866,Jake Defiore,p,Jr,1,0,2022,15860,Hawaii Pacific,2696
 34,2506053,Tyler Deyoung,c,So,0,0,2022,15860,Hawaii Pacific,2696
-7,2675910,Giancarlo Cortez,p,So,22,8,2022,15860,Hawaii Pacific,2696
+15,2329865,Daniel Cortez,UT,Jr,10,1,2022,15860,Hawaii Pacific,2696
 1,2329850,Diego Harris,OF,Sr,28,17,2022,15860,Hawaii Pacific,2696
 24,2675911,Dominic Folks,ph,So,17,9,2022,15860,Hawaii Pacific,2696
 20,2329926,Nicholas Jio,INF,Jr,44,43,2022,15860,Hawaii Pacific,2696
@@ -9500,8 +9500,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,2127234,Ryan Vera,P,So,20,0,2022,15860,Texas-Dallas,23121
 17,2133673,Marcos Villegas,OF,Fr,52,52,2022,15860,Texas-Dallas,23121
 26,2673449,Alex Vo,P,Fr,2,0,2022,15860,Texas-Dallas,23121
-19,2117226,Zac Vorst,INF,So,38,37,2022,15860,Texas-Dallas,23121
 29,2673475,Andrew Vorst,P,Fr,15,0,2022,15860,Texas-Dallas,23121
+19,2117226,Zac Vorst,INF,So,38,37,2022,15860,Texas-Dallas,23121
 65,2490286,Kenton Weiland,P,Fr,0,0,2022,15860,Texas-Dallas,23121
 6,2337430,Nick Williby,OF,So,2,0,2022,15860,Texas-Dallas,23121
 34,2337435,Joshua Wood,P,Fr,17,2,2022,15860,Texas-Dallas,23121
@@ -9652,17 +9652,17 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,2667607,Brent Rigtrup,c,Jr,27,17,2022,15860,Holy Names,30175
 25,2675053,Calvin Reed,c,So,9,5,2022,15860,Holy Names,30175
 31,2670962,Steven Palermo,p,Fr,20,2,2022,15860,Holy Names,30175
-9,2667606,Nicholas Martinez,p,So,35,28,2022,15860,Holy Names,30175
+17,2670740,S Martinez,p,Jr,13,0,2022,15860,Holy Names,30175
 27,2329228,Morgan Mcintosh,INF,Sr,50,50,2022,15860,Holy Names,30175
 44,2329307,Dominic Masciel,C,Sr,38,28,2022,15860,Holy Names,30175
-17,2670740,S Martinez,p,Jr,13,0,2022,15860,Holy Names,30175
+9,2667606,Nicholas Martinez,p,So,35,28,2022,15860,Holy Names,30175
 30,2670769,Jordan Lew-Gibbons,1B,Jr,32,19,2022,15860,Holy Names,30175
 25,2525211,Kyler Laramie,ph/3b,Sr,5,1,2022,15860,Holy Names,30175
 38,2685826,Carson Kelley,p,Fr,4,0,2022,15860,Holy Names,30175
 35,2329262,Ian Wadenius,P,Jr,9,0,2022,15860,Holy Names,30175
 26,2514257,Sebastian Olivo,p,Jr,11,7,2022,15860,Holy Names,30175
 3,2329069,Erik Wassmer,UT,Sr,9,1,2022,15860,Holy Names,30175
-14,2514228,Andrew Evans,2b,Jr,3,0,2022,15860,Holy Names,30175
+3,2667615,Carson Evans,cf,Fr,25,8,2022,15860,Holy Names,30175
 11,2675052,Jack Erickson,p,Jr,4,0,2022,15860,Holy Names,30175
 29,2329245,Max Alers,P,Sr,6,0,2022,15860,Holy Names,30175
 26,2675051,Patrick Barnum,3b,Fr,21,7,2022,15860,Holy Names,30175
@@ -9674,7 +9674,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2514261,Jake Creamer,ph/rf,Jr,36,12,2022,15860,Holy Names,30175
 33,2670768,M Denhartog,1b,So,21,9,2022,15860,Holy Names,30175
 23,2667605,Richard Kabasinskas,lf,Jr,30,24,2022,15860,Holy Names,30175
-3,2667615,Carson Evans,cf,Fr,25,8,2022,15860,Holy Names,30175
+14,2514228,Andrew Evans,2b,Jr,3,0,2022,15860,Holy Names,30175
 28,2670961,Matt Freeman,p,Jr,23,0,2022,15860,Holy Names,30175
 1,2329055,Nariki Fujimura,INF,Sr,37,31,2022,15860,Holy Names,30175
 40,2329301,Tyler Georgeson,INF,Sr,28,24,2022,15860,Holy Names,30175
@@ -9800,8 +9800,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 3,2308642,Tor Sehnert,OF,Sr,14,12,2022,15860,Fla. Southern,233
 99,2506047,Cade Shissler,INF,Jr,7,6,2022,15860,Fla. Southern,233
 42,2308405,Christian Suarez,P,Sr,14,0,2022,15860,Fla. Southern,233
-15,2146999,Bobby Turkett,P,Jr,2,0,2022,15860,Fla. Southern,233
 18,2523118,Tommy Turkett,P,So,1,0,2022,15860,Fla. Southern,233
+15,2146999,Bobby Turkett,P,Jr,2,0,2022,15860,Fla. Southern,233
 45,2006507,Logan Verrino,P,Sr,13,1,2022,15860,Fla. Southern,233
 48,2653549,Andrew White,P,So,1,0,2022,15860,Fla. Southern,233
 21,2146854,Andrew Williamson,P,So,8,2,2022,15860,Fla. Southern,233
@@ -9834,13 +9834,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26,2663098,Robert Clarke,P,Fr,10,3,2022,15860,Fitchburg St.,227
 48,2663144,Jason Bickford,P,Fr,8,1,2022,15860,Fitchburg St.,227
 31,2663130,Orion Daily,P,Fr,7,7,2022,15860,Fitchburg St.,227
-22,2663128,Matthew Wilson,P,Fr,7,0,2022,15860,Fitchburg St.,227
-8,2663088,Cole Duhaime,OF,Fr,22,15,2022,15860,Fitchburg St.,227
 30,2663129,Evan Wilson,OF,Fr,14,3,2022,15860,Fitchburg St.,227
+8,2663088,Cole Duhaime,OF,Fr,22,15,2022,15860,Fitchburg St.,227
+22,2663128,Matthew Wilson,P,Fr,7,0,2022,15860,Fitchburg St.,227
 13,2347196,Jaime Velez,OF,Jr,32,25,2022,15860,Fitchburg St.,227
 10,2496640,Jackson 	 Vail,INF,Sr,20,13,2022,15860,Fitchburg St.,227
-28,2663136,Silas Thomas,P,So,25,17,2022,15860,Fitchburg St.,227
 7,2663087,Ronald Thomas,INF,Sr,3,1,2022,15860,Fitchburg St.,227
+28,2663136,Silas Thomas,P,So,25,17,2022,15860,Fitchburg St.,227
 6,2663086,Matthew Smith,INF,Fr,4,1,2022,15860,Fitchburg St.,227
 20,2496641,Anthony Silverio,INF,Jr,5,1,2022,15860,Fitchburg St.,227
 18,1999904,Richard Sharp,P,Sr,37,30,2022,15860,Fitchburg St.,227
@@ -10032,8 +10032,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2485369,Owen Christenson,3B,Jr,34,25,2022,15860,Hamline,268
 3,2007308,Cullen Buck,2B,Sr,34,34,2022,15860,Hamline,268
 55,2311089,Mac Enlow,P,So,39,38,2022,15860,Hamline,268
-9,2659759,Caden Erickson,3B,Fr,16,10,2022,15860,Hamline,268
 33,2485354,Elijah Erickson,P,So,2,0,2022,15860,Hamline,268
+9,2659759,Caden Erickson,3B,Fr,16,10,2022,15860,Hamline,268
 0,2310959,Dan Fredericks,P,Sr,6,0,2022,15860,Hamline,268
 13,2485348,Tyler Johnson,3B,So,34,29,2022,15860,Hamline,268
 1,2485340,Spencer Klika,P,So,7,1,2022,15860,Hamline,268
@@ -10157,7 +10157,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,2301602,Griffin King,INF,Jr,37,34,2022,15860,Illinois Col.,297
 31,1988466,Kole Lowry,P,Sr,13,0,2022,15860,Illinois Col.,297
 48,2483183,Reilly Macdonald,INF,So,0,0,2022,15860,Illinois Col.,297
-51.0,2361701,Matthew Novakowski,C,Sr,22,17,2022,15860,Merchant Marine,724
+15.0,2361653,Ryan Novakowski,P,Jr,6,0,2022,15860,Merchant Marine,724
 12.0,2150164,Garrett Aichele,OF,Sr,16,8,2022,15860,Merchant Marine,724
 44.0,2361700,Joey Zanetti,OF,Jr,45,45,2022,15860,Merchant Marine,724
 16.0,2685683,Derek Vanasse,UT,Fr,36,36,2022,15860,Merchant Marine,724
@@ -10168,7 +10168,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5.0,2529356,Jay Piotrowski,P,So,4,0,2022,15860,Merchant Marine,724
 41.0,2523410,Tommy Payton,C,So,17,0,2022,15860,Merchant Marine,724
 7.0,2150165,Brayden O'Connell,OF,Sr,36,32,2022,15860,Merchant Marine,724
-15.0,2361653,Ryan Novakowski,P,Jr,6,0,2022,15860,Merchant Marine,724
+51.0,2361701,Matthew Novakowski,C,Sr,22,17,2022,15860,Merchant Marine,724
 28.0,2686255,Michael Monkevich,P,Fr,14,6,2022,15860,Merchant Marine,724
 23.0,2522537,Jack Millen,INF,Fr,43,43,2022,15860,Merchant Marine,724
 10.0,2361699,Chris Klayer,P,Jr,7,1,2022,15860,Merchant Marine,724
@@ -10528,8 +10528,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 3,2334099,Brayton Brown,OF,Jr,6,3,2022,15860,Auburn,37
 51,2665808,Luke Burk,INF,Jr,11,0,2022,15860,Auburn,37
 21,2334049,Trace Bright,P,Jr,18,17,2022,15860,Auburn,37
-23,2665768,Parker Carlson,P,Fr,5,0,2022,15860,Auburn,37
 19,1977590,Brooks Carlson,INF,Sr,53,46,2022,15860,Auburn,37
+23,2665768,Parker Carlson,P,Fr,5,0,2022,15860,Auburn,37
 54,2665804,Konner Copeland,P,So,9,2,2022,15860,Auburn,37
 17,2139263,Sonny Dichiara,INF,Sr,61,61,2022,15860,Auburn,37
 57,1887536,Tyler Drabick,P,Sr,8,0,2022,15860,Auburn,37
@@ -10828,8 +10828,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 41,2654531,Sean Ryan,P,Fr,14,9,2022,15860,Nichols,484
 28,2654526,William Nath,C,Fr,16,12,2022,15860,Nichols,484
 22,2335190,Patrick Sawyer,P,Jr,6,0,2022,15860,Nichols,484
-4,2153362,Owen Sullivan,P,Sr,23,0,2022,15860,Nichols,484
 38,2654537,Noah Sullivan,P,Fr,6,0,2022,15860,Nichols,484
+4,2153362,Owen Sullivan,P,Sr,23,0,2022,15860,Nichols,484
 40,2654540,Jacob Tipton,C,Fr,1,0,2022,15860,Nichols,484
 36,2335174,Garrett Tracy,P,Jr,6,0,2022,15860,Nichols,484
 7,2150468,Victor Valentin,OF,Sr,36,32,2022,15860,Nichols,484
@@ -11019,8 +11019,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,2683857,Fernando Sladky,P,Fr,17,2,2022,15860,John Jay,321
 22,2683858,Ethan Simaan,UT,Fr,28,22,2022,15860,John Jay,321
 26,2683867,Christian Sanacora,P,So,18,1,2022,15860,John Jay,321
-6,2683859,Thomas Salerno,INF,Fr,34,27,2022,15860,John Jay,321
 7,2683860,Joseph Salerno,C,Fr,21,16,2022,15860,John Jay,321
+6,2683859,Thomas Salerno,INF,Fr,34,27,2022,15860,John Jay,321
 14,2683862,Angel Bayron,P,So,11,4,2022,15860,John Jay,321
 17,2354733,Preston Reitz,P,So,5,5,2022,15860,John Jay,321
 10,2683861,Christopher Nunez,SS,Sr,37,37,2022,15860,John Jay,321
@@ -11142,8 +11142,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30.0,1863400,Jimmy Flahive,P,Sr,15,0,2022,15860,American Int'l,22
 57.0,2682772,Ian Gallagher,P,Fr,13,6,2022,15860,American Int'l,22
 27.0,2148136,Brandon Gaul,OF,Sr,35,28,2022,15860,American Int'l,22
-5.0,2695605,A. Gonzalez,ph,,3,1,2022,15860,American Int'l,22
 54.0,2682707,Javier Gonzalez,INF,Fr,8,0,2022,15860,American Int'l,22
+5.0,2695605,A. Gonzalez,ph,,3,1,2022,15860,American Int'l,22
 0.0,2696773,Unknown Figueora,p,,3,0,2022,15860,American Int'l,22
 32.0,2330220,Emilio Acosta,OF,Jr,46,45,2022,15860,Assumption,36
 28.0,2330227,Joseph Bonvicini,P,Jr,0,0,2022,15860,Assumption,36
@@ -11383,8 +11383,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,1974047,Noah Thompson,P,Sr,18,2,2022,15860,Lipscomb,28600
 29,2309749,Logan Van Treeck,P,So,13,7,2022,15860,Lipscomb,28600
 30,2678913,Trace Willhoite,INF,Fr,58,58,2022,15860,Lipscomb,28600
-31,2309758,Patrick Williams,P,So,15,0,2022,15860,Lipscomb,28600
 44,2309752,Malik Williams,INF,Sr,58,58,2022,15860,Lipscomb,28600
+31,2309758,Patrick Williams,P,So,15,0,2022,15860,Lipscomb,28600
 21,2309737,John Shields,OF,Sr,50,46,2022,15860,Lipscomb,28600
 11,2462546,Hayden Skipper,UT,So,11,1,2022,15860,Lipscomb,28600
 22,2123316,Matthew Maldonado,UT,Jr,21,0,2022,15860,Lipscomb,28600
@@ -11502,8 +11502,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2471310,Brant Bennett,P,Sr,3,0,2022,15860,Washburn,2814
 20,2307083,Zion Bowlin,UT,Sr,38,38,2022,15860,Washburn,2814
 26,2654571,Jack Brimacombe,P,So,13,13,2022,15860,Washburn,2814
-28,2667178,Tyce Brown,OF,Fr,5,0,2022,15860,Washburn,2814
 10,2328651,Britt Brown,P,Sr,7,0,2022,15860,Washburn,2814
+28,2667178,Tyce Brown,OF,Fr,5,0,2022,15860,Washburn,2814
 18,2654573,Easton Bruce,OF,Fr,33,30,2022,15860,Washburn,2814
 15,2320714,Braden Burcham,P,Jr,3,0,2022,15860,Washburn,2814
 17,2471315,Joel Casillas,P,Sr,19,0,2022,15860,Washburn,2814
@@ -11580,10 +11580,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,2328671,Seth Brewer,P,Sr,13,8,2022,15860,Northern St.,1266
 45,2328760,Kai Brisk,INF,Jr,28,17,2022,15860,Northern St.,1266
 3,2488019,Zach Carolin,C,So,10,1,2022,15860,Northern St.,1266
-5,1987559,Isaiah Chevalier,INF,Sr,36,34,2022,15860,Northern St.,1266
+18,2488023,Michael Chevalier,P,So,8,6,2022,15860,Northern St.,1266
 8,2488020,Jackson Meyer,INF,So,20,6,2022,15860,Northern St.,1266
 37,2145239,Brandon Ford,P,Jr,1,0,2022,15860,Northern St.,1266
-18,2488023,Michael Chevalier,P,So,8,6,2022,15860,Northern St.,1266
+5,1987559,Isaiah Chevalier,INF,Sr,36,34,2022,15860,Northern St.,1266
 15,2668923,Evan Helvig,INF,Fr,5,0,2022,15860,Northern St.,1266
 22,2488024,Taite Hensley,P,So,3,0,2022,15860,Northern St.,1266
 14,2328591,Karson Hesser,INF,Jr,37,35,2022,15860,Northern St.,1266
@@ -11909,8 +11909,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,2353444,Charles Lebron,OF,Sr,47,47,2022,15860,Franklin Pierce,241
 20,2353442,Andres Auffant,P,So,9,5,2022,15860,Franklin Pierce,241
 32,2683578,Stephen Bangs,P,Fr,4,0,2022,15860,Franklin Pierce,241
-15,2353443,Ian Battipaglia,INF,So,48,48,2022,15860,Franklin Pierce,241
 19,2353427,Eli Battipaglia,OF,So,5,0,2022,15860,Franklin Pierce,241
+15,2353443,Ian Battipaglia,INF,So,48,48,2022,15860,Franklin Pierce,241
 13,2144443,Jake Miller,C,Jr,40,39,2022,15860,Franklin Pierce,241
 8,2683571,Kai Cottle,P,Fr,3,0,2022,15860,Franklin Pierce,241
 34,2683580,Adam Dadinos,OF,Fr,1,0,2022,15860,Franklin Pierce,241
@@ -12458,8 +12458,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26.0,2667345,Kyle Clayton,OF,Jr,3,1,2022,15860,Ark.-Fort Smith,30105
 36.0,2667350,Evan Evans,OF,Fr,1,0,2022,15860,Ark.-Fort Smith,30105
 12.0,2469349,Logan Grant,P,So,11,11,2022,15860,Ark.-Fort Smith,30105
-21.0,2311182,Brayden Johnson,P,So,11,11,2022,15860,Ark.-Fort Smith,30105
 20.0,2311166,Trevor Johnson,P,So,8,2,2022,15860,Ark.-Fort Smith,30105
+21.0,2311182,Brayden Johnson,P,So,11,11,2022,15860,Ark.-Fort Smith,30105
 23.0,2469387,Blake Lindley,1B,So,8,5,2022,15860,Ark.-Fort Smith,30105
 11.0,2667307,Noah Davis,INF,Fr,29,27,2022,15860,Ark.-Fort Smith,30105
 39,2336023,Rush Preston,P,Jr,0,0,2022,15860,Covenant,30111
@@ -12509,8 +12509,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 57,2496775,Sean Mccann,P,So,0,0,2022,15860,Pacific  (NWC),2751
 44,2349122,Nolan Mcneill,INF,Sr,21,8,2022,15860,Pacific  (NWC),2751
 19,2653575,Patrick Muskat,1B,Jr,33,29,2022,15860,Pacific  (NWC),2751
-77,2126993,Tyler Nakata,P,Sr,2,1,2022,15860,Pacific  (NWC),2751
 71,2496782,Trent Nakata,P,So,1,1,2022,15860,Pacific  (NWC),2751
+77,2126993,Tyler Nakata,P,Sr,2,1,2022,15860,Pacific  (NWC),2751
 9,1985576,Max Nealon,INF,Sr,33,21,2022,15860,Pacific  (NWC),2751
 21,2653576,Cayden Okada,P,Fr,12,1,2022,15860,Pacific  (NWC),2751
 58,2496776,Reyn Okita,INF,So,0,0,2022,15860,Pacific  (NWC),2751
@@ -12564,8 +12564,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5.0,2150676,Jim Mundo,INF,Sr,0,0,2022,15860,Carthage,121
 33.0,2695072,Jacob Papagallo,p,Fr,2,0,2022,15860,Carthage,121
 34.0,2315023,Iyan Pelfree,UT,Jr,19,7,2022,15860,Carthage,121
-21.0,2315047,Bryce Prybylinski,INF,Sr,32,32,2022,15860,Carthage,121
 7.0,2315027,Austin Prybylinski,INF,Sr,37,37,2022,15860,Carthage,121
+21.0,2315047,Bryce Prybylinski,INF,Sr,32,32,2022,15860,Carthage,121
 30.0,2512040,Connor Riley,INF,Sr,0,0,2022,15860,Carthage,121
 24.0,2152086,Chance Roach,P,Sr,5,0,2022,15860,Carthage,121
 33.0,2512042,Ryan Scanlon,P,So,0,0,2022,15860,Carthage,121
@@ -12605,8 +12605,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 44,2651173,Nick Rincover,P,Jr,11,0,2022,15860,UC Irvine,109
 21,2651168,Cooper Robinson,P,Fr,14,1,2022,15860,UC Irvine,109
 11,2651165,Myles Smith,OF,Fr,22,11,2022,15860,UC Irvine,109
-42,2137726,Jake Spillane,P,Jr,7,0,2022,15860,UC Irvine,109
 33,2305187,Luke Spillane,OF,So,50,41,2022,15860,UC Irvine,109
+42,2137726,Jake Spillane,P,Jr,7,0,2022,15860,UC Irvine,109
 20,2470254,Michael Stanford,P,Sr,11,5,2022,15860,UC Irvine,109
 41,2470259,Roger Thomas,P,Fr,1,0,2022,15860,UC Irvine,109
 36,2305155,Troy Taylor,P,So,26,0,2022,15860,UC Irvine,109
@@ -13221,8 +13221,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,2145154,James Ingram,C,Sr,32,21,2022,15860,Johns Hopkins,322
 18,2302828,Matthew Cooper,3B,Jr,30,30,2022,15860,Johns Hopkins,322
 37,2663794,Jack Fulwiler,SS,Fr,3,0,2022,15860,Johns Hopkins,322
-35,2489311,Jarrett Miller,P,Sr,30,0,2022,15860,Morehead St.,444
 27,2489303,Zach Miller,P,Jr,13,0,2022,15860,Morehead St.,444
+35,2489311,Jarrett Miller,P,Sr,30,0,2022,15860,Morehead St.,444
 38,2677190,Max  Power,INF,Jr,10,2,2022,15860,Morehead St.,444
 9,2489292,Ryley Preece,INF,So,54,54,2022,15860,Morehead St.,444
 5,2681446,Sam Replogle,p,So,15,0,2022,15860,Morehead St.,444
@@ -13752,9 +13752,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2146449,Griffin Klein,P,Sr,7,0,2022,15860,Carroll  (CCIW),120
 35,2667354,Elliot Elm,P,Fr,6,3,2022,15860,Carroll  (CCIW),120
 32,2663558,Ty Addington,P,Fr,11,2,2022,15860,Adams St.,929
-33,2330331,Matt Bathauer,P,So,42,42,2022,15860,Adams St.,929
-0,2477861,Aidan Baker,P,Jr,0,0,2022,15860,Adams St.,929
 44,2330432,Mike Bathauer,3B,So,42,42,2022,15860,Adams St.,929
+0,2477861,Aidan Baker,P,Jr,0,0,2022,15860,Adams St.,929
+33,2330331,Matt Bathauer,P,So,42,42,2022,15860,Adams St.,929
 51,2330332,Caleb Raney,P,So,4,0,2022,15860,Adams St.,929
 5,2330402,Brody Bettis,INF,Jr,30,19,2022,15860,Adams St.,929
 8,2663567,Gunnar Martinez,INF,Fr,12,4,2022,15860,Adams St.,929
@@ -13801,13 +13801,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 38,2306052,Thomas Russell,P,Jr,9,4,2022,15860,Navy,726
 4,2116407,Joe Simourian,OF,Sr,22,16,2022,15860,Navy,726
 21,2306070,Nate Mitchell,P,Jr,10,10,2022,15860,Navy,726
-33,2306068,Alex Smith,C,Jr,43,41,2022,15860,Navy,726
+9,2306064,Colin Smith,INF,Jr,42,40,2022,15860,Navy,726
 17,2116408,Zach Stevens,INF,Sr,43,43,2022,15860,Navy,726
 28,2116409,Trent Topping,P,Sr,9,1,2022,15860,Navy,726
 48,2660517,Tanner Wade,P,Fr,9,0,2022,15860,Navy,726
 13,2459270,Zach Ward,P,So,15,0,2022,15860,Navy,726
 20,2459269,Matthew Shirah,P,So,11,11,2022,15860,Navy,726
-9,2306064,Colin Smith,INF,Jr,42,40,2022,15860,Navy,726
+33,2306068,Alex Smith,C,Jr,43,41,2022,15860,Navy,726
 2,2459267,Hudson Lehnertz,INF,So,30,16,2022,15860,Navy,726
 1,2303239,Logan Keller,INF,So,45,45,2022,15860,Navy,726
 19,2660492,Ivan Aguirre,INF,Fr,40,35,2022,15860,Navy,726
@@ -13910,8 +13910,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,2136376,Jack Jamison,OF,Sr,35,28,2022,15860,Gwynedd Mercy,12399
 20,2677436,Cody Judge,1B,Fr,8,0,2022,15860,Gwynedd Mercy,12399
 27,2677446,Joe Golden,P,So,15,0,2022,15860,Gwynedd Mercy,12399
-22,2677444,Ryan Bailey,P,Fr,12,7,2022,15860,Gwynedd Mercy,12399
 2,2136349,Rob Bailey,INF,Sr,38,38,2022,15860,Gwynedd Mercy,12399
+22,2677444,Ryan Bailey,P,Fr,12,7,2022,15860,Gwynedd Mercy,12399
 19,2677434,Anthony Barbosa,P,Fr,7,1,2022,15860,Gwynedd Mercy,12399
 1,2136371,Connor Boyd,INF,Sr,5,3,2022,15860,Gwynedd Mercy,12399
 8,2509865,Mitchell Bramsway,P,So,19,0,2022,15860,Gwynedd Mercy,12399
@@ -13936,8 +13936,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,2335255,Daniel Quintero Jr.,P,Jr,9,4,2022,15860,Hiram,281
 3,2335246,Zachary Scalf,P,Jr,7,0,2022,15860,Hiram,281
 31,2668677,Jacob Koces,P,Fr,7,0,2022,15860,Hiram,281
+49,2307737,Austin Smith,P,So,13,0,2022,15860,Hiram,281
 15,2486546,Carter Smith,1B,So,14,4,2022,15860,Hiram,281
-33,2668654,Cooper Smith,P,Fr,3,0,2022,15860,Hiram,281
 44,2335270,Tj Staton,OF,Jr,1,0,2022,15860,Hiram,281
 39,2486551,Aidan Stephens,P,So,11,3,2022,15860,Hiram,281
 40,2335236,Alex Stevenson,3B,Jr,2,0,2022,15860,Hiram,281
@@ -13946,7 +13946,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 43,2335238,Cody Wilson,OF,Jr,37,37,2022,15860,Hiram,281
 1,2143512,Kyle Workman,3B,Sr,40,40,2022,15860,Hiram,281
 45,2668684,Isaiah Wright,C,Fr,1,0,2022,15860,Hiram,281
-49,2307737,Austin Smith,P,So,13,0,2022,15860,Hiram,281
+33,2668654,Cooper Smith,P,Fr,3,0,2022,15860,Hiram,281
 38,2335268,Matthew Kardos,P,Jr,10,0,2022,15860,Hiram,281
 19,2335251,Stephen Javorek,P,Jr,12,9,2022,15860,Hiram,281
 9,2335235,Aidan Jantz,1B,Jr,17,8,2022,15860,Hiram,281
@@ -14112,8 +14112,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 55,2005312,Patrick Bigham,1B,Sr,33,33,2022,15860,Fredonia,242
 44,2656055,Ethan Blaisdell,1B,Jr,20,15,2022,15860,Fredonia,242
 15,2149171,A.J. Kinney,P,Sr,22,18,2022,15860,Fredonia,242
-13,2656123,Christian Brown,3B,Fr,6,0,2022,15860,Fredonia,242
 34,2311881,Ronald Brown,P,Jr,1,0,2022,15860,Fredonia,242
+13,2656123,Christian Brown,3B,Fr,6,0,2022,15860,Fredonia,242
 30,2656127,Jay Casey,3B,Fr,4,0,2022,15860,Fredonia,242
 43,2005279,Brian Chatt,C,Sr,13,13,2022,15860,Fredonia,242
 8,2503801,Ryan Davis,OF,So,9,7,2022,15860,Fredonia,242
@@ -14178,13 +14178,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,2652339,Bo Willis,C,So,47,46,2022,15860,Northwestern St.,508
 27,2652332,Chase Prestwich,P,Fr,16,1,2022,15860,Northwestern St.,508
 12,2303514,Cole Horton,OF,So,19,6,2022,15860,Northwestern St.,508
-3,2301766,Bryce Holmes,UT,Sr,37,31,2022,15860,Northwestern St.,508
+13,2652328,Broch Holmes,OF,So,22,14,2022,15860,Northwestern St.,508
 37,2303504,Will Hine,P,Sr,5,0,2022,15860,Northwestern St.,508
 24,2303486,Josh Banes,P,Sr,16,1,2022,15860,Northwestern St.,508
 34,2480086,Drayton Brown,P,So,13,13,2022,15860,Northwestern St.,508
 18,2303492,Cal Carver,P,Jr,14,14,2022,15860,Northwestern St.,508
 14,2303494,Gabe Colaianni,OF,So,52,46,2022,15860,Northwestern St.,508
-13,2652328,Broch Holmes,OF,So,22,14,2022,15860,Northwestern St.,508
+3,2301766,Bryce Holmes,UT,Sr,37,31,2022,15860,Northwestern St.,508
 41,2480092,Andrew Cossio,P,Jr,14,2,2022,15860,Northwestern St.,508
 54,2129239,Jeffery Elkins,OF,Jr,53,48,2022,15860,Northwestern St.,508
 40,2652324,Gus Collins,P,So,17,1,2022,15860,Northwestern St.,508
@@ -14479,8 +14479,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,1980426,Kyle Gulbrandson,OF,Sr,28,25,2022,15860,Sioux Falls,30128
 23,2314879,Sterling Haphey,INF,So,1,0,2022,15860,Sioux Falls,30128
 22,2357566,Greg Boland,C,Jr,31,26,2022,15860,Coast Guard,722
-33,2677889,Aidan Anderson,,Fr,18,0,2022,15860,Coast Guard,722
 36,2677891,Hayden Anderson,,Fr,0,0,2022,15860,Coast Guard,722
+33,2677889,Aidan Anderson,,Fr,18,0,2022,15860,Coast Guard,722
 25,2144164,Dan Wolf,P,Sr,16,0,2022,15860,Coast Guard,722
 34,2677893,Fletcher Bottke,,Fr,0,0,2022,15860,Coast Guard,722
 9,2518188,Pierson Wade,OF,So,2,0,2022,15860,Coast Guard,722
@@ -14498,8 +14498,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2357436,Nate Nam,INF,Sr,30,29,2022,15860,Coast Guard,722
 31,2518213,Lleyton Herb,INF,So,0,0,2022,15860,Coast Guard,722
 6,2518189,Christian Burzycki,INF,Sr,4,0,2022,15860,Coast Guard,722
-5,2357562,Blake Carroll,OF,Jr,31,31,2022,15860,Coast Guard,722
 12,2518211,John Carroll,OF,So,33,33,2022,15860,Coast Guard,722
+5,2357562,Blake Carroll,OF,Jr,31,31,2022,15860,Coast Guard,722
 21,2677900,Grayson Irwin,,Fr,13,10,2022,15860,Coast Guard,722
 29,2677896,Bode Dykens,,Fr,4,0,2022,15860,Coast Guard,722
 3,2677894,Wyatt Duthu,,Fr,33,33,2022,15860,Coast Guard,722
@@ -14565,12 +14565,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 37.0,2678809,Unknown Shumate,lf,Fr,23,16,2022,15860,Ozarks  (ASC),23008
 40.0,2134112,Rey Lozano,OF,Sr,0,0,2022,15860,Ozarks  (ASC),23008
 6.0,2493093,Trey Martin,P,So,0,0,2022,15860,Ozarks  (ASC),23008
-34.0,2678782,Grant Cross,P,Fr,13,12,2022,15860,Ozarks  (ASC),23008
+3.0,2481282,James Cross,INF,Sr,35,35,2022,15860,Ozarks  (ASC),23008
 5.0,2340468,Sam Box,INF,Sr,0,0,2022,15860,Ozarks  (ASC),23008
 26.0,2134096,Zachary Brizendine,P,Sr,13,0,2022,15860,Ozarks  (ASC),23008
 27.0,2493098,Carlos Castillo,C,So,20,18,2022,15860,Ozarks  (ASC),23008
 30.0,2481340,Takoda Chaney,P,Sr,0,0,2022,15860,Ozarks  (ASC),23008
-3.0,2481282,James Cross,INF,Sr,35,35,2022,15860,Ozarks  (ASC),23008
+34.0,2678782,Grant Cross,P,Fr,13,12,2022,15860,Ozarks  (ASC),23008
 38.0,2340944,Dylan Kuester,P,Sr,13,4,2022,15860,Ozarks  (ASC),23008
 27.0,2134097,Brooks Boshers,INF,Sr,0,0,2022,15860,Ozarks  (ASC),23008
 13.0,2678783,Unknown Didway,lf/1b,Jr,37,37,2022,15860,Ozarks  (ASC),23008
@@ -15029,8 +15029,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,2469824,Eli Martin,P,So,3,0,2022,15860,UT Martin,695
 13,2310122,Wil Lafollette,OF,So,44,44,2022,15860,UT Martin,695
 12,2469801,Alec Beaman,INF,So,42,42,2022,15860,UT Martin,695
-46,2469804,Drew Bell,P,Fr,1,0,2022,15860,UT Martin,695
 25,2469802,Blaze Bell,INF,Fr,20,18,2022,15860,UT Martin,695
+46,2469804,Drew Bell,P,Fr,1,0,2022,15860,UT Martin,695
 38,2310101,Wesley Bomar,P,Fr,0,0,2022,15860,UT Martin,695
 11,2365017,Warren Lee,P,So,10,1,2022,15860,UT Martin,695
 30,2676639,Grant Crihfield,P,So,1,0,2022,15860,UT Martin,695
@@ -15056,7 +15056,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 39,2525285,Anthony Poole,OF,Fr,7,5,2022,15860,Southern N.H.,468
 30,2656714,Zachary Ranney,OF,Fr,27,1,2022,15860,Southern N.H.,468
 2,2354248,Danniel Rivera,SS,So,57,57,2022,15860,Southern N.H.,468
-32,1987634,Joshua Roberge,P,Sr,15,13,2022,15860,Southern N.H.,468
+32,1987634,Josh Roberge,P,Sr,15,13,2022,15860,Southern N.H.,468
 33,2656717,Frankie Sanchez,UT,Fr,13,0,2022,15860,Southern N.H.,468
 5,2525289,Nick Sheehan,INF,Fr,19,0,2022,15860,Southern N.H.,468
 1,2002568,Idelson Taveras,OF,Sr,56,56,2022,15860,Southern N.H.,468
@@ -15065,9 +15065,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,2160094,George Welch,P,Jr,13,3,2022,15860,Southern N.H.,468
 28,2139827,Brandon White,P,So,15,13,2022,15860,Southern N.H.,468
 36,2656719,Preston Yerrington,P,Sr,11,0,2022,15860,Southern N.H.,468
-35,1974527,Angus Mayock,P,Sr,3,1,2022,15860,Southern N.H.,468
-47,2344999,Zack Luongo,OF,Fr,1,0,2022,15860,Southern N.H.,468
 12,2009766,Angus Mccloskey,P,Sr,13,13,2022,15860,Southern N.H.,468
+47,2344999,Zack Luongo,OF,Fr,1,0,2022,15860,Southern N.H.,468
+35,1974527,Angus Mayock,P,Sr,3,1,2022,15860,Southern N.H.,468
 11,2350078,Michael Larocca,1B,So,15,15,2022,15860,Southern N.H.,468
 23,2522072,Trevor Anibal,UT,So,20,0,2022,15860,Southern N.H.,468
 16,2154434,Nick Assad,P,So,9,3,2022,15860,Southern N.H.,468
@@ -15315,8 +15315,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,1991309,Kyle Smyth,P,Sr,21,1,2022,15860,Niagara,482
 6,2303511,Cole Tucker,INF,Sr,54,53,2022,15860,Niagara,482
 2,2119284,Cole O'Connor,INF,Sr,53,52,2022,15860,Niagara,482
-7,2514478,Liam Ward,INF,So,22,13,2022,15860,Niagara,482
 39,2303548,Matt Ward,C,Jr,50,46,2022,15860,Niagara,482
+7,2514478,Liam Ward,INF,So,22,13,2022,15860,Niagara,482
 44,2303531,Matt Wiggins,P,Jr,0,0,2022,15860,Niagara,482
 25,2673134,Evan Wilde,P,Jr,15,15,2022,15860,Niagara,482
 19,1991371,Benny Serrano,OF,Sr,45,35,2022,15860,Niagara,482
@@ -15821,8 +15821,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,2149616,Alex Kowski,1B,Jr,0,0,2022,15860,Mary,30075
 18,2331849,Nathan Kolb,P,Sr,0,0,2022,15860,Mary,30075
 33,2682652,Kendall Keller,rf,So,44,40,2022,15860,Mary,30075
-45,2501806,Kody Jones,P,Jr,10,5,2022,15860,Mary,30075
 9,2331818,Ty Jones,OF,Sr,45,43,2022,15860,Mary,30075
+45,2501806,Kody Jones,P,Jr,10,5,2022,15860,Mary,30075
 3,2682640,Arian Jimenez,2b,Sr,9,7,2022,15860,Mary,30075
 19,2331883,Paxton Miller,P,So,11,0,2022,15860,Mary,30075
 34,2331865,Liam Sommers,P,Jr,11,0,2022,15860,Mary,30075
@@ -16090,8 +16090,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,2478819,Austin Barry,C,Jr,34,32,2022,15860,East Tex. Baptist,1062
 22,2667302,Blake Mullen,INF,So,10,7,2022,15860,East Tex. Baptist,1062
 40,2478842,Zachary Mcnulty,P,So,0,0,2022,15860,East Tex. Baptist,1062
-4,2336188,Peyton Miller,P,Jr,12,0,2022,15860,East Tex. Baptist,1062
 16,2128906,Jake Miller,UT,Sr,38,38,2022,15860,East Tex. Baptist,1062
+4,2336188,Peyton Miller,P,Jr,12,0,2022,15860,East Tex. Baptist,1062
 12,2478817,Carson Wilson,UT,So,42,41,2022,15860,East Tex. Baptist,1062
 39,2336196,Blakely Welch,OF,Jr,0,0,2022,15860,East Tex. Baptist,1062
 24,2669692,Brett Wagner,INF,Jr,46,46,2022,15860,East Tex. Baptist,1062
@@ -16109,8 +16109,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,2336187,Lucas Mccrum,INF,Jr,2,0,2022,15860,East Tex. Baptist,1062
 29,2128965,Will Kelley,1B,Sr,46,46,2022,15860,East Tex. Baptist,1062
 52,2667296,Jc Barry,C,Fr,2,0,2022,15860,East Tex. Baptist,1062
-47,2478847,Mackenson Bobo,P,So,7,0,2022,15860,East Tex. Baptist,1062
 11,2478821,Mason Bobo,OF,So,12,1,2022,15860,East Tex. Baptist,1062
+47,2478847,Mackenson Bobo,P,So,7,0,2022,15860,East Tex. Baptist,1062
 3,2666842,Dylan Burnaman,INF,Fr,2,0,2022,15860,East Tex. Baptist,1062
 5,2478813,Brock Calvillo,OF,So,12,0,2022,15860,East Tex. Baptist,1062
 36,2667280,Nicolas Chavez,C,Fr,10,7,2022,15860,East Tex. Baptist,1062
@@ -16122,8 +16122,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 41,2478837,Charles Gordan,OF,So,26,20,2022,15860,East Tex. Baptist,1062
 14,2478818,Baxton Hacker,1B,So,7,0,2022,15860,East Tex. Baptist,1062
 35,2691828,Casen Holden,p,So,3,0,2022,15860,East Tex. Baptist,1062
-7,2478815,Jase Jones,C,Jr,36,33,2022,15860,East Tex. Baptist,1062
 13,2666925,Ben Jones,INF,Fr,10,6,2022,15860,East Tex. Baptist,1062
+7,2478815,Jase Jones,C,Jr,36,33,2022,15860,East Tex. Baptist,1062
 30,2667278,Braden Karnes,P,Fr,14,6,2022,15860,East Tex. Baptist,1062
 23,2336182,Rece Gustafson,P,Jr,8,3,2022,15860,East Tex. Baptist,1062
 8,2666923,Braden Fowler,OF,Fr,8,0,2022,15860,East Tex. Baptist,1062
@@ -16172,8 +16172,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,1996715,Noah Searcy,OF,Sr,44,32,2022,15860,Ga. Southern,253
 29,2653219,Sean White,C,Fr,16,7,2022,15860,Ga. Southern,253
 2,1996735,Jason Swan,INF,Sr,60,60,2022,15860,Ga. Southern,253
-26,2311719,Jay Thompson,P,Sr,37,0,2022,15860,Ga. Southern,253
 22,1996721,Austin Thompson,SS,Sr,61,61,2022,15860,Ga. Southern,253
+26,2311719,Jay Thompson,P,Sr,37,0,2022,15860,Ga. Southern,253
 13,2122264,Jp Tighe,C,Sr,25,19,2022,15860,Ga. Southern,253
 25,2653217,Ga'Von Wray,P,So,21,2,2022,15860,Ga. Southern,253
 17,2653237,Danny Madden,P,Sr,18,8,2022,15860,Ga. Southern,253
@@ -16215,8 +16215,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,2510311,Tony Livermore,INF,So,45,42,2022,15860,Northwestern,509
 22,2510286,Jay Beshears,UT,So,49,47,2022,15860,Northwestern,509
 2,2508360,Vincent Bianchina,INF,So,49,46,2022,15860,Northwestern,509
-20,2128811,Anthony Calarco,1B,Sr,51,51,2022,15860,Northwestern,509
 25,2667157,Alex Calarco,UT,Fr,22,17,2022,15860,Northwestern,509
+20,2128811,Anthony Calarco,1B,Sr,51,51,2022,15860,Northwestern,509
 9,2667149,Bennett Markinson,UT,Fr,27,24,2022,15860,Northwestern,509
 5,2128807,Tommy D'Alise,P,Sr,30,15,2022,15860,Northwestern,509
 35,2667171,Grant Comstock,P,Fr,11,8,2022,15860,Northwestern,509
@@ -16616,29 +16616,29 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 20,2127273,Robert Martin,P,Sr,20,6,2022,15860,Air Force,721
 34,2679414,Preston Havenor,C,Fr,4,1,2022,15860,Air Force,721
 19,2477949,Duke Benge,UT,Jr,27,0,2022,15860,Air Force,721
-39,2319131,Ryan Mintz,P,So,12,0,2022,15860,Valparaiso,735
-32,2681443,Bobby Nowak,p,So,17,0,2022,15860,Valparaiso,735
-20,2660851,Brady Nowicki,INF,Jr,13,3,2022,15860,Valparaiso,735
-9,2487261,Matt Olive,C,So,5,4,2022,15860,Valparaiso,735
-19,2487258,Kade Reinertson,C,Fr,22,17,2022,15860,Valparaiso,735
-12,2319123,Jacob Rosenkranz,P,So,12,0,2022,15860,Valparaiso,735
-17,2487256,Alex Ryan,OF,So,46,44,2022,15860,Valparaiso,735
-27,2319129,Kyle Schmack,INF,So,47,47,2022,15860,Valparaiso,735
-6,2487252,Alex Thurston,P,So,47,47,2022,15860,Valparaiso,735
-1,2319116,Nolan Tucker,INF,Fr,37,36,2022,15860,Valparaiso,735
-36,2319130,Trent Turzenski,P,So,7,7,2022,15860,Valparaiso,735
 4,2660835,Spencer Warfield,OF,Fr,18,13,2022,15860,Valparaiso,735
-30,2487260,Brady Renfro,UT,So,48,48,2022,15860,Valparaiso,735
-38,2487262,Griffin Mccluskey,P,So,11,7,2022,15860,Valparaiso,735
+36,2319130,Trent Turzenski,P,So,7,7,2022,15860,Valparaiso,735
+1,2319116,Nolan Tucker,INF,Fr,37,36,2022,15860,Valparaiso,735
+6,2487252,Alex Thurston,P,So,47,47,2022,15860,Valparaiso,735
+27,2319129,Kyle Schmack,INF,So,47,47,2022,15860,Valparaiso,735
+17,2487256,Alex Ryan,OF,So,46,44,2022,15860,Valparaiso,735
 29,2319126,Jake Miller,P,So,12,11,2022,15860,Valparaiso,735
-35,2487264,Nolan Lebamoff,P,Jr,15,0,2022,15860,Valparaiso,735
+30,2487260,Brady Renfro,UT,So,48,48,2022,15860,Valparaiso,735
+19,2487258,Kade Reinertson,C,Fr,22,17,2022,15860,Valparaiso,735
+9,2487261,Matt Olive,C,So,5,4,2022,15860,Valparaiso,735
+20,2660851,Brady Nowicki,INF,Jr,13,3,2022,15860,Valparaiso,735
+32,2681443,Bobby Nowak,p,So,17,0,2022,15860,Valparaiso,735
+39,2319131,Ryan Mintz,P,So,12,0,2022,15860,Valparaiso,735
+12,2319123,Jacob Rosenkranz,P,So,12,0,2022,15860,Valparaiso,735
+38,2487262,Griffin Mccluskey,P,So,11,7,2022,15860,Valparaiso,735
+11,2660839,Connor Lockwood,P,Fr,13,6,2022,15860,Valparaiso,735
 3,2660834,Cooper Avery,P,Fr,1,0,2022,15860,Valparaiso,735
 33,2124033,Keegan Bates,P,Jr,3,0,2022,15860,Valparaiso,735
 21,2487259,Adam Brauch,INF,Fr,41,41,2022,15860,Valparaiso,735
-22,2660840,Ryan Maka,,Fr,33,29,2022,15860,Valparaiso,735
-16,2487255,Josh Cottrill,P,So,7,0,2022,15860,Valparaiso,735
-14,2319127,Angel Difederico,C,So,34,33,2022,15860,Valparaiso,735
 42,2487263,Nathan Chasey,P,Jr,14,0,2022,15860,Valparaiso,735
+22,2660840,Ryan Maka,,Fr,33,29,2022,15860,Valparaiso,735
+14,2319127,Angel Difederico,C,So,34,33,2022,15860,Valparaiso,735
+16,2487255,Josh Cottrill,P,So,7,0,2022,15860,Valparaiso,735
 25,2124032,Colin Fields,P,Jr,15,15,2022,15860,Valparaiso,735
 8,2124031,Zach Fricke,P,Jr,5,2,2022,15860,Valparaiso,735
 10,2660837,Christian Hack,P,Fr,6,0,2022,15860,Valparaiso,735
@@ -16646,7 +16646,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,2319128,Grant Jablonski,P,So,9,0,2022,15860,Valparaiso,735
 2,2124051,Jake Kapers,C,Jr,9,4,2022,15860,Valparaiso,735
 5,2124030,Jeremy Drudge,OF,Jr,21,18,2022,15860,Valparaiso,735
-11,2660839,Connor Lockwood,P,Fr,13,6,2022,15860,Valparaiso,735
+35,2487264,Nolan Lebamoff,P,Jr,15,0,2022,15860,Valparaiso,735
 24,2674524,Hernan Yanez,C,Jr,52,51,2022,15860,UIW,2743
 3,2674460,Joey Barran,C,Fr,17,8,2022,15860,UIW,2743
 18,2330333,Isaiah Zavala,P,Jr,11,9,2022,15860,UIW,2743
@@ -16988,8 +16988,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,1983114,Caleb Nash,C,Jr,0,0,2022,15860,Tex. A&M-Kingsville,696
 5,2330177,Matthew Castro,OF,So,44,37,2022,15860,Tex. A&M-Kingsville,696
 1,2676724,Brandon Ramirez,cf,Fr,13,2,2022,15860,Tex. A&M-Kingsville,696
-24,2330269,John Mike Rodriguez,P,Sr,0,0,2022,15860,Tex. A&M-Kingsville,696
 1,2330259,Damian Rodriguez,INF,So,0,0,2022,15860,Tex. A&M-Kingsville,696
+24,2330269,John Mike Rodriguez,P,Sr,0,0,2022,15860,Tex. A&M-Kingsville,696
 3,1983139,Giancarlo Servin,INF,Sr,53,53,2022,15860,Tex. A&M-Kingsville,696
 40,2131965,Matthew Sesler,P,Jr,14,0,2022,15860,Tex. A&M-Kingsville,696
 21,2672071,Robbie Spencer,p,Fr,15,4,2022,15860,Tex. A&M-Kingsville,696
@@ -16998,8 +16998,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,2670751,Colton Taylor,p,So,23,1,2022,15860,Tex. A&M-Kingsville,696
 26,2670753,Jackson Teer,p,Fr,12,0,2022,15860,Tex. A&M-Kingsville,696
 8,2471600,Garrett Thompson,INF,So,49,44,2022,15860,Tex. A&M-Kingsville,696
-33,1983146,Jacob Vasquez,P,Jr,0,0,2022,15860,Tex. A&M-Kingsville,696
 38,2471606,Matt Vasquez,P,Jr,0,0,2022,15860,Tex. A&M-Kingsville,696
+33,1983146,Jacob Vasquez,P,Jr,0,0,2022,15860,Tex. A&M-Kingsville,696
 26,2471603,Cole Williams,P,Jr,0,0,2022,15860,Tex. A&M-Kingsville,696
 10,2670754,Nick Wolf,c,So,51,48,2022,15860,Tex. A&M-Kingsville,696
 30,2670730,Cole Payne,1b,So,27,14,2022,15860,Tex. A&M-Kingsville,696
@@ -17066,8 +17066,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,2146951,Ryan Abel,3B,Sr,0,0,2022,15860,Stonehill,682
 10,2519336,J. Neikam,1b,Fr,0,0,2022,15860,Stonehill,682
 4,2335049,Mike Maher,INF,Jr,0,0,2022,15860,Stonehill,682
-28,2146953,Luke Marshall,P,Sr,11,11,2022,15860,Stonehill,682
 18,2522074,Tyler Marshall,P,So,13,0,2022,15860,Stonehill,682
+28,2146953,Luke Marshall,P,Sr,11,11,2022,15860,Stonehill,682
 3,2684561,J. Marshall,3b,,40,39,2022,15860,Stonehill,682
 4,2684562,M. Martin,c,,8,1,2022,15860,Stonehill,682
 25,2335077,Blaine Lidksy,C,Jr,47,47,2022,15860,Stonehill,682
@@ -17370,8 +17370,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 42,2678324,Nick Desiderio,P,Fr,5,0,2022,15860,Montclair St.,442
 7,2329567,Myles Feaster,UT,Jr,41,36,2022,15860,Montclair St.,442
 2,2678308,Joe Gisonda,INF,Jr,25,11,2022,15860,Montclair St.,442
-13,2329593,Darren Gonzalez,P,Sr,12,0,2022,15860,Montclair St.,442
 31,2678327,Ethan Gonzalez,P,Fr,13,6,2022,15860,Montclair St.,442
+13,2329593,Darren Gonzalez,P,Sr,12,0,2022,15860,Montclair St.,442
 29,1991549,Anthony Guarino,C,Sr,42,40,2022,15860,Montclair St.,442
 16,2678312,Jacob Dembin,P,Fr,6,3,2022,15860,Montclair St.,442
 4,2473358,Corbin Lanowitz,INF,Fr,27,22,2022,15860,UNC Asheville,456
@@ -17511,8 +17511,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,2133731,Micah Dallas,P,Jr,18,16,2022,15860,Texas A&M,697
 4,2480184,Kalae Harrison,INF,So,19,13,2022,15860,Texas A&M,697
 19,2120765,Dalton Williams,OF,Sr,35,13,2022,15860,Appalachian St.,27
-22,2652301,Seth Whitley,P,Fr,9,0,2022,15860,Appalachian St.,27
 8,1884501,Jacob Whitley,C,Sr,29,21,2022,15860,Appalachian St.,27
+22,2652301,Seth Whitley,P,Fr,9,0,2022,15860,Appalachian St.,27
 21,2120766,Tyler Tuthill,P,Jr,13,13,2022,15860,Appalachian St.,27
 38,2304808,Trey Tujetsch,P,So,12,10,2022,15860,Appalachian St.,27
 3,2120770,Andrew Terrell,UT,Jr,51,51,2022,15860,Appalachian St.,27
@@ -17755,7 +17755,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,2353447,Migdiel Burgos,C,Sr,0,0,2022,15860,Nyack,1277
 1,2527076,Fausto Leonardo,INF,So,29,29,2022,15860,Nyack,1277
 11,2664071,Nick Ferrara,P,So,15,0,2022,15860,Valdosta St.,734
-42,2664077,Orlando Adams,INF,Jr,30,25,2022,15860,Valdosta St.,734
+6,2321223,Jeremy Adams,P,Sr,0,0,2022,15860,Valdosta St.,734
 9,2664070,Ryan Villaman,INF,Fr,22,10,2022,15860,Valdosta St.,734
 21,2476333,Kevin Tomas,P,Jr,12,12,2022,15860,Valdosta St.,734
 40,2506615,Mason Sharp,P,Jr,10,0,2022,15860,Valdosta St.,734
@@ -17772,7 +17772,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,2664050,Anthony Gutierrez,INF,Fr,26,19,2022,15860,Valdosta St.,734
 22,2476328,Zach Henderson,P,Jr,25,2,2022,15860,Valdosta St.,734
 25,1979296,Adrian Garrastazu,P,Jr,17,4,2022,15860,Valdosta St.,734
-6,2321223,Jeremy Adams,P,Sr,0,0,2022,15860,Valdosta St.,734
+42,2664077,Orlando Adams,INF,Jr,30,25,2022,15860,Valdosta St.,734
 23,2476314,Luke Ard,P,Sr,40,38,2022,15860,Valdosta St.,734
 41,2476320,Roger Ceballos,P,Jr,2,0,2022,15860,Valdosta St.,734
 12,2123651,Mike Christopoulos,INF,Sr,45,44,2022,15860,Valdosta St.,734
@@ -18263,8 +18263,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,2684617,Logan Kunkel,P,Fr,7,1,2022,15860,Defiance,1050
 27,2354927,Dylan King,C,Jr,23,22,2022,15860,Defiance,1050
 8,1995542,Nate Kaffenbarger,INF,Sr,36,36,2022,15860,Defiance,1050
-43,2684620,Josh Horning,P,Fr,6,0,2022,15860,Defiance,1050
 6,2354925,Austin Horning,INF,Jr,16,9,2022,15860,Defiance,1050
+43,2684620,Josh Horning,P,Fr,6,0,2022,15860,Defiance,1050
 1,1999448,Tyler Hines,P,Sr,19,0,2022,15860,Defiance,1050
 10,2684602,Jacob Hild,C,Fr,23,21,2022,15860,Defiance,1050
 40,2495348,John Hammerstein,P,So,14,5,2022,15860,Defiance,1050
@@ -18476,7 +18476,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,2146205,Cole Callaghan,OF,Sr,37,35,2022,15860,Capital,117
 4,2146188,Bryant Caporale,P,Sr,15,2,2022,15860,Capital,117
 38,2666301,Ryan Brophy,INF,Fr,5,0,2022,15860,Capital,117
-28,2666291,John Clark,OF,Fr,1,0,2022,15860,Capital,117
+30,2348183,Curtis Clark,P,Jr,11,11,2022,15860,Capital,117
 18,2469273,Connor Feeney,OF,So,30,27,2022,15860,Capital,117
 19,2666284,Josh  Gilmore,OF,Fr,13,10,2022,15860,Capital,117
 24,2469272,Connor Jones,P,So,7,6,2022,15860,Capital,117
@@ -18484,7 +18484,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2348162,Spencer Knight,P,Jr,13,0,2022,15860,Capital,117
 35,2666297,Garrett Kroese,P,Fr,5,0,2022,15860,Capital,117
 17,2469292,Justin Mason,P,So,8,2,2022,15860,Capital,117
-30,2348183,Curtis Clark,P,Jr,11,11,2022,15860,Capital,117
+28,2666291,John Clark,OF,Fr,1,0,2022,15860,Capital,117
 41,2469284,Ben Hatfield,P,So,2,0,2022,15860,Capital,117
 30,2310157,Damian Vallejos,P,Jr,13,0,2022,15860,Stanislaus St.,103
 11,2685961,Tyler Vandyk,ph/dh,Fr,19,3,2022,15860,Stanislaus St.,103
@@ -18904,7 +18904,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 37,2489387,Chezzare Gonzalez,P,Jr,0,0,2022,15860,New Mexico,473
 32,2676943,Owen Loesch,P,So,20,0,2022,15860,New Mexico,473
 35,2001185,Connor Morin,1B,Sr,40,39,2022,15860,New England Col.,467
-39,2346381,Sylvain Audet,UT,Jr,20,14,2022,15860,New England Col.,467
+21,2001186,Shayne Audet,P,So,11,10,2022,15860,New England Col.,467
 9,2664781,Quinn Mansperger,C,Fr,6,0,2022,15860,New England Col.,467
 1,2359755,Bryce Worth,P,Fr,14,11,2022,15860,New England Col.,467
 14,2001144,Matt White,P,Sr,7,2,2022,15860,New England Col.,467
@@ -18923,7 +18923,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,2148987,Tyler Kaye,P,Jr,3,1,2022,15860,New England Col.,467
 15,2499604,Johnny Cannavo,1B,So,15,6,2022,15860,New England Col.,467
 5,2347202,Brendan Hickey,OF,Jr,5,0,2022,15860,New England Col.,467
-21,2001186,Shayne Audet,P,So,11,10,2022,15860,New England Col.,467
+39,2346381,Sylvain Audet,UT,Jr,20,14,2022,15860,New England Col.,467
 25,2664844,Seth Batch,P,So,3,0,2022,15860,New England Col.,467
 33,2346375,Ryan Bourque,P,Jr,4,0,2022,15860,New England Col.,467
 29,2360755,Wyatt Cameron,P,Jr,12,5,2022,15860,New England Col.,467
@@ -19037,8 +19037,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,2676424,Jackson Corrigan,P,Fr,10,1,2022,15860,Hendrix,1124
 39,2678479,Lane Dalrymple,OF,Fr,0,0,2022,15860,Hendrix,1124
 42,2522404,Max Dawson,P,So,0,0,2022,15860,Hendrix,1124
-8,2494957,John Fowler,P,So,14,1,2022,15860,Hendrix,1124
 50,2522406,Bobby Fowler,P,So,1,0,2022,15860,Hendrix,1124
+8,2494957,John Fowler,P,So,14,1,2022,15860,Hendrix,1124
 32,2126127,Rail Gilliam,C,Sr,43,43,2022,15860,Hendrix,1124
 11,2678380,Johnny Miles,P,Fr,0,0,2022,15860,Hendrix,1124
 35,2522405,Ian Guthrie,C,So,12,1,2022,15860,Hendrix,1124
@@ -19487,8 +19487,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,2327656,Jay Pendley,P,Sr,14,14,2022,15860,North Georgia,30052
 8,2475354,Clay Stephenson,C,So,3,0,2022,15860,North Georgia,30052
 22,1990616,Crews Taylor,LF,Sr,51,51,2022,15860,North Georgia,30052
-9,2475355,Mark Tucker,INF,So,17,9,2022,15860,North Georgia,30052
 35,2691931,Holden Tucker,p,So,4,0,2022,15860,North Georgia,30052
+9,2475355,Mark Tucker,INF,So,17,9,2022,15860,North Georgia,30052
 12,2475356,Pierce Williams,P,So,14,14,2022,15860,North Georgia,30052
 29,2128135,Cole Yancey,INF,Sr,0,0,2022,15860,North Georgia,30052
 24,2693823,Josh Sosa,p,Fr,19,17,2022,15860,North Georgia,30052
@@ -19700,19 +19700,19 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11.0,2491849,Dorian Evans,INF,So,1,0,2022,15860,Notre Dame  (MEC),30126
 34.0,2329011,Kyle Espineli,INF,Sr,46,46,2022,15860,Notre Dame  (MEC),30126
 31,2652668,Harrison Povey,UT,Fr,57,56,2022,15860,FGCU,28755
-7,2464186,Alejandro Rodriguez,INF,Jr,58,57,2022,15860,FGCU,28755
 10,2652671,Luis Rodriguez,INF,Jr,43,34,2022,15860,FGCU,28755
+7,2464186,Alejandro Rodriguez,INF,Jr,58,57,2022,15860,FGCU,28755
 23,2464204,Jahlani Rogers,OF,Fr,11,0,2022,15860,FGCU,28755
 6,2309441,Logan Sartori,INF,Sr,45,35,2022,15860,FGCU,28755
 12,1979604,Josh Seils,P,Sr,15,0,2022,15860,FGCU,28755
-22,1977329,Tyler Shuck,P,Sr,14,13,2022,15860,FGCU,28755
+36,2140214,Levi Shuck,P,So,0,0,2022,15860,FGCU,28755
 35,2324647,Dawson Place,P,So,5,0,2022,15860,FGCU,28755
 25,2464208,Tyler Tipton,P,Jr,19,3,2022,15860,FGCU,28755
 5,2140200,Jalen Townsend,OF,Jr,35,1,2022,15860,FGCU,28755
 1,2464175,Najer Victor,P,So,11,8,2022,15860,FGCU,28755
 9,2122119,Stephen Wilmer,OF,Jr,34,20,2022,15860,FGCU,28755
 37,2464206,Jason Woodward,P,So,15,15,2022,15860,FGCU,28755
-36,2140214,Levi Shuck,P,So,0,0,2022,15860,FGCU,28755
+22,1977329,Tyler Shuck,P,Sr,14,13,2022,15860,FGCU,28755
 11,2652679,Darien Smith,P,Jr,25,1,2022,15860,FGCU,28755
 29,2478930,Nolan O'Shoney,P,So,12,1,2022,15860,FGCU,28755
 26,2334955,Joey Mugavero,P,Sr,18,5,2022,15860,FGCU,28755
@@ -19851,8 +19851,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,2678171,Chris Ruckdeschel,P,Sr,6,0,2022,15860,George Mason,248
 32,1982202,Scott Morgan,OF,Sr,35,24,2022,15860,George Mason,248
 43,2658285,Ben Shields,P,Sr,11,11,2022,15860,George Mason,248
-2,2488412,Jordan Smith,OF,So,31,29,2022,15860,George Mason,248
 12,2658256,Camron Smith,OF,Sr,54,53,2022,15860,George Mason,248
+2,2488412,Jordan Smith,OF,So,31,29,2022,15860,George Mason,248
 9,2488409,Brett Stallings,INF,Jr,56,56,2022,15860,George Mason,248
 18,2309649,South Trimble,INF,Jr,43,43,2022,15860,George Mason,248
 19,2658269,Andrew Schaeb,P,Fr,1,0,2022,15860,George Mason,248
@@ -20012,9 +20012,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,2506051,Lance Blaszak,P,So,4,0,2022,15860,Northwood,510
 19,2328342,Hunter Broski,OF,Jr,10,0,2022,15860,Northwood,510
 32,2328434,Jacob Carroll,P,Jr,0,0,2022,15860,Northwood,510
-25,2676539,Ej Clark,1B,So,18,10,2022,15860,Northwood,510
-15,2501565,Derek Clark,P,So,15,14,2022,15860,Northwood,510
 3,2328320,Ben Clark,OF,Jr,29,20,2022,15860,Northwood,510
+15,2501565,Derek Clark,P,So,15,14,2022,15860,Northwood,510
+25,2676539,Ej Clark,1B,So,18,10,2022,15860,Northwood,510
 34,2501566,Alex Cole,INF,So,18,14,2022,15860,Northwood,510
 51,2328377,Cross Delau,P,Jr,0,0,2022,15860,Northwood,510
 28,2676963,Jayden Dentler,P,Fr,14,14,2022,15860,Northwood,510
@@ -20138,8 +20138,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,2349350,Kyle Sonduck,P,So,0,0,2022,15860,UTSA,706
 1,1980689,Jonathan Tapia,UT,Sr,56,56,2022,15860,UTSA,706
 2,2666741,Isaiah Walker,UT,Fr,39,22,2022,15860,UTSA,706
-35,2139457,Jay Ward,P,Jr,1,0,2022,15860,UTSA,706
 14,2495882,Ryan Ward,P,So,14,7,2022,15860,UTSA,706
+35,2139457,Jay Ward,P,Jr,1,0,2022,15860,UTSA,706
 21,2132544,Shane Sirdashney,OF,Jr,45,44,2022,15860,UTSA,706
 22,2303558,Drake Smith,P,So,10,4,2022,15860,UTSA,706
 34,2139594,Luke Malone,P,Jr,19,11,2022,15860,UTSA,706
@@ -20388,8 +20388,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 45,1991223,Will Saxton,P,Sr,24,9,2022,15860,UCF,128
 19,2309945,Connor Staine,P,So,12,12,2022,15860,UCF,128
 44,2673274,Andrew Sundean,C,Fr,43,37,2022,15860,UCF,128
-4,2673171,Ryan Taylor,INF,Fr,36,21,2022,15860,UCF,128
 5,2347434,Trent Taylor,UT,Sr,52,36,2022,15860,UCF,128
+4,2673171,Ryan Taylor,INF,Fr,36,21,2022,15860,UCF,128
 37,2486035,Ben Vespi,P,So,25,9,2022,15860,UCF,128
 35,2486034,Nick Vieira,P,So,0,0,2022,15860,UCF,128
 43,2312446,Riley Wash,C,Sr,29,16,2022,15860,UCF,128
@@ -20508,8 +20508,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12,2329484,Mario Galloway,OF,Jr,16,2,2022,15860,AUM,30093
 31,2660803,Kasey Clark,1B,So,49,46,2022,15860,AUM,30093
 28,2137367,A.J. Winger,P,Sr,18,2,2022,15860,Texas Southern,699
-19,2494407,Tyler Williams,ph,So,32,10,2022,15860,Texas Southern,699
 13,2140624,Brian Williams,P,Sr,13,12,2022,15860,Texas Southern,699
+19,2494407,Tyler Williams,ph,So,32,10,2022,15860,Texas Southern,699
 26,2515763,Herbert Watts,pr,So,9,0,2022,15860,Texas Southern,699
 5,2347453,Jordan Vidato,OF,Jr,32,8,2022,15860,Texas Southern,699
 46,2681176,Tyler Legendre,ph,Fr,12,0,2022,15860,Texas Southern,699
@@ -20535,9 +20535,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,2137352,Roderick Coffee,OF,Jr,40,32,2022,15860,Texas Southern,699
 3,1862546,Justin Cooper,INF,Sr,53,53,2022,15860,Texas Southern,699
 6,2120944,Jeremy Gaines,INF,Sr,49,49,2022,15860,Texas Southern,699
-55,2683345,Roberto Garcia,p,Fr,5,1,2022,15860,Texas Southern,699
-17,2681404,Josiah Castro,p,So,13,5,2022,15860,Texas Southern,699
 16,1981330,Jesse Garcia,P,Sr,10,0,2022,15860,Texas Southern,699
+17,2681404,Josiah Castro,p,So,13,5,2022,15860,Texas Southern,699
+55,2683345,Roberto Garcia,p,Fr,5,1,2022,15860,Texas Southern,699
 47,2664477,Ashton Abnet,P,Fr,12,2,2022,15860,Albion,15
 5,2460572,Gabe Mata,OF,So,20,13,2022,15860,Albion,15
 2,2299399,Mark Lauro,INF,Jr,38,32,2022,15860,Albion,15
@@ -20787,20 +20787,20 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,2679066,Davin Smith,INF,Fr,8,3,2022,15860,Fontbonne,11538
 6,2333888,Grant Staffen,INF,Jr,13,2,2022,15860,Fontbonne,11538
 42,2135161,Donovan Summers,P,Sr,0,0,2022,15860,Fontbonne,11538
-28,2135139,Paul Wilson,INF,Sr,12,5,2022,15860,Fontbonne,11538
 12,2464069,Tyson Wilson,P,So,15,4,2022,15860,Fontbonne,11538
+28,2135139,Paul Wilson,INF,Sr,12,5,2022,15860,Fontbonne,11538
 3,2333859,Daniel Youngblood,INF,Sr,39,39,2022,15860,Fontbonne,11538
 52,2679070,Josh Rhiney,OF,Fr,17,8,2022,15860,Fontbonne,11538
 26,2333873,Carter Lee,INF,Jr,35,35,2022,15860,Fontbonne,11538
 4,2678986,Gavin Kinworthy,P,Fr,14,13,2022,15860,Fontbonne,11538
-46,2333878,Trey Kueper,INF,Jr,26,25,2022,15860,Fontbonne,11538
+19,2333854,Ty Kueper,C,Jr,30,21,2022,15860,Fontbonne,11538
 36,2464140,Kameron Books,OF,So,9,0,2022,15860,Fontbonne,11538
 41,2464124,Brady Boyer,OF,So,13,3,2022,15860,Fontbonne,11538
 9,2464095,Camden Coleman,P,So,16,0,2022,15860,Fontbonne,11538
 1,2464094,Eric Creech,INF,So,39,39,2022,15860,Fontbonne,11538
 14,1992024,Braeden Dobbs,INF,Sr,39,39,2022,15860,Fontbonne,11538
 15,2464073,Nick Glaser,P,So,12,12,2022,15860,Fontbonne,11538
-19,2333854,Ty Kueper,C,Jr,30,21,2022,15860,Fontbonne,11538
+46,2333878,Trey Kueper,INF,Jr,26,25,2022,15860,Fontbonne,11538
 35,2679068,Nolan  Gutjhar,P,Jr,12,8,2022,15860,Fontbonne,11538
 37,2464141,Jd Gunther,P,Jr,0,0,2022,15860,Fontbonne,11538
 23,2135137,Jake Helland,INF,Sr,7,0,2022,15860,Fontbonne,11538
@@ -20956,7 +20956,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,2116550,Travis Reifsnider,C,Jr,43,40,2022,15860,James Madison,317
 25,2669576,Jason Schiavone,C,Fr,40,25,2022,15860,James Madison,317
 31,1997559,Justin Showalter,P,Sr,14,14,2022,15860,James Madison,317
-43,2669562,Casey Smith,UT,Fr,11,2,2022,15860,James Madison,317
+39,2669563,Evan Smith,P,Fr,6,0,2022,15860,James Madison,317
 17,2669577,Jacob Steinberg,UT,So,38,22,2022,15860,James Madison,317
 30,2116546,Kyle Novak,INF,Jr,53,53,2022,15860,James Madison,317
 26,2486607,Michael Stewart,P,So,10,0,2022,15860,James Madison,317
@@ -20964,7 +20964,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,2669565,Fenwick Trimble,OF,Fr,52,52,2022,15860,James Madison,317
 36,2486610,Joe Vogatsky,P,So,11,4,2022,15860,James Madison,317
 11,2116500,Nick Zona,INF,Jr,49,47,2022,15860,James Madison,317
-39,2669563,Evan Smith,P,Fr,6,0,2022,15860,James Madison,317
+43,2669562,Casey Smith,UT,Fr,11,2,2022,15860,James Madison,317
 24,1997560,Nick Stewart,P,Sr,6,0,2022,15860,James Madison,317
 3,2669575,Todd Mozoki,P,Fr,9,2,2022,15860,James Madison,317
 4,1997558,Liam Mcdonnell,P,Sr,16,13,2022,15860,James Madison,317
@@ -21174,8 +21174,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2455967,Nick Phifer,P,Fr,10,8,2022,15860,Flagler,30092
 8,2650304,Coy Phillips,OF,Fr,22,17,2022,15860,Flagler,30092
 26,2650308,Brad Vondruska,3B,Fr,22,11,2022,15860,Flagler,30092
-21,2463220,Ashton Thomas,OF,So,49,47,2022,15860,Flagler,30092
 18,2650307,Zach Thomas,INF,Fr,6,4,2022,15860,Flagler,30092
+21,2463220,Ashton Thomas,OF,So,49,47,2022,15860,Flagler,30092
 6,2463221,Gage Voorhees,P,Jr,14,14,2022,15860,Flagler,30092
 11,2299501,Jaiden Warde,INF,So,47,43,2022,15860,Flagler,30092
 12,2650271,Luke Welborn,OF,So,47,45,2022,15860,Flagler,30092
@@ -21194,9 +21194,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,2299500,John Fiorenza,C,Sr,48,46,2022,15860,Flagler,30092
 20,2455973,Daniel Fischer,P,So,0,0,2022,15860,Flagler,30092
 27,2650275,Bryce Fitzgerald,OF,Fr,32,4,2022,15860,Flagler,30092
-2,2455972,Griffin Garcia,C,So,12,2,2022,15860,Flagler,30092
 1,2455974,Donovan Garcia,INF,So,43,43,2022,15860,Flagler,30092
 32,2650310,Davian Garcia,P,Fr,12,0,2022,15860,Flagler,30092
+2,2455972,Griffin Garcia,C,So,12,2,2022,15860,Flagler,30092
 30,2650276,Dylan Faulkner,P,Fr,15,3,2022,15860,Flagler,30092
 38,2650312,Ryan Franklin,P,Fr,12,2,2022,15860,Flagler,30092
 8,2680922,Cam Magee,INF,Fr,33,23,2022,15860,Arizona St.,28
@@ -21261,10 +21261,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 28,2336999,Aaron Husson,P,Sr,6,0,2022,15860,Central Mich.,129
 7,2665514,Ryan Insco,P,So,23,0,2022,15860,Central Mich.,129
 26,1977469,Jake Jones,P,Sr,28,1,2022,15860,Central Mich.,129
-4,2336986,Drew Lechnir,OF,So,47,33,2022,15860,Central Mich.,129
+9,2336987,Zach Lechnir,INF,So,37,12,2022,15860,Central Mich.,129
 44,2337016,Jakob Marsee,OF,So,62,62,2022,15860,Central Mich.,129
 23,2336993,Nick Dardas,INF,So,40,31,2022,15860,Central Mich.,129
-9,2336987,Zach Lechnir,INF,So,37,12,2022,15860,Central Mich.,129
+4,2336986,Drew Lechnir,OF,So,47,33,2022,15860,Central Mich.,129
 39.0,2654970,Ethan Petric,P,Jr,10,7,2022,15860,Palm Beach Atl.,30045
 19.0,2655604,Nick Adams,,Jr,10,7,2022,15860,Palm Beach Atl.,30045
 28.0,2481367,Sean Williams,C,So,5,4,2022,15860,Palm Beach Atl.,30045
@@ -21771,12 +21771,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 3,1868563,Cole Bartels,OF,Sr,55,55,2022,15860,Penn St.,539
 46,2655160,Noah Burke,OF,Fr,6,0,2022,15860,Penn St.,539
 19,2655135,Derek Cease,P,Fr,43,28,2022,15860,Penn St.,539
-4,2311729,Tyson Cooper,C,So,19,10,2022,15860,Penn St.,539
+23,2655151,Jake Cooper,INF,Fr,8,4,2022,15860,Penn St.,539
 13,2311792,Tayven Kelley,OF,Jr,49,43,2022,15860,Penn St.,539
 8,2655125,Patrick Demarco,P,Fr,1,0,2022,15860,Penn St.,539
 49,2655161,Ben Demell,P,Fr,1,0,2022,15860,Penn St.,539
 5,2311730,Carson Ertter,OF,Jr,1,0,2022,15860,Penn St.,539
-23,2655151,Jake Cooper,INF,Fr,8,4,2022,15860,Penn St.,539
+4,2311729,Tyson Cooper,C,So,19,10,2022,15860,Penn St.,539
 15,2311788,Brenden Franks,INF,Jr,10,0,2022,15860,Penn St.,539
 28,2131366,Hutch Gagnon,P,Sr,0,0,2022,15860,Penn St.,539
 35,2655158,Billy Gerlott,OF,So,54,51,2022,15860,Penn St.,539
@@ -22155,8 +22155,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 44,2649889,Jackson Webster,1B,Fr,4,0,2022,15860,Birmingham-So.,28593
 21,2649877,Jt Weisberg,INF,Fr,5,0,2022,15860,Birmingham-So.,28593
 11,2649873,Joey White,P,Sr,15,12,2022,15860,Birmingham-So.,28593
-31,2649886,Davis Williams,P,Fr,26,0,2022,15860,Birmingham-So.,28593
 43,2649888,Braden Williams,P,Fr,5,1,2022,15860,Birmingham-So.,28593
+31,2649886,Davis Williams,P,Fr,26,0,2022,15860,Birmingham-So.,28593
 23,1994291,Brian Williams,INF,Sr,48,45,2022,15860,Birmingham-So.,28593
 39,2135213,Oliver Livingston,P,Sr,10,5,2022,15860,Birmingham-So.,28593
 16,2488348,Josh Leerssen,p,So,14,11,2022,15860,Birmingham-So.,28593
@@ -22170,7 +22170,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2135158,Wes Diamantis,1B,Sr,31,22,2022,15860,Birmingham-So.,28593
 7,2487499,Andrew Dutton,1B,So,51,51,2022,15860,Birmingham-So.,28593
 2,2302987,Will Lantis,INF,Jr,51,46,2022,15860,Birmingham-So.,28593
-10,2649872,Austin Frye,3B,So,4,0,2022,15860,Birmingham-So.,28593
+12,2649874,Garrett Frye,INF,So,5,0,2022,15860,Birmingham-So.,28593
 13,2135202,Jack Fleming,C,Sr,50,48,2022,15860,Birmingham-So.,28593
 14,2488347,Austin Gentry,c,Sr,24,10,2022,15860,Birmingham-So.,28593
 24,1994264,Alfredo Granier,SS,Sr,22,17,2022,15860,Birmingham-So.,28593
@@ -22179,7 +22179,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,1994290,Tristan Harvin,P,Sr,4,4,2022,15860,Birmingham-So.,28593
 30,2139241,David Higginbotham,P,Sr,1,0,2022,15860,Birmingham-So.,28593
 29,1998983,Preston Jenkins,P,Sr,18,1,2022,15860,Birmingham-So.,28593
-12,2649874,Garrett Frye,INF,So,5,0,2022,15860,Birmingham-So.,28593
+10,2649872,Austin Frye,3B,So,4,0,2022,15860,Birmingham-So.,28593
 14,2472590,Spencer Bengard,P,So,18,7,2022,15860,California Baptist,30135
 31,2472616,Josiah Bryant,C,So,4,0,2022,15860,California Baptist,30135
 29,2662288,Jake Brown,OF,Fr,23,7,2022,15860,California Baptist,30135
@@ -22530,8 +22530,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 43,2681299,Andrew Gamez,dh,Fr,22,20,2022,15860,UC Riverside,111
 14,2508417,Mason Grace,c,So,22,18,2022,15860,UC Riverside,111
 48,2348312,Zach Jacobs,P,Jr,2,2,2022,15860,UC Riverside,111
-50,2508418,Tucker Juline,p,So,19,9,2022,15860,UC Riverside,111
 13,2130766,Taylor Juline,C,Sr,23,13,2022,15860,UC Riverside,111
+50,2508418,Tucker Juline,p,So,19,9,2022,15860,UC Riverside,111
 8,2681532,Joey Magrisi,p,Jr,18,4,2022,15860,UC Riverside,111
 29,2525157,Tyler Frazier,p,Jr,14,13,2022,15860,UC Riverside,111
 30,2681531,Jayden Lopez,ph/lf,Fr,18,6,2022,15860,UC Riverside,111
@@ -22617,7 +22617,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,2660073,Guilio Monello,C,So,15,14,2022,15860,St. Edward's,1334
 48,2124725,Aj Myers,OF,Jr,2,0,2022,15860,St. Edward's,1334
 53,2302278,Brady Huckfelt,P,So,3,0,2022,15860,St. Edward's,1334
-7,1985385,Turner Olson,OF,Sr,56,54,2022,15860,St. Edward's,1334
+40,2476518,Braden Olson,P,So,8,1,2022,15860,St. Edward's,1334
 3,2124730,Jonathan Mendez,INF,Jr,0,0,2022,15860,St. Edward's,1334
 26,2124716,Jake Hahn,INF,Sr,57,57,2022,15860,St. Edward's,1334
 27,2476508,Chase Cos,OF,So,28,23,2022,15860,St. Edward's,1334
@@ -22630,11 +22630,11 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,2476510,Ryan Feddersen,INF,So,10,2,2022,15860,St. Edward's,1334
 33,2302263,Austin Essex,P,So,20,0,2022,15860,St. Edward's,1334
 8,2302262,Davis Drewek,OF,So,50,49,2022,15860,St. Edward's,1334
-40,2476518,Braden Olson,P,So,8,1,2022,15860,St. Edward's,1334
+7,1985385,Turner Olson,OF,Sr,56,54,2022,15860,St. Edward's,1334
 6,2302277,Jack Granack,P,So,14,14,2022,15860,St. Edward's,1334
 11,2124721,Garret Phillips,P,Jr,12,0,2022,15860,St. Edward's,1334
 17,2124729,Nick Davis,OF,Jr,0,0,2022,15860,St. Edward's,1334
-61,2124742,Ryan Ragazzo,INF,Jr,0,0,2022,15860,St. Edward's,1334
+56,2302284,Dominic Ragazzo,OF,So,0,0,2022,15860,St. Edward's,1334
 50,2302251,Wyatt Bell,UT,So,1,0,2022,15860,St. Edward's,1334
 45,2660110,Stacey Bailey,INF,So,49,48,2022,15860,St. Edward's,1334
 2,2124698,Morgan Allen,INF,Jr,57,57,2022,15860,St. Edward's,1334
@@ -22649,7 +22649,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,2302287,Reid Stiefel,INF,So,1,0,2022,15860,St. Edward's,1334
 39,2660014,Luke Short,P,So,15,15,2022,15860,St. Edward's,1334
 43,2124722,Rudy Reyna,OF,Jr,3,0,2022,15860,St. Edward's,1334
-56,2302284,Dominic Ragazzo,OF,So,0,0,2022,15860,St. Edward's,1334
+61,2124742,Ryan Ragazzo,INF,Jr,0,0,2022,15860,St. Edward's,1334
 47,2302252,Alejandro Betancourt,P,So,14,0,2022,15860,St. Edward's,1334
 91,2476507,Hunter Conner,OF,So,26,20,2022,15860,St. Edward's,1334
 35,2161423,Jack Baumgart,1B,Sr,35,32,2022,15860,Augsburg,38
@@ -22828,8 +22828,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4.0,2685182,Dan Kellachan,P,Fr,6,0,2022,15860,Ithaca,313
 21.0,2519221,Louis Fabbo,2b,So,45,45,2022,15860,Ithaca,313
 26,2337255,Nick Zangara,P,Jr,10,0,2022,15860,SUNY New Paltz,475
-20,2669330,Jesse Ortiz,C,Sr,3,0,2022,15860,SUNY New Paltz,475
 6,2507157,Justin Ortiz,OF,So,28,28,2022,15860,SUNY New Paltz,475
+20,2669330,Jesse Ortiz,C,Sr,3,0,2022,15860,SUNY New Paltz,475
 7,2669322,Joe Patane,INF,Fr,36,35,2022,15860,SUNY New Paltz,475
 4,2507156,Matthew Polestino,OF,So,11,1,2022,15860,SUNY New Paltz,475
 33,1889612,Bobby Ramsey,P,Sr,13,9,2022,15860,SUNY New Paltz,475
@@ -23241,7 +23241,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 38,1984834,Jake Palmer,OF,Sr,64,62,2022,15860,UCLA,110
 37,2472152,Eli Paton,1B,Fr,10,0,2022,15860,UCLA,110
 8,2472153,Max Rajcic,P,So,15,15,2022,15860,UCLA,110
-44,2472150,Kyle Karros,INF,So,43,43,2022,15860,UCLA,110
+19,2306060,Jared Karros,P,Jr,0,0,2022,15860,UCLA,110
 33,2306045,Jake Saum,P,Jr,26,0,2022,15860,UCLA,110
 1,2673426,Cody Schrier,INF,Fr,59,59,2022,15860,UCLA,110
 30,2673439,Alonzo Tredwell,P,Fr,25,0,2022,15860,UCLA,110
@@ -23249,7 +23249,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18,2472156,Carson Yates,OF,So,49,44,2022,15860,UCLA,110
 9,2306043,Darius Perry,C,Jr,47,38,2022,15860,UCLA,110
 5,2472154,Daylen Reyes,INF,So,54,39,2022,15860,UCLA,110
-19,2306060,Jared Karros,P,Jr,0,0,2022,15860,UCLA,110
+44,2472150,Kyle Karros,INF,So,43,43,2022,15860,UCLA,110
 35,2673442,Luke Jewett,P,Fr,35,0,2022,15860,UCLA,110
 31,2472148,Chris Aldrich,P,Fr,16,0,2022,15860,UCLA,110
 55,2673390,Kelly Austin,P,So,25,16,2022,15860,UCLA,110
@@ -23395,8 +23395,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 50,1997627,Oscar Ponce,UT,Sr,45,42,2022,15860,UT Arlington,702
 54,2124093,Trevor Pruitt,P,Sr,14,0,2022,15860,UT Arlington,702
 9,2346360,Artie Ramirez,C,Fr,17,6,2022,15860,UT Arlington,702
-28,2657269,Tanner Rice,INF,Fr,41,33,2022,15860,UT Arlington,702
 7,2124104,Tyler Rice,INF,Jr,47,37,2022,15860,UT Arlington,702
+28,2657269,Tanner Rice,INF,Fr,41,33,2022,15860,UT Arlington,702
 49,2657275,Joe Steeber,P,Fr,3,0,2022,15860,UT Arlington,702
 23,2466143,Steven Saunders,OF,Jr,36,25,2022,15860,UT Arlington,702
 29,2466145,Jarod Seals,P,Jr,5,0,2022,15860,UT Arlington,702
@@ -23487,9 +23487,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18,2117211,Chase Elias,OF,Sr,50,50,2022,15860,William Jewell,30120
 14,2311052,Alex Epp,INF,Jr,51,51,2022,15860,William Jewell,30120
 22,2657004,Drew Dant,P,Jr,24,0,2022,15860,William Jewell,30120
-39,2116095,Austin Anderson,INF,Sr,3,0,2022,15860,Drury,1057
-13,2503397,Isaac Ammann,OF,So,21,1,2022,15860,Drury,1057
 36,2304148,Hamilton Anderson,C,Jr,0,0,2022,15860,Drury,1057
+13,2503397,Isaac Ammann,OF,So,21,1,2022,15860,Drury,1057
+39,2116095,Austin Anderson,INF,Sr,3,0,2022,15860,Drury,1057
 8,2304142,Dj Mcnew,INF,Sr,51,47,2022,15860,Drury,1057
 48,2503405,Cody Bahl,P,So,14,14,2022,15860,Drury,1057
 31,2503401,Jack Jones,P,So,14,0,2022,15860,Drury,1057
@@ -23505,8 +23505,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 52,2503408,Stephen Pursley,P,So,1,0,2022,15860,Drury,1057
 9,2116086,Stephen Randazzo,INF,Sr,48,47,2022,15860,Drury,1057
 46,2503404,Charlie Roder,P,So,0,0,2022,15860,Drury,1057
-25,1973455,Brant Schaffitzel,INF,Sr,41,38,2022,15860,Drury,1057
 30,2304163,Brock Schaffitzel,INF,Jr,6,0,2022,15860,Drury,1057
+25,1973455,Brant Schaffitzel,INF,Sr,41,38,2022,15860,Drury,1057
 15,2503399,Carson Shaver,C,So,29,17,2022,15860,Drury,1057
 29,2304162,Sawyer Smith,OF,Sr,3,0,2022,15860,Drury,1057
 20,1973440,Tom Tewes,P,Sr,10,3,2022,15860,Drury,1057
@@ -23611,8 +23611,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 51,2687502,Eric Haugland,P,Fr,1,0,2022,15860,Gust. Adolphus,266
 22,2687503,Tanner Hopkins,OF,Fr,4,0,2022,15860,Gust. Adolphus,266
 34,2521157,Charlie Hora,P,So,1,0,2022,15860,Gust. Adolphus,266
-4,2351047,Luke Johnson,INF,Jr,34,27,2022,15860,Gust. Adolphus,266
 8,1995134,Christian Johnson,P,Sr,11,11,2022,15860,Gust. Adolphus,266
+4,2351047,Luke Johnson,INF,Jr,34,27,2022,15860,Gust. Adolphus,266
 31,2687358,Brevin Goetz,OF,Fr,12,0,2022,15860,Gust. Adolphus,266
 24,2137565,Ed Jarvis,C,So,3,0,2022,15860,Northeastern,500
 45,2471014,Will Jones,P,So,0,0,2022,15860,Northeastern,500
@@ -23625,8 +23625,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,2312077,Thomas Balboni,P,So,21,0,2022,15860,Northeastern,500
 46,2471024,Wyatt Scotti,P,So,14,14,2022,15860,Northeastern,500
 8,2679904,Mike Sirota,OF,Fr,37,37,2022,15860,Northeastern,500
-22,2137892,Spenser Smith,INF,Jr,56,56,2022,15860,Northeastern,500
 2,2679888,Hayden Smith,P,Fr,1,0,2022,15860,Northeastern,500
+22,2137892,Spenser Smith,INF,Jr,56,56,2022,15860,Northeastern,500
 43,2471026,Jack Thorbahn,INF,So,19,10,2022,15860,Northeastern,500
 3,2471028,Max Viera,INF,So,55,53,2022,15860,Northeastern,500
 11,2471029,Eric Yost,P,So,20,10,2022,15860,Northeastern,500
@@ -23653,7 +23653,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,1991654,Jeff Costello,OF,Sr,60,58,2022,15860,Northeastern,500
 20,2001446,Jordy Allard,P,Sr,24,2,2022,15860,Northeastern,500
 8,2312043,Alex Abbott,UT,Jr,18,0,2022,15860,George Fox,1094
-4,2466827,Jared Miller,INF,So,39,38,2022,15860,George Fox,1094
+19,2311986,Travis Miller,P,Jr,19,14,2022,15860,George Fox,1094
 40,2125335,Mason Arnold,INF,Sr,4,1,2022,15860,George Fox,1094
 13,2312122,Spencer Roos,C,Jr,32,30,2022,15860,George Fox,1094
 38,2466828,Jeremy Sangalang,INF,So,41,39,2022,15860,George Fox,1094
@@ -23671,7 +23671,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,2466838,Derek Williams,INF,So,9,3,2022,15860,George Fox,1094
 30,2466959,Ben Wills,P,So,12,11,2022,15860,George Fox,1094
 3,2466948,Breyndon Nakamura,OF,Jr,22,14,2022,15860,George Fox,1094
-19,2311986,Travis Miller,P,Jr,19,14,2022,15860,George Fox,1094
+4,2466827,Jared Miller,INF,So,39,38,2022,15860,George Fox,1094
 33,2662558,Austin Nissen,UT,Fr,2,0,2022,15860,George Fox,1094
 29,2662516,Noah Meffert,UT,Fr,33,23,2022,15860,George Fox,1094
 96,2312049,Ethan Croley,P,Fr,0,0,2022,15860,George Fox,1094
@@ -23865,11 +23865,11 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,2691824,Tyler Lizell,p,Fr,12,0,2022,15860,Gettysburg,258
 16,2147325,Shane Manieri,OF,Sr,20,14,2022,15860,Gettysburg,258
 17,2355400,Jr Mccloskey,C,Jr,33,33,2022,15860,Gettysburg,258
-35,2672101,Mason Brown,P,Fr,9,1,2022,15860,Georgia College,1096
+10,2134416,K.C. Brown,UT,Sr,41,39,2022,15860,Georgia College,1096
 42,1990235,Bryce Bowen,P,Sr,6,0,2022,15860,Georgia College,1096
 5,2134427,Matthew Chester,OF,Jr,23,4,2022,15860,Georgia College,1096
 18,2472945,Dominic Arienzo,INF,So,30,27,2022,15860,Georgia College,1096
-10,2134416,K.C. Brown,UT,Sr,41,39,2022,15860,Georgia College,1096
+35,2672101,Mason Brown,P,Fr,9,1,2022,15860,Georgia College,1096
 22,2472957,Brandon Bellflower,OF,So,51,48,2022,15860,Georgia College,1096
 40,2472976,Matthew Cassandra,OF,So,6,2,2022,15860,Georgia College,1096
 19,2134419,Josh Hudgins,P,Jr,14,14,2022,15860,Georgia College,1096
@@ -23938,13 +23938,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,1996876,Sam Colehower,P,Jr,17,0,2022,15860,Northern Colo.,502
 23,2669100,Preston Cooper,1B,Fr,10,2,2022,15860,Northern Colo.,502
 14,2334173,Logan Chase,P,Sr,17,0,2022,15860,Northern Colo.,502
-2,2669091,Chase Cromer,INF,So,40,32,2022,15860,Northern Colo.,502
+1,2347967,Cameron Cromer,INF,So,46,44,2022,15860,Northern Colo.,502
 35,2490302,Dylan Day,P,So,15,12,2022,15860,Northern Colo.,502
 21,2669058,Aaron Garcia,INF,Fr,16,3,2022,15860,Northern Colo.,502
 4,2334170,Josh Glenn,C,Sr,47,47,2022,15860,Northern Colo.,502
 13,2490277,Carson Gross,INF,So,17,10,2022,15860,Northern Colo.,502
 19,2119825,Hayden Heinze,OF,Jr,49,49,2022,15860,Northern Colo.,502
-1,2347967,Cameron Cromer,INF,So,46,44,2022,15860,Northern Colo.,502
+2,2669091,Chase Cromer,INF,So,40,32,2022,15860,Northern Colo.,502
 8,2334251,Garrett Fisher,C,So,30,27,2022,15860,Northern Colo.,502
 30,2143895,Ryan Albright,C,Sr,1,0,2022,15860,Grinnell,264
 25,2503526,Ian Brown,1B,So,23,21,2022,15860,Grinnell,264
@@ -24109,7 +24109,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2354300,Grant Vervoort,P,So,8,5,2022,15860,Upper Iowa,728
 39,2505415,Braden Albert,P,So,4,0,2022,15860,Upper Iowa,728
 14,2685960,Kainoa Torres,C,Jr,28,28,2022,15860,Upper Iowa,728
-25,2505428,Steve Marhefke,3B,So,0,0,2022,15860,Upper Iowa,728
+27,2505427,Sam Marhefke,P,Sr,16,0,2022,15860,Upper Iowa,728
 47,2697232,Freddie Modera,ss,Fr,2,2,2022,15860,Upper Iowa,728
 24,2354561,Keaton Parker,P,So,11,10,2022,15860,Upper Iowa,728
 30,2686558,Nicholas Pica,P,Sr,11,5,2022,15860,Upper Iowa,728
@@ -24126,7 +24126,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,2685990,Nicholas Vite,UT,Jr,41,38,2022,15860,Upper Iowa,728
 11,2505434,Brennan Sefrit,P,So,9,1,2022,15860,Upper Iowa,728
 13,2685959,Cael Luzum,OF,Fr,40,39,2022,15860,Upper Iowa,728
-27,2505427,Sam Marhefke,P,Sr,16,0,2022,15860,Upper Iowa,728
+25,2505428,Steve Marhefke,3B,So,0,0,2022,15860,Upper Iowa,728
 19,2505425,Evan Kerlin,1B,Jr,9,7,2022,15860,Upper Iowa,728
 9,2354277,Drew Callon,P,So,1,0,2022,15860,Upper Iowa,728
 41,2505416,Hunter Destival,C,Sr,14,4,2022,15860,Upper Iowa,728
@@ -24187,7 +24187,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 49,1973998,Colin Clark,P,Sr,14,0,2022,15860,Texas Tech,700
 28,2484312,Chase Hampton,P,So,15,11,2022,15860,Texas Tech,700
 37,2666589,Zach Mcalister,P,Fr,3,0,2022,15860,Newberry,1257
-6,2502400,Jacob Lebron,OF,So,47,46,2022,15860,Newberry,1257
+36,2666588,Ethan Lebron,P,Fr,13,13,2022,15860,Newberry,1257
 19,2666526,Wesley Livingston,P,So,13,0,2022,15860,Newberry,1257
 9,2666432,Jomar Lugo,INF,Fr,47,38,2022,15860,Newberry,1257
 28,2321384,Devin Makovsky,P,So,0,0,2022,15860,Newberry,1257
@@ -24196,7 +24196,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2666550,Scott Templeton,P,Fr,7,0,2022,15860,Newberry,1257
 3,2487386,Gabriel Santiago,INF,So,31,3,2022,15860,Newberry,1257
 11,2122154,Zane Tarrance,OF,Sr,51,51,2022,15860,Newberry,1257
-36,2666588,Ethan Lebron,P,Fr,13,13,2022,15860,Newberry,1257
+6,2502400,Jacob Lebron,OF,So,47,46,2022,15860,Newberry,1257
 20,1978544,Beau Thompson,INF,Sr,43,40,2022,15860,Newberry,1257
 44,2666612,Tyler Tuck,P,So,12,0,2022,15860,Newberry,1257
 12,2666453,Jonathan Velez,C,Fr,50,50,2022,15860,Newberry,1257
@@ -24309,8 +24309,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,2490525,Ryan Rissas,P,So,28,0,2022,15860,UC San Diego,112
 49,2679632,Jason Rocha,C,Fr,1,0,2022,15860,UC San Diego,112
 2,2490523,Luke Saunders,OF,So,36,24,2022,15860,UC San Diego,112
-15,2137742,Jalen Smith,INF,Jr,54,53,2022,15860,UC San Diego,112
 14,2679633,Austin Smith,P,Fr,53,51,2022,15860,UC San Diego,112
+15,2137742,Jalen Smith,INF,Jr,54,53,2022,15860,UC San Diego,112
 24,2490520,Joey Soberon,P,So,18,1,2022,15860,UC San Diego,112
 6,2679634,Luke Solis,INF,Fr,10,3,2022,15860,UC San Diego,112
 9,2490534,Noah Sudyka,INF,So,40,38,2022,15860,UC San Diego,112
@@ -24390,8 +24390,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,2309684,Connor Kiffer,INF,Sr,53,53,2022,15860,SIUE,660
 33,2309708,Kaid Karnes,P,Sr,16,10,2022,15860,SIUE,660
 6,2493652,Brett Johnson,INF,Jr,55,55,2022,15860,SIUE,660
-36,2493661,Trent Glidewell,P,So,4,0,2022,15860,SIUE,660
 35,2309755,Brant Glidewell,P,Sr,14,14,2022,15860,SIUE,660
+36,2493661,Trent Glidewell,P,So,4,0,2022,15860,SIUE,660
 44,2677500,Ben Everhart,P,Fr,4,0,2022,15860,SIUE,660
 32,2310262,Kyle Dixon,P,So,25,0,2022,15860,SIUE,660
 19,2677496,Nic Burg,OF,So,7,0,2022,15860,SIUE,660
@@ -24719,9 +24719,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2488911,Daniel Carter,P,Jr,12,12,2022,15860,N.C. A&T,488
 41,2126719,Avery Cain,P,Jr,0,0,2022,15860,N.C. A&T,488
 24,2488928,Xavier Bussey,OF,So,30,30,2022,15860,N.C. A&T,488
-3,2674730,Jaheim Brown,P,Fr,17,10,2022,15860,N.C. A&T,488
-2,2674732,Camden Jackson,OF,So,44,42,2022,15860,N.C. A&T,488
 9,2674753,Canyon Brown,C,Fr,52,52,2022,15860,N.C. A&T,488
+2,2674732,Camden Jackson,OF,So,44,42,2022,15860,N.C. A&T,488
+3,2674730,Jaheim Brown,P,Fr,17,10,2022,15860,N.C. A&T,488
 30,1998230,Jack Parisi,P,Sr,19,5,2022,15860,Indiana St.,305
 44,2677607,Luke Patzner,P,So,14,10,2022,15860,Indiana St.,305
 43,2347391,Raine Richter,P,Sr,9,0,2022,15860,Indiana St.,305
@@ -24806,18 +24806,18 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,2345302,Matt Ziminsky,P,Jr,0,0,2022,15860,Kutztown,339
 16,2670090,Colt Narciso,INF,Jr,26,24,2022,15860,Kutztown,339
 10,2345301,Antonio Rossillo,C,Jr,35,35,2022,15860,Kutztown,339
-24,2670111,Paul Moretski,P,Fr,14,5,2022,15860,Kutztown,339
-5,2670088,Mike Kelly,OF,Jr,41,41,2022,15860,Kutztown,339
 23,2345273,Gavin Moretski,P,Jr,46,45,2022,15860,Kutztown,339
+13,2464713,Colin Kelly,C,So,11,7,2022,15860,Kutztown,339
+29,1996536,Zach Moretski,INF,Sr,35,35,2022,15860,Kutztown,339
 32,2670134,Tyler Cleveland,P,Fr,14,1,2022,15860,Kutztown,339
 18,1996531,Kody Cracknell,P,Sr,10,1,2022,15860,Kutztown,339
 15,2670106,Brian Finn,INF,Fr,21,14,2022,15860,Kutztown,339
 27,2345295,Dalton Geiger,P,Jr,13,0,2022,15860,Kutztown,339
-29,1996536,Zach Moretski,INF,Sr,35,35,2022,15860,Kutztown,339
+24,2670111,Paul Moretski,P,Fr,14,5,2022,15860,Kutztown,339
 21,2321612,Austin Gromlich,C,Jr,15,7,2022,15860,Kutztown,339
 6,2464846,Gavin Grande,P,So,11,1,2022,15860,Kutztown,339
 12,2345296,Adin Hoderewski,C,Jr,6,1,2022,15860,Kutztown,339
-13,2464713,Colin Kelly,C,So,11,7,2022,15860,Kutztown,339
+5,2670088,Mike Kelly,OF,Jr,41,41,2022,15860,Kutztown,339
 28,2670132,Jimmy Kerley,1B,Fr,24,24,2022,15860,Kutztown,339
 20,2345297,Trevor Leverington,P,Jr,11,0,2022,15860,Kutztown,339
 31,2464848,Zach Male,P,So,12,12,2022,15860,Kutztown,339
@@ -25269,7 +25269,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 19,2666696,Josh Newton,INF,Fr,32,25,2022,15860,Ga. Southwestern,1097
 4,2666667,Grant Mcdonel,UT,Jr,13,4,2022,15860,Ga. Southwestern,1097
 26,2666733,Brice Mortillaro,C,Fr,20,11,2022,15860,Ga. Southwestern,1097
-22,2302229,Jacob Mcclure,P,So,9,0,2022,15860,Ga. Southwestern,1097
+16,2666679,Griffin Mcclure,P,Fr,2,0,2022,15860,Ga. Southwestern,1097
 32,2666750,Juan Anderson,P,Fr,6,1,2022,15860,Ga. Southwestern,1097
 27,2302238,Anthony Angelino,INF,Sr,54,54,2022,15860,Ga. Southwestern,1097
 8,2666673,Kyle Bachle,P,Jr,10,0,2022,15860,Ga. Southwestern,1097
@@ -25282,7 +25282,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2666675,Reese Jackowiak,P,So,4,1,2022,15860,Ga. Southwestern,1097
 44,2666761,Wade Law,INF,So,10,5,2022,15860,Ga. Southwestern,1097
 7,2116636,Matthew Mamatas,INF,Sr,53,53,2022,15860,Ga. Southwestern,1097
-16,2666679,Griffin Mcclure,P,Fr,2,0,2022,15860,Ga. Southwestern,1097
+22,2302229,Jacob Mcclure,P,So,9,0,2022,15860,Ga. Southwestern,1097
 13,2302233,Colby Gordon,P,So,19,1,2022,15860,Ga. Southwestern,1097
 26,2676994,Markus Williams,INF,So,42,40,2022,15860,Grove City,265
 7,2334235,Elijah White,P,Jr,9,3,2022,15860,Grove City,265
@@ -25414,8 +25414,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,2673601,Michael Goehrig,C,Jr,16,13,2022,15860,Eastern Ky.,202
 21,2673554,Sebastian Greico,INF,So,23,13,2022,15860,Eastern Ky.,202
 15,2673427,Quinton Hall,P,Fr,24,0,2022,15860,Eastern Ky.,202
-8,2673422,Jalen Jones,INF,Jr,54,52,2022,15860,Eastern Ky.,202
 21,2673555,Christian Jones,P,So,15,0,2022,15860,Eastern Ky.,202
+8,2673422,Jalen Jones,INF,Jr,54,52,2022,15860,Eastern Ky.,202
 3,2331618,Kendal Ewell,OF,So,58,58,2022,15860,Eastern Ky.,202
 41,2673612,Chris Hamann,P,Jr,16,0,2022,15860,Eastern Ky.,202
 44,2335564,Nathan Treadway,C,Jr,23,23,2022,15860,Emory & Henry,216
@@ -25893,8 +25893,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,2685650,Cam Miller,pr,Fr,23,9,2022,15860,Saint Mary's  (MIAC),612
 14,2146497,Keegan Majerus,P,Sr,4,0,2022,15860,Saint Mary's  (MIAC),612
 55,2460474,Jack Arndt,OF,So,23,20,2022,15860,Saint Mary's  (MIAC),612
-31,2694507,Riley Bauman,ph/lf,Fr,3,0,2022,15860,Saint Mary's  (MIAC),612
 1,2460466,Tanner Bauman,INF,So,35,34,2022,15860,Saint Mary's  (MIAC),612
+31,2694507,Riley Bauman,ph/lf,Fr,3,0,2022,15860,Saint Mary's  (MIAC),612
 40,2460464,Tj Bergland,P,So,4,0,2022,15860,Saint Mary's  (MIAC),612
 5,2157804,Isaac Blum,2B,Sr,0,0,2022,15860,Saint Mary's  (MIAC),612
 30,2696460,Will Boeckman,ph/c,Fr,9,7,2022,15860,Saint Mary's  (MIAC),612
@@ -25996,8 +25996,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 7,2130976,Mick Madsen,INF,Jr,55,55,2022,15860,Utah Valley,30024
 36,2324168,Cal Beardsley,P,Sr,2,2,2022,15860,Utah Valley,30024
 10,2331669,Garrett Broussard,INF,So,38,28,2022,15860,Utah Valley,30024
-15,2463876,Josh Brown,P,So,17,0,2022,15860,Utah Valley,30024
 38,2484449,Carson Brown,P,So,15,2,2022,15860,Utah Valley,30024
+15,2463876,Josh Brown,P,So,17,0,2022,15860,Utah Valley,30024
 6,2484425,Kyle Coburn,INF,So,49,41,2022,15860,Utah Valley,30024
 34,2343580,Luke Mccollough,P,So,17,2,2022,15860,Utah Valley,30024
 12,2673895,Trey Cutchen,OF,So,51,49,2022,15860,Utah Valley,30024
@@ -26027,17 +26027,17 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10.0,2529459,Jose Tabares,C,So,21,15,2022,15860,Barry,49
 22.0,2111810,Steven Torres,OF,Jr,45,38,2022,15860,Barry,49
 99.0,2111846,Nick Vanderhoef,P,Jr,0,0,2022,15860,Barry,49
-25.0,2697334,Johnny Vazquez,P,Fr,1,0,2022,15860,Barry,49
 17.0,1997158,David Vazquez,INF,Sr,46,45,2022,15860,Barry,49
+25.0,2697334,Johnny Vazquez,P,Fr,1,0,2022,15860,Barry,49
 19.0,1991228,Danny Vazquez,P,Jr,15,2,2022,15860,Barry,49
 35.0,2507569,Miguel Villafane,P,So,3,0,2022,15860,Barry,49
 0.0,2333500,Christian Muniz,P,Fr,3,0,2022,15860,Barry,49
 9.0,2652731,Bryan Matthews,INF,Fr,1,0,2022,15860,Barry,49
 30.0,2486033,Matthew Menendez,C,Fr,31,23,2022,15860,Barry,49
-11.0,2652734,Chris Lopez,P,So,13,3,2022,15860,Barry,49
+20.0,2652739,Osly Lopez,P,Fr,2,1,2022,15860,Barry,49
 29.0,2690534,Yovan Ayes,INF,Fr,14,5,2022,15860,Barry,49
-24.0,2652740,Chad Baker,P,Fr,5,0,2022,15860,Barry,49
 34.0,2652744,Trevor Baker,P,So,13,6,2022,15860,Barry,49
+24.0,2652740,Chad Baker,P,Fr,5,0,2022,15860,Barry,49
 4.0,2130229,Omar Baldo,C,Jr,32,29,2022,15860,Barry,49
 14.0,2514249,Anthony Bennetti,P,So,12,6,2022,15860,Barry,49
 13.0,2652736,Jorge Blanco,C,Fr,11,5,2022,15860,Barry,49
@@ -26052,7 +26052,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36.0,2364600,Danny Garcia,OF,Fr,22,16,2022,15860,Barry,49
 18.0,2111829,Frank Gonzalez,P,Jr,0,0,2022,15860,Barry,49
 23.0,2308762,Eddie  Jr. Javier,INF,So,20,13,2022,15860,Barry,49
-20.0,2652739,Osly Lopez,P,Fr,2,1,2022,15860,Barry,49
+11.0,2652734,Chris Lopez,P,So,13,3,2022,15860,Barry,49
 28.0,2504859,Ihosvany Casteneda,OF,Jr,43,43,2022,15860,Barry,49
 8,2331788,Kevin Zarnoch Jr.,P,Jr,10,7,2022,15860,Worcester St.,809
 27,2687173,Nick Army,P,Fr,3,0,2022,15860,Worcester St.,809
@@ -26205,7 +26205,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,2500038,Matt Odom,INF,So,33,32,2022,15860,Macalester,376
 2,2147142,Anthony Palma,INF,Sr,29,26,2022,15860,Macalester,376
 33,2695675,Jacob Posner,p,,2,0,2022,15860,Macalester,376
-37,2691874,L. Moore,p,,5,1,2022,15860,Macalester,376
+34,2691830,C. Moore,1b,,7,5,2022,15860,Macalester,376
 17,2695540,Ryan Przespolewski,p,,5,0,2022,15860,Macalester,376
 12,2330355,Kenny Rodriguez,UT,Jr,29,27,2022,15860,Macalester,376
 26,2691867,C. Scholl,p,,6,0,2022,15860,Macalester,376
@@ -26215,7 +26215,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,2691833,B. Wingard,c,,26,17,2022,15860,Macalester,376
 14,2500041,Matt Rade,P,So,6,4,2022,15860,Macalester,376
 29,2691754,S. Mizuno,p,,6,0,2022,15860,Macalester,376
-34,2691830,C. Moore,1b,,7,5,2022,15860,Macalester,376
+37,2691874,L. Moore,p,,5,1,2022,15860,Macalester,376
 7,2500039,Tyson Maddox,OF,So,0,0,2022,15860,Macalester,376
 5,2500037,Jack Conner,C,So,14,8,2022,15860,Macalester,376
 32,2695539,Zach Crane,p,,3,0,2022,15860,Macalester,376
@@ -26309,8 +26309,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26,2675891,Nikita Sifonios,OF,Jr,6,2,2022,15860,Bob Jones,30232
 31,2676379,Ethan Rogers,P,Jr,9,3,2022,15860,Bob Jones,30232
 5,2675890,Riley Ramsey,OF,So,33,30,2022,15860,Bob Jones,30232
-41,2675889,Tyler Pearson,INF,So,8,3,2022,15860,Bob Jones,30232
 38,2676378,Cole Pearson,INF,Fr,36,31,2022,15860,Bob Jones,30232
+41,2675889,Tyler Pearson,INF,So,8,3,2022,15860,Bob Jones,30232
 20,2157792,Shane Paruch,INF,Sr,24,19,2022,15860,Bob Jones,30232
 11,2677916,Adrian Lasval,INF,So,4,4,2022,15860,Bob Jones,30232
 30,2676400,Joshua Legnard,P,So,12,11,2022,15860,Bob Jones,30232
@@ -26321,8 +26321,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,2677895,Brandon Davis,OF,Jr,11,3,2022,15860,Bob Jones,30232
 33,2676399,Nicholas Cortez,P,Fr,9,1,2022,15860,Bob Jones,30232
 42,2676401,David Chappelle,P,Fr,4,0,2022,15860,Bob Jones,30232
-9,2675855,Conley Burk,INF,Sr,41,38,2022,15860,Bob Jones,30232
 14,2675887,Zach Burk,P,So,39,36,2022,15860,Bob Jones,30232
+9,2675855,Conley Burk,INF,Sr,41,38,2022,15860,Bob Jones,30232
 2,2675854,Isaiah Brandt,OF,So,25,21,2022,15860,Bob Jones,30232
 1,2675886,Chad Bayne,INF,Jr,39,36,2022,15860,Bob Jones,30232
 36,2675888,Colby Hogan,OF,Fr,39,36,2022,15860,Bob Jones,30232
@@ -26466,7 +26466,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 43,2673278,Nick Karlinchak,P,Jr,17,0,2022,15860,Longwood,363
 27,2137252,Drayven Kowalski,C,Jr,37,31,2022,15860,Longwood,363
 40,2673277,Cj Faulkenberry,OF,Fr,32,9,2022,15860,Longwood,363
-10.0,2509698,Sam Zercher,C,Jr,40,40,2022,15860,Messiah,411
+15.0,2675326,Isaiah Zercher,OF,Fr,1,0,2022,15860,Messiah,411
 14.0,2509703,Joshua Ammons,1B,So,40,40,2022,15860,Messiah,411
 6.0,2159523,Jorge Zambrano,P,Sr,10,0,2022,15860,Messiah,411
 36.0,2145956,Kenny Runkel,P,Sr,9,0,2022,15860,Messiah,411
@@ -26482,7 +26482,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11.0,2354860,Christian Woodie,p,Jr,10,8,2022,15860,Messiah,411
 29.0,2675341,Jj Zirkle,P,Fr,11,5,2022,15860,Messiah,411
 32.0,2675300,Thomas Ziegler,OF,Fr,19,3,2022,15860,Messiah,411
-15.0,2675326,Isaiah Zercher,OF,Fr,1,0,2022,15860,Messiah,411
+10.0,2509698,Sam Zercher,C,Jr,40,40,2022,15860,Messiah,411
 23.0,2675299,Aaron Renniger,P,Fr,4,0,2022,15860,Messiah,411
 8.0,2509696,Josh Nielsen,INF,So,10,0,2022,15860,Messiah,411
 43.0,1995627,Clayton Roberts,OF,Sr,40,40,2022,15860,Messiah,411
@@ -26536,8 +26536,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2120159,Zach Haala,INF,Sr,8,2,2022,15860,Bethel  (MIAC),60
 25,2506559,Drew Hillman,C,So,0,0,2022,15860,Bethel  (MIAC),60
 23,2120142,Keenan Hodgkin,INF,Sr,44,44,2022,15860,Bethel  (MIAC),60
-4,2692064,Sam Johnson,ph/rf,Fr,2,0,2022,15860,Bethel  (MIAC),60
 41,2120168,Nick Johnson,P,Sr,8,0,2022,15860,Bethel  (MIAC),60
+4,2692064,Sam Johnson,ph/rf,Fr,2,0,2022,15860,Bethel  (MIAC),60
 2,2126125,Bryce Delay,P,Sr,9,0,2022,15860,Bethel  (MIAC),60
 16,2683365,Max Zimmer,P,Jr,3,0,2022,15860,Bridgeport,74
 11,2509919,Anthony Pascale,C,So,37,37,2022,15860,Bridgeport,74
@@ -26565,14 +26565,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,2683361,Michael Fletcher,OF,Fr,20,20,2022,15860,Bridgeport,74
 23,1986056,Andrew Francella,P,Sr,12,11,2022,15860,Bridgeport,74
 19,2683366,Marcos Dominguez,INF,Fr,7,3,2022,15860,Bridgeport,74
-26,1986073,Stephen Giambra,OF,Sr,13,10,2022,15860,Bridgeport,74
+44,2509922,Jason Giambra,P,So,10,3,2022,15860,Bridgeport,74
 41,2137361,Justin Hafele,P,Sr,16,1,2022,15860,Bridgeport,74
 35,2683417,Jay Hamilton,C,Fr,6,2,2022,15860,Bridgeport,74
 1,2683405,Angel Irby,INF,Fr,10,3,2022,15860,Bridgeport,74
 7,2683408,Justin Leigh,OF,So,32,31,2022,15860,Bridgeport,74
 10,2136730,Craig Leonard,INF,Sr,43,41,2022,15860,Bridgeport,74
 17,1986058,Anthony Martino,P,Sr,12,8,2022,15860,Bridgeport,74
-44,2509922,Jason Giambra,P,So,10,3,2022,15860,Bridgeport,74
+26,1986073,Stephen Giambra,OF,Sr,13,10,2022,15860,Bridgeport,74
 13,2350375,Shane Mccone,INF,Jr,13,11,2022,15860,Bridgeport,74
 40,2336727,Carter Bach,C,Jr,13,2,2022,15860,WPI,808
 32,2517919,Regan Kahal,INF,So,2,1,2022,15860,WPI,808
@@ -26752,9 +26752,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 2,2655526,Jack Billings,P,Sr,14,3,2022,15860,Coastal Carolina,149
 12,2307184,Jonathan Blackwell,P,Jr,13,1,2022,15860,Coastal Carolina,149
 49,2468028,Connor Kurki,P,So,7,0,2022,15860,Coastal Carolina,149
-22,2655527,Graham Brown,OF,Jr,55,46,2022,15860,Coastal Carolina,149
-19,2112365,Elliot Carney,P,Sr,18,5,2022,15860,Coastal Carolina,149
 20,2307186,Eric Brown,INF,Jr,57,57,2022,15860,Coastal Carolina,149
+19,2112365,Elliot Carney,P,Sr,18,5,2022,15860,Coastal Carolina,149
+22,2655527,Graham Brown,OF,Jr,55,46,2022,15860,Coastal Carolina,149
 27,2307193,Tanner Garrison,C,Jr,31,22,2022,15860,Coastal Carolina,149
 5,2119759,Jake Gitter,UT,Sr,9,5,2022,15860,Coastal Carolina,149
 32,2121684,Kameron Guangorena,C,Jr,37,30,2022,15860,Coastal Carolina,149
@@ -26794,12 +26794,12 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 41.0,2143011,Brian Comerford,OF,Sr,31,21,2022,15860,St. Lawrence,607
 37.0,2346616,Michael Goretti,OF,Sr,32,32,2022,15860,St. Lawrence,607
 23.0,2682792,Timothy Connor,OF,Fr,6,0,2022,15860,St. Lawrence,607
-20.0,2143003,Drew Courtwright,INF,Sr,27,17,2022,15860,St. Lawrence,607
+22.0,2143004,Ryan Courtwright,OF,Sr,20,10,2022,15860,St. Lawrence,607
 19.0,2146992,Jake Delaney,INF,Sr,34,34,2022,15860,St. Lawrence,607
 5.0,2682708,Sean Desjardins,INF,Fr,28,20,2022,15860,St. Lawrence,607
 18.0,2512178,Brett Federico,UT,So,25,7,2022,15860,St. Lawrence,607
 8.0,2143005,Christian Forgione,INF,Sr,27,27,2022,15860,St. Lawrence,607
-22.0,2143004,Ryan Courtwright,OF,Sr,20,10,2022,15860,St. Lawrence,607
+20.0,2143003,Drew Courtwright,INF,Sr,27,17,2022,15860,St. Lawrence,607
 15.0,2684935,Jacoby Nold,UT,Fr,6,6,2022,15860,Concordia-M'head,161
 3.0,2684914,Ethan Beyer,UT,Fr,6,1,2022,15860,Concordia-M'head,161
 18.0,2355278,Nathan Leitner,UT,Jr,1,0,2022,15860,Concordia-M'head,161
@@ -26900,8 +26900,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,2463300,Brady Clark,INF,So,12,10,2022,15860,Saint Michael's,613
 15,2463267,Justin Garcia,INF,So,17,12,2022,15860,Saint Michael's,613
 11,2125807,Mitchell Goulet,OF,Sr,20,15,2022,15860,Saint Michael's,613
-28,2361727,Ryan Hosea,P,Sr,5,0,2022,15860,Saint Michael's,613
 20,2463304,Joey Hosea,P,So,10,0,2022,15860,Saint Michael's,613
+28,2361727,Ryan Hosea,P,Sr,5,0,2022,15860,Saint Michael's,613
 37,2682613,Maverick King,P,Fr,15,3,2022,15860,Saint Michael's,613
 44,2682614,Max Kolifrath,INF,Fr,4,2,2022,15860,Saint Michael's,613
 24,2682611,Colby Fane-Cushing,P,Fr,11,0,2022,15860,Saint Michael's,613
@@ -27076,9 +27076,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 24,2123560,Blake Empkey,OF,Jr,43,42,2022,15860,Okla. Christian,30179
 9,2653548,Connor Jackson,INF,So,33,30,2022,15860,Okla. Christian,30179
 34,2666730,Kyle Higgins,P,So,12,6,2022,15860,Okla. Christian,30179
-16,2305095,Jaren Hill,INF,So,29,21,2022,15860,Okla. Christian,30179
-25,2653541,Matthew Conerly,INF,Sr,24,13,2022,15860,Okla. Christian,30179
 28,2467970,Ryan Hill,P,Jr,8,2,2022,15860,Okla. Christian,30179
+25,2653541,Matthew Conerly,INF,Sr,24,13,2022,15860,Okla. Christian,30179
+16,2305095,Jaren Hill,INF,So,29,21,2022,15860,Okla. Christian,30179
 5,2653523,Chris Huerta,P,So,12,0,2022,15860,Okla. Christian,30179
 30,2653542,Aaron Hunter,OF,So,3,0,2022,15860,Okla. Christian,30179
 26,2305125,Hayden Boyd,P,So,12,0,2022,15860,Okla. Christian,30179
@@ -27309,8 +27309,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2132965,Gage Riddick,UT,Sr,30,27,2022,15860,East. Mennonite,203
 18,2683846,Alec Riles,P,Fr,15,3,2022,15860,East. Mennonite,203
 29,1992652,Blake Sargent,1B,Sr,21,18,2022,15860,East. Mennonite,203
-31,2683847,Jon Sawyers,P,Jr,9,8,2022,15860,East. Mennonite,203
 31,2488400,Jon Sawyers,P,Jr,2,0,2022,15860,East. Mennonite,203
+31,2683847,Jon Sawyers,P,Jr,9,8,2022,15860,East. Mennonite,203
 20,2319615,Forrest Shuey,C,Jr,6,0,2022,15860,East. Mennonite,203
 44,2684648,Garrett Nyce,1B,Fr,1,0,2022,15860,East. Mennonite,203
 41,2683848,Marcus Smith,P,Fr,9,0,2022,15860,East. Mennonite,203
@@ -27609,8 +27609,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,1980620,Colin Kennedy,P,Sr,12,3,2022,15860,West Chester,765
 15,2346532,Braeden Fausnaught,P,Sr,19,18,2022,15860,West Chester,765
 2,2337800,John Demucci,C,So,29,20,2022,15860,West Chester,765
-1,2522940,Andrew Cantwell,1B,So,14,3,2022,15860,West Chester,765
 11,2142249,Luke Cantwell,OF,Sr,49,49,2022,15860,West Chester,765
+1,2522940,Andrew Cantwell,1B,So,14,3,2022,15860,West Chester,765
 28,2514262,Cody Barberio,P,So,0,0,2022,15860,West Chester,765
 13,2660013,Kyle Willman,C,Jr,37,33,2022,15860,Fresno Pacific,30147
 10,2124289,Jared Aguilar,INF,Jr,50,49,2022,15860,Fresno Pacific,30147
@@ -28048,8 +28048,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 40,2658558,Nick  Hohenstein,P,Jr,29,17,2022,15860,Siena,639
 27,2473174,Matt Kahn,P,So,6,1,2022,15860,Siena,639
 11,2473170,Randall Hien,INF,So,27,10,2022,15860,Siena,639
-34,1893254,Carter Knapek,P,Sr,2,0,2022,15860,Siena,639
 33,1893250,Brooks Knapek,P,Sr,1,1,2022,15860,Siena,639
+34,1893254,Carter Knapek,P,Sr,2,0,2022,15860,Siena,639
 12,2113519,Devan Kruzinski,INF,Sr,39,39,2022,15860,Siena,639
 9,2473169,Joey Laurer,P,So,8,1,2022,15860,Siena,639
 45,2304843,Kyle Lev,P,Jr,9,1,2022,15860,Siena,639
@@ -28162,8 +28162,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,2504652,Seve Guarneschelli,P,So,4,0,2022,15860,Hood,8404
 31,2676388,James Gruenfelder,C,Fr,13,2,2022,15860,Hood,8404
 12,2329783,Gabriel Gilger,P,Jr,0,0,2022,15860,Hood,8404
-21,2676387,Dutch Deprospero,P,Fr,10,9,2022,15860,Hood,8404
 2,2144661,James Deprospero,INF,Sr,18,15,2022,15860,Hood,8404
+21,2676387,Dutch Deprospero,P,Fr,10,9,2022,15860,Hood,8404
 19,2504651,Michael Degirolamo,C,So,0,0,2022,15860,Hood,8404
 21,2367276,Jacob Cutter,P,Sr,3,0,2022,15860,Hood,8404
 20,2504649,Colby Childs,INF,So,8,5,2022,15860,Hood,8404
@@ -28293,8 +28293,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 36,2511200,Shane Tucker,P,So,12,3,2022,15860,LIU,361
 25,2150532,Luke Turner,1B,Sr,34,33,2022,15860,LIU,361
 34,2324815,Jack Vandoran,P,Jr,6,0,2022,15860,LIU,361
-13,2661516,Jarod Wade,OF,So,19,3,2022,15860,LIU,361
 20,1990972,Jalen Wade,P,Sr,14,14,2022,15860,LIU,361
+13,2661516,Jarod Wade,OF,So,19,3,2022,15860,LIU,361
 26,2661604,Evan Panjwani,P,So,7,0,2022,15860,LIU,361
 21,2661581,Garrett Yawn,P,So,11,6,2022,15860,LIU,361
 22,2124622,Nick Torres,P,Sr,22,2,2022,15860,LIU,361
@@ -28401,8 +28401,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,2516797,Matt Tarby,P,So,14,0,2022,15860,Le Moyne,349
 20,2129788,Ty Syta,C,Sr,48,48,2022,15860,Le Moyne,349
 32,2516805,Kennen Smith,P,So,6,0,2022,15860,Le Moyne,349
-12,1990144,Michael Smith,UT,Sr,1,1,2022,15860,Le Moyne,349
 12,2678971,Michael Smith,,Sr,51,51,2022,15860,Le Moyne,349
+12,1990144,Michael Smith,UT,Sr,1,1,2022,15860,Le Moyne,349
 28,2350018,Andrew Roden,1B,Sr,0,0,2022,15860,Le Moyne,349
 14,2678973,Wyatt Patchett,C,Fr,18,9,2022,15860,Le Moyne,349
 15,2516801,Max Parker,P,So,14,13,2022,15860,Le Moyne,349
@@ -28414,8 +28414,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 31,2350572,Joseph Hernandez,INF,Jr,4,0,2022,15860,Le Moyne,349
 16,2350092,Nick Hansen,UT,Sr,23,22,2022,15860,Le Moyne,349
 19,2129787,John Geer,P,Sr,5,0,2022,15860,Le Moyne,349
-22,1990148,Drew Fureno,C,Sr,47,47,2022,15860,Le Moyne,349
 23,2516803,Brady Fureno,C,So,29,26,2022,15860,Le Moyne,349
+22,1990148,Drew Fureno,C,Sr,47,47,2022,15860,Le Moyne,349
 11,2678950,Steven Freer,P,Fr,9,2,2022,15860,Le Moyne,349
 17,2129786,Ryan Dubrod,P,Sr,9,0,2022,15860,Le Moyne,349
 33,2350154,Sam Digeorge,P,Jr,13,2,2022,15860,Le Moyne,349
@@ -28669,8 +28669,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,2139298,David Keller,P,Jr,14,13,2022,15860,Lock Haven,360
 33,2513833,Zach Kaatz,INF,So,41,41,2022,15860,Lock Haven,360
 21,2319322,Justin Lichtenwalner,OF,So,41,41,2022,15860,Lock Haven,360
-27,2139328,Brandon Lingenfelter,P,Jr,3,0,2022,15860,Lock Haven,360
 6,2654803,Matt Lingenfelter,P,Fr,16,1,2022,15860,Lock Haven,360
+27,2139328,Brandon Lingenfelter,P,Jr,3,0,2022,15860,Lock Haven,360
 12,2319320,Jake Mastillo,C,So,41,41,2022,15860,Lock Haven,360
 9,2319305,Camden Moors,INF,So,22,11,2022,15860,Lock Haven,360
 23,2654836,Rj Kruse,P,So,12,10,2022,15860,Lock Haven,360
@@ -28834,7 +28834,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9,2518906,Bobby Sains,lf,So,0,0,2022,15860,Finlandia,30032
 18,2689027,J. Bishop,p,,10,7,2022,15860,Finlandia,30032
 31,2312141,Sheridan Brady,1B,Sr,12,6,2022,15860,Finlandia,30032
-34,2312174,Michael Martinez,OF,Jr,0,0,2022,15860,Finlandia,30032
+37,2312152,Ian Martinez,OF,Jr,0,0,2022,15860,Finlandia,30032
 15,2518905,Jacob Mead,rf,So,39,36,2022,15860,Finlandia,30032
 13,2519263,Brayden Blain,2b,So,0,0,2022,15860,Finlandia,30032
 4,2154001,Curtis Mick,2B,Sr,0,0,2022,15860,Finlandia,30032
@@ -28842,7 +28842,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 76,2527004,Unknown Rothenberger,p,So,0,0,2022,15860,Finlandia,30032
 60,2519267,Marc Robles,c,Sr,20,20,2022,15860,Finlandia,30032
 36,2153957,Blaec Rowden,1B,Sr,6,1,2022,15860,Finlandia,30032
-37,2312152,Ian Martinez,OF,Jr,0,0,2022,15860,Finlandia,30032
+34,2312174,Michael Martinez,OF,Jr,0,0,2022,15860,Finlandia,30032
 41,2522066,Ethan Spain,p,So,0,0,2022,15860,Finlandia,30032
 1,2154231,Kenny Weimer,P,Sr,4,0,2022,15860,Finlandia,30032
 43,2312161,Greg Walker,P,Jr,6,1,2022,15860,Finlandia,30032
@@ -28859,8 +28859,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2312109,Jack Brundage,OF,Jr,0,0,2022,15860,Finlandia,30032
 25,2519241,Thomas Burns,p,Jr,0,0,2022,15860,Finlandia,30032
 27,2518902,Eastyn Culp,3b,Jr,0,0,2022,15860,Finlandia,30032
-50,2312147,Jimmy D'Angelo,C,Jr,0,0,2022,15860,Finlandia,30032
 24,2518903,Jordan D'Angelo,2b,So,36,35,2022,15860,Finlandia,30032
+50,2312147,Jimmy D'Angelo,C,Jr,0,0,2022,15860,Finlandia,30032
 10,2686467,Cale Fransen,p,Fr,10,9,2022,15860,Finlandia,30032
 72,2522064,Unknown Futrell,p,So,0,0,2022,15860,Finlandia,30032
 35,2312144,Antonio Ficara,C,Jr,0,0,2022,15860,Finlandia,30032
@@ -29157,7 +29157,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,2691712,Chase Wilson,P,Fr,7,0,2022,15860,Wesleyan  (NESCAC),764
 34,2147273,Liam Rohan,P,Sr,3,0,2022,15860,Wesleyan  (NESCAC),764
 23,2360800,Eddie Zanor,UT,Jr,17,5,2022,15860,Wesleyan  (NESCAC),764
-20,2147274,Everett Lee,P,Sr,10,3,2022,15860,Wesleyan  (NESCAC),764
+16,2691666,Mario Lee,P,Fr,5,1,2022,15860,Wesleyan  (NESCAC),764
 18,2691667,Luke Lasaracina,UT,Fr,33,32,2022,15860,Wesleyan  (NESCAC),764
 2,2691664,Tyler Cosgrove,C,Fr,16,7,2022,15860,Wesleyan  (NESCAC),764
 19,2691668,Alex Deutsch,P,Fr,10,4,2022,15860,Wesleyan  (NESCAC),764
@@ -29165,7 +29165,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,2691714,Ethan Diaz,OF,Fr,8,2,2022,15860,Wesleyan  (NESCAC),764
 41,2691721,Steven Donovan,OF,So,1,0,2022,15860,Wesleyan  (NESCAC),764
 28,2360789,Ricky Finkel,C,Jr,23,16,2022,15860,Wesleyan  (NESCAC),764
-16,2691666,Mario Lee,P,Fr,5,1,2022,15860,Wesleyan  (NESCAC),764
+20,2147274,Everett Lee,P,Sr,10,3,2022,15860,Wesleyan  (NESCAC),764
 9,2147332,Wes Fritch,1B,Sr,33,33,2022,15860,Wesleyan  (NESCAC),764
 33,2360790,Graham Gilchrist,P,Jr,6,0,2022,15860,Wesleyan  (NESCAC),764
 11,2519622,Matt Halas,INF,So,28,26,2022,15860,Wesleyan  (NESCAC),764
@@ -29511,7 +29511,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26,2349393,Daniel Warkentin,INF,Sr,48,47,2022,15860,Eastern Mich.,204
 45,2349389,Justin Reinkall,P,Sr,20,0,2022,15860,Eastern Mich.,204
 31,2463659,Mark Kattula,INF,So,2,2,2022,15860,Eastern Mich.,204
-33,1982341,Thomas House,P,Sr,14,14,2022,15860,Eastern Mich.,204
+35,2349387,Trevor House,P,Jr,17,0,2022,15860,Eastern Mich.,204
 30,2134560,Brady Huebbe,OF,Sr,55,55,2022,15860,Eastern Mich.,204
 10,2676815,Brendan Alvord,P,Fr,5,0,2022,15860,Eastern Mich.,204
 14,2676816,Dom Anderson,P,Fr,12,2,2022,15860,Eastern Mich.,204
@@ -29528,7 +29528,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 8,1982337,Eli Gora,C,Sr,36,34,2022,15860,Eastern Mich.,204
 9,2354107,Tyler Helgeson,UT,Jr,8,0,2022,15860,Eastern Mich.,204
 17,2127121,Taylor Hopkins,INF,Sr,54,54,2022,15860,Eastern Mich.,204
-35,2349387,Trevor House,P,Jr,17,0,2022,15860,Eastern Mich.,204
+33,1982341,Thomas House,P,Sr,14,14,2022,15860,Eastern Mich.,204
 18,2676802,Adam Falinski,P,Fr,12,12,2022,15860,Eastern Mich.,204
 40,2524828,Gianmarco Acevedo,INF,So,5,0,2022,15860,Rutgers-Newark,589
 35,2155157,Daniel Reardon,P,Sr,10,10,2022,15860,Rutgers-Newark,589
@@ -29589,8 +29589,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,2328658,Zac Freeman,INF,Sr,34,25,2022,15860,Central Okla.,1009
 21,2670188,Jase Farmer,P,So,12,0,2022,15860,Central Okla.,1009
 27,2670194,Gatlin Goodson,OF,So,8,0,2022,15860,Central Okla.,1009
-13,2670195,Seth Gray,OF,So,40,30,2022,15860,Central Okla.,1009
 17,2670189,Wyatt Gray,C,So,36,34,2022,15860,Central Okla.,1009
+13,2670195,Seth Gray,OF,So,40,30,2022,15860,Central Okla.,1009
 10,2328665,Lawson Isaacs,P,Sr,24,11,2022,15860,Central Okla.,1009
 26,2670196,Dave Janssen,C,So,18,14,2022,15860,Central Okla.,1009
 1,2670193,Kaleb Glass,1B,So,47,44,2022,15860,Central Okla.,1009
@@ -29609,8 +29609,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 10,2129611,Gabe Ramos,INF,Jr,41,36,2022,15860,Colo. Christian,11403
 17,2467966,A.J. Perez,OF,Fr,2,0,2022,15860,Colo. Christian,11403
 18,2467954,Harrison Nation,P,Jr,14,7,2022,15860,Colo. Christian,11403
-21,2321625,Jordan Medina,UT,Jr,47,46,2022,15860,Colo. Christian,11403
 29,2321607,Zach Medina,UT,So,10,6,2022,15860,Colo. Christian,11403
+21,2321625,Jordan Medina,UT,Jr,47,46,2022,15860,Colo. Christian,11403
 30,2650026,Aaron Morgan,OF,Fr,22,6,2022,15860,Colo. Christian,11403
 13,2467953,Jake Martin,P,Jr,0,0,2022,15860,Colo. Christian,11403
 2,2121295,Wyatt Crenshaw,INF,Jr,49,49,2022,15860,Colo. Christian,11403
@@ -29643,7 +29643,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,2306393,Joe Balsam,P,Fr,22,0,2022,15860,Embry-Riddle  (Sunshine State),9680
 0,2659766,Timo Aracena,INF,Fr,8,2,2022,15860,Embry-Riddle  (Sunshine State),9680
 12,1978519,Daniel Trillo,OF,Sr,43,39,2022,15860,Embry-Riddle  (Sunshine State),9680
-5,1977696,Andrew Martinez,OF,Sr,48,47,2022,15860,Embry-Riddle  (Sunshine State),9680
+45,2659819,Cameron Martinez,C,Fr,2,0,2022,15860,Embry-Riddle  (Sunshine State),9680
 6,2659774,Keagan Perez,P,Fr,6,0,2022,15860,Embry-Riddle  (Sunshine State),9680
 34,1981949,Jonathan Martin,P,So,8,1,2022,15860,Embry-Riddle  (Sunshine State),9680
 27,2306388,Justus Burke,OF,Sr,18,1,2022,15860,Embry-Riddle  (Sunshine State),9680
@@ -29655,7 +29655,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 42,2347873,Zach Coldsnow,OF,So,48,48,2022,15860,Embry-Riddle  (Sunshine State),9680
 24,2659781,Connor Dunnam,P,Jr,8,4,2022,15860,Embry-Riddle  (Sunshine State),9680
 28,1863190,Garrett Goodall,P,Jr,14,14,2022,15860,Embry-Riddle  (Sunshine State),9680
-45,2659819,Cameron Martinez,C,Fr,2,0,2022,15860,Embry-Riddle  (Sunshine State),9680
+5,1977696,Andrew Martinez,OF,Sr,48,47,2022,15860,Embry-Riddle  (Sunshine State),9680
 2,1977711,Max Law,INF,Jr,36,33,2022,15860,Embry-Riddle  (Sunshine State),9680
 37,2659815,Tristan Harley,P,Fr,11,1,2022,15860,Embry-Riddle  (Sunshine State),9680
 45,2659818,Gunnar Harrison,P,Fr,9,0,2022,15860,Embry-Riddle  (Sunshine State),9680
@@ -30286,8 +30286,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,2665695,Tyler Waugh,C,Fr,27,8,2022,15860,UAB,9
 50,2665735,Brandon Willoughby,INF,Jr,54,54,2022,15860,UAB,9
 39,2475773,Nick Wright,P,So,2,0,2022,15860,UAB,9
-12,2310208,Blaine Smith,UT,Sr,13,1,2022,15860,UAB,9
 29,2118738,Jonah Smith,P,So,21,0,2022,15860,UAB,9
+12,2310208,Blaine Smith,UT,Sr,13,1,2022,15860,UAB,9
 36,2118677,Tyler O'Clair,P,Jr,16,10,2022,15860,UAB,9
 2,2475747,John Marc Mullins,INF,Jr,56,56,2022,15860,UAB,9
 14,2665712,Thomas Ballard,P,Fr,23,3,2022,15860,UAB,9
@@ -30299,8 +30299,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2665714,Ranard Grace,P,Fr,1,0,2022,15860,UAB,9
 21,2310190,Caleb Floyd,OF,Sr,56,56,2022,15860,UAB,9
 19,2310106,Christian Hall,OF,Jr,53,50,2022,15860,UAB,9
-7,2475764,David Harris,INF,So,0,0,2022,15860,UAB,9
 5,2310184,Leo Harris,P,So,13,8,2022,15860,UAB,9
+7,2475764,David Harris,INF,So,0,0,2022,15860,UAB,9
 11,2665697,Henry Hunter,C,Fr,46,40,2022,15860,UAB,9
 28,2475752,Joseph Kiel,C,Jr,25,17,2022,15860,UAB,9
 22,2475769,Carson Knight,P,So,6,2,2022,15860,UAB,9
@@ -30446,10 +30446,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14,2141199,Brett Payne,P,So,12,2,2022,15860,McNeese,402
 45,2331593,Jt Peloquin,P,So,1,0,2022,15860,McNeese,402
 40,2656788,Grant Rogers,P,So,16,14,2022,15860,McNeese,402
-46,2319054,Tyler Stone,P,Sr,22,0,2022,15860,McNeese,402
+44,2138998,Chance Stone,P,So,17,15,2022,15860,McNeese,402
 38,2656805,Brian Shadrick,P,So,26,0,2022,15860,McNeese,402
 35,2331612,Andrew Sheridan,P,Jr,20,4,2022,15860,McNeese,402
-44,2138998,Chance Stone,P,So,17,15,2022,15860,McNeese,402
+46,2319054,Tyler Stone,P,Sr,22,0,2022,15860,McNeese,402
 12,2141273,Schuyler Thibodaux,C,Jr,21,15,2022,15860,McNeese,402
 13,2127506,Christian Vega,P,Jr,25,2,2022,15860,McNeese,402
 21,2655827,Connor  Westenburg,OF,Fr,15,3,2022,15860,McNeese,402
@@ -30606,7 +30606,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,2681477,Sam Pinho,INF,Fr,21,15,2022,15860,Spalding,23260
 39,2681495,Blake Perrill,INF,Fr,0,0,2022,15860,Spalding,23260
 38,2681490,Jackson  Gutzwiller,C,Fr,5,0,2022,15860,Spalding,23260
-42,2465992,Wesley Clark,P,So,11,5,2022,15860,Spalding,23260
+3,2465983,Cameron Clark,P,So,2,0,2022,15860,Spalding,23260
 54,2681513,Everette Cogan,UT,Fr,11,2,2022,15860,Spalding,23260
 7,2350005,Caleb Collins,P,Jr,1,1,2022,15860,Spalding,23260
 4,2349519,Marcus Collins,INF,Jr,42,40,2022,15860,Spalding,23260
@@ -30621,7 +30621,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 20,2465988,Jahlyn Mckie,OF,So,23,11,2022,15860,Spalding,23260
 41,2681512,Jake Mueller,P,Fr,8,4,2022,15860,Spalding,23260
 27,2681485,Ethan Murphy,P,Fr,3,0,2022,15860,Spalding,23260
-3,2465983,Cameron Clark,P,So,2,0,2022,15860,Spalding,23260
+42,2465992,Wesley Clark,P,So,11,5,2022,15860,Spalding,23260
 10,2681475,Brooks Chandler,INF,So,1,0,2022,15860,Spalding,23260
 63,2674197,Ramon Acosta,,Fr,0,0,2022,15860,Salem  (DII Independent),19117
 8,2671680,Cameron Abele,OF,So,8,0,2022,15860,Salem  (DII Independent),19117
@@ -30631,7 +30631,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 26,2674160,Jacob Barcikowski,OF,Fr,8,2,2022,15860,Salem  (DII Independent),19117
 12,2526014,Sukhbir Parmar,P,Fr,0,0,2022,15860,Salem  (DII Independent),19117
 55,2674195,Miguel Bonilla Jr,INF,Fr,0,0,2022,15860,Salem  (DII Independent),19117
-11,2671662,Jordan Miller,,Fr,0,0,2022,15860,Salem  (DII Independent),19117
+48,2674189,Corey Miller,,Fr,1,0,2022,15860,Salem  (DII Independent),19117
 40,2134328,Caleb Moats,OF,Fr,3,1,2022,15860,Salem  (DII Independent),19117
 49,2331957,Adlai Muench,OF,Fr,7,1,2022,15860,Salem  (DII Independent),19117
 22,2674171,Justin Murray,INF,Fr,5,0,2022,15860,Salem  (DII Independent),19117
@@ -30640,7 +30640,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,2671665,Jared  Palmyra,OF,Fr,25,18,2022,15860,Salem  (DII Independent),19117
 52,2674192,Justin Pisano,P,Fr,0,0,2022,15860,Salem  (DII Independent),19117
 20,2671689,Mariano Poll Jr,OF,Jr,1,1,2022,15860,Salem  (DII Independent),19117
-48,2674189,Corey Miller,,Fr,1,0,2022,15860,Salem  (DII Independent),19117
+11,2671662,Jordan Miller,,Fr,0,0,2022,15860,Salem  (DII Independent),19117
 14,2671684,Jhayden Raineri,INF,Fr,13,9,2022,15860,Salem  (DII Independent),19117
 7,2502394,Tyler Shinn,P,So,40,35,2022,15860,Salem  (DII Independent),19117
 35,2508000,Ben Sitarenios,1B,Fr,17,0,2022,15860,Salem  (DII Independent),19117
@@ -30775,9 +30775,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 17,2319895,Luke Taylor,P,So,10,1,2022,15860,Goldey-Beacom,8366
 25,2319891,Hayden Trimarco,P,So,1,0,2022,15860,Goldey-Beacom,8366
 10,2654759,Jake Vitale,INF,Fr,11,0,2022,15860,Goldey-Beacom,8366
-36,2319899,Justin Jump,P,So,13,4,2022,15860,Goldey-Beacom,8366
-41,2654781,Logan Musey,P,Fr,2,0,2022,15860,Goldey-Beacom,8366
 34,1988669,Trevor Jump,P,Sr,10,3,2022,15860,Goldey-Beacom,8366
+41,2654781,Logan Musey,P,Fr,2,0,2022,15860,Goldey-Beacom,8366
+36,2319899,Justin Jump,P,So,13,4,2022,15860,Goldey-Beacom,8366
 19,2654762,Cole Fowler,INF,Fr,30,24,2022,15860,Goldey-Beacom,8366
 1,2503513,Demetrius Johnson,OF,So,50,50,2022,15860,Goldey-Beacom,8366
 13,2654761,Wyatt Atkinson,P,Fr,9,2,2022,15860,Goldey-Beacom,8366
@@ -30879,10 +30879,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,2678354,Cole Luckey,OF,Fr,16,4,2022,15860,Bradley,72
 50,2471498,Dalton Mall,P,Jr,0,0,2022,15860,Bradley,72
 28,2124668,Connor Manthey,C,Jr,43,37,2022,15860,Bradley,72
-26,2678348,Timmy O'Brien,INF,Fr,20,10,2022,15860,Bradley,72
+41,2124682,Connor O'Brien,INF,Jr,48,48,2022,15860,Bradley,72
 35,2678360,Trevor Moeck,P,Fr,3,1,2022,15860,Bradley,72
 16,2678340,Michael Mylott,OF,Fr,13,10,2022,15860,Bradley,72
-41,2124682,Connor O'Brien,INF,Jr,48,48,2022,15860,Bradley,72
+26,2678348,Timmy O'Brien,INF,Fr,20,10,2022,15860,Bradley,72
 9,2678338,George Korompilas,1B,Fr,6,0,2022,15860,Bradley,72
 15,1978907,Keaton Rice,C,Sr,45,44,2022,15860,Bradley,72
 17,2301028,Carl Valk,OF,Sr,26,17,2022,15860,Bradley,72
@@ -30893,8 +30893,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,2471500,Grant Jausel,P,Sr,6,6,2022,15860,Bradley,72
 10,2678280,Jd Bogart,C,Fr,3,0,2022,15860,Bradley,72
 6,2124662,Adam Brian,C,Jr,20,17,2022,15860,Bradley,72
-8,2124663,Eli Campbell,P,Jr,15,3,2022,15860,Bradley,72
 23,2678343,Jacob Campbell,P,So,11,0,2022,15860,Bradley,72
+8,2124663,Eli Campbell,P,Jr,15,3,2022,15860,Bradley,72
 34,2301025,Nick King,P,Sr,20,9,2022,15860,Bradley,72
 4,2471471,Jackson Chatterton,INF,So,48,48,2022,15860,Bradley,72
 42,2678373,John Day,P,Fr,17,2,2022,15860,Bradley,72
@@ -31016,7 +31016,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 35,2305242,Alex Pimentel,OF,So,33,21,2022,15860,Long Beach St.,99
 32,2127948,Dalton Ponce,P,Jr,16,0,2022,15860,Long Beach St.,99
 33,2123307,Tyler Porter,INF,So,31,19,2022,15860,Long Beach St.,99
-37,2305157,Luis Ramirez,P,So,7,7,2022,15860,Long Beach St.,99
+12,2305154,Isaac Ramirez,UT,So,15,5,2022,15860,Long Beach St.,99
 14,2305240,Javier Rosales,OF,Sr,14,6,2022,15860,Long Beach St.,99
 8,2305152,Jake Rons,P,So,17,2,2022,15860,Long Beach St.,99
 1,2123287,Brennan Rozell,INF,Jr,16,5,2022,15860,Long Beach St.,99
@@ -31025,7 +31025,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 39,2655180,Zach Voelker,P,Fr,14,7,2022,15860,Long Beach St.,99
 23,2513137,Juaron Watts-Brown,P,Fr,15,12,2022,15860,Long Beach St.,99
 36,2655225,Tyler White,OF,Fr,38,20,2022,15860,Long Beach St.,99
-12,2305154,Isaac Ramirez,UT,So,15,5,2022,15860,Long Beach St.,99
+37,2305157,Luis Ramirez,P,So,7,7,2022,15860,Long Beach St.,99
 16,2655213,Kaden Moeller,P,Fr,26,14,2022,15860,Long Beach St.,99
 17,2123303,Charlie Loust,UT,So,16,11,2022,15860,Long Beach St.,99
 9,2305225,Jesse Lopez,OF,Sr,16,4,2022,15860,Long Beach St.,99
@@ -31103,8 +31103,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 28,2662167,Beau Ross,P,So,16,0,2022,15860,Tarleton St.,1395
 16,2122353,Colby Seltzer,INF,Jr,41,28,2022,15860,Tarleton St.,1395
 31,2345764,Kemuel Thomas-Rivera,INF,Sr,48,46,2022,15860,Tarleton St.,1395
-21,2343994,Easton Turnage,P,So,3,0,2022,15860,Tarleton St.,1395
 22,2306090,Kade Turnage,INF,So,5,1,2022,15860,Tarleton St.,1395
+21,2343994,Easton Turnage,P,So,3,0,2022,15860,Tarleton St.,1395
 1,2138904,Cody Vannoy,C,So,16,8,2022,15860,Tarleton St.,1395
 3,2662159,Alec Williams,OF,So,52,51,2022,15860,Tarleton St.,1395
 18,2306089,Corey Young,INF,Sr,33,23,2022,15860,Tarleton St.,1395
@@ -31291,8 +31291,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 24,2523188,Henry Schwoerer,OF,So,22,14,2022,15860,Western New Eng.,775
 22,2007904,Ryan Searles,P,Sr,9,1,2022,15860,Western New Eng.,775
 27,2523199,Kohtaro Shimada,C,So,24,18,2022,15860,Western New Eng.,775
-46,2310886,Zach Snow,1B,Jr,10,2,2022,15860,Western New Eng.,775
 48,2523200,Ryan Snow,INF,So,4,0,2022,15860,Western New Eng.,775
+46,2310886,Zach Snow,1B,Jr,10,2,2022,15860,Western New Eng.,775
 34,1891129,Matt Vigliotti,P,Sr,11,0,2022,15860,Western New Eng.,775
 37,2523189,David Vignapiano,P,So,4,0,2022,15860,Western New Eng.,775
 2,2310867,Paul Villeco,INF,Jr,38,37,2022,15860,Western New Eng.,775
@@ -31961,8 +31961,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 5,2307134,Nick Diana,OF,Jr,29,29,2022,15860,Bluffton,987
 49,2120079,Seth Evans,P,Sr,16,0,2022,15860,Bluffton,987
 14,2664866,Joe Fields,P,Fr,19,8,2022,15860,Bluffton,987
-45,2307153,Miles Frey,OF,Jr,0,0,2022,15860,Bluffton,987
 47,2120291,Wayne Frey,OF,Sr,3,0,2022,15860,Bluffton,987
+45,2307153,Miles Frey,OF,Jr,0,0,2022,15860,Bluffton,987
 37,2120240,Spencer Garrison,P,Sr,14,0,2022,15860,Bluffton,987
 24,2664861,Dylan Gray,3B,Fr,23,11,2022,15860,Bluffton,987
 36,2664942,Wyatt Groves,P,Fr,9,3,2022,15860,Bluffton,987
@@ -32027,8 +32027,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,2126890,Zack Graveline,INF,Sr,38,35,2022,15860,Westfield St.,777
 19,2126869,Jake Butler,OF,Sr,16,3,2022,15860,Westfield St.,777
 15,2684173,Alex Canzellarini,P,Fr,1,0,2022,15860,Westfield St.,777
-22,2354383,Sean Casey,P,Jr,14,0,2022,15860,Westfield St.,777
 11,2354380,Billy Casey,P,Jr,3,0,2022,15860,Westfield St.,777
+22,2354383,Sean Casey,P,Jr,14,0,2022,15860,Westfield St.,777
 36,2511659,Sean Clark,OF,So,8,1,2022,15860,Westfield St.,777
 9,2354325,Spencer Cloutier,OF,Jr,6,2,2022,15860,Westfield St.,777
 38,2511658,Michael Hall,P,So,0,0,2022,15860,Westfield St.,777
@@ -32552,8 +32552,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27.0,2122494,Byron Murray,INF,Sr,46,45,2022,15860,Lynn,20794
 21.0,2122513,Chris Mormile,P,Sr,0,0,2022,15860,Lynn,20794
 45.0,2498677,Jake Mckenna,P,Jr,2,0,2022,15860,Lynn,20794
-41.0,1980924,Jose Martinez,P,Sr,16,0,2022,15860,Lynn,20794
 44.0,2124445,Pedro Martinez,OF,Sr,14,9,2022,15860,Lynn,20794
+41.0,1980924,Jose Martinez,P,Sr,16,0,2022,15860,Lynn,20794
 19.0,2305443,Brandon Kruzinski,OF,Sr,47,47,2022,15860,Lynn,20794
 42.0,2305457,Sam Kagan,P,Jr,0,0,2022,15860,Lynn,20794
 6.0,2653395,Drew Dwyer,P,Jr,15,1,2022,15860,Lynn,20794
@@ -32614,8 +32614,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27.0,1997139,Drew Demartino,INF,Sr,43,43,2022,15860,Massachusetts,400
 23.0,2129287,Tyler Dalton,P,Sr,12,7,2022,15860,Massachusetts,400
 19.0,2129282,Kevin Dow,P,Sr,12,12,2022,15860,Massachusetts,400
-6.0,2331579,Zack Given,P,Jr,12,3,2022,15860,Massachusetts,400
 32.0,2331602,Jake Given,UT,Jr,15,2,2022,15860,Massachusetts,400
+6.0,2331579,Zack Given,P,Jr,12,3,2022,15860,Massachusetts,400
 10.0,2689102,Carter Hanson,OF,Fr,15,3,2022,15860,Massachusetts,400
 8.0,2001671,Coleson Hebble,INF,Sr,47,47,2022,15860,Massachusetts,400
 22.0,2129254,Dylan Judd,C,Jr,46,46,2022,15860,Massachusetts,400
@@ -32729,13 +32729,13 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 12.0,1998049,Nick Neibauer,C,Sr,47,44,2022,15860,Miami (OH),414
 29.0,2654955,David Novak,C,Fr,27,22,2022,15860,Miami (OH),414
 5.0,2488312,Martin Sosna,P,Fr,8,0,2022,15860,Miami (OH),414
-1.0,1977224,Tyler Wardwell,INF,Sr,6,6,2022,15860,Miami (OH),414
+4.0,2488317,Jax Wardwell,INF,So,3,0,2022,15860,Miami (OH),414
 31.0,2654965,Ryan Starr,P,Fr,12,0,2022,15860,Miami (OH),414
 36.0,2334923,Nate Stone,OF,So,1,1,2022,15860,Miami (OH),414
 7.0,1979150,Cristian Tejada,OF,Sr,9,7,2022,15860,Miami (OH),414
 37.0,2314421,Sloan Thomsen,P,Sr,0,0,2022,15860,Miami (OH),414
 18.0,2488328,Aaron Massie,P,So,16,5,2022,15860,Miami (OH),414
-4.0,2488317,Jax Wardwell,INF,So,3,0,2022,15860,Miami (OH),414
+1.0,1977224,Tyler Wardwell,INF,Sr,6,6,2022,15860,Miami (OH),414
 14.0,2334917,Jj Woolwine,OF,Fr,45,36,2022,15860,Miami (OH),414
 6.0,2334919,Brian Zapp,INF,Jr,52,50,2022,15860,Miami (OH),414
 16.0,2334924,Michael Spinozzi,P,Sr,14,3,2022,15860,Miami (OH),414
@@ -32871,8 +32871,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 18.0,2683712,Blaze Cano,INF,Fr,14,2,2022,15860,Purdue Northwest,30222
 45.0,1981842,Tom Flisk,OF,Sr,0,0,2022,15860,Purdue Northwest,30222
 3.0,2337151,Anthony Fumagalli,INF,Sr,43,42,2022,15860,Purdue Northwest,30222
-8.0,2337181,Riley Gallagher,INF,Jr,17,1,2022,15860,Purdue Northwest,30222
 19.0,2337162,Jack Gallagher,C,Jr,29,27,2022,15860,Purdue Northwest,30222
+8.0,2337181,Riley Gallagher,INF,Jr,17,1,2022,15860,Purdue Northwest,30222
 22.0,2471523,Alex Gasbarro,INF,So,33,31,2022,15860,Purdue Northwest,30222
 38.0,2471544,Noah Burgh,P,So,11,3,2022,15860,Purdue Northwest,30222
 14.0,2510371,Josh Yelick,P,So,3,0,2022,15860,Wayne St.  (NSIC),1433
@@ -32949,8 +32949,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4.0,2135016,Jeremy Muniz,INF,Sr,37,31,2022,15860,Schreiner,1355
 15.0,2326559,Dakota Price,P,Jr,7,1,2022,15860,Schreiner,1355
 35.0,2135111,Aaron Recio,OF,Sr,18,7,2022,15860,Schreiner,1355
-23.0,2676386,Aj Rodriguez,INF,Fr,10,5,2022,15860,Schreiner,1355
 47.0,2495784,Christopher Rodriguez,P,So,12,1,2022,15860,Schreiner,1355
+23.0,2676386,Aj Rodriguez,INF,Fr,10,5,2022,15860,Schreiner,1355
 38.0,2676567,Luke Rogers,1B,Fr,11,1,2022,15860,Schreiner,1355
 13.0,2495746,Adam Sanchez,P,So,33,28,2022,15860,Schreiner,1355
 36.0,2676431,George Sandifer,P,Jr,12,2,2022,15860,Schreiner,1355
@@ -33153,7 +33153,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30.0,2671756,Anthony Ferreira,P,Fr,2,0,2022,15860,Curry,170
 50.0,2671789,Tommy Marshall,P,Fr,20,16,2022,15860,Curry,170
 44.0,2671777,Bobby Marshall,P,Fr,7,4,2022,15860,Curry,170
-36.0,2671769,Erik Leonard,INF,Fr,4,2,2022,15860,Curry,170
+8.0,2132206,Jason Leonard,INF,Sr,33,32,2022,15860,Curry,170
 9.0,1997918,Garrett Fosher,P,Sr,28,18,2022,15860,Curry,170
 46.0,2671785,Tino Gagliardi,INF,Fr,6,4,2022,15860,Curry,170
 2.0,2517553,Ryan Goonan,INF,So,27,26,2022,15860,Curry,170
@@ -33167,7 +33167,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 28.0,2132198,Nick Kavrakis,P,Sr,7,0,2022,15860,Curry,170
 6.0,1882580,Jared Keller,OF,Sr,27,23,2022,15860,Curry,170
 16.0,2132183,Philip Ledwith,P,Sr,11,5,2022,15860,Curry,170
-8.0,2132206,Jason Leonard,INF,Sr,33,32,2022,15860,Curry,170
+36.0,2671769,Erik Leonard,INF,Fr,4,2,2022,15860,Curry,170
 29.0,2517561,Calvin Ingemi,INF,So,1,0,2022,15860,Curry,170
 44.0,2309017,Nate Beimel,P,Jr,0,0,2022,15860,Columbia,158
 33.0,1975417,Billy Black,P,Sr,17,6,2022,15860,Columbia,158
@@ -33216,8 +33216,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 14.0,2660440,Eston Storm,P,Fr,12,1,2022,15860,N.M. Highlands,8577
 3.0,2348586,John Slape,P,Jr,11,0,2022,15860,N.M. Highlands,8577
 9.0,2660449,Allan Salas,OF,Fr,27,25,2022,15860,N.M. Highlands,8577
-12.0,2660437,Joseph Romero,INF,Fr,7,4,2022,15860,N.M. Highlands,8577
 16.0,2660436,Derek Romero,OF,Fr,2,1,2022,15860,N.M. Highlands,8577
+12.0,2660437,Joseph Romero,INF,Fr,7,4,2022,15860,N.M. Highlands,8577
 15.0,2348560,Eric Papas,1B,Sr,27,19,2022,15860,N.M. Highlands,8577
 44.0,2134143,Aidan Mcnichol,1B,Sr,42,42,2022,15860,N.M. Highlands,8577
 11.0,2660451,Aiden Taylor,P,So,2,1,2022,15860,N.M. Highlands,8577
@@ -33227,8 +33227,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29.0,2659616,Jose Ayala,OF,Fr,25,20,2022,15860,N.M. Highlands,8577
 5.0,2134136,Brandon Baier,P,Jr,41,40,2022,15860,N.M. Highlands,8577
 21.0,2348548,Jadrian Martinez,P,Jr,12,10,2022,15860,N.M. Highlands,8577
-13.0,2507531,Angel Castillo,P,Sr,12,11,2022,15860,N.M. Highlands,8577
 24.0,2659620,Dominic Castillo,P,Fr,16,3,2022,15860,N.M. Highlands,8577
+13.0,2507531,Angel Castillo,P,Sr,12,11,2022,15860,N.M. Highlands,8577
 7.0,1991012,Jared Brown,1B,Sr,45,42,2022,15860,N.M. Highlands,8577
 18.0,2348477,Estevan De La O,OF,Sr,46,46,2022,15860,N.M. Highlands,8577
 33.0,2660427,Reece Dunn,C,Fr,10,9,2022,15860,N.M. Highlands,8577
@@ -33330,7 +33330,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34.0,2668585,Luke Poole,OF,Jr,16,6,2022,15860,Anderson  (SAC),13028
 3.0,2668558,William Laffin,INF,Jr,16,11,2022,15860,Anderson  (SAC),13028
 11.0,2488714,Nathan Ledford,P,Jr,19,4,2022,15860,Anderson  (SAC),13028
-41.0,2488722,Kaleb King,P,So,13,0,2022,15860,Anderson  (SAC),13028
+50.0,2488731,Kolby King,OF,So,1,0,2022,15860,Anderson  (SAC),13028
 45.0,2329041,Colin Belvin,OF,Jr,1,0,2022,15860,Anderson  (SAC),13028
 12.0,1980651,Tyler Berry,C,Sr,13,3,2022,15860,Anderson  (SAC),13028
 32.0,2328965,Ryan Brash,C,Jr,10,0,2022,15860,Anderson  (SAC),13028
@@ -33345,7 +33345,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13.0,2668573,Carlos Hernandez,C,Jr,45,45,2022,15860,Anderson  (SAC),13028
 10.0,2668565,Jackson Herring,P,Jr,21,0,2022,15860,Anderson  (SAC),13028
 21.0,2488712,Andrew Imperatore,P,So,15,12,2022,15860,Anderson  (SAC),13028
-50.0,2488731,Kolby King,OF,So,1,0,2022,15860,Anderson  (SAC),13028
+41.0,2488722,Kaleb King,P,So,13,0,2022,15860,Anderson  (SAC),13028
 18.0,2328969,Drew Hallgren,P,Jr,0,0,2022,15860,Anderson  (SAC),13028
 28.0,2674352,Brady Aubuchon,P,Fr,9,2,2022,15860,Wentworth,762
 8.0,2324263,Christian Alcantara,P,Jr,0,0,2022,15860,Wentworth,762
@@ -33553,7 +33553,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 9.0,2472499,Sammy Williamson,UT,So,47,47,2022,15860,Eastern N.M.,206
 34.0,2306688,James Romero,UT,Jr,3,0,2022,15860,Eastern N.M.,206
 18.0,2130202,Thomas Wisneski,OF,Jr,7,0,2022,15860,Eastern N.M.,206
-1.0,2306685,Camden Matthews,UT,Jr,46,46,2022,15860,Eastern N.M.,206
+2.0,2306702,Braeton Matthews,UT,Jr,38,38,2022,15860,Eastern N.M.,206
 31.0,2665106,John Martinez,UT,Fr,6,0,2022,15860,Eastern N.M.,206
 7.0,2665035,Luke Baca,OF,So,4,1,2022,15860,Eastern N.M.,206
 25.0,2665094,Ruger Bravo,P,So,14,11,2022,15860,Eastern N.M.,206
@@ -33561,7 +33561,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15.0,2665041,Jorge Colon,INF,Fr,26,21,2022,15860,Eastern N.M.,206
 30.0,2665105,Noah De La Riva,P,Fr,11,11,2022,15860,Eastern N.M.,206
 42.0,2306584,Nyles Duren,UT,So,27,25,2022,15860,Eastern N.M.,206
-2.0,2306702,Braeton Matthews,UT,Jr,38,38,2022,15860,Eastern N.M.,206
+1.0,2306685,Camden Matthews,UT,Jr,46,46,2022,15860,Eastern N.M.,206
 5.0,2665054,Dax Edmonds,INF,Fr,48,48,2022,15860,Eastern N.M.,206
 19.0,2306652,Rio Granger,OF,Jr,9,2,2022,15860,Eastern N.M.,206
 27.0,2472500,Cooper Hamilton,P,So,48,48,2022,15860,Eastern N.M.,206

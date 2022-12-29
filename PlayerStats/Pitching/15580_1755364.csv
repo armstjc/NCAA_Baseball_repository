@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,7,0,0,03/13/2021,home,15580,583,Roger Williams,9,True,10,12,-2,loss,2057539,22626,1755364,2021
+1,0,2.0,0.0,4,1,1,1,1,0,10,9,0,0,0,0,0,0,0,0,0,0,0,34,2,2,0,0,0,4,1,0,04/10/2021,away,15580,73,Brandeis,9,True,2,9,-7,loss,2069066,22626,1755364,2021
+1,0,3.0,0.0,7,7,5,2,0,0,17,15,1,1,0,0,1,0,0,0,0,0,0,0,5,1,0,1,0,2,0,0,05/01/2021,home,15580,2798,Albertus Magnus,9,True,3,7,-4,loss,2074179,22626,1755364,2021

@@ -573,9 +573,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 1,2681650,Michael Hopkinson,ph,-,So,0,2023,16340,Samford,625
 38,2348297,Mason Mccormack,P,-,Sr,0,2023,16340,Samford,625
 21,2696731,Matthew Strand,ph/c,-,So,0,2023,16340,Samford,625
-8,2483878,Jackson Avila-Connerney,P,5-10,Jr,0,2023,16340,Bard,962
+1,2314262,Joe Barcia,OF,5-8,Jr,0,2023,16340,Bard,962
 28,2314267,Murphy Foss,P,6-2,Sr,0,2023,16340,Bard,962
-35,2314268,Andrew Love,P,6-2,Sr,0,2023,16340,Bard,962
+13,2663502,Mike Lynch,INF,6-1,So,0,2023,16340,Bard,962
 37,2314275,Jared Toby,C,5-10,Sr,0,2023,16340,Bard,962
 21,2476839,Garrett Newsome,P,-,Jr,0,2023,16340,William & Mary,786
 1,2476831,Nick Britt,INF,-,Jr,0,2023,16340,William & Mary,786
@@ -1129,7 +1129,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 0,2507999,Aiden Shephard,ph/rf,-,So,0,2023,16340,Mercyhurst,408
 35,2658219,John Anservitz,P,-,Jr,0,2023,16340,Mercyhurst,408
 29,2507495,John Bufford,P,-,Jr,0,2023,16340,Mercyhurst,408
-11,2508253,Corbin Foy,p,-,Jr,0,2023,16340,Mercyhurst,408
+3,2508253,Corbin Foy,P,-,Sr,0,2023,16340,Mercyhurst,408
 34,2686411,Chris Juchno,rf,-,So,0,2023,16340,Mercyhurst,408
 10,2665120,Nolan Feazle,P,-,Jr,0,2023,16340,Okla. Baptist,30202
 26,2665126,Garrett Kellogg-Clarke,P,-,Sr,0,2023,16340,Okla. Baptist,30202
@@ -2013,12 +2013,11 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 11,2365017,Warren Lee,P,6-3,Jr,0,2023,16340,UT Martin,695
 47,2117611,Seth Petry,P,6-0,Sr,0,2023,16340,UT Martin,695
 34,2676649,Jacob Smith,P,6-7,Sr,0,2023,16340,UT Martin,695
-17,1894739,Scott Webster,P,-,Sr,0,2023,16340,Southern N.H.,468
-25,1993411,Ricky Alexy,P,-,Sr,0,2023,16340,Southern N.H.,468
-29,2350374,John Chacho,UT,-,Sr,0,2023,16340,Southern N.H.,468
-6,2153204,Alex Kennedy,OF,-,Sr,0,2023,16340,Southern N.H.,468
-51,2656734,Anderson Moreno,INF,-,So,0,2023,16340,Southern N.H.,468
-4,2328793,Nick Schwartz,C,-,Jr,0,2023,16340,Southern N.H.,468
+5,2525289,Nick Sheehan,INF,5-7,So,0,2023,16340,Southern N.H.,468
+23,2522072,Trevor Anibal,UT,5-11,Jr,0,2023,16340,Southern N.H.,468
+7,2350374,John Chacho,UT,6-1,So,0,2023,16340,Southern N.H.,468
+24,2310598,Parker Hansen,P,6-3,Jr,0,2023,16340,Southern N.H.,468
+39,2344999,Zack Luongo,OF,6-2,So,0,2023,16340,Southern N.H.,468
 37,2686750,Dean Turpin,P,6-3,So,0,2023,16340,Kalamazoo,326
 3,2505610,Cooper Mills,INF,5-10,Jr,0,2023,16340,Kalamazoo,326
 15,2686742,Leo Schinker,1B,5-11,So,0,2023,16340,Kalamazoo,326
@@ -2216,11 +2215,10 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,2477955,Doyle Gehring,P,-,Jr,0,2023,16340,Air Force,721
 22,2477976,Chris Stallings,OF,-,Jr,0,2023,16340,Air Force,721
 8,2679394,Mick Kazlausky,INF,-,So,0,2023,16340,Air Force,721
-3,2660834,Cooper Avery,P,-,So,0,2023,16340,Valparaiso,735
-5,2124030,Jeremy Drudge,OF,-,Sr,0,2023,16340,Valparaiso,735
-22,2660840,Ryan Maka,,-,So,0,2023,16340,Valparaiso,735
-9,2487261,Matt Olive,C,-,Jr,0,2023,16340,Valparaiso,735
-27,2319129,Kyle Schmack,INF,-,Jr,0,2023,16340,Valparaiso,735
+42,2487263,Nathan Chasey,P,-,Sr,0,2023,16340,Valparaiso,735
+38,2487262,Griffin Mccluskey,P,-,Jr,0,2023,16340,Valparaiso,735
+19,2487258,Kade Reinertson,C,-,So,0,2023,16340,Valparaiso,735
+4,2660835,Spencer Warfield,OF,-,So,0,2023,16340,Valparaiso,735
 24,2674524,Hernan Yanez,C,6-0,Sr,0,2023,16340,UIW,2743
 6,2484692,Taylor Darden,INF,6-0,Sr,0,2023,16340,UIW,2743
 15,2484698,Steve Hayward,P,6-5,Sr,0,2023,16340,UIW,2743

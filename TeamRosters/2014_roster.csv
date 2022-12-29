@@ -932,9 +932,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 16,1525917,Elias Monsalve,INF,Fr,8,6,2014,11620,Manhattan,381
 8,1214083,Mikey Miranda,C,Jr,21,21,2014,11620,Manhattan,381
 12,1434637,Casey Meyers,P,So,18,0,2014,11620,Manhattan,381
-33,1214082,Scott Mcclennan,P,Sr,0,0,2014,11620,Manhattan,381
-19,1214010,Kevin Bonanni,P,Jr,0,0,2014,11620,Manhattan,381
 18,1323186,Joe Mcclennan,INF,Jr,46,44,2014,11620,Manhattan,381
+19,1214010,Kevin Bonanni,P,Jr,0,0,2014,11620,Manhattan,381
+33,1214082,Scott Mcclennan,P,Sr,0,0,2014,11620,Manhattan,381
 26,1434636,Chris Liquori,P,So,9,0,2014,11620,Manhattan,381
 14,1525920,Shawn Kanwisher,P,Fr,20,2,2014,11620,Manhattan,381
 3,1214079,Chris Kalousdian,INF,Jr,49,49,2014,11620,Manhattan,381
@@ -1847,8 +1847,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 23,1437754,Tom Murphy,C,So,23,15,2014,11620,St. Anselm,593
 4,1437717,Ken Morrisino,OF,So,38,31,2014,11620,St. Anselm,593
 19,1330457,Joe Morin,OF,Jr,45,45,2014,11620,St. Anselm,593
-32,1437720,Allan Mcquarrie,C,So,31,29,2014,11620,St. Anselm,593
 6,1553706,Jon Mcquarrie,INF,Fr,19,10,2014,11620,St. Anselm,593
+32,1437720,Allan Mcquarrie,C,So,31,29,2014,11620,St. Anselm,593
 1,1211601,Tito Lluberes,INF,Sr,20,20,2014,11620,St. Anselm,593
 29,1437756,Seve Llanio,P,So,12,0,2014,11620,St. Anselm,593
 13,1555290,Andrew Chandler,OF,Sr,18,12,2014,11620,St. Anselm,593
@@ -1859,8 +1859,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 22,1330454,Mike Hayden,1B,Jr,12,12,2014,11620,St. Anselm,593
 9,1211602,Kyle Grumoli,INF,Sr,32,28,2014,11620,St. Anselm,593
 11,1553703,Autrey Gates,P,Fr,14,2,2014,11620,St. Anselm,593
-36,1553718,Mack Flynn,P,So,6,0,2014,11620,St. Anselm,593
 2,1553708,Matthew Flynn,2B,Fr,27,16,2014,11620,St. Anselm,593
+36,1553718,Mack Flynn,P,So,6,0,2014,11620,St. Anselm,593
 40,1553694,Macneill Finnegan,OF,Fr,41,39,2014,11620,St. Anselm,593
 33,1553709,Bryan Even,1B,Fr,7,2,2014,11620,St. Anselm,593
 25,1553707,Frank D'Amato,3B,Fr,26,15,2014,11620,St. Anselm,593
@@ -2220,8 +2220,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 29,1554077,Connor Foley,3B,,44,41,2014,11620,Saginaw Valley,591
 33,1554080,D.J. Reetz,P,,16,0,2014,11620,Saginaw Valley,591
 47,1218031,Mike Schaaf,P,Sr,0,0,2014,11620,Saginaw Valley,591
-41,1308881,Jeff Schalk,P,Jr,16,1,2014,11620,Saginaw Valley,591
 12,1308879,Brad Schalk,OF,Jr,46,46,2014,11620,Saginaw Valley,591
+41,1308881,Jeff Schalk,P,Jr,16,1,2014,11620,Saginaw Valley,591
 26,1427140,Tyler Schwanz,OF,So,46,46,2014,11620,Saginaw Valley,591
 38,1308880,Scott Sency,P,Jr,0,0,2014,11620,Saginaw Valley,591
 20,1427142,Garrett Soule,INF,So,13,8,2014,11620,Saginaw Valley,591
@@ -5383,8 +5383,8 @@ DL,1426904,Jeremy Musser,OF,So,0,0,2014,11620,Millersville,423
 6,1417000,Deilyn Guzman,SS,So,42,42,2014,11620,Molloy,437
 33,1542229,Sean Gordon,P,Fr,7,2,2014,11620,Molloy,437
 10,1417002,Nicholas Gonchar,OF,So,42,40,2014,11620,Molloy,437
-12,1204594,John Galanoudis,2B,Jr,44,44,2014,11620,Molloy,437
 32,1542228,Anthony Galanoudis,OF,Fr,28,10,2014,11620,Molloy,437
+12,1204594,John Galanoudis,2B,Jr,44,44,2014,11620,Molloy,437
 17,1204597,Anthony Eichhorn,P,Sr,22,1,2014,11620,Molloy,437
 25,1417005,Matt Castaneda,P,So,16,0,2014,11620,Molloy,437
 7,1417001,Alex Miden,P,Sr,11,11,2014,11620,Molloy,437
@@ -6009,15 +6009,15 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 36,1535535,Ryan Sadler,P,Sr,12,5,2014,11620,Saint Leo,608
 12,1535550,Zachary Sabo,INF,Fr,7,0,2014,11620,Saint Leo,608
 30,1420640,Wilfred Ras,C,So,0,0,2014,11620,Saint Leo,608
-6,1535539,Nick Perez,INF,Jr,40,38,2014,11620,Saint Leo,608
+1,1420639,Taylor Perez,INF,So,49,49,2014,11620,Saint Leo,608
 11,1535562,Timothy  Jr. Osborne,OF,Fr,5,0,2014,11620,Saint Leo,608
 35,1535538,Liam O'Sullivan,P,Jr,16,12,2014,11620,Saint Leo,608
 37,1535563,Brett Nizamoff,P,Jr,6,0,2014,11620,Saint Leo,608
 15,1194432,Chris Newcomb,OF,Sr,45,38,2014,11620,Saint Leo,608
 44,1307879,Brandon Mumaw,P,Jr,0,0,2014,11620,Saint Leo,608
 18,1535553,Josh Mollett,P,Fr,4,3,2014,11620,Saint Leo,608
-38,1307880,Tyrone Miller,P,Jr,18,4,2014,11620,Saint Leo,608
 8,1535541,Chad Miller,INF,Fr,0,0,2014,11620,Saint Leo,608
+38,1307880,Tyrone Miller,P,Jr,18,4,2014,11620,Saint Leo,608
 23,1420644,Alex Mata,INF,Fr,44,42,2014,11620,Saint Leo,608
 28,1535560,Ethan Lichtenberg,P,Fr,11,0,2014,11620,Saint Leo,608
 39,1420647,Brent Krauss,P,Sr,14,6,2014,11620,Saint Leo,608
@@ -6025,7 +6025,7 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 33,1420646,Brandon Hemberger,OF,So,0,0,2014,11620,Saint Leo,608
 24,1535558,Dylan Harris,INF,Fr,49,49,2014,11620,Saint Leo,608
 2,1535537,Zachary Gary,P,Fr,13,3,2014,11620,Saint Leo,608
-1,1420639,Taylor Perez,INF,So,49,49,2014,11620,Saint Leo,608
+6,1535539,Nick Perez,INF,Jr,40,38,2014,11620,Saint Leo,608
 38,1536258,Trey Martin,C,Fr,3,3,2014,11620,Trevecca Nazarene,30002
 10,1536250,Clayton Nichols,INF,Jr,32,30,2014,11620,Trevecca Nazarene,30002
 25,1433029,Hunter Newman,1B,So,54,54,2014,11620,Trevecca Nazarene,30002
@@ -6754,7 +6754,7 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 37,1537469,Shane Richins,INF,Jr,41,34,2014,11620,CSU Pueblo,2720
 12,1537447,Doug Finley,P,Jr,22,0,2014,11620,CSU Pueblo,2720
 3,1537466,Chris Ramsey,OF,Jr,33,13,2014,11620,CSU Pueblo,2720
-29,1537465,Mike Ortiz,3B,Jr,1,1,2014,11620,CSU Pueblo,2720
+43,1312995,J.J. Ortiz,OF,Jr,34,8,2014,11620,CSU Pueblo,2720
 19,1427628,Branden Mondragon,3B,Fr,23,2,2014,11620,CSU Pueblo,2720
 36,1427627,Kevin Megyeri,P,So,0,0,2014,11620,CSU Pueblo,2720
 35,1312992,Ryan Masterson,P,Jr,4,0,2014,11620,CSU Pueblo,2720
@@ -6765,7 +6765,7 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 13,1427621,Scott Hoyt,OF,Sr,49,49,2014,11620,CSU Pueblo,2720
 41,1537449,Ryan Hernandez,P,Fr,0,0,2014,11620,CSU Pueblo,2720
 11,1537448,Derek Goodwin,C,Jr,34,8,2014,11620,CSU Pueblo,2720
-43,1312995,J.J. Ortiz,OF,Jr,34,8,2014,11620,CSU Pueblo,2720
+29,1537465,Mike Ortiz,3B,Jr,1,1,2014,11620,CSU Pueblo,2720
 25,1427634,Nathan Smith,P,Sr,6,0,2014,11620,CSU Pueblo,2720
 19,1417568,Thomas Hemington,P,Jr,13,8,2014,11620,Whittier,781
 33,1420413,Julian Barzilli,3B,Sr,40,40,2014,11620,Whittier,781
@@ -9047,8 +9047,8 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 45,1529077,Tyler Zamjahn,P,Fr,9,0,2014,11620,Tulane,718
 7,1423267,Tim Yandel,INF,So,25,6,2014,11620,Tulane,718
 11,1105116,Bowen Woodson,INF,Sr,28,22,2014,11620,Tulane,718
-20,1423266,Brady Wilson,P,Sr,10,1,2014,11620,Tulane,718
 40,1529074,Tyler Wilson,1B,Jr,13,7,2014,11620,Tulane,718
+20,1423266,Brady Wilson,P,Sr,10,1,2014,11620,Tulane,718
 17,1529065,Jake Willsey,INF,Fr,39,35,2014,11620,Tulane,718
 39,1529073,Hunter Williams,1B,Fr,18,9,2014,11620,Tulane,718
 42,1529075,Troy Ward,P,So,1,0,2014,11620,Tulane,718
@@ -9589,7 +9589,7 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 19,1200464,Chase Kyriacou,OF,Sr,31,24,2014,11620,Norfolk St.,485
 1,1418230,Cooper Jones,P,So,21,1,2014,11620,Norfolk St.,485
 27,1200465,Justin Bhatti,P,Sr,17,9,2014,11620,Norfolk St.,485
-48,1532897,Noah Johnson,OF,Fr,12,0,2014,11620,Norfolk St.,485
+35,1418237,Jay Dee Johnson,P,So,4,0,2014,11620,Norfolk St.,485
 5,1532890,Omar Hotusing,C,Jr,40,33,2014,11620,Norfolk St.,485
 20,1532889,Devin Hemmerich,P,Fr,21,5,2014,11620,Norfolk St.,485
 16,1532888,Corey Haynes,P,Jr,11,4,2014,11620,Norfolk St.,485
@@ -9603,7 +9603,7 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 37,1532883,Stephen Butt,P,Jr,16,9,2014,11620,Norfolk St.,485
 31,1532882,Justin Burrell,3B,Fr,48,46,2014,11620,Norfolk St.,485
 33,1312202,Mikey Bruno,OF,Jr,27,1,2014,11620,Norfolk St.,485
-35,1418237,Jay Dee Johnson,P,So,4,0,2014,11620,Norfolk St.,485
+48,1532897,Noah Johnson,OF,Fr,12,0,2014,11620,Norfolk St.,485
 32,1418235,Ian Horne,OF,Jr,6,0,2014,11620,Norfolk St.,485
 4,1551000,Tim Ford,SS,Fr,18,13,2014,11620,Nichols,484
 12,1445049,Brady Boisvert,P,So,13,11,2014,11620,Nichols,484
@@ -13763,8 +13763,8 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 3,1539739,Spencer Booe,OF,Jr,26,23,2014,11620,Pittsburg St.,1314
 4,1539740,Aaron Boucher,INF,Jr,32,25,2014,11620,Pittsburg St.,1314
 35,1539758,Jeff Boyd,P,Jr,1,0,2014,11620,Pittsburg St.,1314
-34,1435026,Nick Brandecker,P,So,1,0,2014,11620,Pittsburg St.,1314
 26,1310126,George Brandecker,P,Jr,11,8,2014,11620,Pittsburg St.,1314
+34,1435026,Nick Brandecker,P,So,1,0,2014,11620,Pittsburg St.,1314
 43,1539769,Cole Brecheisen,OF,Fr,0,0,2014,11620,Pittsburg St.,1314
 33,1539757,Brent Burroughs,P,Jr,2,0,2014,11620,Pittsburg St.,1314
 42,1435030,Chase Cleland,OF,Fr,1,0,2014,11620,Pittsburg St.,1314
@@ -16522,7 +16522,7 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 0,1549707,Jacob Polk,P,Fr,10,1,2014,11620,Southern U.,665
 30,1549682,Conner Baumgardner,P,Fr,10,2,2014,11620,Southern U.,665
 44,1549706,Harold Myles,P,Fr,7,1,2014,11620,Southern U.,665
-17,1549691,Brady May,P,Fr,6,2,2014,11620,Southern U.,665
+28,1549705,Sam May,C,Jr,15,7,2014,11620,Southern U.,665
 2,1435340,Robinson Mateo,INF,So,34,27,2014,11620,Southern U.,665
 40,1213628,Cade Lablanc,P,Sr,13,0,2014,11620,Southern U.,665
 3,1213581,Tyler Kirksey,OF,Jr,27,26,2014,11620,Southern U.,665
@@ -16537,7 +16537,7 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 31,1549684,Ryan Flynn,P,Jr,9,5,2014,11620,Southern U.,665
 21,1549683,Rafael Diaz,P,Jr,13,1,2014,11620,Southern U.,665
 1,1549744,Bud Morton,SS,,24,24,2014,11620,Southern U.,665
-28,1549705,Sam May,C,Jr,15,7,2014,11620,Southern U.,665
+17,1549691,Brady May,P,Fr,6,2,2014,11620,Southern U.,665
 48,1546965,Steve Aniska,P,Sr,11,0,2014,11620,Keystone,30047
 38,1546960,Austin Barefoot,P,Jr,4,1,2014,11620,Keystone,30047
 26,1546954,Rob Blanc,P,Sr,11,11,2014,11620,Keystone,30047
@@ -18555,8 +18555,8 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 27,1558872,Boies,3B,,0,0,2014,11620,Fontbonne,11538
 26,1432585,Jacob Wilson,INF,So,18,12,2014,11620,Fontbonne,11538
 22,1328954,Matt Wallis,C,Jr,36,35,2014,11620,Fontbonne,11538
-15,1328953,Justin Wallace,P,Jr,1,0,2014,11620,Fontbonne,11538
 4,1432584,Sean Wallace,C,So,1,0,2014,11620,Fontbonne,11538
+15,1328953,Justin Wallace,P,Jr,1,0,2014,11620,Fontbonne,11538
 5,1432583,Miguel Villegas,C,So,9,4,2014,11620,Fontbonne,11538
 37,1552506,Caleb Tatum,P,Jr,12,9,2014,11620,Fontbonne,11538
 38,1328955,Benjamin Stratton,INF,Jr,19,16,2014,11620,Fontbonne,11538
@@ -18922,7 +18922,7 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 28,1529056,David Greer,INF,Fr,16,10,2014,11620,Arizona St.,28
 22,1419958,Cullen O'Dwyer,OF,So,7,2,2014,11620,Arizona St.,28
 24,1419959,David Graybill,OF,So,17,11,2014,11620,Arizona St.,28
-3,1214759,Tucker Esmay,INF,Jr,43,32,2014,11620,Arizona St.,28
+2,1529053,Cooper Esmay,INF,Fr,4,0,2014,11620,Arizona St.,28
 23,1419955,Jordan Aboites,INF,So,38,7,2014,11620,Arizona St.,28
 20,1214765,Trever Allen,OF,Jr,47,41,2014,11620,Arizona St.,28
 9,1419960,Christopher Beall,OF,So,37,30,2014,11620,Arizona St.,28
@@ -18936,7 +18936,7 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 45,1419956,Tony Dimartino,INF,So,0,0,2014,11620,Arizona St.,28
 30,1419948,Nick Diamond,P,Fr,12,0,2014,11620,Arizona St.,28
 7,1529052,Eder Erives,P,Fr,20,0,2014,11620,Arizona St.,28
-2,1529053,Cooper Esmay,INF,Fr,4,0,2014,11620,Arizona St.,28
+3,1214759,Tucker Esmay,INF,Jr,43,32,2014,11620,Arizona St.,28
 32,1419949,Ryan Burr,P,So,30,3,2014,11620,Arizona St.,28
 13,1419954,Dalton Dinatale,INF,So,55,51,2014,11620,Arizona St.,28
 18,1532048,Tim Black,P,Jr,21,0,2014,11620,Central Mich.,129
@@ -21288,8 +21288,8 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 44,1311485,Clay Ardeeser,INF,Jr,51,51,2014,11620,Georgia College,1096
 37,1549151,Jake Anthony,P,Jr,11,2,2014,11620,Georgia College,1096
 9,1215105,Daniel Bick,INF,Sr,52,52,2014,11620,Georgia College,1096
-3,1438427,Austin Clark,P,Jr,0,0,2014,11620,Georgia College,1096
 18,1311465,John Clark,P,Jr,2,0,2014,11620,Georgia College,1096
+3,1438427,Austin Clark,P,Jr,0,0,2014,11620,Georgia College,1096
 26,1547866,Dallas Draviczki,P,Jr,9,2,2014,11620,Georgia College,1096
 27,1438444,Christian Wonders,P,Sr,0,0,2014,11620,Georgia College,1096
 14,1215110,John Welborn,OF,Sr,23,0,2014,11620,Georgia College,1096
@@ -22414,13 +22414,13 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 22,1543838,Andy Moore,INF,Jr,49,46,2014,11620,Elon,1068
 15,1431802,Wil Leathers,2B,Jr,30,12,2014,11620,Elon,1068
 32,1193526,John Antonelli,P,Jr,14,1,2014,11620,Elon,1068
-27,1543840,D.J. Paone,OF,Fr,19,6,2014,11620,Elon,1068
+20,1193529,Sam Paone,OF,Jr,14,1,2014,11620,Elon,1068
 26,1193525,Ryan Pennell,P,Sr,21,0,2014,11620,Elon,1068
 23,1543841,Jake Stalzer,P,Jr,14,13,2014,11620,Elon,1068
 8,1300295,Joey Tomko,INF,Jr,0,0,2014,11620,Elon,1068
 19,1543842,Robbie Welhaf,P,Fr,0,0,2014,11620,Elon,1068
 2,1543843,Nick Zammarelli,3B,Fr,50,43,2014,11620,Elon,1068
-20,1193529,Sam Paone,OF,Jr,14,1,2014,11620,Elon,1068
+27,1543840,D.J. Paone,OF,Fr,19,6,2014,11620,Elon,1068
 36,1543839,Tucker Norton,P,Fr,29,14,2014,11620,Elon,1068
 38,1543823,Mike Krill,P,Fr,8,1,2014,11620,Elon,1068
 29,1431800,Brandon Kacer,P,So,21,1,2014,11620,Elon,1068
@@ -22772,7 +22772,7 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 40,1543537,Andrew Morano,P,Fr,9,2,2014,11620,Dominican  (CACC),8956
 13,1085977,Ryan Calby,P,Sr,13,9,2014,11620,Dominican  (CACC),8956
 37,1543534,Justin Mixon,OF,Fr,11,4,2014,11620,Dominican  (CACC),8956
-1,1543511,Jonathan Martinez,OF,Fr,43,38,2014,11620,Dominican  (CACC),8956
+32,1321705,Peter Martinez,P,Jr,12,8,2014,11620,Dominican  (CACC),8956
 6,1543515,Alex Lorenzo,INF,Fr,42,39,2014,11620,Dominican  (CACC),8956
 19,1438522,Carlos Lopez,OF,So,44,44,2014,11620,Dominican  (CACC),8956
 38,1543535,Peter Llerena,P,Fr,5,3,2014,11620,Dominican  (CACC),8956
@@ -22783,7 +22783,7 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 10,1543516,Joseph Delacruz,P,Fr,7,1,2014,11620,Dominican  (CACC),8956
 5,1543514,Donald Crispyn,INF,Fr,14,8,2014,11620,Dominican  (CACC),8956
 31,1543520,Christopher Cockle,OF,Fr,23,12,2014,11620,Dominican  (CACC),8956
-32,1321705,Peter Martinez,P,Jr,12,8,2014,11620,Dominican  (CACC),8956
+1,1543511,Jonathan Martinez,OF,Fr,43,38,2014,11620,Dominican  (CACC),8956
 33,1438527,Jesse Mcilwaine,P,Sr,15,0,2014,11620,Dominican  (CACC),8956
 10,1558344,Adam Blake,P,Fr,4,0,2014,11620,Endicott,8981
 29,1448495,Jon Branch,P,So,12,12,2014,11620,Endicott,8981
@@ -25407,8 +25407,8 @@ Inj,1426692,Dylan Mccreary,P,So,0,0,2014,11620,Wooster,807
 24,1527305,Cj Latham,OF,Fr,33,18,2014,11620,BYU,77
 27,1543263,Louis Ferrari,3B,Fr,16,9,2014,11620,Saint Rose,1347
 12,1433892,Chad Adams,3B,So,38,36,2014,11620,Saint Rose,1347
-8,1433889,Zac Bellinger,1B,Jr,41,41,2014,11620,Saint Rose,1347
 30,1543264,Brad Bellinger,P,Jr,3,1,2014,11620,Saint Rose,1347
+8,1433889,Zac Bellinger,1B,Jr,41,41,2014,11620,Saint Rose,1347
 RS,1433887,Joseph Carcone,SS,Sr,0,0,2014,11620,Saint Rose,1347
 10,1318108,Bryan Carr,P,Jr,15,7,2014,11620,Saint Rose,1347
 23,1543262,Alex Chandler,OF,Fr,14,4,2014,11620,Saint Rose,1347
@@ -26257,7 +26257,7 @@ RS,1433887,Joseph Carcone,SS,Sr,0,0,2014,11620,Saint Rose,1347
 5,1552106,Bryan Andrews,C,,23,16,2014,11620,UVA Wise,30181
 35,1554831,Nathan Hatmaker,P,,5,0,2014,11620,UVA Wise,30181
 37,1546179,Bill Steven,1B,,40,40,2014,11620,UVA Wise,30181
-29,1304013,Jay Johnson,3B,Sr,56,56,2014,11620,Arkansas Tech,947
+2,1436099,Zac Johnson,OF,Sr,55,55,2014,11620,Arkansas Tech,947
 34,1538043,Trent Armstrong,P,Fr,18,5,2014,11620,Arkansas Tech,947
 46,1538051,Cody Beaver,2B,Fr,0,0,2014,11620,Arkansas Tech,947
 7,1436111,Jake Bell,P,Sr,33,0,2014,11620,Arkansas Tech,947
@@ -26267,8 +26267,8 @@ RS,1433887,Joseph Carcone,SS,Sr,0,0,2014,11620,Saint Rose,1347
 48,1538053,Mitchell Collins,INF,Fr,0,0,2014,11620,Arkansas Tech,947
 36,1196219,Ethan Crocker,P,Sr,23,0,2014,11620,Arkansas Tech,947
 45,1538050,Kris Ayers,1B,Jr,53,48,2014,11620,Arkansas Tech,947
-2,1436099,Zac Johnson,OF,Sr,55,55,2014,11620,Arkansas Tech,947
 30,1538042,Rafiel Johnson,P,Jr,21,2,2014,11620,Arkansas Tech,947
+29,1304013,Jay Johnson,3B,Sr,56,56,2014,11620,Arkansas Tech,947
 3,1538035,Marcus Wilson,OF,Fr,12,4,2014,11620,Arkansas Tech,947
 8,1538038,Seth Wheeler,OF,Fr,0,0,2014,11620,Arkansas Tech,947
 26,1442116,Mark Vaughn,INF,Fr,0,0,2014,11620,Arkansas Tech,947
@@ -28172,8 +28172,8 @@ RS,1433887,Joseph Carcone,SS,Sr,0,0,2014,11620,Saint Rose,1347
 16,1329303,Marcus Kelly,P,Jr,0,0,2014,11620,Blackburn,64
 25,1448606,Jared Jones,P,So,20,9,2014,11620,Blackburn,64
 4,1195143,Cody Flowers,INF,Sr,37,37,2014,11620,Blackburn,64
-8.0,1329296,Zach Heilig,INF,Jr,0,0,2014,11620,Blackburn,64
-19.0,1559754,Hathaway,P,,2,1,2014,11620,Blackburn,64
+8,1329296,Zach Heilig,INF,Jr,0,0,2014,11620,Blackburn,64
+19,1559754,Hathaway,P,,2,1,2014,11620,Blackburn,64
 14.0,1448604,Tyler Gosnell,P,So,21,1,2014,11620,Blackburn,64
 5.0,1195144,Donny Fuhrhop,OF,Sr,24,24,2014,11620,Blackburn,64
 15.0,1329300,Jacob Conder,OF,Jr,11,8,2014,11620,Blackburn,64
@@ -28663,8 +28663,8 @@ RS,1433887,Joseph Carcone,SS,Sr,0,0,2014,11620,Saint Rose,1347
 1.0,1436326,Jake Romano,OF,So,37,37,2014,11620,Miami (OH),414
 2.0,1323211,Scott Slappey,INF,Jr,48,47,2014,11620,Miami (OH),414
 40.0,1436382,Chad Sedio,OF,So,48,47,2014,11620,Miami (OH),414
-31.0,1547014,Brad Schwartz,P,Fr,19,0,2014,11620,Miami (OH),414
 25.0,1547015,Will Schwartz,INF,Fr,2,0,2014,11620,Miami (OH),414
+31.0,1547014,Brad Schwartz,P,Fr,19,0,2014,11620,Miami (OH),414
 4.0,1436331,Reed Schlesner,INF,So,38,4,2014,11620,Miami (OH),414
 11.0,1547013,Steve Sada,INF,Fr,54,50,2014,11620,Miami (OH),414
 38.0,1547012,Gary Russo,OF,So,55,55,2014,11620,Miami (OH),414

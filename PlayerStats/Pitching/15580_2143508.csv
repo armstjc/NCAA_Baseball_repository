@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,1,0,0,0,3,0,9,8,1,0,0,0,0,1,0,0,0,0,0,30,0,3,0,0,0,5,0,0,03/21/2021,away,15580,806,Wittenberg,9,True,4,22,-18,loss,2047407,281,2143508,2021
+1,0,1.2,0.0,4,4,2,1,3,0,10,8,0,0,0,2,0,0,0,0,0,0,1,30,0,2,0,0,0,3,1,0,04/04/2021,home,15580,807,Wooster,9,True,5,28,-23,loss,2047448,281,2143508,2021
+1,0,2.0,0.0,3,3,3,0,3,0,10,9,1,0,0,0,0,1,0,1,0,0,0,28,0,3,0,0,0,2,1,0,04/25/2021,away,15580,807,Wooster,9,True,3,9,-6,loss,2047486,281,2143508,2021
+1,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,10,0,3,0,0,0,4,0,0,05/02/2021,away,15580,515,Oberlin,9,True,18,7,11,win,2071465,281,2143508,2021
+1,1,2.2,0.0,4,3,3,0,3,0,13,13,1,0,0,1,1,0,0,0,0,0,0,47,1,4,0,1,0,1,0,0,05/08/2021,home,15580,520,Ohio Wesleyan,9,True,2,12,-10,loss,2047495,281,2143508,2021

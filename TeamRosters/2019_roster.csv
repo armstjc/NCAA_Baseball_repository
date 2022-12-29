@@ -60,8 +60,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 32,2125162,Austin Dempewolf,P,Fr,0,0,2019,14781,Portland,551
 14,1874062,Dutton Elske,C,Jr,36,33,2019,14781,Portland,551
 29,2125144,Cole Wilkinson,P,Fr,8,1,2019,14781,Portland,551
-23,1988127,Connor White,P,Sr,5,0,2019,14781,Portland,551
 57,2125163,Morgan White,P,Fr,11,2,2019,14781,Portland,551
+23,1988127,Connor White,P,Sr,5,0,2019,14781,Portland,551
 40,1874073,Cal Webb,INF,Jr,1,0,2019,14781,Portland,551
 17,2125142,Noah Cracknell,C,Fr,0,0,2019,14781,Portland,551
 16,1763501,Cody Hawken,OF,Sr,52,51,2019,14781,Portland,551
@@ -149,8 +149,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 39,2112012,Ryan Price,C,Fr,1,0,2019,14781,Washington Col.,753
 37,1752309,Nick Roberti,P,Sr,5,3,2019,14781,Washington Col.,753
 19,2112014,Michael Roseman,P,Fr,2,0,2019,14781,Washington Col.,753
-22,2112028,Max Ruvo,OF,Fr,16,13,2019,14781,Washington Col.,753
 11,2112016,Ben Ruvo,OF,Fr,31,24,2019,14781,Washington Col.,753
+22,2112028,Max Ruvo,OF,Fr,16,13,2019,14781,Washington Col.,753
 27,1974222,Mike Smith,P,So,10,9,2019,14781,Washington Col.,753
 26,2112017,Jd Sparks,P,Fr,9,0,2019,14781,Washington Col.,753
 2,2112018,Jj Thrush,P,Fr,0,0,2019,14781,Washington Col.,753
@@ -397,8 +397,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 34,1894528,Tyler Blomster,P,Jr,15,13,2019,14781,Colo. Sch. of Mines,155
 10,2113400,Danny Mcdermott,INF,Fr,29,25,2019,14781,Colo. Sch. of Mines,155
 27,1883978,Trevor Kehe,OF,Jr,54,54,2019,14781,Colo. Sch. of Mines,155
-13,1648236,John Howard,OF,Sr,39,30,2019,14781,Colo. Sch. of Mines,155
 11,1981285,Trevor Howard,OF,So,43,27,2019,14781,Colo. Sch. of Mines,155
+13,1648236,John Howard,OF,Sr,39,30,2019,14781,Colo. Sch. of Mines,155
 99,2133997,Clayton Daly,OF,Fr,0,0,2019,14781,Colo. Sch. of Mines,155
 15,1883982,Mitch Menard,P,Jr,14,0,2019,14781,Colo. Sch. of Mines,155
 20,1981284,Drew Hill,P,So,14,14,2019,14781,Colo. Sch. of Mines,155
@@ -502,9 +502,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,1984974,Shane Mcguire,C,So,52,52,2019,14781,San Diego,627
 27,2140431,Josh Hendrickson,P,Jr,12,10,2019,14781,San Diego,627
 35,1870191,Nate Walker,P,Jr,21,0,2019,14781,San Diego,627
-17,2140441,Grady Miller,P,Jr,23,5,2019,14781,San Diego,627
-32,2140462,Jake Miller,P,Fr,17,7,2019,14781,San Diego,627
 30,2140464,Preston Miller,UT,Fr,16,5,2019,14781,San Diego,627
+32,2140462,Jake Miller,P,Fr,17,7,2019,14781,San Diego,627
+17,2140441,Grady Miller,P,Jr,23,5,2019,14781,San Diego,627
 42,2140448,Mike Yourg,OF,Fr,0,0,2019,14781,San Diego,627
 19,2140446,Caleb Ricketts,UT,Fr,32,26,2019,14781,San Diego,627
 15,2140470,Ripken Reyes,INF,Sr,53,51,2019,14781,San Diego,627
@@ -733,8 +733,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,1879691,Njike Hunter,OF,So,6,3,2019,14781,Alabama A&M,6
 28,2118017,Michael Hovermill,P,Jr,15,13,2019,14781,Alabama A&M,6
 35,2118019,Will Hampson,INF,Sr,22,18,2019,14781,Alabama A&M,6
-7,2118001,Jalen Ford,INF,Fr,28,17,2019,14781,Alabama A&M,6
 4,1879676,Isom Ford,C,Jr,16,9,2019,14781,Alabama A&M,6
+7,2118001,Jalen Ford,INF,Fr,28,17,2019,14781,Alabama A&M,6
 37,2118020,Yavier Febus,P,Fr,10,6,2019,14781,Alabama A&M,6
 10,1998527,Richard Polinsky,INF,So,0,0,2019,14781,Alabama A&M,6
 26,1879697,Jesus Diaz,P,So,4,0,2019,14781,Alabama A&M,6
@@ -765,7 +765,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 6,1997428,John Perkins,OF,Fr,1,0,2019,14781,Bemidji St.,54
 11,2122832,Jared Rushing,P,Jr,0,0,2019,14781,Bemidji St.,54
 RS,2122767,Drew Scharber,P,Fr,0,0,2019,14781,Bemidji St.,54
-4,2000704,Kevin Smith,INF,Fr,8,8,2019,14781,Bemidji St.,54
+18,1997396,Tommy Smith,P,Fr,2,0,2019,14781,Bemidji St.,54
 28,1997400,Travis Carruth,P,So,15,2,2019,14781,Bemidji St.,54
 10,1753985,Drake Wawro,INF,Jr,36,34,2019,14781,Bemidji St.,54
 35,2000730,Ethan Webb,P,So,7,2,2019,14781,Bemidji St.,54
@@ -775,7 +775,7 @@ RS,2122767,Drew Scharber,P,Fr,0,0,2019,14781,Bemidji St.,54
 No,2000732,Bay Zuehlke,OF,Fr,0,0,2019,14781,Bemidji St.,54
 24,1997381,Owen Anderson,OF,So,20,10,2019,14781,Bemidji St.,54
 27,2122847,Kenneth Morris,P,So,7,1,2019,14781,Bemidji St.,54
-18,1997396,Tommy Smith,P,Fr,2,0,2019,14781,Bemidji St.,54
+4,2000704,Kevin Smith,INF,Fr,8,8,2019,14781,Bemidji St.,54
 RS,2122835,Evan Mischke,INF,Fr,0,0,2019,14781,Bemidji St.,54
 55,2122831,Mike Mcneely,UT,Sr,0,0,2019,14781,Bemidji St.,54
 8,1865342,Isaiah Grancorvitz,C,Jr,45,45,2019,14781,Bemidji St.,54
@@ -830,8 +830,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 18,2005352,Alex Malech,P,Jr,23,22,2019,14781,Yeshiva,814
 2,2005324,Zachary Baly,INF,Jr,30,29,2019,14781,Yeshiva,814
 18,2117489,Brett Benedetti,OF,Fr,1,0,2019,14781,Augustana  (CCIW),40
-21,1752530,Nick Mosele,INF,Sr,42,41,2019,14781,Augustana  (CCIW),40
 33,1972450,Matt Mosele,INF,So,0,0,2019,14781,Augustana  (CCIW),40
+21,1752530,Nick Mosele,INF,Sr,42,41,2019,14781,Augustana  (CCIW),40
 26,2117508,Zach Munn,INF,Fr,0,0,2019,14781,Augustana  (CCIW),40
 27,1882778,Tyler Nunez,INF,Sr,42,42,2019,14781,Augustana  (CCIW),40
 34,1882774,Vince O'Meara,P,Sr,10,0,2019,14781,Augustana  (CCIW),40
@@ -969,14 +969,14 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 10,1892904,Malcolm Smith,1B,Jr,34,34,2019,14781,Lincoln  (ECC),357
 17,2006549,Jordan Rorer,LF,So,25,24,2019,14781,Lincoln  (ECC),357
 9,2007550,Grant Lindsey,SS,Sr,27,25,2019,14781,Lincoln  (ECC),357
-5,1775669,Joshua Roberson,1B,Sr,0,0,2019,14781,Lincoln  (ECC),357
+24,1775673,Orlando Roberson,P,Sr,0,0,2019,14781,Lincoln  (ECC),357
 4,1889996,Dominic Rheubottom,DH,Jr,0,0,2019,14781,Lincoln  (ECC),357
 24,2007357,Bradley Regalado,C,So,9,7,2019,14781,Lincoln  (ECC),357
-6,1779783,Luis Nieves,P,Sr,15,6,2019,14781,Lincoln  (ECC),357
 22,2139816,Carlos Nieves,c,Fr,11,3,2019,14781,Lincoln  (ECC),357
+6,1779783,Luis Nieves,P,Sr,15,6,2019,14781,Lincoln  (ECC),357
 3,2143735,Justin Mcclain,PR,Fr,13,0,2019,14781,Lincoln  (ECC),357
 28,2006568,Pedro Martinez,3B,So,0,0,2019,14781,Lincoln  (ECC),357
-24,1775673,Orlando Roberson,P,Sr,0,0,2019,14781,Lincoln  (ECC),357
+5,1775669,Joshua Roberson,1B,Sr,0,0,2019,14781,Lincoln  (ECC),357
 4,2143734,Jason Aldred,C,Fr,14,13,2019,14781,Lincoln  (ECC),357
 28,2117344,Chase Pyrtle,OF,Fr,4,0,2019,14781,Mars Hill,1199
 3,1975817,Mike Ramunno,P,Sr,4,2,2019,14781,Mars Hill,1199
@@ -1088,8 +1088,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 35,2132682,Kenny Frank,P,Fr,10,4,2019,14781,Marymount  (Atlantic East),394
 25,2132675,Noah Floyd,P,Fr,1,0,2019,14781,Marymount  (Atlantic East),394
 29,2132677,Mike Ferrara,INF,Jr,36,35,2019,14781,Marymount  (Atlantic East),394
-19,2132673,Will Digiulian,UT,Jr,33,18,2019,14781,Marymount  (Atlantic East),394
 12,1997548,James Digiulian,C,So,38,33,2019,14781,Marymount  (Atlantic East),394
+19,2132673,Will Digiulian,UT,Jr,33,18,2019,14781,Marymount  (Atlantic East),394
 15,1865059,Justin Didonato,P,Jr,5,2,2019,14781,Marymount  (Atlantic East),394
 23,1762553,Brian Carmichael,P,Sr,4,0,2019,14781,Marymount  (Atlantic East),394
 4,2132670,David Kurzrock,OF,Fr,23,23,2019,14781,Marymount  (Atlantic East),394
@@ -1462,8 +1462,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 43,2142805,Seth Miller,dh,Fr,45,39,2019,14781,Augustana  (NSIC),41
 26,2152731,Matt Gruber,dh,Fr,2,1,2019,14781,Augustana  (NSIC),41
 33,1866582,Aaron Hanson,C,Jr,14,2,2019,14781,Augustana  (NSIC),41
-19,1974427,Bjorn Hanson,INF,So,21,14,2019,14781,Augustana  (NSIC),41
 21,1751596,Nick Hanson,P,Sr,0,0,2019,14781,Augustana  (NSIC),41
+19,1974427,Bjorn Hanson,INF,So,21,14,2019,14781,Augustana  (NSIC),41
 29,1648019,Ryan Helgeson,P,Sr,24,0,2019,14781,Augustana  (NSIC),41
 25,1640644,Connor Herd,P,Sr,3,1,2019,14781,Augustana  (NSIC),41
 39,1974415,Carter Howell,OF,So,0,0,2019,14781,Augustana  (NSIC),41
@@ -1581,14 +1581,14 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 18,1884489,D Williams,RF,So,30,24,2019,14781,Benedict,55
 31,1997069,Fate Young,3B,So,13,0,2019,14781,Benedict,55
 45,1764228,Ryan Ramirez,P,Jr,0,0,2019,14781,Benedict,55
-19,2161827,Jeremy Johnson,dh,Fr,1,0,2019,14781,Benedict,55
+17,1997068,Anthony Johnson,DH,So,30,27,2019,14781,Benedict,55
 25,1764229,Murrell Martin,P,Jr,0,0,2019,14781,Benedict,55
 31,1764222,Joel Manzano,C,Jr,0,0,2019,14781,Benedict,55
 19,2149077,Trevohn Jeffrey,1b,Jr,14,4,2019,14781,Benedict,55
 4,1764226,Jerome Holmes,CF,Jr,0,0,2019,14781,Benedict,55
 10,1997088,Christopher Harper,3B,Jr,33,33,2019,14781,Benedict,55
 24,1884490,Michael Garner,RF,Jr,33,30,2019,14781,Benedict,55
-17,1997068,Anthony Johnson,DH,So,30,27,2019,14781,Benedict,55
+19,2161827,Jeremy Johnson,dh,Fr,1,0,2019,14781,Benedict,55
 7,1764225,Yancy Freeny,CF,Jr,0,0,2019,14781,Benedict,55
 6,1889820,Christopher Floyd,PH/C,Jr,24,13,2019,14781,Benedict,55
 15,1895917,Alexander Marduekee,2B,Jr,0,0,2019,14781,Benedict,55
@@ -1881,11 +1881,11 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 20,2139170,Mike Mcdonough,P,So,0,0,2019,14781,Cincinnati,140
 24,2139172,Sean Mclaughlin,INF,Fr,10,3,2019,14781,Cincinnati,140
 3,1876201,Jace Mercer,INF,Jr,56,56,2019,14781,Cincinnati,140
-38,1770167,Cole Murphy,INF,Sr,48,38,2019,14781,Cincinnati,140
+48,2139175,Jackson Murphy,P,Fr,5,0,2019,14781,Cincinnati,140
 4,2139174,Nate Meyer,INF,Fr,22,3,2019,14781,Cincinnati,140
 31,1876202,Nathan Moore,P,Jr,26,0,2019,14781,Cincinnati,140
 49,1876200,Nathan Kroger,P,Jr,5,5,2019,14781,Cincinnati,140
-48,2139175,Jackson Murphy,P,Fr,5,0,2019,14781,Cincinnati,140
+38,1770167,Cole Murphy,INF,Sr,48,38,2019,14781,Cincinnati,140
 8,2139200,Griffin Merritt,INF,Fr,37,26,2019,14781,Cincinnati,140
 0,1753410,Jeremy Johnson,OF,Jr,62,62,2019,14781,Cincinnati,140
 26,1990975,Joey Wiemer,OF,So,62,62,2019,14781,Cincinnati,140
@@ -1927,8 +1927,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 35.0,1865911,Jake Laberge,INF,Jr,28,21,2019,14781,Bethany Lutheran,30038
 19.0,2003662,Alex Kreiling,P,So,3,0,2019,14781,Bethany Lutheran,30038
 31.0,2003677,Ty Kohler,P,Sr,0,0,2019,14781,Bethany Lutheran,30038
-14.0,2003650,Kellan Johnson,P,So,0,0,2019,14781,Bethany Lutheran,30038
 17.0,2153223,Matthew Johnson,P,Fr,4,0,2019,14781,Bethany Lutheran,30038
+14.0,2003650,Kellan Johnson,P,So,0,0,2019,14781,Bethany Lutheran,30038
 26.0,1865907,Wyatt Mccleskey,OF,Jr,0,0,2019,14781,Bethany Lutheran,30038
 5.0,2153207,Brady Schuster,3B,Fr,41,40,2019,14781,Bethany Lutheran,30038
 7.0,1865903,Logan Nissen,P,Jr,17,3,2019,14781,Bethany Lutheran,30038
@@ -2244,7 +2244,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 45,2114414,Brian Fitzpatrick,P,Fr,3,1,2019,14781,Rutgers,587
 5,1995606,Danny Digeorgio,INF,So,0,0,2019,14781,Rutgers,587
 4,1995592,Tim Dezzi,INF,Fr,48,48,2019,14781,Rutgers,587
-23,1765076,Serafino Brito,P,Sr,29,1,2019,14781,Rutgers,587
+15,2114425,Chris Brito,INF,Fr,43,43,2019,14781,Rutgers,587
 33,2114438,David Soto,INF,Fr,37,28,2019,14781,Rutgers,587
 29,1765075,Luke Bowerbank,OF,Sr,41,24,2019,14781,Rutgers,587
 39,1765074,Kevin Blum,OF,Jr,46,42,2019,14781,Rutgers,587
@@ -2252,7 +2252,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 1,2114412,Andy Axelson,C,Fr,9,1,2019,14781,Rutgers,587
 44,1757433,Steven Acosta,P,Jr,30,0,2019,14781,Rutgers,587
 22,1879426,Kyle Gerace,P,Jr,6,3,2019,14781,Rutgers,587
-15,2114425,Chris Brito,INF,Fr,43,43,2019,14781,Rutgers,587
+23,1765076,Serafino Brito,P,Sr,29,1,2019,14781,Rutgers,587
 7,2114424,Peter Serruto,C,Fr,37,28,2019,14781,Rutgers,587
 3,1879424,Anthony Greco,INF,Jr,9,0,2019,14781,Rutgers,587
 30,2114416,Tommy Liu,P,Fr,0,0,2019,14781,Rutgers,587
@@ -2458,11 +2458,11 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 42,1776528,John Signore,P,Sr,0,0,2019,14781,Fairfield,220
 8,2142435,Michael Sansone,P,Fr,19,18,2019,14781,Fairfield,220
 37,2142447,Walker Sutman,P,Fr,0,0,2019,14781,Fairfield,220
-10,1890835,Dan Ryan,OF,Jr,57,57,2019,14781,Fairfield,220
+4,1776491,Tom Ryan,INF,Sr,60,58,2019,14781,Fairfield,220
 11,1890816,Dylan Reynolds,OF,Jr,55,50,2019,14781,Fairfield,220
 18,1890818,Austin Pope,P,Jr,16,16,2019,14781,Fairfield,220
 22,2000816,Chris Polletta,UT,So,0,0,2019,14781,Fairfield,220
-4,1776491,Tom Ryan,INF,Sr,60,58,2019,14781,Fairfield,220
+10,1890835,Dan Ryan,OF,Jr,57,57,2019,14781,Fairfield,220
 18,2117446,Asher Corl,OF,Fr,32,21,2019,14781,Pitt.-Johnstown,546
 34,2117448,Ben Briggs,P,Fr,10,0,2019,14781,Pitt.-Johnstown,546
 20,1974888,Jason Baranek,P,So,3,2,2019,14781,Pitt.-Johnstown,546
@@ -2604,9 +2604,9 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 17,2142442,Anthony Kania,C,,44,37,2019,14781,Saginaw Valley,591
 7,1867049,Austin Koin,UT,Jr,34,26,2019,14781,Saginaw Valley,591
 22,1997747,Dean Marais,OF,Sr,0,0,2019,14781,Saginaw Valley,591
-60,1757853,Casey Garner,INF,Sr,1,0,2019,14781,Rose-Hulman,585
-28,1988622,Luke Calabrese,3B,So,35,32,2019,14781,Rose-Hulman,585
 10,2135220,Shane Garner,C,Fr,14,5,2019,14781,Rose-Hulman,585
+28,1988622,Luke Calabrese,3B,So,35,32,2019,14781,Rose-Hulman,585
+60,1757853,Casey Garner,INF,Sr,1,0,2019,14781,Rose-Hulman,585
 16,1988645,Alex Gavrilovich,C,So,5,0,2019,14781,Rose-Hulman,585
 44,1757848,Conner Helbling,C,Sr,31,29,2019,14781,Rose-Hulman,585
 9,1988602,Logan Cody,3B,So,38,38,2019,14781,Rose-Hulman,585
@@ -2716,8 +2716,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 19,2147592,Kyle Oberbroeckling,P,Fr,0,0,2019,14781,Wartburg,750
 10,1889103,Tyler Nunemaker,C,Jr,38,38,2019,14781,Wartburg,750
 27,1889092,Joey Baumann,C,Jr,38,38,2019,14781,Wartburg,750
-12,1889101,Ben Milewski,C,Jr,9,9,2019,14781,Wartburg,750
 35,1889102,Matthew Milewski,P,Jr,11,1,2019,14781,Wartburg,750
+12,1889101,Ben Milewski,C,Jr,9,9,2019,14781,Wartburg,750
 41,2147619,Ben Midtgaard,OF,So,0,0,2019,14781,Wartburg,750
 28,2004781,Jojo Mcnair,OF,So,37,37,2019,14781,Wartburg,750
 3,2006839,Steven Lawrence,OF,So,2,0,2019,14781,Wartburg,750
@@ -3193,7 +3193,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 19,1867213,Jacques Pucheu,P,Sr,16,15,2019,14781,Austin Peay,43
 30,1761750,Parker Phillips,INF,Jr,57,57,2019,14781,Austin Peay,43
 25,1761752,Alex Sala,C,Sr,35,13,2019,14781,Austin Peay,43
-11,2148356,Connor Langbehn,INF,Fr,3,1,2019,14781,Wis.-Stout,803
+13,2001726,Logan Langbehn,P,So,10,0,2019,14781,Wis.-Stout,803
 3,1882515,Kyle Hamilton,INF,Jr,31,31,2019,14781,Wis.-Stout,803
 19,2148358,Joe Halling,OF,Jr,3,1,2019,14781,Wis.-Stout,803
 28,2001724,Jack Donahue,P,Sr,10,10,2019,14781,Wis.-Stout,803
@@ -3223,7 +3223,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 5,1781368,Jared Jarvensivu,INF,Sr,33,32,2019,14781,Wis.-Stout,803
 6,1882517,Jack Hemsath,INF,Jr,29,23,2019,14781,Wis.-Stout,803
 18,2148357,Alex Mahaz,P,Fr,5,0,2019,14781,Wis.-Stout,803
-13,2001726,Logan Langbehn,P,So,10,0,2019,14781,Wis.-Stout,803
+11,2148356,Connor Langbehn,INF,Fr,3,1,2019,14781,Wis.-Stout,803
 8,2148354,Alex Jinkins,C,Jr,17,14,2019,14781,Wis.-Stout,803
 14,1867307,Greg Dunham,P,Jr,5,1,2019,14781,Youngstown St.,817
 8,1974001,Dalton Earich,P,So,21,1,2019,14781,Youngstown St.,817
@@ -3367,7 +3367,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 9,2133490,Deon Leflore,OF,So,32,32,2019,14781,Mississippi Val.,432
 28,1999908,Wendell Rieves,INF,Sr,34,34,2019,14781,Mississippi Val.,432
 18,2133524,Joshua Lathem,P,Fr,8,0,2019,14781,Mississippi Val.,432
-11,1774297,Fredrick Spencer,INF,Sr,35,35,2019,14781,Mississippi Val.,432
+3,2133455,Kameron Spencer,INF,Fr,10,6,2019,14781,Mississippi Val.,432
 8,2133472,Willie Johnson,OF,So,32,30,2019,14781,Mississippi Val.,432
 16,1889583,Brandon Hawkins,P,So,17,1,2019,14781,Mississippi Val.,432
 6,1889607,Kanaikai Gaughen,OF,Jr,2,1,2019,14781,Mississippi Val.,432
@@ -3377,7 +3377,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 5,2133483,Jose Aguilera,OF,Jr,1,1,2019,14781,Mississippi Val.,432
 32,2133528,Jordan Sawyer,INF,Sr,27,25,2019,14781,Mississippi Val.,432
 12,1999905,Nick Johnson,P,So,14,13,2019,14781,Mississippi Val.,432
-3,2133455,Kameron Spencer,INF,Fr,10,6,2019,14781,Mississippi Val.,432
+11,1774297,Fredrick Spencer,INF,Sr,35,35,2019,14781,Mississippi Val.,432
 17,1887034,Cam Climo,OF,Jr,56,56,2019,14781,UMass Lowell,368
 27,2117984,Matt Aronson,P,Fr,8,0,2019,14781,UMass Lowell,368
 23,1768435,Michael Young,OF,Sr,45,43,2019,14781,UMass Lowell,368
@@ -3532,8 +3532,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 32,2122323,Ian Campbell,P,Fr,22,0,2019,14781,Maryville  (USA South),396
 1,2122276,Gabe Lopez,P,Fr,28,22,2019,14781,Maryville  (USA South),396
 28,2122300,Patrick Leahy,OF,Jr,12,1,2019,14781,Maryville  (USA South),396
-37,1990698,Seth Cooper,P,So,0,0,2019,14781,Maryville  (USA South),396
 33,2122324,Dj Cooper,P,Fr,13,5,2019,14781,Maryville  (USA South),396
+37,1990698,Seth Cooper,P,So,0,0,2019,14781,Maryville  (USA South),396
 38,2122313,Jordan Davis,P,Jr,14,14,2019,14781,Maryville  (USA South),396
 22,1865913,Gavin Dooley,C,Jr,3,0,2019,14781,Maryville  (USA South),396
 20,2122299,Augustus Fraley,UT,Fr,16,4,2019,14781,Maryville  (USA South),396
@@ -3781,8 +3781,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 31,2122591,Zach Matthews,P,Fr,12,0,2019,14781,Minn. Duluth,427
 6,2122523,Gage Merhar,UT,Fr,14,7,2019,14781,Minn. Duluth,427
 16,2122554,Wyatt O'Bey,P,So,9,5,2019,14781,Minn. Duluth,427
-14,2006128,Tyler Peterson,P,Fr,22,11,2019,14781,Minn. Duluth,427
 17,2122558,Mccale Peterson,INF,Fr,46,43,2019,14781,Minn. Duluth,427
+14,2006128,Tyler Peterson,P,Fr,22,11,2019,14781,Minn. Duluth,427
 27,2005626,Paul Petit,P,So,21,3,2019,14781,Minn. Duluth,427
 8,1774578,Cory Krolikowski,OF,Sr,41,34,2019,14781,Minn. Duluth,427
 25,2122584,Tim Pokornowski,OF,Fr,30,14,2019,14781,Minn. Duluth,427
@@ -3915,8 +3915,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 28,1891440,Justin Mcmann,2B,Sr,14,4,2019,14781,Adrian,4
 26,1896506,Daniel Mcmichael,P,Jr,7,0,2019,14781,Adrian,4
 99,2149766,Neiko Megrichian,C,Fr,6,0,2019,14781,Adrian,4
-4,2149767,Thomas Miller,INF,So,45,45,2019,14781,Adrian,4
 41,2003455,Trey Miller,P,So,0,0,2019,14781,Adrian,4
+4,2149767,Thomas Miller,INF,So,45,45,2019,14781,Adrian,4
 30,2003457,Sean Millspaugh,P,So,1,0,2019,14781,Adrian,4
 1,2152009,Nathan Mix,INF,Fr,0,0,2019,14781,Adrian,4
 3,2149768,Brian Naidus,OF,Fr,11,0,2019,14781,Adrian,4
@@ -3937,15 +3937,15 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 17,1894156,Cam Schuett,P,Jr,1,0,2019,14781,Wis.-Stevens Point,802
 31,2152076,Christopher Schiera,P,Fr,1,0,2019,14781,Wis.-Stevens Point,802
 22,2152075,Mitchel Neubauer,P,Jr,9,0,2019,14781,Wis.-Stevens Point,802
+25,2007368,Payton Nelson,OF,So,38,38,2019,14781,Wis.-Stevens Point,802
 3,1783651,Weston Nelson,P,Sr,28,22,2019,14781,Wis.-Stevens Point,802
 14,1894154,Brett Nelson,OF,Jr,5,0,2019,14781,Wis.-Stevens Point,802
-25,2007368,Payton Nelson,OF,So,38,38,2019,14781,Wis.-Stevens Point,802
 23,1782668,Kyle Mrozinski,C,Sr,38,38,2019,14781,Wis.-Stevens Point,802
 27,2007396,Matthew Morgan,P,Jr,10,3,2019,14781,Wis.-Stevens Point,802
 8,2152070,Anthony Moore,OF,Fr,0,0,2019,14781,Wis.-Stevens Point,802
 28,1894161,Zachary Miller,P,Jr,5,0,2019,14781,Wis.-Stevens Point,802
-30,1894152,Neal Matson,OF,Jr,8,3,2019,14781,Wis.-Stevens Point,802
 32,1894162,Nolan Matson,C,Jr,18,18,2019,14781,Wis.-Stevens Point,802
+30,1894152,Neal Matson,OF,Jr,8,3,2019,14781,Wis.-Stevens Point,802
 34,2007371,Lucas Luedtke,INF,Jr,1,1,2019,14781,Wis.-Stevens Point,802
 13,2152072,Caleb Krommenakker,P,Fr,9,0,2019,14781,Wis.-Stevens Point,802
 36,2007397,Jakob Kastenholz,INF,So,0,0,2019,14781,Wis.-Stevens Point,802
@@ -4153,10 +4153,10 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 35,2122386,John Macdonald,P,Fr,14,6,2019,14781,Bryant,81
 19,1982749,Tyler Mattison,P,So,15,15,2019,14781,Bryant,81
 8,1869728,Vito Morgese,P,Jr,8,8,2019,14781,Bryant,81
-9,1757101,Jack Owens,P,Jr,20,0,2019,14781,Bryant,81
+20,1982811,Sam Owens,INF,So,54,47,2019,14781,Bryant,81
 21,2122384,Brian Nicolas,INF,Fr,41,29,2019,14781,Bryant,81
 25,1982809,Shane Kelly,OF,So,44,31,2019,14781,Bryant,81
-20,1982811,Sam Owens,INF,So,54,47,2019,14781,Bryant,81
+9,1757101,Jack Owens,P,Jr,20,0,2019,14781,Bryant,81
 28,1982810,Nick Mulligan,C,So,9,0,2019,14781,Bryant,81
 34,1869726,Jack Ipsen,P,Jr,21,0,2019,14781,Bryant,81
 40,1757105,Nathan Wrighter,P,Sr,26,4,2019,14781,Bryant,81
@@ -4319,7 +4319,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 5,2123928,Frank Rybicki,C,Jr,13,7,2019,14781,Bard,962
 39,2113309,Jack Ryan,P,Fr,0,0,2019,14781,William & Mary,786
 27,2112910,Rojo Prarie,P,Fr,5,0,2019,14781,William & Mary,786
-18,1755789,Zach Pearson,INF,Sr,52,52,2019,14781,William & Mary,786
+6,1976210,Justin Pearson,P,So,23,1,2019,14781,William & Mary,786
 29,1976213,Will Moore,P,So,3,0,2019,14781,William & Mary,786
 26,1976187,Matt Mcdermott,INF,So,54,54,2019,14781,William & Mary,786
 7,1976189,Colin Lipke,INF,Sr,17,12,2019,14781,William & Mary,786
@@ -4344,7 +4344,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 21,1755791,Hunter Smith,C,Sr,55,55,2019,14781,William & Mary,786
 30,1976214,Randall Prosperi,P,So,29,0,2019,14781,William & Mary,786
 3,2112860,Cole Ragone,INF,Fr,8,0,2019,14781,William & Mary,786
-6,1976210,Justin Pearson,P,So,23,1,2019,14781,William & Mary,786
+18,1755789,Zach Pearson,INF,Sr,52,52,2019,14781,William & Mary,786
 40,2112926,Ned Ruffin,P,Fr,6,0,2019,14781,William & Mary,786
 1,1882325,Brandon Raquet,OF,Jr,46,40,2019,14781,William & Mary,786
 23,1882333,Jamie Sara,P,Jr,17,0,2019,14781,William & Mary,786
@@ -4443,7 +4443,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 9,1765296,Jared Sharkey,INF,Sr,41,41,2019,14781,Wheaton  (NEWC),779
 22,1987635,Patrick Santorella,OF,So,7,2,2019,14781,Wheaton  (NEWC),779
 24,1895374,Bryant Salkind,INF,Jr,36,34,2019,14781,Wheaton  (NEWC),779
-32,1987634,Joshua Roberge,P,So,11,0,2019,14781,Wheaton  (NEWC),779
+32,1987634,Josh Roberge,P,So,11,0,2019,14781,Wheaton  (NEWC),779
 10,2152835,Jacob Studley,RF,Fr,30,27,2019,14781,Wheaton  (NEWC),779
 15,1895081,Nick Raposo,C,Jr,40,40,2019,14781,Wheaton  (NEWC),779
 11,2152834,Stephen Quigley,P,Fr,39,34,2019,14781,Wheaton  (NEWC),779
@@ -4712,7 +4712,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 10,2140062,Beau Orlando,INF,Jr,56,56,2019,14781,Central Ark.,1004
 34,2140067,Marco Navarro,OF,Jr,36,35,2019,14781,Central Ark.,1004
 40,2140128,Hunter Hicks,INF,Fr,13,1,2019,14781,Central Ark.,1004
-37,2140092,Wren Williams,C,Fr,0,0,2019,14781,Central Ark.,1004
+24,1766510,Conner Williams,P,Sr,22,0,2019,14781,Central Ark.,1004
 23,2140065,Josh Ragan,OF,Jr,59,56,2019,14781,Central Ark.,1004
 20,2140084,Gavin Heltemes,P,Jr,4,0,2019,14781,Central Ark.,1004
 12,1766500,Mark Moyer,P,Jr,14,11,2019,14781,Central Ark.,1004
@@ -4730,7 +4730,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 3,2140054,Joshmar Doran,INF,Jr,41,38,2019,14781,Central Ark.,1004
 4,2140000,Cole Fiori,INF,Jr,35,29,2019,14781,Central Ark.,1004
 32,1997461,Logan Gilbertson,P,So,7,5,2019,14781,Central Ark.,1004
-24,1766510,Conner Williams,P,Sr,22,0,2019,14781,Central Ark.,1004
+37,2140092,Wren Williams,C,Fr,0,0,2019,14781,Central Ark.,1004
 1,2140053,Kolby Johnson,OF,Fr,51,43,2019,14781,Central Ark.,1004
 7,1985702,Jake Tirado,C,So,0,0,2019,14781,William Peace,17094
 16,1985725,Dashon Waters,1B,Sr,0,0,2019,14781,William Peace,17094
@@ -4781,8 +4781,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 18,2135853,Samuel Peddycord,P,Fr,16,0,2019,14781,William Peace,17094
 20,1760884,Easton Payton,OF,Sr,33,33,2019,14781,William Peace,17094
 45,2135852,Austin Padgett,P,Fr,16,0,2019,14781,William Peace,17094
-47,1985755,Isaiah Ortega,P,So,12,0,2019,14781,William Peace,17094
 24,2135851,Rafael Ortega,INF,Fr,7,0,2019,14781,William Peace,17094
+47,1985755,Isaiah Ortega,P,So,12,0,2019,14781,William Peace,17094
 32,1985748,Jake Norris,C,So,11,6,2019,14781,William Peace,17094
 48,2135849,Nick Montrose,INF,Jr,16,6,2019,14781,William Peace,17094
 49,1985757,Jamey May,P,Jr,10,0,2019,14781,William Peace,17094
@@ -4840,8 +4840,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 55,2143243,Chris Dreier,P,Jr,7,0,2019,14781,Plattsburgh St.,547
 9,1775756,Jon Craft,INF,Sr,29,28,2019,14781,Plattsburgh St.,547
 10,2006727,Rocco Cipriano,OF,Sr,29,24,2019,14781,Plattsburgh St.,547
-13,1894140,Patrick Bryant,P,Sr,25,25,2019,14781,Plattsburgh St.,547
 3,1894123,Stephen Bryant,SS,Jr,31,30,2019,14781,Plattsburgh St.,547
+13,1894140,Patrick Bryant,P,Sr,25,25,2019,14781,Plattsburgh St.,547
 5,2006742,Tom Bowe,INF,So,10,4,2019,14781,Plattsburgh St.,547
 17,2006728,Jack Bermingham,INF,So,10,4,2019,14781,Plattsburgh St.,547
 4,2006726,Simon Alvarez,3B,So,21,20,2019,14781,Plattsburgh St.,547
@@ -5385,14 +5385,14 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 12,1984412,Payton Rhodes,OF,Sr,0,0,2019,14781,Lubbock Christian,30177
 4,1982468,Braden Hayward,3B,Sr,52,52,2019,14781,Lubbock Christian,30177
 25,1767705,Andrew Pratt,C,Sr,52,52,2019,14781,Lubbock Christian,30177
-8,1982476,Callan Johnson,P,Sr,12,10,2019,14781,Lubbock Christian,30177
+18,1984415,Ryan Johnson,P,Sr,16,16,2019,14781,Lubbock Christian,30177
 9,1982486,Andres Negron,SS,Sr,52,52,2019,14781,Lubbock Christian,30177
 15,2131200,Logan Mccrummen,p,Sr,16,5,2019,14781,Lubbock Christian,30177
 33,1984417,Connor Mccafferty,OF,Sr,0,0,2019,14781,Lubbock Christian,30177
 3,1759002,Peyton Maddox,INF,Jr,19,2,2019,14781,Lubbock Christian,30177
 28,1878540,Reagan Lucia,P,Jr,12,0,2019,14781,Lubbock Christian,30177
 22,1878537,Aj Perez,OF,Jr,17,0,2019,14781,Lubbock Christian,30177
-18,1984415,Ryan Johnson,P,Sr,16,16,2019,14781,Lubbock Christian,30177
+8,1982476,Callan Johnson,P,Sr,12,10,2019,14781,Lubbock Christian,30177
 30,1881388,James Hardberger,C,Sr,50,40,2019,14781,Lubbock Christian,30177
 16,1878532,Keaton Greenwalt,INF,Jr,52,52,2019,14781,Lubbock Christian,30177
 26,1984404,Drew Austin,C,Sr,21,10,2019,14781,Lubbock Christian,30177
@@ -5722,8 +5722,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 11.0,2127553,John Mondello,P,Fr,6,2,2019,14781,Salem St.,621
 7.0,2000446,Dylan Mccormick,P,So,11,3,2019,14781,Salem St.,621
 5,1990218,Sam Hall,UT,So,61,61,2019,14781,Clemson,147
-44,2130011,Bryar Hawkins,INF,Fr,52,46,2019,14781,Clemson,147
 17,1990223,Justin Hawkins,INF,Sr,33,24,2019,14781,Clemson,147
+44,2130011,Bryar Hawkins,INF,Fr,52,46,2019,14781,Clemson,147
 6,2130003,Elijah Henderson,OF,Fr,19,8,2019,14781,Clemson,147
 32,1883878,Jacob Hennessy,P,Jr,21,6,2019,14781,Clemson,147
 47,2129995,Matthew Lumsden,UT,Fr,0,0,2019,14781,Clemson,147
@@ -5826,8 +5826,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 9.0,1772667,Cole Johnsons,INF,Sr,0,0,2019,14781,Medaille,23725
 36.0,1997394,Patrick Gavigan,INF,So,20,17,2019,14781,Medaille,23725
 53.0,2139156,Matthew Schutz,P,Fr,0,0,2019,14781,Baldwin Wallace,46
-3.0,1782724,Asa Adams,C,Sr,43,42,2019,14781,Baldwin Wallace,46
 27.0,1889228,Max Adams,P,Jr,8,2,2019,14781,Baldwin Wallace,46
+3.0,1782724,Asa Adams,C,Sr,43,42,2019,14781,Baldwin Wallace,46
 7.0,1777727,Reese Albright,OF,Sr,43,43,2019,14781,Baldwin Wallace,46
 19.0,1889636,Spencer Aukerman,P,Jr,13,10,2019,14781,Baldwin Wallace,46
 40.0,1892293,Spencer Berg,P,Jr,15,1,2019,14781,Baldwin Wallace,46
@@ -5836,8 +5836,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 32.0,2139153,Brandon Casto,C,Fr,1,0,2019,14781,Baldwin Wallace,46
 26.0,1997754,Luke Razzante,INF,So,30,17,2019,14781,Baldwin Wallace,46
 29.0,2139162,Maxwell Cebulak,P,Fr,0,0,2019,14781,Baldwin Wallace,46
-39.0,1997757,Jake Smith,C,Jr,2,0,2019,14781,Baldwin Wallace,46
 37.0,1997756,Nick Smith,INF,So,11,9,2019,14781,Baldwin Wallace,46
+39.0,1997757,Jake Smith,C,Jr,2,0,2019,14781,Baldwin Wallace,46
 13.0,2152515,S. Sustersic,ph,,24,19,2019,14781,Baldwin Wallace,46
 4.0,1889223,Dudley Taw,OF,Jr,10,10,2019,14781,Baldwin Wallace,46
 57.0,2139157,Conner Warner,OF,Fr,0,0,2019,14781,Baldwin Wallace,46
@@ -5901,14 +5901,14 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 22,2003506,Tanner Boros,P,So,23,10,2019,14781,Wittenberg,806
 43,2154875,Jc Bricker,PH,,6,2,2019,14781,Wittenberg,806
 36,1896377,Luke Campbell,P,Jr,0,0,2019,14781,Wittenberg,806
-29,1894965,Chase Carpenter,3B,Jr,1,1,2019,14781,Wittenberg,806
 35,2006458,Gage Carpenter,LF,So,13,13,2019,14781,Wittenberg,806
+29,1894965,Chase Carpenter,3B,Jr,1,1,2019,14781,Wittenberg,806
 3,2154898,Jeff Chonko,PH,,8,2,2019,14781,Wittenberg,806
 12,2002238,Nicholas Cipriani,PH,So,0,0,2019,14781,Wittenberg,806
 13,1894969,Joshua Darang,P,Jr,0,0,2019,14781,Wittenberg,806
 5,1776978,Jace Barga,OF,Sr,9,7,2019,14781,Wittenberg,806
-21,2159249,Mitchell Davis,p,Fr,4,0,2019,14781,Wittenberg,806
 33,2002241,Mason Davis,3B,So,33,28,2019,14781,Wittenberg,806
+19,2009210,Bo Davis,C,So,0,0,2019,14781,Wittenberg,806
 28,1776981,Blake Eckert,INF,Sr,0,0,2019,14781,Wittenberg,806
 33,1776982,Marshall Eippert,OF,Sr,0,0,2019,14781,Wittenberg,806
 34,1894990,Aaron Fasano,3B,Jr,9,1,2019,14781,Wittenberg,806
@@ -5917,7 +5917,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 45,2002256,Tanner Griggs,P,So,11,10,2019,14781,Wittenberg,806
 32,1776985,David Hall,OF,Sr,0,0,2019,14781,Wittenberg,806
 37,1895286,Andrew Hammond,C,Jr,3,0,2019,14781,Wittenberg,806
-19,2009210,Bo Davis,C,So,0,0,2019,14781,Wittenberg,806
+21,2159249,Mitchell Davis,p,Fr,4,0,2019,14781,Wittenberg,806
 10,2002254,David Hamrick,3B,So,29,27,2019,14781,Wittenberg,806
 31,2009209,Parker Thompson,CF,So,13,4,2019,14781,Wittenberg,806
 1,1776990,Greg Vanerstrom,INF,Sr,18,6,2019,14781,Wittenberg,806
@@ -6077,8 +6077,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 52,2123773,Dezmond Cordova,C,Fr,0,0,2019,14781,Southern Ark.,1376
 35,1996427,Garrett Walker,P,Jr,11,10,2019,14781,Southern Ark.,1376
 42,1987098,Josh Winfield,C,So,0,0,2019,14781,Southern Ark.,1376
-50,2123771,Austyn Wright,C,Fr,0,0,2019,14781,Southern Ark.,1376
 6,1987087,Dakota Wright,OF,Sr,49,49,2019,14781,Southern Ark.,1376
+50,2123771,Austyn Wright,C,Fr,0,0,2019,14781,Southern Ark.,1376
 24,2123753,Ryan Williams,P,Jr,9,1,2019,14781,Southern Ark.,1376
 23,1979672,Matthew Jones,INF,Sr,46,45,2019,14781,West Florida,11740
 14,2128558,Adam Imwalle,INF,Jr,48,43,2019,14781,West Florida,11740
@@ -6094,7 +6094,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 26,1979653,Mike Branche,INF,Sr,17,7,2019,14781,West Florida,11740
 24,1979674,Joey Bend,INF,Sr,51,44,2019,14781,West Florida,11740
 13,2128532,Ty Angevine,C,Fr,0,0,2019,14781,West Florida,11740
-3,2128527,Riley White,C,Fr,10,1,2019,14781,West Florida,11740
+41,1979678,Riley White,C,So,0,0,2019,14781,West Florida,11740
 9,1758706,Robert Lopez,INF,Sr,55,55,2019,14781,West Florida,11740
 35,1872542,Matt Whetstone,INF,Jr,0,0,2019,14781,West Florida,11740
 6,2128549,Dylan Menhennett,INF,Jr,51,43,2019,14781,West Florida,11740
@@ -6112,7 +6112,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 12,1758707,Matt Sullivan,C,Sr,52,52,2019,14781,West Florida,11740
 20,1996397,Andrew Vaccacio,P,Sr,14,14,2019,14781,West Florida,11740
 4,1872530,Trevor Payne,C,Jr,52,52,2019,14781,West Florida,11740
-41,1979678,Riley White,C,So,0,0,2019,14781,West Florida,11740
+3,2128527,Riley White,C,Fr,10,1,2019,14781,West Florida,11740
 21,1979648,Tony Kucera,P,Sr,16,14,2019,14781,West Florida,11740
 18,1979666,Kirk Maddox,P,Sr,13,0,2019,14781,West Florida,11740
 34,1979660,Hunter Lucas,P,So,15,0,2019,14781,West Florida,11740
@@ -6301,7 +6301,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 21.0,2153897,Stephen Anderson,p,Fr,2,0,2019,14781,SUNY Poly,9500
 33.0,2153174,Alex Winchell,1b,Jr,14,12,2019,14781,SUNY Poly,9500
 2.0,1894406,Dalton Henry,C,Jr,0,0,2019,14781,SUNY Poly,9500
-15.0,2003859,Seth Vanderbeck,OF,So,33,31,2019,14781,SUNY Poly,9500
+35.0,2003831,Noah Vanderbeck,UT,Sr,27,19,2019,14781,SUNY Poly,9500
 6.0,1781040,Jacob Vanbeber,P,Sr,17,11,2019,14781,SUNY Poly,9500
 9.0,2003854,Noah Valvo,P,So,10,3,2019,14781,SUNY Poly,9500
 23.0,2003866,Devin Turrell,P,Jr,8,2,2019,14781,SUNY Poly,9500
@@ -6313,7 +6313,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 14.0,1781665,Sebastian Pannuto,INF,Sr,31,29,2019,14781,SUNY Poly,9500
 12.0,2003856,Nate Palmer,INF,Sr,0,0,2019,14781,SUNY Poly,9500
 22.0,1894404,Dean Natalizio,INF,Jr,31,30,2019,14781,SUNY Poly,9500
-35.0,2003831,Noah Vanderbeck,UT,Sr,27,19,2019,14781,SUNY Poly,9500
+15.0,2003859,Seth Vanderbeck,OF,So,33,31,2019,14781,SUNY Poly,9500
 19.0,2003864,Jeremiah Horton,P,Sr,10,9,2019,14781,SUNY Poly,9500
 34.0,2154311,Matthew Gamache,p,Fr,2,1,2019,14781,SUNY Poly,9500
 17.0,2153173,Jake Laferriere,p,Jr,26,25,2019,14781,SUNY Poly,9500
@@ -6376,7 +6376,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 23.0,1762222,Eric Mullinax,P,Sr,15,2,2019,14781,Limestone,1174
 26.0,2128905,Tyler Zak,P,Jr,11,1,2019,14781,Limestone,1174
 32.0,2128913,Jordan Adcox,P,Jr,13,9,2019,14781,Limestone,1174
-28.0,2128923,Marcus Johnson,P,Jr,12,8,2019,14781,Limestone,1174
+8.0,2128845,Lucas Johnson,OF,Fr,0,0,2019,14781,Limestone,1174
 13.0,2009805,Allen Coor,OF,Jr,8,0,2019,14781,Limestone,1174
 30.0,2128925,Jacob Cornatzer,P,Jr,2,0,2019,14781,Limestone,1174
 18.0,2128885,Alex Cornell,UT,Jr,47,46,2019,14781,Limestone,1174
@@ -6388,10 +6388,10 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 15.0,1986382,Alex Grooms,P,Sr,12,11,2019,14781,Limestone,1174
 12.0,2128860,Cody Harris,OF,Sr,10,4,2019,14781,Limestone,1174
 39.0,2128938,Matt Hilderbrandt,OF,Jr,45,45,2019,14781,Limestone,1174
-27.0,2128922,Benjamin Huber,1B,Fr,47,45,2019,14781,Limestone,1174
 17.0,1774058,Trey Huber,P,Jr,11,2,2019,14781,Limestone,1174
+27.0,2128922,Benjamin Huber,1B,Fr,47,45,2019,14781,Limestone,1174
 36.0,2128916,Trey Jenkins,P,Jr,8,0,2019,14781,Limestone,1174
-8.0,2128845,Lucas Johnson,OF,Fr,0,0,2019,14781,Limestone,1174
+28.0,2128923,Marcus Johnson,P,Jr,12,8,2019,14781,Limestone,1174
 37.0,2128917,Payton Macpherson,P,Fr,13,12,2019,14781,Limestone,1174
 4.0,1986408,Justin Mack,OF,Sr,2,0,2019,14781,Limestone,1174
 14.0,1783052,Michael Colombi,P,Sr,4,0,2019,14781,Limestone,1174
@@ -6555,8 +6555,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 22,1881599,Tyquavious Noland,PH,Jr,22,22,2019,14781,LeMoyne-Owen,350
 2,1782486,Martez Briggs,P,Jr,15,12,2019,14781,LeMoyne-Owen,350
 1,1991501,David Nicholas,LF,So,0,0,2019,14781,LeMoyne-Owen,350
-10,1763173,Ulric Johnson,P,Jr,0,0,2019,14781,LeMoyne-Owen,350
 3,1763172,John Johnson,SS,Jr,0,0,2019,14781,LeMoyne-Owen,350
+10,1763173,Ulric Johnson,P,Jr,0,0,2019,14781,LeMoyne-Owen,350
 11,1763169,Cameron Haynes,1B,Jr,0,0,2019,14781,LeMoyne-Owen,350
 23,1763167,Pedro Gomez,DH,Jr,0,0,2019,14781,LeMoyne-Owen,350
 19,1894243,Ian Gary,SS,Jr,0,0,2019,14781,LeMoyne-Owen,350
@@ -7133,8 +7133,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 26,1974551,Jack Thelen,C,So,30,24,2019,14781,Milwaukee,797
 37,2129015,Jj Eduardo,DH,Sr,9,4,2019,14781,Milwaukee,797
 55,2119219,Isaac Dirker,P,Fr,0,0,2019,14781,Milwaukee,797
-11,2119234,Nate Deyoung,3B,Fr,22,9,2019,14781,Milwaukee,797
 20,1865868,Matt Deyoung,OF,So,9,0,2019,14781,Milwaukee,797
+11,2119234,Nate Deyoung,3B,Fr,22,9,2019,14781,Milwaukee,797
 8,1974534,Bryce Cross,INF,Fr,9,0,2019,14781,Milwaukee,797
 13,2119218,Jack Cavanaugh,P,Jr,0,0,2019,14781,Milwaukee,797
 14,1974545,Mitchell Buban,INF,So,56,56,2019,14781,Milwaukee,797
@@ -7181,8 +7181,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 34.0,1988432,Milan Sutaria,P,So,18,0,2019,14781,Berry,973
 14.0,1988420,Tanner Still,P,So,11,3,2019,14781,Berry,973
 33.0,2129345,Dylan Stalzer,INF,Fr,3,0,2019,14781,Berry,973
-2.0,1988323,Quinn Smith,P,Jr,40,39,2019,14781,Berry,973
 8.0,1988429,Dalton Smith,INF,So,29,23,2019,14781,Berry,973
+2.0,1988323,Quinn Smith,P,Jr,40,39,2019,14781,Berry,973
 18.0,2129342,Dylan Schoknecht,P,Jr,6,0,2019,14781,Berry,973
 19.0,1988417,Evan Romeo,OF,So,19,5,2019,14781,Berry,973
 26.0,2129332,Trevor Proctor,C,Fr,3,1,2019,14781,Berry,973
@@ -7197,7 +7197,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 31,2140555,Connor Hicks,C,Fr,0,0,2019,14781,VCU,740
 16,1991701,Liam Hibbits,1B,So,57,53,2019,14781,VCU,740
 23,1991726,Devin Dunn,P,So,13,2,2019,14781,VCU,740
-99,1893250,Brooks Knapek,P,So,0,0,2019,14781,VCU,740
+98,1893254,Carter Knapek,P,So,0,0,2019,14781,VCU,740
 12,2140554,Brandon Henson,OF,Jr,35,34,2019,14781,VCU,740
 25,1769560,Benjamin Dum,P,Sr,22,1,2019,14781,VCU,740
 22,1876298,Andrew Puglielli,3B,Fr,24,5,2019,14781,VCU,740
@@ -7209,7 +7209,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 32,1991719,Curtis Bafus,P,Sr,16,7,2019,14781,VCU,740
 21,2140549,Logan Amiss,C,Fr,34,19,2019,14781,VCU,740
 40,1769565,Jack Alkire,P,Sr,17,7,2019,14781,VCU,740
-98,1893254,Carter Knapek,P,So,0,0,2019,14781,VCU,740
+99,1893250,Brooks Knapek,P,So,0,0,2019,14781,VCU,740
 30,1769563,Michael Dailey,P,Sr,0,0,2019,14781,VCU,740
 14,2140556,Brett Norwood,INF,Jr,54,54,2019,14781,VCU,740
 28,1991697,Mac Mccarty,P,Sr,7,0,2019,14781,VCU,740
@@ -7738,10 +7738,10 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 21,2137859,Vince Flores,INF,Fr,0,0,2019,14781,Washington,756
 42,1977848,Cole Galvagno,P,Fr,1,1,2019,14781,Washington,756
 34,1876501,Harrison Goonewardene,P,So,0,0,2019,14781,Washington,756
-19,1876506,Jordan Jones,P,Jr,15,15,2019,14781,Washington,756
+5,1876505,Christian Jones,OF,Jr,3,3,2019,14781,Washington,756
 1,1977832,Noah Hsue,INF,So,14,10,2019,14781,Washington,756
 31,1977831,Stevie Emanuels,P,So,31,0,2019,14781,Washington,756
-5,1876505,Christian Jones,OF,Jr,3,3,2019,14781,Washington,756
+19,1876506,Jordan Jones,P,Jr,15,15,2019,14781,Washington,756
 24,2137860,Albert Hsiao,C,Fr,11,2,2019,14781,Washington,756
 41,1977824,Jack Decooman,P,So,9,5,2019,14781,Washington,756
 7,1977851,Braiden Ward,OF,So,52,49,2019,14781,Washington,756
@@ -7781,9 +7781,9 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 29,1988080,Chris Douglas,P,Sr,7,5,2019,14781,CSU Pueblo,2720
 18,1988074,Robbie Espinosa,OF,Sr,41,15,2019,14781,CSU Pueblo,2720
 43,2129323,Gary Fayard,P,Jr,4,0,2019,14781,CSU Pueblo,2720
-45,2129307,Ian Garcia,OF,So,0,0,2019,14781,CSU Pueblo,2720
-41,1988099,Jacob Garcia,P,So,0,0,2019,14781,CSU Pueblo,2720
 40,2129300,Javy Garcia,OF,So,0,0,2019,14781,CSU Pueblo,2720
+41,1988099,Jacob Garcia,P,So,0,0,2019,14781,CSU Pueblo,2720
+45,2129307,Ian Garcia,OF,So,0,0,2019,14781,CSU Pueblo,2720
 47,2129308,Logan Gibbons,OF,Jr,40,6,2019,14781,CSU Pueblo,2720
 39,2129304,Andrew Coverly,P,Jr,22,0,2019,14781,CSU Pueblo,2720
 6,1988067,Timmy Burtzloff,P,Sr,19,0,2019,14781,CSU Pueblo,2720
@@ -7841,8 +7841,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 9,1878791,Jack Silva,P,Sr,15,3,2019,14781,Whittier,781
 11,1987654,Daniel Tuerffs,SS,Sr,40,40,2019,14781,Whittier,781
 15,1987666,Matt Salas,SS,So,1,0,2019,14781,Whittier,781
-22,1987652,Justin Ryan,2B,Jr,7,0,2019,14781,Whittier,781
 22,2133254,Justin Ryan,2B,Jr,1,0,2019,14781,Whittier,781
+22,1987652,Justin Ryan,2B,Jr,7,0,2019,14781,Whittier,781
 5,1878766,Will Reader,P,Jr,11,3,2019,14781,Whittier,781
 24,2133231,Michael Pope,P,Fr,2,0,2019,14781,Whittier,781
 10,1878771,Brandon Mulrooney,OF,Sr,39,38,2019,14781,Whittier,781
@@ -7850,8 +7850,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 12,1987653,Jarryd Samsing,OF,So,38,34,2019,14781,Whittier,781
 36,2158072,Connor Roesler,PR,Fr,14,2,2019,14781,Wis.-La Crosse,795
 6,2155023,Chase Scharnek,RF,Jr,4,4,2019,14781,Wis.-La Crosse,795
-16,1892400,Brennan Schmitt,INF,Jr,43,41,2019,14781,Wis.-La Crosse,795
 9,2006338,Luke Schmitt,OF,So,0,0,2019,14781,Wis.-La Crosse,795
+16,1892400,Brennan Schmitt,INF,Jr,43,41,2019,14781,Wis.-La Crosse,795
 4,2006343,Remington Schneider,P,Jr,0,0,2019,14781,Wis.-La Crosse,795
 23,1892406,Alex Schulte,P,Jr,0,0,2019,14781,Wis.-La Crosse,795
 26,1892403,Justin Scoville,P,Sr,0,0,2019,14781,Wis.-La Crosse,795
@@ -7879,8 +7879,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 9,2155816,Ty Hamilton,1B,,5,0,2019,14781,Wis.-La Crosse,795
 19,1670104,Nate Heili,INF,Sr,43,43,2019,14781,Wis.-La Crosse,795
 10,2006323,Peyton Henry,OF,So,0,0,2019,14781,Wis.-La Crosse,795
-4,2154872,Jake Mcclellan,PR,Jr,35,31,2019,14781,Wis.-La Crosse,795
 12,2006342,Cal Mcclellan,UT,Jr,7,3,2019,14781,Wis.-La Crosse,795
+4,2154872,Jake Mcclellan,PR,Jr,35,31,2019,14781,Wis.-La Crosse,795
 32,2154892,Tommy Nelsen,LF,Fr,31,9,2019,14781,Wis.-La Crosse,795
 7,2006340,Owen Olson,P,So,9,2,2019,14781,Wis.-La Crosse,795
 4,2006339,Jake Hall,INF,Jr,0,0,2019,14781,Wis.-La Crosse,795
@@ -7899,13 +7899,13 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 24,1758426,Theron Shigematsu,1B,Jr,9,0,2019,14781,Hawaii Hilo,2697
 25,1983926,Jaryn Kanbarra,C,So,31,31,2019,14781,Hawaii Hilo,2697
 37,1873075,Dylan Spain,P,Jr,8,8,2019,14781,Hawaii Hilo,2697
-14,1873078,Dylan Sugimoto,OF,Sr,43,38,2019,14781,Hawaii Hilo,2697
+11,2127958,Jaron Sugimoto,UT,Fr,3,1,2019,14781,Hawaii Hilo,2697
 26,2127984,Jordan Tagawa,P,Sr,11,0,2019,14781,Hawaii Hilo,2697
 27,2127985,Miguel Valadez,3B,So,2,0,2019,14781,Hawaii Hilo,2697
 30,1758430,Thomas Warren,P,Sr,3,1,2019,14781,Hawaii Hilo,2697
 17,1758432,Kyle Yamada,OF,Sr,44,43,2019,14781,Hawaii Hilo,2697
 21,2127981,Keanu Yamashiro,C,Fr,4,1,2019,14781,Hawaii Hilo,2697
-11,2127958,Jaron Sugimoto,UT,Fr,3,1,2019,14781,Hawaii Hilo,2697
+14,1873078,Dylan Sugimoto,OF,Sr,43,38,2019,14781,Hawaii Hilo,2697
 13,2127968,Coryn Iwamasa,INF,Sr,1,0,2019,14781,Hawaii Hilo,2697
 28,1983917,Kekai Mahiko,P,Jr,11,0,2019,14781,Hawaii Hilo,2697
 2,2127966,Rustin Ho,OF,Jr,32,25,2019,14781,Hawaii Hilo,2697
@@ -8106,8 +8106,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 48.0,2005246,Ethan Cherry,P,Jr,11,2,2019,14781,UT Tyler,30028
 37.0,2134851,Zach Fernandez,P,Fr,5,0,2019,14781,UT Tyler,30028
 2.0,1993601,Bowie Farris,2B,Jr,5,5,2019,14781,UT Tyler,30028
-98.0,2135029,K F,UT,Sr,0,0,2019,14781,UT Tyler,30028
 2.0,2135035,B F,SS,Sr,0,0,2019,14781,UT Tyler,30028
+98.0,2135029,K F,UT,Sr,0,0,2019,14781,UT Tyler,30028
 1.0,304146,Brian Finegan,SS,Sr,1,1,2019,14781,UT Tyler,30028
 99.0,2135033,E C,UT,Sr,0,0,2019,14781,UT Tyler,30028
 9.0,139248,Ria Hoog,3B,Jr,0,0,2019,14781,UT Tyler,30028
@@ -8150,10 +8150,10 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 24.0,2135021,Christian Reeves,P,So,2,0,2019,14781,UT Tyler,30028
 4.0,157911,Kate Lankin,,Sr,0,0,2019,14781,UT Tyler,30028
 26.0,2135002,Brandon Rossiter,OF,So,17,4,2019,14781,UT Tyler,30028
-92.0,2135005,A S,UT,Sr,0,0,2019,14781,UT Tyler,30028
 95.0,2135006,H S,UT,Sr,0,0,2019,14781,UT Tyler,30028
-30.0,2134848,Zach Sanchez,INF,Fr,24,18,2019,14781,UT Tyler,30028
+92.0,2135005,A S,UT,Sr,0,0,2019,14781,UT Tyler,30028
 9.0,1883596,Henry Sanchez,2B,Sr,36,35,2019,14781,UT Tyler,30028
+30.0,2134848,Zach Sanchez,INF,Fr,24,18,2019,14781,UT Tyler,30028
 19.0,1993602,Tanner Roach,OF,So,38,38,2019,14781,UT Tyler,30028
 32,2131843,Robbie Hollenbeck,P,Fr,8,0,2019,14781,Salisbury,622
 17,2131760,Clayton Dwyer,P,Jr,17,13,2019,14781,Salisbury,622
@@ -8201,12 +8201,12 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 45,1866480,Cole Weaver,INF,Sr,17,11,2019,14781,Baylor,51
 29,2138953,Jake Walsh,C,Fr,1,0,2019,14781,Baylor,51
 50,1865510,Mackenzie Mueller,UT,Jr,23,17,2019,14781,Baylor,51
-16,1981335,Tyler Thomas,P,So,14,7,2019,14781,Baylor,51
+25,1866479,Andy Thomas,C,Jr,47,47,2019,14781,Baylor,51
 36,2138954,Ryan Segner,P,Fr,3,0,2019,14781,Baylor,51
 13,1866477,Hunter Seay,OF,Jr,6,1,2019,14781,Baylor,51
 37,1981336,Chase Wehsener,1B,Fr,53,51,2019,14781,Baylor,51
 15,1756910,Kyle Hill,P,Sr,24,0,2019,14781,Baylor,51
-25,1866479,Andy Thomas,C,Jr,47,47,2019,14781,Baylor,51
+16,1981335,Tyler Thomas,P,So,14,7,2019,14781,Baylor,51
 35,2138956,Brooks Helmer,P,Fr,7,0,2019,14781,Baylor,51
 20,1756913,T.J. Raguse,OF,Sr,8,2,2019,14781,Baylor,51
 30,1981328,Jacob Ashkinos,P,So,20,6,2019,14781,Baylor,51
@@ -8354,13 +8354,13 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 40,2146567,R.J. Schreck,rf,Fr,32,21,2019,14781,Duke,193
 33,1867936,Adam Laskey,P,Jr,6,3,2019,14781,Duke,193
 10,2122112,Matt Stinebiser,C,Fr,16,1,2019,14781,Duke,193
-2,2122123,Cooper Stinson,P,Fr,18,14,2019,14781,Duke,193
+31,1867935,Graeme Stinson,P,Jr,5,5,2019,14781,Duke,193
 5,2122116,Jake Swartz,OF,Fr,0,0,2019,14781,Duke,193
 15,1758926,Kennie Taylor,OF,Sr,61,61,2019,14781,Duke,193
 18,1868376,Aaron Therien,C,Sr,2,0,2019,14781,Duke,193
 22,2122144,Jake Topolski,INF,Fr,0,0,2019,14781,Duke,193
 50,1977224,Tyler Wardwell,INF,So,13,7,2019,14781,Duke,193
-31,1867935,Graeme Stinson,P,Jr,5,5,2019,14781,Duke,193
+2,2122123,Cooper Stinson,P,Fr,18,14,2019,14781,Duke,193
 6,2122082,Jimmy Loper,P,Fr,0,0,2019,14781,Duke,193
 4,1977220,Wil Hoyle,INF,So,27,6,2019,14781,Duke,193
 9,2122101,Damon Lux,OF,Fr,12,0,2019,14781,Duke,193
@@ -8396,8 +8396,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 29,2001795,Luke Correia,C,So,2,0,2019,14781,Mercyhurst,408
 34,2159244,Chad Cwik,p,Fr,8,3,2019,14781,Mercyhurst,408
 5,2146946,D. Derenzo,c,,50,50,2019,14781,Mercyhurst,408
-48,2162062,Connor Demoss,,Sr,0,0,2019,14781,Mercyhurst,408
 48,2159245,Unknown Demoss,p,Sr,2,0,2019,14781,Mercyhurst,408
+48,2162062,Connor Demoss,,Sr,0,0,2019,14781,Mercyhurst,408
 21,2001768,Jack Elliott,INF,So,52,52,2019,14781,Mercyhurst,408
 15,2156887,Anthony Fachet,ph/lf,Fr,5,0,2019,14781,Mercyhurst,408
 44,2147266,James Filippelli,p,Fr,2,2,2019,14781,Mercyhurst,408
@@ -8855,13 +8855,13 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 13,1988899,Derrick Mcgowan,OF,Sr,6,3,2019,14781,Lane,347
 6,1985710,Mario Alston,OF,Sr,16,11,2019,14781,Lane,347
 24,2131240,Thomas Arias,P,Fr,42,42,2019,14781,Lane,347
-8,1874821,Christian Armstrong,INF,Jr,44,39,2019,14781,Lane,347
 19,1985707,Jahneal Armstrong,C,So,27,26,2019,14781,Lane,347
+8,1874821,Christian Armstrong,INF,Jr,44,39,2019,14781,Lane,347
 7,1985708,Joel Ballard,P,Jr,25,16,2019,14781,Lane,347
 20,1874824,Kendrick Binford,C,Sr,4,1,2019,14781,Lane,347
 23,2131260,Jermyn Brock,P,Fr,2,0,2019,14781,Lane,347
-4,1874835,Tavariz Brown,OF,Jr,26,16,2019,14781,Lane,347
 3,1874834,Treviz Brown,P,Jr,40,39,2019,14781,Lane,347
+4,1874835,Tavariz Brown,OF,Jr,26,16,2019,14781,Lane,347
 14,1874833,Courtney Joyner,INF,Jr,36,34,2019,14781,Lane,347
 11,1880585,Keishaun Clark,P,Jr,28,27,2019,14781,Lane,347
 9,1874822,Melvin Crayton,INF,Jr,41,38,2019,14781,Lane,347
@@ -8898,8 +8898,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 4,1984625,Drew Aldana,C,Jr,30,26,2019,14781,Missouri S&T,435
 26,2133924,Chasen Anderson,P,Fr,10,4,2019,14781,Missouri S&T,435
 23,2131044,Keegan Baxmeyer,OF,Jr,32,26,2019,14781,Missouri S&T,435
-31,2133910,Dylan Dunbar,P,Fr,11,0,2019,14781,Missouri S&T,435
 27,1876351,Blaine Dunbar,P,Jr,17,1,2019,14781,Missouri S&T,435
+31,2133910,Dylan Dunbar,P,Fr,11,0,2019,14781,Missouri S&T,435
 24,1760713,Dalton Erger,P,Sr,14,13,2019,14781,Missouri S&T,435
 40,1984630,Conner Forsythe,INF,Sr,25,11,2019,14781,Missouri S&T,435
 36,2133930,Nick Fuller,C,Fr,0,0,2019,14781,Missouri S&T,435
@@ -9022,9 +9022,9 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 25.0,1768268,Colin Welch,C,Sr,8,2,2019,14781,Wis.-Superior,804
 39.0,1896197,Trevor Roszczewski,P,Sr,6,4,2019,14781,Wis.-Superior,804
 34.0,1896098,Brandon Rolf,OF,Jr,36,35,2019,14781,Wis.-Superior,804
-13.0,2006159,Ryan Rodriguez,P,So,10,8,2019,14781,Wis.-Superior,804
-8.0,1896194,Cameron Lee,OF,Jr,14,5,2019,14781,Wis.-Superior,804
 11.0,1768258,Mike Rodriguez,OF,Sr,27,6,2019,14781,Wis.-Superior,804
+8.0,1896194,Cameron Lee,OF,Jr,14,5,2019,14781,Wis.-Superior,804
+13.0,2006159,Ryan Rodriguez,P,So,10,8,2019,14781,Wis.-Superior,804
 18.0,1896094,Cory Albertson,C,Jr,40,40,2019,14781,Wis.-Superior,804
 6.0,1896097,Alec Rabin,INF,Jr,25,21,2019,14781,Wis.-Superior,804
 5.0,1780233,Michael Piletich,P,Sr,8,4,2019,14781,Wis.-Superior,804
@@ -9036,8 +9036,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 19,2118320,Collin Clark,P,Fr,10,9,2019,14781,Averett,44
 30,1781316,Hunter Collins,3B,Sr,4,1,2019,14781,Averett,44
 10,1881934,Zack Decarlo,OF,Jr,20,15,2019,14781,Averett,44
-22,1881939,Adam George,OF,Jr,1,0,2019,14781,Averett,44
 15,1876887,Dante George,1B,Jr,25,12,2019,14781,Averett,44
+22,1881939,Adam George,OF,Jr,1,0,2019,14781,Averett,44
 8,1772766,A.J. Hart,OF,Sr,22,19,2019,14781,Averett,44
 2,2118340,Brandon Hatcher,INF,Fr,24,22,2019,14781,Averett,44
 14,2118239,Dawsyn Hock,UT,Fr,14,9,2019,14781,Averett,44
@@ -9091,9 +9091,9 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 45,1887819,Reyan Mustafoski,P,Jr,17,0,2019,14781,St. Thomas Aquinas,1348
 30,2134847,Jack Wilde,P,Fr,6,0,2019,14781,St. Thomas Aquinas,1348
 55,2134880,Justin Baeyens,P,Fr,12,1,2019,14781,St. Thomas Aquinas,1348
-22,2134834,Robert Hazelton,INF,Fr,3,0,2019,14781,St. Thomas Aquinas,1348
-24,1887807,Chris Cepeda,P,Sr,14,12,2019,14781,St. Thomas Aquinas,1348
+51,1775632,Donald Hazelton,P,Jr,2,0,2019,14781,St. Thomas Aquinas,1348
 8,2134820,Jonnathan Cepeda,INF,So,25,14,2019,14781,St. Thomas Aquinas,1348
+24,1887807,Chris Cepeda,P,Sr,14,12,2019,14781,St. Thomas Aquinas,1348
 38,2134879,Darnell Chandler,P,Fr,5,0,2019,14781,St. Thomas Aquinas,1348
 27,2134843,Christopher Conti,OF,Fr,18,4,2019,14781,St. Thomas Aquinas,1348
 52,2134850,Michael Cunney,C,Fr,3,0,2019,14781,St. Thomas Aquinas,1348
@@ -9105,7 +9105,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 3,2134829,John Greeley,P,Jr,14,11,2019,14781,St. Thomas Aquinas,1348
 32,2134861,Tj Gregory,P,Fr,10,5,2019,14781,St. Thomas Aquinas,1348
 41,1775628,Scott Hannon,P,Sr,14,1,2019,14781,St. Thomas Aquinas,1348
-51,1775632,Donald Hazelton,P,Jr,2,0,2019,14781,St. Thomas Aquinas,1348
+22,2134834,Robert Hazelton,INF,Fr,3,0,2019,14781,St. Thomas Aquinas,1348
 15,1999489,Jeffrey Dominguez,P,So,5,0,2019,14781,St. Thomas Aquinas,1348
 20,2134833,Jaden Jorgenson,INF,Fr,33,21,2019,14781,St. Thomas Aquinas,1348
 88,1999479,Josten Beato,P,So,2,0,2019,14781,St. Thomas Aquinas,1348
@@ -9592,8 +9592,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 15.0,1766059,Milo Mincin,INF,Sr,16,0,2019,14781,Whitman,780
 40.0,2120599,Leo Rivera,INF,Fr,17,3,2019,14781,Whitman,780
 24.0,2120600,Jake Larson,P,Jr,11,5,2019,14781,Whitman,780
-7,1892473,Andreas Bailey,OF,Jr,32,32,2019,14781,Clarks Summit,958
 9,2000199,Noah Bailey,OF,Jr,35,33,2019,14781,Clarks Summit,958
+7,1892473,Andreas Bailey,OF,Jr,32,32,2019,14781,Clarks Summit,958
 20,2147085,Cade Woolsey,UT,Fr,9,2,2019,14781,Clarks Summit,958
 3,2146534,Marcus Dixon,UT,Jr,12,5,2019,14781,Clarks Summit,958
 12,2146536,Joshua Knight,UT,Fr,35,35,2019,14781,Clarks Summit,958
@@ -9926,7 +9926,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 1,2139307,Zach Hunter,INF,Fr,3,0,2019,14781,Rockford,582
 18,1992097,Zachary Froehlich,OF,So,7,1,2019,14781,Rockford,582
 40,2139356,Dylan Johnson,INF,Jr,18,5,2019,14781,Rockford,582
-17,2139345,Tj Jones,OF,Fr,8,4,2019,14781,Rockford,582
+14,1891698,Zack Jones,P,Jr,9,8,2019,14781,Rockford,582
 35,1992086,Kerrick Jones,P,So,7,1,2019,14781,Rockford,582
 21,1891704,Christian Pearcy,P,Jr,9,7,2019,14781,Rockford,582
 47,2139313,Mark Wimbley,OF,Fr,0,0,2019,14781,Rockford,582
@@ -9939,7 +9939,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 24,2139351,Logan Streit,P,Jr,3,3,2019,14781,Rockford,582
 39,2139314,Tyler Peake,OF,Fr,2,0,2019,14781,Rockford,582
 12,1992088,Jake Schmollinger,P,So,9,1,2019,14781,Rockford,582
-14,1891698,Zack Jones,P,Jr,9,8,2019,14781,Rockford,582
+17,2139345,Tj Jones,OF,Fr,8,4,2019,14781,Rockford,582
 31,1891699,Joseph Kmiec,P,Jr,12,5,2019,14781,Rockford,582
 15,1992090,Jake Mathews,P,So,5,1,2019,14781,Rockford,582
 32,2139312,Casey Seeley,P,Fr,1,0,2019,14781,Rockford,582
@@ -10504,8 +10504,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 10,2000500,Noah Cross,INF,So,34,34,2019,14781,Northland,1267
 5,1875508,Alex Carey,C,Jr,20,15,2019,14781,Northland,1267
 33,1875512,Ben Matteson,INF,Jr,23,22,2019,14781,Northland,1267
-36,2121135,Ray Jackson,P,Fr,2,0,2019,14781,Lake Erie,2746
 9,1884582,Anthony Jackson,OF,So,42,39,2019,14781,Lake Erie,2746
+36,2121135,Ray Jackson,P,Fr,2,0,2019,14781,Lake Erie,2746
 32,1884581,Aaron Kucia,P,Jr,0,0,2019,14781,Lake Erie,2746
 27,1772001,Ryan Lally,P,Jr,10,3,2019,14781,Lake Erie,2746
 31,1772004,Tyler Hissom,INF,Sr,8,1,2019,14781,Lake Erie,2746
@@ -10932,8 +10932,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 35,1992626,Chris Day,P,So,1,0,2019,14781,N.C. Wesleyan,491
 46,2112148,Jackson Murray,1B,Fr,27,21,2019,14781,N.C. Wesleyan,491
 1,1877030,Kevin Berry,OF,Jr,14,4,2019,14781,N.C. Wesleyan,491
-22,1877023,Nick Beaver,C,Jr,13,10,2019,14781,N.C. Wesleyan,491
 23,1877024,Galen Beaver,P,Jr,8,3,2019,14781,N.C. Wesleyan,491
+22,1877023,Nick Beaver,C,Jr,13,10,2019,14781,N.C. Wesleyan,491
 26,2112124,Grant Bartlett,P,Fr,5,2,2019,14781,N.C. Wesleyan,491
 16,1764665,Chris Aubry,2B,Sr,14,4,2019,14781,N.C. Wesleyan,491
 19,1764659,Logan Andrews,OF,Sr,38,38,2019,14781,N.C. Wesleyan,491
@@ -10983,8 +10983,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 21,2156783,Keaton Wort,OF,Fr,0,0,2019,14781,Greenville,1111
 31,1892294,Joe Wood,P,Sr,17,17,2019,14781,Greenville,1111
 44,1892171,Klaiton Wolff,3B,Jr,32,32,2019,14781,Greenville,1111
-18,2005478,Lukas Whitten,P,So,11,4,2019,14781,Greenville,1111
 4,1771724,Isaac Whitten,OF,Sr,14,2,2019,14781,Greenville,1111
+18,2005478,Lukas Whitten,P,So,11,4,2019,14781,Greenville,1111
 6,1892310,Andrew Torbeck,INF,Jr,37,37,2019,14781,Greenville,1111
 2,2004521,Ryan Taylor,PH,So,39,39,2019,14781,Greenville,1111
 11,2141074,Matthew Schroeder,INF,Fr,23,19,2019,14781,Greenville,1111
@@ -11024,7 +11024,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 36,2117503,Mike Pyers,P,Fr,10,0,2019,14781,Norfolk St.,485
 35,2117496,Nick Wimmers,C,Fr,11,1,2019,14781,Norfolk St.,485
 23,1989992,Alsander Womack,INF,So,42,42,2019,14781,Norfolk St.,485
-18,1652733,Trey Hanchey,P,Sr,18,0,2019,14781,Norfolk St.,485
+14,2140892,Ty Hanchey,C,Fr,36,29,2019,14781,Norfolk St.,485
 40,2117491,Kevin Alicea,P,Jr,15,7,2019,14781,Norfolk St.,485
 5,1770894,Chase Anderson,P,Sr,17,14,2019,14781,Norfolk St.,485
 42,1865296,Stephen Baughan,1B,Jr,48,47,2019,14781,Norfolk St.,485
@@ -11038,7 +11038,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 34,2117479,James Deloatch,P,Fr,23,8,2019,14781,Norfolk St.,485
 41,1865300,Tyrin Everette,P,So,9,0,2019,14781,Norfolk St.,485
 30,1989994,Miguel Cameron,OF,So,4,0,2019,14781,Norfolk St.,485
-14,2140892,Ty Hanchey,C,Fr,36,29,2019,14781,Norfolk St.,485
+18,1652733,Trey Hanchey,P,Sr,18,0,2019,14781,Norfolk St.,485
 32,2153364,Francis Vuolo,C,Fr,0,0,2019,14781,Nichols,484
 24,2005958,Alex Stroshine,C,So,15,3,2019,14781,Nichols,484
 13,2150467,Brett Shapiro,OF,Fr,12,2,2019,14781,Nichols,484
@@ -11489,8 +11489,8 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 7,1773776,Kendall Small,1B,Sr,55,53,2019,14781,Wilmington  (CACC),1460
 14,1773780,Brad Scull,OF,Sr,20,11,2019,14781,Wilmington  (CACC),1460
 16,1773781,Brooks Ryan,OF,Jr,38,31,2019,14781,Wilmington  (CACC),1460
-3,1999460,Brett Nowell,UT,So,45,31,2019,14781,Wilmington  (CACC),1460
 26,2143435,Brock Nowell,C,Fr,33,8,2019,14781,Wilmington  (CACC),1460
+3,1999460,Brett Nowell,UT,So,45,31,2019,14781,Wilmington  (CACC),1460
 8,1773777,Frank Nigro,C,Sr,49,46,2019,14781,Wilmington  (CACC),1460
 23,2143457,Eddie Nevins,C,Jr,55,54,2019,14781,Wilmington  (CACC),1460
 11,1999487,Tyler Campbell,P,So,9,5,2019,14781,Wilmington  (CACC),1460
@@ -11668,14 +11668,14 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 47,2138573,Ben Koff,P,Jr,8,3,2019,14781,South Fla.,651
 17,1973640,Baron Stuart,P,So,10,10,2019,14781,South Fla.,651
 30,2138567,Matt Marini,P,Jr,8,0,2019,14781,South Fla.,651
-10,1973641,Jake Sullivan,C,So,45,41,2019,14781,South Fla.,651
+15,1873084,Collin Sullivan,P,Jr,14,14,2019,14781,South Fla.,651
 3,1973654,Jordan Feist,INF,Sr,28,1,2019,14781,South Fla.,651
 16,2138562,Nelson Alvarez,P,Jr,23,0,2019,14781,South Fla.,651
 33,2138568,Alex Bello,INF,Fr,40,30,2019,14781,South Fla.,651
 42,2138575,Austin Bodrato,OF,Jr,49,44,2019,14781,South Fla.,651
 6,2138525,Dylan Buck,INF,Fr,25,18,2019,14781,South Fla.,651
 12,1754209,Dylan Burns,P,Jr,21,5,2019,14781,South Fla.,651
-15,1873084,Collin Sullivan,P,Jr,14,14,2019,14781,South Fla.,651
+10,1973641,Jake Sullivan,C,So,45,41,2019,14781,South Fla.,651
 24,1754204,Chris Chatfield,OF,Sr,49,45,2019,14781,South Fla.,651
 37,1973656,Richie Cruz,P,Sr,19,1,2019,14781,South Fla.,651
 38,1754205,Tyler Dietrich,C,Sr,48,44,2019,14781,South Fla.,651
@@ -11767,7 +11767,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 2,1756136,Hayden Houts,C,Jr,45,45,2019,14781,Northern St.,1266
 10,1987560,Jeffery Disla,INF,Sr,35,21,2019,14781,Northern St.,1266
 24,2145229,Cody Curfman,P,Jr,12,11,2019,14781,Northern St.,1266
-17,1641312,Luke Chevalier,P,Sr,12,10,2019,14781,Northern St.,1266
+5,1987559,Isaiah Chevalier,INF,Fr,30,30,2019,14781,Northern St.,1266
 18,1987600,Tyler Jones,P,Jr,19,0,2019,14781,Northern St.,1266
 39,1890398,Ben Carolin,INF,Jr,0,0,2019,14781,Northern St.,1266
 16,1987599,Justin Barreneche,OF,Sr,38,38,2019,14781,Northern St.,1266
@@ -11777,7 +11777,7 @@ No,2122748,Keanu Calamayan,INF,Jr,0,0,2019,14781,Bemidji St.,54
 25,1756161,Tyler Hair,INF,Jr,10,2,2019,14781,Northern St.,1266
 RS,2145235,Ryan Greene,OF,,0,0,2019,14781,Northern St.,1266
 45,2145217,Nick Graham,P,Fr,1,0,2019,14781,Northern St.,1266
-5,1987559,Isaiah Chevalier,INF,Fr,30,30,2019,14781,Northern St.,1266
+17,1641312,Luke Chevalier,P,Sr,12,10,2019,14781,Northern St.,1266
 28,1987602,Holt Hunziker,P,Sr,8,2,2019,14781,Northern St.,1266
 RS,2145233,Alex Gauer,3B,,0,0,2019,14781,Northern St.,1266
 42,2145231,Bryce Krattiger,OF,Jr,3,0,2019,14781,Northern St.,1266
@@ -11793,7 +11793,7 @@ RS,2145234,Mitchell Tolk,3B,,0,0,2019,14781,Northern St.,1266
 26,1987606,Andrew Pugliano,P,Fr,1,0,2019,14781,Northern St.,1266
 23,2145228,John Poldberg,P,Jr,25,0,2019,14781,Northern St.,1266
 8,1890417,Noah Vreeman,1B,So,6,3,2019,14781,Northern St.,1266
-9,1890414,Carter Paulson,INF,So,1,0,2019,14781,Northern St.,1266
+RS,2145232,Jack Paulson,INF,,0,0,2019,14781,Northern St.,1266
 13,2143974,Niko Pezonella,C,Fr,18,6,2019,14781,Northern St.,1266
 RS,2145238,Brandon Kusler,OF,,0,0,2019,14781,Northern St.,1266
 12,2143972,Spenser Larson,OF,Jr,40,31,2019,14781,Northern St.,1266
@@ -11801,14 +11801,14 @@ RS,2145238,Brandon Kusler,OF,,0,0,2019,14781,Northern St.,1266
 4,1987605,Zachery Lanier,INF,Fr,2,0,2019,14781,Northern St.,1266
 RS,2145236,Nathan Martinson,P,,0,0,2019,14781,Northern St.,1266
 35,1987603,Sam Mcmacken,INF,So,39,30,2019,14781,Northern St.,1266
-RS,2145232,Jack Paulson,INF,,0,0,2019,14781,Northern St.,1266
+9,1890414,Carter Paulson,INF,So,1,0,2019,14781,Northern St.,1266
 6,1890395,Jordan Malainey,OF,Jr,13,5,2019,14781,Northern St.,1266
 RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 32,1765950,Blaine Mcray,C,Sr,35,35,2019,14781,McMurry,8530
 13,2002230,Devin Molina,SS,So,22,6,2019,14781,McMurry,8530
 37,2158981,Mark Navarro,ph,,1,0,2019,14781,McMurry,8530
-23,2131519,Evan Perez,1B,Fr,9,5,2019,14781,McMurry,8530
 7,2131475,Joseph Perez,P,Jr,13,0,2019,14781,McMurry,8530
+23,2131519,Evan Perez,1B,Fr,9,5,2019,14781,McMurry,8530
 21,1765952,J.P. Poe,P,Jr,12,8,2019,14781,McMurry,8530
 17,2131509,Ethan Schmidt,2B,Fr,2,1,2019,14781,McMurry,8530
 12,1896659,Chris Lewis,P,Jr,14,3,2019,14781,McMurry,8530
@@ -12010,8 +12010,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 37.0,2153201,Nick Cona,P,Jr,5,0,2019,14781,Pace,533
 7.0,1880275,Noah Clement,2B,Jr,33,32,2019,14781,Pace,533
 27.0,2006260,Felix Camacho,DH,Sr,20,7,2019,14781,Pace,533
-98.0,2149591,J C,UT,Sr,0,0,2019,14781,Pace,533
 99.0,2149590,N C,UT,Sr,0,0,2019,14781,Pace,533
+98.0,2149591,J C,UT,Sr,0,0,2019,14781,Pace,533
 42.0,2005633,Alex Busby,RF,Sr,10,10,2019,14781,Pace,533
 15.0,1885173,Brian Bohlander,INF,Jr,45,44,2019,14781,Pace,533
 2.0,2005647,Matt Bass,SS,So,33,28,2019,14781,Pace,533
@@ -12194,7 +12194,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 44,2123450,Sam Edgell,OF,Fr,44,44,2019,14781,Otterbein,531
 40,2123461,Travis Engard,P,Fr,12,8,2019,14781,Otterbein,531
 52,2123483,Christian George,UT,Fr,1,0,2019,14781,Otterbein,531
-2,1986857,Tommy Murphy,C,Jr,0,0,2019,14781,Otterbein,531
+34,1775936,Jaryd Murphy,P,Sr,15,0,2019,14781,Otterbein,531
 3,1877855,James Pearce,C,Jr,0,0,2019,14781,Otterbein,531
 31,2123456,Gino Pierro,2B,Fr,6,1,2019,14781,Otterbein,531
 38,2123459,Zach Pommier,SS,Fr,13,6,2019,14781,Otterbein,531
@@ -12233,7 +12233,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 47,1986885,Patrick Mcfarland,OF,So,5,0,2019,14781,Otterbein,531
 25,1877850,Mason Mcgee,C,Jr,0,0,2019,14781,Otterbein,531
 33,1986851,Nick Meyer,C,So,9,2,2019,14781,Otterbein,531
-34,1775936,Jaryd Murphy,P,Sr,15,0,2019,14781,Otterbein,531
+2,1986857,Tommy Murphy,C,Jr,0,0,2019,14781,Otterbein,531
 51,2123469,Clay Anderson,SS,Fr,0,0,2019,14781,Otterbein,531
 49,2123488,Eric Aufderbeck,P,Fr,0,0,2019,14781,Otterbein,531
 41,1986879,Blake Baldridge,P,So,2,0,2019,14781,Otterbein,531
@@ -12270,8 +12270,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 18,1988653,Brando Centrone,P,Sr,0,0,2019,14781,Tusculum,12830
 48,1763141,Chris Cochrane,C,Sr,0,0,2019,14781,Tusculum,12830
 22,1763139,Eamonn Collins,P,Sr,0,0,2019,14781,Tusculum,12830
-43,2129975,Austin Collins,P,Fr,13,0,2019,14781,Tusculum,12830
 31,1990646,Trent Collins,P,So,0,0,2019,14781,Tusculum,12830
+43,2129975,Austin Collins,P,Fr,13,0,2019,14781,Tusculum,12830
 35,2136435,Tyson Beach,ph,,5,1,2019,14781,Tusculum,12830
 19,1896104,Christian Cuba,P,Sr,17,1,2019,14781,Tusculum,12830
 34,1988637,Garrett Dupuis,1B,So,32,22,2019,14781,Tusculum,12830
@@ -12341,8 +12341,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 26,2124827,Trevor Savage,OF,Fr,16,6,2019,14781,Olivet,525
 5,1972228,Logan Sella,UT,So,39,31,2019,14781,Olivet,525
 25,1972229,Brandan Settles,OF,Jr,32,32,2019,14781,Olivet,525
-27,1972193,Bruce Allen,INF,So,25,9,2019,14781,Olivet,525
 34,2124831,Jake Allen,C,Fr,14,11,2019,14781,Olivet,525
+27,1972193,Bruce Allen,INF,So,25,9,2019,14781,Olivet,525
 8,1972162,Riley Bennett,INF,Jr,40,40,2019,14781,Olivet,525
 47,1862737,Brandon Bode,P,Jr,0,0,2019,14781,Olivet,525
 31,2124830,Jake Buchs,P,Fr,3,1,2019,14781,Olivet,525
@@ -12519,7 +12519,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 35,1990522,Isaiah Lewis,DH,Sr,0,0,2019,14781,Erskine,1072
 32,1884072,Jake Bennett,C,Jr,0,0,2019,14781,Erskine,1072
 40,1878466,Ian Kimbrell,P,Sr,0,0,2019,14781,Erskine,1072
-3,1993864,Justin Brasher,PH/SS,So,0,0,2019,14781,Erskine,1072
+30,2007685,Brandon Brasher,P,Jr,0,0,2019,14781,Erskine,1072
 28,1763175,Alex Calvert,P,Sr,17,14,2019,14781,Erskine,1072
 29,2130214,Corey Cannon,p,Fr,6,0,2019,14781,Erskine,1072
 14,1878416,Zach Carter,P,Jr,14,8,2019,14781,Erskine,1072
@@ -12548,7 +12548,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 27,1763119,Trevor Wood,DH,Jr,38,31,2019,14781,Erskine,1072
 43,1878409,Mike Webb,1B,Jr,0,0,2019,14781,Erskine,1072
 41,1650617,Zack Bowers,P,Sr,13,13,2019,14781,Erskine,1072
-30,2007685,Brandon Brasher,P,Jr,0,0,2019,14781,Erskine,1072
+3,1993864,Justin Brasher,PH/SS,So,0,0,2019,14781,Erskine,1072
 23,1990510,Drew Yniesta,RF,So,49,49,2019,14781,Erskine,1072
 1,1864237,Andrew Verbrugge,P,Jr,12,12,2019,14781,Hillsdale,280
 40,1978501,David Toth,P,So,18,3,2019,14781,Hillsdale,280
@@ -12594,8 +12594,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 14,2144806,Sean Morris,,Jr,9,4,2019,14781,Utica,733
 35,2003045,Ryan Mulholland,INF,Jr,11,3,2019,14781,Utica,733
 99,2002961,R P,UT,Sr,0,0,2019,14781,Utica,733
-2,1894686,Ryan Palmer,SS,Jr,34,30,2019,14781,Utica,733
 32,2144797,Nate Palmer,,Fr,17,15,2019,14781,Utica,733
+2,1894686,Ryan Palmer,SS,Jr,34,30,2019,14781,Utica,733
 13,2003040,Joe Palmieri,OF,So,9,0,2019,14781,Utica,733
 55,2144810,Jake Probst,,So,0,0,2019,14781,Utica,733
 9,1779594,Tim Quinlan,INF,Sr,39,38,2019,14781,Utica,733
@@ -12956,8 +12956,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 28,1990607,Mac Callari,P,So,10,0,2019,14781,Wingate,1462
 11,2134045,Dominic Byers,INF,Fr,0,0,2019,14781,Wingate,1462
 12,1990596,Jed Bryant,PH/C,So,52,52,2019,14781,Wingate,1462
-41,2134077,Cameron Allen,P,Jr,0,0,2019,14781,Wingate,1462
 99,2134075,Andrew Allen,P,Fr,0,0,2019,14781,Wingate,1462
+41,2134077,Cameron Allen,P,Jr,0,0,2019,14781,Wingate,1462
 35,2134098,Adam Tulloch,P,Fr,15,9,2019,14781,Wingate,1462
 2,1766041,Austin Turgeon,INF,Sr,10,10,2019,14781,Wingate,1462
 5,1890181,Tyler Vaughn,INF,Jr,0,0,2019,14781,Wingate,1462
@@ -12985,8 +12985,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 40,2134083,Tommy Mccollum,INF,Fr,20,0,2019,14781,Wingate,1462
 18,1779497,Joseph Mason,OF,Jr,0,0,2019,14781,Wingate,1462
 8,1766040,Andrew Llewellyn,C,Sr,42,40,2019,14781,Wingate,1462
-13,1881262,Drew Little,OF,Jr,8,0,2019,14781,Wingate,1462
 15,1765195,Zach Little,INF,Sr,50,50,2019,14781,Wingate,1462
+13,1881262,Drew Little,OF,Jr,8,0,2019,14781,Wingate,1462
 23,1890183,Gavin Taylor,OF,Jr,0,0,2019,14781,Wingate,1462
 37,2134082,Parker Ledford,OF,Fr,0,0,2019,14781,Wingate,1462
 39,2134081,Austin Johnson,P,Fr,0,0,2019,14781,Wingate,1462
@@ -13196,9 +13196,9 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 36,2148259,J. Best,1b,,1,0,2019,14781,Guilford,1112
 27,1753052,Bryce Best,INF,Sr,9,2,2019,14781,Guilford,1112
 33,2117259,Austin Bailey,INF,Fr,29,16,2019,14781,Guilford,1112
-12,1877652,Caleb Smith,INF,Jr,16,7,2019,14781,Guilford,1112
-1,1877651,Brody Holloman,P,Jr,13,0,2019,14781,Guilford,1112
 23,2118844,Matt Smith,P,Fr,9,0,2019,14781,Guilford,1112
+1,1877651,Brody Holloman,P,Jr,13,0,2019,14781,Guilford,1112
+12,1877652,Caleb Smith,INF,Jr,16,7,2019,14781,Guilford,1112
 24,2128699,Dan Buchanan,C,Fr,20,18,2019,14781,MCLA,486
 13,1990094,Tyler Cowdrey,2B,So,0,0,2019,14781,MCLA,486
 25,2128700,Marco Dinicola,OF,Fr,17,7,2019,14781,MCLA,486
@@ -13541,7 +13541,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 8,2116010,Stone Pellegrino,INF,So,30,22,2019,14781,USC Upstate,10411
 34,2116026,Julian Rip,OF,Jr,47,46,2019,14781,USC Upstate,10411
 28,2116015,Kyle Schmitt,P,Jr,19,13,2019,14781,USC Upstate,10411
-11,2116011,Jason Matthews,INF,Jr,49,48,2019,14781,USC Upstate,10411
+39,1991910,Caleb Matthews,P,Sr,24,0,2019,14781,USC Upstate,10411
 14,2116012,Stone Stephenson,INF,Jr,32,23,2019,14781,USC Upstate,10411
 20,1991670,Mason Stewart,UT,So,0,0,2019,14781,USC Upstate,10411
 19,1991669,Jeff Taylor,OF,So,42,32,2019,14781,USC Upstate,10411
@@ -13549,7 +13549,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 3,2115994,Griffin Zito,UT,Fr,20,11,2019,14781,USC Upstate,10411
 44,1880985,Will Wheeler,P,Jr,18,0,2019,14781,USC Upstate,10411
 9,1643971,J.J. Shimko,OF,Sr,45,42,2019,14781,USC Upstate,10411
-39,1991910,Caleb Matthews,P,Sr,24,0,2019,14781,USC Upstate,10411
+11,2116011,Jason Matthews,INF,Jr,49,48,2019,14781,USC Upstate,10411
 23,2115980,Ty Watts,P,Fr,0,0,2019,14781,USC Upstate,10411
 4,1991667,Zachary Lea,UT,So,0,0,2019,14781,USC Upstate,10411
 2,1991664,Andres Kim,INF,Sr,48,45,2019,14781,USC Upstate,10411
@@ -13601,8 +13601,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 11,1883130,Tim Casey,SS,Jr,0,0,2019,14781,Ashland,35
 14,2002607,Josh Stover,P,So,17,12,2019,14781,Ashland,35
 27,2005655,Elmer Sosa,C,Sr,0,0,2019,14781,Ashland,35
-24,1883137,Josh Smith,P,Jr,28,1,2019,14781,Ashland,35
 5,2002591,Dillan Smith,PH/3B,So,61,57,2019,14781,Ashland,35
+24,1883137,Josh Smith,P,Jr,28,1,2019,14781,Ashland,35
 32,1761356,Chris Slavik,P,Sr,29,0,2019,14781,Ashland,35
 15,1761359,Tyler Seymour,1B,Sr,0,0,2019,14781,Ashland,35
 46,2150796,Seth Schroeder,ph,Fr,22,11,2019,14781,Ashland,35
@@ -13744,8 +13744,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 35,2137727,Wyatt Tucker,P,Jr,10,1,2019,14781,UC Davis,108
 31,2137726,Jake Spillane,P,Fr,14,9,2019,14781,UC Davis,108
 41,2137729,Justin Smith,P,Jr,4,0,2019,14781,UC Davis,108
-33,2137743,Alec Smith,OF,Jr,14,5,2019,14781,UC Davis,108
 15,2137742,Jalen Smith,INF,Fr,34,27,2019,14781,UC Davis,108
+33,2137743,Alec Smith,OF,Jr,14,5,2019,14781,UC Davis,108
 26,1996880,Jared Sasaki,P,So,0,0,2019,14781,UC Davis,108
 25,1996903,Ryan Rodriguez,P,So,7,0,2019,14781,UC Davis,108
 30,2137731,Nathan Peng,C,Fr,10,0,2019,14781,UC Davis,108
@@ -13856,8 +13856,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 49.0,2133722,Foster Olson,P,Fr,4,2,2019,14781,Sewanee,652
 43.0,2133680,Grayson Nix,P,Fr,0,0,2019,14781,Sewanee,652
 8.0,1771388,Andrew Naspinski,P,Sr,10,1,2019,14781,Sewanee,652
-31.0,1989418,Sam Murray,P,So,4,0,2019,14781,Sewanee,652
 3.0,1879706,Max Murray,3B,Jr,26,21,2019,14781,Sewanee,652
+31.0,1989418,Sam Murray,P,So,4,0,2019,14781,Sewanee,652
 15.0,1879701,Chris Mcnulty,INF,Jr,40,40,2019,14781,Sewanee,652
 11.0,1771394,Danny Mcdonnell,P,Sr,15,1,2019,14781,Sewanee,652
 42.0,2133719,Sully Mccreery,INF,Fr,11,1,2019,14781,Sewanee,652
@@ -13876,8 +13876,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 22,2126154,Malik Sadler,INF,Fr,12,7,2019,14781,Claflin,30058
 23,1881289,Jalen Sprull,OF,Jr,34,31,2019,14781,Claflin,30058
 33,2151869,Shamar Thomas,p,So,2,0,2019,14781,Claflin,30058
-5,1991598,Tavion Towers,INF,So,21,9,2019,14781,Claflin,30058
 11,1753697,Torriun Towers,P,Sr,11,3,2019,14781,Claflin,30058
+5,1991598,Tavion Towers,INF,So,21,9,2019,14781,Claflin,30058
 16,1991609,Cleveland Westbrook,P,Sr,14,7,2019,14781,Claflin,30058
 4,1991504,Hector Rodriquez,INF,So,4,1,2019,14781,Claflin,30058
 27,1991608,Kyriq Woods,INF,So,31,27,2019,14781,Claflin,30058
@@ -14058,11 +14058,11 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 30,2116432,Colin Jones,P,Fr,0,0,2019,14781,Navy,726
 51,1975694,Jared Leins,P,So,13,13,2019,14781,Navy,726
 38,2116411,Jack Murray,P,Fr,0,0,2019,14781,Navy,726
-21,1750148,Liam Lowery,OF,Sr,56,56,2019,14781,Navy,726
+11,1879830,Evan Lowery,OF,Jr,56,55,2019,14781,Navy,726
 26,2116430,Christian Policelli,C,Fr,32,23,2019,14781,Navy,726
 29,2116431,Thomas Graham,INF,Fr,1,0,2019,14781,Navy,726
 36,2116410,Kyle Quinn,P,Fr,0,0,2019,14781,Navy,726
-11,1879830,Evan Lowery,OF,Jr,56,55,2019,14781,Navy,726
+21,1750148,Liam Lowery,OF,Sr,56,56,2019,14781,Navy,726
 24,1975687,Tommy Goodridge,P,So,15,2,2019,14781,Navy,726
 1,2116404,Matt Wolff,UT,Fr,36,19,2019,14781,Navy,726
 5,1975705,Jack Ferguson,P,So,14,0,2019,14781,Navy,726
@@ -14116,7 +14116,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 39,1996269,Lucas Diemeke,INF,Sr,12,4,2019,14781,McKendree,30138
 23,2142842,Nick Beeler,p,Fr,18,3,2019,14781,McKendree,30138
 31,2142793,Cal Kossina,ph,Jr,27,15,2019,14781,McKendree,30138
-36,1773827,Noah Kraljev,P,Sr,0,0,2019,14781,McKendree,30138
+31,1996285,Jordan Kraljev,P,So,0,0,2019,14781,McKendree,30138
 8,1658724,Logan Zachry,P,Jr,13,0,2019,14781,McKendree,30138
 13,1996288,Andrew Yancik,P,So,12,4,2019,14781,McKendree,30138
 37,1887563,Jordan Wojtak,INF,Jr,0,0,2019,14781,McKendree,30138
@@ -14127,7 +14127,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 40,1996270,Lucas Vallandingham,P,So,10,0,2019,14781,McKendree,30138
 4,2142843,Jared Timmermann,p,Jr,12,10,2019,14781,McKendree,30138
 33,1996286,Jack Strieker,P,So,0,0,2019,14781,McKendree,30138
-31,1996285,Jordan Kraljev,P,So,0,0,2019,14781,McKendree,30138
+36,1773827,Noah Kraljev,P,Sr,0,0,2019,14781,McKendree,30138
 4,1996254,Evan Spears,P,So,0,0,2019,14781,McKendree,30138
 25,1996263,Hayden Schaefer,UT,So,34,34,2019,14781,McKendree,30138
 24,2142814,Jordan Richardson,lf,So,37,31,2019,14781,McKendree,30138
@@ -14215,8 +14215,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 29,2147790,Matt Pallotta,p,Jr,12,0,2019,14781,Gwynedd Mercy,12399
 12,1883620,Jacee Orta,INF,Jr,0,0,2019,14781,Gwynedd Mercy,12399
 23,1775298,Tommy Nardini,C,Sr,29,26,2019,14781,Gwynedd Mercy,12399
-16,1658175,Jason Mulvey,OF,Sr,35,35,2019,14781,Gwynedd Mercy,12399
 17,1775290,Nick Mulvey,3B,Sr,36,36,2019,14781,Gwynedd Mercy,12399
+16,1658175,Jason Mulvey,OF,Sr,35,35,2019,14781,Gwynedd Mercy,12399
 26,1781541,Evan Miller,1B,Sr,22,8,2019,14781,Gwynedd Mercy,12399
 9,2004516,Mcgrody,P,So,0,0,2019,14781,Gwynedd Mercy,12399
 7,1775295,Sachael Sciarretta,P,Sr,36,36,2019,14781,Gwynedd Mercy,12399
@@ -14629,8 +14629,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 8,1997143,Cam Meyer,INF,So,0,0,2019,14781,Holy Cross,285
 13,1997178,Evan Blum,C,So,49,40,2019,14781,Holy Cross,285
 30,1994830,Joseph Rizzo,INF,So,40,40,2019,14781,Penn St.-Abington,30114
-15,1884122,Jon Rivera,C,Jr,0,0,2019,14781,Penn St.-Abington,30114
 17,1994819,Ariel Rivera,P,So,7,0,2019,14781,Penn St.-Abington,30114
+15,1884122,Jon Rivera,C,Jr,0,0,2019,14781,Penn St.-Abington,30114
 37,1994810,Michael Riley,P,So,0,0,2019,14781,Penn St.-Abington,30114
 10,1884117,Dicky Rhoads,INF,Jr,0,0,2019,14781,Penn St.-Abington,30114
 44,1884123,Sean O'Connor,P,Jr,0,0,2019,14781,Penn St.-Abington,30114
@@ -14798,7 +14798,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 23,1871710,Jonathan Willoughby,INF,Jr,36,36,2019,14781,Anderson  (HCAC),939
 21,1871697,Adam Paschal,C,Jr,30,30,2019,14781,Anderson  (HCAC),939
 10,1982182,Dean Coulter,1B,Sr,0,0,2019,14781,Anderson  (HCAC),939
-17,1871695,Kennedy Parker,P,Jr,11,6,2019,14781,Anderson  (HCAC),939
+24,1871696,Thomas Parker,P,Jr,36,36,2019,14781,Anderson  (HCAC),939
 4,1982161,Dustin Dowden,UT,So,1,0,2019,14781,Anderson  (HCAC),939
 50,1982203,M.J. Furnish,C,So,18,13,2019,14781,Anderson  (HCAC),939
 41,2147932,Kyle Gardner,p,,6,2,2019,14781,Anderson  (HCAC),939
@@ -14817,7 +14817,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 1,1871680,Bradley Meade,OF,Jr,0,0,2019,14781,Anderson  (HCAC),939
 27,1871681,Joe Moran,P,Jr,37,37,2019,14781,Anderson  (HCAC),939
 37,2147933,Chandler Wise,p,,7,2,2019,14781,Anderson  (HCAC),939
-24,1871696,Thomas Parker,P,Jr,36,36,2019,14781,Anderson  (HCAC),939
+17,1871695,Kennedy Parker,P,Jr,11,6,2019,14781,Anderson  (HCAC),939
 42,1982157,Bennie Day,OF,So,19,0,2019,14781,Anderson  (HCAC),939
 40,1871624,Cooper Cox,P,Jr,0,0,2019,14781,Anderson  (HCAC),939
 23.0,2134092,Erick Aguirre,C,Jr,35,35,2019,14781,Ozarks  (ASC),23008
@@ -14882,8 +14882,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 6,1779229,Brendon Fischel,INF,Sr,32,29,2019,14781,Carleton,118
 14,2156682,Vince Cone,1B,Fr,16,12,2019,14781,Carleton,118
 41,2004003,Dan Clipper,P,So,6,2,2019,14781,Carleton,118
-7,2156841,Cam Brown,OF,Fr,7,6,2019,14781,Carleton,118
 13,2004002,Travis Brown,P,So,27,18,2019,14781,Carleton,118
+7,2156841,Cam Brown,OF,Fr,7,6,2019,14781,Carleton,118
 45,1889174,Wilson Battle,P,Jr,30,29,2019,14781,Carleton,118
 18,2004000,Blake Anderson,P,So,22,16,2019,14781,Carleton,118
 4,2156725,Jacob Smith,C,Fr,13,9,2019,14781,Carleton,118
@@ -15094,9 +15094,9 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 4,2129413,Zach Pych,INF,Jr,34,29,2019,14781,Missouri Western,9013
 27,1978045,Jake Purl,P,Sr,15,12,2019,14781,Missouri Western,9013
 9,2129394,Nolan Monthei,UT,Jr,25,14,2019,14781,Missouri Western,9013
-11,1987553,Michael Miller,C,Jr,15,4,2019,14781,Missouri Western,9013
-18,2129416,Josh Miller,P,Jr,14,0,2019,14781,Missouri Western,9013
 21,1987578,Jacob Miller,P,Sr,12,6,2019,14781,Missouri Western,9013
+18,2129416,Josh Miller,P,Jr,14,0,2019,14781,Missouri Western,9013
+11,1987553,Michael Miller,C,Jr,15,4,2019,14781,Missouri Western,9013
 33,1979261,Wyatt Meyer,C,Sr,40,30,2019,14781,Missouri Western,9013
 5,1987552,Nolan Meyer,OF,Sr,0,0,2019,14781,Missouri Western,9013
 16,1883946,Andrew Meier,OF,Jr,0,0,2019,14781,Missouri Western,9013
@@ -15341,18 +15341,18 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 28,2153204,Alex Kennedy,lf,Fr,38,35,2019,14781,Southern N.H.,468
 14,1892288,Phoenix Hernandez,2B,Jr,27,15,2019,14781,Southern N.H.,468
 2,2136351,Dylan Faircloth,DH,Jr,39,36,2019,14781,Southern N.H.,468
-22,1871480,Marcus Chavez,C,Fr,29,24,2019,14781,Southern N.H.,468
-8,1896655,Jake Coro,2B,Jr,46,41,2019,14781,Southern N.H.,468
-27,2158064,W. Lahey,p,,1,0,2019,14781,Southern N.H.,468
 38,1892131,Nick Camilleri,C,Sr,0,0,2019,14781,Southern N.H.,468
+22,1871480,Marcus Chavez,C,Fr,29,24,2019,14781,Southern N.H.,468
+27,2158064,W. Lahey,p,,1,0,2019,14781,Southern N.H.,468
 7,1892132,Tom Blandini,SS,Jr,50,49,2019,14781,Southern N.H.,468
 23,2155183,Samuel Auray,c,Fr,3,0,2019,14781,Southern N.H.,468
 26,2154434,Nick Assad,ph,Fr,1,0,2019,14781,Southern N.H.,468
 27,1892299,Nick Artymowicz,P,Jr,0,0,2019,14781,Southern N.H.,468
 5,1780622,Kevin Alexy,1B,Sr,33,28,2019,14781,Southern N.H.,468
+10,1885507,Brian Eddy,P,So,3,3,2019,14781,Southern N.H.,468
 24,2146834,Joshua Eastman,p,Fr,6,0,2019,14781,Southern N.H.,468
 19,2002570,Sean Doherty,PH/3B,Fr,34,27,2019,14781,Southern N.H.,468
-10,1885507,Brian Eddy,P,So,3,3,2019,14781,Southern N.H.,468
+8,1896655,Jake Coro,2B,Jr,46,41,2019,14781,Southern N.H.,468
 24,2011745,Stephen Lemieux,P,So,2,0,2019,14781,Southern N.H.,468
 12,1892133,Zachary Merchant,P,Jr,4,0,2019,14781,Southern N.H.,468
 13,1894742,Hayden Manning,P,Sr,15,0,2019,14781,Southern N.H.,468
@@ -15565,8 +15565,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 26.0,2153175,Nick Cecchi,c,Fr,2,0,2019,14781,North Park,496
 37.0,1981940,Chad Christel,INF,So,0,0,2019,14781,North Park,496
 47.0,2141057,Zach Cole,2b,Jr,14,4,2019,14781,North Park,496
-15.0,1892504,Andrew Davis,P,Sr,1,1,2019,14781,North Park,496
 14.0,1981942,Brandon Davis,OF,Jr,33,32,2019,14781,North Park,496
+15.0,1892504,Andrew Davis,P,Sr,1,1,2019,14781,North Park,496
 1.0,1981917,Ryan Denz,INF,So,14,8,2019,14781,North Park,496
 28.0,1782192,Anthony Dinardo,1B,Sr,38,34,2019,14781,North Park,496
 2.0,1895814,Michael Freeze,OF,Jr,14,4,2019,14781,North Park,496
@@ -15574,8 +15574,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 42.0,1896658,Julian Gonzalez,P,Sr,0,0,2019,14781,North Park,496
 45.0,1778802,Cody Leuzinger,P,Sr,5,0,2019,14781,North Park,496
 43.0,1981944,Nolan Lux,OF,Sr,1,0,2019,14781,North Park,496
-41.0,1981941,Brad Maurer,OF,So,24,9,2019,14781,North Park,496
 47.0,1981919,Eric Maurer,INF,So,0,0,2019,14781,North Park,496
+41.0,1981941,Brad Maurer,OF,So,24,9,2019,14781,North Park,496
 18.0,1981938,Jeremy Meger,UT,So,3,0,2019,14781,North Park,496
 46.0,2146468,Ryan Moritsugu,pr,Fr,3,0,2019,14781,North Park,496
 49.0,1766229,Jake Morris,P,Jr,2,0,2019,14781,North Park,496
@@ -15636,8 +15636,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 20,2119308,Bryce Moore,INF,Fr,0,0,2019,14781,Niagara,482
 21,2119286,Cal Theal,P,Fr,8,1,2019,14781,Niagara,482
 9,2112297,Kaden Kirby,P,Fr,13,5,2019,14781,Harding,1116
-11,2112299,Carter Mccall,P,Fr,2,0,2019,14781,Harding,1116
 30,1874228,Logan Mccall,P,Jr,15,14,2019,14781,Harding,1116
+11,2112299,Carter Mccall,P,Fr,2,0,2019,14781,Harding,1116
 32,1874229,Connor Mcvay,P,Sr,0,0,2019,14781,Harding,1116
 6,1756871,Matt Sherry,P,Sr,8,2,2019,14781,Harding,1116
 14,1999625,Brendan Perrett,C,So,50,44,2019,14781,Harding,1116
@@ -15691,7 +15691,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 46,2134731,Jordan Blick,INF,So,0,0,2019,14781,Ky. Wesleyan,333
 47,2134732,Seth Bennett,OF,Fr,6,0,2019,14781,Ky. Wesleyan,333
 19,2134697,Brady Austin,P,So,7,1,2019,14781,Ky. Wesleyan,333
-26,2134701,Jonathan Allen,P,Fr,2,0,2019,14781,Ky. Wesleyan,333
+24,1765982,Zach Allen,1B,Sr,18,5,2019,14781,Ky. Wesleyan,333
 50,2134733,Nate Cunningham,P,Fr,2,0,2019,14781,Ky. Wesleyan,333
 17,1766005,Mitchell Jones,P,Sr,9,3,2019,14781,Ky. Wesleyan,333
 5,1883136,Wes King,P,Sr,2,0,2019,14781,Ky. Wesleyan,333
@@ -15720,7 +15720,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 54,2134736,Brennen Krahwinkel,P,So,0,0,2019,14781,Ky. Wesleyan,333
 44,2134730,Lane Kirkland,INF,Jr,26,17,2019,14781,Ky. Wesleyan,333
 20,2134698,Drake Poland,P,Fr,0,0,2019,14781,Ky. Wesleyan,333
-24,1765982,Zach Allen,1B,Sr,18,5,2019,14781,Ky. Wesleyan,333
+26,2134701,Jonathan Allen,P,Fr,2,0,2019,14781,Ky. Wesleyan,333
 1.0,2149812,Sam Pinckert,INF,Fr,36,35,2019,14781,Muskingum,455
 36.0,2151103,Jake Norris,P,Fr,11,11,2019,14781,Muskingum,455
 26.0,2149980,Craig Nixon,P,Fr,11,7,2019,14781,Muskingum,455
@@ -15956,8 +15956,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 31.0,2152230,Charlie Estes,P,Fr,1,0,2019,14781,Amherst,24
 33.0,1896099,Rob Casey Iii,DH,Jr,13,11,2019,14781,Amherst,24
 15.0,1895679,Will Murphy,OF,Jr,23,18,2019,14781,Amherst,24
-8.0,2007822,Topher Brown,OF,Jr,12,8,2019,14781,Amherst,24
 18.0,1895707,Davis Brown,P,Sr,8,8,2019,14781,Amherst,24
+8.0,2007822,Topher Brown,OF,Jr,12,8,2019,14781,Amherst,24
 17.0,2012766,Jordan Aucion,P,So,1,0,2019,14781,Amherst,24
 51.0,1872556,Jack Harlan,P,Jr,7,0,2019,14781,Amherst,24
 20.0,2007819,Stephen Burke,SS,So,31,30,2019,14781,Amherst,24
@@ -15999,8 +15999,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 24.0,1987188,Cameron Dean,OF,Sr,14,1,2019,14781,Rockhurst,1328
 22.0,1987166,Tyler Crouse,P,So,0,0,2019,14781,Rockhurst,1328
 44.0,1987170,Brandt Callahan,1B,So,20,5,2019,14781,Rockhurst,1328
-7.0,1987169,Jack Burns,SS,So,28,14,2019,14781,Rockhurst,1328
 21.0,1987173,Jim Burns,OF,So,4,0,2019,14781,Rockhurst,1328
+7.0,1987169,Jack Burns,SS,So,28,14,2019,14781,Rockhurst,1328
 47.0,2120806,Jacob Anderson,P,Fr,7,1,2019,14781,Rockhurst,1328
 17.0,2120801,Anthony Altobella,OF,Fr,0,0,2019,14781,Rockhurst,1328
 14.0,1987171,Nathan Mark,3B,So,43,41,2019,14781,Rockhurst,1328
@@ -16155,8 +16155,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 30,1778741,Travis Stevens,1B,Sr,29,19,2019,14781,Mary,30075
 32,1881339,James Swofford,P,Jr,0,0,2019,14781,Mary,30075
 2,2148831,Chris Thedinga,2b,Fr,13,8,2019,14781,Mary,30075
-41,2149618,Tyler Thomas,ph,Fr,5,3,2019,14781,Mary,30075
 5,2158990,Dylan Thomas,ph,Sr,3,2,2019,14781,Mary,30075
+41,2149618,Tyler Thomas,ph,Fr,5,3,2019,14781,Mary,30075
 41,1780247,Keegan Thompson,INF,Sr,0,0,2019,14781,Mary,30075
 32,2151325,Daniel Turner,p,Fr,8,5,2019,14781,Mary,30075
 11,2148830,Braeton Wixo,ss,Fr,30,26,2019,14781,Mary,30075
@@ -16266,8 +16266,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 7,2125410,Rylee Mcgee,C,So,22,16,2019,14781,Howard Payne,2741
 24,1667094,Zach Moseley,P,Sr,4,0,2019,14781,Howard Payne,2741
 27,1896553,Preston Newman,P,Jr,11,11,2019,14781,Howard Payne,2741
-11,1883684,Seth Owen,P,Sr,7,3,2019,14781,Howard Payne,2741
 43,1893353,Kory Owen,P,Jr,16,0,2019,14781,Howard Payne,2741
+11,1883684,Seth Owen,P,Sr,7,3,2019,14781,Howard Payne,2741
 17,1770711,Noah Payne,INF,Sr,40,39,2019,14781,Howard Payne,2741
 18,2125428,Stephen Prewitt,P,Fr,8,3,2019,14781,Howard Payne,2741
 36,2005434,Kyle Purdes,P,So,14,0,2019,14781,Howard Payne,2741
@@ -16480,14 +16480,14 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 48,2120019,Brett Standlee,P,Fr,20,13,2019,14781,Oklahoma St.,521
 22,1978021,Mitchell Stone,P,Fr,9,5,2019,14781,Oklahoma St.,521
 12,1978026,Carson Mccusker,OF,Jr,52,52,2019,14781,Oklahoma St.,521
-3,1978004,Jake Taylor,C,So,30,16,2019,14781,Oklahoma St.,521
+37,2130535,Riley Taylor,P,Fr,0,0,2019,14781,Oklahoma St.,521
 49,1978049,Ryan Van Leeuwen,P,Sr,0,0,2019,14781,Oklahoma St.,521
 35,1868219,C.J. Varela,P,Jr,10,5,2019,14781,Oklahoma St.,521
 27,1868216,Brady Basso,P,Jr,14,0,2019,14781,Oklahoma St.,521
 55,1868222,Peyton Battenfield,P,Jr,30,0,2019,14781,Oklahoma St.,521
 47,2120017,Adam Becker,INF,Fr,2,0,2019,14781,Oklahoma St.,521
 39,2119995,Brayden Belden,P,Fr,1,0,2019,14781,Oklahoma St.,521
-37,2130535,Riley Taylor,P,Fr,0,0,2019,14781,Oklahoma St.,521
+3,1978004,Jake Taylor,C,So,30,16,2019,14781,Oklahoma St.,521
 1,2130553,Hueston Morrill,INF,Fr,58,57,2019,14781,Oklahoma St.,521
 46,1757505,Joe Lienhard,P,Sr,24,11,2019,14781,Oklahoma St.,521
 52,2120018,Jake Northern,INF,Jr,0,0,2019,14781,Oklahoma St.,521
@@ -16571,8 +16571,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 9,2150347,Ryan Dominick,INF,Fr,34,33,2019,14781,Wis. Lutheran,8911
 1,2150342,Daven Eidem,INF,Fr,10,4,2019,14781,Wis. Lutheran,8911
 35,2150356,Josh Enevold,OF,Fr,6,1,2019,14781,Wis. Lutheran,8911
-49,2150360,Matt Evans,OF,Jr,1,0,2019,14781,Wis. Lutheran,8911
 47,2150359,Ryan Evans,P,Fr,1,0,2019,14781,Wis. Lutheran,8911
+49,2150360,Matt Evans,OF,Jr,1,0,2019,14781,Wis. Lutheran,8911
 33,2007162,Justin Grober,C,So,2,1,2019,14781,Wis. Lutheran,8911
 7,1894060,Brannigan Hart,OF,Jr,35,34,2019,14781,Wis. Lutheran,8911
 40,2150357,Tanner Degrave,C,Fr,1,0,2019,14781,Wis. Lutheran,8911
@@ -16699,8 +16699,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 21,1979471,Alex Gamache,C,So,30,16,2019,14781,Georgetown,251
 12,2116630,Jack Weeks,P,Fr,7,0,2019,14781,Georgetown,251
 28,2116633,Miller Freeman,P,Fr,13,0,2019,14781,Georgetown,251
-14,1979469,Ryan P. Davis,C,So,39,25,2019,14781,Georgetown,251
 3,1868242,Ryan Davis,INF,Jr,54,54,2019,14781,Georgetown,251
+14,1979469,Ryan P. Davis,C,So,39,25,2019,14781,Georgetown,251
 31,1756833,Jack Cushing,P,Sr,15,12,2019,14781,Georgetown,251
 39,1756836,Noah Clark,P,Sr,6,0,2019,14781,Georgetown,251
 40,1868240,Jeremiah Burke,P,Jr,14,14,2019,14781,Georgetown,251
@@ -16740,7 +16740,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 41.0,1980469,Chandler Blackwelder,OF,So,0,0,2019,14781,UNC Pembroke,537
 29.0,1980458,Davis Hurd,P,So,14,5,2019,14781,UNC Pembroke,537
 16.0,1980452,Thomas Durant,P,Sr,0,0,2019,14781,UNC Pembroke,537
-8.0,1770078,Luke Jackson,INF,Sr,48,48,2019,14781,UNC Pembroke,537
+46.0,1980473,Carlton Jackson,P,Fr,0,0,2019,14781,UNC Pembroke,537
 12.0,1767170,Trey Jacobs,INF,Jr,0,0,2019,14781,UNC Pembroke,537
 16.0,2131021,Brandon Winstead,p,Jr,21,2,2019,14781,UNC Pembroke,537
 49.0,1980475,Trenton Walsh,OF,So,2,0,2019,14781,UNC Pembroke,537
@@ -16761,7 +16761,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 13.0,1879812,Jarratt Mobley,3B,Jr,48,48,2019,14781,UNC Pembroke,537
 27.0,1879822,Cole Lovin,P,Jr,0,0,2019,14781,UNC Pembroke,537
 43.0,1980471,Garrett Littleton,C,So,7,0,2019,14781,UNC Pembroke,537
-46.0,1980473,Carlton Jackson,P,Fr,0,0,2019,14781,UNC Pembroke,537
+8.0,1770078,Luke Jackson,INF,Sr,48,48,2019,14781,UNC Pembroke,537
 24.0,1992937,Nile Ball,P,Sr,14,13,2019,14781,UNC Pembroke,537
 2,2139502,Keegan Wenzel,INF,Fr,0,0,2019,14781,Southwest Minn. St.,8736
 1,1781279,Jared Tschetter,P,Sr,0,0,2019,14781,Southwest Minn. St.,8736
@@ -16769,8 +16769,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 21,1894537,Jeremy Stouffer,P,Jr,9,2,2019,14781,Southwest Minn. St.,8736
 14,2139664,Robbie Smith,OF,Fr,21,10,2019,14781,Southwest Minn. St.,8736
 7,1896656,Derek Smith,C,Jr,27,24,2019,14781,Southwest Minn. St.,8736
-29,2139665,Donny Schroeder,P,So,11,0,2019,14781,Southwest Minn. St.,8736
 8,2011487,Spencer Schroeder,P,So,8,7,2019,14781,Southwest Minn. St.,8736
+29,2139665,Donny Schroeder,P,So,11,0,2019,14781,Southwest Minn. St.,8736
 31,2005802,Wes Sarsland,P,So,8,3,2019,14781,Southwest Minn. St.,8736
 17,1894527,Spencer Rudnik,C,Jr,23,16,2019,14781,Southwest Minn. St.,8736
 36,1778319,Cole Petersen,P,Sr,9,8,2019,14781,Southwest Minn. St.,8736
@@ -16788,10 +16788,10 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 12,1778306,Jayden Fleck,SS,Sr,38,38,2019,14781,Southwest Minn. St.,8736
 15,1778310,Justin Clark,P,Sr,2,2,2019,14781,Southwest Minn. St.,8736
 32,2005818,Teddy Broxterman,P,So,14,1,2019,14781,Southwest Minn. St.,8736
-11,2005810,Matt Bezdicek,DH,So,28,25,2019,14781,Southwest Minn. St.,8736
+22,2005801,John Bezdicek,P,So,10,8,2019,14781,Southwest Minn. St.,8736
 6,2005799,Nathan Kuhn,SS,Jr,35,35,2019,14781,Southwest Minn. St.,8736
 34,1894262,Brady Lanoue,PH,Jr,28,28,2019,14781,Southwest Minn. St.,8736
-22,2005801,John Bezdicek,P,So,10,8,2019,14781,Southwest Minn. St.,8736
+11,2005810,Matt Bezdicek,DH,So,28,25,2019,14781,Southwest Minn. St.,8736
 3,2005829,Christopher Berg,PR,So,16,0,2019,14781,Southwest Minn. St.,8736
 13.0,1782127,Nicholas Lepore,OF,Sr,41,40,2019,14781,Hope,286
 23.0,2154890,Keagan Hamilton,p,,6,6,2019,14781,Hope,286
@@ -16805,9 +16805,9 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 30.0,1878564,Jared Blum,SS,Jr,0,0,2019,14781,Hope,286
 19.0,2154886,Dylan Berghorst,P,,10,1,2019,14781,Hope,286
 2.0,1994987,Evan Becker,OF,So,22,3,2019,14781,Hope,286
-9.0,2154885,Grant Barrett,3B,,8,2,2019,14781,Hope,286
-23.0,1878563,Nicholas Holt,P,Sr,0,0,2019,14781,Hope,286
 7.0,1994985,Cal Barrett,C,So,13,2,2019,14781,Hope,286
+23.0,1878563,Nicholas Holt,P,Sr,0,0,2019,14781,Hope,286
+9.0,2154885,Grant Barrett,3B,,8,2,2019,14781,Hope,286
 6.0,2156027,Ethan Willett,P,,7,0,2019,14781,Hope,286
 27.0,2156045,Al Vasquez,P,,4,0,2019,14781,Hope,286
 15.0,1878556,Matt Vandyken,P,Jr,8,1,2019,14781,Hope,286
@@ -16837,8 +16837,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 17,1991638,Tyler Duck,P,Jr,16,3,2019,14781,Ouachita Baptist,1289
 1,1766480,Victor Draijer,3B,Jr,0,0,2019,14781,Ouachita Baptist,1289
 35,2011865,Jacob Crumpler,RF,Jr,12,4,2019,14781,Ouachita Baptist,1289
-7,1991636,Tee Collier,2B,Sr,0,0,2019,14781,Ouachita Baptist,1289
 3,1881476,Tarrod Collier,2B,Jr,0,0,2019,14781,Ouachita Baptist,1289
+7,1991636,Tee Collier,2B,Sr,0,0,2019,14781,Ouachita Baptist,1289
 16,2129980,Hunter Gautreaux,DH,So,39,39,2019,14781,Ouachita Baptist,1289
 15,2142784,M. Buck,p,,1,0,2019,14781,Ouachita Baptist,1289
 13,1770105,Aaron Studdard,PH/3B,Jr,46,46,2019,14781,Ouachita Baptist,1289
@@ -16997,20 +16997,21 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 37,1879038,Josh Leaser,P,Jr,3,0,2019,14781,Air Force,721
 3,1996950,Jonathan Imperial,OF,So,28,4,2019,14781,Air Force,721
 14,1996931,Ben Hauser,UT,So,11,1,2019,14781,Air Force,721
-21,1978582,Kevin Barry,UT,So,17,7,2019,14781,Valparaiso,735
-17,1884409,Michael Hardtke,P,Jr,0,0,2019,14781,Valparaiso,735
+30,1884406,Christian Barczi,C,Jr,25,17,2019,14781,Valparaiso,735
 42,1875007,Jarrett Hammel,P,Jr,20,4,2019,14781,Valparaiso,735
 8,2124031,Zach Fricke,P,Fr,16,9,2019,14781,Valparaiso,735
 9,1884396,Steven Fitzsimmons,OF,Jr,49,45,2019,14781,Valparaiso,735
-22,1884401,Riley Dent,OF,Jr,47,46,2019,14781,Valparaiso,735
-5,2124030,Jeremy Drudge,OF,Fr,36,27,2019,14781,Valparaiso,735
-4,1772559,Patrick Donohue,INF,Sr,24,16,2019,14781,Valparaiso,735
-1,1772558,Chase Dawson,INF,Sr,48,45,2019,14781,Valparaiso,735
-7,1884395,Brent Jones,OF,Sr,48,48,2019,14781,Valparaiso,735
-11,1978577,Josh Currier,P,So,10,0,2019,14781,Valparaiso,735
 26,2124032,Colin Fields,P,Fr,13,9,2019,14781,Valparaiso,735
-2,2124050,Damon Jorgensen,INF,Jr,46,43,2019,14781,Valparaiso,735
+1,1772558,Chase Dawson,INF,Sr,48,45,2019,14781,Valparaiso,735
+4,1772559,Patrick Donohue,INF,Sr,24,16,2019,14781,Valparaiso,735
+22,1884401,Riley Dent,OF,Jr,47,46,2019,14781,Valparaiso,735
+11,1978577,Josh Currier,P,So,10,0,2019,14781,Valparaiso,735
 19,1862174,Jim Jarecki,P,Fr,10,0,2019,14781,Valparaiso,735
+36,1978602,Blake Billinger,UT,Sr,50,50,2019,14781,Valparaiso,735
+5,2124030,Jeremy Drudge,OF,Fr,36,27,2019,14781,Valparaiso,735
+7,1884395,Brent Jones,OF,Sr,48,48,2019,14781,Valparaiso,735
+17,1884409,Michael Hardtke,P,Jr,0,0,2019,14781,Valparaiso,735
+3,2124051,Jake Kapers,C,Fr,36,34,2019,14781,Valparaiso,735
 20,1646365,Mike Kornacker,P,Sr,11,7,2019,14781,Valparaiso,735
 34,1772566,Nick Leaverton,P,Sr,0,0,2019,14781,Valparaiso,735
 19,1884399,James Meyer,P,Jr,3,0,2019,14781,Valparaiso,735
@@ -17021,11 +17022,10 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 14,2124052,Tanner Skidmore,P,Jr,15,0,2019,14781,Valparaiso,735
 28,1884403,Jon Tieman,P,Jr,15,15,2019,14781,Valparaiso,735
 15,1978592,Ryan Wickman,OF,So,23,9,2019,14781,Valparaiso,735
-30,1884406,Christian Barczi,C,Jr,25,17,2019,14781,Valparaiso,735
 27,2124053,Louis Baker,C,Jr,17,13,2019,14781,Valparaiso,735
-36,1978602,Blake Billinger,UT,Sr,50,50,2019,14781,Valparaiso,735
-3,2124051,Jake Kapers,C,Fr,36,34,2019,14781,Valparaiso,735
 33,2124033,Keegan Bates,P,Fr,15,4,2019,14781,Valparaiso,735
+2,2124050,Damon Jorgensen,INF,Jr,46,43,2019,14781,Valparaiso,735
+21,1978582,Kevin Barry,UT,So,17,7,2019,14781,Valparaiso,735
 25,2127504,Michael Garza,P,Fr,22,10,2019,14781,UIW,2743
 27,1997193,Johnny Foral,P,So,16,1,2019,14781,UIW,2743
 13,1997195,Ryan Flores,INF,So,53,49,2019,14781,UIW,2743
@@ -17622,8 +17622,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 15,2001641,Edgar Rodriguez,P,So,9,3,2019,14781,CCNY,480
 33,2145393,Sean Riera,3B,Fr,27,25,2019,14781,CCNY,480
 5,1892483,Stephen Peters,OF,Jr,32,32,2019,14781,CCNY,480
-29,2000668,Chris Moreno,C,So,22,22,2019,14781,CCNY,480
 10,2145376,Josh Moreno,C,Fr,29,29,2019,14781,CCNY,480
+29,2000668,Chris Moreno,C,So,22,22,2019,14781,CCNY,480
 16,1771027,Cal Romano,P,Sr,9,9,2019,14781,CCNY,480
 21,1773236,Josh Meszaros,OF,Sr,17,16,2019,14781,Hanover,1115
 1,1773228,David Herrmann,P,Sr,11,8,2019,14781,Hanover,1115
@@ -17914,8 +17914,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 31,1987224,Cody Rottinghaus,P,Sr,16,7,2019,14781,Fort Hays St.,9011
 3,2131687,Tyler Olson,INF,Jr,39,37,2019,14781,Fort Hays St.,9011
 35,2131713,Taylan Mullins-Ohm,OF,Fr,34,31,2019,14781,Fort Hays St.,9011
-6,2131688,Marcus Mcdaniel,INF,Jr,30,23,2019,14781,Fort Hays St.,9011
 20,2131705,Trae Mcdaniel,OF,Jr,8,4,2019,14781,Fort Hays St.,9011
+6,2131688,Marcus Mcdaniel,INF,Jr,30,23,2019,14781,Fort Hays St.,9011
 25,2131709,Jared Maneth,C,Jr,33,28,2019,14781,Fort Hays St.,9011
 26,2131710,Dylan Jacobs,P,Sr,1,0,2019,14781,Fort Hays St.,9011
 33,1987265,Jared Haynes,INF,So,22,16,2019,14781,Fort Hays St.,9011
@@ -17940,7 +17940,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 33,2155344,Collin Lefeber,2B,So,0,0,2019,14781,Central  (American Rivers),126
 27,1893702,Trevor Kimm,C,Jr,34,33,2019,14781,Central  (American Rivers),126
 26,2155071,John Horner,ph,So,2,0,2019,14781,Central  (American Rivers),126
-1,2153281,Chris Hensley,2b,So,11,0,2019,14781,Central  (American Rivers),126
+29,2155280,Dawson Hensley,C,Fr,0,0,2019,14781,Central  (American Rivers),126
 38,2006020,Connor Blair,P,So,2,0,2019,14781,Central  (American Rivers),126
 5,1776768,Ryan Bouwman,1B,Sr,40,40,2019,14781,Central  (American Rivers),126
 2,1671272,Adam Carey,P,Sr,12,7,2019,14781,Central  (American Rivers),126
@@ -17954,7 +17954,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 39,1776775,Zach Greder,P,Sr,4,0,2019,14781,Central  (American Rivers),126
 4,2006018,Kyle Hauser,UT,So,5,0,2019,14781,Central  (American Rivers),126
 34,1893705,Cole Havlovic,OF,Jr,16,8,2019,14781,Central  (American Rivers),126
-29,2155280,Dawson Hensley,C,Fr,0,0,2019,14781,Central  (American Rivers),126
+1,2153281,Chris Hensley,2b,So,11,0,2019,14781,Central  (American Rivers),126
 7,2005855,Lucas Farren,CF,So,29,25,2019,14781,Central  (American Rivers),126
 19,2006024,Nick Strysik,OF,So,5,1,2019,14781,Central  (American Rivers),126
 21,2006031,Marcus Wenzel,P,So,14,1,2019,14781,Central  (American Rivers),126
@@ -18069,7 +18069,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 11,1998348,Zach Rumfield,P,So,21,2,2019,14781,A&M-Corpus Christi,26172
 29,2139616,Justin Taylor,C,Fr,18,13,2019,14781,A&M-Corpus Christi,26172
 7,1996118,Jeremiah Alonzo,INF,Sr,45,42,2019,14781,Nyack,1277
-16,1888483,Yonel Rodriguez,P,Jr,8,2,2019,14781,Nyack,1277
+3,1888470,Yoni Rodriguez,INF,Sr,47,47,2019,14781,Nyack,1277
 19,1996148,Herman Alvarado,INF,Sr,46,46,2019,14781,Nyack,1277
 13,1996121,Brandon Rivera,INF,Jr,40,36,2019,14781,Nyack,1277
 17,2136409,John Bean Iii,1B,So,10,1,2019,14781,Nyack,1277
@@ -18081,7 +18081,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 27,1888494,Aj Vasquez,P,Jr,13,3,2019,14781,Nyack,1277
 12,2136401,Matthew Threatt,p,Jr,15,8,2019,14781,Nyack,1277
 45,1888499,Jonathan Santiago,C,Jr,25,14,2019,14781,Nyack,1277
-3,1888470,Yoni Rodriguez,INF,Sr,47,47,2019,14781,Nyack,1277
+16,1888483,Yonel Rodriguez,P,Jr,8,2,2019,14781,Nyack,1277
 23,2136411,Alber Pichardo,c,Fr,8,1,2019,14781,Nyack,1277
 5,1996146,Alec Petterson,OF,Sr,46,46,2019,14781,Nyack,1277
 18,2146932,Frank Retzlaff,p,Fr,9,0,2019,14781,Nyack,1277
@@ -18578,8 +18578,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 14,1975738,Matt Thomas,C,So,25,11,2019,14781,Harvard,275
 15,1866185,Jake Suddleson,OF,Jr,43,43,2019,14781,Harvard,275
 19,2137511,Harrison Stovern,UT,Fr,14,0,2019,14781,Harvard,275
-25,1762722,Kevin Stone,P,Sr,12,8,2019,14781,Harvard,275
 26,1866184,Grant Stone,P,Jr,5,0,2019,14781,Harvard,275
+25,1762722,Kevin Stone,P,Sr,12,8,2019,14781,Harvard,275
 36,1975737,Nate Stephens,C,So,0,0,2019,14781,Harvard,275
 38,1975712,Enzo Stefanoni,P,So,20,1,2019,14781,Harvard,275
 19,1762712,Rey Pascual,C,Sr,0,0,2019,14781,Harvard,275
@@ -18821,13 +18821,13 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 11,1979498,Kole Mckinnon,C,Sr,33,27,2019,14781,Louisiana,671
 9,1866370,Todd Lott,OF,Jr,57,52,2019,14781,Louisiana,671
 15,2138997,Jacob Schultz,P,So,23,7,2019,14781,Louisiana,671
-25,2146188,Bryant Caporale,P,Fr,14,0,2019,14781,Capital,117
+4,1778145,Joe Caporale,INF,Jr,34,33,2019,14781,Capital,117
 31,1892851,Kole Carter,P,Jr,1,0,2019,14781,Capital,117
 22,2146207,T. Cavanaugh,cf,,10,1,2019,14781,Capital,117
 15,2147167,A. Gannon,p,,5,3,2019,14781,Capital,117
 18,2146206,Dakota Destefano,ph,,13,6,2019,14781,Capital,117
 13,1991250,Drew Ellis,INF,So,33,32,2019,14781,Capital,117
-4,1778145,Joe Caporale,INF,Jr,34,33,2019,14781,Capital,117
+25,2146188,Bryant Caporale,P,Fr,14,0,2019,14781,Capital,117
 36,1778679,Doug Connor,1B,Sr,0,0,2019,14781,Capital,117
 41,1991303,Garrett Camp,C,So,0,0,2019,14781,Capital,117
 8,1892827,Beau Otto,SS,Jr,34,33,2019,14781,Capital,117
@@ -19011,8 +19011,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 28,1883800,Matthew Young,P,Jr,13,12,2019,14781,Whitworth,1454
 27,2134898,Tyson Yamane,P,Jr,6,0,2019,14781,Whitworth,1454
 33,1989312,Ben Wintringer,LF,Jr,41,38,2019,14781,Whitworth,1454
-6,1994527,Brett Thomas,LF,So,11,3,2019,14781,Whitworth,1454
 17,2010867,Kaliko Thomas,LF,Jr,1,0,2019,14781,Whitworth,1454
+6,1994527,Brett Thomas,LF,So,11,3,2019,14781,Whitworth,1454
 14,2134897,Jaxsen Sweum,OF,Fr,41,41,2019,14781,Whitworth,1454
 12,1989407,Ian Sugrue,C,Sr,11,7,2019,14781,Whitworth,1454
 27,1760406,Hugh Smith,P,Sr,0,0,2019,14781,Whitworth,1454
@@ -19164,10 +19164,10 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 40,1750852,Nicholas Zestanakis,P,Jr,10,1,2019,14781,Mt. St. Mary  (Skyline),1468
 24,1996360,Robert Worden,P,Jr,5,0,2019,14781,Mt. St. Mary  (Skyline),1468
 19,1884010,John Santana,SS,Jr,25,25,2019,14781,Mt. St. Mary  (Skyline),1468
-28,1884026,Anthony Rizzo,INF,Jr,24,21,2019,14781,Mt. St. Mary  (Skyline),1468
 8,1884006,Sal Rizzo,OF,Jr,12,10,2019,14781,Mt. St. Mary  (Skyline),1468
+28,1884026,Anthony Rizzo,INF,Jr,24,21,2019,14781,Mt. St. Mary  (Skyline),1468
 14,2132097,Devin Tait,INF,Fr,18,9,2019,14781,Mt. St. Mary  (Skyline),1468
-4,2133399,Philip Sanchez,UT,Jr,40,40,2019,14781,Tex. A&M Int'l,30090
+32,2133392,J.J. Sanchez,P,Fr,11,0,2019,14781,Tex. A&M Int'l,30090
 10,1994884,Ruben Solis,P,Sr,14,14,2019,14781,Tex. A&M Int'l,30090
 22,1892713,Mathew Trevino,DH,Jr,30,27,2019,14781,Tex. A&M Int'l,30090
 99,2133296,Freddy Barrera,P,Jr,0,0,2019,14781,Tex. A&M Int'l,30090
@@ -19184,10 +19184,10 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 9,2133325,Bryce Faust,P,Jr,1,0,2019,14781,Tex. A&M Int'l,30090
 27,2133327,Joseph Garza-Delapena,P,Fr,9,0,2019,14781,Tex. A&M Int'l,30090
 25,2133328,Hector Gonzalez,C,Fr,7,6,2019,14781,Tex. A&M Int'l,30090
-32,2133392,J.J. Sanchez,P,Fr,11,0,2019,14781,Tex. A&M Int'l,30090
+4,2133399,Philip Sanchez,UT,Jr,40,40,2019,14781,Tex. A&M Int'l,30090
 8,2133329,Anthony Handel,OF,Jr,47,47,2019,14781,Tex. A&M Int'l,30090
 18,2133331,Andrew Hernandez,P,Fr,14,12,2019,14781,Tex. A&M Int'l,30090
-20,2133382,Kenneth Saenz,P,Sr,7,2,2019,14781,Tex. A&M Int'l,30090
+20,2133376,David Saenz,1B,Jr,0,0,2019,14781,Tex. A&M Int'l,30090
 14,2133336,Kolbe Kutak,P,Fr,3,0,2019,14781,Tex. A&M Int'l,30090
 3,2005858,Mauro Luna,P,Sr,14,13,2019,14781,Tex. A&M Int'l,30090
 6,1881346,Hugo Mendiola,P,Jr,13,6,2019,14781,Tex. A&M Int'l,30090
@@ -19206,7 +19206,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 14,1766487,Osvaldo Rosas,DH,Jr,0,0,2019,14781,Tex. A&M Int'l,30090
 12,2133354,Justin Rumley,P,Jr,13,3,2019,14781,Tex. A&M Int'l,30090
 93,2133384,Xavier Saenz,3B,Fr,0,0,2019,14781,Tex. A&M Int'l,30090
-20,2133376,David Saenz,1B,Jr,0,0,2019,14781,Tex. A&M Int'l,30090
+20,2133382,Kenneth Saenz,P,Sr,7,2,2019,14781,Tex. A&M Int'l,30090
 95,2133330,Brock Hargens,OF,Fr,0,0,2019,14781,Tex. A&M Int'l,30090
 1,2133421,Hunter Trinidad,OF,Jr,32,28,2019,14781,Tex. A&M Int'l,30090
 31,1994900,Mark Trimble,P,Sr,0,0,2019,14781,Tex. A&M Int'l,30090
@@ -19498,9 +19498,9 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 47,2140043,Cam Barlow,P,Fr,0,0,2019,14781,La.-Monroe,498
 21,2140012,Ty Barnes,P,Jr,16,10,2019,14781,La.-Monroe,498
 10,1998961,Braedon Barrett,INF,Sr,57,52,2019,14781,La.-Monroe,498
-50,2139995,Justin Barton,P,Jr,17,0,2019,14781,La.-Monroe,498
-45,2140041,Cole Martin,P,Jr,13,10,2019,14781,La.-Monroe,498
 29,1882016,Jacob Barton,P,Sr,13,6,2019,14781,La.-Monroe,498
+45,2140041,Cole Martin,P,Jr,13,10,2019,14781,La.-Monroe,498
+50,2139995,Justin Barton,P,Jr,17,0,2019,14781,La.-Monroe,498
 19,1871157,Chad Bell,INF,Sr,57,57,2019,14781,La.-Monroe,498
 22,1753852,Blake Buckman,INF,Sr,40,22,2019,14781,La.-Monroe,498
 51,2140045,Ej Scott,P,Jr,2,0,2019,14781,La.-Monroe,498
@@ -19545,7 +19545,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 35,1775679,Josh Woodmansee,P,Sr,11,0,2019,14781,Truman St.,499
 18,1884673,Rian Markes,P,Jr,13,12,2019,14781,Truman St.,499
 9,2002117,Dan Ampleman,PH/3B,So,0,0,2019,14781,Truman St.,499
-38,1977264,Stephen Kight,P,So,4,0,2019,14781,North Greenville,9223
+28,1776325,Daniel Kight,P,Sr,20,0,2019,14781,North Greenville,9223
 26,1977244,Cameron Norgren,INF,So,0,0,2019,14781,North Greenville,9223
 20,1881292,Sean Parsons,UT,Jr,38,12,2019,14781,North Greenville,9223
 12,1977257,Dawson Price,INF,So,19,3,2019,14781,North Greenville,9223
@@ -19569,7 +19569,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 44,1886142,Caleb Murphy,P,Jr,4,0,2019,14781,North Greenville,9223
 3,1977252,Jack Morris,OF,Sr,46,46,2019,14781,North Greenville,9223
 25,1977243,Jk Love,P,Jr,5,0,2019,14781,North Greenville,9223
-28,1776325,Daniel Kight,P,Sr,20,0,2019,14781,North Greenville,9223
+38,1977264,Stephen Kight,P,So,4,0,2019,14781,North Greenville,9223
 2,1977246,Utah Jones,INF,Sr,56,56,2019,14781,North Greenville,9223
 33,2131206,Grayson Hickert,P,Fr,18,0,2019,14781,North Greenville,9223
 30,1977266,Brent Herlong,P,So,16,0,2019,14781,North Greenville,9223
@@ -19678,7 +19678,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 38,2129059,Tyler Smith,P,Fr,21,4,2019,14781,Nevada,466
 25,1881251,Dillan Shrum,1B,Jr,40,40,2019,14781,Nevada,466
 6,2129050,Trey Zahursky,INF,Fr,0,0,2019,14781,Nevada,466
-15,1995911,Jordan Jackson,P,So,6,0,2019,14781,Nevada,466
+27,1995908,Jake Jackson,P,So,14,13,2019,14781,Nevada,466
 4,1660338,Keaton Smith,INF,Sr,51,41,2019,14781,Nevada,466
 39,1995931,Ty Hueckman,P,Jr,3,0,2019,14781,Nevada,466
 33,2129057,Owen Sharts,P,Fr,14,14,2019,14781,Nevada,466
@@ -19687,7 +19687,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 36,1995930,Bradley Bonnenfant,P,Sr,24,0,2019,14781,Nevada,466
 1,1995896,Tyler Bosetti,INF,So,48,39,2019,14781,Nevada,466
 24,2129065,Julian Boyd,OF,Fr,15,7,2019,14781,Nevada,466
-27,1995908,Jake Jackson,P,So,14,13,2019,14781,Nevada,466
+15,1995911,Jordan Jackson,P,So,6,0,2019,14781,Nevada,466
 34,2129071,Matt Clayton,C,Fr,32,23,2019,14781,Nevada,466
 30,2129056,Jake Fenn,P,Fr,6,0,2019,14781,Nevada,466
 12,1881239,Grant Ford,P,Jr,28,0,2019,14781,Nevada,466
@@ -19717,8 +19717,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 33.0,1779250,Nick Brune,P,Sr,15,9,2019,14781,Ill. Wesleyan,300
 20.0,1779248,John Bosco,OF,Sr,41,39,2019,14781,Ill. Wesleyan,300
 17.0,1990631,Matt Blaney,P,So,16,0,2019,14781,Ill. Wesleyan,300
-17.0,1779244,Michael Billington,P,Sr,0,0,2019,14781,Ill. Wesleyan,300
 2.0,1779242,Stephen Billington,INF,Sr,31,28,2019,14781,Ill. Wesleyan,300
+17.0,1779244,Michael Billington,P,Sr,0,0,2019,14781,Ill. Wesleyan,300
 14.0,2003799,Eric Bennes,P,So,10,8,2019,14781,Ill. Wesleyan,300
 27.0,1890893,Casey Becker,P,Jr,18,0,2019,14781,Ill. Wesleyan,300
 9.0,2148233,Rory Mulvihill,P,Jr,15,1,2019,14781,Ill. Wesleyan,300
@@ -19815,8 +19815,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 29.0,1895578,Dan Zimmerman,P,Jr,11,9,2019,14781,Lancaster Bible,30085
 19.0,1778477,Will Welsh,OF,Sr,32,32,2019,14781,Lancaster Bible,30085
 6.0,1895448,Mike Vandame,1B,Jr,30,29,2019,14781,Lancaster Bible,30085
-26.0,1892142,Sam Taylor,OF,Jr,0,0,2019,14781,Lancaster Bible,30085
 16.0,1892144,Matt Taylor,C,Jr,0,0,2019,14781,Lancaster Bible,30085
+26.0,1892142,Sam Taylor,OF,Jr,0,0,2019,14781,Lancaster Bible,30085
 11.0,2153899,Jacob Stong,INF,Fr,9,1,2019,14781,Lancaster Bible,30085
 13.0,1778485,Jacob Schenck,OF,Sr,32,32,2019,14781,Lancaster Bible,30085
 36.0,1896375,Jacob Alvarez,INF,Jr,18,13,2019,14781,Lancaster Bible,30085
@@ -19857,9 +19857,9 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 25,2134520,Roderick Hammond,P,Fr,7,0,2019,14781,Alcorn,17
 34,1991165,Hunter Wilson,INF,Sr,0,0,2019,14781,Alcorn,17
 1,2134537,Micah Walker,INF,Jr,25,19,2019,14781,Alcorn,17
-5,1879610,Tyler Smith,P,Sr,12,5,2019,14781,Alcorn,17
-13,2134533,Jaden Smith,INF,Fr,33,29,2019,14781,Alcorn,17
 28,1879609,Joe Smith,P,Sr,11,0,2019,14781,Alcorn,17
+13,2134533,Jaden Smith,INF,Fr,33,29,2019,14781,Alcorn,17
+5,1879610,Tyler Smith,P,Sr,12,5,2019,14781,Alcorn,17
 22,2134527,Abdallah Salman,P,Jr,16,2,2019,14781,Alcorn,17
 18,2134531,Brandon Rembert,OF,Jr,41,39,2019,14781,Alcorn,17
 15,1879607,Zachary Perez,C,Sr,7,0,2019,14781,Alcorn,17
@@ -19936,8 +19936,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 4,2139808,Tommy Hughes,INF,Fr,16,1,2019,14781,Southern Conn. St.,658
 15,2139807,Jared Henry,P,Fr,12,0,2019,14781,Southern Conn. St.,658
 25,2000675,Mcneil Finnegan,OF,Sr,48,47,2019,14781,Southern Conn. St.,658
-6,2139825,Jared Smith,OF,Fr,2,0,2019,14781,Southern Conn. St.,658
 13,2139826,Nicholas Smith,C,Fr,3,0,2019,14781,Southern Conn. St.,658
+6,2139825,Jared Smith,OF,Fr,2,0,2019,14781,Southern Conn. St.,658
 55,2139806,Mike Ferrett,3B,Fr,23,4,2019,14781,Southern Conn. St.,658
 14,1886273,Brendan Ebert,P,Jr,7,3,2019,14781,Southern Conn. St.,658
 8,1980794,Steven Moretto,INF,So,65,65,2019,14781,Sacramento St.,102
@@ -20013,7 +20013,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 28,1977779,Matthew Nicholas,P,Fr,1,0,2019,14781,Texas St.,670
 24,1767881,Ryan Newman,INF,Sr,52,41,2019,14781,Texas St.,670
 14,2122896,Colton Moore,C,Fr,9,4,2019,14781,Texas St.,670
-13,1767880,Brandon Lewis,P,Sr,21,0,2019,14781,Texas St.,670
+39,2122906,Peyton Lewis,C,Fr,18,7,2019,14781,Texas St.,670
 9,2122901,Brent Hebert,P,Jr,22,0,2019,14781,Texas St.,670
 42,1879402,Zachary Leigh,P,Jr,21,1,2019,14781,Texas St.,670
 21,2122893,Logan Layer,INF,Fr,0,0,2019,14781,Texas St.,670
@@ -20023,7 +20023,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 6,2122892,Will Hollis,OF,Jr,54,52,2019,14781,Texas St.,670
 8,1977772,Dalton Shuffield,INF,So,55,53,2019,14781,Texas St.,670
 31,2122891,Garrett Herrmann,P,Jr,11,10,2019,14781,Texas St.,670
-39,2122906,Peyton Lewis,C,Fr,18,7,2019,14781,Texas St.,670
+13,1767880,Brandon Lewis,P,Sr,21,0,2019,14781,Texas St.,670
 29,1767898,Brayden Theriot,P,Sr,17,0,2019,14781,Texas St.,670
 26,2122907,Hunter Mcmahon,P,So,17,14,2019,14781,Texas St.,670
 17,2122909,Cody Wagner,OF,Fr,0,0,2019,14781,Texas St.,670
@@ -20610,8 +20610,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 32,1668346,Matt Yates,P,Sr,8,8,2019,14781,Cedarville,30124
 6,1889970,Matthew Biermann,C,Jr,44,44,2019,14781,Cedarville,30124
 12,2132510,Kevin Zhang,P,Fr,9,0,2019,14781,Cedarville,30124
-44,2132525,Trace Gillis,P,Jr,13,9,2019,14781,Cedarville,30124
 31,2132514,Tanner Gillis,P,Fr,4,0,2019,14781,Cedarville,30124
+44,2132525,Trace Gillis,P,Jr,13,9,2019,14781,Cedarville,30124
 26,1990535,J. Stone,2B,Fr,50,49,2019,14781,Mount Olive,1245
 48,2130468,Harrison Aiken,P,Fr,1,0,2019,14781,Mount Olive,1245
 43,1871790,Coy Barnett,P,Jr,28,10,2019,14781,Mount Olive,1245
@@ -20711,12 +20711,12 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 8,1989265,Jordan Peabody,INF,Sr,32,30,2019,14781,Cal State LA,100
 32,1877791,Saxon Andross,P,Jr,15,15,2019,14781,Cal State LA,100
 6,1877783,Nate Alam,P,Sr,45,45,2019,14781,Cal State LA,100
-22,2127932,Julien Garcia,P,Fr,6,0,2019,14781,Cal State LA,100
+15,1989266,Noe Garcia,C,So,39,36,2019,14781,Cal State LA,100
 50,2127936,Jackson Bond,P,Jr,11,1,2019,14781,Cal State LA,100
 21,1877781,Rc Orozco,INF,So,0,0,2019,14781,Cal State LA,100
-34,1877796,Miguel Garcia,P,So,11,1,2019,14781,Cal State LA,100
+22,2127932,Julien Garcia,P,Fr,6,0,2019,14781,Cal State LA,100
 29,1994979,Adam Gordon,OF,Sr,43,38,2019,14781,Cal State LA,100
-15,1989266,Noe Garcia,C,So,39,36,2019,14781,Cal State LA,100
+34,1877796,Miguel Garcia,P,So,11,1,2019,14781,Cal State LA,100
 1,2127929,Johnny Virgen,P,Fr,14,0,2019,14781,Cal State LA,100
 7,2127911,Michael Tillman,OF,Jr,30,30,2019,14781,Cal State LA,100
 45,2002621,Dylan Suppan,P,Sr,6,2,2019,14781,Cal State LA,100
@@ -20916,7 +20916,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 23,1992684,Donta Williams,OF,So,56,53,2019,14781,Arizona,29
 12,1647147,Justin Wylie,OF,Sr,46,34,2019,14781,Arizona,29
 30,1884152,Preston Price,P,Jr,13,0,2019,14781,Arizona,29
-32,2131546,Micah Henderson,P,Jr,17,10,2019,14781,AUM,30093
+15,2131536,Casey Henderson,UT,Jr,46,37,2019,14781,AUM,30093
 2,1986890,Aaron Hill,UT,Sr,39,9,2019,14781,AUM,30093
 27,1871827,Hunter Hillyer,INF,Jr,13,3,2019,14781,AUM,30093
 99,2134146,Hunter Jones,INF,Fr,0,0,2019,14781,AUM,30093
@@ -20930,7 +20930,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 34,2131547,Will Sheffield,P,Jr,1,0,2019,14781,AUM,30093
 17,2131543,Sage Smelley,INF,Jr,46,43,2019,14781,AUM,30093
 39,1986910,Connor Smith,P,Sr,11,3,2019,14781,AUM,30093
-15,2131536,Casey Henderson,UT,Jr,46,37,2019,14781,AUM,30093
+32,2131546,Micah Henderson,P,Jr,17,10,2019,14781,AUM,30093
 8,2131535,Jolan Stieringer,UT,Jr,7,3,2019,14781,AUM,30093
 25,1986905,Matthew Zielonko,OF,Jr,48,48,2019,14781,AUM,30093
 8,1986892,Logan Nix,UT,Sr,0,0,2019,14781,AUM,30093
@@ -20972,8 +20972,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 13,1888526,Michael Villanueva,P,Jr,0,0,2019,14781,Texas Southern,699
 28,2137367,A.J. Winger,P,Fr,15,0,2019,14781,Texas Southern,699
 9,2137327,Nic Garza,INF,Jr,50,50,2019,14781,Texas Southern,699
-31,2137358,Kevin Garcia,C,Fr,3,0,2019,14781,Texas Southern,699
 5,2137356,Austin Garcia,C,Fr,26,20,2019,14781,Texas Southern,699
+31,2137358,Kevin Garcia,C,Fr,3,0,2019,14781,Texas Southern,699
 36,1997628,Mason Furlong,UT,Sr,25,13,2019,14781,Texas Southern,699
 4,2137355,Levi Dixon,INF,Jr,22,16,2019,14781,Texas Southern,699
 3,1997614,Ryan Diaz,OF,Sr,48,41,2019,14781,Texas Southern,699
@@ -21200,11 +21200,11 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 35.0,2004031,Ethan Shepard,1B,So,9,2,2019,14781,Husson,1133
 49.0,2152384,Logan Sheridan,P,Fr,0,0,2019,14781,Husson,1133
 12.0,1894956,Blake Slicer,P,Jr,7,6,2019,14781,Husson,1133
-29.0,1781060,Austin Smith,P,Sr,3,3,2019,14781,Husson,1133
-33.0,2004023,Brandon Smith,OF,So,14,4,2019,14781,Husson,1133
 43.0,1781061,Dustin Smith,P,Sr,8,0,2019,14781,Husson,1133
-39.0,1781057,Aj Purcell,P,Sr,4,0,2019,14781,Husson,1133
 28.0,1781062,Matt P. Smith,P,Sr,5,1,2019,14781,Husson,1133
+29.0,1781060,Austin Smith,P,Sr,3,3,2019,14781,Husson,1133
+39.0,1781057,Aj Purcell,P,Sr,4,0,2019,14781,Husson,1133
+33.0,2004023,Brandon Smith,OF,So,14,4,2019,14781,Husson,1133
 20.0,2152324,Nolan Brown,OF,Fr,41,40,2019,14781,Husson,1133
 51.0,2152386,David Leblanc,OF,Jr,41,41,2019,14781,Husson,1133
 19.0,1781053,Alex Chapman,INF,Sr,43,42,2019,14781,Husson,1133
@@ -21216,7 +21216,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 9.0,2004028,Ethan Daigneault,C,So,17,13,2019,14781,Husson,1133
 32.0,2004017,Nolan Dousa,P,So,19,0,2019,14781,Husson,1133
 42.0,1894658,Ryan Allender,P,Sr,8,8,2019,14781,Husson,1133
-48.0,2004030,Isaac Eutsler,OF,So,0,0,2019,14781,Husson,1133
+47.0,2004029,Adam Eutsler,INF,So,0,0,2019,14781,Husson,1133
 13.0,2152358,Seth Garvin,INF,Fr,0,0,2019,14781,Husson,1133
 14.0,1893154,Jake Gauvin,P,Jr,23,0,2019,14781,Husson,1133
 3.0,1893150,Matt Graciano,OF,Jr,7,0,2019,14781,Husson,1133
@@ -21225,7 +21225,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 10.0,1893153,Nick Guerrette,INF,Jr,43,42,2019,14781,Husson,1133
 53.0,2152388,Evan Holzworth,INF,Fr,4,1,2019,14781,Husson,1133
 26.0,2004019,Ryan Hoogterp,UT,So,12,3,2019,14781,Husson,1133
-47.0,2004029,Adam Eutsler,INF,So,0,0,2019,14781,Husson,1133
+48.0,2004030,Isaac Eutsler,OF,So,0,0,2019,14781,Husson,1133
 57.0,2152392,Nick Avery,OF,Fr,0,0,2019,14781,Husson,1133
 25.0,2152361,Ethan Stoddard,INF,Fr,42,42,2019,14781,Husson,1133
 31.0,2152326,Nick Swift,OF,Fr,0,0,2019,14781,Husson,1133
@@ -21532,8 +21532,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 8,1885762,Arik Sypher,P,So,2,2,2019,14781,Post,1318
 19,2156885,Jacob Tamburrino,p,,6,0,2019,14781,Post,1318
 31,2146990,T. Taylor,P,,7,6,2019,14781,Post,1318
-19,1994737,Jeff Torres,INF,So,0,0,2019,14781,Post,1318
 14,2156902,Chris Torres,P,Fr,8,7,2019,14781,Post,1318
+19,1994737,Jeff Torres,INF,So,0,0,2019,14781,Post,1318
 26,1994754,Jose Vasquez,P,So,0,0,2019,14781,Post,1318
 32,1885190,Anthony Viteritto,INF,Jr,2,0,2019,14781,Post,1318
 43,2154406,Arther Xanthos,ph,Fr,3,0,2019,14781,Post,1318
@@ -21795,14 +21795,14 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 20,1981542,Bennett Mccann,INF,So,0,0,2019,14781,King  (Conference Carolinas),30051
 22,1755260,Austin Meyer,OF,Sr,37,36,2019,14781,King  (Conference Carolinas),30051
 21,1862563,Preston Worrell,OF,Jr,1,0,2019,14781,King  (Conference Carolinas),30051
-39,2111424,Braden White,P,So,12,9,2019,14781,King  (Conference Carolinas),30051
 48,1981606,Drew White,P,So,0,0,2019,14781,King  (Conference Carolinas),30051
+39,2111424,Braden White,P,So,12,9,2019,14781,King  (Conference Carolinas),30051
 49,2111451,Joe Watson,P,Fr,0,0,2019,14781,King  (Conference Carolinas),30051
 36,2111447,Jason Vanhoy,1B,Fr,1,0,2019,14781,King  (Conference Carolinas),30051
 2,1981575,Tony Valdes,OF,Sr,41,41,2019,14781,King  (Conference Carolinas),30051
 8,2111419,Zachary Thomas,INF,Fr,19,7,2019,14781,King  (Conference Carolinas),30051
-43,1981584,Willy Tavarez,P,So,1,0,2019,14781,King  (Conference Carolinas),30051
 24,1981607,Cesar Tavarez,INF,Jr,6,2,2019,14781,King  (Conference Carolinas),30051
+43,1981584,Willy Tavarez,P,So,1,0,2019,14781,King  (Conference Carolinas),30051
 30,2111445,Michael Stanczak,INF,Fr,2,1,2019,14781,King  (Conference Carolinas),30051
 46,1981592,Ryan Mceachern,P,So,0,0,2019,14781,King  (Conference Carolinas),30051
 4,1981599,Robert Sari,INF,So,29,13,2019,14781,King  (Conference Carolinas),30051
@@ -21932,7 +21932,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 18,1988445,Wesley Moore,P,So,16,14,2019,14781,CSUN,101
 23,2119226,Andrew Lucas,OF,Fr,54,51,2019,14781,CSUN,101
 10,2119222,Stone Shiffman,OF,Fr,15,1,2019,14781,CSUN,101
-44,2007785,Kyle Riggleman,P,So,11,1,2019,14781,West Va. Wesleyan,9630
+36,1872826,Ian Riggleman,P,Jr,0,0,2019,14781,West Va. Wesleyan,9630
 53,1872835,Spencer Rodgers,OF,Jr,0,0,2019,14781,West Va. Wesleyan,9630
 34,1872824,Griffin Roe,P,Jr,12,11,2019,14781,West Va. Wesleyan,9630
 35,2136437,William Rosa,3B,So,1,1,2019,14781,West Va. Wesleyan,9630
@@ -21941,7 +21941,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 17,2157186,David Sanders,2b,,1,0,2019,14781,West Va. Wesleyan,9630
 43,1872829,Lake Sankey,OF,Sr,0,0,2019,14781,West Va. Wesleyan,9630
 10,2007330,C Scheitzach,P,So,0,0,2019,14781,West Va. Wesleyan,9630
-36,1872826,Ian Riggleman,P,Jr,0,0,2019,14781,West Va. Wesleyan,9630
+44,2007785,Kyle Riggleman,P,So,11,1,2019,14781,West Va. Wesleyan,9630
 24,1758265,Alex Skinner,OF,Sr,34,28,2019,14781,West Va. Wesleyan,9630
 38,1637643,Brandon Stratton,1B,Jr,0,0,2019,14781,West Va. Wesleyan,9630
 37,2007761,Tbrine,P,So,0,0,2019,14781,West Va. Wesleyan,9630
@@ -22112,7 +22112,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 3,2152255,Vincent Capone,INF,So,22,21,2019,14781,Trinity  (NESCAC),713
 11,1779753,Tyler Buckley,INF,Sr,25,14,2019,14781,Trinity  (NESCAC),713
 29,2152270,Jim Fahey,OF,Fr,10,8,2019,14781,Trinity  (NESCAC),713
-23,2007445,Justin Olson,,So,0,0,2019,14781,Trinity  (NESCAC),713
+4,2152264,Justin Olson,P,So,14,2,2019,14781,Trinity  (NESCAC),713
 26,1779749,Erick Mohl,1B,Sr,26,0,2019,14781,Trinity  (NESCAC),713
 42,2152321,Luke Pascarella,INF,Fr,2,0,2019,14781,Trinity  (NESCAC),713
 40,2154894,Kevin Bomba,pr,Fr,7,0,2019,14781,Trinity  (NESCAC),713
@@ -22130,7 +22130,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 6,2152256,Tom Rockett,P,Fr,5,1,2019,14781,Trinity  (NESCAC),713
 34,2152260,Shayne Rice,1B,Fr,7,1,2019,14781,Trinity  (NESCAC),713
 2,1782155,Ben Reinisch,SS,Sr,38,38,2019,14781,Trinity  (NESCAC),713
-4,2152264,Justin Olson,P,So,14,2,2019,14781,Trinity  (NESCAC),713
+23,2007445,Justin Olson,,So,0,0,2019,14781,Trinity  (NESCAC),713
 17,2007423,Max Barsamian,,So,10,5,2019,14781,Trinity  (NESCAC),713
 8,1775652,Noah Bland,OF,Sr,55,55,2019,14781,Ohio Dominican,30119
 16,1887611,Danny Matic,P,So,18,0,2019,14781,Ohio Dominican,30119
@@ -22727,8 +22727,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 30.0,2153698,Harsha Bollu,P,Fr,11,3,2019,14781,Tufts,717
 13.0,2009447,Brandon Bay,OF,So,27,7,2019,14781,Tufts,717
 4.0,1782964,Casey Santos-Ocampo,INF,Sr,42,42,2019,14781,Tufts,717
-28.0,2157466,Will Reid,OF,Fr,3,0,2019,14781,Tufts,717
 34.0,2154819,Miles Reid,INF,Fr,14,0,2019,14781,Tufts,717
+28.0,2157466,Will Reid,OF,Fr,3,0,2019,14781,Tufts,717
 11.0,2009235,Jamie Weiss,P,So,4,2,2019,14781,Tufts,717
 7.0,2153699,Kyle Cortese,INF,So,36,29,2019,14781,Tufts,717
 33.0,2154818,Ryan Noone,C,Fr,9,0,2019,14781,Tufts,717
@@ -23738,8 +23738,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 19,2140258,Kevin Lyons,P,Fr,0,0,2019,14781,UC Santa Barbara,104
 5,1996104,Blake Mann,OF,So,0,0,2019,14781,UC Santa Barbara,104
 31,2140261,Mason Marquez,INF,Fr,15,0,2019,14781,UC Santa Barbara,104
-45,2140268,Chazz Martinez,P,Fr,4,2,2019,14781,UC Santa Barbara,104
 13,1886085,Andrew Martinez,INF,So,56,54,2019,14781,UC Santa Barbara,104
+45,2140268,Chazz Martinez,P,Fr,4,2,2019,14781,UC Santa Barbara,104
 30,2140256,Michael Mcgreevy,P,Fr,29,0,2019,14781,UC Santa Barbara,104
 15,1656840,Thomas Rowan,C,Sr,56,56,2019,14781,UC Santa Barbara,104
 14,1886090,Cole Mueller,INF,So,32,19,2019,14781,UC Santa Barbara,104
@@ -23789,9 +23789,9 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 3,1892519,Dylan Hapworth,OF,Jr,39,39,2019,14781,Southern Me.,662
 35,1892517,Gage Feeney,P,Jr,11,11,2019,14781,Southern Me.,662
 29,2147577,Noah Bonsant,P,Fr,0,0,2019,14781,Southern Me.,662
-1,2147618,Colby Dexter,INF,Fr,23,0,2019,14781,Southern Me.,662
-22,1777506,Jack Donnelly,P,Jr,0,0,2019,14781,Southern Me.,662
 13,1777505,Jake Dexter,INF,Sr,46,46,2019,14781,Southern Me.,662
+22,1777506,Jack Donnelly,P,Jr,0,0,2019,14781,Southern Me.,662
+1,2147618,Colby Dexter,INF,Fr,23,0,2019,14781,Southern Me.,662
 8,2147602,Jonathan Wilson,UT,Fr,18,2,2019,14781,Southern Me.,662
 2,1664265,Devin Warren,OF,Sr,46,46,2019,14781,Southern Me.,662
 11,2147621,Tom Vesosky,OF,Fr,10,0,2019,14781,Southern Me.,662
@@ -23857,8 +23857,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 21,1654478,Trey Tucker,P,Jr,7,0,2019,14781,Newman,30054
 8,1778320,B.J. Tieben,PH,Jr,0,0,2019,14781,Newman,30054
 10,1999069,Blake Thunberg,P,So,13,7,2019,14781,Newman,30054
-33,1782802,Jacob Stramel,P,Jr,19,1,2019,14781,Newman,30054
 38,2157214,Aaron Stramel,p,Jr,1,0,2019,14781,Newman,30054
+33,1782802,Jacob Stramel,P,Jr,19,1,2019,14781,Newman,30054
 17,2136330,Andrew Snyder,p,Jr,14,8,2019,14781,Newman,30054
 32,2136329,Derek Schumann,p,Jr,11,8,2019,14781,Newman,30054
 5,1769785,A. Russell,1B,Jr,0,0,2019,14781,Newman,30054
@@ -23958,7 +23958,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 13,2117225,Shane Cavallo,P,Jr,12,6,2019,14781,William Jewell,30120
 25,1868731,Christian Chalabi,INF,Jr,34,29,2019,14781,William Jewell,30120
 46,1974958,Jacob Compton,P,Sr,8,1,2019,14781,William Jewell,30120
-9,1974960,Nick Easley,P,So,7,3,2019,14781,William Jewell,30120
+24,1974959,Kylan Easley,P,Sr,10,8,2019,14781,William Jewell,30120
 15,1974941,Anthony Hansen,OF,Fr,49,49,2019,14781,William Jewell,30120
 6,1974956,Trent Bollman,INF,Sr,48,45,2019,14781,William Jewell,30120
 27,1974942,Austin Kline,INF,Sr,28,23,2019,14781,William Jewell,30120
@@ -23972,7 +23972,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 43,1759291,Thomas Hennelly,P,Jr,10,7,2019,14781,William Jewell,30120
 30,2117214,Grayson Fenwick,P,So,0,0,2019,14781,William Jewell,30120
 4,1974943,Cody Lampe,C,Fr,6,1,2019,14781,William Jewell,30120
-24,1974959,Kylan Easley,P,Sr,10,8,2019,14781,William Jewell,30120
+9,1974960,Nick Easley,P,So,7,3,2019,14781,William Jewell,30120
 44,2117218,Nyk Yaquab,P,Fr,0,0,2019,14781,William Jewell,30120
 3,1974963,Trenton Worley,INF,Fr,27,26,2019,14781,William Jewell,30120
 31,1974962,Brandon Valentine,P,Fr,1,0,2019,14781,William Jewell,30120
@@ -24049,8 +24049,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 33,1862909,Matt Walker,P,Jr,16,16,2019,14781,Illinois St.,299
 2,2120944,Jeremy Gaines,INF,So,31,13,2019,14781,Illinois St.,299
 40,1976578,Tyler Carpenter,1B,So,16,8,2019,14781,Illinois St.,299
-17,1862897,Joe Butler,INF,Jr,62,62,2019,14781,Illinois St.,299
 10,1862896,Jack Butler,OF,So,51,47,2019,14781,Illinois St.,299
+17,1862897,Joe Butler,INF,Jr,62,62,2019,14781,Illinois St.,299
 41,2121097,Jackson Bronke,P,Jr,14,0,2019,14781,Illinois St.,299
 44,1976577,Jack Anderson,P,So,22,0,2019,14781,Illinois St.,299
 27,1862901,Joe Aeilts,INF,Jr,62,62,2019,14781,Illinois St.,299
@@ -24319,8 +24319,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 1,2005935,Matt Szczesny,C,So,22,21,2019,14781,Gettysburg,258
 36,2147347,Teo Torrado,P,Fr,2,2,2019,14781,Gettysburg,258
 9,2009485,Kobi Wolf,OF,So,2,1,2019,14781,Gettysburg,258
-30,2007006,Erik Wortmann,P,So,11,4,2019,14781,Gettysburg,258
 19,1780995,Will Wortmann,P,Sr,12,4,2019,14781,Gettysburg,258
+30,2007006,Erik Wortmann,P,So,11,4,2019,14781,Gettysburg,258
 28,1780957,Brendan Wright,P,Sr,1,0,2019,14781,Gettysburg,258
 4,1891163,Ryan Augustus,OF,Jr,23,19,2019,14781,Gettysburg,258
 17,2008427,Dan Ball,P,So,12,6,2019,14781,Gettysburg,258
@@ -24564,7 +24564,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 32,1986117,Ryan Mcmahan,P,Fr,0,0,2019,14781,Lindenwood,30136
 36,1986108,Karson Aherin,P,So,1,0,2019,14781,Lindenwood,30136
 24,2118625,Jayce Maag,INF,Fr,19,3,2019,14781,Lindenwood,30136
-12,2118602,Bryce Beckmann,OF,Jr,52,51,2019,14781,Lindenwood,30136
+28,1874092,Blake Beckmann,P,Jr,15,15,2019,14781,Lindenwood,30136
 20,2118604,Matt Bitter,C,Fr,0,0,2019,14781,Lindenwood,30136
 3,1986136,Tyler Brinkmann,OF,Fr,2,0,2019,14781,Lindenwood,30136
 17,1986112,Tyler Cassmeyer,P,So,13,6,2019,14781,Lindenwood,30136
@@ -24581,7 +24581,7 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 8,2118624,Mitchell Krebs,INF,Jr,52,52,2019,14781,Lindenwood,30136
 35,1986148,Nick Zeitlow,P,Fr,3,0,2019,14781,Lindenwood,30136
 31,1986139,Niko Marshall,P,Fr,9,3,2019,14781,Lindenwood,30136
-28,1874092,Blake Beckmann,P,Jr,15,15,2019,14781,Lindenwood,30136
+12,2118602,Bryce Beckmann,OF,Jr,52,51,2019,14781,Lindenwood,30136
 43,1874091,Justin Baylard,P,Jr,2,0,2019,14781,Lindenwood,30136
 18,2008318,Madi Dehart,P,So,0,0,2019,14781,Upper Iowa,728
 31,2154068,Logan Dewulf,p,So,14,5,2019,14781,Upper Iowa,728
@@ -24733,8 +24733,8 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 15,1890540,Connor Dulin,P,Jr,3,0,2019,14781,Mitchell,30042
 45,1779884,Brandon Gennotti,P,Sr,1,0,2019,14781,Mitchell,30042
 23,2003709,Michael Gonzalez,P,Sr,1,0,2019,14781,Mitchell,30042
-3,2003622,Justin L. Johnson,INF,Jr,13,5,2019,14781,Mitchell,30042
 12,2144996,Justin Johnson,SS,Jr,42,42,2019,14781,Mitchell,30042
+3,2003622,Justin L. Johnson,INF,Jr,13,5,2019,14781,Mitchell,30042
 35,2145003,John-John Jose,3B,Fr,18,3,2019,14781,Mitchell,30042
 44,2003723,Ryan Kane,P,So,0,0,2019,14781,Mitchell,30042
 47,2003717,Carl Kopf,P,So,0,0,2019,14781,Mitchell,30042
@@ -24755,12 +24755,12 @@ RS,2145239,Brandon Ford,P,,0,0,2019,14781,Northern St.,1266
 27,1979981,Gage Hinson,P,Sr,16,0,2019,14781,South Carolina,648
 47,2111261,Dylan Harley,P,Fr,24,5,2019,14781,South Carolina,648
 41,2111273,Cole Ganopulos,P,Jr,16,0,2019,14781,South Carolina,648
-22,1980179,Logan Chapman,P,So,0,0,2019,14781,South Carolina,648
+28,1980181,Ridge Chapman,P,Sr,1,0,2019,14781,South Carolina,648
 8,2111253,Jacob English,INF,Fr,14,0,2019,14781,South Carolina,648
 33,1768178,Chris Cullen,C,Sr,54,52,2019,14781,South Carolina,648
 44,1980189,Parker Coyne,P,So,16,1,2019,14781,South Carolina,648
 38,2111258,Wes Clarke,C,Fr,19,11,2019,14781,South Carolina,648
-28,1980181,Ridge Chapman,P,Sr,1,0,2019,14781,South Carolina,648
+22,1980179,Logan Chapman,P,So,0,0,2019,14781,South Carolina,648
 49,2111263,Brett Kerry,P,Fr,22,2,2019,14781,South Carolina,648
 11,2111255,Andrew Eyster,OF,So,50,47,2019,14781,South Carolina,648
 13,1872255,Graham Lawson,P,Sr,0,0,2019,14781,South Carolina,648
@@ -25184,8 +25184,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 7,1873472,Justin Williams,INF,So,27,24,2019,14781,N.C. A&T,488
 24,2138770,Donte Wade,OF,Fr,38,25,2019,14781,N.C. A&T,488
 35,1873473,Ryne Stanley,C,Jr,50,48,2019,14781,N.C. A&T,488
-19,2138596,Gianni Smith,P,Fr,13,4,2019,14781,N.C. A&T,488
 8,1772278,Dawnoven Smith,OF,Sr,53,52,2019,14781,N.C. A&T,488
+19,2138596,Gianni Smith,P,Fr,13,4,2019,14781,N.C. A&T,488
 13,1772270,James Rorie,C,So,18,9,2019,14781,N.C. A&T,488
 34,1983931,Walfrank Pineiro,P,Sr,14,0,2019,14781,N.C. A&T,488
 32,1772271,Jarrett Norman,C,Sr,36,26,2019,14781,N.C. A&T,488
@@ -25279,7 +25279,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 19,2130870,Kyle Perry,P,Fr,11,7,2019,14781,Nebraska,463
 47,1753104,Robbie Palkert,P,Jr,21,0,2019,14781,Nebraska,463
 49,1992111,Max Schreiber,P,So,11,0,2019,14781,Nebraska,463
-21,1865779,Joseph Murphy,P,Jr,15,11,2019,14781,New York Tech,477
+11,2116593,Ryan Murphy,3B,Fr,14,3,2019,14781,New York Tech,477
 16,1759252,Brandon Alberto,P,Sr,0,0,2019,14781,New York Tech,477
 20,2116594,Matt Malone,C,Fr,44,39,2019,14781,New York Tech,477
 22,1865776,Dj Masuck,P,Jr,18,13,2019,14781,New York Tech,477
@@ -25287,7 +25287,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 14,2116569,Billy Mcquillan,P,Fr,2,0,2019,14781,New York Tech,477
 32,2116627,Matt Mione,P,Fr,2,0,2019,14781,New York Tech,477
 29,2116596,Trey Moran,1B,Fr,23,9,2019,14781,New York Tech,477
-11,2116593,Ryan Murphy,3B,Fr,14,3,2019,14781,New York Tech,477
+21,1865779,Joseph Murphy,P,Jr,15,11,2019,14781,New York Tech,477
 18,1975218,Joseph Pesce,OF,So,41,34,2019,14781,New York Tech,477
 40,1878539,Elvin Ramos Jr.,P,Sr,13,0,2019,14781,New York Tech,477
 37,2116612,Moises Robles,P,Jr,10,8,2019,14781,New York Tech,477
@@ -25566,21 +25566,21 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 12,1983870,Noah Daubin,P,So,41,37,2019,14781,Academy of Art,30123
 5,2126665,Daniel Curiel,OF,Jr,36,36,2019,14781,Academy of Art,30123
 7,1765254,Robert Villanueva,3B,Sr,0,0,2019,14781,Academy of Art,30123
-3,2126664,Jayson Summers,P,Jr,17,0,2019,14781,Academy of Art,30123
 6,2126666,Justin Summers,SS,Jr,46,46,2019,14781,Academy of Art,30123
+3,2126664,Jayson Summers,P,Jr,17,0,2019,14781,Academy of Art,30123
 17,1983881,Caden Spilsbury,P,Sr,17,3,2019,14781,Academy of Art,30123
-8,2126625,Will Smith,P,Fr,0,0,2019,14781,Academy of Art,30123
+4,1983868,Elijah Smith,INF,Sr,42,39,2019,14781,Academy of Art,30123
 51,1765259,Mason Verhees,P,Sr,12,12,2019,14781,Academy of Art,30123
 65,2126669,Matthew Sanchez,P,Jr,10,5,2019,14781,Academy of Art,30123
 14,1983877,Gonzo Rios,P,Sr,21,3,2019,14781,Academy of Art,30123
 15,1983878,Angel Mora,1B,Sr,45,40,2019,14781,Academy of Art,30123
 16,1983856,Zak May,C,Sr,40,35,2019,14781,Academy of Art,30123
 2,2126663,Thomas Delgadillo,OF,Jr,45,45,2019,14781,Academy of Art,30123
-4,1983868,Elijah Smith,INF,Sr,42,39,2019,14781,Academy of Art,30123
+8,2126625,Will Smith,P,Fr,0,0,2019,14781,Academy of Art,30123
 23,1884771,Nate Cobb,OF,Jr,0,0,2019,14781,Malone,30137
 25,1999534,Clay Cooper,P,So,22,0,2019,14781,Malone,30137
 48,2143919,Ivan Zamora,OF,Fr,7,0,2019,14781,Malone,30137
-8,1773686,Braun Miller,P,Jr,3,3,2019,14781,Malone,30137
+34,2143853,Danny Miller,P,Fr,1,0,2019,14781,Malone,30137
 44,2143916,Tyler Mckee,P,Fr,7,0,2019,14781,Malone,30137
 18,1999546,Mitch Massaro,OF,Fr,13,9,2019,14781,Malone,30137
 1,1884758,Kyle Kovach,P,Jr,2,0,2019,14781,Malone,30137
@@ -25597,12 +25597,12 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 15,1884767,Tom Eslich,C,Sr,0,0,2019,14781,Malone,30137
 45,1884792,Trey Davis,C,Jr,11,5,2019,14781,Malone,30137
 12,1773680,Joe Crank,SS,Sr,3,3,2019,14781,Malone,30137
-34,2143853,Danny Miller,P,Fr,1,0,2019,14781,Malone,30137
+8,1773686,Braun Miller,P,Jr,3,3,2019,14781,Malone,30137
 11,1650635,Shawn Mills,P,Jr,2,1,2019,14781,Malone,30137
 56,2143854,Manny Miranda,INF,Fr,0,0,2019,14781,Malone,30137
-5,1999539,Jake Mottice,OF,So,50,50,2019,14781,Malone,30137
-22,1773685,Clyde Yoder,P,So,13,12,2019,14781,Malone,30137
+10,1999535,Cade Mottice,INF,Fr,44,34,2019,14781,Malone,30137
 52,1999557,Bryan Yoder,C,Fr,21,19,2019,14781,Malone,30137
+22,1773685,Clyde Yoder,P,So,13,12,2019,14781,Malone,30137
 9,1999545,Clay Wisner,INF,So,43,41,2019,14781,Malone,30137
 3,1999548,Alex Widmer,P,So,4,1,2019,14781,Malone,30137
 16,1650647,Austin White,3B,Sr,50,50,2019,14781,Malone,30137
@@ -25617,8 +25617,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 50,1999553,Taylor Reynolds,3B,So,1,0,2019,14781,Malone,30137
 38,1773691,Matt Noel,C,Sr,51,51,2019,14781,Malone,30137
 6,1884765,Eric Mullet,P,Jr,14,13,2019,14781,Malone,30137
+5,1999539,Jake Mottice,OF,So,50,50,2019,14781,Malone,30137
 4,1884788,Zach Mottice,INF,Jr,51,48,2019,14781,Malone,30137
-10,1999535,Cade Mottice,INF,Fr,44,34,2019,14781,Malone,30137
 24,1773689,Anthony Stillwagon,P,Sr,8,1,2019,14781,Malone,30137
 19,2143912,Doug Belanger,C,Fr,1,0,2019,14781,Malone,30137
 15,1864125,Tyler Stanley,OF,Jr,54,47,2019,14781,Elon,1068
@@ -25669,8 +25669,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 1,1878857,Cade Johnson,INF,Jr,33,33,2019,14781,Hardin-Simmons,271
 15,1987370,Brett Hudspeth,OF,Jr,26,24,2019,14781,Hardin-Simmons,271
 29,2121207,Clay Botello,P,Fr,10,0,2019,14781,Hardin-Simmons,271
-18,1878864,Channing Hickman,P,Jr,7,1,2019,14781,Hardin-Simmons,271
 9,2121210,Weston Hickman,OF,Fr,26,7,2019,14781,Hardin-Simmons,271
+18,1878864,Channing Hickman,P,Jr,7,1,2019,14781,Hardin-Simmons,271
 26,1878865,Andrew Hernandez,P,Jr,8,0,2019,14781,Hardin-Simmons,271
 16,1987369,Hunter Garrison,OF,Jr,41,40,2019,14781,Hardin-Simmons,271
 7,2121209,Garrett Frazier,OF,Fr,10,4,2019,14781,Hardin-Simmons,271
@@ -25762,14 +25762,14 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 27,2116642,Matthew Snider,P,Fr,18,7,2019,14781,Ga. Southwestern,1097
 3,1986205,Tyler Summerall,OF,So,6,0,2019,14781,Ga. Southwestern,1097
 2,1873967,Andy Moore,1B,Jr,49,30,2019,14781,Ga. Southwestern,1097
-36,2116643,John Austin Sutton,C,Fr,0,0,2019,14781,Ga. Southwestern,1097
+12,2116621,Alex Sutton,P,Fr,0,0,2019,14781,Ga. Southwestern,1097
 33,1986203,Harrison Timberlake,P,So,23,5,2019,14781,Ga. Southwestern,1097
 14,1986208,Stewart Tyler,P,Sr,13,4,2019,14781,Ga. Southwestern,1097
 39,2116737,Tyler Adams,INF,Fr,8,1,2019,14781,Ga. Southwestern,1097
 18,2116669,Guy Anderberg,INF,Fr,0,0,2019,14781,Ga. Southwestern,1097
 13,1986207,Jason Baita,INF,Sr,51,51,2019,14781,Ga. Southwestern,1097
 31,2116623,Miguel Urbina,INF,Jr,20,11,2019,14781,Ga. Southwestern,1097
-12,2116621,Alex Sutton,P,Fr,0,0,2019,14781,Ga. Southwestern,1097
+36,2116643,John Austin Sutton,C,Fr,0,0,2019,14781,Ga. Southwestern,1097
 19,2117867,Jackson Mix,INF,Fr,0,0,2019,14781,Ga. Southwestern,1097
 30,2116640,Cole Baldner,OF,Fr,0,0,2019,14781,Ga. Southwestern,1097
 21,1986198,Hayden Martin,P,So,13,0,2019,14781,Ga. Southwestern,1097
@@ -25926,8 +25926,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 17,1988330,Eddie Satisky,P,Fr,0,0,2019,14781,Eastern Ky.,202
 38,2128449,Brent Lovell,C,Fr,37,30,2019,14781,Eastern Ky.,202
 40,2128433,Mitchell Morris,P,Jr,1,0,2019,14781,Eastern Ky.,202
-12,1881811,A.J. Lewis,C,Jr,54,54,2019,14781,Eastern Ky.,202
 14,1988324,Jake Lewis,P,So,16,2,2019,14781,Eastern Ky.,202
+12,1881811,A.J. Lewis,C,Jr,54,54,2019,14781,Eastern Ky.,202
 4,1869824,Nick Laster,P,Jr,17,0,2019,14781,Eastern Ky.,202
 18,2128430,Brennan Labarbera,P,Fr,11,1,2019,14781,Eastern Ky.,202
 7,1869816,Ryland Kerr,INF,Sr,58,57,2019,14781,Eastern Ky.,202
@@ -26120,8 +26120,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 30.0,1990745,Wes Bucher,P,Sr,20,2,2019,14781,West Ga.,766
 35.0,1757842,Spencer Cross,INF,Sr,0,0,2019,14781,West Ga.,766
 9.0,1882426,Xavier Cruz,C,Jr,0,0,2019,14781,West Ga.,766
-37.0,2148391,Daniel Langston,OF,Fr,8,4,2019,14781,West Ga.,766
 38.0,2157188,Miles Langston,P,Fr,1,0,2019,14781,West Ga.,766
+37.0,2148391,Daniel Langston,OF,Fr,8,4,2019,14781,West Ga.,766
 27.0,1999334,Jacob Lane,P,Jr,2,0,2019,14781,West Ga.,766
 11.0,1882229,Russell Klein,P,Sr,0,0,2019,14781,West Ga.,766
 11.0,2136342,Dylan Johnson,ph/rf,,22,10,2019,14781,West Ga.,766
@@ -26274,8 +26274,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 24,2005749,Alex Ward,P,So,0,0,2019,14781,Cameron,996
 35,2124416,Michael Womack,P,So,4,0,2019,14781,Cameron,996
 1,2124404,Beau Williams,INF,Fr,24,10,2019,14781,Cameron,996
-8,2124408,Jordan Harrison-Dudley,OF,So,34,24,2019,14781,Cameron,996
 13,2124411,Joshua Harrison-Dudley,OF,Fr,0,0,2019,14781,Cameron,996
+8,2124408,Jordan Harrison-Dudley,OF,So,34,24,2019,14781,Cameron,996
 12,2124428,Tyler Wood,INF,Jr,21,19,2019,14781,Cameron,996
 23.0,1894035,Roman Rothwell,1B,Jr,33,32,2019,14781,Mt. St. Joseph,8567
 3.0,1766204,Simon Schaerfer,2B,Sr,32,31,2019,14781,Mt. St. Joseph,8567
@@ -26328,9 +26328,9 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 51,1871579,Zach Yeager,P,Jr,0,0,2019,14781,Emmanuel  (Conference Carolinas),30193
 32,1871555,Drew Young,P,Sr,0,0,2019,14781,Emmanuel  (Conference Carolinas),30193
 14,1994964,Israel Zackery,SS,Sr,0,0,2019,14781,Emmanuel  (Conference Carolinas),30193
-34,1994963,Walker Smith,PH,Sr,0,0,2019,14781,Emmanuel  (Conference Carolinas),30193
-59,2132387,Keegan Vura,INF,Fr,0,0,2019,14781,Emmanuel  (Conference Carolinas),30193
 54,2132383,Bryson Smith,OF,Fr,0,0,2019,14781,Emmanuel  (Conference Carolinas),30193
+59,2132387,Keegan Vura,INF,Fr,0,0,2019,14781,Emmanuel  (Conference Carolinas),30193
+34,1994963,Walker Smith,PH,Sr,0,0,2019,14781,Emmanuel  (Conference Carolinas),30193
 50,2013747,Austin Stanton,1B,So,0,0,2019,14781,Emmanuel  (Conference Carolinas),30193
 19,1871514,Stephen Skeggs,OF,Sr,33,9,2019,14781,Emmanuel  (Conference Carolinas),30193
 40,2132331,Paul Foley,P,Fr,0,0,2019,14781,Emmanuel  (Conference Carolinas),30193
@@ -26539,13 +26539,13 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 38,1980934,Brian Vance,C,So,8,7,2019,14781,Saint Joseph's,606
 15,2121411,Luke Zimmerman,UT,Fr,17,5,2019,14781,Saint Joseph's,606
 2,1980909,Cole Stetzar,INF,So,22,4,2019,14781,Saint Joseph's,606
-6,2121410,Luke Smith,UT,Fr,0,0,2019,14781,Saint Joseph's,606
+43,1980945,Kyle Smith,P,Jr,11,1,2019,14781,Saint Joseph's,606
 11,2121424,Nate Thomas,INF,Fr,48,48,2019,14781,Saint Joseph's,606
 9,2121422,Chris Skermo,INF,Jr,25,18,2019,14781,Saint Joseph's,606
 13,1871541,Hayden Seig,P,Jr,19,3,2019,14781,Saint Joseph's,606
 29,1755482,Lucas Rollins,P,Sr,0,0,2019,14781,Saint Joseph's,606
 4,1755476,Brendan Roach,C,Sr,3,1,2019,14781,Saint Joseph's,606
-43,1980945,Kyle Smith,P,Jr,11,1,2019,14781,Saint Joseph's,606
+6,2121410,Luke Smith,UT,Fr,0,0,2019,14781,Saint Joseph's,606
 21,2156707,Kevin Garcia,C,Fr,5,3,2019,14781,Concordia Chicago,160
 20,2149234,Brayden Benavides,2B,Fr,46,46,2019,14781,Concordia Chicago,160
 13,2000763,Adam Lackey,C,So,5,1,2019,14781,Concordia Chicago,160
@@ -26631,8 +26631,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 21.0,1971974,Richie Sobalvarro,1B,So,42,31,2019,14781,Barry,49
 42.0,2111856,Bran Socorro,OF,Fr,25,3,2019,14781,Barry,49
 25.0,1971989,Garrett Thompson,1B,So,0,0,2019,14781,Barry,49
-12.0,1990902,Jose Torres,P,So,3,0,2019,14781,Barry,49
 0.0,2111810,Steven Torres,OF,Fr,18,5,2019,14781,Barry,49
+12.0,1990902,Jose Torres,P,So,3,0,2019,14781,Barry,49
 30.0,2111846,Nick Vanderhoef,P,Fr,6,1,2019,14781,Barry,49
 29.0,2111824,Cade Middleton,P,Fr,7,0,2019,14781,Barry,49
 36.0,1877640,Amilcar Yanez,P,Sr,15,1,2019,14781,Barry,49
@@ -26648,21 +26648,21 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 24.0,2111821,Ariel Diaz,OF,Jr,40,28,2019,14781,Barry,49
 2.0,2111826,Jc Garcia,INF,Jr,41,40,2019,14781,Barry,49
 9.0,1868564,Myles Gayman,P,Jr,17,10,2019,14781,Barry,49
-32.0,2111836,Kenny Gonzalez,OF,Fr,6,1,2019,14781,Barry,49
-4.0,2111827,Branden Abreu,INF,Fr,16,0,2019,14781,Barry,49
 18.0,2111829,Frank Gonzalez,P,Fr,14,13,2019,14781,Barry,49
+4.0,2111827,Branden Abreu,INF,Fr,16,0,2019,14781,Barry,49
+32.0,2111836,Kenny Gonzalez,OF,Fr,6,1,2019,14781,Barry,49
 44.0,1757806,Anthony Gutierrez,P,Sr,15,0,2019,14781,Barry,49
 11.0,1971987,Ping-Chun Ho,P,So,14,0,2019,14781,Barry,49
 10.0,1876322,Justin Lamazares,3B,Sr,38,35,2019,14781,Barry,49
 14.0,2111815,Freddie Matos,INF,Jr,37,32,2019,14781,Barry,49
 23.0,1876305,Pablo Arevalo,P,Jr,15,5,2019,14781,Barry,49
 22.0,1971986,Joel Alvarez,3B,So,33,22,2019,14781,Barry,49
-11,2001234,Parker Bigelow,OF,So,16,0,2019,14781,Worcester St.,809
 3,2001236,Cooper Bigelow,SS,Jr,40,39,2019,14781,Worcester St.,809
+11,2001234,Parker Bigelow,OF,So,16,0,2019,14781,Worcester St.,809
 18,1886479,Luke Brennan,P,Sr,0,0,2019,14781,Worcester St.,809
 32,2158928,Matt Bouley,C,,3,0,2019,14781,Worcester St.,809
 12,2001235,Jake Breton,INF,So,39,30,2019,14781,Worcester St.,809
-35,1886496,Seth Allen,P,Jr,7,0,2019,14781,Worcester St.,809
+19,1886480,Sam Allen,3B,Jr,39,38,2019,14781,Worcester St.,809
 27,2153187,A. Abernathy,p,,12,0,2019,14781,Worcester St.,809
 9,2001219,Josh Boucher,P,Sr,6,3,2019,14781,Worcester St.,809
 43,2001240,Alphonse Caruso,P,Sr,1,0,2019,14781,Worcester St.,809
@@ -26707,7 +26707,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 24,2153389,Justin Pena,p,,7,3,2019,14781,Worcester St.,809
 6,1886475,Ben Palatino,1B,Jr,37,37,2019,14781,Worcester St.,809
 14,1886477,Colin Medeiros,OF,Jr,0,0,2019,14781,Worcester St.,809
-19,1886480,Sam Allen,3B,Jr,39,38,2019,14781,Worcester St.,809
+35,1886496,Seth Allen,P,Jr,7,0,2019,14781,Worcester St.,809
 28,2120059,Pj Hanisak,C,Fr,0,0,2019,14781,Bridgewater  (ODAC),75
 33,1778814,Kyle Hasforth,P,Jr,9,2,2019,14781,Bridgewater  (ODAC),75
 25,1877325,Phillip Herber,C,Jr,19,14,2019,14781,Bridgewater  (ODAC),75
@@ -26902,8 +26902,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 44,2134910,Matt Nunamaker,P,Fr,0,0,2019,14781,Monmouth  (MWC),438
 35,2134909,Bryan Peters,P,Fr,0,0,2019,14781,Monmouth  (MWC),438
 50,2134932,Jimmy Peterson,OF,Fr,1,0,2019,14781,Monmouth  (MWC),438
-41,2134930,Kaleb Plattenberger,INF,Fr,0,0,2019,14781,Monmouth  (MWC),438
 23,2134925,Kody Plattenberger,C,Fr,0,0,2019,14781,Monmouth  (MWC),438
+41,2134930,Kaleb Plattenberger,INF,Fr,0,0,2019,14781,Monmouth  (MWC),438
 27,1989043,Grant Powers,1B,So,11,7,2019,14781,Monmouth  (MWC),438
 19,1889415,Campbell Quirk,P,Jr,16,12,2019,14781,Monmouth  (MWC),438
 28,2134927,Kole Renken,1B,Fr,1,0,2019,14781,Monmouth  (MWC),438
@@ -26997,8 +26997,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 0,2137239,Carter Strickland,P,Fr,8,0,2019,14781,Longwood,363
 32,1978559,Jack Schnell,OF,So,41,31,2019,14781,Longwood,363
 14,2137245,De'Andre Pitts,INF,Jr,48,43,2019,14781,Longwood,363
-11,2137242,Michael Peterson,OF,Fr,29,8,2019,14781,Longwood,363
 31,1761407,Jon Peterson,P,Sr,24,0,2019,14781,Longwood,363
+11,2137242,Michael Peterson,OF,Fr,29,8,2019,14781,Longwood,363
 34,1978561,Todd Moxey,P,So,13,0,2019,14781,Longwood,363
 17,1869942,Tyler Morgan,P,Jr,11,11,2019,14781,Longwood,363
 26,2137272,Jacob Mitchell,1B,Jr,48,44,2019,14781,Longwood,363
@@ -27025,7 +27025,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 1,1978552,Eli Mercado,INF,Sr,28,6,2019,14781,Longwood,363
 15,1978554,Maceo Campbell,P,So,0,0,2019,14781,Longwood,363
 29,1978557,Daniel Brandon,P,So,6,0,2019,14781,Longwood,363
-34.0,1775416,Sam Stewart,C,Sr,29,21,2019,14781,Messiah,411
+31.0,1995618,Ben Stewart,P,So,11,0,2019,14781,Messiah,411
 41.0,2145957,Paul Hansel,P,So,10,0,2019,14781,Messiah,411
 11.0,1887449,Nick Godwin,P,Jr,2,1,2019,14781,Messiah,411
 32.0,1995619,Derek Freed,INF,So,0,0,2019,14781,Messiah,411
@@ -27051,7 +27051,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 1.0,2157789,Ben Writer,P,Fr,5,3,2019,14781,Messiah,411
 6.0,2159523,Jorge Zambrano,P,Fr,5,2,2019,14781,Messiah,411
 41.0,1774300,Drew Betz,P,Sr,0,0,2019,14781,Messiah,411
-31.0,1995618,Ben Stewart,P,So,11,0,2019,14781,Messiah,411
+34.0,1775416,Sam Stewart,C,Sr,29,21,2019,14781,Messiah,411
 2.0,1887447,Ryan Hentschel,OF,Jr,30,25,2019,14781,Messiah,411
 48.0,2161354,A. Jeon,p,,1,1,2019,14781,Messiah,411
 38.0,1995621,Carson Spangler,P,So,14,1,2019,14781,Messiah,411
@@ -27216,7 +27216,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 34,2125106,Kyle Sandstrom,OF,Jr,0,0,2019,14781,Charleston So.,48
 36,2125092,Hunter Iling,P,Fr,16,0,2019,14781,Charleston So.,48
 7,1977634,Ryan Rizk,INF,So,26,23,2019,14781,Charleston So.,48
-25,1977632,Derek Horton,OF,Sr,25,4,2019,14781,Charleston So.,48
+3,2125091,Kyle Horton,UT,Fr,42,39,2019,14781,Charleston So.,48
 5,1869777,Jason Miller,INF,Sr,59,59,2019,14781,Charleston So.,48
 40,2125088,Logan Adams,P,Fr,11,5,2019,14781,Charleston So.,48
 2,1869776,Alex Andronica,INF,Jr,38,8,2019,14781,Charleston So.,48
@@ -27232,20 +27232,20 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 4,2125090,Reid Hardwick,INF,Jr,58,58,2019,14781,Charleston So.,48
 33,1774136,Eddie Hiott,P,Sr,32,0,2019,14781,Charleston So.,48
 13,2125105,Payton Holdsworth,UT,Jr,30,19,2019,14781,Charleston So.,48
-3,2125091,Kyle Horton,UT,Fr,42,39,2019,14781,Charleston So.,48
+25,1977632,Derek Horton,OF,Sr,25,4,2019,14781,Charleston So.,48
 29,1774138,Cody Maw,P,Sr,15,13,2019,14781,Charleston So.,48
 4,2000085,Kyle Livingood,OF,Sr,0,0,2019,14781,Northwestern-St. Paul,30031
 33,2152585,Sam Ludzack,p,Fr,9,8,2019,14781,Northwestern-St. Paul,30031
 19,1877124,Carter Michaelson,OF,Jr,0,0,2019,14781,Northwestern-St. Paul,30031
 26,2158101,Jc Micklich,rf,Fr,1,0,2019,14781,Northwestern-St. Paul,30031
 10,2000089,Wyatt Morrell,P,So,43,43,2019,14781,Northwestern-St. Paul,30031
-24,1776676,Quinton Lindow,P,Sr,11,9,2019,14781,Northwestern-St. Paul,30031
-8,2002637,Sam Peterson,INF,So,42,40,2019,14781,Northwestern-St. Paul,30031
+11,2000081,Carlton Lindow,C,So,41,41,2019,14781,Northwestern-St. Paul,30031
+7,2000080,Eric Peterson,INF,So,22,17,2019,14781,Northwestern-St. Paul,30031
 12,2000090,Caleb Piersma,OF,So,34,29,2019,14781,Northwestern-St. Paul,30031
 21,2153430,Dylan Ramberg,p,Fr,10,0,2019,14781,Northwestern-St. Paul,30031
 28,2000100,Kana Schuman,C,So,0,0,2019,14781,Northwestern-St. Paul,30031
-7,2000080,Eric Peterson,INF,So,22,17,2019,14781,Northwestern-St. Paul,30031
-11,2000081,Carlton Lindow,C,So,41,41,2019,14781,Northwestern-St. Paul,30031
+8,2002637,Sam Peterson,INF,So,42,40,2019,14781,Northwestern-St. Paul,30031
+24,1776676,Quinton Lindow,P,Sr,11,9,2019,14781,Northwestern-St. Paul,30031
 23,1877143,Henry Waage,P,Jr,0,0,2019,14781,Northwestern-St. Paul,30031
 2,2000063,Sam Knight,C,So,0,0,2019,14781,Northwestern-St. Paul,30031
 8,2000079,Noah Kinniburgh,P,So,0,0,2019,14781,Northwestern-St. Paul,30031
@@ -27287,8 +27287,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 36,1871048,Connor Hurley,P,Jr,8,2,2019,14781,Concordia-St. Paul,9081
 11,1750900,Kyle Horstmann,INF,Sr,14,6,2019,14781,Concordia-St. Paul,9081
 22,1750895,Tom Austin,C,Sr,19,14,2019,14781,Concordia-St. Paul,9081
-31,1978588,Ryan Bastyr,2B,So,17,6,2019,14781,Concordia-St. Paul,9081
 37,1978572,Ross Bastyr,P,So,13,0,2019,14781,Concordia-St. Paul,9081
+31,1978588,Ryan Bastyr,2B,So,17,6,2019,14781,Concordia-St. Paul,9081
 38,1978573,Jack Becker,INF,Fr,1,0,2019,14781,Concordia-St. Paul,9081
 30,1750896,Shane Benson,P,Jr,13,0,2019,14781,Concordia-St. Paul,9081
 16,1871040,Patrick Bordewick,INF,Jr,45,45,2019,14781,Concordia-St. Paul,9081
@@ -27346,7 +27346,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 33.0,1757707,Evan Reichel,P,Sr,2,0,2019,14781,St. Lawrence,607
 9.0,2143008,Sam Putney,P,Fr,2,0,2019,14781,St. Lawrence,607
 10.0,1757699,Charlie Pacilio,INF,Sr,15,1,2019,14781,St. Lawrence,607
-28.0,1757704,Anthony Butler,C,Sr,31,29,2019,14781,St. Lawrence,607
+13.0,2143001,Nicholas Butler,OF,Fr,37,37,2019,14781,St. Lawrence,607
 18.0,1757701,Alex Black,P,Sr,29,21,2019,14781,St. Lawrence,607
 25.0,1757703,Evan O'Keeffe,INF,Sr,25,25,2019,14781,St. Lawrence,607
 14.0,2009049,Cameron Morrissey,P,So,9,7,2019,14781,St. Lawrence,607
@@ -27357,7 +27357,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 23.0,2009051,Joe Levin,C,So,8,8,2019,14781,St. Lawrence,607
 16.0,1896068,Louis Lacivita,P,Jr,12,0,2019,14781,St. Lawrence,607
 3.0,2143006,Huck Haun,P,Fr,8,2,2019,14781,St. Lawrence,607
-13.0,2143001,Nicholas Butler,OF,Fr,37,37,2019,14781,St. Lawrence,607
+28.0,1757704,Anthony Butler,C,Sr,31,29,2019,14781,St. Lawrence,607
 2.0,1757698,Jeremy Gerringer,INF,Sr,18,17,2019,14781,St. Lawrence,607
 30.0,1757705,Robert Gates,P,Sr,0,0,2019,14781,St. Lawrence,607
 8.0,2143005,Christian Forgione,INF,Fr,30,26,2019,14781,St. Lawrence,607
@@ -27545,7 +27545,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 11,2147939,Harry Orth,P,Fr,4,0,2019,14781,Wis.-Oshkosh,798
 24,1999340,Adam O'Malley,P,Jr,4,0,2019,14781,Wis.-Oshkosh,798
 5,1999347,Hunter Staniske,INF,So,39,38,2019,14781,Wis.-Oshkosh,798
-21,1999338,Trevor Niedzwiecki,P,So,11,0,2019,14781,Wis.-Oshkosh,798
+4,1999333,Dylan Niedzwiecki,OF,So,0,0,2019,14781,Wis.-Oshkosh,798
 15,1999336,Eric Modaff,OF,So,20,17,2019,14781,Wis.-Oshkosh,798
 12,1999348,Will Michalski,P,So,12,7,2019,14781,Wis.-Oshkosh,798
 9,1999335,Matt Mcnabb,OF,So,27,22,2019,14781,Wis.-Oshkosh,798
@@ -27554,7 +27554,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 27,1776697,Colan Treml,P,Sr,16,16,2019,14781,Wis.-Oshkosh,798
 61,2147947,Tyler Labedz,P,Fr,0,0,2019,14781,Wis.-Oshkosh,798
 32,1776701,Alex Koch,OF,Sr,34,34,2019,14781,Wis.-Oshkosh,798
-4,1999333,Dylan Niedzwiecki,OF,So,0,0,2019,14781,Wis.-Oshkosh,798
+21,1999338,Trevor Niedzwiecki,P,So,11,0,2019,14781,Wis.-Oshkosh,798
 45,1893841,Alex Larson,P,Jr,3,1,2019,14781,Wis.-Oshkosh,798
 29,2120230,Jake Wisniewski,P,Fr,3,0,2019,14781,Southern Wesleyan,30192
 19,1977929,Aaron Wimpey,P,So,2,0,2019,14781,Southern Wesleyan,30192
@@ -27716,8 +27716,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 22,1986558,Drew Mesecher,P,Sr,13,12,2019,14781,West Tex. A&M,767
 10,1750587,Joe Corbett,P,Sr,15,14,2019,14781,West Tex. A&M,767
 23,1883885,Mitchell Miller,P,Jr,15,2,2019,14781,West Tex. A&M,767
-18,2154609,Charlie Overstreet,OF,Jr,0,0,2019,14781,West Tex. A&M,767
 18,2134053,Charlie Overstreet,OF,Jr,0,0,2019,14781,West Tex. A&M,767
+18,2154609,Charlie Overstreet,OF,Jr,0,0,2019,14781,West Tex. A&M,767
 14,2127492,Reese Patterson,INF,Jr,15,1,2019,14781,West Tex. A&M,767
 34,2127495,Jake Pederson,OF,Jr,36,21,2019,14781,West Tex. A&M,767
 91,2134132,Blake Perdue,OF,Jr,0,0,2019,14781,West Tex. A&M,767
@@ -27802,8 +27802,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 28,2115637,Bryant Wise,P,Fr,11,5,2019,14781,Emory,217
 16,1864072,Michael Wilson,OF,Sr,21,7,2019,14781,Emory,217
 12,1751344,Eric Terry,C,Sr,34,19,2019,14781,Emory,217
-42,2115639,Danny Terp,INF,Fr,3,0,2019,14781,Emory,217
 31,1640660,Bubby Terp,INF,Sr,38,37,2019,14781,Emory,217
+42,2115639,Danny Terp,INF,Fr,3,0,2019,14781,Emory,217
 15,1864071,Brian Taggett,P,Sr,12,1,2019,14781,Emory,217
 38,2115638,Kyle Sulkowski,P,Fr,6,0,2019,14781,Emory,217
 9,1864076,Christopher Stern,INF,Jr,21,12,2019,14781,Emory,217
@@ -27881,9 +27881,9 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 34,1998722,Zack Radcliffe,P,So,12,0,2019,14781,Randolph-Macon,565
 49,2147230,Spencer Pietruszynski,OF,Fr,11,7,2019,14781,Randolph-Macon,565
 41,1998718,Rj Payne,P,So,0,0,2019,14781,Randolph-Macon,565
+25,1766728,Shawn Nickles,OF,Jr,39,39,2019,14781,Randolph-Macon,565
 30,1874431,Mike Nickles,3B,Jr,38,38,2019,14781,Randolph-Macon,565
 32,1874430,Matt Nickles,P,Jr,7,6,2019,14781,Randolph-Macon,565
-25,1766728,Shawn Nickles,OF,Jr,39,39,2019,14781,Randolph-Macon,565
 2,1765683,Jarrett Mustain,INF,Sr,15,4,2019,14781,Randolph-Macon,565
 4,1765691,Andrew Mullen,OF,Sr,10,0,2019,14781,Randolph-Macon,565
 44,2147228,Ryan Morris,OF,Fr,0,0,2019,14781,Randolph-Macon,565
@@ -27929,15 +27929,15 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 42,1992653,Matt Lannes,OF,So,5,0,2019,14781,East. Mennonite,203
 5,1883043,Spencer Laitinen,P,Jr,8,0,2019,14781,East. Mennonite,203
 13,1883032,John Judy,C,Jr,32,23,2019,14781,East. Mennonite,203
-44,2132967,Terry Jones,OF,So,0,0,2019,14781,East. Mennonite,203
+6,2132942,Jordan Jones,OF,Fr,34,27,2019,14781,East. Mennonite,203
 20,1773554,Zach Roberts,INF,Sr,37,37,2019,14781,East. Mennonite,203
-39,1992669,Colin Jones,OF,So,8,0,2019,14781,East. Mennonite,203
+44,2132967,Terry Jones,OF,So,0,0,2019,14781,East. Mennonite,203
 12,2132927,Garrett Howard,OF,Fr,16,0,2019,14781,East. Mennonite,203
 46,2132962,Ashton Henshaw,P,Fr,0,0,2019,14781,East. Mennonite,203
 31,1883034,Bailey Hall,P,Jr,13,13,2019,14781,East. Mennonite,203
 16,2132929,Robert Guenther,INF,Fr,29,21,2019,14781,East. Mennonite,203
 17,2132965,Gage Riddick,UT,Fr,16,0,2019,14781,East. Mennonite,203
-6,2132942,Jordan Jones,OF,Fr,34,27,2019,14781,East. Mennonite,203
+39,1992669,Colin Jones,OF,So,8,0,2019,14781,East. Mennonite,203
 48,2133001,Fletcher Brown,C,Fr,0,0,2019,14781,Rhodes,573
 43,2132984,Jaxon Cady,P,Fr,0,0,2019,14781,Rhodes,573
 45,2132980,C.J. Carron,P,Fr,8,5,2019,14781,Rhodes,573
@@ -28351,8 +28351,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 11.0,2006021,Tyler Rowland,C,So,13,5,2019,14781,Minn.-Morris,1226
 5.0,2156024,Logan Graves,lf,,27,22,2019,14781,Minn.-Morris,1226
 27.0,2156044,C. Grashorn,2b,,20,10,2019,14781,Minn.-Morris,1226
-5.0,2006574,Nick Fairbanks,INF,So,0,0,2019,14781,Minn.-Morris,1226
 22.0,1782603,Blaise Fairbanks,1B,Sr,28,26,2019,14781,Minn.-Morris,1226
+5.0,2006574,Nick Fairbanks,INF,So,0,0,2019,14781,Minn.-Morris,1226
 25.0,1782396,Thomas Eckstein,P,Sr,24,13,2019,14781,Minn.-Morris,1226
 24.0,2155444,Josh Doss,2b,Fr,27,23,2019,14781,Minn.-Morris,1226
 33.0,2160785,Garret Gregersen,rf,,6,0,2019,14781,Minn.-Morris,1226
@@ -28428,8 +28428,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 16.0,1771011,Tristen Powell,P,Sr,5,1,2019,14781,Oglethorpe,2713
 44.0,1757936,Jacob Gassert,OF,Sr,42,42,2019,14781,Oglethorpe,2713
 6.0,2134276,Billy Finch,INF,Fr,33,30,2019,14781,Oglethorpe,2713
-34.0,1771014,Johnathan Feibus,INF,Sr,7,0,2019,14781,Oglethorpe,2713
 43.0,1771020,Caleb Feibus,P,Sr,18,0,2019,14781,Oglethorpe,2713
+34.0,1771014,Johnathan Feibus,INF,Sr,7,0,2019,14781,Oglethorpe,2713
 10.0,1988511,Ethan Edwards,OF,Jr,7,1,2019,14781,Oglethorpe,2713
 51.0,2134278,Heshie Getson,P,Fr,14,0,2019,14781,Oglethorpe,2713
 37,1781824,Bradley Walter,P,Sr,6,4,2019,14781,Penn College,30190
@@ -28694,8 +28694,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 30,2001771,Chris Lee,INF,So,10,4,2019,14781,Waynesburg,1434
 12,2147897,Luke Winterbottom,OF,Fr,10,4,2019,14781,Waynesburg,1434
 18,1775704,Ty Wickline,P,Sr,11,9,2019,14781,Waynesburg,1434
-20,1892685,Carter Uzzell,OF,So,21,4,2019,14781,Waynesburg,1434
 34,1892686,Colton Uzzell,P,Sr,19,0,2019,14781,Waynesburg,1434
+20,1892685,Carter Uzzell,OF,So,21,4,2019,14781,Waynesburg,1434
 39,2001774,Zach Straub,P,So,12,1,2019,14781,Waynesburg,1434
 23,2001800,Tyler Srbinovich,UT,So,30,25,2019,14781,Waynesburg,1434
 14,2147901,Joe Sabolek,P,Fr,11,3,2019,14781,Waynesburg,1434
@@ -28842,8 +28842,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 5,2149975,Patrick Cashin,INF,So,16,8,2019,14781,Bridgewater St.,76
 2,2149995,Ruben Gonzalez,INF,Fr,33,32,2019,14781,Bridgewater St.,76
 20,2007467,Trever Dennett,P,So,10,6,2019,14781,Bridgewater St.,76
-17,2006768,Matt Josselyn,P,So,11,8,2019,14781,Bridgewater St.,76
 29,1779425,Colin Josselyn,P,So,26,20,2019,14781,Bridgewater St.,76
+17,2006768,Matt Josselyn,P,So,11,8,2019,14781,Bridgewater St.,76
 25,2150007,Chris Hanna,P,Fr,9,2,2019,14781,Bridgewater St.,76
 26,2150008,Patrick Hagerty,OF,So,14,9,2019,14781,Bridgewater St.,76
 17,1994311,Andrew Hernandez,P,Jr,20,0,2019,14781,Mercy,407
@@ -28871,13 +28871,13 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 2,1994301,Miguel Ortiz Sanchez,2B,Sr,46,46,2019,14781,Mercy,407
 28,2127845,Daniel Hopper,C,Fr,1,0,2019,14781,Mercy,407
 37,1994318,Nicholas Pellegrino,C,So,16,9,2019,14781,Mercy,407
-47,2127868,Rafael Perez,OF,Jr,20,10,2019,14781,Mercy,407
+12,1994330,Odalis Perez,P,Sr,10,0,2019,14781,Mercy,407
 22,2127843,Justin Renauto,2B,Fr,12,0,2019,14781,Mercy,407
 15,1750821,Joseph Sadallah,INF,Sr,49,48,2019,14781,Mercy,407
 25,2127829,Ryan Saltzman,OF,Fr,41,41,2019,14781,Mercy,407
 2,2006911,O. Sanchez,2B,Jr,2,2,2019,14781,Mercy,407
 41,1997320,Manuel Sanchez,P,So,11,0,2019,14781,Mercy,407
-12,1994330,Odalis Perez,P,Sr,10,0,2019,14781,Mercy,407
+47,2127868,Rafael Perez,OF,Jr,20,10,2019,14781,Mercy,407
 8,1994325,Alonso Tenya,P,Sr,14,0,2019,14781,Mercy,407
 42,1885770,James Jakuba,P,Jr,13,11,2019,14781,Mercy,407
 35,1994317,Jack Kelly,P,So,13,11,2019,14781,Mercy,407
@@ -28918,8 +28918,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 28,2128696,Zach Sundine,P,Jr,12,6,2019,14781,MSU Denver,413
 20,2128678,Austin Stone,P,So,14,12,2019,14781,MSU Denver,413
 27,1983204,Logan Soole,P,Jr,49,48,2019,14781,MSU Denver,413
-14,2128648,Tyler Schultz,UT,Fr,0,0,2019,14781,MSU Denver,413
 29,1984969,Cody Schultz,UT,So,0,0,2019,14781,MSU Denver,413
+14,2128648,Tyler Schultz,UT,Fr,0,0,2019,14781,MSU Denver,413
 21,1763256,Dayne Rowley,P,Sr,4,0,2019,14781,MSU Denver,413
 23,1877229,Cade Crader,P,Jr,11,0,2019,14781,MSU Denver,413
 12,1983230,Eric Cox,P,Fr,26,2,2019,14781,MSU Denver,413
@@ -29211,8 +29211,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 38,2146812,Bobby Dockendorf,UT,Fr,0,0,2019,14781,Manchester,1192
 50,1775723,Jordan Hillyard,P,Sr,12,9,2019,14781,Manchester,1192
 32,2146810,Carter Hooks,P,Fr,13,3,2019,14781,Manchester,1192
-25,1893116,Joe Gallatin,OF,Jr,26,25,2019,14781,Manchester,1192
 19,2146827,John Gallatin,OF,Fr,0,0,2019,14781,Manchester,1192
+25,1893116,Joe Gallatin,OF,Jr,26,25,2019,14781,Manchester,1192
 45,2146816,Seth Hamilton,OF,Fr,1,0,2019,14781,Manchester,1192
 24,2005083,Joe Henschel,3B,So,32,31,2019,14781,Manchester,1192
 48,2116066,Bailey Vickers,C,Fr,0,0,2019,14781,Mercer,406
@@ -29291,7 +29291,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 7,2116083,Hobbs Nyberg,UT,Fr,24,6,2019,14781,BYU,77
 12,2116124,Dj Mcnew,INF,So,19,12,2019,14781,BYU,77
 6,1974986,Mitch Mcintyre,OF,So,53,52,2019,14781,BYU,77
-18,1975006,Justin Sterner,P,So,15,13,2019,14781,BYU,77
+21,2116130,Jack Sterner,P,Fr,0,0,2019,14781,BYU,77
 22,2116121,Jarod Lessar,P,Jr,19,7,2019,14781,BYU,77
 17,1751323,Keaton Kringlen,INF,Sr,45,38,2019,14781,BYU,77
 19,1974980,Koby Kelton,UT,So,2,0,2019,14781,BYU,77
@@ -29299,7 +29299,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 41,2116118,Noah Hughes,OF,Fr,0,0,2019,14781,BYU,77
 14,1974982,Blake Inouye,P,Sr,24,2,2019,14781,BYU,77
 5,2116122,Carson Matthews,INF,Fr,33,29,2019,14781,BYU,77
-21,2116130,Jack Sterner,P,Fr,0,0,2019,14781,BYU,77
+18,1975006,Justin Sterner,P,So,15,13,2019,14781,BYU,77
 31,2116123,Reid Mclaughlin,P,Fr,25,0,2019,14781,BYU,77
 9,1751328,Easton Walker,P,So,19,10,2019,14781,BYU,77
 24,1974981,Drew Zimmerman,P,So,24,2,2019,14781,BYU,77
@@ -29350,8 +29350,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 20,2143928,Cameron Flynn,P,Fr,8,6,2019,14781,Saint Rose,1347
 44,2143943,Max Gebauer,C,Fr,17,12,2019,14781,Saint Rose,1347
 9,1768299,Joe Guerette,P,Jr,8,0,2019,14781,Saint Rose,1347
-45,2001115,Stephen Hill,P,Sr,9,7,2019,14781,Saint Rose,1347
 3,2143856,Brian Hill,INF,Jr,25,21,2019,14781,Saint Rose,1347
+45,2001115,Stephen Hill,P,Sr,9,7,2019,14781,Saint Rose,1347
 33,2001100,Michael Hughes,P,So,0,0,2019,14781,Saint Rose,1347
 37,2001074,Francisco Infante,INF,So,6,6,2019,14781,Saint Rose,1347
 22,2001087,Alexander Koshgarian,OF,Sr,34,33,2019,14781,Saint Rose,1347
@@ -29575,14 +29575,14 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 28.0,1987992,Grant Gravitt,P,So,1,1,2019,14781,Sul Ross St.,1390
 10.0,1987956,Isaac Gallego,P,So,18,1,2019,14781,Sul Ross St.,1390
 11,1976330,Chet Silveria,OF,Sr,14,2,2019,14781,Spring Hill,30191
-8,1976329,Grayson Williams,OF,So,50,50,2019,14781,Spring Hill,30191
+15,1754304,Jonathan Williams,P,So,0,0,2019,14781,Spring Hill,30191
 15,2133963,Taylor Gibson,P,So,12,11,2019,14781,Spring Hill,30191
 16,1754298,Brennan Fontenot,C,Sr,50,49,2019,14781,Spring Hill,30191
 18,1882066,A.J. Fell,OF,Jr,16,6,2019,14781,Spring Hill,30191
 26,1976334,Luke Dykes,P,Jr,12,9,2019,14781,Spring Hill,30191
 38,2133950,Garrett Dyess,P,Fr,0,0,2019,14781,Spring Hill,30191
-23,2156849,J. Delrio,p,Fr,1,0,2019,14781,Spring Hill,30191
 40,2133962,R.J. Delrio,P,Fr,9,0,2019,14781,Spring Hill,30191
+23,2156849,J. Delrio,p,Fr,1,0,2019,14781,Spring Hill,30191
 1,1976291,Garrett Dearaujo,OF,So,1,0,2019,14781,Spring Hill,30191
 24,2133964,Ashton Goldring,OF,Fr,7,1,2019,14781,Spring Hill,30191
 10,1754306,Gavin Crimmins,INF,Sr,6,0,2019,14781,Spring Hill,30191
@@ -29617,7 +29617,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 31,2133965,Colin Millar,P,Fr,13,0,2019,14781,Spring Hill,30191
 25,2133955,Christian Long,P,So,8,0,2019,14781,Spring Hill,30191
 4,1754295,Maverick Latour,SS,Sr,28,8,2019,14781,Spring Hill,30191
-15,1754304,Jonathan Williams,P,So,0,0,2019,14781,Spring Hill,30191
+8,1976329,Grayson Williams,OF,So,50,50,2019,14781,Spring Hill,30191
 37,2008486,Chris George,INF,So,9,3,2019,14781,Spring Hill,30191
 8.0,1777392,Kenny Jarema,INF,Sr,46,44,2019,14781,Misericordia,16142
 38.0,1885277,Tyler Holzapfel,1B,Jr,47,47,2019,14781,Misericordia,16142
@@ -29631,8 +29631,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 7.0,1777388,Parker Abate,OF,Sr,47,45,2019,14781,Misericordia,16142
 17.0,1777399,Steve Weisensee,OF,Sr,47,47,2019,14781,Misericordia,16142
 26.0,2140543,Isaac Snyder,P,Fr,12,5,2019,14781,Misericordia,16142
-35.0,2140524,Brandon Smith,1B,Fr,6,1,2019,14781,Misericordia,16142
 2.0,1777397,Conor Smith,C,Sr,40,35,2019,14781,Misericordia,16142
+35.0,2140524,Brandon Smith,1B,Fr,6,1,2019,14781,Misericordia,16142
 23.0,2140521,Austin Sienkiewicz,INF,Fr,8,1,2019,14781,Misericordia,16142
 40.0,2140548,Alejandro Santiago,P,Fr,12,6,2019,14781,Misericordia,16142
 21.0,1660101,Kyle Rogalski,P,Sr,10,2,2019,14781,Misericordia,16142
@@ -29849,8 +29849,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 1,2122857,Jakob Wiirre,INF,Fr,15,2,2019,14781,Florida A&M,228
 25,1981628,Jelani Wheeler,C,So,13,2,2019,14781,Florida A&M,228
 20,2122448,Jared Weber,UT,Fr,61,61,2019,14781,Florida A&M,228
-33,2122902,Hunter Todd,INF,Fr,3,0,2019,14781,Florida A&M,228
 16,2122400,Destin Todd,UT,Fr,0,0,2019,14781,Florida A&M,228
+33,2122902,Hunter Todd,INF,Fr,3,0,2019,14781,Florida A&M,228
 3,1981615,Robert Robinson,INF,So,51,38,2019,14781,Florida A&M,228
 12,1756502,Kaycee Reese,INF,Sr,60,60,2019,14781,Florida A&M,228
 14,2122417,Tucker Rayburn,UT,Jr,61,56,2019,14781,Florida A&M,228
@@ -29907,8 +29907,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 17,1664248,Jason Staub,P,Sr,6,0,2019,14781,Eastern Conn. St.,200
 12,1992699,Anthony Stigler,OF,So,10,1,2019,14781,Eastern Conn. St.,200
 42,2134785,Giovanni Tirollo,2B,So,0,0,2019,14781,Eastern Conn. St.,200
-31,1875061,Holden White,1B,So,5,0,2019,14781,Eastern Conn. St.,200
 9,1762275,Alexander White,OF,Sr,40,37,2019,14781,Eastern Conn. St.,200
+31,1875061,Holden White,1B,So,5,0,2019,14781,Eastern Conn. St.,200
 50,2134787,Jonathan Wilson,OF,Fr,0,0,2019,14781,Eastern Conn. St.,200
 36,2134768,Eric Jaillet,C,So,22,11,2019,14781,Eastern Conn. St.,200
 11,2003872,Bryan Albee,P,So,15,1,2019,14781,Eastern Conn. St.,200
@@ -30299,7 +30299,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 44,2123882,Quinn Mimnaugh,INF,Fr,0,0,2019,14781,Wagner,748
 9,1863054,Nick Zuppe,P,Jr,6,3,2019,14781,Wagner,748
 36,2123881,Shendi Ulaj,C,Fr,1,0,2019,14781,Wagner,748
-19,1863047,Eric Lauk,OF,Jr,27,13,2019,14781,Wagner,748
+10,1863048,Ryan Lauk,P,Jr,20,2,2019,14781,Wagner,748
 2,2123873,Griffin Schneider,OF,Jr,43,41,2019,14781,Wagner,748
 8,1977907,Tyler Sanfillippo,INF,Jr,49,48,2019,14781,Wagner,748
 31,1749697,Douglas Molnar,P,Sr,5,0,2019,14781,Wagner,748
@@ -30307,7 +30307,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 5,1863052,Nick Robino,P,Jr,19,0,2019,14781,Wagner,748
 23,1977906,Mike Pirrotta,P,So,8,0,2019,14781,Wagner,748
 40,1749700,Joe Silvestrone,OF,Sr,49,49,2019,14781,Wagner,748
-10,1863048,Ryan Lauk,P,Jr,20,2,2019,14781,Wagner,748
+19,1863047,Eric Lauk,OF,Jr,27,13,2019,14781,Wagner,748
 33,1863055,Freddy Sabido,DH,Jr,49,49,2019,14781,Wagner,748
 18,2123877,Johnny Kampes,C,Fr,37,34,2019,14781,Wagner,748
 15,1749698,Anthony Pecora,INF,Sr,50,50,2019,14781,Wagner,748
@@ -30416,13 +30416,13 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 18.0,1777724,Lamonte Wyche,P,Sr,0,0,2019,14781,Austin,953
 15.0,1889254,James Wyche,PR,Jr,30,30,2019,14781,Austin,953
 32.0,1668564,Trey Croft,C,Sr,0,0,2019,14781,Austin,953
-52.0,2005247,C. Harris,P,Fr,0,0,2019,14781,Austin,953
 30.0,2005495,Koy Harris,P,So,0,0,2019,14781,Austin,953
+52.0,2005247,C. Harris,P,Fr,0,0,2019,14781,Austin,953
 22.0,1776742,C. Hughes,PR,Jr,0,0,2019,14781,Austin,953
 16.0,2153839,Jonathan Voos,ph,Fr,5,0,2019,14781,Austin,953
 4.0,1999081,Jake Tidwell,2B,So,0,0,2019,14781,Austin,953
-30.0,2147777,Jake Thomas,p,,12,1,2019,14781,Austin,953
 29.0,1776759,Christian Thomas,P,Sr,10,3,2019,14781,Austin,953
+30.0,2147777,Jake Thomas,p,,12,1,2019,14781,Austin,953
 14.0,1883789,Brent Taff,3B,Sr,33,33,2019,14781,Austin,953
 24.0,2005494,Ryan Scruggs,P,So,10,3,2019,14781,Austin,953
 2.0,1883790,Miguel Rojas,SS,Sr,0,0,2019,14781,Austin,953
@@ -30468,8 +30468,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 11,1779028,Kellen Larkin,P,Jr,5,0,2019,14781,UVA Wise,30181
 34,1783558,Justin Leary,P,Jr,0,0,2019,14781,UVA Wise,30181
 23,1659442,Brett Yates,INF,Jr,52,52,2019,14781,UVA Wise,30181
-35,1999331,Gabe Wurtz,RF,Sr,11,11,2019,14781,UVA Wise,30181
 26,1995506,Gabe Wurtz,P,So,6,0,2019,14781,UVA Wise,30181
+35,1999331,Gabe Wurtz,RF,Sr,11,11,2019,14781,UVA Wise,30181
 9,2136398,Isaac Whitehead,ss,Fr,5,4,2019,14781,UVA Wise,30181
 40,1990954,Rj Vanvickle,P,So,15,12,2019,14781,UVA Wise,30181
 45,1994526,Jimmy Vanosdale,P,So,10,1,2019,14781,UVA Wise,30181
@@ -30780,8 +30780,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 13,1781983,Connor Yakel,C,Sr,16,14,2019,14781,St. Norbert,614
 19,2129080,Trevor Cornell,INF,Fr,3,0,2019,14781,St. Norbert,614
 34,1781992,Sam Hunt,P,Sr,17,1,2019,14781,St. Norbert,614
-12,1781982,Griffin Jack,OF,Sr,36,36,2019,14781,St. Norbert,614
 15,1998196,Peyton Jack,INF,So,26,19,2019,14781,St. Norbert,614
+12,1781982,Griffin Jack,OF,Sr,36,36,2019,14781,St. Norbert,614
 17,2129094,Mason Sefcik,P,Fr,10,6,2019,14781,St. Norbert,614
 14,1998214,Lucas Reynolds,OF,So,34,34,2019,14781,St. Norbert,614
 10,2129091,Jerrad Rettler,P,Fr,2,0,2019,14781,St. Norbert,614
@@ -30802,7 +30802,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 22,1998199,Danny Stewart,C,So,0,0,2019,14781,St. Norbert,614
 50,2129126,Tommy Jensen,P,Fr,0,0,2019,14781,St. Norbert,614
 21,1752165,Jack Nelson,P,Sr,6,1,2019,14781,Boston College,67
-45,2118574,Travis Lane,P,Fr,20,1,2019,14781,Boston College,67
+20,1752156,Thomas Lane,P,Sr,37,0,2019,14781,Boston College,67
 12,2118559,Ramon Jimenez,INF,Fr,20,13,2019,14781,Boston College,67
 29,1752158,Sean Hughes,P,Sr,19,0,2019,14781,Boston College,67
 25,1986308,Will Hesslink,P,So,13,0,2019,14781,Boston College,67
@@ -30830,7 +30830,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 33,2118582,Samrath Singh,P,Fr,0,0,2019,14781,Boston College,67
 44,2118583,Joe Mancini,P,Fr,22,10,2019,14781,Boston College,67
 2,1752155,Gian Martellini,C,Sr,56,55,2019,14781,Boston College,67
-20,1752156,Thomas Lane,P,Sr,37,0,2019,14781,Boston College,67
+45,2118574,Travis Lane,P,Fr,20,1,2019,14781,Boston College,67
 36,1752164,Dan Metzdorf,P,Sr,12,12,2019,14781,Boston College,67
 37,1876531,Michael Marzonie,P,So,9,1,2019,14781,Boston College,67
 27,2118573,Mason Pelio,P,Fr,13,13,2019,14781,Boston College,67
@@ -30847,7 +30847,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 4,1998571,Kevin Barrett,OF,So,17,3,2019,14781,Stevenson,21852
 28,1998740,Michael Smell,P,So,2,0,2019,14781,Stevenson,21852
 38,2145704,Liam Elliffe,OF,Fr,6,0,2019,14781,Stevenson,21852
-37,2012206,Ryan Smith,P,So,6,2,2019,14781,Stevenson,21852
+27,2005927,Tayvon Smith,P,Sr,7,0,2019,14781,Stevenson,21852
 47,2141051,Trent Smoot,C,Fr,6,0,2019,14781,Stevenson,21852
 14,1998738,Patrick Sullivan,OF,So,18,2,2019,14781,Stevenson,21852
 8,2141068,Austin Taylor,INF,Fr,28,21,2019,14781,Stevenson,21852
@@ -30857,7 +30857,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 1,1782182,Connor Wasilnak,3B,Sr,7,0,2019,14781,Stevenson,21852
 33,1780613,James Wiercinski,P,Sr,13,10,2019,14781,Stevenson,21852
 35,1998572,Phil Wugalter,P,So,6,0,2019,14781,Stevenson,21852
-27,2005927,Tayvon Smith,P,Sr,7,0,2019,14781,Stevenson,21852
+37,2012206,Ryan Smith,P,So,6,2,2019,14781,Stevenson,21852
 7,1671285,Michael Rhodes,OF,Sr,24,6,2019,14781,Stevenson,21852
 24,1998716,Sam Ferreira,1B,So,17,2,2019,14781,Stevenson,21852
 34,1998715,Tyler Graham,P,Jr,11,8,2019,14781,Stevenson,21852
@@ -30928,9 +30928,9 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 3,1870694,Tyler Gates,P,Sr,12,12,2019,14781,UAB,9
 8,1978939,Justin Wiley,INF,So,48,36,2019,14781,UAB,9
 12,1769023,Luke Eigsti,UT,Sr,10,0,2019,14781,UAB,9
-23,1978972,Jess Davis,OF,Fr,56,54,2019,14781,UAB,9
-31,1978994,Riley Davis,P,So,20,6,2019,14781,UAB,9
 22,1769020,Zack Davis,OF,Jr,50,50,2019,14781,UAB,9
+31,1978994,Riley Davis,P,So,20,6,2019,14781,UAB,9
+23,1978972,Jess Davis,OF,Fr,56,54,2019,14781,UAB,9
 42,1769027,Kyle Davis,P,Sr,3,0,2019,14781,UAB,9
 24,1978992,Troy Cordrey,P,So,0,0,2019,14781,UAB,9
 20,1978945,Cole Collins,OF,Sr,5,1,2019,14781,UAB,9
@@ -31016,8 +31016,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 48,2116142,Derek Barone,INF,Fr,0,0,2019,14781,West Ala.,358
 9,2128204,Wyatt Ball,2B,Jr,40,37,2019,14781,West Ala.,358
 39,2116149,Kolby Crowley,P,Jr,17,6,2019,14781,West Ala.,358
-1,2116027,Rj Brown,SS,Jr,30,26,2019,14781,West Ala.,358
 12,1988480,Jd Brown,P,Sr,6,1,2019,14781,West Ala.,358
+1,2116027,Rj Brown,SS,Jr,30,26,2019,14781,West Ala.,358
 17,2119190,Tyler Mead,P,Fr,8,0,2019,14781,Biola,30220
 10,2119188,Zach Labounty,OF,Sr,5,1,2019,14781,Biola,30220
 77,1992406,Jerron Largusa,LF,Sr,48,48,2019,14781,Biola,30220
@@ -31250,8 +31250,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 10,1998248,Isaiah Scott,INF,So,2,0,2019,14781,Spalding,23260
 13,1778956,Dillon Sievert,INF,Sr,41,41,2019,14781,Spalding,23260
 31,2141377,Cameron Singer,C,Fr,1,0,2019,14781,Spalding,23260
-3,2141374,Jaylen Smith,INF,Fr,7,0,2019,14781,Spalding,23260
 45,2141378,Jaxson Smith,OF,Fr,3,2,2019,14781,Spalding,23260
+3,2141374,Jaylen Smith,INF,Fr,7,0,2019,14781,Spalding,23260
 35,1778697,Bryce Spalding,INF,Sr,30,27,2019,14781,Spalding,23260
 23,2141371,Cameron Spencer,INF,Fr,5,2,2019,14781,Spalding,23260
 39,2141396,Andrew Spurlock,P,So,0,0,2019,14781,Spalding,23260
@@ -31594,7 +31594,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 12,1873396,Jaret Lacagnina,P,Jr,6,4,2019,14781,Davidson,173
 38,2137589,Casey Kruger,P,Fr,6,0,2019,14781,Davidson,173
 4,1996810,Greg Lowe,OF,Jr,21,1,2019,14781,Davidson,173
-13,2162121,Tanner Mcdonald,pr,So,1,0,2019,14781,St. Olaf,615
+3,1308985,Tommy Mcdonald,INF,Jr,42,40,2019,14781,St. Olaf,615
 19,1896076,Cameron Gray,P,Jr,11,4,2019,14781,St. Olaf,615
 18,1896071,Luke Feigal,P,Jr,13,0,2019,14781,St. Olaf,615
 21,1770669,Satchel Daleo,OF,Sr,6,1,2019,14781,St. Olaf,615
@@ -31625,7 +31625,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 35,1896070,Hanson Devine,P,Jr,8,6,2019,14781,St. Olaf,615
 9,2157241,Ethan Lorentzen,C,Fr,0,0,2019,14781,St. Olaf,615
 36,2152831,Forrest Kobelt,P,Fr,7,6,2019,14781,St. Olaf,615
-3,1308985,Tommy Mcdonald,INF,Jr,42,40,2019,14781,St. Olaf,615
+13,2162121,Tanner Mcdonald,pr,So,1,0,2019,14781,St. Olaf,615
 11,1894273,Travis Mcdonald,OF,Jr,5,3,2019,14781,St. Olaf,615
 30,1896078,Max Marshall,P,Jr,9,4,2019,14781,St. Olaf,615
 25,2123304,Raul Rizo,P,Jr,14,0,2019,14781,Long Beach St.,99
@@ -31669,8 +31669,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 31.0,1759927,Caleb Lee,P,Sr,5,0,2019,14781,St. John Fisher,601
 3.0,1990865,Michael Beimel,P,So,40,37,2019,14781,St. John Fisher,601
 28.0,1882955,Anthony Brophy,P,Jr,10,3,2019,14781,St. John Fisher,601
-22.0,1990816,Harrison Brown,P,So,1,0,2019,14781,St. John Fisher,601
 7.0,1990888,Ryan Brown,UT,Sr,38,34,2019,14781,St. John Fisher,601
+22.0,1990816,Harrison Brown,P,So,1,0,2019,14781,St. John Fisher,601
 12.0,1990885,Brent Carmello,INF,So,0,0,2019,14781,St. John Fisher,601
 9.0,1759922,Kyle Chambers,P,Sr,12,0,2019,14781,St. John Fisher,601
 45.0,2137613,Chris Coutts,P,Fr,0,0,2019,14781,St. John Fisher,601
@@ -32281,12 +32281,12 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 18,2126350,Noah Herried,INF,Jr,40,38,2019,14781,Ripon,577
 54,1863621,Garrett Kaczrowski,P,Jr,12,1,2019,14781,Ripon,577
 23,1984474,Keegan Johnston,INF,So,40,39,2019,14781,Ripon,577
-3,2112726,Aaron Kurcz,OF,So,0,0,2019,14781,Ripon,577
 31,2112730,Andrew Kurcz,P,Fr,9,3,2019,14781,Ripon,577
+3,2112726,Aaron Kurcz,OF,So,0,0,2019,14781,Ripon,577
 13,1974794,Kade Lancour,P,So,14,6,2019,14781,Ripon,577
 27,1863616,Brody Marks,P,Jr,20,0,2019,14781,Ripon,577
 10,1974791,Tyler Munoz,C,So,3,1,2019,14781,Ripon,577
-25,2112725,Jack Nelson,P,Jr,16,9,2019,14781,Ripon,577
+5,1863611,Tyler Nelson,OF,Jr,40,40,2019,14781,Ripon,577
 28,2112728,Dane O'Donnell,INF,Fr,5,2,2019,14781,Ripon,577
 16,2112655,Alex Ostrowski,P,Fr,3,2,2019,14781,Ripon,577
 8,1748658,Michael Barnes,C,Sr,42,42,2019,14781,Ripon,577
@@ -32294,7 +32294,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 24,1748659,Hector Aguinaga,INF,Sr,5,2,2019,14781,Ripon,577
 21,1863615,Kyle Peterson,INF,Jr,3,0,2019,14781,Ripon,577
 29,1863619,Chris Huettner,P,Jr,11,5,2019,14781,Ripon,577
-5,1863611,Tyler Nelson,OF,Jr,40,40,2019,14781,Ripon,577
+25,2112725,Jack Nelson,P,Jr,16,9,2019,14781,Ripon,577
 26,2112727,Harrison Phillips,INF,Fr,0,0,2019,14781,Ripon,577
 2,2112703,Jacob Pankratz,INF,Fr,41,39,2019,14781,Ripon,577
 15,1748655,Brice Swick,P,Sr,15,11,2019,14781,Ripon,577
@@ -32449,7 +32449,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 25,1999256,Mason Weir,P,So,8,0,2019,14781,Elmira,213
 13,1777247,Harrison Zambarano,INF,Sr,37,37,2019,14781,Elmira,213
 22,1999257,Jack Volpe,OF,Jr,2,2,2019,14781,Elmira,213
-2,1999279,Mark Ryan,INF,So,27,26,2019,14781,Elmira,213
+1,2142593,Mason Ryan,INF,Fr,36,36,2019,14781,Elmira,213
 24,2145104,Connor Trower,P,Fr,4,0,2019,14781,Elmira,213
 32,2145106,Kyle Tubbs,P,Fr,9,0,2019,14781,Elmira,213
 21,1776052,Andy Reed,P,Sr,16,3,2019,14781,Elmira,213
@@ -32468,7 +32468,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 14,1783012,Jack Donnelly,C,Sr,18,9,2019,14781,Elmira,213
 9,2142591,James Delaney,OF,Fr,26,19,2019,14781,Elmira,213
 18,1890213,Corey Demauro,P,Jr,13,2,2019,14781,Elmira,213
-1,2142593,Mason Ryan,INF,Fr,36,36,2019,14781,Elmira,213
+2,1999279,Mark Ryan,INF,So,27,26,2019,14781,Elmira,213
 5,1999281,Alex Crysler,P,So,7,0,2019,14781,Elmira,213
 16,1890212,Jansen Crossley,INF,Jr,34,34,2019,14781,Elmira,213
 41,1777249,Nick Cottone,P,Sr,10,10,2019,14781,Elmira,213
@@ -32621,8 +32621,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 3,1780106,Tyler Beach,INF,Sr,33,31,2019,14781,Westfield St.,777
 7,1994734,Shane Bogli,P,So,13,11,2019,14781,Westfield St.,777
 6,1895029,Casey Boudreau,INF,Jr,35,31,2019,14781,Westfield St.,777
-19,2126869,Jake Butler,1B,Fr,7,1,2019,14781,Westfield St.,777
 11,1895030,Jamie Butler,P,Sr,15,8,2019,14781,Westfield St.,777
+19,2126869,Jake Butler,1B,Fr,7,1,2019,14781,Westfield St.,777
 29,1780118,Scott Strachan,P,Sr,23,0,2019,14781,Westfield St.,777
 34,2000984,Jimmy Valenti,INF,Jr,3,0,2019,14781,Westfield St.,777
 20,1780107,Alex Benevides,C,Sr,20,5,2019,14781,Westfield St.,777
@@ -32653,7 +32653,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 4,2133622,Matthew Mcdade,INF,Fr,46,44,2019,14781,Columbus St.,159
 3,1978043,John Pardue,C,So,3,0,2019,14781,Columbus St.,159
 22,2133607,Connor Pett,OF,Jr,8,3,2019,14781,Columbus St.,159
-7,1978079,Garrett Kirkwood,OF,Sr,51,51,2019,14781,Columbus St.,159
+8,2133605,Drake Kirkwood,INF,Jr,12,6,2019,14781,Columbus St.,159
 26,1978114,Carson Powell,P,So,0,0,2019,14781,Columbus St.,159
 15,2133606,Nick Adams,P,Fr,1,0,2019,14781,Columbus St.,159
 10,1751779,Grant Berry,INF,Sr,50,50,2019,14781,Columbus St.,159
@@ -32680,7 +32680,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 43,1978096,Andrew Hayes,P,So,0,0,2019,14781,Columbus St.,159
 44,2133612,Carson Hicks,P,Jr,0,0,2019,14781,Columbus St.,159
 23,1978117,Miles Dutton,P,Sr,0,0,2019,14781,Columbus St.,159
-8,2133605,Drake Kirkwood,INF,Jr,12,6,2019,14781,Columbus St.,159
+7,1978079,Garrett Kirkwood,OF,Sr,51,51,2019,14781,Columbus St.,159
 14,1978086,Chase Brown,INF,Sr,46,39,2019,14781,Columbus St.,159
 19,1978088,Robert Brooks,C,So,46,46,2019,14781,Columbus St.,159
 3,2151714,Dylan Balfour,P,Fr,2,0,2019,14781,Crown  (UMAC),30035
@@ -33184,8 +33184,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 25.0,1980479,Luis Beltran,INF,So,31,22,2019,14781,Lynn,20794
 33.0,2122499,Oscar Benitez,INF,Fr,7,1,2019,14781,Lynn,20794
 4.0,1980480,Cal Bocchino,INF,So,31,27,2019,14781,Lynn,20794
-26.0,2122493,James Buckley,OF,Jr,46,44,2019,14781,Lynn,20794
 22.0,1888538,Michael Buckley,C,Sr,17,11,2019,14781,Lynn,20794
+26.0,2122493,James Buckley,OF,Jr,46,44,2019,14781,Lynn,20794
 34.0,1980482,Jake Buxbaum,P,So,16,0,2019,14781,Lynn,20794
 8.0,2130226,Misael Castillo,p,Jr,13,12,2019,14781,Lynn,20794
 13.0,1881484,Victor Danza,P,Sr,15,1,2019,14781,Lynn,20794
@@ -33581,7 +33581,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 17.0,1883687,Hunter Devine,DH,Jr,0,0,2019,14781,Schreiner,1355
 30.0,2135091,Keller Driskill,INF,So,1,0,2019,14781,Schreiner,1355
 13.0,1880689,George Elliott,C,Jr,13,5,2019,14781,Schreiner,1355
-16.0,2135067,Jordan Garcia,P,Jr,11,4,2019,14781,Schreiner,1355
+47.0,2135164,Jesus Garcia,INF,Fr,0,0,2019,14781,Schreiner,1355
 3.0,2135015,Sam Velazquez,OF,Fr,26,21,2019,14781,Schreiner,1355
 6.0,1880690,Hudson Valenti,2B,Sr,12,5,2019,14781,Schreiner,1355
 27.0,2012488,Caleb Valchar,LF,So,14,6,2019,14781,Schreiner,1355
@@ -33609,10 +33609,10 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 8.0,1894445,Tristan Spiller,2B,Sr,1,1,2019,14781,Schreiner,1355
 52.0,2135172,Shane Stephens,C,Fr,0,0,2019,14781,Schreiner,1355
 4.0,2135016,Jeremy Muniz,INF,Fr,5,2,2019,14781,Schreiner,1355
-40.0,1989415,Rey Garza,P,So,21,3,2019,14781,Schreiner,1355
-47.0,2135164,Jesus Garcia,INF,Fr,0,0,2019,14781,Schreiner,1355
-26.0,1880687,Josh Gilliam,3B,Jr,40,40,2019,14781,Schreiner,1355
 32.0,2135092,Seth Garza,P,Fr,0,0,2019,14781,Schreiner,1355
+16.0,2135067,Jordan Garcia,P,Jr,11,4,2019,14781,Schreiner,1355
+26.0,1880687,Josh Gilliam,3B,Jr,40,40,2019,14781,Schreiner,1355
+40.0,1989415,Rey Garza,P,So,21,3,2019,14781,Schreiner,1355
 43.0,1880755,Nick Gutierrez,P,Jr,4,0,2019,14781,Schreiner,1355
 59.0,1895709,Jack Hakala,P,Jr,21,0,2019,14781,Schreiner,1355
 11.0,2135062,Chance Goins,P,Fr,37,32,2019,14781,Schreiner,1355
@@ -33695,8 +33695,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 31.0,2116527,Jimmy Wang,P,Fr,19,12,2019,14781,UConn,164
 37.0,1974508,Chase Gardner,P,Sr,20,0,2019,14781,UConn,164
 21.0,1870946,Mason Feole,P,Jr,14,14,2019,14781,UConn,164
-3.0,2116521,Kyler Fedko,INF,Fr,54,52,2019,14781,UConn,164
 7.0,1974504,Christian Fedko,INF,So,62,58,2019,14781,UConn,164
+3.0,2116521,Kyler Fedko,INF,Fr,54,52,2019,14781,UConn,164
 10.0,1974507,Colby Dunlop,P,So,19,10,2019,14781,UConn,164
 39.0,1639037,Cj Dandeneau,P,Sr,31,0,2019,14781,UConn,164
 4.0,2116520,Michael Chiovitti,OF,Jr,41,10,2019,14781,UConn,164
@@ -33944,7 +33944,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 33.0,1980681,Austin Todd,P,Jr,14,11,2019,14781,Anderson  (SAC),13028
 31.0,1980654,Will Gee,P,Sr,12,12,2019,14781,Anderson  (SAC),13028
 36.0,1980657,Britt Thomas,P,So,0,0,2019,14781,Anderson  (SAC),13028
-15.0,1755716,Joseph Strange,C,Jr,25,25,2019,14781,Anderson  (SAC),13028
+4.0,1755714,Jackson Strange,INF,Sr,50,50,2019,14781,Anderson  (SAC),13028
 38.0,2126781,Jacob Kohns,INF,Fr,26,10,2019,14781,Anderson  (SAC),13028
 6.0,1980649,Will Lindsey,INF,So,39,38,2019,14781,Anderson  (SAC),13028
 35.0,2126760,Zach Mcclure,P,Fr,0,0,2019,14781,Anderson  (SAC),13028
@@ -33960,7 +33960,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 23.0,2126766,Lucas Smith,P,Fr,16,2,2019,14781,Anderson  (SAC),13028
 32.0,1980655,Matthew Stanley,P,Sr,8,4,2019,14781,Anderson  (SAC),13028
 8.0,1980650,Chase Stephens,INF,So,18,10,2019,14781,Anderson  (SAC),13028
-4.0,1755714,Jackson Strange,INF,Sr,50,50,2019,14781,Anderson  (SAC),13028
+15.0,1755716,Joseph Strange,C,Jr,25,25,2019,14781,Anderson  (SAC),13028
 42.0,1980691,Davis Goodyear,C,So,5,0,2019,14781,Anderson  (SAC),13028
 21.0,2126755,Gage Gambrell,P,Fr,9,1,2019,14781,Anderson  (SAC),13028
 25.0,2126767,Cameron Hall,P,So,21,0,2019,14781,Anderson  (SAC),13028
@@ -34182,8 +34182,8 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 50.0,2127032,Jakob Reyes,P,So,7,0,2019,14781,Eastern N.M.,206
 23.0,2010150,Connor Reece,P,Jr,9,0,2019,14781,Eastern N.M.,206
 19.0,2127022,Bryan Waltemath,C,Jr,25,20,2019,14781,Eastern N.M.,206
-9.0,1985947,Eurick Perez,C,Sr,45,44,2019,14781,Eastern N.M.,206
 16.0,1655516,Enrique Perez,P,Sr,13,12,2019,14781,Eastern N.M.,206
+9.0,1985947,Eurick Perez,C,Sr,45,44,2019,14781,Eastern N.M.,206
 26.0,2127026,Alex Kuhn,INF,Fr,18,11,2019,14781,Eastern N.M.,206
 42.0,2127016,Randall Lucero,INF,Fr,12,5,2019,14781,Eastern N.M.,206
 29.0,2127013,Aaron Jasso,C,Fr,0,0,2019,14781,Eastern N.M.,206
@@ -34199,7 +34199,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 25.0,2121281,Jesse Spellman,,Fr,33,21,2019,14781,Queens  (ECC),560
 24.0,2002033,Anthony Scotti,DH,Jr,26,23,2019,14781,Queens  (ECC),560
 7.0,2002053,Eric Roubal,PH,Jr,48,47,2019,14781,Queens  (ECC),560
-4.0,2121239,Jayson Rodopoulos,,Fr,38,21,2019,14781,Queens  (ECC),560
+14.0,2121260,John Rodopoulos,,Fr,13,3,2019,14781,Queens  (ECC),560
 53.0,2002061,Adam Abreu,P,Sr,9,0,2019,14781,Queens  (ECC),560
 13.0,1765991,Robert Amato,P,Sr,0,0,2019,14781,Queens  (ECC),560
 9.0,1891614,Louis Antos,3B,Jr,50,50,2019,14781,Queens  (ECC),560
@@ -34220,7 +34220,7 @@ RS,1992346,Ben Petty-Hull,C,So,0,0,2019,14781,Dixie St.,30095
 36.0,1891732,James Mcgee,P,Jr,17,0,2019,14781,Queens  (ECC),560
 13.0,2002051,Ron Linsalato,CF,Sr,45,44,2019,14781,Queens  (ECC),560
 16.0,1643757,Michael Lamneck,P,Jr,14,12,2019,14781,Queens  (ECC),560
-14.0,2121260,John Rodopoulos,,Fr,13,3,2019,14781,Queens  (ECC),560
+4.0,2121239,Jayson Rodopoulos,,Fr,38,21,2019,14781,Queens  (ECC),560
 21.0,2002042,Kevin Kochen,P,So,16,1,2019,14781,Queens  (ECC),560
 42.0,1891730,Dylan Hughes,P,Jr,13,9,2019,14781,Queens  (ECC),560
 23.0,1891729,Brandon Hoskins,P,Jr,19,0,2019,14781,Queens  (ECC),560

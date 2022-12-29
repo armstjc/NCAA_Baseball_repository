@@ -57,8 +57,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,1874069,Henry Cheney,OF,Fr,6,2,2017,12560,Portland,551
 28,1874067,Geon Hyoung Kim,OF,Fr,32,20,2017,12560,Portland,551
 3,1763493,Michael Forgione,INF,Sr,40,28,2017,12560,Portland,551
-33,1651185,Jake Hawken,P,Jr,16,1,2017,12560,Portland,551
 16,1763501,Cody Hawken,OF,So,52,52,2017,12560,Portland,551
+33,1651185,Jake Hawken,P,Jr,16,1,2017,12560,Portland,551
 25,1874064,Michael Hicks,INF,So,36,32,2017,12560,Portland,551
 5,1874055,Ryan Hoogerwerf,INF,Jr,48,47,2017,12560,Portland,551
 10,1651184,Jordan Horak,P,Jr,23,6,2017,12560,Portland,551
@@ -1412,8 +1412,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 27,1653787,John Holleran,P,Jr,0,0,2017,12560,Benedict,55
 15,1895917,Alexander Marduekee,2B,Fr,12,1,2017,12560,Benedict,55
 25,1774424,Antoine Luster,P,So,5,2,2017,12560,Ark.-Pine Bluff,2678
-12,1877601,Bradley Lopez,INF,Jr,31,21,2017,12560,Ark.-Pine Bluff,2678
 17,1877602,Tyrus Lopez,P,Jr,18,8,2017,12560,Ark.-Pine Bluff,2678
+12,1877601,Bradley Lopez,INF,Jr,31,21,2017,12560,Ark.-Pine Bluff,2678
 31,1424047,Jason Ibrahim,C,Sr,20,1,2017,12560,Ark.-Pine Bluff,2678
 40,1877600,Daulton Horton,INF,Jr,0,0,2017,12560,Ark.-Pine Bluff,2678
 19,1877599,Kenny Hinton,P,Jr,18,4,2017,12560,Ark.-Pine Bluff,2678
@@ -2223,14 +2223,14 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,1776525,Bobby Mcniff,P,So,3,0,2017,12560,Fairfield,220
 1,1890816,Dylan Reynolds,OF,Fr,17,5,2017,12560,Fairfield,220
 8,1662905,David Sacco,P,Jr,8,4,2017,12560,Fairfield,220
-4,1776491,Tom Ryan,INF,So,8,0,2017,12560,Fairfield,220
+34,1890835,Dan Ryan,OF,Fr,30,3,2017,12560,Fairfield,220
 5,1528621,Troy Scocca,OF,Sr,55,54,2017,12560,Fairfield,220
 42,1776528,John Signore,P,So,15,14,2017,12560,Fairfield,220
 36,1662910,Gavin Wallace,P,Jr,14,14,2017,12560,Fairfield,220
 20,1662909,Mitch Williams,C,Jr,47,38,2017,12560,Fairfield,220
 9,1776511,Tim Zeng,OF,So,34,26,2017,12560,Fairfield,220
 37,1776524,Peter Horn,P,So,14,1,2017,12560,Fairfield,220
-34,1890835,Dan Ryan,OF,Fr,30,3,2017,12560,Fairfield,220
+4,1776491,Tom Ryan,INF,So,8,0,2017,12560,Fairfield,220
 7,1528620,Dan Hopkins,OF,Sr,34,20,2017,12560,Fairfield,220
 29,1890832,Eli Oliphant,P,Fr,4,0,2017,12560,Fairfield,220
 26,1890831,Ian Halpin,P,Fr,33,13,2017,12560,Fairfield,220
@@ -3757,9 +3757,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,1762963,Cody Snider,OF,Sr,55,52,2017,12560,Chico St.,95
 20,1873817,Trevor Steinman,INF,Jr,25,3,2017,12560,Chico St.,95
 19,1762977,Tyler Stofiel,C,Fr,43,38,2017,12560,Chico St.,95
-17,1762960,Grant Wright,P,Sr,21,0,2017,12560,Chico St.,95
-37,1873826,Jae Wagner,P,Jr,19,0,2017,12560,Chico St.,95
 30,1873823,Mikey Wright,P,Jr,6,1,2017,12560,Chico St.,95
+37,1873826,Jae Wagner,P,Jr,19,0,2017,12560,Chico St.,95
+17,1762960,Grant Wright,P,Sr,21,0,2017,12560,Chico St.,95
 38,1873828,Casey Costello,P,Jr,16,16,2017,12560,Chico St.,95
 29,1762966,Sonny Cortez,OF,Sr,56,55,2017,12560,Chico St.,95
 31,1648309,Andrew Carrillo,INF,Sr,44,24,2017,12560,Chico St.,95
@@ -3933,8 +3933,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 25,1753284,Jordan Fucci,1B,So,57,55,2017,12560,Samford,625
 12,1871067,Mathew Bennett,P,Fr,13,0,2017,12560,Samford,625
 41,1547315,Jared Brasher,P,Sr,22,0,2017,12560,Samford,625
-28,1753285,Connor Burns,P,So,0,0,2017,12560,Samford,625
 29,1660623,Wyatt Burns,P,Jr,28,0,2017,12560,Samford,625
+28,1753285,Connor Burns,P,So,0,0,2017,12560,Samford,625
 15,1753281,Ben Carrick,C,So,14,9,2017,12560,Samford,625
 14,1753288,Mikhail Cazenave,P,Sr,18,18,2017,12560,Samford,625
 18,1660620,Grant Colton,C,Jr,16,5,2017,12560,Samford,625
@@ -6663,8 +6663,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 21,1865933,Austin Gregory,OF,Fr,4,0,2017,12560,VCU,740
 27,1769561,Dylan Isquirdo,C,Sr,47,42,2017,12560,VCU,740
 40,1769565,Jack Alkire,P,So,1,0,2017,12560,VCU,740
-15,1548890,Darian Carpenter,INF,Sr,57,57,2017,12560,VCU,740
 1,1865926,Steven Carpenter,INF,Fr,38,26,2017,12560,VCU,740
+15,1548890,Darian Carpenter,INF,Sr,57,57,2017,12560,VCU,740
 13,1769557,Zac Ching,INF,So,57,57,2017,12560,VCU,740
 7,1769556,Brody Cook,INF,So,13,2,2017,12560,VCU,740
 35,1769568,Luke Crabb,P,Sr,11,0,2017,12560,VCU,740
@@ -8386,8 +8386,8 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13.0,1551435,Nik Mattson,C,Sr,28,23,2017,12560,Wis.-Superior,804
 19.0,1551439,Brock Mcdermid,P,Sr,8,5,2017,12560,Wis.-Superior,804
 2.0,1768262,Nick Mcnosky,INF,Jr,37,35,2017,12560,Wis.-Superior,804
-33.0,1768267,Travis Miller,INF,So,40,38,2017,12560,Wis.-Superior,804
 30.0,1896262,Austin Miller,P,Fr,9,6,2017,12560,Wis.-Superior,804
+33.0,1768267,Travis Miller,INF,So,40,38,2017,12560,Wis.-Superior,804
 6.0,1768257,Mike Moskaylk,INF,So,0,0,2017,12560,Wis.-Superior,804
 24.0,1768263,Alex Osness,INF,So,27,14,2017,12560,Wis.-Superior,804
 8.0,1551434,Chad Patko,INF,Sr,39,38,2017,12560,Wis.-Superior,804
@@ -8548,9 +8548,9 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 13,1884437,Anthony Dominguez,INF,Fr,53,45,2017,12560,Abilene Christian,2
 17,1767870,Collin Dudley,P,Jr,16,0,2017,12560,Abilene Christian,2
 29,1884456,Koby Claborn,INF,So,51,47,2017,12560,Abilene Christian,2
-25,1547054,Brandon Lambright,P,Sr,22,2,2017,12560,Abilene Christian,2
-5,1884435,Bradley Lewis,OF,Jr,31,10,2017,12560,Abilene Christian,2
 31,1547057,Austin Lambright,P,Sr,15,13,2017,12560,Abilene Christian,2
+5,1884435,Bradley Lewis,OF,Jr,31,10,2017,12560,Abilene Christian,2
+25,1547054,Brandon Lambright,P,Sr,22,2,2017,12560,Abilene Christian,2
 43,1884460,Cyle Watkins,P,Fr,16,0,2017,12560,Abilene Christian,2
 33,1884457,Hillin Warren,INF,Jr,23,14,2017,12560,Abilene Christian,2
 24,1884443,Luis Trevino,C,Jr,55,55,2017,12560,Abilene Christian,2
@@ -9960,7 +9960,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 33,1880414,Chris Machamer,P,Fr,24,0,2017,12560,Kentucky,334
 2,1642968,Riley Mahan,INF,Jr,66,66,2017,12560,Kentucky,334
 12,1880408,Alec Maley,P,Jr,13,0,2017,12560,Kentucky,334
-3,1534414,Tyler Marshall,INF,Jr,57,40,2017,12560,Kentucky,334
+24,1880412,Brett Marshall,P,Fr,0,0,2017,12560,Kentucky,334
 25,1755876,Gunnar Mcneill,1B,Sr,25,5,2017,12560,Kentucky,334
 52,1642977,Zach Pop,P,Jr,22,0,2017,12560,Kentucky,334
 42,1642975,Brad Schaenzer,P,Jr,23,5,2017,12560,Kentucky,334
@@ -9973,7 +9973,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 4,1755869,Zeke Lewis,INF,Fr,28,0,2017,12560,Kentucky,334
 40,1755894,Zach Reks,OF,Sr,65,65,2017,12560,Kentucky,334
 21,1642972,Justin Lewis,P,So,17,16,2017,12560,Kentucky,334
-24,1880412,Brett Marshall,P,Fr,0,0,2017,12560,Kentucky,334
+3,1534414,Tyler Marshall,INF,Jr,57,40,2017,12560,Kentucky,334
 30,1755892,Sean Hjelle,P,So,20,19,2017,12560,Kentucky,334
 22,1755893,Austin Keen,P,Fr,11,0,2017,12560,Kentucky,334
 10,1755872,Luke Becker,INF,Jr,61,44,2017,12560,Kentucky,334
@@ -10046,7 +10046,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 15,1762466,Clayton Dubbs,OF,So,1,1,2017,12560,John Carroll,320
 24,1887747,Freddy Moore,P,Fr,12,11,2017,12560,John Carroll,320
 19,1666831,Drake Hlavin,P,Jr,0,0,2017,12560,John Carroll,320
-37,1762483,Monroe Donnelly,C,Jr,39,39,2017,12560,John Carroll,320
+16,1666477,Matthew Donnelly,INF,So,38,38,2017,12560,John Carroll,320
 4,1762463,Derek Penman,OF,So,32,30,2017,12560,John Carroll,320
 8,1666478,Mike Raschilla,INF,Jr,17,16,2017,12560,John Carroll,320
 7,1887727,Michael Platten,OF,Fr,6,1,2017,12560,John Carroll,320
@@ -10055,7 +10055,7 @@ jersey,stats_player_seq,name,position,class_year,games_played,games_started,seas
 30,1671948,Steven Virost,P,Jr,17,0,2017,12560,John Carroll,320
 18,1551344,Drew Vargo,P,Sr,11,11,2017,12560,John Carroll,320
 31,1887772,Kyle Svenson,INF,Fr,1,0,2017,12560,John Carroll,320
-16,1666477,Matthew Donnelly,INF,So,38,38,2017,12560,John Carroll,320
+37,1762483,Monroe Donnelly,C,Jr,39,39,2017,12560,John Carroll,320
 22,1666833,Jake Servidio,P,Jr,9,9,2017,12560,John Carroll,320
 42,1762460,Carter Semancik,P,So,15,1,2017,12560,John Carroll,320
 10,1551259,Patrick Scholla,OF,Sr,33,32,2017,12560,John Carroll,320
@@ -11259,8 +11259,8 @@ E,1890417,Noah Vreeman,C,Fr,0,0,2017,12560,Northern St.,1266
 21,1890713,Dalton Davis,1B,Jr,48,48,2017,12560,Franklin Pierce,241
 16,1890711,Tim Going,OF,Jr,25,21,2017,12560,Franklin Pierce,241
 42,1890738,J.R. Disarcina,INF,Fr,8,4,2017,12560,Franklin Pierce,241
-19,1890712,Jack Duffy,INF,Fr,3,0,2017,12560,Franklin Pierce,241
 31,1890735,Derek Duffy,P,Fr,8,3,2017,12560,Franklin Pierce,241
+19,1890712,Jack Duffy,INF,Fr,3,0,2017,12560,Franklin Pierce,241
 28,1433575,Adam Fournier,P,Sr,8,0,2017,12560,Franklin Pierce,241
 2,1661912,John Friday,3B,Jr,48,48,2017,12560,Franklin Pierce,241
 26,1890716,Richard Dimartino,1B,Fr,16,11,2017,12560,Franklin Pierce,241
@@ -16614,10 +16614,10 @@ N,1556673,Sacha Urbach,P,,1,0,2017,12560,CCNY,480
 1.0,1882230,Will Kirk,INF,Fr,35,28,2017,12560,Centre,132
 12.0,1771732,Wesley Jorette,OF,So,34,21,2017,12560,Centre,132
 14.0,1889315,Hoffman,P,So,1,1,2017,12560,Centre,132
-8.0,1889313,Klein,PH,Jr,2,0,2017,12560,Centre,132
+8.0,1638238,Casey Klein,P,Jr,1,0,2017,12560,Centre,132
 14.0,1771721,Nick Hoffman,P,So,12,10,2017,12560,Centre,132
 33.0,1771720,Colin Hathorn,P,So,1,0,2017,12560,Centre,132
-8.0,1638238,Casey Klein,P,Jr,1,0,2017,12560,Centre,132
+8.0,1889313,Klein,PH,Jr,2,0,2017,12560,Centre,132
 28.0,1882241,Michael Flora,INF,Fr,2,0,2017,12560,Centre,132
 4.0,1882232,Daniel Brown,INF,Fr,1,0,2017,12560,Centre,132
 24.0,1548862,Greyson Evans,1B,Sr,30,25,2017,12560,Centre,132
@@ -16637,8 +16637,8 @@ N,1556673,Sacha Urbach,P,,1,0,2017,12560,CCNY,480
 22.0,1882236,Harrison Williams,INF,Fr,3,0,2017,12560,Centre,132
 2.0,1771700,Brahm Whittinghill,INF,So,35,25,2017,12560,Centre,132
 38.0,1882246,Dunning Weed,INF,Fr,17,3,2017,12560,Centre,132
-25.0,1882238,Tyler Tucker,OF,Fr,12,0,2017,12560,Centre,132
 25.0,1889314,Tucker,RF,Fr,2,0,2017,12560,Centre,132
+25.0,1882238,Tyler Tucker,OF,Fr,12,0,2017,12560,Centre,132
 30.0,1882242,Reed Thomas,C,Fr,2,0,2017,12560,Centre,132
 36.0,1882244,Brady Swift,INF,Fr,0,0,2017,12560,Centre,132
 35.0,1638240,Mark Dill,P,Jr,5,0,2017,12560,Centre,132
@@ -19335,10 +19335,10 @@ N,1556673,Sacha Urbach,P,,1,0,2017,12560,CCNY,480
 10,1657985,Cory Fox,OF,Jr,41,40,2017,12560,Penn St.-Berks,30044
 24,1867909,Ben Wanner,P,Fr,7,0,2017,12560,Penn St.-Berks,30044
 4,1867902,Cody Fidler,INF,Fr,15,2,2017,12560,Penn St.-Berks,30044
-6,1867901,Seth Endy,INF,Fr,28,12,2017,12560,Penn St.-Berks,30044
+32,1867900,Chase Endy,P,Fr,0,0,2017,12560,Penn St.-Berks,30044
 23,1867898,Mitch Amenta,OF,Fr,14,2,2017,12560,Penn St.-Berks,30044
 9,1884092,Justin Butler,P,Fr,8,2,2017,12560,Penn St.-Berks,30044
-32,1867900,Chase Endy,P,Fr,0,0,2017,12560,Penn St.-Berks,30044
+6,1867901,Seth Endy,INF,Fr,28,12,2017,12560,Penn St.-Berks,30044
 5,1766183,Dalton Hughes,OF,So,39,38,2017,12560,Penn St.-Berks,30044
 40,1884093,Guillermo Castillo,1B,Fr,4,1,2017,12560,Penn St.-Berks,30044
 2,1867908,Steven Varner,P,Sr,13,8,2017,12560,Penn St.-Berks,30044
@@ -20161,9 +20161,9 @@ N,1556673,Sacha Urbach,P,,1,0,2017,12560,CCNY,480
 6,1862550,Miguel Deguzman,P,Jr,13,1,2017,12560,King  (Conference Carolinas),30051
 7,1639152,Ben Donaldson,INF,Jr,25,12,2017,12560,King  (Conference Carolinas),30051
 13,1532118,Preston Douglas,OF,Sr,45,45,2017,12560,King  (Conference Carolinas),30051
-26,1755250,Brandon Barbour,P,Sr,14,0,2017,12560,King  (Conference Carolinas),30051
+23,1862548,Hunter Barbour,INF,Fr,2,0,2017,12560,King  (Conference Carolinas),30051
 38,1862551,Ben Farlow,P,Fr,0,0,2017,12560,King  (Conference Carolinas),30051
-30,1862552,Byron Ferguson,P,Sr,8,0,2017,12560,King  (Conference Carolinas),30051
+45,1639166,Sam Ferguson,P,Jr,10,0,2017,12560,King  (Conference Carolinas),30051
 43,1755253,Colt Fowler,P,So,0,0,2017,12560,King  (Conference Carolinas),30051
 32,1755254,Gus Gill,P,Sr,12,7,2017,12560,King  (Conference Carolinas),30051
 20,1532123,Cody Hahn,P,Sr,2,0,2017,12560,King  (Conference Carolinas),30051
@@ -20171,8 +20171,8 @@ N,1556673,Sacha Urbach,P,,1,0,2017,12560,CCNY,480
 14,1755255,Cam Haymans,C,Jr,18,10,2017,12560,King  (Conference Carolinas),30051
 12,1755256,Mark Hendricks,P,Sr,13,9,2017,12560,King  (Conference Carolinas),30051
 50,1862554,Matt Henshaw,P,Jr,3,0,2017,12560,King  (Conference Carolinas),30051
-45,1639166,Sam Ferguson,P,Jr,10,0,2017,12560,King  (Conference Carolinas),30051
-23,1862548,Hunter Barbour,INF,Fr,2,0,2017,12560,King  (Conference Carolinas),30051
+30,1862552,Byron Ferguson,P,Sr,8,0,2017,12560,King  (Conference Carolinas),30051
+26,1755250,Brandon Barbour,P,Sr,14,0,2017,12560,King  (Conference Carolinas),30051
 44,1755251,Justin Bishop,P,So,0,0,2017,12560,King  (Conference Carolinas),30051
 28,1862563,Preston Worrell,OF,Fr,0,0,2017,12560,King  (Conference Carolinas),30051
 22,1773768,Phil Stokes,P,Sr,11,2,2017,12560,Campbell,115
@@ -21454,7 +21454,7 @@ RS,1869313,Angel Delgado,P,Jr,0,0,2017,12560,California Baptist,30135
 8,1884227,Andrew Bladt,SS,So,47,32,2017,12560,Presbyterian,1320
 35,1884236,Russ Branch,P,Fr,11,1,2017,12560,Presbyterian,1320
 25,1884233,Tannor Byrd,INF,Fr,22,6,2017,12560,Presbyterian,1320
-29,1644912,Guy Casaceli,OF,Jr,30,6,2017,12560,Presbyterian,1320
+26,1644909,Glen Casaceli,INF,Sr,54,51,2017,12560,Presbyterian,1320
 21,1769507,Brett Auckland,OF,Sr,57,55,2017,12560,Presbyterian,1320
 9,1644889,Colton Chapman,INF,Jr,35,18,2017,12560,Presbyterian,1320
 7,1644887,Tanner Chock,P,Jr,15,14,2017,12560,Presbyterian,1320
@@ -21462,7 +21462,7 @@ RS,1869313,Angel Delgado,P,Jr,0,0,2017,12560,California Baptist,30135
 24,1644907,Hayden Deal,P,Sr,14,13,2017,12560,Presbyterian,1320
 13,1884229,Jackson Dean,P,Fr,13,1,2017,12560,Presbyterian,1320
 2,1884225,Hunter Grover,INF,Fr,5,0,2017,12560,Presbyterian,1320
-26,1644909,Glen Casaceli,INF,Sr,54,51,2017,12560,Presbyterian,1320
+29,1644912,Guy Casaceli,OF,Jr,30,6,2017,12560,Presbyterian,1320
 21,1765026,Elias Bedolla,P,Fr,14,5,2017,12560,Western Ore.,1446
 15,1765025,Marcus Madden,2B,Fr,0,0,2017,12560,Western Ore.,1446
 7,1882430,Jacob Martinez,RF,Jr,43,43,2017,12560,Western Ore.,1446
@@ -23576,8 +23576,8 @@ RS,1869313,Angel Delgado,P,Jr,0,0,2017,12560,California Baptist,30135
 19,1650395,Colin Hudson,P,Jr,0,0,2017,12560,Southern Ind.,661
 39,1868128,Tyler Hagedorn,P,Fr,21,0,2017,12560,Southern Ind.,661
 11,1650394,Joe Redburn,INF,Jr,36,30,2017,12560,Southern Ind.,661
-13,1868102,Griffin Quarles,P,Fr,5,1,2017,12560,Southern Ind.,661
 3,1868104,Jaylen Quarles,OF,Sr,35,29,2017,12560,Southern Ind.,661
+13,1868102,Griffin Quarles,P,Fr,5,1,2017,12560,Southern Ind.,661
 36,1650406,Mitchell Powers,P,Jr,4,0,2017,12560,Southern Ind.,661
 8,1754130,Chase Partain,P,So,8,2,2017,12560,Southern Ind.,661
 17,1754132,Colin Nowak,P,Sr,14,14,2017,12560,Southern Ind.,661

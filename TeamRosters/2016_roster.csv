@@ -941,7 +941,7 @@ XX,1770216,Devin Conn,INF,Fr,0,0,2016,12360,Middle Tenn.,419
 34,1541048,John Lamotta,P,Jr,27,0,2016,12360,Marymount  (Atlantic East),394
 32,1548437,Jake Kniatt,P,Jr,8,0,2016,12360,Marymount  (Atlantic East),394
 42,1645802,Javier Herrera,OF,So,8,2,2016,12360,Marymount  (Atlantic East),394
-10,1645783,Stephen Berczek,INF,So,39,36,2016,12360,Marymount  (Atlantic East),394
+14,1541038,Ben Berczek,C,Jr,31,31,2016,12360,Marymount  (Atlantic East),394
 7,1541043,Karlis Graubics,INF,Jr,13,2,2016,12360,Marymount  (Atlantic East),394
 40,1645800,Dylan Gerdts,P,So,13,10,2016,12360,Marymount  (Atlantic East),394
 19,1645785,Charlie Diguilian,P,Sr,15,7,2016,12360,Marymount  (Atlantic East),394
@@ -955,7 +955,7 @@ XX,1770216,Devin Conn,INF,Fr,0,0,2016,12360,Middle Tenn.,419
 25,1645788,Ryan Blake,INF,Sr,19,16,2016,12360,Marymount  (Atlantic East),394
 6,1762547,Patrick Berthelette,P,Fr,6,0,2016,12360,Marymount  (Atlantic East),394
 11,1762548,Cal Berman,INF,Fr,7,2,2016,12360,Marymount  (Atlantic East),394
-14,1541038,Ben Berczek,C,Jr,31,31,2016,12360,Marymount  (Atlantic East),394
+10,1645783,Stephen Berczek,INF,So,39,36,2016,12360,Marymount  (Atlantic East),394
 27,1652622,John Arel,P,So,15,11,2016,12360,Maine,380
 37,1652629,Jonah Normandeau,P,So,13,7,2016,12360,Maine,380
 24,1760965,Zach Winn,P,Jr,0,0,2016,12360,Maine,380
@@ -1264,8 +1264,8 @@ XX,1770216,Devin Conn,INF,Fr,0,0,2016,12360,Middle Tenn.,419
 45,1530282,Jacob Billingsley,P,So,12,0,2016,12360,Mississippi St.,430
 53,1751545,Brant Blaylock,OF,Fr,0,0,2016,12360,Mississippi St.,430
 34,1751526,Kale Breaux,P,Fr,16,1,2016,12360,Mississippi St.,430
-26,1436193,Cody Brown,OF,Jr,43,20,2016,12360,Mississippi St.,430
 49,1641089,Daniel Brown,P,Jr,23,6,2016,12360,Mississippi St.,430
+26,1436193,Cody Brown,OF,Jr,43,20,2016,12360,Mississippi St.,430
 12,1530255,Reid Humphreys,INF,Jr,60,55,2016,12360,Mississippi St.,430
 28,1751524,Ryan Cyr,P,Fr,12,1,2016,12360,Mississippi St.,430
 39,1641086,Logan Elliot,P,Jr,0,0,2016,12360,Mississippi St.,430
@@ -4844,10 +4844,10 @@ XX,1770216,Devin Conn,INF,Fr,0,0,2016,12360,Middle Tenn.,419
 12,1669911,Gage Blasi,INF,So,13,9,2016,12360,RIT,580
 3,1772411,Jake Bianchi,P,Fr,6,0,2016,12360,RIT,580
 44,1446669,Brandon Cohall,P,Sr,9,9,2016,12360,RIT,580
-17,1772417,Patrick Mylott,OF,Fr,25,16,2016,12360,RIT,580
+5,1772412,Joey Mylott,1B,Fr,4,0,2016,12360,RIT,580
 52,1443676,Rory Little,P,Sr,9,9,2016,12360,RIT,580
 14,1772416,Mark Nozzi,P,Fr,8,1,2016,12360,RIT,580
-5,1772412,Joey Mylott,1B,Fr,4,0,2016,12360,RIT,580
+17,1772417,Patrick Mylott,OF,Fr,25,16,2016,12360,RIT,580
 19,1772418,Daniel Zeglen,P,Fr,39,36,2016,12360,RIT,580
 25,1443673,Zach Zabel,2B,Sr,40,40,2016,12360,RIT,580
 30,1669918,Ben Terzini,1B,So,26,22,2016,12360,RIT,580
@@ -4883,8 +4883,8 @@ XX,1770216,Devin Conn,INF,Fr,0,0,2016,12360,Middle Tenn.,419
 23,1646989,Chris Clayton,C,So,0,0,2016,12360,Col. of Charleston,1014
 6,1764729,Connor Grant,OF,Fr,21,9,2016,12360,Col. of Charleston,1014
 5,1764728,Dupree Hart,INF,Fr,53,48,2016,12360,Col. of Charleston,1014
-20,1764735,Clay Helvey,P,Fr,9,3,2016,12360,Col. of Charleston,1014
 20,1429977,Nathan Helvey,P,Sr,14,12,2016,12360,Col. of Charleston,1014
+20,1764735,Clay Helvey,P,Fr,9,3,2016,12360,Col. of Charleston,1014
 3,1646986,Bradley Dixon,INF,Fr,51,45,2016,12360,Col. of Charleston,1014
 22,1526740,Korey Anderson,P,Jr,18,6,2016,12360,Western Caro.,769
 32,1526746,Bryan Sammons,P,Jr,24,24,2016,12360,Western Caro.,769
@@ -4977,8 +4977,8 @@ XX,1770216,Devin Conn,INF,Fr,0,0,2016,12360,Middle Tenn.,419
 20.0,1419533,Kyle Kozak,C,Sr,50,46,2016,12360,WashU,755
 8.0,1773569,Curtis Hoffman,P,Fr,7,1,2016,12360,WashU,755
 32.0,1549343,Ben Browdy,INF,Jr,51,51,2016,12360,WashU,755
-34.0,1419541,Julian Clarke,P,Sr,16,13,2016,12360,WashU,755
 22.0,1773574,Sean Clarke,OF,Fr,20,0,2016,12360,WashU,755
+34.0,1419541,Julian Clarke,P,Sr,16,13,2016,12360,WashU,755
 13.0,1549354,Matt Clohisy,P,Jr,19,1,2016,12360,WashU,755
 26.0,1549345,Max Cormier,P,Jr,8,0,2016,12360,WashU,755
 30.0,1773575,John Howard,P,Fr,3,0,2016,12360,WashU,755
@@ -5408,8 +5408,8 @@ XX,1770216,Devin Conn,INF,Fr,0,0,2016,12360,Middle Tenn.,419
 10,1658148,Nolan Marcus,2B,Fr,51,50,2016,12360,West Liberty,1438
 37,1544564,Logan Maloney,P,Jr,2,0,2016,12360,West Liberty,1438
 12,1658381,Justice Jackson,INF,Fr,51,51,2016,12360,West Liberty,1438
-1,1544553,Tim Hughes,INF,Jr,48,43,2016,12360,West Liberty,1438
 16,1544560,Yale Hughes,P,Jr,21,12,2016,12360,West Liberty,1438
+1,1544553,Tim Hughes,INF,Jr,48,43,2016,12360,West Liberty,1438
 3,1652546,Vincent Haddox,INF,So,52,52,2016,12360,West Liberty,1438
 9,1544567,Tory Fuscardo,P,Jr,14,0,2016,12360,West Liberty,1438
 13,1544554,Clay Francis,C,Sr,28,25,2016,12360,West Liberty,1438
@@ -6537,7 +6537,7 @@ RS,1762596,Bobby Dorta,P,Fr,0,0,2016,12360,Millersville,423
 11,1303376,Luke Meeteer,OF,Sr,57,57,2016,12360,Milwaukee,797
 30,1637219,Cole Heili,OF,Jr,55,53,2016,12360,Milwaukee,797
 4.0,1766085,Parker Austin,P,So,10,0,2016,12360,Berry,973
-19.0,1439716,Ryan Smith,C,Sr,0,0,2016,12360,Berry,973
+23.0,1658269,Brady Smith,2B,So,33,27,2016,12360,Berry,973
 20.0,1666773,Austin Loper,P,So,4,0,2016,12360,Berry,973
 10.0,1549758,Greg Keel,OF,Sr,35,23,2016,12360,Berry,973
 5.0,1527513,Sam Joyce,INF,Jr,0,0,2016,12360,Berry,973
@@ -6567,7 +6567,7 @@ RS,1762596,Bobby Dorta,P,Fr,0,0,2016,12360,Millersville,423
 7.0,1766086,Casey Whitaker,OF,Fr,40,32,2016,12360,Berry,973
 2.0,1441706,Dusty Tyson,OF,Sr,42,42,2016,12360,Berry,973
 44.0,1780721,Daniel Stimpson,P,So,7,0,2016,12360,Berry,973
-23.0,1658269,Brady Smith,2B,So,33,27,2016,12360,Berry,973
+19.0,1439716,Ryan Smith,C,Sr,0,0,2016,12360,Berry,973
 16.0,1439649,Devin Skelton,C,Sr,28,19,2016,12360,Berry,973
 21.0,1766089,Trey Rampy,P,So,15,9,2016,12360,Berry,973
 6.0,1527498,Joey Bell,P,Jr,0,0,2016,12360,Berry,973
@@ -6804,8 +6804,8 @@ RS,1762596,Bobby Dorta,P,Fr,0,0,2016,12360,Millersville,423
 18,1307936,Josh Branch,P,Sr,6,0,2016,12360,Pfeiffer,542
 9,1652046,Jordan Eckard,OF,So,44,44,2016,12360,Pfeiffer,542
 21,1536933,John Elwood,INF,Jr,29,24,2016,12360,Pfeiffer,542
-7,1652014,Colson Everett,P,So,13,2,2016,12360,Pfeiffer,542
 99,1652015,Duncan Everett,P,Sr,13,11,2016,12360,Pfeiffer,542
+7,1652014,Colson Everett,P,So,13,2,2016,12360,Pfeiffer,542
 26,1428850,Ethan Greene,P,Sr,20,14,2016,12360,Pfeiffer,542
 35,1652018,Gauge Gantt,C,So,4,0,2016,12360,Pfeiffer,542
 36,1652032,Christian Marciano,P,So,8,1,2016,12360,Pfeiffer,542
@@ -11122,8 +11122,8 @@ RS,1756145,Carter Erickson,OF,,0,0,2016,12360,Northern St.,1266
 10,1549334,Kyle Hood,2B,Jr,39,29,2016,12360,Franklin Pierce,241
 17,1754596,Tanner Putnam,P,Fr,28,2,2016,12360,Franklin Pierce,241
 39,1754614,Brad Roberto,OF,So,16,0,2016,12360,Franklin Pierce,241
-7,1661914,Maxx Sheehan,OF,Sr,57,57,2016,12360,Franklin Pierce,241
 32,1661920,Miles Sheehan,P,Sr,4,4,2016,12360,Franklin Pierce,241
+7,1661914,Maxx Sheehan,OF,Sr,57,57,2016,12360,Franklin Pierce,241
 30,1661919,Christopher Stanford,C,So,47,46,2016,12360,Franklin Pierce,241
 20,1549322,Sam Steeves,P,So,5,1,2016,12360,Franklin Pierce,241
 42,1754615,Tony Sylvester,P,Fr,10,0,2016,12360,Franklin Pierce,241
@@ -12539,8 +12539,8 @@ RS,1756145,Carter Erickson,OF,,0,0,2016,12360,Northern St.,1266
 19,1778789,John Cooley,P,,14,11,2016,12360,Susquehanna,685
 29,1559071,Liam Conboy,P,Jr,18,0,2016,12360,Susquehanna,685
 7,1443545,Josh Cimino,OF,Sr,39,37,2016,12360,Susquehanna,685
-21,1666782,Matt Cassinelli,OF,Sr,46,46,2016,12360,Susquehanna,685
 6,1666783,Justin Cassinelli,INF,Sr,48,48,2016,12360,Susquehanna,685
+21,1666782,Matt Cassinelli,OF,Sr,46,46,2016,12360,Susquehanna,685
 54,1667182,Cole Luzins,INF,So,18,5,2016,12360,Susquehanna,685
 41,1777785,Nathan Madden,P,,15,3,2016,12360,Susquehanna,685
 23,1443544,Rob Marcickiewicz,C,Sr,8,2,2016,12360,Susquehanna,685
@@ -13515,8 +13515,8 @@ RS,1756145,Carter Erickson,OF,,0,0,2016,12360,Northern St.,1266
 20,1780748,Robert Marant,P,,7,0,2016,12360,Coast Guard,722
 30,1783280,Jeremy Lhotka,PH,,4,1,2016,12360,Coast Guard,722
 6,1443583,Ed Lazowski,OF,Sr,27,25,2016,12360,Coast Guard,722
-1,1781121,Jake Behne,1B,Fr,13,13,2016,12360,Coast Guard,722
 2,1443587,Mark Behne,INF,Sr,34,34,2016,12360,Coast Guard,722
+1,1781121,Jake Behne,1B,Fr,13,13,2016,12360,Coast Guard,722
 25,1781348,Jack Brandt,P,,8,0,2016,12360,Coast Guard,722
 26,1783620,Reed Jenkins,P,,1,0,2016,12360,Coast Guard,722
 10,1554515,Colton Cannon,P,Jr,10,9,2016,12360,Coast Guard,722
@@ -14485,8 +14485,8 @@ RS,1756145,Carter Erickson,OF,,0,0,2016,12360,Northern St.,1266
 42,1435030,Chase Cleland,OF,Jr,23,10,2016,12360,Pittsburg St.,1314
 25,1655742,Christian Cedeno,P,So,2,0,2016,12360,Pittsburg St.,1314
 14,1539769,Cole Brecheisen,OF,Jr,46,42,2016,12360,Pittsburg St.,1314
-34,1435026,Nick Brandecker,P,Sr,29,7,2016,12360,Pittsburg St.,1314
 26,1783122,George Brandecker,P,,9,8,2016,12360,Pittsburg St.,1314
+34,1435026,Nick Brandecker,P,Sr,29,7,2016,12360,Pittsburg St.,1314
 2,1655743,Jake Durossette,INF,So,33,27,2016,12360,Pittsburg St.,1314
 18,1766428,Jacob Boylan,3B,,47,47,2016,12360,Pittsburg St.,1314
 11,1655766,Shamus Kearney,P,So,7,0,2016,12360,Pittsburg St.,1314
@@ -16618,7 +16618,7 @@ RS,1756145,Carter Erickson,OF,,0,0,2016,12360,Northern St.,1266
 1,1540523,Andrew Liberty,INF,So,12,5,2016,12360,Nova Southeastern,24639
 34,1758190,Julian Loret De Mola,P,Sr,15,11,2016,12360,Nova Southeastern,24639
 6,1540520,Michael Hernandez,C,Jr,42,41,2016,12360,Nova Southeastern,24639
-26,1758156,Dillon Maya,P,Jr,2,0,2016,12360,Nova Southeastern,24639
+42,1758131,Ryan Maya,P,Fr,0,0,2016,12360,Nova Southeastern,24639
 23,1758178,Danny Zardon,INF,Jr,58,58,2016,12360,Nova Southeastern,24639
 5,1649945,Dylan Woods,INF,Jr,58,57,2016,12360,Nova Southeastern,24639
 10,1540530,Andres Visbal,INF,Jr,59,59,2016,12360,Nova Southeastern,24639
@@ -16634,7 +16634,7 @@ RS,1756145,Carter Erickson,OF,,0,0,2016,12360,Northern St.,1266
 36,1314096,Ronald Patella,P,Sr,17,0,2016,12360,Nova Southeastern,24639
 35,1758157,Jonny Ortiz,P,Jr,13,12,2016,12360,Nova Southeastern,24639
 34,1763140,L. Mola,P,,1,1,2016,12360,Nova Southeastern,24639
-42,1758131,Ryan Maya,P,Fr,0,0,2016,12360,Nova Southeastern,24639
+26,1758156,Dillon Maya,P,Jr,2,0,2016,12360,Nova Southeastern,24639
 33,1540525,Julian Pino,C,Jr,4,0,2016,12360,Nova Southeastern,24639
 21,1763995,John Bryant,P,Sr,5,0,2016,12360,Tuskegee,720
 20,1764010,Marc Kennedy,INF,Fr,27,27,2016,12360,Tuskegee,720
@@ -18749,8 +18749,8 @@ RS,1756145,Carter Erickson,OF,,0,0,2016,12360,Northern St.,1266
 36,1768664,Matt Giacose,OF,Fr,3,0,2016,12360,TCNJ,712
 3,1552556,Cj Gearhart,C,Jr,36,33,2016,12360,TCNJ,712
 11,1660060,Mike Follet,OF,So,39,39,2016,12360,TCNJ,712
-2,1768663,Ryan Fischer,INF,Fr,6,0,2016,12360,TCNJ,712
 57,1768662,Michael Fischer,P,Fr,10,4,2016,12360,TCNJ,712
+2,1768663,Ryan Fischer,INF,Fr,6,0,2016,12360,TCNJ,712
 22,1660065,Ryan Fearon,INF,So,14,9,2016,12360,TCNJ,712
 9,1427309,Matthew Facas,C,Sr,13,11,2016,12360,TCNJ,712
 18,1427301,Joseph Dilorenzo,P,Sr,12,0,2016,12360,TCNJ,712
@@ -19574,14 +19574,14 @@ RS,1756145,Carter Erickson,OF,,0,0,2016,12360,Northern St.,1266
 36,1772716,Paul Richy,P,Fr,2,0,2016,12360,UNLV,465
 32,1772714,Corey Pool,1B,Jr,49,36,2016,12360,UNLV,465
 25,1422965,Kenny Oakley,P,Sr,15,15,2016,12360,UNLV,465
-40,1659931,D.J. Myers,P,Jr,15,15,2016,12360,UNLV,465
+31,1659930,Christian Myers,P,So,12,0,2016,12360,UNLV,465
 33,1772715,Larry Quaney,P,Fr,13,0,2016,12360,UNLV,465
 48,1659936,Bryan Menendez,C,So,13,3,2016,12360,UNLV,465
 42,1772719,Nick Ames,INF,Fr,44,32,2016,12360,UNLV,465
 4,1659938,Austin Anderson,INF,So,45,34,2016,12360,UNLV,465
 20,1659928,Blaze Bohall,P,So,20,3,2016,12360,UNLV,465
 22,1530037,Andrew Encinas,P,So,1,0,2016,12360,UNLV,465
-31,1659930,Christian Myers,P,So,12,0,2016,12360,UNLV,465
+40,1659931,D.J. Myers,P,Jr,15,15,2016,12360,UNLV,465
 29,1772712,Tevita Gerber,P,Fr,11,1,2016,12360,UNLV,465
 19,1772710,Ryan Hare,P,Fr,18,2,2016,12360,UNLV,465
 3,1772705,Cooper Esmay,INF,Jr,45,34,2016,12360,UNLV,465
@@ -23958,8 +23958,8 @@ RS,1761207,Andrew Bash,P,Fr,0,0,2016,12360,California Baptist,30135
 8.0,1557784,Jordan Corbett,INF,So,25,12,2016,12360,Mt. St. Joseph,8567
 20.0,1647859,Zach Farmer,P,Jr,40,39,2016,12360,Mt. St. Joseph,8567
 35.0,1647876,Ben Frizzell,P,So,13,0,2016,12360,Mt. St. Joseph,8567
-27.0,1766199,Nick Gunnell,P,Fr,12,1,2016,12360,Mt. St. Joseph,8567
 33.0,1557788,Jacob Gunnell,P,Jr,14,1,2016,12360,Mt. St. Joseph,8567
+27.0,1766199,Nick Gunnell,P,Fr,12,1,2016,12360,Mt. St. Joseph,8567
 30.0,1766197,Mike Hilliard,P,So,12,0,2016,12360,Mt. St. Joseph,8567
 9.0,1557789,Matt Hofmann,P,Jr,38,35,2016,12360,Mt. St. Joseph,8567
 17.0,1766202,Chris Honebrink,P,Fr,11,0,2016,12360,Mt. St. Joseph,8567
@@ -24650,13 +24650,13 @@ RS,1761207,Andrew Bash,P,Fr,0,0,2016,12360,California Baptist,30135
 11,1777410,Jake Schubert,INF,So,4,1,2016,12360,Bethel  (MIAC),60
 3,1435433,Matt Conrad,OF,Sr,38,37,2016,12360,Bethel  (MIAC),60
 44,1556746,Bret Neuville,1B,Jr,36,36,2016,12360,Bethel  (MIAC),60
-27,1672530,Tyler Meyer,P,So,0,0,2016,12360,Bethel  (MIAC),60
+33,1668803,Brandon Meyer,INF,So,24,19,2016,12360,Bethel  (MIAC),60
 25,1556751,Grant Martinson,P,Jr,15,0,2016,12360,Bethel  (MIAC),60
 9,1556744,Bryce Marquardt,OF,Jr,38,38,2016,12360,Bethel  (MIAC),60
 12,1777411,Noah Luedtke,P,So,7,7,2016,12360,Bethel  (MIAC),60
 1,1435432,Logan Lisle,INF,Sr,27,14,2016,12360,Bethel  (MIAC),60
 17,1669352,Austin Ledin,C,So,32,29,2016,12360,Bethel  (MIAC),60
-33,1668803,Brandon Meyer,INF,So,24,19,2016,12360,Bethel  (MIAC),60
+27,1672530,Tyler Meyer,P,So,0,0,2016,12360,Bethel  (MIAC),60
 13,1777412,Michael Bohlke,P,Fr,16,0,2016,12360,Bethel  (MIAC),60
 19,1777416,Christian Brausen,P,Fr,0,0,2016,12360,Bethel  (MIAC),60
 21,1777418,Jacob Ashworth,1B,Fr,8,2,2016,12360,Bethel  (MIAC),60
@@ -30587,8 +30587,8 @@ RS,1761207,Andrew Bash,P,Fr,0,0,2016,12360,California Baptist,30135
 27.0,1782948,David Kwan,DH,Fr,16,9,2016,12360,Williams,789
 21.0,1783092,Will O'Brien,P,Fr,8,3,2016,12360,Williams,789
 14.0,1782942,Kellen Hatheway,SS,Fr,32,31,2016,12360,Williams,789
-11.0,1782946,Cyrus Beschloss,3B,Fr,2,0,2016,12360,Williams,789
 22.0,1444171,Alex Beschloss,P,Sr,11,3,2016,12360,Williams,789
+11.0,1782946,Cyrus Beschloss,3B,Fr,2,0,2016,12360,Williams,789
 16.0,1783093,Jack Bohen,P,Fr,9,4,2016,12360,Williams,789
 17.0,1444167,Arnie Capute,P,Sr,8,0,2016,12360,Williams,789
 12.0,1444166,Beau Horan,OF,Sr,25,16,2016,12360,Williams,789

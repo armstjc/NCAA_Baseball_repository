@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/14/2020,home,15204,381,Manhattan,9,True,4,3,1,win,4 - 3,4925770,721,1,0.1,0,1,1,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,2127311,2020
-02/24/2020,away,15204,193,Duke,9,True,0,16,-16,loss,0 - 16,4938858,721,1,0.1,0,5,6,6,1,1,0,7,6,1,0,0,0,0,0,0,2,0,0,0,25,0,0,0,0,0,2,0,0,2127311,2020
-02/29/2020,home,15204,115,Campbell,9,True,1,4,-3,loss,1 - 4,4943509,721,1,1.1,0,2,0,0,2,2,0,8,6,0,0,0,0,0,0,0,0,0,0,0,36,0,2,0,0,0,2,1,0,2127311,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,1,1,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,02/14/2020,neutral,15204,381,Manhattan,9,True,4,3,1,win,1830181,721,2127311,2020
+1,0,0.1,0.0,5,6,6,1,1,0,7,6,1,0,0,0,0,0,0,2,0,0,0,25,0,0,0,0,0,2,0,0,02/24/2020,away,15204,193,Duke,9,True,0,16,-16,loss,1832072,721,2127311,2020
+1,0,1.1,0.0,2,0,0,2,2,0,8,6,0,0,0,0,0,0,0,0,0,0,0,36,0,2,0,0,0,2,1,0,02/29/2020,neutral,15204,115,Campbell,9,True,1,4,-3,loss,1832802,721,2127311,2020

@@ -381,8 +381,8 @@ RS,1867307,Greg Dunham,P,Jr,0,0,2020,15204,Montevallo,1238
 4,2113398,Caden Bonds,INF,So,18,18,2020,15204,Colo. Sch. of Mines,155
 9,2312195,Alex Bumpus,OF,Jr,18,18,2020,15204,Colo. Sch. of Mines,155
 40,1981276,Lucas Ciacco,INF,Sr,8,1,2020,15204,Colo. Sch. of Mines,155
-14,2133997,Clayton Daly,OF,Fr,1,0,2020,15204,Colo. Sch. of Mines,155
 5,1883977,Derek Daly,INF,Sr,14,13,2020,15204,Colo. Sch. of Mines,155
+14,2133997,Clayton Daly,OF,Fr,1,0,2020,15204,Colo. Sch. of Mines,155
 23,2312206,Marcus Lee,P,Fr,0,0,2020,15204,Colo. Sch. of Mines,155
 16,1981278,Ian Durgin,P,Sr,5,0,2020,15204,Colo. Sch. of Mines,155
 39,1981283,Nate Giefer,P,Sr,1,0,2020,15204,Colo. Sch. of Mines,155
@@ -459,11 +459,11 @@ RS,1867307,Greg Dunham,P,Jr,0,0,2020,15204,Montevallo,1238
 7,2309191,Will Worthington,INF,Fr,9,6,2020,15204,San Diego,627
 45,2140448,Mike Yourg,OF,Fr,1,1,2020,15204,San Diego,627
 27,2309243,Kohl Simas,P,So,4,0,2020,15204,San Diego,627
-17,2140441,Grady Miller,P,Sr,5,5,2020,15204,San Diego,627
-18,2309246,James Sashin,P,Fr,0,0,2020,15204,San Diego,627
 32,2140462,Jake Miller,P,So,5,2,2020,15204,San Diego,627
-29,2309253,Lucas Braun,P,Fr,2,0,2020,15204,San Diego,627
+18,2309246,James Sashin,P,Fr,0,0,2020,15204,San Diego,627
 8,2140464,Preston Miller,UT,So,5,2,2020,15204,San Diego,627
+29,2309253,Lucas Braun,P,Fr,2,0,2020,15204,San Diego,627
+17,2140441,Grady Miller,P,Sr,5,5,2020,15204,San Diego,627
 11,1870195,Louis Crow,P,Sr,0,0,2020,15204,San Diego,627
 30,2309254,Michael Dixon,OF,Fr,15,10,2020,15204,San Diego,627
 40,2140429,Jack Dolak,P,So,6,1,2020,15204,San Diego,627
@@ -721,10 +721,10 @@ RS,1867307,Greg Dunham,P,Jr,0,0,2020,15204,Montevallo,1238
 8,2308870,Jason Garcia,P,Fr,3,2,2020,15204,Alabama A&M,6
 12,2349679,Malik Frails,INF,Fr,7,3,2020,15204,Alabama A&M,6
 35,2308919,Jackson Holcombe,C,Fr,5,2,2020,15204,Alabama A&M,6
-4,1879676,Isom Ford,C,Sr,3,1,2020,15204,Alabama A&M,6
+7,2118001,Jalen Ford,INF,So,0,0,2020,15204,Alabama A&M,6
 5,1998507,Jose Figueroa,P,Jr,2,1,2020,15204,Alabama A&M,6
 37,2118020,Yavier Febus,P,So,3,0,2020,15204,Alabama A&M,6
-7,2118001,Jalen Ford,INF,So,0,0,2020,15204,Alabama A&M,6
+4,1879676,Isom Ford,C,Sr,3,1,2020,15204,Alabama A&M,6
 5,2319798,Levi Arnold,P,Jr,4,0,2020,15204,Bemidji St.,54
 27,2122847,Kenneth Morris,P,Jr,4,0,2020,15204,Bemidji St.,54
 20,2122764,Kade Nelson,INF,Sr,11,11,2020,15204,Bemidji St.,54
@@ -1362,8 +1362,8 @@ RS,1867307,Greg Dunham,P,Jr,0,0,2020,15204,Montevallo,1238
 55,1882033,Spencer Price,P,Sr,8,0,2020,15204,Mississippi St.,430
 29,1865823,Carlisle Koestler,P,Sr,5,3,2020,15204,Mississippi St.,430
 5,1983737,Tanner Allen,OF,Jr,8,7,2020,15204,Mississippi St.,430
-9,2123512,Landon Jordan,INF,So,14,10,2020,15204,Mississippi St.,430
 4,1983736,Rowdey Jordan,OF,Jr,16,16,2020,15204,Mississippi St.,430
+9,2123512,Landon Jordan,INF,So,14,10,2020,15204,Mississippi St.,430
 36,2123513,Hunter Blalock,OF,Fr,0,0,2020,15204,Mississippi St.,430
 27,2123507,Bryce Brock,UT,So,7,1,2020,15204,Mississippi St.,430
 37,2123514,Eric Cerantola,P,So,4,4,2020,15204,Mississippi St.,430
@@ -1428,9 +1428,9 @@ RS,1867307,Greg Dunham,P,Jr,0,0,2020,15204,Montevallo,1238
 26,2333494,Fred Stewart,C,Jr,0,0,2020,15204,Alabama St.,7
 9,2333485,Jayden Sloan,2B,Fr,7,1,2020,15204,Alabama St.,7
 28,2333495,Luis Rodriguez,C,Fr,4,1,2020,15204,Alabama St.,7
+20,2129572,Ricardo Rivera,P,So,5,2,2020,15204,Alabama St.,7
 38,2129576,Jeremy Rivera,P,So,6,2,2020,15204,Alabama St.,7
 17,2129596,Jorge Rivera,C,So,0,0,2020,15204,Alabama St.,7
-20,2129572,Ricardo Rivera,P,So,5,2,2020,15204,Alabama St.,7
 30,2129598,Breon Pooler,P,Sr,4,3,2020,15204,Alabama St.,7
 23,2129597,Jorge Perez,P,So,0,0,2020,15204,Alabama St.,7
 13,2333500,Christian Muniz,3B,Fr,4,0,2020,15204,Alabama St.,7
@@ -1838,10 +1838,10 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 32,2139754,Paul Komistek,OF,So,14,13,2020,15204,Cincinnati,140
 49,1876200,Nathan Kroger,P,Sr,4,4,2020,15204,Cincinnati,140
 24,2139172,Sean Mclaughlin,INF,So,0,0,2020,15204,Cincinnati,140
-35,2347095,Jacob Meyer,P,Jr,3,0,2020,15204,Cincinnati,140
+4,2139174,Nate Meyer,INF,So,10,2,2020,15204,Cincinnati,140
 3,1876201,Jace Mercer,INF,Sr,15,15,2020,15204,Cincinnati,140
 8,2139200,Griffin Merritt,INF,So,13,12,2020,15204,Cincinnati,140
-4,2139174,Nate Meyer,INF,So,10,2,2020,15204,Cincinnati,140
+35,2347095,Jacob Meyer,P,Jr,3,0,2020,15204,Cincinnati,140
 39,2347094,Evan Kemp,P,Fr,5,0,2020,15204,Cincinnati,140
 3.0,2003654,Ross Beumer,P,Jr,7,6,2020,15204,Bethany Lutheran,30038
 14.0,2153209,Conner Side,PH/CF,So,5,2,2020,15204,Bethany Lutheran,30038
@@ -2075,7 +2075,7 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 27,1771975,Chesdin Harrington,P,Sr,3,2,2020,15204,Virginia,746
 14,2127019,Brandon Neeck,P,So,3,0,2020,15204,Virginia,746
 18,2127049,Zack Gelof,INF,So,18,18,2020,15204,Virginia,746
-4,2354392,L. Doran,SS,,12,12,2020,15204,St. Anselm,593
+4,2113983,Logan Doran,SS,So,0,0,2020,15204,St. Anselm,593
 35,2354585,Travis Macmurdo,P,Fr,3,0,2020,15204,St. Anselm,593
 5,2354401,Reece Manor,INF,Fr,2,0,2020,15204,St. Anselm,593
 3,2142375,Enzo Merlonghi,C,So,9,9,2020,15204,St. Anselm,593
@@ -2097,8 +2097,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 99,1998662,Blaine Johnson Iii,DH,Sr,0,0,2020,15204,St. Anselm,593
 6,2142371,David Hunter,P,So,3,2,2020,15204,St. Anselm,593
 7,1999040,Ben Horsfall,OF,Jr,4,2,2020,15204,St. Anselm,593
+4,2354392,L. Doran,SS,,12,12,2020,15204,St. Anselm,593
 1,2354393,Brady Doran,INF,Fr,12,12,2020,15204,St. Anselm,593
-4,2113983,Logan Doran,SS,So,0,0,2020,15204,St. Anselm,593
 12,2354398,John Donovan,P,Fr,3,0,2020,15204,St. Anselm,593
 28,1872284,Jared Ferris,P,Sr,2,0,2020,15204,St. Anselm,593
 2,2142365,Matt Collins,SS,So,12,12,2020,15204,St. Anselm,593
@@ -2851,8 +2851,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 29,2332257,Dom Eberle,P,Jr,7,0,2020,15204,San Jose St.,630
 34,2332302,Trevor Ernt,P,Fr,2,1,2020,15204,San Jose St.,630
 35,2332258,Robert Hamchuk,OF,Fr,15,11,2020,15204,San Jose St.,630
-3,2332304,Reece Hernandez,UT,Jr,12,11,2020,15204,San Jose St.,630
 40,2332303,Jake Hernandez,P,Jr,4,1,2020,15204,San Jose St.,630
+3,2332304,Reece Hernandez,UT,Jr,12,11,2020,15204,San Jose St.,630
 12,1996766,Wesley Clawson,P,Jr,5,0,2020,15204,San Jose St.,630
 12,2112232,Joshua Wilder,P,So,0,0,2020,15204,Brown,80
 19,1983987,Brennan Vasquez,C,Jr,5,4,2020,15204,Brown,80
@@ -2914,8 +2914,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 27,2150690,Bryce Huffman,1B,So,6,6,2020,15204,St. Scholastica,618
 1,2150691,Marty Kalina,UT,So,0,0,2020,15204,St. Scholastica,618
 24,2351883,Wes Kemming,P,Fr,1,1,2020,15204,St. Scholastica,618
-12,2002655,Reed Larson,OF,Jr,1,1,2020,15204,St. Scholastica,618
 47,2351893,Kam Larson,C,Fr,5,4,2020,15204,St. Scholastica,618
+12,2002655,Reed Larson,OF,Jr,1,1,2020,15204,St. Scholastica,618
 54,2351895,Andrew Lee,P,Jr,0,0,2020,15204,St. Scholastica,618
 2,1893492,Braydon Hanson,UT,Sr,6,4,2020,15204,St. Scholastica,618
 13,2309868,Kyle Barileau,INF,Fr,0,0,2020,15204,CSU Bakersfield,94
@@ -2941,9 +2941,9 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 15,1992147,Davonte Butler,P,Jr,4,4,2020,15204,CSU Bakersfield,94
 5,1992153,Daniel Carrizosa,UT,Jr,11,10,2020,15204,CSU Bakersfield,94
 21,2309891,Aaron Casillas,INF,Fr,12,12,2020,15204,CSU Bakersfield,94
-8,2127051,Eric Charles,OF,Sr,10,4,2020,15204,CSU Bakersfield,94
-40,2127062,Roman Angelo,P,So,3,1,2020,15204,CSU Bakersfield,94
 25,1862075,Aaron Charles,P,Jr,4,3,2020,15204,CSU Bakersfield,94
+40,2127062,Roman Angelo,P,So,3,1,2020,15204,CSU Bakersfield,94
+8,2127051,Eric Charles,OF,Sr,10,4,2020,15204,CSU Bakersfield,94
 33,2127040,Noah Cordova,P,Sr,6,0,2020,15204,CSU Bakersfield,94
 26,2309898,Lewis Dirkes,INF,Fr,2,0,2020,15204,CSU Bakersfield,94
 3,2127052,Nick Grossman,OF,Sr,14,14,2020,15204,CSU Bakersfield,94
@@ -2958,8 +2958,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 8,2333451,Tanner Propst,p,Jr,10,0,2020,15204,Delta St.,181
 4,2333445,Chad Ragland,cf/lf,Jr,23,23,2020,15204,Delta St.,181
 9,1977132,Hunter Riggins,P,Jr,7,6,2020,15204,Delta St.,181
-32,1977133,Reed Roberts,C,Jr,2,0,2020,15204,Delta St.,181
 34,1865450,Landon Roberts,INF,Sr,6,2,2020,15204,Delta St.,181
+32,1977133,Reed Roberts,C,Jr,2,0,2020,15204,Delta St.,181
 36,2333452,Jackson Rutledge,p,Jr,6,6,2020,15204,Delta St.,181
 21,1865452,Bradley Sanford,C,Sr,7,6,2020,15204,Delta St.,181
 12,1865453,Derek Sargent,INF,Sr,23,22,2020,15204,Delta St.,181
@@ -3106,7 +3106,7 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 35,1868743,Zack Minney,P,Sr,1,0,2020,15204,Youngstown St.,817
 26,1777799,Cameron Murray,OF,Sr,9,3,2020,15204,Youngstown St.,817
 1,1974026,Lucas Nasonti,OF,Jr,14,14,2020,15204,Youngstown St.,817
-25,2308649,Padraig O'Shaughnessy,1B,So,7,2,2020,15204,Youngstown St.,817
+23,2308647,Braeden O'Shaughnessy,INF,Fr,9,6,2020,15204,Youngstown St.,817
 33,2126079,Travis Perry,P,So,3,3,2020,15204,Youngstown St.,817
 31,1974004,Nick Labrasca,1B,So,1,0,2020,15204,Youngstown St.,817
 38,2126038,John Ritter,C,So,0,0,2020,15204,Youngstown St.,817
@@ -3114,7 +3114,7 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 19,2126080,Dylan Swarmer,C,So,4,2,2020,15204,Youngstown St.,817
 18,2308671,Bryce Warwick,P,Fr,5,1,2020,15204,Youngstown St.,817
 7,1974031,Jeff Wehler,OF,Jr,14,14,2020,15204,Youngstown St.,817
-23,2308647,Braeden O'Shaughnessy,INF,Fr,9,6,2020,15204,Youngstown St.,817
+25,2308649,Padraig O'Shaughnessy,1B,So,7,2,2020,15204,Youngstown St.,817
 40,1974003,Grant Kersh,P,So,1,0,2020,15204,Youngstown St.,817
 34,2308687,Kenny Misik,P,Fr,0,0,2020,15204,Youngstown St.,817
 21,2308645,Turner Grau,OF,Fr,14,13,2020,15204,Youngstown St.,817
@@ -3137,8 +3137,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 20,2308674,Andre Good,OF,Fr,10,8,2020,15204,Youngstown St.,817
 4,2126035,Steven D'Eusanio,INF,So,14,14,2020,15204,Youngstown St.,817
 31,2308258,Mark Meyer,P,Sr,0,0,2020,15204,Akron,5
-8,2308280,Brenton Phillips,OF,Jr,13,13,2020,15204,Akron,5
 27,2308261,Grayson Phillips,P,Fr,5,0,2020,15204,Akron,5
+8,2308280,Brenton Phillips,OF,Jr,13,13,2020,15204,Akron,5
 28,2308292,Matthew Radtka,P,Jr,7,0,2020,15204,Akron,5
 3,2308268,Connor Regan,C,Sr,8,6,2020,15204,Akron,5
 9,2308269,Jerry Reinhart,INF,Jr,3,3,2020,15204,Akron,5
@@ -3625,7 +3625,7 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 23,2304497,Brady Gulakowski,C,Jr,16,16,2020,15204,Liberty,355
 13,2126355,David Erickson,P,So,5,0,2020,15204,Liberty,355
 1,2126335,Jaylen Guy,OF,So,17,17,2020,15204,Liberty,355
-19,2331937,Cael Baker,INF,Jr,16,15,2020,15204,Ole Miss,433
+43,2331938,Cole Baker,P,Fr,4,0,2020,15204,Ole Miss,433
 38,2121590,Logan Savell,P,Fr,5,0,2020,15204,Ole Miss,433
 2,2331986,Connor Walsh,INF,Fr,0,0,2020,15204,Ole Miss,433
 33,2331985,Ben Van Cleve,INF,Jr,11,8,2020,15204,Ole Miss,433
@@ -3641,7 +3641,7 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 9,2331978,Hayden Leatherwood,OF,Jr,14,11,2020,15204,Ole Miss,433
 14,2331977,Trey Lafleur,OF,Fr,11,2,2020,15204,Ole Miss,433
 24,2331975,Jackson Kimbrell,P,Fr,5,2,2020,15204,Ole Miss,433
-43,2331938,Cole Baker,P,Fr,4,0,2020,15204,Ole Miss,433
+19,2331937,Cael Baker,INF,Jr,16,15,2020,15204,Ole Miss,433
 12,1867505,Greer Holston,P,Sr,5,1,2020,15204,Ole Miss,433
 10,1984707,Tyler Keenan,INF,Jr,17,17,2020,15204,Ole Miss,433
 8,2121560,Justin Bench,INF,So,17,14,2020,15204,Ole Miss,433
@@ -3665,13 +3665,13 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 32,1889903,Drew Stewart,OF,Sr,8,8,2020,15204,Minn. Duluth,427
 11,2122584,Tim Pokornowski,OF,So,5,2,2020,15204,Minn. Duluth,427
 6,2319835,Alex Sturnieks,P,Fr,2,1,2020,15204,Minn. Duluth,427
-24,2319844,Russ Tanner,P,Fr,1,1,2020,15204,Minn. Duluth,427
+25,2319858,Sam Tanner,OF,Fr,0,0,2020,15204,Minn. Duluth,427
 28,2319805,Daniel Van De Steeg,P,Fr,2,1,2020,15204,Minn. Duluth,427
 22,2007430,Mitchell Waletzki,P,Jr,3,3,2020,15204,Minn. Duluth,427
 17,2319837,Alex Wattermann,INF,Fr,8,8,2020,15204,Minn. Duluth,427
 30,1870399,Alex Welder,1B,Sr,7,7,2020,15204,Minn. Duluth,427
 5,2122542,Aaron Wukmir,P,So,2,0,2020,15204,Minn. Duluth,427
-25,2319858,Sam Tanner,OF,Fr,0,0,2020,15204,Minn. Duluth,427
+24,2319844,Russ Tanner,P,Fr,1,1,2020,15204,Minn. Duluth,427
 27,2005626,Paul Petit,P,Jr,1,1,2020,15204,Minn. Duluth,427
 9,2006128,Tyler Peterson,C,So,3,1,2020,15204,Minn. Duluth,427
 8,2319836,Brodie Paulson,INF,Jr,6,6,2020,15204,Minn. Duluth,427
@@ -3857,14 +3857,14 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 13,1996643,Nathan Smith,P,Jr,2,0,2020,15204,Aurora,42
 32,2343843,Alex Strupp,P,Fr,0,0,2020,15204,Aurora,42
 20,2352416,Corey Vondra,OF,Jr,11,11,2020,15204,Aurora,42
-47,2343829,Tanner Turnquist,P,So,0,0,2020,15204,Aurora,42
+10,1996647,Carter Turnquist,P,Sr,3,3,2020,15204,Aurora,42
 61,2147437,William Van Duyne,OF,So,0,0,2020,15204,Aurora,42
 48,2343832,Jacob Welbes,P,Fr,0,0,2020,15204,Aurora,42
 7,1996639,Jett Wetekind,C,Sr,10,9,2020,15204,Aurora,42
 18,2147433,Dylan White,OF,So,11,11,2020,15204,Aurora,42
 6,1883279,Austin Wiskow,INF,Sr,11,11,2020,15204,Aurora,42
 24,1996649,Skyler Yamamoto,P,Jr,3,2,2020,15204,Aurora,42
-10,1996647,Carter Turnquist,P,Sr,3,3,2020,15204,Aurora,42
+47,2343829,Tanner Turnquist,P,So,0,0,2020,15204,Aurora,42
 12,1996641,Blake Milburn,OF,Jr,5,0,2020,15204,Aurora,42
 2,2147411,Maurice Munoz,OF,So,0,0,2020,15204,Aurora,42
 27,2147412,Nick Malmberg,P,So,3,3,2020,15204,Aurora,42
@@ -4003,9 +4003,9 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 36,2306148,Cohen Wilbanks,C,Fr,3,1,2020,15204,Lee,30013
 31,2122364,Nate Sumner,INF,Sr,7,2,2020,15204,Lee,30013
 1,2306113,Dylan Standifer,INF,Fr,22,22,2020,15204,Lee,30013
+10,2124028,Keyshaun Smith,OF,Sr,12,9,2020,15204,Lee,30013
 3,2124021,Alan Smith,INF,Sr,23,23,2020,15204,Lee,30013
 23,2124026,Cody Smith,C,Sr,8,6,2020,15204,Lee,30013
-10,2124028,Keyshaun Smith,OF,Sr,12,9,2020,15204,Lee,30013
 7,2124046,Landon Silver,OF,Sr,23,22,2020,15204,Lee,30013
 42,2124048,Alan Rickman,P,Sr,4,2,2020,15204,Lee,30013
 16,2306127,Greyson Linderman,P,Fr,0,0,2020,15204,Lee,30013
@@ -4296,7 +4296,7 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 45,2154305,Andrew Spirito,INF,So,0,0,2020,15204,Wheaton  (NEWC),779
 48,2149126,Griffin Young,P,So,0,0,2020,15204,Wheaton  (NEWC),779
 40,2361349,Max Pierce,P,Fr,2,0,2020,15204,Wheaton  (NEWC),779
-32,1987634,Joshua Roberge,P,Jr,2,2,2020,15204,Wheaton  (NEWC),779
+32,1987634,Josh Roberge,P,Jr,2,2,2020,15204,Wheaton  (NEWC),779
 1,1987633,George Mulcahey,INF,Jr,8,8,2020,15204,Wheaton  (NEWC),779
 7,1895371,Quinn Krais,C,Sr,7,5,2020,15204,Wheaton  (NEWC),779
 17,1895084,Paul Mcgeehan,P,Sr,1,0,2020,15204,Wheaton  (NEWC),779
@@ -4403,8 +4403,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 32,2137186,Ryan Marstiller,P,Sr,5,0,2020,15204,Central Wash.,1010
 20,2136271,Cameron Mcgrath,INF,Sr,14,13,2020,15204,Central Wash.,1010
 37,2329207,Austin Ohland,C,Fr,14,12,2020,15204,Central Wash.,1010
-31,1884520,Yi-Fan Pan,INF,Sr,0,0,2020,15204,Central Wash.,1010
 30,1892325,Yi-An Pan,OF,Sr,0,0,2020,15204,Central Wash.,1010
+31,1884520,Yi-Fan Pan,INF,Sr,0,0,2020,15204,Central Wash.,1010
 8,1981349,Michael Peter,INF,Jr,9,4,2020,15204,Central Wash.,1010
 5,2136272,Luke Smith,INF,Sr,12,6,2020,15204,Central Wash.,1010
 13,2329182,Jake Tilley,INF,Jr,10,8,2020,15204,Central Wash.,1010
@@ -4479,12 +4479,12 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 8,2310755,J.J. Slack,P,Fr,3,0,2020,15204,Southwestern  (SCAC),8746
 17,2159162,Brandt Daughtry,P,So,1,0,2020,15204,Southwestern  (SCAC),8746
 42,2310730,William Slanina-Wertz,INF,Fr,2,0,2020,15204,Southwestern  (SCAC),8746
-29,2112017,Jd Sparks,P,So,4,0,2020,15204,Southwestern  (SCAC),8746
 6,1988948,Seth Sparks,INF,Jr,13,13,2020,15204,Southwestern  (SCAC),8746
+29,2112017,Jd Sparks,P,So,4,0,2020,15204,Southwestern  (SCAC),8746
 43,2310735,Jacob Tanner,SS,Fr,3,0,2020,15204,Southwestern  (SCAC),8746
 3,2141077,Chase Thinger,INF,So,13,13,2020,15204,Southwestern  (SCAC),8746
-62,2310780,Christian Verret,P,Fr,0,0,2020,15204,Southwestern  (SCAC),8746
 62,2310781,Christian Verret,P,Fr,0,0,2020,15204,Southwestern  (SCAC),8746
+62,2310780,Christian Verret,P,Fr,0,0,2020,15204,Southwestern  (SCAC),8746
 41,2310726,Adam Werchan,OF,Fr,3,0,2020,15204,Southwestern  (SCAC),8746
 51,2310744,Skyler White,P,Fr,0,0,2020,15204,Southwestern  (SCAC),8746
 33,2310715,Tyler Wilson,INF,Fr,1,1,2020,15204,Southwestern  (SCAC),8746
@@ -4597,8 +4597,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 26,2135869,Phillip Locklear,P,So,0,0,2020,15204,William Peace,17094
 9,2135850,Jordan Moss,INF,So,0,0,2020,15204,William Peace,17094
 4,1985748,Jake Norris,C,Jr,13,12,2020,15204,William Peace,17094
-24,2135851,Rafael Ortega,INF,So,1,0,2020,15204,William Peace,17094
 30,1985755,Isaiah Ortega,P,Jr,6,0,2020,15204,William Peace,17094
+24,2135851,Rafael Ortega,INF,So,1,0,2020,15204,William Peace,17094
 45,2135852,Austin Padgett,P,So,3,0,2020,15204,William Peace,17094
 50,2330127,Garrett Pannell,INF,Fr,7,2,2020,15204,William Peace,17094
 5,2135853,Samuel Peddycord,P,So,6,4,2020,15204,William Peace,17094
@@ -4786,7 +4786,7 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 3,2130460,Drew Reed,INF,So,9,4,2020,15204,East Central,8965
 45,2319872,Brian Terry,P,Fr,6,0,2020,15204,East Central,8965
 13,2319843,Garrett Lemons,OF,So,14,9,2020,15204,East Central,8965
-10,2319842,Davis Rogers,P,Jr,8,2,2020,15204,East Central,8965
+37,2134763,Hunter Rogers,INF,Jr,0,0,2020,15204,East Central,8965
 28,2319809,Colton Schaper-Kotter,UT,Fr,23,23,2020,15204,East Central,8965
 23,2131023,Jeffrey Shafer,P,Sr,0,0,2020,15204,East Central,8965
 11,2122548,Gabriel Simons,OF,Sr,17,14,2020,15204,East Central,8965
@@ -4796,7 +4796,7 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 12,2130461,Gage Wall,P,Sr,0,0,2020,15204,East Central,8965
 14,1979996,Chris Sanchez,P,Sr,4,0,2020,15204,East Central,8965
 38,2130458,Dylan Lang,C,Sr,19,18,2020,15204,East Central,8965
-37,2134763,Hunter Rogers,INF,Jr,0,0,2020,15204,East Central,8965
+10,2319842,Davis Rogers,P,Jr,8,2,2020,15204,East Central,8965
 31,2134762,Breydan Jackson,P,So,4,0,2020,15204,East Central,8965
 20,2319861,Spencer Johnston,P,Jr,6,6,2020,15204,East Central,8965
 8,2130429,Tanner Barnes,C,So,13,8,2020,15204,East Central,8965
@@ -5115,13 +5115,13 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 5,1772412,Joey Mylott,1B,Sr,9,9,2020,15204,RIT,580
 1,1772410,Jameson Moran,P,Sr,3,1,2020,15204,RIT,580
 5,2345724,Sajon Belser,OF,Fr,8,4,2020,15204,Col. of Charleston,1014
-12,2345672,Caswell Smith,P,Fr,4,4,2020,15204,Col. of Charleston,1014
+15,2345673,Grant Smith,P,Jr,2,0,2020,15204,Col. of Charleston,1014
 27,1996987,Zach Williams,P,Jr,7,1,2020,15204,Col. of Charleston,1014
 31,2347686,Ben Wetenhall,INF,Fr,3,0,2020,15204,Col. of Charleston,1014
 32,2345676,Jaxon Weatherford,1B,Fr,12,7,2020,15204,Col. of Charleston,1014
 35,2345739,Tyler Vermillion,P,Fr,0,0,2020,15204,Col. of Charleston,1014
 28,1879336,Luke Stageberg,INF,Sr,14,14,2020,15204,Col. of Charleston,1014
-15,2345673,Grant Smith,P,Jr,2,0,2020,15204,Col. of Charleston,1014
+12,2345672,Caswell Smith,P,Fr,4,4,2020,15204,Col. of Charleston,1014
 11,1879321,Ari Sechopoulos,INF,Sr,14,14,2020,15204,Col. of Charleston,1014
 38,2139373,Mclendon Sears,UT,So,14,11,2020,15204,Col. of Charleston,1014
 25,2139368,Josh Price,P,Sr,9,0,2020,15204,Col. of Charleston,1014
@@ -5209,8 +5209,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 33,2136494,Tate Ellison,ph,Sr,15,0,2020,15204,Lubbock Christian,30177
 20,1984429,Kameron Deterding,P,Jr,2,0,2020,15204,Lubbock Christian,30177
 2,2307837,John Figueroa,C,Jr,11,4,2020,15204,Lubbock Christian,30177
-34,1886945,Brennen Fowler,P,Sr,7,0,2020,15204,Lubbock Christian,30177
 16,2307847,Jaden Fowler,P,Fr,9,0,2020,15204,Lubbock Christian,30177
+34,1886945,Brennen Fowler,P,Sr,7,0,2020,15204,Lubbock Christian,30177
 12,2151315,Colin Frondorf,p,Sr,4,0,2020,15204,Lubbock Christian,30177
 8,2307844,Grant Griffin,OF,Jr,16,7,2020,15204,Lubbock Christian,30177
 40,2307863,Brett Hedges,INF,Fr,0,0,2020,15204,Lubbock Christian,30177
@@ -5235,8 +5235,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 30.0,2303838,Joseph Hettinger,P,Fr,3,0,2020,15204,WashU,755
 15.0,1864383,Matthew Ashbaugh,P,Sr,4,4,2020,15204,WashU,755
 17.0,2112285,Andrew Huang,INF,So,11,3,2020,15204,WashU,755
-38.0,2112310,Matt Bauer,P,So,3,1,2020,15204,WashU,755
 32.0,1974455,Troy Bauer,P,Jr,10,10,2020,15204,WashU,755
+38.0,2112310,Matt Bauer,P,So,3,1,2020,15204,WashU,755
 12.0,1864385,Jack Besser,P,Sr,2,0,2020,15204,WashU,755
 10.0,1974447,Mitchell Black,P,Jr,1,0,2020,15204,WashU,755
 5.0,1864380,John Brinkman,INF,Sr,12,12,2020,15204,WashU,755
@@ -5606,8 +5606,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 53.0,2139156,Matthew Schutz,P,So,0,0,2020,15204,Baldwin Wallace,46
 41.0,2139163,Brandon Skory,P,So,0,0,2020,15204,Baldwin Wallace,46
 12.0,2364087,Ethan Sloane,pr,,4,0,2020,15204,Baldwin Wallace,46
-39.0,1997757,Jake Smith,C,Sr,3,1,2020,15204,Baldwin Wallace,46
 37.0,1997756,Nick Smith,INF,Jr,0,0,2020,15204,Baldwin Wallace,46
+39.0,1997757,Jake Smith,C,Sr,3,1,2020,15204,Baldwin Wallace,46
 10.0,2353804,Nick Stoltz,lf,,5,0,2020,15204,Baldwin Wallace,46
 13.0,2152515,S. Sustersic,ph,Fr,0,0,2020,15204,Baldwin Wallace,46
 4.0,1889223,Dudley Taw,OF,Sr,11,11,2020,15204,Baldwin Wallace,46
@@ -5912,8 +5912,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 35,2137205,Kris Pirozzi,P,So,5,1,2020,15204,Millersville,423
 11,2330450,Chase Simmons,OF,Fr,6,1,2020,15204,Millersville,423
 12,1994538,Matt Stevenson,P,Jr,0,0,2020,15204,Millersville,423
-6,2330441,Justin Taylor,INF,Fr,10,4,2020,15204,Millersville,423
 10,2330442,Bren Taylor,OF,Fr,14,9,2020,15204,Millersville,423
+6,2330441,Justin Taylor,INF,Fr,10,4,2020,15204,Millersville,423
 29,2333355,Jeff Taylor,p,Jr,6,6,2020,15204,Millersville,423
 7,1990856,Luke Trainer,DH,Jr,18,18,2020,15204,Millersville,423
 55,1762595,John Turner,C,Sr,3,0,2020,15204,Millersville,423
@@ -5926,7 +5926,7 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 27,1762600,Kyle Peterson,P,Sr,4,1,2020,15204,Millersville,423
 9,1995589,Jacob Paulishak,UT,Jr,4,0,2020,15204,Millersville,423
 24,1762597,Jimmy Cain,P,Sr,18,18,2020,15204,Millersville,423
-16,2330435,Darin Miller,3B,Fr,18,16,2020,15204,Millersville,423
+25,1889729,Drew Miller,P,Sr,6,6,2020,15204,Millersville,423
 8,1879924,Eric Callahan,SS,Sr,18,18,2020,15204,Millersville,423
 21,1762596,Bobby Dorta,P,Sr,5,0,2020,15204,Millersville,423
 15,2330458,Gavilan Fogarty-Harnish,P,Sr,5,2,2020,15204,Millersville,423
@@ -5939,8 +5939,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 47,2330437,Garrett Lowe,3B,Fr,2,0,2020,15204,Millersville,423
 5,2330440,Nick Mancuso,UT,Jr,14,10,2020,15204,Millersville,423
 3,1990867,Andrew Mayhew,P,Jr,5,0,2020,15204,Millersville,423
+16,2330435,Darin Miller,3B,Fr,18,16,2020,15204,Millersville,423
 33,2330444,Cole Miller,C,Jr,10,2,2020,15204,Millersville,423
-25,1889729,Drew Miller,P,Sr,6,6,2020,15204,Millersville,423
 28,2330453,Ryan Jacobs,P,Fr,0,0,2020,15204,Millersville,423
 30,2137204,Alex Mykut,P,So,6,5,2020,15204,Millersville,423
 23,2124238,Nicholas Demicco,1B,So,2,1,2020,15204,Molloy,437
@@ -6277,8 +6277,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 11,1763169,Cameron Haynes,1B,Sr,0,0,2020,15204,LeMoyne-Owen,350
 17,2139044,Robert Akines,P,Sr,2,2,2020,15204,LeMoyne-Owen,350
 19,2357280,Unknown Austin,rf,,2,2,2020,15204,LeMoyne-Owen,350
-1,1763166,Lawerence Baker,2B,Sr,2,1,2020,15204,LeMoyne-Owen,350
 2,1896127,Deanthony Baker,C,Sr,4,3,2020,15204,LeMoyne-Owen,350
+1,1763166,Lawerence Baker,2B,Sr,2,1,2020,15204,LeMoyne-Owen,350
 5,2357281,Unknown Booker,ss,,5,5,2020,15204,LeMoyne-Owen,350
 3,2357284,Unknown Boyd,3b,,2,2,2020,15204,LeMoyne-Owen,350
 2,1782486,Martez Briggs,P,Sr,0,0,2020,15204,LeMoyne-Owen,350
@@ -6314,8 +6314,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 26,2131780,Ryan Rodda,C,So,0,0,2020,15204,Miles,422
 1,2333406,H. Spencer,LF,,15,14,2020,15204,Miles,422
 22,1990801,Kenneth Watson,PR,Jr,0,0,2020,15204,Miles,422
-5,2131769,Gage Humphries,2B,Sr,13,12,2020,15204,Miles,422
 4,2333419,Grey Humphries,1B,,16,14,2020,15204,Miles,422
+5,2131769,Gage Humphries,2B,Sr,13,12,2020,15204,Miles,422
 8,2333414,Jeffrey Wright,PH,,3,2,2020,15204,Miles,422
 12,1990806,Lucas Howton,SS,Jr,0,0,2020,15204,Miles,422
 23,2131750,Jackson Hughes,3B,Jr,5,0,2020,15204,Miles,422
@@ -6741,10 +6741,10 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 9,2145720,Austin Scott,P,So,3,0,2020,15204,Buena Vista,84
 3,2003248,Ryley Mcgregor,OF,Jr,6,5,2020,15204,Buena Vista,84
 4,1875640,Bryce Rheault,INF,Sr,7,7,2020,15204,Buena Vista,84
-30,2353255,Caden Mathewson,INF,Fr,0,0,2020,15204,Buena Vista,84
+48,2353269,Jordan Mathewson,INF,Fr,0,0,2020,15204,Buena Vista,84
 42,2353265,Garrett Anderson,P,Fr,0,0,2020,15204,Buena Vista,84
 10,2003259,Easton Bahr,INF,Jr,2,1,2020,15204,Buena Vista,84
-48,2353269,Jordan Mathewson,INF,Fr,0,0,2020,15204,Buena Vista,84
+30,2353255,Caden Mathewson,INF,Fr,0,0,2020,15204,Buena Vista,84
 2,2353249,Aiden Brock,UT,Fr,0,0,2020,15204,Buena Vista,84
 34,2158901,Conner Brown,1B,So,0,0,2020,15204,Buena Vista,84
 31,2003263,Clayton Christian,P,Sr,2,0,2020,15204,Buena Vista,84
@@ -7140,8 +7140,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 15,2126409,Slayton Fletcher,P,So,3,0,2020,15204,Pfeiffer,542
 66,2337718,Michael Glenn,P,So,5,0,2020,15204,Pfeiffer,542
 8,2126408,Brett Graham,INF,Jr,3,2,2020,15204,Pfeiffer,542
-22,2117342,Zach Grice,P,So,3,2,2020,15204,Pfeiffer,542
 2,2126406,Seth Grice,INF,Jr,12,10,2020,15204,Pfeiffer,542
+22,2117342,Zach Grice,P,So,3,2,2020,15204,Pfeiffer,542
 21,1988758,Noah Handy,UT,Jr,3,1,2020,15204,Pfeiffer,542
 18,2126410,Brandon Holden,P,Jr,0,0,2020,15204,Pfeiffer,542
 30,2126418,Grayson Huneycutt,P,So,5,0,2020,15204,Pfeiffer,542
@@ -7151,8 +7151,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 9,2128482,Blaise Maris,C,Sr,22,22,2020,15204,Florida Tech,230
 30,1750479,Andrew Marzheuser,P,Sr,6,6,2020,15204,Florida Tech,230
 13,2128543,Luis Moriyon,P,So,3,0,2020,15204,Florida Tech,230
-35,1873752,Jordan Murray,P,Jr,7,1,2020,15204,Florida Tech,230
 18,2312377,Sean Murray,INF,Fr,0,0,2020,15204,Florida Tech,230
+35,1873752,Jordan Murray,P,Jr,7,1,2020,15204,Florida Tech,230
 5,2312350,Jack Nagy,INF,Jr,2,2,2020,15204,Florida Tech,230
 6,1980562,Jakob Newton,INF,Jr,24,24,2020,15204,Florida Tech,230
 4,1873731,Raul Quintero,INF,Sr,24,24,2020,15204,Florida Tech,230
@@ -7335,8 +7335,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 12,1978725,Keith Gabrielson,P,Jr,2,1,2020,15204,Princeton,554
 6,2004073,Tyler Cedeno,INF,Jr,9,9,2020,15204,Roger Williams,583
 36,2004085,Ethan Klein,P,Jr,1,1,2020,15204,Roger Williams,583
-13,2333728,Matt Massaro,INF,Fr,1,0,2020,15204,Roger Williams,583
 40,2333736,Dan Massaro,P,Fr,0,0,2020,15204,Roger Williams,583
+13,2333728,Matt Massaro,INF,Fr,1,0,2020,15204,Roger Williams,583
 41,2004079,Ryan Mcgahern,P,Jr,1,0,2020,15204,Roger Williams,583
 12,2333741,Evan Melo,OF,Fr,2,0,2020,15204,Roger Williams,583
 44,2333738,Jojo Ortiz,1B,Fr,5,0,2020,15204,Roger Williams,583
@@ -7384,11 +7384,11 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 23,1893029,Nicholas Melchiore,INF,Sr,10,9,2020,15204,Houghton,30160
 28,2342337,Isaac Mann,1B,Fr,2,0,2020,15204,Houghton,30160
 11,1892998,Jeremy Newswanger,INF,Sr,10,10,2020,15204,Houghton,30160
-12,1997248,Ronnie Lott,INF,Jr,1,0,2020,15204,Houghton,30160
+22,2342336,Cameron Lott,OF,Fr,1,0,2020,15204,Houghton,30160
 15,2342361,Trevor Ciccotti,P,Fr,1,0,2020,15204,Houghton,30160
 16,1997252,Whitney Cook,OF,Sr,9,8,2020,15204,Houghton,30160
 25,1997254,Jared Couch,P,Jr,9,7,2020,15204,Houghton,30160
-22,2342336,Cameron Lott,OF,Fr,1,0,2020,15204,Houghton,30160
+12,1997248,Ronnie Lott,INF,Jr,1,0,2020,15204,Houghton,30160
 18,1997253,Joe Gross,INF,Jr,10,10,2020,15204,Houghton,30160
 24,1893031,Holden Deres,P,Sr,3,2,2020,15204,Houghton,30160
 10,2342358,Jason Kauffeldt,OF,Fr,9,5,2020,15204,Houghton,30160
@@ -7668,8 +7668,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 30,1889444,Jared Gillis,3B,Sr,15,15,2020,15204,Delaware St.,178
 19,2346163,Hiram Davis,OF,Fr,5,2,2020,15204,Delaware St.,178
 18,2126429,Quintin Pittman,P,So,0,0,2020,15204,Belmont Abbey,2683
-24,2334905,Sean Johnson,OF,Jr,25,25,2020,15204,Belmont Abbey,2683
 43,2126451,Blake Johnson,P,Sr,0,0,2020,15204,Belmont Abbey,2683
+24,2334905,Sean Johnson,OF,Jr,25,25,2020,15204,Belmont Abbey,2683
 3,1872433,Ryan Jones,OF,Sr,0,0,2020,15204,Belmont Abbey,2683
 18,2126448,Mitchell Keener,P,Sr,9,1,2020,15204,Belmont Abbey,2683
 39,2334906,Nick Mauer,1B,Fr,10,2,2020,15204,Belmont Abbey,2683
@@ -8509,8 +8509,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 17,2324962,Jaden Courtois,INF,So,4,0,2020,15204,Missouri S&T,435
 39,2324966,Jared King,P,Fr,3,0,2020,15204,Missouri S&T,435
 33,2133928,Evan Crawford,UT,Fr,0,0,2020,15204,Missouri S&T,435
-31,2133910,Dylan Dunbar,P,So,5,0,2020,15204,Missouri S&T,435
 27,1876351,Blaine Dunbar,P,Sr,3,0,2020,15204,Missouri S&T,435
+31,2133910,Dylan Dunbar,P,So,5,0,2020,15204,Missouri S&T,435
 36,2133930,Nick Fuller,C,So,0,0,2020,15204,Missouri S&T,435
 20,1984624,Brenden Garza,P,Sr,4,4,2020,15204,Missouri S&T,435
 2,2133931,Cole Hampton,INF,Fr,11,9,2020,15204,Missouri S&T,435
@@ -8694,8 +8694,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 14,2134829,John Greeley,P,Sr,5,0,2020,15204,St. Thomas Aquinas,1348
 34,2134861,Tj Gregory,P,So,4,3,2020,15204,St. Thomas Aquinas,1348
 33,2343765,Andrew Guerra,OF,So,10,7,2020,15204,St. Thomas Aquinas,1348
-22,2134834,Robert Hazelton,INF,So,1,0,2020,15204,St. Thomas Aquinas,1348
 27,1775632,Donald Hazelton,P,Sr,4,0,2020,15204,St. Thomas Aquinas,1348
+22,2134834,Robert Hazelton,INF,So,1,0,2020,15204,St. Thomas Aquinas,1348
 46,2343811,Ryan Hicks,P,Fr,3,0,2020,15204,St. Thomas Aquinas,1348
 31,2134874,Andrew Jemison,INF,So,14,14,2020,15204,St. Thomas Aquinas,1348
 13,2134880,Justin Baeyens,P,So,3,0,2020,15204,St. Thomas Aquinas,1348
@@ -9809,8 +9809,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 21,2131066,Tyrus Barclay,c,Sr,12,9,2020,15204,Emporia St.,1071
 7,1980014,Jake Barton,P,Sr,6,6,2020,15204,Emporia St.,1071
 40,1980034,Luke Boline,P,Jr,0,0,2020,15204,Emporia St.,1071
-9,1877241,Mason Brown,C,Sr,1,0,2020,15204,Emporia St.,1071
 16,2350204,Mike Brown,p,Jr,2,0,2020,15204,Emporia St.,1071
+9,1877241,Mason Brown,C,Sr,1,0,2020,15204,Emporia St.,1071
 10,1980004,Robert Bundy,C,Jr,0,0,2020,15204,Emporia St.,1071
 24,2333369,Blake Carroll,rf,Jr,20,20,2020,15204,Emporia St.,1071
 23,2131942,Matthew Jackson,P,Jr,0,0,2020,15204,Emporia St.,1071
@@ -9946,14 +9946,14 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 23,1996910,Frankie Niemann,C,Jr,13,12,2020,15204,Tulane,718
 15,2303723,Trevor Minder,INF,Jr,17,17,2020,15204,Tulane,718
 34,2303764,Bryce Mackey,P,Jr,3,0,2020,15204,Tulane,718
-24,1756189,Ty Johnson,OF,Sr,14,14,2020,15204,Tulane,718
 42,1774402,Trent Johnson,P,Sr,4,0,2020,15204,Tulane,718
+24,1756189,Ty Johnson,OF,Sr,14,14,2020,15204,Tulane,718
 40,2303771,Luke Jannetta,P,Fr,7,2,2020,15204,Tulane,718
 33,2122404,C.J. Whelan,P,Jr,1,0,2020,15204,Tulane,718
 13,2303747,Haydan Hastings,C,Jr,12,8,2020,15204,Tulane,718
 29,2303755,Braden Olthoff,P,Jr,4,4,2020,15204,Tulane,718
-6,2303746,Parker Haskin,C,Fr,4,1,2020,15204,Tulane,718
 11,2122388,Hudson Haskin,OF,So,17,17,2020,15204,Tulane,718
+6,2303746,Parker Haskin,C,Fr,4,1,2020,15204,Tulane,718
 17,2303726,Jack Aldrich,P,Jr,5,5,2020,15204,Tulane,718
 3,1751949,Jonathon Artigues,INF,Sr,17,17,2020,15204,Tulane,718
 21,2303727,Luis Aviles,C,Jr,8,8,2020,15204,Tulane,718
@@ -10190,8 +10190,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 9,2146464,Gavin Perkins,INF,Jr,8,8,2020,15204,Wilmington  (OAC),1461
 17,2005449,Michael Weisenberger,P,Sr,1,0,2020,15204,Wilmington  (OAC),1461
 14,1885589,Jesse Walker,P,Sr,1,0,2020,15204,Wilmington  (OAC),1461
-21,2331556,Jordan Turner,UT,Fr,2,0,2020,15204,Wilmington  (OAC),1461
 6,2331625,Austin Turner,INF,Jr,8,8,2020,15204,Wilmington  (OAC),1461
+21,2331556,Jordan Turner,UT,Fr,2,0,2020,15204,Wilmington  (OAC),1461
 41,2331555,Noah Thayer,P,Fr,1,0,2020,15204,Wilmington  (OAC),1461
 37,2331563,Brandon Smith,1B,Fr,1,0,2020,15204,Wilmington  (OAC),1461
 22,1885600,Nick Silvis,INF,Sr,8,8,2020,15204,Wilmington  (OAC),1461
@@ -10975,7 +10975,7 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 3,2139343,Ryan Wall,INF,So,3,0,2020,15204,Stevens,679
 29,2348597,Stephen Willey,P,Fr,0,0,2020,15204,Stevens,679
 5,2348573,Chris Zickert,OF,Fr,5,0,2020,15204,Stevens,679
-26,1998373,Eli Zuckerman,P,Jr,1,0,2020,15204,Stevens,679
+13,1998374,Nathan Zuckerman,C,Jr,12,11,2020,15204,Stevens,679
 7,1998369,Gannon Kenney-Mcgowan,1B,Jr,11,10,2020,15204,Stevens,679
 16,2139349,Chris Silos,INF,So,12,11,2020,15204,Stevens,679
 35,2139348,Tom James,1B,So,12,12,2020,15204,Stevens,679
@@ -10995,7 +10995,7 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 33,1998365,Tyler Armstrong,P,Jr,1,0,2020,15204,Stevens,679
 11,2348482,Michael Anthony,P,Fr,2,0,2020,15204,Stevens,679
 32,1998368,Roy Iversen,P,Jr,5,0,2020,15204,Stevens,679
-13,1998374,Nathan Zuckerman,C,Jr,12,11,2020,15204,Stevens,679
+26,1998373,Eli Zuckerman,P,Jr,1,0,2020,15204,Stevens,679
 2,2349913,Adam Newton,INF,Fr,7,1,2020,15204,Castleton,123
 30,2009319,Max Olmsted,P,Jr,3,2,2020,15204,Castleton,123
 11,2349915,Riley Orr,P,Fr,2,0,2020,15204,Castleton,123
@@ -11027,8 +11027,8 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 8,2123329,Haddon Adams,INF,Sr,16,16,2020,15204,Lipscomb,28600
 28,2309745,Dylan Bierman,P,Jr,4,4,2020,15204,Lipscomb,28600
 12,1974044,Carson Wright,OF,Jr,7,2,2020,15204,Lipscomb,28600
-44,2309752,Malik Williams,INF,Jr,16,16,2020,15204,Lipscomb,28600
 31,2309758,Patrick Williams,P,Fr,5,2,2020,15204,Lipscomb,28600
+44,2309752,Malik Williams,INF,Jr,16,16,2020,15204,Lipscomb,28600
 10,2309728,Jordan Wilkie,INF,Fr,0,0,2020,15204,Lipscomb,28600
 27,1753151,Von Watson,OF,Sr,13,10,2020,15204,Lipscomb,28600
 29,2309749,Logan Van Treeck,P,Fr,7,2,2020,15204,Lipscomb,28600
@@ -11259,12 +11259,12 @@ RS,2131244,Jacob Keene,INF,Fr,0,0,2020,15204,Tiffin,1403
 14,1892349,Hunter Brooks,P,Sr,1,1,2020,15204,McMurry,8530
 3,2343729,Landon Caldwell,INF,So,0,0,2020,15204,McMurry,8530
 34,1998437,Matthew Bass,P,Jr,6,4,2020,15204,McMurry,8530
-26,2131526,Marty Carnahan,UT,Jr,15,14,2020,15204,McMurry,8530
+23,2343733,Mitch Carnahan,C,Fr,9,6,2020,15204,McMurry,8530
 25,1883448,Mike Gonzales,OF,Sr,2,2,2020,15204,McMurry,8530
 40,1994740,Nick Hamel,1B,Jr,0,0,2020,15204,McMurry,8530
 36,2131542,Sam Hillyer,UT,Jr,17,17,2020,15204,McMurry,8530
 4,2131517,Reed Hodges,C,So,12,11,2020,15204,McMurry,8530
-23,2343733,Mitch Carnahan,C,Fr,9,6,2020,15204,McMurry,8530
+26,2131526,Marty Carnahan,UT,Jr,15,14,2020,15204,McMurry,8530
 24,1877356,Jeremiah Adams,INF,Sr,15,15,2020,15204,Army West Point,725
 8,1978893,Tim Simoes,INF,Jr,15,14,2020,15204,Army West Point,725
 35,2354106,Furman Wilson,P,So,1,0,2020,15204,Army West Point,725
@@ -11438,14 +11438,14 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 23.0,2153169,Nick Palumbo,P,So,4,2,2020,15204,Pace,533
 21.0,1885218,Joe Pizzingrillo,P,Sr,3,0,2020,15204,Pace,533
 33.0,2153191,Christian Lovecchio,C,Sr,4,2,2020,15204,Pace,533
-2.0,2354303,Brian Primm,C,Fr,5,1,2020,15204,Pace,533
+26.0,2354599,Andrew Primm,c,,8,8,2020,15204,Pace,533
 32.0,2153203,Michael Roll,P,So,4,2,2020,15204,Pace,533
 25.0,1885178,Lorenzo Russo,P,Sr,3,3,2020,15204,Pace,533
 41.0,2364623,C. Ryan,p,,1,0,2020,15204,Pace,533
 4.0,2152629,Justin Scotto,OF,So,9,8,2020,15204,Pace,533
 24.0,2006285,Harrison Treble,OF,Jr,9,7,2020,15204,Pace,533
 12.0,2008829,Greg Tsouprakos,3B,Jr,12,12,2020,15204,Pace,533
-26.0,2354599,Andrew Primm,c,,8,8,2020,15204,Pace,533
+2.0,2354303,Brian Primm,C,Fr,5,1,2020,15204,Pace,533
 42.0,2354581,Christian Aich,p,,4,0,2020,15204,Pace,533
 11.0,2005631,Matt Almonte,C,Jr,8,5,2020,15204,Pace,533
 34.0,2153168,Nelson Arroyo,P,So,3,0,2020,15204,Pace,533
@@ -11524,8 +11524,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 27,2144419,Brendan Aldridge,P,Jr,2,0,2020,15204,Franklin Pierce,241
 29,2353442,Andres Auffant,P,Fr,4,2,2020,15204,Franklin Pierce,241
 31,1876256,Shawn Babineau,P,Sr,3,3,2020,15204,Franklin Pierce,241
-19,2353427,Eli Battipaglia,OF,Fr,0,0,2020,15204,Franklin Pierce,241
 15,2353443,Ian Battipaglia,INF,Fr,8,6,2020,15204,Franklin Pierce,241
+19,2353427,Eli Battipaglia,OF,Fr,0,0,2020,15204,Franklin Pierce,241
 5,1890741,James Boria,INF,Sr,13,12,2020,15204,Franklin Pierce,241
 12,2144444,Zack Brundage,P,So,3,0,2020,15204,Franklin Pierce,241
 21,1890735,Derek Duffy,P,Sr,2,2,2020,15204,Franklin Pierce,241
@@ -11693,8 +11693,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 37,1990644,Harbor Jefferson,P,Jr,1,0,2020,15204,Tusculum,12830
 7,2333468,Gunner Becker,P,Jr,6,6,2020,15204,Tusculum,12830
 3,2129974,Kaleb Bell,SS,Sr,2,0,2020,15204,Tusculum,12830
-21,2129975,Austin Collins,P,So,0,0,2020,15204,Tusculum,12830
 24,1990646,Trent Collins,P,Jr,11,1,2020,15204,Tusculum,12830
+21,2129975,Austin Collins,P,So,0,0,2020,15204,Tusculum,12830
 15,1992628,Grant Crosby,P,Jr,5,4,2020,15204,Tusculum,12830
 18,2354404,Will Drake,pr,Sr,3,0,2020,15204,Tusculum,12830
 34,1988637,Garrett Dupuis,1B,Jr,11,7,2020,15204,Tusculum,12830
@@ -11888,8 +11888,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 4,2136404,Zach Overholt,P,Fr,12,3,2020,15204,Erskine,1072
 27,2331188,Jaisen Randolph,,Jr,12,8,2020,15204,Erskine,1072
 49,2331217,Dalton Reeves,,Fr,1,0,2020,15204,Erskine,1072
+28,2331203,Livan Reinoso,,Jr,21,19,2020,15204,Erskine,1072
 25,2331202,Dayan Reinoso,,Jr,18,17,2020,15204,Erskine,1072
-15,2331201,Adan Reinoso,,Jr,2,0,2020,15204,Erskine,1072
 42,2331193,Allan Saathoff,,Jr,5,4,2020,15204,Erskine,1072
 8,2130217,Gregory Sanders,rf,So,25,24,2020,15204,Erskine,1072
 24,2130223,Asher Smith,ph,Sr,18,11,2020,15204,Erskine,1072
@@ -11898,9 +11898,9 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 50,2331218,Chris Tyler,,Jr,1,0,2020,15204,Erskine,1072
 12,2130224,Xander Vizzcorando,c,Sr,21,20,2020,15204,Erskine,1072
 23,1990510,Drew Yniesta,RF,Jr,26,26,2020,15204,Erskine,1072
-28,2331203,Livan Reinoso,,Jr,21,19,2020,15204,Erskine,1072
-44,2331212,Quinten Kinard,,Jr,3,0,2020,15204,Erskine,1072
+15,2331201,Adan Reinoso,,Jr,2,0,2020,15204,Erskine,1072
 54,2331220,Cody Kinard,,Fr,1,0,2020,15204,Erskine,1072
+44,2331212,Quinten Kinard,,Jr,3,0,2020,15204,Erskine,1072
 51,2331219,Weston Kerley,,Jr,3,2,2020,15204,Erskine,1072
 14,1878416,Zach Carter,P,Sr,23,21,2020,15204,Erskine,1072
 39,2331191,Parker Cassell,,Fr,3,0,2020,15204,Erskine,1072
@@ -12229,14 +12229,14 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 1,1984811,Trenton Denholm,P,Jr,4,4,2020,15204,UC Irvine,109
 9,1984819,Michael Frias,P,So,4,1,2020,15204,UC Irvine,109
 36,1862857,Adrian Damla,INF,Sr,15,15,2020,15204,UC Irvine,109
-42,2111460,Brett Garcia,P,Fr,2,0,2020,15204,UC Irvine,109
+8,2111458,Darius Garcia,P,So,0,0,2020,15204,UC Irvine,109
 18,2305171,Sebastian Garcia Jr.,C,Fr,0,0,2020,15204,UC Irvine,109
 11,2305166,Josh Ibarra,P,Jr,7,0,2020,15204,UC Irvine,109
 39,2305189,Gordon Ingebritson,P,Jr,7,0,2020,15204,UC Irvine,109
 5,2111454,Sam Ireland,INF,So,10,10,2020,15204,UC Irvine,109
 7,2111455,John Jensen,OF,Sr,9,1,2020,15204,UC Irvine,109
 32,2305185,Riley Kasper,UT,Jr,6,6,2020,15204,UC Irvine,109
-8,2111458,Darius Garcia,P,So,0,0,2020,15204,UC Irvine,109
+42,2111460,Brett Garcia,P,Fr,2,0,2020,15204,UC Irvine,109
 33.0,2004682,Camden Patten,P,Jr,5,2,2020,15204,NVU-Lyndon,30065
 21.0,1775569,Michael Pena,INF,Jr,10,10,2020,15204,NVU-Lyndon,30065
 8.0,2337383,Nate Pierce,P,Fr,3,0,2020,15204,NVU-Lyndon,30065
@@ -13038,8 +13038,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 30,2137731,Nathan Peng,C,So,1,0,2020,15204,UC Davis,108
 25,1996903,Ryan Rodriguez,P,Jr,3,0,2020,15204,UC Davis,108
 14,2346883,J.D. Mico,2B,Jr,11,8,2020,15204,UC Davis,108
-41,2137729,Justin Smith,P,Sr,3,0,2020,15204,UC Davis,108
 33,2137743,Alec Smith,OF,Sr,5,0,2020,15204,UC Davis,108
+41,2137729,Justin Smith,P,Sr,3,0,2020,15204,UC Davis,108
 31,2137726,Jake Spillane,P,So,4,4,2020,15204,UC Davis,108
 35,2137727,Wyatt Tucker,P,Sr,1,1,2020,15204,UC Davis,108
 40,2346836,Isaiah Verrett,OF,Jr,5,2,2020,15204,UC Davis,108
@@ -13206,8 +13206,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 1,2314909,Joshua Terry,INF,Jr,10,8,2020,15204,Claflin,30058
 3,2126142,Edzaviah Paul,INF,Sr,12,12,2020,15204,Claflin,30058
 32,2126134,Justin Josey,OF,So,5,0,2020,15204,Claflin,30058
-11,2314958,X'Zavier Johnson,P,So,5,3,2020,15204,Claflin,30058
 33,2126162,Nicholas Johnson,INF,Jr,17,15,2020,15204,Claflin,30058
+11,2314958,X'Zavier Johnson,P,So,5,3,2020,15204,Claflin,30058
 16,2314975,Keati Buchanian,P,So,4,3,2020,15204,Claflin,30058
 30,2315015,Deccarius Chapman,P,Fr,5,0,2020,15204,Claflin,30058
 15,2126146,Gerardric Dobbs,INF,Sr,18,16,2020,15204,Claflin,30058
@@ -13293,8 +13293,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 12.0,2300763,Kyle Maysonave,INF,Fr,7,0,2020,15204,LeTourneau,8490
 22,2146518,Trevor Benz,C,So,8,7,2020,15204,Carroll  (CCIW),120
 33,2320632,Casey Mir,C,Fr,1,0,2020,15204,Carroll  (CCIW),120
-2,2160261,Josh Nitch,OF,So,7,1,2020,15204,Carroll  (CCIW),120
 5,2153743,Jake Nitch,INF,So,7,1,2020,15204,Carroll  (CCIW),120
+2,2160261,Josh Nitch,OF,So,7,1,2020,15204,Carroll  (CCIW),120
 3,2152355,Matt Pestel,OF,So,9,2,2020,15204,Carroll  (CCIW),120
 6,1885301,Tj Pfaffle,C,Sr,5,4,2020,15204,Carroll  (CCIW),120
 15,2320645,Carter Ruegsegger,P,Fr,3,2,2020,15204,Carroll  (CCIW),120
@@ -13483,9 +13483,9 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 5,2349290,Jake Morello,INF,Fr,3,2,2020,15204,Gwynedd Mercy,12399
 16,2361059,Pat Hasson,lf,Fr,2,0,2020,15204,Gwynedd Mercy,12399
 22,2353828,Dave Anderson,ph/rf,Fr,2,0,2020,15204,Gwynedd Mercy,12399
-600,2349304,S B,UT,Sr,0,0,2020,15204,Gwynedd Mercy,12399
-4,1883621,Bobby Heck,OF,Jr,11,11,2020,15204,Gwynedd Mercy,12399
 270,2349287,W B,DH,Sr,0,0,2020,15204,Gwynedd Mercy,12399
+4,1883621,Bobby Heck,OF,Jr,11,11,2020,15204,Gwynedd Mercy,12399
+600,2349304,S B,UT,Sr,0,0,2020,15204,Gwynedd Mercy,12399
 2,2136349,Rob Bailey,INF,So,10,9,2020,15204,Gwynedd Mercy,12399
 1,2136371,Connor Boyd,INF,So,3,0,2020,15204,Gwynedd Mercy,12399
 23,2349286,Justin Blakey,OF,Fr,10,8,2020,15204,Gwynedd Mercy,12399
@@ -14251,8 +14251,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 26,2130932,Paul Wendling,C,Fr,0,0,2020,15204,Central Mo.,130
 7,2305761,Josh Winkler,INF,Jr,4,2,2020,15204,Central Mo.,130
 15,2140646,Scott Wolverton,C,Sr,11,11,2020,15204,Central Mo.,130
-29,2305763,Carter Young,OF,Fr,9,4,2020,15204,Central Mo.,130
 44,1865160,Cole Young,P,Jr,5,0,2020,15204,Central Mo.,130
+29,2305763,Carter Young,OF,Fr,9,4,2020,15204,Central Mo.,130
 48,2118301,Brennan Van Breusegen,OF,Fr,18,14,2020,15204,Central Mo.,130
 25,1978493,Evan Rathburn,P,Sr,7,0,2020,15204,Central Mo.,130
 37,1978505,John Prudhom,UT,So,11,1,2020,15204,Central Mo.,130
@@ -14527,7 +14527,7 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 15,2310111,Baylor Jones,INF,Fr,2,1,2020,15204,UT Martin,695
 2,2310105,Thomas Fullerton,OF,Fr,7,2,2020,15204,UT Martin,695
 44,2310121,Austin Kasick,P,Fr,5,1,2020,15204,UT Martin,695
-17,1894739,Scott Webster,P,Sr,1,0,2020,15204,Southern N.H.,468
+16,1659133,Jake Walkinshaw,P,Sr,0,0,2020,15204,Southern N.H.,468
 48,1891518,Ryan Steffens,P,Sr,0,0,2020,15204,Southern N.H.,468
 21,2350077,Jake Kodros,P,,3,0,2020,15204,Southern N.H.,468
 11,2350078,Michael Larocca,1B,,12,12,2020,15204,Southern N.H.,468
@@ -14546,19 +14546,18 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 39,1896739,Shane Reardon,P,Sr,0,0,2020,15204,Southern N.H.,468
 18,2354248,Danniel Rivera,PH/SS,,6,0,2020,15204,Southern N.H.,468
 19,1782178,Ryan Spagnoli,INF,Sr,0,0,2020,15204,Southern N.H.,468
-30,2350240,Conner Wagstaff,P,,3,0,2020,15204,Southern N.H.,468
+33,2002710,Wesley Tobin,P,Sr,4,4,2020,15204,Southern N.H.,468
 28,2350100,Andrew Tache,P,,2,0,2020,15204,Southern N.H.,468
-1,2002568,Idelson Taveras,PH/CF,So,15,10,2020,15204,Southern N.H.,468
 30,1891519,Brendan Welch,P,Sr,0,0,2020,15204,Southern N.H.,468
-16,1659133,Jake Walkinshaw,P,Sr,0,0,2020,15204,Southern N.H.,468
+17,1894739,Scott Webster,P,Sr,1,0,2020,15204,Southern N.H.,468
+30,2350240,Conner Wagstaff,P,,3,0,2020,15204,Southern N.H.,468
 29,2136352,Thomas Novick,P,Sr,4,0,2020,15204,Southern N.H.,468
 15,2153204,Alex Kennedy,lf,So,5,1,2020,15204,Southern N.H.,468
-33,2002710,Wesley Tobin,P,Sr,4,4,2020,15204,Southern N.H.,468
+1,2002568,Idelson Taveras,PH/CF,So,15,10,2020,15204,Southern N.H.,468
 32,2154411,Jacob Hunt,PH,So,2,0,2020,15204,Southern N.H.,468
 20,2350074,Felix Jr.,LF,,9,6,2020,15204,Southern N.H.,468
-27,1892299,Nick Artymowicz,P,Sr,3,1,2020,15204,Southern N.H.,468
 26,2154434,Nick Assad,ph,So,1,0,2020,15204,Southern N.H.,468
-23,2155183,Samuel Auray,c,So,1,0,2020,15204,Southern N.H.,468
+27,1892299,Nick Artymowicz,P,Sr,3,1,2020,15204,Southern N.H.,468
 37,2354311,C. Biolsi,ph,,3,0,2020,15204,Southern N.H.,468
 7,1892132,Tom Blandini,SS,Sr,16,16,2020,15204,Southern N.H.,468
 6,1871480,Marcus Chavez,C,So,16,16,2020,15204,Southern N.H.,468
@@ -14568,16 +14567,17 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 18,2002572,Xavier Czepiel,P,So,0,0,2020,15204,Southern N.H.,468
 25,1993411,Ricky Alexy,P,Fr,4,0,2020,15204,Southern N.H.,468
 24,2146834,Joshua Eastman,p,So,0,0,2020,15204,Southern N.H.,468
+24,2002555,Tucker Hetherman,P,So,0,0,2020,15204,Southern N.H.,468
 19,2002570,Sean Doherty,PH/3B,So,2,0,2020,15204,Southern N.H.,468
+5,1892288,Phoenix Hernandez,2B,Sr,6,1,2020,15204,Southern N.H.,468
 10,2002571,Sam Henrie,PH/RF,So,16,16,2020,15204,Southern N.H.,468
 4,1894740,Ethan Harris,OF,Sr,0,0,2020,15204,Southern N.H.,468
-4,1894741,Alex Gomes,P,Sr,4,4,2020,15204,Southern N.H.,468
-5,1892288,Phoenix Hernandez,2B,Sr,6,1,2020,15204,Southern N.H.,468
+23,2155183,Samuel Auray,c,So,1,0,2020,15204,Southern N.H.,468
+9,1892287,Joshua Goldstein,INF,Sr,16,16,2020,15204,Southern N.H.,468
 20,1780462,Connor Gavin,P,Sr,0,0,2020,15204,Southern N.H.,468
 2,2136351,Dylan Faircloth,DH,Sr,9,3,2020,15204,Southern N.H.,468
+4,1894741,Alex Gomes,P,Sr,4,4,2020,15204,Southern N.H.,468
 10,1885507,Brian Eddy,P,Jr,0,0,2020,15204,Southern N.H.,468
-9,1892287,Joshua Goldstein,INF,Sr,16,16,2020,15204,Southern N.H.,468
-24,2002555,Tucker Hetherman,P,So,0,0,2020,15204,Southern N.H.,468
 17,2150551,Mike Sweeney,P,So,0,0,2020,15204,Kalamazoo,326
 35,1891924,Jack Tagget,P,Sr,2,2,2020,15204,Kalamazoo,326
 55,2150555,Cade Thune,P,So,2,0,2020,15204,Kalamazoo,326
@@ -14716,8 +14716,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 15,1890154,Bryan Taylor,P,Sr,3,0,2020,15204,Nicholls St.,483
 19,2130780,Tyler Theriot,P,So,6,4,2020,15204,Nicholls St.,483
 7,1982830,Nathan Tribble,INF,So,18,18,2020,15204,Nicholls St.,483
-18,2130755,Wilbert Tre Turner,OF,Jr,8,0,2020,15204,Nicholls St.,483
 4,2130763,Mason Turner,OF,So,13,10,2020,15204,Nicholls St.,483
+18,2130755,Wilbert Tre Turner,OF,Jr,8,0,2020,15204,Nicholls St.,483
 42,2346818,Dwain Varisco,P,Jr,4,0,2020,15204,Nicholls St.,483
 46,2346796,David Vial Jr.,P,Jr,2,0,2020,15204,Nicholls St.,483
 11,1982752,Xane Washington,OF,So,18,18,2020,15204,Nicholls St.,483
@@ -14817,8 +14817,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 5,1756870,Brooks Pitaniello,INF,Sr,8,2,2020,15204,Harding,1116
 14,1999625,Brendan Perrett,C,Jr,18,18,2020,15204,Harding,1116
 1,2328416,Drew Mcneel,INF,Fr,2,0,2020,15204,Harding,1116
-11,2112299,Carter Mccall,P,So,8,1,2020,15204,Harding,1116
 30,1874228,Logan Mccall,P,Sr,6,6,2020,15204,Harding,1116
+11,2112299,Carter Mccall,P,So,8,1,2020,15204,Harding,1116
 6,2328414,Owen Martin,OF,Jr,20,19,2020,15204,Harding,1116
 26,2328421,Brent Southerland,P,Jr,9,0,2020,15204,Harding,1116
 12,1874221,Connor Kelly,INF,Sr,24,24,2020,15204,Harding,1116
@@ -15018,7 +15018,7 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 35,1991800,Jesse Kutzke,P,Sr,5,1,2020,15204,Arkansas St.,30
 7,1991788,Andrew Leggo,INF,Jr,4,0,2020,15204,Arkansas St.,30
 18,2348470,Will Nash,P,Jr,4,1,2020,15204,Arkansas St.,30
-33,1865972,Chase Nix,P,Sr,3,0,2020,15204,Arkansas St.,30
+23,2348492,Colten Nix,1B,Jr,14,13,2020,15204,Arkansas St.,30
 25,1865971,Cullen Ray,C,Sr,11,9,2020,15204,Arkansas St.,30
 4,2119900,Karsen Reid,INF,So,13,13,2020,15204,Arkansas St.,30
 8,2348396,Parker Rowland,C,Fr,8,7,2020,15204,Arkansas St.,30
@@ -15038,7 +15038,7 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 40,2348524,Tristan Camp,P,Fr,4,0,2020,15204,Arkansas St.,30
 10,2119908,Chandler Coates,P,Sr,4,4,2020,15204,Arkansas St.,30
 32,2119892,Sky-Lar Culver,INF,Sr,16,16,2020,15204,Arkansas St.,30
-23,2348492,Colten Nix,1B,Jr,14,13,2020,15204,Arkansas St.,30
+33,1865972,Chase Nix,P,Sr,3,0,2020,15204,Arkansas St.,30
 34,1991813,Jaylon Deshazier,UT,Jr,16,15,2020,15204,Arkansas St.,30
 5,2119909,Tyler Duncan,OF,Sr,16,16,2020,15204,Arkansas St.,30
 29,2348475,Max Gehler,P,Jr,7,0,2020,15204,Arkansas St.,30
@@ -15508,8 +15508,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 42,2128986,Adrian Stover,P,So,4,1,2020,15204,East Tex. Baptist,1062
 32,2128988,Alan Underwood,P,So,5,5,2020,15204,East Tex. Baptist,1062
 1,2336187,Lucas Mccrum,INF,Fr,10,8,2020,15204,East Tex. Baptist,1062
-26,2336188,Peyton Miller,P,Fr,6,4,2020,15204,East Tex. Baptist,1062
 16,2128906,Jake Miller,UT,So,16,16,2020,15204,East Tex. Baptist,1062
+26,2336188,Peyton Miller,P,Fr,6,4,2020,15204,East Tex. Baptist,1062
 11,1875277,Cameron Neel,C,Sr,12,8,2020,15204,East Tex. Baptist,1062
 41,1875278,Devyn Nicholson,OF,Sr,11,7,2020,15204,East Tex. Baptist,1062
 15,1875281,Zackery Pierce,P,Sr,2,0,2020,15204,East Tex. Baptist,1062
@@ -15951,8 +15951,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 15,1896880,Garrett Hamilton,P,Sr,0,0,2020,15204,Ouachita Baptist,1289
 0,1766483,Will Hopkins,PH/2B,Sr,0,0,2020,15204,Ouachita Baptist,1289
 3,1884686,Logan Huneycutt,P,Sr,22,21,2020,15204,Ouachita Baptist,1289
-19,2139830,J. Izzo,p,Fr,0,0,2020,15204,Ouachita Baptist,1289
 28,2139810,Z. Izzo,c,Fr,0,0,2020,15204,Ouachita Baptist,1289
+19,2139830,J. Izzo,p,Fr,0,0,2020,15204,Ouachita Baptist,1289
 29,2333385,Parker Edwards,P,So,5,0,2020,15204,Ouachita Baptist,1289
 32,2343908,Connor O'Donnell,OF,Fr,5,1,2020,15204,Toledo,709
 25,2343930,Danny O'Reilly,OF,Jr,13,12,2020,15204,Toledo,709
@@ -16242,10 +16242,10 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 5,1974580,Connor Manola,C,So,14,13,2020,15204,Southeastern La.,655
 6,2324664,Evan Keller,INF,Jr,9,9,2020,15204,Southeastern La.,655
 37,2324699,Ryan Keeley,P,Fr,4,0,2020,15204,Southeastern La.,655
-1,2129398,Johnny Johnson,INF,Sr,4,0,2020,15204,Southeastern La.,655
+3,2138625,Eli Johnson,INF,Sr,11,9,2020,15204,Southeastern La.,655
 27,2324681,Dalton Aspholm,P,Fr,4,0,2020,15204,Southeastern La.,655
 31,2138647,Brant Husser,OF,Fr,0,0,2020,15204,Southeastern La.,655
-3,2138625,Eli Johnson,INF,Sr,11,9,2020,15204,Southeastern La.,655
+1,2129398,Johnny Johnson,INF,Sr,4,0,2020,15204,Southeastern La.,655
 23,2324679,Jacob Burke,INF,Fr,16,16,2020,15204,Southeastern La.,655
 31,2324684,Landon Clifton,P,Jr,0,0,2020,15204,Southeastern La.,655
 21,2324658,Daniel Dugas,P,Jr,4,2,2020,15204,Southeastern La.,655
@@ -16273,7 +16273,7 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 26,2337293,Tj Stephenson,INF,So,5,3,2020,15204,Simpson,641
 14,2147102,Cole Milder,OF,So,0,0,2020,15204,Simpson,641
 12,2147101,Dunston Werner,UT,So,0,0,2020,15204,Simpson,641
-4,2147571,Ryan Willis,INF,So,6,6,2020,15204,Simpson,641
+15,2147070,Luke Willis,INF,So,5,4,2020,15204,Simpson,641
 20,2005221,Jonathan Sailstad,P,Jr,2,0,2020,15204,Simpson,641
 32,2147113,Matthew Marquez,OF,So,4,4,2020,15204,Simpson,641
 5,2147098,Zach Hollingsworth,P,So,6,6,2020,15204,Simpson,641
@@ -16294,7 +16294,7 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 42,2147073,Brennen Lemke,INF,So,1,1,2020,15204,Simpson,641
 3,2147094,Brady Leonard,INF,So,3,3,2020,15204,Simpson,641
 6,2147107,Colton Major,UT,So,0,0,2020,15204,Simpson,641
-15,2147070,Luke Willis,INF,So,5,4,2020,15204,Simpson,641
+4,2147571,Ryan Willis,INF,So,6,6,2020,15204,Simpson,641
 21,2140279,Tim Buchek,P,So,3,0,2020,15204,Central Conn. St.,127
 16,2140276,Dylan Benton,P,So,2,0,2020,15204,Central Conn. St.,127
 10,2309391,Tj Wainwright,INF,Fr,0,0,2020,15204,Central Conn. St.,127
@@ -16401,13 +16401,13 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 12,1983114,Caleb Nash,C,So,4,0,2020,15204,Tex. A&M-Kingsville,696
 35,2330234,Matthew Oleson,P,Jr,8,0,2020,15204,Tex. A&M-Kingsville,696
 3,1983139,Giancarlo Servin,INF,Jr,22,22,2020,15204,Tex. A&M-Kingsville,696
-1,2330259,Damian Rodriguez,INF,Fr,18,15,2020,15204,Tex. A&M-Kingsville,696
+24,2330269,John Mike Rodriguez,P,Jr,6,6,2020,15204,Tex. A&M-Kingsville,696
 38,1880271,Nick Hutchison,P,Jr,2,0,2020,15204,Tex. A&M-Kingsville,696
 40,2131965,Matthew Sesler,P,So,10,0,2020,15204,Tex. A&M-Kingsville,696
 22,2330300,Brandon Symmank,P,Jr,2,0,2020,15204,Tex. A&M-Kingsville,696
 2,1880269,Kohl Ullman,UT,Sr,21,20,2020,15204,Tex. A&M-Kingsville,696
 33,1983146,Jacob Vasquez,P,So,3,0,2020,15204,Tex. A&M-Kingsville,696
-24,2330269,John Mike Rodriguez,P,Jr,6,6,2020,15204,Tex. A&M-Kingsville,696
+1,2330259,Damian Rodriguez,INF,Fr,18,15,2020,15204,Tex. A&M-Kingsville,696
 16,2330194,Tyler Henson,P,Jr,5,0,2020,15204,Tex. A&M-Kingsville,696
 23,1983098,Tyler Flores,P,Jr,6,4,2020,15204,Tex. A&M-Kingsville,696
 28,2330183,Chase Glover,P,Jr,9,0,2020,15204,Tex. A&M-Kingsville,696
@@ -16891,8 +16891,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 21,2120766,Tyler Tuthill,P,So,4,4,2020,15204,Appalachian St.,27
 32,2120770,Andrew Terrell,INF,So,8,6,2020,15204,Appalachian St.,27
 14,2321867,Cy Smith,P,Fr,7,0,2020,15204,Appalachian St.,27
-37,2120778,Cam Roberts,P,So,6,1,2020,15204,Appalachian St.,27
 30,2322035,Shane Roberts,P,So,5,4,2020,15204,Appalachian St.,27
+37,2120778,Cam Roberts,P,So,6,1,2020,15204,Appalachian St.,27
 33,2120771,Austin Primm,P,So,5,0,2020,15204,Appalachian St.,27
 20,1996380,Andrew Papp,P,Sr,9,0,2020,15204,Appalachian St.,27
 5,1996342,Kendall Mcgowan,OF,Jr,16,14,2020,15204,Appalachian St.,27
@@ -17084,8 +17084,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 16,2139615,Scott Hastings,1B,Sr,16,14,2020,15204,A&M-Corpus Christi,26172
 27,2320564,Nic Hernandez,P,Fr,0,0,2020,15204,A&M-Corpus Christi,26172
 17,2139620,Mason Hopkins,P,So,0,0,2020,15204,A&M-Corpus Christi,26172
-41,2320565,Diego Johnson,INF,Fr,1,0,2020,15204,A&M-Corpus Christi,26172
 26,2320566,Dylan Johnson,P,Fr,5,0,2020,15204,A&M-Corpus Christi,26172
+41,2320565,Diego Johnson,INF,Fr,1,0,2020,15204,A&M-Corpus Christi,26172
 18,1998326,Will Floyd,P,Sr,3,0,2020,15204,A&M-Corpus Christi,26172
 3,2320567,Tre Jones,OF,Fr,0,0,2020,15204,A&M-Corpus Christi,26172
 8,1996147,Colton Zellmer,P,Sr,2,2,2020,15204,Nyack,1277
@@ -17544,9 +17544,9 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 38,1975712,Enzo Stefanoni,P,Jr,2,2,2020,15204,Harvard,275
 25,2309228,Adam Stone,P,Fr,0,0,2020,15204,Harvard,275
 26,1866184,Grant Stone,P,Sr,0,0,2020,15204,Harvard,275
-13,2309236,Pryor Thomas,UT,Fr,5,2,2020,15204,Harvard,275
-15,1866185,Jake Suddleson,OF,Sr,5,5,2020,15204,Harvard,275
 14,1975738,Matt Thomas,C,Jr,6,6,2020,15204,Harvard,275
+15,1866185,Jake Suddleson,OF,Sr,5,5,2020,15204,Harvard,275
+13,2309236,Pryor Thomas,UT,Fr,5,2,2020,15204,Harvard,275
 22,2309227,Spencer Williams,OF,Fr,1,1,2020,15204,Harvard,275
 77,2309209,Tim Williamson,P,Fr,2,0,2020,15204,Harvard,275
 21,1975739,Jaren Zinn,P,Jr,2,0,2020,15204,Harvard,275
@@ -17855,8 +17855,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 28,2310155,Justin Hines,INF,Fr,6,1,2020,15204,Stanislaus St.,103
 25,2125497,Douglas Gragg,C,Jr,5,2,2020,15204,Stanislaus St.,103
 11,2125503,Jayce Gardner,OF,Sr,22,22,2020,15204,Stanislaus St.,103
-29,2310156,Bobby Garcia,P,Fr,6,0,2020,15204,Stanislaus St.,103
 9,1988181,Jacob Garcia,OF,So,22,22,2020,15204,Stanislaus St.,103
+29,2310156,Bobby Garcia,P,Fr,6,0,2020,15204,Stanislaus St.,103
 5,2125488,Matt Elser,C,Jr,22,22,2020,15204,Stanislaus St.,103
 7,1988179,Evan Duran,P,Sr,1,0,2020,15204,Stanislaus St.,103
 30,2310157,Damian Vallejos,P,Fr,3,0,2020,15204,Stanislaus St.,103
@@ -18078,8 +18078,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 17.0,2125969,Anthony Wuenstel,2B,So,4,2,2020,15204,Geneva,30084
 24.0,1982652,Garrison Wieland,3B,Jr,7,7,2020,15204,Geneva,30084
 29.0,2125983,Marshall Wheeler,P,So,6,5,2020,15204,Geneva,30084
-32.0,2307716,Josiah Smith,C,Fr,2,0,2020,15204,Geneva,30084
 30.0,2307737,Austin Smith,P,Fr,1,0,2020,15204,Geneva,30084
+32.0,2307716,Josiah Smith,C,Fr,2,0,2020,15204,Geneva,30084
 27.0,2125982,Elijah Small,P,So,2,0,2020,15204,Geneva,30084
 0.0,2125966,Tyler Seliga,SS,Jr,8,7,2020,15204,Geneva,30084
 15.0,2307733,Austin Petraglia,3B,Fr,8,7,2020,15204,Geneva,30084
@@ -18145,8 +18145,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 24,2011065,Nick Montemayor,P,Sr,0,0,2020,15204,Tex. A&M Int'l,30090
 5,2133352,Andrew Pavon,INF,So,5,2,2020,15204,Tex. A&M Int'l,30090
 12,2133354,Justin Rumley,P,Sr,7,4,2020,15204,Tex. A&M Int'l,30090
-10,2133392,J.J. Sanchez,P,So,6,5,2020,15204,Tex. A&M Int'l,30090
 4,2133399,Philip Sanchez,UT,Sr,21,20,2020,15204,Tex. A&M Int'l,30090
+10,2133392,J.J. Sanchez,P,So,6,5,2020,15204,Tex. A&M Int'l,30090
 31,1994900,Mark Trimble,P,Sr,2,0,2020,15204,Tex. A&M Int'l,30090
 1,2133421,Hunter Trinidad,OF,Sr,21,21,2020,15204,Tex. A&M Int'l,30090
 29,2133423,Matthew Villanueva,C,So,0,0,2020,15204,Tex. A&M Int'l,30090
@@ -18782,9 +18782,9 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 30,2134530,Travaris Cole,OF,Sr,12,12,2020,15204,Alcorn,17
 26,1991160,Kyle Jenkins,C,Sr,11,11,2020,15204,Alcorn,17
 1,2134537,Micah Walker,INF,Sr,5,4,2020,15204,Alcorn,17
+28,1879609,Joe Smith,P,Sr,5,1,2020,15204,Alcorn,17
 5,1879610,Tyler Smith,UT,Sr,3,0,2020,15204,Alcorn,17
 13,2134533,Jaden Smith,INF,So,6,5,2020,15204,Alcorn,17
-28,1879609,Joe Smith,P,Sr,5,1,2020,15204,Alcorn,17
 8,2307373,Konnor Short,P,So,0,0,2020,15204,Alcorn,17
 18,2134531,Brandon Rembert,OF,Sr,12,12,2020,15204,Alcorn,17
 2,2312016,Christopher Pittman,OF,Jr,0,0,2020,15204,Alcorn,17
@@ -19847,8 +19847,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 17,2131543,Sage Smelley,INF,Sr,13,9,2020,15204,AUM,30093
 27,1871827,Hunter Hillyer,INF,Sr,7,0,2020,15204,AUM,30093
 4,2131532,Quinterrious Arrington,OF,Sr,16,16,2020,15204,AUM,30093
-32,2131546,Micah Henderson,P,Sr,6,6,2020,15204,AUM,30093
 15,2131536,Casey Henderson,UT,Sr,16,12,2020,15204,AUM,30093
+32,2131546,Micah Henderson,P,Sr,6,6,2020,15204,AUM,30093
 30,2131544,Corey Armstrong,INF,Jr,14,11,2020,15204,AUM,30093
 40,2131548,Grayson Blackwell,INF,Sr,16,9,2020,15204,AUM,30093
 18,2329489,Tyler Britton,P,Fr,8,5,2020,15204,AUM,30093
@@ -19898,8 +19898,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 31,2137358,Kevin Garcia,C,So,1,0,2020,15204,Texas Southern,699
 31,2299396,Louis Cardinale,P,Fr,0,0,2020,15204,Albion,15
 16,2111212,Colton Wiskur,P,So,0,0,2020,15204,Albion,15
-6,2299370,Gehrig Williams,INF,Fr,1,0,2020,15204,Albion,15
 10,2299371,Matthew Williams,OF,Fr,7,1,2020,15204,Albion,15
+6,2299370,Gehrig Williams,INF,Fr,1,0,2020,15204,Albion,15
 2,2299367,Andrew Villalobos,INF,Fr,1,0,2020,15204,Albion,15
 8,1866670,Riley Stesiak,INF,Sr,9,9,2020,15204,Albion,15
 20,1974258,Dylan Perry,OF,Jr,7,7,2020,15204,Albion,15
@@ -20090,17 +20090,17 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 2.0,2358406,Keith Pomeroy,INF,Fr,10,9,2020,15204,Husson,1133
 6.0,2152357,Kobe Rogerson,INF,So,10,10,2020,15204,Husson,1133
 19.0,2152383,Michael Schneider,C,So,9,7,2020,15204,Husson,1133
-1.0,2358419,Harrison Lendrum,P,Fr,2,1,2020,15204,Husson,1133
+4.0,2358421,Jonathan Lendrum,C,Fr,1,0,2020,15204,Husson,1133
 25.0,2004031,Ethan Shepard,INF,Jr,8,7,2020,15204,Husson,1133
 12.0,1894956,Blake Slicer,P,Sr,3,1,2020,15204,Husson,1133
-29.0,1781060,Austin Smith,P,Sr,3,0,2020,15204,Husson,1133
 33.0,2004023,Brandon Smith,INF,Jr,6,1,2020,15204,Husson,1133
+29.0,1781060,Austin Smith,P,Sr,3,0,2020,15204,Husson,1133
 43.0,2152361,Ethan Stoddard,INF,So,9,5,2020,15204,Husson,1133
 31.0,2152326,Nick Swift,OF,So,1,0,2020,15204,Husson,1133
 36.0,2359268,Austin Tomalonis,P,Fr,1,0,2020,15204,Husson,1133
 39.0,2359270,Zach Whitmore,P,Fr,2,0,2020,15204,Husson,1133
 35.0,2152384,Logan Sheridan,P,So,2,1,2020,15204,Husson,1133
-4.0,2358421,Jonathan Lendrum,C,Fr,1,0,2020,15204,Husson,1133
+1.0,2358419,Harrison Lendrum,P,Fr,2,1,2020,15204,Husson,1133
 22.0,2152386,David Leblanc,OF,So,10,10,2020,15204,Husson,1133
 26.0,2004019,Ryan Hoogterp,OF,Jr,9,9,2020,15204,Husson,1133
 20.0,2152324,Nolan Brown,OF,So,8,7,2020,15204,Husson,1133
@@ -20128,16 +20128,16 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 7,2333849,Lane Smith,INF,Jr,13,13,2020,15204,Fontbonne,11538
 18,2333865,Brendon Smock,P,Fr,3,0,2020,15204,Fontbonne,11538
 55,2333888,Grant Staffen,INF,Fr,9,6,2020,15204,Fontbonne,11538
-42,2135161,Donovan Summers,P,So,2,0,2020,15204,Fontbonne,11538
 4,1868680,Luke Summers,P,Sr,4,4,2020,15204,Fontbonne,11538
+42,2135161,Donovan Summers,P,So,2,0,2020,15204,Fontbonne,11538
 9,2333863,Stephen Willis,OF,Fr,1,0,2020,15204,Fontbonne,11538
 28,2135139,Paul Wilson,INF,So,6,6,2020,15204,Fontbonne,11538
 3,2333859,Daniel Youngblood,INF,Jr,8,7,2020,15204,Fontbonne,11538
 8,2135130,Matt Manint,C,So,13,12,2020,15204,Fontbonne,11538
 26,2333873,Carter Lee,INF,Fr,2,0,2020,15204,Fontbonne,11538
 24,2333872,Kaleb Schweigert,OF,Fr,2,0,2020,15204,Fontbonne,11538
-46,2333878,Trey Kueper,INF,Fr,2,0,2020,15204,Fontbonne,11538
 19,2333854,Ty Kueper,C,Fr,5,4,2020,15204,Fontbonne,11538
+46,2333878,Trey Kueper,INF,Fr,2,0,2020,15204,Fontbonne,11538
 45,2335267,Lyndon Carson,INF,Fr,0,0,2020,15204,Fontbonne,11538
 6,2135142,Joey Casey,INF,So,11,8,2020,15204,Fontbonne,11538
 1,2135126,Tyler Chambliss,INF,Jr,11,10,2020,15204,Fontbonne,11538
@@ -20276,8 +20276,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 10,1862845,Aquib Ramkishun,P,Sr,6,2,2020,15204,NJIT,471
 20,2309014,Kevin Putsky,OF,Fr,4,2,2020,15204,NJIT,471
 21,2309011,Parker O'Neil,INF,Fr,8,3,2020,15204,NJIT,471
-11,1972618,David Marcano,INF,Jr,16,16,2020,15204,NJIT,471
 25,1972646,Julio Marcano,INF,Jr,16,16,2020,15204,NJIT,471
+11,1972618,David Marcano,INF,Jr,16,16,2020,15204,NJIT,471
 31,2349342,Luke Longo,C,Fr,14,14,2020,15204,NJIT,471
 28,2309009,Michael Kubiak,INF,Fr,8,1,2020,15204,NJIT,471
 24,1862842,Jared Kacso,INF,Sr,5,0,2020,15204,NJIT,471
@@ -20806,8 +20806,8 @@ N,2139106,Tristian Williams,INF,So,0,0,2020,15204,Army West Point,725
 14,2318833,Alec Tamburri,UT,Fr,5,0,2020,15204,West Va. Wesleyan,9630
 35,2318865,Fox Wagner,1B,Jr,3,3,2020,15204,West Va. Wesleyan,9630
 26,2318838,Andrew Walker,INF,Jr,4,4,2020,15204,West Va. Wesleyan,9630
-21,2157223,Trahern White,OF,Jr,0,0,2020,15204,West Va. Wesleyan,9630
 31,2318862,Luke White,P,Fr,2,0,2020,15204,West Va. Wesleyan,9630
+21,2157223,Trahern White,OF,Jr,0,0,2020,15204,West Va. Wesleyan,9630
 11,2136328,Leo White,OF,Jr,10,9,2020,15204,West Va. Wesleyan,9630
 30,1872820,Kolby Wolf,OF,Sr,6,3,2020,15204,West Va. Wesleyan,9630
 7,2318785,Geovani Sostre,UT,Jr,9,7,2020,15204,West Va. Wesleyan,9630
@@ -20816,8 +20816,8 @@ x,2318877,Dharyl Moon,OF,Fr,0,0,2020,15204,West Va. Wesleyan,9630
 43,2007780,Tanner Mccallister,INF,Jr,11,10,2020,15204,West Va. Wesleyan,9630
 20,2136326,Noah Birthisel,OF,So,0,0,2020,15204,West Va. Wesleyan,9630
 x,2005901,Logan Brouwer,P,So,0,0,2020,15204,West Va. Wesleyan,9630
-23,2158991,Todd Burner,INF,So,9,8,2020,15204,West Va. Wesleyan,9630
 27,2318861,Luke Burner,UT,Fr,8,6,2020,15204,West Va. Wesleyan,9630
+23,2158991,Todd Burner,INF,So,9,8,2020,15204,West Va. Wesleyan,9630
 15,2318835,Mitchell Courtney,P,Jr,4,3,2020,15204,West Va. Wesleyan,9630
 3,2005896,Adrian Delgado,C,Jr,14,14,2020,15204,West Va. Wesleyan,9630
 9,2007319,Bryson Fluke,OF,Sr,10,10,2020,15204,West Va. Wesleyan,9630
@@ -21180,7 +21180,7 @@ RS,2346746,Kaiden Cardoso,INF,So,0,0,2020,15204,Minot St.,30125
 13,2122772,Spencer Carlin,P,So,3,0,2020,15204,Northeastern St.,12810
 32,2303865,Cohen Bell,P,Jr,9,0,2020,15204,Northeastern St.,12810
 23,2303788,Koby Ketcher,UT,Fr,8,8,2020,15204,Northeastern St.,12810
-3,2340240,Jared Rodriguez,2b,So,6,4,2020,15204,Greensboro,263
+13,1879481,Jacob Rodriguez,2B,Sr,17,17,2020,15204,Greensboro,263
 8,2154882,Devin Summers,SS,So,3,1,2020,15204,Greensboro,263
 12,1879564,Scotty Mcguire,C,Sr,16,16,2020,15204,Greensboro,263
 6,1765986,Edward Mililan,2B,Sr,0,0,2020,15204,Greensboro,263
@@ -21191,7 +21191,7 @@ RS,2346746,Kaiden Cardoso,INF,So,0,0,2020,15204,Minot St.,30125
 24,1895406,Cameron Peters,1B,Sr,9,5,2020,15204,Greensboro,263
 39,2361396,Josh Pittman,lf,Jr,2,1,2020,15204,Greensboro,263
 15,1778253,Griffen Riley,2B,Sr,0,0,2020,15204,Greensboro,263
-13,1879481,Jacob Rodriguez,2B,Sr,17,17,2020,15204,Greensboro,263
+3,2340240,Jared Rodriguez,2b,So,6,4,2020,15204,Greensboro,263
 35,2340241,Braxton Rupp,dh,Jr,15,15,2020,15204,Greensboro,263
 44,2142598,Chenzo Scanio,P,Sr,10,0,2020,15204,Greensboro,263
 28,1895408,Lee Sells,P,Sr,0,0,2020,15204,Greensboro,263
@@ -22194,8 +22194,8 @@ RS,2346746,Kaiden Cardoso,INF,So,0,0,2020,15204,Minot St.,30125
 12,2130769,Cj Hughes,INF,Sr,9,2,2020,15204,Henderson St.,1123
 16,2321503,Montana Korte,OF,Fr,0,0,2020,15204,Henderson St.,1123
 23,1986339,Taylor Langston,P,Sr,6,1,2020,15204,Henderson St.,1123
-28,1875635,Hunter Lewis,P,Jr,3,3,2020,15204,Henderson St.,1123
 19,2321523,Alec Lewis,P,Fr,14,13,2020,15204,Henderson St.,1123
+28,1875635,Hunter Lewis,P,Jr,3,3,2020,15204,Henderson St.,1123
 8,2321493,Zach Lunn,INF,Jr,2,0,2020,15204,Henderson St.,1123
 14,2321501,Jordan Mccuin,OF,Fr,2,0,2020,15204,Henderson St.,1123
 33,1750582,Danny Mitchell Jr.,OF,Sr,22,22,2020,15204,Henderson St.,1123
@@ -22356,7 +22356,7 @@ RS,2346746,Kaiden Cardoso,INF,So,0,0,2020,15204,Minot St.,30125
 9.0,2110618,Garret Suiter,C,So,17,15,2020,15204,Augusta,39
 5.0,2110616,Brian Smith,OF,Sr,18,13,2020,15204,Augusta,39
 2.0,1976091,Mason Robertson,INF,Jr,19,19,2020,15204,Augusta,39
-17.0,2110623,Cody Powell,INF,So,0,0,2020,15204,Augusta,39
+23.0,2334528,Theron Powell,LF,Jr,20,20,2020,15204,Augusta,39
 4.0,2110648,John Paul,INF,So,14,8,2020,15204,Augusta,39
 27.0,2334516,Hunter Norman,P,Jr,6,6,2020,15204,Augusta,39
 13.0,1866018,Jose Nogueras,C,Sr,7,5,2020,15204,Augusta,39
@@ -22365,7 +22365,7 @@ RS,2346746,Kaiden Cardoso,INF,So,0,0,2020,15204,Minot St.,30125
 41.0,2343360,B. Miller,p,,2,0,2020,15204,Augusta,39
 47.0,2343359,Noah Mcfarlin,p,,1,0,2020,15204,Augusta,39
 7.0,2110649,Ben Markiewicz,INF,So,20,20,2020,15204,Augusta,39
-23.0,2334528,Theron Powell,LF,Jr,20,20,2020,15204,Augusta,39
+17.0,2110623,Cody Powell,INF,So,0,0,2020,15204,Augusta,39
 8.0,2110617,Matthew Lee,C,So,3,0,2020,15204,Augusta,39
 14.0,1976097,Trent Maddox,INF,Jr,18,18,2020,15204,Augusta,39
 31.0,2334526,Will Cantrell,P,Fr,6,3,2020,15204,Augusta,39
@@ -22383,7 +22383,7 @@ RS,2346746,Kaiden Cardoso,INF,So,0,0,2020,15204,Minot St.,30125
 17.0,2334527,Rylan Laird,PH/2B,Fr,13,3,2020,15204,Augusta,39
 11.0,1866017,Carrington Evans,OF,Jr,19,19,2020,15204,Augusta,39
 25.0,2110625,John Micah Law,P,So,6,6,2020,15204,Augusta,39
-30,2352597,Connor Maxwell,P,Fr,6,6,2020,15204,Cobleskill St.,30083
+28,2134072,Jayson Maxwell,UT,Sr,13,12,2020,15204,Cobleskill St.,30083
 33,2352598,Lucas Resti,1B,Fr,1,0,2020,15204,Cobleskill St.,30083
 11,2352604,Jack Miller,1B,Fr,6,4,2020,15204,Cobleskill St.,30083
 6,2352593,Daren Palmer,C,Sr,8,6,2020,15204,Cobleskill St.,30083
@@ -22393,7 +22393,7 @@ RS,2346746,Kaiden Cardoso,INF,So,0,0,2020,15204,Minot St.,30125
 8,2002203,Jason Sweredoski,LF,Jr,2,0,2020,15204,Cobleskill St.,30083
 21,2352606,Anthony Vicinanzo,OF,Fr,2,0,2020,15204,Cobleskill St.,30083
 20,2002206,Daniel Wade,P,Jr,0,0,2020,15204,Cobleskill St.,30083
-28,2134072,Jayson Maxwell,UT,Sr,13,12,2020,15204,Cobleskill St.,30083
+30,2352597,Connor Maxwell,P,Fr,6,6,2020,15204,Cobleskill St.,30083
 22,2134069,Dylan Stauffer,P,So,2,0,2020,15204,Cobleskill St.,30083
 7,2352594,Anthony Marchetto,INF,Fr,12,12,2020,15204,Cobleskill St.,30083
 25,2352608,Nick Thomas,OF,Jr,13,13,2020,15204,Cobleskill St.,30083
@@ -22455,8 +22455,8 @@ RS,2346746,Kaiden Cardoso,INF,So,0,0,2020,15204,Minot St.,30125
 2,1659954,Caleb Norton,INF,Sr,2,2,2020,15204,Piedmont,21830
 25,2336594,Grant Olson,INF,Fr,3,2,2020,15204,Piedmont,21830
 9,2336596,Hamp Perkins,OF,Fr,2,0,2020,15204,Piedmont,21830
-370,2349504,No Player,UT,Sr,0,0,2020,15204,Piedmont,21830
 200,2349501,Wrong Player,1B,Sr,0,0,2020,15204,Piedmont,21830
+370,2349504,No Player,UT,Sr,0,0,2020,15204,Piedmont,21830
 6,1981151,Nate Rotenberger,P,Sr,3,3,2020,15204,Piedmont,21830
 4,1981189,Tyler Sheley,INF,Jr,15,15,2020,15204,Piedmont,21830
 1,1874604,Wes Snyder,OF,Sr,16,15,2020,15204,Piedmont,21830
@@ -22496,8 +22496,8 @@ RS,2346746,Kaiden Cardoso,INF,So,0,0,2020,15204,Minot St.,30125
 35,2130444,Jordan Monacy,1B,Sr,0,0,2020,15204,SFA,676
 8,2130416,Sean Moore,INF,Sr,15,14,2020,15204,SFA,676
 21,2343975,Chandler Poell,P,Jr,5,0,2020,15204,SFA,676
-32,2130442,Jeremy Rodriguez,P,Sr,4,0,2020,15204,SFA,676
 6,2343980,Martin Rodriguez,OF,Fr,4,0,2020,15204,SFA,676
+32,2130442,Jeremy Rodriguez,P,Sr,4,0,2020,15204,SFA,676
 10,2130417,Joseph Sgambelluri,P,Sr,5,1,2020,15204,SFA,676
 26,2343999,Thylar Summarell,1B,Jr,14,6,2020,15204,SFA,676
 23,2343978,Joe Todd,P,Jr,4,4,2020,15204,SFA,676
@@ -22826,7 +22826,7 @@ RS,2346746,Kaiden Cardoso,INF,So,0,0,2020,15204,Minot St.,30125
 25,1862900,Jordan Libman,OF,Sr,15,15,2020,15204,Illinois St.,299
 27,1976588,Jake Mccaw,UT,Jr,14,12,2020,15204,Illinois St.,299
 36,1976585,Connor Peplow,P,Jr,4,0,2020,15204,Illinois St.,299
-15,2121063,Gunner Peterson,OF,So,11,9,2020,15204,Illinois St.,299
+11,2314993,Tanner Peterson,OF,Fr,9,2,2020,15204,Illinois St.,299
 43,2121076,Sean Sinisko,P,So,4,4,2020,15204,Illinois St.,299
 29,1862908,Michael Sebby,P,Sr,5,0,2020,15204,Illinois St.,299
 33,2314970,Trey Krause,P,Fr,0,0,2020,15204,Illinois St.,299
@@ -22836,7 +22836,7 @@ RS,2346746,Kaiden Cardoso,INF,So,0,0,2020,15204,Minot St.,30125
 5,2314981,Nolan Young,UT,Jr,3,0,2020,15204,Illinois St.,299
 51,2121122,Derek Salata,P,So,6,0,2020,15204,Illinois St.,299
 14,2314994,Tanner Kelly,INF,Fr,2,0,2020,15204,Illinois St.,299
-11,2314993,Tanner Peterson,OF,Fr,9,2,2020,15204,Illinois St.,299
+15,2121063,Gunner Peterson,OF,So,11,9,2020,15204,Illinois St.,299
 37,1862904,Colton Johnson,P,Sr,5,4,2020,15204,Illinois St.,299
 44,1976577,Jack Anderson,P,Jr,3,3,2020,15204,Illinois St.,299
 24,2123493,Hayden Jones,C,So,0,0,2020,15204,Illinois St.,299
@@ -24016,8 +24016,8 @@ RS,2126809,Brandon Soucy,P,Sr,0,0,2020,15204,Dixie St.,30095
 48,2354583,Eric Luebcke,P,Fr,1,0,2020,15204,New York Tech,477
 17,1865774,Zach Kleinwaks,DH,Sr,7,2,2020,15204,New York Tech,477
 36,2116626,Alex Doskoez,P,So,0,0,2020,15204,New York Tech,477
-23,2116595,Kieran Dowd,3B,So,12,11,2020,15204,New York Tech,477
 3,1865771,Brendan Dowd,OF,Sr,4,0,2020,15204,New York Tech,477
+23,2116595,Kieran Dowd,3B,So,12,11,2020,15204,New York Tech,477
 28,2354142,Frankie Dimartino,2b,Fr,7,1,2020,15204,New York Tech,477
 9,1975219,Ej Cumbo,OF,So,14,14,2020,15204,New York Tech,477
 4,1865770,Timmy Cassese,INF,Sr,2,0,2020,15204,New York Tech,477
@@ -24484,14 +24484,14 @@ RS,2126809,Brandon Soucy,P,Sr,0,0,2020,15204,Dixie St.,30095
 4,1986206,Tucker Smith,P,Sr,6,6,2020,15204,Ga. Southwestern,1097
 29,2302205,Cody Ogilvie,P,Jr,4,3,2020,15204,Ga. Southwestern,1097
 14,2116642,Matthew Snider,P,So,0,0,2020,15204,Ga. Southwestern,1097
-10,2116621,Alex Sutton,P,So,0,0,2020,15204,Ga. Southwestern,1097
+36,2116643,John Austin Sutton,C,So,8,0,2020,15204,Ga. Southwestern,1097
 33,1986203,Harrison Timberlake,P,Jr,11,0,2020,15204,Ga. Southwestern,1097
 41,1981035,Zack Tong,INF,So,0,0,2020,15204,Ga. Southwestern,1097
 6,2302241,Lucas Trebian,C,Jr,10,7,2020,15204,Ga. Southwestern,1097
 2,2116623,Miguel Urbina,INF,Sr,19,19,2020,15204,Ga. Southwestern,1097
 22,1986211,Jamison Wilks,INF,Jr,5,1,2020,15204,Ga. Southwestern,1097
 8,2302197,Salik Williams,OF,Jr,9,5,2020,15204,Ga. Southwestern,1097
-36,2116643,John Austin Sutton,C,So,8,0,2020,15204,Ga. Southwestern,1097
+10,2116621,Alex Sutton,P,So,0,0,2020,15204,Ga. Southwestern,1097
 19,2117867,Jackson Mix,INF,So,6,2,2020,15204,Ga. Southwestern,1097
 5,1873965,Brooks Mcdonel,P,Jr,0,0,2020,15204,Ga. Southwestern,1097
 12,2302198,Nick Mccollum,P,Fr,5,2,2020,15204,Ga. Southwestern,1097
@@ -24714,8 +24714,8 @@ RS,2126809,Brandon Soucy,P,Sr,0,0,2020,15204,Dixie St.,30095
 38,2352555,Jovon Portuondo,P,Jr,2,0,2020,15204,Dominican  (CACC),8956
 9,2352538,Brandon Prescod,OF,Fr,0,0,2020,15204,Dominican  (CACC),8956
 16,2352548,Arthur Quinones,INF,So,9,6,2020,15204,Dominican  (CACC),8956
-25,2352571,Ivan Rodriguez,UT,Jr,4,0,2020,15204,Dominican  (CACC),8956
 21,2352569,John Rodriguez,P,So,3,0,2020,15204,Dominican  (CACC),8956
+25,2352571,Ivan Rodriguez,UT,Jr,4,0,2020,15204,Dominican  (CACC),8956
 24,2143844,Billy Rotella,INF,Sr,13,13,2020,15204,Dominican  (CACC),8956
 33,2352574,Brian Parzyck,C,Fr,7,2,2020,15204,Dominican  (CACC),8956
 0,2352563,Ryan Ruziecki,INF,Jr,13,13,2020,15204,Dominican  (CACC),8956
@@ -24837,9 +24837,9 @@ RS,2126809,Brandon Soucy,P,Sr,0,0,2020,15204,Dixie St.,30095
 5,2329137,Tanner Johnson,C,So,3,0,2020,15204,Western Ky.,772
 21,2329241,Jake Kates,UT,So,9,1,2020,15204,Western Ky.,772
 30,2329285,Alec Kubik,P,So,1,0,2020,15204,Western Ky.,772
-3,2112817,Jack Lambert,P,Sr,3,0,2020,15204,Western Ky.,772
-28,1978413,Aidan Elias,OF,So,2,0,2020,15204,Western Ky.,772
 24,1866141,Kevin Lambert,INF,Sr,16,16,2020,15204,Western Ky.,772
+28,1978413,Aidan Elias,OF,So,2,0,2020,15204,Western Ky.,772
+3,2112817,Jack Lambert,P,Sr,3,0,2020,15204,Western Ky.,772
 11,2329211,Ryan Luckett,P,Jr,4,0,2020,15204,Western Ky.,772
 27,1978407,Sam Mcelreath,INF,Sr,9,4,2020,15204,Western Ky.,772
 33,2329302,Dalton Mesaris,P,Fr,4,0,2020,15204,Western Ky.,772
@@ -24856,13 +24856,13 @@ RS,2126809,Brandon Soucy,P,Sr,0,0,2020,15204,Dixie St.,30095
 6,2132268,Marques Paige,INF,Sr,15,13,2020,15204,Northwestern Okla.,30178
 29,2132270,Harry Park,P,Sr,5,2,2020,15204,Northwestern Okla.,30178
 47,2132282,Angel Perez,INF,So,1,0,2020,15204,Northwestern Okla.,30178
-23,2305235,Billy Rogers,OF,Jr,16,11,2020,15204,Northwestern Okla.,30178
 25,2305222,Kyle Rogers,P,Sr,2,0,2020,15204,Northwestern Okla.,30178
+23,2305235,Billy Rogers,OF,Jr,16,11,2020,15204,Northwestern Okla.,30178
 8,2305212,Jose Rubalcava,INF,Fr,6,4,2020,15204,Northwestern Okla.,30178
 46,2305248,Preston Lonadier,OF,So,2,0,2020,15204,Northwestern Okla.,30178
 55,2132309,Tanner Rutledge,INF,Sr,0,0,2020,15204,Northwestern Okla.,30178
-42,2132311,Chase Sawyer,INF,Fr,1,0,2020,15204,Northwestern Okla.,30178
 44,2132312,Jeremy Sawyer,P,Sr,2,0,2020,15204,Northwestern Okla.,30178
+42,2132311,Chase Sawyer,INF,Fr,1,0,2020,15204,Northwestern Okla.,30178
 18,2305233,Aj Shaw,P,Jr,3,1,2020,15204,Northwestern Okla.,30178
 36,2132313,Brody Shook,P,Sr,5,0,2020,15204,Northwestern Okla.,30178
 19,2132315,Koby Spicer,P,Sr,7,0,2020,15204,Northwestern Okla.,30178
@@ -25063,14 +25063,14 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 7,2142782,Justin Worley,OF,So,7,6,2020,15204,Davis & Elkins,174
 30,2332698,Justin Sutta,P,Fr,2,0,2020,15204,Davis & Elkins,174
 33,2142781,Carlos Texeira,P,So,0,0,2020,15204,Davis & Elkins,174
-13,1984299,Troy Mcmillion,C,Jr,2,2,2020,15204,Davis & Elkins,174
+19,1882856,Brent Mcmillion,INF,Sr,3,3,2020,15204,Davis & Elkins,174
 12,2332678,Zachary Mcgillan,P,Fr,2,2,2020,15204,Davis & Elkins,174
 36,2332720,John Arcaro,INF,Fr,8,8,2020,15204,Davis & Elkins,174
 1,2142819,Christopher Baris,P,So,0,0,2020,15204,Davis & Elkins,174
 20,1882847,Dominic Bianchini,INF,Sr,0,0,2020,15204,Davis & Elkins,174
 27,2142778,Rory Burke,P,So,0,0,2020,15204,Davis & Elkins,174
 23,2332701,Alex Castaneda,INF,Fr,5,5,2020,15204,Davis & Elkins,174
-19,1882856,Brent Mcmillion,INF,Sr,3,3,2020,15204,Davis & Elkins,174
+13,1984299,Troy Mcmillion,C,Jr,2,2,2020,15204,Davis & Elkins,174
 5,1984309,Chase Degrood,INF,Jr,8,8,2020,15204,Davis & Elkins,174
 18,2332696,Colten Devilbiss,INF,Fr,1,1,2020,15204,Davis & Elkins,174
 6,2142504,David Cladwell,C,So,0,0,2020,15204,Davis & Elkins,174
@@ -25773,7 +25773,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 34,2125106,Kyle Sandstrom,OF,Sr,0,0,2020,15204,Charleston So.,48
 24,2311401,Kyle Sandstrom,OF,Sr,17,16,2020,15204,Charleston So.,48
 12,2311416,Peyton Schofield,P,Fr,5,3,2020,15204,Charleston So.,48
-27,1869794,Seth Owens,P,Sr,8,0,2020,15204,Charleston So.,48
+1,2311474,Simms Owens,OF,Fr,3,2,2020,15204,Charleston So.,48
 31,2125094,Trent Seibert,P,Sr,6,0,2020,15204,Charleston So.,48
 26,2311404,Dylan Stewart,INF,Fr,2,1,2020,15204,Charleston So.,48
 19,1869783,Ryan Stoudemire,1B,Sr,18,18,2020,15204,Charleston So.,48
@@ -25782,7 +25782,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 30,2125095,Cam Weinberger,P,Sr,5,5,2020,15204,Charleston So.,48
 20,1870259,Connor Yoder,P,Sr,7,1,2020,15204,Charleston So.,48
 34,2349204,John Sendziak,P,Jr,4,0,2020,15204,Charleston So.,48
-1,2311474,Simms Owens,OF,Fr,3,2,2020,15204,Charleston So.,48
+27,1869794,Seth Owens,P,Sr,8,0,2020,15204,Charleston So.,48
 29,2311407,Holden Tucker,P,Fr,5,2,2020,15204,Charleston So.,48
 5,2311329,Shane Kelleher,INF,Jr,17,17,2020,15204,Charleston So.,48
 8,1977635,Christian Maggio,C,Jr,14,12,2020,15204,Charleston So.,48
@@ -25796,8 +25796,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 23,2125089,Lucas Ford,P,Sr,5,0,2020,15204,Charleston So.,48
 10,2311390,Henry Gibson,C,Fr,7,7,2020,15204,Charleston So.,48
 4,2125090,Reid Hardwick,INF,Sr,14,11,2020,15204,Charleston So.,48
-3,2125091,Kyle Horton,OF,So,15,14,2020,15204,Charleston So.,48
 25,1977632,Derek Horton,OF,Sr,6,2,2020,15204,Charleston So.,48
+3,2125091,Kyle Horton,OF,So,15,14,2020,15204,Charleston So.,48
 49,2311492,Sam Hunt,P,Jr,4,0,2020,15204,Charleston So.,48
 32,1887445,Ian Foggo,P,Sr,6,0,2020,15204,Charleston So.,48
 36,2125092,Hunter Iling,P,So,5,0,2020,15204,Charleston So.,48
@@ -26190,11 +26190,11 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 32,2123585,Noah Bates,P,Jr,11,0,2020,15204,Okla. Christian,30179
 4,2123567,Brendon Bavester,C,So,7,6,2020,15204,Okla. Christian,30179
 26,2305125,Hayden Boyd,P,Fr,6,2,2020,15204,Okla. Christian,30179
-18,2346464,Bob Britton,P,Jr,0,0,2020,15204,Okla. Christian,30179
+18,2343333,Bob Britton,INF,Jr,4,0,2020,15204,Okla. Christian,30179
 19,2123561,Chase Berberich,P,Jr,5,0,2020,15204,Okla. Christian,30179
 0,2123538,Kevin Collyar,INF,So,18,18,2020,15204,Okla. Christian,30179
 97,2123555,Alex Hansen,INF,So,0,0,2020,15204,Okla. Christian,30179
-18,2343333,Bob Britton,INF,Jr,4,0,2020,15204,Okla. Christian,30179
+18,2346464,Bob Britton,P,Jr,0,0,2020,15204,Okla. Christian,30179
 95,2305123,Matthew Gamblin,P,Fr,0,0,2020,15204,Okla. Christian,30179
 24,2123560,Blake Empkey,OF,So,22,22,2020,15204,Okla. Christian,30179
 31,2305129,Austin Hamilton,C,Fr,1,0,2020,15204,Okla. Christian,30179
@@ -26373,8 +26373,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 10,1865929,Hayden Moore,P,Sr,7,0,2020,15204,Randolph-Macon,565
 27,2147228,Ryan Morris,OF,So,0,0,2020,15204,Randolph-Macon,565
 30,1874431,Mike Nickles,3B,Sr,16,16,2020,15204,Randolph-Macon,565
-25,1766728,Shawn Nickles,OF,Sr,16,16,2020,15204,Randolph-Macon,565
 32,1874430,Matt Nickles,P,Sr,6,6,2020,15204,Randolph-Macon,565
+25,1766728,Shawn Nickles,OF,Sr,16,16,2020,15204,Randolph-Macon,565
 14,1998718,Rj Payne,P,Jr,2,0,2020,15204,Randolph-Macon,565
 2,2147230,Spencer Pietruszynski,OF,So,16,15,2020,15204,Randolph-Macon,565
 34,1998722,Zack Radcliffe,P,Jr,6,0,2020,15204,Randolph-Macon,565
@@ -26654,8 +26654,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 6,1979259,Jace Warkentien,P,Jr,4,4,2020,15204,Western Ill.,771
 24,2307910,Chase Vanderginst,OF,Fr,9,5,2020,15204,Western Ill.,771
 8,2307859,Max Slavens,INF,Fr,7,5,2020,15204,Western Ill.,771
-4,2307852,Brett Sears,P,Fr,3,2,2020,15204,Western Ill.,771
 2,1979270,Dillon Sears,INF,Jr,8,8,2020,15204,Western Ill.,771
+4,2307852,Brett Sears,P,Fr,3,2,2020,15204,Western Ill.,771
 12,2307871,Luke Schwartz,OF,Jr,12,12,2020,15204,Western Ill.,771
 31,2128646,Kyle Rosenfeld,P,So,0,0,2020,15204,Western Ill.,771
 15,1871596,Connor Rektorski,P,Jr,1,0,2020,15204,Western Ill.,771
@@ -26816,7 +26816,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 8,2328341,Hayden Kent,INF,Fr,4,1,2020,15204,Webster,759
 19,2126299,Zach Goodman,C,So,9,3,2020,15204,Webster,759
 38,1990256,Ben Kowalski,P,Jr,0,0,2020,15204,Webster,759
-7,1866199,Tyler Thomas,INF,Sr,17,14,2020,15204,Union  (Gulf South),30153
+26,2328174,Dylan Thomas,P,Fr,1,0,2020,15204,Union  (Gulf South),30153
 14,2121488,Brandon Maxwell,P,Sr,5,5,2020,15204,Union  (Gulf South),30153
 1,1985476,Sam Mcmillin,P,Jr,9,0,2020,15204,Union  (Gulf South),30153
 12,1990344,Ryan Mets,P,Sr,6,6,2020,15204,Union  (Gulf South),30153
@@ -26844,7 +26844,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 6,2328100,Andrey Arnett,P,Jr,7,0,2020,15204,Union  (Gulf South),30153
 11,2121493,Walker Adkisson,P,So,6,6,2020,15204,Union  (Gulf South),30153
 3,2328060,Austin Hefner,UT,Jr,3,0,2020,15204,Union  (Gulf South),30153
-26,2328174,Dylan Thomas,P,Fr,1,0,2020,15204,Union  (Gulf South),30153
+7,1866199,Tyler Thomas,INF,Sr,17,14,2020,15204,Union  (Gulf South),30153
 18.0,1895704,Nick Peterson,OF,Sr,0,0,2020,15204,Minn.-Morris,1226
 30.0,2155749,Joe Wehr,p,Sr,1,1,2020,15204,Minn.-Morris,1226
 9.0,2156026,Ryan Wilhelm,P,So,1,0,2020,15204,Minn.-Morris,1226
@@ -27009,13 +27009,13 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 20.0,2139679,Tyler Taitano,C,So,3,2,2020,15204,St. Mary's  (United East),611
 7.0,2139678,Derek Taitano,INF,Sr,8,8,2020,15204,St. Mary's  (United East),611
 11.0,2139702,Nick Testoni,P,So,4,0,2020,15204,St. Mary's  (United East),611
-6.0,2139703,Brady Waters,INF,So,8,8,2020,15204,St. Mary's  (United East),611
 29.0,2139722,Dillon Waters,P,Sr,8,8,2020,15204,St. Mary's  (United East),611
+6.0,2139703,Brady Waters,INF,So,8,8,2020,15204,St. Mary's  (United East),611
 22.0,2139705,Jake Wills,P,So,3,0,2020,15204,St. Mary's  (United East),611
 3.0,2350663,Jake Wood,OF,Fr,8,8,2020,15204,St. Mary's  (United East),611
 21.0,2350659,Travis Rinker,C,Fr,7,6,2020,15204,St. Mary's  (United East),611
 4.0,2139675,Bowen Plaglee,INF,Sr,8,8,2020,15204,St. Mary's  (United East),611
-45.0,2350577,Ben Atkins,OF,Fr,0,0,2020,15204,St. Mary's  (United East),611
+12.0,1881213,Andrew Atkins,C,Sr,3,0,2020,15204,St. Mary's  (United East),611
 20.0,2001118,Nick Manzoni,1B,Jr,1,0,2020,15204,St. Mary's  (United East),611
 2.0,2350646,Derrick Booker,OF,Fr,0,0,2020,15204,St. Mary's  (United East),611
 31.0,2139651,Bryan Brooks,INF,So,2,0,2020,15204,St. Mary's  (United East),611
@@ -27024,7 +27024,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 14.0,2001123,Andy Collins,SS,Jr,8,6,2020,15204,St. Mary's  (United East),611
 8.0,2005487,Connor Coursey,SS,Jr,5,0,2020,15204,St. Mary's  (United East),611
 10.0,2001081,Jackson Edelman,P,Jr,0,0,2020,15204,St. Mary's  (United East),611
-12.0,1881213,Andrew Atkins,C,Sr,3,0,2020,15204,St. Mary's  (United East),611
+45.0,2350577,Ben Atkins,OF,Fr,0,0,2020,15204,St. Mary's  (United East),611
 46.0,2139667,Jonathan Everidge,INF,So,1,0,2020,15204,St. Mary's  (United East),611
 37.0,2350578,Ethan Gray,P,Fr,0,0,2020,15204,St. Mary's  (United East),611
 18.0,2009337,Diego Grijalva,PH,Jr,0,0,2020,15204,St. Mary's  (United East),611
@@ -27090,8 +27090,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 72,1890449,Nathan Tremore,P,Sr,0,0,2020,15204,MSOE,20220
 37,2133340,Riley Wikel,P,Sr,2,2,2020,15204,MSOE,20220
 8,1982848,Caleb Willert,P,Jr,0,0,2020,15204,MSOE,20220
-14,2133339,Cole Wilson,P,So,0,0,2020,15204,MSOE,20220
 24,1890450,Justin Wilson,P,Sr,3,2,2020,15204,MSOE,20220
+14,2133339,Cole Wilson,P,So,0,0,2020,15204,MSOE,20220
 28,2360545,Micah Overley,P,Fr,7,7,2020,15204,MSOE,20220
 25,2133350,Carson Manning,,So,0,0,2020,15204,MSOE,20220
 34,1982855,Mason Lebreck,P,Jr,2,1,2020,15204,MSOE,20220
@@ -27272,7 +27272,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 38,2310484,Gabe Driscoll,P,Fr,2,0,2020,15204,Binghamton,62
 5,1871104,Justin Drpich,INF,Sr,12,12,2020,15204,Binghamton,62
 14,1990209,Luke Dziados,P,Jr,0,0,2020,15204,Binghamton,62
-17,2006768,Matt Josselyn,P,Jr,2,0,2020,15204,Bridgewater St.,76
+19,1779425,Colin Josselyn,P,Sr,6,5,2020,15204,Bridgewater St.,76
 26,2357576,Luke Tamulevich,SS,Jr,8,8,2020,15204,Bridgewater St.,76
 6,2149996,David Skiendiel,OF,Jr,5,3,2020,15204,Bridgewater St.,76
 12,2357574,Dan Saraceno,1B,Fr,7,5,2020,15204,Bridgewater St.,76
@@ -27299,7 +27299,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 29,2357581,Jake Graham,P,Fr,2,0,2020,15204,Bridgewater St.,76
 25,2150003,Jonathan Livolsi,UT,Sr,6,6,2020,15204,Bridgewater St.,76
 8,2005568,David Kerns,P,Jr,2,2,2020,15204,Bridgewater St.,76
-19,1779425,Colin Josselyn,P,Sr,6,5,2020,15204,Bridgewater St.,76
+17,2006768,Matt Josselyn,P,Jr,2,0,2020,15204,Bridgewater St.,76
 16,2357582,Harrison Loud,P,Fr,2,0,2020,15204,Bridgewater St.,76
 2,2149975,Patrick Cashin,INF,Jr,4,2,2020,15204,Bridgewater St.,76
 33,2302907,Kevin Seckler,P,Fr,3,1,2020,15204,Mercy,407
@@ -27493,8 +27493,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 12,1986432,Wyatt Smith,INF,Jr,16,16,2020,15204,Linfield,1179
 47,2131581,Jared Stark,OF,So,0,0,2020,15204,Linfield,1179
 38,2330312,Cody Stevenson,C,Jr,11,8,2020,15204,Linfield,1179
-50,1986449,Dylan Thomas,INF,Jr,0,0,2020,15204,Linfield,1179
 30,1986450,Austin Thomas,P,Jr,7,0,2020,15204,Linfield,1179
+50,1986449,Dylan Thomas,INF,Jr,0,0,2020,15204,Linfield,1179
 5,1986424,Ben Whitt,INF,Jr,12,9,2020,15204,Linfield,1179
 17,2131553,Thomas Kolander,INF,So,3,1,2020,15204,Linfield,1179
 21,2330278,Cameron Skinner,INF,Fr,13,8,2020,15204,Linfield,1179
@@ -27505,12 +27505,12 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 31,1986446,Zach Cokos,C,Jr,0,0,2020,15204,Linfield,1179
 25,2131552,Brian Cromwell,INF,Sr,13,13,2020,15204,Linfield,1179
 28,2330287,Andrew Del Biaggio,P,Fr,5,1,2020,15204,Linfield,1179
-43,2131560,Treve Earhart,C,So,9,4,2020,15204,Linfield,1179
+2,1986433,Tanner Earhart,OF,Jr,15,15,2020,15204,Linfield,1179
 18,2131551,David Brosius,P,Sr,15,14,2020,15204,Linfield,1179
 27,2330214,Evan Bates,INF,Fr,6,2,2020,15204,Linfield,1179
 52,1881612,Ayden Allen,C,Sr,5,0,2020,15204,Linfield,1179
 45,2131583,Sam Adams,P,So,6,0,2020,15204,Linfield,1179
-2,1986433,Tanner Earhart,OF,Jr,15,15,2020,15204,Linfield,1179
+43,2131560,Treve Earhart,C,So,9,4,2020,15204,Linfield,1179
 23,2330283,Cage Hardy,C,Fr,5,4,2020,15204,Linfield,1179
 51,2330346,Kai Herko,P,Jr,3,0,2020,15204,Linfield,1179
 42,2330341,Jackson Horner,INF,Fr,0,0,2020,15204,Linfield,1179
@@ -27793,8 +27793,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 9,1871666,Cole Muckleroy,OF,Jr,8,5,2020,15204,Ark.-Monticello,8411
 15,2302124,Reed Odland,C,Jr,1,1,2020,15204,Ark.-Monticello,8411
 16,2302125,Riley Perks,OF,Jr,1,1,2020,15204,Ark.-Monticello,8411
-31,2136472,Mason Philley,P,So,7,3,2020,15204,Ark.-Monticello,8411
 25,1976584,Sam Philley,INF,Jr,0,0,2020,15204,Ark.-Monticello,8411
+31,2136472,Mason Philley,P,So,7,3,2020,15204,Ark.-Monticello,8411
 27,2302173,Derek Potts,P,Jr,6,0,2020,15204,Ark.-Monticello,8411
 26,2302126,Austin Powell,C,Jr,5,4,2020,15204,Ark.-Monticello,8411
 22,2302172,Reece Reading,UT,Jr,9,7,2020,15204,Ark.-Monticello,8411
@@ -28119,8 +28119,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 21,2309834,Isaac Mendez,P,Fr,5,5,2020,15204,Azusa Pacific,30146
 17,2129621,Zack Owens,C,Fr,1,0,2020,15204,Azusa Pacific,30146
 50,2129642,Blake Matrone,OF,So,2,0,2020,15204,Azusa Pacific,30146
-19,2309812,Travis Aversa,INF,Jr,16,13,2020,15204,Azusa Pacific,30146
 18,1989190,Tripp Aversa,P,Sr,6,0,2020,15204,Azusa Pacific,30146
+19,2309812,Travis Aversa,INF,Jr,16,13,2020,15204,Azusa Pacific,30146
 35,2129614,Evan Banks,OF,So,8,1,2020,15204,Azusa Pacific,30146
 15,2129620,Ryan Carpenter,OF,Jr,0,0,2020,15204,Azusa Pacific,30146
 2,2309754,Jeffrey Castillo,INF,Fr,15,9,2020,15204,Azusa Pacific,30146
@@ -28322,8 +28322,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 1,2345586,David Hunsberger,OF,Fr,10,10,2020,15204,Eastern,8968
 11,1890674,Jarrett Patman,P,Sr,1,0,2020,15204,Eastern,8968
 11,2345845,Alex Ramirez,INF,Fr,12,12,2020,15204,Rhode Island,572
-30,1888365,Nick Robinson,P,Sr,4,3,2020,15204,Rhode Island,572
 4,2345843,Cooper Robinson,INF,Sr,1,0,2020,15204,Rhode Island,572
+30,1888365,Nick Robinson,P,Sr,4,3,2020,15204,Rhode Island,572
 1,2345842,Tino Salgado,INF,Fr,11,8,2020,15204,Rhode Island,572
 13,1888362,Alex Santos,INF,Jr,5,1,2020,15204,Rhode Island,572
 21,2138264,Nate Seprosky,P,So,2,0,2020,15204,Rhode Island,572
@@ -28506,8 +28506,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 31,1767240,Caleb Hester,P,Sr,4,0,2020,15204,Eastern Mich.,204
 18,1871055,John Holt,P,Sr,3,0,2020,15204,Eastern Mich.,204
 17,2127121,Taylor Hopkins,INF,So,13,13,2020,15204,Eastern Mich.,204
-35,2349387,Trevor House,P,Fr,5,0,2020,15204,Eastern Mich.,204
 33,1982341,Thomas House,P,Jr,4,3,2020,15204,Eastern Mich.,204
+35,2349387,Trevor House,P,Fr,5,0,2020,15204,Eastern Mich.,204
 14,1871056,Nick Jones,UT,Sr,14,14,2020,15204,Eastern Mich.,204
 9,2354107,Tyler Helgeson,UT,Fr,5,0,2020,15204,Eastern Mich.,204
 2,2153068,Matthew Rypkema,INF,So,11,11,2020,15204,Rutgers-Newark,589
@@ -28597,8 +28597,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 8,2121297,Matthew Kimura,INF,Sr,14,14,2020,15204,Colo. Christian,11403
 9,1983284,Justin Kiedinger,P,Sr,4,4,2020,15204,Colo. Christian,11403
 23,1864364,Tyler Henning,P,Sr,4,4,2020,15204,Colo. Christian,11403
-5,1983283,Hunter Hays,2B,Sr,13,12,2020,15204,Colo. Christian,11403
 2,1983307,Heath Hays,OF,Jr,12,11,2020,15204,Colo. Christian,11403
+5,1983283,Hunter Hays,2B,Sr,13,12,2020,15204,Colo. Christian,11403
 26,1864358,Sam Gallegos,1B,Sr,5,4,2020,15204,Colo. Christian,11403
 7,1983309,Tyler Fischer,P,Sr,3,0,2020,15204,Colo. Christian,11403
 14,2321598,Russell Cruz,C,So,5,3,2020,15204,Colo. Christian,11403
@@ -28655,7 +28655,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 42,1977888,Emil Matti,OF,Jr,10,5,2020,15204,Wagner,748
 38,2301308,Henry Martinez,OF,Fr,13,12,2020,15204,Wagner,748
 31,2301320,Dallen Turner,P,Fr,3,0,2020,15204,Wagner,748
-22,1863048,Ryan Lauk,P,Sr,4,4,2020,15204,Wagner,748
+19,1863047,Eric Lauk,OF,Sr,4,2,2020,15204,Wagner,748
 35,1977883,Nick Lepre,P,Jr,6,0,2020,15204,Wagner,748
 28,2301305,Cody Bey,INF,Fr,14,14,2020,15204,Wagner,748
 20,2123878,Justin Beyer,P,Sr,4,0,2020,15204,Wagner,748
@@ -28671,7 +28671,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 18,2123877,Johnny Kampes,C,So,5,1,2020,15204,Wagner,748
 11,2123876,John Lapointe,P,So,4,2,2020,15204,Wagner,748
 27,2123879,Brandon Demma,P,So,5,0,2020,15204,Wagner,748
-19,1863047,Eric Lauk,OF,Sr,4,2,2020,15204,Wagner,748
+22,1863048,Ryan Lauk,P,Sr,4,4,2020,15204,Wagner,748
 28,2002818,Kevin Rodriguez,C,Jr,2,2,2020,15204,Bloomfield,984
 8,2006668,Saul Rufino,INF,Jr,4,0,2020,15204,Bloomfield,984
 10,2348705,Jason Villfane,UT,Fr,0,0,2020,15204,Bloomfield,984
@@ -28777,8 +28777,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 21,2136397,Tristan Peccerelli,3B,Sr,18,18,2020,15204,UVA Wise,30181
 16,2334911,Caleb Pritchard,C,Fr,4,1,2020,15204,UVA Wise,30181
 14,2141622,Bret Roberts,2B,So,21,21,2020,15204,UVA Wise,30181
-30,2331949,Michael Smith,1B,Fr,1,0,2020,15204,UVA Wise,30181
 37,2122004,Christian Smith,P,Jr,1,0,2020,15204,UVA Wise,30181
+30,2331949,Michael Smith,1B,Fr,1,0,2020,15204,UVA Wise,30181
 5,1884066,Will Stamper,P,Sr,3,3,2020,15204,UVA Wise,30181
 29,2141696,Garrett Stiltner,P,So,6,2,2020,15204,UVA Wise,30181
 40,2331953,Blake Stinson,UT,Fr,1,0,2020,15204,UVA Wise,30181
@@ -28798,8 +28798,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 25,2143749,Jeremiah Ball,P,So,4,0,2020,15204,UVA Wise,30181
 17,1880261,Tyler Blaum,C,Jr,21,21,2020,15204,UVA Wise,30181
 20,1881645,Dawson Cagle,3B,Sr,17,17,2020,15204,UVA Wise,30181
-12,2334910,Shawn Campbell,P,Fr,7,4,2020,15204,UVA Wise,30181
 4,2331918,Tyler Campbell,1B,Jr,16,13,2020,15204,UVA Wise,30181
+12,2334910,Shawn Campbell,P,Fr,7,4,2020,15204,UVA Wise,30181
 24,1881655,Matthew Branham,RF,Sr,19,19,2020,15204,UVA Wise,30181
 18,2136396,Ethan Fletcher,OF,Jr,19,18,2020,15204,UVA Wise,30181
 36,2136367,Tyler Hayes,UT,So,9,0,2020,15204,UVA Wise,30181
@@ -28849,13 +28849,13 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 2,2132042,Trace Maddux,SS,Sr,21,19,2020,15204,Arkansas Tech,947
 39,2333440,Marcos Cabranes,ph,Fr,14,12,2020,15204,Arkansas Tech,947
 34,2354565,D'Anthony Beckman,p,Jr,1,0,2020,15204,Arkansas Tech,947
-15,2352448,Seth Smith,P,Fr,2,1,2020,15204,Mount Aloysius,30036
+12,2144846,Cody Smith,OF,So,7,7,2020,15204,Mount Aloysius,30036
 17,1877892,Alan Mackey,C,Sr,2,1,2020,15204,Mount Aloysius,30036
 5,1887017,Patrick Mahon,OF,Sr,5,5,2020,15204,Mount Aloysius,30036
 10,1877878,Michael Mccourt,P,Sr,2,2,2020,15204,Mount Aloysius,30036
 14,1877880,Creek Miller,P,Jr,1,0,2020,15204,Mount Aloysius,30036
 31,1877894,Dj Olenchick,1B,Sr,1,0,2020,15204,Mount Aloysius,30036
-12,2144846,Cody Smith,OF,So,7,7,2020,15204,Mount Aloysius,30036
+15,2352448,Seth Smith,P,Fr,2,1,2020,15204,Mount Aloysius,30036
 34,1877896,Andrew Pasko,OF,Sr,3,2,2020,15204,Mount Aloysius,30036
 43,1998013,Ryan Leonard,OF,Jr,6,6,2020,15204,Mount Aloysius,30036
 33,1877895,Doug Smith,C,Sr,7,6,2020,15204,Mount Aloysius,30036
@@ -28938,8 +28938,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 3,1986442,Kyler Crone,2B,Jr,13,7,2020,15204,San Fran. St.,628
 29,2310365,Theo Dopkins,P,Fr,4,0,2020,15204,San Fran. St.,628
 24,1986469,Cameron Crone,P,Sr,1,0,2020,15204,San Fran. St.,628
-32,2310367,Brody Eglite,P,Fr,4,0,2020,15204,San Fran. St.,628
 33,1986474,Jordyn Eglite,P,Jr,5,5,2020,15204,San Fran. St.,628
+32,2310367,Brody Eglite,P,Fr,4,0,2020,15204,San Fran. St.,628
 12,1986475,Tyler Franks,P,So,5,5,2020,15204,San Fran. St.,628
 20,2310361,Kody Gardner,OF,Jr,11,6,2020,15204,San Fran. St.,628
 2,2129866,Jonah Gonzales,INF,Sr,21,21,2020,15204,San Fran. St.,628
@@ -29283,8 +29283,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 18.0,2121846,Chayson Dulatre,C,So,8,8,2020,15204,Saint Martin's,1343
 6.0,2309493,Scott Gunther,OF,Jr,12,4,2020,15204,Saint Martin's,1343
 5.0,1875104,Isaac Hegamin,INF,Jr,16,16,2020,15204,Saint Martin's,1343
-19.0,2309598,Elijiah Hill,P,Sr,1,1,2020,15204,Saint Martin's,1343
 15.0,2008319,Dakota Hill,UT,Jr,10,5,2020,15204,Saint Martin's,1343
+19.0,2309598,Elijiah Hill,P,Sr,1,1,2020,15204,Saint Martin's,1343
 22.0,1995509,Hunter Holmason,OF,Jr,9,6,2020,15204,Saint Martin's,1343
 32.0,1875113,Tanner Inouye,P,Sr,4,4,2020,15204,Saint Martin's,1343
 31.0,2309610,Max Johnson,P,Fr,2,0,2020,15204,Saint Martin's,1343
@@ -29350,13 +29350,13 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 28,2119192,Kenny Carillo,P,Jr,4,4,2020,15204,Biola,30220
 1,1997099,Cole Beemer,2B,Jr,11,7,2020,15204,Biola,30220
 18,2306336,Rylan Greenlee,OF,So,10,6,2020,15204,Biola,30220
-32,2306337,Carson Cody,P,Fr,0,0,2020,15204,Biola,30220
+12,1992384,Brandon Cody,OF,Jr,4,4,2020,15204,Biola,30220
 22,1993340,Jackson Collins,1B,Jr,8,7,2020,15204,Biola,30220
 23,1997007,Robertanthony Cruz,INF,Jr,14,14,2020,15204,Biola,30220
 3,2119169,Brayden Englert,P,So,2,1,2020,15204,Biola,30220
 44,2333382,Ryan Flippo,p,Fr,1,0,2020,15204,Biola,30220
 13,2119168,Michael Fritchman,OF,So,1,0,2020,15204,Biola,30220
-12,1992384,Brandon Cody,OF,Jr,4,4,2020,15204,Biola,30220
+32,2306337,Carson Cody,P,Fr,0,0,2020,15204,Biola,30220
 22,2152800,Curtis Lilienthal,P,So,2,2,2020,15204,Loras,364
 10,2152801,Julian Lopez,P,So,2,0,2020,15204,Loras,364
 3,2155073,Bill Luzzo,1B,Fr,10,9,2020,15204,Loras,364
@@ -29383,12 +29383,12 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 7,2152517,Joe Egan,1B,So,10,9,2020,15204,Loras,364
 17,1896470,Sean Conneely,P,Sr,2,1,2020,15204,Loras,364
 12,2152758,Edward Erickson,P,So,1,0,2020,15204,Loras,364
-27,1999301,Tanner Fallon,P,Sr,5,0,2020,15204,Loras,364
+18,2306300,Hunter Fallon,P,Fr,0,0,2020,15204,Loras,364
 1,1999300,Luke Fennelly,SS,Jr,10,9,2020,15204,Loras,364
 29,1999304,Ryan Gorman,INF,Sr,9,3,2020,15204,Loras,364
 4,2306271,Mitch Gruber,INF,Fr,2,0,2020,15204,Loras,364
 15,2306314,Jack Enright,,So,4,2,2020,15204,Loras,364
-18,2306300,Hunter Fallon,P,Fr,0,0,2020,15204,Loras,364
+27,1999301,Tanner Fallon,P,Sr,5,0,2020,15204,Loras,364
 28,2141255,Brad Kincaid,P,Sr,3,1,2020,15204,McNeese,402
 31,2141257,Zack May,UT,Jr,0,0,2020,15204,McNeese,402
 21,2331586,Cameron Meeks,P,Fr,4,0,2020,15204,McNeese,402
@@ -29555,7 +29555,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 9,2141368,Luke Douglas,INF,Jr,0,0,2020,15204,Spalding,23260
 54,2350006,Brandon Davis,PR,So,4,3,2020,15204,Spalding,23260
 39,2349543,Carson Crump,1b,Fr,8,4,2020,15204,Spalding,23260
-4,2349519,Marcus Collins,2b,Fr,12,11,2020,15204,Spalding,23260
+7,2350005,Caleb Collins,P,Fr,6,1,2020,15204,Spalding,23260
 10,2349986,Brian Campbell,PH,Jr,8,0,2020,15204,Spalding,23260
 14,1998229,Aaron Blake,P,Jr,3,0,2020,15204,Spalding,23260
 18,1998231,Zane Baker,C,Jr,9,9,2020,15204,Spalding,23260
@@ -29573,7 +29573,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 26,2141373,Harol Matos,INF,Jr,0,0,2020,15204,Spalding,23260
 21,2141370,Cameron Mattingly,P,So,2,0,2020,15204,Spalding,23260
 19,1998234,Zach Jones,P,Sr,4,4,2020,15204,Spalding,23260
-7,2350005,Caleb Collins,P,Fr,6,1,2020,15204,Spalding,23260
+4,2349519,Marcus Collins,2b,Fr,12,11,2020,15204,Spalding,23260
 48,2331929,Zachery Teem,INF,Jr,0,0,2020,15204,Salem  (DII Independent),19117
 41,2116488,Andrew Friend,INF,Jr,0,0,2020,15204,Salem  (DII Independent),19117
 11,2331923,Austin Fontenot,C,Jr,9,5,2020,15204,Salem  (DII Independent),19117
@@ -29640,9 +29640,9 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 29,2132600,Chase Costello,P,So,3,0,2020,15204,LSU,365
 16,2333910,Collier Cranford,INF,Fr,15,11,2020,15204,LSU,365
 17,2333927,Zack Mathis,INF,Jr,17,17,2020,15204,LSU,365
-4,2333922,Cade Doughty,INF,Fr,16,16,2020,15204,LSU,365
-46,2132623,Rye Gunter,P,So,2,0,2020,15204,LSU,365
 45,1991431,Braden Doughty,C,Jr,4,0,2020,15204,LSU,365
+46,2132623,Rye Gunter,P,So,2,0,2020,15204,LSU,365
+4,2333922,Cade Doughty,INF,Fr,16,16,2020,15204,LSU,365
 6,2132617,Gavin Dugas,INF,So,13,7,2020,15204,LSU,365
 28,1991448,Devin Fontenot,P,Jr,7,0,2020,15204,LSU,365
 13,2132595,Saul Garza,C,Jr,14,14,2020,15204,LSU,365
@@ -29693,17 +29693,17 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 19,1888092,Trevor Powers,OF,Sr,5,1,2020,15204,Goldey-Beacom,8366
 4,1869855,Zach Roseman,INF,Sr,8,7,2020,15204,Goldey-Beacom,8366
 7,2128831,Mason Maxwell,INF,So,17,16,2020,15204,Goldey-Beacom,8366
-27,2128841,Carlos Solis,P,Sr,4,0,2020,15204,Goldey-Beacom,8366
+13,2128836,Ivan Solis,C,Sr,14,14,2020,15204,Goldey-Beacom,8366
 37,1988670,Bailey Spence,P,Sr,4,4,2020,15204,Goldey-Beacom,8366
 17,2319895,Luke Taylor,P,Fr,5,1,2020,15204,Goldey-Beacom,8366
-5,1869856,Tevin Thomas,INF,Sr,16,14,2020,15204,Goldey-Beacom,8366
 20,2319888,Troy Thomas,P,Sr,2,1,2020,15204,Goldey-Beacom,8366
+5,1869856,Tevin Thomas,INF,Sr,16,14,2020,15204,Goldey-Beacom,8366
 35,2319891,Hayden Trimarco,P,Fr,0,0,2020,15204,Goldey-Beacom,8366
-13,2128836,Ivan Solis,C,Sr,14,14,2020,15204,Goldey-Beacom,8366
+27,2128841,Carlos Solis,P,Sr,4,0,2020,15204,Goldey-Beacom,8366
 26,1869863,Jake Kinsell,P,Sr,5,1,2020,15204,Goldey-Beacom,8366
 33,1869891,Isaiah Holmes,P,Sr,0,0,2020,15204,Goldey-Beacom,8366
-34,1988669,Trevor Jump,P,Jr,4,4,2020,15204,Goldey-Beacom,8366
 30,2319899,Justin Jump,P,Fr,5,0,2020,15204,Goldey-Beacom,8366
+34,1988669,Trevor Jump,P,Jr,4,4,2020,15204,Goldey-Beacom,8366
 9,2128815,Marshall Awtry,C,So,14,14,2020,15204,Goldey-Beacom,8366
 25,1869888,John Barkley Jr.,P,Sr,3,0,2020,15204,Goldey-Beacom,8366
 2,2000266,Bryan Bell,INF,Jr,12,11,2020,15204,Goldey-Beacom,8366
@@ -29957,8 +29957,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 41,2305152,Jake Rons,P,Fr,4,1,2020,15204,Long Beach St.,99
 10,1979668,Santino Rivera,INF,Jr,15,13,2020,15204,Long Beach St.,99
 27,1884463,Connor Riley,P,Jr,1,0,2020,15204,Long Beach St.,99
-37,2305157,Luis Ramirez,P,Fr,4,4,2020,15204,Long Beach St.,99
 25,2305154,Isaac Ramirez,C,Fr,0,0,2020,15204,Long Beach St.,99
+37,2305157,Luis Ramirez,P,Fr,4,4,2020,15204,Long Beach St.,99
 33,2123307,Tyler Porter,INF,So,11,11,2020,15204,Long Beach St.,99
 35,2305242,Alex Pimentel,OF,Fr,14,4,2020,15204,Long Beach St.,99
 45,2123371,Basilio Pacheco,P,Fr,0,0,2020,15204,Long Beach St.,99
@@ -30332,8 +30332,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 27,2003418,Brett Green,P,Jr,0,0,2020,15204,Bluefield St.,985
 24,2367276,Jacob Cutter,p,Jr,1,0,2020,15204,Bluefield St.,985
 22,2142474,Jasiah Hatch,RF,Fr,0,0,2020,15204,Bluefield St.,985
-11,1884503,Tanner Hill,LF,Sr,0,0,2020,15204,Bluefield St.,985
 14,1994494,H. Hill,SS,Jr,0,0,2020,15204,Bluefield St.,985
+11,1884503,Tanner Hill,LF,Sr,0,0,2020,15204,Bluefield St.,985
 2,2364106,Clay Jordan,PR,Fr,1,0,2020,15204,Bluefield St.,985
 5,1770050,Will Kapke,P,Sr,0,0,2020,15204,Bluefield St.,985
 7,1770056,Isaac Koontz,P,Sr,0,0,2020,15204,Bluefield St.,985
@@ -30691,8 +30691,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 5,2336900,Dayson Croes,INF,Jr,13,13,2020,15204,Quincy,561
 14,1998273,Matt Westphal,C,Jr,7,7,2020,15204,Quincy,561
 46,2130863,Garrett Aylor,P,So,6,0,2020,15204,Richmond,575
-15,2347025,Jeremy Neff,P,Fr,4,4,2020,15204,Richmond,575
 25,2347024,Jason Neff,UT,Fr,0,0,2020,15204,Richmond,575
+15,2347025,Jeremy Neff,P,Fr,4,4,2020,15204,Richmond,575
 18,1774370,Matt Olson,P,Sr,6,0,2020,15204,Richmond,575
 21,1977508,Davis Payne,INF,Jr,2,1,2020,15204,Richmond,575
 16,1993793,Mark Ready,INF,So,15,12,2020,15204,Richmond,575
@@ -30902,8 +30902,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 21,2354382,Kyle Darby,INF,Fr,3,0,2020,15204,Westfield St.,777
 13,2001022,Bryant Dana,C,Jr,4,3,2020,15204,Westfield St.,777
 8,2354325,Spencer Cloutier,INF,Fr,0,0,2020,15204,Westfield St.,777
-19,2354380,Billy Casey,P,Fr,1,0,2020,15204,Westfield St.,777
 22,2354383,Sean Casey,P,Fr,1,0,2020,15204,Westfield St.,777
+19,2354380,Billy Casey,P,Fr,1,0,2020,15204,Westfield St.,777
 15,2001023,Vincenzo Camera,P,Jr,2,1,2020,15204,Westfield St.,777
 11,2126869,Jake Butler,1B,So,3,2,2020,15204,Westfield St.,777
 14,1994734,Shane Bogli,P,Jr,3,3,2020,15204,Westfield St.,777
@@ -30947,8 +30947,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 40,2335706,Justin Stewart,P,Fr,1,0,2020,15204,Crown  (UMAC),30035
 0,2335694,Andrew Sparlin,INF,Fr,2,2,2020,15204,Crown  (UMAC),30035
 11,2335697,Tristan Shoemaker,INF,Fr,6,0,2020,15204,Crown  (UMAC),30035
-35,2151724,Nicholas Schroedle,P,So,6,6,2020,15204,Crown  (UMAC),30035
 25,2151666,Kyle Schroedle,C,So,7,7,2020,15204,Crown  (UMAC),30035
+35,2151724,Nicholas Schroedle,P,So,6,6,2020,15204,Crown  (UMAC),30035
 7,2151716,Bailey Sarto,INF,Sr,7,7,2020,15204,Crown  (UMAC),30035
 8,2151717,Ethan Riley,INF,So,1,0,2020,15204,Crown  (UMAC),30035
 26,2335702,Gregg Patton,OF,Fr,2,0,2020,15204,Crown  (UMAC),30035
@@ -31524,11 +31524,11 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 23.0,2124628,Nick Dufoe,P,So,1,1,2020,15204,Luther,372
 5.0,1987075,Jeffrey Freiberg,P,Jr,0,0,2020,15204,Luther,372
 32.0,1987080,Ross Hingst,P,Jr,4,1,2020,15204,Luther,372
-35.0,2124632,Ryan Hollibaugh,OF,Sr,1,0,2020,15204,Luther,372
+17.0,2321273,Blake Hollibaugh,OF,Fr,0,0,2020,15204,Luther,372
 26.0,2321272,Ghavin James,1B,Fr,1,0,2020,15204,Luther,372
 2.0,2124635,Joe Jersak,OF,So,1,1,2020,15204,Luther,372
 34.0,2124630,Collin Chalmers,P,So,5,1,2020,15204,Luther,372
-17.0,2321273,Blake Hollibaugh,OF,Fr,0,0,2020,15204,Luther,372
+35.0,2124632,Ryan Hollibaugh,OF,Sr,1,0,2020,15204,Luther,372
 9.0,1878889,Trenton Burgreen,INF,Sr,18,18,2020,15204,Shepherd,10870
 17.0,1871349,Mitchell Wilson,P,Sr,6,6,2020,15204,Shepherd,10870
 20.0,2327980,Brady Weaver,P,Fr,0,0,2020,15204,Shepherd,10870
@@ -31749,7 +31749,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 54.0,1895015,Tyler Robbins,P,Sr,3,0,2020,15204,Bethany  (PAC),59
 17.0,2337384,Cory Newman,INF,Fr,6,1,2020,15204,Bethany  (PAC),59
 22.0,2337412,Zach Nolf,P,Fr,3,1,2020,15204,Bethany  (PAC),59
-34.0,2337414,Garrett Long,INF,Fr,0,0,2020,15204,Bethany  (PAC),59
+1.0,1895001,Reed Long,OF,Sr,6,0,2020,15204,Bethany  (PAC),59
 37.0,2337415,Jake Mcglumphy,INF,Fr,1,0,2020,15204,Bethany  (PAC),59
 5.0,1895002,Ryan Anselmino,INF,Sr,12,12,2020,15204,Bethany  (PAC),59
 20.0,2337386,Jakob Bailey,INF,Fr,4,3,2020,15204,Bethany  (PAC),59
@@ -31759,7 +31759,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 9.0,1895003,Tyler Alworth,P,Sr,12,12,2020,15204,Bethany  (PAC),59
 29.0,1895009,Derek Donatelli,INF,Sr,8,4,2020,15204,Bethany  (PAC),59
 33.0,2337388,Kyle D'Angela,P,Fr,1,0,2020,15204,Bethany  (PAC),59
-1.0,1895001,Reed Long,OF,Sr,6,0,2020,15204,Bethany  (PAC),59
+34.0,2337414,Garrett Long,INF,Fr,0,0,2020,15204,Bethany  (PAC),59
 19.0,2337385,Mark Lavezza,P,Fr,4,2,2020,15204,Bethany  (PAC),59
 49.0,1997354,Christian Kampas,C,Jr,3,1,2020,15204,Bethany  (PAC),59
 6.0,1997339,Kyle Goodwin,SS,Jr,13,13,2020,15204,Bethany  (PAC),59
@@ -31793,11 +31793,11 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 47.0,2326600,James Horton,INF,Fr,4,0,2020,15204,Schreiner,1355
 30.0,2135091,Keller Driskill,INF,Jr,6,0,2020,15204,Schreiner,1355
 13.0,1880689,George Elliott,C,Sr,2,0,2020,15204,Schreiner,1355
-5.0,1989414,Dominick Garcia,C,Jr,10,9,2020,15204,Schreiner,1355
 16.0,2135067,Jordan Garcia,P,Sr,4,0,2020,15204,Schreiner,1355
-24.0,2326560,Daniel Garza,P,Fr,1,0,2020,15204,Schreiner,1355
-32.0,2135092,Seth Garza,P,So,0,0,2020,15204,Schreiner,1355
+5.0,1989414,Dominick Garcia,C,Jr,10,9,2020,15204,Schreiner,1355
 40.0,1989415,Rey Garza,P,Jr,8,3,2020,15204,Schreiner,1355
+32.0,2135092,Seth Garza,P,So,0,0,2020,15204,Schreiner,1355
+24.0,2326560,Daniel Garza,P,Fr,1,0,2020,15204,Schreiner,1355
 26.0,1880687,Josh Gilliam,INF,Sr,18,18,2020,15204,Schreiner,1355
 11.0,2135062,Chance Goins,P,So,6,6,2020,15204,Schreiner,1355
 6.0,2326535,Steve Gomez,INF,Fr,6,1,2020,15204,Schreiner,1355
@@ -31904,8 +31904,8 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 40.0,1974527,Angus Mayock,P,Jr,2,1,2020,15204,UConn,164
 10.0,1974507,Colby Dunlop,P,Jr,4,4,2020,15204,UConn,164
 23.0,2318906,Sam Favieri,P,Fr,0,0,2020,15204,UConn,164
-7.0,1974504,Christian Fedko,INF,Jr,13,13,2020,15204,UConn,164
 3.0,2116521,Kyler Fedko,INF,So,13,13,2020,15204,UConn,164
+7.0,1974504,Christian Fedko,INF,Jr,13,13,2020,15204,UConn,164
 12.0,2318846,Kevin Ferrer,OF,So,8,6,2020,15204,UConn,164
 42.0,2318907,Pat Gallagher,P,Fr,4,0,2020,15204,UConn,164
 9.0,1879781,Paul Gozzo,C,Sr,13,13,2020,15204,UConn,164
@@ -32306,7 +32306,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 4.0,2155070,Trevor Lorek,pr,So,0,0,2020,15204,Elmhurst,212
 33.0,2329663,Jaysn Miller,P,So,2,0,2020,15204,Elmhurst,212
 35.0,2158422,Freddie March,ph,So,0,0,2020,15204,Elmhurst,212
-29.0,2306685,Camden Matthews,UT,Fr,11,7,2020,15204,Eastern N.M.,206
+35.0,2306702,Braeton Matthews,UT,Fr,0,0,2020,15204,Eastern N.M.,206
 34.0,2306688,James Romero,UT,Fr,15,11,2020,15204,Eastern N.M.,206
 13.0,2127015,Lawrence Mirabal,C,So,3,0,2020,15204,Eastern N.M.,206
 12.0,2127028,Ross Montoya,INF,So,14,10,2020,15204,Eastern N.M.,206
@@ -32319,7 +32319,7 @@ RS1,2305224,Brady Bowles,UT,Fr,0,0,2020,15204,Northwestern Okla.,30178
 18.0,2306651,Andrew Stockton,UT,Fr,1,1,2020,15204,Eastern N.M.,206
 21.0,2127014,Joel Torres,P,Sr,6,5,2020,15204,Eastern N.M.,206
 1.0,2306664,Shaun Watson,P,So,6,0,2020,15204,Eastern N.M.,206
-35.0,2306702,Braeton Matthews,UT,Fr,0,0,2020,15204,Eastern N.M.,206
+29.0,2306685,Camden Matthews,UT,Fr,11,7,2020,15204,Eastern N.M.,206
 25.0,2127027,Liam Sabiston,P,Jr,7,1,2020,15204,Eastern N.M.,206
 11.0,2306679,Josh Lewis,P,Jr,6,6,2020,15204,Eastern N.M.,206
 6.0,1985915,Ethan Coombes,P,So,6,6,2020,15204,Eastern N.M.,206

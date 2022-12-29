@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,7,8,4,1,1,0,12,11,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,03/09/2021,away,15580,26,Anna Maria,9,True,8,22,-14,loss,2056201,30065,2144347,2021
+1,0,0.0,0.0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,0,0,03/24/2021,away,15580,0,Fisher,9,True,3,4,-1,loss,2060739,30065,2144347,2021
+1,0,0.2,0.0,4,5,3,2,1,0,8,6,1,0,0,1,0,0,0,0,0,0,0,29,0,1,0,1,0,2,0,0,04/15/2021,home,15580,1133,Husson,9,True,1,11,-10,loss,2021051,30065,2144347,2021

@@ -757,8 +757,8 @@ RS,1997404,Zack Henderson,SS,Fr,0,0,2018,12973,Bemidji St.,54
 24,1997381,Owen Anderson,OF,Fr,3,1,2018,12973,Bemidji St.,54
 9,1645616,Mitchell Annis,P,Jr,1,0,2018,12973,Bemidji St.,54
 33,1997383,Jackson Back,P,Fr,7,7,2018,12973,Bemidji St.,54
-26,1865349,Bazil Zuehlke,INF,Sr,25,25,2018,12973,Bemidji St.,54
 RS,2000732,Bay Zuehlke,OF,Fr,0,0,2018,12973,Bemidji St.,54
+26,1865349,Bazil Zuehlke,INF,Sr,25,25,2018,12973,Bemidji St.,54
 23,1865347,Kyle Zierden,P,Sr,2,0,2018,12973,Bemidji St.,54
 20,1865345,Jack Wittwer,INF,Sr,16,6,2018,12973,Bemidji St.,54
 22,1997398,Wyatt White,OF,Fr,12,12,2018,12973,Bemidji St.,54
@@ -3492,8 +3492,8 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 52,1991893,Conrad Holbrook,P,Fr,1,0,2018,12973,Lakeland,1164
 56,1991908,Garrett Hunt,1B,Fr,0,0,2018,12973,Lakeland,1164
 25,1894507,Tayler Johann,P,So,13,0,2018,12973,Lakeland,1164
-5,1894510,Trysten Johnson,OF,So,4,1,2018,12973,Lakeland,1164
 37,1781265,Jordan Johnson,P,So,6,3,2018,12973,Lakeland,1164
+5,1894510,Trysten Johnson,OF,So,4,1,2018,12973,Lakeland,1164
 9,1648969,Christopher Leopold,3B,Sr,6,2,2018,12973,Lakeland,1164
 28,1894509,Dylan Royce,OF,So,3,2,2018,12973,Lakeland,1164
 49,1991905,Collin Schutz,P,Fr,5,4,2018,12973,Lakeland,1164
@@ -4288,7 +4288,7 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 36,1895373,Zach Pipa,P,So,22,0,2018,12973,Wheaton  (NEWC),779
 15,1895081,Nick Raposo,C,So,40,40,2018,12973,Wheaton  (NEWC),779
 24,1895374,Bryant Salkind,INF,So,40,40,2018,12973,Wheaton  (NEWC),779
-32,1987634,Joshua Roberge,P,Fr,0,0,2018,12973,Wheaton  (NEWC),779
+32,1987634,Josh Roberge,P,Fr,0,0,2018,12973,Wheaton  (NEWC),779
 12,1652852,Chris Ruocco,INF,Sr,40,40,2018,12973,Wheaton  (NEWC),779
 22,1987635,Patrick Santorella,OF,Fr,0,0,2018,12973,Wheaton  (NEWC),779
 9,1765296,Jared Sharkey,INF,Jr,40,40,2018,12973,Wheaton  (NEWC),779
@@ -5178,8 +5178,8 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 2,1878533,Brenon Rhodes,INF,Sr,20,1,2018,12973,Lubbock Christian,30177
 29,1984426,Shandon Herrera,P,Fr,12,0,2018,12973,Lubbock Christian,30177
 15,1878538,Nick Hooper,P,Sr,13,0,2018,12973,Lubbock Christian,30177
-18,1984415,Ryan Johnson,P,Jr,14,13,2018,12973,Lubbock Christian,30177
 8,1982476,Callan Johnson,P,Jr,13,13,2018,12973,Lubbock Christian,30177
+18,1984415,Ryan Johnson,P,Jr,14,13,2018,12973,Lubbock Christian,30177
 28,1878540,Reagan Lucia,P,So,9,0,2018,12973,Lubbock Christian,30177
 33,1984417,Connor Mccafferty,OF,Jr,8,2,2018,12973,Lubbock Christian,30177
 9,1982486,Andres Negron,SS,Jr,54,54,2018,12973,Lubbock Christian,30177
@@ -5610,9 +5610,9 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 18.0,1660401,Chad Kuebler,P,Sr,7,0,2018,12973,Baldwin Wallace,46
 21.0,1660410,Matt Koskinen,INF,Sr,6,1,2018,12973,Baldwin Wallace,46
 58.0,1997748,Matt Kocur,P,Jr,1,0,2018,12973,Baldwin Wallace,46
-39.0,1997757,Jake Smith,C,So,1,0,2018,12973,Baldwin Wallace,46
-36.0,1997744,Jeremy Mcclure,P,Fr,6,2,2018,12973,Baldwin Wallace,46
 37.0,1997756,Nick Smith,INF,Fr,16,7,2018,12973,Baldwin Wallace,46
+36.0,1997744,Jeremy Mcclure,P,Fr,6,2,2018,12973,Baldwin Wallace,46
+39.0,1997757,Jake Smith,C,So,1,0,2018,12973,Baldwin Wallace,46
 10.0,1778712,Racco Dilauro,DH,So,0,0,2018,12973,Baldwin Wallace,46
 15.0,1777728,Griffin Watterson,INF,Jr,13,6,2018,12973,Baldwin Wallace,46
 28.0,1782724,Asa Adams,C,Jr,20,6,2018,12973,Baldwin Wallace,46
@@ -6044,14 +6044,14 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 23.0,2003866,Devin Turrell,P,So,8,0,2018,12973,SUNY Poly,9500
 9.0,2003854,Noah Valvo,P,Fr,10,2,2018,12973,SUNY Poly,9500
 4.0,1781040,Jacob Vanbeber,P,Jr,8,1,2018,12973,SUNY Poly,9500
-15.0,2003859,Seth Vanderbeck,OF,Fr,26,16,2018,12973,SUNY Poly,9500
+30.0,2003831,Noah Vanderbeck,UT,Jr,23,15,2018,12973,SUNY Poly,9500
 10.0,1668938,Matt Fippinger,OF,Sr,26,22,2018,12973,SUNY Poly,9500
 99.0,2003826,B F,UT,Sr,0,0,2018,12973,SUNY Poly,9500
 8.0,1781045,Dalton Earl,OF,Jr,24,22,2018,12973,SUNY Poly,9500
 11.0,1894218,Bradley Dietz,INF,So,14,8,2018,12973,SUNY Poly,9500
 24.0,2003829,John Andrews,INF,Jr,27,25,2018,12973,SUNY Poly,9500
 13.0,1668665,Joshua Rodriguez,INF,Sr,27,27,2018,12973,SUNY Poly,9500
-30.0,2003831,Noah Vanderbeck,UT,Jr,23,15,2018,12973,SUNY Poly,9500
+15.0,2003859,Seth Vanderbeck,OF,Fr,26,16,2018,12973,SUNY Poly,9500
 5.0,1781664,Brett Flint,P,Sr,7,3,2018,12973,SUNY Poly,9500
 7.0,2003827,Zachary France,C,Fr,3,0,2018,12973,SUNY Poly,9500
 22,1865627,Will Van Beusekom,P,So,9,0,2018,12973,Marist,386
@@ -6512,11 +6512,11 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 34,1989201,Benjamin Wiegand,P,Fr,3,0,2018,12973,Ball St.,47
 31,1989199,John Ricotta,1B,Jr,56,42,2018,12973,Ball St.,47
 8,1874514,Justin Kirkpatrick,INF,Sr,54,49,2018,12973,Ball St.,47
-16,1639833,T.J. Baker,P,Jr,17,0,2018,12973,Ball St.,47
+32,1989175,William Baker,OF,Jr,53,50,2018,12973,Ball St.,47
 37,1989195,Lukas Jaksich,P,So,16,1,2018,12973,Ball St.,47
 5,1989178,Drey Jameson,OF,Fr,34,20,2018,12973,Ball St.,47
 25,1874526,John Baker,P,So,15,15,2018,12973,Ball St.,47
-32,1989175,William Baker,OF,Jr,53,50,2018,12973,Ball St.,47
+16,1639833,T.J. Baker,P,Jr,17,0,2018,12973,Ball St.,47
 11,1874515,Erek Bolton,C,So,1,1,2018,12973,Ball St.,47
 9,1639815,Colin Brockhouse,OF,Sr,58,58,2018,12973,Ball St.,47
 30,1639849,Brendan Burns,P,Sr,0,0,2018,12973,Ball St.,47
@@ -7891,8 +7891,8 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 17,1671515,Mark Webber,OF,Sr,45,45,2018,12973,Babson,45
 1,2003254,Jack Ward,INF,Fr,6,0,2018,12973,Babson,45
 34,2003256,Ryan Vatcher,P,Fr,2,0,2018,12973,Babson,45
-36,1893788,John Theriault,P,So,3,0,2018,12973,Babson,45
 0,2009592,Theriault,P,,1,0,2018,12973,Babson,45
+36,1893788,John Theriault,P,So,3,0,2018,12973,Babson,45
 28,1782188,Max Tannenbaum,P,Jr,20,0,2018,12973,Babson,45
 22,1893787,Zack Sette,P,So,4,0,2018,12973,Babson,45
 24,1893784,Hunter Salem,P,So,1,0,2018,12973,Babson,45
@@ -8905,7 +8905,7 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 40,2009239,Hampton Thomas,P,Jr,2,0,2018,12973,Shenandoah,637
 41,1889312,Gerard Dephillips,P,So,11,6,2018,12973,Shenandoah,637
 60,2002588,Keegan Woolford,DH,Jr,44,43,2018,12973,Shenandoah,637
-58,2009010,Steven Baker,P,Fr,1,0,2018,12973,Shenandoah,637
+7,1774677,Tristan Baker,2B,Jr,47,47,2018,12973,Shenandoah,637
 34,2012769,Ty Bennett,C,Fr,1,0,2018,12973,Shenandoah,637
 32,1889311,Michael Bugonowicz,P,Sr,19,5,2018,12973,Shenandoah,637
 99,2010170,R C,UT,Sr,0,0,2018,12973,Shenandoah,637
@@ -8913,7 +8913,7 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 27,1775627,Ryan Coulon,INF,Jr,1,0,2018,12973,Shenandoah,637
 58,1889248,Michael Cruz,OF,So,17,2,2018,12973,Shenandoah,637
 13,2009009,Jonathan Dance,P,Sr,14,0,2018,12973,Shenandoah,637
-7,1774677,Tristan Baker,2B,Jr,47,47,2018,12973,Shenandoah,637
+58,2009010,Steven Baker,P,Fr,1,0,2018,12973,Shenandoah,637
 8,2001000,Henry Delavergne,OF,Fr,47,45,2018,12973,Shenandoah,637
 24,2000995,David Delawder,3B,Jr,7,5,2018,12973,Shenandoah,637
 48,2001005,Cole Dubois,P,Jr,11,0,2018,12973,Shenandoah,637
@@ -9196,8 +9196,8 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 3,1658158,Rodney Corbin,INF,Sr,45,45,2018,12973,Texas-Dallas,23121
 1,1658164,Josh Covey,OF,Sr,37,37,2018,12973,Texas-Dallas,23121
 6,1883453,Thomas Craig,OF,Jr,35,35,2018,12973,Texas-Dallas,23121
-29,1770598,Michael Deacon,P,Sr,15,0,2018,12973,Texas-Dallas,23121
 18,1782190,Mathew Deacon,C,Sr,22,19,2018,12973,Texas-Dallas,23121
+29,1770598,Michael Deacon,P,Sr,15,0,2018,12973,Texas-Dallas,23121
 39,1887239,Junior Escobar,P,So,5,0,2018,12973,Texas-Dallas,23121
 27,1990610,Nick Gambirasi,P,Fr,0,0,2018,12973,Texas-Dallas,23121
 12,1658161,Norman Cordova,INF,Sr,13,11,2018,12973,Texas-Dallas,23121
@@ -10308,8 +10308,8 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 4,1762463,Derek Penman,OF,Jr,38,38,2018,12973,John Carroll,320
 17,2007271,Erich Payne,P,Fr,6,0,2018,12973,John Carroll,320
 28,2010155,Did Not Play,P,Fr,7,0,2018,12973,John Carroll,320
-24,1887747,Freddy Moore,P,So,8,8,2018,12973,John Carroll,320
 24,1887794,Eli Moore,C,So,4,1,2018,12973,John Carroll,320
+24,1887747,Freddy Moore,P,So,8,8,2018,12973,John Carroll,320
 99,2006463,Dominic Mittiga,UT,Sr,0,0,2018,12973,John Carroll,320
 53,1762487,Rodrigo Sarmiento,P,Jr,0,0,2018,12973,John Carroll,320
 8,2002124,Mike Mccarty,2B,Fr,34,30,2018,12973,John Carroll,320
@@ -12195,8 +12195,8 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 16,1751213,Eli Wisdom,OF,Jr,16,10,2018,12973,Pacific  (NWC),2751
 4,1985580,Bryce Wlodarchak,P,Fr,14,3,2018,12973,Pacific  (NWC),2751
 50,1878253,Paul Wolfram,P,Sr,13,11,2018,12973,Pacific  (NWC),2751
-25,1878235,Dylan Wright,DH,Jr,40,40,2018,12973,Pacific  (NWC),2751
 15,1985581,Hayden Wright,OF,Jr,16,1,2018,12973,Pacific  (NWC),2751
+25,1878235,Dylan Wright,DH,Jr,40,40,2018,12973,Pacific  (NWC),2751
 60,1878256,Ryan Yoder,P,Sr,7,0,2018,12973,Pacific  (NWC),2751
 34,1878244,Joey Galeno,OF,Sr,38,37,2018,12973,Pacific  (NWC),2751
 26,1878236,C.J. Friedman,P,So,0,0,2018,12973,Pacific  (NWC),2751
@@ -12275,7 +12275,7 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 10,1753269,Ryan Johnston,OF,So,36,8,2018,12973,UC Irvine,109
 36,1862857,Adrian Damla,INF,So,34,12,2018,12973,UC Irvine,109
 30.0,1666364,Andrew Whalen,P,Sr,18,0,2018,12973,NVU-Lyndon,30065
-22.0,1666356,David Laroche,C,Sr,33,15,2018,12973,NVU-Lyndon,30065
+27.0,1999399,Caleb Laroche,1B,Fr,16,10,2018,12973,NVU-Lyndon,30065
 25.0,1559823,Mike Loverde,1B,Sr,3,1,2018,12973,NVU-Lyndon,30065
 3.0,1775560,Ian Machia,INF,Sr,22,14,2018,12973,NVU-Lyndon,30065
 6.0,1890963,James Mundy,P,Jr,10,10,2018,12973,NVU-Lyndon,30065
@@ -12290,7 +12290,7 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 20.0,1890966,Tucker Root,1B,So,12,2,2018,12973,NVU-Lyndon,30065
 9.0,1890964,Codi Smith,OF,So,39,39,2018,12973,NVU-Lyndon,30065
 29.0,1775562,Matthew Tritto,P,So,0,0,2018,12973,NVU-Lyndon,30065
-27.0,1999399,Caleb Laroche,1B,Fr,16,10,2018,12973,NVU-Lyndon,30065
+22.0,1666356,David Laroche,C,Sr,33,15,2018,12973,NVU-Lyndon,30065
 33.0,1890970,Dean Kohanek,P,So,0,0,2018,12973,NVU-Lyndon,30065
 11.0,1999398,Abe Kovall,OF,Fr,3,2,2018,12973,NVU-Lyndon,30065
 26.0,1775571,Zak Johnson,P,Jr,40,37,2018,12973,NVU-Lyndon,30065
@@ -12431,9 +12431,9 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 5,1874873,Kaelan Ashford-Jones,C,So,29,25,2018,12973,Morehouse,445
 8,1761513,Jordan Davis,P,So,37,26,2018,12973,Morehouse,445
 7,1987469,Michael Bell,2B,Fr,3,0,2018,12973,Morehouse,445
-19,1987472,Derrick Odom,OF,Fr,7,4,2018,12973,Morehouse,445
-6,1987468,Noah Mcmillan,INF,Fr,5,0,2018,12973,Morehouse,445
 4,1987467,Winston Odom,C,Sr,16,11,2018,12973,Morehouse,445
+6,1987468,Noah Mcmillan,INF,Fr,5,0,2018,12973,Morehouse,445
+19,1987472,Derrick Odom,OF,Fr,7,4,2018,12973,Morehouse,445
 10,1761515,Benjamin Phillips,P,Jr,2,0,2018,12973,Morehouse,445
 26,1987473,Mekhi Rutledge,OF,Fr,0,0,2018,12973,Morehouse,445
 2,1761517,Kristopher Skinner,P,Jr,21,10,2018,12973,Morehouse,445
@@ -14635,9 +14635,9 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 41,2006259,Justin Stromski,PH/1B,Fr,3,0,2018,12973,Southern N.H.,468
 28,2002568,Idelson Taveras,PH/CF,,40,11,2018,12973,Southern N.H.,468
 33,2002710,Wesley Tobin,P,So,18,0,2018,12973,Southern N.H.,468
-16,1659133,Jake Walkinshaw,P,Sr,13,4,2018,12973,Southern N.H.,468
 15,1780950,Joshua Zbierski,C,Jr,29,20,2018,12973,Southern N.H.,468
 30,1891519,Brendan Welch,P,So,17,0,2018,12973,Southern N.H.,468
+38,1894739,Scott Webster,P,So,0,0,2018,12973,Southern N.H.,468
 19,2002570,Sean Doherty,PH/3B,,8,0,2018,12973,Southern N.H.,468
 29,1659122,Rob Del Signore,P,Sr,0,0,2018,12973,Southern N.H.,468
 26,1896408,Joe Desarro,P,Sr,0,0,2018,12973,Southern N.H.,468
@@ -14645,8 +14645,8 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 21,1891516,Ryan Sullivan,3B,Sr,55,55,2018,12973,Southern N.H.,468
 23,1891517,Caleb Potter,OF,Sr,55,55,2018,12973,Southern N.H.,468
 36,1659134,Mike Pineda-O'Donnell,P,Jr,0,0,2018,12973,Southern N.H.,468
-8,1896655,Jake Coro,2B,So,29,16,2018,12973,Southern N.H.,468
 24,1777797,Bobby Fulkerson,3B,Jr,0,0,2018,12973,Southern N.H.,468
+8,1896655,Jake Coro,2B,So,29,16,2018,12973,Southern N.H.,468
 20,1780462,Connor Gavin,P,So,0,0,2018,12973,Southern N.H.,468
 9,1892287,Joshua Goldstein,INF,So,47,42,2018,12973,Southern N.H.,468
 31,1894741,Alex Gomes,P,So,0,0,2018,12973,Southern N.H.,468
@@ -14667,13 +14667,13 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 2,1891515,Kyle Pangallo,SS,Sr,58,58,2018,12973,Southern N.H.,468
 37,1659132,Andrew Lalonde,P,Sr,14,13,2018,12973,Southern N.H.,468
 10,1659123,Ivon Clough,P,Sr,7,0,2018,12973,Southern N.H.,468
-4,1659111,Sean Webster,OF,Sr,0,0,2018,12973,Southern N.H.,468
+16,1659133,Jake Walkinshaw,P,Sr,13,4,2018,12973,Southern N.H.,468
 1,2001426,Thomas Buonopane,CF,Sr,55,49,2018,12973,Southern N.H.,468
 7,1892132,Tom Blandini,SS,So,58,58,2018,12973,Southern N.H.,468
 27,1892299,Nick Artymowicz,P,So,13,0,2018,12973,Southern N.H.,468
 29,2001446,Jordy Allard,P,Fr,5,0,2018,12973,Southern N.H.,468
 5,1780622,Kevin Alexy,1B,Jr,10,5,2018,12973,Southern N.H.,468
-38,1894739,Scott Webster,P,So,0,0,2018,12973,Southern N.H.,468
+4,1659111,Sean Webster,OF,Sr,0,0,2018,12973,Southern N.H.,468
 38,1892131,Nick Camilleri,C,Jr,0,0,2018,12973,Southern N.H.,468
 42,1891928,Austin Straley,OF,So,14,0,2018,12973,Kalamazoo,326
 44,1779143,Garrett Swanson,P,Jr,22,0,2018,12973,Kalamazoo,326
@@ -15528,8 +15528,8 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 17,1770711,Noah Payne,INF,Jr,37,32,2018,12973,Howard Payne,2741
 36,2005434,Kyle Purdes,P,Fr,9,0,2018,12973,Howard Payne,2741
 28,2009588,Kassidy Ramon,3B,Fr,9,3,2018,12973,Howard Payne,2741
-6,1992742,Jacob Rodriguez,2B,Jr,36,34,2018,12973,Howard Payne,2741
 41,1992783,Evan Rodriguez,P,Jr,13,0,2018,12973,Howard Payne,2741
+6,1992742,Jacob Rodriguez,2B,Jr,36,34,2018,12973,Howard Payne,2741
 9,1770712,Zachary Rodriquez,OF,Jr,0,0,2018,12973,Howard Payne,2741
 41,1896794,Bradley Ruiz,PR,So,0,0,2018,12973,Howard Payne,2741
 19,1770714,Jacob Salazar,INF,Jr,19,15,2018,12973,Howard Payne,2741
@@ -16299,9 +16299,9 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 44,1885127,Jenner Jackson,P,Sr,13,4,2018,12973,UIW,2743
 28,1997194,Tyler Pettit,C,Fr,36,33,2018,12973,UIW,2743
 22,1885126,Lee Thomas,INF,So,44,43,2018,12973,UIW,2743
-6,1757369,Ryan Gonzalez,INF,Jr,47,46,2018,12973,UIW,2743
-45,1997218,Jake Zatopek,P,Fr,12,8,2018,12973,UIW,2743
 21,1757368,Eddy Gonzalez,OF,Jr,55,55,2018,12973,UIW,2743
+45,1997218,Jake Zatopek,P,Fr,12,8,2018,12973,UIW,2743
+6,1757369,Ryan Gonzalez,INF,Jr,47,46,2018,12973,UIW,2743
 16,1885084,Kyler Genenbacher,OF,So,12,5,2018,12973,UIW,2743
 27,1997193,Johnny Foral,P,Fr,1,0,2018,12973,UIW,2743
 31,1885123,Nolan Ellis,P,Jr,6,0,2018,12973,UIW,2743
@@ -16316,8 +16316,8 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 32,1997217,Kendall Achilles,INF,Fr,0,0,2018,12973,UIW,2743
 11,1543834,Mark Whitehead,OF,Sr,42,42,2018,12973,UIW,2743
 30,1997195,Ryan Flores,INF,Fr,44,41,2018,12973,UIW,2743
-3,1997211,Shea Gutierrez,INF,Fr,35,23,2018,12973,UIW,2743
 29,1757370,Sam Gutierrez,INF,So,16,3,2018,12973,UIW,2743
+3,1997211,Shea Gutierrez,INF,Fr,35,23,2018,12973,UIW,2743
 8,1997496,Robbie Merced,INF,Fr,0,0,2018,12973,Missouri St.,669
 24,1873662,Drew Millas,C,So,57,57,2018,12973,Missouri St.,669
 50,1873663,Alex Moore,P,So,0,0,2018,12973,Missouri St.,669
@@ -16521,7 +16521,7 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 10,1862543,Chandler Fidel,P,So,16,15,2018,12973,Little Rock,32
 2,1976425,Eldrige Figueroa,INF,Fr,18,13,2018,12973,Little Rock,32
 8,1976382,Chase Coker,INF,Jr,55,55,2018,12973,Little Rock,32
-9,2007711,Kino Gray,LF,Fr,27,20,2018,12973,Anna Maria,26
+22,1660351,Nate Gray,INF,Sr,3,1,2018,12973,Anna Maria,26
 12,2007686,Sean Nugent,P,Fr,6,0,2018,12973,Anna Maria,26
 26,2002993,Colin Pipkin,P,Jr,13,10,2018,12973,Anna Maria,26
 55,2002979,Justin Robbins,C,Fr,34,25,2018,12973,Anna Maria,26
@@ -16536,7 +16536,7 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 23,1660352,Tanner Jakola,P,Sr,40,35,2018,12973,Anna Maria,26
 33,1877246,Greg Gehring,C,So,34,33,2018,12973,Anna Maria,26
 16,2006635,Cam Hartman,2B,Fr,5,0,2018,12973,Anna Maria,26
-22,1660351,Nate Gray,INF,Sr,3,1,2018,12973,Anna Maria,26
+9,2007711,Kino Gray,LF,Fr,27,20,2018,12973,Anna Maria,26
 330,2002977,G G,UT,Sr,0,0,2018,12973,Anna Maria,26
 3,2006636,Jeff Falk,SS,Fr,20,11,2018,12973,Anna Maria,26
 18,2002982,Liam Cunningham,P,Fr,10,4,2018,12973,Anna Maria,26
@@ -18920,9 +18920,9 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 43,1987148,Cal Villareal,OF,Fr,0,0,2018,12973,New Mexico St.,472
 9,1773284,Roman Trujillo,INF,Jr,0,0,2018,12973,New Mexico St.,472
 14,1987121,Brock Whittlesey,P,Jr,28,3,2018,12973,New Mexico St.,472
-27,1987122,Brenden Williams,INF,Fr,7,1,2018,12973,New Mexico St.,472
 26,1987149,Braden Williams,C,Jr,29,21,2018,12973,New Mexico St.,472
 32,1884631,Cooper Williams,INF,So,6,2,2018,12973,New Mexico St.,472
+27,1987122,Brenden Williams,INF,Fr,7,1,2018,12973,New Mexico St.,472
 42,1987145,Eric Mingus,INF,Jr,13,0,2018,12973,New Mexico St.,472
 33,1987150,Kyle Wullenweber,P,Fr,4,0,2018,12973,New Mexico St.,472
 23,1773283,Brett Worthen,P,Sr,2,0,2018,12973,New Mexico St.,472
@@ -22666,8 +22666,8 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 41,1875927,Jackson Gore,P,So,3,0,2018,12973,SFA,676
 34,1985811,Sean Beasley,P,Fr,13,9,2018,12973,SFA,676
 30,1985806,Skylar Black,C,So,48,42,2018,12973,SFA,676
-16,1764452,Seth Campbell,P,Jr,3,3,2018,12973,SFA,676
 11,1875922,Josh Campbell,INF,So,46,37,2018,12973,SFA,676
+16,1764452,Seth Campbell,P,Jr,3,3,2018,12973,SFA,676
 32,1648182,Aaron Cardona,P,So,8,0,2018,12973,SFA,676
 22,1985744,Logan Ammons,P,So,15,0,2018,12973,SFA,676
 28,1985788,Carson Chapman,OF,Fr,0,0,2018,12973,SFA,676
@@ -26124,7 +26124,7 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 54.0,2005204,Brian Schoenborn,P,Fr,2,0,2018,12973,Concordia-M'head,161
 40.0,2005200,Luke Schultz,OF,Fr,0,0,2018,12973,Concordia-M'head,161
 13.0,1892963,Nate Sillerud,INF,Sr,25,24,2018,12973,Concordia-M'head,161
-28.0,1892972,Dylan Olsonawski,P,So,0,0,2018,12973,Concordia-M'head,161
+37.0,1892973,Drew Olsonawski,P,So,8,0,2018,12973,Concordia-M'head,161
 25.0,1892967,Alex Erickson,P,So,8,7,2018,12973,Concordia-M'head,161
 8.0,1892709,Brett Swanson,OF,Sr,20,7,2018,12973,Concordia-M'head,161
 15.0,1892712,Ty Syverson,P,So,7,6,2018,12973,Concordia-M'head,161
@@ -26136,7 +26136,7 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 2.0,2005196,Beau Wilmer,INF,Fr,6,2,2018,12973,Concordia-M'head,161
 26.0,1668645,Turner Storm,INF,Sr,36,35,2018,12973,Concordia-M'head,161
 30.0,1892969,Jake Stilwell,P,Jr,13,9,2018,12973,Concordia-M'head,161
-37.0,1892973,Drew Olsonawski,P,So,8,0,2018,12973,Concordia-M'head,161
+28.0,1892972,Dylan Olsonawski,P,So,0,0,2018,12973,Concordia-M'head,161
 1.0,1666447,Zack Nelson,P,Sr,15,0,2018,12973,Concordia-M'head,161
 5.0,1892715,Brett Erickson,OF,So,12,7,2018,12973,Concordia-M'head,161
 41.0,2005169,Cy Flick,C,Fr,0,0,2018,12973,Concordia-M'head,161
@@ -27481,8 +27481,8 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 11,1779418,Chandler Furtado,3B,Jr,2,1,2018,12973,Bridgewater St.,76
 23,1665197,Drew Gentile,C,Sr,11,11,2018,12973,Bridgewater St.,76
 20,1889558,Justin Jacobsen,P,Jr,0,0,2018,12973,Bridgewater St.,76
-29,1779425,Colin Josselyn,P,Fr,5,3,2018,12973,Bridgewater St.,76
 17,2006768,Matt Josselyn,P,Fr,4,1,2018,12973,Bridgewater St.,76
+29,1779425,Colin Josselyn,P,Fr,5,3,2018,12973,Bridgewater St.,76
 10,1779419,Ryan Kelleher,OF,Sr,24,24,2018,12973,Bridgewater St.,76
 1,1889551,Tyler Morini,2B,Sr,27,27,2018,12973,Bridgewater St.,76
 5,2006752,Matt Lauria,C,Fr,2,1,2018,12973,Bridgewater St.,76
@@ -28911,10 +28911,10 @@ RS,1997403,Chad Benham,INF,Fr,0,0,2018,12973,Bemidji St.,54
 26,1778361,Patrick Haas,P,Jr,10,1,2018,12973,Bloomfield,984
 29,1778362,Shayne Shekon,P,Jr,5,0,2018,12973,Bloomfield,984
 9,2006668,Saul Rufino,PR,,10,2,2018,12973,Bloomfield,984
-5,2004931,Jhoan Rodriguez,PH,,31,24,2018,12973,Bloomfield,984
 11,2007322,Eric Rodriguez,P,,7,0,2018,12973,Bloomfield,984
 16,1893931,Carlos Rodriguez,P,So,6,2,2018,12973,Bloomfield,984
 28,2002818,Kevin Rodriguez,CF,,20,13,2018,12973,Bloomfield,984
+5,2004931,Jhoan Rodriguez,PH,,31,24,2018,12973,Bloomfield,984
 7,1668028,Juan Reina,INF,Sr,42,39,2018,12973,Bloomfield,984
 22,1893550,Kendon Strachan,INF,So,26,19,2018,12973,Bloomfield,984
 18,1668031,Isaac Pichardo,OF,Sr,23,20,2018,12973,Bloomfield,984

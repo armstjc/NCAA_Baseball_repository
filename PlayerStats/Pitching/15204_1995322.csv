@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/14/2020,home,15204,202,Eastern Ky.,9,True,9,10,-1,loss,9 - 10,4926865,1320,1,1.2,0,5,5,5,2,3,0,11,9,3,1,0,0,0,0,0,0,0,0,0,39,0,1,0,0,0,2,2,0,1995322,2020
-02/19/2020,away,15204,648,South Carolina,9,True,3,14,-11,loss,3 - 14,4932308,1320,1,3.0,0,9,9,5,2,0,0,21,18,0,0,0,0,2,0,0,0,0,0,1,73,4,4,0,1,0,1,0,0,1995322,2020
-02/26/2020,away,15204,489,N.C. Central,9,True,1,4,-3,loss,1 - 4,4940197,1320,1,5.1,0,5,3,2,5,3,0,25,19,0,0,0,0,1,0,0,0,0,1,0,80,7,3,0,1,0,1,0,0,1995322,2020
-03/01/2020,home,15204,513,Notre Dame,9,True,0,9,-9,loss,0 - 9,4945405,1320,1,2.1,0,1,0,0,2,2,0,10,7,0,0,0,0,0,0,0,2,1,1,0,33,4,1,0,0,0,2,0,0,1995322,2020
-03/04/2020,away,15204,2915,Wofford,9,True,5,23,-18,loss,5 - 23,4949277,1320,1,1.0,0,2,4,4,4,1,0,9,5,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,4,1,0,1995322,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.2,0.0,5,5,5,2,3,0,11,9,3,1,0,0,0,0,0,0,0,0,0,39,0,1,0,0,0,2,2,0,02/14/2020,home,15204,202,Eastern Ky.,9,True,9,10,-1,loss,1830186,1320,1995322,2020
+1,1,3.0,0.0,9,9,5,2,0,0,21,18,0,0,0,0,2,0,0,0,0,0,1,73,4,4,0,1,0,1,0,0,02/19/2020,away,15204,648,South Carolina,9,True,3,14,-11,loss,1831075,1320,1995322,2020
+1,1,5.1,0.0,5,3,2,5,3,0,25,19,0,0,0,0,1,0,0,0,0,1,0,80,7,3,0,1,0,1,0,0,02/26/2020,away,15204,489,N.C. Central,9,True,1,4,-3,loss,1832257,1320,1995322,2020
+1,0,2.1,0.0,1,0,0,2,2,0,10,7,0,0,0,0,0,0,0,2,1,1,0,33,4,1,0,0,0,2,0,0,03/01/2020,home,15204,513,Notre Dame,9,True,0,9,-9,loss,1833049,1320,1995322,2020
+1,0,1.0,0.0,2,4,4,4,1,0,9,5,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,4,1,0,03/04/2020,away,15204,2915,Wofford,9,True,5,23,-18,loss,1833543,1320,1995322,2020

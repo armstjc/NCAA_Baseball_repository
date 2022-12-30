@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/15/2020,home,15204,559,Purdue,9,True,4,10,-6,loss,4 - 10,4935804,283,1,0.2,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,1,1,0,1,7,0,1,0,0,0,3,0,0,2117598,2020
-02/22/2020,away,15204,340,La Salle,9,True,3,14,-11,loss,3 - 14,4935689,283,1,0.2,0,1,2,0,3,1,0,7,4,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,2117598,2020
-02/28/2020,home,15204,782,Wichita St.,9,True,10,19,-9,loss,10 - 19,4942514,283,1,0.2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,5,0,0,2117598,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,1,1,0,1,7,0,1,0,0,0,3,0,0,02/15/2020,neutral,15204,559,Purdue,9,True,4,10,-6,loss,1848759,283,2117598,2020
+1,0,0.2,0.0,1,2,0,3,1,0,7,4,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,02/22/2020,away,15204,340,La Salle,9,True,3,14,-11,loss,1848958,283,2117598,2020
+1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,5,0,0,02/28/2020,neutral,15204,782,Wichita St.,9,True,10,19,-9,loss,1832318,283,2117598,2020

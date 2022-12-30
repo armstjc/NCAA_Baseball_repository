@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/16/2020,away,15204,257,Georgia,9,True,4,5,-1,loss,4 - 5,4929896,575,1,1.0,0,0,0,0,1,0,0,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,5,0,0,2130839,2020
-02/18/2020,home,15204,317,James Madison,9,True,4,12,-8,loss,4 - 12,4931653,575,1,1.0,0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,2130839,2020
-02/23/2020,home,15204,352,Lehigh,9,True,5,8,-3,loss,5 - 8,4938023,575,1,1.0,0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,1,1,0,0,0,1,2,0,0,0,5,0,0,2130839,2020
-02/25/2020,home,15204,165,Coppin St.,9,True,1,11,-10,loss,1 - 11,4939226,575,1,0.1,0,2,3,3,3,1,0,6,3,1,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,6,0,0,2130839,2020
-02/28/2020,home,15204,251,Georgetown,10,True,8,11,-3,loss,8 - 11,4941861,575,1,0.2,0,2,4,4,4,1,0,8,4,0,0,0,1,0,0,0,0,0,0,0,34,0,1,0,1,0,5,1,0,2130839,2020
-03/10/2020,away,15204,48,Charleston So.,9,True,6,4,2,win,6 - 4,4956944,575,1,1.0,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,0,1,0,0,0,2,2,0,2130839,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,1,0,0,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,5,0,0,02/16/2020,away,15204,257,Georgia,9,True,4,5,-1,loss,1830845,575,2130839,2020
+1,0,1.0,0.0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,02/18/2020,home,15204,317,James Madison,9,True,4,12,-8,loss,1830954,575,2130839,2020
+1,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,1,1,0,0,0,1,2,0,0,0,5,0,0,02/23/2020,home,15204,352,Lehigh,9,True,5,8,-3,loss,1831880,575,2130839,2020
+1,0,0.1,0.0,2,3,3,3,1,0,6,3,1,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,6,0,0,02/25/2020,home,15204,165,Coppin St.,9,True,1,11,-10,loss,1832095,575,2130839,2020
+1,0,0.2,0.0,2,4,4,4,1,0,8,4,0,0,0,1,0,0,0,0,0,0,0,34,0,1,0,1,0,5,1,0,02/28/2020,home,15204,251,Georgetown,10,True,8,11,-3,loss,1832351,575,2130839,2020
+1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,0,1,0,0,0,2,2,0,03/10/2020,away,15204,48,Charleston So.,9,True,6,4,2,win,1835004,575,2130839,2020

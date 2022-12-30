@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/25/2020,home,15204,248,George Mason,9,True,13,3,10,win,13 - 3,4939362,392,1,5.0,0,4,1,1,1,2,0,20,19,1,0,0,0,0,0,0,0,0,0,0,66,9,2,0,0,0,1,0,0,1881207,2020
-03/04/2020,home,15204,180,Delaware,9,True,13,6,7,win,13 - 6,4948938,392,1,4.1,0,3,5,5,3,3,0,20,16,0,0,0,0,0,1,0,0,0,0,0,72,6,4,0,0,0,1,1,0,1881207,2020
-03/11/2020,home,15204,317,James Madison,9,True,2,4,-2,loss,2 - 4,4957837,392,1,4.0,0,4,4,4,1,2,0,17,15,0,0,0,2,1,0,0,0,0,1,0,72,7,3,0,1,0,1,0,0,1881207,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,5.0,0.0,4,1,1,1,2,0,20,19,1,0,0,0,0,0,0,0,0,0,0,66,9,2,0,0,0,1,0,0,02/25/2020,home,15204,248,George Mason,9,True,13,3,10,win,1832147,392,1881207,2020
+1,1,4.1,0.0,3,5,5,3,3,0,20,16,0,0,0,0,0,1,0,0,0,0,0,72,6,4,0,0,0,1,1,0,03/04/2020,home,15204,180,Delaware,9,True,13,6,7,win,1833580,392,1881207,2020
+1,1,4.0,0.0,4,4,4,1,2,0,17,15,0,0,0,2,1,0,0,0,0,1,0,72,7,3,0,1,0,1,0,0,03/11/2020,home,15204,317,James Madison,9,True,2,4,-2,loss,1835192,392,1881207,2020

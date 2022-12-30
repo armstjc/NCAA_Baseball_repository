@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/15/2020,home,15204,67,Boston College,9,True,5,8,-3,loss,5 - 8,4929789,503,1,3.0,0,7,4,3,2,2,0,17,13,2,0,0,1,1,0,0,0,0,0,2,0,1,5,0,0,0,1,2,0,2134566,2020
-02/22/2020,away,15204,654,Southeast Mo. St.,10,True,15,16,-1,loss,15 - 16,4936316,503,1,5.0,0,5,3,3,4,2,0,24,20,0,0,0,1,0,0,0,0,0,0,0,89,5,6,0,0,0,1,1,0,2134566,2020
-02/28/2020,home,15204,136,Chicago St.,9,True,4,3,1,win,4 - 3,4941845,503,1,2.0,0,2,2,2,4,2,0,12,7,1,0,0,0,1,0,0,0,0,0,1,0,0,4,0,0,0,1,1,0,2134566,2020
-03/11/2020,away,15204,434,Missouri,12,True,2,3,-1,loss,2 - 3,4958155,503,1,6.1,0,2,1,1,2,4,0,23,21,1,0,0,1,1,0,0,0,0,0,0,71,7,7,0,0,0,1,2,0,2134566,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,3.0,0.0,7,4,3,2,2,0,17,13,2,0,0,1,1,0,0,0,0,0,2,0,1,5,0,0,0,1,2,0,02/15/2020,neutral,15204,67,Boston College,9,True,5,8,-3,loss,1848760,503,2134566,2020
+1,1,5.0,0.0,5,3,3,4,2,0,24,20,0,0,0,1,0,0,0,0,0,0,0,89,5,6,0,0,0,1,1,0,02/22/2020,away,15204,654,Southeast Mo. St.,10,True,15,16,-1,loss,1849696,503,2134566,2020
+1,1,2.0,0.0,2,2,2,4,2,0,12,7,1,0,0,0,1,0,0,0,0,0,1,0,0,4,0,0,0,1,1,0,02/28/2020,neutral,15204,136,Chicago St.,9,True,4,3,1,win,1832314,503,2134566,2020
+1,1,6.1,0.0,2,1,1,2,4,0,23,21,1,0,0,1,1,0,0,0,0,0,0,71,7,7,0,0,0,1,2,0,03/11/2020,away,15204,434,Missouri,12,True,2,3,-1,loss,1835228,503,2134566,2020

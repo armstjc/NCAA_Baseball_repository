@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/15/2020,home,15204,740,VCU,11,True,5,4,1,win,5 - 4,4929614,458,1,4.1,0,4,2,2,3,5,0,19,16,2,0,0,0,2,0,0,0,0,0,0,69,4,3,0,0,0,1,0,0,2118016,2020
-02/22/2020,home,15204,391,UMBC,9,True,6,1,5,win,6 - 1,4934964,458,1,8.0,0,2,1,0,2,4,0,32,25,0,0,0,0,0,3,0,0,0,1,1,104,11,9,1,0,0,1,2,0,2118016,2020
-02/29/2020,home,15204,603,St. John's (NY),9,True,6,5,1,win,6 - 5,4944047,458,1,7.0,0,3,2,2,2,7,0,26,24,2,0,0,1,0,0,0,0,0,0,0,99,6,8,0,0,0,1,4,0,2118016,2020
-03/07/2020,home,15204,196,East Carolina,9,True,5,15,-10,loss,5 - 15,4952882,458,1,5.0,0,11,10,7,2,4,0,32,24,3,0,0,1,0,3,0,0,0,3,0,98,7,3,0,1,0,1,1,0,2118016,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.1,0.0,4,2,2,3,5,0,19,16,2,0,0,0,2,0,0,0,0,0,0,69,4,3,0,0,0,1,0,0,02/15/2020,home,15204,740,VCU,11,True,5,4,1,win,1830629,458,2118016,2020
+1,1,8.0,0.0,2,1,0,2,4,0,32,25,0,0,0,0,0,3,0,0,0,1,1,104,11,9,1,0,0,1,2,0,02/22/2020,home,15204,391,UMBC,9,True,6,1,5,win,1831533,458,2118016,2020
+1,1,7.0,0.0,3,2,2,2,7,0,26,24,2,0,0,1,0,0,0,0,0,0,0,99,6,8,0,0,0,1,4,0,02/29/2020,home,15204,603,St. John's (NY),9,True,6,5,1,win,1832896,458,2118016,2020
+1,1,5.0,0.0,11,10,7,2,4,0,32,24,3,0,0,1,0,3,0,0,0,3,0,98,7,3,0,1,0,1,1,0,03/07/2020,home,15204,196,East Carolina,9,True,5,15,-10,loss,1834342,458,2118016,2020

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/18/2020,away,15204,629,San Francisco,9,True,0,6,-6,loss,0 - 6,4931794,108,1,0.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,6,0,0,2137729,2020
-02/22/2020,home,15204,493,North Dakota St.,9,True,3,2,1,win,3 - 2,4936241,108,1,0.2,0,0,0,0,0,1,0,2,2,0,0,0,0,1,0,0,1,0,0,0,12,0,1,0,0,0,3,1,0,2137729,2020
-03/01/2020,home,15204,370,LMU (CA),9,True,6,10,-4,loss,6 - 10,4947311,108,1,2.2,0,3,2,0,1,5,0,12,11,1,0,0,0,3,0,0,2,2,0,0,54,1,2,0,0,0,4,1,0,2137729,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,6,0,0,02/18/2020,away,15204,629,San Francisco,9,True,0,6,-6,loss,1830955,108,2137729,2020
+1,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,1,0,0,1,0,0,0,12,0,1,0,0,0,3,1,0,02/22/2020,home,15204,493,North Dakota St.,9,True,3,2,1,win,1847907,108,2137729,2020
+1,0,2.2,0.0,3,2,0,1,5,0,12,11,1,0,0,0,3,0,0,2,2,0,0,54,1,2,0,0,0,4,1,0,03/01/2020,home,15204,370,LMU (CA),9,True,6,10,-4,loss,1832965,108,2137729,2020

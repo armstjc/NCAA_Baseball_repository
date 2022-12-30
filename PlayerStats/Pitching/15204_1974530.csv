@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.0,0.0,3,2,0,2,6,0,19,16,2,0,0,0,0,0,0,0,0,1,0,77,2,4,0,1,0,1,1,0,02/14/2020,neutral,15204,90,Cal Poly,9,True,0,5,-5,loss,1830172,164,1974530,2020
+1,1,0.2,0.0,1,5,4,4,1,0,8,2,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,02/21/2020,neutral,15204,418,Michigan,9,True,8,7,1,win,1831215,164,1974530,2020
+1,1,4.1,0.0,3,1,1,4,4,0,19,14,0,0,0,1,0,1,0,0,0,0,0,89,1,6,0,0,0,1,0,0,02/28/2020,away,15204,474,New Orleans,9,True,3,8,-5,loss,1832558,164,1974530,2020
+1,1,6.0,0.0,3,1,0,3,12,0,25,21,1,0,0,0,1,1,0,0,0,0,0,108,2,3,1,0,0,1,4,0,03/07/2020,away,15204,1320,Presbyterian,9,True,7,1,6,win,1834271,164,1974530,2020

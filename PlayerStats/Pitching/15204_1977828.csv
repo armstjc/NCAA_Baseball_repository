@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.0,0.0,2,0,0,0,2,0,10,10,0,0,0,0,0,0,0,0,0,0,0,25,5,1,0,0,0,2,0,0,02/21/2020,home,15204,606,Saint Joseph's,9,True,2,4,-2,loss,1831277,149,1977828,2020
+1,0,1.0,0.0,2,1,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,25,1,0,0,0,0,3,0,0,02/23/2020,home,15204,768,West Virginia,9,True,14,2,12,win,1832065,149,1977828,2020
+1,0,3.0,0.0,1,0,0,0,4,0,9,9,0,0,0,0,0,0,0,2,0,0,0,47,3,2,1,0,0,2,0,0,03/01/2020,home,15204,392,Maryland,9,True,3,2,1,win,1833169,149,1977828,2020
+1,0,3.0,0.0,3,0,0,0,2,0,10,10,0,0,0,0,0,0,0,0,0,0,0,26,5,0,0,0,0,2,0,0,03/08/2020,home,15204,419,Middle Tenn.,9,True,8,1,7,win,1834631,149,1977828,2020
+1,0,1.0,0.0,1,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,16,3,0,0,0,0,6,0,0,03/11/2020,home,15204,749,Wake Forest,9,True,10,4,6,win,1835220,149,1977828,2020

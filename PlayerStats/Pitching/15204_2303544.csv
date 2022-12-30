@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/21/2020,home,15204,487,North Ala.,9,True,8,2,6,win,8 - 2,4933835,508,1,1.0,0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,21,1,0,0,0,0,2,1,0,2303544,2020
-02/26/2020,away,15204,671,Louisiana,9,True,10,8,2,win,10 - 8,4940481,508,1,1.2,0,4,3,3,0,0,0,10,9,0,0,0,0,0,1,0,0,0,0,0,35,3,2,0,0,0,4,0,0,2303544,2020
-03/03/2020,away,15204,665,Southern U.,10,True,7,8,-1,loss,7 - 8,4948501,508,1,1.0,0,2,3,0,0,3,0,7,7,0,0,0,0,1,0,0,2,2,0,0,27,0,1,0,0,0,3,0,0,2303544,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,21,1,0,0,0,0,2,1,0,02/21/2020,home,15204,487,North Ala.,9,True,8,2,6,win,1831375,508,2303544,2020
+1,0,1.2,0.0,4,3,3,0,0,0,10,9,0,0,0,0,0,1,0,0,0,0,0,35,3,2,0,0,0,4,0,0,02/26/2020,away,15204,671,Louisiana,9,True,10,8,2,win,1832251,508,2303544,2020
+1,0,1.0,0.0,2,3,0,0,3,0,7,7,0,0,0,0,1,0,0,2,2,0,0,27,0,1,0,0,0,3,0,0,03/03/2020,away,15204,665,Southern U.,10,True,7,8,-1,loss,1833467,508,2303544,2020

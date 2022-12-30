@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/17/2020,away,15204,536,UTRGV,9,True,9,2,7,win,9 - 2,4931274,327,1,5.1,0,2,1,1,2,7,0,20,17,0,0,0,0,0,1,0,0,0,0,0,81,3,5,1,0,0,1,4,0,1882150,2020
-02/26/2020,away,15204,782,Wichita St.,9,True,1,2,-1,loss,1 - 2,4940055,327,1,4.2,0,5,2,2,5,4,0,23,18,1,0,0,1,1,0,0,0,0,0,0,85,4,5,0,1,0,1,1,0,1882150,2020
-03/07/2020,away,15204,674,Stanford,9,True,11,1,10,win,11 - 1,4953447,327,1,3.2,0,5,1,1,1,3,0,16,15,1,0,0,0,2,0,0,0,0,0,0,55,3,4,0,0,0,1,0,0,1882150,2020
-03/11/2020,home,15204,649,South Dakota St.,9,True,10,0,10,win,10 - 0,4958033,327,1,1.0,0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,4,0,0,1882150,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,5.1,0.0,2,1,1,2,7,0,20,17,0,0,0,0,0,1,0,0,0,0,0,81,3,5,1,0,0,1,4,0,02/17/2020,away,15204,536,UTRGV,9,True,9,2,7,win,1830938,327,1882150,2020
+1,1,4.2,0.0,5,2,2,5,4,0,23,18,1,0,0,1,1,0,0,0,0,0,0,85,4,5,0,1,0,1,1,0,02/26/2020,away,15204,782,Wichita St.,9,True,1,2,-1,loss,1832214,327,1882150,2020
+1,1,3.2,0.0,5,1,1,1,3,0,16,15,1,0,0,0,2,0,0,0,0,0,0,55,3,4,0,0,0,1,0,0,03/07/2020,away,15204,674,Stanford,9,True,11,1,10,win,1847744,327,1882150,2020
+1,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,4,0,0,03/11/2020,home,15204,649,South Dakota St.,9,True,10,0,10,win,1835219,327,1882150,2020

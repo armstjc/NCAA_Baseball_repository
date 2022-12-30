@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/16/2020,away,15204,457,North Carolina,9,True,4,5,-1,loss,4 - 5,4930616,419,1,2.0,0,2,3,3,3,1,0,13,8,1,0,0,0,2,2,0,0,0,0,0,48,2,2,0,1,0,1,0,0,2312227,2020
-02/23/2020,home,15204,669,Missouri St.,9,True,4,0,4,win,4 - 0,4937813,419,1,5.2,0,3,0,0,0,5,0,21,20,0,1,0,0,0,1,0,0,0,0,0,0,4,8,1,0,0,1,2,0,2312227,2020
-03/01/2020,away,15204,718,Tulane,9,True,7,11,-4,loss,7 - 11,4945919,419,1,0.0,0,0,3,2,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,1,0,1,0,0,2312227,2020
-03/08/2020,away,15204,149,Coastal Carolina,9,True,1,8,-7,loss,1 - 8,4954243,419,1,4.2,0,6,5,5,2,4,0,22,20,0,0,0,2,0,0,0,0,0,0,0,86,3,8,0,1,0,1,1,0,2312227,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,2.0,0.0,2,3,3,3,1,0,13,8,1,0,0,0,2,2,0,0,0,0,0,48,2,2,0,1,0,1,0,0,02/16/2020,away,15204,457,North Carolina,9,True,4,5,-1,loss,1830853,419,2312227,2020
+1,1,5.2,0.0,3,0,0,0,5,0,21,20,0,1,0,0,0,1,0,0,0,0,0,0,4,8,1,0,0,1,2,0,02/23/2020,home,15204,669,Missouri St.,9,True,4,0,4,win,1831794,419,2312227,2020
+1,1,0.0,0.0,0,3,2,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,1,0,1,0,0,03/01/2020,away,15204,718,Tulane,9,True,7,11,-4,loss,1833138,419,2312227,2020
+1,1,4.2,0.0,6,5,5,2,4,0,22,20,0,0,0,2,0,0,0,0,0,0,0,86,3,8,0,1,0,1,1,0,03/08/2020,away,15204,149,Coastal Carolina,9,True,1,8,-7,loss,1834631,419,2312227,2020

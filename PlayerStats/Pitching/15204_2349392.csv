@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/15/2020,away,15204,43,Austin Peay,9,True,6,7,-1,loss,6 - 7,4928712,204,1,0.2,0,1,2,2,2,2,0,5,3,0,0,0,0,1,0,0,0,0,0,0,24,0,0,0,1,0,3,1,0,2349392,2020
-02/22/2020,home,15204,545,Pittsburgh,9,True,4,10,-6,loss,4 - 10,4935923,204,1,0.2,0,0,4,4,4,2,0,6,2,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,2,2,0,2349392,2020
-02/25/2020,away,15204,28755,FGCU,9,True,2,3,-1,loss,2 - 3,4939594,204,1,3.0,0,3,0,0,2,4,0,15,11,0,0,0,0,1,1,0,0,0,1,0,66,2,3,0,0,0,2,1,0,2349392,2020
-02/29/2020,home,15204,500,Northeastern,9,True,1,6,-5,loss,1 - 6,4943769,204,1,1.2,0,2,1,1,2,1,0,9,7,1,0,0,0,0,0,0,0,0,0,0,36,0,4,0,0,0,2,1,0,2349392,2020
-03/01/2020,home,15204,500,Northeastern,9,True,7,17,-10,loss,7 - 17,4945219,204,1,1.0,0,5,5,2,0,0,0,9,7,3,0,0,0,0,0,0,0,0,0,2,24,0,3,0,0,0,5,0,0,2349392,2020
-03/08/2020,away,15204,140,Cincinnati,9,True,2,14,-12,loss,2 - 14,4954239,204,1,1.0,0,0,0,0,3,2,0,5,2,0,0,0,0,1,0,0,0,0,0,0,26,0,0,0,0,0,5,2,0,2349392,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,1,2,2,2,2,0,5,3,0,0,0,0,1,0,0,0,0,0,0,24,0,0,0,1,0,3,1,0,02/15/2020,away,15204,43,Austin Peay,9,True,6,7,-1,loss,1830507,204,2349392,2020
+1,0,0.2,0.0,0,4,4,4,2,0,6,2,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,2,2,0,02/22/2020,neutral,15204,545,Pittsburgh,9,True,4,10,-6,loss,1831438,204,2349392,2020
+1,0,3.0,0.0,3,0,0,2,4,0,15,11,0,0,0,0,1,1,0,0,0,1,0,66,2,3,0,0,0,2,1,0,02/25/2020,away,15204,28755,FGCU,9,True,2,3,-1,loss,1832182,204,2349392,2020
+1,0,1.2,0.0,2,1,1,2,1,0,9,7,1,0,0,0,0,0,0,0,0,0,0,36,0,4,0,0,0,2,1,0,02/29/2020,neutral,15204,500,Northeastern,9,True,1,6,-5,loss,1832602,204,2349392,2020
+1,0,1.0,0.0,5,5,2,0,0,0,9,7,3,0,0,0,0,0,0,0,0,0,2,24,0,3,0,0,0,5,0,0,03/01/2020,neutral,15204,500,Northeastern,9,True,7,17,-10,loss,1832994,204,2349392,2020
+1,0,1.0,0.0,0,0,0,3,2,0,5,2,0,0,0,0,1,0,0,0,0,0,0,26,0,0,0,0,0,5,2,0,03/08/2020,away,15204,140,Cincinnati,9,True,2,14,-12,loss,1834640,204,2349392,2020

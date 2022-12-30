@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/14/2020,away,15204,235,Florida,9,True,2,9,-7,loss,2 - 9,4926386,388,1,3.2,0,7,4,4,1,5,0,19,18,2,0,0,0,0,0,0,0,0,0,0,62,1,5,0,1,0,1,2,0,17667260,2020
-02/21/2020,home,15204,71,Bowling Green,9,True,3,5,-2,loss,3 - 5,4955340,388,1,4.0,0,4,3,2,2,8,0,19,16,2,0,0,0,1,0,0,0,0,1,0,78,3,2,0,1,0,1,4,0,17667260,2020
-02/29/2020,home,15204,116,Canisius,9,True,2,3,-1,loss,2 - 3,4943516,388,1,6.0,0,5,3,1,2,5,0,26,22,2,0,0,0,0,0,0,0,0,2,0,0,6,7,0,1,0,1,1,0,17667260,2020
-03/07/2020,home,15204,5,Akron,9,True,3,1,2,win,3 - 1,4957415,388,1,6.2,0,3,1,1,1,11,0,25,24,0,0,0,1,0,0,0,0,0,0,0,93,2,7,1,0,0,1,4,0,17667260,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,3.2,0.0,7,4,4,1,5,0,19,18,2,0,0,0,0,0,0,0,0,0,0,62,1,5,0,1,0,1,2,0,02/14/2020,away,15204,235,Florida,9,True,2,9,-7,loss,1830348,388,1766726,2020
+1,1,4.0,0.0,4,3,2,2,8,0,19,16,2,0,0,0,1,0,0,0,0,1,0,78,3,2,0,1,0,1,4,0,02/21/2020,neutral,15204,71,Bowling Green,9,True,3,5,-2,loss,1831440,388,1766726,2020
+1,1,6.0,0.0,5,3,1,2,5,0,26,22,2,0,0,0,0,0,0,0,0,2,0,0,6,7,0,1,0,1,1,0,02/29/2020,home,15204,116,Canisius,9,True,2,3,-1,loss,1848590,388,1766726,2020
+1,1,6.2,0.0,3,1,1,1,11,0,25,24,0,0,0,1,0,0,0,0,0,0,0,93,2,7,1,0,0,1,4,0,03/07/2020,home,15204,5,Akron,9,True,3,1,2,win,1834259,388,1766726,2020

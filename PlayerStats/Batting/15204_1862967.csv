@@ -1,8 +1,8 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,stats_player_seq,season
-02/21/2020,home,15204,305,Indiana St.,9,True,0,1,-1,loss,0 - 1,4933710,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1862967,2020
-02/22/2020,home,15204,136,Chicago St.,9,True,6,2,4,win,6 - 2,4936005,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1862967,2020
-02/22/2020,home,15204,136,Chicago St.,9,True,0,3,-3,loss,0 - 3,4937255,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1862967,2020
-02/23/2020,home,15204,464,Omaha,9,True,8,1,7,win,8 - 1,4937278,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1862967,2020
-02/28/2020,away,15204,746,Virginia,9,True,1,20,-19,loss,1 - 20,4941958,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1862967,2020
-02/29/2020,away,15204,746,Virginia,9,True,4,12,-8,loss,4 - 12,4943409,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1862967,2020
-03/01/2020,away,15204,746,Virginia,9,True,3,4,-1,loss,3 - 4,4945398,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1862967,2020
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/21/2020,neutral,15204,305,Indiana St.,9,True,0,1,-1,loss,1831260,172,1862967,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/22/2020,neutral,15204,136,Chicago St.,9,True,6,2,4,win,1968378,172,1862967,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/22/2020,neutral,15204,136,Chicago St.,9,True,0,3,-3,loss,1968379,172,1862967,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2020,neutral,15204,464,Omaha,9,True,8,1,7,win,1831807,172,1862967,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/28/2020,away,15204,746,Virginia,9,True,1,20,-19,loss,1832397,172,1862967,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/29/2020,away,15204,746,Virginia,9,True,4,12,-8,loss,1832758,172,1862967,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,746,Virginia,9,True,3,4,-1,loss,1833066,172,1862967,2020

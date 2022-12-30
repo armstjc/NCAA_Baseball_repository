@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/16/2020,away,15204,1004,Central Ark.,9,True,2,5,-3,loss,2 - 5,4929961,669,1,3.2,0,7,4,4,2,4,0,20,18,1,0,0,1,0,0,0,0,0,0,0,0,2,5,0,1,0,1,1,0,2122639,2020
-02/23/2020,away,15204,419,Middle Tenn.,9,True,0,4,-4,loss,0 - 4,4937813,669,1,3.1,0,5,3,3,2,4,0,17,13,1,0,0,0,1,0,0,0,0,1,1,0,2,4,0,1,0,1,0,0,2122639,2020
-03/01/2020,away,15204,574,Rice,9,True,1,5,-4,loss,1 - 5,4945847,669,1,4.1,0,7,4,4,2,3,0,23,17,1,0,0,1,0,2,0,0,0,1,1,83,5,4,0,1,0,1,2,0,2122639,2020
-03/07/2020,home,15204,380,Maine,9,True,2,4,-2,loss,2 - 4,4952593,669,1,2.2,0,2,0,0,2,1,0,11,9,0,0,0,0,0,0,0,3,2,0,0,44,4,2,0,0,0,2,0,0,2122639,2020
-03/11/2020,home,15204,660,SIUE,9,True,13,3,10,win,13 - 3,4957773,669,1,5.1,0,5,1,1,0,4,0,20,20,2,0,0,0,0,0,0,0,0,0,0,61,6,5,1,0,0,1,1,0,2122639,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,3.2,0.0,7,4,4,2,4,0,20,18,1,0,0,1,0,0,0,0,0,0,0,0,2,5,0,1,0,1,1,0,02/16/2020,away,15204,1004,Central Ark.,9,True,2,5,-3,loss,1830686,669,2122639,2020
+1,1,3.1,0.0,5,3,3,2,4,0,17,13,1,0,0,0,1,0,0,0,0,1,1,0,2,4,0,1,0,1,0,0,02/23/2020,away,15204,419,Middle Tenn.,9,True,0,4,-4,loss,1831794,669,2122639,2020
+1,1,4.1,0.0,7,4,4,2,3,0,23,17,1,0,0,1,0,2,0,0,0,1,1,83,5,4,0,1,0,1,2,0,03/01/2020,away,15204,574,Rice,9,True,1,5,-4,loss,1833141,669,2122639,2020
+1,0,2.2,0.0,2,0,0,2,1,0,11,9,0,0,0,0,0,0,0,3,2,0,0,44,4,2,0,0,0,2,0,0,03/07/2020,home,15204,380,Maine,9,True,2,4,-2,loss,1834011,669,2122639,2020
+1,1,5.1,0.0,5,1,1,0,4,0,20,20,2,0,0,0,0,0,0,0,0,0,0,61,6,5,1,0,0,1,1,0,03/11/2020,home,15204,660,SIUE,9,True,13,3,10,win,1835165,669,2122639,2020

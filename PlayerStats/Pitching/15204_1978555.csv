@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/16/2020,home,15204,308,Purdue Fort Wayne,9,True,11,8,3,win,11 - 8,4930574,363,1,3.1,0,3,3,3,2,6,0,15,13,2,0,0,0,2,0,0,1,0,0,0,0,1,3,0,0,1,3,4,0,1978555,2020
-02/23/2020,home,15204,471,NJIT,9,True,5,17,-12,loss,5 - 17,4937627,363,1,3.2,0,3,2,2,3,2,0,16,12,0,0,0,1,1,0,0,2,0,0,1,71,5,3,0,0,0,2,1,0,1978555,2020
-02/29/2020,home,15204,62,Binghamton,9,True,7,2,5,win,7 - 2,4943221,363,1,2.0,0,3,2,2,1,3,0,10,9,0,0,0,1,0,0,0,2,0,0,0,48,1,2,1,0,0,2,1,0,1978555,2020
-03/03/2020,away,15204,694,Tennessee,9,True,2,28,-26,loss,2 - 28,4952625,363,1,1.1,0,4,4,4,2,0,0,10,7,2,0,0,0,1,0,0,1,0,0,1,46,0,4,0,0,0,3,0,0,1978555,2020
-03/07/2020,home,15204,308,Purdue Fort Wayne,9,True,4,9,-5,loss,4 - 9,4951756,363,1,3.1,0,2,1,1,2,2,0,14,12,0,0,0,0,1,0,0,0,0,0,0,57,4,4,0,0,0,2,0,0,1978555,2020
-03/11/2020,home,15204,489,N.C. Central,9,True,5,14,-9,loss,5 - 14,4957915,363,1,0.2,0,1,1,0,2,2,0,6,4,0,0,0,0,1,0,0,0,0,0,0,25,0,0,0,0,0,2,0,0,1978555,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.1,0.0,3,3,3,2,6,0,15,13,2,0,0,0,2,0,0,1,0,0,0,0,1,3,0,0,1,3,4,0,02/16/2020,home,15204,308,Purdue Fort Wayne,9,True,11,8,3,win,1830764,363,1978555,2020
+1,0,3.2,0.0,3,2,2,3,2,0,16,12,0,0,0,1,1,0,0,2,0,0,1,71,5,3,0,0,0,2,1,0,02/23/2020,home,15204,471,NJIT,9,True,5,17,-12,loss,1831878,363,1978555,2020
+1,0,2.0,0.0,3,2,2,1,3,0,10,9,0,0,0,1,0,0,0,2,0,0,0,48,1,2,1,0,0,2,1,0,02/29/2020,home,15204,62,Binghamton,9,True,7,2,5,win,1832671,363,1978555,2020
+1,0,1.1,0.0,4,4,4,2,0,0,10,7,2,0,0,0,1,0,0,1,0,0,1,46,0,4,0,0,0,3,0,0,03/03/2020,away,15204,694,Tennessee,9,True,2,28,-26,loss,1833477,363,1978555,2020
+1,0,3.1,0.0,2,1,1,2,2,0,14,12,0,0,0,0,1,0,0,0,0,0,0,57,4,4,0,0,0,2,0,0,03/07/2020,neutral,15204,308,Purdue Fort Wayne,9,True,4,9,-5,loss,1834110,363,1978555,2020
+1,0,0.2,0.0,1,1,0,2,2,0,6,4,0,0,0,0,1,0,0,0,0,0,0,25,0,0,0,0,0,2,0,0,03/11/2020,home,15204,489,N.C. Central,9,True,5,14,-9,loss,1835188,363,1978555,2020

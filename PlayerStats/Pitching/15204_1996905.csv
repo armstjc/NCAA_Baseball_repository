@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/14/2020,home,15204,732,Utah,9,True,6,4,2,win,6 - 4,4926189,108,1,5.1,0,6,3,3,2,2,0,24,22,1,0,0,0,0,0,0,0,0,0,0,82,2,12,0,0,0,1,0,0,1996905,2020
-02/20/2020,home,15204,493,North Dakota St.,9,True,6,2,4,win,6 - 2,4933168,108,1,5.2,0,6,2,2,8,3,0,30,21,1,0,0,0,1,0,0,0,0,1,0,104,4,9,1,0,0,1,1,0,1996905,2020
-02/28/2020,home,15204,370,LMU (CA),24,True,4,3,1,win,4 - 3,4944149,108,1,4.0,0,2,2,0,2,1,0,18,15,0,0,1,0,0,1,0,0,0,0,0,84,4,6,0,0,0,1,0,0,1996905,2020
-03/06/2020,home,15204,450,Mount St. Mary's,9,True,5,2,3,win,5 - 2,4951816,108,1,6.0,0,6,2,0,2,3,0,24,22,2,0,0,0,0,0,0,0,0,0,0,92,8,4,1,0,0,1,2,0,1996905,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,5.1,0.0,6,3,3,2,2,0,24,22,1,0,0,0,0,0,0,0,0,0,0,82,2,12,0,0,0,1,0,0,02/14/2020,home,15204,732,Utah,9,True,6,4,2,win,1830230,108,1996905,2020
+1,1,5.2,0.0,6,2,2,8,3,0,30,21,1,0,0,0,1,0,0,0,0,1,0,104,4,9,1,0,0,1,1,0,02/20/2020,home,15204,493,North Dakota St.,9,True,6,2,4,win,1831106,108,1996905,2020
+1,1,4.0,0.0,2,2,0,2,1,0,18,15,0,0,1,0,0,1,0,0,0,0,0,84,4,6,0,0,0,1,0,0,02/28/2020,home,15204,370,LMU (CA),24,True,4,3,1,win,1832289,108,1996905,2020
+1,1,6.0,0.0,6,2,0,2,3,0,24,22,2,0,0,0,0,0,0,0,0,0,0,92,8,4,1,0,0,1,2,0,03/06/2020,home,15204,450,Mount St. Mary's,9,True,5,2,3,win,1833693,108,1996905,2020

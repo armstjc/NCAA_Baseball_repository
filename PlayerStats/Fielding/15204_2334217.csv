@@ -1,8 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
-0,0,0,0,0,0,0,0,0,0,02/14/2020,neutral,15204,287,Houston Baptist,9,True,7,1,6,win,1830155,502,2334217,2020
+0,0,0,0,0,0,0,0,0,0,02/14/2020,neutral,15204,287,Houston Christian,9,True,7,1,6,win,1830155,502,2334217,2020
 0,0,0,0,0,0,2,0,0,0,02/15/2020,away,15204,700,Texas Tech,9,True,4,22,-18,loss,1830386,502,2334217,2020
 0,0,0,0,0,0,0,0,0,0,02/16/2020,away,15204,700,Texas Tech,9,True,3,14,-11,loss,1830698,502,2334217,2020
-0,0,0,0,0,0,0,0,0,0,02/16/2020,neutral,15204,287,Houston Baptist,9,True,12,5,7,win,1830703,502,2334217,2020
+0,0,0,0,0,0,0,0,0,0,02/16/2020,neutral,15204,287,Houston Christian,9,True,12,5,7,win,1830703,502,2334217,2020
 0,0,0,0,0,0,0,0,0,0,02/21/2020,away,15204,473,New Mexico,9,True,6,7,-1,loss,1831232,502,2334217,2020
 0,1,1,0,0,0,0,0,0,0,02/23/2020,away,15204,473,New Mexico,9,True,2,3,-1,loss,1968778,502,2334217,2020
 0,0,0,0,0,0,0,0,0,0,02/23/2020,away,15204,473,New Mexico,9,True,0,9,-9,loss,1968764,502,2334217,2020

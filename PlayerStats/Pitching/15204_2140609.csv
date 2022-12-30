@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.0,0.0,9,8,4,2,2,0,25,22,1,0,0,0,2,1,0,0,0,0,0,0,8,1,0,1,0,1,2,0,02/14/2020,neutral,15204,7,Alabama St.,9,True,0,12,-12,loss,1830162,553,2140609,2020
+1,1,9.0,1,5,2,1,1,7,0,34,33,1,0,0,0,1,0,0,0,0,0,0,102,16,3,1,0,0,1,1,0,02/21/2020,home,15204,0,Texas Col.,9,True,3,2,1,win,1831200,553,2140609,2020
+1,1,8.1,0.0,7,3,3,1,11,0,36,32,1,0,0,0,0,3,0,0,0,0,0,134,8,5,0,1,0,1,6,0,02/28/2020,home,15204,665,Southern U.,9,True,2,3,-1,loss,1832406,553,2140609,2020
+1,1,9.0,1,6,0,0,2,10,1,35,32,0,2,0,0,0,1,0,0,0,0,0,0,12,4,1,0,0,1,2,0,03/06/2020,away,15204,2678,Ark.-Pine Bluff,9,True,6,0,6,win,1833803,553,2140609,2020

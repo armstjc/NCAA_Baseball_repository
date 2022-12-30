@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/15/2020,away,15204,235,Florida,9,True,0,10,-10,loss,0 - 10,4928178,388,1,2.0,0,2,2,2,5,3,0,13,8,1,0,0,0,1,0,0,0,0,0,0,59,1,2,0,0,0,2,2,0,21371960,2020
-02/23/2020,away,15204,460,UNCW,9,True,6,8,-2,loss,6 - 8,4937947,388,1,2.2,0,5,4,3,5,0,0,16,11,0,0,0,0,4,0,1,0,0,0,0,73,1,5,0,1,0,1,0,0,21371960,2020
-03/04/2020,away,15204,742,Virginia Tech,9,True,5,10,-5,loss,5 - 10,4948886,388,1,3.2,0,3,6,2,4,2,0,19,13,0,0,0,1,0,0,0,0,0,1,1,73,3,5,0,1,0,1,1,0,21371960,2020
-03/11/2020,away,15204,519,Ohio,9,True,3,2,1,win,3 - 2,4957612,388,1,4.1,0,4,2,2,0,6,0,17,17,2,0,0,0,0,0,0,0,0,0,0,55,2,5,0,0,0,1,5,0,21371960,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,2,2,2,5,3,0,13,8,1,0,0,0,1,0,0,0,0,0,0,59,1,2,0,0,0,2,2,0,02/15/2020,away,15204,235,Florida,9,True,0,10,-10,loss,1830644,388,2137196,2020
+1,1,2.2,0.0,5,4,3,5,0,0,16,11,0,0,0,0,4,0,1,0,0,0,0,73,1,5,0,1,0,1,0,0,02/23/2020,away,15204,460,UNCW,9,True,6,8,-2,loss,1832038,388,2137196,2020
+1,1,3.2,0.0,3,6,2,4,2,0,19,13,0,0,0,1,0,0,0,0,0,1,1,73,3,5,0,1,0,1,1,0,03/04/2020,away,15204,742,Virginia Tech,9,True,5,10,-5,loss,1833576,388,2137196,2020
+1,1,4.1,0.0,4,2,2,0,6,0,17,17,2,0,0,0,0,0,0,0,0,0,0,55,2,5,0,0,0,1,5,0,03/11/2020,away,15204,519,Ohio,9,True,3,2,1,win,1834968,388,2137196,2020

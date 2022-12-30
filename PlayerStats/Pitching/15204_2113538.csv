@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/23/2020,away,15204,646,South Alabama,9,True,2,8,-6,loss,2 - 8,4938010,639,1,1.1,0,7,7,5,0,1,0,12,12,1,0,1,0,0,0,0,0,0,0,0,37,2,1,0,1,0,1,0,0,2113538,2020
-03/01/2020,away,15204,202,Eastern Ky.,9,True,3,8,-5,loss,3 - 8,4945125,639,1,2.0,0,4,2,2,1,2,0,10,9,2,0,0,1,0,0,0,0,0,0,0,32,1,2,0,1,0,1,0,0,2113538,2020
-03/08/2020,away,15204,173,Davidson,9,True,7,12,-5,loss,7 - 12,4954338,639,1,2.0,0,4,2,2,2,1,0,11,9,0,0,0,0,0,0,0,0,0,0,0,45,2,2,0,0,0,1,0,0,2113538,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,1.1,0.0,7,7,5,0,1,0,12,12,1,0,1,0,0,0,0,0,0,0,0,37,2,1,0,1,0,1,0,0,02/23/2020,away,15204,646,South Alabama,9,True,2,8,-6,loss,1832052,639,2113538,2020
+1,1,2.0,0.0,4,2,2,1,2,0,10,9,2,0,0,1,0,0,0,0,0,0,0,32,1,2,0,1,0,1,0,0,03/01/2020,away,15204,202,Eastern Ky.,9,True,3,8,-5,loss,1832711,639,2113538,2020
+1,1,2.0,0.0,4,2,2,2,1,0,11,9,0,0,0,0,0,0,0,0,0,0,0,45,2,2,0,0,0,1,0,0,03/08/2020,away,15204,173,Davidson,9,True,7,12,-5,loss,1834547,639,2113538,2020

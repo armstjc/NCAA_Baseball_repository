@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/15/2020,home,15204,283,Hofstra,9,True,6,13,-7,loss,6 - 13,4928619,559,1,0.0,0,2,4,0,1,0,0,4,3,1,0,0,0,0,0,0,3,3,0,0,17,0,0,0,0,0,4,0,0,1873613,2020
-02/16/2020,home,15204,283,Hofstra,9,True,10,9,1,win,10 - 9,4930265,559,1,0.1,0,0,1,0,2,0,0,5,2,0,0,0,0,0,1,1,2,2,0,0,0,1,0,0,0,0,5,0,0,1873613,2020
-02/23/2020,home,15204,739,Villanova,9,True,7,1,6,win,7 - 1,4946335,559,1,0.2,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,4,0,0,1873613,2020
-02/29/2020,home,15204,490,NC State,10,True,0,6,-6,loss,0 - 6,4943418,559,1,1.0,0,1,1,1,1,2,0,6,4,1,0,0,0,0,0,0,2,1,1,0,22,1,0,0,0,0,2,0,0,1873613,2020
-03/08/2020,away,15204,772,Western Ky.,9,True,19,1,18,win,19 - 1,4954579,559,1,1.0,0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,1,0,0,0,3,0,0,1873613,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,2,4,0,1,0,0,4,3,1,0,0,0,0,0,0,3,3,0,0,17,0,0,0,0,0,4,0,0,02/15/2020,neutral,15204,283,Hofstra,9,True,6,13,-7,loss,1830547,559,1873613,2020
+1,0,0.1,0.0,0,1,0,2,0,0,5,2,0,0,0,0,0,1,1,2,2,0,0,0,1,0,0,0,0,5,0,0,02/16/2020,neutral,15204,283,Hofstra,9,True,10,9,1,win,1830792,559,1873613,2020
+1,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,4,0,0,02/23/2020,neutral,15204,739,Villanova,9,True,7,1,6,win,1831824,559,1873613,2020
+1,0,1.0,0.0,1,1,1,1,2,0,6,4,1,0,0,0,0,0,0,2,1,1,0,22,1,0,0,0,0,2,0,0,02/29/2020,neutral,15204,490,NC State,10,True,0,6,-6,loss,1832647,559,1873613,2020
+1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,1,0,0,0,3,0,0,03/08/2020,away,15204,772,Western Ky.,9,True,19,1,18,win,1834612,559,1873613,2020

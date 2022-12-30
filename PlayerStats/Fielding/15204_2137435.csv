@@ -1,7 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
-0,0,0,0,0,0,0,0,0,0,02/14/2020,home,15204,287,Houston Baptist,9,True,5,1,4,win,1830149,700,2137435,2020
+0,0,0,0,0,0,0,0,0,0,02/14/2020,home,15204,287,Houston Christian,9,True,5,1,4,win,1830149,700,2137435,2020
 0,0,0,0,0,0,0,0,0,0,02/15/2020,home,15204,502,Northern Colo.,9,True,22,4,18,win,1830386,700,2137435,2020
-0,0,0,0,0,0,1,0,0,0,02/15/2020,home,15204,287,Houston Baptist,9,True,24,3,21,win,1830385,700,2137435,2020
+0,0,0,0,0,0,1,0,0,0,02/15/2020,home,15204,287,Houston Christian,9,True,24,3,21,win,1830385,700,2137435,2020
 0,0,0,0,0,0,0,0,0,0,02/16/2020,home,15204,502,Northern Colo.,9,True,14,3,11,win,1830698,700,2137435,2020
 0,0,0,0,0,0,0,0,0,0,02/21/2020,neutral,15204,694,Tennessee,9,True,2,6,-4,loss,1831395,700,2137435,2020
 0,0,0,0,0,0,0,0,0,0,02/22/2020,neutral,15204,674,Stanford,9,True,7,2,5,win,1831434,700,2137435,2020

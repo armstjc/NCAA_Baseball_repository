@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,3.2,0.0,3,3,3,3,5,0,19,13,0,0,0,0,0,2,0,0,0,1,0,77,4,2,0,0,0,1,0,0,02/09/2020,away,15204,1023,Coker,9,True,4,7,-3,loss,1963865,934,2303740,2020
+1,0,0.0,0.0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,0,0,02/22/2020,away,15204,10870,Shepherd,9,True,7,8,-1,loss,1831518,934,2303740,2020
+1,0,2.0,0.0,4,6,6,3,4,0,14,10,1,1,0,2,2,1,0,3,3,0,0,0,1,1,0,0,0,2,4,0,02/23/2020,away,15204,10870,Shepherd,9,True,6,18,-12,loss,1831869,934,2303740,2020
+1,1,5.0,0.0,3,2,2,3,5,0,20,17,1,0,0,1,0,0,0,0,0,0,0,87,4,5,0,1,0,1,3,0,03/04/2020,away,15204,19117,Salem (WV),9,True,1,4,-3,loss,1833574,934,2303740,2020
+1,0,1.0,0.0,2,3,3,1,0,0,8,6,0,0,0,1,0,1,0,2,2,0,0,32,2,1,0,0,0,2,0,0,03/09/2020,away,15204,608,Saint Leo,9,True,3,8,-5,loss,1834791,934,2303740,2020

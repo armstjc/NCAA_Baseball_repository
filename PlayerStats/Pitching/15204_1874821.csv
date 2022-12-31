@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,0,02/02/2020,away,15204,0,Tougaloo,9,True,16,5,11,win,1848335,347,1874821,2020
+1,0,2.2,0.0,3,3,3,2,3,0,14,12,0,0,0,0,2,0,0,1,0,0,0,0,2,3,0,1,0,2,1,0,02/15/2020,away,15204,0,Stillman,9,True,1,4,-3,loss,1848349,347,1874821,2020
+1,0,1.2,0.0,7,7,7,1,2,0,14,12,4,0,0,1,0,1,0,0,0,0,0,0,1,2,0,0,0,2,0,0,02/22/2020,away,15204,2678,Ark.-Pine Bluff,9,True,4,14,-10,loss,1968343,347,1874821,2020
+1,0,4.2,0.0,2,0,0,1,2,0,16,15,0,0,0,0,0,0,0,0,0,0,0,0,4,7,1,0,0,2,0,0,02/29/2020,home,15204,350,LeMoyne-Owen,9,True,6,1,5,win,1848784,347,1874821,2020
+1,1,4.0,0.0,4,2,0,2,2,0,20,16,0,0,0,0,1,2,1,0,0,0,0,0,3,6,0,0,0,1,1,0,03/07/2020,home,15204,0,Tougaloo,9,True,8,3,5,win,1849355,347,1874821,2020

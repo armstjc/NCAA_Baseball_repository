@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.2,0.0,3,3,3,3,0,0,11,6,0,0,0,0,1,1,0,0,0,1,0,0,2,2,0,1,0,2,0,0,02/01/2020,away,15204,720,Tuskegee,9,True,7,9,-2,loss,1829637,445,2131689,2020
+1,0,1.2,0.0,3,4,3,1,1,0,11,8,0,0,0,1,0,1,0,0,0,0,1,0,2,2,0,0,0,2,0,0,02/09/2020,neutral,15204,1076,Fairmont St.,9,True,5,8,-3,loss,1965001,445,2131689,2020
+1,0,2.0,0.0,0,0,0,1,0,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,2,0,0,02/22/2020,away,15204,422,Miles,9,True,1,6,-5,loss,1847696,445,2131689,2020
+1,0,2.0,0.0,2,3,0,3,0,0,12,9,1,0,0,0,1,0,0,0,0,0,0,0,3,2,0,0,0,2,0,0,02/28/2020,home,15204,431,MUW,9,True,0,7,-7,loss,1848945,445,2131689,2020
+1,1,4.0,0.0,8,9,9,4,1,0,25,21,1,1,0,1,0,0,0,0,0,0,0,0,4,7,0,1,0,1,1,0,03/07/2020,neutral,15204,422,Miles,9,True,3,15,-12,loss,1847738,445,2131689,2020

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,02/07/2020,home,15204,720,Tuskegee,9,True,16,1,15,win,1829863,49,2309334,2020
+1,0,1.0,0.0,6,5,5,1,1,0,9,8,1,0,0,1,0,0,0,1,1,0,0,35,0,1,0,0,0,2,1,0,03/02/2020,home,15204,21323,Chestnut Hill,9,True,0,9,-9,loss,1833325,49,2309334,2020
+1,0,3.0,0.0,1,0,0,0,4,0,10,10,1,0,0,0,0,0,0,0,0,0,0,43,2,3,0,0,1,2,0,0,03/10/2020,home,15204,23157,Felician,9,True,14,1,13,win,1835010,49,2309334,2020

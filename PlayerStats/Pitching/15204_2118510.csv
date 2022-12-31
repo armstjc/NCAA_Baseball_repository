@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.1,0.0,5,2,2,4,4,0,19,15,0,0,0,0,0,0,0,0,0,0,0,72,3,3,1,0,0,1,2,0,02/02/2020,away,15204,30193,Emmanuel (GA),9,True,13,2,11,win,1829701,358,2118510,2020
+1,1,4.0,0.0,8,4,4,1,4,0,21,20,1,0,0,0,0,0,0,0,0,0,0,0,2,5,0,1,0,1,1,0,02/08/2020,home,15204,1097,Ga. Southwestern,9,True,3,6,-3,loss,1849369,358,2118510,2020
+1,0,2.1,0.0,2,2,2,1,1,0,10,9,0,0,0,1,0,0,0,1,0,0,0,31,1,5,0,0,0,2,1,0,02/15/2020,away,15204,429,Mississippi Col.,9,True,2,6,-4,loss,1966569,358,2118510,2020
+1,0,1.0,0.0,1,0,0,1,0,0,5,3,0,0,0,0,0,0,0,1,1,1,0,0,2,1,0,0,0,2,0,0,02/22/2020,home,15204,11740,West Florida,9,True,3,2,1,win,1831326,358,2118510,2020
+1,0,0.1,0.0,3,3,3,1,1,0,5,4,1,0,0,0,0,0,0,2,0,0,0,23,0,0,0,1,0,2,0,0,03/01/2020,away,15204,10,Alabama Huntsville,9,True,12,15,-3,loss,1833160,358,2118510,2020
+1,1,6.2,0.0,6,2,2,0,6,0,28,25,1,0,0,0,2,2,0,0,0,1,0,96,11,2,0,1,0,1,2,0,03/08/2020,away,15204,30191,Spring Hill,9,True,0,2,-2,loss,1834716,358,2118510,2020

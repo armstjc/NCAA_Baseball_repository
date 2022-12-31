@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.2,0.0,1,0,0,2,6,0,14,12,0,0,0,0,0,0,0,0,0,0,0,67,3,2,1,0,0,3,4,0,02/23/2020,away,15204,8567,Mt. St. Joseph,9,True,15,3,12,win,1849295,531,1877849,2020
+1,1,5.0,0.0,8,5,5,1,5,0,25,23,4,0,0,0,1,1,0,0,0,0,0,0,4,5,0,0,0,1,0,0,02/29/2020,neutral,15204,16142,Misericordia,10,True,6,7,-1,loss,1832910,531,1877849,2020
+1,1,7.0,0.0,4,1,1,2,12,0,27,25,0,0,0,1,2,0,0,0,0,0,0,0,4,5,1,0,0,1,7,0,03/07/2020,neutral,15204,40,Augustana (IL),9,True,3,1,2,win,1834076,531,1877849,2020

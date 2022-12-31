@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,3.0,0.0,9,4,3,1,4,0,22,20,0,0,0,0,0,1,0,0,0,0,0,80,1,4,0,0,0,1,2,0,01/31/2020,away,15204,230,Florida Tech,10,True,6,5,1,win,1829547,30136,1874092,2020
+1,1,7.0,0.0,6,0,0,2,6,0,29,27,3,0,0,0,0,0,0,0,0,0,0,99,4,10,1,0,0,1,3,0,02/15/2020,home,15204,30119,Ohio Dominican,9,True,9,0,9,win,1830466,30136,1874092,2020
+1,1,3.0,0.0,7,4,3,1,2,0,18,17,3,0,0,0,0,0,0,0,0,0,0,71,1,5,0,0,0,1,1,0,02/21/2020,home,15204,510,Northwood,9,True,13,5,8,win,1831134,30136,1874092,2020
+1,1,5.0,0.0,7,5,4,1,5,0,23,20,1,0,0,0,2,0,0,0,0,0,2,83,4,6,1,0,0,1,4,0,02/29/2020,home,15204,499,Truman St.,9,True,11,5,6,win,1832792,30136,1874092,2020
+1,1,7.0,0.0,6,1,1,1,8,0,27,24,0,0,0,0,0,2,0,0,0,0,0,114,4,5,0,0,0,1,3,0,03/07/2020,home,15204,2755,Southwest Baptist,9,True,3,2,1,win,1847737,30136,1874092,2020

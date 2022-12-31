@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,8746,Southwestern (TX),9,True,2,3,-1,loss,1834235,420,2004094,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,8746,Southwestern (TX),9,True,8,4,4,win,1847725,420,2004094,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,away,15204,8746,Southwestern (TX),11,True,9,8,1,win,1834527,420,2004094,2020

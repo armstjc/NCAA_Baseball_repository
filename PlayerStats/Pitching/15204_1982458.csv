@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,6.0,1,8,5,5,0,6,0,29,24,1,0,0,1,3,3,0,0,0,2,0,0,8,4,0,1,0,1,3,0,02/22/2020,away,15204,637,Shenandoah,9,True,3,5,-2,loss,1831526,783,1982458,2020
+1,1,9.0,1,8,5,5,3,5,0,38,34,1,1,0,0,2,1,0,0,0,0,0,0,16,5,1,0,0,1,0,0,02/29/2020,neutral,15204,30029,Purchase,9,True,8,5,3,win,1832591,783,1982458,2020
+1,1,6.1,0.0,11,6,3,0,6,0,30,29,1,0,0,0,1,1,0,0,0,0,0,77,6,5,0,0,0,1,0,0,03/05/2020,neutral,15204,10972,Chatham,9,True,6,7,-1,loss,1833645,783,1982458,2020

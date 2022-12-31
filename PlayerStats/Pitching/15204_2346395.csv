@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,1,2,0,5,4,1,0,0,0,1,0,0,2,2,0,0,0,0,1,0,0,0,3,1,0,02/22/2020,neutral,15204,1347,Saint Rose,8,True,5,7,-2,loss,1849817,765,2346395,2020
+1,0,2.0,0.0,2,1,1,0,1,0,9,8,0,0,0,1,1,1,0,0,0,0,0,0,3,2,0,0,0,2,1,0,03/01/2020,home,15204,1348,St. Thomas Aquinas,9,True,3,6,-3,loss,1969943,765,2346395,2020
+1,0,3.1,0.0,1,0,0,0,4,0,12,12,0,0,0,0,0,0,0,2,0,0,0,0,2,4,1,0,0,2,0,0,03/07/2020,neutral,15204,307,Indiana (PA),9,True,11,3,8,win,1834066,765,2346395,2020

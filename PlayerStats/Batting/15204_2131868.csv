@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/21/2020,neutral,15204,64,Blackburn,9,True,12,2,10,win,1831365,492,2131868,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/22/2020,neutral,15204,1461,Wilmington (OH),9,True,16,1,15,win,1832023,492,2131868,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2020,neutral,15204,803,Wis.-Stout,9,True,10,6,4,win,1831691,492,2131868,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,531,Otterbein,9,True,10,0,10,win,1833260,492,2131868,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2020,neutral,15204,602,Saint John's (MN),9,True,7,5,2,win,1833373,492,2131868,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2020,neutral,15204,16142,Misericordia,9,True,16,7,9,win,1833651,492,2131868,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,278,Heidelberg,9,True,11,7,4,win,1970921,492,2131868,2020

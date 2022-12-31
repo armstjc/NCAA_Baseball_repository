@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,2.0,0.0,1,2,2,2,3,0,10,6,0,0,0,0,0,1,0,0,0,1,0,0,3,0,0,1,0,1,0,0,01/31/2020,away,15204,1009,Central Okla.,9,True,4,10,-6,loss,1829604,1123,2127021,2020
+1,1,2.0,0.0,3,1,1,0,0,0,9,7,1,0,0,0,1,2,0,0,0,0,0,0,3,1,0,0,0,1,0,0,02/07/2020,home,15204,507,Northwest Mo. St.,9,True,6,10,-4,loss,1829851,1123,2127021,2020
+1,1,2.0,0.0,6,5,4,1,1,0,13,12,2,0,0,0,4,0,0,0,0,0,0,0,3,2,0,0,0,1,0,0,02/15/2020,away,15204,1376,Southern Ark.,9,True,5,8,-3,loss,1830309,1123,2127021,2020
+1,0,4.0,0.0,3,0,0,2,4,0,16,14,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,1,2,0,0,02/22/2020,home,15204,947,Arkansas Tech,9,True,11,1,10,win,1847667,1123,2127021,2020
+1,0,5.2,0.0,3,1,1,0,10,0,21,20,1,0,0,0,0,1,0,3,2,0,0,0,4,3,0,0,0,2,0,0,02/29/2020,home,15204,30202,Okla. Baptist,9,True,0,6,-6,loss,1848770,1123,2127021,2020
+1,0,5.0,0.0,2,1,0,0,10,0,20,18,0,0,0,0,0,0,0,0,0,1,1,0,3,2,0,0,0,2,1,0,03/07/2020,away,15204,30152,Southern Nazarene,9,True,8,1,7,win,1849861,1123,2127021,2020

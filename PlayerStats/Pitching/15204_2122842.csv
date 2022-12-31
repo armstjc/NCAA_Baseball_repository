@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,2.2,0.0,6,7,4,2,2,0,17,12,1,0,0,0,2,1,0,0,0,1,1,55,3,2,0,1,0,1,1,0,02/09/2020,away,15204,1000,Carson-Newman,9,True,2,8,-6,loss,1963856,1438,2122842,2020
+1,1,2.0,0.0,5,7,3,4,4,0,18,14,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,2,0,02/22/2020,neutral,15204,30141,Walsh,9,True,5,18,-13,loss,1831724,1438,2122842,2020
+1,1,5.1,0.0,5,4,4,4,5,0,24,20,1,0,0,0,0,0,0,0,0,0,0,0,2,8,0,1,0,1,1,0,02/29/2020,neutral,15204,30137,Malone,9,True,5,7,-2,loss,1832654,1438,2122842,2020
+1,1,5.2,0.0,4,3,3,3,6,0,24,20,0,0,0,1,0,0,0,0,0,0,1,84,8,3,0,1,0,1,2,0,03/08/2020,away,15204,546,Pitt.-Johnstown,9,True,0,5,-5,loss,1834691,1438,2122842,2020

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,6.0,0.0,2,0,0,0,6,0,20,20,0,0,0,0,0,0,0,0,0,0,0,72,4,7,1,0,0,1,2,0,02/01/2020,away,15204,1097,Ga. Southwestern,9,True,8,5,3,win,1829626,49,2111829,2020
+1,1,6.0,0.0,1,0,0,2,5,0,22,19,0,0,0,0,0,0,0,0,0,1,0,0,10,3,1,0,0,1,2,0,02/08/2020,home,15204,720,Tuskegee,9,True,10,0,10,win,1849358,49,2111829,2020
+1,1,6.0,0.0,6,2,2,0,6,0,23,22,0,0,0,0,1,1,0,0,0,0,0,0,4,6,1,0,0,1,3,0,02/21/2020,home,15204,24639,Nova Southeastern,9,True,10,3,7,win,1831343,49,2111829,2020
+1,1,7.0,0.0,6,2,2,1,7,0,29,28,1,0,0,1,0,0,0,0,0,0,0,0,6,8,1,0,0,1,3,0,02/28/2020,home,15204,233,Fla. Southern,9,True,13,7,6,win,1832497,49,2111829,2020
+1,1,5.1,0.0,9,3,3,1,2,0,26,24,0,0,0,1,0,1,0,0,0,0,0,88,5,8,0,0,0,1,1,0,03/06/2020,home,15204,230,Florida Tech,9,True,9,8,1,win,1833919,49,2111829,2020

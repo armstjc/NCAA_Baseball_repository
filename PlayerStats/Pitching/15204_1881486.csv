@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,5.2,0.0,6,3,3,0,4,0,23,23,1,0,0,1,0,0,0,0,0,0,0,0,8,5,0,0,0,1,1,0,01/31/2020,home,15204,0,St. Thomas (FL),9,True,5,3,2,win,1881718,20794,1881486,2020
+1,1,5.0,0.0,4,1,1,1,5,0,21,19,1,0,0,0,1,1,0,0,0,0,0,80,3,7,1,0,0,1,2,0,02/12/2020,neutral,15204,30045,Palm Beach Atl.,9,True,5,2,3,win,1830127,20794,1881486,2020
+1,0,2.0,0.0,2,4,2,1,3,0,12,10,0,1,0,0,2,1,0,1,0,0,0,48,2,1,0,0,0,2,0,0,02/21/2020,away,15204,208,Eckerd,9,True,9,6,3,win,1831325,20794,1881486,2020
+1,0,2.0,0.0,2,3,0,0,2,0,10,8,1,0,0,0,1,1,0,2,2,1,0,0,3,1,0,0,0,2,1,0,02/29/2020,home,15204,608,Saint Leo,9,True,7,5,2,win,1848607,20794,1881486,2020

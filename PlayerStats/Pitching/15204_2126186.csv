@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,2,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,2,0,0,02/16/2020,neutral,15204,205,Mont. St. Billings,9,True,17,3,14,win,1830706,30128,2126186,2020
+1,1,6.0,0.0,2,0,0,1,8,0,21,20,0,0,0,0,0,0,0,0,0,0,0,0,5,5,1,0,0,1,2,0,03/06/2020,away,15204,9630,West Va. Wesleyan,9,True,10,0,10,win,1833747,30128,2126186,2020
+1,0,0.2,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,0,7,1,0,03/09/2020,neutral,15204,383,Minnesota St.,9,True,8,11,-3,loss,1834764,30128,2126186,2020
+1,0,0.0,0.0,1,3,0,1,0,0,3,2,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,2,0,0,03/09/2020,neutral,15204,757,Wayne St. (MI),9,True,2,12,-10,loss,1834757,30128,2126186,2020

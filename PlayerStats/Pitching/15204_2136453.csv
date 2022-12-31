@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.1,0.0,6,2,2,0,6,0,19,19,0,1,0,0,0,0,0,0,0,0,0,67,2,5,0,0,0,1,1,0,02/19/2020,home,15204,1015,Christian Brothers,9,True,12,3,9,win,1831024,1116,2136453,2020
+1,1,6.0,0.0,8,2,2,0,8,0,26,26,1,0,0,1,2,0,0,0,0,0,0,88,4,6,1,0,0,1,0,0,02/25/2020,home,15204,0,Williams Baptist,9,True,5,2,3,win,1832127,1116,2136453,2020
+1,1,5.0,0.0,2,0,0,0,5,0,17,16,0,0,0,0,0,0,0,0,0,1,0,55,5,5,1,0,0,1,1,0,03/03/2020,home,15204,0,Williams Baptist,9,True,10,0,10,win,1833420,1116,2136453,2020
+1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,2,0,1,0,0,0,4,0,0,03/07/2020,home,15204,1371,Southeastern Okla.,11,True,4,5,-1,loss,1834240,1116,2136453,2020
+1,1,2.0,0.0,2,0,0,1,0,0,9,8,0,0,0,0,0,0,0,0,0,0,0,36,2,4,1,0,0,1,0,0,03/10/2020,away,15204,30153,Union (TN),9,True,14,2,12,win,1835013,1116,2136453,2020

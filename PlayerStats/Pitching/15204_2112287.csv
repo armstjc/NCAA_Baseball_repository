@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.2,0.0,7,6,5,2,6,0,24,21,1,0,0,2,0,0,0,0,0,0,1,0,1,7,0,1,0,1,2,0,02/01/2020,away,15204,429,Mississippi Col.,9,True,2,6,-4,loss,1848539,1116,2112287,2020
+1,1,5.1,0.0,4,0,0,1,5,0,21,20,1,0,0,0,0,0,0,0,0,0,0,73,2,9,1,0,0,1,1,0,02/16/2020,away,15204,8411,Ark.-Monticello,9,True,5,0,5,win,1848381,1116,2112287,2020
+1,1,6.0,0.0,5,2,2,3,3,0,26,22,0,0,0,1,0,0,0,0,0,1,0,95,4,11,0,0,0,1,2,0,02/22/2020,home,15204,1376,Southern Ark.,11,True,3,2,1,win,1968400,1116,2112287,2020
+1,1,7.0,1,8,4,3,2,5,0,31,26,3,1,0,0,1,1,0,0,0,0,2,0,6,9,1,0,0,1,0,0,02/29/2020,away,15204,8965,East Central,9,True,8,4,4,win,1848969,1116,2112287,2020
+1,1,5.0,0.0,2,1,0,0,4,0,19,15,0,0,0,0,1,2,0,0,0,1,1,82,3,7,1,0,0,1,1,0,03/07/2020,home,15204,1371,Southeastern Okla.,9,True,3,1,2,win,1847730,1116,2112287,2020

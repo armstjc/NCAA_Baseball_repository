@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,0,02/22/2020,neutral,15204,30119,Ohio Dominican,9,True,9,2,7,win,1848955,262,2321287,2020
+1,0,3.1,0.0,2,0,0,1,5,0,14,13,1,0,0,0,2,0,0,2,0,0,0,0,4,1,1,0,0,2,2,0,03/02/2020,neutral,15204,9630,West Va. Wesleyan,9,True,18,2,16,win,1849715,262,2321287,2020
+1,1,7.0,1,5,1,1,0,5,0,25,25,2,0,0,0,0,0,0,0,0,0,0,0,8,7,1,0,0,1,4,0,03/07/2020,neutral,15204,30128,Sioux Falls,9,True,7,1,6,win,1834067,262,2321287,2020

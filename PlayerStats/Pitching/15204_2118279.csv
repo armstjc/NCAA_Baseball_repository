@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,2,2,2,2,1,0,7,3,0,0,0,0,0,2,0,0,0,0,0,36,0,0,0,0,0,2,0,0,02/02/2020,neutral,15204,155,Colo. Sch. of Mines,10,True,5,4,1,win,1829735,130,2118279,2020
+1,0,0.2,0.0,2,2,2,1,1,0,6,4,0,0,0,1,0,1,0,0,0,0,0,26,0,1,0,0,0,2,0,0,02/08/2020,home,15204,947,Arkansas Tech,9,True,7,3,4,win,1829918,130,2118279,2020
+1,0,2.1,0.0,0,0,0,0,4,0,7,7,0,0,0,0,0,0,0,2,0,0,0,37,1,2,0,0,0,2,2,0,02/21/2020,home,15204,9081,Concordia-St. Paul,9,True,11,1,10,win,1968207,130,2118279,2020
+1,0,1.0,0.0,0,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,15,0,3,0,0,0,4,0,0,03/01/2020,home,15204,30180,Rogers St.,9,True,14,4,10,win,1833159,130,2118279,2020
+1,0,4.0,0.0,3,4,4,2,1,0,19,14,1,0,1,1,1,2,0,0,0,0,1,57,4,6,0,0,0,3,0,0,03/06/2020,away,15204,30054,Newman,9,True,17,9,8,win,1833833,130,2118279,2020

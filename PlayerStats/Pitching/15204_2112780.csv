@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/22/2020,home,15204,810,Wright St.,9,True,7,2,5,win,7 - 2,4935650,772,1,1.1,0,2,1,0,0,3,0,6,6,0,0,0,0,0,0,0,2,0,0,0,33,1,0,0,0,1,3,1,0,2112780,2020
-02/25/2020,home,15204,43,Austin Peay,9,True,10,5,5,win,10 - 5,4939389,772,1,0.1,0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,1,0,0,2,0,1,0,0,0,3,0,0,2112780,2020
-02/29/2020,away,15204,10411,USC Upstate,10,True,8,6,2,win,8 - 6,4944050,772,1,2.0,0,1,2,2,1,0,0,9,7,0,0,0,0,0,1,0,2,0,0,0,30,1,5,0,0,0,2,0,0,2112780,2020
-03/03/2020,home,15204,14927,Belmont,9,True,7,9,-2,loss,7 - 9,4947977,772,1,0.2,0,3,3,3,0,2,0,5,5,2,0,0,0,0,0,0,0,0,0,0,18,0,0,0,1,0,3,0,0,2112780,2020
-03/10/2020,away,15204,334,Kentucky,9,True,4,10,-6,loss,4 - 10,4956877,772,1,0.1,0,2,1,1,1,0,0,3,2,1,0,0,0,0,0,0,2,2,0,0,15,0,0,0,0,0,3,0,0,2112780,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,2,1,0,0,3,0,6,6,0,0,0,0,0,0,0,2,0,0,0,33,1,0,0,0,1,3,1,0,02/22/2020,home,15204,810,Wright St.,9,True,7,2,5,win,1831570,772,2112780,2020
+1,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,1,0,0,2,0,1,0,0,0,3,0,0,02/25/2020,home,15204,43,Austin Peay,9,True,10,5,5,win,1832123,772,2112780,2020
+1,0,2.0,0.0,1,2,2,1,0,0,9,7,0,0,0,0,0,1,0,2,0,0,0,30,1,5,0,0,0,2,0,0,02/29/2020,away,15204,10411,USC Upstate,10,True,8,6,2,win,1832572,772,2112780,2020
+1,0,0.2,0.0,3,3,3,0,2,0,5,5,2,0,0,0,0,0,0,0,0,0,0,18,0,0,0,1,0,3,0,0,03/03/2020,home,15204,14927,Belmont,9,True,7,9,-2,loss,1833401,772,2112780,2020
+1,0,0.1,0.0,2,1,1,1,0,0,3,2,1,0,0,0,0,0,0,2,2,0,0,15,0,0,0,0,0,3,0,0,03/10/2020,away,15204,334,Kentucky,9,True,4,10,-6,loss,1834826,772,2112780,2020

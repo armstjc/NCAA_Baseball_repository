@@ -1,2 +1,2 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/29/2020,home,15204,109,UC Irvine,9,True,0,9,-9,loss,0 - 9,4944464,756,1,1.0,0,1,0,0,1,2,0,5,4,1,0,0,0,1,0,0,0,0,0,0,18,1,0,0,0,0,5,2,0,2319170,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,1,2,0,5,4,1,0,0,0,1,0,0,0,0,0,0,18,1,0,0,0,0,5,2,0,02/29/2020,home,15204,109,UC Irvine,9,True,0,9,-9,loss,1832945,756,2319170,2020

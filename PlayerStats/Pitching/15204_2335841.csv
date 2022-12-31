@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,2,0,0,0,0,3,0,0,02/21/2020,away,15204,1439,West Virginia St.,9,True,11,3,8,win,1831118,30050,2335841,2020
+1,0,0.2,0.0,0,0,0,0,1,0,3,2,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,0,3,0,0,02/22/2020,neutral,15204,591,Saginaw Valley,9,True,9,2,7,win,1831430,30050,2335841,2020
+1,0,1.1,0.0,1,0,0,0,2,0,5,5,0,0,0,0,0,0,0,0,0,0,0,18,1,1,0,0,0,2,0,0,02/29/2020,home,15204,30222,Purdue Northwest,9,True,20,7,13,win,1832756,30050,2335841,2020
+1,0,0.1,0.0,2,1,1,1,0,0,4,3,0,0,0,1,0,0,0,3,3,0,0,16,0,1,0,0,0,5,0,0,03/07/2020,home,15204,661,Southern Ind.,9,True,11,16,-5,loss,1971334,30050,2335841,2020

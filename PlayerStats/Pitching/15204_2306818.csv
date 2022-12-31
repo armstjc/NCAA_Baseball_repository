@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,3,5,5,2,1,0,8,5,2,0,0,0,0,1,0,3,3,0,0,37,1,0,0,0,0,2,0,0,01/31/2020,home,15204,205,Mont. St. Billings,9,True,5,9,-4,loss,1829554,30149,2306818,2020
+1,0,2.0,0.0,2,1,1,3,4,0,10,7,0,0,0,0,0,0,0,1,0,0,0,48,0,1,0,0,0,3,1,0,02/06/2020,away,15204,112,UC San Diego,9,True,1,3,-2,loss,1829778,30149,2306818,2020
+1,0,0.2,0.0,0,0,0,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,23,2,0,0,0,0,3,0,0,02/08/2020,away,15204,92,Cal St. Dom. Hills,9,True,4,3,1,win,1849348,30149,2306818,2020
+1,0,1.0,0.0,0,2,2,4,0,0,7,3,0,0,0,0,0,0,0,0,0,0,0,30,1,2,0,0,0,2,0,0,03/07/2020,home,15204,30175,Holy Names,9,True,2,8,-6,loss,1849729,30149,2306818,2020

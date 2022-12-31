@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,2,0,1,0,0,3,0,0,02/01/2020,home,15204,39,Augusta,10,True,3,1,2,win,1829617,10,2126182,2020
+1,0,0.0,0.0,1,1,1,1,0,0,2,1,0,0,0,0,1,0,0,1,1,0,0,7,0,0,0,0,0,3,0,0,02/09/2020,away,15204,1257,Newberry,9,True,2,7,-5,loss,1830062,10,2126182,2020
+1,0,2.0,0.0,2,0,0,0,2,0,9,6,1,0,0,0,0,2,0,0,0,1,0,24,2,1,0,0,0,2,0,0,02/26/2020,away,15204,30191,Spring Hill,8,True,7,6,1,win,1832200,10,2126182,2020
+1,0,1.1,0.0,1,2,2,1,0,0,6,5,0,0,0,0,1,0,0,3,2,0,0,23,2,1,0,0,0,3,0,0,02/29/2020,home,15204,358,West Ala.,9,True,11,9,2,win,1832611,10,2126182,2020
+1,0,1.0,0.0,2,1,1,0,2,0,5,5,1,0,0,0,0,0,0,0,0,0,0,14,0,1,0,0,0,3,2,0,03/07/2020,home,15204,1015,Christian Brothers,9,True,16,1,15,win,1847722,10,2126182,2020

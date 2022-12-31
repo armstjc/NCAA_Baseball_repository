@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/03/2020,away,15204,30149,Point Loma,9,True,4,3,1,win,4 - 3,4961578,112,1,3.0,0,2,0,0,1,4,0,12,10,0,0,0,0,3,0,0,0,0,1,0,63,4,1,0,0,0,2,0,0,2334914,2020
-02/15/2020,home,15204,91,Cal Poly Pomona,9,True,7,6,1,win,7 - 6,4930167,112,1,2.2,0,3,2,2,0,1,0,10,10,2,0,0,0,0,0,0,0,0,0,0,36,4,2,0,0,0,2,0,0,2334914,2020
-02/22/2020,away,15204,645,Sonoma St.,9,True,5,7,-2,loss,5 - 7,4941618,112,1,2.0,0,3,3,2,1,0,0,11,10,0,0,0,0,1,0,0,0,0,0,0,40,4,2,0,1,0,2,0,0,2334914,2020
-03/01/2020,home,15204,628,San Fran. St.,9,True,3,8,-5,loss,3 - 8,4946270,112,1,2.0,0,4,3,3,2,0,0,11,8,1,0,0,1,0,0,0,0,0,1,0,32,5,0,0,0,0,2,0,0,2334914,2020
-03/08/2020,home,15204,30198,Cal St. San Marcos,9,True,20,6,14,win,20 - 6,4955189,112,1,3.0,0,2,2,1,1,1,0,14,12,0,0,0,1,0,1,0,0,0,0,0,48,2,6,0,0,0,2,1,0,2334914,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.0,0.0,2,0,0,1,4,0,12,10,0,0,0,0,3,0,0,0,0,1,0,63,4,1,0,0,0,2,0,0,02/03/2020,away,15204,30149,Point Loma,9,True,4,3,1,win,1829743,112,2334914,2020
+1,0,2.2,0.0,3,2,2,0,1,0,10,10,2,0,0,0,0,0,0,0,0,0,0,36,4,2,0,0,0,2,0,0,02/15/2020,home,15204,91,Cal Poly Pomona,9,True,7,6,1,win,1830569,112,2334914,2020
+1,0,2.0,0.0,3,3,2,1,0,0,11,10,0,0,0,0,1,0,0,0,0,0,0,40,4,2,0,1,0,2,0,0,02/22/2020,away,15204,645,Sonoma St.,9,True,5,7,-2,loss,1849138,112,2334914,2020
+1,0,2.0,0.0,4,3,3,2,0,0,11,8,1,0,0,1,0,0,0,0,0,1,0,32,5,0,0,0,0,2,0,0,03/01/2020,home,15204,628,San Fran. St.,9,True,3,8,-5,loss,1833028,112,2334914,2020
+1,0,3.0,0.0,2,2,1,1,1,0,14,12,0,0,0,1,0,1,0,0,0,0,0,48,2,6,0,0,0,2,1,0,03/08/2020,home,15204,30198,Cal St. San Marcos,9,True,20,6,14,win,1834692,112,2334914,2020

@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,5.0,0.0,3,2,2,1,6,0,19,18,0,0,0,2,0,0,0,0,0,0,0,0,7,2,0,1,0,1,1,0,01/31/2020,away,15204,30146,Azusa Pacific,9,True,0,5,-5,loss,1829570,95,1985369,2020
+1,1,4.0,0.0,9,2,2,0,3,0,20,20,1,0,0,1,0,0,0,0,0,0,0,0,2,6,0,0,0,1,2,0,02/07/2020,home,15204,30147,Fresno Pacific,9,True,14,7,7,win,1829828,95,1985369,2020
+1,1,4.1,0.0,3,0,0,1,5,0,17,16,0,0,0,0,0,0,0,0,0,0,0,0,4,4,1,0,0,1,2,0,02/15/2020,home,15204,628,San Fran. St.,9,True,1,0,1,win,1848189,95,1985369,2020
+1,1,4.2,0.0,4,3,2,4,1,0,22,16,1,0,0,0,0,0,0,0,0,2,0,90,8,4,0,0,0,1,0,0,02/22/2020,away,15204,30055,Cal St. Monterey Bay,9,True,4,3,1,win,1847678,95,1985369,2020
+1,1,5.0,0.0,2,0,0,1,4,0,19,16,0,0,0,0,0,1,0,0,0,1,0,0,4,7,1,0,0,1,2,0,02/29/2020,home,15204,98,Cal St. East Bay,9,True,5,0,5,win,1848766,95,1985369,2020
+1,1,4.0,0.0,7,3,3,0,1,0,18,17,2,0,0,0,0,0,0,0,0,0,1,0,3,7,0,1,0,1,0,0,03/06/2020,home,15204,93,Cal St. San B'dino,9,True,0,3,-3,loss,1971201,95,1985369,2020

@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/22/2020,away,15204,1014,Col. of Charleston,9,True,4,14,-10,loss,4 - 14,4937187,817,1,2.0,0,0,0,0,2,3,0,8,6,0,0,0,0,0,0,0,0,0,0,0,29,2,1,0,0,0,5,1,0,2308693,2020
-02/27/2020,away,15204,2,Abilene Christian,9,True,2,5,-3,loss,2 - 5,4941333,817,1,1.0,0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,2,0,0,0,0,3,0,0,2308693,2020
-03/06/2020,away,15204,489,N.C. Central,9,True,5,6,-1,loss,5 - 6,4952590,817,1,1.0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,16,3,0,0,0,0,4,0,0,2308693,2020
-03/10/2020,home,15204,71,Bowling Green,9,True,1,2,-1,loss,1 - 2,4956707,817,1,0.1,0,1,1,1,0,0,0,2,2,0,1,0,0,0,0,0,1,1,0,0,6,1,0,0,1,0,2,0,0,2308693,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,0,0,0,2,3,0,8,6,0,0,0,0,0,0,0,0,0,0,0,29,2,1,0,0,0,5,1,0,02/22/2020,away,15204,1014,Col. of Charleston,9,True,4,14,-10,loss,1831660,817,2308693,2020
+1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,2,0,0,0,0,3,0,0,02/27/2020,away,15204,2,Abilene Christian,9,True,2,5,-3,loss,1832281,817,2308693,2020
+1,0,1.0,0.0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,16,3,0,0,0,0,4,0,0,03/06/2020,away,15204,489,N.C. Central,9,True,5,6,-1,loss,1833941,817,2308693,2020
+1,0,0.1,0.0,1,1,1,0,0,0,2,2,0,1,0,0,0,0,0,1,1,0,0,6,1,0,0,1,0,2,0,0,03/10/2020,home,15204,71,Bowling Green,9,True,1,2,-1,loss,1834941,817,2308693,2020

@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/14/2020,home,15204,635,Seton Hall,9,True,4,3,1,win,4 - 3,4926306,749,1,5.2,0,6,2,2,6,10,0,26,20,0,0,0,0,1,0,1,0,0,0,0,101,0,4,0,0,0,1,3,0,2130564,2020
-02/21/2020,away,15204,99,Long Beach St.,9,True,2,6,-4,loss,2 - 6,4934400,749,1,6.0,0,6,6,2,5,9,0,28,22,0,1,0,0,1,0,0,0,0,1,0,101,3,4,0,1,0,1,3,0,2130564,2020
-02/28/2020,home,15204,340,La Salle,9,True,7,4,3,win,7 - 4,4942154,749,1,5.2,0,7,2,2,2,13,0,25,23,2,0,0,0,1,0,0,0,0,0,0,108,1,2,0,0,0,1,7,0,2130564,2020
-03/06/2020,home,15204,367,Louisville,9,True,1,4,-3,loss,1 - 4,4951083,749,1,5.0,0,4,3,2,5,11,0,24,18,2,0,0,0,1,1,0,0,0,0,0,103,2,0,0,1,0,1,3,0,2130564,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,5.2,0.0,6,2,2,6,10,0,26,20,0,0,0,0,1,0,1,0,0,0,0,101,0,4,0,0,0,1,3,0,02/14/2020,home,15204,635,Seton Hall,9,True,4,3,1,win,1830246,749,2130564,2020
+1,1,6.0,0.0,6,6,2,5,9,0,28,22,0,1,0,0,1,0,0,0,0,1,0,101,3,4,0,1,0,1,3,0,02/21/2020,away,15204,99,Long Beach St.,9,True,2,6,-4,loss,1831321,749,2130564,2020
+1,1,5.2,0.0,7,2,2,2,13,0,25,23,2,0,0,0,1,0,0,0,0,0,0,108,1,2,0,0,0,1,7,0,02/28/2020,home,15204,340,La Salle,9,True,7,4,3,win,1832432,749,2130564,2020
+1,1,5.0,0.0,4,3,2,5,11,0,24,18,2,0,0,0,1,1,0,0,0,0,0,103,2,0,0,1,0,1,3,0,03/06/2020,home,15204,367,Louisville,9,True,1,4,-3,loss,1833901,749,2130564,2020

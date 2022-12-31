@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/01/2020,home,15204,30200,Concordia Portland,9,True,9,3,6,win,9 - 3,4917415,112,1,4.2,0,7,2,2,0,3,0,22,22,0,0,0,1,0,0,0,0,0,0,0,57,4,7,0,0,0,1,0,0,1973271,2020
-02/06/2020,home,15204,30149,Point Loma,9,True,3,1,2,win,3 - 1,4918461,112,1,3.0,0,1,0,0,1,5,0,11,10,0,0,0,0,0,0,0,0,0,0,0,41,2,2,0,0,0,1,1,0,1973271,2020
-02/14/2020,home,15204,91,Cal Poly Pomona,9,True,3,2,1,win,3 - 2,4930190,112,1,5.0,0,4,1,1,1,4,0,21,20,0,0,0,0,0,0,0,0,0,0,0,73,5,5,0,0,0,1,1,0,1973271,2020
-02/21/2020,away,15204,645,Sonoma St.,9,True,20,1,19,win,20 - 1,4934090,112,1,6.0,0,3,0,0,1,7,0,21,20,1,0,0,0,0,0,0,0,0,0,0,0,4,5,1,0,0,1,4,0,1973271,2020
-02/28/2020,home,15204,628,San Fran. St.,9,True,4,3,1,win,4 - 3,4942606,112,1,6.2,0,5,3,3,2,5,0,26,23,1,0,0,0,0,1,0,0,0,0,0,112,8,5,1,0,0,1,2,0,1973271,2020
-03/06/2020,away,15204,30198,Cal St. San Marcos,9,True,12,3,9,win,12 - 3,4950903,112,1,6.0,0,7,3,2,0,5,0,25,24,0,0,0,0,1,1,0,0,0,0,0,87,6,5,1,0,0,1,3,0,1973271,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.2,0.0,7,2,2,0,3,0,22,22,0,0,0,1,0,0,0,0,0,0,0,57,4,7,0,0,0,1,0,0,02/01/2020,home,15204,30200,Concordia Portland,9,True,9,3,6,win,1848535,112,1973271,2020
+1,1,3.0,0.0,1,0,0,1,5,0,11,10,0,0,0,0,0,0,0,0,0,0,0,41,2,2,0,0,0,1,1,0,02/06/2020,home,15204,30149,Point Loma,9,True,3,1,2,win,1829778,112,1973271,2020
+1,1,5.0,0.0,4,1,1,1,4,0,21,20,0,0,0,0,0,0,0,0,0,0,0,73,5,5,0,0,0,1,1,0,02/14/2020,home,15204,91,Cal Poly Pomona,9,True,3,2,1,win,1830311,112,1973271,2020
+1,1,6.0,0.0,3,0,0,1,7,0,21,20,1,0,0,0,0,0,0,0,0,0,0,0,4,5,1,0,0,1,4,0,02/21/2020,away,15204,645,Sonoma St.,9,True,20,1,19,win,1831194,112,1973271,2020
+1,1,6.2,0.0,5,3,3,2,5,0,26,23,1,0,0,0,0,1,0,0,0,0,0,112,8,5,1,0,0,1,2,0,02/28/2020,home,15204,628,San Fran. St.,9,True,4,3,1,win,1832491,112,1973271,2020
+1,1,6.0,0.0,7,3,2,0,5,0,25,24,0,0,0,0,1,1,0,0,0,0,0,87,6,5,1,0,0,1,3,0,03/06/2020,away,15204,30198,Cal St. San Marcos,9,True,12,3,9,win,1833785,112,1973271,2020

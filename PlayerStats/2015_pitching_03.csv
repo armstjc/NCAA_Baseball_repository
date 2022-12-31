@@ -1,4 +1,4 @@
-App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,score,pickoffs,Pitches
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,pickoffs,score,Pitches
 0,0.0,1.1,,1,0,0,1,1,0,6,5,1,0,0,1,1,0,0,3,1,0,0,0.0,1,2,0,0,0,3,1,04/27/2015,home,12080,155,Colo. Sch. of Mines,9,True,4,12,-8,loss,422772,11403,1654394,2015,,,
 0,0.0,2.1,,5,4,4,1,2,0,14,11,1,1,0,0,0,1,0,2,0,0,1,0.0,2,3,0,0,0,2,0,05/02/2015,home,12080,413,MSU Denver,9,True,12,16,-4,loss,423775,11403,1654394,2015,,,
 0,0.0,1.1,,2,2,2,1,1,0,7,6,1,0,0,1,0,0,0,1,0,0,0,29.0,1,2,0,0,0,4,0,02/13/2015,away,12080,43,Austin Peay,9,True,7,15,-8,loss,404786,482,1660031,2015,,,

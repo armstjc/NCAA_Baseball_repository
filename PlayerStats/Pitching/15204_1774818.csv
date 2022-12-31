@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,stats_player_seq,season
-02/14/2020,home,15204,380,Maine,9,True,3,1,2,win,3 - 1,4926434,792,1,6.0,0,2,1,1,1,8,0,22,19,0,0,0,1,0,2,0,0,0,0,0,0,5,4,1,0,0,1,0,0,1774818,2020
-02/21/2020,home,15204,116,Canisius,11,True,6,5,1,win,6 - 5,4937108,792,1,6.1,0,6,5,1,2,4,0,27,23,1,0,0,0,0,0,0,0,0,1,1,0,6,6,0,0,0,1,0,0,1774818,2020
-02/28/2020,home,15204,331,Kent St.,10,True,2,5,-3,loss,2 - 5,4942118,792,1,6.0,0,5,5,4,2,3,0,28,21,1,2,0,0,0,3,0,0,0,2,0,91,6,8,0,1,0,1,0,0,1774818,2020
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,6.0,0.0,2,1,1,1,8,0,22,19,0,0,0,1,0,2,0,0,0,0,0,0,5,4,1,0,0,1,0,0,02/14/2020,home,15204,380,Maine,9,True,3,1,2,win,1830273,792,1774818,2020
+1,1,6.1,0.0,6,5,1,2,4,0,27,23,1,0,0,0,0,0,0,0,0,1,1,0,6,6,0,0,0,1,0,0,02/21/2020,home,15204,116,Canisius,11,True,6,5,1,win,1831290,792,1774818,2020
+1,1,6.0,0.0,5,5,4,2,3,0,28,21,1,2,0,0,0,3,0,0,0,2,0,91,6,8,0,1,0,1,0,0,02/28/2020,home,15204,331,Kent St.,10,True,2,5,-3,loss,1832448,792,1774818,2020

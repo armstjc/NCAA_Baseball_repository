@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.2,0.0,5,2,2,2,4,0,18,16,2,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,2,2,0,02/15/2020,home,15204,75,Bridgewater (VA),9,True,1,6,-5,loss,1830422,20,2329181,2020
+1,0,2.0,0.0,1,0,0,1,0,0,8,7,1,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,2,0,0,02/22/2020,away,15204,203,East. Mennonite,9,True,6,7,-1,loss,1849159,20,2329181,2020
+1,0,0.1,0.0,2,2,2,0,1,0,3,3,1,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,2,0,0,02/23/2020,away,15204,75,Bridgewater (VA),9,True,5,8,-3,loss,1831840,20,2329181,2020
+1,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,3,0,0,03/09/2020,away,15204,8746,Southwestern (TX),9,True,5,7,-2,loss,1834817,20,2329181,2020
+1,1,4.1,0.0,6,6,2,2,3,0,22,19,1,0,0,0,0,1,0,0,0,0,0,0,3,5,0,1,0,1,2,0,03/11/2020,away,15204,715,Trinity (TX),9,True,5,11,-6,loss,1835235,20,2329181,2020

@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,747,Wabash,9,True,4,5,-1,loss,1832456,802,2355377,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2020,home,15204,939,Anderson (IN),9,True,1,9,-8,loss,1832623,802,2355377,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,296,Benedictine (IL),9,True,3,2,1,win,1833017,802,2355377,2020

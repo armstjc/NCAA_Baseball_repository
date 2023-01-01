@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2020,home,15204,737,Vassar,9,True,5,7,-2,loss,1831968,633,2128377,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2020,home,15204,966,Arcadia,9,True,0,1,-1,loss,1832624,633,2128377,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2020,home,15204,276,Haverford,9,True,4,8,-4,loss,1833593,633,2128377,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,home,15204,16,Albright,9,True,2,1,1,win,1834098,633,2128377,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,home,15204,16,Albright,9,True,2,3,-1,loss,1849595,633,2128377,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,home,15204,78,SUNY Brockport,9,True,6,1,5,win,1834627,633,2128377,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2020,home,15204,475,SUNY New Paltz,9,True,3,4,-1,loss,1835185,633,2128377,2020

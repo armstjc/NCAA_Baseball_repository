@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/22/2020,away,15204,745,Va. Wesleyan,9,True,1,11,-10,loss,1831534,313,2364202,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/22/2020,away,15204,745,Va. Wesleyan,9,True,3,4,-1,loss,1849693,313,2364202,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2020,away,15204,745,Va. Wesleyan,9,True,8,2,6,win,1831836,313,2364202,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,269,Hampden-Sydney,9,True,4,9,-5,loss,1969423,313,2364202,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,611,St. Mary's (MD),9,True,16,18,-2,loss,1969963,313,2364202,2020
+0,1,1,1,0,2,0,1,1,0,0,0,0,0,0,0,0,0,03/08/2020,away,15204,19,Allegheny,9,True,1,2,-1,loss,1971147,313,2364202,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,away,15204,19,Allegheny,9,True,8,11,-3,loss,1971121,313,2364202,2020

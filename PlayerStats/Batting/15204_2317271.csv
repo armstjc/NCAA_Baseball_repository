@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,364,Loras,9,True,5,1,4,win,1832888,137,2317271,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,300,Ill. Wesleyan,9,True,14,5,9,win,1833112,137,2317271,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,300,Ill. Wesleyan,9,True,11,4,7,win,1847827,137,2317271,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,28749,Transylvania,9,True,5,2,3,win,1834167,137,2317271,2020
+1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,28749,Transylvania,9,True,15,10,5,win,1849848,137,2317271,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,away,15204,28749,Transylvania,9,True,6,8,-2,loss,1834542,137,2317271,2020

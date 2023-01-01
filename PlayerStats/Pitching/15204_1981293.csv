@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,7.0,0.0,2,2,1,1,14,0,25,24,1,0,0,0,0,0,0,0,0,0,0,101,4,3,0,0,0,1,3,0,02/08/2020,home,15204,22235,Lewis & Clark,9,True,4,3,1,win,1849344,142,1981293,2020
+1,1,5.0,0.0,7,6,6,1,5,0,24,21,1,1,0,2,2,1,0,0,0,0,1,86,3,7,0,0,0,1,1,0,02/22/2020,away,15204,105,Cal Lutheran,9,True,11,12,-1,loss,1849143,142,1981293,2020
+1,1,7.0,0.0,3,3,3,3,7,0,27,24,0,1,0,0,2,0,0,0,0,0,0,112,5,9,1,0,0,1,1,0,02/29/2020,home,15204,567,Redlands,9,True,9,3,6,win,1848602,142,1981293,2020
+1,1,6.0,0.0,9,4,4,1,6,0,27,26,1,0,0,0,0,0,0,0,0,0,0,0,2,9,0,1,0,1,2,0,03/09/2020,away,15204,549,Pomona-Pitzer,9,True,3,9,-6,loss,1971829,142,1981293,2020

@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,1059,D'Youville,9,True,8,4,4,win,1834450,1451,1895783,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,1059,D'Youville,9,True,13,2,11,win,1848620,1451,1895783,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,1133,Husson,9,True,0,11,-11,loss,1834766,1451,1895783,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/09/2020,neutral,15204,1133,Husson,9,True,6,11,-5,loss,1849773,1451,1895783,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2020,neutral,15204,761,Wells,9,True,12,4,8,win,1835078,1451,1895783,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,525,Olivet,9,True,15,8,7,win,1835248,1451,1895783,2020

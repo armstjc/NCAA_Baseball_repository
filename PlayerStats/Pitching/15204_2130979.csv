@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,0,03/01/2020,home,15204,452,Mount Union,9,True,1,10,-9,loss,1833234,751,2130979,2020
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,1,0,0,0,2,0,0,03/09/2020,neutral,15204,618,St. Scholastica,9,True,10,3,7,win,1834744,751,2130979,2020
+1,0,1.2,0.0,1,0,0,0,1,0,7,7,0,0,0,0,1,0,0,1,1,0,0,27,2,2,0,0,0,3,0,0,03/12/2020,neutral,15204,779,Wheaton (MA),9,True,1,6,-5,loss,1835242,751,2130979,2020
+1,0,1.0,0.0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,2,9,0,3,0,0,0,4,0,0,03/13/2020,neutral,15204,759,Webster,9,True,7,14,-7,loss,1835346,751,2130979,2020

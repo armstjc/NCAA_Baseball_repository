@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+2,4,1,0,0,1,0,1,1,0,0,0,1,0,0,0,1,0,03/02/2020,neutral,15204,11538,Fontbonne,9,True,16,6,10,win,1833290,585,2135242,2020
+0,4,1,1,0,2,0,0,0,0,0,0,1,1,0,0,0,0,03/03/2020,neutral,15204,605,St. Joseph's (ME),9,True,3,1,2,win,1833361,585,2135242,2020
+1,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2020,neutral,15204,12399,Gwynedd Mercy,9,True,10,4,6,win,1833530,585,2135242,2020
+1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2020,neutral,15204,15,Albion,9,True,3,13,-10,loss,1833642,585,2135242,2020
+0,3,2,0,0,2,0,1,2,0,0,0,0,0,1,0,0,0,03/07/2020,away,15204,652,Sewanee,9,True,6,2,4,win,1834172,585,2135242,2020
+0,4,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,03/07/2020,away,15204,652,Sewanee,8,True,3,4,-1,loss,1849853,585,2135242,2020
+1,2,2,0,0,2,0,1,2,0,0,0,0,0,0,0,0,0,03/08/2020,away,15204,652,Sewanee,9,True,5,11,-6,loss,1834488,585,2135242,2020

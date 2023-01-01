@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.0,0.0,9,6,4,1,2,0,25,22,0,0,0,0,0,2,0,0,0,0,0,68,8,2,0,0,0,1,1,0,02/21/2020,away,15204,12884,Centenary (NJ),9,True,6,9,-3,loss,1847900,279,1999858,2020
+1,0,1.1,0.0,2,1,1,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,2,0,0,03/07/2020,neutral,15204,242,Fredonia,9,True,8,19,-11,loss,1834090,279,1999858,2020
+1,0,0.1,0.0,0,0,0,0,1,0,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,03/07/2020,neutral,15204,242,Fredonia,9,True,7,10,-3,loss,1849588,279,1999858,2020
+1,1,5.0,0.0,14,12,10,2,3,0,31,28,4,2,0,0,0,0,0,0,0,0,1,0,6,5,0,1,0,1,1,0,03/09/2020,neutral,15204,124,Catholic,9,True,5,16,-11,loss,1834780,279,1999858,2020

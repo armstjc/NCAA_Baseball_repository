@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,2,0,5,4,0,0,0,0,0,1,0,1,0,0,0,20,1,0,0,0,0,2,0,0,02/15/2020,home,15204,30166,Valley Forge,9,True,22,5,17,win,1966370,245,2340451,2020
+1,1,0.2,0.0,5,13,6,6,0,0,15,8,1,1,0,0,0,1,0,0,0,0,0,0,2,0,0,1,0,1,0,0,02/21/2020,away,15204,21852,Stevenson,9,True,5,31,-26,loss,1831152,245,2340451,2020
+1,1,2.0,0.0,14,12,12,3,0,0,24,21,0,2,0,1,0,0,0,0,0,0,0,75,2,4,0,1,0,1,0,0,03/01/2020,home,15204,753,Washington Col.,9,True,6,20,-14,loss,1833212,245,2340451,2020
+1,0,1.0,0.0,3,2,2,0,1,0,6,6,1,0,0,1,0,0,0,0,0,0,0,28,0,2,0,0,0,3,0,0,03/04/2020,away,15204,124,Catholic,9,True,4,19,-15,loss,1833565,245,2340451,2020
+1,0,1.2,0.0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,1,0,0,0,20,0,5,0,0,0,5,0,0,03/08/2020,home,15204,139,Chris. Newport,9,True,5,18,-13,loss,1834666,245,2340451,2020

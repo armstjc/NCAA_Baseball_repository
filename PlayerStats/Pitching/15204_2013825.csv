@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.1,0.0,7,3,3,2,3,0,23,20,0,0,0,0,0,1,0,0,0,0,0,73,6,4,0,0,0,1,0,0,03/06/2020,neutral,15204,1434,Waynesburg,9,True,3,6,-3,loss,1970437,452,2013825,2020
+1,1,7.0,1,7,3,2,2,4,0,32,27,2,0,0,0,1,1,0,0,0,1,0,0,7,8,1,0,0,1,1,0,03/11/2020,neutral,15204,808,WPI,9,True,5,3,2,win,1835090,452,2013825,2020

@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,home,15204,330,Keene St.,9,True,4,3,1,win,1834162,27892,2125770,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,home,15204,330,Keene St.,9,True,1,0,1,win,1849843,27892,2125770,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,home,15204,547,Plattsburgh St.,9,True,5,0,5,win,1834558,27892,2125770,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,home,15204,547,Plattsburgh St.,9,True,6,9,-3,loss,1849004,27892,2125770,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2020,home,15204,787,Wm. Paterson,9,True,1,7,-6,loss,1835176,27892,2125770,2020

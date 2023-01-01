@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,6.0,0.0,4,2,2,6,6,0,26,19,0,0,0,0,4,1,0,0,0,0,0,101,2,7,0,1,0,1,3,0,02/07/2020,neutral,15204,105,Cal Lutheran,9,True,0,2,-2,loss,1829866,780,2120641,2020
+1,1,6.0,0.0,4,2,2,3,11,0,26,21,1,0,0,0,2,0,0,0,0,2,0,110,2,6,1,0,0,1,1,0,02/14/2020,home,15204,22235,Lewis & Clark,9,True,7,2,5,win,1965720,780,2120641,2020
+1,1,5.1,0.0,3,3,2,5,7,0,24,19,1,0,0,1,0,0,0,0,0,0,0,111,3,6,0,0,0,1,1,0,02/22/2020,home,15204,1179,Linfield,10,True,7,6,1,win,1849684,780,2120641,2020
+1,1,5.0,0.0,9,9,8,3,4,0,28,22,4,0,0,0,0,2,0,0,0,0,1,115,3,6,0,0,0,1,1,0,02/29/2020,away,15204,1454,Whitworth,9,True,11,16,-5,loss,1848601,780,2120641,2020
+1,1,5.0,0.0,8,4,4,2,0,0,24,20,2,0,0,0,0,1,0,0,0,1,0,78,5,8,0,1,0,1,0,0,03/07/2020,away,15204,341,La Verne,9,True,3,4,-1,loss,1834103,780,2120641,2020

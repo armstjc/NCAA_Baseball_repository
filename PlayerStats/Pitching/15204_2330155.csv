@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,5.2,0.0,7,3,2,1,3,0,25,22,2,0,0,0,0,0,0,0,0,2,0,0,7,6,0,0,0,1,0,0,02/23/2020,home,15204,18422,Rivier,9,True,10,8,2,win,1843040,214,2330155,2020
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,0,03/01/2020,neutral,15204,10972,Chatham,9,True,2,4,-2,loss,1832993,214,2330155,2020
+1,1,6.2,0.0,8,4,4,2,5,0,30,27,2,0,0,0,2,1,0,0,0,0,0,0,8,6,1,0,0,1,1,0,03/03/2020,neutral,15204,30064,Saint Vincent,9,True,6,4,2,win,1833357,214,2330155,2020
+1,1,3.2,0.0,10,8,8,0,4,0,22,22,7,0,0,0,1,0,0,0,0,0,0,67,3,4,0,1,0,1,2,0,03/10/2020,home,15204,238,Framingham St.,9,True,4,13,-9,loss,1834959,214,2330155,2020

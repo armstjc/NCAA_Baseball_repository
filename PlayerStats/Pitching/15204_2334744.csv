@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,9,2,0,0,0,0,2,0,0,02/22/2020,away,15204,762,Wentworth,9,True,11,1,10,win,1831544,1064,2334744,2020
+1,0,5.2,0.0,5,0,0,1,6,0,22,21,0,0,1,0,0,0,0,0,0,0,0,0,6,4,1,0,0,2,2,0,02/25/2020,neutral,15204,548,Plymouth St.,10,True,9,5,4,win,1969220,1064,2334744,2020
+1,0,3.0,0.0,4,3,3,2,0,0,15,10,1,1,0,0,0,0,0,2,0,2,1,0,6,3,0,0,0,2,0,0,03/01/2020,neutral,15204,382,Manhattanville,9,True,2,9,-7,loss,1848202,1064,2334744,2020
+1,0,1.0,0.0,1,2,2,1,1,0,6,4,0,0,1,0,0,1,0,0,0,0,0,23,1,1,0,1,0,3,1,0,03/03/2020,neutral,15204,75,Bridgewater (VA),9,True,7,8,-1,loss,1833365,1064,2334744,2020
+1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,1,0,0,3,1,0,0,0,1,1,1,0,0,2,0,0,03/06/2020,neutral,15204,8398,Hilbert,9,True,6,5,1,win,1833760,1064,2334744,2020
+1,0,2.0,0.0,6,6,6,2,2,0,15,11,1,0,0,1,1,1,0,0,0,1,0,0,2,2,0,0,0,2,2,0,03/07/2020,neutral,15204,22626,JWU (Providence),9,True,14,13,1,win,1834088,1064,2334744,2020

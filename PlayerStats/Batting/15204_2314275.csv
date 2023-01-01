@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,home,15204,451,CMSV,9,True,10,12,-2,loss,1971446,962,2314275,2020
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,home,15204,451,CMSV,9,True,3,15,-12,loss,1834130,962,2314275,2020
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,home,15204,123,Castleton,9,True,14,23,-9,loss,1834551,962,2314275,2020
+1,2,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,home,15204,123,Castleton,9,True,3,9,-6,loss,1848997,962,2314275,2020

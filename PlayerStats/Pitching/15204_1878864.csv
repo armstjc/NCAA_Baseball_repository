@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,4,3,3,1,1,0,7,6,1,0,0,0,0,0,0,0,0,0,0,24,1,0,0,0,0,5,1,0,02/08/2020,neutral,15204,412,Methodist,9,True,3,14,-11,loss,1829932,271,1878864,2020
+1,0,1.0,0.0,0,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,03/06/2020,away,15204,30197,Belhaven,9,True,0,6,-6,loss,1849203,271,1878864,2020
+1,0,0.1,0.0,1,1,1,1,0,0,4,1,0,0,0,0,1,1,0,0,0,1,0,10,1,0,0,0,0,2,0,0,03/10/2020,home,15204,1355,Schreiner,9,True,13,10,3,win,1834934,271,1878864,2020

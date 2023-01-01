@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/21/2020,neutral,15204,213,Elmira,9,True,16,2,14,win,1831148,40,2117510,2020
+0,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,02/22/2020,neutral,15204,73,Brandeis,9,True,5,11,-6,loss,1831441,40,2117510,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2020,neutral,15204,88,Cabrini,9,True,1,3,-2,loss,1831813,40,2117510,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2020,neutral,15204,987,Bluffton,9,True,4,2,2,win,1833674,40,2117510,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,707,Thiel,9,True,5,7,-2,loss,1833720,40,2117510,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,531,Otterbein,9,True,1,3,-2,loss,1834076,40,2117510,2020
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,03/11/2020,away,15204,302,UIC,9,True,4,6,-2,loss,1834984,40,2117510,2020

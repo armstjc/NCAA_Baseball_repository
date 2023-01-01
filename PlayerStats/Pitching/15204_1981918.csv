@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.2,0.0,4,2,2,2,2,0,19,16,1,0,0,0,0,1,0,0,0,0,0,83,2,8,0,0,0,2,0,0,02/21/2020,away,15204,28593,Birmingham-So.,9,True,2,8,-6,loss,1831347,496,1981918,2020
+1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,2,0,0,02/29/2020,away,15204,759,Webster,9,True,1,11,-10,loss,1832926,496,1981918,2020
+1,0,3.0,0.0,1,1,0,1,4,0,12,11,1,0,0,0,0,0,0,0,0,0,0,42,4,1,0,0,1,2,3,0,03/01/2020,neutral,15204,160,Concordia Chicago,9,True,6,2,4,win,1833261,496,1981918,2020
+1,0,0.2,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,4,0,0,03/07/2020,neutral,15204,452,Mount Union,9,True,3,4,-1,loss,1834074,496,1981918,2020
+1,0,1.0,0.0,3,1,1,0,0,0,6,6,1,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,2,0,0,03/08/2020,neutral,15204,192,Dubuque,9,True,7,5,2,win,1834432,496,1981918,2020

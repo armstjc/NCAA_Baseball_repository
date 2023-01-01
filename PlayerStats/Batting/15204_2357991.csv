@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/29/2020,away,15204,565,Randolph-Macon,9,True,4,8,-4,loss,1832709,712,2357991,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/29/2020,away,15204,565,Randolph-Macon,9,True,6,12,-6,loss,1848959,712,2357991,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2020,away,15204,565,Randolph-Macon,12,True,4,5,-1,loss,1833071,712,2357991,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2020,away,15204,730,Ursinus,9,True,3,5,-2,loss,1833406,712,2357991,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,home,15204,547,Plattsburgh St.,9,True,8,2,6,win,1834106,712,2357991,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/09/2020,home,15204,12399,Gwynedd Mercy,10,True,8,7,1,win,1834804,712,2357991,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2020,home,15204,0,0.0,10,True,8,7,1,win,1834804,712,2357991,2020

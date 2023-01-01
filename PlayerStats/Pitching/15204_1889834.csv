@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.1,0.0,5,6,6,5,5,0,23,18,0,1,0,1,1,0,0,0,0,0,0,108,2,6,0,1,0,1,2,0,02/21/2020,away,15204,28593,Birmingham-So.,9,True,2,8,-6,loss,1831347,496,1889834,2020
+1,1,7.0,0.0,4,0,0,3,9,0,29,25,1,0,0,0,0,1,0,0,0,0,0,111,4,8,1,0,0,1,5,0,02/29/2020,neutral,15204,798,Wis.-Oshkosh,9,True,2,1,1,win,1832620,496,1889834,2020
+1,1,4.0,0.0,3,2,2,5,3,0,17,12,0,0,0,0,1,0,0,0,0,0,0,59,6,0,0,0,0,1,1,0,03/07/2020,neutral,15204,452,Mount Union,9,True,3,4,-1,loss,1834074,496,1889834,2020
+1,1,9.0,1,10,7,7,5,9,0,43,35,2,0,0,1,0,1,0,0,0,1,1,0,7,9,0,1,0,1,0,0,03/13/2020,neutral,15204,30114,Penn St.-Abington,9,True,6,7,-1,loss,1835363,496,1889834,2020

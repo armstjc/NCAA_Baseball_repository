@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.1,0.0,4,5,5,2,4,0,20,16,3,0,0,0,1,1,0,0,0,0,1,0,5,4,0,0,0,1,1,0,02/25/2020,neutral,15204,548,Plymouth St.,10,True,9,5,4,win,1969220,1064,1879852,2020
+1,1,2.0,0.0,3,6,6,2,2,0,14,8,1,0,0,1,1,3,0,0,0,0,1,49,1,3,0,1,0,1,0,0,03/02/2020,neutral,15204,139,Chris. Newport,9,True,5,18,-13,loss,1833319,1064,1879852,2020
+1,1,5.0,0.0,7,4,3,1,5,0,25,24,0,0,0,1,1,0,0,0,0,0,0,0,6,4,1,0,0,1,2,0,03/07/2020,neutral,15204,22626,JWU (Providence),9,True,14,13,1,win,1834088,1064,1879852,2020

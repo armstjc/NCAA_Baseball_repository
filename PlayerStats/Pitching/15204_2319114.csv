@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.0,0.0,4,1,1,1,0,0,13,12,1,0,0,0,1,0,0,0,0,0,0,0,4,4,0,0,0,2,0,0,02/08/2020,away,15204,263,Greensboro,9,True,12,2,10,win,1849463,30164,2319114,2020
+1,0,1.0,0.0,1,1,1,1,1,0,5,4,1,0,0,0,1,0,0,0,0,0,0,21,2,0,0,0,0,3,0,0,02/22/2020,home,15204,0,Penn St.-Mont Alto,9,True,9,5,4,win,1849688,30164,2319114,2020
+1,0,3.0,0.0,6,4,4,0,3,0,15,15,2,0,0,1,0,0,0,0,0,0,0,43,2,4,0,0,0,5,0,0,03/07/2020,home,15204,30170,Alfred St.,9,True,7,17,-10,loss,1834299,30164,2319114,2020

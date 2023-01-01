@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2020,neutral,15204,30065,NVU-Lyndon,9,True,10,9,1,win,1832982,30064,2360853,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/02/2020,neutral,15204,42,Aurora,11,True,6,5,1,win,1833288,30064,2360853,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2020,neutral,15204,214,Emerson,9,True,4,6,-2,loss,1833357,30064,2360853,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2020,neutral,15204,297,Illinois Col.,9,True,3,16,-13,loss,1833524,30064,2360853,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2020,neutral,15204,601,St. John Fisher,9,True,12,19,-7,loss,1833637,30064,2360853,2020
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,20220,MSOE,9,True,5,35,-30,loss,1833739,30064,2360853,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,161,Concordia-M'head,9,True,7,3,4,win,1834055,30064,2360853,2020

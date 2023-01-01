@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,1,2,2,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,02/08/2020,neutral,15204,24400,Concordia (TX),9,True,4,7,-3,loss,1829997,1124,2302552,2020
+1,0,2.1,0.0,5,4,4,0,3,0,13,11,0,0,0,0,1,1,0,0,0,1,0,34,3,1,1,0,0,2,2,0,02/09/2020,neutral,15204,271,Hardin-Simmons,9,True,7,5,2,win,1830082,1124,2302552,2020
+1,0,1.1,0.0,0,1,0,0,1,0,6,5,0,0,0,0,0,1,0,0,0,0,0,21,3,1,0,0,0,2,0,0,02/16/2020,home,15204,424,Millikin,9,True,0,4,-4,loss,1830749,1124,2302552,2020
+1,0,0.0,0.0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,2,0,0,02/29/2020,home,15204,377,MacMurray,9,True,2,3,-1,loss,1849171,1124,2302552,2020
+1,1,6.2,0.0,4,2,2,2,5,0,26,24,2,0,0,1,0,0,0,0,0,0,0,87,2,13,1,0,0,1,2,0,03/03/2020,home,15204,23008,Ozarks (AR),9,True,8,3,5,win,1833504,1124,2302552,2020

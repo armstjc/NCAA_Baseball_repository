@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.0,0.0,5,6,3,4,1,0,19,14,1,1,0,0,0,0,0,0,0,1,0,68,2,6,0,0,0,2,0,0,02/17/2020,neutral,15204,50,Bates,9,True,4,9,-5,loss,1830928,213,1999281,2020
+1,0,2.1,0.0,8,8,8,1,0,0,18,14,2,0,0,0,0,3,0,2,1,0,0,0,4,2,0,0,0,3,0,0,02/21/2020,neutral,15204,40,Augustana (IL),9,True,2,16,-14,loss,1831148,213,1999281,2020
+1,0,2.0,0.0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,15,2,4,0,0,0,3,0,0,02/29/2020,away,15204,773,McDaniel,9,True,1,2,-1,loss,1848960,213,1999281,2020
+1,0,0.1,0.0,2,2,2,1,1,0,5,3,1,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,2,0,0,03/01/2020,away,15204,21852,Stevenson,9,True,3,16,-13,loss,1849712,213,1999281,2020
+1,0,2.0,0.0,5,6,5,3,0,0,16,13,1,0,0,0,1,0,0,0,0,0,0,0,3,3,0,0,0,4,0,0,03/07/2020,away,15204,239,Franklin & Marshall,9,True,7,15,-8,loss,1849851,213,1999281,2020

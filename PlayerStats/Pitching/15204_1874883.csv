@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,0,0,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,25,4,0,0,0,0,3,0,0,02/29/2020,neutral,15204,798,Wis.-Oshkosh,9,True,5,8,-3,loss,1832809,160,1874883,2020
+1,0,0.2,0.0,1,1,1,1,1,0,5,3,1,0,0,0,0,1,1,2,2,0,0,12,1,0,0,0,0,3,0,0,03/01/2020,neutral,15204,496,North Park,9,True,2,6,-4,loss,1833261,160,1874883,2020
+1,0,4.0,0.0,2,0,0,0,6,0,14,13,0,0,0,0,0,0,0,0,0,0,1,45,3,3,0,0,0,2,1,0,03/09/2020,neutral,15204,30047,Keystone,9,True,3,4,-1,loss,1834743,160,1874883,2020
+1,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,6,1,0,0,0,0,3,0,0,03/10/2020,away,15204,759,Webster,9,True,2,1,1,win,1834861,160,1874883,2020
+1,0,3.2,0.0,3,1,0,2,1,0,17,14,1,0,0,0,1,1,0,0,0,0,0,60,5,3,1,0,0,7,0,0,03/10/2020,neutral,15204,759,Webster,9,True,15,11,4,win,1972150,160,1874883,2020
+1,0,1.0,0.0,2,2,2,0,1,0,5,5,1,0,0,1,0,0,0,0,0,0,0,16,1,1,0,0,0,4,1,0,03/14/2020,neutral,15204,146,Clarkson,9,True,7,6,1,win,1972801,160,1874883,2020

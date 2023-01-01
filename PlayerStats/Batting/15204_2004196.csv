@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2020,neutral,15204,9684,Saint Elizabeth,9,True,9,5,4,win,1833443,22626,2004196,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2020,neutral,15204,139,Chris. Newport,9,True,3,11,-8,loss,1833534,22626,2004196,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2020,neutral,15204,443,Moravian,9,True,9,13,-4,loss,1833556,22626,2004196,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2020,away,15204,467,New England Col.,9,True,10,5,5,win,1833660,22626,2004196,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/06/2020,away,15204,242,Fredonia,9,True,5,2,3,win,1833949,22626,2004196,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,1064,Eastern Nazarene,9,True,13,14,-1,loss,1834088,22626,2004196,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2020,home,15204,0,0.0,9,True,13,14,-1,loss,1834088,22626,2004196,2020

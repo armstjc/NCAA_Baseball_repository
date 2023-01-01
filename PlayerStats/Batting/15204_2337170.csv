@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/06/2020,neutral,15204,166,Cornell College,9,True,4,8,-4,loss,1833740,1036,2337170,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,265,Grove City,9,True,0,4,-4,loss,1834064,1036,2337170,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,home,15204,265,Grove City,9,True,9,4,5,win,1849575,1036,2337170,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,25719,Penn St.-Altoona,9,True,6,2,4,win,1834455,1036,2337170,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,25719,Penn St.-Altoona,9,True,6,4,2,win,1848625,1036,2337170,2020

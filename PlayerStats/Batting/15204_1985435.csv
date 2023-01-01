@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2020,away,15204,401,UMass Boston,9,True,9,5,4,win,1833667,398,1985435,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,8981,Endicott,9,True,7,12,-5,loss,1834216,398,1985435,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/09/2020,away,15204,484,Nichols,9,True,13,7,6,win,1971978,398,1985435,2020

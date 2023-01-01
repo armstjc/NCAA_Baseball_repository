@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,02/22/2020,neutral,15204,26,Anna Maria,9,True,8,17,-9,loss,1831490,621,2127538,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,1133,Husson,9,True,8,0,8,win,1832696,621,2127538,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/29/2020,neutral,15204,1133,Husson,9,True,7,11,-4,loss,1848786,621,2127538,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2020,home,15204,1099,Gordon,9,True,1,5,-4,loss,1833403,621,2127538,2020

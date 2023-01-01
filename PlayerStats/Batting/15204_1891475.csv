@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,away,15204,424,Millikin,9,True,0,7,-7,loss,1834084,614,1891475,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,337,Knox,9,True,11,1,10,win,1834263,614,1891475,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,364,Loras,9,True,5,2,3,win,1834478,614,1891475,2020

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,4,5,4,0,4,0,12,12,0,0,0,2,0,0,0,0,0,0,0,29,0,2,0,1,0,2,2,0,03/03/2020,home,15204,544,Pine Manor,9,True,4,12,-8,loss,1849558,24317,2309267,2020
+1,1,5.0,0.0,7,4,4,2,4,0,24,19,2,0,0,0,0,1,0,0,0,1,1,0,5,4,0,1,0,1,1,0,03/07/2020,neutral,15204,750,Wartburg,9,True,0,11,-11,loss,1834034,24317,2309267,2020
+1,1,4.0,0.0,9,10,9,3,1,0,26,19,4,0,0,0,2,3,0,0,0,0,1,98,4,6,0,1,0,1,0,0,03/11/2020,neutral,15204,762,Wentworth,9,True,4,17,-13,loss,1848213,24317,2309267,2020

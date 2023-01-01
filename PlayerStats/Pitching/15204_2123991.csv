@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,3,0,0,02/23/2020,away,15204,573,Rhodes,9,True,4,5,-1,loss,1832040,28749,2123991,2020
+1,0,0.1,0.0,1,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,02/29/2020,home,15204,182,Denison,9,True,6,5,1,win,1969683,28749,2123991,2020
+1,0,1.0,0.0,2,2,1,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,03/07/2020,home,15204,137,UChicago,9,True,10,15,-5,loss,1849848,28749,2123991,2020
+1,0,1.2,0.0,0,0,0,0,2,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,0,03/11/2020,home,15204,117,Capital,10,True,10,9,1,win,1848427,28749,2123991,2020

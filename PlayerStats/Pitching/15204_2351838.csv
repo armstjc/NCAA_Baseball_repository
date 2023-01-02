@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,2,1,1,2,3,0,8,6,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,0,0,2,1,0,02/23/2020,neutral,15204,376,Macalester,9,True,2,4,-2,loss,1849296,618,2351838,2020
+1,0,1.2,0.0,4,1,0,1,2,0,10,9,1,0,0,0,0,0,0,1,0,0,0,32,0,2,0,0,0,2,0,0,03/02/2020,neutral,15204,795,Wis.-La Crosse,9,True,6,6,0,tie,1849721,618,2351838,2020
+1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,21,2,1,0,0,0,3,0,0,03/08/2020,neutral,15204,570,Rensselaer,9,True,8,4,4,win,1834429,618,2351838,2020
+1,1,2.1,0.0,7,4,4,2,3,0,15,13,1,0,1,0,0,0,0,0,0,0,0,62,2,1,0,0,0,1,0,0,03/10/2020,neutral,15204,1133,Husson,9,True,11,9,2,win,1834845,618,2351838,2020

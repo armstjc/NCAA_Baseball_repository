@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,8.2,0.0,7,3,3,5,3,0,36,28,1,0,1,0,0,0,0,0,0,3,0,0,15,5,0,0,0,1,1,0,02/22/2020,home,15204,30029,Purchase,9,True,4,3,1,win,1968345,480,2352005,2020
+1,1,5.0,0.0,5,4,4,3,3,0,24,18,1,0,0,0,3,2,0,0,0,0,1,69,5,6,0,1,0,1,2,0,03/01/2020,away,15204,8404,Hood,9,True,0,4,-4,loss,1847826,480,2352005,2020
+1,1,5.0,0.0,7,4,4,3,2,0,26,19,2,1,0,0,3,1,0,0,0,1,2,97,7,5,0,1,0,1,0,0,03/08/2020,away,15204,773,McDaniel,9,True,3,8,-5,loss,1834531,480,2352005,2020

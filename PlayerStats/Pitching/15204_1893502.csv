@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.0,0.0,1,0,0,1,1,0,10,8,0,0,0,0,0,1,0,0,0,0,0,0,6,0,0,0,0,3,0,0,03/07/2020,neutral,15204,11538,Fontbonne,9,True,0,9,-9,loss,1834028,618,1893502,2020
+1,0,2.2,0.0,2,3,3,1,1,0,13,9,1,0,0,0,0,2,0,0,0,1,0,36,5,2,0,0,0,2,0,0,03/09/2020,neutral,15204,751,Wash. & Jeff.,9,True,3,10,-7,loss,1834744,618,1893502,2020
+1,1,4.2,0.0,8,6,6,2,6,0,24,21,4,0,0,0,0,1,0,0,0,0,0,84,3,4,0,1,0,1,2,0,03/13/2020,neutral,15204,296,Benedictine (IL),9,True,1,6,-5,loss,1835347,618,1893502,2020

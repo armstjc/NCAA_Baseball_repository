@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2020,away,15204,544,Pine Manor,9,True,2,1,1,win,1833634,170,2345596,2020
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,03/07/2020,neutral,15204,11839,Pitt.-Greensburg,9,True,3,10,-7,loss,1834029,170,2345596,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2020,neutral,15204,10972,Chatham,9,True,6,1,5,win,1971488,170,2345596,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2020,neutral,15204,26,Anna Maria,9,True,9,10,-1,loss,1834430,170,2345596,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2020,neutral,15204,462,Neb. Wesleyan,9,True,12,11,1,win,1835082,170,2345596,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2020,neutral,15204,23725,Medaille,9,True,10,3,7,win,1835267,170,2345596,2020
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2020,home,15204,23725,Medaille,9,True,9,7,2,win,1849016,170,2345596,2020

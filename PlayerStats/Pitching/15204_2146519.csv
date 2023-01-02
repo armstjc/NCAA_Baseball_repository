@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,1,1,0,0,0,5,3,2,0,0,0,0,1,0,0,0,0,1,13,0,2,0,0,0,4,0,0,02/25/2020,neutral,15204,804,Wis.-Superior,9,True,7,10,-3,loss,1847803,120,2146519,2020
+1,0,1.0,0.0,1,1,1,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,0,03/08/2020,neutral,15204,531,Otterbein,9,True,4,12,-8,loss,1834469,120,2146519,2020
+1,0,2.0,0.0,5,3,3,0,0,0,10,10,1,0,0,1,0,0,0,0,0,0,0,0,1,4,0,0,0,3,0,0,03/12/2020,neutral,15204,276,Haverford,9,True,4,18,-14,loss,1835272,120,2146519,2020

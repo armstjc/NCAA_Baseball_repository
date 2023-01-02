@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.0,0.0,0,0,0,0,1,0,9,9,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,2,1,0,03/07/2020,neutral,15204,8597,Martin Luther,9,True,2,5,-3,loss,1834072,23725,2152916,2020
+1,0,1.1,0.0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,2,1,0,03/08/2020,neutral,15204,737,Vassar,9,True,1,2,-1,loss,1848628,23725,2152916,2020
+1,0,1.0,0.0,4,6,5,1,1,0,10,8,1,0,0,0,1,1,1,1,1,0,0,0,1,1,0,1,0,2,1,0,03/12/2020,neutral,15204,170,Curry,9,True,3,10,-7,loss,1835267,23725,2152916,2020
+1,0,1.2,0.0,4,4,3,2,1,0,10,8,0,0,0,0,1,0,0,0,0,0,0,46,1,2,0,0,0,3,1,0,03/13/2020,neutral,15204,1133,Husson,9,True,6,16,-10,loss,1972717,23725,2152916,2020

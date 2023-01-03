@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,1,02/16/2019,neutral,14781,576,Rider,9,True,14,3,11,win,1648130,87,1974374,2019
+1,1,2.1,0.0,2,3,2,0,5,0,10,10,0,0,0,1,0,0,0,0,0,0,0,43,2,0,0,1,0,1,2,02/27/2019,away,14781,306,Indiana,9,True,3,9,-6,loss,1649692,87,1974374,2019
+1,0,0.2,0.0,3,3,3,2,0,0,7,5,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,2,0,03/03/2019,neutral,14781,283,Hofstra,9,True,10,5,5,win,1650555,87,1974374,2019

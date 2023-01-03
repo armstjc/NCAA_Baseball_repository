@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/22/2019,away,14781,406,Mercer,9,True,0,21,-21,loss,0 - 21,4712098,6,1,0.0,0,1,4,4,2,0,0,4,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1879697,2019
-03/19/2019,away,14781,695,UT Martin,9,True,3,8,-5,loss,3 - 8,4741489,6,1,1.1,0,0,0,0,1,0,0,5,4,0,0,0,0,0,0,0,2,0,0,0,23,0,4,0,0,0,3,0,1879697,2019
-03/23/2019,home,14781,2678,Ark.-Pine Bluff,9,True,12,13,-1,loss,12 - 13,4745776,6,1,0.2,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,3,1,1879697,2019
-04/16/2019,away,14781,692,Tennessee Tech,9,True,8,28,-20,loss,8 - 28,4772788,6,1,0.1,0,5,7,7,1,0,0,8,6,3,0,0,2,0,1,0,0,0,0,0,31,1,0,0,0,0,2,0,1879697,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,1,4,4,2,0,0,4,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,02/22/2019,away,14781,406,Mercer,9,True,0,21,-21,loss,1648617,6,1879697,2019
+1,0,1.1,0.0,0,0,0,1,0,0,5,4,0,0,0,0,0,0,0,2,0,0,0,23,0,4,0,0,0,3,0,03/19/2019,away,14781,695,UT Martin,9,True,3,8,-5,loss,1654156,6,1879697,2019
+1,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,3,1,03/23/2019,home,14781,2678,Ark.-Pine Bluff,9,True,12,13,-1,loss,1654757,6,1879697,2019
+1,0,0.1,0.0,5,7,7,1,0,0,8,6,3,0,0,2,0,1,0,0,0,0,0,31,1,0,0,0,0,2,0,04/16/2019,away,14781,692,Tennessee Tech,9,True,8,28,-20,loss,1660411,6,1879697,2019

@@ -141,7 +141,7 @@ def getSeasonGbgStats(season=2020):
     #print(schools)
     hasRoster = True
 
-    for i in tqdm(range(860,len(schools.T))):
+    for i in tqdm(range(0,len(schools.T))):
         coll_count += 1
         print(f'{i}/{max_schools} {schools[i]}')
         try:
@@ -205,7 +205,7 @@ def getSeasonGbgStats(season=2020):
 def main():
     print('starting up')
     #getAllGbgStats()
-    getSeasonGbgStats(2020)
+    getSeasonGbgStats(2019)
     
 if __name__ == "__main__":
     main()

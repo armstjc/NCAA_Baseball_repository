@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/22/2019,home,14781,167,Cornell,9,True,17,0,17,win,17 - 0,4712400,51,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,16,0,2,0,0,0,4,1,2138954,2019
-03/08/2019,home,14781,463,Nebraska,9,True,4,12,-8,loss,4 - 12,4727172,51,1,0.2,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,7,1,0,0,0,0,6,0,2138954,2019
-03/19/2019,away,14781,624,Sam Houston,9,True,7,8,-1,loss,7 - 8,4741610,51,1,1.0,0,3,4,4,0,0,0,7,6,0,1,0,0,0,1,0,0,0,0,0,27,2,1,0,0,0,2,0,2138954,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,16,0,2,0,0,0,4,1,02/22/2019,home,14781,167,Cornell,9,True,17,0,17,win,1648653,51,2138954,2019
+1,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,7,1,0,0,0,0,6,0,03/08/2019,home,14781,463,Nebraska,9,True,4,12,-8,loss,1651263,51,2138954,2019
+1,0,1.0,0.0,3,4,4,0,0,0,7,6,0,1,0,0,0,1,0,0,0,0,0,27,2,1,0,0,0,2,0,03/19/2019,away,14781,624,Sam Houston,9,True,7,8,-1,loss,1653988,51,2138954,2019

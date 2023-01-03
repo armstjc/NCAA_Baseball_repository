@@ -1,5 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/16/2019,away,14781,406,Mercer,9,True,10,7,3,win,10 - 7,4737346,62,1,1.0,0,2,2,2,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,10,3,0,0,0,0,3,0,1871105,2019
-03/19/2019,away,14781,1157,Kennesaw St.,9,True,1,10,-9,loss,1 - 10,4741281,62,1,1.0,0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,1,0,0,0,4,0,1871105,2019
-04/06/2019,home,14781,482,Niagara,9,True,16,4,12,win,16 - 4,4761361,62,1,1.0,0,3,3,3,2,1,0,8,6,0,0,1,0,0,0,0,0,0,0,0,32,1,1,0,0,0,3,0,1871105,2019
-05/08/2019,home,14781,639,Siena,9,True,8,1,7,win,8 - 1,4789340,62,1,1.0,0,0,0,0,0,1,0,3,2,0,0,0,0,0,1,0,0,0,0,0,16,1,0,0,0,0,4,0,1871105,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,2,2,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,10,3,0,0,0,0,3,0,03/16/2019,away,14781,406,Mercer,9,True,10,7,3,win,1653195,62,1871105,2019
+1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,1,0,0,0,4,0,03/19/2019,away,14781,1157,Kennesaw St.,9,True,1,10,-9,loss,1654146,62,1871105,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/30/2019,away,14781,14,UAlbany,11,True,3,4,-1,loss,1656347,62,1871105,2019
+1,0,1.0,0.0,3,3,3,2,1,0,8,6,0,0,1,0,0,0,0,0,0,0,0,32,1,1,0,0,0,3,0,04/06/2019,home,14781,482,Niagara,9,True,16,4,12,win,1658235,62,1871105,2019
+1,0,1.0,0.0,0,0,0,0,1,0,3,2,0,0,0,0,0,1,0,0,0,0,0,16,1,0,0,0,0,4,0,05/08/2019,home,14781,639,Siena,9,True,8,1,7,win,1664139,62,1871105,2019

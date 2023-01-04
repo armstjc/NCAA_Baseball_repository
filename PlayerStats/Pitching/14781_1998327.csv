@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.2,0.0,2,0,0,0,1,0,8,7,0,0,0,0,0,1,0,0,0,0,0,26,0,4,0,0,0,3,1,02/18/2019,home,14781,702,UT Arlington,10,True,9,10,-1,loss,1648409,26172,1998327,2019
+1,0,2.2,0.0,1,0,0,0,3,0,10,9,1,0,0,0,0,1,0,0,0,0,0,23,3,2,0,0,0,4,0,02/23/2019,home,14781,518,Ohio St.,9,True,8,7,1,win,1649226,26172,1998327,2019
+1,0,1.2,0.0,1,0,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,24,2,1,0,0,0,9,1,02/27/2019,away,14781,670,Texas St.,9,True,12,5,7,win,1649737,26172,1998327,2019

@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/17/2019,home,14781,695,UT Martin,9,True,7,1,6,win,7 - 1,4708078,649,1,1.0,0,2,1,1,0,0,0,5,5,0,0,0,0,1,0,0,0,0,0,0,21,3,0,0,0,0,3,0,1895096,2019
-02/24/2019,home,14781,500,Northeastern,9,True,7,13,-6,loss,7 - 13,4773572,649,1,0.1,0,3,4,4,1,0,0,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,1895096,2019
-03/01/2019,away,14781,1004,Central Ark.,9,True,3,8,-5,loss,3 - 8,4718872,649,1,1.0,0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,18,1,2,0,0,0,4,0,1895096,2019
-03/06/2019,away,14781,8,Alabama,14,True,4,5,-1,loss,4 - 5,4724897,649,1,0.2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,3,0,1895096,2019
-03/09/2019,away,14781,32,Little Rock,9,True,3,10,-7,loss,3 - 10,4728812,649,1,0.2,0,3,3,3,2,0,0,7,5,0,0,0,0,1,0,0,1,1,0,0,34,2,0,0,0,0,4,0,1895096,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,1,1,0,0,0,5,5,0,0,0,0,1,0,0,0,0,0,0,21,3,0,0,0,0,3,0,02/17/2019,neutral,14781,695,UT Martin,9,True,7,1,6,win,1648324,649,1895096,2019
+1,0,0.1,0.0,3,4,4,1,0,0,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,02/24/2019,neutral,14781,500,Northeastern,9,True,7,13,-6,loss,1649330,649,1895096,2019
+1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,18,1,2,0,0,0,4,0,03/01/2019,away,14781,1004,Central Ark.,9,True,3,8,-5,loss,1649930,649,1895096,2019
+1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,3,0,03/06/2019,away,14781,8,Alabama,14,True,4,5,-1,loss,1717005,649,1895096,2019
+1,0,0.2,0.0,3,3,3,2,0,0,7,5,0,0,0,0,1,0,0,1,1,0,0,34,2,0,0,0,0,4,0,03/09/2019,away,14781,32,Little Rock,9,True,3,10,-7,loss,1667531,649,1895096,2019

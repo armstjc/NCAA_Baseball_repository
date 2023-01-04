@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/13/2019,home,14781,792,Winthrop,9,True,4,7,-3,loss,4 - 7,4740582,173,1,0.2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,8,0,2,0,0,0,5,0,2137589,2019
-04/03/2019,away,14781,1092,Gardner-Webb,9,True,1,10,-9,loss,1 - 10,4757971,173,1,0.2,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,1,0,0,11,1,0,0,0,0,7,0,2137589,2019
-04/06/2019,away,14781,489,N.C. Central,9,True,9,10,-1,loss,9 - 10,4763055,173,1,0.0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,5,0,2137589,2019
-04/07/2019,home,14781,489,N.C. Central,9,True,6,9,-3,loss,6 - 9,4763427,173,1,0.1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,2,0,0,2,0,0,0,0,0,6,0,2137589,2019
-04/09/2019,away,14781,792,Winthrop,9,True,3,9,-6,loss,3 - 9,4764435,173,1,0.0,0,2,2,2,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,5,0,2137589,2019
-04/10/2019,away,14781,457,North Carolina,9,True,4,12,-8,loss,4 - 12,4766116,173,1,0.1,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,6,0,1,0,0,0,7,0,2137589,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,8,0,2,0,0,0,5,0,03/13/2019,home,14781,792,Winthrop,9,True,4,7,-3,loss,1652650,173,2137589,2019
+1,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,1,0,0,11,1,0,0,0,0,7,0,04/03/2019,away,14781,1092,Gardner-Webb,9,True,1,10,-9,loss,1657314,173,2137589,2019
+1,0,0.0,0.0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,5,0,04/06/2019,away,14781,489,N.C. Central,9,True,9,10,-1,loss,1658258,173,2137589,2019
+1,0,0.1,0.0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,2,0,0,2,0,0,0,0,0,6,0,04/07/2019,home,14781,489,N.C. Central,9,True,6,9,-3,loss,1658534,173,2137589,2019
+1,0,0.0,0.0,2,2,2,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,5,0,04/09/2019,away,14781,792,Winthrop,9,True,3,9,-6,loss,1658820,173,2137589,2019
+1,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,6,0,1,0,0,0,7,0,04/10/2019,away,14781,457,North Carolina,9,True,4,12,-8,loss,1657070,173,2137589,2019

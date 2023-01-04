@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-04/23/2019,home,14781,327,Kansas St.,9,True,2,9,-7,loss,2 - 9,4778574,464,1,1.0,0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,0,1,0,0,0,5,0,1868279,2019
-04/30/2019,home,14781,169,Creighton,9,True,2,6,-4,loss,2 - 6,4784618,464,1,2.0,0,1,0,0,0,1,0,8,6,1,0,0,0,0,2,0,0,0,0,0,39,3,1,0,0,0,3,1,1868279,2019
-05/04/2019,away,14781,493,North Dakota St.,9,True,2,3,-1,loss,2 - 3,4787134,464,1,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,3,0,1868279,2019
-05/11/2019,away,14781,771,Western Ill.,9,True,0,5,-5,loss,0 - 5,4790728,464,1,4.0,0,2,0,0,1,3,0,14,13,0,0,0,0,1,0,0,0,0,0,0,46,4,4,0,0,0,3,1,1868279,2019
-05/14/2019,away,14781,169,Creighton,9,True,2,13,-11,loss,2 - 13,4791454,464,1,1.0,0,1,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,11,0,2,0,0,0,4,0,1868279,2019
-05/22/2019,home,14781,771,Western Ill.,9,True,15,9,6,win,15 - 9,4794309,464,1,1.2,0,2,5,5,5,2,0,12,7,0,0,0,0,1,0,0,0,0,0,0,57,1,2,0,0,0,3,1,1868279,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,0,1,0,0,0,5,0,04/23/2019,home,14781,327,Kansas St.,9,True,2,9,-7,loss,1661869,464,1868279,2019
+1,0,2.0,0.0,1,0,0,0,1,0,8,6,1,0,0,0,0,2,0,0,0,0,0,39,3,1,0,0,0,3,1,04/30/2019,home,14781,169,Creighton,9,True,2,6,-4,loss,1663225,464,1868279,2019
+1,0,0.1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,3,0,05/04/2019,away,14781,493,North Dakota St.,9,True,2,3,-1,loss,1663593,464,1868279,2019
+1,0,4.0,0.0,2,0,0,1,3,0,14,13,0,0,0,0,1,0,0,0,0,0,0,46,4,4,0,0,0,3,1,05/11/2019,away,14781,771,Western Ill.,9,True,0,5,-5,loss,1664351,464,1868279,2019
+1,0,1.0,0.0,1,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,11,0,2,0,0,0,4,0,05/14/2019,away,14781,169,Creighton,9,True,2,13,-11,loss,1664635,464,1868279,2019
+1,0,1.2,0.0,2,5,5,5,2,0,12,7,0,0,0,0,1,0,0,0,0,0,0,57,1,2,0,0,0,3,1,05/22/2019,neutral,14781,771,Western Ill.,9,True,15,9,6,win,1733348,464,1868279,2019

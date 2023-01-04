@@ -1,7 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
-2,2,5,1,0,0,0,0,0,0,02/15/2019,away,14781,287,Houston Baptist,9,True,3,9,-6,loss,1647665,500,1755519,2019
-1,0,1,0,0,0,0,0,0,0,02/16/2019,away,14781,287,Houston Baptist,9,True,14,8,6,win,1647872,500,1755519,2019
-0,0,0,0,0,0,0,0,0,0,02/17/2019,away,14781,287,Houston Baptist,9,True,2,5,-3,loss,1648192,500,1755519,2019
+2,2,5,1,0,0,0,0,0,0,02/15/2019,away,14781,287,Houston Christian,9,True,3,9,-6,loss,1647665,500,1755519,2019
+1,0,1,0,0,0,0,0,0,0,02/16/2019,away,14781,287,Houston Christian,9,True,14,8,6,win,1647872,500,1755519,2019
+0,0,0,0,0,0,0,0,0,0,02/17/2019,away,14781,287,Houston Christian,9,True,2,5,-3,loss,1648192,500,1755519,2019
 0,0,0,0,0,0,0,0,0,0,02/21/2019,neutral,14781,434,Missouri,9,True,4,3,1,win,1648575,500,1755519,2019
 0,3,3,0,0,0,0,0,0,0,02/23/2019,neutral,14781,649,South Dakota St.,9,True,12,9,3,win,1648977,500,1755519,2019
 0,3,3,0,0,0,0,0,0,0,02/24/2019,neutral,14781,649,South Dakota St.,9,True,13,7,6,win,1649330,500,1755519,2019

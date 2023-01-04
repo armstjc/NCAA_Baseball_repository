@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/15/2019,away,14781,415,Miami (FL),9,True,3,19,-16,loss,3 - 19,4705615,587,1,1.1,0,4,7,5,3,4,0,12,9,1,0,0,1,0,0,0,0,0,0,0,61,0,0,0,0,0,3,2,2114414,2019
-02/24/2019,home,14781,136,Chicago St.,9,True,6,2,4,win,6 - 2,4715771,587,1,4.1,0,2,0,0,3,7,0,18,15,0,0,0,0,1,0,0,1,0,0,0,75,4,2,1,0,0,2,1,2114414,2019
-03/03/2019,away,14781,523,Old Dominion,9,True,2,12,-10,loss,2 - 12,4721710,587,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2114414,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,4,7,5,3,4,0,12,9,1,0,0,1,0,0,0,0,0,0,0,61,0,0,0,0,0,3,2,02/15/2019,away,14781,415,Miami (FL),9,True,3,19,-16,loss,1647831,587,2114414,2019
+1,0,4.1,0.0,2,0,0,3,7,0,18,15,0,0,0,0,1,0,0,1,0,0,0,75,4,2,1,0,0,2,1,02/24/2019,neutral,14781,136,Chicago St.,9,True,6,2,4,win,1649368,587,2114414,2019
+1,1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,03/03/2019,away,14781,523,Old Dominion,9,True,2,12,-10,loss,1650697,587,2114414,2019

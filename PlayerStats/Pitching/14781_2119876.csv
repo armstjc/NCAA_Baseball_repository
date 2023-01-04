@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/12/2019,away,14781,721,Air Force,9,True,6,9,-3,loss,6 - 9,4732360,502,1,2.0,0,3,1,0,1,3,0,10,9,1,0,0,0,0,0,0,0,0,0,0,38,1,1,0,0,0,4,1,2119876,2019
-03/19/2019,home,14781,2720,CSU Pueblo,9,True,17,7,10,win,17 - 7,4741968,502,1,0.1,0,2,2,2,2,0,0,5,3,1,0,0,0,1,0,0,0,0,0,0,18,1,0,0,0,0,7,0,2119876,2019
-04/20/2019,away,14781,94,CSU Bakersfield,9,True,4,16,-12,loss,4 - 16,4776632,502,1,0.2,0,1,3,1,1,0,0,6,4,0,0,0,1,0,1,0,0,0,0,0,20,1,1,0,0,0,3,0,2119876,2019
-05/07/2019,home,14781,721,Air Force,9,True,4,16,-12,loss,4 - 16,4789063,502,1,1.0,0,1,2,2,0,1,0,5,4,0,0,0,1,0,1,0,0,0,0,0,16,0,2,0,0,0,7,1,2119876,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,3,1,0,1,3,0,10,9,1,0,0,0,0,0,0,0,0,0,0,38,1,1,0,0,0,4,1,03/12/2019,away,14781,721,Air Force,9,True,6,9,-3,loss,1652394,502,2119876,2019
+1,0,0.1,0.0,2,2,2,2,0,0,5,3,1,0,0,0,1,0,0,0,0,0,0,18,1,0,0,0,0,7,0,03/19/2019,home,14781,2720,CSU Pueblo,9,True,17,7,10,win,1653992,502,2119876,2019
+1,0,0.2,0.0,1,3,1,1,0,0,6,4,0,0,0,1,0,1,0,0,0,0,0,20,1,1,0,0,0,3,0,04/20/2019,away,14781,94,CSU Bakersfield,9,True,4,16,-12,loss,1661115,502,2119876,2019
+1,0,1.0,0.0,1,2,2,0,1,0,5,4,0,0,0,1,0,1,0,0,0,0,0,16,0,2,0,0,0,7,1,05/07/2019,home,14781,721,Air Force,9,True,4,16,-12,loss,1664107,502,2119876,2019

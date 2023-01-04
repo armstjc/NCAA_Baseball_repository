@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/19/2019,home,14781,703,Texas,9,True,4,11,-7,loss,4 - 11,4710428,574,1,1.1,0,0,1,0,1,1,0,5,4,0,0,0,0,1,0,0,2,0,0,0,0,2,1,0,0,0,4,0,2124233,2019
-02/22/2019,home,14781,109,UC Irvine,9,True,5,11,-6,loss,5 - 11,4712426,574,1,0.0,0,2,2,2,0,0,0,4,3,0,0,0,0,0,1,0,2,2,0,0,13,0,0,0,0,0,5,0,2124233,2019
-02/27/2019,home,14781,553,Prairie View,9,True,25,5,20,win,25 - 5,4717604,574,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,1,2124233,2019
-03/13/2019,home,14781,670,Texas St.,9,True,0,5,-5,loss,0 - 5,4733911,574,1,1.0,0,0,0,0,0,3,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,3,1,2124233,2019
-03/16/2019,away,14781,229,Fla. Atlantic,9,True,7,12,-5,loss,7 - 12,4738009,574,1,0.1,0,3,2,2,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,3,0,2124233,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,0,1,0,1,1,0,5,4,0,0,0,0,1,0,0,2,0,0,0,0,2,1,0,0,0,4,0,02/19/2019,home,14781,703,Texas,9,True,4,11,-7,loss,1648445,574,2124233,2019
+1,0,0.0,0.0,2,2,2,0,0,0,4,3,0,0,0,0,0,1,0,2,2,0,0,13,0,0,0,0,0,5,0,02/22/2019,home,14781,109,UC Irvine,9,True,5,11,-6,loss,1648656,574,2124233,2019
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,1,02/27/2019,home,14781,553,Prairie View,9,True,25,5,20,win,1649687,574,2124233,2019
+1,0,1.0,0.0,0,0,0,0,3,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,3,1,03/13/2019,home,14781,670,Texas St.,9,True,0,5,-5,loss,1652627,574,2124233,2019
+1,0,0.1,0.0,3,2,2,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,3,0,03/16/2019,away,14781,229,Fla. Atlantic,9,True,7,12,-5,loss,1653568,574,2124233,2019

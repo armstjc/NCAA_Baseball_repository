@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/17/2019,away,14781,231,FIU,9,True,2,13,-11,loss,2 - 13,4708125,683,1,1.0,0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,0,3,0,0,0,3,0,2137411,2019
-02/22/2019,away,14781,655,Southeastern La.,9,True,2,7,-5,loss,2 - 7,4712268,683,1,0.2,0,2,1,1,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,21,0,1,0,0,0,4,0,2137411,2019
-03/02/2019,away,14781,31,Arkansas,9,True,7,15,-8,loss,7 - 15,4722824,683,1,1.0,0,4,2,2,0,0,0,7,7,0,0,0,1,0,0,0,1,0,0,0,27,1,2,0,0,0,4,0,2137411,2019
-03/13/2019,home,14781,361,LIU,9,True,9,3,6,win,9 - 3,4733470,683,1,1.0,0,2,2,2,1,1,0,6,5,0,0,0,0,1,0,0,0,0,0,0,29,1,1,0,0,0,4,1,2137411,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,0,3,0,0,0,3,0,02/17/2019,away,14781,231,FIU,9,True,2,13,-11,loss,1648211,683,2137411,2019
+1,0,0.2,0.0,2,1,1,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,21,0,1,0,0,0,4,0,02/22/2019,away,14781,655,Southeastern La.,9,True,2,7,-5,loss,1648815,683,2137411,2019
+1,0,1.0,0.0,4,2,2,0,0,0,7,7,0,0,0,1,0,0,0,1,0,0,0,27,1,2,0,0,0,4,0,03/02/2019,away,14781,31,Arkansas,9,True,7,15,-8,loss,1650052,683,2137411,2019
+1,0,1.0,0.0,2,2,2,1,1,0,6,5,0,0,0,0,1,0,0,0,0,0,0,29,1,1,0,0,0,4,1,03/13/2019,home,14781,361,LIU,9,True,9,3,6,win,1651132,683,2137411,2019

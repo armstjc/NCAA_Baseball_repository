@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/15/2019,away,14781,609,Saint Louis,9,True,3,7,-4,loss,3 - 7,4735746,136,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,3,0,0,0,3,0,1996438,2019
-03/27/2019,home,14781,509,Northwestern,9,True,1,13,-12,loss,1 - 13,4750294,136,1,2.0,0,0,0,0,2,0,0,8,6,0,0,0,0,0,0,0,0,0,0,0,33,3,3,0,0,0,6,0,1996438,2019
-04/02/2019,away,14781,509,Northwestern,9,True,6,11,-5,loss,6 - 11,4756491,136,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,6,0,1996438,2019
-04/23/2019,away,14781,559,Purdue,9,True,1,10,-9,loss,1 - 10,4778492,136,1,1.0,0,3,3,3,1,0,0,8,5,0,0,0,0,0,1,0,0,0,0,1,24,1,2,0,0,0,3,0,1996438,2019
-05/07/2019,home,14781,201,Eastern Ill.,9,True,3,8,-5,loss,3 - 8,4789323,136,1,1.0,0,1,1,1,1,1,0,5,4,0,0,0,1,0,0,0,0,0,0,0,20,0,2,0,0,0,5,0,1996438,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,3,0,0,0,3,0,03/15/2019,away,14781,609,Saint Louis,9,True,3,7,-4,loss,1652930,136,1996438,2019
+1,0,2.0,0.0,0,0,0,2,0,0,8,6,0,0,0,0,0,0,0,0,0,0,0,33,3,3,0,0,0,6,0,03/27/2019,home,14781,509,Northwestern,9,True,1,13,-12,loss,1655866,136,1996438,2019
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,6,0,04/02/2019,away,14781,509,Northwestern,9,True,6,11,-5,loss,1657167,136,1996438,2019
+1,0,1.0,0.0,3,3,3,1,0,0,8,5,0,0,0,0,0,1,0,0,0,0,1,24,1,2,0,0,0,3,0,04/23/2019,away,14781,559,Purdue,9,True,1,10,-9,loss,1661659,136,1996438,2019
+1,0,1.0,0.0,1,1,1,1,1,0,5,4,0,0,0,1,0,0,0,0,0,0,0,20,0,2,0,0,0,5,0,05/07/2019,home,14781,201,Eastern Ill.,9,True,3,8,-5,loss,1664126,136,1996438,2019

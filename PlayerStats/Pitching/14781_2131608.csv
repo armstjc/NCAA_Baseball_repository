@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/20/2019,away,14781,111,UC Riverside,9,True,5,1,4,win,5 - 1,4710821,370,1,2.0,0,0,0,0,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0,0,19,3,3,0,0,0,2,0,2131608,2019
-02/26/2019,home,14781,109,UC Irvine,9,True,7,3,4,win,7 - 3,4716752,370,1,1.1,0,2,0,0,1,2,0,7,6,1,0,0,0,0,0,0,2,1,0,0,25,2,0,0,0,0,2,2,2131608,2019
-03/05/2019,away,14781,657,Southern California,9,True,14,5,9,win,14 - 5,4724888,370,1,0.2,0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,4,0,1,0,0,0,3,0,2131608,2019
-03/26/2019,home,14781,110,UCLA,9,True,4,9,-5,loss,4 - 9,4749805,370,1,0.1,0,3,1,1,0,0,0,4,3,0,0,0,0,0,0,0,1,1,0,1,13,0,1,0,0,0,2,0,2131608,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,0,0,0,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0,0,19,3,3,0,0,0,2,0,02/20/2019,away,14781,111,UC Riverside,9,True,5,1,4,win,1648524,370,2131608,2019
+1,0,1.1,0.0,2,0,0,1,2,0,7,6,1,0,0,0,0,0,0,2,1,0,0,25,2,0,0,0,0,2,2,02/26/2019,home,14781,109,UC Irvine,9,True,7,3,4,win,1649659,370,2131608,2019
+1,0,0.2,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,4,0,1,0,0,0,3,0,03/05/2019,away,14781,657,Southern California,9,True,14,5,9,win,1650888,370,2131608,2019
+1,0,0.1,0.0,3,1,1,0,0,0,4,3,0,0,0,0,0,0,0,1,1,0,1,13,0,1,0,0,0,2,0,03/26/2019,home,14781,110,UCLA,9,True,4,9,-5,loss,1655572,370,2131608,2019

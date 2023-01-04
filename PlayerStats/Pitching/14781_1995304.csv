@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/23/2019,home,14781,386,Marist,9,True,4,9,-5,loss,4 - 9,4763535,1320,1,1.0,0,2,2,2,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,19,2,0,0,0,0,3,0,1995304,2019
-03/03/2019,home,14781,80,Brown,9,True,3,4,-1,loss,3 - 4,4721842,1320,1,2.0,0,1,0,0,3,1,0,8,5,0,0,0,0,0,0,0,0,0,0,0,32,1,2,0,0,0,4,0,1995304,2019
-03/08/2019,away,14781,257,Georgia,9,True,0,17,-17,loss,0 - 17,4726660,1320,1,2.0,0,3,1,1,2,1,0,10,8,1,0,0,0,1,0,0,0,0,0,0,0,2,2,0,0,0,5,1,1995304,2019
-03/12/2019,away,14781,1157,Kennesaw St.,9,True,5,13,-8,loss,5 - 13,4735696,1320,1,2.0,0,3,4,2,2,0,0,12,7,0,0,0,0,0,0,0,0,0,1,2,43,3,3,0,0,0,2,0,1995304,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,2,2,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,19,2,0,0,0,0,3,0,02/23/2019,neutral,14781,386,Marist,9,True,4,9,-5,loss,1648881,1320,1995304,2019
+1,0,2.0,0.0,1,0,0,3,1,0,8,5,0,0,0,0,0,0,0,0,0,0,0,32,1,2,0,0,0,4,0,03/03/2019,home,14781,80,Brown,9,True,3,4,-1,loss,1650460,1320,1995304,2019
+1,0,2.0,0.0,3,1,1,2,1,0,10,8,1,0,0,0,1,0,0,0,0,0,0,0,2,2,0,0,0,5,1,03/08/2019,away,14781,257,Georgia,9,True,0,17,-17,loss,1651509,1320,1995304,2019
+1,0,2.0,0.0,3,4,2,2,0,0,12,7,0,0,0,0,0,0,0,0,0,1,2,43,3,3,0,0,0,2,0,03/12/2019,away,14781,1157,Kennesaw St.,9,True,5,13,-8,loss,1652412,1320,1995304,2019

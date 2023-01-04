@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/01/2019,home,14781,193,Duke,9,True,0,14,-14,loss,0 - 14,4719010,539,1,1.0,0,1,0,0,2,3,0,6,4,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,7,1,1757092,2019
-04/03/2019,home,14781,596,St. Bonaventure,9,True,6,18,-12,loss,6 - 18,4758104,539,1,0.1,0,1,1,1,1,1,0,3,2,1,0,0,0,0,0,0,1,1,0,0,15,0,0,0,0,0,5,1,1757092,2019
-05/11/2019,away,14781,518,Ohio St.,9,True,10,6,4,win,10 - 6,4790847,539,1,0.0,0,0,3,3,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,3,0,1757092,2019
-05/18/2019,home,14781,29,Arizona,9,True,5,9,-4,loss,5 - 9,4792452,539,1,0.1,0,1,3,3,4,1,0,7,2,0,0,0,0,0,1,0,0,0,0,0,35,0,0,0,1,0,1,1,1757092,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,2,3,0,6,4,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,7,1,03/01/2019,neutral,14781,193,Duke,9,True,0,14,-14,loss,1649964,539,1757092,2019
+1,0,0.1,0.0,1,1,1,1,1,0,3,2,1,0,0,0,0,0,0,1,1,0,0,15,0,0,0,0,0,5,1,04/03/2019,home,14781,596,St. Bonaventure,9,True,6,18,-12,loss,1657456,539,1757092,2019
+1,0,0.0,0.0,0,3,3,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,3,0,05/11/2019,away,14781,518,Ohio St.,9,True,10,6,4,win,1664341,539,1757092,2019
+1,1,0.1,0.0,1,3,3,4,1,0,7,2,0,0,0,0,0,1,0,0,0,0,0,35,0,0,0,1,0,1,1,05/18/2019,home,14781,29,Arizona,9,True,5,9,-4,loss,1665027,539,1757092,2019

@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/26/2019,away,14781,508,Northwestern St.,9,True,0,15,-15,loss,0 - 15,4716683,498,1,0.1,0,3,3,3,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,3,0,2139968,2019
-03/05/2019,away,14781,655,Southeastern La.,9,True,3,10,-7,loss,3 - 10,4724090,498,1,1.2,0,1,0,0,0,2,0,6,5,0,0,0,0,0,0,0,2,2,0,1,21,0,3,0,0,0,5,1,2139968,2019
-03/10/2019,home,14781,402,McNeese,9,True,2,10,-8,loss,2 - 10,4731079,498,1,0.2,0,1,1,1,1,1,0,4,3,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,4,0,2139968,2019
-03/19/2019,away,14781,664,Southern Miss.,9,True,4,5,-1,loss,4 - 5,4741537,498,1,0.2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0,1,3,0,1,0,0,0,6,0,2139968,2019
-03/24/2019,away,14781,670,Texas St.,9,True,1,13,-12,loss,1 - 13,4746825,498,1,0.0,0,1,2,2,0,0,0,2,1,0,0,0,1,0,1,0,3,3,0,0,6,0,0,0,0,0,5,0,2139968,2019
-04/03/2019,away,14781,430,Mississippi St.,9,True,8,21,-13,loss,8 - 21,4758135,498,1,1.0,0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,1,0,0,0,7,0,2139968,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,3,3,3,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,3,0,02/26/2019,away,14781,508,Northwestern St.,9,True,0,15,-15,loss,1649656,498,2139968,2019
+1,0,1.2,0.0,1,0,0,0,2,0,6,5,0,0,0,0,0,0,0,2,2,0,1,21,0,3,0,0,0,5,1,03/05/2019,away,14781,655,Southeastern La.,9,True,3,10,-7,loss,1651007,498,2139968,2019
+1,0,0.2,0.0,1,1,1,1,1,0,4,3,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,4,0,03/10/2019,home,14781,402,McNeese,9,True,2,10,-8,loss,1652234,498,2139968,2019
+1,0,0.2,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0,1,3,0,1,0,0,0,6,0,03/19/2019,away,14781,664,Southern Miss.,9,True,4,5,-1,loss,1654150,498,2139968,2019
+1,0,0.0,0.0,1,2,2,0,0,0,2,1,0,0,0,1,0,1,0,3,3,0,0,6,0,0,0,0,0,5,0,03/24/2019,away,14781,670,Texas St.,9,True,1,13,-12,loss,1655445,498,2139968,2019
+1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,1,0,0,0,7,0,04/03/2019,away,14781,430,Mississippi St.,9,True,8,21,-13,loss,1657458,498,2139968,2019

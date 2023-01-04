@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/16/2019,home,14781,248,George Mason,9,True,4,9,-5,loss,4 - 9,4707755,388,1,0.1,0,2,6,6,5,0,0,8,3,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,2137197,2019
-02/23/2019,home,14781,310,Iona,9,True,8,3,5,win,8 - 3,4714272,388,1,4.2,0,4,3,3,3,6,0,21,18,0,0,0,2,2,0,0,0,0,0,0,0,6,2,0,0,0,1,1,2137197,2019
-03/10/2019,home,14781,204,Eastern Mich.,9,True,10,3,7,win,10 - 3,4731809,388,1,0.0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2137197,2019
-04/19/2019,away,14781,366,Louisiana Tech,9,True,6,19,-13,loss,6 - 19,4775205,388,1,0.2,0,0,1,1,1,0,0,3,2,0,0,0,0,0,0,0,1,0,0,0,10,0,2,0,0,0,4,0,2137197,2019
-05/01/2019,home,14781,444,Morehead St.,9,True,2,8,-6,loss,2 - 8,4785342,388,1,0.0,0,0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0,0,0,0,0,8,0,2137197,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,0.1,0.0,2,6,6,5,0,0,8,3,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,02/16/2019,neutral,14781,248,George Mason,9,True,4,9,-5,loss,1647934,388,2137197,2019
+1,1,4.2,0.0,4,3,3,3,6,0,21,18,0,0,0,2,2,0,0,0,0,0,0,0,6,2,0,0,0,1,1,02/23/2019,neutral,14781,310,Iona,9,True,8,3,5,win,1648983,388,2137197,2019
+1,1,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,03/10/2019,home,14781,204,Eastern Mich.,9,True,10,3,7,win,1652014,388,2137197,2019
+1,0,0.2,0.0,0,1,1,1,0,0,3,2,0,0,0,0,0,0,0,1,0,0,0,10,0,2,0,0,0,4,0,04/19/2019,away,14781,366,Louisiana Tech,9,True,6,19,-13,loss,1660779,388,2137197,2019
+1,0,0.0,0.0,0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6,0,0,0,0,0,8,0,05/01/2019,home,14781,444,Morehead St.,9,True,2,8,-6,loss,1663250,388,2137197,2019

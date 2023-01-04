@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/16/2019,home,14781,466,Nevada,9,True,0,4,-4,loss,0 - 4,4707998,670,1,1.0,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,1977778,2019
-02/22/2019,away,14781,402,McNeese,9,True,18,10,8,win,18 - 10,4713282,670,1,0.2,0,2,3,3,2,0,0,6,4,2,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,0,1977778,2019
-02/27/2019,home,14781,26172,A&M-Corpus Christi,9,True,5,12,-7,loss,5 - 12,4717643,670,1,0.0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,5,0,0,0,0,0,7,0,1977778,2019
-04/16/2019,home,14781,287,Houston Baptist,9,True,17,8,9,win,17 - 8,4772361,670,1,1.0,0,0,0,0,0,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,7,1,1977778,2019
-04/30/2019,away,14781,706,UTSA,9,True,5,8,-3,loss,5 - 8,4784857,670,1,0.2,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,1,0,0,0,13,1,0,0,0,0,6,0,1977778,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,02/16/2019,home,14781,466,Nevada,9,True,0,4,-4,loss,1648112,670,1977778,2019
+1,0,0.2,0.0,2,3,3,2,0,0,6,4,2,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,0,02/22/2019,away,14781,402,McNeese,9,True,18,10,8,win,1648611,670,1977778,2019
+1,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,5,0,0,0,0,0,7,0,02/27/2019,home,14781,26172,A&M-Corpus Christi,9,True,5,12,-7,loss,1649737,670,1977778,2019
+1,0,1.0,0.0,0,0,0,0,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,7,1,04/16/2019,home,14781,287,Houston Christian,9,True,17,8,9,win,1660409,670,1977778,2019
+1,0,0.2,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,1,0,0,0,13,1,0,0,0,0,6,0,04/30/2019,away,14781,706,UTSA,9,True,5,8,-3,loss,1663127,670,1977778,2019

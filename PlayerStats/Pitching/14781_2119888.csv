@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,2.2,0.0,8,6,6,0,0,0,17,16,3,0,0,0,0,1,0,0,0,0,0,59,1,7,0,1,0,1,0,02/23/2019,away,14781,706,UTSA,9,True,3,12,-9,loss,1669347,172,2119888,2019
+1,0,0.2,0.0,3,3,3,1,1,0,6,5,0,1,0,0,1,0,0,1,1,0,0,28,1,0,0,0,0,2,0,04/16/2019,home,14781,420,Middlebury,9,True,7,15,-8,loss,1660299,172,2119888,2019
+1,0,1.0,0.0,0,1,1,4,0,0,7,3,0,0,0,0,0,0,0,1,0,0,0,35,0,3,0,0,0,3,0,04/21/2019,home,14781,275,Harvard,9,True,3,11,-8,loss,1726787,172,2119888,2019
+1,0,1.2,0.0,1,0,0,1,1,0,7,6,0,0,0,0,1,0,0,2,0,0,0,23,0,4,0,0,0,3,1,04/24/2019,away,14781,639,Siena,9,True,6,4,2,win,1661932,172,2119888,2019
+1,0,3.1,0.0,2,1,0,0,3,0,11,11,0,0,0,0,0,0,0,0,0,0,0,42,2,3,0,0,0,2,2,04/28/2019,home,14781,813,Yale,9,True,4,7,-3,loss,1662502,172,2119888,2019

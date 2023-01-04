@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,1,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,8,1,0,0,0,0,3,0,02/15/2019,home,14781,563,Radford,9,True,15,9,6,win,1706895,196,2122119,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2019,home,14781,439,Monmouth,9,True,10,0,10,win,1648916,196,2122119,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/24/2019,away,14781,523,Old Dominion,9,True,10,7,3,win,1661652,196,2122119,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/28/2019,home,14781,718,Tulane,9,True,8,9,-1,loss,1662857,196,2122119,2019

@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/09/2019,away,14781,147,Clemson,9,True,2,3,-1,loss,2 - 3,4727995,457,1,6.2,0,4,1,1,2,8,0,27,25,2,0,0,0,2,0,0,0,0,0,0,0,6,6,0,0,0,1,4,2152631,2019
-03/15/2019,home,14781,415,Miami (FL),9,True,4,6,-2,loss,4 - 6,4736167,457,1,5.0,0,8,4,3,3,6,0,24,20,1,0,0,0,0,0,0,0,0,0,1,91,2,5,0,1,0,1,2,2152631,2019
-03/31/2019,home,14781,193,Duke,9,True,16,6,10,win,16 - 6,4754637,457,1,3.1,0,7,2,2,0,4,0,20,19,2,0,0,1,1,1,0,0,0,0,0,50,2,4,0,0,0,1,1,2152631,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,6.2,0.0,4,1,1,2,8,0,27,25,2,0,0,0,2,0,0,0,0,0,0,0,6,6,0,0,0,1,4,03/09/2019,away,14781,147,Clemson,9,True,2,3,-1,loss,1717466,457,2152631,2019
+1,1,5.0,0.0,8,4,3,3,6,0,24,20,1,0,0,0,0,0,0,0,0,0,1,91,2,5,0,1,0,1,2,03/15/2019,home,14781,415,Miami (FL),9,True,4,6,-2,loss,1652902,457,2152631,2019
+1,1,3.1,0.0,7,2,2,0,4,0,20,19,2,0,0,1,1,1,0,0,0,0,0,50,2,4,0,0,0,1,1,03/31/2019,home,14781,193,Duke,9,True,16,6,10,win,1656754,457,2152631,2019

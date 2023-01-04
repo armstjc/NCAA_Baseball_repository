@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/12/2019,away,14781,740,VCU,9,True,1,8,-7,loss,1 - 8,4732619,386,1,0.1,0,0,1,1,3,0,0,3,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,4,0,2118919,2019
-04/10/2019,away,14781,272,Hartford,9,True,3,8,-5,loss,3 - 8,4765938,386,1,0.2,0,2,3,3,1,1,0,5,4,1,0,0,0,2,0,0,0,0,0,0,30,1,0,0,1,0,2,1,2118919,2019
-04/17/2019,away,14781,62,Binghamton,9,True,11,5,6,win,11 - 5,4773073,386,1,0.1,0,2,0,0,0,0,0,3,3,0,0,0,0,0,0,0,2,2,0,0,15,0,1,0,0,0,4,0,2118919,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,0,1,1,3,0,0,3,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,4,0,03/12/2019,away,14781,740,VCU,9,True,1,8,-7,loss,1652425,386,2118919,2019
+1,0,0.2,0.0,2,3,3,1,1,0,5,4,1,0,0,0,2,0,0,0,0,0,0,30,1,0,0,1,0,2,1,04/10/2019,away,14781,272,Hartford,9,True,3,8,-5,loss,1658946,386,2118919,2019
+1,0,0.1,0.0,2,0,0,0,0,0,3,3,0,0,0,0,0,0,0,2,2,0,0,15,0,1,0,0,0,4,0,04/17/2019,away,14781,62,Binghamton,9,True,11,5,6,win,1660525,386,2118919,2019

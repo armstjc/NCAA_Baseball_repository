@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/12/2019,home,14781,617,Saint Peter's,9,True,14,4,10,win,14 - 4,4732278,340,1,1.0,0,2,0,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,1980868,2019
-03/19/2019,away,14781,180,Delaware,9,True,4,2,2,win,4 - 2,4741084,340,1,1.1,0,4,2,2,1,1,0,9,8,0,1,0,0,0,0,0,1,0,0,0,36,1,2,0,0,0,3,0,1980868,2019
-03/27/2019,home,14781,178,Delaware St.,9,True,12,2,10,win,12 - 2,4750086,340,1,1.0,0,2,1,1,1,0,0,6,5,1,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,4,0,1980868,2019
-03/29/2019,away,14781,596,St. Bonaventure,9,True,5,14,-9,loss,5 - 14,4755544,340,1,0.2,0,5,5,5,1,1,0,8,7,1,0,0,1,0,0,0,0,0,0,0,31,0,1,0,0,0,3,0,1980868,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,0,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,03/12/2019,home,14781,617,Saint Peter's,9,True,14,4,10,win,1652507,340,1980868,2019
+1,0,1.1,0.0,4,2,2,1,1,0,9,8,0,1,0,0,0,0,0,1,0,0,0,36,1,2,0,0,0,3,0,03/19/2019,away,14781,180,Delaware,9,True,4,2,2,win,1654091,340,1980868,2019
+1,0,1.0,0.0,2,1,1,1,0,0,6,5,1,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,4,0,03/27/2019,home,14781,178,Delaware St.,9,True,12,2,10,win,1655846,340,1980868,2019
+1,0,0.2,0.0,5,5,5,1,1,0,8,7,1,0,0,1,0,0,0,0,0,0,0,31,0,1,0,0,0,3,0,03/29/2019,away,14781,596,St. Bonaventure,9,True,5,14,-9,loss,1721978,340,1980868,2019

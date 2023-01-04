@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/19/2019,home,14781,109,UC Irvine,9,True,9,3,6,win,9 - 3,4710046,626,1,0.1,0,1,1,0,0,1,0,3,2,0,0,0,0,0,1,0,0,0,0,0,14,0,0,0,0,0,2,0,2131308,2019
-03/24/2019,away,14781,473,New Mexico,9,True,4,13,-9,loss,4 - 13,4747219,626,1,1.0,0,2,0,0,0,1,0,6,5,0,0,0,0,0,1,0,0,0,0,0,16,2,0,0,0,0,4,0,2131308,2019
-05/10/2019,away,14781,96,Fresno St.,9,True,2,10,-8,loss,2 - 10,4790442,626,1,1.0,0,3,2,2,0,2,0,6,6,0,0,0,1,0,0,0,0,0,0,0,26,1,0,0,0,0,3,0,2131308,2019
-05/18/2019,home,14781,473,New Mexico,9,True,4,7,-3,loss,4 - 7,4792680,626,1,0.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,3,0,0,0,7,0,0,0,0,0,6,0,2131308,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,1,1,0,0,1,0,3,2,0,0,0,0,0,1,0,0,0,0,0,14,0,0,0,0,0,2,0,02/19/2019,home,14781,109,UC Irvine,9,True,9,3,6,win,1648504,626,2131308,2019
+1,0,1.0,0.0,2,0,0,0,1,0,6,5,0,0,0,0,0,1,0,0,0,0,0,16,2,0,0,0,0,4,0,03/24/2019,away,14781,473,New Mexico,9,True,4,13,-9,loss,1655263,626,2131308,2019
+1,0,1.0,0.0,3,2,2,0,2,0,6,6,0,0,0,1,0,0,0,0,0,0,0,26,1,0,0,0,0,3,0,05/10/2019,away,14781,96,Fresno St.,9,True,2,10,-8,loss,1664233,626,2131308,2019
+1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,3,0,0,0,7,0,0,0,0,0,6,0,05/18/2019,home,14781,473,New Mexico,9,True,4,7,-3,loss,1664976,626,2131308,2019

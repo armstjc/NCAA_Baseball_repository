@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/15/2019,away,14781,14927,Belmont,11,True,27,11,16,win,27 - 11,4708007,299,1,0.0,0,1,5,5,2,0,0,5,1,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,5,0,2121084,2019
-03/13/2019,away,14781,660,SIUE,9,True,16,9,7,win,16 - 9,4733710,299,1,1.0,0,4,4,3,0,2,0,8,8,2,0,0,0,0,0,0,0,0,0,0,29,0,1,0,0,0,5,0,2121084,2019
-03/22/2019,away,14781,301,Illinois,9,True,3,14,-11,loss,3 - 14,4744103,299,1,1.0,0,5,4,4,1,0,0,10,8,2,0,0,0,0,1,0,0,0,0,0,29,0,3,0,0,0,6,0,2121084,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,1,5,5,2,0,0,5,1,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,5,0,02/15/2019,away,14781,14927,Belmont,11,True,27,11,16,win,1647770,299,2121084,2019
+1,0,1.0,0.0,4,4,3,0,2,0,8,8,2,0,0,0,0,0,0,0,0,0,0,29,0,1,0,0,0,5,0,03/13/2019,away,14781,660,SIUE,9,True,16,9,7,win,1652747,299,2121084,2019
+1,0,1.0,0.0,5,4,4,1,0,0,10,8,2,0,0,0,0,1,0,0,0,0,0,29,0,3,0,0,0,6,0,03/22/2019,away,14781,301,Illinois,9,True,3,14,-11,loss,1654651,299,2121084,2019

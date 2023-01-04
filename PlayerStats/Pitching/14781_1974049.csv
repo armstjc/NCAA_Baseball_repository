@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/24/2019,home,14781,774,Western Mich.,9,True,5,17,-12,loss,5 - 17,4715466,28600,1,1.0,0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0,1974049,2019
-03/12/2019,away,14781,14927,Belmont,9,True,18,3,15,win,18 - 3,4792791,28600,1,1.0,0,1,0,0,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,25,0,1,0,0,0,3,2,1974049,2019
-04/02/2019,home,14781,43,Austin Peay,9,True,9,8,1,win,9 - 8,4757359,28600,1,1.0,0,1,1,1,0,0,0,5,4,0,0,0,0,0,1,0,0,0,0,0,16,3,0,0,0,0,3,0,1974049,2019
-04/09/2019,away,14781,694,Tennessee,9,True,2,11,-9,loss,2 - 11,4764932,28600,1,3.0,0,5,4,4,2,0,0,17,13,2,0,0,3,1,1,0,0,0,0,1,60,3,6,0,1,0,1,0,1974049,2019
-04/30/2019,home,14781,695,UT Martin,9,True,3,7,-4,loss,3 - 7,4784878,28600,1,0.0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,3,2,0,0,2,0,0,0,0,0,4,0,1974049,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0,02/24/2019,home,14781,774,Western Mich.,9,True,5,17,-12,loss,1649305,28600,1974049,2019
+1,0,1.0,0.0,1,0,0,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,25,0,1,0,0,0,3,2,03/12/2019,away,14781,14927,Belmont,9,True,18,3,15,win,1652536,28600,1974049,2019
+1,0,1.0,0.0,1,1,1,0,0,0,5,4,0,0,0,0,0,1,0,0,0,0,0,16,3,0,0,0,0,3,0,04/02/2019,home,14781,43,Austin Peay,9,True,9,8,1,win,1657260,28600,1974049,2019
+1,1,3.0,0.0,5,4,4,2,0,0,17,13,2,0,0,3,1,1,0,0,0,0,1,60,3,6,0,1,0,1,0,04/09/2019,away,14781,694,Tennessee,9,True,2,11,-9,loss,1658805,28600,1974049,2019
+1,0,0.0,0.0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,3,2,0,0,2,0,0,0,0,0,4,0,04/30/2019,home,14781,695,UT Martin,9,True,3,7,-4,loss,1663122,28600,1974049,2019

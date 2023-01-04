@@ -1,7 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-04/07/2019,away,14781,1092,Gardner-Webb,9,True,11,3,8,win,11 - 3,4763339,115,1,1.0,0,2,0,0,0,2,0,5,5,0,0,0,0,1,0,0,0,0,0,0,16,1,0,0,0,0,5,1,1998495,2019
-04/14/2019,home,14781,563,Radford,9,True,7,0,7,win,7 - 0,4769872,115,1,1.0,0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,22,1,1,0,0,0,3,0,1998495,2019
-04/16/2019,away,14781,459,UNC Greensboro,9,True,7,4,3,win,7 - 4,4772315,115,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,6,0,1998495,2019
-05/04/2019,home,14781,48,Charleston So.,9,True,3,9,-6,loss,3 - 9,4787405,115,1,0.2,0,3,2,2,0,0,0,5,5,1,0,0,0,1,0,0,0,0,0,0,10,0,2,0,0,0,4,0,1998495,2019
-05/17/2019,home,14781,363,Longwood,9,True,13,9,4,win,13 - 9,4792070,115,1,0.2,0,1,1,0,1,1,0,4,3,0,1,0,0,0,0,0,3,3,0,0,16,1,0,0,0,0,5,0,1998495,2019
-06/03/2019,home,14781,196,East Carolina,9,True,3,10,-7,loss,3 - 10,4798338,115,1,1.0,0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,1,1,0,0,0,5,0,1998495,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,0,0,0,2,0,5,5,0,0,0,0,1,0,0,0,0,0,0,16,1,0,0,0,0,5,1,04/07/2019,away,14781,1092,Gardner-Webb,9,True,11,3,8,win,1658353,115,1998495,2019
+1,0,1.0,0.0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,22,1,1,0,0,0,3,0,04/14/2019,home,14781,563,Radford,9,True,7,0,7,win,1659899,115,1998495,2019
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,6,0,04/16/2019,away,14781,459,UNC Greensboro,9,True,7,4,3,win,1660199,115,1998495,2019
+1,0,0.2,0.0,3,2,2,0,0,0,5,5,1,0,0,0,1,0,0,0,0,0,0,10,0,2,0,0,0,4,0,05/04/2019,home,14781,48,Charleston So.,9,True,3,9,-6,loss,1663853,115,1998495,2019
+1,0,0.2,0.0,1,1,0,1,1,0,4,3,0,1,0,0,0,0,0,3,3,0,0,16,1,0,0,0,0,5,0,05/17/2019,home,14781,363,Longwood,9,True,13,9,4,win,1664872,115,1998495,2019
+1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,1,1,0,0,0,5,0,06/03/2019,home,14781,196,East Carolina,9,True,3,10,-7,loss,1733752,115,1998495,2019

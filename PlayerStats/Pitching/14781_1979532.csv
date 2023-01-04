@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/15/2019,home,14781,305,Indiana St.,9,True,1,7,-6,loss,1 - 7,4705176,316,1,1.0,0,1,1,1,0,0,0,4,4,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,5,0,1979532,2019
-02/16/2019,home,14781,305,Indiana St.,9,True,7,13,-6,loss,7 - 13,4707548,316,1,0.2,0,3,2,2,0,0,0,5,5,1,0,0,0,0,0,0,2,2,0,0,0,0,2,0,0,0,8,0,1979532,2019
-02/24/2019,home,14781,315,Jacksonville St.,9,True,16,7,9,win,16 - 7,4715563,316,1,1.0,0,4,3,3,1,1,0,8,6,0,1,0,1,0,0,0,0,0,0,1,24,0,2,0,0,0,3,0,1979532,2019
-03/16/2019,away,14781,459,UNC Greensboro,9,True,3,13,-10,loss,3 - 13,4737874,316,1,0.1,0,2,1,1,0,0,0,4,3,0,0,0,0,0,1,0,2,2,0,0,12,1,0,0,0,0,5,0,1979532,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,1,1,0,0,0,4,4,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,5,0,02/15/2019,home,14781,305,Indiana St.,9,True,1,7,-6,loss,1647812,316,1979532,2019
+1,0,0.2,0.0,3,2,2,0,0,0,5,5,1,0,0,0,0,0,0,2,2,0,0,0,0,2,0,0,0,8,0,02/16/2019,home,14781,305,Indiana St.,9,True,7,13,-6,loss,1648082,316,1979532,2019
+1,0,1.0,0.0,4,3,3,1,1,0,8,6,0,1,0,1,0,0,0,0,0,0,1,24,0,2,0,0,0,3,0,02/24/2019,home,14781,315,Jacksonville St.,9,True,16,7,9,win,1649407,316,1979532,2019
+1,0,0.1,0.0,2,1,1,0,0,0,4,3,0,0,0,0,0,1,0,2,2,0,0,12,1,0,0,0,0,5,0,03/16/2019,away,14781,459,UNC Greensboro,9,True,3,13,-10,loss,1653220,316,1979532,2019

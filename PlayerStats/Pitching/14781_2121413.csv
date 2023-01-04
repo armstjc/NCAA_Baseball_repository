@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/15/2019,home,14781,741,VMI,9,True,3,9,-6,loss,3 - 9,4730762,606,1,1.0,0,2,2,2,2,0,0,8,5,1,0,0,0,0,1,0,0,0,0,0,32,2,1,0,0,0,2,0,2121413,2019
-02/17/2019,home,14781,741,VMI,9,True,4,9,-5,loss,4 - 9,4707714,606,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,6,0,2121413,2019
-03/03/2019,home,14781,172,Dartmouth,9,True,2,4,-2,loss,2 - 4,4721758,606,1,3.0,0,3,2,2,2,1,0,13,11,0,0,0,0,1,0,0,0,0,0,0,3,2,5,0,1,0,2,1,2121413,2019
-03/09/2019,home,14781,47,Ball St.,9,True,5,7,-2,loss,5 - 7,4748719,606,1,1.2,0,1,1,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,22,1,3,0,0,0,2,0,2121413,2019
-03/10/2019,home,14781,251,Georgetown,9,True,4,8,-4,loss,4 - 8,4730284,606,1,0.1,0,2,0,0,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,2,0,2121413,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,2,2,2,0,0,8,5,1,0,0,0,0,1,0,0,0,0,0,32,2,1,0,0,0,2,0,02/15/2019,neutral,14781,741,VMI,9,True,3,9,-6,loss,1647706,606,2121413,2019
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,6,0,02/17/2019,neutral,14781,741,VMI,9,True,4,9,-5,loss,1707159,606,2121413,2019
+1,0,3.0,0.0,3,2,2,2,1,0,13,11,0,0,0,0,1,0,0,0,0,0,0,3,2,5,0,1,0,2,1,03/03/2019,neutral,14781,172,Dartmouth,9,True,2,4,-2,loss,1650535,606,2121413,2019
+1,0,1.2,0.0,1,1,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,22,1,3,0,0,0,2,0,03/09/2019,neutral,14781,47,Ball St.,9,True,5,7,-2,loss,1651859,606,2121413,2019
+1,0,0.1,0.0,2,0,0,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,2,0,03/10/2019,neutral,14781,251,Georgetown,9,True,4,8,-4,loss,1652070,606,2121413,2019

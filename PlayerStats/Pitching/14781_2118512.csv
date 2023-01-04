@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/15/2019,away,14781,315,Jacksonville St.,9,True,1,14,-13,loss,1 - 14,4705093,487,1,1.0,0,3,3,3,1,1,0,7,6,2,1,0,0,0,0,0,0,0,0,0,8,2,0,0,0,0,4,1,2118512,2019
-03/29/2019,home,14781,678,Stetson,9,True,1,12,-11,loss,1 - 12,4752105,487,1,2.0,0,0,0,0,1,1,0,7,6,0,0,0,0,1,0,0,0,0,0,0,0,3,2,0,0,0,7,0,2118512,2019
-04/05/2019,home,14781,355,Liberty,9,True,2,16,-14,loss,2 - 16,4759498,487,1,2.0,0,1,1,1,1,0,0,8,7,0,0,0,1,1,0,0,0,0,0,0,0,4,2,0,0,0,4,0,2118512,2019
-04/16/2019,home,14781,7,Alabama St.,9,True,14,2,12,win,14 - 2,4772190,487,1,1.0,0,0,1,1,4,0,0,6,2,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,4,0,2118512,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,3,3,1,1,0,7,6,2,1,0,0,0,0,0,0,0,0,0,8,2,0,0,0,0,4,1,02/15/2019,away,14781,315,Jacksonville St.,9,True,1,14,-13,loss,1647758,487,2118512,2019
+1,0,2.0,0.0,0,0,0,1,1,0,7,6,0,0,0,0,1,0,0,0,0,0,0,0,3,2,0,0,0,7,0,03/29/2019,home,14781,678,Stetson,9,True,1,12,-11,loss,1656203,487,2118512,2019
+1,0,2.0,0.0,1,1,1,1,0,0,8,7,0,0,0,1,1,0,0,0,0,0,0,0,4,2,0,0,0,4,0,04/05/2019,home,14781,355,Liberty,9,True,2,16,-14,loss,1657742,487,2118512,2019
+1,0,1.0,0.0,0,1,1,4,0,0,6,2,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,4,0,04/16/2019,home,14781,7,Alabama St.,9,True,14,2,12,win,1660372,487,2118512,2019

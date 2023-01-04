@@ -1,2 +1,11 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-05/23/2019,home,14781,115,Campbell,9,True,7,20,-13,loss,7 - 20,4794958,48,1,2.1,0,2,1,1,1,1,0,11,10,1,0,0,1,0,0,0,2,0,0,0,0,2,4,0,0,0,3,1,1977643,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2019,home,14781,254,Georgia St.,9,True,6,15,-9,loss,1708802,48,1977643,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2019,home,14781,254,Georgia St.,9,True,6,7,-1,loss,1649208,48,1977643,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/26/2019,home,14781,331,Kent St.,9,True,1,9,-8,loss,1649601,48,1977643,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/27/2019,neutral,14781,2915,Wofford,11,True,4,3,1,win,1649739,48,1977643,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/15/2019,away,14781,792,Winthrop,9,True,1,9,-8,loss,1653127,48,1977643,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/16/2019,away,14781,792,Winthrop,9,True,5,13,-8,loss,1653552,48,1977643,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/17/2019,away,14781,792,Winthrop,9,True,6,7,-1,loss,1653896,48,1977643,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/07/2019,away,14781,363,Longwood,9,True,16,3,13,win,1658512,48,1977643,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/03/2019,away,14781,115,Campbell,9,True,0,14,-14,loss,1663556,48,1977643,2019
+1,0,2.1,0.0,2,1,1,1,1,0,11,10,1,0,0,1,0,0,0,2,0,0,0,0,2,4,0,0,0,3,1,05/23/2019,neutral,14781,115,Campbell,9,True,7,20,-13,loss,1733163,48,1977643,2019

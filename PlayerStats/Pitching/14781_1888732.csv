@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,4,0,02/15/2019,neutral,14781,392,Maryland,10,True,10,6,4,win,1647691,115,1888732,2019
+1,0,1.0,0.0,3,2,2,1,2,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1,02/27/2019,home,14781,490,NC State,9,True,1,10,-9,loss,1649684,115,1888732,2019
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,03/02/2019,home,14781,220,Fairfield,9,True,11,6,5,win,1715929,115,1888732,2019
+1,0,1.0,0.0,2,1,1,0,1,0,5,5,1,1,0,0,0,0,0,2,2,0,0,0,0,2,0,0,0,9,1,03/10/2019,away,14781,786,William & Mary,9,True,5,14,-9,loss,1651962,115,1888732,2019
+1,0,0.2,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,1,0,0,0,0,3,1,03/23/2019,home,14781,456,UNC Asheville,9,True,21,1,20,win,1654789,115,1888732,2019

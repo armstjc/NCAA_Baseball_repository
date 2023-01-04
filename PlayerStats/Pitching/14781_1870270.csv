@@ -1,6 +1,7 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/27/2019,home,14781,1157,Kennesaw St.,9,True,11,1,10,win,11 - 1,4717302,257,1,1.0,0,1,1,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,1870270,2019
-03/05/2019,home,14781,7,Alabama St.,9,True,11,3,8,win,11 - 3,4723957,257,1,1.0,0,2,1,1,1,0,0,6,5,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,1870270,2019
-04/09/2019,home,14781,255,Georgia Tech,9,True,12,2,10,win,12 - 2,4764460,257,1,0.2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,6,1,1,0,0,0,3,0,1870270,2019
-04/26/2019,away,14781,430,Mississippi St.,9,True,3,19,-16,loss,3 - 19,4781030,257,1,2.0,0,7,5,3,1,1,0,13,12,2,0,0,0,0,0,0,0,0,0,0,52,2,2,0,0,0,3,1,1870270,2019
-05/17/2019,home,14781,8,Alabama,9,True,12,2,10,win,12 - 2,4792217,257,1,1.0,0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,0,1,0,0,0,3,0,1870270,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,1,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,02/27/2019,home,14781,1157,Kennesaw St.,9,True,11,1,10,win,1649729,257,1870270,2019
+1,0,1.0,0.0,2,1,1,1,0,0,6,5,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,03/05/2019,home,14781,7,Alabama St.,9,True,11,3,8,win,1651005,257,1870270,2019
+1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,6,1,1,0,0,0,3,0,04/09/2019,home,14781,255,Georgia Tech,9,True,12,2,10,win,1658854,257,1870270,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/16/2019,home,14781,147,Clemson,20,True,3,2,1,win,1660429,257,1870270,2019
+1,0,2.0,0.0,7,5,3,1,1,0,13,12,2,0,0,0,0,0,0,0,0,0,0,52,2,2,0,0,0,3,1,04/26/2019,away,14781,430,Mississippi St.,9,True,3,19,-16,loss,1662346,257,1870270,2019
+1,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,0,1,0,0,0,3,0,05/17/2019,home,14781,8,Alabama,9,True,12,2,10,win,1664910,257,1870270,2019

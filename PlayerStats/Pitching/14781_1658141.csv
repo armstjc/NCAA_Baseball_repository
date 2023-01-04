@@ -1,2 +1,2 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-05/14/2019,away,14781,51,Baylor,9,True,2,12,-10,loss,2 - 12,4791520,702,1,0.2,0,2,4,4,2,1,0,6,4,1,1,0,0,0,0,0,0,0,0,0,23,0,1,0,1,0,2,0,1658141,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,2,4,4,2,1,0,6,4,1,1,0,0,0,0,0,0,0,0,0,23,0,1,0,1,0,2,0,05/14/2019,away,14781,51,Baylor,9,True,2,12,-10,loss,1651029,702,1658141,2019

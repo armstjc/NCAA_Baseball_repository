@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,3.0,0.0,3,3,3,4,7,0,17,13,1,0,0,0,1,0,0,0,0,0,0,73,2,0,0,1,0,1,5,02/23/2019,home,14781,797,Milwaukee,9,True,1,3,-2,loss,1669345,314,2137344,2019
+1,1,0.2,0.0,2,4,4,5,0,0,8,3,0,0,0,0,2,0,0,0,0,0,0,35,1,0,0,1,0,1,0,03/06/2019,home,14781,474,New Orleans,9,True,2,21,-19,loss,1651065,314,2137344,2019
+1,1,2.0,0.0,0,1,1,6,1,0,13,6,0,0,0,0,2,1,0,0,0,0,0,55,4,0,0,0,0,1,0,03/13/2019,away,14781,415,Miami (FL),9,True,1,8,-7,loss,1652623,314,2137344,2019
+1,1,1.1,0.0,2,2,0,2,1,0,8,5,0,0,0,0,0,1,0,0,0,0,0,32,2,0,0,0,0,1,1,03/19/2019,home,14781,261,Grambling,9,True,10,2,8,win,1654171,314,2137344,2019
+1,1,0.1,0.0,0,2,2,3,1,0,5,2,0,0,0,0,1,0,0,0,0,0,0,26,0,0,0,0,0,1,0,04/03/2019,away,14781,474,New Orleans,9,True,12,4,8,win,1657313,314,2137344,2019

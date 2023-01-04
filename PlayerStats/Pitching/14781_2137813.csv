@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/23/2019,home,14781,699,Texas Southern,9,True,3,8,-5,loss,3 - 8,4713434,328,1,2.0,0,2,1,1,2,3,0,10,8,0,0,0,1,0,0,0,0,0,0,0,38,1,2,0,0,0,3,0,2137813,2019
-03/12/2019,home,14781,127,Central Conn. St.,9,True,10,8,2,win,10 - 8,4731929,328,1,0.0,0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,3,0,2137813,2019
-03/24/2019,away,14781,522,Oklahoma,9,True,5,10,-5,loss,5 - 10,4747248,328,1,0.1,0,0,1,1,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,4,0,2137813,2019
-04/12/2019,home,14781,521,Oklahoma St.,9,True,6,27,-21,loss,6 - 27,4767221,328,1,0.2,0,2,6,6,3,1,0,8,4,0,0,0,1,1,1,0,0,0,0,0,29,1,0,0,0,0,5,1,2137813,2019
-04/28/2019,away,14781,244,Furman,9,True,15,1,14,win,15 - 1,4783350,328,1,0.2,0,1,1,1,3,1,0,6,3,0,0,0,0,0,0,0,0,0,0,0,24,0,1,0,0,0,3,1,2137813,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,2,1,1,2,3,0,10,8,0,0,0,1,0,0,0,0,0,0,0,38,1,2,0,0,0,3,0,02/23/2019,neutral,14781,699,Texas Southern,9,True,3,8,-5,loss,1665862,328,2137813,2019
+1,0,0.0,0.0,1,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,3,0,03/12/2019,neutral,14781,127,Central Conn. St.,9,True,10,8,2,win,1652475,328,2137813,2019
+1,0,0.1,0.0,0,1,1,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,4,0,03/24/2019,away,14781,522,Oklahoma,9,True,5,10,-5,loss,1655446,328,2137813,2019
+1,0,0.2,0.0,2,6,6,3,1,0,8,4,0,0,0,1,1,1,0,0,0,0,0,29,1,0,0,0,0,5,1,04/12/2019,home,14781,521,Oklahoma St.,9,True,6,27,-21,loss,1659339,328,2137813,2019
+1,0,0.2,0.0,1,1,1,3,1,0,6,3,0,0,0,0,0,0,0,0,0,0,0,24,0,1,0,0,0,3,1,04/28/2019,away,14781,244,Furman,9,True,15,1,14,win,1662946,328,2137813,2019

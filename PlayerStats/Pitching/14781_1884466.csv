@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/17/2019,away,14781,235,Florida,9,True,1,3,-2,loss,1 - 3,4707385,99,1,2.1,0,0,0,0,0,4,0,7,7,0,0,0,0,0,0,0,1,0,0,0,28,1,2,0,0,0,2,3,1884466,2019
-02/22/2019,home,14781,466,Nevada,9,True,0,1,-1,loss,0 - 1,4712434,99,1,3.2,0,4,0,0,2,3,0,19,14,1,0,0,0,1,2,0,0,0,1,0,86,4,4,0,0,0,1,2,1884466,2019
-03/02/2019,away,14781,433,Ole Miss,9,True,3,5,-2,loss,3 - 5,4721119,99,1,2.0,0,4,3,3,3,0,0,13,9,1,0,0,0,1,1,0,0,0,0,0,47,2,3,0,0,0,1,0,1884466,2019
-03/26/2019,home,14781,657,Southern California,10,True,5,8,-3,loss,5 - 8,4749568,99,1,1.1,0,1,4,4,3,1,0,9,5,1,0,0,0,0,0,0,0,0,1,0,33,4,0,0,0,0,1,1,1884466,2019
-04/02/2019,away,14781,28,Arizona St.,9,True,14,9,5,win,14 - 9,4756870,99,1,1.0,0,5,3,3,1,1,0,9,8,1,0,0,0,0,0,0,0,0,0,0,43,2,0,0,0,0,1,0,1884466,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.1,0.0,0,0,0,0,4,0,7,7,0,0,0,0,0,0,0,1,0,0,0,28,1,2,0,0,0,2,3,02/17/2019,away,14781,235,Florida,9,True,1,3,-2,loss,1648188,99,1884466,2019
+1,1,3.2,0.0,4,0,0,2,3,0,19,14,1,0,0,0,1,2,0,0,0,1,0,86,4,4,0,0,0,1,2,02/22/2019,home,14781,466,Nevada,9,True,0,1,-1,loss,1648632,99,1884466,2019
+1,1,2.0,0.0,4,3,3,3,0,0,13,9,1,0,0,0,1,1,0,0,0,0,0,47,2,3,0,0,0,1,0,03/02/2019,away,14781,433,Ole Miss,9,True,3,5,-2,loss,1650498,99,1884466,2019
+1,1,1.1,0.0,1,4,4,3,1,0,9,5,1,0,0,0,0,0,0,0,0,1,0,33,4,0,0,0,0,1,1,03/26/2019,home,14781,657,Southern California,10,True,5,8,-3,loss,1655548,99,1884466,2019
+1,1,1.0,0.0,5,3,3,1,1,0,9,8,1,0,0,0,0,0,0,0,0,0,0,43,2,0,0,0,0,1,0,04/02/2019,away,14781,28,Arizona St.,9,True,14,9,5,win,1657269,99,1884466,2019

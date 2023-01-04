@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/16/2019,home,14781,72,Bradley,9,True,3,4,-1,loss,3 - 4,4707139,1004,1,5.0,0,0,0,0,2,3,0,16,13,0,0,0,0,0,0,0,1,0,1,0,0,5,6,0,0,0,2,1,2140084,2019
-03/01/2019,home,14781,649,South Dakota St.,9,True,8,3,5,win,8 - 3,4718872,1004,1,2.0,0,5,3,3,1,2,0,12,10,0,0,0,0,1,0,0,0,0,0,1,42,3,1,0,0,0,2,0,2140084,2019
-03/05/2019,home,14781,30,Arkansas St.,9,True,6,9,-3,loss,6 - 9,4723962,1004,1,1.0,0,2,4,4,3,2,0,8,5,1,0,0,0,0,0,0,0,0,0,0,41,0,1,0,0,0,3,0,2140084,2019
-03/12/2019,home,14781,32,Little Rock,9,True,1,5,-4,loss,1 - 5,4732631,1004,1,1.2,0,3,3,2,2,2,0,10,8,1,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,2,1,2140084,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,5.0,0.0,0,0,0,2,3,0,16,13,0,0,0,0,0,0,0,1,0,1,0,0,5,6,0,0,0,2,1,02/16/2019,home,14781,72,Bradley,9,True,3,4,-1,loss,1648007,1004,2140084,2019
+1,0,2.0,0.0,5,3,3,1,2,0,12,10,0,0,0,0,1,0,0,0,0,0,1,42,3,1,0,0,0,2,0,03/01/2019,home,14781,649,South Dakota St.,9,True,8,3,5,win,1649930,1004,2140084,2019
+1,0,1.0,0.0,2,4,4,3,2,0,8,5,1,0,0,0,0,0,0,0,0,0,0,41,0,1,0,0,0,3,0,03/05/2019,home,14781,30,Arkansas St.,9,True,6,9,-3,loss,1651010,1004,2140084,2019
+1,0,1.2,0.0,3,3,2,2,2,0,10,8,1,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,2,1,03/12/2019,home,14781,32,Little Rock,9,True,1,5,-4,loss,1652565,1004,2140084,2019

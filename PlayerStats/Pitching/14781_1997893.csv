@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,1,0,0,0,1,0,7,7,1,0,0,0,0,0,0,0,0,0,0,25,4,1,0,0,0,2,0,02/17/2019,away,14781,288,Houston,11,True,2,1,1,win,1648361,508,1997893,2019
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,2,0,02/26/2019,home,14781,498,ULM,9,True,15,0,15,win,1649656,508,1997893,2019
+1,0,0.0,0.0,0,1,0,2,0,0,3,1,0,0,0,0,1,0,0,1,1,0,0,20,0,0,0,0,0,3,0,03/02/2019,home,14781,32,Little Rock,9,True,7,5,2,win,1715983,508,1997893,2019
+1,0,0.1,0.0,2,2,2,1,0,0,4,3,0,1,0,0,0,0,0,0,0,0,0,15,1,0,0,1,0,3,0,03/19/2019,away,14781,671,Louisiana,9,True,3,8,-5,loss,1654000,508,1997893,2019
+1,0,2.0,0.0,0,0,0,1,3,0,7,6,0,0,0,0,0,0,0,0,0,0,0,23,3,0,0,0,0,2,2,04/02/2019,home,14781,432,Mississippi Val.,9,True,11,0,11,win,1657255,508,1997893,2019

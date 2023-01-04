@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/16/2019,away,14781,404,Memphis,9,True,3,6,-3,loss,3 - 6,4708376,306,1,2.0,0,2,3,0,1,0,0,9,8,1,0,0,0,0,0,0,1,0,0,0,19,3,2,0,0,0,4,0,2142550,2019
-02/23/2019,away,14781,694,Tennessee,9,True,0,11,-11,loss,0 - 11,4714328,306,1,0.2,0,2,3,2,1,0,0,7,5,1,0,0,0,1,1,0,1,1,0,0,20,0,2,0,0,0,2,0,2142550,2019
-02/27/2019,home,14781,87,Butler,9,True,9,3,6,win,9 - 3,4737941,306,1,1.0,0,1,0,0,1,1,0,4,3,1,0,0,0,0,0,0,0,0,0,0,10,1,0,0,0,0,4,0,2142550,2019
-05/14/2019,home,14781,367,Louisville,12,True,7,8,-1,loss,7 - 8,4791534,306,1,2.0,0,2,0,0,1,1,0,8,6,0,0,0,0,0,1,0,0,0,0,0,29,3,0,0,0,0,4,1,2142550,2019
-05/22/2019,home,14781,312,Iowa,9,True,2,4,-2,loss,2 - 4,4794561,306,1,1.0,0,0,1,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,13,0,2,0,0,0,3,0,2142550,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,2,3,0,1,0,0,9,8,1,0,0,0,0,0,0,1,0,0,0,19,3,2,0,0,0,4,0,02/16/2019,away,14781,404,Memphis,9,True,3,6,-3,loss,1648067,306,2142550,2019
+1,0,0.2,0.0,2,3,2,1,0,0,7,5,1,0,0,0,1,1,0,1,1,0,0,20,0,2,0,0,0,2,0,02/23/2019,away,14781,694,Tennessee,9,True,0,11,-11,loss,1649144,306,2142550,2019
+1,0,1.0,0.0,1,0,0,1,1,0,4,3,1,0,0,0,0,0,0,0,0,0,0,10,1,0,0,0,0,4,0,02/27/2019,home,14781,87,Butler,9,True,9,3,6,win,1649692,306,2142550,2019
+1,0,2.0,0.0,2,0,0,1,1,0,8,6,0,0,0,0,0,1,0,0,0,0,0,29,3,0,0,0,0,4,1,05/14/2019,home,14781,367,Louisville,12,True,7,8,-1,loss,1664630,306,2142550,2019
+1,0,1.0,0.0,0,1,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,13,0,2,0,0,0,3,0,05/22/2019,neutral,14781,312,Iowa,9,True,2,4,-2,loss,1733249,306,2142550,2019

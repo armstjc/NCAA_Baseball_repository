@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/26/2019,home,14781,2678,Ark.-Pine Bluff,9,True,8,0,8,win,8 - 0,4716565,522,1,0.2,0,0,0,0,1,1,0,4,2,0,0,0,0,0,1,0,0,0,0,0,16,0,1,0,0,0,3,0,2124647,2019
-03/01/2019,home,14781,158,Columbia,9,True,12,3,9,win,12 - 3,4719417,522,1,1.0,0,1,0,0,1,1,0,5,4,0,0,0,0,1,0,0,0,0,0,0,29,0,2,0,0,0,2,0,2124647,2019
-03/06/2019,away,14781,1045,DBU,9,True,2,7,-5,loss,2 - 7,4724814,522,1,0.0,0,0,1,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,4,0,2124647,2019
-03/30/2019,away,14781,768,West Virginia,9,True,4,12,-8,loss,4 - 12,4753573,522,1,0.0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,6,0,0,0,0,0,5,0,2124647,2019
-04/19/2019,away,14781,428,Minnesota,9,True,1,8,-7,loss,1 - 8,4776751,522,1,0.1,0,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,17,0,1,0,0,0,5,0,2124647,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,0,0,0,1,1,0,4,2,0,0,0,0,0,1,0,0,0,0,0,16,0,1,0,0,0,3,0,02/26/2019,home,14781,2678,Ark.-Pine Bluff,9,True,8,0,8,win,1649585,522,2124647,2019
+1,0,1.0,0.0,1,0,0,1,1,0,5,4,0,0,0,0,1,0,0,0,0,0,0,29,0,2,0,0,0,2,0,03/01/2019,home,14781,158,Columbia,9,True,12,3,9,win,1650030,522,2124647,2019
+1,0,0.0,0.0,0,1,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,4,0,03/06/2019,away,14781,1045,DBU,9,True,2,7,-5,loss,1650886,522,2124647,2019
+1,0,0.0,0.0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,6,0,0,0,0,0,5,0,03/30/2019,away,14781,768,West Virginia,9,True,4,12,-8,loss,1656328,522,2124647,2019
+1,0,0.1,0.0,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,17,0,1,0,0,0,5,0,04/19/2019,away,14781,428,Minnesota,9,True,1,8,-7,loss,1661093,522,2124647,2019

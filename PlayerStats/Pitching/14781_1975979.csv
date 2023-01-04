@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-03/12/2019,home,14781,342,Lafayette,9,True,19,3,16,win,19 - 3,4732393,540,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,1975979,2019
-04/02/2019,home,14781,606,Saint Joseph's,9,True,20,7,13,win,20 - 7,4756354,540,1,2.0,0,4,3,3,1,0,0,11,9,1,0,0,0,2,0,0,0,0,0,1,0,0,6,0,0,0,2,0,1975979,2019
-04/24/2019,home,14781,635,Seton Hall,9,True,5,2,3,win,5 - 2,4779078,540,1,0.2,0,0,0,0,1,1,0,5,2,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,6,0,1975979,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,03/12/2019,neutral,14781,342,Lafayette,9,True,19,3,16,win,1652397,540,1975979,2019
+1,0,2.0,0.0,4,3,3,1,0,0,11,9,1,0,0,0,2,0,0,0,0,0,1,0,0,6,0,0,0,2,0,04/02/2019,home,14781,606,Saint Joseph's,9,True,20,7,13,win,1722629,540,1975979,2019
+1,0,0.2,0.0,0,0,0,1,1,0,5,2,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,6,0,04/24/2019,home,14781,635,Seton Hall,9,True,5,2,3,win,1661938,540,1975979,2019

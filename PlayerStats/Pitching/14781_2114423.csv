@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/24/2019,away,14781,700,Texas Tech,9,True,4,19,-15,loss,4 - 19,4715009,334,1,1.0,0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,8,0,2114423,2019
-02/27/2019,home,14781,505,Northern Ky.,9,True,5,4,1,win,5 - 4,4717414,334,1,0.0,0,1,1,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,2,0,2114423,2019
-03/13/2019,home,14781,772,Western Ky.,9,True,15,0,15,win,15 - 0,4733890,334,1,1.0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,0,2,0,0,0,3,1,2114423,2019
-03/19/2019,home,14781,812,Xavier,9,True,16,3,13,win,16 - 3,4741571,334,1,0.1,0,1,2,2,1,0,0,4,2,1,0,0,0,0,1,0,0,0,0,0,21,0,1,0,0,0,4,0,2114423,2019
-05/05/2019,home,14781,31,Arkansas,9,True,1,9,-8,loss,1 - 9,4788253,334,1,0.2,0,2,3,0,1,1,0,6,5,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,2114423,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,8,0,02/24/2019,away,14781,700,Texas Tech,9,True,4,19,-15,loss,1649300,334,2114423,2019
+1,0,0.0,0.0,1,1,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,2,0,02/27/2019,home,14781,505,Northern Ky.,9,True,5,4,1,win,1649667,334,2114423,2019
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,0,2,0,0,0,3,1,03/13/2019,home,14781,772,Western Ky.,9,True,15,0,15,win,1652602,334,2114423,2019
+1,0,0.1,0.0,1,2,2,1,0,0,4,2,1,0,0,0,0,1,0,0,0,0,0,21,0,1,0,0,0,4,0,03/19/2019,home,14781,812,Xavier,9,True,16,3,13,win,1654176,334,2114423,2019
+1,0,0.2,0.0,2,3,0,1,1,0,6,5,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,05/05/2019,home,14781,31,Arkansas,9,True,1,9,-8,loss,1730789,334,2114423,2019

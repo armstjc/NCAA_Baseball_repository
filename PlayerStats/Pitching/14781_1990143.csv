@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2019,neutral,14781,8956,Dominican (NY),9,True,16,14,2,win,1648974,349,1990143,2019
+1,0,2.0,0.0,1,1,0,3,1,0,11,8,0,0,1,0,1,0,0,0,0,0,0,0,3,2,0,0,0,2,0,02/23/2019,neutral,14781,74,Bridgeport,10,True,10,9,1,win,1649181,349,1990143,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/09/2019,neutral,14781,638,Shippensburg,9,True,1,15,-14,loss,1717403,349,1990143,2019
+1,0,1.1,0.0,5,3,3,0,1,0,10,9,2,0,0,0,0,1,0,0,0,0,0,31,0,2,0,0,0,2,0,03/10/2019,neutral,14781,638,Shippensburg,9,True,5,15,-10,loss,1652344,349,1990143,2019

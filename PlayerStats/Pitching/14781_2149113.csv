@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,4,0,03/09/2019,neutral,14781,682,Stonehill,8,True,6,5,1,win,1667658,995,2149113,2019
+1,0,4.0,0.0,5,4,4,0,2,0,20,18,1,0,0,1,0,1,0,0,0,0,1,65,1,8,0,0,0,2,2,03/11/2019,away,14781,20794,Lynn,9,True,3,8,-5,loss,1652303,995,2149113,2019
+1,0,1.0,0.0,2,0,0,0,1,0,5,5,1,0,0,0,0,0,0,3,3,0,0,0,1,1,0,0,0,5,1,03/14/2019,home,14781,658,Southern Conn. St.,9,True,2,22,-20,loss,1652836,995,2149113,2019
+1,1,3.0,0.0,8,9,8,1,1,0,19,16,2,0,0,1,0,1,0,0,0,0,1,0,5,2,0,1,0,1,0,03/22/2019,home,14781,8956,Dominican (NY),9,True,4,18,-14,loss,1654563,995,2149113,2019

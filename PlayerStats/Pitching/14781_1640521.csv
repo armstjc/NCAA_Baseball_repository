@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,1.0,0.0,1,5,5,4,1,0,8,3,0,0,0,0,0,1,0,0,0,0,0,35,1,0,0,1,0,1,1,02/23/2019,away,14781,197,East Stroudsburg,9,True,1,7,-6,loss,1649366,1347,1640521,2019
+1,0,0.1,0.0,0,1,1,3,0,0,4,1,0,0,0,0,0,0,0,2,2,0,0,15,1,0,0,0,0,3,0,03/09/2019,neutral,14781,384,Mansfield,9,True,14,7,7,win,1651950,1347,1640521,2019
+1,0,1.0,0.0,1,2,2,2,3,0,7,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1,04/28/2019,away,14781,0,Bry. & Strat. (Buf.),9,True,15,5,10,win,1728656,1347,1640521,2019
+1,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,0,1,0,0,0,3,2,05/04/2019,home,14781,470,New Haven,9,True,6,5,1,win,1663733,1347,1640521,2019

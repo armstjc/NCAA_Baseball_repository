@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,0,0,0,0,1,0,7,6,0,0,0,0,0,1,0,0,0,0,0,32,2,3,0,0,0,4,0,02/24/2019,neutral,14781,468,Southern N.H.,9,True,7,11,-4,loss,1649342,1348,2134850,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/12/2019,home,14781,357,Lincoln (PA),9,True,18,2,16,win,1724593,1348,2134850,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/04/2019,home,14781,477,New York Tech,9,True,1,12,-11,loss,1665171,1348,2134850,2019

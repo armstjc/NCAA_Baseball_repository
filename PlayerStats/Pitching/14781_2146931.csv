@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,17,0,3,0,0,0,5,0,02/23/2019,away,14781,106,California (PA),9,True,3,7,-4,loss,1649106,30141,2146931,2019
+1,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,03/02/2019,neutral,14781,383,Minnesota St.,9,True,1,10,-9,loss,1716023,30141,2146931,2019
+1,0,2.0,0.0,2,0,0,0,1,0,8,7,0,0,0,0,0,0,0,0,0,0,1,19,2,2,0,0,0,6,0,03/15/2019,home,14781,934,Alderson Broaddus,9,True,9,13,-4,loss,1718959,30141,2146931,2019
+1,0,1.1,0.0,2,0,0,1,1,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,04/02/2019,away,14781,307,Indiana (PA),8,True,10,6,4,win,1657141,30141,2146931,2019
+1,0,0.2,0.0,2,2,2,1,0,0,5,4,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,4,0,04/09/2019,home,14781,35,Ashland,9,True,7,12,-5,loss,1658718,30141,2146931,2019
+1,0,1.0,0.0,2,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,6,0,05/01/2019,away,14781,1438,West Liberty,9,True,11,2,9,win,1663148,30141,2146931,2019

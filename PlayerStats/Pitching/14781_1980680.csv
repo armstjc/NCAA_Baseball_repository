@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-04/09/2019,home,14781,346,Lamar University,9,True,25,2,23,win,25 - 2,4764512,706,1,1.0,0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,2,0,1980680,2019
-04/13/2019,home,14781,523,Old Dominion,10,True,13,14,-1,loss,13 - 14,4769479,706,1,0.1,0,1,2,2,3,1,0,5,2,0,0,0,0,0,0,1,0,0,0,0,20,0,0,0,0,0,3,0,1980680,2019
-04/16/2019,away,14781,26172,A&M-Corpus Christi,9,True,16,4,12,win,16 - 4,4772323,706,1,1.0,0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,4,0,1980680,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,2,0,04/09/2019,home,14781,346,Lamar University,9,True,25,2,23,win,1658662,706,1980680,2019
+1,0,0.1,0.0,1,2,2,3,1,0,5,2,0,0,0,0,0,0,1,0,0,0,0,20,0,0,0,0,0,3,0,04/13/2019,home,14781,523,Old Dominion,10,True,13,14,-1,loss,1659439,706,1980680,2019
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,4,0,04/16/2019,away,14781,26172,A&M-Corpus Christi,9,True,16,4,12,win,1660391,706,1980680,2019

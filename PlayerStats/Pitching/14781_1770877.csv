@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/15/2019,away,14781,460,UNCW,9,True,2,5,-3,loss,2 - 5,4705790,741,1,0.1,0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,1,0,0,0,14,0,1,0,0,0,2,0,1770877,2019
-02/15/2019,home,14781,606,Saint Joseph's,9,True,9,3,6,win,9 - 3,4730762,741,1,1.0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,19,1,2,0,0,0,4,0,1770877,2019
-02/17/2019,away,14781,460,UNCW,9,True,3,5,-2,loss,3 - 5,4707630,741,1,0.0,0,2,1,1,0,0,0,2,2,0,0,0,0,0,0,0,1,1,0,0,5,0,0,0,0,0,2,0,1770877,2019
-03/13/2019,home,14781,388,Marshall,9,True,6,7,-1,loss,6 - 7,4733580,741,1,0.0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,5,0,1770877,2019
-04/06/2019,home,14781,198,ETSU,9,True,3,14,-11,loss,3 - 14,4761008,741,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,2,0,0,0,6,0,1770877,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,1,0,0,0,14,0,1,0,0,0,2,0,02/15/2019,away,14781,460,UNCW,9,True,2,5,-3,loss,1647847,741,1770877,2019
+1,0,1.0,0.0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,19,1,2,0,0,0,4,0,02/15/2019,neutral,14781,606,Saint Joseph's,9,True,9,3,6,win,1647706,741,1770877,2019
+1,0,0.0,0.0,2,1,1,0,0,0,2,2,0,0,0,0,0,0,0,1,1,0,0,5,0,0,0,0,0,2,0,02/17/2019,away,14781,460,UNCW,9,True,3,5,-2,loss,1706931,741,1770877,2019
+1,0,0.0,0.0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,5,0,03/13/2019,home,14781,388,Marshall,9,True,6,7,-1,loss,1718773,741,1770877,2019
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,2,0,0,0,6,0,04/06/2019,home,14781,198,ETSU,9,True,3,14,-11,loss,1657807,741,1770877,2019

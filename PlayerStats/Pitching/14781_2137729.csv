@@ -1,5 +1,5 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/24/2019,away,14781,28,Arizona St.,9,True,2,17,-15,loss,2 - 17,4714894,108,1,0.2,0,4,7,7,3,0,0,10,6,1,0,0,0,3,1,0,3,3,0,0,27,2,0,0,0,0,2,0,2137729,2019
-03/12/2019,away,14781,102,Sacramento St.,9,True,2,8,-6,loss,2 - 8,4732827,108,1,0.2,0,0,2,2,3,1,0,5,2,0,0,0,0,1,0,0,0,0,0,0,30,1,0,0,0,0,4,0,2137729,2019
-04/02/2019,home,14781,534,Pacific,9,True,7,0,7,win,7 - 0,4756819,108,1,1.0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,16,1,2,0,0,0,4,0,2137729,2019
-04/09/2019,away,14781,534,Pacific,9,True,8,13,-5,loss,8 - 13,4764576,108,1,0.0,0,3,5,5,1,0,0,5,2,1,0,0,0,0,0,0,0,0,2,0,16,0,0,0,1,0,3,0,2137729,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,4,7,7,3,0,0,10,6,1,0,0,0,3,1,0,3,3,0,0,27,2,0,0,0,0,2,0,02/24/2019,away,14781,28,Arizona St.,9,True,2,17,-15,loss,1649427,108,2137729,2019
+1,0,0.2,0.0,0,2,2,3,1,0,5,2,0,0,0,0,1,0,0,0,0,0,0,30,1,0,0,0,0,4,0,03/12/2019,away,14781,102,Sacramento St.,9,True,2,8,-6,loss,1652587,108,2137729,2019
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,16,1,2,0,0,0,4,0,04/02/2019,home,14781,534,Pacific,9,True,7,0,7,win,1657150,108,2137729,2019
+1,0,0.0,0.0,3,5,5,1,0,0,5,2,1,0,0,0,0,0,0,0,0,2,0,16,0,0,0,1,0,3,0,04/09/2019,away,14781,534,Pacific,9,True,8,13,-5,loss,1658826,108,2137729,2019

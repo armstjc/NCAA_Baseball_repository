@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,1,0,4,4,0,0,0,0,1,0,0,0,0,0,0,16,1,2,0,0,0,3,0,03/26/2019,home,14781,1348,St. Thomas Aquinas,9,True,16,4,12,win,1655580,65,1773812,2019
+1,0,1.0,0.0,1,2,1,0,1,0,6,5,0,0,0,1,1,1,0,0,0,0,0,22,0,2,0,0,0,4,0,04/06/2019,home,14781,638,Shippensburg,9,True,3,15,-12,loss,1668897,65,1773812,2019
+1,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,2,1,0,0,0,2,0,04/22/2019,away,14781,384,Mansfield,9,True,14,0,14,win,1727105,65,1773812,2019
+1,0,1.0,0.0,3,1,1,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,22,0,1,0,0,0,3,2,04/24/2019,away,14781,643,Slippery Rock,9,True,12,6,6,win,1660234,65,1773812,2019
+1,0,1.0,0.0,1,0,0,0,3,0,4,4,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,3,0,04/29/2019,home,14781,360,Lock Haven,9,True,11,6,5,win,1668455,65,1773812,2019
+1,0,0.2,0.0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,0,5,0,05/18/2019,away,14781,408,Mercyhurst,9,True,0,11,-11,loss,1732843,65,1773812,2019

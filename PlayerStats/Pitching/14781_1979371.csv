@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,2,0,5,5,0,0,0,0,0,0,0,0,0,0,0,19,0,1,0,0,0,3,1,02/15/2019,home,14781,362,LIU Post,9,True,9,1,8,win,1647811,689,1979371,2019
+1,0,2.0,0.0,1,0,0,2,3,0,9,7,0,0,0,0,1,0,0,0,0,0,0,39,1,2,0,0,0,3,3,03/13/2019,home,14781,56,Bentley,9,True,15,1,14,win,1652778,689,1979371,2019
+1,0,1.0,0.0,2,3,3,2,2,0,7,5,0,1,0,0,1,0,0,0,0,0,0,31,0,1,0,0,0,3,0,03/16/2019,away,14781,608,Saint Leo,9,True,15,5,10,win,1653451,689,1979371,2019

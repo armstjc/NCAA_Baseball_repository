@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,2.1,0.0,7,9,5,1,2,0,17,13,2,0,0,0,1,1,0,0,0,1,1,0,2,3,0,0,0,1,1,02/05/2019,away,14781,13028,Anderson (SC),14,True,13,10,3,win,1647224,30154,1986626,2019
+1,1,1.0,0.0,5,5,5,2,3,0,11,9,1,0,0,1,1,0,0,0,0,0,0,47,0,0,0,0,0,1,2,02/28/2019,home,14781,30124,Cedarville,9,True,16,11,5,win,1649759,30154,1986626,2019
+1,0,1.0,0.0,3,2,2,2,1,0,8,6,1,0,0,0,1,0,0,0,0,0,0,34,1,1,0,0,0,6,0,03/23/2019,away,14781,30092,Flagler,9,True,4,18,-14,loss,1665449,30154,1986626,2019
+1,0,1.2,0.0,0,0,0,2,2,0,7,5,0,0,0,0,0,0,0,3,2,0,0,0,1,2,0,0,0,6,0,04/16/2019,away,14781,30192,Southern Wesleyan,9,True,0,7,-7,loss,1660161,30154,1986626,2019

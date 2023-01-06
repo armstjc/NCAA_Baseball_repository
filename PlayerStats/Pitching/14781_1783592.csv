@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,3,2,2,0,3,0,9,9,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,3,1,02/23/2019,neutral,14781,74,Bridgeport,9,True,10,4,6,win,1649223,468,1783592,2019
+1,1,7.0,0.0,4,1,1,2,7,0,26,22,0,0,0,0,0,0,0,0,0,1,1,0,7,6,1,0,0,1,4,03/15/2019,neutral,14781,22,American Int'l,9,True,17,4,13,win,1719088,468,1783592,2019
+1,1,8.0,0.0,4,0,0,0,9,0,30,30,0,0,0,0,1,0,0,0,0,0,0,98,3,11,1,0,0,1,5,03/29/2019,home,14781,613,Saint Michael's,9,True,8,0,8,win,1721992,468,1783592,2019
+1,1,4.1,0.0,6,3,3,2,7,0,21,19,1,0,0,1,2,0,1,0,0,0,0,79,2,4,0,0,0,1,4,04/11/2019,away,14781,613,Saint Michael's,9,True,8,5,3,win,1658750,468,1783592,2019
+1,0,2.0,0.0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,23,4,2,0,0,0,3,0,04/28/2019,away,14781,36,Assumption,9,True,3,5,-2,loss,1662929,468,1783592,2019
+1,1,4.1,0.0,4,0,0,1,2,0,18,16,3,0,0,0,0,0,0,0,0,1,0,72,7,4,0,0,0,1,1,05/18/2019,home,14781,362,LIU Post,9,True,4,1,3,win,1732958,468,1783592,2019

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,3,0,04/03/2019,home,14781,2746,Lake Erie,9,True,21,4,17,win,1657363,35,2158643,2019
+1,0,1.0,0.0,3,0,0,0,2,0,5,5,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,5,1,04/07/2019,away,14781,591,Saginaw Valley,9,True,3,11,-8,loss,1658552,35,2158643,2019
+1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,1,0,0,0,0,0,0,20,1,1,0,0,0,4,0,04/13/2019,away,14781,757,Wayne St. (MI),9,True,3,16,-13,loss,1666098,35,2158643,2019
+1,0,0.1,0.0,1,4,4,5,0,0,7,2,1,0,0,0,0,0,0,0,0,0,0,26,0,1,0,0,0,5,0,04/28/2019,away,14781,510,Northwood,9,True,3,16,-13,loss,1728456,35,2158643,2019

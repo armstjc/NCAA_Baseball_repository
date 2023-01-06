@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.0,0.0,5,3,3,1,2,0,16,15,1,0,0,0,0,0,0,0,0,0,0,58,1,5,0,0,0,5,0,02/09/2019,home,14781,0,Point U.,9,True,8,13,-5,loss,1647450,30093,1871819,2019
+1,0,1.2,0.0,1,0,0,1,1,0,8,5,0,0,0,0,0,1,0,0,0,0,1,27,1,3,0,0,0,4,0,03/27/2019,away,14781,1097,Ga. Southwestern,9,True,14,6,8,win,1647586,30093,1871819,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/27/2019,home,14781,30013,Lee,9,True,11,1,10,win,1662682,30093,1871819,2019

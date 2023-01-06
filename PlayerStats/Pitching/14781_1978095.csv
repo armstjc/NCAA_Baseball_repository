@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,16,0,3,0,0,0,3,0,03/23/2019,home,14781,11276,USC Aiken,9,True,0,11,-11,loss,1655111,159,1978095,2019
+1,0,3.0,0.0,2,0,0,0,5,0,10,10,0,0,0,0,0,0,0,0,0,0,0,38,2,1,0,0,0,3,1,04/13/2019,away,14781,1085,Francis Marion,9,True,2,8,-6,loss,1724817,159,1978095,2019
+1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,0,4,0,04/27/2019,away,14781,1096,Georgia College,9,True,8,11,-3,loss,1662734,159,1978095,2019
+1,0,1.0,0.0,2,1,1,2,2,0,7,5,0,0,0,0,0,0,0,0,0,0,0,30,0,1,0,0,0,2,0,05/03/2019,home,14781,30052,North Georgia,9,True,18,4,14,win,1663583,159,1978095,2019

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.2,0.0,2,3,3,1,1,0,12,10,0,0,0,0,0,1,0,0,0,0,0,0,2,4,0,1,0,4,0,03/14/2019,home,14781,643,Slippery Rock,9,True,9,17,-8,loss,1652839,241,2144426,2019
+1,0,1.0,0.0,3,3,3,1,0,0,7,5,0,0,1,0,1,0,0,0,0,0,1,21,1,2,0,0,0,2,0,03/16/2019,away,14781,23157,Felician,9,True,3,11,-8,loss,1719198,241,2144426,2019
+1,0,2.1,0.0,5,3,3,2,0,0,13,11,3,0,0,0,0,0,1,0,0,0,0,42,3,3,0,0,0,4,0,04/06/2019,home,14781,349,Le Moyne,9,True,12,16,-4,loss,1657976,241,2144426,2019
+1,0,0.2,0.0,2,2,2,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,2,0,04/13/2019,away,14781,56,Bentley,9,True,3,14,-11,loss,1659597,241,2144426,2019
+1,1,1.0,0.0,6,6,5,1,0,0,10,8,1,0,0,0,1,0,0,0,0,0,1,32,0,3,0,1,0,1,0,04/30/2019,away,14781,468,Southern N.H.,9,True,0,11,-11,loss,1663213,241,2144426,2019

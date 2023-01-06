@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,1,1,0,0,0,5,0,02/05/2019,away,14781,30153,Union (TN),9,True,16,4,12,win,1647217,947,1988618,2019
+1,0,1.0,0.0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,02/08/2019,away,14781,1009,Central Okla.,9,True,6,7,-1,loss,1647343,947,1988618,2019
+1,0,1.0,0.0,2,2,1,0,1,0,5,5,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,3,0,02/18/2019,home,14781,30153,Union (TN),9,True,7,2,5,win,1707597,947,1988618,2019
+1,0,0.1,0.0,3,3,1,1,0,0,6,5,1,0,0,0,1,0,0,0,0,0,0,15,0,1,0,0,0,2,0,04/05/2019,home,14781,30178,Northwestern Okla.,9,True,10,3,7,win,1723299,947,1988618,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,04/27/2019,home,14781,1116,Harding,9,True,8,22,-14,loss,1662704,947,1988618,2019

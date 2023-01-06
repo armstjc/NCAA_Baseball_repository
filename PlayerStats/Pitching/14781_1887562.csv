@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,0,1,0,0,0,6,2,03/20/2019,away,14781,436,Mo.-St. Louis,9,True,13,7,6,win,1665959,30138,1887562,2019
+1,0,1.0,0.0,1,2,2,4,0,0,8,3,0,0,0,0,0,0,0,0,0,0,1,26,1,2,0,0,0,3,0,04/01/2019,away,14781,354,Lewis,9,True,2,12,-10,loss,1656842,30138,1887562,2019
+1,0,0.2,0.0,0,0,0,1,0,0,3,1,0,0,0,0,0,0,0,0,0,0,1,12,0,2,0,0,0,3,0,04/06/2019,away,14781,395,Maryville (MO),9,True,0,11,-11,loss,1658244,30138,1887562,2019
+1,0,1.0,0.0,1,0,0,1,0,0,5,4,1,0,0,0,1,0,0,2,2,0,0,19,3,0,0,0,0,6,0,04/13/2019,home,14781,30050,Ill. Springfield,9,True,4,14,-10,loss,1666722,30138,1887562,2019
+1,0,0.2,0.0,0,2,2,3,1,0,5,1,0,0,0,0,0,0,0,1,1,0,1,28,0,1,0,0,0,5,0,04/24/2019,away,14781,30136,Lindenwood,9,True,9,14,-5,loss,1661901,30138,1887562,2019

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,3,1,0,6,3,0,0,0,0,0,0,0,0,0,0,0,31,0,2,0,0,0,3,1,02/01/2019,neutral,14781,1395,Tarleton St.,9,True,5,8,-3,loss,1647041,947,2132049,2019
+1,0,1.0,0.0,0,0,0,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,6,0,02/05/2019,away,14781,30153,Union (TN),9,True,16,4,12,win,1647217,947,2132049,2019
+1,0,0.0,0.0,2,3,3,1,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,02/24/2019,home,14781,1123,Henderson St.,9,True,10,6,4,win,1709189,947,2132049,2019
+1,0,0.2,0.0,3,2,2,2,0,0,6,4,0,0,0,0,0,0,0,3,3,0,0,32,0,1,0,0,0,8,0,04/27/2019,home,14781,1116,Harding,9,True,8,22,-14,loss,1662704,947,2132049,2019

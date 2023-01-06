@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,2,2,3,0,0,3,0,0,0,0,0,0,0,0,3,3,0,0,17,0,0,0,0,0,3,0,02/02/2019,home,14781,1238,Montevallo,9,True,2,16,-14,loss,1704357,30149,1980792,2019
+1,0,1.0,0.0,2,2,2,2,1,0,7,5,0,1,0,0,1,0,0,0,0,0,0,28,1,1,0,0,0,3,0,03/01/2019,away,14781,30123,Academy of Art,9,True,17,6,11,win,1668470,30149,1980792,2019
+1,0,1.0,0.0,0,0,0,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,16,2,0,0,0,0,3,0,04/19/2019,away,14781,30147,Fresno Pacific,9,True,6,12,-6,loss,1660963,30149,1980792,2019

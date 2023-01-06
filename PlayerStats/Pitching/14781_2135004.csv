@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,3.2,0.0,3,3,3,0,1,0,17,13,0,0,0,0,0,3,0,0,0,1,0,0,5,5,0,0,0,1,0,02/15/2019,away,14781,996,Cameron,9,True,4,14,-10,loss,1647826,30028,2135004,2019
+1,1,7.0,1,0,0,0,1,11,1,23,22,0,0,0,0,0,0,0,0,0,0,0,90,5,4,1,0,0,1,4,02/24/2019,home,14781,1203,Mary Hardin-Baylor,9,True,3,0,3,win,1649133,30028,2135004,2019
+1,1,6.0,0.0,3,1,1,1,4,0,23,21,1,0,0,0,0,1,0,0,0,0,0,0,5,9,0,1,0,1,0,03/01/2019,neutral,14781,383,Minnesota St.,9,True,0,1,-1,loss,1715628,30028,2135004,2019
+1,1,4.0,0.0,3,2,2,0,3,0,15,14,1,0,0,0,1,0,0,0,0,0,1,0,4,5,0,1,0,1,2,03/16/2019,away,14781,23121,Texas-Dallas,9,True,0,3,-3,loss,1653275,30028,2135004,2019

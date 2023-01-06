@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.2,0.0,1,0,0,1,1,0,6,5,1,0,1,0,0,0,0,3,3,0,0,32,2,1,0,0,0,6,1,02/01/2019,home,14781,91,Cal Poly Pomona,9,True,3,14,-11,loss,1647054,9754,2011866,2019
+1,0,1.0,0.0,3,3,3,1,0,0,7,6,1,0,1,1,0,0,0,0,0,0,0,34,1,2,0,0,0,3,0,03/08/2019,home,14781,11403,Colo. Christian,9,True,15,6,9,win,1651270,9754,2011866,2019
+1,0,0.2,0.0,2,4,4,3,1,0,7,4,0,0,0,0,1,0,0,0,0,0,0,35,1,0,0,0,0,5,0,05/02/2019,away,14781,2720,CSU Pueblo,9,True,6,16,-10,loss,1663340,9754,2011866,2019

@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.0,0.0,4,1,1,3,3,0,16,13,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,1,0,03/03/2019,home,14781,1348,St. Thomas Aquinas,9,True,7,2,5,win,1716171,3,1771389,2019
+1,0,2.0,0.0,2,1,1,0,3,0,8,8,1,0,0,0,1,0,0,0,0,0,0,30,1,2,0,0,0,3,1,03/10/2019,neutral,14781,437,Molloy,9,True,5,12,-7,loss,1652068,3,1771389,2019
+1,1,5.1,0.0,7,4,2,1,2,0,24,22,0,1,0,0,0,0,0,0,0,0,1,0,5,8,0,0,0,1,0,03/13/2019,neutral,14781,1318,Post,9,True,7,4,3,win,1652649,3,1771389,2019
+1,1,2.0,0.0,2,4,4,3,1,0,11,6,2,0,0,0,0,1,0,0,0,0,1,0,3,1,0,0,0,1,0,03/23/2019,home,14781,36,Assumption,9,True,14,6,8,win,1720448,3,1771389,2019
+1,1,1.2,0.0,6,3,3,1,0,0,14,11,0,0,0,0,0,2,0,0,0,0,0,41,1,4,0,0,0,1,0,04/07/2019,away,14781,613,Saint Michael's,9,True,12,6,6,win,1658441,3,1771389,2019
+1,0,1.0,0.0,2,1,1,0,2,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3,2,04/20/2019,home,14781,1347,Saint Rose,9,True,7,4,3,win,1726580,3,1771389,2019

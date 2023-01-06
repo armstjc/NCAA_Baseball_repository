@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,3,1,1,1,0,0,10,9,0,0,0,1,0,0,0,1,0,0,0,32,2,4,0,0,1,2,0,03/17/2019,home,14781,628,San Fran. St.,9,True,4,3,1,win,1653733,91,1643873,2019
+1,1,1.0,0.0,1,6,6,4,2,0,10,4,0,1,0,0,1,2,0,0,0,0,0,0,0,1,0,1,0,1,0,03/24/2019,away,14781,645,Sonoma St.,9,True,5,9,-4,loss,1720807,91,1643873,2019
+1,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,5,0,0,0,0,0,3,0,04/06/2019,away,14781,30055,Cal St. Monterey Bay,9,True,3,9,-6,loss,1723547,91,1643873,2019
+1,0,0.1,0.0,1,2,2,0,0,0,3,2,1,0,0,0,0,1,0,3,2,0,0,7,0,1,0,0,0,3,0,04/06/2019,away,14781,30055,Cal St. Monterey Bay,9,True,3,8,-5,loss,1723548,91,1643873,2019
+1,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,1,0,0,4,1,0,0,0,0,4,1,04/28/2019,home,14781,30198,Cal St. San Marcos,9,True,9,4,5,win,1665289,91,1643873,2019

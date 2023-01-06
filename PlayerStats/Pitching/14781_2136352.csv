@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,20,1,0,0,0,0,5,0,02/08/2019,away,14781,93,Cal St. San B'dino,10,True,11,6,5,win,1647333,468,2136352,2019
+1,0,0.0,0.0,0,2,1,1,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,11,0,0,0,0,0,2,0,02/24/2019,neutral,14781,1348,St. Thomas Aquinas,9,True,11,7,4,win,1649342,468,2136352,2019
+1,0,2.0,0.0,4,2,2,0,3,0,10,10,1,0,0,0,0,0,0,0,0,0,0,37,1,2,0,0,0,4,0,03/13/2019,away,14781,24639,Nova Southeastern,9,True,7,18,-11,loss,1652779,468,2136352,2019
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,2,0,0,0,0,3,0,04/24/2019,away,14781,613,Saint Michael's,9,True,12,3,9,win,1661952,468,2136352,2019
+1,0,2.1,0.0,0,0,0,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0,0,25,7,0,0,0,0,5,0,05/02/2019,home,14781,410,Merrimack,9,True,8,7,1,win,1729885,468,2136352,2019

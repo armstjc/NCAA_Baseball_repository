@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,3,3,3,0,0,0,3,3,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,3,0,02/02/2019,away,14781,1123,Henderson St.,9,True,0,21,-21,loss,1647086,30153,1985457,2019
+1,0,0.1,0.0,4,2,1,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,4,0,02/27/2019,away,14781,1123,Henderson St.,9,True,3,4,-1,loss,1649690,30153,1985457,2019
+1,0,1.2,0.0,2,1,1,1,0,0,8,7,1,0,0,0,0,0,0,1,0,0,0,27,3,2,0,0,0,3,0,04/17/2019,home,14781,695,UT Martin,9,True,2,7,-5,loss,1660541,30153,1985457,2019
+1,0,0.1,0.0,1,0,0,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,0,6,0,0,0,0,0,3,1,04/27/2019,home,14781,1015,Christian Brothers,9,True,17,3,14,win,1669044,30153,1985457,2019

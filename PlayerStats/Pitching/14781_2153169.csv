@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,2,2,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,03/09/2019,neutral,14781,197,East Stroudsburg,9,True,6,12,-6,loss,1651907,533,2153169,2019
+1,0,1.0,0.0,3,3,3,2,3,0,9,6,1,0,0,0,1,1,0,0,0,0,0,38,0,0,0,0,0,2,1,03/23/2019,home,14781,410,Merrimack,9,True,7,8,-1,loss,1669172,533,2153169,2019
+1,0,1.1,0.0,1,0,0,1,2,0,6,5,0,0,0,0,0,0,0,0,0,0,0,22,0,2,0,0,0,6,1,03/24/2019,home,14781,36,Assumption,9,True,6,9,-3,loss,1666331,533,2153169,2019
+1,1,4.0,0.0,4,2,2,4,4,0,18,13,1,0,0,1,0,1,0,0,0,0,0,74,4,1,0,0,0,1,0,04/03/2019,home,14781,437,Molloy,9,True,15,4,11,win,1723839,533,2153169,2019
+1,0,0.2,0.0,0,2,2,3,1,0,5,2,0,0,0,0,0,0,0,2,0,0,0,29,0,1,0,0,0,3,1,04/14/2019,away,14781,1347,Saint Rose,9,True,3,9,-6,loss,1659974,533,2153169,2019

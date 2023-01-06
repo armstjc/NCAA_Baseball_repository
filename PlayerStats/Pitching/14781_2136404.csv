@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,2,2,2,2,0,8,6,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,4,1,02/09/2019,home,14781,1438,West Liberty,9,True,18,6,12,win,1647424,1072,2136404,2019
+1,0,0.2,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,7,1,03/20/2019,home,14781,1257,Newberry,9,True,2,14,-12,loss,1648466,1072,2136404,2019
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,5,0,03/30/2019,home,14781,8875,Chowan,9,True,21,7,14,win,1666398,1072,2136404,2019

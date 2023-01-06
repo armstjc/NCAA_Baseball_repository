@@ -1,4 +1,4 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-02/24/2019,home,14781,30221,Davenport,9,True,2,18,-16,loss,2 - 18,4715636,410,1,1.0,0,2,2,2,0,1,0,5,4,0,0,0,0,3,0,0,0,0,0,1,0,1,1,0,0,0,3,0,2134273,2019
-03/10/2019,home,14781,984,Bloomfield,9,True,13,3,10,win,13 - 3,4729513,410,1,1.0,0,2,1,0,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,2134273,2019
-04/11/2019,away,14781,22,American Int'l,9,True,11,5,6,win,11 - 5,4766333,410,1,1.0,0,1,1,0,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,2134273,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,2,2,0,1,0,5,4,0,0,0,0,3,0,0,0,0,0,1,0,1,1,0,0,0,3,0,02/24/2019,neutral,14781,30221,Davenport,9,True,2,18,-16,loss,1649340,410,2134273,2019
+1,0,1.0,0.0,2,1,0,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,03/10/2019,neutral,14781,984,Bloomfield,9,True,13,3,10,win,1652173,410,2134273,2019
+1,0,1.0,0.0,1,1,0,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,04/11/2019,away,14781,22,American Int'l,9,True,11,5,6,win,1659064,410,2134273,2019

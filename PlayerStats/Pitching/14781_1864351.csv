@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,4,1,0,0,0,1,5,0,02/16/2019,away,14781,433,Ole Miss,9,True,9,5,4,win,1648014,810,1864351,2019
+1,1,5.0,0.0,7,3,3,2,7,0,22,19,1,1,0,0,0,0,0,0,0,1,0,75,4,2,0,0,0,1,1,02/24/2019,away,14781,521,Oklahoma St.,9,True,5,4,1,win,1649504,810,1864351,2019
+1,1,3.0,0.0,5,4,4,2,4,0,16,14,1,0,0,1,1,0,0,0,0,0,0,0,3,2,0,1,0,1,0,03/03/2019,neutral,14781,732,Utah,9,True,8,12,-4,loss,1650579,810,1864351,2019
+1,0,0.2,0.0,1,1,1,2,1,0,5,3,0,0,0,0,0,0,0,0,0,0,0,23,1,0,0,0,0,3,0,03/31/2019,home,14781,817,Youngstown St.,9,True,18,8,10,win,1656931,810,1864351,2019

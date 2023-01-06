@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/12/2019,neutral,14781,797,Milwaukee,9,True,6,18,-12,loss,1659113,817,2126038,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/13/2019,neutral,14781,797,Milwaukee,9,True,2,22,-20,loss,1724814,817,2126038,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/18/2019,home,14781,505,Northern Ky.,9,True,6,7,-1,loss,1726161,817,2126038,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/24/2019,home,14781,596,St. Bonaventure,9,True,10,0,10,win,1661913,817,2126038,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/12/2019,away,14781,302,UIC,9,True,4,13,-9,loss,1664550,817,2126038,2019

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,1.1,0.0,1,7,7,6,2,0,12,5,0,0,0,0,1,0,0,0,0,0,1,56,1,1,0,0,0,1,1,02/10/2019,neutral,14781,100,Cal State LA,9,True,9,11,-2,loss,1647499,11416,1653132,2019
+1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,17,1,1,0,0,0,4,0,03/30/2019,home,14781,11403,Colo. Christian,9,True,22,3,19,win,1656606,11416,1653132,2019
+1,0,1.0,0.0,0,0,0,2,2,0,6,3,0,0,0,0,0,1,0,0,0,0,0,24,0,1,0,0,0,2,0,04/12/2019,home,14781,929,Adams St.,9,True,12,0,12,win,1659349,11416,1653132,2019
+1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,0,3,1,05/04/2019,home,14781,30095,Utah Tech,9,True,8,6,2,win,1730438,11416,1653132,2019

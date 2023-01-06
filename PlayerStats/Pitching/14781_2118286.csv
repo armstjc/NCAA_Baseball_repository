@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,0.0,0.0,1,3,3,3,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,02/03/2019,neutral,14781,598,St. Cloud St.,9,True,3,7,-4,loss,1647173,130,2118286,2019
+1,1,2.0,0.0,2,4,4,4,1,0,13,8,1,0,0,0,1,0,0,0,0,1,0,61,4,1,0,0,0,1,0,02/10/2019,away,14781,9754,UC-Colo. Springs,9,True,6,7,-1,loss,1647508,130,2118286,2019
+1,1,4.2,0.0,1,0,0,3,5,0,18,14,0,0,1,0,1,1,0,0,0,0,0,0,3,5,0,0,0,1,2,02/22/2019,away,14781,1071,Emporia St.,9,True,18,1,17,win,1649097,130,2118286,2019
+1,1,4.1,0.0,5,3,3,1,1,0,20,18,2,0,0,0,0,0,0,0,0,0,1,69,4,8,0,0,0,1,1,03/01/2019,home,14781,12810,Northeastern St.,9,True,4,3,1,win,1650060,130,2118286,2019
+1,1,4.0,0.0,3,4,3,1,3,0,19,16,2,1,0,0,0,2,0,0,0,0,0,51,4,5,0,1,0,1,2,03/10/2019,home,14781,1009,Central Okla.,9,True,3,8,-5,loss,1651988,130,2118286,2019
+1,1,1.1,0.0,1,3,3,3,2,0,9,5,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1,03/17/2019,away,14781,2755,Southwest Baptist,9,True,7,6,1,win,1653849,130,2118286,2019

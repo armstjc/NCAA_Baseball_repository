@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/10/2019,home,14781,996,Cameron,9,True,15,1,14,win,1704964,30177,2136494,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2019,away,14781,767,West Tex. A&M,9,True,1,9,-8,loss,1651024,30177,2136494,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/29/2019,home,14781,30054,Newman,9,True,28,1,27,win,1668849,30177,2136494,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/09/2019,away,14781,8577,N.M. Highlands,9,True,16,6,10,win,1658682,30177,2136494,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/18/2019,away,14781,30090,Tex. A&M Int'l,9,True,15,6,9,win,1660620,30177,2136494,2019

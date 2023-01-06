@@ -1,6 +1,6 @@
-date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,score,game_id,school_id,App,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,Pitches,GO,FO,W,L,SV,OrdAppeared,KL,stats_player_seq,season
-04/05/2019,away,14781,36,Assumption,9,True,0,12,-12,loss,0 - 12,4759144,410,1,1.0,0,3,0,0,0,1,0,6,6,0,0,0,0,0,0,0,0,0,0,0,28,1,1,0,0,0,5,1,1655725,2019
-04/10/2019,home,14781,56,Bentley,9,True,11,0,11,win,11 - 0,4765048,410,1,1.0,0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,13,1,2,0,0,0,2,0,1655725,2019
-04/27/2019,home,14781,241,Franklin Pierce,9,True,10,1,9,win,10 - 1,4781762,410,1,1.0,0,2,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,1655725,2019
-05/02/2019,away,14781,468,Southern N.H.,9,True,7,8,-1,loss,7 - 8,4785723,410,1,0.2,0,1,2,0,2,1,0,6,3,0,0,0,0,0,0,0,0,0,1,0,21,2,0,0,1,0,3,0,1655725,2019
-05/04/2019,away,14781,468,Southern N.H.,9,True,0,3,-3,loss,0 - 3,4787635,410,1,1.0,0,1,1,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,25,2,0,0,0,0,2,1,1655725,2019
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,0,0,0,1,0,6,6,0,0,0,0,0,0,0,0,0,0,0,28,1,1,0,0,0,5,1,04/05/2019,away,14781,36,Assumption,9,True,0,12,-12,loss,1723252,410,1655725,2019
+1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,13,1,2,0,0,0,2,0,04/10/2019,home,14781,56,Bentley,9,True,11,0,11,win,1658978,410,1655725,2019
+1,0,1.0,0.0,2,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,04/27/2019,home,14781,241,Franklin Pierce,9,True,10,1,9,win,1662746,410,1655725,2019
+1,0,0.2,0.0,1,2,0,2,1,0,6,3,0,0,0,0,0,0,0,0,0,1,0,21,2,0,0,1,0,3,0,05/02/2019,away,14781,468,Southern N.H.,9,True,7,8,-1,loss,1729885,410,1655725,2019
+1,0,1.0,0.0,1,1,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,25,2,0,0,0,0,2,1,05/04/2019,away,14781,468,Southern N.H.,9,True,0,3,-3,loss,1665201,410,1655725,2019

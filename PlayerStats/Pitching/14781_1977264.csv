@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/15/2019,home,14781,24639,Nova Southeastern,9,True,17,1,16,win,1647678,9223,1977264,2019
+1,0,1.0,0.0,2,0,0,0,2,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,1,03/05/2019,away,14781,13028,Anderson (SC),9,True,18,4,14,win,1650963,9223,1977264,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/13/2019,away,14781,1167,Lander,9,True,10,2,8,win,1652621,9223,1977264,2019
+1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,2,0,0,0,0,4,0,04/19/2019,home,14781,8875,Chowan,9,True,11,3,8,win,1660831,9223,1977264,2019

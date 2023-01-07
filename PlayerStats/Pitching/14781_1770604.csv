@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,2,1,1,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,22,1,1,0,0,0,5,0,03/02/2019,home,14781,798,Wis.-Oshkosh,9,True,8,3,5,win,1650423,28593,1770604,2019
+1,0,1.1,0.0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,16,2,2,0,0,0,5,0,03/16/2019,home,14781,573,Rhodes,9,True,2,10,-8,loss,1718838,28593,1770604,2019
+1,0,0.2,0.0,3,5,5,2,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,27,0,1,0,0,0,3,0,03/30/2019,home,14781,973,Berry,9,True,0,17,-17,loss,1656683,28593,1770604,2019
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,0,2,0,0,0,4,1,04/06/2019,home,14781,2713,Oglethorpe,9,True,11,2,9,win,1658226,28593,1770604,2019
+1,0,1.0,0.0,2,3,3,0,0,0,6,5,0,0,0,1,0,1,0,0,0,0,0,16,2,1,0,0,0,3,0,04/20/2019,home,14781,652,Sewanee,9,True,14,4,10,win,1661442,28593,1770604,2019

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,2,2,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,17,1,1,0,0,0,3,0,02/23/2019,home,14781,49,Barry,9,True,2,11,-9,loss,1665893,233,2146999,2019
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,9,1,1,0,0,0,4,1,03/06/2019,home,14781,23157,Felician,9,True,24,5,19,win,1665705,233,2146999,2019
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,2,0,0,0,0,2,0,03/12/2019,home,14781,30092,Flagler,9,True,9,1,8,win,1652572,233,2146999,2019
+1,1,2.0,0.0,2,2,2,1,0,0,9,7,0,0,0,1,0,0,0,0,0,1,0,38,2,4,0,0,0,1,0,03/19/2019,away,14781,30092,Flagler,9,True,10,6,4,win,1654148,233,2146999,2019
+1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,1,2,0,0,0,3,0,04/27/2019,away,14781,24639,Nova Southeastern,9,True,5,9,-4,loss,1662763,233,2146999,2019

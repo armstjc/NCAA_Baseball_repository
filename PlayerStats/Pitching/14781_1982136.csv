@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,1,1,0,0,0,5,5,0,1,0,0,0,0,0,0,0,0,0,13,1,2,0,0,0,4,0,03/31/2019,home,14781,537,UNC Pembroke,9,True,3,15,-12,loss,1656942,11276,1982136,2019
+1,0,1.0,0.0,2,1,0,1,2,0,6,5,0,0,0,0,0,0,0,0,0,0,0,29,0,1,0,0,0,4,0,04/23/2019,home,14781,535,Paine,9,True,18,6,12,win,1727319,11276,1982136,2019

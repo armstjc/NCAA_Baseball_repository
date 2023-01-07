@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,1,2,2,2,1,0,9,7,0,0,0,0,1,0,0,0,0,0,0,0,4,1,0,0,0,2,0,02/07/2019,neutral,14781,30054,Newman,9,True,14,4,10,win,1647246,30179,1783542,2019
+1,0,1.0,0.0,3,2,2,0,2,0,6,6,0,0,0,0,1,0,0,0,0,0,0,25,0,1,0,0,0,3,0,03/05/2019,away,14781,30152,Southern Nazarene,9,True,6,5,1,win,1650883,30179,1783542,2019
+1,0,0.1,0.0,1,1,1,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,20,1,0,0,0,0,4,0,03/26/2019,away,14781,1009,Central Okla.,9,True,8,5,3,win,1655732,30179,1783542,2019
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,5,0,04/18/2019,home,14781,30105,Ark.-Fort Smith,9,True,3,8,-5,loss,1726267,30179,1783542,2019

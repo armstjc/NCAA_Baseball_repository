@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,02/10/2019,away,14781,426,Millsaps,9,True,17,7,10,win,1647514,396,1751647,2019
+1,0,1.0,0.0,0,0,0,0,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,02/16/2019,home,14781,374,Lynchburg,9,True,9,1,8,win,1669086,396,1751647,2019
+1,0,0.2,0.0,1,3,3,3,2,0,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,03/06/2019,home,14781,806,Wittenberg,9,True,6,4,2,win,1651111,396,1751647,2019
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,03/11/2019,home,14781,30094,Brevard,9,True,11,1,10,win,1651535,396,1751647,2019
+1,0,0.2,0.0,0,2,1,4,0,0,7,3,0,0,0,0,1,0,0,0,0,0,0,28,0,2,0,0,0,3,0,03/24/2019,home,14781,8567,Mt. St. Joseph,9,True,11,4,7,win,1655216,396,1751647,2019

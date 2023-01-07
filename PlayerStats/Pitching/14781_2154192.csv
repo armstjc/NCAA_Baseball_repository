@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,1,0,4,4,0,0,1,0,0,0,0,0,0,0,0,14,0,2,0,0,0,2,0,03/12/2019,home,14781,279,Lehman,9,True,11,1,10,win,1652550,1340,2154192,2019
+1,0,2.0,0.0,1,0,0,0,2,0,7,7,0,0,0,0,1,0,0,0,0,0,0,0,2,2,0,0,0,5,0,03/24/2019,away,14781,724,Merchant Marine,9,True,4,9,-5,loss,1665987,1340,2154192,2019
+1,0,1.0,0.0,2,0,0,0,2,0,5,5,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,5,2,04/02/2019,home,14781,321,John Jay,9,True,12,5,7,win,1657224,1340,2154192,2019
+1,0,0.2,0.0,3,1,1,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,24,0,2,0,0,0,8,0,04/10/2019,home,14781,564,Ramapo,9,True,1,6,-5,loss,1658794,1340,2154192,2019
+1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,5,0,04/30/2019,home,14781,319,New Jersey City,9,True,9,2,7,win,1727746,1340,2154192,2019

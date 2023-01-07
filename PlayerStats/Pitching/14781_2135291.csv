@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,1,3,2,2,0,0,5,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,4,0,02/21/2019,neutral,14781,241,Franklin Pierce,9,True,1,15,-14,loss,1648586,23157,2135291,2019
+1,0,1.0,0.0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,18,0,2,0,0,0,7,1,03/19/2019,home,14781,1348,St. Thomas Aquinas,9,True,6,11,-5,loss,1654096,23157,2135291,2019
+1,0,0.2,0.0,1,1,1,0,1,0,3,3,0,0,0,1,0,0,0,3,3,0,0,0,1,0,0,0,0,5,0,04/06/2019,away,14781,995,Caldwell,9,True,13,11,2,win,1657995,23157,2135291,2019
+1,0,0.1,0.0,1,2,1,1,0,0,4,2,0,0,0,0,1,1,0,0,0,0,0,9,0,1,0,0,0,3,0,04/12/2019,away,14781,1460,Wilmington (DE),9,True,4,15,-11,loss,1659179,23157,2135291,2019
+1,0,0.1,0.0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,9,1,0,0,0,0,4,0,04/27/2019,home,14781,984,Bloomfield,9,True,3,15,-12,loss,1666201,23157,2135291,2019

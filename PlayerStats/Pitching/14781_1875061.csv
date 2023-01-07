@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,0,1,1,1,1,0,4,2,0,0,0,0,2,1,0,0,0,0,0,14,1,0,0,0,0,5,0,03/26/2019,home,14781,571,Rhode Island Col.,9,True,0,10,-10,loss,1655689,200,1875061,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/27/2019,away,14781,764,Wesleyan (CT),9,True,7,3,4,win,1655897,200,1875061,2019
+1,0,1.0,0.0,0,0,0,1,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,13,1,0,0,0,0,4,0,03/31/2019,away,14781,779,Wheaton (MA),9,True,6,19,-13,loss,1656780,200,1875061,2019
+1,0,0.0,0.0,0,2,2,1,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0,7,0,0,0,0,0,4,0,04/10/2019,away,14781,30219,Dean,9,True,13,5,8,win,1716744,200,1875061,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/24/2019,home,14781,26107,Becker,9,True,14,2,12,win,1727514,200,1875061,2019

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0,02/15/2019,away,14781,309,UIndy,9,True,5,11,-6,loss,1647654,799,1982991,2019
+1,0,0.0,0.0,0,2,2,1,0,0,2,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,4,0,02/24/2019,neutral,14781,598,St. Cloud St.,9,True,5,9,-4,loss,1709412,799,1982991,2019
+1,0,0.0,0.0,1,4,4,2,0,0,4,1,0,0,0,0,0,1,0,2,2,0,0,15,0,0,0,0,0,4,0,03/01/2019,away,14781,52,Bellarmine,9,True,4,11,-7,loss,1715517,799,1982991,2019
+1,0,0.2,0.0,1,0,0,1,0,0,4,3,1,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,2,0,03/12/2019,away,14781,30050,Ill. Springfield,9,True,3,14,-11,loss,1667047,799,1982991,2019

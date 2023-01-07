@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,8,1,2,0,0,0,2,0,03/13/2019,neutral,14781,9500,SUNY Poly,9,True,19,1,18,win,1652662,571,2005460,2019
+1,0,1.0,0.0,2,2,2,1,2,0,6,5,0,0,0,1,0,0,0,0,0,0,0,27,0,1,0,0,0,4,0,03/30/2019,away,14781,662,Southern Me.,9,True,3,10,-7,loss,1656506,571,2005460,2019
+1,0,1.0,0.0,5,5,5,0,1,0,8,8,1,0,0,2,0,0,0,0,0,0,0,32,1,1,0,0,0,7,0,04/13/2019,home,14781,548,Plymouth St.,9,True,13,22,-9,loss,1666477,571,2005460,2019

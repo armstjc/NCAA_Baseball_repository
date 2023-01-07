@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,19,1,1,0,0,0,4,1,03/09/2019,neutral,14781,759,Webster,9,True,2,9,-7,loss,1651655,623,2004622,2019
+1,0,0.2,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,6,0,03/10/2019,neutral,14781,11839,Pitt.-Greensburg,9,True,9,12,-3,loss,1652047,623,2004622,2019
+1,0,0.1,0.0,1,2,2,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,10,0,1,0,0,0,3,0,03/31/2019,away,14781,401,UMass Boston,9,True,10,15,-5,loss,1656921,623,2004622,2019
+1,0,0.2,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,13,1,1,0,0,0,3,0,04/04/2019,home,14781,779,Wheaton (MA),9,True,8,6,2,win,1657483,623,2004622,2019
+1,0,0.2,0.0,2,2,2,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,19,1,0,0,1,0,2,0,04/16/2019,home,14781,30042,Mitchell,9,True,6,13,-7,loss,1660363,623,2004622,2019

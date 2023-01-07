@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,02/16/2019,away,14781,1112,Guilford,9,True,5,6,-1,loss,1648005,30114,2142583,2019
+1,0,1.0,0.0,2,2,2,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,03/02/2019,neutral,14781,1254,Neumann,9,True,11,10,1,win,1650136,30114,2142583,2019
+1,0,0.1,0.0,1,1,1,2,0,0,4,2,0,0,0,0,0,0,1,0,0,0,0,16,0,1,0,0,0,4,0,03/27/2019,away,14781,1305,Cairn,9,True,6,11,-5,loss,1655892,30114,2142583,2019
+1,0,2.0,0.0,4,2,0,1,0,0,11,9,1,0,0,0,0,0,0,0,0,0,1,35,1,5,0,0,0,3,0,04/02/2019,home,14781,712,TCNJ,9,True,5,15,-10,loss,1657210,30114,2142583,2019
+1,0,0.2,0.0,1,2,0,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,20,0,1,0,0,0,3,0,04/10/2019,home,14781,88,Cabrini,9,True,6,8,-2,loss,1724278,30114,2142583,2019

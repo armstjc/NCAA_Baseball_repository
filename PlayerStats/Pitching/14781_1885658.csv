@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,2,2,0,0,0,6,6,1,0,0,1,0,0,0,0,0,0,0,19,2,1,0,0,0,3,0,03/31/2019,away,14781,1450,Westminster (MO),9,True,14,2,12,win,1666355,759,1885658,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/16/2019,away,14781,555,Principia,9,True,21,4,17,win,1725732,759,1885658,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/20/2019,home,14781,1111,Greenville,9,True,16,0,16,win,1665777,759,1885658,2019
+1,0,0.0,0.0,1,2,2,1,0,0,4,1,1,0,0,0,0,2,0,0,0,0,0,12,0,0,0,0,0,6,0,04/28/2019,away,14781,11538,Fontbonne,9,True,0,9,-9,loss,1663026,759,1885658,2019
+1,0,2.1,0.0,0,0,0,1,1,0,8,7,0,0,0,0,0,0,1,0,0,0,0,22,4,2,0,0,0,4,0,05/19/2019,neutral,14781,492,North Central (IL),9,True,9,14,-5,loss,1732992,759,1885658,2019

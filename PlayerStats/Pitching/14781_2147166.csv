@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,0,0,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,03/24/2019,home,14781,717,Tufts,9,True,3,7,-4,loss,1720749,565,2147166,2019
+1,0,1.0,0.0,3,2,2,0,1,0,6,6,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,03/30/2019,home,14781,637,Shenandoah,9,True,13,4,9,win,1666356,565,2147166,2019
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0,04/10/2019,home,14781,17094,William Peace,9,True,16,5,11,win,1715630,565,2147166,2019
+1,0,1.0,0.0,0,0,0,1,1,0,5,3,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,2,0,04/25/2019,away,14781,815,York (PA),9,True,15,5,10,win,1662047,565,2147166,2019

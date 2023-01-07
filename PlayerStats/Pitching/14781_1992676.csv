@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,0.0,0.0,0,3,3,3,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,18,0,0,0,1,0,1,0,03/12/2019,neutral,14781,385,Marietta,9,True,4,9,-5,loss,1652446,200,1992676,2019
+1,0,5.1,0.0,3,1,1,2,6,0,18,16,0,1,0,0,0,0,0,1,0,0,0,73,6,1,0,0,0,2,3,03/16/2019,away,14781,492,North Central (IL),9,True,3,5,-2,loss,1653302,200,1992676,2019
+1,0,0.0,0.0,2,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,3,0,03/20/2019,away,14781,22626,JWU (Providence),9,True,10,8,2,win,1654328,200,1992676,2019
+1,0,3.1,0.0,4,3,3,1,1,0,15,12,1,0,0,0,2,2,0,0,0,0,0,50,4,3,0,0,0,2,1,03/26/2019,home,14781,571,Rhode Island Col.,9,True,0,10,-10,loss,1655689,200,1992676,2019

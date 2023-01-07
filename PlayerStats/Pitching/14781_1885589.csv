@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,2,3,3,3,1,0,7,4,0,0,0,0,0,0,0,0,0,0,0,26,0,1,0,0,0,5,0,03/09/2019,neutral,14781,182,Denison,9,True,8,16,-8,loss,1717946,1461,1885589,2019
+1,0,2.0,0.0,0,0,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,5,0,04/03/2019,away,14781,320,John Carroll,9,True,5,14,-9,loss,1656588,1461,1885589,2019
+1,0,0.0,0.0,1,2,2,1,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,04/06/2019,home,14781,46,Baldwin Wallace,9,True,1,15,-14,loss,1668616,1461,1885589,2019
+1,0,1.1,0.0,4,4,4,0,0,0,8,8,1,0,0,2,0,0,0,0,0,0,0,0,2,2,0,0,0,3,0,05/01/2019,home,14781,0,Miami-Hamilton,9,True,4,13,-9,loss,1729253,1461,1885589,2019

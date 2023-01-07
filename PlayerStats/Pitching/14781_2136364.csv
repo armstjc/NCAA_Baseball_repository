@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,2,1,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,02/09/2019,away,14781,1116,Harding,9,True,0,10,-10,loss,1647444,499,2136364,2019
+1,0,1.0,0.0,2,2,2,1,0,0,6,4,1,0,0,0,0,0,0,0,0,0,1,23,0,3,0,0,0,3,0,04/03/2019,away,14781,561,Quincy,9,True,0,11,-11,loss,1666074,499,2136364,2019
+1,0,2.0,0.0,4,4,3,2,1,0,13,10,1,0,0,0,2,0,0,0,0,0,1,47,1,4,0,0,0,3,0,04/13/2019,away,14781,52,Bellarmine,9,True,2,15,-13,loss,1666718,499,2136364,2019
+1,0,2.0,0.0,4,4,2,2,1,0,13,10,0,0,0,0,0,0,0,0,0,0,1,42,4,1,0,0,0,3,0,04/19/2019,home,14781,309,UIndy,9,True,2,25,-23,loss,1660885,499,2136364,2019
+1,0,1.2,0.0,5,2,2,0,1,0,11,9,1,0,0,0,0,1,0,0,0,0,1,35,2,1,0,0,0,3,0,04/27/2019,away,14781,395,Maryville (MO),9,True,9,19,-10,loss,1662764,499,2136364,2019

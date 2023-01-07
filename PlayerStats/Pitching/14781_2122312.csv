@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,3.0,0.0,5,7,6,2,2,0,19,15,0,1,0,0,0,1,0,0,0,0,1,66,2,6,0,1,0,1,0,02/13/2019,away,14781,973,Berry,9,True,6,14,-8,loss,1647574,396,2122312,2019
+1,1,5.0,0.0,2,0,0,1,4,0,20,18,0,0,0,0,1,1,0,0,0,0,0,0,6,4,1,0,0,1,2,02/26/2019,home,14781,216,Emory & Henry,9,True,4,0,4,win,1649615,396,2122312,2019
+1,1,7.0,0.0,5,1,1,1,1,0,26,25,1,0,0,0,0,0,0,0,0,0,0,76,9,9,1,0,0,1,1,03/11/2019,home,14781,30094,Brevard,9,True,11,1,10,win,1651535,396,2122312,2019
+1,1,0.2,0.0,4,4,4,2,0,0,9,5,2,1,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,03/17/2019,away,14781,412,Methodist,9,True,2,11,-9,loss,1653844,396,2122312,2019
+1,1,1.1,0.0,5,6,6,1,2,0,12,8,0,0,0,1,0,2,0,0,0,1,0,31,2,0,0,1,0,1,0,03/23/2019,home,14781,8567,Mt. St. Joseph,9,True,9,12,-3,loss,1654759,396,2122312,2019

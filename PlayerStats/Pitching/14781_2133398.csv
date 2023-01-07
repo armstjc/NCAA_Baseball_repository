@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,1,03/26/2019,home,14781,203,East. Mennonite,9,True,4,8,-4,loss,1655683,637,2133398,2019
+1,0,1.0,0.0,4,3,3,0,1,0,9,7,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,2,1,03/30/2019,away,14781,565,Randolph-Macon,9,True,4,13,-9,loss,1666356,637,2133398,2019
+1,0,4.0,0.0,3,0,0,3,3,0,16,13,0,0,0,0,0,0,0,0,0,0,0,56,4,3,1,0,0,3,0,04/24/2019,away,14781,411,Messiah,9,True,11,8,3,win,1727498,637,2133398,2019
+1,0,1.0,0.0,1,1,1,1,0,0,4,3,0,0,0,0,1,0,0,0,0,0,0,16,1,1,0,0,0,2,0,05/11/2019,neutral,14781,565,Randolph-Macon,9,True,5,4,1,win,1731940,637,2133398,2019

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,10,0,02/02/2019,away,14781,24639,Nova Southeastern,9,True,6,10,-4,loss,1647114,1001,2115964,2019
+1,1,4.2,0.0,2,1,1,4,6,0,20,16,0,0,0,0,0,0,0,0,0,0,0,90,5,3,1,0,0,1,2,02/10/2019,home,14781,1199,Mars Hill,9,True,11,1,10,win,1667465,1001,2115964,2019
+1,1,1.1,0.0,3,3,3,1,0,0,7,6,0,0,1,0,0,0,0,0,0,0,0,28,1,2,0,1,0,1,0,02/26/2019,away,14781,15646,Barton,9,True,2,5,-3,loss,1649600,1001,2115964,2019
+1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,4,1,0,0,0,0,7,0,03/26/2019,away,14781,1245,Mount Olive,9,True,3,11,-8,loss,1655693,1001,2115964,2019

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,1,0,0,0,1,0,3,3,1,0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,5,1,03/11/2019,neutral,14781,779,Wheaton (MA),9,True,1,9,-8,loss,1652295,751,1772366,2019
+1,0,1.0,0.0,2,3,3,1,0,0,8,5,0,0,0,0,0,2,0,0,0,0,0,25,2,1,0,0,0,4,0,03/20/2019,home,14781,455,Muskingum,9,True,15,5,10,win,1654346,751,1772366,2019
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,3,0,0,0,0,2,0,05/05/2019,home,14781,30064,Saint Vincent,9,True,16,2,14,win,1664037,751,1772366,2019

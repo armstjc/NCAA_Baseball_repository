@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,2,2,0,1,0,6,5,0,1,0,0,1,1,0,0,0,0,0,0,2,0,0,0,0,3,0,03/18/2019,neutral,14781,126,Central (IA),9,True,4,11,-7,loss,1653942,30035,2151667,2019
+1,0,1.0,0.0,1,1,0,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,03/21/2019,neutral,14781,939,Anderson (IN),9,True,1,8,-7,loss,1720229,30035,2151667,2019
+1,0,0.1,0.0,1,0,0,0,1,0,2,2,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,4,0,03/27/2019,home,14781,8597,Martin Luther,9,True,13,4,9,win,1655869,30035,2151667,2019
+1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,13,0,3,0,0,0,3,0,04/25/2019,home,14781,30031,Northwestern-St. Paul,9,True,1,5,-4,loss,1667607,30035,2151667,2019
+1,0,1.2,0.0,1,1,0,0,2,0,7,7,0,0,0,0,0,0,0,3,0,0,0,31,1,2,0,1,0,4,1,05/05/2019,away,14781,38,Augsburg,9,True,5,6,-1,loss,1730715,30035,2151667,2019

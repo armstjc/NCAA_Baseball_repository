@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,4.2,0.0,4,1,1,0,3,0,18,17,1,0,0,0,0,1,0,0,0,0,0,53,4,6,0,0,0,2,2,03/26/2019,away,14781,46,Baldwin Wallace,9,True,7,8,-1,loss,1655692,4,2151993,2019
+1,0,0.2,0.0,0,0,0,1,0,0,3,1,0,0,0,0,2,0,0,0,0,0,1,9,0,2,0,0,0,4,0,04/01/2019,home,14781,326,Kalamazoo,9,True,0,7,-7,loss,1722477,4,2151993,2019
+1,0,1.0,0.0,0,1,1,2,2,0,6,3,0,0,0,0,0,1,0,0,0,0,0,23,1,0,0,0,0,6,1,04/07/2019,away,14781,525,Olivet,9,True,22,4,18,win,1666659,4,2151993,2019
+1,0,1.0,0.0,0,0,0,0,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,2,0,04/26/2019,home,14781,30037,Trine,9,True,14,1,13,win,1662679,4,2151993,2019

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,2,3,2,2,2,0,11,9,1,0,2,0,0,0,0,0,0,0,0,47,3,1,0,0,0,3,1,02/13/2019,away,14781,30093,AUM,9,True,2,14,-12,loss,1647599,720,2134229,2019
+1,0,1.0,0.0,1,1,1,2,1,0,6,3,0,0,0,0,2,0,0,0,0,0,1,0,0,2,0,0,0,3,0,03/17/2019,home,14781,30058,Claflin,9,True,0,7,-7,loss,1667688,720,2134229,2019
+1,0,0.1,0.0,0,4,4,4,0,0,6,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,2,0,03/31/2019,home,14781,30191,Spring Hill,9,True,2,19,-17,loss,1667886,720,2134229,2019
+1,0,0.1,0.0,4,7,7,2,1,0,8,5,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,04/07/2019,home,14781,347,Lane,9,True,4,14,-10,loss,1658372,720,2134229,2019

@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.1,0.0,1,2,1,5,4,0,14,8,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,2,3,03/02/2019,neutral,14781,30042,Mitchell,9,True,3,6,-3,loss,1650160,531,1986873,2019
+1,0,4.0,0.0,1,1,0,3,5,0,17,13,0,0,0,0,0,1,0,0,0,0,0,0,6,1,0,0,0,2,1,03/06/2019,neutral,14781,602,Saint John's (MN),9,True,0,6,-6,loss,1651081,531,1986873,2019
+1,0,0.2,0.0,0,0,0,1,0,0,3,2,0,0,0,0,2,0,1,0,0,0,0,0,1,1,0,0,0,3,0,03/16/2019,neutral,14781,798,Wis.-Oshkosh,9,True,4,7,-3,loss,1653343,531,1986873,2019
+1,0,2.1,0.0,2,1,1,1,3,0,10,9,0,0,0,0,1,0,0,0,0,0,0,0,2,2,0,0,0,3,1,03/28/2019,away,14781,520,Ohio Wesleyan,9,True,4,20,-16,loss,1655977,531,1986873,2019
+1,0,1.2,0.0,6,4,3,0,0,0,12,11,2,0,0,0,0,0,0,0,0,1,0,37,2,3,0,1,0,3,0,04/02/2019,away,14781,455,Muskingum,9,True,5,9,-4,loss,1722614,531,1986873,2019
+1,0,0.0,0.0,2,4,4,1,0,0,4,2,0,0,0,0,0,1,0,0,0,0,0,15,0,0,0,0,0,2,0,04/06/2019,away,14781,278,Heidelberg,9,True,1,6,-5,loss,1668621,531,1986873,2019

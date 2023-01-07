@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,3,0,04/25/2019,away,14781,804,Wis.-Superior,9,True,19,1,18,win,1667605,60,1777416,2019
+1,0,1.0,0.0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,11,2,0,0,0,0,4,0,05/01/2019,home,14781,615,St. Olaf,9,True,5,14,-9,loss,1663281,60,1777416,2019
+1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,0,1,0,0,0,5,1,05/02/2019,home,14781,804,Wis.-Superior,9,True,12,1,11,win,1728968,60,1777416,2019

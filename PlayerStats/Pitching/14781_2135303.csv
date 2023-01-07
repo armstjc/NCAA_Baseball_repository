@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,4,3,3,2,1,0,8,6,1,0,0,1,0,0,0,0,0,0,0,23,1,0,0,0,0,3,0,02/16/2019,away,14781,49,Barry,9,True,5,11,-6,loss,1648124,23157,2135303,2019
+1,0,2.0,0.0,1,0,0,1,4,0,9,7,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,3,1,02/23/2019,neutral,14781,470,New Haven,9,True,2,6,-4,loss,1649024,23157,2135303,2019
+1,0,1.0,0.0,2,2,2,0,0,0,5,5,0,0,0,2,0,0,0,0,0,0,0,17,0,3,0,0,0,2,0,03/06/2019,away,14781,233,Fla. Southern,9,True,4,7,-3,loss,1651112,23157,2135303,2019
+1,0,0.2,0.0,1,0,0,0,1,0,3,3,0,0,0,0,1,0,0,4,3,0,0,10,0,1,0,0,0,5,0,03/13/2019,home,14781,470,New Haven,10,True,2,8,-6,loss,1667831,23157,2135303,2019

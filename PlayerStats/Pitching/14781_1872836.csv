@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,2,0,0,0,0,3,0,02/24/2019,neutral,14781,320,John Carroll,9,True,4,13,-9,loss,1665633,19,1872836,2019
+1,0,0.2,0.0,0,0,0,1,1,0,3,1,0,0,0,0,0,0,0,2,1,0,1,16,0,1,0,0,0,3,1,03/16/2019,neutral,14781,376,Macalester,9,True,1,17,-16,loss,1708678,19,1872836,2019
+1,0,1.0,0.0,0,0,0,2,0,0,6,3,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,4,0,04/02/2019,home,14781,538,Penn St.-Behrend,9,True,18,2,16,win,1722651,19,1872836,2019
+1,0,1.0,0.0,4,3,3,1,0,0,9,7,0,0,0,0,0,1,0,0,0,0,0,28,2,1,0,0,0,2,0,04/10/2019,away,14781,242,Fredonia,9,True,14,5,9,win,1658884,19,1872836,2019
+1,0,0.2,0.0,4,3,3,1,1,0,7,6,0,0,0,0,0,0,0,0,0,0,0,26,0,1,0,0,0,2,0,04/24/2019,home,14781,707,Thiel,9,True,6,4,2,win,1661750,19,1872836,2019

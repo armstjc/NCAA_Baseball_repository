@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,02/23/2019,neutral,14781,349,Le Moyne,9,True,14,16,-2,loss,1648974,8956,2143842,2019
+1,0,1.0,0.0,2,1,1,0,0,0,5,5,0,1,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,5,0,03/08/2019,neutral,14781,470,New Haven,9,True,1,9,-8,loss,1651452,8956,2143842,2019
+1,0,1.0,0.0,0,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,6,0,04/11/2019,away,14781,3,Adelphi,9,True,7,8,-1,loss,1659035,8956,2143842,2019
+1,0,1.0,0.0,3,2,2,1,2,0,7,6,0,0,0,0,0,0,0,0,0,0,0,30,1,0,0,0,0,5,1,04/24/2019,away,14781,1277,Alliance,9,True,0,14,-14,loss,1661915,8956,2143842,2019

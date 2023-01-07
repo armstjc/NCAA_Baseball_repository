@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.2,0.0,0,0,0,1,1,0,6,4,0,0,0,0,0,0,0,2,1,0,1,16,0,4,0,0,0,5,0,02/23/2019,neutral,14781,510,Northwood,9,True,7,10,-3,loss,1648995,246,1975637,2019
+1,0,1.0,0.0,1,1,1,1,3,0,7,4,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,2,1,03/03/2019,neutral,14781,28594,USciences,9,True,14,7,7,win,1667482,246,1975637,2019
+1,0,5.1,0.0,1,0,0,0,3,0,17,17,1,0,0,0,0,0,0,2,0,0,0,0,1,12,1,0,0,2,0,03/07/2019,neutral,14781,477,New York Tech,9,True,7,2,5,win,1651215,246,1975637,2019
+1,0,1.0,0.0,2,0,0,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,10,1,2,1,0,0,3,0,04/20/2019,home,14781,546,Pitt.-Johnstown,9,True,6,5,1,win,1726545,246,1975637,2019
+1,0,2.0,0.0,4,5,5,1,1,0,12,10,1,0,0,1,0,1,0,0,0,0,0,41,2,3,0,0,0,3,0,04/27/2019,home,14781,106,California (PA),9,True,9,22,-13,loss,1662633,246,1975637,2019
+1,0,0.0,0.0,3,5,4,1,0,0,5,4,0,1,0,1,0,0,0,0,0,0,0,16,0,0,0,0,0,3,0,05/10/2019,neutral,14781,765,West Chester,9,True,1,11,-10,loss,1731534,246,1975637,2019

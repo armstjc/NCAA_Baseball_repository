@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,4,0,03/10/2019,neutral,14781,1451,Westminster (PA),9,True,11,21,-10,loss,1652091,442,1770326,2019
+1,0,0.1,0.0,2,2,2,0,1,0,3,3,1,0,0,0,0,0,0,1,0,0,0,9,0,0,0,0,0,2,0,04/08/2019,away,14781,20,DeSales,16,True,7,8,-1,loss,1718713,442,1770326,2019
+1,0,1.1,0.0,4,4,4,2,2,0,11,9,0,1,0,0,1,0,0,1,1,0,0,52,0,2,0,0,0,5,0,04/17/2019,home,14781,329,Kean,9,True,8,23,-15,loss,1725956,442,1770326,2019
+1,0,1.2,0.0,4,4,0,1,0,0,13,11,0,0,0,0,0,0,0,2,2,1,0,45,3,2,0,0,0,3,0,04/27/2019,home,14781,259,Rowan,9,True,3,18,-15,loss,1662505,442,1770326,2019

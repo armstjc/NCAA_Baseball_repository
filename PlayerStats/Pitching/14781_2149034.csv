@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,2,4,4,3,1,0,11,8,0,0,0,1,1,0,0,0,0,0,0,0,4,0,1,0,0,2,1,03/12/2019,neutral,14781,484,Nichols,9,True,17,14,3,win,1652528,73,2149034,2019
+1,0,1.0,0.0,3,1,1,0,3,0,6,6,1,0,0,1,0,0,0,0,0,0,0,25,0,0,0,0,0,2,3,03/17/2019,home,14781,762,Wentworth,9,True,15,2,13,win,1668118,73,2149034,2019
+1,1,1.0,0.0,1,2,1,2,2,0,7,5,0,0,0,0,0,0,0,0,0,0,0,38,0,1,0,0,0,1,1,03/26/2019,away,14781,24,Amherst,9,True,6,4,2,win,1655676,73,2149034,2019
+1,0,0.0,0.0,2,3,2,1,0,0,3,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,03/29/2019,away,14781,217,Emory,9,True,1,11,-10,loss,1656124,73,2149034,2019

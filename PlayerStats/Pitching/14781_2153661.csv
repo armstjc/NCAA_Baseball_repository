@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,4.0,0.0,2,0,0,1,2,0,15,14,0,0,0,0,0,0,0,0,0,0,0,0,1,9,0,0,0,2,0,03/11/2019,neutral,14781,30047,Keystone,9,True,3,5,-2,loss,1652291,442,2153661,2019
+1,0,2.1,0.0,3,1,0,0,3,0,11,11,2,0,0,0,0,0,0,0,0,0,0,34,2,2,0,1,0,3,1,03/14/2019,neutral,14781,656,UMass Dartmouth,9,True,5,6,-1,loss,1652804,442,2153661,2019
+1,0,1.0,0.0,5,4,4,0,0,0,8,8,3,0,0,0,0,0,0,0,0,0,0,24,2,1,0,0,0,3,0,03/19/2019,home,14781,382,Manhattanville,10,True,8,7,1,win,1654118,442,2153661,2019
+1,0,2.1,0.0,0,0,0,1,4,0,9,8,0,0,0,0,0,0,0,1,1,0,0,35,2,2,0,0,0,2,1,03/23/2019,home,14781,526,SUNY Oneonta,9,True,1,4,-3,loss,1668544,442,2153661,2019
+1,0,0.1,0.0,1,3,3,2,0,0,4,2,1,0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,2,0,03/30/2019,home,14781,564,Ramapo,9,True,1,11,-10,loss,1666038,442,2153661,2019
+1,0,0.2,0.0,1,1,1,0,0,0,3,2,0,1,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,2,0,04/06/2019,away,14781,681,Stockton,9,True,3,8,-5,loss,1668157,442,2153661,2019

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,0,1,0,1,1,0,5,4,0,0,0,0,1,0,0,3,0,0,0,14,1,1,0,0,0,4,0,03/13/2019,neutral,14781,276,Haverford,9,True,6,2,4,win,1652780,807,2111837,2019
+1,0,1.1,0.0,2,1,1,0,1,0,6,6,0,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,0,2,0,03/17/2019,neutral,14781,200,Eastern Conn. St.,9,True,0,7,-7,loss,1653889,807,2111837,2019
+1,0,1.1,0.0,4,1,0,0,2,0,8,8,0,0,0,0,0,0,0,0,0,0,0,28,1,1,0,0,0,4,0,03/20/2019,neutral,14781,492,North Central (IL),9,True,1,3,-2,loss,1654244,807,2111837,2019
+1,0,1.0,0.0,3,1,1,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,11,1,0,0,0,0,3,0,03/23/2019,neutral,14781,60,Bethel (MN),9,True,15,6,9,win,1654882,807,2111837,2019

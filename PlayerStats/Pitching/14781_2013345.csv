@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,1,1,2,1,0,7,5,0,0,0,0,0,0,0,0,0,0,0,33,1,1,0,0,0,6,0,03/09/2019,away,14781,230,Florida Tech,9,True,1,15,-14,loss,1651827,74,2013345,2019
+1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,3,0,04/03/2019,home,14781,470,New Haven,9,True,14,5,9,win,1722503,74,2013345,2019
+1,0,1.0,0.0,2,1,1,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,5,0,04/09/2019,home,14781,3,Adelphi,9,True,2,16,-14,loss,1658729,74,2013345,2019
+1,0,0.1,0.0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,3,0,05/03/2019,away,14781,357,Lincoln (PA),9,True,11,0,11,win,1730263,74,2013345,2019

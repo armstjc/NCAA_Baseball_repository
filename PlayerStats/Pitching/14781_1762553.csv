@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,0,02/24/2019,neutral,14781,753,Washington Col.,9,True,6,16,-10,loss,1648998,394,1762553,2019
+1,0,0.0,0.0,0,2,2,2,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,9,0,0,0,0,0,3,0,03/10/2019,home,14781,571,Rhode Island Col.,9,True,0,14,-14,loss,1669109,394,1762553,2019
+1,0,1.0,0.0,2,1,1,0,1,0,6,5,2,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,7,1,04/16/2019,away,14781,637,Shenandoah,9,True,5,18,-13,loss,1660350,394,1762553,2019
+1,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,2,0,0,0,0,0,0,19,0,1,0,0,0,11,1,05/04/2019,away,14781,12399,Gwynedd Mercy,9,True,9,19,-10,loss,1730345,394,1762553,2019

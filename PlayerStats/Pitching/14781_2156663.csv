@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,2,4,4,2,3,0,9,6,1,0,0,0,1,1,0,0,0,0,0,33,1,0,0,0,0,3,1,03/22/2019,home,14781,23624,Cazenovia,9,True,6,13,-7,loss,1654557,2758,2156663,2019
+1,1,1.1,0.0,0,3,3,5,0,0,9,4,0,0,0,0,0,0,0,0,0,0,0,39,2,2,0,1,0,1,0,03/24/2019,away,14781,620,St. Thomas (MN),9,True,1,6,-5,loss,1666000,2758,2156663,2019
+1,0,1.0,0.0,2,1,1,1,0,0,6,5,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,5,0,03/27/2019,neutral,14781,789,Williams,9,True,3,13,-10,loss,1655815,2758,2156663,2019
+1,0,0.1,0.0,0,2,2,1,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,14,1,0,0,0,0,3,0,04/22/2019,away,14781,50,Bates,9,True,3,16,-13,loss,1661613,2758,2156663,2019
+1,0,1.0,0.0,1,0,0,0,0,0,5,4,0,0,0,0,0,1,0,0,0,0,0,9,0,3,0,0,0,6,0,04/25/2019,home,14781,69,Bowdoin,9,True,2,10,-8,loss,1662066,2758,2156663,2019

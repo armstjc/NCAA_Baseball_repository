@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,1,0,2,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,28,2,1,0,0,0,6,0,03/23/2019,neutral,14781,515,Oberlin,9,True,6,20,-14,loss,1654878,1036,2003634,2019
+1,0,1.0,0.0,2,1,1,0,0,0,5,4,1,0,0,0,0,1,0,0,0,0,0,17,1,1,0,0,0,4,0,04/22/2019,home,14781,8911,Wis. Lutheran,9,True,12,11,1,win,1666159,1036,2003634,2019
+1,1,2.0,0.0,5,3,3,1,1,0,12,10,1,0,0,0,0,0,0,0,0,0,1,14,1,4,0,1,0,1,0,05/01/2019,home,14781,614,St. Norbert,9,True,1,4,-3,loss,1663295,1036,2003634,2019

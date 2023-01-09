@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,3,2,2,3,3,0,12,9,0,0,0,0,0,0,0,0,0,0,0,43,3,0,0,0,0,4,0,02/16/2019,home,14781,1297,Pacific Lutheran,9,True,10,14,-4,loss,1648098,2713,1771011,2019
+1,0,2.0,0.0,2,0,0,0,2,0,8,8,0,0,0,0,0,0,0,0,0,0,0,26,3,1,0,0,0,5,1,03/10/2019,home,14781,122,CWRU,9,True,0,9,-9,loss,1652265,2713,1771011,2019
+1,0,1.0,0.0,2,2,2,1,0,0,6,4,2,0,0,0,0,0,1,0,0,0,1,20,0,2,0,1,0,7,0,03/12/2019,home,14781,21830,Piedmont,10,True,2,4,-2,loss,1652588,2713,1771011,2019
+1,0,1.0,0.0,1,1,1,0,2,0,5,4,1,0,0,0,0,1,0,0,0,0,0,24,0,1,0,0,0,4,0,04/06/2019,away,14781,28593,Birmingham-So.,9,True,0,8,-8,loss,1669214,2713,1771011,2019
+1,1,2.0,0.0,3,3,2,3,1,0,12,8,0,0,0,0,1,0,0,0,0,1,0,45,1,4,0,0,0,1,1,04/14/2019,home,14781,1124,Hendrix,9,True,11,10,1,win,1659984,2713,1771011,2019

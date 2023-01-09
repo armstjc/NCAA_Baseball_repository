@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,15,1,1,0,0,0,3,1,04/20/2019,away,14781,751,Wash. & Jeff.,9,True,4,12,-8,loss,1661465,30084,1764879,2019
+1,0,2.2,0.0,2,1,0,0,1,0,10,10,1,0,0,0,0,0,0,0,0,0,0,31,3,3,0,0,0,2,0,04/27/2019,home,14781,10972,Chatham,9,True,1,4,-3,loss,1665803,30084,1764879,2019
+1,0,1.2,0.0,2,2,2,3,1,0,10,6,0,0,1,0,0,0,0,2,0,1,0,41,3,1,0,0,0,2,1,04/30/2019,home,14781,0,Kent St.-Tuscarawas,9,True,5,11,-6,loss,1665315,30084,1764879,2019
+1,0,0.2,0.0,0,0,0,0,1,0,3,2,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,5,1,05/04/2019,away,14781,265,Grove City,9,True,3,14,-11,loss,1665167,30084,1764879,2019

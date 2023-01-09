@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,1.0,0.0,3,5,5,2,0,0,8,5,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,1,0,1,0,03/13/2019,neutral,14781,330,Keene St.,9,True,9,16,-7,loss,1652668,239,2129689,2019
+1,0,1.0,0.0,2,2,2,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,5,0,03/20/2019,away,14781,211,Elizabethtown,9,True,3,13,-10,loss,1654192,239,2129689,2019
+1,0,3.0,0.0,3,1,1,3,1,0,14,10,1,0,0,0,0,0,1,0,0,1,0,0,4,3,0,0,0,3,1,03/28/2019,away,14781,637,Shenandoah,9,True,7,9,-2,loss,1721827,239,2129689,2019
+1,0,0.2,0.0,2,3,1,1,1,0,7,5,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,2,0,04/03/2019,home,14781,411,Messiah,9,True,9,11,-2,loss,1657387,239,2129689,2019
+1,0,0.0,0.0,1,2,2,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,04/09/2019,away,14781,753,Washington Col.,9,True,4,12,-8,loss,1658745,239,2129689,2019
+1,0,0.1,0.0,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,18,1,0,0,0,0,4,0,04/27/2019,away,14781,322,Johns Hopkins,9,True,0,15,-15,loss,1665593,239,2129689,2019

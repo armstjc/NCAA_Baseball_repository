@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,3,2,2,2,2,0,10,6,1,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,4,0,03/16/2019,neutral,14781,303,Immaculata,9,True,4,11,-7,loss,1719186,258,2012485,2019
+1,0,4.0,0.0,6,4,4,1,5,0,21,18,2,0,0,0,2,2,0,1,1,0,0,0,4,2,0,0,0,3,2,03/24/2019,home,14781,12399,Gwynedd Mercy,9,True,4,12,-8,loss,1655224,258,2012485,2019
+1,0,1.0,0.0,1,1,1,1,0,0,7,4,0,0,0,0,1,1,0,0,0,0,1,30,0,3,0,0,0,4,0,04/07/2019,away,14781,322,Johns Hopkins,9,True,0,15,-15,loss,1657562,258,2012485,2019
+1,0,0.1,0.0,0,3,3,3,0,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,3,0,04/12/2019,away,14781,185,Dickinson,9,True,10,17,-7,loss,1659252,258,2012485,2019

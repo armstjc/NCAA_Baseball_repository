@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,2,0,0,0,0,2,0,03/04/2019,away,14781,455,Muskingum,9,True,19,10,9,win,1650808,438,1989072,2019
+1,0,1.0,0.0,1,0,0,1,1,0,5,3,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2,0,03/06/2019,neutral,14781,538,Penn St.-Behrend,9,True,5,2,3,win,1665698,438,1989072,2019
+1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,04/06/2019,away,14781,297,Illinois Col.,9,True,8,6,2,win,1657881,438,1989072,2019
+1,0,0.0,0.0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,04/07/2019,home,14781,297,Illinois Col.,9,True,6,7,-1,loss,1658435,438,1989072,2019
+1,0,1.2,0.0,4,2,2,1,2,0,10,9,1,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,3,2,04/20/2019,away,14781,166,Cornell College,9,True,5,15,-10,loss,1661306,438,1989072,2019
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,04/23/2019,away,14781,30173,Iowa Wesleyan,9,True,13,5,8,win,1661817,438,1989072,2019

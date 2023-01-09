@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,0,1,0,2,1,0,8,6,0,0,0,0,3,0,0,1,0,0,0,0,1,2,0,0,0,2,1,03/13/2019,neutral,14781,770,WestConn,9,True,3,5,-2,loss,1667677,179,1888963,2019
+1,0,1.1,0.0,2,4,4,1,2,0,8,6,0,0,0,1,0,1,0,0,0,0,0,33,1,1,0,0,0,3,1,03/24/2019,home,14781,20,DeSales,9,True,3,23,-20,loss,1654936,179,1888963,2019
+1,1,2.0,0.0,2,0,0,1,2,0,9,8,0,0,0,0,0,0,0,0,0,0,0,33,1,3,1,0,0,1,1,04/16/2019,home,14781,12884,Centenary (NJ),9,True,6,2,4,win,1660303,179,1888963,2019
+1,0,2.0,0.0,2,0,0,2,3,0,10,8,0,0,0,0,1,0,0,0,0,0,0,36,1,2,0,0,0,3,3,04/25/2019,home,14781,16142,Misericordia,9,True,4,22,-18,loss,1727691,179,1888963,2019
+1,0,1.1,0.0,1,1,1,2,0,0,6,4,0,0,0,0,2,0,0,2,0,0,0,24,0,3,0,0,0,2,0,04/28/2019,home,14781,476,New Rochelle,9,True,8,7,1,win,1663055,179,1888963,2019

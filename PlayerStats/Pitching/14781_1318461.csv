@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.2,0.0,8,0,0,0,1,0,21,21,0,0,0,0,0,0,0,0,0,0,0,57,7,5,0,0,0,1,0,02/26/2019,home,14781,12399,Gwynedd Mercy,9,True,5,0,5,win,1649617,322,1318461,2019
+1,1,5.0,0.0,5,3,3,0,0,0,21,21,0,0,0,1,0,0,0,0,0,0,0,72,11,4,0,0,0,1,0,03/09/2019,home,14781,213,Elmira,9,True,7,3,4,win,1667825,322,1318461,2019
+1,1,2.1,0.0,2,3,3,2,2,0,12,9,0,0,0,0,1,1,0,0,0,0,0,44,4,1,0,0,0,1,0,03/20/2019,neutral,14781,60,Bethel (MN),10,True,8,9,-1,loss,1654319,322,1318461,2019
+1,0,0.1,0.0,3,1,1,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,3,0,04/29/2019,away,14781,686,Swarthmore,9,True,3,7,-4,loss,1662252,322,1318461,2019
+1,0,2.0,0.0,7,4,4,1,0,0,13,12,1,0,0,0,1,0,0,0,0,0,0,45,2,3,0,0,0,4,0,06/02/2019,neutral,14781,28593,Birmingham-So.,9,True,4,15,-11,loss,1733517,322,1318461,2019

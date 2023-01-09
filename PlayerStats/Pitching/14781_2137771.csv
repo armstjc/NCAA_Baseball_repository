@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,5,9,9,7,1,0,14,7,0,1,0,0,0,0,0,3,3,0,0,0,1,0,0,0,0,2,1,02/23/2019,home,14781,681,Stockton,9,True,4,22,-18,loss,1649064,12884,2137771,2019
+1,0,0.2,0.0,0,2,2,3,0,0,5,2,0,0,0,0,1,0,0,1,1,0,0,0,2,0,0,0,0,3,0,03/12/2019,neutral,14781,30036,Mount Aloysius,9,True,1,14,-13,loss,1652444,12884,2137771,2019
+1,0,1.0,0.0,1,1,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,2,1,8,1,2,0,0,0,4,0,03/26/2019,home,14781,221,FDU-Florham,10,True,6,9,-3,loss,1655643,12884,2137771,2019
+1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,4,0,1,0,0,0,5,0,04/06/2019,away,14781,30047,Keystone,9,True,2,15,-13,loss,1668381,12884,2137771,2019
+1,0,0.2,0.0,0,1,0,2,0,0,6,4,0,0,0,0,1,0,0,0,0,0,0,23,2,0,0,0,0,5,0,04/10/2019,home,14781,0,Penn St.-Brandywine,9,True,13,4,9,win,1721366,12884,2137771,2019

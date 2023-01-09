@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,3,2,0,6,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,1,03/13/2019,home,14781,30044,Penn St.-Berks,9,True,7,1,6,win,1652624,30081,1894522,2019
+1,0,0.1,0.0,2,5,3,2,1,0,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,03/27/2019,home,14781,30190,Penn College,9,True,13,9,4,win,1729114,30081,1894522,2019
+1,0,1.0,0.0,0,1,0,0,2,0,6,5,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,3,0,04/27/2019,away,14781,243,Frostburg St.,9,True,30,6,24,win,1662555,30081,1894522,2019
+1,0,0.2,0.0,4,4,3,2,1,0,8,6,0,0,0,0,0,0,0,0,0,0,0,31,1,0,0,0,0,6,1,05/04/2019,home,14781,622,Salisbury,9,True,9,26,-17,loss,1730335,30081,1894522,2019

@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,1,2,0,1,1,0,8,7,0,0,0,0,2,0,0,0,0,0,0,0,2,1,0,0,0,2,0,04/01/2019,home,14781,30047,Keystone,9,True,3,5,-2,loss,1722550,938,1780398,2019
+1,0,2.0,0.0,3,1,1,0,0,0,8,7,2,0,0,0,0,1,0,0,0,0,0,26,3,1,0,0,0,2,0,04/06/2019,away,14781,411,Messiah,9,True,5,9,-4,loss,1667925,938,1780398,2019

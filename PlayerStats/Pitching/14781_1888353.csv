@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,2,2,2,1,1,0,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,03/26/2019,away,14781,1400,Texas Lutheran,9,True,5,8,-3,loss,1655752,137,1888353,2019
+1,0,1.0,0.0,1,1,1,2,1,0,6,4,0,0,0,0,0,0,0,0,0,0,0,23,1,1,1,0,0,2,0,04/13/2019,home,14781,264,Grinnell,9,True,20,1,19,win,1666479,137,1888353,2019
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,0,2,0,0,0,3,0,04/22/2019,away,14781,348,Lawrence,9,True,16,1,15,win,1668133,137,1888353,2019
+1,0,1.0,0.0,3,1,1,1,2,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,04/24/2019,neutral,14781,30172,IIT,9,True,8,5,3,win,1662021,137,1888353,2019
+1,0,1.0,0.0,1,1,1,1,1,0,5,3,1,0,0,0,0,0,0,0,0,1,0,17,2,0,0,0,0,3,0,05/07/2019,away,14781,302,UIC,9,True,1,4,-3,loss,1664163,137,1888353,2019

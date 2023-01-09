@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,6,4,3,2,2,0,15,13,2,0,0,0,0,0,0,3,3,0,0,57,2,2,0,0,0,4,1,03/04/2019,neutral,14781,351,Lebanon Valley,9,True,0,23,-23,loss,1650803,1332,2145384,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2019,neutral,14781,351,Lebanon Valley,9,True,6,7,-1,loss,1650930,1332,2145384,2019
+1,0,3.1,0.0,3,3,3,2,3,0,15,13,0,0,0,1,0,0,0,2,0,0,0,54,1,6,0,0,0,4,1,04/22/2019,home,14781,160,Concordia Chicago,9,True,17,26,-9,loss,1661604,1332,2145384,2019

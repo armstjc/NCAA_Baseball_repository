@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,3,2,2,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,03/19/2019,home,14781,286,Hope,9,True,5,12,-7,loss,1654057,2758,2155799,2019
+1,0,2.2,0.0,3,1,1,1,0,0,13,12,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,3,0,03/27/2019,neutral,14781,789,Williams,9,True,3,13,-10,loss,1655815,2758,2155799,2019
+1,0,0.1,0.0,3,2,1,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,10,0,1,0,0,0,2,0,04/22/2019,away,14781,50,Bates,9,True,3,16,-13,loss,1661613,2758,2155799,2019
+1,0,1.2,0.0,2,2,2,1,0,0,8,5,2,0,0,0,0,1,0,0,0,1,0,24,2,2,0,0,0,4,0,04/25/2019,home,14781,69,Bowdoin,9,True,2,10,-8,loss,1662066,2758,2155799,2019

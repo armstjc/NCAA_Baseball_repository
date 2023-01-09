@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,2,0,5,3,0,0,1,0,0,2,0,0,0,0,0,0,1,0,0,0,0,4,1,03/23/2019,neutral,14781,8981,Endicott,9,True,0,8,-8,loss,1668535,484,2153362,2019
+1,0,1.0,0.0,2,0,0,1,1,0,6,5,1,0,0,0,0,0,0,0,0,0,0,19,1,1,0,0,0,2,0,03/26/2019,away,14781,26,Anna Maria,9,True,18,5,13,win,1655516,484,2153362,2019
+1,0,0.0,0.0,0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,4,0,03/28/2019,neutral,14781,145,Clark (MA),9,True,5,11,-6,loss,1655968,484,2153362,2019
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,04/18/2019,home,14781,24317,Lesley,9,True,11,2,9,win,1726088,484,2153362,2019
+1,0,0.1,0.0,0,0,0,0,1,0,2,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6,0,04/25/2019,home,14781,401,UMass Boston,9,True,4,20,-16,loss,1662046,484,2153362,2019

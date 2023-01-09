@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,3,1,1,0,0,0,5,4,1,0,0,0,0,0,0,3,1,0,1,19,0,2,0,0,0,3,0,03/13/2019,neutral,14781,759,Webster,9,True,4,6,-2,loss,1652644,401,2003167,2019
+1,0,1.0,0.0,3,3,2,1,1,0,8,7,1,0,0,0,0,0,0,0,0,0,0,24,2,0,0,0,0,7,0,03/28/2019,home,14781,775,Western New Eng.,9,True,8,20,-12,loss,1655961,401,2003167,2019
+1,0,1.0,0.0,2,2,0,1,2,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,04/19/2019,away,14781,770,WestConn,9,True,23,3,20,win,1668954,401,2003167,2019

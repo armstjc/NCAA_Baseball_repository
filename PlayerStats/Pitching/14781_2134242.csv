@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,3,1,1,1,0,0,4,3,1,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,7,0,02/10/2019,away,14781,516,Occidental,9,True,5,9,-4,loss,1647504,785,2134242,2019
+1,0,2.0,0.0,1,0,0,1,0,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0,02/23/2019,away,14781,557,Puget Sound,9,True,2,12,-10,loss,1665650,785,2134242,2019
+1,0,2.1,0.0,2,2,0,2,0,0,12,10,0,0,0,0,0,0,0,0,0,0,0,43,4,3,0,1,0,3,0,03/21/2019,home,14781,781,Whittier,9,True,6,8,-2,loss,1654412,785,2134242,2019
+1,1,1.0,0.0,2,3,3,4,1,0,9,5,0,0,0,0,0,0,0,0,0,0,0,39,0,2,0,0,0,1,1,03/27/2019,home,14781,0,Oregon Tech,9,True,6,10,-4,loss,1655821,785,2134242,2019
+1,0,0.2,0.0,2,3,0,1,1,0,4,3,0,0,1,0,0,0,0,1,0,0,0,17,0,0,0,0,0,3,0,04/20/2019,home,14781,1297,Pacific Lutheran,9,True,6,11,-5,loss,1661333,785,2134242,2019

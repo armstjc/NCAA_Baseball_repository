@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,1,0,0,4,3,1,0,0,0,0,0,0,0,0,0,0,20,0,2,0,0,0,4,0,03/12/2019,neutral,14781,807,Wooster,9,True,2,6,-4,loss,1652577,76,2150017,2019
+1,0,0.2,0.0,3,1,1,2,2,0,7,5,1,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,4,2,03/15/2019,neutral,14781,30165,SUNY Canton,9,True,6,10,-4,loss,1669393,76,2150017,2019
+1,0,1.0,0.0,1,1,1,0,1,0,5,4,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,3,1,04/12/2019,away,14781,227,Fitchburg St.,9,True,6,10,-4,loss,1659251,76,2150017,2019
+1,0,2.0,0.0,2,1,0,0,2,0,9,9,1,0,0,0,0,0,0,0,0,0,0,25,3,1,0,0,0,4,0,04/18/2019,home,14781,238,Framingham St.,9,True,4,17,-13,loss,1660645,76,2150017,2019
+1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,5,1,04/25/2019,away,14781,779,Wheaton (MA),9,True,2,16,-14,loss,1727628,76,2150017,2019
+1,0,2.0,0.0,6,4,4,1,1,0,12,11,1,0,0,1,0,0,0,0,0,0,0,54,3,1,0,0,0,2,0,04/27/2019,home,14781,777,Westfield St.,9,True,1,14,-13,loss,1662445,76,2150017,2019

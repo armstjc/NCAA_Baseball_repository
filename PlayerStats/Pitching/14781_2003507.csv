@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,1,4,3,2,0,0,4,1,1,0,0,0,0,0,0,0,0,0,1,18,0,0,0,0,0,3,0,03/05/2019,away,14781,30111,Covenant,9,True,13,10,3,win,1650940,806,2003507,2019
+1,0,2.0,0.0,2,1,1,1,4,0,10,8,0,0,0,0,0,0,0,0,0,1,0,43,2,0,0,0,0,2,0,04/01/2019,away,14781,182,Denison,9,True,4,10,-6,loss,1656457,806,2003507,2019
+1,0,0.1,0.0,0,0,0,1,1,0,3,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,04/09/2019,away,14781,1402,Thomas More,9,True,10,2,8,win,1658778,806,2003507,2019
+1,0,0.1,0.0,2,2,2,0,0,0,3,3,0,0,0,1,0,0,0,3,3,0,0,10,1,0,0,0,0,3,0,04/13/2019,away,14781,515,Oberlin,9,True,21,7,14,win,1659631,806,2003507,2019

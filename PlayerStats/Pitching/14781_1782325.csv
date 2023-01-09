@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,2,0,0,5,2,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,3,0,03/09/2019,neutral,14781,778,Wheaton (IL),9,True,2,8,-6,loss,1668083,511,1782325,2019
+1,0,1.0,0.0,4,2,2,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,18,2,0,0,0,0,3,0,03/14/2019,neutral,14781,397,Marywood,9,True,0,9,-9,loss,1652824,511,1782325,2019
+1,0,2.0,0.0,8,7,6,0,0,0,14,14,1,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,3,0,03/15/2019,neutral,14781,258,Gettysburg,9,True,2,13,-11,loss,1653007,511,1782325,2019
+1,0,0.2,0.0,3,3,3,0,0,0,5,4,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,04/02/2019,away,14781,2798,Albertus Magnus,9,True,2,17,-15,loss,1657015,511,1782325,2019
+1,0,0.0,0.0,3,2,1,0,0,0,4,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,04/02/2019,away,14781,2798,Albertus Magnus,9,True,12,19,-7,loss,1668576,511,1782325,2019
+1,0,0.2,0.0,2,1,1,0,1,0,4,3,0,0,0,0,0,0,0,0,0,0,1,9,0,1,0,0,0,2,0,04/28/2019,home,14781,22626,JWU (Providence),9,True,2,5,-3,loss,1665545,511,1782325,2019

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.1,0.0,3,2,1,1,2,0,8,7,1,0,0,0,0,0,0,0,0,0,0,24,0,2,0,0,0,3,1,02/26/2019,away,14781,973,Berry,9,True,5,3,2,win,1649651,217,2115632,2019
+1,0,0.1,0.0,2,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,7,0,0,0,0,0,5,0,03/12/2019,away,14781,28593,Birmingham-So.,9,True,4,8,-4,loss,1652563,217,2115632,2019
+1,0,0.2,0.0,4,5,3,0,1,0,7,7,1,0,0,2,0,0,0,0,0,0,0,30,0,1,0,0,0,3,0,03/16/2019,home,14781,420,Middlebury,9,True,5,16,-11,loss,1666857,217,2115632,2019
+1,0,1.1,0.0,4,2,2,2,0,0,10,8,0,0,0,0,2,0,0,0,0,0,0,35,2,2,1,0,0,2,0,04/16/2019,away,14781,2713,Oglethorpe,9,True,17,7,10,win,1660428,217,2115632,2019

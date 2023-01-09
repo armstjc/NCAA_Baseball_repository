@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,4,5,5,3,0,0,8,5,2,0,2,0,0,0,0,1,1,0,0,37,0,1,0,0,0,2,0,02/22/2019,away,14781,329,Kean,9,True,3,17,-14,loss,1648733,524,1884183,2019
+1,0,3.2,0.0,2,3,2,4,3,0,18,13,1,0,0,0,0,0,0,0,0,0,1,0,4,4,0,0,0,2,0,03/18/2019,away,14781,789,Williams,9,True,2,10,-8,loss,1653925,524,1884183,2019
+1,0,2.0,0.0,0,0,0,0,2,0,8,6,0,0,0,0,0,2,0,0,0,0,0,0,3,1,0,0,0,2,0,03/25/2019,away,14781,814,Yeshiva,9,True,7,1,6,win,1654535,524,1884183,2019
+1,0,3.0,0.0,2,4,4,3,3,0,17,12,0,0,1,0,0,2,0,0,0,0,0,58,2,4,0,0,0,2,1,03/28/2019,away,14781,319,New Jersey City,9,True,6,15,-9,loss,1655967,524,1884183,2019
+1,0,2.0,0.0,1,0,0,0,3,0,8,5,0,0,0,0,0,1,0,3,3,1,1,2,1,2,1,0,0,2,1,04/09/2019,home,14781,58,Baruch,9,True,6,5,1,win,1658743,524,1884183,2019

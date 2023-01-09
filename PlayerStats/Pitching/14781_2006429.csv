@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,5.0,0.0,2,0,0,1,9,0,18,17,1,0,0,0,0,0,0,0,0,0,0,0,4,2,1,0,0,1,2,03/04/2019,neutral,14781,18422,Rivier,9,True,4,2,2,win,1668483,602,2006429,2019
+1,0,3.0,0.0,1,0,0,3,2,0,14,11,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,2,1,03/08/2019,neutral,14781,724,Merchant Marine,9,True,3,7,-4,loss,1651381,602,2006429,2019
+1,1,5.0,0.0,7,3,3,2,6,0,26,22,2,0,0,0,1,2,0,0,0,0,0,0,5,2,1,0,0,1,1,03/18/2019,neutral,14781,804,Wis.-Superior,9,True,18,3,15,win,1653930,602,2006429,2019
+1,0,1.0,0.0,5,2,2,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,03/23/2019,home,14781,372,Luther,9,True,7,12,-5,loss,1668297,602,2006429,2019
+1,1,5.2,0.0,6,3,3,3,3,0,26,21,1,0,0,0,0,2,0,0,0,0,0,86,4,8,1,0,0,1,1,04/20/2019,away,14781,38,Augsburg,9,True,12,3,9,win,1665556,602,2006429,2019

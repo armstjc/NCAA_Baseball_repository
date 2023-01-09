@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2019,neutral,14781,538,Penn St.-Behrend,9,True,4,8,-4,loss,1650583,784,1752913,2019
+1,0,4.0,0.0,3,1,1,0,0,0,15,15,1,0,0,0,0,0,0,0,0,0,0,21,4,8,0,0,0,4,0,03/29/2019,home,14781,20,DeSales,9,True,4,11,-7,loss,1656166,784,1752913,2019
+1,0,1.1,0.0,3,3,2,1,0,0,9,6,0,0,0,0,0,2,0,1,0,0,0,28,2,1,0,0,0,2,0,04/06/2019,away,14781,382,Manhattanville,9,True,1,12,-11,loss,1668858,784,1752913,2019
+1,0,0.0,0.0,1,2,2,1,0,0,2,1,1,0,0,0,1,0,0,0,0,0,0,6,0,0,0,0,0,4,0,04/27/2019,home,14781,221,FDU-Florham,9,True,11,10,1,win,1665829,784,1752913,2019

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,5.0,0.0,7,2,2,2,5,0,23,20,1,1,0,0,0,0,0,0,0,0,1,0,4,5,0,0,0,1,4,03/09/2019,home,14781,146,Clarkson,9,True,6,5,1,win,1651805,267,1895401,2019
+1,1,6.0,0.0,5,1,1,4,4,0,28,22,0,0,0,0,0,1,0,0,0,1,0,0,9,3,1,0,0,1,0,03/16/2019,neutral,14781,486,MCLA,9,True,13,1,12,win,1653315,267,1895401,2019
+1,1,6.0,1,8,5,5,3,5,0,29,23,1,0,0,0,0,2,0,0,0,0,1,106,3,7,0,1,0,1,2,03/22/2019,neutral,14781,30172,IIT,9,True,1,5,-4,loss,1720267,267,1895401,2019
+1,1,3.0,0.0,2,3,3,4,4,0,18,11,0,1,0,0,0,3,0,0,0,0,0,0,3,2,0,1,0,1,1,03/30/2019,neutral,14781,420,Middlebury,9,True,1,10,-9,loss,1666028,267,1895401,2019
+1,1,4.0,0.0,2,0,0,4,3,0,19,14,0,0,0,0,1,1,0,0,0,0,0,43,4,5,0,0,0,1,1,04/06/2019,away,14781,764,Wesleyan (CT),9,True,6,2,4,win,1668170,267,1895401,2019

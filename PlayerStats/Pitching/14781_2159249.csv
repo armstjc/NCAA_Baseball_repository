@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,0,0,0,1,1,0,3,2,0,0,0,0,1,0,0,2,0,0,0,0,0,1,0,0,0,5,1,04/09/2019,away,14781,1402,Thomas More,9,True,10,2,8,win,1658778,806,2159249,2019
+1,0,0.2,0.0,2,1,1,0,0,0,3,2,1,0,0,0,0,0,0,1,1,1,0,7,1,0,0,0,0,4,0,04/13/2019,away,14781,515,Oberlin,9,True,3,8,-5,loss,1666733,806,2159249,2019
+1,0,2.1,0.0,3,1,1,1,2,0,10,9,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,3,1,04/24/2019,away,14781,1461,Wilmington (OH),9,True,6,5,1,win,1661998,806,2159249,2019
+1,0,0.1,0.0,2,1,1,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,12,1,0,0,0,0,4,0,05/01/2019,away,14781,807,Wooster,9,True,4,14,-10,loss,1663266,806,2159249,2019

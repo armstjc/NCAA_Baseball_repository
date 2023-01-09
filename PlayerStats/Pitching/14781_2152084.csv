@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.1,0.0,2,5,1,2,0,0,13,10,0,0,0,0,0,0,0,0,0,1,0,0,5,2,0,0,0,4,0,03/07/2019,neutral,14781,11538,Fontbonne,9,True,8,15,-7,loss,1651198,30037,2152084,2019
+1,0,2.0,0.0,4,2,2,0,1,0,10,9,1,0,0,0,1,1,0,0,0,0,0,33,4,0,0,0,0,4,0,03/28/2019,home,14781,114,Calvin,9,True,2,12,-10,loss,1668316,30037,2152084,2019
+1,0,1.0,0.0,2,1,1,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,2,0,04/07/2019,away,14781,21,Alma,9,True,6,8,-2,loss,1666660,30037,2152084,2019
+1,0,2.1,0.0,1,0,0,2,2,0,8,6,0,0,0,0,0,0,0,0,0,0,0,40,2,1,0,0,0,4,2,04/26/2019,away,14781,4,Adrian,9,True,1,14,-13,loss,1662679,30037,2152084,2019
+1,1,4.0,0.0,5,2,2,1,1,0,16,15,1,0,0,1,0,0,0,0,0,0,0,0,4,4,0,1,0,1,0,05/05/2019,home,14781,15,Albion,9,True,4,8,-4,loss,1665219,30037,2152084,2019

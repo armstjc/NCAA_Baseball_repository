@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,7,5,5,0,0,0,10,10,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,4,0,03/16/2019,home,14781,150,Coe,9,True,2,20,-18,loss,1666281,297,2154512,2019
+1,0,1.0,0.0,1,0,0,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,20,1,2,0,0,0,6,0,04/03/2019,away,14781,201,Eastern Ill.,9,True,1,11,-10,loss,1657304,297,2154512,2019
+1,0,0.1,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,5,0,04/07/2019,away,14781,438,Monmouth (IL),11,True,5,6,-1,loss,1666406,297,2154512,2019
+1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,8,0,04/25/2019,home,14781,0,Robert Morris-S'fiel,9,True,9,0,9,win,1727227,297,2154512,2019

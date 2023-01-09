@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,1.2,0.0,3,9,5,4,1,0,15,10,0,0,0,0,1,1,0,0,0,0,0,0,2,2,0,0,0,1,0,03/12/2019,neutral,14781,770,WestConn,9,True,24,13,11,win,1718605,778,1888870,2019
+1,0,0.1,0.0,3,2,2,1,0,0,5,4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,2,0,04/02/2019,home,14781,121,Carthage,9,True,7,10,-3,loss,1669202,778,1888870,2019
+1,0,2.0,0.0,2,2,2,4,2,0,13,8,0,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,2,1,04/16/2019,away,14781,300,Ill. Wesleyan,9,True,2,11,-9,loss,1668936,778,1888870,2019
+1,0,2.0,0.0,1,0,0,1,5,0,9,8,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,5,1,05/01/2019,home,14781,120,Carroll (WI),9,True,15,6,9,win,1665325,778,1888870,2019
+1,0,1.1,0.0,5,3,2,0,0,0,10,10,0,0,0,0,1,0,0,0,0,0,0,0,3,1,0,0,0,3,0,05/04/2019,away,14781,492,North Central (IL),9,True,1,11,-10,loss,1663677,778,1888870,2019

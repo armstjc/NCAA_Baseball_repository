@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,16,3,0,0,0,0,7,0,03/24/2019,home,14781,685,Susquehanna,9,True,2,17,-15,loss,1669180,124,2156521,2019
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,1,2,0,0,0,6,0,04/08/2019,away,14781,245,Gallaudet,9,True,23,2,21,win,1658581,124,2156521,2019
+1,0,1.0,0.0,1,2,2,0,1,0,5,4,0,0,0,0,2,1,0,0,0,0,0,24,0,2,0,0,0,3,0,04/22/2019,away,14781,21852,Stevenson,9,True,1,8,-7,loss,1726750,124,2156521,2019

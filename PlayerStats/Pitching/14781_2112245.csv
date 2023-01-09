@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,13,0,2,0,0,0,3,1,04/03/2019,home,14781,377,MacMurray,9,True,11,0,11,win,1722935,755,2112245,2019
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,1,0,0,3,1,0,0,11,2,1,0,0,0,4,0,05/18/2019,away,14781,150,Coe,9,True,3,5,-2,loss,1732919,755,2112245,2019

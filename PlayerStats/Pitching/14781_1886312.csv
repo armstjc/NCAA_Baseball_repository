@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/14/2019,away,14781,30085,Lancaster Bible,10,True,14,1,13,win,1652855,681,1886312,2019
+1,0,1.0,0.0,3,2,2,0,1,0,7,5,0,0,0,0,0,1,0,0,0,0,1,20,0,2,0,0,0,6,0,04/11/2019,away,14781,712,TCNJ,9,True,1,17,-16,loss,1659063,681,1886312,2019
+1,0,2.0,0.0,2,1,1,1,1,0,9,7,0,0,0,1,0,0,0,0,0,1,0,34,3,2,0,1,0,3,0,04/16/2019,neutral,14781,564,Ramapo,9,True,4,12,-8,loss,1666455,681,1886312,2019
+1,0,1.2,0.0,4,5,5,1,0,0,10,9,1,0,0,1,0,0,1,1,0,0,0,32,1,4,0,1,0,3,0,04/20/2019,away,14781,589,Rutgers-Newark,9,True,5,10,-5,loss,1661251,681,1886312,2019
+1,0,1.2,0.0,3,2,0,0,0,0,9,9,0,0,0,0,1,0,0,0,0,0,0,0,2,3,0,0,0,5,0,04/27/2019,home,14781,787,Wm. Paterson,9,True,5,16,-11,loss,1669271,681,1886312,2019

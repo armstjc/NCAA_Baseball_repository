@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,1,4,3,2,1,0,5,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,03/12/2019,neutral,14781,958,Clarks Summit,9,True,13,9,4,win,1652445,30085,2153921,2019
+1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,4,0,04/06/2019,home,14781,245,Gallaudet,9,True,29,5,24,win,1723507,30085,2153921,2019
+1,0,1.1,0.0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,11,0,3,0,0,0,2,0,04/13/2019,away,14781,9500,SUNY Poly,9,True,19,5,14,win,1724758,30085,2153921,2019
+1,0,1.2,0.0,1,3,3,4,1,0,10,6,1,0,0,0,2,0,0,0,0,0,0,29,1,3,0,0,0,2,1,04/30/2019,away,14781,351,Lebanon Valley,13,True,7,8,-1,loss,1722494,30085,2153921,2019

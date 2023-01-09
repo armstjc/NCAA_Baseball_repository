@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,04/14/2019,away,14781,18422,Rivier,9,True,7,3,4,win,1660118,605,2159912,2019
+1,0,3.0,0.0,1,0,0,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,0,36,6,2,1,0,0,4,0,05/05/2019,neutral,14781,22626,JWU (Providence),11,True,8,7,1,win,1730841,605,2159912,2019

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,3,3,1,1,0,7,6,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,03/09/2019,neutral,14781,633,Scranton,9,True,27,8,19,win,1651870,686,1886409,2019
+1,0,2.0,0.0,2,5,4,6,3,0,14,7,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,3,2,03/12/2019,neutral,14781,30165,SUNY Canton,9,True,22,6,16,win,1652470,686,1886409,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/30/2019,away,14781,753,Washington Col.,9,True,11,3,8,win,1656433,686,1886409,2019

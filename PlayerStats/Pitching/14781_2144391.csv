@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,4,4,2,0,0,10,7,2,0,0,0,0,1,0,0,0,0,0,30,1,2,0,0,0,4,0,04/09/2019,away,14781,1451,Westminster (PA),9,True,5,17,-12,loss,1667162,30064,2144391,2019
+1,0,1.0,0.0,3,2,2,0,1,0,6,5,2,0,0,0,0,0,0,0,0,0,1,15,1,1,0,0,0,5,1,05/01/2019,away,14781,11839,Pitt.-Greensburg,9,True,4,15,-11,loss,1663299,30064,2144391,2019
+1,0,1.0,0.0,0,1,0,0,1,0,5,4,0,0,0,0,0,0,0,0,0,0,1,18,0,2,0,0,0,4,0,05/05/2019,away,14781,751,Wash. & Jeff.,9,True,2,16,-14,loss,1664037,30064,2144391,2019

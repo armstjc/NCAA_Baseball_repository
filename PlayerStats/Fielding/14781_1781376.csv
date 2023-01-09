@@ -1,7 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/10/2019,neutral,14781,496,North Park,9,True,6,10,-4,loss,1652082,258,1781376,2019
-0,0,0,0,0,0,0,0,0,0,03/11/2019,neutral,14781,770,Western Conn. St.,9,True,14,10,4,win,1652339,258,1781376,2019
-0,0,0,0,0,0,2,0,0,0,03/11/2019,neutral,14781,770,Western Conn. St.,9,True,9,6,3,win,1666581,258,1781376,2019
+0,0,0,0,0,0,0,0,0,0,03/11/2019,neutral,14781,770,WestConn,9,True,14,10,4,win,1652339,258,1781376,2019
+0,0,0,0,0,0,2,0,0,0,03/11/2019,neutral,14781,770,WestConn,9,True,9,6,3,win,1666581,258,1781376,2019
 0,0,0,0,0,0,0,0,0,0,03/12/2019,neutral,14781,397,Marywood,9,True,6,1,5,win,1652460,258,1781376,2019
 0,0,0,0,0,0,0,0,0,0,03/12/2019,neutral,14781,397,Marywood,9,True,7,2,5,win,1666837,258,1781376,2019
 0,0,0,0,0,0,0,0,0,0,03/14/2019,neutral,14781,451,CMSV,9,True,10,11,-1,loss,1652807,258,1781376,2019

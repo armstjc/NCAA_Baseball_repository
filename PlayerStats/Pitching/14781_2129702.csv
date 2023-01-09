@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,2,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,5,0,03/13/2019,neutral,14781,330,Keene St.,9,True,9,16,-7,loss,1652668,239,2129702,2019
+1,0,0.1,0.0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,5,0,04/03/2019,home,14781,411,Messiah,9,True,9,11,-2,loss,1657387,239,2129702,2019
+1,0,0.2,0.0,1,1,1,2,1,0,5,3,0,0,0,0,1,0,0,0,0,0,0,26,1,0,1,0,0,2,0,04/13/2019,away,14781,686,Swarthmore,9,True,9,5,4,win,1659530,239,2129702,2019

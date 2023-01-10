@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.2,0.0,8,4,2,0,1,0,17,15,0,0,0,0,0,0,0,3,0,2,0,46,5,2,0,0,0,2,0,02/24/2019,away,14781,329,Kean,9,True,3,7,-4,loss,1649389,221,2001938,2019
+1,1,5.0,0.0,6,5,4,2,4,0,24,20,3,1,0,1,0,2,0,0,0,0,0,73,5,5,0,0,0,1,0,03/11/2019,neutral,14781,548,Plymouth St.,9,True,8,7,1,win,1666578,221,2001938,2019
+1,1,4.1,0.0,5,4,4,5,0,0,23,17,0,0,0,0,0,0,0,0,0,0,1,0,5,8,0,0,0,1,0,03/18/2019,away,14781,179,Delaware Valley,9,True,8,9,-1,loss,1653958,221,2001938,2019
+1,1,4.0,0.0,8,8,6,4,0,0,25,20,2,0,0,0,0,1,0,0,0,0,0,0,4,7,0,0,0,1,0,03/24/2019,away,14781,16142,Misericordia,9,True,10,14,-4,loss,1654636,221,2001938,2019
+1,1,3.2,0.0,7,4,4,3,2,0,21,18,1,0,0,0,0,0,0,0,0,0,0,73,6,2,0,0,0,1,1,03/30/2019,away,14781,336,King's (PA),8,True,10,7,3,win,1667101,221,2001938,2019

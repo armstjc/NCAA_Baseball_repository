@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,1.0,0.0,0,2,1,3,0,0,8,3,0,0,0,0,0,2,0,0,0,0,0,31,0,3,0,0,0,1,0,03/07/2019,away,14781,752,Wash. & Lee,9,True,6,3,3,win,1651142,30164,2124300,2019
+1,0,1.2,0.0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,3,0,0,0,0,3,0,0,0,0,6,1,03/16/2019,away,14781,815,York (PA),9,True,1,17,-16,loss,1666856,30164,2124300,2019
+1,0,0.0,0.0,3,3,3,0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,03/23/2019,away,14781,390,Mary Washington,9,True,5,15,-10,loss,1668800,30164,2124300,2019
+1,0,0.1,0.0,0,1,0,3,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,03/27/2019,away,14781,225,Ferrum,9,True,8,9,-1,loss,1655939,30164,2124300,2019

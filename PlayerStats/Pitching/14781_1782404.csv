@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,6.1,0.0,9,5,4,2,3,0,31,24,1,0,0,1,0,2,0,0,0,3,0,105,11,3,0,0,0,1,1,03/18/2019,neutral,14781,1450,Westminster (MO),11,True,5,6,-1,loss,1653934,564,1782404,2019
+1,1,7.0,0.0,5,0,0,2,8,0,28,25,2,0,0,0,0,1,0,0,0,0,0,107,5,7,1,0,0,1,6,03/23/2019,neutral,14781,296,Benedictine (IL),9,True,3,0,3,win,1654873,564,1782404,2019
+1,1,8.1,0.0,7,1,1,1,5,0,35,33,1,0,0,0,1,1,0,0,0,0,0,114,14,6,1,0,0,1,2,04/04/2019,home,14781,787,Wm. Paterson,9,True,10,1,9,win,1657481,564,1782404,2019

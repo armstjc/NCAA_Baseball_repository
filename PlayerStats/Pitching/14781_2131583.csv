@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,3,2,2,2,0,0,11,9,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,4,0,02/23/2019,home,14781,780,Whitman,9,True,6,12,-6,loss,1649059,1179,2131583,2019
+1,0,2.1,0.0,3,5,4,4,1,0,15,10,1,0,0,1,0,1,0,0,0,0,0,49,1,4,0,0,0,4,0,04/19/2019,away,14781,1454,Whitworth,9,True,5,18,-13,loss,1660801,1179,2131583,2019
+1,0,2.2,0.0,1,0,0,1,2,0,11,9,0,0,0,0,0,0,0,2,1,0,1,42,1,5,0,0,0,3,0,05/04/2019,home,14781,549,Pomona-Pitzer,9,True,3,12,-9,loss,1665086,1179,2131583,2019

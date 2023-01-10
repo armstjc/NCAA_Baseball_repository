@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,18,2,0,0,0,0,3,0,03/20/2019,neutral,14781,16,Albright,9,True,6,0,6,win,1720021,564,2144659,2019
+1,0,1.0,0.0,2,2,2,2,0,0,8,3,0,0,0,0,3,1,0,0,0,2,0,28,3,0,0,0,0,4,0,03/28/2019,home,14781,27892,Farmingdale St.,9,True,3,8,-5,loss,1655976,564,2144659,2019
+1,0,0.0,0.0,1,4,4,3,0,0,4,1,0,0,0,0,1,0,0,0,0,0,0,23,0,0,0,0,0,5,0,04/02/2019,home,14781,190,Drew,9,True,12,9,3,win,1657195,564,2144659,2019
+1,0,1.0,0.0,4,2,2,0,1,0,6,6,0,0,0,0,2,0,0,0,0,0,0,28,0,1,0,0,0,3,0,04/23/2019,home,14781,221,FDU-Florham,9,True,13,3,10,win,1661768,564,2144659,2019
+1,0,3.0,0.0,1,0,0,1,3,0,11,9,0,0,0,0,1,1,0,0,0,0,0,58,3,2,0,0,0,4,1,04/29/2019,home,14781,589,Rutgers-Newark,9,True,6,12,-6,loss,1662262,564,2144659,2019

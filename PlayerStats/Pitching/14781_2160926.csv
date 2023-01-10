@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.2,0.0,0,0,0,2,2,0,11,7,0,0,0,0,2,1,0,3,2,0,1,60,1,5,1,0,0,3,1,04/22/2019,away,14781,1332,Dominican (IL),9,True,26,17,9,win,1661604,160,2160926,2019
+1,1,8.0,0.0,4,1,0,1,0,0,29,28,0,0,1,0,0,0,0,0,0,0,0,72,8,14,1,0,0,1,0,05/07/2019,away,14781,582,Rockford,9,True,14,1,13,win,1730772,160,2160926,2019
+1,0,2.2,0.0,1,0,0,1,1,0,10,9,0,0,0,0,0,0,0,0,0,0,0,40,4,3,0,0,0,4,0,05/19/2019,home,14781,46,Baldwin Wallace,10,True,14,13,1,win,1732920,160,2160926,2019

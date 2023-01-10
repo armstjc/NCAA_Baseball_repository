@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,4,3,3,0,0,0,6,6,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,03/06/2019,home,14781,203,East. Mennonite,9,True,7,13,-6,loss,1651122,44,1781316,2019
+1,0,1.0,0.0,2,1,1,2,1,0,7,5,0,0,0,0,0,0,0,0,0,0,0,27,2,0,0,0,0,7,0,03/12/2019,home,14781,75,Bridgewater (VA),9,True,5,17,-12,loss,1647557,44,1781316,2019
+1,0,2.2,0.0,1,0,0,2,1,0,11,9,0,0,0,0,0,0,0,1,0,0,0,0,2,4,1,0,0,2,0,04/20/2019,home,14781,30171,Berea,9,True,5,1,4,win,1660843,44,1781316,2019
+1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/20/2019,home,14781,30171,Berea,9,True,3,2,1,win,1667217,44,1781316,2019

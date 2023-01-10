@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,2.0,0.0,1,4,1,1,0,0,13,10,1,0,1,0,0,2,0,0,0,0,0,0,3,3,0,0,0,1,0,03/13/2019,away,14781,30032,Finlandia,8,True,10,11,-1,loss,1667676,221,2144660,2019
+1,0,2.2,0.0,0,0,0,1,1,0,9,7,0,0,0,0,0,0,0,3,1,0,1,25,1,6,0,0,0,5,0,04/11/2019,away,14781,20,DeSales,9,True,4,11,-7,loss,1659278,221,2144660,2019
+1,0,0.0,0.0,1,3,3,1,0,0,3,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,4,0,04/17/2019,away,14781,190,Drew,9,True,8,17,-9,loss,1660489,221,2144660,2019
+1,0,2.0,0.0,2,2,2,2,0,0,10,7,1,0,0,0,0,1,0,0,0,0,0,29,1,4,0,0,0,3,0,04/23/2019,away,14781,564,Ramapo,9,True,3,13,-10,loss,1661768,221,2144660,2019

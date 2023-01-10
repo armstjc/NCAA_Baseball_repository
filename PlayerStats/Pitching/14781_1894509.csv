@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.2,0.0,5,4,3,1,2,0,21,19,1,0,0,0,1,0,0,0,0,1,0,0,7,4,0,1,0,1,1,03/12/2019,neutral,14781,722,Coast Guard,9,True,5,12,-7,loss,1652466,1164,1894509,2019
+1,1,2.0,0.0,4,6,3,2,1,0,14,11,2,0,0,0,1,1,0,0,0,0,0,0,2,2,0,1,0,1,0,03/16/2019,neutral,14781,276,Haverford,9,True,1,14,-13,loss,1653332,1164,1894509,2019
+1,1,2.0,0.0,9,6,6,0,2,0,14,14,1,0,0,1,0,0,0,0,0,0,0,58,1,2,0,1,0,1,1,04/02/2019,away,14781,797,Milwaukee,9,True,2,16,-14,loss,1657077,1164,1894509,2019

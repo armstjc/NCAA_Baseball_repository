@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.1,0.0,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,3,2,0,0,11,0,1,1,0,0,6,0,03/17/2019,neutral,14781,38,Augsburg,9,True,12,11,1,win,1667838,804,2128224,2019
+1,0,1.0,0.0,4,2,2,0,1,0,7,7,1,0,0,0,0,0,0,0,0,0,0,18,1,1,0,0,0,2,1,03/22/2019,neutral,14781,118,Carleton,9,True,15,4,11,win,1654554,804,2128224,2019
+1,1,5.0,0.0,9,6,6,1,6,0,26,25,1,0,0,0,0,0,0,0,0,0,0,79,3,6,0,0,0,1,1,04/03/2019,home,14781,30032,Finlandia,9,True,6,13,-7,loss,1666060,804,2128224,2019
+1,0,2.0,0.0,0,1,1,0,1,0,7,6,0,0,0,0,1,0,0,0,0,0,1,0,4,2,0,0,0,4,0,04/20/2019,away,14781,8597,Martin Luther,9,True,16,19,-3,loss,1668447,804,2128224,2019
+1,0,1.1,0.0,9,8,8,0,1,0,13,13,4,0,0,0,4,0,0,1,0,0,0,32,1,2,0,0,0,3,0,04/25/2019,home,14781,60,Bethel (MN),9,True,1,19,-18,loss,1667605,804,2128224,2019

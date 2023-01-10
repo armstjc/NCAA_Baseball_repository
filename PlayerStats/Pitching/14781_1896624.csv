@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,03/14/2019,away,14781,549,Pomona-Pitzer,9,True,1,6,-5,loss,1668492,69,1896624,2019
+1,0,1.0,0.0,1,0,0,0,0,0,5,4,0,0,0,0,0,1,0,0,0,0,0,21,0,3,0,0,0,5,0,03/16/2019,away,14781,516,Occidental,9,True,1,14,-13,loss,1653426,69,1896624,2019
+1,0,0.0,0.0,0,2,2,1,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,1,0,2,0,03/19/2019,away,14781,341,La Verne,9,True,6,7,-1,loss,1654064,69,1896624,2019
+1,0,0.0,0.0,2,3,3,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,03/21/2019,away,14781,549,Pomona-Pitzer,9,True,8,10,-2,loss,1722826,69,1896624,2019
+1,0,0.2,0.0,3,3,3,1,1,0,7,4,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,5,0,04/30/2019,home,14781,662,Southern Me.,9,True,0,18,-18,loss,1663194,69,1896624,2019

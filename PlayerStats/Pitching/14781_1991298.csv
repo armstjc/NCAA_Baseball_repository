@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,3.1,0.0,6,8,7,6,1,0,21,13,1,0,0,0,0,0,0,0,0,1,1,74,6,2,0,1,0,1,0,02/23/2019,neutral,14781,50,Bates,9,True,3,12,-9,loss,1648987,117,1991298,2019
+1,0,1.0,0.0,0,0,0,2,0,0,4,1,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,4,0,02/28/2019,neutral,14781,612,Saint Mary's (MN),9,True,8,5,3,win,1649752,117,1991298,2019
+1,1,2.0,0.0,4,3,3,1,1,0,11,9,1,0,0,0,0,1,0,0,0,0,0,34,2,2,0,0,0,1,0,03/19/2019,home,14781,806,Wittenberg,9,True,6,5,1,win,1669149,117,1991298,2019
+1,1,4.0,0.0,2,3,1,4,5,0,24,15,0,0,0,0,2,4,0,0,0,0,0,89,2,5,1,0,0,1,0,04/07/2019,away,14781,281,Hiram,9,True,19,9,10,win,1723695,117,1991298,2019
+1,1,3.0,0.0,5,7,5,3,4,0,18,15,0,0,0,2,0,0,0,0,0,0,0,67,4,1,0,1,0,1,1,04/23/2019,away,14781,1050,Defiance,9,True,7,13,-6,loss,1661790,117,1991298,2019

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,1,0,0,0,0,0,5,4,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,4,0,03/04/2019,neutral,14781,30044,Penn St.-Berks,9,True,5,15,-10,loss,1668250,8968,1779047,2019
+1,1,1.1,0.0,7,10,10,3,1,0,18,9,2,0,0,0,1,4,0,0,0,0,2,0,0,3,0,1,0,1,1,03/29/2019,away,14781,16142,Misericordia,9,True,0,19,-19,loss,1656168,8968,1779047,2019
+1,0,1.0,0.0,3,2,2,0,0,0,6,6,2,0,0,0,1,0,0,0,0,0,0,23,2,1,0,0,0,2,0,04/27/2019,home,14781,336,King's (PA),9,True,1,5,-4,loss,1669287,8968,1779047,2019

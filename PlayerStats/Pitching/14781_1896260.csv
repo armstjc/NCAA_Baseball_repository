@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.2,0.0,4,1,1,1,0,0,15,14,0,1,0,0,0,0,0,3,1,0,0,0,5,5,0,0,0,3,0,03/18/2019,neutral,14781,602,Saint John's (MN),9,True,3,18,-15,loss,1653930,804,1896260,2019
+1,0,0.2,0.0,2,1,1,0,1,0,5,5,0,0,0,0,1,0,0,3,2,0,0,16,0,0,0,0,0,3,1,04/03/2019,home,14781,30032,Finlandia,9,True,6,13,-7,loss,1666060,804,1896260,2019
+1,0,2.0,0.0,2,1,0,0,0,0,9,8,1,0,0,0,0,0,0,0,0,0,1,12,4,2,0,0,0,2,0,04/24/2019,home,14781,1267,Northland,9,True,17,2,15,win,1667448,804,1896260,2019
+1,0,0.2,0.0,1,0,0,2,0,0,5,2,1,0,0,0,0,0,0,2,2,0,1,18,1,1,0,0,0,4,0,05/05/2019,away,14781,615,St. Olaf,9,True,1,11,-10,loss,1665225,804,1896260,2019

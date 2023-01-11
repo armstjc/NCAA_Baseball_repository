@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.0,0.0,2,0,0,1,0,0,9,7,1,0,0,0,1,1,0,0,0,0,0,0,1,4,0,0,0,2,0,04/24/2019,away,14781,30039,North Central (MN),9,True,9,0,9,win,1667444,618,2150680,2019
+1,0,1.2,0.0,0,0,0,1,4,0,6,5,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,2,1,05/01/2019,away,14781,795,Wis.-La Crosse,9,True,7,6,1,win,1665343,618,2150680,2019
+1,0,1.2,0.0,3,2,2,1,2,0,9,8,0,0,0,1,1,0,0,2,2,0,0,0,1,2,0,0,0,3,1,05/04/2019,away,14781,30038,Bethany Lutheran,9,True,9,12,-3,loss,1665204,618,2150680,2019

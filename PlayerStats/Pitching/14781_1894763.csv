@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,5.0,0.0,7,4,4,3,6,0,25,21,3,0,0,0,0,0,0,0,0,0,1,0,5,3,1,0,0,1,1,03/04/2019,neutral,14781,484,Nichols,9,True,13,7,6,win,1650156,548,1894763,2019
+1,1,4.0,0.0,8,7,4,2,1,0,25,21,2,0,0,0,0,1,0,0,0,1,0,1,8,3,0,1,0,1,0,03/10/2019,neutral,14781,40,Augustana (IL),9,True,3,10,-7,loss,1652171,548,1894763,2019
+1,1,6.0,0.0,8,2,1,2,3,0,30,26,1,0,0,0,1,2,0,0,0,0,0,100,9,4,1,0,0,1,1,03/16/2019,neutral,14781,60,Bethel (MN),9,True,12,7,5,win,1653420,548,1894763,2019

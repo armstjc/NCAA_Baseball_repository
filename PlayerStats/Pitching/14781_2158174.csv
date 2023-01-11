@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,2.1,0.0,1,0,0,3,0,0,10,6,0,0,0,0,1,0,0,0,0,1,0,31,5,1,0,0,0,3,0,04/01/2019,away,14781,30031,Northwestern-St. Paul,9,True,1,4,-3,loss,1657039,268,2158174,2019
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,4,0,04/16/2019,home,14781,1226,Minn.-Morris,9,True,15,0,15,win,1667659,268,2158174,2019
+1,1,1.0,0.0,1,1,1,1,1,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,05/05/2019,away,14781,30038,Bethany Lutheran,11,True,6,7,-1,loss,1664030,268,2158174,2019

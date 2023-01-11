@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,1,1,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,3,0,03/10/2019,neutral,14781,685,Susquehanna,9,True,11,4,7,win,1652071,1163,2005328,2019
+1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,2,0,0,0,0,2,0,03/13/2019,neutral,14781,686,Swarthmore,9,True,11,5,6,win,1652657,1163,2005328,2019
+1,0,0.1,0.0,1,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,03/24/2019,away,14781,30170,Alfred St.,9,True,17,8,9,win,1720659,1163,2005328,2019
+1,1,1.0,0.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,1,0,04/06/2019,neutral,14781,8398,Hilbert,9,True,18,3,15,win,1667911,1163,2005328,2019
+1,0,0.2,0.0,3,1,1,0,1,0,5,5,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,3,0,04/10/2019,away,14781,25719,Penn St.-Altoona,9,True,24,14,10,win,1658923,1163,2005328,2019

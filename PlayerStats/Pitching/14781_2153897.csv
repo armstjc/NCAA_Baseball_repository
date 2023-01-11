@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,4,4,1,0,0,7,6,1,0,0,1,0,0,0,0,0,0,0,15,1,2,0,0,0,4,0,03/12/2019,neutral,14781,809,Worcester St.,9,True,5,16,-11,loss,1652456,9500,2153897,2019
+1,0,2.0,0.0,6,3,3,1,1,0,14,12,1,0,0,0,1,0,0,0,0,0,1,45,1,5,0,0,0,4,0,03/13/2019,neutral,14781,571,Rhode Island Col.,9,True,1,19,-18,loss,1652662,9500,2153897,2019

@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,0.2,0.0,2,1,0,0,0,0,5,5,0,0,0,0,0,0,0,3,3,0,0,0,1,1,0,0,0,2,0,03/15/2019,neutral,14781,276,Haverford,9,True,3,15,-12,loss,1652996,8911,2150352,2019
+1,0,0.1,0.0,1,5,0,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,03/27/2019,home,14781,53,Beloit,9,True,9,10,-1,loss,1655370,8911,2150352,2019
+1,0,1.0,0.0,2,1,1,0,0,0,6,5,0,0,0,0,0,1,0,0,0,0,0,23,1,2,0,0,0,3,0,03/28/2019,away,14781,1196,Marian (WI),9,True,1,9,-8,loss,1666342,8911,2150352,2019
+1,0,2.0,0.0,5,4,4,0,1,0,11,10,0,0,0,1,0,0,0,0,0,0,1,42,2,3,0,0,0,2,1,04/06/2019,away,14781,160,Concordia Chicago,9,True,0,11,-11,loss,1668190,8911,2150352,2019
+1,0,4.0,0.0,1,0,0,3,2,0,15,12,0,0,0,0,0,0,0,0,0,0,0,0,6,3,1,0,0,2,0,04/20/2019,home,14781,1332,Dominican (IL),9,True,7,6,1,win,1661350,8911,2150352,2019
+1,0,2.0,0.0,1,0,0,1,2,0,9,8,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,1,04/23/2019,away,14781,1194,Maranatha Baptist,9,True,6,0,6,win,1666763,8911,2150352,2019

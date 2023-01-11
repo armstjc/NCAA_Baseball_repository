@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,3.2,0.0,6,4,4,2,2,0,19,16,2,0,0,0,1,0,0,0,0,0,1,54,3,5,0,0,0,2,0,02/24/2019,home,14781,1315,Pitt.-Bradford,9,True,2,14,-12,loss,1709193,761,2146747,2019
+1,1,5.0,0.0,9,7,6,2,2,0,28,24,2,0,1,0,0,1,0,0,0,0,1,0,7,6,0,1,0,1,1,03/13/2019,neutral,14781,30190,Penn College,9,True,0,13,-13,loss,1652655,761,2146747,2019
+1,0,2.0,0.0,2,1,1,0,1,0,8,7,0,1,0,0,0,0,0,0,0,0,1,0,2,3,0,0,0,4,0,03/20/2019,home,14781,526,SUNY Oneonta,9,True,3,11,-8,loss,1654315,761,2146747,2019
+1,1,5.0,0.0,3,3,2,2,5,0,21,17,1,0,0,0,1,1,0,0,0,0,1,80,2,7,0,0,0,1,1,03/26/2019,home,14781,958,Clarks Summit,9,True,4,6,-2,loss,1655598,761,2146747,2019
+1,1,1.1,0.0,4,7,6,4,0,0,12,8,0,0,0,2,2,0,0,0,0,0,0,0,3,1,0,1,0,1,0,03/30/2019,away,14781,30044,Penn St.-Berks,9,True,7,24,-17,loss,1665721,761,2146747,2019

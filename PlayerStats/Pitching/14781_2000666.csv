@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,1,4.0,0.0,6,6,4,4,2,0,21,17,3,0,0,0,2,0,0,0,0,0,0,65,5,4,0,1,0,1,0,02/21/2019,neutral,14781,40,Augustana (IL),9,True,3,10,-7,loss,1648580,50,2000666,2019
+1,0,0.2,0.0,3,3,2,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,03/09/2019,neutral,14781,484,Nichols,9,True,5,4,1,win,1717493,50,2000666,2019
+1,1,4.0,0.0,5,2,1,2,2,0,20,18,0,0,0,0,0,0,0,0,0,0,0,67,8,2,0,0,0,1,1,04/02/2019,away,14781,1133,Husson,9,True,4,6,-2,loss,1722647,50,2000666,2019
+1,0,0.2,0.0,3,7,7,4,0,0,9,4,0,0,0,0,1,0,0,0,0,1,0,38,2,0,0,1,0,3,0,04/18/2019,home,14781,1133,Husson,9,True,3,15,-12,loss,1660659,50,2000666,2019
+1,0,1.0,0.0,1,0,0,0,3,0,4,4,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,6,0,04/25/2019,home,14781,379,Me.-Farmington,9,True,10,1,9,win,1661773,50,2000666,2019

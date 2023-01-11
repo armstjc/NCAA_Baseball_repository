@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,2,0,03/08/2019,neutral,14781,938,Alvernia,9,True,2,14,-12,loss,1666823,1050,1999448,2019
+1,0,1.0,0.0,2,1,1,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,30,1,2,0,0,0,4,0,03/27/2019,away,14781,278,Heidelberg,9,True,2,17,-15,loss,1655907,1050,1999448,2019
+1,0,1.0,0.0,0,2,2,3,0,0,6,3,0,0,0,0,0,0,0,0,0,0,0,23,0,3,0,0,0,4,0,04/08/2019,home,14781,939,Anderson (IN),9,True,4,14,-10,loss,1656578,1050,1999448,2019
+1,0,1.0,0.0,2,1,1,2,1,0,7,5,1,0,0,0,0,0,0,0,0,0,0,25,0,2,0,0,0,2,0,04/17/2019,home,14781,520,Ohio Wesleyan,9,True,1,6,-5,loss,1725944,1050,1999448,2019

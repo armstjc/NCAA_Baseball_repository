@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1.0,0.0,3,3,3,1,0,0,7,6,1,0,0,0,0,0,0,0,0,0,0,18,3,0,0,0,0,4,0,03/09/2019,away,14781,973,Berry,9,True,2,12,-10,loss,1717409,652,2133726,2019
+1,0,1.0,0.0,2,2,0,0,0,0,6,6,1,0,0,0,0,0,0,0,0,0,0,14,2,1,0,0,0,4,0,03/14/2019,home,14781,218,Eureka,9,True,32,11,21,win,1652695,652,2133726,2019
+1,0,0.1,0.0,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,5,0,03/20/2019,away,14781,1115,Hanover,9,True,17,21,-4,loss,1654335,652,2133726,2019

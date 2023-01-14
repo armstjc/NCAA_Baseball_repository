@@ -1,3 +1,4 @@
+import time
 from collegebaseball import ncaa_scraper as ncaa
 from collegebaseball import datasets
 from datetime import date
@@ -23,14 +24,19 @@ def getSchoolAllTimeRoster(school='Ohio'):
 
     Args: School="Ohio" (text)
     '''
-    now = date.today()
+    rost = pd.DataFrame()
+    #now = date.today()
     schoolID = ncaa.lookup_school_id(school)
     minSeason = 2012
     maxSeason = 2024
     #print(minSeason,maxSeason)
-    rost = ncaa.ncaa_team_roster(schoolID,range(minSeason,maxSeason))
-    rost = rost.sort_values(by=['season'])
+    for i in range(minSeason,maxSeason):
+        print(f'Getting the roster for {i}.')
+        sea_rost = ncaa.ncaa_team_season_roster(schoolID,i)
+        #sea_rost = rost.sort_values(by=['season'])
+        rost = pd.concat([rost,sea_rost],ignore_index=True)
     rost.to_csv(f'TeamRosters/teams/{schoolID}.csv',index=False)
+    time.sleep(4)
     print(rost)
     return rost
 

@@ -36,7 +36,7 @@ def get_rosters_path():
 
     """
     with resources.path("collegebaseball.data",
-                        "rosters_2013_2022_all.parquet") as f:
+                        "rosters_all.parquet") as f:
         data_file_path = f
     return data_file_path
 

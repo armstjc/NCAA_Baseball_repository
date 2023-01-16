@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 from multiprocessing import Pool
 
-def reader(filename):    
+def reader(filename):
         return pd.read_csv(filename, encoding='latin-1')
 
 def mergeFilesMultithreaded(filePath=""):

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,2,0,0,0,1,0,8,7,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0,0,0,5,0,05/07/2017,home,12560,466,Nevada,9,True,5,7,-2,loss,225475,147,1883887,2017
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,3,1,0,0,0,0,4,0,05/19/2017,away,12560,490,NC State,9,True,10,12,-2,loss,226919,147,1883887,2017
+0,0,0.2,0.0,2,1,1,0,2,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,06/03/2017,home,12560,736,Vanderbilt,9,True,4,9,-5,loss,227708,147,1883887,2017

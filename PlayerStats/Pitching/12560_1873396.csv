@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.1,0.0,6,6,6,1,1,0,11,10,1,0,0,3,0,0,0,0,0,0,0,41,0,3,0,0,0,1,0,02/21/2017,home,12560,19651,High Point,10,True,11,12,-1,loss,206706,173,1873396,2017
+0,0,0.2,0.0,1,0,0,0,0,0,3,3,1,0,0,0,0,0,0,1,0,0,0,10,1,1,0,0,0,7,0,02/28/2017,away,12560,749,Wake Forest,9,True,5,13,-8,loss,208064,173,1873396,2017
+0,0,0.2,0.0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,0,2,0,0,0,6,0,04/01/2017,home,12560,606,Saint Joseph's,9,True,1,7,-6,loss,215462,173,1873396,2017
+0,0,1.0,0.0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,4,0,04/15/2017,away,12560,740,VCU,9,True,0,14,-14,loss,220373,173,1873396,2017

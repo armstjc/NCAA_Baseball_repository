@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,3,0,0,7,4,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,6,0,03/25/2017,neutral,12560,275,Harvard,9,True,5,11,-6,loss,214324,725,1879865,2017
+0,0,2.0,0.0,2,1,0,1,1,0,9,8,1,0,0,0,0,0,0,0,0,0,0,43,3,2,0,0,0,3,0,04/15/2017,home,12560,285,Holy Cross,9,True,1,16,-15,loss,220122,725,1879865,2017
+0,0,0.1,0.0,0,0,0,1,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,11,1,0,0,0,0,4,0,04/18/2017,home,12560,14,UAlbany,9,True,13,10,3,win,220589,725,1879865,2017
+0,0,0.0,0.0,0,0,0,2,0,0,2,0,0,0,0,0,1,0,0,1,0,0,0,9,0,0,0,0,0,2,0,04/19/2017,home,12560,477,New York Tech,9,True,8,3,5,win,220932,725,1879865,2017

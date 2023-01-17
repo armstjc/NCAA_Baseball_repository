@@ -1,10 +1,10 @@
 PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/25/2017,neutral,12560,596,St. Bonaventure,9,True,7,8,-1,loss,207541,172,1526141,2017
-0,1,0,1,0,0,1,0,0,0,02/25/2017,neutral,12560,204,Eastern Mich.,9,True,8,4,4,win,207542,172,1526141,2017
+0,0,1,1,0,0,1,0,0,0,02/25/2017,neutral,12560,204,Eastern Mich.,9,True,8,4,4,win,207542,172,1526141,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,596,St. Bonaventure,9,True,13,1,12,win,207869,172,1526141,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,away,12560,415,Miami (FL),9,True,1,0,1,win,208238,172,1526141,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,415,Miami (FL),9,True,2,3,-1,loss,208507,172,1526141,2017
-1,1,0,0,0,0,0,0,0,0,03/05/2017,away,12560,415,Miami (FL),9,True,5,0,5,win,208997,172,1526141,2017
+1,0,1,0,0,0,0,0,0,0,03/05/2017,away,12560,415,Miami (FL),9,True,5,0,5,win,208997,172,1526141,2017
 0,0,0,0,0,0,0,0,0,0,03/16/2017,away,12560,141,The Citadel,9,True,7,2,5,win,211599,172,1526141,2017
 0,0,0,0,0,0,0,0,0,0,03/17/2017,away,12560,141,The Citadel,9,True,4,5,-1,loss,211723,172,1526141,2017
 0,1,1,0,0,0,0,0,0,0,03/18/2017,away,12560,141,The Citadel,10,True,7,8,-1,loss,212040,172,1526141,2017

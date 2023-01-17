@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,1,1,0,2,0,5,5,1,0,0,0,0,0,0,0,0,0,0,22,1,0,0,0,0,3,1,02/22/2017,home,12560,632,Savannah St.,9,True,9,1,8,win,206792,1157,1760917,2017
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,1,0,0,0,1,0,0,0,0,0,0,14,1,2,0,0,0,4,0,03/10/2017,home,12560,19651,High Point,9,True,6,7,-1,loss,210105,1157,1760917,2017
+0,0,0.2,0.0,0,3,0,3,0,0,8,3,0,0,0,0,1,2,0,0,0,0,0,34,1,1,0,0,0,5,0,03/18/2017,home,12560,522,Oklahoma,9,True,9,17,-8,loss,212048,1157,1760917,2017
+0,0,0.0,0.0,0,0,0,2,0,0,3,0,0,0,0,0,1,1,0,0,0,0,0,14,0,0,0,0,0,2,0,04/04/2017,home,12560,406,Mercer,9,True,4,10,-6,loss,216625,1157,1760917,2017

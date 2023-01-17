@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,12,1,0,0,0,0,4,0,02/17/2017,home,12560,315,Jacksonville St.,9,True,5,0,5,win,205892,231,1879420,2017
+0,1,5.0,0.0,8,3,2,1,4,0,25,23,0,0,0,0,1,1,0,0,0,0,0,87,7,4,0,1,0,1,1,02/25/2017,home,12560,331,Kent St.,9,True,2,3,-1,loss,207489,231,1879420,2017
+0,1,6.0,0.0,6,3,3,2,5,0,27,25,0,0,0,0,0,0,0,0,0,0,0,101,10,3,1,0,0,1,1,03/04/2017,home,12560,381,Manhattan,9,True,5,3,2,win,208784,231,1879420,2017
+0,1,1.1,0.0,6,5,5,1,0,0,13,11,0,0,0,0,0,1,0,0,0,0,0,45,0,4,0,0,0,1,0,03/10/2017,home,12560,48,Charleston So.,9,True,15,8,7,win,210203,231,1879420,2017

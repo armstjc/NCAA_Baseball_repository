@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,3,0,0,1,2,0,9,8,0,0,0,0,0,0,0,0,0,0,0,35,2,1,0,0,0,2,0,02/18/2017,home,12560,771,Western Ill.,9,True,8,2,6,win,206057,430,1751550,2017
+0,0,0.2,0.0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,2,1,0,1,0,0,2,0,0,0,3,0,03/05/2017,away,12560,529,Oregon,11,True,5,6,-1,loss,209025,430,1751550,2017
+0,0,0.2,0.0,2,1,0,0,0,0,4,4,0,0,0,0,0,0,0,1,0,0,0,11,0,2,0,1,0,6,0,03/07/2017,home,12560,366,Louisiana Tech,9,True,2,3,-1,loss,209563,430,1751550,2017
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,5,1,0,0,0,0,7,0,03/19/2017,away,12560,31,Arkansas,9,True,1,6,-5,loss,212490,430,1751550,2017
+0,0,0.2,0.0,0,0,0,0,2,0,3,2,0,0,0,0,0,1,0,2,0,0,0,12,0,0,0,0,0,3,0,03/25/2017,home,12560,694,Tennessee,9,True,14,4,10,win,213807,430,1751550,2017

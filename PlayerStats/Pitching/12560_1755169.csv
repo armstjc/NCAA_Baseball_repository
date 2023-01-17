@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,0,0,2,0,0,4,1,0,0,0,0,0,1,0,2,2,0,0,0,0,1,0,0,0,3,0,02/18/2017,home,12560,1014,Col. of Charleston,9,True,6,15,-9,loss,206065,257,1755169,2017
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,03/12/2017,home,12560,576,Rider,9,True,9,3,6,win,210918,257,1755169,2017
+0,0,0.1,0.0,2,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10,0,03/28/2017,home,12560,632,Savannah St.,9,True,12,3,9,win,214821,257,1755169,2017
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4,0,04/29/2017,home,12560,235,Florida,9,True,3,6,-3,loss,223526,257,1755169,2017
+0,0,1.0,0.0,3,1,1,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,05/12/2017,home,12560,430,Mississippi St.,9,True,3,9,-6,loss,226064,257,1755169,2017

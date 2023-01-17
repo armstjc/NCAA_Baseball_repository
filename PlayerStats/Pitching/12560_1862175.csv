@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.0,0.0,1,1,1,0,0,0,2,1,0,0,0,0,1,1,0,0,0,0,0,3,0,0,0,0,0,5,0,02/26/2017,away,12560,692,Tennessee Tech,9,True,14,16,-2,loss,207755,72,1862175,2017
+0,0,2.1,0.0,2,1,1,2,1,0,11,8,1,0,0,0,2,0,0,3,1,0,1,46,1,5,0,0,0,2,1,03/18/2017,away,12560,2711,North Florida,9,True,5,9,-4,loss,212063,72,1862175,2017
+0,0,0.1,0.0,1,0,0,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,03/25/2017,home,12560,0,Robert Morris-S'fiel,9,True,15,0,15,win,213778,72,1862175,2017
+0,0,1.0,0.0,1,1,1,1,0,0,5,4,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,3,0,03/26/2017,home,12560,218,Eureka,9,True,9,7,2,win,214398,72,1862175,2017
+0,0,0.2,0.0,3,2,2,0,2,0,5,5,1,0,0,1,0,0,0,3,3,0,0,0,0,0,0,0,0,4,0,04/09/2017,home,12560,797,Milwaukee,9,True,4,13,-9,loss,218014,72,1862175,2017
+0,0,1.0,0.0,0,2,2,1,2,0,5,4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,4,2,04/12/2017,home,12560,509,Northwestern,9,True,2,6,-4,loss,218877,72,1862175,2017

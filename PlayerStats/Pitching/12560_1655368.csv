@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,4.0,0.0,4,1,1,2,1,0,16,12,1,0,0,0,1,1,0,0,0,1,0,0,6,2,1,0,0,1,1,02/24/2017,neutral,12560,222,Fairleigh Dickinson,9,True,16,8,8,win,207094,352,1655368,2017
+0,1,4.0,0.0,3,3,3,4,4,0,17,13,0,0,0,0,1,0,0,0,0,0,0,63,4,2,0,1,0,1,0,03/05/2017,away,12560,388,Marshall,9,True,4,6,-2,loss,209341,352,1655368,2017
+0,1,1.0,0.0,2,5,5,5,0,0,9,4,1,0,0,0,1,0,0,0,0,0,0,38,1,1,0,1,0,1,0,03/12/2017,neutral,12560,312,Iowa,9,True,7,15,-8,loss,211050,352,1655368,2017
+0,0,1.0,0.0,1,0,0,1,0,0,5,4,0,0,0,0,1,0,0,0,0,0,0,23,1,2,0,0,0,4,0,04/23/2017,away,12560,342,Lafayette,9,True,12,2,10,win,222324,352,1655368,2017
+0,1,2.2,0.0,4,3,2,1,1,0,13,12,1,0,0,1,0,0,0,0,0,0,0,47,3,4,0,0,0,1,0,04/30/2017,home,12560,725,Army West Point,9,True,5,8,-3,loss,224214,352,1655368,2017
+0,0,3.1,0.0,5,5,4,4,2,0,18,12,1,0,0,0,0,0,0,0,0,2,0,59,3,4,0,1,0,2,1,05/07/2017,away,12560,363,Longwood,9,True,7,12,-5,loss,225455,352,1655368,2017

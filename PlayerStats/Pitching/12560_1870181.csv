@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,1,0,0,0,1,0,6,5,0,0,0,0,0,0,0,3,1,0,1,28,2,2,0,0,0,6,1,02/18/2017,away,12560,287,Houston Christian,9,True,5,13,-8,loss,206348,236,1870181,2017
+0,0,2.0,0.0,2,1,1,0,1,0,8,8,0,0,1,0,0,0,0,0,0,0,0,23,3,1,0,0,0,2,0,03/19/2017,home,12560,590,Sacred Heart,9,True,8,1,7,win,212761,236,1870181,2017
+0,0,0.0,0.0,4,3,3,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,5,0,04/05/2017,home,12560,617,Saint Peter's,9,True,7,5,2,win,216948,236,1870181,2017
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,0,0,0,0,6,0,04/11/2017,away,12560,639,Siena,9,True,11,3,8,win,218597,236,1870181,2017

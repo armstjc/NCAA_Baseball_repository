@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,3,2,2,1,0,0,6,5,0,0,0,0,1,0,0,2,2,0,0,0,1,1,0,0,0,2,0,02/18/2017,home,12560,316,Jacksonville,9,True,1,7,-6,loss,206087,314,1548790,2017
+0,1,5.0,0.0,1,1,0,5,6,0,22,17,0,0,0,0,0,0,0,0,0,0,0,0,3,5,1,0,0,1,5,03/13/2017,home,12560,0,Rust,9,True,9,2,7,win,211265,314,1548790,2017
+0,1,4.0,0.0,1,0,0,2,3,0,12,10,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,0,0,1,1,03/21/2017,home,12560,350,LeMoyne-Owen,9,True,17,2,15,win,213157,314,1548790,2017
+0,0,0.2,0.0,2,2,0,0,0,0,5,5,0,0,0,0,0,0,0,1,0,0,0,25,1,1,0,0,0,2,0,03/25/2017,away,12560,28755,FGCU,9,True,4,6,-2,loss,213827,314,1548790,2017
+0,0,2.0,0.0,0,0,0,0,0,0,6,5,0,0,0,0,0,1,0,0,0,0,0,0,3,2,0,0,0,2,0,04/05/2017,home,12560,0,Tougaloo,9,True,21,0,21,win,216902,314,1548790,2017

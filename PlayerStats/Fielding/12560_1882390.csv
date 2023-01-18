@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,1,1,0,0,0,0,0,0,0,02/17/2017,home,12560,490,NC State,9,True,0,4,-4,loss,205855,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,490,NC State,9,True,8,3,5,win,206062,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,490,NC State,9,True,1,8,-7,loss,206471,277,1882390,2017
@@ -6,11 +6,11 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,629,San Francisco,11,True,1,3,-2,loss,206978,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,home,12560,629,San Francisco,9,True,3,2,1,win,207267,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,home,12560,629,San Francisco,9,True,3,2,1,win,207732,277,1882390,2017
-1,1,0,0,0,0,0,0,0,0,03/02/2017,away,12560,428,Minnesota,9,True,11,2,9,win,208184,277,1882390,2017
+1,0,1,0,0,0,0,0,0,0,03/02/2017,away,12560,428,Minnesota,9,True,11,2,9,win,208184,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,312,Iowa,9,True,6,7,-1,loss,208441,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,428,Minnesota,9,True,4,0,4,win,208585,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,527,Oral Roberts,9,True,6,4,2,win,209228,277,1882390,2017
-0,1,0,1,0,0,0,0,0,0,03/09/2017,home,12560,590,Sacred Heart,9,True,6,3,3,win,209953,277,1882390,2017
+0,0,1,1,0,0,0,0,0,0,03/09/2017,home,12560,590,Sacred Heart,9,True,6,3,3,win,209953,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,home,12560,590,Sacred Heart,9,True,4,1,3,win,210158,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,home,12560,590,Sacred Heart,9,True,8,2,6,win,210503,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,home,12560,590,Sacred Heart,9,True,6,5,1,win,210912,277,1882390,2017
@@ -24,7 +24,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/26/2017,home,12560,630,San Jose St.,9,True,14,1,13,win,214456,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,03/30/2017,home,12560,466,Nevada,9,True,12,5,7,win,215160,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,03/31/2017,home,12560,466,Nevada,9,True,3,2,1,win,215312,277,1882390,2017
-0,1,0,1,0,0,2,0,0,0,04/01/2017,home,12560,466,Nevada,9,True,2,9,-7,loss,215525,277,1882390,2017
+0,0,1,1,0,0,2,0,0,0,04/01/2017,home,12560,466,Nevada,9,True,2,9,-7,loss,215525,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,home,12560,466,Nevada,9,True,3,2,1,win,216098,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,04/08/2017,away,12560,90,Cal Poly,9,True,11,1,10,win,217883,277,1882390,2017
 0,0,0,0,0,0,0,0,0,0,04/08/2017,away,12560,90,Cal Poly,9,True,5,15,-10,loss,217907,277,1882390,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,1320,Presbyterian,9,True,4,3,1,win,205810,8,1871448,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,1320,Presbyterian,9,True,8,1,7,win,206024,8,1871448,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,1320,Presbyterian,9,True,3,4,-1,loss,206420,8,1871448,2017
@@ -13,7 +13,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/09/2017,home,12560,2678,Ark.-Pine Bluff,9,True,6,5,1,win,209942,8,1871448,2017
 0,2,2,0,0,0,0,0,0,0,03/10/2017,home,12560,2678,Ark.-Pine Bluff,9,True,14,1,13,win,210103,8,1871448,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,home,12560,2678,Ark.-Pine Bluff,9,True,3,8,-5,loss,211105,8,1871448,2017
-1,0,1,0,0,0,0,0,0,0,03/12/2017,home,12560,2678,Ark.-Pine Bluff,9,True,12,2,10,win,211126,8,1871448,2017
+1,1,0,0,0,0,0,0,0,0,03/12/2017,home,12560,2678,Ark.-Pine Bluff,9,True,12,2,10,win,211126,8,1871448,2017
 0,0,0,0,0,0,0,0,0,0,03/14/2017,home,12560,201,Eastern Ill.,9,True,5,0,5,win,211296,8,1871448,2017
 0,0,0,0,0,0,0,0,0,0,03/15/2017,home,12560,625,Samford,9,True,3,10,-7,loss,211463,8,1871448,2017
 0,0,0,0,0,0,0,0,0,0,03/17/2017,home,12560,434,Missouri,9,True,0,3,-3,loss,211728,8,1871448,2017

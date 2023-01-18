@@ -1,6 +1,6 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,67,Boston College,9,True,2,1,1,win,205905,61,1881003,2017
-0,1,0,1,0,0,1,0,0,0,02/18/2017,home,12560,67,Boston College,9,True,6,5,1,win,206094,61,1881003,2017
+0,0,1,1,0,0,1,0,0,0,02/18/2017,home,12560,67,Boston College,9,True,6,5,1,win,206094,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,67,Boston College,9,True,3,2,1,win,206532,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,away,12560,28755,FGCU,9,True,13,7,6,win,206987,61,1881003,2017
 0,0,0,0,0,0,0,1,0,0,02/25/2017,away,12560,28755,FGCU,9,True,4,7,-3,loss,207274,61,1881003,2017
@@ -15,7 +15,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/11/2017,home,12560,228,Florida A&M,11,True,3,4,-1,loss,210596,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,home,12560,228,Florida A&M,9,True,5,1,4,win,210657,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,03/14/2017,home,12560,220,Fairfield,9,True,9,5,4,win,211352,61,1881003,2017
-0,2,1,1,0,0,3,0,0,0,03/15/2017,home,12560,220,Fairfield,9,True,7,5,2,win,211507,61,1881003,2017
+0,1,2,1,0,0,3,0,0,0,03/15/2017,home,12560,220,Fairfield,9,True,7,5,2,win,211507,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,home,12560,489,N.C. Central,9,True,15,5,10,win,212232,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,home,12560,489,N.C. Central,9,True,7,5,2,win,212318,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,03/19/2017,home,12560,489,N.C. Central,9,True,13,1,12,win,212652,61,1881003,2017
@@ -24,7 +24,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/25/2017,away,12560,488,N.C. A&T,9,True,10,4,6,win,214006,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,away,12560,488,N.C. A&T,9,True,10,5,5,win,214156,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,03/26/2017,away,12560,488,N.C. A&T,9,True,5,6,-1,loss,214510,61,1881003,2017
-1,1,0,0,0,0,0,0,0,0,03/28/2017,home,12560,2711,North Florida,9,True,4,5,-1,loss,214868,61,1881003,2017
+1,0,1,0,0,0,0,0,0,0,03/28/2017,home,12560,2711,North Florida,9,True,4,5,-1,loss,214868,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,03/29/2017,away,12560,2711,North Florida,9,True,10,2,8,win,214972,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,03/31/2017,away,12560,355,Liberty,9,True,5,4,1,win,215252,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,04/01/2017,away,12560,355,Liberty,10,True,3,4,-1,loss,215477,61,1881003,2017
@@ -58,5 +58,5 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,06/02/2017,away,12560,651,South Fla.,9,True,1,9,-8,loss,227704,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,06/03/2017,neutral,12560,386,Marist,9,True,4,2,2,win,227727,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,06/04/2017,neutral,12560,651,South Fla.,9,True,6,4,2,win,227758,61,1881003,2017
-1,1,0,0,0,0,0,0,0,0,06/04/2017,away,12560,235,Florida,9,True,6,2,4,win,227744,61,1881003,2017
+1,0,1,0,0,0,0,0,0,0,06/04/2017,away,12560,235,Florida,9,True,6,2,4,win,227744,61,1881003,2017
 0,0,0,0,0,0,0,0,0,0,06/05/2017,neutral,12560,235,Florida,9,True,1,6,-5,loss,227777,61,1881003,2017

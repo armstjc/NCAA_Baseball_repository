@@ -1,12 +1,12 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,342,Lafayette,9,True,2,10,-8,loss,205965,513,1888237,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,2743,UIW,9,True,12,10,2,win,206276,513,1888237,2017
-1,1,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,609,Saint Louis,9,True,6,8,-2,loss,206271,513,1888237,2017
+1,0,1,0,0,0,0,0,0,0,02/18/2017,neutral,12560,609,Saint Louis,9,True,6,8,-2,loss,206271,513,1888237,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,neutral,12560,609,Saint Louis,9,True,3,8,-5,loss,206667,513,1888237,2017
 0,0,0,0,0,0,0,0,0,0,02/23/2017,neutral,12560,109,UC Irvine,9,True,4,18,-14,loss,206890,513,1888237,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,away,12560,627,San Diego,9,True,2,6,-4,loss,207031,513,1888237,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,626,San Diego St.,9,True,6,7,-1,loss,207210,513,1888237,2017
-0,1,0,1,0,0,2,0,0,0,03/03/2017,neutral,12560,392,Maryland,9,True,3,4,-1,loss,208426,513,1888237,2017
+0,0,1,1,0,0,2,0,0,0,03/03/2017,neutral,12560,392,Maryland,9,True,3,4,-1,loss,208426,513,1888237,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,572,Rhode Island,9,True,8,4,4,win,208811,513,1888237,2017
 0,0,0,0,0,0,2,0,0,0,03/04/2017,neutral,12560,368,UMass Lowell,9,True,0,8,-8,loss,208810,513,1888237,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,439,Monmouth,9,True,4,0,4,win,209203,513,1888237,2017

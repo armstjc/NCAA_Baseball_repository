@@ -1,12 +1,12 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,169,Creighton,9,True,3,2,1,win,205818,9,1313632,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,169,Creighton,9,True,5,1,4,win,206317,9,1313632,2017
-0,0,1,1,0,0,0,0,0,0,02/19/2017,home,12560,169,Creighton,9,True,14,1,13,win,206427,9,1313632,2017
+0,1,0,1,0,0,0,0,0,0,02/19/2017,home,12560,169,Creighton,9,True,14,1,13,win,206427,9,1313632,2017
 0,0,0,0,0,0,0,0,0,0,02/22/2017,away,12560,7,Alabama St.,9,True,2,7,-5,loss,206802,9,1313632,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,735,Valparaiso,9,True,5,1,4,win,206935,9,1313632,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,home,12560,735,Valparaiso,9,True,3,2,1,win,207233,9,1313632,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,home,12560,735,Valparaiso,9,True,5,9,-4,loss,207688,9,1313632,2017
-0,1,2,1,0,0,0,0,0,0,02/28/2017,home,12560,716,Troy,9,True,2,4,-2,loss,208008,9,1313632,2017
+0,2,1,1,0,0,0,0,0,0,02/28/2017,home,12560,716,Troy,9,True,2,4,-2,loss,208008,9,1313632,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,away,12560,257,Georgia,10,True,2,1,1,win,208330,9,1313632,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,257,Georgia,9,True,0,2,-2,loss,208575,9,1313632,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,away,12560,257,Georgia,9,True,0,1,-1,loss,209092,9,1313632,2017
@@ -40,7 +40,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,366,Louisiana Tech,9,True,2,10,-8,loss,221527,9,1313632,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,away,12560,366,Louisiana Tech,9,True,4,7,-3,loss,222176,9,1313632,2017
 0,0,0,0,0,0,0,0,0,0,04/28/2017,home,12560,458,Charlotte,9,True,3,2,1,win,223089,9,1313632,2017
-1,0,1,0,0,0,1,0,0,0,04/29/2017,home,12560,458,Charlotte,9,True,5,17,-12,loss,223493,9,1313632,2017
+1,1,0,0,0,0,1,0,0,0,04/29/2017,home,12560,458,Charlotte,9,True,5,17,-12,loss,223493,9,1313632,2017
 0,0,0,0,0,0,0,0,0,0,04/30/2017,home,12560,458,Charlotte,9,True,0,3,-3,loss,224061,9,1313632,2017
 0,0,0,0,0,0,0,0,0,0,05/02/2017,away,12560,625,Samford,9,True,9,3,6,win,224445,9,1313632,2017
 0,1,1,0,0,0,0,0,0,0,05/03/2017,home,12560,7,Alabama St.,9,True,5,4,1,win,224636,9,1313632,2017

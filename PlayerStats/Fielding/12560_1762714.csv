@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,165,Coppin St.,9,True,14,3,11,win,208454,275,1762714,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,342,Lafayette,9,True,13,1,12,win,208455,275,1762714,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,165,Coppin St.,9,True,6,2,4,win,209251,275,1762714,2017
@@ -11,7 +11,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/15/2017,neutral,12560,400,Massachusetts,9,True,8,2,6,win,211548,275,1762714,2017
 0,0,0,0,0,0,0,0,0,0,03/17/2017,away,12560,651,South Fla.,9,True,2,8,-6,loss,211840,275,1762714,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,away,12560,651,South Fla.,9,True,1,4,-3,loss,212228,275,1762714,2017
-0,1,0,1,0,0,0,0,0,0,03/18/2017,away,12560,651,South Fla.,9,True,6,8,-2,loss,212303,275,1762714,2017
+0,0,1,1,0,0,0,0,0,0,03/18/2017,away,12560,651,South Fla.,9,True,6,8,-2,loss,212303,275,1762714,2017
 0,0,0,0,0,0,0,0,0,0,03/19/2017,away,12560,651,South Fla.,9,True,2,14,-12,loss,212639,275,1762714,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,neutral,12560,725,Army West Point,9,True,7,8,-1,loss,214310,275,1762714,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,neutral,12560,725,Army West Point,9,True,11,5,6,win,214324,275,1762714,2017

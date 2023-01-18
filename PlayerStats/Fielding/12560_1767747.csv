@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,251,Georgetown,9,True,5,6,-1,loss,205792,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,251,Georgetown,9,True,9,4,5,win,206005,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,251,Georgetown,9,True,8,1,7,win,206398,173,1767747,2017
@@ -16,12 +16,12 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/14/2017,home,12560,513,Notre Dame,9,True,0,2,-2,loss,211281,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,03/17/2017,home,12560,596,St. Bonaventure,9,True,9,2,7,win,211703,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,home,12560,596,St. Bonaventure,9,True,9,2,7,win,212020,173,1767747,2017
-1,0,1,0,0,0,0,0,0,0,03/19/2017,home,12560,596,St. Bonaventure,9,True,4,17,-13,loss,212493,173,1767747,2017
+1,1,0,0,0,0,0,0,0,0,03/19/2017,home,12560,596,St. Bonaventure,9,True,4,17,-13,loss,212493,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,03/21/2017,away,12560,19651,High Point,9,True,0,7,-7,loss,213046,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,03/24/2017,home,12560,572,Rhode Island,9,True,2,5,-3,loss,213391,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,home,12560,572,Rhode Island,9,True,6,7,-1,loss,213760,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,03/26/2017,home,12560,572,Rhode Island,9,True,1,9,-8,loss,214377,173,1767747,2017
-0,0,1,1,0,0,0,0,0,0,03/28/2017,away,12560,193,Duke,9,True,6,8,-2,loss,214813,173,1767747,2017
+0,1,0,1,0,0,0,0,0,0,03/28/2017,away,12560,193,Duke,9,True,6,8,-2,loss,214813,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,03/31/2017,home,12560,606,Saint Joseph's,9,True,10,7,3,win,215234,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,04/01/2017,home,12560,606,Saint Joseph's,9,True,1,7,-6,loss,215462,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,home,12560,606,Saint Joseph's,9,True,5,3,2,win,216022,173,1767747,2017
@@ -30,7 +30,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/09/2017,away,12560,340,La Salle,9,True,8,7,1,win,218064,173,1767747,2017
 0,1,1,0,0,0,0,0,0,0,04/11/2017,home,12560,27,App State,9,True,12,6,6,win,218558,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,04/14/2017,away,12560,740,VCU,9,True,5,4,1,win,219787,173,1767747,2017
-0,0,1,1,0,0,0,0,0,0,04/15/2017,away,12560,740,VCU,9,True,0,14,-14,loss,220373,173,1767747,2017
+0,1,0,1,0,0,0,0,0,0,04/15/2017,away,12560,740,VCU,9,True,0,14,-14,loss,220373,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,04/16/2017,away,12560,740,VCU,9,True,4,11,-7,loss,220447,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,04/18/2017,away,12560,648,South Carolina,9,True,2,3,-1,loss,220620,173,1767747,2017
 0,0,0,0,0,0,0,0,0,0,04/21/2017,away,12560,488,N.C. A&T,9,True,6,0,6,win,221302,173,1767747,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,83,Bucknell,10,True,5,0,5,win,206284,386,1865619,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,83,Bucknell,9,True,3,7,-4,loss,206294,386,1865619,2017
 0,0,1,1,0,0,1,0,0,0,02/19/2017,neutral,12560,83,Bucknell,9,True,10,8,2,win,206574,386,1865619,2017

@@ -1,11 +1,11 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,67,Boston College,9,True,2,1,1,win,205905,61,1649145,2017
-0,1,0,1,0,0,0,0,0,0,02/18/2017,home,12560,67,Boston College,9,True,6,5,1,win,206094,61,1649145,2017
+0,0,1,1,0,0,0,0,0,0,02/18/2017,home,12560,67,Boston College,9,True,6,5,1,win,206094,61,1649145,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,67,Boston College,9,True,3,2,1,win,206532,61,1649145,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,away,12560,28755,FGCU,9,True,13,7,6,win,206987,61,1649145,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,28755,FGCU,9,True,4,7,-3,loss,207274,61,1649145,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,away,12560,28755,FGCU,9,True,3,8,-5,loss,207743,61,1649145,2017
-0,1,0,1,0,0,1,1,0,0,02/28/2017,home,12560,678,Stetson,11,True,9,8,1,win,208073,61,1649145,2017
+0,0,1,1,0,0,1,1,0,0,02/28/2017,home,12560,678,Stetson,11,True,9,8,1,win,208073,61,1649145,2017
 0,0,0,0,0,0,0,0,0,0,03/01/2017,home,12560,316,Jacksonville,9,True,5,4,1,win,208149,61,1649145,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,home,12560,692,Tennessee Tech,9,True,0,5,-5,loss,208386,61,1649145,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,home,12560,692,Tennessee Tech,9,True,5,4,1,win,208613,61,1649145,2017
@@ -23,7 +23,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/22/2017,home,12560,172,Dartmouth,9,True,9,2,7,win,213254,61,1649145,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,away,12560,488,N.C. A&T,9,True,10,4,6,win,214006,61,1649145,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,away,12560,488,N.C. A&T,9,True,10,5,5,win,214156,61,1649145,2017
-1,1,0,0,0,0,0,0,0,0,03/26/2017,away,12560,488,N.C. A&T,9,True,5,6,-1,loss,214510,61,1649145,2017
+1,0,1,0,0,0,0,0,0,0,03/26/2017,away,12560,488,N.C. A&T,9,True,5,6,-1,loss,214510,61,1649145,2017
 0,0,0,0,0,0,0,0,0,0,03/28/2017,home,12560,2711,North Florida,9,True,4,5,-1,loss,214868,61,1649145,2017
 0,0,0,0,0,0,0,0,0,0,03/29/2017,away,12560,2711,North Florida,9,True,10,2,8,win,214972,61,1649145,2017
 0,0,0,0,0,0,0,0,0,0,03/31/2017,away,12560,355,Liberty,9,True,5,4,1,win,215252,61,1649145,2017

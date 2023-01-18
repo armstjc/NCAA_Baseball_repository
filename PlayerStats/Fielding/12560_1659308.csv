@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,164,UConn,9,True,3,5,-2,loss,205964,368,1659308,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,164,UConn,9,True,3,7,-4,loss,206291,368,1659308,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,164,UConn,9,True,1,7,-6,loss,206301,368,1659308,2017

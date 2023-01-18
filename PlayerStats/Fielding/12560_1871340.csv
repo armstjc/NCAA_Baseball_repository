@@ -1,16 +1,16 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/24/2017,neutral,12560,355,Liberty,9,True,5,8,-3,loss,207108,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,neutral,12560,603,St. John's (NY),9,True,3,15,-12,loss,207524,391,1871340,2017
-1,0,1,0,0,0,0,0,0,0,02/26/2017,neutral,12560,603,St. John's (NY),9,True,0,8,-8,loss,207857,391,1871340,2017
+1,1,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,603,St. John's (NY),9,True,0,8,-8,loss,207857,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,away,12560,1092,Gardner-Webb,9,True,3,4,-1,loss,208382,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,1092,Gardner-Webb,9,True,2,5,-3,loss,208608,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,away,12560,1092,Gardner-Webb,9,True,6,0,6,win,209127,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,03/07/2017,away,12560,180,Delaware,9,True,6,17,-11,loss,209530,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,03/08/2017,home,12560,711,Towson,11,True,3,7,-4,loss,209760,391,1871340,2017
-3,0,3,0,0,0,0,0,0,0,03/10/2017,away,12560,456,UNC Asheville,9,True,5,11,-6,loss,210212,391,1871340,2017
+3,3,0,0,0,0,0,0,0,0,03/10/2017,away,12560,456,UNC Asheville,9,True,5,11,-6,loss,210212,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,away,12560,456,UNC Asheville,9,True,6,7,-1,loss,210795,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,away,12560,456,UNC Asheville,9,True,8,4,4,win,210820,391,1871340,2017
-1,0,1,0,0,0,0,0,0,0,03/21/2017,home,12560,249,George Washington,9,True,3,4,-1,loss,213001,391,1871340,2017
+1,1,0,0,0,0,0,0,0,0,03/21/2017,home,12560,249,George Washington,9,True,3,4,-1,loss,213001,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,home,12560,14,UAlbany,9,True,7,6,1,win,213912,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,home,12560,14,UAlbany,9,True,1,9,-8,loss,214054,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,03/26/2017,home,12560,14,UAlbany,9,True,9,3,6,win,214437,391,1871340,2017
@@ -39,7 +39,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,05/09/2017,away,12560,392,Maryland,9,True,2,6,-4,loss,225788,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,05/10/2017,away,12560,711,Towson,9,True,2,4,-2,loss,225865,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,05/16/2017,home,12560,251,Georgetown,9,True,8,5,3,win,226655,391,1871340,2017
-3,0,3,0,0,0,0,0,0,0,05/19/2017,home,12560,683,Stony Brook,9,True,5,12,-7,loss,227007,391,1871340,2017
+3,3,0,0,0,0,0,0,0,0,05/19/2017,home,12560,683,Stony Brook,9,True,5,12,-7,loss,227007,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,05/19/2017,home,12560,683,Stony Brook,9,True,1,7,-6,loss,227016,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,05/20/2017,home,12560,683,Stony Brook,10,True,2,1,1,win,227146,391,1871340,2017
 0,0,0,0,0,0,0,0,0,0,05/26/2017,neutral,12560,683,Stony Brook,9,True,3,2,1,win,227518,391,1871340,2017

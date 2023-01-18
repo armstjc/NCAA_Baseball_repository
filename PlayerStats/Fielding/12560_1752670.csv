@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 3,3,0,0,0,0,0,0,0,0,02/17/2017,home,12560,498,ULM,9,True,3,8,-5,loss,205809,1045,1752670,2017
 4,4,0,0,0,0,0,0,0,0,02/18/2017,home,12560,498,ULM,9,True,11,0,11,win,206023,1045,1752670,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,498,ULM,9,True,12,4,8,win,206419,1045,1752670,2017

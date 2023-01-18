@@ -1,7 +1,7 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,9,UAB,9,True,2,3,-1,loss,205818,169,1532788,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,9,UAB,9,True,1,5,-4,loss,206317,169,1532788,2017
-0,1,2,1,0,0,0,0,0,0,02/19/2017,away,12560,9,UAB,9,True,1,14,-13,loss,206427,169,1532788,2017
+0,2,1,1,0,0,0,0,0,0,02/19/2017,away,12560,9,UAB,9,True,1,14,-13,loss,206427,169,1532788,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,away,12560,631,Santa Clara,9,True,3,1,2,win,206900,169,1532788,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,neutral,12560,418,Michigan,10,True,6,7,-1,loss,207546,169,1532788,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,609,Saint Louis,9,True,3,7,-4,loss,207870,169,1532788,2017
@@ -27,7 +27,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/09/2017,home,12560,603,St. John's (NY),9,True,5,1,4,win,218020,169,1532788,2017
 0,0,0,0,0,0,0,0,0,0,04/11/2017,home,12560,649,South Dakota St.,11,True,6,5,1,win,218590,169,1532788,2017
 0,0,0,0,0,0,0,0,0,0,04/13/2017,away,12560,251,Georgetown,9,True,7,5,2,win,219084,169,1532788,2017
-1,1,2,0,0,0,0,1,0,0,04/14/2017,away,12560,251,Georgetown,9,True,6,4,2,win,219334,169,1532788,2017
+1,2,1,0,0,0,0,1,0,0,04/14/2017,away,12560,251,Georgetown,9,True,6,4,2,win,219334,169,1532788,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,away,12560,251,Georgetown,9,True,11,9,2,win,219835,169,1532788,2017
 0,0,0,0,0,0,0,0,0,0,04/18/2017,home,12560,463,Nebraska,9,True,5,2,3,win,220597,169,1532788,2017
 0,0,0,0,0,0,0,0,0,0,04/21/2017,home,12560,739,Villanova,9,True,6,5,1,win,221173,169,1532788,2017

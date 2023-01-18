@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,219,Evansville,9,True,16,9,7,win,205857,1004,1766494,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,219,Evansville,10,True,10,9,1,win,206063,1004,1766494,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,219,Evansville,9,True,3,9,-6,loss,206473,1004,1766494,2017

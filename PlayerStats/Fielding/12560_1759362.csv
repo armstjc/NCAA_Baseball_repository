@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,392,Maryland,9,True,8,3,5,win,205939,47,1759362,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,7,Alabama St.,9,True,3,2,1,win,206246,47,1759362,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,neutral,12560,367,Louisville,9,True,4,10,-6,loss,206578,47,1759362,2017

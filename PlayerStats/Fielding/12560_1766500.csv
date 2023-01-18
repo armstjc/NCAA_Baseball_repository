@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,219,Evansville,9,True,16,9,7,win,205857,1004,1766500,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,219,Evansville,10,True,10,9,1,win,206063,1004,1766500,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,219,Evansville,9,True,3,9,-6,loss,206473,1004,1766500,2017
@@ -20,7 +20,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/17/2017,away,12560,2743,UIW,9,True,15,10,5,win,211812,1004,1766500,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,away,12560,2743,UIW,9,True,8,9,-1,loss,212120,1004,1766500,2017
 0,0,0,0,0,0,0,0,0,0,03/19/2017,away,12560,2743,UIW,9,True,3,5,-2,loss,212616,1004,1766500,2017
-1,2,1,0,0,0,0,0,0,0,03/21/2017,home,12560,654,Southeast Mo. St.,12,True,5,4,1,win,213019,1004,1766500,2017
+1,1,2,0,0,0,0,0,0,0,03/21/2017,home,12560,654,Southeast Mo. St.,12,True,5,4,1,win,213019,1004,1766500,2017
 0,0,0,0,0,0,0,0,0,0,03/22/2017,home,12560,432,Mississippi Val.,9,True,9,2,7,win,213224,1004,1766500,2017
 0,0,0,0,0,0,0,0,0,0,03/24/2017,home,12560,474,New Orleans,9,True,6,5,1,win,213472,1004,1766500,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,home,12560,474,New Orleans,9,True,4,11,-7,loss,213821,1004,1766500,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 1,1,0,0,0,0,0,0,0,0,02/24/2017,neutral,12560,222,Fairleigh Dickinson,9,True,16,8,8,win,207094,352,1655356,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,173,Davidson,9,True,4,7,-3,loss,207196,352,1655356,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,368,UMass Lowell,9,True,2,3,-1,loss,207843,352,1655356,2017

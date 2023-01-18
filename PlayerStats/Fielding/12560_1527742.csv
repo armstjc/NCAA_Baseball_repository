@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,490,NC State,9,True,0,4,-4,loss,205855,277,1527742,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,490,NC State,9,True,8,3,5,win,206062,277,1527742,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,490,NC State,9,True,1,8,-7,loss,206471,277,1527742,2017
@@ -33,7 +33,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/14/2017,away,12560,111,UC Riverside,9,True,2,9,-7,loss,219441,277,1527742,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,away,12560,111,UC Riverside,9,True,7,4,3,win,219918,277,1527742,2017
 0,0,0,0,0,0,1,0,0,0,04/22/2017,home,12560,108,UC Davis,9,True,4,11,-7,loss,221970,277,1527742,2017
-1,1,0,0,0,0,0,0,0,0,04/22/2017,home,12560,108,UC Davis,9,True,3,9,-6,loss,222005,277,1527742,2017
+1,0,1,0,0,0,0,0,0,0,04/22/2017,home,12560,108,UC Davis,9,True,3,9,-6,loss,222005,277,1527742,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,home,12560,108,UC Davis,9,True,3,1,2,win,222117,277,1527742,2017
 0,0,0,0,0,0,0,0,0,0,04/28/2017,away,12560,101,CSUN,9,True,7,8,-1,loss,223117,277,1527742,2017
 0,0,0,0,0,0,0,0,0,0,04/29/2017,away,12560,101,CSUN,9,True,9,4,5,win,223510,277,1527742,2017

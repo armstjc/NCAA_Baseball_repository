@@ -1,10 +1,10 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,164,UConn,9,True,3,5,-2,loss,205964,368,1543921,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,164,UConn,9,True,3,7,-4,loss,206291,368,1543921,2017
-0,2,4,2,0,0,2,0,1,0,02/18/2017,neutral,12560,164,UConn,9,True,1,7,-6,loss,206301,368,1543921,2017
+0,4,2,2,0,0,2,0,1,0,02/18/2017,neutral,12560,164,UConn,9,True,1,7,-6,loss,206301,368,1543921,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,neutral,12560,164,UConn,9,True,11,8,3,win,206603,368,1543921,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,away,12560,173,Davidson,9,True,5,8,-3,loss,206894,368,1543921,2017
-1,0,1,0,0,0,2,1,0,0,02/25/2017,neutral,12560,222,Fairleigh Dickinson,9,True,12,9,3,win,207510,368,1543921,2017
+1,1,0,0,0,0,2,1,0,0,02/25/2017,neutral,12560,222,Fairleigh Dickinson,9,True,12,9,3,win,207510,368,1543921,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,352,Lehigh,9,True,3,2,1,win,207843,368,1543921,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,175,Dayton,9,True,8,13,-5,loss,208425,368,1543921,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,513,Notre Dame,9,True,8,0,8,win,208810,368,1543921,2017
@@ -29,7 +29,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/12/2017,away,12560,400,Massachusetts,9,True,6,0,6,win,218926,368,1543921,2017
 0,0,0,0,0,0,0,0,0,0,04/14/2017,home,12560,683,Stony Brook,9,True,7,5,2,win,219533,368,1543921,2017
 0,0,0,0,0,0,0,0,0,0,04/14/2017,home,12560,683,Stony Brook,9,True,4,0,4,win,219639,368,1543921,2017
-1,1,2,0,0,0,1,0,0,0,04/15/2017,home,12560,683,Stony Brook,9,True,1,4,-3,loss,219888,368,1543921,2017
+1,2,1,0,0,0,1,0,0,0,04/15/2017,home,12560,683,Stony Brook,9,True,1,4,-3,loss,219888,368,1543921,2017
 0,0,0,0,0,0,0,0,0,0,04/18/2017,home,12560,80,Brown,9,True,7,8,-1,loss,220754,368,1543921,2017
 0,0,0,0,0,0,0,0,0,0,04/18/2017,home,12560,80,Brown,9,True,3,0,3,win,220775,368,1543921,2017
 0,0,0,0,0,0,0,0,0,0,04/21/2017,away,12560,391,UMBC,9,True,6,2,4,win,221325,368,1543921,2017

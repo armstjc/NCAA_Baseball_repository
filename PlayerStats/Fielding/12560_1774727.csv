@@ -1,6 +1,6 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,639,Siena,9,True,17,6,11,win,205821,128,1774727,2017
-2,2,0,0,0,0,0,0,0,0,02/18/2017,home,12560,639,Siena,9,True,3,0,3,win,206032,128,1774727,2017
+2,0,2,0,0,0,0,0,0,0,02/18/2017,home,12560,639,Siena,9,True,3,0,3,win,206032,128,1774727,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,639,Siena,9,True,7,2,5,win,206430,128,1774727,2017
 0,0,0,0,0,0,0,0,0,0,02/21/2017,home,12560,2711,North Florida,9,True,3,2,1,win,206725,128,1774727,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,381,Manhattan,9,True,13,3,10,win,206939,128,1774727,2017
@@ -14,7 +14,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/07/2017,home,12560,234,Florida St.,9,True,2,5,-3,loss,209556,128,1774727,2017
 0,0,0,0,0,0,0,0,0,0,03/08/2017,home,12560,234,Florida St.,9,True,0,5,-5,loss,209749,128,1774727,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,home,12560,129,Central Mich.,9,True,21,1,20,win,210120,128,1774727,2017
-2,4,2,0,0,0,2,0,0,0,03/11/2017,home,12560,129,Central Mich.,9,True,7,3,4,win,210812,128,1774727,2017
+2,2,4,0,0,0,2,0,0,0,03/11/2017,home,12560,129,Central Mich.,9,True,7,3,4,win,210812,128,1774727,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,home,12560,129,Central Mich.,9,True,5,4,1,win,210833,128,1774727,2017
 0,0,0,0,0,0,0,0,0,0,03/14/2017,home,12560,72,Bradley,9,True,12,9,3,win,211304,128,1774727,2017
 0,0,0,0,0,0,0,0,0,0,03/17/2017,home,12560,316,Jacksonville,9,True,4,0,4,win,211746,128,1774727,2017

@@ -1,10 +1,10 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,609,Saint Louis,9,True,3,6,-3,loss,205967,2743,1757379,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,513,Notre Dame,9,True,10,12,-2,loss,206276,2743,1757379,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,342,Lafayette,11,True,4,3,1,win,206377,2743,1757379,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,342,Lafayette,9,True,6,5,1,win,206619,2743,1757379,2017
 0,0,0,0,0,0,0,0,0,0,02/22/2017,home,12560,553,Prairie View,9,True,11,1,10,win,206849,2743,1757379,2017
-2,2,0,0,0,0,0,0,0,0,02/24/2017,home,12560,129,Central Mich.,9,True,2,5,-3,loss,207008,2743,1757379,2017
+2,0,2,0,0,0,0,0,0,0,02/24/2017,home,12560,129,Central Mich.,9,True,2,5,-3,loss,207008,2743,1757379,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,home,12560,129,Central Mich.,9,True,5,25,-20,loss,207379,2743,1757379,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,home,12560,129,Central Mich.,9,True,10,4,6,win,207472,2743,1757379,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,home,12560,129,Central Mich.,10,True,11,10,1,win,207764,2743,1757379,2017

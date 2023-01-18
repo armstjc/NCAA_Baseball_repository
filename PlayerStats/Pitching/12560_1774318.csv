@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,7,3,3,0,0,0,12,12,0,0,0,0,1,0,0,0,0,0,0,0,2,3,0,0,0,3,0,02/24/2017,away,12560,472,New Mexico St.,9,True,2,13,-11,loss,207024,450,1774318,2017
+0,0,1.0,0.0,2,2,2,2,0,0,7,4,0,0,0,0,0,0,0,0,0,0,1,25,1,2,0,0,0,3,0,03/08/2017,away,12560,193,Duke,9,True,3,10,-7,loss,209776,450,1774318,2017
+0,0,3.0,0.0,1,0,0,1,2,0,13,12,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,3,0,04/13/2017,home,12560,127,Central Conn. St.,9,True,2,7,-5,loss,219264,450,1774318,2017
+0,1,3.1,0.0,6,6,3,3,1,0,20,15,0,0,0,1,1,0,0,0,0,1,1,0,4,5,0,1,0,1,1,04/18/2017,home,12560,251,Georgetown,9,True,2,13,-11,loss,220847,450,1774318,2017

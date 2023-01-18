@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,817,Youngstown St.,9,True,9,2,7,win,205825,43,1867211,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,299,Illinois St.,9,True,9,4,5,win,206036,43,1867211,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,305,Indiana St.,9,True,9,12,-3,loss,206434,43,1867211,2017
@@ -14,7 +14,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/10/2017,home,12560,315,Jacksonville St.,9,True,8,4,4,win,210122,43,1867211,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,home,12560,315,Jacksonville St.,9,True,4,0,4,win,210481,43,1867211,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,home,12560,315,Jacksonville St.,14,True,6,5,1,win,210890,43,1867211,2017
-1,1,0,0,0,0,0,0,0,0,03/15/2017,away,12560,694,Tennessee,9,True,4,18,-14,loss,211454,43,1867211,2017
+1,0,1,0,0,0,0,0,0,0,03/15/2017,away,12560,694,Tennessee,9,True,4,18,-14,loss,211454,43,1867211,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,away,12560,454,Murray St.,9,True,8,5,3,win,212247,43,1867211,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,away,12560,454,Murray St.,9,True,6,8,-2,loss,212429,43,1867211,2017
 0,0,0,0,0,0,0,0,0,0,03/19/2017,away,12560,454,Murray St.,9,True,12,17,-5,loss,212523,43,1867211,2017
@@ -33,7 +33,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/13/2017,away,12560,202,Eastern Ky.,11,True,4,5,-1,loss,219061,43,1867211,2017
 0,0,0,0,0,0,0,0,0,0,04/14/2017,away,12560,202,Eastern Ky.,13,True,6,7,-1,loss,219302,43,1867211,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,away,12560,202,Eastern Ky.,9,True,14,10,4,win,219809,43,1867211,2017
-2,2,0,0,0,0,0,0,0,0,04/19/2017,away,12560,772,Western Ky.,9,True,7,3,4,win,220865,43,1867211,2017
+2,0,2,0,0,0,0,0,0,0,04/19/2017,away,12560,772,Western Ky.,9,True,7,3,4,win,220865,43,1867211,2017
 0,0,0,0,0,0,0,0,0,0,04/21/2017,home,12560,444,Morehead St.,9,True,3,1,2,win,221187,43,1867211,2017
 0,0,0,0,0,0,0,0,0,0,04/21/2017,home,12560,444,Morehead St.,9,True,3,12,-9,loss,221416,43,1867211,2017
 0,0,0,0,0,0,0,0,0,0,04/25/2017,home,12560,772,Western Ky.,9,True,17,22,-5,loss,222630,43,1867211,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,503,NIU,9,True,11,1,10,win,205962,136,1879929,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,649,South Dakota St.,9,True,1,3,-2,loss,206274,136,1879929,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,503,NIU,12,True,7,6,1,win,206370,136,1879929,2017

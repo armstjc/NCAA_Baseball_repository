@@ -1,15 +1,15 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,363,Longwood,9,True,11,3,8,win,207602,14,1878152,2017
-1,2,1,0,0,0,0,1,0,0,02/25/2017,away,12560,363,Longwood,9,True,6,11,-5,loss,207606,14,1878152,2017
+1,1,2,0,0,0,0,1,0,0,02/25/2017,away,12560,363,Longwood,9,True,6,11,-5,loss,207606,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,away,12560,363,Longwood,9,True,13,6,7,win,207727,14,1878152,2017
 0,1,1,0,0,0,0,0,0,0,03/03/2017,neutral,12560,629,San Francisco,9,True,11,12,-1,loss,208428,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,792,Winthrop,9,True,3,2,1,win,208429,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,149,Coastal Carolina,9,True,0,14,-14,loss,208601,14,1878152,2017
-1,1,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,792,Winthrop,9,True,7,9,-2,loss,209233,14,1878152,2017
+1,0,1,0,0,0,0,0,0,0,03/05/2017,neutral,12560,792,Winthrop,9,True,7,9,-2,loss,209233,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,03/09/2017,away,12560,477,New York Tech,9,True,8,1,7,win,209973,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,03/09/2017,away,12560,477,New York Tech,9,True,0,3,-3,loss,209976,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,neutral,12560,283,Hofstra,9,True,7,6,1,win,212378,14,1878152,2017
-1,1,0,0,0,0,1,0,0,0,03/18/2017,neutral,12560,283,Hofstra,9,True,4,3,1,win,212472,14,1878152,2017
+1,0,1,0,0,0,1,0,0,0,03/18/2017,neutral,12560,283,Hofstra,9,True,4,3,1,win,212472,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,03/19/2017,neutral,12560,283,Hofstra,9,True,3,1,2,win,212731,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,03/21/2017,away,12560,80,Brown,9,True,5,13,-8,loss,213084,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,away,12560,391,UMBC,9,True,6,7,-1,loss,213912,14,1878152,2017
@@ -43,7 +43,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,05/12/2017,away,12560,272,Hartford,10,True,3,4,-1,loss,226224,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,05/12/2017,away,12560,272,Hartford,9,True,6,3,3,win,226236,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,05/13/2017,away,12560,272,Hartford,9,True,7,4,3,win,226414,14,1878152,2017
-1,1,0,0,0,0,0,0,0,0,05/16/2017,home,12560,590,Sacred Heart,9,True,14,13,1,win,226683,14,1878152,2017
+1,0,1,0,0,0,0,0,0,0,05/16/2017,home,12560,590,Sacred Heart,9,True,14,13,1,win,226683,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,05/19/2017,away,12560,380,Maine,9,True,7,6,1,win,227008,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,05/19/2017,away,12560,380,Maine,10,True,3,2,1,win,227014,14,1878152,2017
 0,0,0,0,0,0,0,0,0,0,05/20/2017,away,12560,380,Maine,9,True,1,2,-1,loss,227167,14,1878152,2017

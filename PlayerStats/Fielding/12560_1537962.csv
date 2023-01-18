@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,67,Boston College,9,True,2,1,1,win,205905,61,1537962,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,67,Boston College,9,True,6,5,1,win,206094,61,1537962,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,67,Boston College,9,True,3,2,1,win,206532,61,1537962,2017
@@ -13,7 +13,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/07/2017,home,12560,229,Fla. Atlantic,9,True,6,12,-6,loss,209615,61,1537962,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,home,12560,228,Florida A&M,9,True,6,11,-5,loss,210364,61,1537962,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,home,12560,228,Florida A&M,11,True,3,4,-1,loss,210596,61,1537962,2017
-4,4,0,0,0,0,0,0,1,0,03/11/2017,home,12560,228,Florida A&M,9,True,5,1,4,win,210657,61,1537962,2017
+4,0,4,0,0,0,0,0,1,0,03/11/2017,home,12560,228,Florida A&M,9,True,5,1,4,win,210657,61,1537962,2017
 0,0,0,0,0,0,0,0,0,0,03/14/2017,home,12560,220,Fairfield,9,True,9,5,4,win,211352,61,1537962,2017
 0,0,0,0,0,0,0,0,0,0,03/15/2017,home,12560,220,Fairfield,9,True,7,5,2,win,211507,61,1537962,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,home,12560,489,N.C. Central,9,True,15,5,10,win,212232,61,1537962,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,509,Northwestern,9,True,3,1,2,win,205988,28,1647502,2017
 2,2,0,0,0,0,0,0,0,0,02/17/2017,home,12560,509,Northwestern,9,True,4,3,1,win,205992,28,1647502,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,509,Northwestern,9,True,6,2,4,win,206049,28,1647502,2017

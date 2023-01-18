@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 7,0,8,1,0,0,0,0,0,0,02/17/2017,away,12560,522,Oklahoma,9,True,2,6,-4,loss,205861,99,1647324,2017
 4,1,5,0,0,1,0,0,0,0,02/18/2017,away,12560,522,Oklahoma,9,True,8,3,5,win,206066,99,1647324,2017
 6,0,6,0,0,0,0,0,0,0,02/19/2017,away,12560,522,Oklahoma,9,True,2,4,-2,loss,206477,99,1647324,2017

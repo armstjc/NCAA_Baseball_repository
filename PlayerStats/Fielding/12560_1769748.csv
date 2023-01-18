@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,721,Air Force,9,True,7,8,-1,loss,205934,725,1769748,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,365,LSU,9,True,0,9,-9,loss,206333,725,1769748,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,365,LSU,9,True,0,6,-6,loss,206349,725,1769748,2017

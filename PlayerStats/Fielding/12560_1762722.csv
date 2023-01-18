@@ -1,7 +1,7 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,165,Coppin St.,9,True,14,3,11,win,208454,275,1762722,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,342,Lafayette,9,True,13,1,12,win,208455,275,1762722,2017
-1,3,2,0,0,0,2,2,0,0,03/05/2017,neutral,12560,165,Coppin St.,9,True,6,2,4,win,209251,275,1762722,2017
+1,2,3,0,0,0,2,2,0,0,03/05/2017,neutral,12560,165,Coppin St.,9,True,6,2,4,win,209251,275,1762722,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,342,Lafayette,9,True,6,0,6,win,209382,275,1762722,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,away,12560,316,Jacksonville,9,True,1,12,-11,loss,210220,275,1762722,2017
 0,1,1,0,0,0,0,0,0,0,03/11/2017,away,12560,316,Jacksonville,9,True,4,1,3,win,210598,275,1762722,2017
@@ -35,9 +35,9 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,80,Brown,9,True,3,2,1,win,221550,275,1762722,2017
 0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,80,Brown,9,True,3,7,-4,loss,221728,275,1762722,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,away,12560,80,Brown,9,True,4,3,1,win,222201,275,1762722,2017
-1,4,3,0,0,0,0,0,0,0,04/23/2017,away,12560,80,Brown,11,True,7,6,1,win,222299,275,1762722,2017
+1,3,4,0,0,0,0,0,0,0,04/23/2017,away,12560,80,Brown,11,True,7,6,1,win,222299,275,1762722,2017
 0,0,0,0,0,0,0,0,0,0,04/27/2017,away,12560,368,UMass Lowell,9,True,4,3,1,win,222976,275,1762722,2017
 0,0,0,0,0,0,0,0,0,0,04/29/2017,away,12560,172,Dartmouth,9,True,1,2,-1,loss,223642,275,1762722,2017
 0,0,0,0,0,0,0,0,0,0,04/29/2017,away,12560,172,Dartmouth,9,True,7,6,1,win,223818,275,1762722,2017
 0,0,0,0,0,0,0,0,0,0,04/30/2017,home,12560,172,Dartmouth,9,True,0,3,-3,loss,224181,275,1762722,2017
-1,3,1,1,0,0,0,1,0,0,04/30/2017,home,12560,172,Dartmouth,9,True,8,7,1,win,224222,275,1762722,2017
+1,1,3,1,0,0,0,1,0,0,04/30/2017,home,12560,172,Dartmouth,9,True,8,7,1,win,224222,275,1762722,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,363,Longwood,9,True,11,3,8,win,207602,14,1771130,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,363,Longwood,9,True,6,11,-5,loss,207606,14,1771130,2017
 0,1,1,0,0,0,0,0,1,0,02/26/2017,away,12560,363,Longwood,9,True,13,6,7,win,207727,14,1771130,2017
@@ -39,12 +39,12 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,05/02/2017,home,12560,381,Manhattan,9,True,7,3,4,win,224460,14,1771130,2017
 0,0,0,0,0,0,0,1,0,0,05/03/2017,home,12560,439,Monmouth,9,True,4,3,1,win,224576,14,1771130,2017
 0,0,0,0,0,0,0,0,0,0,05/06/2017,home,12560,683,Stony Brook,11,True,3,2,1,win,225161,14,1771130,2017
-0,0,1,1,0,0,0,0,0,0,05/06/2017,home,12560,683,Stony Brook,9,True,4,2,2,win,225264,14,1771130,2017
+0,1,0,1,0,0,0,0,0,0,05/06/2017,home,12560,683,Stony Brook,9,True,4,2,2,win,225264,14,1771130,2017
 0,0,0,0,0,0,0,0,0,0,05/12/2017,away,12560,272,Hartford,10,True,3,4,-1,loss,226224,14,1771130,2017
 0,0,0,0,0,0,0,0,0,0,05/12/2017,away,12560,272,Hartford,9,True,6,3,3,win,226236,14,1771130,2017
 0,0,0,0,0,0,0,0,0,0,05/13/2017,away,12560,272,Hartford,9,True,7,4,3,win,226414,14,1771130,2017
 0,0,0,0,0,0,0,0,0,0,05/16/2017,home,12560,590,Sacred Heart,9,True,14,13,1,win,226683,14,1771130,2017
-0,0,1,1,0,0,0,0,0,0,05/19/2017,away,12560,380,Maine,9,True,7,6,1,win,227008,14,1771130,2017
+0,1,0,1,0,0,0,0,0,0,05/19/2017,away,12560,380,Maine,9,True,7,6,1,win,227008,14,1771130,2017
 0,0,0,0,0,0,0,0,0,0,05/19/2017,away,12560,380,Maine,10,True,3,2,1,win,227014,14,1771130,2017
 0,0,0,0,0,0,0,0,0,0,05/20/2017,away,12560,380,Maine,9,True,1,2,-1,loss,227167,14,1771130,2017
 0,0,0,0,0,0,0,0,0,0,05/24/2017,neutral,12560,380,Maine,9,True,3,0,3,win,227360,14,1771130,2017

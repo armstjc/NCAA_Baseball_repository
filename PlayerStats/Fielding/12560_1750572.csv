@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 6,0,6,0,0,0,3,0,0,0,02/17/2017,away,12560,527,Oral Roberts,9,True,4,10,-6,loss,206000,32,1750572,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,527,Oral Roberts,13,True,3,4,-1,loss,206386,32,1750572,2017
 8,0,8,0,0,0,1,0,0,0,02/19/2017,away,12560,527,Oral Roberts,9,True,3,8,-5,loss,206680,32,1750572,2017

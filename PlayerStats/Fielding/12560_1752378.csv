@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,342,Lafayette,9,True,2,10,-8,loss,205965,513,1752378,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,2743,UIW,9,True,12,10,2,win,206276,513,1752378,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,609,Saint Louis,9,True,6,8,-2,loss,206271,513,1752378,2017

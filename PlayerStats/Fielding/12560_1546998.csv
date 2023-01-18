@@ -1,10 +1,10 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,726,Navy,9,True,5,2,3,win,208658,167,1546998,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,726,Navy,9,True,7,8,-1,loss,208741,167,1546998,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,away,12560,726,Navy,9,True,8,5,3,win,209073,167,1546998,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,away,12560,248,George Mason,9,True,7,3,4,win,210190,167,1546998,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,away,12560,248,George Mason,9,True,4,11,-7,loss,210524,167,1546998,2017
-1,1,2,0,0,0,0,1,0,0,03/12/2017,away,12560,248,George Mason,9,True,9,3,6,win,210943,167,1546998,2017
+1,2,1,0,0,0,0,1,0,0,03/12/2017,away,12560,248,George Mason,9,True,9,3,6,win,210943,167,1546998,2017
 0,0,0,0,0,0,0,0,0,0,03/17/2017,away,12560,575,Richmond,10,True,7,8,-1,loss,211734,167,1546998,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,home,12560,115,Campbell,9,True,3,2,1,win,212454,167,1546998,2017
 0,1,1,0,0,0,3,0,0,0,03/19/2017,neutral,12560,416,Michigan St.,9,True,2,1,1,win,212730,167,1546998,2017
@@ -27,7 +27,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/15/2017,away,12560,158,Columbia,9,True,8,7,1,win,220021,167,1546998,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,away,12560,158,Columbia,9,True,12,6,6,win,220176,167,1546998,2017
 0,0,0,0,0,0,0,0,0,0,04/16/2017,away,12560,158,Columbia,9,True,9,5,4,win,220430,167,1546998,2017
-0,0,1,1,0,0,1,1,0,0,04/16/2017,away,12560,158,Columbia,9,True,7,8,-1,loss,220438,167,1546998,2017
+0,1,0,1,0,0,1,1,0,0,04/16/2017,away,12560,158,Columbia,9,True,7,8,-1,loss,220438,167,1546998,2017
 0,0,0,0,0,0,0,0,0,0,04/22/2017,home,12560,540,Penn,9,True,0,5,-5,loss,221595,167,1546998,2017
 0,0,0,0,0,0,0,0,0,0,04/22/2017,home,12560,540,Penn,9,True,2,0,2,win,221774,167,1546998,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,home,12560,540,Penn,9,True,0,4,-4,loss,222232,167,1546998,2017
@@ -36,4 +36,4 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/28/2017,away,12560,554,Princeton,9,True,7,9,-2,loss,223231,167,1546998,2017
 0,0,0,0,0,0,0,0,0,0,04/28/2017,away,12560,554,Princeton,9,True,5,9,-4,loss,223282,167,1546998,2017
 0,0,0,0,0,0,0,0,0,0,04/30/2017,home,12560,554,Princeton,9,True,5,1,4,win,224191,167,1546998,2017
-3,2,5,0,0,0,0,0,0,0,04/30/2017,home,12560,554,Princeton,9,True,13,1,12,win,224232,167,1546998,2017
+3,5,2,0,0,0,0,0,0,0,04/30/2017,home,12560,554,Princeton,9,True,13,1,12,win,224232,167,1546998,2017

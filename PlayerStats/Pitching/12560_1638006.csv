@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.1,0.0,4,1,0,2,4,0,20,18,1,0,0,0,0,0,0,0,0,0,0,88,6,4,1,0,0,1,2,02/18/2017,away,12560,19651,High Point,9,True,4,2,2,win,206230,471,1638006,2017
+0,1,4.0,0.0,8,3,3,4,3,0,23,19,2,0,0,0,1,0,0,0,0,0,0,84,5,3,0,0,0,1,1,02/25/2017,neutral,12560,308,Purdue Fort Wayne,9,True,3,5,-2,loss,207612,471,1638006,2017
+0,1,6.0,0.0,5,2,2,3,4,0,26,23,2,0,0,0,0,0,0,0,0,0,0,0,4,10,0,0,0,1,0,03/04/2017,away,12560,489,N.C. Central,9,True,3,4,-1,loss,208974,471,1638006,2017
+0,1,4.0,0.0,7,4,4,2,2,0,22,18,2,0,0,0,0,1,0,0,0,0,1,82,6,4,0,1,0,1,0,03/10/2017,away,12560,249,George Washington,9,True,2,8,-6,loss,210189,471,1638006,2017

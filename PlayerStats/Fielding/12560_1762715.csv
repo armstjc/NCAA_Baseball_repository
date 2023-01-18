@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 4,4,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,165,Coppin St.,9,True,14,3,11,win,208454,275,1762715,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,342,Lafayette,9,True,13,1,12,win,208455,275,1762715,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,165,Coppin St.,9,True,6,2,4,win,209251,275,1762715,2017

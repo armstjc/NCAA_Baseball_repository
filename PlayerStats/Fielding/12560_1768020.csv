@@ -1,9 +1,9 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,9,UAB,9,True,2,3,-1,loss,205818,169,1768020,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,9,UAB,9,True,1,5,-4,loss,206317,169,1768020,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,away,12560,9,UAB,9,True,1,14,-13,loss,206427,169,1768020,2017
-2,0,2,0,0,0,0,0,0,0,02/24/2017,away,12560,631,Santa Clara,9,True,3,1,2,win,206900,169,1768020,2017
-3,0,3,0,0,0,0,0,0,0,02/25/2017,neutral,12560,418,Michigan,10,True,6,7,-1,loss,207546,169,1768020,2017
+2,2,0,0,0,0,0,0,0,0,02/24/2017,away,12560,631,Santa Clara,9,True,3,1,2,win,206900,169,1768020,2017
+3,3,0,0,0,0,0,0,0,0,02/25/2017,neutral,12560,418,Michigan,10,True,6,7,-1,loss,207546,169,1768020,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,609,Saint Louis,9,True,3,7,-4,loss,207870,169,1768020,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,away,12560,2,Abilene Christian,10,True,2,3,-1,loss,208393,169,1768020,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,2,Abilene Christian,10,True,7,8,-1,loss,208617,169,1768020,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/19/2017,neutral,12560,127,Central Conn. St.,9,True,2,3,-1,loss,206683,285,1771479,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,away,12560,37,Auburn,9,True,0,7,-7,loss,207004,285,1771479,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,37,Auburn,9,True,0,4,-4,loss,207286,285,1771479,2017
@@ -7,7 +7,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/05/2017,away,12560,111,UC Riverside,9,True,2,5,-3,loss,209115,285,1771479,2017
 0,0,0,0,0,0,0,0,0,0,03/06/2017,away,12560,111,UC Riverside,9,True,6,14,-8,loss,209427,285,1771479,2017
 0,0,0,0,0,0,0,0,0,0,03/07/2017,away,12560,111,UC Riverside,9,True,5,4,1,win,209607,285,1771479,2017
-0,1,0,1,0,0,2,0,0,0,03/08/2017,away,12560,101,CSUN,9,True,5,10,-5,loss,209767,285,1771479,2017
+0,0,1,1,0,0,2,0,0,0,03/08/2017,away,12560,101,CSUN,9,True,5,10,-5,loss,209767,285,1771479,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,away,12560,657,Southern California,9,True,3,6,-3,loss,210114,285,1771479,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,away,12560,657,Southern California,9,True,6,4,2,win,210475,285,1771479,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,away,12560,657,Southern California,9,True,2,5,-3,loss,210883,285,1771479,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,99,Long Beach St.,9,True,6,2,4,win,205861,522,1877358,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,99,Long Beach St.,9,True,3,8,-5,loss,206066,522,1877358,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,99,Long Beach St.,9,True,4,2,2,win,206477,522,1877358,2017

@@ -1,10 +1,10 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,439,Monmouth,9,True,16,5,11,win,205864,229,1772150,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,439,Monmouth,9,True,6,1,5,win,206068,229,1772150,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,439,Monmouth,9,True,12,10,2,win,206480,229,1772150,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,306,Indiana,9,True,4,8,-4,loss,206982,229,1772150,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,home,12560,306,Indiana,9,True,6,2,4,win,207271,229,1772150,2017
-1,1,0,0,0,0,0,0,0,0,02/26/2017,home,12560,306,Indiana,11,True,6,6,0,tie,207738,229,1772150,2017
+1,0,1,0,0,0,0,0,0,0,02/26/2017,home,12560,306,Indiana,11,True,6,6,0,tie,207738,229,1772150,2017
 0,0,0,0,0,0,0,0,0,0,02/28/2017,away,12560,28755,FGCU,9,True,5,7,-2,loss,208042,229,1772150,2017
 0,0,0,0,0,0,0,0,0,0,03/01/2017,home,12560,415,Miami (FL),9,True,2,5,-3,loss,208142,229,1772150,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,home,12560,301,Illinois,9,True,11,10,1,win,208333,229,1772150,2017
@@ -51,7 +51,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,05/16/2017,home,12560,128,UCF,9,True,9,4,5,win,226668,229,1772150,2017
 0,0,0,0,0,0,0,0,0,0,05/18/2017,home,12560,523,Old Dominion,9,True,6,1,5,win,226784,229,1772150,2017
 0,0,0,0,0,0,0,0,0,0,05/19/2017,home,12560,523,Old Dominion,9,True,8,9,-1,loss,226960,229,1772150,2017
-1,1,0,0,0,0,0,0,0,0,05/20/2017,home,12560,523,Old Dominion,9,True,3,0,3,win,227165,229,1772150,2017
+1,0,1,0,0,0,0,0,0,0,05/20/2017,home,12560,523,Old Dominion,9,True,3,0,3,win,227165,229,1772150,2017
 0,0,0,0,0,0,0,0,0,0,05/24/2017,neutral,12560,574,Rice,9,True,3,5,-2,loss,227345,229,1772150,2017
 0,0,0,0,0,0,0,0,0,0,05/25/2017,neutral,12560,231,FIU,9,True,8,4,4,win,227408,229,1772150,2017
 0,0,0,0,0,0,0,0,0,0,05/26/2017,neutral,12560,523,Old Dominion,9,True,6,2,4,win,227496,229,1772150,2017

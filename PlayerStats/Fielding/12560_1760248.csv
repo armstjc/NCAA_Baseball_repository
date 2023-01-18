@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,299,Illinois St.,9,True,7,17,-10,loss,205937,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,817,Youngstown St.,9,True,14,4,10,win,206364,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,away,12560,43,Austin Peay,9,True,12,9,3,win,206434,305,1760248,2017
@@ -9,7 +9,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/03/2017,away,12560,30024,Utah Valley,9,True,6,7,-1,loss,208240,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,30024,Utah Valley,9,True,10,5,5,win,208913,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,30024,Utah Valley,9,True,11,8,3,win,208929,305,1760248,2017
-1,1,0,0,0,0,0,0,0,0,03/05/2017,away,12560,30024,Utah Valley,9,True,7,9,-2,loss,208999,305,1760248,2017
+1,0,1,0,0,0,0,0,0,0,03/05/2017,away,12560,30024,Utah Valley,9,True,7,9,-2,loss,208999,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,03/08/2017,away,12560,1356,Seattle U,9,True,0,4,-4,loss,209820,305,1760248,2017
 0,1,1,0,0,0,0,0,0,0,03/10/2017,away,12560,756,Washington,9,True,4,2,2,win,210149,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,away,12560,756,Washington,9,True,0,8,-8,loss,210564,305,1760248,2017
@@ -18,7 +18,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/17/2017,home,12560,514,Oakland,9,True,8,4,4,win,211787,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,home,12560,514,Oakland,9,True,9,5,4,win,212096,305,1760248,2017
 0,1,1,0,0,0,0,1,0,0,03/19/2017,home,12560,514,Oakland,9,True,5,4,1,win,212584,305,1760248,2017
-1,2,1,0,0,0,0,0,0,0,03/21/2017,home,12560,201,Eastern Ill.,9,True,2,1,1,win,213018,305,1760248,2017
+1,1,2,0,0,0,0,0,0,0,03/21/2017,home,12560,201,Eastern Ill.,9,True,2,1,1,win,213018,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,03/29/2017,away,12560,306,Indiana,9,True,7,3,4,win,215000,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,03/31/2017,away,12560,301,Illinois,9,True,4,6,-2,loss,215316,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,04/01/2017,away,12560,301,Illinois,9,True,1,2,-1,loss,215528,305,1760248,2017
@@ -46,7 +46,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,05/12/2017,away,12560,669,Missouri St.,9,True,4,14,-10,loss,226101,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,05/13/2017,away,12560,669,Missouri St.,9,True,1,4,-3,loss,226352,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,05/14/2017,away,12560,669,Missouri St.,9,True,2,5,-3,loss,226561,305,1760248,2017
-1,1,0,0,0,0,0,0,0,0,05/16/2017,home,12560,47,Ball St.,9,True,8,2,6,win,226664,305,1760248,2017
+1,0,1,0,0,0,0,0,0,0,05/16/2017,home,12560,47,Ball St.,9,True,8,2,6,win,226664,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,05/18/2017,home,12560,782,Wichita St.,9,True,13,6,7,win,226780,305,1760248,2017
 0,1,1,0,0,0,0,0,0,0,05/19/2017,home,12560,782,Wichita St.,9,True,2,5,-3,loss,226958,305,1760248,2017
 0,0,0,0,0,0,0,0,0,0,05/20/2017,home,12560,782,Wichita St.,9,True,5,3,2,win,227163,305,1760248,2017

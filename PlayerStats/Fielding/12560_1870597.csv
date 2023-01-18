@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,129,Central Mich.,9,True,18,6,12,win,205846,198,1870597,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,129,Central Mich.,9,True,7,8,-1,loss,206052,198,1870597,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,129,Central Mich.,10,True,7,6,1,win,206460,198,1870597,2017
@@ -50,7 +50,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,05/13/2017,home,12560,625,Samford,9,True,10,8,2,win,226442,198,1870597,2017
 0,0,0,0,0,0,0,0,0,0,05/14/2017,home,12560,625,Samford,9,True,7,6,1,win,226513,198,1870597,2017
 0,0,0,0,0,0,0,0,0,0,05/16/2017,home,12560,456,UNC Asheville,9,True,4,6,-2,loss,226661,198,1870597,2017
-1,0,1,0,0,0,0,0,0,0,05/18/2017,away,12560,741,VMI,9,True,7,5,2,win,226750,198,1870597,2017
+1,1,0,0,0,0,0,0,0,0,05/18/2017,away,12560,741,VMI,9,True,7,5,2,win,226750,198,1870597,2017
 0,0,0,0,0,0,0,0,0,0,05/19/2017,away,12560,741,VMI,9,True,14,12,2,win,226929,198,1870597,2017
 0,0,0,0,0,0,0,0,0,0,05/20/2017,away,12560,741,VMI,9,True,9,3,6,win,227133,198,1870597,2017
 0,0,0,0,0,0,0,0,0,0,05/24/2017,neutral,12560,769,Western Caro.,9,True,8,6,2,win,227354,198,1870597,2017

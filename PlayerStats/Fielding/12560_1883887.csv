@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,810,Wright St.,9,True,4,6,-2,loss,205872,147,1883887,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,810,Wright St.,9,True,6,2,4,win,206071,147,1883887,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,810,Wright St.,9,True,2,9,-7,loss,206487,147,1883887,2017

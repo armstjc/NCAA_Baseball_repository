@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,473,New Mexico,9,True,4,8,-4,loss,205806,62,1770783,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,473,New Mexico,9,True,4,10,-6,loss,206019,62,1770783,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,away,12560,473,New Mexico,9,True,4,11,-7,loss,206414,62,1770783,2017
@@ -10,7 +10,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,742,Virginia Tech,11,True,6,5,1,win,208740,62,1770783,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,away,12560,742,Virginia Tech,9,True,2,1,1,win,209070,62,1770783,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,neutral,12560,368,UMass Lowell,9,True,1,0,1,win,214319,62,1770783,2017
-1,1,0,0,0,0,0,0,0,0,03/25/2017,neutral,12560,368,UMass Lowell,9,True,2,5,-3,loss,214333,62,1770783,2017
+1,0,1,0,0,0,0,0,0,0,03/25/2017,neutral,12560,368,UMass Lowell,9,True,2,5,-3,loss,214333,62,1770783,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,away,12560,127,Central Conn. St.,9,True,3,0,3,win,216396,62,1770783,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,away,12560,127,Central Conn. St.,10,True,1,2,-1,loss,216461,62,1770783,2017
 0,0,0,0,0,0,0,0,0,0,04/05/2017,away,12560,83,Bucknell,9,True,12,0,12,win,216906,62,1770783,2017

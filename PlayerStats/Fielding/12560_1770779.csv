@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,473,New Mexico,9,True,4,8,-4,loss,205806,62,1770779,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,473,New Mexico,9,True,4,10,-6,loss,206019,62,1770779,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,away,12560,473,New Mexico,9,True,4,11,-7,loss,206414,62,1770779,2017
@@ -26,11 +26,11 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/22/2017,home,12560,380,Maine,9,True,9,3,6,win,221643,62,1770779,2017
 0,0,0,0,0,0,0,0,0,0,04/22/2017,home,12560,380,Maine,9,True,7,4,3,win,221821,62,1770779,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,home,12560,380,Maine,9,True,3,2,1,win,222146,62,1770779,2017
-0,1,0,1,0,0,0,0,0,0,04/26/2017,home,12560,167,Cornell,9,True,2,10,-8,loss,222835,62,1770779,2017
+0,0,1,1,0,0,0,0,0,0,04/26/2017,home,12560,167,Cornell,9,True,2,10,-8,loss,222835,62,1770779,2017
 0,0,0,0,0,0,0,0,0,0,04/29/2017,home,12560,127,Central Conn. St.,9,True,6,1,5,win,223698,62,1770779,2017
 0,0,0,0,0,0,0,0,0,0,04/29/2017,home,12560,127,Central Conn. St.,9,True,2,3,-1,loss,224026,62,1770779,2017
 0,0,0,0,0,0,0,0,0,0,04/30/2017,home,12560,127,Central Conn. St.,11,True,3,2,1,win,224120,62,1770779,2017
-1,2,1,0,0,0,0,1,0,0,05/02/2017,home,12560,596,St. Bonaventure,9,True,10,6,4,win,224442,62,1770779,2017
+1,1,2,0,0,0,0,1,0,0,05/02/2017,home,12560,596,St. Bonaventure,9,True,10,6,4,win,224442,62,1770779,2017
 0,0,0,0,0,0,0,0,0,0,05/06/2017,home,12560,368,UMass Lowell,9,True,6,2,4,win,225142,62,1770779,2017
 0,0,0,0,0,0,0,0,0,0,05/06/2017,home,12560,368,UMass Lowell,9,True,6,5,1,win,225245,62,1770779,2017
 0,0,0,0,0,0,0,0,0,0,05/07/2017,home,12560,368,UMass Lowell,9,True,5,2,3,win,225477,62,1770779,2017

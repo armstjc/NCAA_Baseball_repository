@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,572,Rhode Island,9,True,12,1,11,win,205952,669,1873656,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,683,Stony Brook,9,True,7,0,7,win,206265,669,1873656,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,away,12560,402,McNeese,9,True,3,4,-1,loss,206411,669,1873656,2017
@@ -35,15 +35,15 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/14/2017,away,12560,473,New Mexico,9,True,5,9,-4,loss,219299,669,1873656,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,away,12560,473,New Mexico,9,True,8,0,8,win,219806,669,1873656,2017
 0,0,0,0,0,0,0,0,0,0,04/17/2017,away,12560,609,Saint Louis,9,True,15,8,7,win,220475,669,1873656,2017
-7,1,9,1,0,0,0,0,1,0,04/18/2017,away,12560,434,Missouri,9,True,5,3,2,win,220720,669,1873656,2017
-10,1,11,0,0,0,0,0,1,0,04/22/2017,home,12560,782,Wichita St.,9,True,12,5,7,win,221532,669,1873656,2017
-10,0,11,1,0,0,0,0,1,0,04/23/2017,home,12560,782,Wichita St.,9,True,13,4,9,win,222183,669,1873656,2017
-8,2,10,0,0,0,0,0,3,0,04/23/2017,home,12560,782,Wichita St.,9,True,8,1,7,win,222497,669,1873656,2017
+7,9,1,1,0,0,0,0,1,0,04/18/2017,away,12560,434,Missouri,9,True,5,3,2,win,220720,669,1873656,2017
+10,11,1,0,0,0,0,0,1,0,04/22/2017,home,12560,782,Wichita St.,9,True,12,5,7,win,221532,669,1873656,2017
+10,11,0,1,0,0,0,0,1,0,04/23/2017,home,12560,782,Wichita St.,9,True,13,4,9,win,222183,669,1873656,2017
+8,10,2,0,0,0,0,0,3,0,04/23/2017,home,12560,782,Wichita St.,9,True,8,1,7,win,222497,669,1873656,2017
 0,0,0,0,0,0,0,0,0,0,04/25/2017,home,12560,434,Missouri,9,True,5,1,4,win,222706,669,1873656,2017
 0,0,0,0,0,0,0,0,0,0,04/28/2017,away,12560,219,Evansville,9,True,13,8,5,win,223174,669,1873656,2017
 0,0,0,0,0,0,0,0,0,0,04/29/2017,away,12560,219,Evansville,9,True,9,5,4,win,223547,669,1873656,2017
 0,0,0,0,0,0,0,0,0,0,05/02/2017,away,12560,328,Kansas,9,True,5,8,-3,loss,224411,669,1873656,2017
-1,0,1,0,0,0,0,0,0,0,05/05/2017,away,12560,659,Southern Ill.,9,True,7,5,2,win,224844,669,1873656,2017
+1,1,0,0,0,0,0,0,0,0,05/05/2017,away,12560,659,Southern Ill.,9,True,7,5,2,win,224844,669,1873656,2017
 0,0,0,0,0,0,0,0,0,0,05/06/2017,away,12560,659,Southern Ill.,9,True,19,9,10,win,225061,669,1873656,2017
 0,0,0,0,0,0,0,0,0,0,05/07/2017,away,12560,659,Southern Ill.,11,True,7,4,3,win,225504,669,1873656,2017
 0,0,0,0,0,0,0,0,0,0,05/12/2017,home,12560,305,Indiana St.,9,True,14,4,10,win,226101,669,1873656,2017

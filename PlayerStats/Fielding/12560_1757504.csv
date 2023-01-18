@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,1104,Grand Canyon,9,True,1,6,-5,loss,205790,521,1757504,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,away,12560,1104,Grand Canyon,9,True,6,5,1,win,206395,521,1757504,2017
 0,0,0,0,0,0,0,0,0,0,02/20/2017,away,12560,1104,Grand Canyon,9,True,0,4,-4,loss,206690,521,1757504,2017
@@ -42,7 +42,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/28/2017,home,12560,703,Texas,9,True,4,5,-1,loss,223385,521,1757504,2017
 0,0,0,0,0,0,1,0,0,0,05/02/2017,away,12560,527,Oral Roberts,9,True,1,4,-3,loss,224488,521,1757504,2017
 0,0,0,0,0,0,0,0,0,0,05/05/2017,home,12560,346,Lamar University,9,True,6,5,1,win,224807,521,1757504,2017
-1,2,1,0,0,0,0,0,0,0,05/06/2017,home,12560,346,Lamar University,9,True,6,7,-1,loss,225026,521,1757504,2017
+1,1,2,0,0,0,0,0,0,0,05/06/2017,home,12560,346,Lamar University,9,True,6,7,-1,loss,225026,521,1757504,2017
 0,0,0,0,0,0,0,0,0,0,05/07/2017,home,12560,346,Lamar University,9,True,2,6,-4,loss,225458,521,1757504,2017
 0,0,0,0,0,0,0,0,0,0,05/12/2017,home,12560,51,Baylor,9,True,3,9,-6,loss,226063,521,1757504,2017
 0,0,0,0,0,0,0,0,0,0,05/13/2017,home,12560,51,Baylor,9,True,2,3,-1,loss,226313,521,1757504,2017

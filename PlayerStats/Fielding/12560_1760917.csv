@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,774,Western Mich.,9,True,17,4,13,win,205812,1157,1760917,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,77,BYU,9,True,4,13,-9,loss,206025,1157,1760917,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,388,Marshall,9,True,4,7,-3,loss,206421,1157,1760917,2017
@@ -11,7 +11,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,419,Middle Tenn.,9,True,19,5,14,win,208569,1157,1760917,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,away,12560,419,Middle Tenn.,9,True,7,9,-2,loss,209082,1157,1760917,2017
 0,0,0,0,0,0,0,0,0,0,03/08/2017,away,12560,37,Auburn,9,True,4,6,-2,loss,209797,1157,1760917,2017
-1,1,0,0,0,0,0,0,0,0,03/10/2017,home,12560,19651,High Point,9,True,6,7,-1,loss,210105,1157,1760917,2017
+1,0,1,0,0,0,0,0,0,0,03/10/2017,home,12560,19651,High Point,9,True,6,7,-1,loss,210105,1157,1760917,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,home,12560,19651,High Point,9,True,3,6,-3,loss,210798,1157,1760917,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,home,12560,19651,High Point,9,True,5,4,1,win,210822,1157,1760917,2017
 0,0,0,0,0,0,0,0,0,0,03/16/2017,away,12560,769,Western Caro.,9,True,12,3,9,win,211605,1157,1760917,2017

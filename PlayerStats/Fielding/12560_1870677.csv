@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,169,Creighton,9,True,3,2,1,win,205818,9,1870677,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,169,Creighton,9,True,5,1,4,win,206317,9,1870677,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,169,Creighton,9,True,14,1,13,win,206427,9,1870677,2017
@@ -31,7 +31,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/07/2017,home,12560,388,Marshall,9,True,4,3,1,win,217081,9,1870677,2017
 0,0,0,0,0,0,0,0,0,0,04/08/2017,home,12560,388,Marshall,10,True,1,2,-1,loss,217325,9,1870677,2017
 0,0,0,0,0,0,0,0,0,0,04/09/2017,home,12560,388,Marshall,9,True,2,5,-3,loss,218038,9,1870677,2017
-1,0,1,0,0,0,0,0,0,0,04/11/2017,away,12560,8,Alabama,9,True,4,6,-2,loss,218557,9,1870677,2017
+1,1,0,0,0,0,0,0,0,0,04/11/2017,away,12560,8,Alabama,9,True,4,6,-2,loss,218557,9,1870677,2017
 0,0,0,0,0,0,0,0,0,0,04/13/2017,away,12560,419,Middle Tenn.,9,True,10,11,-1,loss,219113,9,1870677,2017
 0,0,0,0,0,0,0,0,0,0,04/14/2017,away,12560,419,Middle Tenn.,9,True,3,18,-15,loss,219378,9,1870677,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,away,12560,419,Middle Tenn.,9,True,3,13,-10,loss,219873,9,1870677,2017

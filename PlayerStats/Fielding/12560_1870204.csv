@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 1,0,1,0,0,0,0,0,0,0,02/17/2017,home,12560,683,Stony Brook,9,True,18,2,16,win,205804,402,1870204,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,572,Rhode Island,9,True,5,4,1,win,206016,402,1870204,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,669,Missouri St.,9,True,4,3,1,win,206411,402,1870204,2017

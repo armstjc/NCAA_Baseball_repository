@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/19/2017,neutral,12560,285,Holy Cross,9,True,3,2,1,win,206683,127,1885769,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,neutral,12560,649,South Dakota St.,9,True,6,4,2,win,207180,127,1885769,2017
 0,1,1,0,0,0,0,0,0,0,02/24/2017,neutral,12560,380,Maine,9,True,3,6,-3,loss,207187,127,1885769,2017
@@ -39,7 +39,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/29/2017,away,12560,62,Binghamton,9,True,1,6,-5,loss,223698,127,1885769,2017
 0,0,0,0,0,0,0,0,0,0,04/29/2017,away,12560,62,Binghamton,9,True,3,2,1,win,224026,127,1885769,2017
 0,0,0,0,0,0,0,0,0,0,04/30/2017,away,12560,62,Binghamton,11,True,2,3,-1,loss,224120,127,1885769,2017
-1,2,1,0,0,0,0,0,0,0,05/02/2017,away,12560,562,Quinnipiac,9,True,24,13,11,win,224468,127,1885769,2017
+1,1,2,0,0,0,0,0,0,0,05/02/2017,away,12560,562,Quinnipiac,9,True,24,13,11,win,224468,127,1885769,2017
 0,0,0,0,0,0,0,0,0,0,05/06/2017,home,12560,590,Sacred Heart,9,True,11,5,6,win,225336,127,1885769,2017
 0,0,0,0,0,0,0,0,0,0,05/06/2017,home,12560,590,Sacred Heart,9,True,9,1,8,win,225371,127,1885769,2017
 0,0,0,0,0,0,0,0,0,0,05/07/2017,home,12560,590,Sacred Heart,9,True,9,5,4,win,225709,127,1885769,2017

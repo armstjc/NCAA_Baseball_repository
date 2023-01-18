@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/24/2017,away,12560,346,Lamar University,9,True,7,6,1,win,206971,220,1776491,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,346,Lamar University,9,True,1,5,-4,loss,207446,220,1776491,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,346,Lamar University,9,True,9,19,-10,loss,207583,220,1776491,2017
@@ -6,9 +6,9 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/03/2017,away,12560,740,VCU,9,True,3,4,-1,loss,208500,220,1776491,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,740,VCU,13,True,4,5,-1,loss,208977,220,1776491,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,away,12560,740,VCU,9,True,1,2,-1,loss,209400,220,1776491,2017
-1,1,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,540,Penn,9,True,3,6,-3,loss,210744,220,1776491,2017
+1,0,1,0,0,0,0,0,0,0,03/11/2017,neutral,12560,540,Penn,9,True,3,6,-3,loss,210744,220,1776491,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,540,Penn,9,True,7,5,2,win,210770,220,1776491,2017
-1,2,1,0,0,0,0,0,1,0,03/12/2017,neutral,12560,540,Penn,9,True,0,8,-8,loss,211025,220,1776491,2017
+1,1,2,0,0,0,0,0,1,0,03/12/2017,neutral,12560,540,Penn,9,True,0,8,-8,loss,211025,220,1776491,2017
 0,0,0,0,0,0,0,0,0,0,03/14/2017,away,12560,61,Bethune-Cookman,9,True,5,9,-4,loss,211352,220,1776491,2017
 0,0,0,0,0,0,0,0,0,0,03/15/2017,away,12560,61,Bethune-Cookman,9,True,5,7,-2,loss,211507,220,1776491,2017
 0,0,0,0,0,0,0,0,0,0,03/17/2017,away,12560,678,Stetson,9,True,5,2,3,win,211710,220,1776491,2017

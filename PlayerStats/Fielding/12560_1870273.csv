@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,1014,Col. of Charleston,9,True,3,9,-6,loss,205860,257,1870273,2017
 1,1,0,0,0,0,0,0,0,0,02/18/2017,home,12560,1014,Col. of Charleston,9,True,6,15,-9,loss,206065,257,1870273,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,1014,Col. of Charleston,9,True,9,8,1,win,206476,257,1870273,2017

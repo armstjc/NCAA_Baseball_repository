@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,792,Winthrop,9,True,5,12,-7,loss,205913,380,1652622,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,792,Winthrop,9,True,5,12,-7,loss,206100,380,1652622,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,away,12560,792,Winthrop,9,True,2,3,-1,loss,206539,380,1652622,2017
@@ -27,7 +27,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/14/2017,home,12560,381,Manhattan,9,True,3,1,2,win,219544,380,1652622,2017
 0,0,0,0,0,0,0,0,0,0,04/14/2017,home,12560,381,Manhattan,9,True,4,6,-2,loss,219644,380,1652622,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,home,12560,381,Manhattan,9,True,18,13,5,win,220052,380,1652622,2017
-1,1,2,0,0,0,2,0,0,0,04/15/2017,home,12560,381,Manhattan,9,True,10,6,4,win,220191,380,1652622,2017
+1,2,1,0,0,0,2,0,0,0,04/15/2017,home,12560,381,Manhattan,9,True,10,6,4,win,220191,380,1652622,2017
 0,0,0,0,0,0,0,0,0,0,04/18/2017,home,12560,2758,Thomas (ME),9,True,11,3,8,win,220660,380,1652622,2017
 0,0,0,0,0,0,0,0,0,0,04/19/2017,home,12560,379,Me.-Farmington,9,True,12,2,10,win,220918,380,1652622,2017
 0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,62,Binghamton,9,True,3,9,-6,loss,221643,380,1652622,2017

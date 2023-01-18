@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,236,Fordham,9,True,3,4,-1,loss,206332,287,1881220,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,236,Fordham,9,True,13,5,8,win,206348,287,1881220,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,236,Fordham,9,True,7,6,1,win,206524,287,1881220,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,695,UT Martin,9,True,10,2,8,win,205815,86,1641007,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,695,UT Martin,9,True,0,14,-14,loss,206029,86,1641007,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,away,12560,695,UT Martin,9,True,3,4,-1,loss,206425,86,1641007,2017
@@ -42,11 +42,11 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,05/06/2017,away,12560,414,Miami (OH),9,True,6,5,1,win,225049,86,1641007,2017
 0,0,0,0,0,0,0,0,0,0,05/07/2017,away,12560,414,Miami (OH),9,True,1,0,1,win,225650,86,1641007,2017
 0,0,0,0,0,0,0,0,0,0,05/07/2017,away,12560,414,Miami (OH),9,True,3,5,-2,loss,225596,86,1641007,2017
-4,5,1,0,0,0,2,0,1,0,05/09/2017,away,12560,482,Niagara,9,True,15,22,-7,loss,225785,86,1641007,2017
+4,1,5,0,0,0,2,0,1,0,05/09/2017,away,12560,482,Niagara,9,True,15,22,-7,loss,225785,86,1641007,2017
 0,0,0,0,0,0,0,0,0,0,05/12/2017,home,12560,519,Ohio,9,True,3,5,-2,loss,226267,86,1641007,2017
 0,0,0,0,0,0,0,0,0,0,05/13/2017,home,12560,519,Ohio,9,True,1,12,-11,loss,226464,86,1641007,2017
 0,0,0,0,0,0,0,0,0,0,05/14/2017,home,12560,519,Ohio,9,True,0,3,-3,loss,226624,86,1641007,2017
-6,7,0,1,0,0,0,0,2,0,05/16/2017,home,12560,482,Niagara,10,True,10,9,1,win,226699,86,1641007,2017
+6,0,7,1,0,0,0,0,2,0,05/16/2017,home,12560,482,Niagara,10,True,10,9,1,win,226699,86,1641007,2017
 0,0,0,0,0,0,0,0,0,0,05/18/2017,away,12560,774,Western Mich.,9,True,5,6,-1,loss,226752,86,1641007,2017
 0,0,0,0,0,0,0,0,0,0,05/20/2017,away,12560,774,Western Mich.,9,True,2,7,-5,loss,227135,86,1641007,2017
 0,0,0,0,0,0,0,0,0,0,05/20/2017,away,12560,774,Western Mich.,9,True,3,7,-4,loss,227236,86,1641007,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,768,West Virginia,9,True,6,3,3,win,205831,458,1864275,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,768,West Virginia,9,True,13,2,11,win,206041,458,1864275,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,768,West Virginia,9,True,3,6,-3,loss,206442,458,1864275,2017
@@ -19,7 +19,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/17/2017,away,12560,231,FIU,9,True,4,0,4,win,211836,458,1864275,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,away,12560,231,FIU,9,True,4,5,-1,loss,212138,458,1864275,2017
 0,0,0,0,0,0,0,0,0,0,03/19/2017,away,12560,231,FIU,9,True,8,7,1,win,212634,458,1864275,2017
-1,1,0,0,0,0,0,0,0,0,03/21/2017,home,12560,749,Wake Forest,9,True,4,13,-9,loss,212994,458,1864275,2017
+1,0,1,0,0,0,0,0,0,0,03/21/2017,home,12560,749,Wake Forest,9,True,4,13,-9,loss,212994,458,1864275,2017
 0,0,0,0,0,0,0,0,0,0,03/24/2017,home,12560,366,Louisiana Tech,9,True,13,7,6,win,213445,458,1864275,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,home,12560,366,Louisiana Tech,9,True,7,12,-5,loss,214224,458,1864275,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,home,12560,366,Louisiana Tech,9,True,4,2,2,win,214278,458,1864275,2017
@@ -29,7 +29,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/02/2017,away,12560,523,Old Dominion,9,True,0,3,-3,loss,216149,458,1864275,2017
 0,0,0,0,0,0,0,0,0,0,04/04/2017,home,12560,792,Winthrop,9,True,2,3,-1,loss,216649,458,1864275,2017
 0,0,0,0,0,0,0,0,0,0,04/07/2017,home,12560,229,Fla. Atlantic,12,True,10,13,-3,loss,217098,458,1864275,2017
-1,1,0,0,0,0,0,0,0,0,04/08/2017,home,12560,229,Fla. Atlantic,9,True,4,7,-3,loss,217336,458,1864275,2017
+1,0,1,0,0,0,0,0,0,0,04/08/2017,home,12560,229,Fla. Atlantic,9,True,4,7,-3,loss,217336,458,1864275,2017
 0,0,0,0,0,0,0,0,0,0,04/09/2017,home,12560,229,Fla. Atlantic,9,True,11,5,6,win,218051,458,1864275,2017
 0,0,0,0,0,0,0,0,0,0,04/11/2017,home,12560,488,N.C. A&T,9,True,6,12,-6,loss,218619,458,1864275,2017
 0,0,0,0,0,0,0,0,0,0,04/13/2017,away,12560,772,Western Ky.,12,True,6,4,2,win,219046,458,1864275,2017

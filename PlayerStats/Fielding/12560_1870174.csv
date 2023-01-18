@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,287,Houston Christian,9,True,4,3,1,win,206332,236,1870174,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,287,Houston Christian,9,True,5,13,-8,loss,206348,236,1870174,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,away,12560,287,Houston Christian,9,True,6,7,-1,loss,206524,236,1870174,2017

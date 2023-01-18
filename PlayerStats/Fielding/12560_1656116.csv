@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,725,Army West Point,9,True,9,0,9,win,206333,365,1656116,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,725,Army West Point,9,True,6,0,6,win,206349,365,1656116,2017
 0,1,1,0,0,0,0,0,0,0,02/19/2017,home,12560,721,Air Force,9,True,10,3,7,win,206499,365,1656116,2017
@@ -47,7 +47,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,05/05/2017,home,12560,648,South Carolina,9,True,2,3,-1,loss,224824,365,1656116,2017
 0,0,0,0,0,0,0,0,0,0,05/06/2017,home,12560,648,South Carolina,9,True,5,2,3,win,225045,365,1656116,2017
 0,0,0,0,0,0,0,0,0,0,05/07/2017,home,12560,648,South Carolina,10,True,7,6,1,win,225482,365,1656116,2017
-1,1,0,0,0,0,0,0,0,0,05/09/2017,home,12560,646,South Alabama,9,True,6,7,-1,loss,225803,365,1656116,2017
+1,0,1,0,0,0,0,0,0,0,05/09/2017,home,12560,646,South Alabama,9,True,6,7,-1,loss,225803,365,1656116,2017
 0,0,0,0,0,0,0,0,0,0,05/11/2017,home,12560,37,Auburn,9,True,4,0,4,win,225923,365,1656116,2017
 0,0,0,0,0,0,0,0,0,0,05/12/2017,home,12560,37,Auburn,9,True,5,3,2,win,226076,365,1656116,2017
 0,0,0,0,0,0,0,0,0,0,05/13/2017,home,12560,37,Auburn,9,True,9,1,8,win,226326,365,1656116,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,37,Auburn,9,True,0,9,-9,loss,205880,249,1881718,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,37,Auburn,9,True,0,2,-2,loss,206154,249,1881718,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,37,Auburn,9,True,9,5,4,win,206225,249,1881718,2017
@@ -26,7 +26,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/01/2017,away,12560,740,VCU,9,True,4,2,2,win,216004,249,1881718,2017
 0,0,0,0,0,0,0,0,0,0,04/01/2017,away,12560,740,VCU,9,True,2,11,-9,loss,215974,249,1881718,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,away,12560,740,VCU,9,True,2,10,-8,loss,216487,249,1881718,2017
-1,2,1,0,0,0,0,0,0,0,04/04/2017,home,12560,393,UMES,9,True,10,4,6,win,216704,249,1881718,2017
+1,1,2,0,0,0,0,0,0,0,04/04/2017,home,12560,393,UMES,9,True,10,4,6,win,216704,249,1881718,2017
 0,0,0,0,0,0,0,0,0,0,04/05/2017,away,12560,746,Virginia,9,True,1,11,-10,loss,216822,249,1881718,2017
 0,0,0,0,0,0,0,0,0,0,04/07/2017,away,12560,575,Richmond,9,True,4,2,2,win,217064,249,1881718,2017
 0,0,0,0,0,0,0,0,0,0,04/08/2017,away,12560,575,Richmond,9,True,5,8,-3,loss,217314,249,1881718,2017

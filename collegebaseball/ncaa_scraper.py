@@ -1105,7 +1105,7 @@ def _lookup_log_headers(season, variant):
                    'innings_played', 'extras', 'runs_scored',
                    'runs_allowed', 'run_difference', 'result',
                    'game_id', 'school_id'],
-            2017: ['G', 'G', 'PO', 'TC', 'A', 'E',
+            2017: ['G', 'G', 'TC', 'PO', 'A', 'E',
                    'CI', 'PB', 'SBA', 'CSB', 'IDP', 'TP', 'date', 'field',
                    'season_id', 'opponent_id', 'opponent_name',
                    'innings_played', 'extras', 'runs_scored',

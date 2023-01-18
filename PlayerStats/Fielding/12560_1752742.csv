@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,331,Kent St.,9,True,0,15,-15,loss,205835,14927,1752742,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,331,Kent St.,9,True,0,3,-3,loss,206046,14927,1752742,2017
 0,0,0,0,0,0,2,0,0,0,02/19/2017,home,12560,331,Kent St.,9,True,4,5,-1,loss,206449,14927,1752742,2017
@@ -57,5 +57,5 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,05/24/2017,neutral,12560,454,Murray St.,9,True,3,9,-6,loss,227372,14927,1752742,2017
 0,0,0,0,0,0,0,0,0,0,05/25/2017,neutral,12560,43,Austin Peay,9,True,6,1,5,win,227445,14927,1752742,2017
 0,0,0,0,0,0,0,0,0,0,05/26/2017,neutral,12560,454,Murray St.,9,True,5,4,1,win,227532,14927,1752742,2017
-1,2,1,0,0,0,0,1,0,0,05/27/2017,neutral,12560,444,Morehead St.,9,True,11,6,5,win,227612,14927,1752742,2017
+1,1,2,0,0,0,0,1,0,0,05/27/2017,neutral,12560,444,Morehead St.,9,True,11,6,5,win,227612,14927,1752742,2017
 0,0,0,0,0,0,0,0,0,0,05/27/2017,neutral,12560,692,Tennessee Tech,9,True,4,16,-12,loss,227627,14927,1752742,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,1,0,0,0,02/25/2017,away,12560,363,Longwood,9,True,11,3,8,win,207602,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,363,Longwood,9,True,6,11,-5,loss,207606,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,away,12560,363,Longwood,9,True,13,6,7,win,207727,14,1771120,2017
@@ -15,7 +15,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/25/2017,away,12560,391,UMBC,9,True,6,7,-1,loss,213912,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,away,12560,391,UMBC,9,True,9,1,8,win,214054,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,03/26/2017,away,12560,391,UMBC,9,True,3,9,-6,loss,214437,14,1771120,2017
-0,1,2,1,0,0,1,0,0,0,03/29/2017,away,12560,236,Fordham,9,True,3,7,-4,loss,215096,14,1771120,2017
+0,2,1,1,0,0,1,0,0,0,03/29/2017,away,12560,236,Fordham,9,True,3,7,-4,loss,215096,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,04/01/2017,away,12560,683,Stony Brook,9,True,8,3,5,win,215883,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,away,12560,683,Stony Brook,9,True,3,8,-5,loss,216351,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,away,12560,683,Stony Brook,9,True,1,7,-6,loss,216429,14,1771120,2017
@@ -27,11 +27,11 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/14/2017,home,12560,62,Binghamton,9,True,2,7,-5,loss,219461,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,home,12560,62,Binghamton,9,True,3,4,-1,loss,220086,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,home,12560,62,Binghamton,9,True,0,3,-3,loss,220247,14,1771120,2017
-0,0,1,1,0,0,0,0,0,0,04/18/2017,away,12560,725,Army West Point,9,True,10,13,-3,loss,220589,14,1771120,2017
+0,1,0,1,0,0,0,0,0,0,04/18/2017,away,12560,725,Army West Point,9,True,10,13,-3,loss,220589,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,386,Marist,9,True,1,2,-1,loss,221556,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,386,Marist,9,True,4,3,1,win,221734,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,home,12560,386,Marist,9,True,8,2,6,win,222458,14,1771120,2017
-1,0,2,1,0,0,2,0,0,0,04/23/2017,home,12560,386,Marist,9,True,6,9,-3,loss,222494,14,1771120,2017
+1,2,0,1,0,0,2,0,0,0,04/23/2017,home,12560,386,Marist,9,True,6,9,-3,loss,222494,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,04/26/2017,away,12560,310,Iona,9,True,8,4,4,win,222856,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,04/29/2017,home,12560,391,UMBC,9,True,8,15,-7,loss,223728,14,1771120,2017
 0,0,0,0,0,0,0,0,0,0,04/29/2017,home,12560,391,UMBC,9,True,2,5,-3,loss,223900,14,1771120,2017

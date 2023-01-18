@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 7,2,9,0,0,0,0,0,0,0,02/18/2017,home,12560,301,Illinois,9,True,15,9,6,win,206056,346,1772736,2017
 9,0,9,0,0,0,0,0,1,0,02/18/2017,home,12560,797,Milwaukee,9,True,6,0,6,win,206318,346,1772736,2017
 5,1,6,0,0,0,0,0,0,0,02/19/2017,home,12560,797,Milwaukee,10,True,2,1,1,win,206465,346,1772736,2017

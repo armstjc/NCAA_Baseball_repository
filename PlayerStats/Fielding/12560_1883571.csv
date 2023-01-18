@@ -1,9 +1,9 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
-1,1,0,0,0,0,0,0,0,0,02/17/2017,home,12560,361,LIU,9,True,13,0,13,win,205904,523,1883571,2017
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1,0,0,0,0,0,0,0,02/17/2017,home,12560,361,LIU,9,True,13,0,13,win,205904,523,1883571,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,361,LIU,9,True,16,8,8,win,206093,523,1883571,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,361,LIU,9,True,11,7,4,win,206530,523,1883571,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,180,Delaware,9,True,2,1,1,win,207048,523,1883571,2017
-0,2,1,1,0,0,0,0,0,0,02/25/2017,home,12560,334,Kentucky,9,True,2,19,-17,loss,207309,523,1883571,2017
+0,1,2,1,0,0,0,0,0,0,02/25/2017,home,12560,334,Kentucky,9,True,2,19,-17,loss,207309,523,1883571,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,home,12560,606,Saint Joseph's,9,True,7,6,1,win,207795,523,1883571,2017
 0,0,0,0,0,0,0,0,0,0,02/28/2017,away,12560,740,VCU,10,True,5,4,1,win,208114,523,1883571,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,home,12560,587,Rutgers,9,True,5,8,-3,loss,208383,523,1883571,2017
@@ -13,7 +13,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/08/2017,home,12560,317,James Madison,9,True,3,4,-1,loss,209819,523,1883571,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,home,12560,768,West Virginia,9,True,8,4,4,win,210398,523,1883571,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,home,12560,768,West Virginia,9,True,1,3,-2,loss,210423,523,1883571,2017
-0,4,3,1,0,0,0,0,0,0,03/11/2017,home,12560,768,West Virginia,9,True,7,4,3,win,210536,523,1883571,2017
+0,3,4,1,0,0,0,0,0,0,03/11/2017,home,12560,768,West Virginia,9,True,7,4,3,win,210536,523,1883571,2017
 0,0,0,0,0,0,0,0,0,0,03/14/2017,home,12560,741,VMI,9,True,14,2,12,win,211350,523,1883571,2017
 0,0,0,0,0,0,0,0,0,0,03/17/2017,home,12560,574,Rice,9,True,6,5,1,win,211984,523,1883571,2017
 0,0,0,0,0,0,0,0,0,0,03/17/2017,home,12560,574,Rice,9,True,3,2,1,win,211991,523,1883571,2017

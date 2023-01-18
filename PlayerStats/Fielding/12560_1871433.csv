@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,471,NJIT,9,True,11,0,11,win,206159,19651,1871433,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,471,NJIT,9,True,2,4,-2,loss,206230,19651,1871433,2017
 0,0,0,0,0,0,0,1,0,0,02/19/2017,home,12560,471,NJIT,9,True,6,5,1,win,206504,19651,1871433,2017
@@ -6,7 +6,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,02/24/2017,away,12560,678,Stetson,10,True,4,3,1,win,206904,19651,1871433,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,678,Stetson,10,True,4,5,-1,loss,207203,19651,1871433,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,away,12560,678,Stetson,9,True,0,1,-1,loss,207658,19651,1871433,2017
-0,2,1,1,0,0,0,0,0,0,02/28/2017,home,12560,489,N.C. Central,9,True,5,11,-6,loss,208057,19651,1871433,2017
+0,1,2,1,0,0,0,0,0,0,02/28/2017,home,12560,489,N.C. Central,9,True,5,11,-6,loss,208057,19651,1871433,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,home,12560,725,Army West Point,9,True,3,2,1,win,208361,19651,1871433,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,home,12560,725,Army West Point,9,True,4,2,2,win,208590,19651,1871433,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,home,12560,725,Army West Point,9,True,3,7,-4,loss,209112,19651,1871433,2017
@@ -15,7 +15,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/11/2017,away,12560,1157,Kennesaw St.,9,True,4,5,-1,loss,210822,19651,1871433,2017
 0,0,0,0,0,0,1,0,0,0,03/14/2017,home,12560,749,Wake Forest,9,True,8,18,-10,loss,211337,19651,1871433,2017
 0,0,0,0,0,0,0,0,0,0,03/17/2017,away,12560,355,Liberty,9,True,1,11,-10,loss,211721,19651,1871433,2017
-1,1,0,0,0,0,0,0,0,0,03/18/2017,away,12560,355,Liberty,9,True,7,4,3,win,212037,19651,1871433,2017
+1,0,1,0,0,0,0,0,0,0,03/18/2017,away,12560,355,Liberty,9,True,7,4,3,win,212037,19651,1871433,2017
 0,0,0,0,0,0,0,0,0,0,03/19/2017,away,12560,355,Liberty,9,True,2,14,-12,loss,212511,19651,1871433,2017
 0,0,0,0,0,0,0,0,0,0,03/21/2017,home,12560,173,Davidson,9,True,7,0,7,win,213046,19651,1871433,2017
 0,0,0,0,0,0,0,0,0,0,03/24/2017,away,12560,792,Winthrop,9,True,3,7,-4,loss,213551,19651,1871433,2017
@@ -50,5 +50,5 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,05/19/2017,home,12560,392,Maryland,9,True,7,6,1,win,226977,19651,1871433,2017
 0,0,0,0,0,0,0,0,0,0,05/20/2017,home,12560,392,Maryland,9,True,2,9,-7,loss,227184,19651,1871433,2017
 0,0,0,0,0,0,0,0,0,0,05/25/2017,neutral,12560,563,Radford,9,True,3,6,-3,loss,227426,19651,1871433,2017
-1,1,0,0,0,0,1,1,0,0,05/26/2017,neutral,12560,115,Campbell,9,True,6,5,1,win,227512,19651,1871433,2017
+1,0,1,0,0,0,1,1,0,0,05/26/2017,neutral,12560,115,Campbell,9,True,6,5,1,win,227512,19651,1871433,2017
 0,0,0,0,0,0,0,0,0,0,05/27/2017,neutral,12560,792,Winthrop,9,True,13,14,-1,loss,227597,19651,1871433,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,553,Prairie View,9,True,4,5,-1,loss,205976,302,1871533,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,474,New Orleans,9,True,5,8,-3,loss,206015,302,1871533,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,neutral,12560,261,Grambling,9,True,9,3,6,win,206600,302,1871533,2017

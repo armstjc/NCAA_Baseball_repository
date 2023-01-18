@@ -1,10 +1,10 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/16/2017,home,12560,104,UC Santa Barbara,9,True,3,6,-3,loss,205769,370,1752513,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,104,UC Santa Barbara,9,True,1,0,1,win,206053,370,1752513,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,104,UC Santa Barbara,9,True,8,2,6,win,206462,370,1752513,2017
 0,0,0,0,0,0,0,0,0,0,02/22/2017,home,12560,694,Tennessee,9,True,4,8,-4,loss,206809,370,1752513,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,754,Washington St.,9,True,3,6,-3,loss,206967,370,1752513,2017
-3,0,3,0,0,0,0,0,1,0,02/25/2017,home,12560,754,Washington St.,9,True,18,5,13,win,207256,370,1752513,2017
+3,3,0,0,0,0,0,0,1,0,02/25/2017,home,12560,754,Washington St.,9,True,18,5,13,win,207256,370,1752513,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,home,12560,754,Washington St.,9,True,4,7,-3,loss,207720,370,1752513,2017
 0,0,0,0,0,0,0,0,0,0,02/27/2017,home,12560,754,Washington St.,9,True,7,3,4,win,207956,370,1752513,2017
 0,0,0,0,0,0,0,0,0,0,03/01/2017,home,12560,418,Michigan,9,True,2,14,-12,loss,208133,370,1752513,2017

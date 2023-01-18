@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,553,Prairie View,9,True,4,5,-1,loss,205976,302,1646156,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,474,New Orleans,9,True,5,8,-3,loss,206015,302,1646156,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,neutral,12560,261,Grambling,9,True,9,3,6,win,206600,302,1646156,2017
@@ -36,7 +36,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/21/2017,away,12560,817,Youngstown St.,9,True,6,2,4,win,221365,302,1646156,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,away,12560,505,Northern Ky.,9,True,2,6,-4,loss,222338,302,1646156,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,away,12560,505,Northern Ky.,9,True,2,6,-4,loss,222338,302,1646156,2017
-1,1,0,0,0,0,0,0,0,0,04/25/2017,home,12560,136,Chicago St.,9,True,7,0,7,win,222671,302,1646156,2017
+1,0,1,0,0,0,0,0,0,0,04/25/2017,home,12560,136,Chicago St.,9,True,7,0,7,win,222671,302,1646156,2017
 0,0,0,0,0,0,0,0,0,0,04/28/2017,home,12560,255,Georgia Tech,9,True,0,3,-3,loss,223242,302,1646156,2017
 0,0,0,0,0,0,0,0,0,0,04/28/2017,home,12560,255,Georgia Tech,9,True,1,0,1,win,223296,302,1646156,2017
 0,0,0,0,0,0,0,0,0,0,05/05/2017,home,12560,514,Oakland,9,True,13,2,11,win,224875,302,1646156,2017

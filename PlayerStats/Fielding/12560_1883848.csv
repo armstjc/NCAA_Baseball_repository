@@ -1,5 +1,5 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
-1,1,0,0,0,0,0,0,0,0,02/17/2017,home,12560,810,Wright St.,9,True,4,6,-2,loss,205872,147,1883848,2017
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+1,0,1,0,0,0,0,0,0,0,02/17/2017,home,12560,810,Wright St.,9,True,4,6,-2,loss,205872,147,1883848,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,810,Wright St.,9,True,6,2,4,win,206071,147,1883848,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,810,Wright St.,9,True,2,9,-7,loss,206487,147,1883848,2017
 0,0,0,0,0,0,0,0,0,0,02/22/2017,home,12560,769,Western Caro.,9,True,11,5,6,win,206819,147,1883848,2017
@@ -24,7 +24,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/25/2017,away,12560,67,Boston College,9,True,1,0,1,win,213786,147,1883848,2017
 0,0,0,0,0,0,0,0,0,0,03/26/2017,away,12560,67,Boston College,9,True,2,0,2,win,214411,147,1883848,2017
 0,0,0,0,0,0,0,0,0,0,03/28/2017,home,12560,244,Furman,9,True,8,0,8,win,214832,147,1883848,2017
-1,1,0,0,0,0,0,0,0,0,03/29/2017,home,12560,792,Winthrop,11,True,6,5,1,win,215010,147,1883848,2017
+1,0,1,0,0,0,0,0,0,0,03/29/2017,home,12560,792,Winthrop,11,True,6,5,1,win,215010,147,1883848,2017
 0,0,0,0,0,0,0,0,0,0,03/31/2017,away,12560,255,Georgia Tech,9,True,11,6,5,win,215297,147,1883848,2017
 0,0,0,0,0,0,0,0,0,0,04/01/2017,away,12560,255,Georgia Tech,9,True,1,5,-4,loss,215512,147,1883848,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,away,12560,255,Georgia Tech,9,True,13,6,7,win,216081,147,1883848,2017
@@ -32,7 +32,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/07/2017,home,12560,742,Virginia Tech,9,True,12,1,11,win,217155,147,1883848,2017
 0,0,0,0,0,0,0,0,0,0,04/08/2017,home,12560,742,Virginia Tech,9,True,6,3,3,win,217377,147,1883848,2017
 0,0,0,0,0,0,0,0,0,0,04/09/2017,home,12560,742,Virginia Tech,9,True,8,3,5,win,218111,147,1883848,2017
-1,1,0,0,0,0,0,0,0,0,04/11/2017,home,12560,48,Charleston So.,11,True,6,5,1,win,218672,147,1883848,2017
+1,0,1,0,0,0,0,0,0,0,04/11/2017,home,12560,48,Charleston So.,11,True,6,5,1,win,218672,147,1883848,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,away,12560,234,Florida St.,9,True,12,10,2,win,219847,147,1883848,2017
 0,0,0,0,0,0,0,0,0,0,04/16/2017,away,12560,234,Florida St.,9,True,3,7,-4,loss,220405,147,1883848,2017
 0,2,2,0,0,0,0,0,0,0,04/17/2017,away,12560,234,Florida St.,9,True,6,7,-1,loss,220451,147,1883848,2017

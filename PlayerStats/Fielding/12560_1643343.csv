@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 2,2,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,193,Duke,9,True,6,3,3,win,205971,528,1643343,2017
 1,2,0,1,0,0,0,0,0,0,02/17/2017,neutral,12560,306,Indiana,9,True,1,0,1,win,205973,528,1643343,2017
 3,3,0,0,0,0,0,0,0,0,02/19/2017,neutral,12560,193,Duke,9,True,11,2,9,win,206605,528,1643343,2017

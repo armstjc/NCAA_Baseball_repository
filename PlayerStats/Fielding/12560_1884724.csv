@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/03/2017,away,12560,2711,North Florida,9,True,0,6,-6,loss,208293,540,1884724,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,2711,North Florida,9,True,2,3,-1,loss,208547,540,1884724,2017
 0,1,1,0,0,0,0,0,0,0,03/05/2017,away,12560,2711,North Florida,9,True,3,7,-4,loss,209051,540,1884724,2017

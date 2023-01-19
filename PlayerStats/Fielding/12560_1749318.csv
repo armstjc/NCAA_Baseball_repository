@@ -1,6 +1,6 @@
 TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,26172,A&M-Corpus Christi,9,True,7,10,-3,loss,205798,72,1749318,2017
-1,0,1,0,0,0,0,0,0,0,02/18/2017,away,12560,26172,A&M-Corpus Christi,9,True,9,5,4,win,206010,72,1749318,2017
+1,1,0,0,0,0,0,0,0,0,02/18/2017,away,12560,26172,A&M-Corpus Christi,9,True,9,5,4,win,206010,72,1749318,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,away,12560,26172,A&M-Corpus Christi,9,True,7,6,1,win,206404,72,1749318,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,away,12560,692,Tennessee Tech,9,True,7,13,-6,loss,206999,72,1749318,2017
 0,0,0,0,0,0,1,0,0,0,02/25/2017,away,12560,692,Tennessee Tech,11,True,7,5,2,win,207282,72,1749318,2017
@@ -14,7 +14,7 @@ TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/14/2017,away,12560,128,UCF,9,True,9,12,-3,loss,211304,72,1749318,2017
 0,0,0,0,0,0,0,0,0,0,03/15/2017,neutral,12560,166,Cornell College,12,True,5,4,1,win,211522,72,1749318,2017
 0,0,0,0,0,0,0,0,0,0,03/17/2017,away,12560,2711,North Florida,9,True,2,4,-2,loss,211750,72,1749318,2017
-0,1,2,1,0,0,0,0,0,0,03/18/2017,away,12560,2711,North Florida,9,True,5,9,-4,loss,212063,72,1749318,2017
+0,2,1,1,0,0,0,0,0,0,03/18/2017,away,12560,2711,North Florida,9,True,5,9,-4,loss,212063,72,1749318,2017
 0,0,0,0,0,0,0,0,0,0,03/19/2017,away,12560,2711,North Florida,9,True,4,2,2,win,212541,72,1749318,2017
 0,0,0,0,0,0,0,0,0,0,03/22/2017,away,12560,312,Iowa,9,True,1,12,-11,loss,213211,72,1749318,2017
 0,0,0,0,0,0,0,0,0,0,03/24/2017,home,12560,0,Roosevelt-Peoria,9,True,4,3,1,win,213416,72,1749318,2017

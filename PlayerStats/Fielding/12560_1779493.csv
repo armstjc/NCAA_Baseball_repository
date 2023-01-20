@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/01/2017,home,12560,984,Bloomfield,9,True,6,4,2,win,208140,533,1779493,2017
 0,0,0,0,0,0,0,0,0,0,03/02/2017,home,12560,984,Bloomfield,9,True,10,1,9,win,208195,533,1779493,2017
 0,0,0,0,0,0,0,0,0,0,03/07/2017,home,12560,362,LIU Post,9,True,6,0,6,win,209620,533,1779493,2017

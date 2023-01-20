@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,4,0,02/28/2017,home,12560,1462,Wingate,9,True,9,1,8,win,208067,1072,1893325,2017
+0,0,1.0,0.0,1,0,0,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,13,2,1,0,0,0,4,0,04/15/2017,home,12560,1245,Mount Olive,9,True,4,7,-3,loss,220282,1072,1893325,2017
+0,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,19,1,1,0,0,0,3,0,04/18/2017,away,12560,1462,Wingate,9,True,3,2,1,win,220730,1072,1893325,2017
+0,0,0.2,0.0,1,1,0,0,1,0,5,5,0,0,0,0,1,0,0,3,0,0,0,22,1,0,0,0,0,4,1,04/21/2017,home,12560,2683,Belmont Abbey,9,True,1,7,-6,loss,221285,1072,1893325,2017

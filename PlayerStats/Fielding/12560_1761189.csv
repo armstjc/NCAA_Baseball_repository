@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/03/2017,home,12560,9011,Fort Hays St.,9,True,4,2,2,win,205062,30178,1761189,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,home,12560,507,Northwest Mo. St.,9,True,0,15,-15,loss,205129,30178,1761189,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,home,12560,9011,Fort Hays St.,9,True,13,3,10,win,205130,30178,1761189,2017

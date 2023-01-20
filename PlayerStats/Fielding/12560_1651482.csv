@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/10/2017,neutral,12560,715,Trinity (TX),9,True,6,2,4,win,205422,30028,1651482,2017
 4,7,2,1,1,0,2,2,0,0,02/11/2017,neutral,12560,973,Berry,9,True,2,4,-2,loss,205575,30028,1651482,2017
 0,0,0,0,0,0,0,0,0,0,02/12/2017,neutral,12560,396,Maryville (TN),9,True,8,1,7,win,205684,30028,1651482,2017

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,1,1,0,0,0,5,3,0,1,0,0,0,1,0,0,0,1,0,11,3,0,0,0,0,3,0,02/03/2017,neutral,12560,1376,Southern Ark.,9,True,6,12,-6,loss,205100,2814,1758339,2017
+0,0,1.0,0.0,1,1,1,2,1,0,6,4,0,0,0,1,0,0,0,0,0,0,0,28,1,1,0,0,0,2,0,03/10/2017,away,12560,507,Northwest Mo. St.,9,True,8,2,6,win,210431,2814,1758339,2017
+0,0,2.0,0.0,0,0,0,0,1,0,6,6,0,0,0,0,0,0,0,0,0,0,0,26,0,5,0,0,0,3,0,04/10/2017,home,12560,1071,Emporia St.,9,True,2,9,-7,loss,218539,2814,1758339,2017
+0,0,0.0,0.0,2,4,4,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,3,0,04/26/2017,away,12560,1371,Southeastern Okla.,9,True,2,11,-9,loss,222900,2814,1758339,2017

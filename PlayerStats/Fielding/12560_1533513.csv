@@ -1,7 +1,7 @@
 TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,253,Ga. Southern,10,True,6,5,1,win,205884,419,1533513,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,253,Ga. Southern,10,True,6,7,-1,loss,206076,419,1533513,2017
-10,0,11,1,0,0,4,0,0,0,02/19/2017,away,12560,253,Ga. Southern,9,True,5,8,-3,loss,206502,419,1533513,2017
+10,11,0,1,0,0,4,0,0,0,02/19/2017,away,12560,253,Ga. Southern,9,True,5,8,-3,loss,206502,419,1533513,2017
 0,0,0,0,0,0,0,0,0,0,02/22/2017,away,12560,28600,Lipscomb,9,True,2,3,-1,loss,206816,419,1533513,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,509,Northwestern,9,True,11,4,7,win,206973,419,1533513,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,home,12560,71,Bowling Green,9,True,20,8,12,win,207261,419,1533513,2017

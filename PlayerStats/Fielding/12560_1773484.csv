@@ -1,6 +1,6 @@
 TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,528,Oregon St.,9,True,0,1,-1,loss,205973,306,1773484,2017
-2,0,2,0,0,0,0,0,0,0,02/17/2017,neutral,12560,260,Gonzaga,9,True,12,3,9,win,205970,306,1773484,2017
+2,2,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,260,Gonzaga,9,True,12,3,9,win,205970,306,1773484,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,neutral,12560,260,Gonzaga,9,True,5,1,4,win,206604,306,1773484,2017
 0,0,0,0,0,0,0,0,0,0,02/20/2017,neutral,12560,528,Oregon St.,9,True,1,4,-3,loss,206703,306,1773484,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,away,12560,229,Fla. Atlantic,9,True,8,4,4,win,206982,306,1773484,2017
@@ -11,7 +11,7 @@ TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,625,Samford,9,True,5,6,-1,loss,208583,306,1773484,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,away,12560,625,Samford,9,True,3,5,-2,loss,209106,306,1773484,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,home,12560,419,Middle Tenn.,9,True,3,5,-2,loss,210166,306,1773484,2017
-2,0,2,0,0,0,0,0,0,0,03/11/2017,home,12560,419,Middle Tenn.,9,True,12,1,11,win,210508,306,1773484,2017
+2,2,0,0,0,0,0,0,0,0,03/11/2017,home,12560,419,Middle Tenn.,9,True,12,1,11,win,210508,306,1773484,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,home,12560,419,Middle Tenn.,9,True,6,0,6,win,210921,306,1773484,2017
 0,0,0,0,0,0,0,0,0,0,03/15/2017,away,12560,277,Hawaii,9,True,7,6,1,win,211477,306,1773484,2017
 0,0,0,0,0,0,0,0,0,0,03/16/2017,away,12560,277,Hawaii,9,True,4,3,1,win,211611,306,1773484,2017

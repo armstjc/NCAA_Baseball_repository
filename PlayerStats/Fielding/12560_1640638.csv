@@ -1,6 +1,6 @@
 TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,1,1,0,0,0,0,0,0,0,02/17/2017,home,12560,393,UMES,9,True,13,2,11,win,205911,406,1640638,2017
-1,1,2,0,0,0,0,0,0,0,02/18/2017,home,12560,393,UMES,9,True,15,0,15,win,206098,406,1640638,2017
+1,2,1,0,0,0,0,0,0,0,02/18/2017,home,12560,393,UMES,9,True,15,0,15,win,206098,406,1640638,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,393,UMES,9,True,8,4,4,win,206537,406,1640638,2017
 0,0,0,0,0,0,0,0,0,0,02/21/2017,home,12560,257,Georgia,9,True,6,5,1,win,206759,406,1640638,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,272,Hartford,10,True,4,3,1,win,207056,406,1640638,2017

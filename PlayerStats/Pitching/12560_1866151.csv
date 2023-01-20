@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,3,3,2,1,0,7,5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,5,0,02/17/2017,away,12560,402,McNeese,9,True,2,18,-16,loss,205804,683,1866151,2017
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,6,0,04/05/2017,home,12560,310,Iona,9,True,13,2,11,win,216806,683,1866151,2017
+0,0,2.0,0.0,0,0,0,3,2,0,9,5,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,0,0,3,0,04/26/2017,home,12560,220,Fairfield,9,True,0,1,-1,loss,222938,683,1866151,2017

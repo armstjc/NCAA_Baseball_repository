@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.1,0.0,6,10,7,2,1,0,19,14,2,0,1,0,0,1,0,0,0,2,0,0,3,2,0,1,0,1,0,02/11/2017,away,12560,537,UNC Pembroke,9,True,4,15,-11,loss,205474,1028,1869830,2017
+0,1,2.2,0.0,0,4,3,5,2,0,14,7,0,0,0,0,1,2,0,0,0,0,0,66,2,3,0,1,0,1,0,02/17/2017,neutral,12560,1438,West Liberty,9,True,5,16,-11,loss,205979,1028,1869830,2017
+0,0,1.0,0.0,2,3,3,0,2,0,6,5,1,0,0,1,0,1,0,2,0,0,0,0,1,0,0,0,0,2,0,02/19/2017,away,12560,791,Winston-Salem,9,True,5,8,-3,loss,206546,1028,1869830,2017
+0,0,0.1,0.0,1,5,1,2,0,0,6,4,1,0,0,0,1,0,0,1,1,0,0,22,1,0,0,1,0,2,0,02/26/2017,home,12560,546,Pitt.-Johnstown,9,True,9,14,-5,loss,207903,1028,1869830,2017
+0,0,1.0,0.0,3,3,3,1,0,0,8,6,0,0,0,0,0,1,0,0,0,0,0,25,2,1,0,0,0,2,0,03/20/2017,home,12560,30104,Urbana,9,True,29,6,23,win,212885,1028,1869830,2017
+0,0,1.0,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,4,0,04/30/2017,away,12560,1013,Charleston (WV),9,True,3,12,-9,loss,224283,1028,1869830,2017

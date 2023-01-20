@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,721,Air Force,9,True,4,3,1,win,206334,718,1529068,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,721,Air Force,9,True,2,3,-1,loss,206350,718,1529068,2017
 2,2,0,0,0,0,0,0,0,0,02/19/2017,home,12560,725,Army West Point,9,True,4,7,-3,loss,206448,718,1529068,2017

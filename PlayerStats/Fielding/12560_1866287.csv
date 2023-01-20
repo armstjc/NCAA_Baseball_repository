@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,769,Western Caro.,9,True,14,3,11,win,205957,603,1866287,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,317,James Madison,9,True,13,1,12,win,206268,603,1866287,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,neutral,12560,575,Richmond,9,True,7,3,4,win,206598,603,1866287,2017

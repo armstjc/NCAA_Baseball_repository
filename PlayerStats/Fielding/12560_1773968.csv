@@ -1,6 +1,6 @@
 TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/03/2017,away,12560,2711,North Florida,9,True,0,6,-6,loss,208293,540,1773968,2017
-1,0,1,0,0,0,0,0,0,0,03/04/2017,away,12560,2711,North Florida,9,True,2,3,-1,loss,208547,540,1773968,2017
+1,1,0,0,0,0,0,0,0,0,03/04/2017,away,12560,2711,North Florida,9,True,2,3,-1,loss,208547,540,1773968,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,away,12560,2711,North Florida,9,True,3,7,-4,loss,209051,540,1773968,2017
 0,0,0,0,0,0,0,0,0,0,03/07/2017,neutral,12560,735,Valparaiso,9,True,0,3,-3,loss,209666,540,1773968,2017
 0,0,0,0,0,0,0,0,0,0,03/08/2017,neutral,12560,735,Valparaiso,9,True,3,16,-13,loss,209869,540,1773968,2017
@@ -21,7 +21,7 @@ TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/02/2017,home,12560,275,Harvard,9,True,7,4,3,win,216300,540,1773968,2017
 0,0,0,0,0,0,0,0,0,0,04/03/2017,home,12560,172,Dartmouth,9,True,5,9,-4,loss,216540,540,1773968,2017
 0,0,0,0,0,0,0,0,0,0,04/03/2017,home,12560,172,Dartmouth,11,True,7,6,1,win,216559,540,1773968,2017
-1,0,1,0,0,0,0,0,0,0,04/04/2017,away,12560,739,Villanova,9,True,11,2,9,win,216628,540,1773968,2017
+1,1,0,0,0,0,0,0,0,0,04/04/2017,away,12560,739,Villanova,9,True,11,2,9,win,216628,540,1773968,2017
 0,0,0,0,0,0,0,0,0,0,04/08/2017,away,12560,80,Brown,9,True,4,2,2,win,217434,540,1773968,2017
 0,0,0,0,0,0,0,0,0,0,04/08/2017,away,12560,80,Brown,9,True,6,8,-2,loss,217642,540,1773968,2017
 0,0,0,0,0,0,0,0,0,0,04/09/2017,away,12560,813,Yale,9,True,2,6,-4,loss,218217,540,1773968,2017

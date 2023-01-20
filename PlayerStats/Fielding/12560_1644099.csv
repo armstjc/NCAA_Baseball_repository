@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/16/2017,away,12560,97,Cal St. Fullerton,9,True,0,1,-1,loss,205771,674,1644099,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,97,Cal St. Fullerton,9,True,1,8,-7,loss,206078,674,1644099,2017
 2,2,0,0,0,0,0,0,0,0,02/19/2017,away,12560,97,Cal St. Fullerton,11,True,7,6,1,win,206506,674,1644099,2017

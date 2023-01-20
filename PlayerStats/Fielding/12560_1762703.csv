@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/03/2017,away,12560,472,New Mexico St.,9,True,3,1,2,win,208366,813,1762703,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,472,New Mexico St.,9,True,5,16,-11,loss,208694,813,1762703,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,472,New Mexico St.,9,True,3,7,-4,loss,208780,813,1762703,2017
@@ -49,5 +49,5 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,05/27/2017,away,12560,285,Holy Cross,9,True,8,2,6,win,227625,813,1762703,2017
 0,0,0,0,0,0,0,0,0,0,06/02/2017,neutral,12560,463,Nebraska,9,True,5,1,4,win,227693,813,1762703,2017
 0,0,0,0,0,0,0,0,0,0,06/03/2017,home,12560,528,Oregon St.,9,True,0,11,-11,loss,227718,813,1762703,2017
-0,0,0,0,0,0,0,0,0,0,06/04/2017,neutral,12560,285,Holy Cross,9,True,9,5,4,win,227755,813,1762703,2017
 0,0,0,0,0,0,0,0,0,0,06/04/2017,away,12560,528,Oregon St.,9,True,1,8,-7,loss,227750,813,1762703,2017
+0,0,0,0,0,0,0,0,0,0,06/04/2017,neutral,12560,285,Holy Cross,9,True,9,5,4,win,227755,813,1762703,2017

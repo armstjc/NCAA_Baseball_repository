@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,201,Eastern Ill.,9,True,8,2,6,win,206339,646,1884742,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,201,Eastern Ill.,9,True,32,0,32,win,206352,646,1884742,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,201,Eastern Ill.,9,True,8,3,5,win,206510,646,1884742,2017

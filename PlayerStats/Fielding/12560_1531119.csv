@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 11,11,0,0,0,2,0,0,0,0,02/04/2017,home,12560,1156,Neb.-Kearney,9,True,15,10,5,win,205175,413,1531119,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,home,12560,1156,Neb.-Kearney,9,True,3,6,-3,loss,205192,413,1531119,2017
 8,9,1,0,0,0,0,1,0,0,02/05/2017,home,12560,1156,Neb.-Kearney,9,True,2,6,-4,loss,205301,413,1531119,2017

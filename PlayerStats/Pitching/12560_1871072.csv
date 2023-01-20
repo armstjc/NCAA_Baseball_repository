@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,2,2,1,0,0,6,5,0,0,0,1,0,0,0,0,0,0,0,19,0,3,0,0,0,3,0,03/21/2017,away,12560,716,Troy,9,True,2,9,-7,loss,213024,625,1871072,2017
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,20,2,0,0,0,0,10,1,04/11/2017,home,12560,37,Auburn,9,True,15,16,-1,loss,218683,625,1871072,2017
+0,0,0.0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,5,0,04/14/2017,home,12560,141,The Citadel,9,True,6,8,-2,loss,219426,625,1871072,2017
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,04/25/2017,away,12560,6,Alabama A&M,9,True,31,1,30,win,222660,625,1871072,2017
+0,0,1.0,0.0,0,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,10,3,0,0,0,0,10,0,05/20/2017,home,12560,459,UNC Greensboro,9,True,7,14,-7,loss,227177,625,1871072,2017

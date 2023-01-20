@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,3,0,4,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,02/18/2017,away,12560,97,Cal St. Fullerton,9,True,1,8,-7,loss,206078,674,1866194,2017
+0,0,0.0,0.0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,2,0,02/25/2017,home,12560,328,Kansas,9,True,5,0,5,win,207254,674,1866194,2017
+0,0,0.1,0.0,2,4,4,2,0,0,5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,03/12/2017,away,12560,574,Rice,9,True,2,12,-10,loss,211099,674,1866194,2017
+0,0,1.0,0.0,3,2,2,0,1,0,6,6,2,0,0,0,0,0,0,0,0,0,0,32,1,1,0,0,0,3,1,05/25/2017,away,12560,754,Washington St.,9,True,13,2,11,win,227399,674,1866194,2017

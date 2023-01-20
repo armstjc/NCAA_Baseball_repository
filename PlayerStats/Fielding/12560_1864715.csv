@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,110,UCLA,9,True,2,3,-1,loss,206018,630,1864715,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,away,12560,110,UCLA,9,True,1,10,-9,loss,206413,630,1864715,2017
 0,0,0,0,0,0,0,0,0,0,02/23/2017,home,12560,77,BYU,13,True,3,2,1,win,206883,630,1864715,2017

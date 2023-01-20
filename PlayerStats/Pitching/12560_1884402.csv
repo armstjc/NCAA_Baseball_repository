@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,1,2,2,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,03/05/2017,away,12560,316,Jacksonville,9,True,3,6,-3,loss,209142,735,1884402,2017
+0,0,0.2,0.0,3,4,0,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,03/10/2017,away,12560,651,South Fla.,9,True,2,11,-9,loss,210210,735,1884402,2017
+0,0,0.2,0.0,2,2,2,0,0,0,4,3,0,0,0,1,0,1,0,0,0,0,0,13,0,1,0,0,0,6,0,03/26/2017,away,12560,302,UIC,9,True,1,8,-7,loss,214613,735,1884402,2017
+0,0,0.2,0.0,1,1,1,0,0,0,3,3,0,0,0,1,0,0,0,2,2,0,0,0,1,1,0,0,0,6,0,04/09/2017,home,12560,505,Northern Ky.,9,True,7,18,-11,loss,218137,735,1884402,2017
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,2,0,0,0,3,0,05/07/2017,away,12560,514,Oakland,9,True,0,7,-7,loss,225679,735,1884402,2017

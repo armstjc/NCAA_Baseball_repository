@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,neutral,12560,418,Michigan,9,True,5,4,1,win,205963,635,1647942,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,418,Michigan,9,True,7,10,-3,loss,206300,635,1647942,2017
 8,9,1,0,0,0,1,0,0,0,02/18/2017,neutral,12560,418,Michigan,10,True,7,8,-1,loss,206371,635,1647942,2017

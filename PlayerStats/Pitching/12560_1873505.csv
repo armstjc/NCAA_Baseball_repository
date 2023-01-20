@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,1,0,0,0,1,0,5,5,0,0,0,0,0,0,0,3,0,0,0,19,2,1,0,0,0,7,0,03/26/2017,home,12560,30092,Flagler,9,True,5,14,-9,loss,214694,1085,1873505,2017
+0,0,0.2,0.0,1,1,1,2,1,0,4,2,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,3,1,04/04/2017,home,12560,594,Saint Augustine's,9,True,9,5,4,win,216797,1085,1873505,2017
+0,0,1.0,0.0,1,1,1,0,1,0,4,4,0,1,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,6,1,04/23/2017,home,12560,159,Columbus St.,9,True,1,9,-8,loss,222516,1085,1873505,2017

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,1,0,0,0,1,0,3,3,1,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,6,1,02/19/2017,home,12560,1328,Rockhurst,9,True,6,16,-10,loss,206542,30050,1645460,2017
+0,0,0.1,0.0,1,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,03/07/2017,away,12560,30136,Lindenwood,9,True,7,8,-1,loss,209690,30050,1645460,2017
+0,0,1.0,0.0,3,2,2,0,0,0,6,6,1,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,3,0,03/17/2017,home,12560,0,Robert Morris-S'fiel,9,True,31,4,27,win,211737,30050,1645460,2017
+0,0,0.2,0.0,2,1,1,0,0,0,4,4,0,1,0,0,0,0,0,3,3,0,0,0,0,2,0,0,0,4,0,03/31/2017,home,12560,661,Southern Ind.,9,True,2,10,-8,loss,215435,30050,1645460,2017
+0,0,1.2,0.0,5,8,5,4,2,0,16,11,0,0,0,0,1,1,0,0,0,0,0,0,2,1,0,0,0,6,0,04/25/2017,home,12560,377,MacMurray,9,True,18,14,4,win,222761,30050,1645460,2017

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,3,0,1,0,0,0,3,0,02/24/2017,home,12560,72,Bradley,9,True,13,7,6,win,206999,692,1887139,2017
+0,0,1.0,0.0,3,3,0,0,1,0,8,7,0,0,0,0,0,1,0,0,0,0,0,35,1,1,0,0,0,5,1,02/28/2017,home,12560,1004,Central Ark.,9,True,6,10,-4,loss,208106,692,1887139,2017
+0,0,0.1,0.0,2,1,1,1,1,0,4,3,1,0,0,0,2,0,0,3,3,0,0,15,0,0,0,0,0,6,0,03/08/2017,away,12560,28600,Lipscomb,9,True,9,11,-2,loss,209785,692,1887139,2017

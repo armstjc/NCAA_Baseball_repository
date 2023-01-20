@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,415,Miami (FL),9,True,0,3,-3,loss,205794,587,1530369,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,415,Miami (FL),9,True,4,8,-4,loss,206007,587,1530369,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,away,12560,415,Miami (FL),9,True,17,6,11,win,206400,587,1530369,2017

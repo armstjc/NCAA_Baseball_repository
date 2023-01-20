@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/03/2017,home,12560,568,Regis (CO),9,True,1,5,-4,loss,205043,25,1878961,2017
 0,0,0,0,0,0,1,0,0,0,02/04/2017,home,12560,568,Regis (CO),9,True,5,3,2,win,205118,25,1878961,2017
 0,0,0,0,0,0,0,0,0,0,02/05/2017,home,12560,568,Regis (CO),9,True,11,9,2,win,205260,25,1878961,2017

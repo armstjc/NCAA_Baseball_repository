@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 6,7,0,1,0,0,0,0,1,0,02/03/2017,home,12560,30058,Claflin,9,True,7,4,3,win,205115,1085,1873519,2017
 12,13,1,0,0,0,0,0,0,0,02/04/2017,home,12560,9223,North Greenville,12,True,2,1,1,win,205252,1085,1873519,2017
 7,8,1,0,0,0,0,0,0,0,02/05/2017,home,12560,1462,Wingate,9,True,2,0,2,win,205311,1085,1873519,2017

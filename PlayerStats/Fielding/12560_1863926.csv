@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,699,Texas Southern,9,True,11,4,7,win,205824,536,1863926,2017
 2,2,0,0,0,0,0,0,0,0,02/18/2017,home,12560,699,Texas Southern,9,True,12,2,10,win,206115,536,1863926,2017
 2,3,1,0,0,0,0,0,0,0,02/18/2017,home,12560,699,Texas Southern,9,True,9,0,9,win,206186,536,1863926,2017

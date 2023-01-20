@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 3,6,2,1,0,0,0,0,2,0,02/17/2017,neutral,12560,108,UC Davis,9,True,6,4,2,win,205953,610,1643372,2017
 3,5,2,0,0,0,0,0,1,0,02/19/2017,neutral,12560,464,Omaha,9,True,9,3,6,win,206592,610,1643372,2017
 0,4,4,0,0,0,0,0,2,0,02/23/2017,home,12560,756,Washington,9,True,6,5,1,win,206863,610,1643372,2017

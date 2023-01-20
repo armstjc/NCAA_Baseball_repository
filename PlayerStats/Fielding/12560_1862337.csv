@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,659,Southern Ill.,9,True,6,7,-1,loss,205801,678,1862337,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,659,Southern Ill.,9,True,0,7,-7,loss,206013,678,1862337,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,home,12560,659,Southern Ill.,9,True,4,8,-4,loss,206407,678,1862337,2017

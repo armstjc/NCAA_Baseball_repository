@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,0.0,6,2,2,0,5,0,21,19,1,0,1,0,0,1,0,0,0,1,0,94,5,4,0,0,0,1,2,02/18/2017,away,12560,110,UCLA,9,True,2,3,-1,loss,206018,630,1655049,2017
+0,1,6.0,0.0,5,1,0,0,3,0,24,21,1,0,0,0,0,0,0,0,0,2,1,81,6,9,0,0,0,1,1,02/25/2017,home,12560,77,BYU,9,True,4,2,2,win,207584,630,1655049,2017
+0,1,6.0,0.0,6,5,1,2,8,0,27,25,1,1,0,1,0,0,0,0,0,0,0,0,3,5,0,0,0,1,2,03/03/2017,home,12560,465,UNLV,9,True,6,5,1,win,208279,630,1655049,2017
+0,1,4.1,0.0,14,10,10,1,1,0,27,25,1,0,0,4,0,1,0,0,0,0,0,88,6,4,0,1,0,1,1,03/10/2017,away,12560,473,New Mexico,9,True,1,11,-10,loss,210097,630,1655049,2017
+0,1,4.0,0.0,5,1,1,1,5,0,17,15,1,1,0,0,0,1,0,0,0,0,0,78,2,3,0,0,0,1,1,03/17/2017,home,12560,466,Nevada,12,True,6,5,1,win,211740,630,1655049,2017

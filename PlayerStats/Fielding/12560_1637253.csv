@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,2,2,0,0,0,0,0,0,0,02/17/2017,home,12560,30024,Utah Valley,9,True,4,3,1,win,205800,782,1637253,2017
 4,4,0,0,0,0,0,0,0,0,02/18/2017,home,12560,30024,Utah Valley,9,True,16,2,14,win,206012,782,1637253,2017
 6,8,1,1,0,0,0,0,1,0,02/19/2017,home,12560,30024,Utah Valley,9,True,6,5,1,win,206406,782,1637253,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 6,6,0,0,0,0,0,0,0,0,02/17/2017,home,12560,72,Bradley,9,True,10,7,3,win,205798,26172,1770934,2017
 3,3,0,0,0,0,0,0,0,0,02/18/2017,home,12560,72,Bradley,9,True,5,9,-4,loss,206010,26172,1770934,2017
 2,2,0,0,0,0,0,0,0,0,02/19/2017,home,12560,72,Bradley,9,True,6,7,-1,loss,206404,26172,1770934,2017

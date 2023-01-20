@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/08/2017,home,12560,361,LIU,9,True,10,12,-2,loss,209764,617,1896865,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,away,12560,671,Louisiana,9,True,0,10,-10,loss,210093,617,1896865,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,away,12560,671,Louisiana,9,True,1,6,-5,loss,210462,617,1896865,2017

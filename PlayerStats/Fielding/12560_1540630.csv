@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,716,Troy,9,True,6,2,4,win,205863,812,1540630,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,716,Troy,10,True,1,2,-1,loss,206139,812,1540630,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,716,Troy,9,True,8,2,6,win,206212,812,1540630,2017
@@ -58,5 +58,5 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,05/28/2017,neutral,12560,603,St. John's (NY),9,True,7,6,1,win,227653,812,1540630,2017
 0,0,0,0,0,0,0,0,0,0,06/02/2017,neutral,12560,522,Oklahoma,9,True,2,7,-5,loss,227699,812,1540630,2017
 0,0,0,0,0,0,0,0,0,0,06/03/2017,neutral,12560,563,Radford,9,True,3,1,2,win,227732,812,1540630,2017
-0,1,1,0,0,0,0,0,0,0,06/04/2017,neutral,12560,522,Oklahoma,9,True,11,0,11,win,227761,812,1540630,2017
 0,0,0,0,0,0,0,0,0,0,06/04/2017,away,12560,367,Louisville,9,True,7,8,-1,loss,227747,812,1540630,2017
+0,1,1,0,0,0,0,0,0,0,06/04/2017,neutral,12560,522,Oklahoma,9,True,11,0,11,win,227761,812,1540630,2017

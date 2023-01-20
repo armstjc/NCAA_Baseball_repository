@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 1,1,0,0,0,0,0,0,0,0,02/03/2017,home,12560,0,Baker,9,True,9,1,8,win,205107,30202,1874186,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,home,12560,0,Baker,9,True,9,0,9,win,205245,30202,1874186,2017
 0,0,0,0,0,0,0,0,0,0,02/10/2017,home,12560,30179,Okla. Christian,9,True,2,5,-3,loss,205395,30202,1874186,2017

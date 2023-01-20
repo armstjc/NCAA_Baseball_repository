@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,5,0,02/02/2017,neutral,12560,8965,East Central,12,True,6,5,1,win,205029,30177,1766513,2017
+0,0,0.2,0.0,3,1,1,1,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,02/03/2017,neutral,12560,9013,Missouri Western,9,True,5,2,3,win,205099,30177,1766513,2017
+0,0,0.2,0.0,5,5,4,1,0,0,7,6,1,0,0,0,0,0,0,0,0,0,0,33,0,1,0,0,0,4,0,02/18/2017,away,12560,25,Angelo St.,9,True,6,14,-8,loss,206028,30177,1766513,2017

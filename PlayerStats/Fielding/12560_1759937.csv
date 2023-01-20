@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/24/2017,neutral,12560,197,East Stroudsburg,9,True,9,4,5,win,207096,643,1759937,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,neutral,12560,765,West Chester,9,True,1,9,-8,loss,207559,643,1759937,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,neutral,12560,765,West Chester,9,True,2,1,1,win,207569,643,1759937,2017
@@ -30,10 +30,10 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/15/2017,away,12560,307,Indiana (PA),9,True,8,13,-5,loss,220210,643,1759937,2017
 0,0,0,0,0,0,0,0,0,0,04/18/2017,home,12560,65,Bloomsburg,9,True,6,14,-8,loss,220746,643,1759937,2017
 0,0,0,0,0,0,0,0,0,0,04/18/2017,home,12560,65,Bloomsburg,9,True,5,4,1,win,220769,643,1759937,2017
-0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,106,Cal U (PA),9,True,12,5,7,win,221599,643,1759937,2017
-0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,106,Cal U (PA),9,True,13,7,6,win,221778,643,1759937,2017
-0,0,0,0,0,0,0,0,0,0,04/23/2017,home,12560,106,Cal U (PA),9,True,12,1,11,win,222208,643,1759937,2017
-0,0,0,0,0,0,0,0,0,0,04/23/2017,home,12560,106,Cal U (PA),9,True,3,8,-5,loss,222306,643,1759937,2017
+0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,106,California (PA),9,True,12,5,7,win,221599,643,1759937,2017
+0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,106,California (PA),9,True,13,7,6,win,221778,643,1759937,2017
+0,0,0,0,0,0,0,0,0,0,04/23/2017,home,12560,106,California (PA),9,True,12,1,11,win,222208,643,1759937,2017
+0,0,0,0,0,0,0,0,0,0,04/23/2017,home,12560,106,California (PA),9,True,3,8,-5,loss,222306,643,1759937,2017
 0,1,1,0,0,0,0,0,0,0,04/28/2017,away,12560,246,Gannon,9,True,6,11,-5,loss,223230,643,1759937,2017
 0,0,0,0,0,0,0,0,0,0,04/28/2017,away,12560,246,Gannon,9,True,5,3,2,win,223281,643,1759937,2017
 0,0,0,0,0,0,0,0,0,0,04/30/2017,home,12560,246,Gannon,9,True,5,1,4,win,224178,643,1759937,2017

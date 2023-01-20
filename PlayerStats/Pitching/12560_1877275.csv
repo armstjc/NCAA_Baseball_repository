@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,1,0,0,1,0,0,3,2,1,0,0,0,0,0,0,3,3,0,0,9,0,1,0,0,0,9,0,03/29/2017,away,12560,766,West Ga.,9,True,9,20,-11,loss,215017,30154,1877275,2017
+0,0,2.0,0.0,2,4,2,3,2,0,13,9,0,0,0,1,0,0,0,0,0,1,0,0,2,2,0,0,0,3,1,04/01/2017,away,12560,1167,Lander,9,True,6,14,-8,loss,215682,30154,1877275,2017
+0,0,0.1,0.0,0,1,1,2,1,0,4,1,0,0,0,0,0,1,0,3,3,0,0,18,0,0,0,0,0,5,0,04/07/2017,home,12560,30052,North Georgia,9,True,1,13,-12,loss,217114,30154,1877275,2017
+0,0,0.1,0.0,1,2,2,1,0,0,5,2,0,0,0,0,0,2,0,1,0,0,0,22,0,1,0,0,0,3,0,04/15/2017,home,12560,1238,Montevallo,9,True,12,14,-2,loss,220012,30154,1877275,2017

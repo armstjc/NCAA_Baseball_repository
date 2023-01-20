@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,3,2,1,0,3,0,7,7,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8,0,02/04/2017,home,12560,1071,Emporia St.,9,True,14,27,-13,loss,205122,2720,1427627,2017
+0,0,0.2,0.0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,3,0,02/10/2017,home,12560,9754,UC-Colo. Springs,9,True,13,4,9,win,205438,2720,1427627,2017
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,5,0,03/12/2017,home,12560,155,Colo. Sch. of Mines,9,True,5,9,-4,loss,210896,2720,1427627,2017

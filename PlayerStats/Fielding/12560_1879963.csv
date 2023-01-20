@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 2,8,6,0,0,0,0,0,0,0,02/03/2017,home,12560,1071,Emporia St.,9,True,0,8,-8,loss,205052,2720,1879963,2017
 3,8,5,0,0,0,0,0,1,0,02/04/2017,home,12560,1071,Emporia St.,9,True,14,27,-13,loss,205122,2720,1879963,2017
 0,5,5,0,0,0,0,0,0,0,02/05/2017,home,12560,1071,Emporia St.,9,True,4,3,1,win,205265,2720,1879963,2017

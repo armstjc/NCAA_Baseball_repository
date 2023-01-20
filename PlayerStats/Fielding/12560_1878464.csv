@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 1,1,0,0,0,0,0,0,0,0,02/02/2017,home,12560,9754,UC-Colo. Springs,9,True,3,4,-1,loss,205032,91,1878464,2017
 0,0,0,0,0,0,0,0,0,0,02/03/2017,home,12560,9754,UC-Colo. Springs,9,True,8,0,8,win,205080,91,1878464,2017
 0,0,0,0,0,0,0,0,0,0,02/03/2017,home,12560,9754,UC-Colo. Springs,9,True,4,3,1,win,205087,91,1878464,2017
@@ -50,8 +50,8 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,05/06/2017,home,12560,628,San Fran. St.,9,True,8,4,4,win,225044,91,1878464,2017
 0,0,0,0,0,0,0,0,0,0,05/10/2017,neutral,12560,30055,Cal St. Monterey Bay,9,True,6,3,3,win,225906,91,1878464,2017
 1,4,3,0,0,0,0,0,1,0,05/11/2017,neutral,12560,112,UC San Diego,11,True,9,8,1,win,225988,91,1878464,2017
-0,0,0,0,0,0,0,0,0,0,05/12/2017,neutral,12560,112,UC San Diego,9,True,3,7,-4,loss,226191,91,1878464,2017
 0,0,0,0,0,0,0,0,0,0,05/12/2017,neutral,12560,95,Chico St.,10,True,7,8,-1,loss,226190,91,1878464,2017
+0,0,0,0,0,0,0,0,0,0,05/12/2017,neutral,12560,112,UC San Diego,9,True,3,7,-4,loss,226191,91,1878464,2017
 2,3,1,0,0,0,0,0,1,0,05/18/2017,neutral,12560,95,Chico St.,10,True,8,7,1,win,226839,91,1878464,2017
 0,0,0,0,0,0,0,0,0,0,05/19/2017,home,12560,30095,Utah Tech,10,True,5,6,-1,loss,227096,91,1878464,2017
 0,0,0,0,0,0,0,0,0,0,05/20/2017,away,12560,30146,Azusa Pacific,9,True,1,10,-9,loss,227204,91,1878464,2017

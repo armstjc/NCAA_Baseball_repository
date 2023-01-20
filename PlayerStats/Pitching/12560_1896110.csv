@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,4,1,1,0,1,0,9,9,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,3,0,03/19/2017,home,12560,2720,CSU Pueblo,9,True,7,12,-5,loss,212595,8577,1896110,2017
+0,0,0.2,0.0,5,3,3,0,1,0,7,7,1,0,1,1,2,0,0,1,1,0,0,0,1,0,0,0,0,3,0,03/24/2017,home,12560,568,Regis (CO),9,True,16,23,-7,loss,213686,8577,1896110,2017
+0,0,2.0,0.0,3,3,3,2,1,0,11,9,2,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,0,2,1,04/07/2017,neutral,12560,929,Adams St.,9,True,21,10,11,win,217236,8577,1896110,2017
+0,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,1,0,0,10,1,0,0,0,0,3,0,05/06/2017,away,12560,11403,Colo. Christian,9,True,2,3,-1,loss,225088,8577,1896110,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/02/2017,neutral,12560,30179,Okla. Christian,9,True,5,15,-10,loss,205027,9013,1875202,2017
 0,0,0,0,0,0,0,0,0,0,02/02/2017,neutral,12560,1376,Southern Ark.,9,True,4,5,-1,loss,205028,9013,1875202,2017
 0,0,0,0,0,0,0,0,0,0,02/03/2017,neutral,12560,30177,Lubbock Christian,9,True,2,5,-3,loss,205099,9013,1875202,2017

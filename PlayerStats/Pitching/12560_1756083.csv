@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,3.1,0.0,9,7,7,0,0,0,18,18,0,0,0,5,0,0,0,0,0,0,0,0,4,5,0,1,0,1,0,02/03/2017,away,12560,608,Saint Leo,9,True,5,11,-6,loss,205036,358,1756083,2017
+0,1,7.0,0.0,4,1,1,1,3,0,29,25,1,0,0,0,0,3,0,0,0,0,0,0,8,10,1,0,0,1,1,02/10/2017,home,12560,30136,Lindenwood,9,True,2,1,1,win,205398,358,1756083,2017
+0,1,3.2,0.0,3,3,3,2,4,0,19,14,0,0,0,1,0,2,0,0,0,0,1,0,3,4,0,0,0,1,1,02/18/2017,home,12560,181,Delta St.,9,True,4,6,-2,loss,206156,358,1756083,2017
+0,1,4.2,0.0,10,8,8,4,5,0,28,21,2,0,0,1,0,0,0,0,0,2,1,0,4,5,0,0,0,1,1,02/25/2017,home,12560,429,Mississippi Col.,9,True,10,9,1,win,207382,358,1756083,2017
+0,0,1.0,0.0,3,0,0,0,3,0,6,6,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,7,2,05/18/2017,neutral,12560,24639,Nova Southeastern,9,True,5,20,-15,loss,226841,358,1756083,2017

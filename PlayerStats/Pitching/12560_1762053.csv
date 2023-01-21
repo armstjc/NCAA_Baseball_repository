@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,2,3,3,1,1,0,5,4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,4,0,02/17/2017,away,12560,30179,Okla. Christian,9,True,7,8,-1,loss,205891,507,1762053,2017
+0,0,1.1,0.0,0,0,0,1,1,0,5,4,0,0,0,0,0,0,0,1,0,0,0,25,2,0,0,0,0,4,1,04/14/2017,away,12560,2755,Southwest Baptist,9,True,6,17,-11,loss,219323,507,1762053,2017
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,2,0,0,0,0,3,0,04/28/2017,away,12560,1071,Emporia St.,9,True,5,15,-10,loss,223429,507,1762053,2017
+0,0,1.0,0.0,1,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,10,3,0,0,0,0,3,0,05/02/2017,away,12560,30120,William Jewell,11,True,6,3,3,win,224469,507,1762053,2017
+0,0,0.1,0.0,2,2,2,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,19,1,0,0,0,0,3,0,05/07/2017,home,12560,9011,Fort Hays St.,9,True,5,4,1,win,225414,507,1762053,2017

@@ -1,6 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0.2,0.0,0,0,0,0,2,0,2,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,4,0,02/12/2017,neutral,12560,358,West Ala.,9,True,7,16,-9,loss,205679,333,1883064,2017
 0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,0,02/17/2017,neutral,12560,1403,Tiffin,9,True,4,6,-2,loss,205955,333,1883064,2017
-0,0,0.0,0.0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,03/18/2017,neutral,12560,395,Maryville (MO),13,True,9,5,4,win,212463,333,1883064,2017
 0,0,0.2,0.0,3,2,0,0,0,0,5,5,1,1,0,0,0,0,0,1,1,0,0,17,1,1,0,0,0,3,0,04/02/2017,away,12560,15207,Ohio Valley,9,True,4,10,-6,loss,216286,333,1883064,2017
 0,0,0.2,0.0,4,3,3,0,1,0,6,5,2,0,0,0,2,0,0,0,0,0,1,0,0,1,0,1,0,3,0,04/04/2017,away,12560,52,Bellarmine,9,True,2,5,-3,loss,216754,333,1883064,2017

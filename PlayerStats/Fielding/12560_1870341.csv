@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/04/2017,away,12560,15646,Barton,9,True,3,5,-2,loss,205162,19117,1870341,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,away,12560,15646,Barton,9,True,2,14,-12,loss,205205,19117,1870341,2017
 2,9,7,0,0,0,0,0,0,0,02/05/2017,away,12560,15646,Barton,9,True,4,34,-30,loss,205268,19117,1870341,2017
@@ -29,8 +29,8 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 4,7,3,0,0,0,0,0,1,0,03/29/2017,home,12560,9630,West Va. Wesleyan,9,True,3,2,1,win,215071,19117,1870341,2017
 4,5,1,0,0,0,0,0,0,0,04/02/2017,home,12560,174,Davis & Elkins,9,True,5,9,-4,loss,216312,19117,1870341,2017
 9,9,0,0,0,0,0,0,1,0,04/02/2017,home,12560,174,Davis & Elkins,9,True,3,6,-3,loss,216345,19117,1870341,2017
-0,0,0,0,0,0,0,0,0,0,04/04/2017,away,12560,106,Cal U (PA),9,True,1,11,-10,loss,216742,19117,1870341,2017
-1,2,1,0,0,0,0,0,0,0,04/04/2017,away,12560,106,Cal U (PA),9,True,2,12,-10,loss,216756,19117,1870341,2017
+0,0,0,0,0,0,0,0,0,0,04/04/2017,away,12560,106,California (PA),9,True,1,11,-10,loss,216742,19117,1870341,2017
+1,2,1,0,0,0,0,0,0,0,04/04/2017,away,12560,106,California (PA),9,True,2,12,-10,loss,216756,19117,1870341,2017
 1,1,0,0,0,0,0,0,0,0,04/11/2017,home,12560,30137,Malone,9,True,5,8,-3,loss,218747,19117,1870341,2017
 4,4,0,0,0,0,0,0,1,0,04/11/2017,home,12560,30137,Malone,9,True,6,11,-5,loss,218776,19117,1870341,2017
 0,0,0,0,0,0,0,0,0,0,04/14/2017,away,12560,15207,Ohio Valley,9,True,0,10,-10,loss,219723,19117,1870341,2017

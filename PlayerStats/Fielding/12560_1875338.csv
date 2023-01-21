@@ -1,8 +1,8 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,1318,Post,9,True,10,3,7,win,205994,349,1875338,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,1318,Post,9,True,2,4,-2,loss,206252,349,1875338,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,197,East Stroudsburg,9,True,7,4,3,win,206253,349,1875338,2017
-1,1,2,0,0,0,1,0,0,0,02/19/2017,neutral,12560,197,East Stroudsburg,9,True,9,6,3,win,206585,349,1875338,2017
+1,2,1,0,0,0,1,0,0,0,02/19/2017,neutral,12560,197,East Stroudsburg,9,True,9,6,3,win,206585,349,1875338,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,28594,USciences,9,True,0,1,-1,loss,207492,349,1875338,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,28594,USciences,9,True,6,5,1,win,207603,349,1875338,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,28594,USciences,9,True,12,1,11,win,207897,349,1875338,2017
@@ -35,11 +35,11 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,533,Pace,9,True,1,0,1,win,221612,349,1875338,2017
 0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,533,Pace,9,True,7,9,-2,loss,221790,349,1875338,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,away,12560,533,Pace,9,True,9,7,2,win,222118,349,1875338,2017
-1,4,5,0,0,0,0,0,0,0,04/26/2017,home,12560,1347,Saint Rose,9,True,10,1,9,win,222792,349,1875338,2017
+1,5,4,0,0,0,0,0,0,0,04/26/2017,home,12560,1347,Saint Rose,9,True,10,1,9,win,222792,349,1875338,2017
 0,0,0,0,0,0,0,0,0,0,04/29/2017,away,12560,470,New Haven,9,True,1,4,-3,loss,223574,349,1875338,2017
 0,0,0,0,0,0,0,0,0,0,04/30/2017,away,12560,470,New Haven,9,True,0,5,-5,loss,224202,349,1875338,2017
 0,0,0,0,0,0,0,0,0,0,04/30/2017,away,12560,470,New Haven,9,True,1,2,-1,loss,224248,349,1875338,2017
 0,0,0,0,0,0,0,0,0,0,05/06/2017,home,12560,3,Adelphi,9,True,10,3,7,win,225335,349,1875338,2017
-1,0,1,0,0,0,1,1,0,0,05/06/2017,home,12560,3,Adelphi,11,True,6,5,1,win,225346,349,1875338,2017
+1,1,0,0,0,0,1,1,0,0,05/06/2017,home,12560,3,Adelphi,11,True,6,5,1,win,225346,349,1875338,2017
 0,0,0,0,0,0,0,0,0,0,05/07/2017,home,12560,3,Adelphi,9,True,1,0,1,win,225620,349,1875338,2017
 0,0,0,0,0,0,0,0,0,0,05/09/2017,away,12560,470,New Haven,9,True,0,3,-3,loss,225818,349,1875338,2017

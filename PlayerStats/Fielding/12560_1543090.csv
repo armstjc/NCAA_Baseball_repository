@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,1,0,1,0,0,0,0,0,0,02/18/2017,neutral,12560,349,Le Moyne,9,True,4,7,-3,loss,206253,197,1543090,2017
 0,1,0,1,0,0,0,0,0,0,02/18/2017,neutral,12560,1318,Post,9,True,16,7,9,win,206368,197,1543090,2017
 2,3,0,1,0,0,0,0,0,0,02/19/2017,neutral,12560,349,Le Moyne,9,True,6,9,-3,loss,206585,197,1543090,2017

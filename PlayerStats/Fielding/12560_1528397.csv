@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/02/2017,neutral,12560,9013,Missouri Western,9,True,15,5,10,win,205027,30179,1528397,2017
 0,0,0,0,0,0,0,0,0,0,02/03/2017,neutral,12560,2814,Washburn,9,True,1,4,-3,loss,205098,30179,1528397,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,neutral,12560,1376,Southern Ark.,9,True,0,6,-6,loss,205235,30179,1528397,2017

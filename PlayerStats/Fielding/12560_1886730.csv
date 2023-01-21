@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,537,UNC Pembroke,9,True,0,22,-22,loss,205907,1347,1886730,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,537,UNC Pembroke,9,True,0,5,-5,loss,206169,1347,1886730,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,537,UNC Pembroke,9,True,2,16,-14,loss,206240,1347,1886730,2017

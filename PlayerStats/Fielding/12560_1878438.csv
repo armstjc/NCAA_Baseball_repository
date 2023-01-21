@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 4,4,0,0,0,0,0,0,0,0,02/01/2017,home,12560,0,Bacone,9,True,11,0,11,win,205007,30180,1878438,2017
 1,1,0,0,0,0,0,0,0,0,02/02/2017,home,12560,0,Randall,9,True,17,0,17,win,205030,30180,1878438,2017
 1,1,0,0,0,0,0,0,0,0,02/03/2017,home,12560,0,Randall,9,True,16,0,16,win,205111,30180,1878438,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 1,1,0,0,0,0,0,0,0,0,02/18/2017,away,12560,1001,Catawba,9,True,15,18,-3,loss,206160,638,1770128,2017
 2,2,0,0,0,0,0,0,0,0,02/18/2017,away,12560,1001,Catawba,9,True,4,11,-7,loss,206231,638,1770128,2017
 1,1,0,0,0,0,0,0,0,0,02/19/2017,away,12560,1001,Catawba,9,True,4,6,-2,loss,206505,638,1770128,2017

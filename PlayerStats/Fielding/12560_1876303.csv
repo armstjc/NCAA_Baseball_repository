@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/03/2017,away,12560,30045,Palm Beach Atl.,9,True,6,2,4,win,205055,49,1876303,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,away,12560,20794,Lynn,9,True,4,9,-5,loss,205116,49,1876303,2017
 1,2,1,0,0,0,0,0,0,0,02/05/2017,away,12560,24639,Nova Southeastern,11,True,7,8,-1,loss,205262,49,1876303,2017

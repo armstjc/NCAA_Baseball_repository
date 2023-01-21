@@ -1,5 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
-0,0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,02/11/2017,away,12560,2683,Belmont Abbey,9,True,5,1,4,win,205558,12830,1884611,2017
 0,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,6,2,0,0,0,0,5,0,02/19/2017,home,12560,52,Bellarmine,9,True,7,10,-3,loss,206452,12830,1884611,2017
 0,0,1.0,0.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,03/19/2017,away,12560,30094,Brevard,9,True,15,2,13,win,212766,12830,1884611,2017
 0,1,0.2,0.0,2,3,3,3,0,0,8,4,0,0,0,0,1,1,0,0,0,0,0,33,1,1,0,0,0,1,0,03/28/2017,away,12560,30013,Lee,9,True,13,10,3,win,214802,12830,1884611,2017

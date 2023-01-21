@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,1,2,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,03/15/2017,neutral,12560,757,Wayne St. (MI),9,True,6,4,2,win,211521,765,1895853,2017
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,4,0,04/02/2017,home,12560,638,Shippensburg,9,True,1,10,-9,loss,216214,765,1895853,2017
+0,0,0.1,0.0,3,3,3,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,04/18/2017,neutral,12560,28594,USciences,9,True,8,5,3,win,220799,765,1895853,2017
+0,0,0.2,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,2,0,0,0,0,4,0,05/12/2017,neutral,12560,360,Lock Haven,9,True,11,0,11,win,226164,765,1895853,2017
+0,0,2.0,0.0,2,1,1,1,2,0,10,8,0,0,0,1,1,1,0,0,0,0,0,41,2,2,0,0,0,2,1,05/13/2017,neutral,12560,408,Mercyhurst,9,True,18,4,14,win,226454,765,1895853,2017
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,0,2,0,0,0,4,0,05/19/2017,neutral,12560,10870,Shepherd,9,True,11,4,7,win,227084,765,1895853,2017

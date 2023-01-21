@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/03/2017,home,12560,1000,Carson-Newman,9,True,6,4,2,win,205069,30052,1755608,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,home,12560,1000,Carson-Newman,9,True,13,4,9,win,205135,30052,1755608,2017
 0,0,0,0,0,0,0,0,0,0,02/05/2017,home,12560,1000,Carson-Newman,9,True,17,0,17,win,205282,30052,1755608,2017

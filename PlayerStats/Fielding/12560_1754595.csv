@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/23/2017,neutral,12560,23157,Felician,9,True,0,2,-2,loss,206875,241,1754595,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,neutral,12560,560,Queens (NY),9,True,6,5,1,win,207134,241,1754595,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,neutral,12560,560,Queens (NY),9,True,3,5,-2,loss,207137,241,1754595,2017
@@ -8,8 +8,8 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/03/2017,away,12560,3,Adelphi,9,True,2,0,2,win,208471,241,1754595,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,neutral,12560,1348,St. Thomas Aquinas,9,True,3,1,2,win,210266,241,1754595,2017
 0,0,0,0,0,0,1,0,0,0,03/10/2017,neutral,12560,8956,Dominican (NY),9,True,3,8,-5,loss,210436,241,1754595,2017
-0,0,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,643,Slippery Rock,9,True,6,7,-1,loss,210675,241,1754595,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,away,12560,594,Saint Augustine's,9,True,8,1,7,win,210521,241,1754595,2017
+0,0,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,643,Slippery Rock,9,True,6,7,-1,loss,210675,241,1754595,2017
 0,0,0,0,0,0,1,0,0,0,03/14/2017,away,12560,1245,Mount Olive,9,True,4,7,-3,loss,211305,241,1754595,2017
 0,0,0,0,0,0,1,0,0,0,03/15/2017,away,12560,1462,Wingate,9,True,15,9,6,win,211508,241,1754595,2017
 0,0,0,0,0,0,0,0,0,0,03/21/2017,home,12560,1318,Post,9,True,11,0,11,win,213135,241,1754595,2017

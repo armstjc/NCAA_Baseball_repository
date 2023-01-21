@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/23/2017,neutral,12560,407,Mercy,9,True,8,10,-2,loss,206892,682,1886187,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,neutral,12560,162,Concordia (NY),9,True,6,4,2,win,207191,682,1886187,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,neutral,12560,8956,Dominican (NY),9,True,5,10,-5,loss,207175,682,1886187,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,791,Winston-Salem,9,True,7,6,1,win,207428,30063,1656019,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,791,Winston-Salem,9,True,6,11,-5,loss,207577,30063,1656019,2017
 0,0,0,0,0,0,1,0,0,0,02/26/2017,away,12560,791,Winston-Salem,9,True,19,14,5,win,207694,30063,1656019,2017
@@ -25,10 +25,10 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/02/2017,home,12560,408,Mercyhurst,9,True,0,9,-9,loss,216206,30063,1656019,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,home,12560,408,Mercyhurst,9,True,7,11,-4,loss,216276,30063,1656019,2017
 0,0,0,0,0,0,0,0,0,0,04/05/2017,home,12560,1438,West Liberty,9,True,14,6,8,win,216883,30063,1656019,2017
-0,0,0,0,0,0,0,0,0,0,04/08/2017,away,12560,106,Cal U (PA),9,True,5,2,3,win,217890,30063,1656019,2017
-0,0,0,0,0,0,0,0,0,0,04/08/2017,away,12560,106,Cal U (PA),9,True,4,9,-5,loss,217921,30063,1656019,2017
-0,0,0,0,0,0,0,0,0,0,04/09/2017,home,12560,106,Cal U (PA),9,True,4,3,1,win,218384,30063,1656019,2017
-0,0,0,0,0,0,0,0,0,0,04/09/2017,home,12560,106,Cal U (PA),9,True,8,2,6,win,218426,30063,1656019,2017
+0,0,0,0,0,0,0,0,0,0,04/08/2017,away,12560,106,California (PA),9,True,5,2,3,win,217890,30063,1656019,2017
+0,0,0,0,0,0,0,0,0,0,04/08/2017,away,12560,106,California (PA),9,True,4,9,-5,loss,217921,30063,1656019,2017
+0,0,0,0,0,0,0,0,0,0,04/09/2017,home,12560,106,California (PA),9,True,4,3,1,win,218384,30063,1656019,2017
+0,0,0,0,0,0,0,0,0,0,04/09/2017,home,12560,106,California (PA),9,True,8,2,6,win,218426,30063,1656019,2017
 0,0,0,0,0,0,0,0,0,0,04/11/2017,away,12560,360,Lock Haven,9,True,3,13,-10,loss,218746,30063,1656019,2017
 0,0,0,0,0,0,0,0,0,0,04/11/2017,away,12560,360,Lock Haven,9,True,12,11,1,win,218774,30063,1656019,2017
 0,0,0,0,0,0,0,0,0,0,04/14/2017,home,12560,546,Pitt.-Johnstown,9,True,8,3,5,win,219550,30063,1656019,2017

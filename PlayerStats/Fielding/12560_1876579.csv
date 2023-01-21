@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/03/2017,home,12560,92,Cal St. Dom. Hills,9,True,5,12,-7,loss,205083,30175,1876579,2017
 0,0,0,0,0,0,0,0,0,0,02/03/2017,home,12560,92,Cal St. Dom. Hills,11,True,2,1,1,win,205090,30175,1876579,2017
 0,0,0,0,0,0,0,0,0,0,02/05/2017,home,12560,92,Cal St. Dom. Hills,9,True,7,6,1,win,205304,30175,1876579,2017

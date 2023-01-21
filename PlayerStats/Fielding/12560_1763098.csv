@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/03/2017,home,12560,206,Eastern N.M.,9,True,4,21,-17,loss,205109,347,1763098,2017
 2,3,0,1,0,0,1,0,0,0,02/03/2017,home,12560,206,Eastern N.M.,9,True,0,23,-23,loss,205112,347,1763098,2017
 0,3,0,3,0,0,0,0,0,0,02/04/2017,home,12560,206,Eastern N.M.,9,True,4,14,-10,loss,205184,347,1763098,2017

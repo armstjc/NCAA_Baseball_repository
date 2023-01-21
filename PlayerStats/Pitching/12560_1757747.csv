@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,3,3,1,0,0,8,5,2,0,0,0,1,2,0,0,0,0,0,22,0,3,0,0,0,3,0,03/06/2017,neutral,12560,1446,Western Ore.,9,True,0,10,-10,loss,209523,205,1757747,2017
+0,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,1,3,0,04/07/2017,away,12560,1274,Northwest Nazarene,9,True,11,6,5,win,217228,205,1757747,2017
+0,0,0.0,0.0,3,3,3,1,0,0,4,3,1,1,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,6,0,04/27/2017,away,12560,30200,Concordia Portland,9,True,6,14,-8,loss,223051,205,1757747,2017

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,2,1,0,0,0,5,5,0,0,0,0,1,0,0,2,2,0,0,0,2,0,0,0,0,3,0,02/12/2017,neutral,12560,358,West Ala.,9,True,7,16,-9,loss,205679,333,1883087,2017
+0,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,04/04/2017,away,12560,52,Bellarmine,9,True,2,5,-3,loss,216754,333,1883087,2017
+0,0,2.0,0.0,2,2,2,1,0,0,9,7,0,0,0,0,2,1,0,0,0,0,0,0,4,1,0,0,0,2,0,04/14/2017,home,12560,174,Davis & Elkins,9,True,12,3,9,win,219540,333,1883087,2017
+0,0,0.2,0.0,2,1,0,0,1,0,4,4,0,0,0,0,0,0,0,2,2,0,0,18,0,1,0,0,0,2,0,04/21/2017,away,12560,30124,Cedarville,9,True,20,14,6,win,221344,333,1883087,2017
+0,0,2.2,0.0,6,3,3,1,2,0,16,14,0,1,0,0,0,1,0,3,3,0,0,0,1,4,0,0,0,2,1,04/28/2017,home,12560,934,Alderson Broaddus,9,True,4,10,-6,loss,223301,333,1883087,2017

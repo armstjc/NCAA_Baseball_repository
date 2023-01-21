@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,03/24/2017,away,12560,35,Ashland,9,True,16,2,14,win,213732,280,1775071,2017
+0,0,0.2,0.0,2,2,0,1,2,0,6,4,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,04/09/2017,home,12560,1079,Findlay,9,True,9,5,4,win,218344,280,1775071,2017
+0,0,1.0,0.0,1,2,2,1,2,0,6,4,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,3,1,04/26/2017,home,12560,0,Concordia (MI),9,True,5,9,-4,loss,222921,280,1775071,2017

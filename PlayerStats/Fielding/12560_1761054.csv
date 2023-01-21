@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/02/2017,home,12560,30146,Azusa Pacific,9,True,0,8,-8,loss,205019,30055,1761054,2017
 8,9,0,1,0,0,1,0,0,0,02/03/2017,home,12560,30146,Azusa Pacific,9,True,13,12,1,win,205044,30055,1761054,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,home,12560,30146,Azusa Pacific,9,True,6,8,-2,loss,205120,30055,1761054,2017

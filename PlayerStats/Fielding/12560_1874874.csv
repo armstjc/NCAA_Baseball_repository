@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/03/2017,neutral,12560,422,Miles,9,True,1,5,-4,loss,205104,445,1874874,2017
 0,0,0,0,0,0,0,0,0,0,02/03/2017,neutral,12560,422,Miles,9,True,6,14,-8,loss,205105,445,1874874,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,away,12560,0,Concordia (AL),9,True,3,17,-14,loss,205158,445,1874874,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 4,4,0,0,0,0,0,0,1,0,02/03/2017,home,12560,535,Paine,9,True,22,0,22,win,205042,30092,1749920,2017
 6,6,0,0,0,0,0,0,1,0,02/04/2017,home,12560,535,Paine,9,True,10,0,10,win,205149,30092,1749920,2017
 2,2,0,0,0,0,0,0,0,0,02/04/2017,home,12560,535,Paine,9,True,9,0,9,win,205193,30092,1749920,2017

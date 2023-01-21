@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,1,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,7,1,02/24/2017,away,12560,2683,Belmont Abbey,9,True,5,16,-11,loss,207144,30051,1755261,2017
+0,0,2.0,0.0,2,0,0,0,1,0,8,7,0,0,0,0,1,1,0,0,0,0,0,0,2,2,0,0,0,4,0,04/08/2017,home,12560,9223,North Greenville,9,True,2,9,-7,loss,217433,30051,1755261,2017

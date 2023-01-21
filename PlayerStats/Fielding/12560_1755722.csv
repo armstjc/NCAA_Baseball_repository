@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/07/2017,home,12560,9223,North Greenville,9,True,7,3,4,win,205326,13028,1755722,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,home,12560,1257,Newberry,9,True,3,10,-7,loss,205514,13028,1755722,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,home,12560,1257,Newberry,9,True,5,1,4,win,205561,13028,1755722,2017

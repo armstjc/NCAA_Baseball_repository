@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/10/2017,away,12560,155,Colo. Sch. of Mines,9,True,1,10,-9,loss,205413,205,1757720,2017
 0,0,0,0,0,0,0,0,0,0,02/10/2017,away,12560,155,Colo. Sch. of Mines,9,True,3,6,-3,loss,205437,205,1757720,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,away,12560,155,Colo. Sch. of Mines,9,True,5,9,-4,loss,205475,205,1757720,2017

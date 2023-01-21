@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 1,1,0,0,0,0,0,0,0,0,02/03/2017,home,12560,30095,Utah Tech,9,True,6,9,-3,loss,205033,93,1539800,2017
 5,6,1,0,0,0,0,0,1,0,02/04/2017,home,12560,30095,Utah Tech,9,True,6,13,-7,loss,205142,93,1539800,2017
 1,1,0,0,0,0,0,0,0,0,02/04/2017,home,12560,30095,Utah Tech,9,True,4,5,-1,loss,205186,93,1539800,2017

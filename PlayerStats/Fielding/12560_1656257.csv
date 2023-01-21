@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 2,2,0,0,0,0,0,0,0,0,02/17/2017,away,12560,2696,Hawaii Pacific,9,True,1,7,-6,loss,205924,28594,1656257,2017
 1,1,0,0,0,0,0,0,0,0,02/17/2017,away,12560,2696,Hawaii Pacific,9,True,3,1,2,win,205933,28594,1656257,2017
 8,9,0,1,0,0,0,0,0,0,02/18/2017,away,12560,2696,Hawaii Pacific,9,True,9,15,-6,loss,206172,28594,1656257,2017

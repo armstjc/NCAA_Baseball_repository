@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/10/2017,neutral,12560,24400,Concordia (TX),9,True,15,3,12,win,205421,23121,1894485,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,neutral,12560,271,Hardin-Simmons,9,True,7,5,2,win,205573,23121,1894485,2017
 0,0,0,0,0,0,0,0,0,0,02/12/2017,neutral,12560,1400,Texas Lutheran,9,True,2,3,-1,loss,205683,23121,1894485,2017

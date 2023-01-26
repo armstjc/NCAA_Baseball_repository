@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 1,3,1,1,0,0,0,0,0,0,02/27/2017,neutral,12560,399,Mass. Maritime,9,True,5,8,-3,loss,207970,30160,1666190,2017
 0,0,0,0,0,0,0,0,0,0,02/27/2017,neutral,12560,399,Mass. Maritime,9,True,6,12,-6,loss,207976,30160,1666190,2017
 0,0,0,0,0,0,0,0,0,0,03/01/2017,neutral,12560,8968,Eastern,9,True,3,11,-8,loss,208170,30160,1666190,2017

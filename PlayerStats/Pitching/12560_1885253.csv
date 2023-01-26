@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,3,1,1,1,1,0,10,7,0,0,0,0,0,1,0,0,0,1,0,0,3,1,0,0,0,3,0,03/09/2017,neutral,12560,1163,La Roche,9,True,5,9,-4,loss,209993,16142,1885253,2017
+0,0,0.1,0.0,0,1,1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,04/11/2017,home,12560,443,Moravian,9,True,6,4,2,win,218637,16142,1885253,2017
+0,0,1.0,0.0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,1,04/17/2017,home,12560,221,FDU-Florham,9,True,21,3,18,win,220541,16142,1885253,2017
+0,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,04/30/2017,home,12560,588,Rutgers-Camden,9,True,15,6,9,win,224082,16142,1885253,2017
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,0,1,0,0,0,6,1,05/03/2017,home,12560,303,Immaculata,9,True,12,5,7,win,224588,16142,1885253,2017

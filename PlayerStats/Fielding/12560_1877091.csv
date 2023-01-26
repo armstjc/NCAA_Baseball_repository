@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/21/2017,home,12560,60,Bethel (MN),9,True,2,25,-23,loss,206778,30031,1877091,2017
 0,0,0,0,0,0,0,0,0,0,02/27/2017,neutral,12560,376,Macalester,9,True,7,10,-3,loss,207972,30031,1877091,2017
 0,0,0,0,0,0,0,0,0,0,02/27/2017,neutral,12560,376,Macalester,9,True,2,6,-4,loss,207987,30031,1877091,2017

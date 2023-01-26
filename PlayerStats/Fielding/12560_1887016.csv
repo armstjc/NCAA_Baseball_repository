@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,319,New Jersey City,9,True,15,12,3,win,209195,30064,1887016,2017
 0,0,0,0,0,0,0,0,0,0,03/06/2017,neutral,12560,53,Beloit,9,True,10,6,4,win,209438,30064,1887016,2017
 0,0,0,0,0,0,0,0,0,0,03/07/2017,neutral,12560,455,Muskingum,9,True,3,19,-16,loss,209675,30064,1887016,2017

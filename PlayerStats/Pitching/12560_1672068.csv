@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,3,2,2,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,03/26/2017,neutral,12560,266,Gust. Adolphus,9,True,8,10,-2,loss,214597,420,1672068,2017
+0,0,0.1,0.0,1,5,4,2,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,03/29/2017,neutral,12560,266,Gust. Adolphus,9,True,13,10,3,win,215092,420,1672068,2017
+0,0,1.0,0.0,1,1,1,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,04/20/2017,home,12560,613,Saint Michael's,9,True,8,1,7,win,221059,420,1672068,2017
+0,0,1.0,0.0,1,2,1,0,0,0,6,5,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,4,0,05/03/2017,home,12560,547,Plattsburgh St.,9,True,10,5,5,win,224644,420,1672068,2017

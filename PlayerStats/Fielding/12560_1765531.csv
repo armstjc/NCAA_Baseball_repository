@@ -1,12 +1,12 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
-2,0,2,0,0,0,0,0,0,0,02/26/2017,away,12560,679,Stevens,9,True,7,4,3,win,207792,259,1765531,2017
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+2,2,0,0,0,0,0,0,0,0,02/26/2017,away,12560,679,Stevens,9,True,7,4,3,win,207792,259,1765531,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,565,Randolph-Macon,9,True,7,5,2,win,208892,259,1765531,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,away,12560,565,Randolph-Macon,9,True,3,5,-2,loss,209161,259,1765531,2017
-1,0,1,0,0,0,0,0,0,0,03/05/2017,away,12560,565,Randolph-Macon,9,True,10,2,8,win,209187,259,1765531,2017
-1,0,2,1,0,0,0,0,0,0,03/08/2017,home,12560,1254,Neumann,9,True,8,7,1,win,209734,259,1765531,2017
-1,0,1,0,0,0,0,0,0,0,03/10/2017,neutral,12560,779,Wheaton (MA),9,True,8,3,5,win,210318,259,1765531,2017
+1,1,0,0,0,0,0,0,0,0,03/05/2017,away,12560,565,Randolph-Macon,9,True,10,2,8,win,209187,259,1765531,2017
+1,2,0,1,0,0,0,0,0,0,03/08/2017,home,12560,1254,Neumann,9,True,8,7,1,win,209734,259,1765531,2017
+1,1,0,0,0,0,0,0,0,0,03/10/2017,neutral,12560,779,Wheaton (MA),9,True,8,3,5,win,210318,259,1765531,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,401,UMass Boston,11,True,6,7,-1,loss,210663,259,1765531,2017
-0,0,1,1,0,0,0,0,0,0,03/12/2017,neutral,12560,577,Ripon,9,True,7,5,2,win,211036,259,1765531,2017
+0,1,0,1,0,0,0,0,0,0,03/12/2017,neutral,12560,577,Ripon,9,True,7,5,2,win,211036,259,1765531,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,577,Ripon,9,True,5,1,4,win,211058,259,1765531,2017
 0,0,0,0,0,0,0,0,0,0,03/13/2017,neutral,12560,238,Framingham St.,9,True,5,10,-5,loss,211204,259,1765531,2017
 0,0,0,0,0,0,0,0,0,0,03/15/2017,neutral,12560,623,Salve Regina,9,True,6,2,4,win,211527,259,1765531,2017
@@ -17,7 +17,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/20/2017,home,12560,475,SUNY New Paltz,9,True,3,0,3,win,212850,259,1765531,2017
 0,0,0,0,0,0,0,0,0,0,03/21/2017,away,12560,622,Salisbury,9,True,2,6,-4,loss,213066,259,1765531,2017
 0,0,0,0,0,0,0,0,0,0,03/26/2017,away,12560,815,York (PA),9,True,8,4,4,win,214500,259,1765531,2017
-4,0,4,0,0,0,0,0,0,0,03/29/2017,home,12560,276,Haverford,9,True,12,0,12,win,214942,259,1765531,2017
+4,4,0,0,0,0,0,0,0,0,03/29/2017,home,12560,276,Haverford,9,True,12,0,12,win,214942,259,1765531,2017
 0,0,0,0,0,0,0,0,0,0,03/30/2017,away,12560,1254,Neumann,9,True,5,4,1,win,215147,259,1765531,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,home,12560,564,Ramapo,9,True,4,0,4,win,216168,259,1765531,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,home,12560,564,Ramapo,9,True,2,3,-1,loss,216242,259,1765531,2017

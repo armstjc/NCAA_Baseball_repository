@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/11/2017,home,12560,752,Wash. & Lee,9,True,8,5,3,win,205494,44,1881944,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,home,12560,752,Wash. & Lee,9,True,3,6,-3,loss,205538,44,1881944,2017
 0,0,0,0,0,0,0,0,0,0,02/12/2017,home,12560,374,Lynchburg,9,True,2,8,-6,loss,205639,44,1881944,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,1,1,0,0,0,0,0,0,0,02/10/2017,neutral,12560,105,Cal Lutheran,9,True,2,1,1,win,205446,1179,1763635,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,neutral,12560,567,Redlands,9,True,10,5,5,win,205584,1179,1763635,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,neutral,12560,134,Chapman,9,True,19,20,-1,loss,205583,1179,1763635,2017

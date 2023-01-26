@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,1,1,0,5,3,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,1,03/01/2017,neutral,12560,750,Wartburg,9,True,7,1,6,win,208172,585,1757844,2017
+0,0,1.0,0.0,0,2,2,3,1,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,5,0,03/03/2017,neutral,12560,40,Augustana (IL),9,True,8,12,-4,loss,208414,585,1757844,2017
+0,0,0.1,0.0,0,0,0,3,1,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7,1,03/25/2017,home,12560,195,Earlham,9,True,5,11,-6,loss,214204,585,1757844,2017

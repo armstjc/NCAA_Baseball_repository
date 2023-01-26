@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/01/2017,home,12560,1001,Catawba,9,True,3,13,-10,loss,205010,542,1652032,2017
 0,0,0,0,0,0,0,0,0,0,02/07/2017,home,12560,537,UNC Pembroke,9,True,0,4,-4,loss,205323,542,1652032,2017
 0,0,0,0,0,0,0,0,0,0,02/10/2017,away,12560,49,Barry,9,True,3,4,-1,loss,205377,542,1652032,2017

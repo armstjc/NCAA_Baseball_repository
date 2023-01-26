@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/18/2017,neutral,12560,8981,Endicott,9,True,6,4,2,win,212364,146,1882932,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,neutral,12560,615,St. Olaf,9,True,6,14,-8,loss,212334,146,1882932,2017
 0,0,0,0,0,0,0,0,0,0,03/19/2017,neutral,12560,348,Lawrence,9,True,6,7,-1,loss,212719,146,1882932,2017

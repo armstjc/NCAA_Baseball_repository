@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 5,5,0,0,0,0,0,0,0,0,02/11/2017,home,12560,243,Frostburg St.,9,True,10,7,3,win,205519,578,1538911,2017
 4,4,0,0,0,0,0,0,0,0,02/11/2017,home,12560,243,Frostburg St.,9,True,4,3,1,win,205567,578,1538911,2017
 4,4,0,0,0,0,0,0,0,0,02/12/2017,home,12560,243,Frostburg St.,9,True,8,9,-1,loss,205661,578,1538911,2017

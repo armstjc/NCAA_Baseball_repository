@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,3,3,1,0,0,7,6,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,03/08/2017,neutral,12560,762,Wentworth,9,True,4,11,-7,loss,209888,12399,1783117,2017
+0,0,1.0,0.0,2,0,0,0,2,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,04/10/2017,home,12560,730,Ursinus,9,True,9,17,-8,loss,218485,12399,1783117,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/01/2017,home,12560,321,John Jay,9,True,7,4,3,win,208180,479,1778147,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,home,12560,589,Rutgers-Newark,9,True,13,11,2,win,208579,479,1778147,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,home,12560,30165,SUNY Canton,9,True,6,5,1,win,209155,479,1778147,2017
@@ -12,7 +12,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/18/2017,neutral,12560,737,Vassar,11,True,14,15,-1,loss,212402,479,1778147,2017
 0,0,0,0,0,0,0,0,0,0,03/23/2017,home,12560,30072,St. Joseph's (Brkln),9,True,6,5,1,win,213327,479,1778147,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,home,12560,276,Haverford,9,True,11,9,2,win,213942,479,1778147,2017
-1,0,1,0,0,0,1,0,0,0,03/25/2017,home,12560,276,Haverford,9,True,4,7,-3,loss,214088,479,1778147,2017
+1,1,0,0,0,0,1,0,0,0,03/25/2017,home,12560,276,Haverford,9,True,4,7,-3,loss,214088,479,1778147,2017
 0,0,0,0,0,0,0,0,0,0,03/29/2017,home,12560,478,SUNY Maritime,9,True,11,3,8,win,215005,479,1778147,2017
 0,0,0,0,0,0,0,0,0,0,04/07/2017,home,12560,122,CWRU,9,True,3,5,-2,loss,217147,479,1778147,2017
 0,0,0,0,0,0,0,0,0,0,04/08/2017,home,12560,122,CWRU,9,True,1,2,-1,loss,217541,479,1778147,2017

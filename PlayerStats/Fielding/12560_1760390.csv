@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/11/2017,neutral,12560,557,Puget Sound,9,True,2,7,-5,loss,205588,1454,1760390,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,neutral,12560,22235,Lewis & Clark,9,True,4,0,4,win,205586,1454,1760390,2017
 0,0,0,0,0,0,0,0,0,0,02/12/2017,neutral,12560,785,Willamette,9,True,15,4,11,win,205689,1454,1760390,2017

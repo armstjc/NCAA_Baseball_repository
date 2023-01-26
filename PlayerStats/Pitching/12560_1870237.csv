@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.2,0.0,2,1,1,0,1,0,8,6,1,0,0,0,1,2,0,0,0,0,0,0,1,1,0,0,0,5,0,03/04/2017,away,12560,271,Hardin-Simmons,9,True,4,10,-6,loss,208670,1203,1870237,2017
+0,0,2.0,0.0,2,1,1,0,1,0,8,8,1,0,0,0,1,0,0,0,0,0,0,0,5,0,0,0,0,4,0,03/14/2017,home,12560,64,Blackburn,9,True,12,8,4,win,211307,1203,1870237,2017
+0,0,0.1,0.0,2,3,2,1,0,0,4,3,1,1,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,3,0,03/18/2017,away,12560,24400,Concordia (TX),9,True,1,13,-12,loss,212321,1203,1870237,2017
+0,0,1.0,0.0,1,1,0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,5,0,03/21/2017,home,12560,1400,Texas Lutheran,9,True,7,4,3,win,212991,1203,1870237,2017
+0,0,2.0,0.0,0,0,0,2,1,0,8,6,0,0,0,0,0,0,0,2,0,0,0,0,4,1,0,0,0,2,0,03/24/2017,home,12560,8530,McMurry,9,True,4,6,-2,loss,213438,1203,1870237,2017

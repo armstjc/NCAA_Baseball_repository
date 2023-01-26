@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,1,1,0,0,0,2,1,0,0,02/21/2017,away,12560,750,Wartburg,9,True,5,4,1,win,206764,268,1638175,2017
 0,0,0,0,0,0,0,0,0,0,02/21/2017,away,12560,750,Wartburg,9,True,3,11,-8,loss,206769,268,1638175,2017
 0,1,1,0,0,0,0,1,0,0,02/28/2017,neutral,12560,803,Wis.-Stout,9,True,2,1,1,win,208097,268,1638175,2017

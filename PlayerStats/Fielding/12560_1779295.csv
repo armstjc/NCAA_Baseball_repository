@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,30104,Urbana,9,True,7,0,7,win,206289,357,1779295,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,away,12560,30104,Urbana,9,True,5,4,1,win,206376,357,1779295,2017
 0,1,1,0,0,0,0,0,0,0,02/19/2017,neutral,12560,30104,Urbana,9,True,11,12,-1,loss,206595,357,1779295,2017
@@ -27,7 +27,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/08/2017,away,12560,8875,Chowan,9,True,0,2,-2,loss,217580,357,1779295,2017
 0,0,0,0,0,0,0,0,0,0,04/08/2017,away,12560,8875,Chowan,9,True,5,21,-16,loss,217909,357,1779295,2017
 0,0,0,0,0,0,0,0,0,0,04/09/2017,away,12560,8875,Chowan,9,True,4,24,-20,loss,218411,357,1779295,2017
-1,0,2,1,0,0,0,0,0,0,04/09/2017,away,12560,8875,Chowan,9,True,6,18,-12,loss,218450,357,1779295,2017
+1,2,0,1,0,0,0,0,0,0,04/09/2017,away,12560,8875,Chowan,9,True,6,18,-12,loss,218450,357,1779295,2017
 0,0,0,0,0,0,0,0,0,0,04/14/2017,away,12560,543,Jefferson,9,True,0,15,-15,loss,219733,357,1779295,2017
 0,0,0,0,0,0,0,0,0,0,04/14/2017,away,12560,543,Jefferson,9,True,1,18,-17,loss,219757,357,1779295,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,home,12560,543,Jefferson,9,True,4,12,-8,loss,220303,357,1779295,2017

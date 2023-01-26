@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,4,0,02/27/2017,neutral,12560,376,Macalester,9,True,7,10,-3,loss,207972,30031,1877089,2017
+0,0,0.1,0.0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,3,0,03/03/2017,neutral,12560,8968,Eastern,9,True,5,10,-5,loss,208434,30031,1877089,2017
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,03/04/2017,neutral,12560,1163,La Roche,9,True,3,10,-7,loss,208950,30031,1877089,2017
+0,0,0.1,0.0,3,2,2,0,0,0,3,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,03/22/2017,home,12560,266,Gust. Adolphus,9,True,4,6,-2,loss,213262,30031,1877089,2017
+0,0,2.0,0.0,1,1,1,2,1,0,12,7,0,0,0,0,0,3,0,0,0,0,0,0,4,1,0,0,0,4,0,04/29/2017,home,12560,618,St. Scholastica,9,True,0,17,-17,loss,223666,30031,1877089,2017
+0,0,0.1,0.0,5,6,5,1,0,0,7,6,0,0,0,0,0,0,0,2,2,0,0,19,1,0,0,0,0,2,0,05/06/2017,home,12560,8597,Martin Luther,9,True,0,16,-16,loss,225129,30031,1877089,2017

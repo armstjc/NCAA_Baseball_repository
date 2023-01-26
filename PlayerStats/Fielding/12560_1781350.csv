@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/05/2017,away,12560,611,St. Mary's (MD),9,True,1,4,-3,loss,209049,258,1781350,2017
 0,0,0,0,0,0,0,0,0,0,03/08/2017,away,12560,21852,Stevenson,9,True,8,23,-15,loss,209740,258,1781350,2017
 0,0,0,0,0,0,0,0,0,0,03/09/2017,away,12560,8404,Hood,9,True,4,9,-5,loss,209938,258,1781350,2017

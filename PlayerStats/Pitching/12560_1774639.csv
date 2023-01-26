@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.2,0.0,4,4,4,3,2,0,12,9,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,1,2,03/06/2017,neutral,12560,319,New Jersey City,9,True,5,6,-1,loss,209503,730,1774639,2017
+0,0,2.0,0.0,0,0,0,4,1,0,10,6,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,5,0,03/23/2017,away,12560,712,TCNJ,9,True,3,12,-9,loss,213372,730,1774639,2017
+0,1,1.2,0.0,3,4,4,2,1,0,12,8,0,0,0,0,1,2,0,0,0,0,0,0,3,1,0,1,0,1,1,04/19/2017,away,12560,303,Immaculata,9,True,8,12,-4,loss,220969,730,1774639,2017

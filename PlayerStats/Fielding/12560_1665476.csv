@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/16/2017,neutral,12560,520,Ohio Wesleyan,9,True,12,3,9,win,211645,492,1665476,2017
 0,0,0,0,0,0,0,0,0,0,03/17/2017,neutral,12560,385,Marietta,9,True,2,7,-5,loss,211920,492,1665476,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,neutral,12560,182,Denison,9,True,2,13,-11,loss,212355,492,1665476,2017

@@ -1,5 +1,5 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
-2,0,2,0,0,0,0,0,0,0,02/17/2017,away,12560,412,Methodist,9,True,4,6,-2,loss,205897,390,1541179,2017
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+2,2,0,0,0,0,0,0,0,0,02/17/2017,away,12560,412,Methodist,9,True,4,6,-2,loss,205897,390,1541179,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,75,Bridgewater (VA),9,True,15,5,10,win,206250,390,1541179,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,neutral,12560,20,DeSales,9,True,4,8,-4,loss,206582,390,1541179,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,25719,Penn St.-Altoona,9,True,9,2,7,win,207181,390,1541179,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/10/2017,neutral,12560,2713,Oglethorpe,9,True,13,12,1,win,205424,8746,1883245,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,neutral,12560,1162,LaGrange,9,True,4,8,-4,loss,205577,8746,1883245,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,neutral,12560,573,Rhodes,9,True,7,3,4,win,205578,8746,1883245,2017

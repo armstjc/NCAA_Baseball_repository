@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/23/2017,home,12560,0,Penn St.-Schuylkill,9,True,11,2,9,win,206885,784,1878068,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,0,Penn St.-Wilkes Barre,9,True,17,5,12,win,207146,784,1878068,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,30160,Houghton,9,True,7,6,1,win,208465,784,1878068,2017
@@ -13,7 +13,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/25/2017,away,12560,20,DeSales,9,True,1,2,-1,loss,213967,784,1878068,2017
 0,0,0,0,0,0,0,0,0,0,03/25/2017,away,12560,20,DeSales,9,True,3,6,-3,loss,214113,784,1878068,2017
 0,0,0,0,0,0,0,0,0,0,03/26/2017,home,12560,20,DeSales,9,True,2,6,-4,loss,214477,784,1878068,2017
-1,0,1,0,0,0,0,0,0,0,03/29/2017,away,12560,30044,Penn St.-Berks,9,True,7,13,-6,loss,214953,784,1878068,2017
+1,1,0,0,0,0,0,0,0,0,03/29/2017,away,12560,30044,Penn St.-Berks,9,True,7,13,-6,loss,214953,784,1878068,2017
 0,0,0,0,0,0,0,0,0,0,04/01/2017,away,12560,8968,Eastern,9,True,2,12,-10,loss,215891,784,1878068,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,home,12560,8968,Eastern,9,True,1,2,-1,loss,216364,784,1878068,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,home,12560,8968,Eastern,9,True,6,3,3,win,216428,784,1878068,2017
@@ -24,7 +24,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/13/2017,home,12560,179,Delaware Valley,9,True,8,1,7,win,219049,784,1878068,2017
 0,0,0,0,0,0,0,0,0,0,04/14/2017,away,12560,179,Delaware Valley,9,True,3,6,-3,loss,219523,784,1878068,2017
 0,0,0,0,0,0,0,0,0,0,04/14/2017,away,12560,179,Delaware Valley,9,True,14,3,11,win,219633,784,1878068,2017
-2,0,2,0,0,0,0,0,0,0,04/19/2017,home,12560,397,Marywood,9,True,10,9,1,win,220861,784,1878068,2017
+2,2,0,0,0,0,0,0,0,0,04/19/2017,home,12560,397,Marywood,9,True,10,9,1,win,220861,784,1878068,2017
 0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,336,King's (PA),9,True,4,5,-1,loss,221924,784,1878068,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,home,12560,336,King's (PA),9,True,15,3,12,win,222199,784,1878068,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,home,12560,336,King's (PA),9,True,7,12,-5,loss,222297,784,1878068,2017

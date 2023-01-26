@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/07/2017,neutral,12560,484,Nichols,10,True,6,9,-3,loss,209704,779,1652861,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,neutral,12560,259,Rowan,9,True,3,8,-5,loss,210318,779,1652861,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,759,Webster,9,True,1,3,-2,loss,210671,779,1652861,2017

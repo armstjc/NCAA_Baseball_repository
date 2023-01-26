@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,0.1,0.0,2,3,3,3,0,0,6,3,0,1,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,1,0,03/20/2017,neutral,12560,548,Plymouth St.,9,True,3,4,-1,loss,212906,1340,1775357,2017
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,7,0,03/29/2017,home,12560,787,Wm. Paterson,9,True,3,7,-4,loss,215045,1340,1775357,2017
+0,0,1.1,0.0,0,1,1,1,2,0,6,5,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,5,0,04/11/2017,home,12560,480,CCNY,9,True,7,4,3,win,218732,1340,1775357,2017
+0,1,5.0,0.0,7,3,3,0,4,0,20,20,0,0,0,0,1,0,0,0,0,0,0,0,8,1,0,0,0,1,0,04/27/2017,home,12560,58,Baruch,9,True,5,4,1,win,222994,1340,1775357,2017

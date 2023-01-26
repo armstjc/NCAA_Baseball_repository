@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.2,0.0,3,1,0,2,3,0,18,16,1,0,0,0,0,0,0,3,2,0,0,0,4,4,1,0,0,2,0,03/16/2017,neutral,12560,681,Stockton,9,True,13,9,4,win,211653,221,1888203,2017
+0,0,2.0,0.0,2,2,1,3,2,0,11,7,0,0,0,0,2,0,0,0,0,0,1,0,1,2,0,0,0,2,0,03/30/2017,home,12560,588,Rutgers-Camden,9,True,10,5,5,win,215186,221,1888203,2017
+0,0,1.0,0.0,3,3,3,1,1,0,7,6,1,0,0,0,1,0,0,0,0,0,0,27,1,1,0,0,0,3,0,04/05/2017,home,12560,451,CMSV,9,True,11,3,8,win,216808,221,1888203,2017
+0,0,0.2,0.0,1,0,0,0,0,0,3,3,0,0,0,0,1,0,0,2,2,0,0,0,2,0,0,0,0,5,0,04/14/2017,home,12560,382,Manhattanville,9,True,8,14,-6,loss,219283,221,1888203,2017
+0,1,2.1,0.0,3,5,4,2,3,0,13,11,0,1,0,1,2,0,0,0,0,0,0,51,2,2,0,1,0,1,0,05/02/2017,home,12560,770,WestConn,9,True,7,14,-7,loss,224384,221,1888203,2017

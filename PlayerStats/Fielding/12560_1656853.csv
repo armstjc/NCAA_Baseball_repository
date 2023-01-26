@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 6,7,1,0,0,0,0,1,0,0,03/04/2017,neutral,12560,783,Widener,9,True,8,6,2,win,208820,438,1656853,2017
 8,9,1,0,0,0,3,0,0,0,03/05/2017,neutral,12560,303,Immaculata,9,True,9,16,-7,loss,209212,438,1656853,2017
 6,7,1,0,0,0,0,0,0,0,03/06/2017,neutral,12560,8398,Hilbert,9,True,15,3,12,win,209449,438,1656853,2017

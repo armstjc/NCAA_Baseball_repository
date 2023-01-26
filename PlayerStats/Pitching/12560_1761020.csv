@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,5,0,03/05/2017,home,12560,45,Babson,9,True,12,11,1,win,209124,715,1761020,2017
+0,0,1.0,0.0,1,1,0,0,1,0,6,6,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,3,1,04/07/2017,home,12560,1355,Schreiner,9,True,10,4,6,win,217245,715,1761020,2017
+0,0,0.2,0.0,3,5,3,1,0,0,8,6,0,0,0,1,0,1,0,0,0,0,0,30,2,0,0,0,0,2,0,04/24/2017,home,12560,0,Our Lady of the Lake,9,True,18,8,10,win,222553,715,1761020,2017
+0,0,0.2,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,2,2,0,0,7,2,0,0,0,0,4,0,04/30/2017,neutral,12560,125,Centenary (LA),9,True,3,13,-10,loss,224314,715,1761020,2017

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,3,0,4,3,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,5,2,02/25/2017,home,12560,530,Oswego St.,9,True,3,13,-10,loss,207406,622,1765106,2017
+0,0,0.1,0.0,2,4,4,2,1,0,6,3,0,0,0,0,3,1,0,0,0,0,0,24,0,0,0,0,0,2,1,03/12/2017,home,12560,611,St. Mary's (MD),9,True,16,5,11,win,210974,622,1765106,2017
+0,0,1.0,0.0,0,1,0,1,3,0,6,4,0,0,0,0,1,1,0,0,0,0,0,22,0,0,0,0,0,4,1,03/25/2017,home,12560,30164,Southern Va.,9,True,14,3,11,win,214146,622,1765106,2017
+0,0,1.0,0.0,0,0,0,1,3,0,4,3,0,0,0,0,1,0,0,0,0,0,0,20,0,0,0,0,0,4,0,04/15/2017,home,12560,815,York (PA),9,True,20,2,18,win,220255,622,1765106,2017

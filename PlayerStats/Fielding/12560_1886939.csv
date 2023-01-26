@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/06/2017,neutral,12560,21772,Newbury,9,True,5,9,-4,loss,209456,30039,1886939,2017
 0,0,0,0,0,0,0,0,0,0,03/06/2017,neutral,12560,30038,Bethany Lutheran,9,True,6,5,1,win,209458,30039,1886939,2017
 0,0,0,0,0,0,0,0,0,0,03/07/2017,neutral,12560,641,Simpson,9,True,0,21,-21,loss,209669,30039,1886939,2017

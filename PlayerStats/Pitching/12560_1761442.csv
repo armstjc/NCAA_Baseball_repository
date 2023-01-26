@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.2,0.0,0,0,0,2,2,0,10,8,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,3,0,03/15/2017,neutral,12560,753,Washington Col.,9,True,5,14,-9,loss,211542,120,1761442,2017
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,5,0,04/09/2017,home,12560,300,Ill. Wesleyan,9,True,0,16,-16,loss,218043,120,1761442,2017
+0,0,1.0,0.0,2,4,1,2,1,0,8,6,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,2,0,04/23/2017,home,12560,212,Elmhurst,9,True,6,9,-3,loss,222418,120,1761442,2017

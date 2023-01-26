@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 12,13,1,0,0,0,2,1,0,0,02/03/2017,home,12560,30164,Southern Va.,9,True,3,2,1,win,205071,17094,1879059,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,home,12560,30164,Southern Va.,9,True,5,2,3,win,205178,17094,1879059,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,home,12560,30164,Southern Va.,9,True,1,5,-4,loss,205220,17094,1879059,2017

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,3.2,0.0,5,2,2,0,1,0,15,15,1,0,0,0,1,0,0,0,0,0,0,0,5,4,1,0,0,2,0,03/06/2017,neutral,12560,23725,Medaille,9,True,16,6,10,win,209462,9500,1894217,2017
+0,0,1.0,0.0,4,3,2,0,1,0,8,8,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,03/08/2017,neutral,12560,571,Rhode Island Col.,9,True,0,10,-10,loss,209917,9500,1894217,2017
+0,0,0.0,0.0,5,6,3,0,0,0,7,6,0,1,0,0,1,1,0,3,3,0,0,28,0,0,0,0,0,3,0,03/26/2017,away,12560,962,Bard,9,True,5,13,-8,loss,214565,9500,1894217,2017
+0,0,2.1,0.0,1,1,0,3,3,0,13,9,1,0,0,0,0,1,0,0,0,0,0,0,3,1,0,0,0,2,0,04/29/2017,home,12560,30114,Penn St.-Abington,9,True,8,14,-6,loss,223763,9500,1894217,2017

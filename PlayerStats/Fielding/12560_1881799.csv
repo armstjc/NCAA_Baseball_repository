@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,319,New Jersey City,9,True,7,6,1,win,208857,53,1881799,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,571,Rhode Island Col.,9,True,0,3,-3,loss,209262,53,1881799,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,571,Rhode Island Col.,10,True,8,10,-2,loss,209299,53,1881799,2017

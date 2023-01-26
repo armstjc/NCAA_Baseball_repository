@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,582,Rockford,9,True,11,8,3,win,209208,707,1891216,2017
 0,0,0,0,0,0,0,0,0,0,03/06/2017,neutral,12560,276,Haverford,9,True,13,3,10,win,209474,707,1891216,2017
 0,0,0,0,0,0,0,0,0,0,03/06/2017,neutral,12560,276,Haverford,9,True,2,7,-5,loss,209498,707,1891216,2017

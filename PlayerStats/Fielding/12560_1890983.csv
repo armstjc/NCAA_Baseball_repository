@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/25/2017,home,12560,601,St. John Fisher,9,True,3,2,1,win,207358,322,1890983,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,home,12560,601,St. John Fisher,9,True,2,5,-3,loss,207450,322,1890983,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,home,12560,475,SUNY New Paltz,9,True,6,0,6,win,207736,322,1890983,2017

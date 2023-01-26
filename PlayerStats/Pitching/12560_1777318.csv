@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,3,7,2,2,1,0,8,6,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,03/08/2017,neutral,12560,808,WPI,9,True,8,19,-11,loss,209879,467,1777318,2017
+0,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,2,0,04/09/2017,neutral,12560,2758,Thomas (ME),9,True,14,3,11,win,218465,467,1777318,2017
+0,0,0.1,0.0,1,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,04/11/2017,home,12560,30065,NVU-Lyndon,9,True,2,5,-3,loss,218843,467,1777318,2017
+0,0,2.0,0.0,1,1,0,1,1,0,9,8,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,3,1,04/22/2017,away,12560,2691,Daniel Webster,9,True,13,4,9,win,221932,467,1777318,2017
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,3,3,0,0,0,2,0,0,0,0,3,0,04/24/2017,home,12560,152,Colby-Sawyer,9,True,11,4,7,win,222567,467,1777318,2017

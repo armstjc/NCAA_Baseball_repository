@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,1,0,0,03/23/2017,neutral,12560,615,St. Olaf,9,True,7,9,-2,loss,213362,1159,1895666,2017
 0,0,0,0,0,0,0,0,0,0,03/23/2017,neutral,12560,615,St. Olaf,10,True,6,9,-3,loss,213383,1159,1895666,2017
 0,0,0,0,0,0,0,0,0,0,03/24/2017,neutral,12560,69,Bowdoin,9,True,1,2,-1,loss,213621,1159,1895666,2017

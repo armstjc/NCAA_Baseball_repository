@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,530,Oswego St.,9,True,11,6,5,win,211035,200,1762260,2017
 0,0,0,0,0,0,0,0,0,0,03/13/2017,neutral,12560,8981,Endicott,9,True,8,5,3,win,211209,200,1762260,2017
 0,0,0,0,0,0,0,0,0,0,03/14/2017,neutral,12560,577,Ripon,9,True,3,2,1,win,211372,200,1762260,2017

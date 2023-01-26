@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/10/2017,neutral,12560,1044,Dallas,9,True,4,5,-1,loss,205445,1124,1751036,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,neutral,12560,1400,Texas Lutheran,9,True,9,13,-4,loss,205572,1124,1751036,2017
 0,0,0,0,0,0,0,0,0,0,02/12/2017,neutral,12560,24400,Concordia (TX),12,True,14,17,-3,loss,205681,1124,1751036,2017

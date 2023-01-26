@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/19/2017,neutral,12560,78,SUNY Brockport,9,True,1,6,-5,loss,206668,382,1667170,2017
 0,0,0,0,0,0,1,0,0,0,03/04/2017,neutral,12560,22626,JWU (Providence),9,True,10,15,-5,loss,208944,382,1667170,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,30036,Mount Aloysius,9,True,4,2,2,win,209283,382,1667170,2017

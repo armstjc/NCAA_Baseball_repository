@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,42,Aurora,9,True,5,17,-12,loss,209248,30038,1668621,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,747,Wabash,9,True,6,11,-5,loss,209250,30038,1668621,2017
 0,0,0,0,0,0,0,0,0,0,03/06/2017,neutral,12560,747,Wabash,9,True,4,7,-3,loss,209460,30038,1668621,2017

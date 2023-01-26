@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.1,0.0,4,2,2,0,1,0,11,10,0,1,1,0,1,1,0,0,0,0,0,0,2,3,0,0,0,2,0,03/30/2017,away,12560,787,Wm. Paterson,9,True,8,4,4,win,215151,382,1774012,2017
+0,0,1.0,0.0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,3,1,0,1,6,2,1,0,0,0,6,0,04/05/2017,neutral,12560,1468,Mt. St. Mary (NY),9,True,17,2,15,win,216998,382,1774012,2017
+0,0,1.0,0.0,1,4,4,3,2,0,7,4,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,2,1,04/08/2017,home,12560,321,John Jay,9,True,6,9,-3,loss,217855,382,1774012,2017
+0,1,2.2,0.0,6,6,5,2,1,0,17,14,1,0,0,0,0,1,0,0,0,0,0,57,2,5,0,1,0,1,0,05/02/2017,away,12560,737,Vassar,9,True,8,9,-1,loss,224516,382,1774012,2017

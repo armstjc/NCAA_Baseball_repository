@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,3,3,3,3,1,0,8,5,0,1,0,1,0,0,0,3,3,0,0,30,0,1,0,0,0,2,0,03/18/2017,neutral,12560,479,NYU,11,True,15,14,1,win,212402,737,1539633,2017
+0,0,1.1,0.0,3,3,3,2,0,0,9,7,2,0,0,0,0,0,0,0,0,0,0,38,3,1,0,0,0,3,0,03/19/2017,neutral,12560,548,Plymouth St.,9,True,0,10,-10,loss,212752,737,1539633,2017
+0,0,0.2,0.0,1,1,1,1,1,0,4,2,0,0,0,0,0,0,0,2,1,0,1,14,0,1,0,0,0,3,1,04/23/2017,home,12560,570,Rensselaer,9,True,0,11,-11,loss,222195,737,1539633,2017
+0,0,0.0,0.0,0,1,1,2,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,12,0,0,0,0,0,6,0,05/02/2017,home,12560,382,Manhattanville,9,True,9,8,1,win,224516,737,1539633,2017

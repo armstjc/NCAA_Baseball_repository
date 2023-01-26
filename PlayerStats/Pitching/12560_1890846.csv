@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,4.0,0.0,6,5,5,0,3,0,17,16,2,1,0,0,0,0,0,0,0,0,1,0,4,4,0,0,0,2,0,03/14/2017,neutral,12560,8981,Endicott,9,True,7,14,-7,loss,211373,588,1890846,2017
+0,0,1.1,0.0,0,0,0,0,3,0,4,4,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,03/30/2017,away,12560,221,FDU-Florham,9,True,5,10,-5,loss,215186,588,1890846,2017
+0,0,1.2,0.0,4,2,2,1,1,0,10,8,0,0,0,0,0,0,0,1,0,1,0,0,3,1,0,0,0,3,0,04/02/2017,away,12560,787,Wm. Paterson,9,True,3,7,-4,loss,216413,588,1890846,2017
+0,0,2.0,0.0,3,2,1,0,1,0,11,10,1,0,0,0,0,0,0,0,0,0,1,0,0,5,0,1,0,2,0,04/08/2017,home,12560,589,Rutgers-Newark,9,True,4,5,-1,loss,217943,588,1890846,2017
+0,0,5.1,0.0,9,5,5,0,1,0,24,23,3,0,0,1,1,0,0,3,0,1,0,0,9,5,0,0,0,4,0,04/15/2017,home,12560,564,Ramapo,9,True,3,9,-6,loss,220352,588,1890846,2017
+0,0,1.0,0.0,3,2,2,2,1,0,7,5,0,0,1,0,0,0,0,0,0,0,0,29,1,0,0,1,0,2,1,04/29/2017,away,12560,319,New Jersey City,9,True,9,13,-4,loss,223860,588,1890846,2017

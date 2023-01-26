@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,2,0,2,1,0,6,3,0,0,1,0,0,1,0,1,0,0,0,0,0,2,0,1,0,2,0,02/19/2017,away,12560,0,Apprentice,9,True,2,5,-3,loss,206621,30170,1888067,2017
+0,1,4.0,0.0,9,7,7,0,1,0,22,20,1,1,0,1,0,1,0,0,0,0,1,53,4,7,0,1,0,1,1,03/05/2017,away,12560,216,Emory & Henry,9,True,1,7,-6,loss,209369,30170,1888067,2017
+0,1,4.0,0.0,9,10,9,3,5,0,25,22,3,0,0,0,0,0,0,0,0,0,0,0,5,2,0,1,0,1,1,03/17/2017,neutral,12560,589,Rutgers-Newark,9,True,5,19,-14,loss,211965,30170,1888067,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 4,5,0,1,0,0,0,0,0,0,03/04/2017,neutral,12560,452,Mount Union,9,True,8,10,-2,loss,208860,9500,1781045,2017
 2,2,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,452,Mount Union,9,True,3,12,-9,loss,208874,9500,1781045,2017
 3,4,0,1,0,0,0,0,0,0,03/05/2017,neutral,12560,145,Clark (MA),9,True,1,6,-5,loss,209269,9500,1781045,2017

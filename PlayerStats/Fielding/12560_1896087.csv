@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/17/2017,neutral,12560,123,Castleton,9,True,6,4,2,win,211911,717,1896087,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,away,12560,0,Apprentice,9,True,12,4,8,win,212087,717,1896087,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,neutral,12560,30064,Saint Vincent,9,True,22,0,22,win,212350,717,1896087,2017
@@ -6,7 +6,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,03/21/2017,away,12560,44,Averett,9,True,10,1,9,win,213008,717,1896087,2017
 0,0,0,0,0,0,0,0,0,0,03/22/2017,away,12560,412,Methodist,9,True,8,5,3,win,213246,717,1896087,2017
 0,0,0,0,0,0,0,0,0,0,03/24/2017,away,12560,374,Lynchburg,9,True,7,8,-1,loss,213466,717,1896087,2017
-0,0,1,1,0,0,0,0,0,0,03/25/2017,away,12560,0,Apprentice,9,True,12,2,10,win,213814,717,1896087,2017
+0,1,0,1,0,0,0,0,0,0,03/25/2017,away,12560,0,Apprentice,9,True,12,2,10,win,213814,717,1896087,2017
 0,0,0,0,0,0,0,0,0,0,03/26/2017,away,12560,745,Va. Wesleyan,10,True,7,6,1,win,214385,717,1896087,2017
 0,0,0,0,0,0,0,0,0,0,03/29/2017,home,12560,399,Mass. Maritime,9,True,8,2,6,win,215115,717,1896087,2017
 0,0,0,0,0,0,0,0,0,0,04/01/2017,away,12560,713,Trinity (CT),9,True,10,5,5,win,215886,717,1896087,2017
@@ -24,7 +24,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/17/2017,home,12560,656,UMass Dartmouth,9,True,1,5,-4,loss,220490,717,1896087,2017
 0,0,0,0,0,0,0,0,0,0,04/17/2017,home,12560,656,UMass Dartmouth,9,True,10,2,8,win,220518,717,1896087,2017
 0,0,0,0,0,0,0,0,0,0,04/22/2017,home,12560,69,Bowdoin,9,True,6,1,5,win,221608,717,1896087,2017
-0,0,1,1,0,0,0,0,0,0,04/22/2017,home,12560,69,Bowdoin,9,True,6,5,1,win,221785,717,1896087,2017
+0,1,0,1,0,0,0,0,0,0,04/22/2017,home,12560,69,Bowdoin,9,True,6,5,1,win,221785,717,1896087,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,home,12560,69,Bowdoin,9,True,2,3,-1,loss,222114,717,1896087,2017
 0,0,0,0,0,0,0,0,0,0,04/27/2017,home,12560,1064,Eastern Nazarene,9,True,23,2,21,win,222975,717,1896087,2017
 0,0,0,0,0,0,0,0,0,0,04/28/2017,home,12560,50,Bates,9,True,4,3,1,win,223124,717,1896087,2017

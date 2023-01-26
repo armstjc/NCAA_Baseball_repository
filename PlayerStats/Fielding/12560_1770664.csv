@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/09/2017,away,12560,117,Capital,9,True,3,1,2,win,209959,807,1770664,2017
 0,5,5,0,0,0,0,0,1,0,03/13/2017,neutral,12560,685,Susquehanna,9,True,7,0,7,win,211227,807,1770664,2017
 3,5,2,0,0,0,0,0,1,0,03/14/2017,neutral,12560,1468,Mt. St. Mary (NY),9,True,16,2,14,win,211399,807,1770664,2017

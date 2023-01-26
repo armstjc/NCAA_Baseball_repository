@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/05/2017,home,12560,78,SUNY Brockport,9,True,6,9,-3,loss,209150,962,1759161,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,home,12560,78,SUNY Brockport,9,True,2,9,-7,loss,209370,962,1759161,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,away,12560,89,Caltech,9,True,1,2,-1,loss,212181,962,1759161,2017

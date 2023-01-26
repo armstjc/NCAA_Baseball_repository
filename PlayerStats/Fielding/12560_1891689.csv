@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,511,Norwich,9,True,11,4,7,win,207066,1305,1891689,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,511,Norwich,9,True,4,2,2,win,207079,1305,1891689,2017
 0,0,0,0,0,0,0,0,0,0,03/02/2017,home,12560,30166,Valley Forge,9,True,23,11,12,win,208200,1305,1891689,2017

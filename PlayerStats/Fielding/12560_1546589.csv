@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/25/2017,neutral,12560,2694,Franklin,10,True,16,0,16,win,207504,531,1546589,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,neutral,12560,40,Augustana (IL),9,True,6,1,5,win,207505,531,1546589,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,21,Alma,9,True,7,3,4,win,207881,531,1546589,2017

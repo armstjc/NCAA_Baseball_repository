@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/03/2017,away,12560,341,La Verne,9,True,7,6,1,win,205070,125,1876444,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,away,12560,567,Redlands,9,True,2,9,-7,loss,205152,125,1876444,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,away,12560,567,Redlands,9,True,9,4,5,win,205196,125,1876444,2017
@@ -10,7 +10,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,1203,Mary Hardin-Baylor,9,True,0,1,-1,loss,206390,125,1876444,2017
 0,0,0,0,0,0,0,0,0,0,02/19/2017,away,12560,30028,UT Tyler,9,True,1,4,-3,loss,206501,125,1876444,2017
 0,0,0,0,0,0,0,0,0,0,02/23/2017,home,12560,0,Rust,9,True,28,1,27,win,206887,125,1876444,2017
-2,0,2,0,0,0,0,0,0,0,02/23/2017,home,12560,0,Rust,9,True,25,2,23,win,206888,125,1876444,2017
+2,2,0,0,0,0,0,0,0,0,02/23/2017,home,12560,0,Rust,9,True,25,2,23,win,206888,125,1876444,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,0,Rust,9,True,15,2,13,win,207161,125,1876444,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,home,12560,0,Rust,9,True,12,0,12,win,207171,125,1876444,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,home,12560,1267,Northland,9,True,19,2,17,win,209349,125,1876444,2017

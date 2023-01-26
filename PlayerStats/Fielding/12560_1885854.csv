@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 2,3,1,0,0,0,0,0,0,0,02/19/2017,away,12560,329,Kean,9,True,3,9,-6,loss,206451,78,1885854,2017
 1,4,3,0,0,0,0,0,0,0,02/19/2017,neutral,12560,382,Manhattanville,9,True,6,1,5,win,206668,78,1885854,2017
 4,7,3,0,0,0,0,0,0,0,02/24/2017,away,12560,745,Va. Wesleyan,9,True,3,5,-2,loss,207069,78,1885854,2017

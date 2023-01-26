@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 3,3,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,787,Wm. Paterson,9,True,4,1,3,win,211048,614,1665625,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,787,Wm. Paterson,9,True,4,6,-2,loss,211066,614,1665625,2017
 6,7,1,0,0,0,0,1,0,0,03/13/2017,neutral,12560,656,UMass Dartmouth,9,True,10,6,4,win,211243,614,1665625,2017

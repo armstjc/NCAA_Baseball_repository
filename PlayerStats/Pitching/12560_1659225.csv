@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,7.0,0.0,5,0,0,3,7,0,26,22,3,0,0,0,0,1,0,0,0,0,0,0,5,5,1,0,0,1,0,03/16/2017,neutral,12560,713,Trinity (CT),9,True,14,5,9,win,211635,588,1659225,2017
+0,0,2.0,0.0,4,2,2,1,2,0,11,9,0,0,0,1,0,0,0,0,0,1,0,0,2,2,0,0,0,3,1,03/29/2017,away,12560,679,Stevens,10,True,6,8,-2,loss,215035,588,1659225,2017
+0,0,2.0,0.0,4,6,6,3,4,0,13,9,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,2,1,04/08/2017,home,12560,589,Rutgers-Newark,9,True,11,13,-2,loss,217968,588,1659225,2017
+0,0,3.1,0.0,1,4,4,5,2,0,16,11,0,0,0,0,1,0,0,1,0,0,0,0,3,5,0,1,0,2,0,04/15/2017,home,12560,564,Ramapo,9,True,3,9,-6,loss,220352,588,1659225,2017
+0,1,4.1,0.0,7,7,7,4,3,0,25,17,1,0,0,0,3,3,0,0,0,0,1,0,2,6,0,1,0,1,0,04/30/2017,away,12560,16142,Misericordia,9,True,6,15,-9,loss,224082,588,1659225,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 2,6,4,0,0,0,0,0,3,0,02/03/2017,home,12560,263,Greensboro,9,True,4,15,-11,loss,205039,30111,1547375,2017
 1,6,2,3,0,0,0,0,1,0,02/04/2017,home,12560,263,Greensboro,9,True,8,12,-4,loss,205147,30111,1547375,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,home,12560,263,Greensboro,9,True,0,5,-5,loss,205190,30111,1547375,2017

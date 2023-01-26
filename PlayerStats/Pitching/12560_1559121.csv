@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.2,0.0,6,3,3,1,10,0,23,22,2,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,1,4,03/03/2017,away,12560,134,Chapman,9,True,3,4,-1,loss,208249,1036,1559121,2017
+0,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0,04/27/2017,home,12560,614,St. Norbert,11,True,2,3,-1,loss,222987,1036,1559121,2017
+0,0,2.0,0.0,2,0,0,1,1,0,8,7,0,0,0,0,1,0,0,0,0,0,0,0,3,1,0,0,0,3,0,05/02/2017,away,12560,20220,MSOE,9,True,6,4,2,win,224494,1036,1559121,2017
+0,0,0.1,0.0,2,3,3,0,0,0,4,3,0,0,0,0,1,1,0,2,2,0,0,12,0,1,0,0,0,5,0,05/06/2017,away,12560,1066,Edgewood,9,True,6,10,-4,loss,225158,1036,1559121,2017
+0,0,1.1,0.0,4,4,3,1,2,0,9,8,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2,05/12/2017,away,12560,160,Concordia Chicago,9,True,4,5,-1,loss,226121,1036,1559121,2017

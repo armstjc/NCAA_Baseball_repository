@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 2,3,0,1,0,0,0,0,0,0,02/18/2017,neutral,12560,132,Centre,9,True,3,23,-20,loss,206285,722,1781121,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,neutral,12560,132,Centre,10,True,2,8,-6,loss,206295,722,1781121,2017
 4,7,3,0,0,0,0,0,2,0,02/19/2017,neutral,12560,132,Centre,10,True,0,8,-8,loss,206580,722,1781121,2017

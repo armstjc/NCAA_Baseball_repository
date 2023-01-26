@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,145,Clark (MA),9,True,6,9,-3,loss,207229,532,1781677,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,46,Baldwin Wallace,9,True,3,7,-4,loss,208963,532,1781677,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,46,Baldwin Wallace,9,True,3,6,-3,loss,208971,532,1781677,2017

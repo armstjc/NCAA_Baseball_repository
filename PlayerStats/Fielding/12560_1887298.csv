@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/08/2017,home,12560,321,John Jay,9,True,12,1,11,win,209828,1340,1887298,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,neutral,12560,770,WestConn,9,True,9,7,2,win,212489,1340,1887298,2017
 4,7,2,1,0,0,0,0,2,0,03/19/2017,neutral,12560,322,Johns Hopkins,9,True,2,11,-9,loss,212725,1340,1887298,2017

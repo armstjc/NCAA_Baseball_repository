@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.0,0.0,6,3,3,2,3,0,23,20,1,0,0,0,0,0,0,0,0,0,1,0,4,8,1,0,0,1,1,03/07/2017,neutral,12560,20,DeSales,9,True,5,3,2,win,209671,203,1883030,2017
+0,0,1.1,0.0,1,1,1,2,2,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,03/18/2017,home,12560,578,Roanoke,9,True,6,10,-4,loss,212252,203,1883030,2017
+0,1,1.1,0.0,6,4,4,1,0,0,11,9,4,0,0,0,1,1,0,0,0,0,0,0,1,2,0,0,0,1,0,04/10/2017,away,12560,225,Ferrum,10,True,12,8,4,win,218490,203,1883030,2017
+0,1,6.0,0.0,6,2,2,3,3,0,29,23,0,1,0,0,0,1,0,0,0,1,1,0,7,8,1,0,0,1,0,04/17/2017,home,12560,30164,Southern Va.,9,True,9,5,4,win,220476,203,1883030,2017

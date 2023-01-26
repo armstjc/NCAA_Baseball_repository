@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/10/2017,neutral,12560,605,St. Joseph's (ME),9,True,4,5,-1,loss,210317,623,1895790,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,787,Wm. Paterson,9,True,13,12,1,win,210674,623,1895790,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,580,RIT,9,True,3,0,3,win,210998,623,1895790,2017

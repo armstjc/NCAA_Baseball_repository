@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,0.0,4,2,1,1,1,0,23,21,1,0,0,0,1,0,0,0,0,1,0,0,8,8,1,0,0,1,1,03/14/2017,neutral,12560,547,Plattsburgh St.,9,True,10,4,6,win,211390,330,1767248,2017
+0,0,2.0,0.0,3,2,2,0,2,0,8,8,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,1,03/26/2017,away,12560,623,Salve Regina,9,True,3,7,-4,loss,214489,330,1767248,2017
+0,1,2.1,0.0,9,8,8,0,1,0,16,16,1,0,0,0,0,0,0,0,0,0,0,0,2,3,0,1,0,1,0,04/07/2017,away,12560,775,Western New Eng.,9,True,0,17,-17,loss,217241,330,1767248,2017
+0,0,1.0,0.0,3,2,2,1,2,0,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,3,1,04/13/2017,home,12560,623,Salve Regina,9,True,4,8,-4,loss,219125,330,1767248,2017
+0,0,4.0,0.0,3,2,2,1,1,0,16,15,1,0,0,0,0,0,0,0,0,0,0,0,4,7,1,0,0,3,1,04/24/2017,home,12560,145,Clark (MA),9,True,7,3,4,win,222540,330,1767248,2017

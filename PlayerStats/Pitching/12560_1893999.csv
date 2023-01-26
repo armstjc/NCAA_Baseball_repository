@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.2,0.0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,3,1,0,1,5,0,2,0,0,0,3,0,03/13/2017,neutral,12560,966,Arcadia,9,True,0,4,-4,loss,211225,520,1893999,2017
+0,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,8,0,04/30/2017,home,12560,182,Denison,9,True,10,22,-12,loss,224295,520,1893999,2017

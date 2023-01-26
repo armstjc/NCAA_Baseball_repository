@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/24/2017,away,12560,357,Lincoln (PA),9,True,12,13,-1,loss,207068,1277,1888486,2017
 0,0,0,0,0,0,0,0,0,0,02/24/2017,away,12560,357,Lincoln (PA),9,True,10,0,10,win,207081,1277,1888486,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,36,Assumption,9,True,6,8,-2,loss,208462,1277,1888486,2017
@@ -24,7 +24,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/12/2017,away,12560,8956,Dominican (NY),9,True,0,4,-4,loss,219024,1277,1888486,2017
 0,0,0,0,0,0,0,0,0,0,04/12/2017,away,12560,8956,Dominican (NY),9,True,0,4,-4,loss,219035,1277,1888486,2017
 0,0,0,0,0,0,0,0,0,0,04/13/2017,home,12560,8956,Dominican (NY),9,True,2,1,1,win,219234,1277,1888486,2017
-1,0,1,0,0,0,0,0,0,0,04/13/2017,home,12560,8956,Dominican (NY),9,True,3,1,2,win,219248,1277,1888486,2017
+1,1,0,0,0,0,0,0,0,0,04/13/2017,home,12560,8956,Dominican (NY),9,True,3,1,2,win,219248,1277,1888486,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,home,12560,984,Bloomfield,10,True,6,5,1,win,220294,1277,1888486,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,home,12560,984,Bloomfield,9,True,2,6,-4,loss,220328,1277,1888486,2017
 0,0,0,0,0,0,0,0,0,0,04/18/2017,away,12560,995,Caldwell,9,True,4,2,2,win,220774,1277,1888486,2017

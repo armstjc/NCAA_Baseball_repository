@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,511,Norwich,9,True,12,2,10,win,211041,1451,1895564,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,511,Norwich,9,True,3,4,-1,loss,211062,1451,1895564,2017
 0,0,0,0,0,0,0,0,0,0,03/13/2017,neutral,12560,335,Kenyon,9,True,0,6,-6,loss,211244,1451,1895564,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,686,Swarthmore,9,True,5,2,3,win,207879,211,1892118,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,686,Swarthmore,9,True,9,4,5,win,207887,211,1892118,2017
 0,0,0,0,0,0,0,0,0,0,03/01/2017,away,12560,637,Shenandoah,9,True,4,9,-5,loss,208183,211,1892118,2017

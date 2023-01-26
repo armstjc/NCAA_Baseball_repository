@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,6.0,0.0,4,0,0,1,4,0,23,21,1,0,0,0,1,1,0,0,0,0,0,0,9,3,1,0,0,1,1,03/16/2017,neutral,12560,1099,Gordon,9,True,4,1,3,win,211666,69,1895455,2017
+0,1,4.0,0.0,8,4,4,2,0,0,20,18,1,0,0,0,1,0,0,0,0,0,0,0,6,4,0,1,0,1,0,03/22/2017,neutral,12560,798,Wis.-Oshkosh,9,True,0,10,-10,loss,213282,69,1895455,2017
+0,0,1.0,0.0,2,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,8,0,04/05/2017,neutral,12560,662,Southern Me.,9,True,0,6,-6,loss,216971,69,1895455,2017
+0,0,1.1,0.0,5,3,3,0,2,0,9,9,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,3,0,04/08/2017,neutral,12560,50,Bates,9,True,3,6,-3,loss,217941,69,1895455,2017

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,03/15/2017,home,12560,1379,Southern Vt.,9,True,21,1,20,win,211457,549,1542171,2017
+0,1,1.0,0.0,0,0,0,0,0,0,4,4,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,03/22/2017,home,12560,789,Williams,9,True,10,8,2,win,213185,549,1542171,2017
+0,0,1.2,0.0,3,2,2,1,1,0,7,6,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,04/29/2017,home,12560,567,Redlands,9,True,3,13,-10,loss,223951,549,1542171,2017

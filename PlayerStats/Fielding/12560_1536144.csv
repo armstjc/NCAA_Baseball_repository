@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/05/2017,home,12560,38,Augsburg,9,True,6,7,-1,loss,209350,166,1536144,2017
 1,1,0,0,0,0,0,0,0,0,03/05/2017,home,12560,38,Augsburg,9,True,6,11,-5,loss,209367,166,1536144,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,618,St. Scholastica,9,True,8,6,2,win,210664,166,1536144,2017

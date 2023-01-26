@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,752,Wash. & Lee,9,True,9,5,4,win,207372,239,1771224,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,away,12560,752,Wash. & Lee,9,True,6,11,-5,loss,207465,239,1771224,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,away,12560,752,Wash. & Lee,9,True,3,7,-4,loss,207757,239,1771224,2017

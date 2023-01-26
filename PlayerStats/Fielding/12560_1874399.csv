@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/05/2017,home,12560,1379,Southern Vt.,9,True,10,0,10,win,209353,478,1874399,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,home,12560,1379,Southern Vt.,9,True,8,7,1,win,209371,478,1874399,2017
 0,0,0,0,0,0,0,0,0,0,03/08/2017,neutral,12560,16142,Misericordia,9,True,2,5,-3,loss,209859,478,1874399,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,26,Anna Maria,9,True,3,1,2,win,208949,1164,1782132,2017
 5,5,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,26,Anna Maria,9,True,12,6,6,win,208958,1164,1782132,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,602,Saint John's (MN),9,True,6,5,1,win,209207,1164,1782132,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/10/2017,neutral,12560,601,St. John Fisher,9,True,11,3,8,win,210264,684,1895277,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,564,Ramapo,9,True,9,3,6,win,210722,684,1895277,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,442,Montclair St.,12,True,10,9,1,win,211033,684,1895277,2017

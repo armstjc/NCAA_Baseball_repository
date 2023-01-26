@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,03/11/2017,neutral,12560,26107,Becker,9,True,6,9,-3,loss,210775,152,1652633,2017
+0,1,4.2,0.0,4,7,1,1,2,0,23,20,1,0,0,0,3,2,0,0,0,0,0,0,5,6,0,0,0,1,0,03/15/2017,neutral,12560,24317,Lesley,9,True,11,7,4,win,211575,152,1652633,2017
+0,0,4.0,0.0,2,1,1,1,1,0,17,12,1,0,0,0,0,2,0,0,0,1,1,0,6,5,0,0,0,2,0,05/02/2017,home,12560,467,New England Col.,9,True,1,7,-6,loss,224522,152,1652633,2017

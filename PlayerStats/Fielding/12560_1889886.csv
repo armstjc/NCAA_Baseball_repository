@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,3,2,1,0,0,0,0,0,0,02/19/2017,home,12560,0,Penn St.-Brandywine,9,True,10,9,1,win,206558,88,1889886,2017
 6,6,0,0,0,0,0,0,0,0,02/19/2017,home,12560,0,Penn St.-Brandywine,9,True,5,3,2,win,206572,88,1889886,2017
 0,0,0,0,0,0,0,0,0,0,02/27/2017,neutral,12560,30032,Finlandia,9,True,7,1,6,win,207968,88,1889886,2017

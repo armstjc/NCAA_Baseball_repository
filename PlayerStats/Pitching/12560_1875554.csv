@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,0.1,0.0,6,8,8,2,1,0,9,7,2,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,5,0,03/10/2017,neutral,12560,442,Montclair St.,9,True,3,20,-17,loss,210312,242,1875554,2017
+0,0,0.2,0.0,1,0,0,1,1,0,4,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,03/14/2017,neutral,12560,27892,Farmingdale St.,9,True,7,6,1,win,211416,242,1875554,2017
+0,0,2.1,0.0,3,2,0,1,1,0,13,12,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,3,0,03/24/2017,neutral,12560,168,SUNY Cortland,9,True,0,14,-14,loss,213738,242,1875554,2017
+0,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,04/24/2017,home,12560,538,Penn St.-Behrend,9,True,7,15,-8,loss,222530,242,1875554,2017

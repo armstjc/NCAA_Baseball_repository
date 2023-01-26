@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,1,1,0,0,0,0,1,0,0,02/25/2017,neutral,12560,325,Juniata,9,True,22,8,14,win,207537,1315,1891524,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,46,Baldwin Wallace,9,True,1,22,-21,loss,207941,1315,1891524,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,46,Baldwin Wallace,9,True,5,14,-9,loss,207935,1315,1891524,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/25/2017,neutral,12560,633,Scranton,9,True,3,5,-2,loss,207561,16,1767131,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,neutral,12560,633,Scranton,10,True,2,3,-1,loss,207572,16,1767131,2017
 0,0,0,0,0,0,0,0,0,0,03/08/2017,home,12560,397,Marywood,9,True,5,4,1,win,209804,16,1767131,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,722,Coast Guard,9,True,5,7,-2,loss,209275,724,1763412,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,722,Coast Guard,9,True,0,9,-9,loss,209307,724,1763412,2017
 0,0,0,0,0,0,0,0,0,0,03/06/2017,neutral,12560,722,Coast Guard,9,True,4,6,-2,loss,209444,724,1763412,2017

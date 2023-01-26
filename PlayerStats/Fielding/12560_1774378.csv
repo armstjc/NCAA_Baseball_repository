@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 6,7,1,0,0,0,0,0,0,0,03/07/2017,away,12560,480,CCNY,9,True,10,7,3,win,209693,451,1774378,2017
 2,4,2,0,0,0,0,0,0,0,03/14/2017,neutral,12560,1451,Westminster (PA),9,True,10,4,6,win,211385,451,1774378,2017
 1,2,1,0,0,0,1,1,0,0,03/15/2017,neutral,12560,1451,Westminster (PA),9,True,7,3,4,win,211567,451,1774378,2017

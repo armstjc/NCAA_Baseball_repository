@@ -1,10 +1,10 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/01/2017,home,12560,321,John Jay,9,True,7,4,3,win,208180,479,1894418,2017
-1,2,3,0,0,0,0,2,0,0,03/04/2017,home,12560,589,Rutgers-Newark,9,True,13,11,2,win,208579,479,1894418,2017
+1,3,2,0,0,0,0,2,0,0,03/04/2017,home,12560,589,Rutgers-Newark,9,True,13,11,2,win,208579,479,1894418,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,home,12560,30165,SUNY Canton,9,True,6,5,1,win,209155,479,1894418,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,home,12560,30165,SUNY Canton,9,True,20,1,19,win,209181,479,1894418,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,803,Wis.-Stout,9,True,17,6,11,win,211009,479,1894418,2017
-1,0,1,0,0,0,0,0,0,0,03/13/2017,home,12560,192,Dubuque,9,True,12,6,6,win,211245,479,1894418,2017
+1,1,0,0,0,0,0,0,0,0,03/13/2017,home,12560,192,Dubuque,9,True,12,6,6,win,211245,479,1894418,2017
 0,0,0,0,0,0,0,0,0,0,03/13/2017,neutral,12560,192,Dubuque,9,True,9,10,-1,loss,211255,479,1894418,2017
 0,0,0,0,0,0,0,0,0,0,03/14/2017,neutral,12560,1066,Edgewood,9,True,12,7,5,win,211387,479,1894418,2017
 0,1,1,0,0,0,0,0,0,0,03/17/2017,neutral,12560,322,Johns Hopkins,9,True,4,8,-4,loss,211903,479,1894418,2017

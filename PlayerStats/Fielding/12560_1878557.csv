@@ -1,11 +1,11 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/10/2017,neutral,12560,64,Blackburn,9,True,8,4,4,win,210446,286,1878557,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,neutral,12560,64,Blackburn,9,True,2,0,2,win,210325,286,1878557,2017
 0,0,0,0,0,0,0,0,0,0,03/17/2017,neutral,12560,583,Roger Williams,9,True,13,7,6,win,212002,286,1878557,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,neutral,12560,583,Roger Williams,9,True,16,3,13,win,212459,286,1878557,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,neutral,12560,583,Roger Williams,9,True,13,8,5,win,212468,286,1878557,2017
 0,0,0,0,0,0,0,0,0,0,03/20/2017,neutral,12560,364,Loras,9,True,13,8,5,win,212468,286,1878557,2017
-0,0,1,1,0,0,1,0,0,0,03/20/2017,neutral,12560,364,Loras,9,True,5,11,-6,loss,212941,286,1878557,2017
+0,1,0,1,0,0,1,0,0,0,03/20/2017,neutral,12560,364,Loras,9,True,5,11,-6,loss,212941,286,1878557,2017
 0,0,0,0,0,0,0,0,0,0,03/21/2017,neutral,12560,2758,Thomas (ME),9,True,12,0,12,win,213129,286,1878557,2017
 0,0,0,0,0,0,0,0,0,0,03/21/2017,neutral,12560,2758,Thomas (ME),9,True,7,5,2,win,213164,286,1878557,2017
 0,0,0,0,0,0,0,0,0,0,03/22/2017,neutral,12560,296,Benedictine (IL),9,True,4,6,-2,loss,213274,286,1878557,2017

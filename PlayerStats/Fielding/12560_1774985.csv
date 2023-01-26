@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,462,Neb. Wesleyan,9,True,0,1,-1,loss,210727,583,1774985,2017
 0,0,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,462,Neb. Wesleyan,9,True,0,4,-4,loss,210754,583,1774985,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,69,Bowdoin,9,True,4,7,-3,loss,211046,583,1774985,2017

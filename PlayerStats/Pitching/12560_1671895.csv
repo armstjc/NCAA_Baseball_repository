@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,5.2,0.0,6,2,2,2,5,0,25,23,0,0,0,0,0,0,0,0,0,0,0,0,4,7,1,0,0,1,2,03/13/2017,neutral,12560,525,Olivet,9,True,5,2,3,win,211205,673,1671895,2017
+0,1,4.0,0.0,5,9,3,5,2,0,24,17,1,1,0,0,0,1,0,0,0,0,1,0,5,4,0,0,0,1,1,03/18/2017,neutral,12560,2691,Daniel Webster,9,True,25,14,11,win,212329,673,1671895,2017
+0,0,3.0,0.0,6,4,4,1,2,0,16,15,1,0,0,1,0,0,0,0,0,0,0,0,2,4,0,1,0,2,0,04/03/2017,home,12560,777,Westfield St.,9,True,4,10,-6,loss,216520,673,1671895,2017
+0,1,5.2,0.0,11,7,7,1,1,0,29,26,1,0,0,2,0,2,0,0,0,0,0,0,6,8,0,1,0,1,1,04/10/2017,home,12560,398,MIT,9,True,4,16,-12,loss,218505,673,1671895,2017
+0,1,1.0,0.0,3,2,2,1,0,0,7,6,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,1,0,04/15/2017,home,12560,145,Clark (MA),9,True,7,13,-6,loss,220386,673,1671895,2017

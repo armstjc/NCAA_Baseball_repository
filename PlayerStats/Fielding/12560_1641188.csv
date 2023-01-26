@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/10/2017,neutral,12560,1162,LaGrange,9,True,6,7,-1,loss,205423,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,neutral,12560,8746,Southwestern (TX),9,True,3,7,-4,loss,205578,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,02/12/2017,away,12560,1130,Huntingdon,9,True,5,1,4,win,205653,573,1641188,2017
@@ -10,12 +10,12 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,02/25/2017,home,12560,1111,Greenville,9,True,19,2,17,win,207587,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,home,12560,177,DePauw,9,True,5,7,-2,loss,207747,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,away,12560,2713,Oglethorpe,9,True,0,10,-10,loss,208392,573,1641188,2017
-1,0,1,0,0,0,0,0,0,0,03/04/2017,away,12560,2713,Oglethorpe,9,True,5,3,2,win,208708,573,1641188,2017
+1,1,0,0,0,0,0,0,0,0,03/04/2017,away,12560,2713,Oglethorpe,9,True,5,3,2,win,208708,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,away,12560,2713,Oglethorpe,9,True,10,5,5,win,208795,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,03/06/2017,neutral,12560,160,Concordia Chicago,9,True,0,3,-3,loss,209435,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,03/07/2017,neutral,12560,1402,Thomas More,9,True,0,10,-10,loss,209673,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,03/09/2017,neutral,12560,75,Bridgewater (VA),9,True,2,0,2,win,209997,573,1641188,2017
-1,0,1,0,0,0,1,1,0,0,03/10/2017,neutral,12560,278,Heidelberg,9,True,7,11,-4,loss,210298,573,1641188,2017
+1,1,0,0,0,0,1,1,0,0,03/10/2017,neutral,12560,278,Heidelberg,9,True,7,11,-4,loss,210298,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,neutral,12560,30047,Keystone,9,True,2,3,-1,loss,210299,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,home,12560,426,Millsaps,10,True,6,9,-3,loss,212203,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,home,12560,426,Millsaps,9,True,8,6,2,win,212287,573,1641188,2017
@@ -39,8 +39,8 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/23/2017,home,12560,132,Centre,9,True,4,6,-2,loss,222134,573,1641188,2017
 0,1,1,0,0,0,1,0,0,0,04/23/2017,home,12560,132,Centre,9,True,2,1,1,win,222470,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,04/28/2017,home,12560,2713,Oglethorpe,9,True,10,4,6,win,223217,573,1641188,2017
-1,2,4,1,0,0,0,0,0,0,04/29/2017,home,12560,1124,Hendrix,9,True,5,3,2,win,223928,573,1641188,2017
-0,0,1,1,0,0,1,1,0,0,05/06/2017,away,12560,28593,Birmingham-So.,9,True,6,7,-1,loss,225080,573,1641188,2017
+1,4,2,1,0,0,0,0,0,0,04/29/2017,home,12560,1124,Hendrix,9,True,5,3,2,win,223928,573,1641188,2017
+0,1,0,1,0,0,1,1,0,0,05/06/2017,away,12560,28593,Birmingham-So.,9,True,6,7,-1,loss,225080,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,05/07/2017,home,12560,28593,Birmingham-So.,9,True,11,8,3,win,225652,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,05/07/2017,away,12560,28593,Birmingham-So.,9,True,4,3,1,win,225687,573,1641188,2017
 0,0,0,0,0,0,0,0,0,0,05/07/2017,home,12560,28593,Birmingham-So.,9,True,4,3,1,win,225687,573,1641188,2017

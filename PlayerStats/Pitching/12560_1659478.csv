@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,5,0,03/05/2017,away,12560,64,Blackburn,9,True,18,2,16,win,209094,120,1659478,2017
+0,0,1.0,0.0,0,0,0,1,2,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,03/15/2017,neutral,12560,753,Washington Col.,9,True,5,14,-9,loss,211542,120,1659478,2017
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,9,0,04/12/2017,home,12560,8911,Wis. Lutheran,9,True,13,12,1,win,218887,120,1659478,2017
+0,0,1.0,0.0,3,2,0,0,2,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,04/14/2017,away,12560,778,Wheaton (IL),9,True,6,3,3,win,219542,120,1659478,2017
+0,0,0.2,0.0,2,2,2,2,1,0,6,4,0,0,0,0,0,0,1,4,3,0,0,0,0,1,0,1,0,3,0,05/01/2017,away,12560,496,North Park,9,True,7,10,-3,loss,224361,120,1659478,2017

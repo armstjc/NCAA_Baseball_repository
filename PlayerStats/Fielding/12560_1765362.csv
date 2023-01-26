@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/25/2017,home,12560,747,Wabash,9,True,8,6,2,win,207376,28749,1765362,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,home,12560,747,Wabash,9,True,12,11,1,win,207609,28749,1765362,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,home,12560,747,Wabash,9,True,2,23,-21,loss,207763,28749,1765362,2017
@@ -35,4 +35,4 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/28/2017,away,12560,195,Earlham,9,True,2,8,-6,loss,223358,28749,1765362,2017
 0,0,0,0,0,0,0,0,0,0,04/28/2017,away,12560,195,Earlham,9,True,4,7,-3,loss,223411,28749,1765362,2017
 0,0,0,0,0,0,0,0,0,0,04/29/2017,away,12560,195,Earlham,9,True,7,11,-4,loss,223537,28749,1765362,2017
-3,0,3,0,0,0,0,0,0,0,05/02/2017,away,12560,1115,Hanover,9,True,5,10,-5,loss,224450,28749,1765362,2017
+3,3,0,0,0,0,0,0,0,0,05/02/2017,away,12560,1115,Hanover,9,True,5,10,-5,loss,224450,28749,1765362,2017

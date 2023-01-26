@@ -1,5 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
-0,0,0.0,0.0,3,4,3,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,03/12/2017,neutral,12560,486,MCLA,9,True,5,6,-1,loss,211054,525,1542557,2017
 0,0,0.2,0.0,2,1,1,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,0,03/17/2017,neutral,12560,733,Utica,9,True,8,5,3,win,211937,525,1542557,2017
 0,0,4.0,0.0,4,1,1,0,4,0,17,16,0,0,0,0,1,0,0,0,0,0,1,0,5,3,0,0,0,3,3,04/01/2017,home,12560,30037,Trine,9,True,0,12,-12,loss,215597,525,1542557,2017
 0,0,0.1,0.0,3,5,5,3,0,0,7,4,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,04/09/2017,away,12560,15,Albion,9,True,10,18,-8,loss,218484,525,1542557,2017

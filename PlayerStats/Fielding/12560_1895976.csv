@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,684,Suffolk,9,True,3,9,-6,loss,210722,564,1895976,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,8981,Endicott,9,True,1,6,-5,loss,211056,564,1895976,2017
 0,0,0,0,0,0,0,0,0,0,03/13/2017,neutral,12560,779,Wheaton (MA),9,True,0,7,-7,loss,211200,564,1895976,2017

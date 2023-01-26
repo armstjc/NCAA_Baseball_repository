@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/11/2017,away,12560,565,Randolph-Macon,9,True,1,8,-7,loss,205512,611,1881216,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,away,12560,565,Randolph-Macon,9,True,3,9,-6,loss,205559,611,1881216,2017
 0,0,0,0,0,0,0,0,0,0,02/18/2017,home,12560,1468,Mt. St. Mary (NY),9,True,10,2,8,win,206116,611,1881216,2017

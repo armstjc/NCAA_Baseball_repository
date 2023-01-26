@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/13/2017,neutral,12560,803,Wis.-Stout,9,True,8,6,2,win,211217,8911,1779451,2017
 0,0,0,0,0,0,0,0,0,0,03/13/2017,neutral,12560,753,Washington Col.,9,True,1,11,-10,loss,211219,8911,1779451,2017
 0,0,0,0,0,0,1,0,0,0,03/14/2017,neutral,12560,770,WestConn,9,True,7,5,2,win,211442,8911,1779451,2017

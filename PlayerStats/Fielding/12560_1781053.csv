@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 3,4,0,1,0,0,0,0,1,0,03/05/2017,neutral,12560,394,Marymount (VA),9,True,2,10,-8,loss,209298,1133,1781053,2017
 11,13,2,0,0,0,0,0,0,0,03/05/2017,neutral,12560,394,Marymount (VA),9,True,3,2,1,win,209265,1133,1781053,2017
 9,10,1,0,0,0,0,0,2,0,03/06/2017,neutral,12560,571,Rhode Island Col.,9,True,7,8,-1,loss,209464,1133,1781053,2017

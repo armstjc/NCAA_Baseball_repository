@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 1,7,5,1,0,0,0,0,1,0,02/11/2017,away,12560,622,Salisbury,9,True,12,20,-8,loss,205473,12399,1775311,2017
 2,5,3,0,0,0,0,0,0,0,02/18/2017,away,12560,329,Kean,9,True,1,4,-3,loss,206047,12399,1775311,2017
 1,4,3,0,0,0,0,0,0,0,03/05/2017,neutral,12560,325,Juniata,9,True,13,1,12,win,209266,12399,1775311,2017

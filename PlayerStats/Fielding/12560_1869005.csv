@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 5,5,0,0,0,0,0,0,0,0,03/05/2017,away,12560,1400,Texas Lutheran,9,True,3,2,1,win,209351,398,1869005,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,away,12560,1400,Texas Lutheran,9,True,4,8,-4,loss,209368,398,1869005,2017
 7,9,2,0,0,0,0,0,0,0,03/17/2017,neutral,12560,679,Stevens,9,True,14,0,14,win,211888,398,1869005,2017

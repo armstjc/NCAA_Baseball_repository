@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,1,03/06/2017,neutral,12560,351,Lebanon Valley,9,True,11,3,8,win,209446,1163,1665393,2017
+0,0,1.1,0.0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,1,04/02/2017,home,12560,8398,Hilbert,9,True,12,0,12,win,216403,1163,1665393,2017
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,1,04/09/2017,away,12560,23725,Medaille,9,True,21,1,20,win,218445,1163,1665393,2017
+0,0,1.0,0.0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,04/22/2017,home,12560,1059,D'Youville,9,True,13,0,13,win,221745,1163,1665393,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,24317,Lesley,9,True,3,4,-1,loss,211057,673,1876251,2017
 0,0,0,0,0,0,0,0,0,0,03/13/2017,neutral,12560,525,Olivet,9,True,5,2,3,win,211205,673,1876251,2017
 0,0,0,0,0,0,0,0,0,0,03/14/2017,neutral,12560,787,Wm. Paterson,9,True,9,5,4,win,211389,673,1876251,2017

@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,330,Keene St.,11,True,3,2,1,win,210705,737,1539631,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,242,Fredonia,9,True,5,7,-2,loss,210999,737,1539631,2017
 1,1,0,0,0,0,0,0,0,0,03/13/2017,neutral,12560,777,Westfield St.,9,True,5,8,-3,loss,211210,737,1539631,2017

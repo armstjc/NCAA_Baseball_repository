@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/11/2017,home,12560,745,Va. Wesleyan,10,True,8,4,4,win,205617,491,1650296,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,home,12560,745,Va. Wesleyan,9,True,6,5,1,win,205623,491,1650296,2017
 0,0,0,0,0,0,0,0,0,0,02/14/2017,home,12560,15646,Barton,9,True,3,5,-2,loss,205740,491,1650296,2017

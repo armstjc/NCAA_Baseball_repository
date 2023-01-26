@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,686,Swarthmore,9,True,5,2,3,win,207879,211,1775247,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,neutral,12560,686,Swarthmore,9,True,9,4,5,win,207887,211,1775247,2017
 0,0,0,0,0,0,0,0,0,0,03/01/2017,away,12560,637,Shenandoah,9,True,4,9,-5,loss,208183,211,1775247,2017
@@ -17,15 +17,15 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/02/2017,away,12560,633,Scranton,9,True,14,10,4,win,216365,211,1775247,2017
 0,0,0,0,0,0,0,0,0,0,04/02/2017,away,12560,633,Scranton,9,True,9,8,1,win,216472,211,1775247,2017
 0,0,0,0,0,0,0,0,0,0,04/03/2017,away,12560,633,Scranton,9,True,3,5,-2,loss,216572,211,1775247,2017
-2,0,2,0,0,0,0,0,0,0,04/04/2017,away,12560,30081,Penn St. Harrisburg,9,True,13,8,5,win,216674,211,1775247,2017
-3,0,4,1,0,0,0,0,0,0,04/05/2017,home,12560,351,Lebanon Valley,10,True,1,0,1,win,216851,211,1775247,2017
+2,2,0,0,0,0,0,0,0,0,04/04/2017,away,12560,30081,Penn St. Harrisburg,9,True,13,8,5,win,216674,211,1775247,2017
+3,4,0,1,0,0,0,0,0,0,04/05/2017,home,12560,351,Lebanon Valley,10,True,1,0,1,win,216851,211,1775247,2017
 0,0,0,0,0,0,0,0,0,0,04/10/2017,home,12560,16,Albright,9,True,10,1,9,win,218492,211,1775247,2017
 0,0,0,0,0,0,0,0,0,0,04/11/2017,home,12560,185,Dickinson,9,True,8,6,2,win,218631,211,1775247,2017
-4,0,4,0,0,0,0,0,0,0,04/14/2017,home,12560,124,Catholic,9,True,11,2,9,win,219716,211,1775247,2017
+4,4,0,0,0,0,0,0,0,0,04/14/2017,home,12560,124,Catholic,9,True,11,2,9,win,219716,211,1775247,2017
 0,0,0,0,0,0,0,0,0,0,04/14/2017,home,12560,124,Catholic,9,True,4,3,1,win,219747,211,1775247,2017
 0,0,0,0,0,0,0,0,0,0,04/15/2017,home,12560,124,Catholic,9,True,2,11,-9,loss,220270,211,1775247,2017
 0,0,0,0,0,0,0,0,0,0,04/17/2017,away,12560,443,Moravian,9,True,2,5,-3,loss,220539,211,1775247,2017
-2,0,2,0,0,0,0,0,0,0,04/19/2017,away,12560,411,Messiah,9,True,11,3,8,win,221021,211,1775247,2017
+2,2,0,0,0,0,0,0,0,0,04/19/2017,away,12560,411,Messiah,9,True,11,3,8,win,221021,211,1775247,2017
 0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,685,Susquehanna,9,True,4,5,-1,loss,221633,211,1775247,2017
 0,0,0,0,0,0,0,0,0,0,04/22/2017,away,12560,685,Susquehanna,11,True,6,3,3,win,221810,211,1775247,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,away,12560,685,Susquehanna,9,True,8,9,-1,loss,222138,211,1775247,2017

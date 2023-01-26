@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,124,Catholic,9,True,1,3,-2,loss,209284,30044,1657983,2017
 1,1,0,0,0,0,2,0,0,0,03/05/2017,neutral,12560,124,Catholic,9,True,3,4,-1,loss,209316,30044,1657983,2017
 0,0,0,0,0,0,0,0,0,0,03/06/2017,neutral,12560,279,Lehman,9,True,7,5,2,win,209450,30044,1657983,2017

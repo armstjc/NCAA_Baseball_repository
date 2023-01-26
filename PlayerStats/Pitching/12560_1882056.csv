@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,11,1,1,0,0,0,3,0,04/05/2017,away,12560,1433,Wayne St. (NE),9,True,4,11,-7,loss,216935,790,1882056,2017
+0,0,1.0,0.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,17,1,1,0,0,0,4,0,04/08/2017,away,12560,30128,Sioux Falls,9,True,16,5,11,win,217790,790,1882056,2017
+0,0,1.2,0.0,4,3,3,0,0,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,2,0,04/13/2017,home,12560,8736,Southwest Minn. St.,9,True,9,6,3,win,219255,790,1882056,2017
+0,0,2.0,0.0,1,1,1,0,4,0,7,7,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,2,1,04/27/2017,home,12560,427,Minn. Duluth,9,True,7,3,4,win,223005,790,1882056,2017
+0,0,1.1,0.0,4,2,2,0,0,0,8,6,1,0,0,0,0,0,0,1,0,0,2,0,0,4,0,0,0,2,0,04/29/2017,away,12560,1266,Northern St.,9,True,3,12,-9,loss,223876,790,1882056,2017
+0,1,3.0,0.0,3,3,3,2,1,0,15,11,0,1,0,0,0,0,0,0,0,1,1,0,4,4,0,0,0,1,0,05/06/2017,home,12560,9081,Concordia-St. Paul,9,True,10,6,4,win,225348,790,1882056,2017

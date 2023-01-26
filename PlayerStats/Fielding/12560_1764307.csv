@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/03/2017,away,12560,341,La Verne,9,True,7,6,1,win,205070,125,1764307,2017
 0,0,0,0,0,0,0,0,0,0,02/04/2017,away,12560,567,Redlands,9,True,2,9,-7,loss,205152,125,1764307,2017
 0,0,0,0,0,0,0,1,0,0,02/04/2017,away,12560,567,Redlands,9,True,9,4,5,win,205196,125,1764307,2017
@@ -39,7 +39,7 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/23/2017,away,12560,1182,Louisiana Col.,9,True,7,6,1,win,222412,125,1764307,2017
 0,0,0,0,0,0,0,0,0,0,04/28/2017,neutral,12560,8746,Southwestern (TX),9,True,6,4,2,win,223331,125,1764307,2017
 0,0,0,0,0,0,0,0,0,0,04/29/2017,neutral,12560,715,Trinity (TX),9,True,5,3,2,win,223923,125,1764307,2017
-1,0,1,0,0,0,0,0,0,0,04/30/2017,neutral,12560,715,Trinity (TX),9,True,9,10,-1,loss,224312,125,1764307,2017
+1,1,0,0,0,0,0,0,0,0,04/30/2017,neutral,12560,715,Trinity (TX),9,True,9,10,-1,loss,224312,125,1764307,2017
 0,0,0,0,0,0,0,0,0,0,04/30/2017,neutral,12560,715,Trinity (TX),9,True,13,3,10,win,224314,125,1764307,2017
 0,0,0,0,0,0,0,0,0,0,05/18/2017,neutral,12560,1179,Linfield,9,True,12,1,11,win,226875,125,1764307,2017
 0,0,0,0,0,0,0,0,0,0,05/19/2017,neutral,12560,105,Cal Lutheran,9,True,2,8,-6,loss,227042,125,1764307,2017

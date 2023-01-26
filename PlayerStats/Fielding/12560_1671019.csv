@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 4,6,2,0,0,0,0,0,1,0,02/19/2017,away,12560,491,N.C. Wesleyan,9,True,1,11,-10,loss,206672,30040,1671019,2017
 10,11,0,1,0,0,0,0,0,0,02/19/2017,away,12560,491,N.C. Wesleyan,9,True,2,7,-5,loss,206686,30040,1671019,2017
 3,3,0,0,0,0,0,0,0,0,02/20/2017,away,12560,491,N.C. Wesleyan,9,True,1,20,-19,loss,206705,30040,1671019,2017

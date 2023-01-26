@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,783,Widener,9,True,2,6,-4,loss,209278,335,1548111,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,783,Widener,11,True,11,12,-1,loss,209310,335,1548111,2017
 0,0,0,0,0,0,0,0,0,0,03/06/2017,neutral,12560,211,Elizabethtown,9,True,4,8,-4,loss,209477,335,1548111,2017

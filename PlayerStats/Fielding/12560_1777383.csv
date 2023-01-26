@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,1,0,1,0,0,1,0,0,0,03/05/2017,neutral,12560,733,Utica,9,True,0,13,-13,loss,209272,814,1777383,2017
 4,5,1,0,0,0,0,0,0,0,03/05/2017,neutral,12560,733,Utica,9,True,3,16,-13,loss,209304,814,1777383,2017
 1,1,0,0,0,0,0,0,0,0,03/08/2017,home,12560,480,CCNY,9,True,3,14,-11,loss,209759,814,1777383,2017

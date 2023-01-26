@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/04/2017,home,12560,122,CWRU,9,True,7,6,1,win,208566,751,1772331,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,home,12560,122,CWRU,9,True,9,8,1,win,209077,751,1772331,2017
 0,0,0,0,0,0,0,0,0,0,03/08/2017,home,12560,59,Bethany (WV),9,True,12,1,11,win,209832,751,1772331,2017

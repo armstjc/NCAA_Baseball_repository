@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,30111,Covenant,9,True,2,3,-1,loss,205926,30171,1875308,2017
 0,0,0,0,0,0,0,0,0,0,02/17/2017,away,12560,30111,Covenant,9,True,1,13,-12,loss,205925,30171,1875308,2017
 0,0,0,0,0,0,0,0,0,0,02/23/2017,away,12560,8567,Mt. St. Joseph,9,True,8,12,-4,loss,206871,30171,1875308,2017

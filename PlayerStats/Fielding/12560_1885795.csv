@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,242,Fredonia,9,True,6,5,1,win,210847,227,1885795,2017
 1,1,0,0,0,0,0,0,0,0,03/11/2017,neutral,12560,242,Fredonia,9,True,1,16,-15,loss,210851,227,1885795,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,neutral,12560,239,Franklin & Marshall,9,True,0,6,-6,loss,211038,227,1885795,2017

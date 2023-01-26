@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,783,Widener,9,True,8,6,2,win,208820,438,1889404,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,303,Immaculata,9,True,9,16,-7,loss,209212,438,1889404,2017
 0,0,0,0,0,0,0,0,0,0,03/06/2017,neutral,12560,8398,Hilbert,9,True,15,3,12,win,209449,438,1889404,2017
@@ -23,8 +23,8 @@ PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,0,0,0,0,04/18/2017,away,12560,150,Coe,9,True,7,5,2,win,220773,438,1889404,2017
 2,2,0,0,0,0,2,0,0,0,04/18/2017,away,12560,150,Coe,9,True,1,10,-9,loss,220753,438,1889404,2017
 0,0,0,0,0,0,0,0,0,0,04/21/2017,neutral,12560,614,St. Norbert,9,True,0,2,-2,loss,221370,438,1889404,2017
-0,0,0,0,0,0,0,0,0,0,04/22/2017,neutral,12560,348,Lawrence,9,True,6,1,5,win,221905,438,1889404,2017
 0,0,0,0,0,0,0,0,0,0,04/22/2017,neutral,12560,53,Beloit,9,True,7,15,-8,loss,221904,438,1889404,2017
+0,0,0,0,0,0,0,0,0,0,04/22/2017,neutral,12560,348,Lawrence,9,True,6,1,5,win,221905,438,1889404,2017
 0,0,0,0,0,0,0,0,0,0,04/23/2017,neutral,12560,577,Ripon,9,True,8,3,5,win,222391,438,1889404,2017
 0,0,0,0,0,0,0,0,0,0,04/28/2017,home,12560,166,Cornell College,9,True,6,5,1,win,223264,438,1889404,2017
 0,0,0,0,0,0,0,0,0,0,04/28/2017,home,12560,166,Cornell College,9,True,4,5,-1,loss,223457,438,1889404,2017

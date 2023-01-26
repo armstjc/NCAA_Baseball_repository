@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/22/2017,away,12560,312,Iowa,9,True,1,8,-7,loss,206840,364,1432915,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,137,UChicago,9,True,15,5,10,win,208834,364,1432915,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,300,Ill. Wesleyan,9,True,6,7,-1,loss,208831,364,1432915,2017

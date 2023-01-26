@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/10/2017,home,12560,973,Berry,9,True,10,6,4,win,205407,30197,1884138,2017
 0,0,0,0,0,0,0,0,0,0,02/17/2017,home,12560,8530,McMurry,9,True,4,5,-1,loss,205921,30197,1884138,2017
 2,5,2,1,0,0,0,0,0,0,02/17/2017,home,12560,8530,McMurry,9,True,4,3,1,win,205929,30197,1884138,2017

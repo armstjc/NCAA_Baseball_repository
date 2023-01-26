@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,2.0,0.0,5,2,2,3,0,0,14,11,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,1,0,1,0,03/05/2017,neutral,12560,242,Fredonia,9,True,4,8,-4,loss,209231,279,1779960,2017
+0,0,2.0,0.0,1,0,0,2,2,0,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,03/25/2017,away,12560,321,John Jay,9,True,10,13,-3,loss,213824,279,1779960,2017
+0,1,3.1,0.0,13,12,12,5,2,0,28,21,0,1,0,0,0,1,0,0,0,1,0,0,6,1,0,1,0,1,0,04/07/2017,away,12560,27892,Farmingdale St.,9,True,4,14,-10,loss,217249,279,1779960,2017
+0,1,2.0,0.0,6,8,8,4,0,0,16,9,1,0,0,0,2,1,0,0,0,1,1,60,3,2,0,1,0,1,0,04/11/2017,away,12560,478,SUNY Maritime,9,True,9,13,-4,loss,218820,279,1779960,2017
+0,0,3.0,0.0,4,4,3,2,5,0,15,13,1,0,1,0,0,0,0,0,0,0,0,63,1,2,0,0,0,2,3,05/02/2017,home,12560,475,SUNY New Paltz,9,True,15,9,6,win,224403,279,1779960,2017

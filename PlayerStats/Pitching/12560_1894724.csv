@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,0,03/05/2017,away,12560,637,Shenandoah,9,True,5,13,-8,loss,209372,480,1894724,2017
+0,0,1.0,0.0,3,3,3,1,1,0,8,5,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,1,0,3,1,03/07/2017,home,12560,451,CMSV,9,True,7,10,-3,loss,209693,480,1894724,2017
+0,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,1,1,0,0,0,4,1,04/12/2017,away,12560,737,Vassar,9,True,1,11,-10,loss,218865,480,1894724,2017
+0,0,1.0,0.0,2,3,3,2,1,0,9,5,2,0,0,0,3,2,0,0,0,0,0,0,1,1,0,0,0,5,0,04/18/2017,away,12560,30114,Penn St.-Abington,9,True,11,13,-2,loss,220636,480,1894724,2017

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,1,1,1,0,0,6,4,0,0,0,0,1,1,0,0,0,0,0,0,1,2,0,0,0,4,0,03/18/2017,neutral,12560,121,Carthage,9,True,4,14,-10,loss,212362,515,1893082,2017
+0,0,0.1,0.0,2,2,2,3,0,0,5,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6,0,03/19/2017,neutral,12560,84,Buena Vista,9,True,0,8,-8,loss,212734,515,1893082,2017
+0,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,8,0,05/08/2017,home,12560,747,Wabash,9,True,0,7,-7,loss,225746,515,1893082,2017

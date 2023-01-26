@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,7,0,03/08/2017,away,12560,217,Emory,9,True,1,17,-16,loss,209761,2713,1882372,2017
+0,0,2.0,0.0,9,9,5,1,0,0,17,16,3,0,0,1,0,0,0,0,0,0,0,0,2,4,0,0,0,3,0,04/11/2017,home,12560,217,Emory,9,True,3,19,-16,loss,218726,2713,1882372,2017
+0,0,0.2,0.0,1,0,0,1,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,14,0,1,0,0,0,2,1,04/28/2017,away,12560,573,Rhodes,9,True,4,10,-6,loss,223217,2713,1882372,2017

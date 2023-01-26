@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 3,4,1,0,0,0,0,0,0,0,02/10/2017,home,12560,0,Arlington Baptist,9,True,4,6,-2,loss,205434,8490,1541838,2017
 2,3,1,0,0,0,0,0,1,0,02/10/2017,home,12560,0,Arlington Baptist,9,True,10,5,5,win,205436,8490,1541838,2017
 2,4,2,0,0,0,0,0,1,0,02/11/2017,home,12560,953,Austin,9,True,9,8,1,win,205595,8490,1541838,2017

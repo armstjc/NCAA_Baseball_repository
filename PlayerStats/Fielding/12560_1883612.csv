@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/05/2017,home,12560,125,Centenary (LA),9,True,1,11,-10,loss,205274,516,1883612,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,neutral,12560,1390,Sul Ross St.,9,True,8,9,-1,loss,205582,516,1883612,2017
 0,0,0,0,0,0,0,0,0,0,02/11/2017,neutral,12560,1094,George Fox,9,True,2,6,-4,loss,205581,516,1883612,2017

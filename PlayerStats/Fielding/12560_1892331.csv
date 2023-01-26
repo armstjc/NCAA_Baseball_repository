@@ -1,11 +1,11 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,02/25/2017,home,12560,462,Neb. Wesleyan,9,True,3,6,-3,loss,207384,1450,1892331,2017
 0,0,0,0,0,0,0,0,0,0,02/25/2017,home,12560,462,Neb. Wesleyan,9,True,4,2,2,win,207478,1450,1892331,2017
 0,0,0,0,0,0,0,0,0,0,02/26/2017,home,12560,462,Neb. Wesleyan,9,True,4,6,-2,loss,207770,1450,1892331,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,home,12560,0,Robert Morris-S'fiel,9,True,9,1,8,win,209168,1450,1892331,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,home,12560,0,Robert Morris-S'fiel,9,True,27,5,22,win,209373,1450,1892331,2017
 0,0,0,0,0,0,0,0,0,0,03/10/2017,home,12560,0,Roosevelt-Peoria,9,True,4,10,-6,loss,210191,1450,1892331,2017
-3,0,3,0,0,0,0,0,1,0,03/12/2017,home,12560,0,Roosevelt-Peoria,10,True,7,6,1,win,210973,1450,1892331,2017
+3,3,0,0,0,0,0,0,1,0,03/12/2017,home,12560,0,Roosevelt-Peoria,10,True,7,6,1,win,210973,1450,1892331,2017
 0,0,0,0,0,0,0,0,0,0,03/12/2017,home,12560,0,Roosevelt-Peoria,9,True,11,4,7,win,210988,1450,1892331,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,away,12560,30173,Iowa Wesleyan,9,True,6,2,4,win,212222,1450,1892331,2017
 0,0,0,0,0,0,0,0,0,0,03/18/2017,away,12560,30173,Iowa Wesleyan,9,True,12,0,12,win,212309,1450,1892331,2017

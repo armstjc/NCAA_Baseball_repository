@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/18/2017,neutral,12560,151,Colby,9,True,9,15,-6,loss,212344,607,1757704,2017
 4,4,0,0,0,0,1,0,0,0,03/19/2017,neutral,12560,1340,St. Joseph's (L.I.),9,True,6,5,1,win,212745,607,1757704,2017
 0,0,0,0,0,0,0,0,0,0,03/19/2017,neutral,12560,1340,St. Joseph's (L.I.),9,True,9,10,-1,loss,212838,607,1757704,2017

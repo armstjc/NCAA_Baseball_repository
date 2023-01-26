@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,2.0,0.0,1,2,2,4,1,0,10,5,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,2,0,02/28/2017,neutral,12560,40,Augustana (IL),10,True,6,10,-4,loss,208085,750,1889101,2017
+0,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,1,04/15/2017,home,12560,462,Neb. Wesleyan,9,True,9,2,7,win,220135,750,1889101,2017
+0,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,8,1,1,0,0,0,3,0,04/25/2017,away,12560,150,Coe,9,True,18,6,12,win,222721,750,1889101,2017
+0,0,2.0,0.0,2,0,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,0,05/01/2017,away,12560,126,Central (IA),9,True,15,0,15,win,224334,750,1889101,2017
+0,0,1.1,0.0,0,0,0,2,2,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,05/19/2017,neutral,12560,492,North Central (IL),9,True,3,8,-5,loss,227038,750,1889101,2017

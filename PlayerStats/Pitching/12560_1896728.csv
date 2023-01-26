@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,1,1.0,0.0,5,7,7,3,0,0,12,8,2,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,1,0,04/11/2017,away,12560,938,Alvernia,9,True,15,20,-5,loss,218827,589,1896728,2017
+0,1,6.0,0.0,5,2,2,0,6,0,24,23,0,0,0,1,1,0,0,0,0,1,0,0,4,8,1,0,0,1,0,04/17/2017,home,12560,58,Baruch,9,True,11,2,9,win,220535,589,1896728,2017
+0,1,6.2,0.0,9,4,3,3,5,0,31,26,1,0,0,0,1,0,0,0,0,2,0,79,7,7,1,0,0,1,1,04/26/2017,home,12560,321,John Jay,9,True,13,5,8,win,222918,589,1896728,2017

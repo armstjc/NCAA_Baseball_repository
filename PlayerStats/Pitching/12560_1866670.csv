@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.1,0.0,2,0,0,1,2,0,7,6,0,0,0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,3,0,03/03/2017,away,12560,2694,Franklin,9,True,5,4,1,win,208336,15,1866670,2017
+0,0,1.0,0.0,2,1,1,0,1,0,5,5,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,3,1,03/28/2017,away,12560,326,Kalamazoo,9,True,1,3,-2,loss,214887,15,1866670,2017
+0,0,2.0,0.0,4,3,2,1,4,0,12,10,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,3,1,04/02/2017,home,12560,21,Alma,9,True,3,6,-3,loss,216493,15,1866670,2017
+0,0,2.2,0.0,6,3,3,0,2,0,15,15,1,0,0,0,0,0,0,0,0,0,0,0,3,3,0,1,0,2,0,04/28/2017,away,12560,286,Hope,11,True,5,6,-1,loss,223322,15,1866670,2017
+0,0,0.1,0.0,4,4,4,1,0,0,7,5,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,3,0,05/07/2017,away,12560,30037,Trine,9,True,14,15,-1,loss,225566,15,1866670,2017

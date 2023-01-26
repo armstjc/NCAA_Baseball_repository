@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,2,3,3,1,2,0,8,4,0,0,0,1,1,2,0,0,0,1,0,0,1,0,0,0,0,4,0,02/22/2017,away,12560,0,St. Andrews,9,True,13,12,1,win,206851,491,1764663,2017
+0,1,2.1,0.0,3,5,3,5,3,0,16,9,0,0,0,0,0,1,0,0,0,1,0,0,2,1,0,0,0,1,1,03/07/2017,neutral,12560,30190,Penn College,9,True,6,7,-1,loss,209710,491,1764663,2017
+0,1,5.2,0.0,5,2,2,3,4,0,23,20,2,0,0,0,2,0,0,0,0,0,0,0,8,2,0,0,0,1,2,03/14/2017,home,12560,122,CWRU,9,True,5,2,3,win,211444,491,1764663,2017
+0,0,4.2,0.0,4,1,1,1,1,0,19,17,1,0,0,0,1,0,0,0,0,1,0,0,8,5,0,0,0,2,0,03/20/2017,home,12560,139,Chris. Newport,9,True,3,11,-8,loss,212944,491,1764663,2017
+0,1,6.0,0.0,5,0,0,2,0,0,23,18,0,0,0,0,1,2,0,0,0,1,0,0,9,5,1,0,0,1,0,03/29/2017,home,12560,0,St. Andrews,9,True,1,0,1,win,215066,491,1764663,2017

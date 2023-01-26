@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+0,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,5,1,02/25/2017,neutral,12560,243,Frostburg St.,9,True,3,11,-8,loss,207515,442,1887379,2017
+0,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,03/11/2017,neutral,12560,530,Oswego St.,9,True,0,6,-6,loss,210753,442,1887379,2017
+0,0,1.0,0.0,1,0,0,1,2,0,5,4,0,0,0,0,0,0,0,0,0,0,0,18,0,1,0,0,0,3,1,04/15/2017,home,12560,712,TCNJ,9,True,4,10,-6,loss,220334,442,1887379,2017
+0,0,0.1,0.0,2,1,1,1,0,0,4,2,1,0,0,0,0,0,0,3,3,0,1,16,0,1,0,0,0,4,0,04/19/2017,home,12560,1254,Neumann,9,True,7,8,-1,loss,220964,442,1887379,2017
+0,0,2.2,0.0,2,0,0,0,0,0,9,8,0,0,0,0,0,1,0,3,0,0,0,36,4,2,0,0,0,6,0,04/28/2017,home,12560,564,Ramapo,9,True,4,13,-9,loss,223053,442,1887379,2017

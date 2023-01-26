@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,22626,JWU (Providence),9,True,7,8,-1,loss,208444,242,1639057,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,453,Muhlenberg,9,True,1,0,1,win,208865,242,1639057,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,453,Muhlenberg,9,True,9,0,9,win,208880,242,1639057,2017

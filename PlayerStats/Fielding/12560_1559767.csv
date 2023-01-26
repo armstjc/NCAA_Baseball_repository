@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/05/2017,neutral,12560,496,North Park,9,True,1,8,-7,loss,209241,296,1559767,2017
 0,0,0,0,0,0,0,0,0,0,03/05/2017,away,12560,759,Webster,9,True,0,1,-1,loss,209066,296,1559767,2017
 0,0,0,0,0,0,0,0,0,0,03/06/2017,away,12560,759,Webster,9,True,14,3,11,win,209419,296,1559767,2017

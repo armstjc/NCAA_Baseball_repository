@@ -1,4 +1,4 @@
-PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
+TC,PO,A,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season
 0,0,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,11839,Pitt.-Greensburg,9,True,7,6,1,win,208464,571,1887840,2017
 0,0,0,0,0,0,0,0,0,0,03/03/2017,neutral,12560,11839,Pitt.-Greensburg,9,True,1,2,-1,loss,208467,571,1887840,2017
 0,0,0,0,0,0,0,0,0,0,03/04/2017,neutral,12560,1254,Neumann,9,True,6,5,1,win,208802,571,1887840,2017

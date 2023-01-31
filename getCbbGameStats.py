@@ -1,5 +1,5 @@
 from collegebaseball import ncaa_scraper as ncaa
-from collegebaseball import datasets
+#from collegebaseball import datasets
 from datetime import date
 import time
 from tqdm import tqdm
@@ -34,7 +34,7 @@ def getSchoolAllTimeRoster(school='Ohio'):
     print(rost)
     return rost
 
-def getAllGbgStats():
+def getAllGbgStats(divison):
     '''
     Gets literally all stats in D1 NCAA Mens Baseball.
     This will take some time to complete.
@@ -141,7 +141,7 @@ def getSeasonGbgStats(season=2020):
     #print(schools)
     hasRoster = True
 
-    for i in tqdm(range(390,len(schools.T))):
+    for i in tqdm(range(0,len(schools.T))):
         coll_count += 1
         print(f'{i}/{max_schools} {schools[i]}')
         try:
@@ -204,8 +204,8 @@ def getSeasonGbgStats(season=2020):
 
 def main():
     print('starting up')
-    #getAllGbgStats()
-    getSeasonGbgStats(2017)
+    # getAllGbgStats()
+    #getSeasonGbgStats(2017)
     
 if __name__ == "__main__":
     main()

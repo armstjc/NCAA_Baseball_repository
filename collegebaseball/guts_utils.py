@@ -32,8 +32,7 @@ def update_rosters(season, division):
     """
     df = pd.read_parquet(guts.get_rosters_path())
     old = df.loc[df.season != season]
-    new, failures = download_utils.download_season_rosters(season, division)
-    print(failures)
+    new= download_utils.download_season_rosters(season, division)
     res = pd.concat([new, old])
     res.to_parquet(guts.get_rosters_path(), index=False)
 

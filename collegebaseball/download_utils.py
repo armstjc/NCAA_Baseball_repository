@@ -20,11 +20,11 @@ _TIMEOUT = 1
 def download_rosters(seasons: list, divisions: list, save=True):
     res = pd.DataFrame()
     failures = []
-    for season in seasons:
+    for s in seasons:
         for division in divisions:
             sleep(random.uniform(0, _TIMEOUT))
             try:
-                new = download_season_rosters(int(season), int(division))
+                new = download_season_rosters(int(s), int(division))
             except:
                 continue
             try:

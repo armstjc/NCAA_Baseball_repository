@@ -4,7 +4,7 @@ win_pct
 A module to calculate actual and expected winning percentages
 from boysworld.com data
 
-Created by Nathan Blumenfeld in Winter 2022
+created by Nathan Blumenfeld in Winter 2022
 """
 _ROUND_TO = 3
 
@@ -44,9 +44,7 @@ def calculate_pythagenpat_win_pct(games):
         Developed by David Smyth and Patriot
 
     Args:
-        games (DataFrame): games over which to calculate
-        start (int, YYYY): season to start at, inclusive
-        end (int, YYYY): season to end at, inclusive
+        games (pd.DataFrame from boydsworld_team_results())
 
     Returns:
         A tuple of (the expected winning percentage as a float,

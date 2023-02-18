@@ -215,11 +215,10 @@ def generate_season_team_fielding_stats(season:int):
 
 
 if __name__ == "__main__":
-    for i in range(2013,2023):
+    for i in range(2013,2024):
         print(f'\n\nGenerating stats for the {i} season.\n\n')
         generate_season_team_batting_stats(i)
         generate_season_team_pitching_stats(i)
-        
 
         generate_season_player_batting_stats(i)
         generate_season_player_pitching_stats(i)

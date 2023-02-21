@@ -1,13 +1,13 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Alcouffe, Dillon","Fr",NA,2023,"31","UT",NA,155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Andrews, Mason","So","2463671",2023,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2463671",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
-"Araki, Shuta","Sr",NA,2023,"9","INF",NA,155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
+"Araki, Shuta","Sr","2804523",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2804523",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Bakovich, Jackson","Jr","2312193",2023,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2312193",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Bilter, Evan","Fr",NA,2023,"36","P",NA,155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Bonds, Caden","Sr","2113398",2023,"4","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2113398",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Brady, Andrew","Fr",NA,2023,"7","UT",NA,155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Cole, Chandler","So","2463683",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2463683",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
-"Dobberthien, Matthew","So",NA,2023,"21","P",NA,155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
+"Dobberthien, Matthew","So","2804513",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2804513",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Dunagan, Alex","Fr","2804515",2023,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2804515",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Folsom, Luke","Jr","2463673",2023,"25","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2463673",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Gerig, Brooks","Fr",NA,2023,"34","P",NA,155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
@@ -23,8 +23,8 @@
 "Lee, Marcus","Jr","2312206",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2312206",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "McDermott, Danny","Sr","2113400",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2113400",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Moeck, Wayne","Jr","2463700",2023,"35","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2463700",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
-"Nielsen, Garret","Sr","2110613",2023,"28","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2110613",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Nielsen, Trent","Fr","2804517",2023,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2804517",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
+"Nielsen, Garret","Sr","2110613",2023,"28","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2110613",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Noel, Reece","Sr","2655275",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2655275",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Pina, Tyler","Fr","2804541",2023,"33","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2804541",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Reitz, Joe","Fr",NA,2023,"1","UT",NA,155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
@@ -33,7 +33,7 @@
 "Schoneman, Ben","Jr","2312168",2023,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2312168",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Semin, Ryan","Fr","2804544",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2804544",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Siefken, Weston","Jr","2312183",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2312183",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
-"Spidel, Nicholas","Fr",NA,2023,"40","P",NA,155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
+"Spidel, Nicholas","Fr","2655274",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2655274",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "St. Amant, Gray","Fr",NA,2023,"11","P",NA,155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Tanaka, Keene","Jr","2113375",2023,"18","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2113375",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340
 "Veltien, Brady","Jr","2463703",2023,"20","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=155&stats_player_seq=2463703",155,"Colo. Sch. of Mines","/team/155/16340",13128,"RMAC",2,16340

@@ -1,13 +1,13 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Anderson-Vine, Nic","Jr","2656502",2023,"30","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2656502",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
-"Barron, Brock","Jr",NA,2023,"47","P",NA,94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
+"Barron, Brock","Jr","2811333",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2811333",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Bell, James","Jr","2656496",2023,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2656496",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Bernal, Max","Fr",NA,2023,"24","INF",NA,94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Bujanda McConnell, Jared","Jr","2811324",2023,"33","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2811324",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Butler, Davonte","Sr","1992147",2023,"7","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=1992147",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Comnos, Matt","Jr","2656501",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2656501",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Crowley, Trevon","Jr",NA,2023,"13","P",NA,94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
-"Culp, Connor","Jr",NA,2023,"3","INF",NA,94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
+"Culp, Connor","Jr","2811294",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2811294",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Dunning, Kyle","Jr","2677696",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2677696",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Figueroa, Ryan","Jr",NA,2023,"12","P",NA,94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Gerecke, Cooper","Fr",NA,2023,"55","C",NA,94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
@@ -16,7 +16,7 @@
 "Kasper, Riley","Sr","2305185",2023,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2305185",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Kurata, Matthew","So","2656491",2023,"8","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2656491",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Lee, Mathew","Jr","2468588",2023,"1","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2468588",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
-"Masciangelo, Matt","So",NA,2023,"35","P",NA,94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
+"Masciangelo, Matt","So","2811325",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2811325",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Miller, A.J.","Sr","2131501",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2131501",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Moore, Walker","Jr","2484483",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2484483",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "O'Connor, Kellen","Jr","2309905",2023,"97","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2309905",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
@@ -30,15 +30,15 @@
 "Reddemann, Ryan","Fr",NA,2023,"26","P",NA,94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Reynolds, Ryan","So","2470301",2023,"98","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2470301",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Roderick, David","Jr","2656509",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2656509",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
-"Ruley, Jacob","Jr",NA,2023,"45","OF",NA,94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
+"Ruley, Jacob","Jr","2811331",2023,"45","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2811331",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Salas, Nick","Jr","2470300",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2470300",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Saldana, Marcelo","Jr","2656507",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2656507",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Saldivar, Angel","Jr","2127039",2023,"18","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2127039",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
-"Schuerman, Jeter","So",NA,2023,"32","P",NA,94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
+"Schuerman, Jeter","So","2811323",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2811323",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
+"Silva, Nick","Fr","2811336",2023,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2811336",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Silva, Kobe","Jr","2309909",2023,"99","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2309909",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
-"Silva, Nick","Fr",NA,2023,"51","P",NA,94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Stancato, Kyler","Jr","2472085",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2472085",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Ulloa, Gabe","Jr","2656495",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2656495",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Verdugo, Ryan","So","2656511",2023,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2656511",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
 "Villegas, David","Jr",NA,2023,"40","",NA,94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
-"Wright Jr., Tally","Jr",NA,2023,"23","P",NA,94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340
+"Wright Jr., Tally","Jr","2811297",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=94&stats_player_seq=2811297",94,"CSU Bakersfield","/team/94/16340",904,"Big West",1,16340

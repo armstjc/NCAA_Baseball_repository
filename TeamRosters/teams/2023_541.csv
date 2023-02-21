@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Baird, Jack","Sr","2137693",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2137693",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
-"Basser, Jack","Fr",NA,2023,"10","3B",NA,541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
-"Bonn, Nick","Fr",NA,2023,"12","P",NA,541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
+"Basser, Jack","Fr","2797982",2023,"10","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2797982",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
+"Bonn, Nick","Fr","2797983",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2797983",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Bradshaw, Connor","Jr","2494041",2023,"21","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2494041",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Castillo, Josiah","Sr","2328828",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2328828",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Chester, Jack","Sr","2328853",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2328853",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
@@ -9,7 +9,7 @@
 "Christy, Bobby","So","2655449",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2655449",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Conley, Cam","So","2655446",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2655446",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Diamond, Nathan","Sr","2328807",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2328807",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
-"Goodman, Jack","Fr",NA,2023,"1","P",NA,541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
+"Goodman, Jack","Fr","2797999",2023,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2797999",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Grossman, Jacob","Fr",NA,2023,"31","P",NA,541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Jansen, Hunter","Fr",NA,2023,"36","OF",NA,541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Johnson, Ryan","Sr","2328827",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2328827",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
@@ -20,9 +20,9 @@
 "MacCallum, Dylan","So","2494045",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2494045",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Masino, Charles","Jr","2494046",2023,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2494046",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Mehlhaff, Greg","Sr","2137697",2023,"45","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2137697",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
-"Migliaccio, Anthony","Fr",NA,2023,"55","UT",NA,541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
-"Nichols, Gunnar","Fr",NA,2023,"51","P",NA,541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
-"Orellana, Lincoln","Jr",NA,2023,"35","INF",NA,541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
+"Migliaccio, Anthony","Fr","2656866",2023,"55","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2656866",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
+"Nichols, Gunnar","Fr","2797994",2023,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2797994",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
+"Orellana, Lincoln","Jr","2797990",2023,"35","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2797990",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Peck, John","Jr","2494047",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2494047",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Pemberton, Luke","So","2494048",2023,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2494048",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Quintanar, Matt","Fr",NA,2023,"26","C",NA,541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
@@ -31,8 +31,8 @@
 "Schoen, Grant","Sr","2328796",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2328796",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Schwartz, Dylan","So","2494049",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2494049",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Sheehan, Cole","So","2655451",2023,"13","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2655451",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
-"Stewart, Dylan","Fr",NA,2023,"44","P",NA,541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
+"Stewart, Dylan","Fr","2797993",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2797993",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Telfer, Shane","Sr","2328798",2023,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2328798",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Troy, Adam","Fr",NA,2023,"33","P",NA,541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
-"Vine, Beckett","Fr",NA,2023,"17","C",NA,541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
+"Vine, Beckett","Fr","2494051",2023,"17","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2494051",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340
 "Walczykowski , Devon","So","2655448",2023,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=541&stats_player_seq=2655448",541,"Pepperdine","/team/541/16340",922,"WCC",1,16340

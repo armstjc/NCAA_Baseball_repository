@@ -1,11 +1,11 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Del Valle, Marcos","Jr",NA,2023,"40","P",NA,7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Allred, Jackson","So",NA,2023,"11","P",NA,7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
-"Azar, Juan","Fr",NA,2023,"38","P",NA,7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
-"Bailey, Devonte","Fr",NA,2023,"30","OF",NA,7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
+"Azar, Juan","Fr","2821819",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2821819",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
+"Bailey, Devonte","Fr","2821782",2023,"30","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2821782",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Bridges, Shaun","Fr",NA,2023,"31","OF",NA,7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Brooks, Devin","Fr",NA,2023,"36","P",NA,7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
-"Chandler, Devin","Fr",NA,2023,"44","INF",NA,7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
+"Chandler, Devin","Fr","2821802",2023,"44","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2821802",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Colon, Shadai","So","2678729",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2678729",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Colon, Sebastian","Jr","2333474",2023,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2333474",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Cruz, Juan","Fr",NA,2023,"33","1B",NA,7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
@@ -17,19 +17,19 @@
 "King, Corey","Jr","2678722",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2678722",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "King , Austin","Fr","2821793",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2821793",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Kuramoto, Kyle","Jr","2821646",2023,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2821646",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
-"LaBoy, Jorhan","Fr",NA,2023,"12","P",NA,7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
+"LaBoy, Jorhan","Fr","2821608",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2821608",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "LaPread, Ali","Sr","2493077",2023,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2493077",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Lopez, Christian","Jr","2678726",2023,"24","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2678726",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Matos, Ian","Sr","2333491",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2333491",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "McIntosh, Kyler","So","2678720",2023,"3","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2678720",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
-"Melendez, Adiel","So","2494756",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2494756",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Melendez, Omar","So","2678725",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2678725",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
+"Melendez, Adiel","So","2494756",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2494756",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Mendez, Osvaldo","Sr","2494757",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2494757",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
-"Quiles, Evimael","Jr",NA,2023,"18","P",NA,7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
+"Quiles, Evimael","Jr","2821724",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2821724",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Rivera, Ricardo","Sr","2129572",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2129572",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Rodriguez, Luis","Jr","2333495",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2333495",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Safford, John","Fr",NA,2023,"26","INF",NA,7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
-"Serrano, Javian","Jr",NA,2023,"17","OF",NA,7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
+"Serrano, Javian","Jr","2821699",2023,"17","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2821699",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Sloan, Jayden","Jr","2333485",2023,"9","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2333485",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
-"Toledano, Jose","Fr",NA,2023,"6","P",NA,7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
+"Toledano, Jose","Fr","2821645",2023,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2821645",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340
 "Williams, Xavier","So","2678728",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=7&stats_player_seq=2678728",7,"Alabama St.","/team/7/16340",916,"SWAC",1,16340

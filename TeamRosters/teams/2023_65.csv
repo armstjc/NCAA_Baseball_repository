@@ -1,5 +1,5 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Balastrini, Drew","Fr",NA,2023,"3","OF",NA,65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
+"Balastrini, Drew","Fr","2664223",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2664223",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Baranski, Nate","Jr","2336144",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2336144",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Barrow, Kolby","Jr","2501621",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2501621",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Blohm, Cory","Sr","2336145",2023,"26","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2336145",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
@@ -7,11 +7,11 @@
 "Cacioppo, Mike","Jr","2501618",2023,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2501618",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Chasanov, Carter","Sr","2146872",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2146872",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Coolbaugh, Cole","Jr","2482842",2023,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2482842",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
-"Dean, Will","Fr",NA,2023,"53","P",NA,65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
-"Ebbert, Brady","Fr",NA,2023,"8","INF",NA,65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
+"Dean, Will","Fr","2824911",2023,"53","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2824911",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
+"Ebbert, Brady","Fr","2824877",2023,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2824877",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Ernst, Brandon","Sr","2664241",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2664241",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Fitzsimmons, Casey","Sr","1990794",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=1990794",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
-"Flury, Ryan","Fr",NA,2023,"29","C",NA,65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
+"Flury, Ryan","Fr","2824889",2023,"29","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2824889",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Gates, Adam","So","2664242",2023,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2664242",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Gibble, Brady","Jr","2664235",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2664235",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Gilbert, Scott","So","2664261",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2664261",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
@@ -22,16 +22,16 @@
 "Kuperavage, Jacob","So","2664266",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2664266",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Labarbera, Christian","So","2664240",2023,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2664240",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Labarbero, Jonathan","Jr","2501829",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2501829",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
-"LePage, Tyler","Fr",NA,2023,"31","INF",NA,65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
+"LePage, Tyler","Fr","2824906",2023,"31","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2824906",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Lorson, Landon","Fr",NA,2023,"35","P",NA,65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Lubinski, Dylan","Jr","2501833",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2501833",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
-"Marquard, Josh","Fr",NA,2023,"55","P",NA,65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
+"Marquard, Josh","Fr","2824922",2023,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2824922",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Marshman, Jared","Sr","2146875",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2146875",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "McLaughlin, Emmett","Fr",NA,2023,"54","P",NA,65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Metzger, Wyatt","Jr","2501831",2023,"44","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2501831",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Porter, Bryce","Jr","2473175",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2473175",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Reifer, Jacob","So","2501627",2023,"40","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2501627",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
-"Riley, Eli","Jr",NA,2023,"24","OF",NA,65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
+"Riley, Eli","Jr","2824882",2023,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2824882",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Ruiz, Alex","Fr",NA,2023,"11","INF",NA,65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Standen, Michael","Jr","2501834",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2501834",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340
 "Steen, Zach","Jr","2501838",2023,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=65&stats_player_seq=2501838",65,"Bloomsburg","/team/65/16340",906,"PSAC",2,16340

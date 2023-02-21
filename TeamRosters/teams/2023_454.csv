@@ -1,11 +1,11 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Bingham, Gunnar","Fr",NA,2023,"4","INF",NA,454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Bingham, Jacob","Fr",NA,2023,"13","P",NA,454,"Murray St.","/team/454/16340",884,"MVC",1,16340
-"Bland, Logan","Jr",NA,2023,"16","INF",NA,454,"Murray St.","/team/454/16340",884,"MVC",1,16340
+"Bland, Logan","Jr","2810465",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2810465",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Boynton, Matt","Jr","2652888",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2652888",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Brown, Cade","Sr","2140428",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2140428",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Chaudoin, Preston","Fr",NA,2023,"30","P",NA,454,"Murray St.","/team/454/16340",884,"MVC",1,16340
-"Corum, Charlie","Jr",NA,2023,"32","C",NA,454,"Murray St.","/team/454/16340",884,"MVC",1,16340
+"Corum, Charlie","Jr","2652887",2023,"32","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2652887",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Craig, Shane","So",NA,2023,"26","P",NA,454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Elsing, Alex","Jr",NA,2023,"34","P",NA,454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Estes, Parker","Jr","2476188",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2476188",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
@@ -16,12 +16,12 @@
 "Hawthorne, Riley","Jr","2476172",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2476172",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Holler, Nathan","Jr","2485569",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2485569",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Howell, Taylor","Sr","2309787",2023,"24","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2309787",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
+"Krizen, Ethan","Jr","2810474",2023,"22","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2810474",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Krizen, Ben","Sr","2492264",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2492264",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
-"Krizen, Ethan","Jr",NA,2023,"22","C",NA,454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Love, Tucker","Fr",NA,2023,"18","INF",NA,454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Lyke, Ethan","Fr",NA,2023,"20","P",NA,454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "McCullough, Brennan","Sr","2476177",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2476177",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
-"McNabb, Thomas","Jr",NA,2023,"35","P",NA,454,"Murray St.","/team/454/16340",884,"MVC",1,16340
+"McNabb, Thomas","Jr","2810488",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2810488",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Mercer, Dustin","So","2485957",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2485957",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Naranjo, Jordyn","Jr","2306555",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2306555",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Orberson, John","So","2652877",2023,"44","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2652877",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
@@ -31,6 +31,6 @@
 "Roulette, Allen","Jr","2484007",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2484007",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Sammons, Cade","Sr","2332001",2023,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2332001",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Shaver, Cayden","Jr","2306552",2023,"15","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2306552",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
-"Valero, Bryce","Jr",NA,2023,"6","P",NA,454,"Murray St.","/team/454/16340",884,"MVC",1,16340
+"Valero, Bryce","Jr","2810463",2023,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2810463",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Vernon, Cade","Jr","2476190",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2476190",454,"Murray St.","/team/454/16340",884,"MVC",1,16340
 "Vogel, Drew","Jr","2476173",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=454&stats_player_seq=2476173",454,"Murray St.","/team/454/16340",884,"MVC",1,16340

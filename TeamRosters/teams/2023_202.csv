@@ -1,20 +1,20 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Alderman, Chase","Fr",NA,2023,"32","P",NA,202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
-"Baird, Gavin","Jr",NA,2023,"25","INF",NA,202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
+"Alderman, Chase","Fr","2822059",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2822059",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
+"Baird, Gavin","Jr","2822048",2023,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2822048",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Barger, Owen","Fr",NA,2023,"47","C",NA,202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Bell, Khalil","Jr","2673594",2023,"38","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673594",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Blanton, Brock","So","2673582",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673582",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Booth, DeeJay","Jr",NA,2023,"3","OF",NA,202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Brown, Rese","Jr","2673597",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673597",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Ceverino, Vladimir","Jr","2683956",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2683956",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
-"Clancy, Joe","Jr",NA,2023,"19","P",NA,202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
+"Clancy, Joe","Jr","2822065",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2822065",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Corlew, Matthew","Jr","2673405",2023,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673405",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Criss, Roderick","Sr","2673170",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673170",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Davis, Conner","Jr","2673425",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673425",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Duffield, Hayden","So",NA,2023,"28","C",NA,202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
-"Faulkner, Gavin","Fr",NA,2023,"41","P",NA,202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
+"Faulkner, Gavin","Fr","2822066",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2822066",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Franklin, Ron","Jr","2673556",2023,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673556",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
-"Ginther, Andrew","Jr",NA,2023,"46","P",NA,202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
+"Ginther, Andrew","Jr","2822067",2023,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2822067",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Goehrig, Michael","Sr","2673601",2023,"36","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673601",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Hall, Quinton","So","2673427",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673427",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Hamann, Chris","Sr","2673612",2023,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673612",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
@@ -25,7 +25,7 @@
 "King, Will","Jr","2463620",2023,"16","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2463620",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Langrell, Garrett","Jr","2673399",2023,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673399",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Larreal, Miguel","Jr","2822049",2023,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2822049",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
-"Laux, Brandon","Jr",NA,2023,"40","P",NA,202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
+"Laux, Brandon","Jr","2822068",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2822068",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Lawson, Nathan","Fr","2822069",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2822069",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Ludwick, Charles","Sr","2128435",2023,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2128435",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Milburn, Isaac","So","2673404",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673404",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
@@ -35,8 +35,8 @@
 "Reynolds, Cole","Fr",NA,2023,"37","INF",NA,202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Riley, Solomon","Fr",NA,2023,"26","P",NA,202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Schuler, Michael","Sr","2673420",2023,"7","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673420",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
-"Smothers, Logan","Fr",NA,2023,"39","P",NA,202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
-"Sullivan, DJ","Jr",NA,2023,"21","OF",NA,202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
+"Smothers, Logan","Fr","2822072",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2822072",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
+"Sullivan, DJ","Jr","2822073",2023,"21","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2822073",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Thomason, Logan","Sr","2128432",2023,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2128432",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Travis, Bryce","Jr","2463637",2023,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2463637",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340
 "Treadway, Matthew","So","2673579",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=202&stats_player_seq=2673579",202,"Eastern Ky.","/team/202/16340",920,"ASUN",1,16340

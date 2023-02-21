@@ -1,6 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Barberio, Cody","So","2514262",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=339&stats_player_seq=2514262",339,"Kutztown","/team/339/16340",906,"PSAC",2,16340
-"Burns, Michael","Fr",NA,2023,"19","C",NA,339,"Kutztown","/team/339/16340",906,"PSAC",2,16340
+"Burns, Michael","Fr","2820097",2023,"19","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=339&stats_player_seq=2820097",339,"Kutztown","/team/339/16340",906,"PSAC",2,16340
 "Cleveland, Tyler","So","2670134",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=339&stats_player_seq=2670134",339,"Kutztown","/team/339/16340",906,"PSAC",2,16340
 "Finn, Brian","So","2670106",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=339&stats_player_seq=2670106",339,"Kutztown","/team/339/16340",906,"PSAC",2,16340
 "Geiger, Dalton","Sr","2345295",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=339&stats_player_seq=2345295",339,"Kutztown","/team/339/16340",906,"PSAC",2,16340
@@ -8,7 +8,7 @@
 "Gromlich, Austin","Sr","2321612",2023,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=339&stats_player_seq=2321612",339,"Kutztown","/team/339/16340",906,"PSAC",2,16340
 "Kelly, Colin","Jr","2464713",2023,"13","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=339&stats_player_seq=2464713",339,"Kutztown","/team/339/16340",906,"PSAC",2,16340
 "Kerley, Jimmy","So","2670132",2023,"28","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=339&stats_player_seq=2670132",339,"Kutztown","/team/339/16340",906,"PSAC",2,16340
-"Lennon, Michael","Fr",NA,2023,"34","P",NA,339,"Kutztown","/team/339/16340",906,"PSAC",2,16340
+"Lennon, Michael","Fr","2820101",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=339&stats_player_seq=2820101",339,"Kutztown","/team/339/16340",906,"PSAC",2,16340
 "Leverington, Trevor","Sr","2345297",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=339&stats_player_seq=2345297",339,"Kutztown","/team/339/16340",906,"PSAC",2,16340
 "Male, Zach","Jr","2464848",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=339&stats_player_seq=2464848",339,"Kutztown","/team/339/16340",906,"PSAC",2,16340
 "Maloney, Ryan","Fr",NA,2023,"18","C",NA,339,"Kutztown","/team/339/16340",906,"PSAC",2,16340

@@ -1,13 +1,13 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Ansell, Jake","Sr","2117445",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2117445",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
-"Beach, Evan","Fr",NA,2023,"23","INF",NA,546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
-"Boyles, Devon","Fr",NA,2023,"27","UT",NA,546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
+"Beach, Evan","Fr","2815613",2023,"23","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2815613",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
+"Boyles, Devon","Fr","2815619",2023,"27","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2815619",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Briggs, Ben","Sr","2117448",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2117448",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Broderick, Dylan","Sr","2117432",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2117432",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Clifford, Brandon","Fr",NA,2023,"36","P",NA,546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Coleman, Seth","So","2657608",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2657608",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Corl, Asher","Sr","2117446",2023,"22","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2117446",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
-"Cornell, Colton","Fr",NA,2023,"24","UT",NA,546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
+"Cornell, Colton","Fr","2815616",2023,"24","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2815616",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Disso, Mario","Jr","2303251",2023,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2303251",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Donis, Noah","So","2657612",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2657612",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Glumac, Alex","Jr","2466477",2023,"3","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2466477",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
@@ -23,15 +23,15 @@
 "Reffner, Karson","Fr",NA,2023,"12","UT",NA,546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Reighard, Gaige","Jr","2466312",2023,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2466312",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Reynolds, Josh","Jr","2303247",2023,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2303247",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
-"Rhodes, Erik","Fr",NA,2023,"9","UT",NA,546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
+"Rhodes, Erik","Fr","2815610",2023,"9","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2815610",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Schrock, Luke","Sr","2657611",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2657611",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Shuey, Seth","So","2657615",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2657615",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Shultz, Rodney","So","2657596",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2657596",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Slis, Zach","So","2657618",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2657618",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Souders, Brando","Jr","2466482",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2466482",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Squiric, Taylor","Jr","2657601",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2657601",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
-"Tomb, Ben","Fr",NA,2023,"35","P",NA,546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
+"Tomb, Ben","Fr","2815620",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2815620",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Turcovski, Justin","So","2657607",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2657607",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Ulery, Josh","So","2657609",2023,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2657609",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
 "Wells, Ethan","Fr",NA,2023,"8","C",NA,546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
-"Zadroga, Noah","Fr",NA,2023,"40","P",NA,546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340
+"Zadroga, Noah","Fr","2815622",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=546&stats_player_seq=2815622",546,"Pitt.-Johnstown","/team/546/16340",906,"PSAC",2,16340

@@ -1,8 +1,8 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Armstrong, Tyce","So",NA,2023,"11","INF",NA,702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
+"Armstrong, Tyce","So","2657247",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2657247",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Bailey, Gray","So","2657268",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2657268",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Berkley, Garrison","Jr","2475659",2023,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2475659",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
-"Black, Ryan","Fr",NA,2023,"13","INF",NA,702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
+"Black, Ryan","Fr","2811032",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2811032",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Brooks, Brayden","Sr","2466144",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2466144",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Cavanagh, Matthew","Jr","2124102",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2124102",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Collins, Sam","So","2657239",2023,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2657239",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
@@ -17,8 +17,8 @@
 "Henry, Zach","So","2466141",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2466141",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Kuykendall, Thomas","Jr",NA,2023,"44","P",NA,702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Lucas, Andrew","Sr","2119226",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2119226",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
-"Lumsden, Ben","Fr","2811054",2023,"43","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2811054",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Lumsden, Matthew","Jr","2129995",2023,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2129995",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
+"Lumsden, Ben","Fr","2811054",2023,"43","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2811054",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Marshall, Hunter","So","2657267",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2657267",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Matthews, Luke","Sr","2115984",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2115984",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "McGlade, Cade","Jr",NA,2023,"27","P",NA,702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
@@ -28,8 +28,8 @@
 "Peters, Connery","Sr","2136719",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2136719",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Pierce, Nick","Jr","2657265",2023,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2657265",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Pointer, Tyson","Jr","2811075",2023,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2811075",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
-"Rice, Tyler","Sr","2124104",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2124104",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Rice, Tanner","So","2657269",2023,"28","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2657269",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
+"Rice, Tyler","Sr","2124104",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2124104",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Saunders, Steven","Sr","2466143",2023,"23","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2466143",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Singer, Gage","Sr",NA,2023,"16","P",NA,702,"UT Arlington","/team/702/16340",923,"WAC",1,16340
 "Starks, Gabriel","Jr","2477440",2023,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=702&stats_player_seq=2477440",702,"UT Arlington","/team/702/16340",923,"WAC",1,16340

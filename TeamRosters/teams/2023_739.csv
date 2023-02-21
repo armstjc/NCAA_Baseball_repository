@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Barry, Aidan","Fr","2801496",2023,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2801496",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
 "Biggio, August","Jr","2483264",2023,"35","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2483264",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
-"Bollin, Jake","Fr",NA,2023,"21","C",NA,739,"Villanova","/team/739/16340",30184,"Big East",1,16340
+"Bollin, Jake","Fr","2801502",2023,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2801502",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
 "Camp, Zach","Sr","2125372",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2125372",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
 "Cooke, Paul","Sr","2125386",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2125386",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
 "DeGaetano, Chic","Sr","2300296",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2300296",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
@@ -17,7 +17,7 @@
 "Maher, Cabot","Sr","2148989",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2148989",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
 "Matta, Luke","Fr","2801494",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2801494",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
 "Montfort, Patrick","Jr","2483249",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2483249",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
-"Moore, Graham","Fr",NA,2023,"43","P",NA,739,"Villanova","/team/739/16340",30184,"Big East",1,16340
+"Moore, Graham","Fr","2801519",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2801519",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
 "Mutz, Luke","Sr","2125370",2023,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2125370",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
 "O'Reilly, Jack","Sr","2326713",2023,"36","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2326713",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
 "Povey, Jack","Sr","2300293",2023,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2300293",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
@@ -30,5 +30,5 @@
 "Udell, Cade","Jr","2657089",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2657089",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
 "Valdez, Josue","So","2657076",2023,"24","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2657076",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
 "Vanderslice, Cole","Sr","2300283",2023,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2300283",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
-"Whooley, John","Sr","2300294",2023,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2300294",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
 "Whooley, Michael","Fr","2801492",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2801492",739,"Villanova","/team/739/16340",30184,"Big East",1,16340
+"Whooley, John","Sr","2300294",2023,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=739&stats_player_seq=2300294",739,"Villanova","/team/739/16340",30184,"Big East",1,16340

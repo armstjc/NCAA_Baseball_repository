@@ -1,6 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Borberg, Ryan","Fr",NA,2023,"3","P",NA,299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
-"Chadwick, Tyrelle","Fr",NA,2023,"38","P",NA,299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
+"Borberg, Ryan","Fr","2795899",2023,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2795899",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
+"Chadwick, Tyrelle","Fr","2795906",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2795906",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
 "Cheng, Luke","Jr","2477650",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2477650",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
 "Conklin, MacCallan","So","2657421",2023,"42","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2657421",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
 "Dale, Elijah","Jr","2306165",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2306165",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
@@ -8,7 +8,7 @@
 "Flores, Adrian","Jr","2657453",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2657453",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
 "Foy, Justin","Sr","1979280",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=1979280",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
 "Gauthier, JP","So","2657443",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2657443",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
-"Harper, Thomas","Fr",NA,2023,"36","P",NA,299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
+"Harper, Thomas","Fr","2795897",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2795897",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
 "Hart, Jared","Sr","2477643",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2477643",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
 "Hibbard, Jayson","Jr","2667079",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2667079",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
 "Holcomb, Zach","So","2312838",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2312838",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
@@ -31,7 +31,7 @@
 "Schubert, Justin","Jr","2657451",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2657451",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
 "Sinisko, Sean","Sr","2121076",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2121076",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
 "Sokolove, JT","So","2657446",2023,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2657446",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
-"Stenger, Blake","So",NA,2023,"21","OF",NA,299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
+"Stenger, Blake","So","2795907",2023,"21","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2795907",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
 "Strong, Nick","So","2795908",2023,"29","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2795908",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
 "Swarmer, Dylan","Sr","2126080",2023,"26","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=299&stats_player_seq=2126080",299,"Illinois St.","/team/299/16340",884,"MVC",1,16340
 "Taschner, Gradin","Fr",NA,2023,"35","P",NA,299,"Illinois St.","/team/299/16340",884,"MVC",1,16340

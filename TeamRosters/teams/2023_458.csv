@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Butcher, Will","Jr","2304984",2023,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2304984",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Casciola, Anthony","Jr","2308347",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2308347",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
-"Clark, Calvert","Fr",NA,2023,"24","UT",NA,458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
+"Clark, Calvert","Fr","2815423",2023,"24","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2815423",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Conte, Sam","Jr","2815433",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2815433",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Cosentino, Nick","Jr",NA,2023,"53","P",NA,458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Cunningham, Jake","Jr","2469989",2023,"33","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2469989",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
@@ -18,14 +18,14 @@
 "Jackson, Blake","So","2673176",2023,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2673176",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Knight, Austin","Sr","2139723",2023,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2139723",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Kramer, Collin","So","2673661",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2673661",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
-"Langhorne, Miles","So",NA,2023,"45","P",NA,458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
+"Langhorne, Miles","So","2815317",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2815317",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Little, Matt","So","2673663",2023,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2673663",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Lothes, Christian","Jr","2329244",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2329244",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Michelson, Evan","Jr","2673660",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2673660",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Nolan, Spencer","Fr","2815421",2023,"23","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2815421",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Patrick, Josh","Jr","2815411",2023,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2815411",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Rossi, Tony","Jr","2673674",2023,"52","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2673674",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
-"Sarver, Joel","Jr",NA,2023,"41","P",NA,458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
+"Sarver, Joel","Jr","2815311",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2815311",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Sims, Hale","Sr","2469991",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2469991",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Spolyar, Andrew","Jr",NA,2023,"40","P",NA,458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Stahlman, Brandon","Jr","2815418",2023,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2815418",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
@@ -35,4 +35,4 @@
 "Wathan, Huck","So","2673656",2023,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2673656",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Weisner, Eli","Sr","2815419",2023,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2815419",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
 "Wilson, A.J.","Jr","2304364",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2304364",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
-"Yarbro, Breven","So",NA,2023,"32","P",NA,458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340
+"Yarbro, Breven","So","2673659",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=458&stats_player_seq=2673659",458,"Charlotte","/team/458/16340",24312,"C-USA",1,16340

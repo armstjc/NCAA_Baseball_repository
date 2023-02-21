@@ -1,5 +1,5 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Alduino, Matt","Fr",NA,2023,"34","P",NA,562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
+"Alduino, Matt","Fr","2824465",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2824465",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Blaisdell, Tim","Sr","2138191",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2138191",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Buchman, Julian","Fr",NA,2023,"23","OF",NA,562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Copeland, Tate","Jr","2474350",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2474350",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
@@ -10,7 +10,7 @@
 "Donofrio, Anthony","Sr","2132995",2023,"26","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2132995",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Favieri, Sam","Sr","2318906",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2318906",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Hagan, Jimmy","Sr","2305645",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2305645",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
-"Heitzman, John","Fr",NA,2023,"8","OF",NA,562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
+"Heitzman, John","Fr","2824413",2023,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2824413",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Hutchinson, Ryan","So","2655493",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2655493",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Jasek, Evan","Jr",NA,2023,"17","P",NA,562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Marino, James","So",NA,2023,"22","OF",NA,562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
@@ -20,10 +20,10 @@
 "Mueller, Sebastian","Jr","2474351",2023,"33","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2474351",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "O'Connor, Keegan","Jr","2474349",2023,"3","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2474349",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Poncini, Mike","Fr",NA,2023,"27","P",NA,562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
-"Rubayo, Andrew","Fr",NA,2023,"45","P",NA,562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
+"Rubayo, Andrew","Fr","2824472",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2824472",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Seaburg, Brayden","Sr","2305654",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2305654",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Seitter, Kevin","Sr","2305647",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2305647",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
-"Smith, Christian","Fr",NA,2023,"2","C",NA,562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
+"Smith, Christian","Fr","2824412",2023,"2","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2824412",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Swenson, Sean","Sr","2496152",2023,"13","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2496152",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Tesoriero, Matthew","Sr","2141054",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2141054",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340
 "Tuffy, McGwire","Sr","2305655",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=562&stats_player_seq=2305655",562,"Quinnipiac","/team/562/16340",871,"MAAC",1,16340

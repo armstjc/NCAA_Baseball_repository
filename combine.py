@@ -112,9 +112,9 @@ def merge_rosters():
 
 def main():
     merge_rosters()
-    merge_batting_stats()
-    merge_pitching_stats()
-    merge_fielding_stats()
+    # merge_batting_stats()
+    # merge_pitching_stats()
+    # merge_fielding_stats()
 
 if __name__ == "__main__":
     main()

@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Belyeu, Max","Fr",NA,2023,"12","OF",NA,703,"Texas","/team/703/16340",25354,"Big 12",1,16340
+"Belyeu, Max","Fr","2817023",2023,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2817023",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Brown, Porter","Jr","2116211",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2116211",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
-"Burke, DJ","Jr",NA,2023,"31","P",NA,703,"Texas","/team/703/16340",25354,"Big 12",1,16340
+"Burke, DJ","Jr","2817029",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2817029",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Campbell, Dylan","Jr","2471765",2023,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2471765",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Carlson, Tanner","Sr","2123340",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2123340",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Constantine, Cam","Jr","2310015",2023,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2310015",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
@@ -10,8 +10,8 @@
 "Duplantier II, Andre","Jr","2309997",2023,"88","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2309997",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Fahrlander, Grant","Fr",NA,2023,"50","C",NA,703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Flores, Jalin","Fr","2817015",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2817015",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
-"Galvan, Rylan","Fr",NA,2023,"6","C",NA,703,"Texas","/team/703/16340",25354,"Big 12",1,16340
-"George, Pierce","Fr",NA,2023,"58","P",NA,703,"Texas","/team/703/16340",25354,"Big 12",1,16340
+"Galvan, Rylan","Fr","2817021",2023,"6","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2817021",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
+"George, Pierce","Fr","2817033",2023,"58","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2817033",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Gordon, Lucas","Jr","2471768",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2471768",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Grubbs, Max","Fr",NA,2023,"38","P",NA,703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Guillemette, Garrett","Jr","2494058",2023,"35","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2494058",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
@@ -21,12 +21,12 @@
 "Hurley, Charlie","Jr","2494059",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2494059",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Johnson Jr., Lebarron","Jr","2471778",2023,"57","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2471778",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Kennedy, Eric","Sr","2120673",2023,"30","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2120673",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
-"Lummus, Chase","Jr",NA,2023,"24","P",NA,703,"Texas","/team/703/16340",25354,"Big 12",1,16340
+"Lummus, Chase","Jr","2309998",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2309998",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Minchey, Kobe","Fr",NA,2023,"34","P",NA,703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Morehouse, Zane","Jr","2661711",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2661711",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "O'Banan, Cameron","So",NA,2023,"48","P",NA,703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "O'Dowd, Jack","Jr","2485662",2023,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2485662",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
-"O'Hara, Cade","Fr",NA,2023,"14","INF",NA,703,"Texas","/team/703/16340",25354,"Big 12",1,16340
+"O'Hara, Cade","Fr","2817039",2023,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2817039",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Powell, Peyton","Jr","2309996",2023,"15","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2309996",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Schuessler, Kimble","Jr","2480203",2023,"10","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2480203",703,"Texas","/team/703/16340",25354,"Big 12",1,16340
 "Shaw, David","Fr","2677164",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=703&stats_player_seq=2677164",703,"Texas","/team/703/16340",25354,"Big 12",1,16340

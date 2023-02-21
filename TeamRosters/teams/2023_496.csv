@@ -1,6 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Arakaki, Reece","So","2681881",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2681881",496,"North Park","/team/496/16340",836,"CCIW",3,16340
-"Ayeski, Kevin","Fr",NA,2023,"44","P",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
+"Ayeski, Kevin","Fr","2827127",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2827127",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Bader, Jaedon","So","2681882",2023,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2681882",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Banks, Tyler","Jr","2146301",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2146301",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Bartlett, Bobby","Sr","2353854",2023,"34","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2353854",496,"North Park","/team/496/16340",836,"CCIW",3,16340
@@ -10,16 +10,16 @@
 "Carlisle, Mason","Jr","2681884",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2681884",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Clemens, Oliver","So",NA,2023,"45","C",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Condit, Ethan","Fr",NA,2023,"30","P",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
-"Dailey, Parker","Fr",NA,2023,"35","UT",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
+"Dailey, Parker","Fr","2827125",2023,"35","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2827125",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "DiVito, Alex","So","2681886",2023,"3","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2681886",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Fiorenza, Cole","Jr","2524932",2023,"16","rf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2524932",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Gin, Adam","So","2681887",2023,"14","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2681887",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Hoglund, Hans","Fr",NA,2023,"19","OF",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
-"Jackson, Sam","Fr",NA,2023,"20","P",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
+"Jackson, Sam","Fr","2827113",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2827113",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Jepsen, Riley","So","2681794",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2681794",496,"North Park","/team/496/16340",836,"CCIW",3,16340
-"Kahle, Chris","Fr",NA,2023,"39","UT",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
+"Kahle, Chris","Fr","2827116",2023,"39","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2827116",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Kalemba, Frank","Sr","2354426",2023,"27","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2354426",496,"North Park","/team/496/16340",836,"CCIW",3,16340
-"Kawakami, Rylan","Fr",NA,2023,"21","INF",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
+"Kawakami, Rylan","Fr","2827114",2023,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2827114",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "LaVeau, Kenneth","Jr",NA,2023,"37","OF",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Ledezma, Julian","Sr","2354427",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2354427",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Leidolph, Brandon","Fr",NA,2023,"13","P",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
@@ -32,9 +32,9 @@
 "Murray, Liam","Sr",NA,2023,"23","INF",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Nuese, Jackson","Fr",NA,2023,"31","INF",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Patel, Ishaan","Fr",NA,2023,"51","1B",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
-"Perona, Joseph","Fr",NA,2023,"18","OF",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
-"Peters, Wyatt","Fr",NA,2023,"8","UT",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
-"Porter, Graham","So",NA,2023,"43","C",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
+"Perona, Joseph","Fr","2827112",2023,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2827112",496,"North Park","/team/496/16340",836,"CCIW",3,16340
+"Peters, Wyatt","Fr","2827120",2023,"8","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2827120",496,"North Park","/team/496/16340",836,"CCIW",3,16340
+"Porter, Graham","So","2827118",2023,"43","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2827118",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Price, Zach","Fr",NA,2023,"26","P",NA,496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Raspolich, Ethan","Jr","2518799",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2518799",496,"North Park","/team/496/16340",836,"CCIW",3,16340
 "Ravitz, Brett","So","2681797",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=496&stats_player_seq=2681797",496,"North Park","/team/496/16340",836,"CCIW",3,16340

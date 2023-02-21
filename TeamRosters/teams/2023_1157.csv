@@ -1,18 +1,18 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Aita, Blake","Fr",NA,2023,"26","P",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
+"Aita, Blake","Fr","2798886",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2798886",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Brooks, Jamarie","Fr","2798684",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2798684",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Cain, Harry","So","2674670",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2674670",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Cash, Donovan","So","2485579",2023,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2485579",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Chirello, Jackson","Fr","2798875",2023,"24","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2798875",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Coe, Dawson","Fr",NA,2023,"3","P",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
-"Cole, Chris","So",NA,2023,"7","OF",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
+"Cole, Chris","So","2798699",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2798699",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Colina, Nick","Sr","2139272",2023,"13","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2139272",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Cooper, Luke","Sr","2674637",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2674637",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Corbin, Zac","So","2347128",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2347128",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Eidson, Brayden","Jr","2347161",2023,"21","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2347161",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Evans, Connor","So",NA,2023,"22","UT",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Forbes, Boston","Fr",NA,2023,"12","C",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
-"Franklin, Tanner","Fr",NA,2023,"36","P",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
+"Franklin, Tanner","Fr","2798890",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2798890",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Franks, Tyler","So","2674647",2023,"31","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2674647",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Gleaton, Antonio","Jr",NA,2023,"28","P",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Hanson, Spencer","Sr","2674661",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2674661",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
@@ -22,8 +22,8 @@
 "Knowles, Jay","Fr","2798618",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2798618",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Merchant, Jaylen","Fr",NA,2023,"16","P",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Mimbs, Hudson","So","2674638",2023,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2674638",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
-"Osbolt, Braden","Fr",NA,2023,"17","P",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
-"Parks, Brendan","Jr",NA,2023,"32","P",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
+"Osbolt, Braden","Fr","2798885",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2798885",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
+"Parks, Brendan","Jr","2798888",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2798888",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Pinson, Smith","So","2674648",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2674648",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Posey, Aaron","Fr",NA,2023,"19","C",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Quinichett, Agyei","Fr",NA,2023,"33","P",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
@@ -33,6 +33,6 @@
 "Sliver, Nolan","Fr","2798701",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2798701",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Stills, Makenzie","Jr","2347153",2023,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2347153",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Streeter, Jake","Fr",NA,2023,"15","OF",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
-"Wehunt, Blake","Jr",NA,2023,"38","P",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
+"Wehunt, Blake","Jr","2798892",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2798892",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Wilkins, Spencer","Fr",NA,2023,"41","P",NA,1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340
 "Zegna, Nick","Sr","2798700",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1157&stats_player_seq=2798700",1157,"Kennesaw St.","/team/1157/16340",920,"ASUN",1,16340

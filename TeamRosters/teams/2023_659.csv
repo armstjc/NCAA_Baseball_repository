@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Bandy, Nathan","Jr","2679703",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2679703",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Bloemer, Jordan","Sr","2679724",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2679724",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
-"Bonzagni, Paul","So",NA,2023,"8","P",NA,659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
+"Bonzagni, Paul","So","2823120",2023,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2823120",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Boucher, Pier-Olivier","Sr","2679714",2023,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2679714",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Buchanan, Alex","Jr",NA,2023,"38","P",NA,659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Carter, Cade","Jr","2477763",2023,"14","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2477763",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
@@ -9,7 +9,7 @@
 "Christman, Cole","Jr","2824115",2023,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2824115",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Combs, Jake","Jr","2679710",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2679710",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Cook, Noah","Jr",NA,2023,"24","C",NA,659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
-"Dermody, Easton","Jr",NA,2023,"30","P",NA,659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
+"Dermody, Easton","Jr","2824122",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2824122",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Eltoft, Bennett","Jr","2824124",2023,"35","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2824124",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Hansell, Mike","Sr","2467325",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2467325",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Harper, Scott","Jr","2824120",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2824120",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
@@ -18,13 +18,13 @@
 "Leach, Dante","Jr",NA,2023,"2","INF",NA,659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Lewis, Tanner","Sr","2467328",2023,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2467328",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Loden, Steven","Jr","2824126",2023,"44","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2824126",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
-"Lyons, Nate","Sr",NA,2023,"6","INF",NA,659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
+"Lyons, Nate","Sr","2824100",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2824100",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Massaglia, Vinni","Jr","2467322",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2467322",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "McClure, Cooper","Fr",NA,2023,"19","INF",NA,659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Myren, Jayden","Jr",NA,2023,"4","INF",NA,659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
-"Perry, Tanner","So",NA,2023,"12","P",NA,659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
+"Perry, Tanner","So","2824106",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2824106",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Peterson, Kaden","Jr","2679721",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2679721",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
-"Replogle, Sam","Jr",NA,2023,"13","P",NA,659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
+"Replogle, Sam","Jr","2824078",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2824078",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Riffe, Ben","Jr","2679722",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2679722",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Rigoni, Jack","Sr","2679700",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2679700",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340
 "Rodriguez, Ryan","Sr","2679706",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=659&stats_player_seq=2679706",659,"Southern Ill.","/team/659/16340",884,"MVC",1,16340

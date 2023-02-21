@@ -1,5 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Albrent, Zach","Sr","2310040",2023,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2310040",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
+"Anderson, Jack","Fr","2829259",2023,"23","3b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2829259",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Babjak, Mickey","Sr","2310042",2023,"55","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2310042",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Bayer, Rex","Jr","2478002",2023,"44","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2478002",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Boelter, Caleb","So","2661035",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661035",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
@@ -13,25 +14,34 @@
 "Green, Caleb","Jr","2477998",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2477998",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Hall, Jon","Jr","2477990",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2477990",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Hickman, David Neal","Jr","2477994",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2477994",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
+"Hickman, Kyler","Fr","2829148",2023,"45","ph/1b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2829148",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Huesca Villegas, Mauricio","So","2661084",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661084",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Jennings, Monty","Jr","2477997",2023,"29","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2477997",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Johnson, Noah","So","2661037",2023,"54","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661037",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
+"Latendresse, Nick","So","2310051",2023,"32","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2310051",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Leystra, Sam","Jr","2478001",2023,"00","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2478001",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Lindsley, Zach","So","2661121",2023,"00","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661121",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Lukasik, Mitchell","So","2661089",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661089",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
+"Madigan, Cormac","Sr","2661139",2023,"25","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661139",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
+"Mammoser, Caleb","Fr","2829262",2023,"37","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2829262",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "McAfee, Evan","Jr","2477988",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2477988",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
+"Olson, Evan","Fr","2829667",2023,"33","c","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2829667",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Ott, Samuel","So","2661033",2023,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661033",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
+"Pankratz, Alex","Fr","2829260",2023,"2","2b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2829260",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Peace, Brandon","Jr","2477992",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2477992",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Preiss, Austin","So","2661075",2023,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661075",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Price, Brady","So","2661125",2023,"47","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661125",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Redeker, Jayden","So","2661127",2023,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661127",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Rieden, Orion","Jr","2661143",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661143",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
+"Roguszka, Robbie","Fr","2829680",2023,"26","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2829680",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Schoenke, Mason","So","2661039",2023,"59","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661039",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Schueler, Collin","So","2661132",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661132",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Selvoski, Dawson","Jr","2477999",2023,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2477999",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
+"Sheehy, Michael","Fr","2829261",2023,"13","ss","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2829261",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Sigg, Nathan","So","2661113",2023,"35","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661113",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Sparkman, Aiden","So","2661096",2023,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661096",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Stampfl, Cam","So","2661135",2023,"36","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661135",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
+"Tenny, Nick","Sr","2112700",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2112700",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Tetzlaff, Brett","So","2661105",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2661105",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Thompson, Hunter","Sr","2310062",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2310062",577,"Ripon","/team/577/16340",23119,"MWC",3,16340
 "Turkington, Brock","Sr","2478006",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=577&stats_player_seq=2478006",577,"Ripon","/team/577/16340",23119,"MWC",3,16340

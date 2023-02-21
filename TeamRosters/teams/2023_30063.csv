@@ -1,5 +1,5 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Ahr, Colin","Fr",NA,2023,"37","OF",NA,30063,"Seton Hill","/team/30063/16340",906,"PSAC",2,16340
+"Ahr, Colin","Fr","2822392",2023,"37","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30063&stats_player_seq=2822392",30063,"Seton Hill","/team/30063/16340",906,"PSAC",2,16340
 "Barker, Blake","So","2682589",2023,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30063&stats_player_seq=2682589",30063,"Seton Hill","/team/30063/16340",906,"PSAC",2,16340
 "Bedway, Brady","So",NA,2023,"17","INF",NA,30063,"Seton Hill","/team/30063/16340",906,"PSAC",2,16340
 "Bergert, Brandon","Jr","2489992",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30063&stats_player_seq=2489992",30063,"Seton Hill","/team/30063/16340",906,"PSAC",2,16340
@@ -39,6 +39,6 @@
 "Vecchiolla, Andino","Jr","2489988",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30063&stats_player_seq=2489988",30063,"Seton Hill","/team/30063/16340",906,"PSAC",2,16340
 "Vietmeier, Logan","Sr","2144769",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30063&stats_player_seq=2144769",30063,"Seton Hill","/team/30063/16340",906,"PSAC",2,16340
 "Wetzler, Ashton","Sr","2321492",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30063&stats_player_seq=2321492",30063,"Seton Hill","/team/30063/16340",906,"PSAC",2,16340
-"Whalen, Jack","Fr",NA,2023,"1","OF",NA,30063,"Seton Hill","/team/30063/16340",906,"PSAC",2,16340
+"Whalen, Jack","Fr","2822382",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30063&stats_player_seq=2822382",30063,"Seton Hill","/team/30063/16340",906,"PSAC",2,16340
 "Wood, Caiden","Sr","2146238",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30063&stats_player_seq=2146238",30063,"Seton Hill","/team/30063/16340",906,"PSAC",2,16340
 "Zilli, Christian","So","2696004",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30063&stats_player_seq=2696004",30063,"Seton Hill","/team/30063/16340",906,"PSAC",2,16340

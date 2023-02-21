@@ -1,5 +1,5 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Adams, Corey","Fr",NA,2023,"2","",NA,786,"William & Mary","/team/786/16340",837,"CAA",1,16340
+"Adams, Corey","Fr","2806726",2023,"2","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=786&stats_player_seq=2806726",786,"William & Mary","/team/786/16340",837,"CAA",1,16340
 "Barnes III, Jerry","Fr","2806732",2023,"29","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=786&stats_player_seq=2806732",786,"William & Mary","/team/786/16340",837,"CAA",1,16340
 "Bhojwani, Ryan","Fr",NA,2023,"16","",NA,786,"William & Mary","/team/786/16340",837,"CAA",1,16340
 "Bourque, Tom","Fr",NA,2023,"46","",NA,786,"William & Mary","/team/786/16340",837,"CAA",1,16340
@@ -30,7 +30,7 @@
 "Mayer, Tom","Sr","2307741",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=786&stats_player_seq=2307741",786,"William & Mary","/team/786/16340",837,"CAA",1,16340
 "McDonough, Bobby","Fr",NA,2023,"36","",NA,786,"William & Mary","/team/786/16340",837,"CAA",1,16340
 "Newsome, Garrett","Jr","2476839",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=786&stats_player_seq=2476839",786,"William & Mary","/team/786/16340",837,"CAA",1,16340
-"Pierce, Owen","Fr",NA,2023,"33","",NA,786,"William & Mary","/team/786/16340",837,"CAA",1,16340
+"Pierce, Owen","Fr","2806745",2023,"33","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=786&stats_player_seq=2806745",786,"William & Mary","/team/786/16340",837,"CAA",1,16340
 "Prarie, Rojo","Sr","2112910",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=786&stats_player_seq=2112910",786,"William & Mary","/team/786/16340",837,"CAA",1,16340
 "Ragone, Cole","Sr","2112860",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=786&stats_player_seq=2112860",786,"William & Mary","/team/786/16340",837,"CAA",1,16340
 "Smith, Luke","Sr","2139927",2023,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=786&stats_player_seq=2139927",786,"William & Mary","/team/786/16340",837,"CAA",1,16340
@@ -39,5 +39,5 @@
 "Weidinger, Mike","So","2672834",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=786&stats_player_seq=2672834",786,"William & Mary","/team/786/16340",837,"CAA",1,16340
 "Williamson, Ben","Sr","2307748",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=786&stats_player_seq=2307748",786,"William & Mary","/team/786/16340",837,"CAA",1,16340
 "Winters, Max","Sr","2307774",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=786&stats_player_seq=2307774",786,"William & Mary","/team/786/16340",837,"CAA",1,16340
-"Yaghoubi, Tank","Fr",NA,2023,"31","",NA,786,"William & Mary","/team/786/16340",837,"CAA",1,16340
+"Yaghoubi, Tank","Fr","2806734",2023,"31","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=786&stats_player_seq=2806734",786,"William & Mary","/team/786/16340",837,"CAA",1,16340
 "Zertuche, Noah","Fr","2806739",2023,"6","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=786&stats_player_seq=2806739",786,"William & Mary","/team/786/16340",837,"CAA",1,16340

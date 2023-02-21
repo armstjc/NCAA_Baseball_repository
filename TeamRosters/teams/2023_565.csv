@@ -1,13 +1,13 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Bauers, Bere","So","2676511",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2676511",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Birchett, Kolby","Jr","2494567",2023,"30","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2494567",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
-"Brooks, Eli","Fr",NA,2023,"50","OF",NA,565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
+"Brooks, Eli","Fr","2828270",2023,"50","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2828270",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Bush, Grayson","Jr","2494568",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2494568",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Casey, Colin","Fr",NA,2023,"38","P",NA,565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
-"Chen, Nathan","Fr",NA,2023,"36","OF",NA,565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
+"Chen, Nathan","Fr","2828279",2023,"36","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2828279",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Cole, Hunter","Jr","2676532",2023,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2676532",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Cutright, Parker","Jr","2676505",2023,"20","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2676505",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
-"Dudley, Richie","Jr",NA,2023,"27","INF",NA,565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
+"Dudley, Richie","Jr","2828340",2023,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2828340",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Duff, Logan","Fr",NA,2023,"52","C",NA,565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Farmakides, Anthony","Jr",NA,2023,"34","1B",NA,565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Furman, Cam","Sr","2337927",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2337927",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
@@ -31,11 +31,11 @@
 "Pridgen, Trey","Jr","2494573",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2494573",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Ramos, Drew","Jr","2494574",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2494574",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Routsis, Patrick","Jr","2347883",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2347883",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
-"Schmitt, Carter","Fr",NA,2023,"2","C",NA,565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
+"Schmitt, Carter","Fr","2828334",2023,"2","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2828334",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Shanahan, Michael","So","2676490",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2676490",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Slevin, Sam","So","2676499",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2676499",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
-"Smith, Logan","Sr","2337918",2023,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2337918",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Smith, Aidan","So",NA,2023,"58","P",NA,565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
+"Smith, Logan","Sr","2337918",2023,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2337918",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Snead, Cole","Jr","2494576",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2494576",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Snelsire, Hayden","Sr","2337910",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2337910",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340
 "Stamm, Cole","Jr","2494575",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=565&stats_player_seq=2494575",565,"Randolph-Macon","/team/565/16340",903,"ODAC",3,16340

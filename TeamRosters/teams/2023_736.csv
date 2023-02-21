@@ -1,6 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Anderson, Jack","Sr","1978676",2023,"99","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=1978676",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
-"Arias, Ivan","Fr",NA,2023,"2","INF",NA,736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
+"Arias, Ivan","Fr","2826917",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2826917",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Austin, RJ","Fr","2826932",2023,"42","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2826932",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Bradfield Jr., Enrique","Jr","2485641",2023,"51","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2485641",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Bulger, Jack","Jr","2485644",2023,"16","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2485644",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
@@ -8,7 +8,7 @@
 "Cunningham , Bryce","So","2656839",2023,"97","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2656839",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Diaz, Davis","So","2656859",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2656859",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Doolin, Michael","Sr","2309815",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2309815",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
-"Dutkanych IV, Andrew","Fr",NA,2023,"80","P",NA,736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
+"Dutkanych IV, Andrew","Fr","2826883",2023,"80","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2826883",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Espinal, Alan","Jr","2485646",2023,"45","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2485646",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Futrell, Devin","So","2656840",2023,"95","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2656840",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Ginther, Ryan","So","2656841",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2656841",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
@@ -20,8 +20,8 @@
 "Kodali, Devan","Fr",NA,2023,"23","OF",NA,736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "LaNeve, Troy","Sr","2309751",2023,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2309751",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Law, Cade","Fr",NA,2023,"44","C",NA,736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
-"Maldonado, Chris","Fr",NA,2023,"8","INF",NA,736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Maldonado, Nick","Sr","2309764",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2309764",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
+"Maldonado, Chris","Fr","2826920",2023,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2826920",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "McKenzie, T.J.","Sr","2309747",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2309747",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Moore, Grayson","Jr","2485658",2023,"36","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2485658",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Noland, Parker","Sr","2309779",2023,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2309779",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
@@ -30,7 +30,7 @@
 "Poteet, Logan","Fr",NA,2023,"5","C",NA,736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Regen, Colton","So",NA,2023,"55","P",NA,736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Reilly, Patrick","Jr","2485668",2023,"88","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2485668",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
-"Rogers, JD","So",NA,2023,"18","OF",NA,736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
+"Rogers, JD","So","2656868",2023,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2656868",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Schreck, R.J.","Sr","2146567",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2146567",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Schultz, Thomas","Sr","2309807",2023,"66","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=736&stats_player_seq=2309807",736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340
 "Thompson, JD","Fr",NA,2023,"22","P",NA,736,"Vanderbilt","/team/736/16340",911,"SEC",1,16340

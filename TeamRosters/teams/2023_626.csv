@@ -1,6 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Abadie, Connor","Fr",NA,2023,"31","P",NA,626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
-"Araiza, Issac","Fr",NA,2023,"39","P",NA,626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
+"Abadie, Connor","Fr","2807952",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=626&stats_player_seq=2807952",626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
+"Araiza, Issac","Fr","2807959",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=626&stats_player_seq=2807959",626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
 "Armstrong III, Eldridge","So","2654707",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=626&stats_player_seq=2654707",626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
 "Bercovich, Jadon","So","2482223",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=626&stats_player_seq=2482223",626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
 "Bethancourt, Tino","So","2482208",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=626&stats_player_seq=2482208",626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
@@ -11,7 +11,7 @@
 "Carrigg, Cole","Jr","2482170",2023,"8","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=626&stats_player_seq=2482170",626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
 "De Wall, Tyson","Fr",NA,2023,"48","P",NA,626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
 "Fondtain, TJ","Jr","2305214",2023,"28","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=626&stats_player_seq=2305214",626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
-"Fox, Trevor","Fr",NA,2023,"36","UT",NA,626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
+"Fox, Trevor","Fr","2807937",2023,"36","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=626&stats_player_seq=2807937",626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
 "Giannini, Drew","Fr","2807930",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=626&stats_player_seq=2807930",626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
 "Glowacki, Tyler","So","2654640",2023,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=626&stats_player_seq=2654640",626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340
 "Gonzalez, Xavier","Jr","2807931",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=626&stats_player_seq=2807931",626,"San Diego St.","/team/626/16340",5486,"Mountain West",1,16340

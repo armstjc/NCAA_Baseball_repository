@@ -1,6 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Lombardi, Michael","Fr",NA,2023,"15","INF",NA,718,"Tulane","/team/718/16340",823,"AAC",1,16340
-"Agabedis, James","Fr",NA,2023,"1","INF",NA,718,"Tulane","/team/718/16340",823,"AAC",1,16340
+"Lombardi, Michael","Fr","2801955",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2801955",718,"Tulane","/team/718/16340",823,"AAC",1,16340
+"Agabedis, James","Fr","2801950",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2801950",718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Banks, Teo","So","2680072",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2680072",718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Baumgardt, Simon","Jr","2303772",2023,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2303772",718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Beckstead, Seth","Sr","2680075",2023,"13","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2680075",718,"Tulane","/team/718/16340",823,"AAC",1,16340
@@ -12,7 +12,7 @@
 "Fowler, Michael","Jr","2486623",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2486623",718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Hart, Jared","Sr","2493737",2023,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2493737",718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Hebert, Brady","Sr","2680285",2023,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2680285",718,"Tulane","/team/718/16340",823,"AAC",1,16340
-"Kellum, Reed","So",NA,2023,"23","C",NA,718,"Tulane","/team/718/16340",823,"AAC",1,16340
+"Kellum, Reed","So","2801997",2023,"23","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2801997",718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "LaPrairie, Jacob","Jr","2494368",2023,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2494368",718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Lambert, Brennan","Sr","2680074",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2680074",718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Linn, Jackson","So","2680287",2023,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2680287",718,"Tulane","/team/718/16340",823,"AAC",1,16340
@@ -21,12 +21,12 @@
 "Mileski, Hayden","Fr",NA,2023,"30","OF",NA,718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Mishra, Ethan","Fr",NA,2023,"43","P",NA,718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Mitchem, Tracy","So","2680337",2023,"40","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2680337",718,"Tulane","/team/718/16340",823,"AAC",1,16340
-"Montiel, Tayler","Fr",NA,2023,"28","P",NA,718,"Tulane","/team/718/16340",823,"AAC",1,16340
+"Montiel, Tayler","Fr","2680983",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2680983",718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Morrow, Brayden","Sr","2680290",2023,"29","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2680290",718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Munhall, Cole","Fr",NA,2023,"42","P",NA,718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Price, Billy","Sr","2127046",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2127046",718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Prigge, Will","Fr",NA,2023,"44","UT",NA,718,"Tulane","/team/718/16340",823,"AAC",1,16340
-"Reily, Collin","Fr",NA,2023,"48","P",NA,718,"Tulane","/team/718/16340",823,"AAC",1,16340
+"Reily, Collin","Fr","2802503",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2802503",718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Romano, Ben","Fr",NA,2023,"21","OF",NA,718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Sanchez, Christian","Jr","2680286",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2680286",718,"Tulane","/team/718/16340",823,"AAC",1,16340
 "Schulz, Gavin","So","2680055",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=718&stats_player_seq=2680055",718,"Tulane","/team/718/16340",823,"AAC",1,16340

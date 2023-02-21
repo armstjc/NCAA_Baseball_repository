@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Aleman, Angelo","Fr",NA,2023,"34","INF",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
+"Aleman, Angelo","Fr","2801655",2023,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2801655",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Alfaro, Jesse","Fr",NA,2023,"58","P",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
-"Blood, Jason","Jr",NA,2023,"27","P",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
+"Blood, Jason","Jr","2801648",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2801648",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Bobo, Brendan","Jr","2482456",2023,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2482456",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Ceniceros, Aaron","Fr",NA,2023,"45","P",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Chester, Fynn","Sr","2656136",2023,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2656136",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
@@ -10,7 +10,7 @@
 "Giacone, Jackson","Fr",NA,2023,"9","OF",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Guzman, Moises","Jr","2801653",2023,"31","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2801653",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Haley, Jack","Jr","2656106",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2656106",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
-"Herrera, Carter","Fr",NA,2023,"43","P",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
+"Herrera, Carter","Fr","2801663",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2801663",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Hinkel, Trevor","Jr","2328834",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2328834",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Howitt, Josh","Jr","2656100",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2656100",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Ingrassia, Jojo","Jr","2482213",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2482213",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
@@ -21,17 +21,17 @@
 "Meek, Jack","Fr",NA,2023,"37","P",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Meyer, Gavin","So","2656056",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2656056",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Mistone, Luke","Fr",NA,2023,"30","P",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
-"Morones, Andrew","Jr",NA,2023,"49","P",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
+"Morones, Andrew","Jr","2801709",2023,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2801709",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Muniz, Izeah","So","2656134",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2656134",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Nankil, Nate","Jr","2482446",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2482446",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Navyac, JT","Jr","2482438",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2482438",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
-"Nushida, Draven","Fr",NA,2023,"39","OF",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
+"Nushida, Draven","Fr","2801658",2023,"39","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2801658",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Ortega, Max","Fr",NA,2023,"36","C",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Perez, Waldie","Jr",NA,2023,"42","C",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Petersen, Aaron","Fr",NA,2023,"48","P",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Rodriguez, Christian","Jr","2482463",2023,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2482463",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Stultz, Tyler","Sr","2656099",2023,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2656099",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
-"Tomczak, Seth","So",NA,2023,"18","P",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
+"Tomczak, Seth","So","2801639",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2801639",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Urman, Cole","Sr","2309097",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2309097",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Vanoncini, Jack","Fr",NA,2023,"28","C",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Wallace, Colby","So","2683301",2023,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2683301",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340

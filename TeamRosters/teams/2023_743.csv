@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Atkinson, Rahzel","Fr","2810901",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2810901",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Banks, Avante","So","2668871",2023,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2668871",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
-"Beckett, Markeefe","So",NA,2023,"4","OF",NA,743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
+"Beckett, Markeefe","So","2810902",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2810902",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Chandler, Thomas","So","2668878",2023,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2668878",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Crawley, J","Fr","2818926",2023,"22","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2818926",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Dayle, Alex","Fr","2810894",2023,"6","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2810894",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
@@ -11,14 +11,15 @@
 "Hatcher, Robert","Jr","2509561",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2509561",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Henderson, Christian","Jr","2509566",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2509566",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Hock, Dawsyn","Jr","2118239",2023,"9","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2118239",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
-"Jackson, Aldrewvonte","So",NA,2023,"12","",NA,743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Jackson, Norman","Fr","2810929",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2810929",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
+"Jackson, Aldrewvonte","So",NA,2023,"12","",NA,743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Johnson, David","So","2668855",2023,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2668855",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Jones, Ricky","Sr","2668873",2023,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2668873",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Ligion, Jr., Gene","Fr","2810934",2023,"15","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2810934",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "May, Matthew","Fr","2810959",2023,"16","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2810959",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Mendez, Pedro","So","2143836",2023,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2143836",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Messer, Ryan","Jr","2302683",2023,"14","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2302683",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
+"Simpson, Liam","Fr","2829922",2023,"16","lf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2829922",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Taylor, Michael","So",NA,2023,"17","",NA,743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
-"Wallace, Coron","Jr",NA,2023,"20","",NA,743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
+"Wallace, Coron","Jr","2810955",2023,"20","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2810955",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340
 "Wilmoth, Bryce","Jr","2668852",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=743&stats_player_seq=2668852",743,"Virginia St.","/team/743/16340",99010,"DII Independent",2,16340

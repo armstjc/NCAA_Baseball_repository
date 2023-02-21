@@ -1,12 +1,12 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Altman, Daniel","Jr","2475381",2023,"5","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2475381",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Andrade, Kobe","Jr","2480200",2023,"4","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2480200",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
-"Bergman, Caleb","Fr",NA,2023,"32","OF",NA,51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
+"Bergman, Caleb","Fr","2823254",2023,"32","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2823254",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Branch, Kolby","Fr","2823291",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2823291",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Brzozowski, Gavin","Fr","2823278",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2823278",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
-"Calder, Ethan","Fr",NA,2023,"36","OF",NA,51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
-"Caley, Cam","Jr","2471966",2023,"20","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2471966",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
+"Calder, Ethan","Fr","2823303",2023,"36","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2823303",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Caley, Harrison","Jr","2494395",2023,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2494395",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
+"Caley, Cam","Jr","2471966",2023,"20","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2471966",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Castle, Cortlan","So","2680391",2023,"19","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2680391",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Ceccoli, John","So","2334106",2023,"28","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2334106",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Craig, Gabe","So","2480197",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2480197",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
@@ -17,7 +17,7 @@
 "Johnson, Jack","Fr","2823243",2023,"41","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2823243",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Marriott, Mason","So","2680394",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2680394",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Matheson, Jared","Jr",NA,2023,"27","P",NA,51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
-"Mazoch, Zach","Fr",NA,2023,"16","C",NA,51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
+"Mazoch, Zach","Fr","2823293",2023,"16","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2823293",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "McKinney, Collin","Fr",NA,2023,"53","P",NA,51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Medellin, JoJo","Fr",NA,2023,"3","INF",NA,51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Muirhead, Adam","Jr","2471979",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2471979",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
@@ -25,15 +25,15 @@
 "Neumann, Casen","So","2680395",2023,"44","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2680395",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Oliver, Hambleton","Jr","2329127",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2329127",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Pendergrass, Will","Jr","2463901",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2463901",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
-"Petrowski, Andrew","Jr",NA,2023,"18","P",NA,51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
+"Petrowski, Andrew","Jr","2823252",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2823252",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Polk, Walker","Fr",NA,2023,"33","C",NA,51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Posey, Cole","Jr","2310324",2023,"6","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2310324",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Rigney, Will","Jr","2329141",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2329141",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
-"Rogers, Blake","Fr",NA,2023,"23","P",NA,51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
+"Rogers, Blake","Fr","2823297",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2823297",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Simmons, Hunter","Jr","2823288",2023,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2823288",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Stasio, Cole","Jr","2471995",2023,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2471995",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Stracener, Austin","So","2662489",2023,"0","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2662489",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Sunseri, Casey","Jr","2332158",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2332158",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Teplanszky, Hunter","So","2654351",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2654351",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
 "Tremain, Cole","Jr","2483090",2023,"14","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2483090",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
-"Valadez, Danny","Fr",NA,2023,"47","P",NA,51,"Baylor","/team/51/16340",25354,"Big 12",1,16340
+"Valadez, Danny","Fr","2823257",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=51&stats_player_seq=2823257",51,"Baylor","/team/51/16340",25354,"Big 12",1,16340

@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Boekhout, Bentley","Sr","2302803",2023,"14","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2302803",361,"LIU","/team/361/16340",846,"NEC",1,16340
 "Buehler, Chris","Sr","2124624",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2124624",361,"LIU","/team/361/16340",846,"NEC",1,16340
-"Cross, Ryun","Jr",NA,2023,"25","P",NA,361,"LIU","/team/361/16340",846,"NEC",1,16340
+"Cross, Ryun","Jr","2795884",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2795884",361,"LIU","/team/361/16340",846,"NEC",1,16340
 "Daley, Haile","Fr",NA,2023,"48","P",NA,361,"LIU","/team/361/16340",846,"NEC",1,16340
 "De Leon, Keniel","Jr","2795909",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2795909",361,"LIU","/team/361/16340",846,"NEC",1,16340
 "DeCastro, Justin","Fr",NA,2023,"17","P",NA,361,"LIU","/team/361/16340",846,"NEC",1,16340
@@ -14,8 +14,8 @@
 "Matthews, Kyle","Jr",NA,2023,"50","INF",NA,361,"LIU","/team/361/16340",846,"NEC",1,16340
 "Mazza, Chris","Jr","2474359",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2474359",361,"LIU","/team/361/16340",846,"NEC",1,16340
 "McGurk, Matthew","Fr",NA,2023,"45","OF",NA,361,"LIU","/team/361/16340",846,"NEC",1,16340
-"McInnes, Ty","So",NA,2023,"29","P",NA,361,"LIU","/team/361/16340",846,"NEC",1,16340
-"Moritz, PJ","Jr",NA,2023,"22","P",NA,361,"LIU","/team/361/16340",846,"NEC",1,16340
+"McInnes, Ty","So","2795916",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2795916",361,"LIU","/team/361/16340",846,"NEC",1,16340
+"Moritz, PJ","Jr","2795913",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2795913",361,"LIU","/team/361/16340",846,"NEC",1,16340
 "Navarro, JC","Jr","2795915",2023,"27","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2795915",361,"LIU","/team/361/16340",846,"NEC",1,16340
 "O'Boyle, Brian","So","2511164",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2511164",361,"LIU","/team/361/16340",846,"NEC",1,16340
 "Olsen, Luke","Fr",NA,2023,"46","C",NA,361,"LIU","/team/361/16340",846,"NEC",1,16340
@@ -33,7 +33,7 @@
 "Storms, Michael","Jr","2331365",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2331365",361,"LIU","/team/361/16340",846,"NEC",1,16340
 "Surrett, Seth","Sr","2302768",2023,"0","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2302768",361,"LIU","/team/361/16340",846,"NEC",1,16340
 "Tucker, Shane","Jr","2511200",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2511200",361,"LIU","/team/361/16340",846,"NEC",1,16340
-"Uemoto, Tatsuya","So",NA,2023,"19","P",NA,361,"LIU","/team/361/16340",846,"NEC",1,16340
+"Uemoto, Tatsuya","So","2795911",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2795911",361,"LIU","/team/361/16340",846,"NEC",1,16340
 "VanDoran, Jack","Sr","2324815",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2324815",361,"LIU","/team/361/16340",846,"NEC",1,16340
 "Vassallo, Dominic","Fr",NA,2023,"36","P",NA,361,"LIU","/team/361/16340",846,"NEC",1,16340
 "Wade, Jarod","So","2661516",2023,"13","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=361&stats_player_seq=2661516",361,"LIU","/team/361/16340",846,"NEC",1,16340

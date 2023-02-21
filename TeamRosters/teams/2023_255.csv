@@ -1,6 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Ballard, Carson","Fr",NA,2023,"38","P",NA,255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
-"Baughcum, Brant","Fr",NA,2023,"9","INF",NA,255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
+"Baughcum, Brant","Fr","2823230",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823230",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Bogue, Logan","Fr",NA,2023,"50","P",NA,255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Brosius, Parker","Fr","2823223",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823223",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Brown, Dawson","Jr","2487178",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2487178",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
@@ -26,17 +26,17 @@
 "Lovett, Jett","So","2661200",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2661200",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Mannelly, Joseph","Sr","1979067",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=1979067",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "McGuire, Logan","So","2661203",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2661203",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
-"Minnick, Tyler","Fr",NA,2023,"4","C",NA,255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
+"Minnick, Tyler","Fr","2823226",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823226",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Prince, Brandon","So","2661198",2023,"39","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2661198",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Reid, Stephen","Sr","2328917",2023,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2328917",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Romano, Nicholas","So","2661210",2023,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2661210",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Rubenstein, Jack","Sr","1975981",2023,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=1975981",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
-"Sabathia, Carsten","Fr",NA,2023,"24","INF",NA,255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
+"Sabathia, Carsten","Fr","2823236",2023,"24","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823236",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Samol, Noah","Fr","2823259",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823259",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Schmolke, Luke","Fr","2823235",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823235",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Senese, Nico","Fr","2823233",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823233",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Siegel, Josiah","Sr","2328947",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2328947",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
-"Smith, Nathan","Fr",NA,2023,"22","C",NA,255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
+"Smith, Nathan","Fr","2657372",2023,"22","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2657372",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Smith, Dalton","Jr","2328886",2023,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2328886",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
-"Stanford, Riley","Fr",NA,2023,"10","UT",NA,255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
+"Stanford, Riley","Fr","2823232",2023,"10","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823232",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340
 "Vaughan, Jackson","Jr","2140257",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2140257",255,"Georgia Tech","/team/255/16340",821,"ACC",1,16340

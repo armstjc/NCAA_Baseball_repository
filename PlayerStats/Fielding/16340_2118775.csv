@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+9,1,10,0,0,0,1,0,0,0,02/17/2023,home,16340,48,Charleston So.,9,True,13,3,10,win,2390245,235,2118775,2023,1
+7,2,9,0,0,1,0,1,0,0,02/18/2023,home,16340,48,Charleston So.,9,True,16,2,14,win,2390493,235,2118775,2023,1
+12,0,12,0,0,0,0,0,0,0,02/19/2023,home,16340,48,Charleston So.,9,True,8,0,8,win,2390813,235,2118775,2023,1

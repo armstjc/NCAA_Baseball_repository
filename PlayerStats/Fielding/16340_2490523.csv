@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,0,0,0,0,0,02/17/2023,neutral,16340,1104,Grand Canyon,9,True,4,12,-8,loss,2390322,112,2490523,2023,1
+2,0,2,0,0,0,0,0,0,0,02/18/2023,neutral,16340,418,Michigan,9,True,11,2,9,win,2390594,112,2490523,2023,1
+1,0,1,0,0,0,0,0,0,0,02/19/2023,neutral,16340,694,Tennessee,9,True,0,7,-7,loss,2391057,112,2490523,2023,1

@@ -7,7 +7,7 @@ def generate_season_player_batting_stats(season:int):
     part_df = pd.DataFrame()
     for i in range(1,5):
         #print(i)
-        part_df = pd.read_csv(f'PlayerStats/{season}_batting_0{i}.csv')
+        part_df = pd.read_csv(f'game_stats/player/batting_game_stats/csv/{season}_batting_0{i}.csv')
         main_df = pd.concat([main_df,part_df],ignore_index=True)
         del part_df
     main_df['G'] = 1
@@ -45,9 +45,9 @@ def generate_season_player_pitching_stats(season:int):
     
     main_df = pd.DataFrame()
     part_df = pd.DataFrame()
-    for i in range(1,3):
+    for i in range(1,5):
         #print(i)
-        part_df = pd.read_csv(f'PlayerStats/{season}_pitching_0{i}.csv')
+        part_df = pd.read_csv(f'game_stats/player/pitching_game_stats/csv/{season}_pitching_0{i}.csv')
         main_df = pd.concat([main_df,part_df],ignore_index=True)
         del part_df
     main_df['App'] = 1
@@ -91,7 +91,7 @@ def generate_season_player_fielding_stats(season:int):
     part_df = pd.DataFrame()
     for i in range(1,5):
         #print(i)
-        part_df = pd.read_csv(f'PlayerStats/{season}_fielding_0{i}.csv')
+        part_df = pd.read_csv(f'game_stats/player/fielding_game_stats/csv/{season}_fielding_0{i}.csv')
         main_df = pd.concat([main_df,part_df],ignore_index=True)
         del part_df
     
@@ -112,7 +112,7 @@ def generate_season_team_batting_stats(season:int):
     part_df = pd.DataFrame()
     for i in range(1,5):
         #print(i)
-        part_df = pd.read_csv(f'PlayerStats/{season}_batting_0{i}.csv')
+        part_df = pd.read_csv(f'game_stats/player/batting_game_stats/csv/{season}_batting_0{i}.csv')
         main_df = pd.concat([main_df,part_df],ignore_index=True)
         del part_df
     main_df['G'] = 1
@@ -150,9 +150,9 @@ def generate_season_team_pitching_stats(season:int):
     
     main_df = pd.DataFrame()
     part_df = pd.DataFrame()
-    for i in range(1,3):
+    for i in range(1,5):
         #print(i)
-        part_df = pd.read_csv(f'PlayerStats/{season}_pitching_0{i}.csv')
+        part_df = pd.read_csv(f'game_stats/player/pitching_game_stats/csv/{season}_pitching_0{i}.csv')
         main_df = pd.concat([main_df,part_df],ignore_index=True)
         del part_df
     main_df['App'] = 1
@@ -196,7 +196,7 @@ def generate_season_team_fielding_stats(season:int):
     part_df = pd.DataFrame()
     for i in range(1,5):
         #print(i)
-        part_df = pd.read_csv(f'PlayerStats/{season}_fielding_0{i}.csv')
+        part_df = pd.read_csv(f'game_stats/player/fielding_game_stats/csv/{season}_fielding_0{i}.csv')
         main_df = pd.concat([main_df,part_df],ignore_index=True)
         del part_df
     

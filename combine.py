@@ -35,7 +35,7 @@ def merge_batting_stats():
     max_season = df['season'].max()
     min_season = df['season'].min()
     for i in range(min_season,max_season+1):
-        print(f'Saving off the stats for {i}.')
+        print(f'Saving off the batting stats for {i}.')
         s_df = df[df['season'] == i]
         s_df.to_parquet(f'game_stats/player/batting_game_stats/parquet/{i}_batting.parquet')
 
@@ -59,7 +59,7 @@ def merge_pitching_stats():
     max_season = df['season'].max()
     min_season = df['season'].min()
     for i in range(min_season,max_season+1):
-        print(f'Saving off the stats for {i}.')
+        print(f'Saving off the pitching stats for {i}.')
         s_df = df[df['season'] == i]
         s_df.to_parquet(f'game_stats/player/pitching_game_stats/parquet/{i}_pitching.parquet')
 
@@ -83,7 +83,7 @@ def merge_fielding_stats():
     max_season = df['season'].max()
     min_season = df['season'].min()
     for i in range(min_season,max_season+1):
-        print(f'Saving off the stats for {i}.')
+        print(f'Saving off the fielding stats for {i}.')
         s_df = df[df['season'] == i]
         s_df.to_parquet(f'game_stats/player/fielding_game_stats/parquet/{i}_fielding.parquet')
         
@@ -101,20 +101,19 @@ def merge_fielding_stats():
 
 def merge_rosters():
     f = f"TeamRosters/teams"
-    print('Collecting downloaded CSVs.')
     df = mergeFilesMultithreaded(f)
     max_season = df['season'].max()
     min_season = df['season'].min()
     for i in range(min_season,max_season+1):
-        print(f'Saving off the stats for {i}.')
+        print(f'Saving off the rosters for {i}.')
         s_df = df[df['season'] == i]
         s_df.to_csv(f'TeamRosters/{i}_roster.csv',index=False)
 
 def main():
     merge_rosters()
-    # merge_batting_stats()
-    # merge_pitching_stats()
-    # merge_fielding_stats()
+    merge_batting_stats()
+    merge_pitching_stats()
+    merge_fielding_stats()
 
 if __name__ == "__main__":
     main()

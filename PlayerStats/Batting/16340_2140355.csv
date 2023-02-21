@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,6,3,0,0,3,0,1,0,0,0,0,1,0,0,0,1,0,0,02/17/2023,home,16340,5,Akron,9,True,12,14,-2,loss,2390417,769,2140355,2023,1
+1,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2023,home,16340,5,Akron,9,True,6,1,5,win,2390656,769,2140355,2023,1
+2,3,1,0,0,1,0,1,3,0,0,0,0,0,0,0,1,0,0,02/18/2023,home,16340,5,Akron,9,True,11,6,5,win,2407905,769,2140355,2023,1
+0,3,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,02/19/2023,home,16340,5,Akron,9,True,2,3,-1,loss,2391007,769,2140355,2023,1

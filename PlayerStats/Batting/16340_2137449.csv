@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2023,neutral,16340,87,Butler,9,True,9,8,1,win,2390400,222,2137449,2023,1
+0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/18/2023,neutral,16340,87,Butler,9,True,0,3,-3,loss,2390675,222,2137449,2023,1
+1,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,02/18/2023,neutral,16340,87,Butler,9,True,7,16,-9,loss,2407998,222,2137449,2023,1
+1,5,2,1,0,6,1,2,0,0,0,0,1,0,0,1,0,0,0,02/19/2023,neutral,16340,87,Butler,9,True,10,9,1,win,2390960,222,2137449,2023,1

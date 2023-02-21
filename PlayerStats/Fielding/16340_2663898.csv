@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,0,0,0,0,0,02/17/2023,away,16340,402,McNeese,9,True,0,1,-1,loss,2390469,169,2663898,2023,1
+8,1,9,0,0,0,1,0,0,0,02/19/2023,away,16340,402,McNeese,9,True,5,1,4,win,2391033,169,2663898,2023,1

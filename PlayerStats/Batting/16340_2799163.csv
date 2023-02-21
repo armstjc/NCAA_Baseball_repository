@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2023,home,16340,249,George Washington,9,True,11,3,8,win,2390731,196,2799163,2023,1
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/19/2023,home,16340,249,George Washington,9,True,23,5,18,win,2390984,196,2799163,2023,1

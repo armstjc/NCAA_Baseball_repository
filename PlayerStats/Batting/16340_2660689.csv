@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,4,3,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2023,away,16340,655,Southeastern La.,9,True,4,15,-11,loss,2390441,342,2660689,2023,1
+0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2023,away,16340,655,Southeastern La.,9,True,0,20,-20,loss,2390763,342,2660689,2023,1
+0,3,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,02/18/2023,away,16340,655,Southeastern La.,9,True,5,7,-2,loss,2408282,342,2660689,2023,1
+0,4,1,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,02/19/2023,away,16340,655,Southeastern La.,9,True,4,11,-7,loss,2390970,342,2660689,2023,1

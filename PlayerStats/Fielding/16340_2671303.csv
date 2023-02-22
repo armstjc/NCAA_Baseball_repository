@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+17,0,17,0,0,0,0,0,0,0,02/17/2023,neutral,16340,739,Villanova,9,True,7,0,7,win,2390340,754,2671303,2023,1
+9,0,9,0,0,0,0,0,0,0,02/18/2023,neutral,16340,111,UC Riverside,9,True,17,4,13,win,2390592,754,2671303,2023,1
+11,2,13,0,0,0,1,0,0,0,02/19/2023,neutral,16340,111,UC Riverside,9,True,8,6,2,win,2390888,754,2671303,2023,1

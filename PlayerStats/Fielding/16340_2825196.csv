@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/17/2023,away,16340,629,San Francisco,9,True,11,9,2,win,2390358,732,2825196,2023,1
+6,0,6,0,0,0,0,0,0,0,02/20/2023,away,16340,629,San Francisco,9,True,0,3,-3,loss,2391076,732,2825196,2023,1

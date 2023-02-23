@@ -36,7 +36,7 @@ def merge_batting_stats():
     print('Starting the merge of Batting CSVs.')
     f = f"PlayerStats/batting"
     print('Collecting downloaded CSVs.')
-    df = mergeFilesMultithreaded(f)
+    df = mergeFilesMultithreaded(os.path.abspath(f))
     print('Done!')
     max_season = df['season'].max()
     min_season = df['season'].min()
@@ -61,7 +61,7 @@ def merge_pitching_stats():
     print('Starting the merge of Pitching CSVs.')
     f = f"PlayerStats/pitching"
     print('Collecting downloaded CSVs.')
-    df = mergeFilesMultithreaded(f)
+    df = mergeFilesMultithreaded(os.path.abspath(f))
     max_season = df['season'].max()
     min_season = df['season'].min()
     for i in range(min_season,max_season+1):
@@ -85,7 +85,7 @@ def merge_fielding_stats():
     print('Starting the merge of Fielding CSVs.')
     f = f"PlayerStats/fielding"
     print('Collecting downloaded CSVs.')
-    df = mergeFilesMultithreaded(f)
+    df = mergeFilesMultithreaded(os.path.abspath(f))
     max_season = df['season'].max()
     min_season = df['season'].min()
     for i in range(min_season,max_season+1):
@@ -107,7 +107,7 @@ def merge_fielding_stats():
 
 def merge_rosters():
     f = f"TeamRosters/teams"
-    df = mergeFilesMultithreaded(f)
+    df = mergeFilesMultithreaded(os.path.abspath(f))
     max_season = df['season'].max()
     min_season = df['season'].min()
     for i in range(min_season,max_season+1):

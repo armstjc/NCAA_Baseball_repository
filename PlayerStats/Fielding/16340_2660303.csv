@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/17/2023,home,16340,299,Illinois St.,9,True,2,13,-11,loss,2390419,43,2660303,2023,1
+1,0,1,0,0,0,0,0,0,0,02/18/2023,home,16340,299,Illinois St.,9,True,9,1,8,win,2390686,43,2660303,2023,1
+3,1,5,1,0,0,0,0,0,0,02/19/2023,home,16340,299,Illinois St.,10,True,13,14,-1,loss,2391009,43,2660303,2023,1
+4,0,4,0,0,0,0,0,0,0,02/21/2023,home,16340,659,Southern Ill.,9,True,14,13,1,win,2391151,43,2660303,2023,1

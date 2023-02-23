@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,02/17/2023,away,16340,234,Florida St.,9,True,7,12,-5,loss,2390432,317,2112906,2023,1
+2,0,3,1,0,0,0,0,0,0,02/18/2023,away,16340,234,Florida St.,9,True,1,5,-4,loss,2390776,317,2112906,2023,1
+3,0,3,0,0,0,0,0,0,0,02/19/2023,away,16340,234,Florida St.,9,True,10,17,-7,loss,2390969,317,2112906,2023,1

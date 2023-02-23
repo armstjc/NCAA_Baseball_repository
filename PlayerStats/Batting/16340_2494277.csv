@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,4,2,1,0,6,1,1,0,1,0,0,2,0,0,0,0,0,0,02/17/2023,neutral,16340,721,Air Force,9,True,5,2,3,win,2390312,725,2494277,2023,1
+0,5,2,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,02/18/2023,neutral,16340,721,Air Force,9,True,6,4,2,win,2390581,725,2494277,2023,1
+0,3,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,02/19/2023,neutral,16340,721,Air Force,9,True,3,9,-6,loss,2390877,725,2494277,2023,1

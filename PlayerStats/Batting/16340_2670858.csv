@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,5,1,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,02/17/2023,neutral,16340,314,Jackson St.,9,True,5,4,1,win,2390490,665,2670858,2023,1
+1,4,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2023,neutral,16340,261,Grambling,9,True,4,3,1,win,2390785,665,2670858,2023,1
+2,4,3,0,0,6,1,2,0,0,0,0,0,0,0,0,0,0,0,02/19/2023,neutral,16340,699,Texas Southern,9,True,11,1,10,win,2391064,665,2670858,2023,1
+1,3,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,02/21/2023,away,16340,365,LSU,9,True,4,18,-14,loss,2391199,665,2670858,2023,1

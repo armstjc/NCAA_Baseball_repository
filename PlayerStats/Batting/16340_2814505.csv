@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,1,1,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,02/17/2023,home,16340,81,Bryant,10,True,6,2,4,win,2390408,19651,2814505,2023,1
+0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/18/2023,home,16340,81,Bryant,9,True,7,6,1,win,2390725,19651,2814505,2023,1
+1,5,1,1,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,02/19/2023,home,16340,81,Bryant,9,True,10,5,5,win,2390973,19651,2814505,2023,1
+2,1,1,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,02/21/2023,home,16340,27,App State,9,True,7,16,-9,loss,2391163,19651,2814505,2023,1

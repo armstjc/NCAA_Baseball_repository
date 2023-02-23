@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,1,3,0,0,0,0,0,1,0,02/17/2023,neutral,16340,698,TCU,9,True,4,11,-7,loss,2390396,736,2656870,2023,1
+3,2,5,0,0,0,0,0,2,0,02/18/2023,neutral,16340,521,Oklahoma St.,9,True,11,9,2,win,2390577,736,2656870,2023,1
+1,1,2,0,0,0,0,0,1,0,02/19/2023,neutral,16340,703,Texas,9,True,12,2,10,win,2390872,736,2656870,2023,1
+2,1,3,0,0,0,0,0,0,0,02/21/2023,home,16340,1004,Central Ark.,9,True,4,5,-1,loss,2391103,736,2656870,2023,1

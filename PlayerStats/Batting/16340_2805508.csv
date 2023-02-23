@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,3,1,1,0,2,0,2,0,1,0,0,1,0,0,0,1,0,0,02/17/2023,neutral,16340,736,Vanderbilt,9,True,11,4,7,win,2390396,698,2805508,2023,1
+1,5,1,0,0,1,0,3,1,0,0,0,1,0,0,0,0,0,0,02/18/2023,neutral,16340,31,Arkansas,9,True,18,6,12,win,2390811,698,2805508,2023,1
+0,3,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,02/19/2023,neutral,16340,434,Missouri,10,True,8,9,-1,loss,2391063,698,2805508,2023,1

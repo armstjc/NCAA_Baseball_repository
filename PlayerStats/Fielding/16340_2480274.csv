@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+10,3,13,0,0,0,0,0,0,0,02/17/2023,away,16340,257,Georgia,9,True,8,5,3,win,2390381,315,2480274,2023,1
+6,2,8,0,0,0,0,0,2,0,02/18/2023,away,16340,257,Georgia,9,True,3,10,-7,loss,2390745,315,2480274,2023,1
+2,0,2,0,0,0,0,0,0,0,02/19/2023,away,16340,257,Georgia,9,True,5,10,-5,loss,2391003,315,2480274,2023,1

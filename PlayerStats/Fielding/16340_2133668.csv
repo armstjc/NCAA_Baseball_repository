@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+10,1,11,0,0,0,0,0,2,0,02/17/2023,home,16340,503,NIU,9,True,16,2,14,win,2390373,527,2133668,2023,1
+5,1,6,0,0,0,0,0,3,0,02/18/2023,home,16340,503,NIU,9,True,8,2,6,win,2390764,527,2133668,2023,1
+8,0,8,0,0,0,0,0,1,0,02/18/2023,home,16340,503,NIU,10,True,3,2,1,win,2408283,527,2133668,2023,1
+10,1,11,0,0,0,0,0,2,0,02/19/2023,home,16340,503,NIU,9,True,6,1,5,win,2390989,527,2133668,2023,1

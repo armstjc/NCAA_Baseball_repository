@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/17/2023,home,16340,500,Northeastern,9,True,0,11,-11,loss,2390426,459,2656418,2023,1
+2,0,2,0,0,0,0,0,0,0,02/18/2023,home,16340,500,Northeastern,9,True,7,6,1,win,2390759,459,2656418,2023,1
+1,1,2,0,0,0,0,0,0,0,02/19/2023,home,16340,500,Northeastern,9,True,9,12,-3,loss,2391030,459,2656418,2023,1
+2,0,2,0,0,0,0,0,0,0,02/21/2023,home,16340,749,Wake Forest,9,True,2,20,-18,loss,2391175,459,2656418,2023,1

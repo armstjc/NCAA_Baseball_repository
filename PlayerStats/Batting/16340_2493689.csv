@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,02/17/2023,home,16340,1356,Seattle U,9,True,8,2,6,win,2390449,697,2493689,2023,1
+0,4,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,home,16340,1356,Seattle U,9,True,6,3,3,win,2390730,697,2493689,2023,1
+1,4,2,0,0,2,0,1,1,0,0,0,0,0,0,0,1,0,0,02/19/2023,home,16340,1356,Seattle U,9,True,14,2,12,win,2390983,697,2493689,2023,1
+0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/21/2023,home,16340,346,Lamar University,9,True,4,7,-3,loss,2391187,697,2493689,2023,1

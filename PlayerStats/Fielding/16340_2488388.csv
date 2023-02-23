@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/17/2023,away,16340,1004,Central Ark.,9,True,11,3,8,win,2390286,654,2488388,2023,1
+1,0,1,0,0,0,0,0,0,0,02/18/2023,away,16340,1004,Central Ark.,9,True,0,3,-3,loss,2390525,654,2488388,2023,1
+2,0,2,0,0,0,0,0,0,0,02/19/2023,away,16340,1004,Central Ark.,9,True,4,13,-9,loss,2390843,654,2488388,2023,1

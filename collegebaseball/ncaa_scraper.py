@@ -281,6 +281,7 @@ def ncaa_player_game_logs(player, season, variant, school=None, include_advanced
     """
     season, season_id, batting_id, pitching_id, fielding_id = lookup._lookup_season_info(
         season)
+    score = None
     if type(player) == int:
         player_id = player
         try:

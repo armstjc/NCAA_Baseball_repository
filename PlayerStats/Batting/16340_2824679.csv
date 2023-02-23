@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/17/2023,home,16340,768,West Virginia,9,True,4,3,1,win,2390474,253,2824679,2023,1
+0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/18/2023,home,16340,768,West Virginia,9,True,6,2,4,win,2390727,253,2824679,2023,1
+1,2,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,02/21/2023,home,16340,255,Georgia Tech,9,True,6,8,-2,loss,2391184,253,2824679,2023,1

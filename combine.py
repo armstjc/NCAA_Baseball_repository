@@ -15,7 +15,12 @@ def mergeFilesMultithreaded(filePath=""):
     num_cpus = os.cpu_count()
     print(f'{num_cpus} cpu cores advalible to this script.')
 
-    pool = Pool(num_cpus-1)
+    if num_cpus <= 2:
+        pass
+    else:
+        num_cpus -= 1
+
+    pool = Pool(num_cpus)
     main_df = pd.DataFrame()
     
     l = filePath

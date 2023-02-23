@@ -6,10 +6,10 @@ name: Update Stat Files
 on:
   schedule:
     - cron: "0 5 * * 0" 
-  #push:
-  #  branches: [ main ]
-  #pull_request:
-  #  branches: [ main ]
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 jobs:
   build:
 

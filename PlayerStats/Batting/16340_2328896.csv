@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/19/2023,home,16340,786,William & Mary,10,True,5,4,1,win,2391024,406,2328896,2023,1
+3,3,2,1,0,3,0,1,0,1,0,0,1,0,0,0,0,0,0,02/21/2023,away,16340,228,Florida A&M,9,True,21,5,16,win,2391170,406,2328896,2023,1
+2,4,2,0,0,5,1,1,0,0,0,0,1,0,0,0,0,0,0,02/22/2023,away,16340,228,Florida A&M,13,True,8,7,1,win,2391237,406,2328896,2023,1

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,2,7,0,0,0,0,0,1,0,02/17/2023,away,16340,624,Sam Houston,9,True,2,3,-1,loss,2390278,572,2828762,2023,1
+9,1,10,0,0,0,0,0,0,0,02/18/2023,away,16340,624,Sam Houston,9,True,13,3,10,win,2390520,572,2828762,2023,1
+5,3,9,1,0,0,0,0,0,0,02/19/2023,away,16340,624,Sam Houston,9,True,2,25,-23,loss,2390839,572,2828762,2023,1

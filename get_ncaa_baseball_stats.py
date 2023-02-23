@@ -57,15 +57,19 @@ def get_season_ncaa_baseball_stats(season:int,division:int):
     school_id_arr = roster_df['team_id'].to_list()
     len_player_id_arr = len(player_id_arr)
     count = 0
+
     for i in tqdm(range(count,len_player_id_arr)):
         count += 1
         print(f'\n{count}/{len_player_id_arr}')
         ###############################################################################################################
         ##  Batting Stats
         ###############################################################################################################
-
-        batting_df = ncaa.ncaa_player_game_logs(player=int(player_id_arr[i]), \
+        try:
+            batting_df = ncaa.ncaa_player_game_logs(player=int(player_id_arr[i]), \
             season=int(season_id_arr[i]), variant='batting', school=int(school_id_arr[i]),include_advanced=False)
+        except:
+            print('No batting stats to download.')
+
         try:
             batting_df = batting_df[(batting_df['AB'] !=0) & (batting_df['result'] != 'cancelled')]
         except:
@@ -74,13 +78,17 @@ def get_season_ncaa_baseball_stats(season:int,division:int):
         if len(batting_df) > 0:
             batting_df.to_csv(f'PlayerStats/Batting/{int(season_id_arr[i])}_{int(player_id_arr[i])}.csv',index=False)
 
-        time.sleep(3)
+        time.sleep(4)
+
         ###############################################################################################################
         ##  Pitching Stats
         ###############################################################################################################
-        
-        pitching_df = ncaa.ncaa_player_game_logs(player=int(player_id_arr[i]),\
+        try:
+            pitching_df = ncaa.ncaa_player_game_logs(player=int(player_id_arr[i]),\
             season=int(season_id_arr[i]), variant='pitching', school=int(school_id_arr[i]),include_advanced=False)
+        except:
+            print('No pitching stats to download.')
+
         try:
             pitching_df = pitching_df.loc[(pitching_df['App'] != 0) & (pitching_df['IP'] != 0) & (pitching_df['pitches'] != 0)]
         except:
@@ -89,13 +97,16 @@ def get_season_ncaa_baseball_stats(season:int,division:int):
         if len(pitching_df) > 0:
             pitching_df.to_csv(f'PlayerStats/Pitching/{int(season_id_arr[i])}_{int(player_id_arr[i])}.csv',index=False)
 
-        time.sleep(3)
+        time.sleep(4)
+
         ###############################################################################################################
         ##  Fielding Stats
         ###############################################################################################################
-        
-        fielding_df = ncaa.ncaa_player_game_logs(player=int(player_id_arr[i]), \
+        try:
+            fielding_df = ncaa.ncaa_player_game_logs(player=int(player_id_arr[i]), \
             season=int(season_id_arr[i]), variant='fielding',  school=int(school_id_arr[i]),include_advanced=False)
+        except:
+            print('No fielding stats to download.')
         try:
             fielding_df = fielding_df.loc[(fielding_df['TC'] > 0) | (fielding_df['PB'] > 0) | (fielding_df['SBA'] > 0)]
         except:
@@ -104,10 +115,10 @@ def get_season_ncaa_baseball_stats(season:int,division:int):
         if len(fielding_df) > 0:
             fielding_df.to_csv(f'PlayerStats/Fielding/{int(season_id_arr[i])}_{int(player_id_arr[i])}.csv',index=False)
 
-        time.sleep(3)
+        time.sleep(4)
 
 def main():
-    get_season_ncaa_baseball_stats(2023,1)
+    get_season_ncaa_baseball_stats(2023,2)
 
 if __name__ == "__main__":
     main()

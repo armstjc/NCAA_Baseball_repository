@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/17/2023,home,16340,306,Indiana,9,True,8,4,4,win,2390244,37,2120690,2023,1
+1,0,1,0,0,0,0,0,0,0,02/19/2023,home,16340,306,Indiana,9,True,2,11,-9,loss,2390976,37,2120690,2023,1
+1,0,1,0,0,0,0,0,0,0,02/21/2023,neutral,16340,487,North Ala.,9,True,13,1,12,win,2391124,37,2120690,2023,1

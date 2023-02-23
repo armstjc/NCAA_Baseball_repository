@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/17/2023,neutral,16340,473,New Mexico,9,True,2,7,-5,loss,2390332,528,2816699,2023,1
+2,3,1,1,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,02/18/2023,neutral,16340,428,Minnesota,9,True,8,7,1,win,2390717,528,2816699,2023,1
+2,4,1,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,02/19/2023,neutral,16340,473,New Mexico,9,True,14,6,8,win,2390910,528,2816699,2023,1
+0,4,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,02/20/2023,neutral,16340,104,UC Santa Barbara,9,True,11,0,11,win,2391074,528,2816699,2023,1

@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,02/17/2023,neutral,16340,104,UC Santa Barbara,9,True,7,9,-2,loss,2390428,428,2334398,2023,1
+0,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,neutral,16340,528,Oregon St.,9,True,7,8,-1,loss,2390717,428,2334398,2023,1
+0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/19/2023,neutral,16340,104,UC Santa Barbara,9,True,2,13,-11,loss,2391059,428,2334398,2023,1

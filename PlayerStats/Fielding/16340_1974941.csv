@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+7,0,7,0,0,0,0,0,0,0,02/17/2023,home,16340,625,Samford,9,True,7,4,3,win,2390303,404,1974941,2023,1
+10,1,11,0,0,0,0,0,0,0,02/18/2023,home,16340,625,Samford,9,True,11,6,5,win,2390538,404,1974941,2023,1
+11,0,11,0,0,0,0,0,0,0,02/19/2023,home,16340,625,Samford,11,True,8,9,-1,loss,2390863,404,1974941,2023,1

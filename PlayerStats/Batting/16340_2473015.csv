@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,3,1,0,0,4,1,1,1,0,0,0,2,0,0,0,0,0,0,02/17/2023,home,16340,219,Evansville,9,True,12,7,5,win,2390462,716,2473015,2023,1
+1,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,02/18/2023,home,16340,219,Evansville,10,True,8,7,1,win,2390782,716,2473015,2023,1
+1,4,2,0,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,02/19/2023,home,16340,219,Evansville,9,True,11,10,1,win,2391015,716,2473015,2023,1
+1,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/21/2023,home,16340,7,Alabama St.,9,True,10,2,8,win,2391194,716,2473015,2023,1

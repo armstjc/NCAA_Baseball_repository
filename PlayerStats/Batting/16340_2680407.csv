@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,3,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,02/17/2023,home,16340,711,Towson,9,True,7,1,6,win,2390295,10411,2680407,2023,1
 0,4,1,0,0,1,0,2,0,0,0,0,0,1,0,0,0,0,1,02/19/2023,home,16340,711,Towson,9,True,10,2,8,win,2390854,10411,2680407,2023,1
+1,5,3,0,0,3,0,3,0,0,0,0,0,0,1,0,0,0,0,02/21/2023,away,16340,2711,North Florida,9,True,15,7,8,win,2391198,10411,2680407,2023,1
+2,5,3,0,0,9,2,2,0,0,0,0,0,0,0,0,0,0,0,02/22/2023,away,16340,2711,North Florida,9,True,9,4,5,win,2391233,10411,2680407,2023,1

@@ -30,6 +30,7 @@ jobs:
         python -m pip install --upgrade pip
         #python -m pip install pybaseball
         #python -m pip install requests
+        python -m pip install pyarrow
         python -m pip install pandas
         python -m pip install tqdm
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi

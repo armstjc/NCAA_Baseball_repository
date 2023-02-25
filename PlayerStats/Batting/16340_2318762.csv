@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2023,away,16340,419,Middle Tenn.,9,True,2,6,-4,loss,2391789,596,2318762,2023,1
+0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2023,away,16340,419,Middle Tenn.,9,True,3,16,-13,loss,2391461,596,2318762,2023,1

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 8,1,9,0,0,0,0,0,0,0,02/17/2023,home,16340,62,Binghamton,9,True,11,3,8,win,2390409,147,2796435,2023,1
 4,0,4,0,0,0,0,0,0,0,02/19/2023,home,16340,62,Binghamton,9,True,19,1,18,win,2390915,147,2796435,2023,1
+7,0,7,0,0,0,0,0,0,0,02/21/2023,home,16340,458,Charlotte,9,True,9,5,4,win,2391164,147,2796435,2023,1

@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,1,0,1,3,0,1,0,0,0,0,0,0,0,0,0,0,0,02/17/2023,away,16340,17,Alcorn,9,True,5,4,1,win,2390445,6,2829469,2023,1
+0,3,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,02/18/2023,away,16340,17,Alcorn,9,True,9,5,4,win,2390778,6,2829469,2023,1
+2,4,1,0,0,1,0,1,0,1,0,0,1,0,0,0,2,0,0,02/19/2023,away,16340,17,Alcorn,9,True,13,3,10,win,2390978,6,2829469,2023,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/21/2023,away,16340,694,Tennessee,9,True,0,10,-10,loss,2391176,6,2829469,2023,1
+1,3,1,0,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,02/22/2023,away,16340,694,Tennessee,9,True,1,23,-22,loss,2391238,6,2829469,2023,1
+2,3,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,02/24/2023,neutral,16340,553,Prairie View,9,True,13,1,12,win,2421274,6,2829469,2023,1

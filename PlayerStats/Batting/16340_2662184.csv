@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,away,16340,488,N.C. A&T,9,True,5,8,-3,loss,2420152,393,2662184,2023,1
 0,5,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/19/2023,away,16340,488,N.C. A&T,10,True,4,5,-1,loss,2390864,393,2662184,2023,1
+0,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,02/22/2023,away,16340,249,George Washington,9,True,9,11,-2,loss,2391211,393,2662184,2023,1
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2023,home,16340,562,Quinnipiac,9,True,1,5,-4,loss,2421503,393,2662184,2023,1

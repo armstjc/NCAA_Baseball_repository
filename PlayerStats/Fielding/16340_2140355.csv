@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,0,5,1,0,0,0,0,0,0,02/17/2023,home,16340,5,Akron,9,True,12,14,-2,loss,2390417,769,2140355,2023,1
 2,0,2,0,0,0,0,0,0,0,02/19/2023,home,16340,5,Akron,9,True,2,3,-1,loss,2391007,769,2140355,2023,1
+2,0,2,0,0,0,0,0,0,0,02/22/2023,away,16340,1320,Presbyterian,9,True,0,3,-3,loss,2391227,769,2140355,2023,1
+2,0,2,0,0,0,0,0,0,0,02/24/2023,home,16340,812,Xavier,9,True,4,9,-5,loss,2391493,769,2140355,2023,1

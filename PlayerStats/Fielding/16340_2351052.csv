@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+6,3,9,0,0,1,4,0,0,0,02/17/2023,away,16340,149,Coastal Carolina,9,True,7,14,-7,loss,2390487,220,2351052,2023,1
+6,1,7,0,0,1,4,1,0,0,02/19/2023,neutral,16340,419,Middle Tenn.,9,True,14,9,5,win,2390897,220,2351052,2023,1
+4,0,4,0,0,0,0,0,0,0,02/24/2023,away,16340,249,George Washington,9,True,11,9,2,win,2391435,220,2351052,2023,1

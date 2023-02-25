@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2,1,0,0,0,0,0,0,02/18/2023,neutral,16340,111,UC Riverside,9,True,17,4,13,win,2390592,754,2112914,2023,1
 4,1,5,0,0,0,0,0,0,0,02/19/2023,neutral,16340,111,UC Riverside,9,True,8,6,2,win,2390888,754,2112914,2023,1
+3,0,3,0,0,0,0,0,0,0,02/24/2023,away,16340,626,San Diego St.,9,True,14,1,13,win,2391619,754,2112914,2023,1
+2,0,2,0,0,0,0,0,0,0,02/24/2023,neutral,16340,109,UC Irvine,9,True,3,8,-5,loss,2391397,754,2112914,2023,1

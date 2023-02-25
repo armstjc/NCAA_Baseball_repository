@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 7,0,7,0,0,0,0,0,0,0,02/17/2023,home,16340,392,Maryland,9,True,8,7,1,win,2390476,651,2478548,2023,1
-9,2,11,0,0,0,1,0,0,0,02/21/2023,home,16340,235,Florida,9,True,1,6,-5,loss,2391082,651,2478548,2023,1
+9,2,12,1,0,0,1,0,0,0,02/21/2023,home,16340,235,Florida,9,True,1,6,-5,loss,2391082,651,2478548,2023,1
+7,2,9,0,0,0,0,0,0,0,02/22/2023,away,16340,235,Florida,9,True,10,9,1,win,2391204,651,2478548,2023,1
+8,0,8,0,0,0,0,0,0,0,02/24/2023,away,16340,229,Fla. Atlantic,9,True,5,1,4,win,2391570,651,2478548,2023,1

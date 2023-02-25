@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,4,1,0,0,4,1,1,0,0,0,0,3,0,0,0,0,0,0,02/17/2023,neutral,16340,301,Illinois,9,True,6,9,-3,loss,2390333,817,2807613,2023,1
+0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,02/17/2023,away,16340,749,Wake Forest,9,True,3,9,-6,loss,2390405,817,2807613,2023,1
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/18/2023,neutral,16340,301,Illinois,10,True,5,10,-5,loss,2390625,817,2807613,2023,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/19/2023,away,16340,749,Wake Forest,9,True,3,18,-15,loss,2390893,817,2807613,2023,1

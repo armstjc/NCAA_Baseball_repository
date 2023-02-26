@@ -177,8 +177,6 @@ def add_divisions():
         except:
             print('Dataframe was ready for divisions to be added.')
 
-
-
         roster_df = pd.read_csv(f"TeamRosters/{i}_roster.csv")
         roster_df = roster_df.filter(items=['player_id','division'])
         roster_df = roster_df.dropna()
@@ -240,10 +238,10 @@ def add_divisions():
 
 def main():
     print('Starting up.')
-    #merge_rosters()
-    #merge_batting_stats()
-    #merge_pitching_stats()
-    #merge_fielding_stats()
+    merge_rosters()
+    merge_batting_stats()
+    merge_pitching_stats()
+    merge_fielding_stats()
     add_divisions()
 
 if __name__ == "__main__":

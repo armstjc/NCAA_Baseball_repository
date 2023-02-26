@@ -27,14 +27,20 @@ def generate_league_batting_stats():
     
     ## Runs Created (Technical version)
     finished_df['RC'] = ((finished_df['H'] + finished_df['BB'] - finished_df['CS'] + finished_df['HBP'] - finished_df['GDP']) * (finished_df['TB'] + (0.26 * (finished_df['BB'] - finished_df['IBB'] + finished_df['HBP']))) + (0.52 * (finished_df['SH'] + finished_df['SF'] + finished_df['SB']))) / (finished_df['AB'] + finished_df['BB'] + finished_df['HBP'] + finished_df['SH'] + finished_df['SF'])
-
+    finished_df['RC'] = finished_df['RC'].round(3)
 
     ## Plate Appearances
     finished_df['PA'] = finished_df['AB'] + finished_df['BB'] + finished_df['SF'] + finished_df['SH']
     
     ## Batting Average
     finished_df['BA'] = finished_df['H'] / finished_df['AB']
+    finished_df['BA'] = finished_df['BA'].round(3)
     
+    ## Secondary Average
+    finished_df['SecA'] = (finished_df['BB'] + (finished_df['TB'] - finished_df['H']) + (finished_df['SB'] - finished_df['CS'])) / finished_df['AB']
+    finished_df['SecA'] = finished_df['SecA'].round(3)
+
+
     ## On Base Percentage (OBP)
     finished_df['OBP'] = (finished_df['H'] + finished_df['BB'] + finished_df['HBP']) / finished_df['PA']
     finished_df['OBP'] = finished_df['OBP'].round(3)
@@ -57,12 +63,20 @@ def generate_league_batting_stats():
         
     ## eXtrapolated Runs 
     finished_df['XR'] = (finished_df['H'] * 0.5) + (finished_df['2B'] * 0.72) + (finished_df['3B'] * 1.04) + (finished_df['HR'] * 1.44) + (0.34 *(finished_df['HBP'] + finished_df['TB'] + finished_df['IBB'])) + (0.25 * finished_df['IBB']) + (0.18 * finished_df['SB']) + (-0.32 * finished_df['CS']) + (-0.09 * (finished_df['AB'] - finished_df['H'] - finished_df['K'])) + (-0.098 * finished_df['K']) + (-0.37 * finished_df['GDP']) + (0.37 * finished_df['SF']) + (0.04 * finished_df['SH'])
+    finished_df['XR'] = finished_df['XR'].round(3)
 
     ## eXtrapolated Runs Reduced
     finished_df['XRR'] = (0.5 * finished_df['H']) + (0.72 * finished_df['2B']) + (1.04 * finished_df['3B']) + (1.44 * finished_df['HR']) + (0.33 *(finished_df['HBP'] + finished_df['TB'])) + (0.18 * finished_df['SB']) + (-0.32 * finished_df['CS']) + (-0.098 * (finished_df['AB'] - finished_df['H']))
+    finished_df['XRR'] = finished_df['XRR'].round(3)
 
     ## eXtrapolated Runs Basic
     finished_df['XRB'] = (0.5 * finished_df['H']) + (0.72 * finished_df['2B']) + (1.04 * finished_df['3B']) + (1.44 * finished_df['HR']) + (0.34 *(finished_df['HBP'] + finished_df['TB'])) + (0.18 * finished_df['SB']) - (-0.32 * finished_df['CS']) + (-0.096 * (finished_df['AB'] - finished_df['H']))
+    finished_df['XRB'] = finished_df['XRB'].round(3)
+
+
+    ## Power-Speed Number
+    finished_df['PSN'] = (2 * finished_df['HR'] * finished_df['SB']) / (finished_df['HR'] + finished_df['SB'])
+    finished_df['PSN'] = finished_df['PSN'].round(1)
 
     ## Runs scored percentage
     finished_df['RS%'] = (finished_df['R'] - finished_df['HR']) / (finished_df['H'] + finished_df['HBP'] + finished_df['BB'] - finished_df['HR'])
@@ -166,6 +180,11 @@ def generate_league_pitching_stats():
 ##
 #####################################################################################################################################################################################################################
 
+def generate_park_factors():
+    """
+    """
+    
+
 #####################################################################################################################################################################################################################
 ## Season Player Stats
 ##
@@ -197,15 +216,23 @@ def generate_season_player_batting_stats(season:int):
 
         ## Batting Average
         main_df['BA'] = main_df['H'] / main_df['AB']
-
+        main_df['BA'] = main_df['BA'].round(3)
+        
+        ## Secondary Average
+        main_df['SecA'] = (main_df['BB'] + (main_df['TB'] - main_df['H']) + (main_df['SB'] - main_df['CS'])) / main_df['AB']
+        main_df['SecA'] = main_df['SecA'].round(3)
+                                            
         ## On Base Percentage (OBP)
         main_df['OBP'] = (main_df['H'] + main_df['BB'] + main_df['HBP']) / main_df['PA']
+        main_df['OBP'] = main_df['OBP'].round(3)
 
         ## Slugging Percentae
         main_df['SLG'] = (main_df['H'] + (main_df['2B'] * 2) + (main_df['3B'] * 3) + (main_df['HR'] * 4)) / main_df['AB']
+        main_df['SLG'] = main_df['SLG'].round(3)
 
         ## On-Base + Slugging Percentages
         main_df['OPS'] = main_df['OBP'] + main_df['SLG']
+        main_df['OPS'] = main_df['OPS'].round(3)
 
         ## OPS+
         main_df['OPS+'] = 100 * ((main_df['OPS']/lg_ops) + (main_df['SLG']/lg_slg) -1)
@@ -217,32 +244,46 @@ def generate_season_player_batting_stats(season:int):
 
         ## Batting Average on balls in play
         main_df['BAbip'] = (main_df['H'] - main_df['HR']) / (main_df['AB'] - main_df['K'] - main_df['HR'] + main_df['SF'])
+        main_df['BAbip'] = main_df['BAbip'].round(3)
 
         ## eXtrapolated Runs 
         main_df['XR'] = (main_df['H'] * 0.5) + (main_df['2B'] * 0.72) + (main_df['3B'] * 1.04) + (main_df['HR'] * 1.44) + (0.34 *(main_df['HBP'] + main_df['TB'] + main_df['IBB'])) + (0.25 * main_df['IBB']) + (0.18 * main_df['SB']) + (-0.32 * main_df['CS']) + (-0.09 * (main_df['AB'] - main_df['H'] - main_df['K'])) + (-0.098 * main_df['K']) + (-0.37 * main_df['GDP']) + (0.37 * main_df['SF']) + (0.04 * main_df['SH'])
-
+        main_df['XR'] = main_df['XR'].round(3)
+        
         ## eXtrapolated Runs Reduced
         main_df['XRR'] = (0.5 * main_df['H']) + (0.72 * main_df['2B']) + (1.04 * main_df['3B']) + (1.44 * main_df['HR']) + (0.33 *(main_df['HBP'] + main_df['TB'])) + (0.18 * main_df['SB']) + (-0.32 * main_df['CS']) + (-0.098 * (main_df['AB'] - main_df['H']))
+        main_df['XRR'] = main_df['XRR'].round(3)
 
         ## eXtrapolated Runs Basic
         main_df['XRB'] = (0.5 * main_df['H']) + (0.72 * main_df['2B']) + (1.04 * main_df['3B']) + (1.44 * main_df['HR']) + (0.34 *(main_df['HBP'] + main_df['TB'])) + (0.18 * main_df['SB']) - (-0.32 * main_df['CS']) + (-0.096 * (main_df['AB'] - main_df['H']))
+        main_df['XRB'] = main_df['XRB'].round(3)
 
+        ## Power-Speed Number
+        main_df['PSN'] = (2 * main_df['HR'] * main_df['SB']) / (main_df['HR'] + main_df['SB'])
+        main_df['PSN'] = main_df['PSN'].round(1)
 
         ## Runs scored percentage
         main_df['RS%'] = (main_df['R'] - main_df['HR']) / (main_df['H'] + main_df['HBP'] + main_df['BB'] - main_df['HR'])
+        main_df['RS%'] = main_df['RS%'].round(3)
 
         ## Home Run percentage
         main_df['HR%'] = main_df['HR'] / main_df['PA']
+        main_df['HR%'] = main_df['HR%'].round(3)
 
         ## Strikeout percentage
         main_df['K%'] = main_df['K'] / main_df['PA']
+        main_df['K%'] = main_df['K%'].round(3)
 
         ## Strikeout percentage
         main_df['BB%'] = main_df['BB'] / main_df['PA']
+        main_df['BB%'] = main_df['BB%'].round(3)
 
         ## Walks to strikeouts ratio
         main_df['K-BB%'] = main_df['K%'] - main_df['BB%']
+        main_df['K-BB%'] = main_df['K-BB%'].round(3)
+
         main_df['BB/K'] = main_df['BB'] / main_df['K']
+        main_df['BB/K'] = main_df['BB/K'].round(3)
 
         ## Convert infinates into Null values
         main_df = main_df.mask(np.isinf(main_df))
@@ -394,18 +435,26 @@ def generate_season_team_batting_stats(season:int):
 
         ## Plate Appearances
         main_df['PA'] = main_df['AB'] + main_df['BB'] + main_df['SF'] + main_df['SH']
-        
+
         ## Batting Average
         main_df['BA'] = main_df['H'] / main_df['AB']
-
+        main_df['BA'] = main_df['BA'].round(3)
+        
+        ## Secondary Average
+        main_df['SecA'] = (main_df['BB'] + (main_df['TB'] - main_df['H']) + (main_df['SB'] - main_df['CS'])) / main_df['AB']
+        main_df['SecA'] = main_df['SecA'].round(3)
+                                            
         ## On Base Percentage (OBP)
         main_df['OBP'] = (main_df['H'] + main_df['BB'] + main_df['HBP']) / main_df['PA']
+        main_df['OBP'] = main_df['OBP'].round(3)
 
         ## Slugging Percentae
         main_df['SLG'] = (main_df['H'] + (main_df['2B'] * 2) + (main_df['3B'] * 3) + (main_df['HR'] * 4)) / main_df['AB']
+        main_df['SLG'] = main_df['SLG'].round(3)
 
         ## On-Base + Slugging Percentages
         main_df['OPS'] = main_df['OBP'] + main_df['SLG']
+        main_df['OPS'] = main_df['OPS'].round(3)
 
         ## OPS+
         main_df['OPS+'] = 100 * ((main_df['OPS']/lg_ops) + (main_df['SLG']/lg_slg) -1)
@@ -417,33 +466,46 @@ def generate_season_team_batting_stats(season:int):
 
         ## Batting Average on balls in play
         main_df['BAbip'] = (main_df['H'] - main_df['HR']) / (main_df['AB'] - main_df['K'] - main_df['HR'] + main_df['SF'])
-        
+        main_df['BAbip'] = main_df['BAbip'].round(3)
+
         ## eXtrapolated Runs 
         main_df['XR'] = (main_df['H'] * 0.5) + (main_df['2B'] * 0.72) + (main_df['3B'] * 1.04) + (main_df['HR'] * 1.44) + (0.34 *(main_df['HBP'] + main_df['TB'] + main_df['IBB'])) + (0.25 * main_df['IBB']) + (0.18 * main_df['SB']) + (-0.32 * main_df['CS']) + (-0.09 * (main_df['AB'] - main_df['H'] - main_df['K'])) + (-0.098 * main_df['K']) + (-0.37 * main_df['GDP']) + (0.37 * main_df['SF']) + (0.04 * main_df['SH'])
-
+        main_df['XR'] = main_df['XR'].round(3)
+        
         ## eXtrapolated Runs Reduced
         main_df['XRR'] = (0.5 * main_df['H']) + (0.72 * main_df['2B']) + (1.04 * main_df['3B']) + (1.44 * main_df['HR']) + (0.33 *(main_df['HBP'] + main_df['TB'])) + (0.18 * main_df['SB']) + (-0.32 * main_df['CS']) + (-0.098 * (main_df['AB'] - main_df['H']))
+        main_df['XRR'] = main_df['XRR'].round(3)
 
         ## eXtrapolated Runs Basic
         main_df['XRB'] = (0.5 * main_df['H']) + (0.72 * main_df['2B']) + (1.04 * main_df['3B']) + (1.44 * main_df['HR']) + (0.34 *(main_df['HBP'] + main_df['TB'])) + (0.18 * main_df['SB']) - (-0.32 * main_df['CS']) + (-0.096 * (main_df['AB'] - main_df['H']))
+        main_df['XRB'] = main_df['XRB'].round(3)
 
-
+        ## Power-Speed Number
+        main_df['PSN'] = (2 * main_df['HR'] * main_df['SB']) / (main_df['HR'] + main_df['SB'])
+        main_df['PSN'] = main_df['PSN'].round(1)
 
         ## Runs scored percentage
         main_df['RS%'] = (main_df['R'] - main_df['HR']) / (main_df['H'] + main_df['HBP'] + main_df['BB'] - main_df['HR'])
+        main_df['RS%'] = main_df['RS%'].round(3)
 
         ## Home Run percentage
         main_df['HR%'] = main_df['HR'] / main_df['PA']
+        main_df['HR%'] = main_df['HR%'].round(3)
 
         ## Strikeout percentage
         main_df['K%'] = main_df['K'] / main_df['PA']
+        main_df['K%'] = main_df['K%'].round(3)
 
         ## Strikeout percentage
         main_df['BB%'] = main_df['BB'] / main_df['PA']
+        main_df['BB%'] = main_df['BB%'].round(3)
 
         ## Walks to strikeouts ratio
         main_df['K-BB%'] = main_df['K%'] - main_df['BB%']
+        main_df['K-BB%'] = main_df['K-BB%'].round(3)
+
         main_df['BB/K'] = main_df['BB'] / main_df['K']
+        main_df['BB/K'] = main_df['BB/K'].round(3)
 
         ## Convert infinates into Null values
         main_df = main_df.mask(np.isinf(main_df))
@@ -599,15 +661,23 @@ def generate_team_game_batting_stats(season:int):
 
         ## Batting Average
         main_df['BA'] = main_df['H'] / main_df['AB']
-
+        main_df['BA'] = main_df['BA'].round(3)
+        
+        ## Secondary Average
+        main_df['SecA'] = (main_df['BB'] + (main_df['TB'] - main_df['H']) + (main_df['SB'] - main_df['CS'])) / main_df['AB']
+        main_df['SecA'] = main_df['SecA'].round(3)
+                                            
         ## On Base Percentage (OBP)
         main_df['OBP'] = (main_df['H'] + main_df['BB'] + main_df['HBP']) / main_df['PA']
+        main_df['OBP'] = main_df['OBP'].round(3)
 
         ## Slugging Percentae
         main_df['SLG'] = (main_df['H'] + (main_df['2B'] * 2) + (main_df['3B'] * 3) + (main_df['HR'] * 4)) / main_df['AB']
+        main_df['SLG'] = main_df['SLG'].round(3)
 
         ## On-Base + Slugging Percentages
         main_df['OPS'] = main_df['OBP'] + main_df['SLG']
+        main_df['OPS'] = main_df['OPS'].round(3)
 
         ## OPS+
         main_df['OPS+'] = 100 * ((main_df['OPS']/lg_ops) + (main_df['SLG']/lg_slg) -1)
@@ -619,32 +689,46 @@ def generate_team_game_batting_stats(season:int):
 
         ## Batting Average on balls in play
         main_df['BAbip'] = (main_df['H'] - main_df['HR']) / (main_df['AB'] - main_df['K'] - main_df['HR'] + main_df['SF'])
+        main_df['BAbip'] = main_df['BAbip'].round(3)
 
         ## eXtrapolated Runs 
         main_df['XR'] = (main_df['H'] * 0.5) + (main_df['2B'] * 0.72) + (main_df['3B'] * 1.04) + (main_df['HR'] * 1.44) + (0.34 *(main_df['HBP'] + main_df['TB'] + main_df['IBB'])) + (0.25 * main_df['IBB']) + (0.18 * main_df['SB']) + (-0.32 * main_df['CS']) + (-0.09 * (main_df['AB'] - main_df['H'] - main_df['K'])) + (-0.098 * main_df['K']) + (-0.37 * main_df['GDP']) + (0.37 * main_df['SF']) + (0.04 * main_df['SH'])
-
+        main_df['XR'] = main_df['XR'].round(3)
+        
         ## eXtrapolated Runs Reduced
         main_df['XRR'] = (0.5 * main_df['H']) + (0.72 * main_df['2B']) + (1.04 * main_df['3B']) + (1.44 * main_df['HR']) + (0.33 *(main_df['HBP'] + main_df['TB'])) + (0.18 * main_df['SB']) + (-0.32 * main_df['CS']) + (-0.098 * (main_df['AB'] - main_df['H']))
+        main_df['XRR'] = main_df['XRR'].round(3)
 
         ## eXtrapolated Runs Basic
         main_df['XRB'] = (0.5 * main_df['H']) + (0.72 * main_df['2B']) + (1.04 * main_df['3B']) + (1.44 * main_df['HR']) + (0.34 *(main_df['HBP'] + main_df['TB'])) + (0.18 * main_df['SB']) - (-0.32 * main_df['CS']) + (-0.096 * (main_df['AB'] - main_df['H']))
+        main_df['XRB'] = main_df['XRB'].round(3)
 
+        ## Power-Speed Number
+        main_df['PSN'] = (2 * main_df['HR'] * main_df['SB']) / (main_df['HR'] + main_df['SB'])
+        main_df['PSN'] = main_df['PSN'].round(1)
 
         ## Runs scored percentage
         main_df['RS%'] = (main_df['R'] - main_df['HR']) / (main_df['H'] + main_df['HBP'] + main_df['BB'] - main_df['HR'])
+        main_df['RS%'] = main_df['RS%'].round(3)
 
         ## Home Run percentage
         main_df['HR%'] = main_df['HR'] / main_df['PA']
+        main_df['HR%'] = main_df['HR%'].round(3)
 
         ## Strikeout percentage
         main_df['K%'] = main_df['K'] / main_df['PA']
+        main_df['K%'] = main_df['K%'].round(3)
 
         ## Strikeout percentage
         main_df['BB%'] = main_df['BB'] / main_df['PA']
+        main_df['BB%'] = main_df['BB%'].round(3)
 
         ## Walks to strikeouts ratio
         main_df['K-BB%'] = main_df['K%'] - main_df['BB%']
+        main_df['K-BB%'] = main_df['K-BB%'].round(3)
+
         main_df['BB/K'] = main_df['BB'] / main_df['K']
+        main_df['BB/K'] = main_df['BB/K'].round(3)
 
         ## Convert infinates into Null values
         #main_df = main_df.mask(np.isinf(main_df))

@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Andolsek, Zach","So",NA,2023,"5","P",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Barker, Tyler","Fr",NA,2023,"38","UT",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
-"Bartletti, Louie","So",NA,2023,"22","OF",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
+"Bartletti, Louie","So","2814588",2023,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=297&stats_player_seq=2814588",297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Bell , Bryce","Fr",NA,2023,"45","C",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Borntreger, Brady","So",NA,2023,"30","P",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Chamness, Tyler","Fr",NA,2023,"51","INF",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
@@ -30,7 +30,7 @@
 "McLeod-Demers, Colin","Fr",NA,2023,"53","P",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Montoya, Mathew","Fr",NA,2023,"32","OF",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Mullins, Travis","Jr",NA,2023,"47","P",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
-"Odom, Jonthan","Fr",NA,2023,"31","OF",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
+"Odom, Jonthan","Fr","2814595",2023,"31","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=297&stats_player_seq=2814595",297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Phillis, Peyton","Sr","2483168",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=297&stats_player_seq=2483168",297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Reller, Ian","Fr",NA,2023,"52","INF",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Renfrow, Quentin","So","2663968",2023,"14","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=297&stats_player_seq=2663968",297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
@@ -38,12 +38,12 @@
 "Schweigert, Logan","Jr","2483159",2023,"2","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=297&stats_player_seq=2483159",297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Scrum, Josh","Fr",NA,2023,"16","UT",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Shaw, Branson","So","2663933",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=297&stats_player_seq=2663933",297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
-"Smith, Jacob","So",NA,2023,"21","P",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Smith, Brandon","So",NA,2023,"43","OF",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
-"Smith, Walker","So",NA,2023,"13","UT",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
+"Smith, Jacob","So","2814578",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=297&stats_player_seq=2814578",297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
+"Smith, Walker","So","2814572",2023,"13","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=297&stats_player_seq=2814572",297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Stout, Jesse","Fr",NA,2023,"27","INF",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Tate, Jon","So","2663925",2023,"15","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=297&stats_player_seq=2663925",297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Uselton, Caleb","Sr","2302332",2023,"23","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=297&stats_player_seq=2302332",297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Weaver, Brayden","Jr",NA,2023,"3","INF",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
-"Wickman, Tory","Jr",NA,2023,"10","UT",NA,297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
+"Wickman, Tory","Jr","2814558",2023,"10","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=297&stats_player_seq=2814558",297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340
 "Wieneke, Andrew","So","2663930",2023,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=297&stats_player_seq=2663930",297,"Illinois Col.","/team/297/16340",23119,"MWC",3,16340

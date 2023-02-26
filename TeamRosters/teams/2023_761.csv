@@ -1,6 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Bonczkowski, Gavin","So","2664116",2023,"47","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2664116",761,"Wells","/team/761/16340",30071,"United East",3,16340
-"Camacho, James","Fr",NA,2023,"11","C",NA,761,"Wells","/team/761/16340",30071,"United East",3,16340
+"Camacho, James","Fr","2829758",2023,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2829758",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Carr-Mathews, Connor","Sr","2664110",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2664110",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Colindres, Justin","Jr","2505579",2023,"21","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2505579",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Compres, Alan","Fr","2829778",2023,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2829778",761,"Wells","/team/761/16340",30071,"United East",3,16340
@@ -11,7 +11,7 @@
 "Horne, Joe","Sr","2357981",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2357981",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Izquierdo, Aaron","Jr","2505580",2023,"27","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2505580",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "James, Jacobi","Fr","2829787",2023,"44","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2829787",761,"Wells","/team/761/16340",30071,"United East",3,16340
-"Johnson, Zander","Fr",NA,2023,"24","P",NA,761,"Wells","/team/761/16340",30071,"United East",3,16340
+"Johnson, Zander","Fr","2829781",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2829781",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Jordan, Austin","Sr","2357983",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2357983",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Ketchum, Kyle","Fr",NA,2023,"41","OF",NA,761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Legaretta, Zac","Jr","2664091",2023,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2664091",761,"Wells","/team/761/16340",30071,"United East",3,16340
@@ -23,16 +23,16 @@
 "Miller, Timmy","Fr",NA,2023,"39","P",NA,761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Mills, Bradley","So","2664092",2023,"7","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2664092",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Nascimento, Mike","Fr","2829804",2023,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2829804",761,"Wells","/team/761/16340",30071,"United East",3,16340
-"Odum, Zack","Jr","2505563",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2505563",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Odum, Max","Jr","2505562",2023,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2505562",761,"Wells","/team/761/16340",30071,"United East",3,16340
+"Odum, Zack","Jr","2505563",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2505563",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Oullette, Jacob","So","2664113",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2664113",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Pascarella Jr, Johnny","Fr",NA,2023,"99","P",NA,761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Perry, Bradley","So","2664111",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2664111",761,"Wells","/team/761/16340",30071,"United East",3,16340
-"Phillips, Lance","Fr",NA,2023,"40","C",NA,761,"Wells","/team/761/16340",30071,"United East",3,16340
+"Phillips, Lance","Fr","2829784",2023,"40","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2829784",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Scanlon, Nick","Jr","2664101",2023,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2664101",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Sebastian, Chase","Sr","2357976",2023,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2357976",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Smith, Mason","Fr","2829776",2023,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2829776",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Valinoti, John","So","2664109",2023,"18","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2664109",761,"Wells","/team/761/16340",30071,"United East",3,16340
-"Wiser, Ryan","Fr",NA,2023,"20","P",NA,761,"Wells","/team/761/16340",30071,"United East",3,16340
+"Wiser, Ryan","Fr","2829782",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2829782",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Young, Zach","Fr","2829775",2023,"5","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=761&stats_player_seq=2829775",761,"Wells","/team/761/16340",30071,"United East",3,16340
 "Zimmerman, Ethan","Fr",NA,2023,"45","OF",NA,761,"Wells","/team/761/16340",30071,"United East",3,16340

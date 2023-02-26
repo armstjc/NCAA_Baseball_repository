@@ -1,12 +1,12 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Abdullah, Simon","Fr",NA,2023,"22","OF",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
+"Abdullah, Simon","Fr","2816085",2023,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2816085",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Ahrens, Sean","Fr",NA,2023,"15","UT",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Baccellieri, Benjamin","Fr",NA,2023,"56","INF",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Baney, Brendan","Jr","2508907",2023,"34","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2508907",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
-"Boccio, Joseph","Fr",NA,2023,"29","INF",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
+"Boccio, Joseph","Fr","2816087",2023,"29","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2816087",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Bon Tempo, Nick","Jr","2513618",2023,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2513618",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Booker, Nadell","Jr","2508919",2023,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2508919",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
-"Bruno, Anthony","So",NA,2023,"17","OF",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
+"Bruno, Anthony","So","2816084",2023,"17","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2816084",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Bukowski, Mike","So","2656202",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2656202",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Ciccone, Alex","Fr",NA,2023,"47","P",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Conroy, Will","Fr","2486948",2023,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2486948",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
@@ -25,7 +25,7 @@
 "Hamrick, Gregory","Fr","2508910",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2508910",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Hanna, Ryan","So","2673522",2023,"38","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2673522",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Isaac, Darius","Fr",NA,2023,"59","UT",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
-"Kincs, Gavin","Fr",NA,2023,"34","P",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
+"Kincs, Gavin","Fr","2815996",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2815996",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Kumar, Joseph","Jr","2508901",2023,"26","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2508901",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Laraia, Trevor","Jr","2508904",2023,"14","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2508904",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Leighton, Cam","Fr",NA,2023,"54","UT",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
@@ -38,24 +38,23 @@
 "Murphy, Griffin","So","2673490",2023,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2673490",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Nebel, Cameron","So","2662813",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2662813",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Obarowski, Trey","Sr","2305918",2023,"15","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2305918",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
-"Oswalt, Aaron","Jr","2508913",2023,"20","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2508913",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Pace, Jason","Fr",NA,2023,"43","P",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Pallante, Emilio","Jr","2508902",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2508902",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
-"Park, Christian","Fr",NA,2023,"32","UT",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
+"Park, Christian","Fr","2816089",2023,"32","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2816089",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Pecorilli, Drew","Jr","2508908",2023,"7","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2508908",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Petty, Logan","Jr",NA,2023,"31","UT",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
-"Pope, Dylan","Fr",NA,2023,"48","INF",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
+"Pope, Dylan","Fr","2816095",2023,"48","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2816095",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Sheirer, Jacob","Fr",NA,2023,"60","INF",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Sibley, Hunter","Sr","2122976",2023,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2122976",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Smolen, Ryan","Sr","2305868",2023,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2305868",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Sot, Matthew","Jr","2508900",2023,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2508900",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Staivecki, Koby","Sr","2508923",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2508923",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Steiger, Zach","Sr","2305952",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2305952",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
-"Stennett, Noah","Fr",NA,2023,"6","OF",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
-"Strauch, Thomas","Fr",NA,2023,"24","UT",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
+"Stennett, Noah","Fr","2816082",2023,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2816082",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
+"Strauch, Thomas","Fr","2816086",2023,"24","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2816086",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Torreto, Matt","Fr",NA,2023,"49","OF",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Trendafilov, Peter","Fr",NA,2023,"53","UT",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Versaci, Vinny","So","2673512",2023,"23","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2673512",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Weitzel, Hunter","Fr",NA,2023,"61","UT",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
-"Wheeler, Kevin","Fr",NA,2023,"10","OF",NA,966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
+"Wheeler, Kevin","Fr","2815995",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2815995",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340
 "Whitney, Mitch","Jr","2508917",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=966&stats_player_seq=2508917",966,"Arcadia","/team/966/16340",28745,"MAC Freedom",3,16340

@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Bangs, Stephen","So","2683578",2023,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=241&stats_player_seq=2683578",241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340
-"Battipaglia, Eli","Jr","2353427",2023,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=241&stats_player_seq=2353427",241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340
 "Battipaglia, Ian","Jr","2353443",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=241&stats_player_seq=2353443",241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340
+"Battipaglia, Eli","Jr","2353427",2023,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=241&stats_player_seq=2353427",241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340
 "Dadinos, Adam","So","2683580",2023,"34","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=241&stats_player_seq=2683580",241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340
 "Draughn, James","Jr","2518747",2023,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=241&stats_player_seq=2518747",241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340
 "Foody, Sean","Jr","2518781",2023,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=241&stats_player_seq=2518781",241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340
@@ -11,6 +11,7 @@
 "Kirby, Preston","So",NA,2023,"16","P",NA,241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340
 "Lara, Joel","Sr","2144421",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=241&stats_player_seq=2144421",241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340
 "Miller, Jake","Sr","2144443",2023,"13","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=241&stats_player_seq=2144443",241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340
+"Monks, J.","N/A","2832141",2023,"22","3b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=241&stats_player_seq=2832141",241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340
 "Mueller, Ryan","Sr","2116570",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=241&stats_player_seq=2116570",241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340
 "Paquette, Hunter","Jr","2683581",2023,"35","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=241&stats_player_seq=2683581",241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340
 "Pesce, Joseph","Sr","1975218",2023,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=241&stats_player_seq=1975218",241,"Franklin Pierce","/team/241/16340",899,"NE10",2,16340

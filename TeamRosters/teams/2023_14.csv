@@ -1,6 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Alvarez, Danny","Sr","1978232",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=1978232",14,"UAlbany","/team/14/16340",845,"America East",1,16340
-"Banner, Dylan","Fr",NA,2023,"18","P",NA,14,"UAlbany","/team/14/16340",845,"America East",1,16340
+"Banner, Dylan","Fr","2806675",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2806675",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Binder, Will","Jr","2499194",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2499194",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Birkman, Owen","Jr","2522837",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2522837",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Borrello, Gavin","Fr",NA,2023,"19","C",NA,14,"UAlbany","/team/14/16340",845,"America East",1,16340
@@ -13,13 +13,13 @@
 "Filippi, Luke","Fr",NA,2023,"12","INF",NA,14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Fisher, Chris","Jr","2304128",2023,"13","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2304128",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Fuer, Cam","Fr",NA,2023,"35","P",NA,14,"UAlbany","/team/14/16340",845,"America East",1,16340
-"Hurd, Justin","Fr",NA,2023,"20","INF",NA,14,"UAlbany","/team/14/16340",845,"America East",1,16340
+"Hurd, Justin","Fr","2806678",2023,"20","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2806678",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Jessen, Nicholas","So","2664216",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2664216",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Kruzinski, Devan","Sr","2113519",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2113519",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Maggio, Michael","Fr",NA,2023,"29","OF",NA,14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Manetta, Rob","Jr","2507583",2023,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2507583",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Mariano, Matthew","Fr",NA,2023,"34","P",NA,14,"UAlbany","/team/14/16340",845,"America East",1,16340
-"Mazzara, Victor","Fr",NA,2023,"32","INF",NA,14,"UAlbany","/team/14/16340",845,"America East",1,16340
+"Mazzara, Victor","Fr","2806654",2023,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2806654",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "McCaffrey, Kyle","So","2664191",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2664191",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "O'Connor, Chris","So","2522838",2023,"28","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2522838",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Pittz, Ryan","Fr",NA,2023,"30","P",NA,14,"UAlbany","/team/14/16340",845,"America East",1,16340
@@ -29,7 +29,7 @@
 "Salandy, Josh","Jr","2304102",2023,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2304102",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Santabarbara, Ty","Fr",NA,2023,"2","P",NA,14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Scherrer, Cregg","Jr","2304091",2023,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2304091",14,"UAlbany","/team/14/16340",845,"America East",1,16340
-"Silliman, Owen","Fr",NA,2023,"11","OF",NA,14,"UAlbany","/team/14/16340",845,"America East",1,16340
-"Tauken, Dan","Jr",NA,2023,"37","OF",NA,14,"UAlbany","/team/14/16340",845,"America East",1,16340
+"Silliman, Owen","Fr","2806637",2023,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2806637",14,"UAlbany","/team/14/16340",845,"America East",1,16340
+"Tauken, Dan","Jr","2806706",2023,"37","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2806706",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Tobia, Joseph","So","2664193",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2664193",14,"UAlbany","/team/14/16340",845,"America East",1,16340
 "Turk, Steven","Jr","2508412",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=14&stats_player_seq=2508412",14,"UAlbany","/team/14/16340",845,"America East",1,16340

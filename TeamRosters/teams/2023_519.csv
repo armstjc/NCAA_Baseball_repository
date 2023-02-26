@@ -1,6 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Adams, Billy","Fr","2805749",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=519&stats_player_seq=2805749",519,"Ohio","/team/519/16340",875,"MAC",1,16340
-"Antle, Gideon","Jr",NA,2023,"18","OF",NA,519,"Ohio","/team/519/16340",875,"MAC",1,16340
+"Antle, Gideon","Jr","2805693",2023,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=519&stats_player_seq=2805693",519,"Ohio","/team/519/16340",875,"MAC",1,16340
 "Beery, Adam","So","2678147",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=519&stats_player_seq=2678147",519,"Ohio","/team/519/16340",875,"MAC",1,16340
 "Boncal, Hudson","So","2678148",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=519&stats_player_seq=2678148",519,"Ohio","/team/519/16340",875,"MAC",1,16340
 "Borer, Luke","So","2678156",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=519&stats_player_seq=2678156",519,"Ohio","/team/519/16340",875,"MAC",1,16340
@@ -10,7 +10,7 @@
 "Finney, Alex","Sr","2348205",2023,"15","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=519&stats_player_seq=2348205",519,"Ohio","/team/519/16340",875,"MAC",1,16340
 "Hamilton, Ben","Jr",NA,2023,"41","OF",NA,519,"Ohio","/team/519/16340",875,"MAC",1,16340
 "Hemmen, Mitchell","Jr","2805695",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=519&stats_player_seq=2805695",519,"Ohio","/team/519/16340",875,"MAC",1,16340
-"Jerger, Jayden","Fr",NA,2023,"42","P",NA,519,"Ohio","/team/519/16340",875,"MAC",1,16340
+"Jerger, Jayden","Fr","2805758",2023,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=519&stats_player_seq=2805758",519,"Ohio","/team/519/16340",875,"MAC",1,16340
 "Johnson, Harrison","So","2490673",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=519&stats_player_seq=2490673",519,"Ohio","/team/519/16340",875,"MAC",1,16340
 "Kasperbauer, Colin","Sr","2490655",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=519&stats_player_seq=2490655",519,"Ohio","/team/519/16340",875,"MAC",1,16340
 "Kelly, Braxton","Sr","2133241",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=519&stats_player_seq=2133241",519,"Ohio","/team/519/16340",875,"MAC",1,16340

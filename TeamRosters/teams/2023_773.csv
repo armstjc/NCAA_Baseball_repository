@@ -1,19 +1,19 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Bailey, Brady","So",NA,2023,"36","P",NA,773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Brown, Kyle","So","2679248",2023,"18","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2679248",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
-"Calhoun, T.","N/A","2828914",2023,"47","lf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2828914",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
+"Calhoun, Todd","Fr","2828914",2023,"47","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2828914",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Carl, Kyle","Fr","2817875",2023,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2817875",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
-"Crosgrove, James","Fr",NA,2023,"9","P",NA,773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
+"Crosgrove, James","Fr","2817867",2023,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2817867",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Daly, Shane","So","2679188",2023,"33","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2679188",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Darke, Hunter","So","2679234",2023,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2679234",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Davis, Ben","Fr","2817869",2023,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2817869",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "DeFilippo, Santino","Jr","2511662",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2511662",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Gibbons, Ryan","Sr","2334254",2023,"32","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2334254",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Goudeaux, Austin","Sr","2334239",2023,"5","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2334239",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
-"Goyne, B.","N/A","2829125",2023,"50","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2829125",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
+"Goyne, Brady","Fr","2829125",2023,"50","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2829125",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Henderson, Conor","So","2679296",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2679296",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Hubinger, Joey","Sr","2334196",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2334196",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
-"Kelly, Luke","Jr",NA,2023,"26","INF",NA,773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
+"Kelly, Luke","Jr","2679259",2023,"26","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2679259",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Kelly, Ryan","So","2679245",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2679245",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Kelly, Hunter","Sr","2334176",2023,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2334176",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Mangum , Remy","Fr",NA,2023,"21","P",NA,773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
@@ -25,8 +25,10 @@
 "Romano, Harry","Jr","2516148",2023,"39","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2516148",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Smith, Jake","Jr","2511667",2023,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2511667",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Speakman, Matt","So","2679264",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2679264",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
+"Trebour, P.","Fr","2832074",2023,"55","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2832074",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Uhrig, Connor","Sr","2141565",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2141565",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Van Brunt, Matt","So",NA,2023,"24","P",NA,773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
+"Velis, Nick","Fr","2679276",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2679276",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Vener, Max","So","2679272",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2679272",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Ward, Connor","So","2679273",2023,"35","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2679273",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340
 "Weer, Robert","Fr","2817872",2023,"23","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=773&stats_player_seq=2817872",773,"McDaniel","/team/773/16340",9683,"Centennial",3,16340

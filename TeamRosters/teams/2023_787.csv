@@ -1,12 +1,12 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Alberti, Chris","Jr","2507024",2023,"16","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2507024",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Backo, David","Sr","2336226",2023,"11","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2336226",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
-"Cabassa, Noah","Jr",NA,2023,"23","C",NA,787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
+"Cabassa, Noah","Jr","2823364",2023,"23","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2823364",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Carter, Dan","Sr","1997856",2023,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=1997856",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Castaneda, Dan","Sr","2672409",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2672409",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
-"Damato, Mike","Fr",NA,2023,"41","P",NA,787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
-"DiGirolamo, Matthew","Fr",NA,2023,"31","OF",NA,787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
+"Damato, Mike","Fr","2823376",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2823376",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "DiGirolamo, Steven","Sr","1997855",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=1997855",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
+"DiGirolamo, Matthew","Fr",NA,2023,"31","OF",NA,787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Fallers, Jake","So","2672419",2023,"3","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2672419",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Germanson, Eliot","So","2672418",2023,"34","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2672418",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Hay, Christian","So","2690899",2023,"18","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2690899",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
@@ -19,7 +19,7 @@
 "McAllister, Sean","Fr",NA,2023,"4","2B",NA,787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Metzger, Ian","Jr","2336237",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2336237",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Nielson, Nick","Jr","2488806",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2488806",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
-"Novak, Mike","Fr",NA,2023,"19","OF",NA,787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
+"Novak, Mike","Fr","2823361",2023,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2823361",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Pantoliano, Pat","So","2672408",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2672408",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Pino, Ruven","So","2672412",2023,"27","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2672412",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Pitt, Will","Fr","2823351",2023,"14","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2823351",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
@@ -27,9 +27,9 @@
 "Radigan, Tom","So","2672414",2023,"29","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2672414",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Rivas, Darmany","Sr","2336227",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2336227",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Ruban, Tyler","So","2823338",2023,"15","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2823338",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
-"Santos, Dylan","Fr",NA,2023,"6","2B",NA,787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
+"Santos, Dylan","Fr","2823325",2023,"6","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2823325",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Telidevara, Neel","So","2672411",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2672411",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
-"Weis, Riley","Sr","2336235",2023,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2336235",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Weis, Carson","Sr","1997839",2023,"45","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=1997839",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
+"Weis, Riley","Sr","2336235",2023,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2336235",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Yelin, Steve","Sr","1991034",2023,"30","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=1991034",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340
 "Zern, Jude","So","2655620",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=787&stats_player_seq=2655620",787,"Wm. Paterson","/team/787/16340",891,"NJAC",3,16340

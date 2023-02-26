@@ -1,5 +1,5 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Bauer, Luke","Fr",NA,2023,"22","OF",NA,251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
+"Bauer, Luke","Fr","2825791",2023,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2825791",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Bergeron, Andrew","Jr","2509329",2023,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2509329",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Bloss, Jake","Sr","2310651",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2310651",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Bowker, Cody","Fr","2825803",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2825803",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
@@ -11,7 +11,7 @@
 "Cousins, Carter","Sr","2344083",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2344083",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "D'Acunto, Angelo","Sr","2132487",2023,"27","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2132487",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Dapkewicz, Adam","Sr","2344084",2023,"19","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2344084",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
-"Depman, Brian","So",NA,2023,"35","INF",NA,251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
+"Depman, Brian","So","2825793",2023,"35","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2825793",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Eze, Michael","Jr","2509323",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2509323",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Fenton, Alexander","Sr","2137603",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2137603",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Ficca, Christian","Jr","2509325",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2509325",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
@@ -20,9 +20,9 @@
 "Guarino, Cam","Sr","1995079",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=1995079",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Head, Ayden","Sr","2351938",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2351938",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Hyde, Jake","Jr","2509324",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2509324",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
-"Illtch, Travis","Fr",NA,2023,"16","OF",NA,251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
+"Illtch, Travis","Fr","2825805",2023,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2825805",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Jensen, Cody","Sr","2133720",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2133720",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
-"Jergins, Andrew","Fr",NA,2023,"31","P",NA,251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
+"Jergins, Andrew","Fr","2825777",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2825777",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Kahn, Jordan","Fr","2825792",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2825792",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Keough, Garret","Sr","1997182",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=1997182",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Kretzschmar, Austin","Sr","2133715",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2133715",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
@@ -33,8 +33,8 @@
 "Salley, Kyle","Sr","2122097",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2122097",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Sapienza, Matthew","So","2678335",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2678335",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Savoy Jr., Keith","So","2678279",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2678279",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
-"Sheffield, Jeremy","Fr",NA,2023,"36","INF",NA,251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Sheffield, Jaden","So","2678334",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2678334",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
+"Sheffield, Jeremy","Fr",NA,2023,"36","INF",NA,251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Walker, Zaid","Sr","2120540",2023,"42","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2120540",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Whitmer, Marshall","So","2678333",2023,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2678333",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340
 "Williams, Andrew","So","2678336",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=251&stats_player_seq=2678336",251,"Georgetown","/team/251/16340",30184,"Big East",1,16340

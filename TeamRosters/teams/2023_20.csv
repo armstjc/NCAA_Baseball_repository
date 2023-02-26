@@ -1,6 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Allison, Carson","Fr",NA,2023,"37","OF",NA,20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
-"Anderosky, JT","Fr",NA,2023,"8","OF",NA,20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
+"Allison, Carson","Fr","2822292",2023,"37","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=20&stats_player_seq=2822292",20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
+"Anderosky, JT","Fr","2822272",2023,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=20&stats_player_seq=2822272",20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
 "Anhalt, Shane","Fr",NA,2023,"32","1B",NA,20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
 "Berg III, Tom","Sr","2329183",2023,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=20&stats_player_seq=2329183",20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
 "Chase, Alex","So","2669837",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=20&stats_player_seq=2669837",20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
@@ -17,7 +17,7 @@
 "Malone, Ian","So","2669842",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=20&stats_player_seq=2669842",20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
 "Manley, Will","Sr","2140417",2023,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=20&stats_player_seq=2140417",20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
 "McCunney, Colin","Jr","2509592",2023,"26","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=20&stats_player_seq=2509592",20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
-"McGowan, Andrew","Fr",NA,2023,"21","INF",NA,20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
+"McGowan, Andrew","Fr","2822287",2023,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=20&stats_player_seq=2822287",20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
 "Millets, Nicholas","Sr","2329134",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=20&stats_player_seq=2329134",20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
 "Parrotti, Frank","So","2669808",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=20&stats_player_seq=2669808",20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
 "Paul, JJ","Sr","2140425",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=20&stats_player_seq=2140425",20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
@@ -33,4 +33,4 @@
 "Vaccaro, Joey","Fr",NA,2023,"31","INF",NA,20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
 "Whitaker, Ryan","Jr",NA,2023,"28","P",NA,20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
 "Zavorski, Gavin","Jr","2509590",2023,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=20&stats_player_seq=2509590",20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
-"Zuchowski, Zach","Jr",NA,2023,"13","OF",NA,20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340
+"Zuchowski, Zach","Jr","2822274",2023,"13","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=20&stats_player_seq=2822274",20,"DeSales","/team/20/16340",28745,"MAC Freedom",3,16340

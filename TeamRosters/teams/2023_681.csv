@@ -1,17 +1,17 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Antonucci, Michael","Fr",NA,2023,"12","OF",NA,681,"Stockton","/team/681/16340",891,"NJAC",3,16340
-"Avagnano, Nick","Fr",NA,2023,"56","INF",NA,681,"Stockton","/team/681/16340",891,"NJAC",3,16340
+"Antonucci, Michael","Fr","2815918",2023,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2815918",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
+"Avagnano, Nick","Fr","2816024",2023,"56","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2816024",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Beard, Austin","So","2680226",2023,"23","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2680226",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Bellezza, Frank","Sr","2352591",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2352591",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Cipolla, Kyle","So","2680251",2023,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2680251",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Costanzo, Mike","Sr","2352592",2023,"2","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2352592",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
-"DeMilio, Steven","Fr",NA,2023,"32","P",NA,681,"Stockton","/team/681/16340",891,"NJAC",3,16340
+"DeMilio, Steven","Fr","2816007",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2816007",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Elder, Tucker","So","2680263",2023,"44","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2680263",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Fabrizzi, Luke","Sr","2521773",2023,"22","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2521773",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Fazekas, Preston","Fr",NA,2023,"36","P",NA,681,"Stockton","/team/681/16340",891,"NJAC",3,16340
-"Fiore, Cooper","Fr",NA,2023,"33","C",NA,681,"Stockton","/team/681/16340",891,"NJAC",3,16340
+"Fiore, Cooper","Fr","2674204",2023,"33","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2674204",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Ford, Robbie","So","2680255",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2680255",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
-"Fredericks, CJ","Fr",NA,2023,"35","1B",NA,681,"Stockton","/team/681/16340",891,"NJAC",3,16340
+"Fredericks, CJ","Fr","2816014",2023,"35","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2816014",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Gatti, Antonio","Fr","2680225",2023,"21","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2680225",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Gonzalez, Chris","So","2680259",2023,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2680259",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Jeans, Robert","So",NA,2023,"7","P",NA,681,"Stockton","/team/681/16340",891,"NJAC",3,16340
@@ -23,13 +23,13 @@
 "Malave, Gavin","So","2669484",2023,"15","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2669484",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Mastrogiovanni, Tim","So",NA,2023,"19","C",NA,681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "McCabe, Zach","Fr",NA,2023,"25","P",NA,681,"Stockton","/team/681/16340",891,"NJAC",3,16340
-"Miller, Reece","So",NA,2023,"24","P",NA,681,"Stockton","/team/681/16340",891,"NJAC",3,16340
+"Miller, Reece","So","2815977",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2815977",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Molfino, Anthony","Fr",NA,2023,"20","C",NA,681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Nitti, Jordan","So","2680249",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2680249",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
-"Novobilsky, Kevin","Fr",NA,2023,"6","INF",NA,681,"Stockton","/team/681/16340",891,"NJAC",3,16340
+"Novobilsky, Kevin","Fr","2815954",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2815954",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Ruka, Jeremy","Sr","2352589",2023,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2352589",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Sakele, Dylan","So","2680224",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2680224",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
-"Sansone, Antonio","Fr",NA,2023,"14","P",NA,681,"Stockton","/team/681/16340",891,"NJAC",3,16340
+"Sansone, Antonio","Fr","2815962",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2815962",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Santa Maria, Phil","Sr","2680265",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2680265",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Schiattarella, Mike","Sr","2352815",2023,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2352815",681,"Stockton","/team/681/16340",891,"NJAC",3,16340
 "Sciarrotta, Giovanni","So","2680223",2023,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=681&stats_player_seq=2680223",681,"Stockton","/team/681/16340",891,"NJAC",3,16340

@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Antonio III, John","Fr",NA,2023,"3","INF",NA,753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
+"Antonio III, John","Fr","2809642",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2809642",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Avellino, Kyle","So","2656228",2023,"2","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2656228",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
-"Bawden, Vincent","Jr",NA,2023,"35","P",NA,753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
+"Bawden, Vincent","Jr","2809833",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2809833",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Corda, Matt","Fr","2809631",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2809631",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Everitt, Ty","Fr","2809625",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2809625",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Fiore, RJ","Fr",NA,2023,"10","OF",NA,753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
@@ -11,7 +11,7 @@
 "Hirsh, Reese","Fr","2809649",2023,"16","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2809649",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Iseman, Noah","So","2663514",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2663514",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Kinsey, Drew","Fr","2809646",2023,"9","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2809646",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
-"Lackman, Noah","Fr",NA,2023,"34","INF",NA,753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
+"Lackman, Noah","Fr","2809658",2023,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2809658",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Lerario, Andrew","Sr","2307059",2023,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2307059",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Martin, Alex","So","2656203",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2656203",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "McGee, Cole","Jr","2488236",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2488236",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
@@ -21,7 +21,7 @@
 "Nesson, Jay","Sr","2307055",2023,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2307055",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Oneto, Stephen","Fr",NA,2023,"20","P",NA,753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Peacock, Thomas","Jr","2488238",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2488238",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
-"Philiposian, Elias","Fr",NA,2023,"27","INF",NA,753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
+"Philiposian, Elias","Fr","2809632",2023,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2809632",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Risnychok, Erik","So","2656214",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2656214",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Ruppel, Chase","Fr","2809645",2023,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2809645",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "SanFilippo, Scooter","So","2467857",2023,"33","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2467857",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
@@ -29,7 +29,7 @@
 "Smith, Jack","Fr",NA,2023,"23","P",NA,753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Sofran, Anthony","Sr","2307056",2023,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2307056",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Sturtevant, Aidan","So","2656229",2023,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2656229",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
-"Titus, Tyler","Fr","2809635",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2809635",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
-"Wenger, Andrew","Fr",NA,2023,"5","INF",NA,753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
+"Titus, Tyler","Fr","2809635",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2809635",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
+"Wenger, Andrew","Fr","2809644",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2809644",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Wojie, Xan","Jr","2488231",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2488231",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340
 "Yi, Logan","Jr","2488239",2023,"28","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=753&stats_player_seq=2488239",753,"Washington Col.","/team/753/16340",9683,"Centennial",3,16340

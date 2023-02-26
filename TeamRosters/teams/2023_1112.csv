@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Anderson, Adam","Sr","2328209",2023,"13","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2328209",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
 "Arteaga, Anthony","Fr","2825904",2023,"7","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2825904",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
-"Baker, Reese","Fr",NA,2023,"17","UT",NA,1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
+"Baker, Reese","Fr","2825907",2023,"17","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2825907",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
 "Blum, Carter","So","2670087",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2670087",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
 "Boles, Nick","Jr","2465950",2023,"23","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2465950",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
 "Burrough, Jordan","Jr","2466028",2023,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2466028",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
@@ -27,8 +27,8 @@
 "Ricigliano, Marcello","Fr","2825915",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2825915",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
 "Sinclair, Connor","Fr",NA,2023,"32","P",NA,1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
 "Smith, Owen","Fr","2825909",2023,"21","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2825909",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
-"Smith, Rylan","Fr","2825903",2023,"5","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2825903",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
 "Smith, Colin","Sr","2670140",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2670140",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
+"Smith, Rylan","Fr","2825903",2023,"5","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2825903",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
 "Sumner, Michael","Jr","2513161",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2513161",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
 "Tudor, Grayson","So","2670142",2023,"8","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2670142",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340
 "Vestal, Bryce","Sr","2117284",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1112&stats_player_seq=2117284",1112,"Guilford","/team/1112/16340",903,"ODAC",3,16340

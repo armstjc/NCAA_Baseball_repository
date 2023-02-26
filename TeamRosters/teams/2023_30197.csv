@@ -1,5 +1,5 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Abney, Owen","Fr",NA,2023,"25","INF",NA,30197,"Belhaven","/team/30197/16340",30251,"CCS",3,16340
+"Abney, Owen","Fr","2826642",2023,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2826642",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,16340
 "Albin, Dawson","Sr","2675829",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2675829",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,16340
 "Bradley, Andrew","Fr",NA,2023,"31","INF",NA,30197,"Belhaven","/team/30197/16340",30251,"CCS",3,16340
 "Canale, Preston","So","2493993",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2493993",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,16340
@@ -39,7 +39,7 @@
 "Swift, Will","So","2487413",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2487413",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,16340
 "Sylvester, Colton","Fr",NA,2023,"21","P",NA,30197,"Belhaven","/team/30197/16340",30251,"CCS",3,16340
 "Thomas, Joshua","So","2677359",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2677359",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,16340
-"Thompson, Brayden","Fr",NA,2023,"43","INF",NA,30197,"Belhaven","/team/30197/16340",30251,"CCS",3,16340
+"Thompson, Brayden","Fr","2826677",2023,"43","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2826677",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,16340
 "Tyndall, Jake","Jr","2494000",2023,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2494000",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,16340
 "Washington, Kyle","Fr",NA,2023,"32","P",NA,30197,"Belhaven","/team/30197/16340",30251,"CCS",3,16340
 "Weber, Riley","Fr","2826695",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2826695",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,16340

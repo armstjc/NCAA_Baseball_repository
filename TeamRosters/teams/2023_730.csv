@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Balos, Peter","So","2687375",2023,"24","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2687375",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
-"Bass, Dan","Fr",NA,2023,"34","P",NA,730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
-"Beaver, Shane","Fr",NA,2023,"45","1B",NA,730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
+"Bass, Dan","Fr","2824788",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2824788",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
+"Beaver, Shane","Fr","2824866",2023,"45","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2824866",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
 "Bogansky, Connor","So","2687377",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2687377",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
 "Bouquet, Jackson","Fr",NA,2023,"41","",NA,730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
 "Buisson, Marq","So","2687378",2023,"40","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2687378",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
@@ -31,11 +31,11 @@
 "Nestor, George","Fr",NA,2023,"35","C",NA,730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
 "Pancheri, Thomas","Sr","2363635",2023,"32","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2363635",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
 "Richter, Andrew","So","2687386",2023,"33","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2687386",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
-"Rosenfield, Kyle","Fr",NA,2023,"29","INF",NA,730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
+"Rosenfield, Kyle","Fr","2824857",2023,"29","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2824857",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
 "Runsdorf, Dylan","Fr","2687390",2023,"29","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2687390",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
 "Scheller, Mike","So","2687392",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2687392",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
 "Shilstone, Max","Fr","2824829",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2824829",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
-"Simone, Justin","Fr",NA,2023,"32","",NA,730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
+"Simone, Justin","Fr","2824860",2023,"32","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2824860",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
 "Snipes, Tom","Sr","2360892",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2360892",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
 "Snyder, TJ","Jr","2520292",2023,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2520292",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340
 "Stem, Keegan","So","2687387",2023,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=730&stats_player_seq=2687387",730,"Ursinus","/team/730/16340",9683,"Centennial",3,16340

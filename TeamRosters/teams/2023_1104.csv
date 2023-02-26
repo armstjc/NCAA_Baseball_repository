@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Andeel, Maxwell","So","2650987",2023,"45","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2650987",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Ankeney, Beau","So","2650984",2023,"35","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2650984",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
-"Arias, Nick","Fr",NA,2023,"5","INF",NA,1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
+"Arias, Nick","Fr","2801457",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2801457",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Avitia, Daniel","So","2650958",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2650958",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Barreras, Emilio","Fr","2801464",2023,"24","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2801464",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Belton, Ronnie","Sr","2307307",2023,"42","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2307307",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
@@ -26,15 +26,15 @@
 "Sheehan, John","Fr","2651004",2023,"55","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2651004",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Smith, Jace","Fr",NA,2023,"26","P",NA,1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Taguchi, Kan","Fr",NA,2023,"1","OF",NA,1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
-"Thornton, Zach","Jr","2801462",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2801462",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Thornton, Maddox","Jr","2801434",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2801434",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
+"Thornton, Zach","Jr","2801462",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2801462",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Triplett, Shawn","Sr","2650963",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2650963",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Tucker, Cody","Sr","2470316",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2470316",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Verdusco, Cade","Jr","2467013",2023,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2467013",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Wall, Jaxson","So","2650957",2023,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2650957",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
-"Ward, Nathan","Jr",NA,2023,"14","P",NA,1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
+"Ward, Nathan","Jr","2801461",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2801461",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Webb, Bryan","Jr","2467012",2023,"39","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2467012",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
-"Wilson, Tyler","Jr","2467007",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2467007",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Wilson, Jacob","Jr","2467019",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2467019",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
+"Wilson, Tyler","Jr","2467007",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2467007",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Yorke, Zach","Fr","2801466",2023,"27","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2801466",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340
 "Young, Carter","Jr","2467008",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1104&stats_player_seq=2467008",1104,"Grand Canyon","/team/1104/16340",923,"WAC",1,16340

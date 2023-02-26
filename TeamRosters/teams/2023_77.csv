@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Anderson, Luke","Fr","2811266",2023,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=77&stats_player_seq=2811266",77,"BYU","/team/77/16340",922,"WCC",1,16340
 "Ball, Bryant","Fr","2811306",2023,"39","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=77&stats_player_seq=2811306",77,"BYU","/team/77/16340",922,"WCC",1,16340
-"Besk, Sam","Fr",NA,2023,"45","P",NA,77,"BYU","/team/77/16340",922,"WCC",1,16340
+"Besk, Sam","Fr","2811268",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=77&stats_player_seq=2811268",77,"BYU","/team/77/16340",922,"WCC",1,16340
 "Call, Chad","Fr",NA,2023,"43","INF",NA,77,"BYU","/team/77/16340",922,"WCC",1,16340
 "Clawson, Cutter","Fr","2809925",2023,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=77&stats_player_seq=2809925",77,"BYU","/team/77/16340",922,"WCC",1,16340
 "Cole, Peyton","Jr","2301722",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=77&stats_player_seq=2301722",77,"BYU","/team/77/16340",922,"WCC",1,16340
@@ -19,7 +19,7 @@
 "Hall, Dawsen","Jr","2654935",2023,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=77&stats_player_seq=2654935",77,"BYU","/team/77/16340",922,"WCC",1,16340
 "Hansen, Ben","Fr","2811300",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=77&stats_player_seq=2811300",77,"BYU","/team/77/16340",922,"WCC",1,16340
 "Hollingshaus, Jackson","Fr",NA,2023,"34","OF",NA,77,"BYU","/team/77/16340",922,"WCC",1,16340
-"Jones, Easton","Fr",NA,2023,"32","INF",NA,77,"BYU","/team/77/16340",922,"WCC",1,16340
+"Jones, Easton","Fr","2811273",2023,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=77&stats_player_seq=2811273",77,"BYU","/team/77/16340",922,"WCC",1,16340
 "Mabeus, Boston","Jr","2477662",2023,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=77&stats_player_seq=2477662",77,"BYU","/team/77/16340",922,"WCC",1,16340
 "Mauai, Safea","So","2463494",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=77&stats_player_seq=2463494",77,"BYU","/team/77/16340",922,"WCC",1,16340
 "McLaughlin, Reid","Sr","2116123",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=77&stats_player_seq=2116123",77,"BYU","/team/77/16340",922,"WCC",1,16340

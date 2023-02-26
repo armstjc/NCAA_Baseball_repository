@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Badala, Anthony","Jr","2328923",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2328923",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Bastain, Will","Sr","2120350",2023,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2120350",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
-"Bland, Yates","Fr",NA,2023,"44","P",NA,141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
+"Bland, Yates","Fr","2810541",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2810541",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Colon, Antonio","Jr","2473071",2023,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2473071",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Cooper, Chace","Jr","2328914",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2328914",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Costa, Dylan","Sr","1979773",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=1979773",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
@@ -20,7 +20,7 @@
 "Jones, Crosby","Jr","2328912",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2328912",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Jones, Tyler","Sr","2119750",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2119750",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Kissenberth, Luke","Jr","2473073",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2473073",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
-"Lively, Matthew","Fr",NA,2023,"18","OF",NA,141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
+"Lively, Matthew","Fr","2810533",2023,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2810533",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Loggins, Chase","Fr","2673221",2023,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2673221",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Lott, Travis","Jr","2328918",2023,"14","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2328918",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Mitchell, Noah","Jr","2328938",2023,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2328938",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
@@ -28,8 +28,8 @@
 "Patel, Aryan","Fr","2810562",2023,"28","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2810562",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Paulsen, Fisher","So","2673216",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2673216",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Polk, Matthew","So","2673195",2023,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2673195",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
-"Reeves, Cameron","Sr","2120347",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2120347",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Reeves, Sawyer","Jr","2473063",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2473063",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
+"Reeves, Cameron","Sr","2120347",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2120347",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Rollauer, Thomas","Fr","2660481",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2660481",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Shah, Rohan","Jr",NA,2023,"45","P",NA,141,"The Citadel","/team/141/16340",912,"SoCon",1,16340
 "Sobel, Gray","Jr","2473067",2023,"40","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=141&stats_player_seq=2473067",141,"The Citadel","/team/141/16340",912,"SoCon",1,16340

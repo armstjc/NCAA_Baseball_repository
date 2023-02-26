@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Abner, Philip","So","2649790",2023,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=235&stats_player_seq=2649790",235,"Florida","/team/235/16340",911,"SEC",1,16340
 "Alvarez, Salvy","Fr",NA,2023,"9","C",NA,235,"Florida","/team/235/16340",911,"SEC",1,16340
-"Arroyo, Chris","Fr",NA,2023,"47","UT",NA,235,"Florida","/team/235/16340",911,"SEC",1,16340
+"Arroyo, Chris","Fr","2800199",2023,"47","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=235&stats_player_seq=2800199",235,"Florida","/team/235/16340",911,"SEC",1,16340
 "Blair, Erik","Fr",NA,2023,"33","OF",NA,235,"Florida","/team/235/16340",911,"SEC",1,16340
 "Brown, Max","Fr",NA,2023,"66","OF",NA,235,"Florida","/team/235/16340",911,"SEC",1,16340
 "Caglianone, Jac","So","2649785",2023,"14","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=235&stats_player_seq=2649785",235,"Florida","/team/235/16340",911,"SEC",1,16340

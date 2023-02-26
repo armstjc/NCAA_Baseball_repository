@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Abbott, Levi","Jr","2466751",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2466751",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Abramson, Joe","So","2654891",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2654891",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
-"Aduddle, Bryan","Jr",NA,2023,"13","P",NA,116,"Canisius","/team/116/16340",871,"MAAC",1,16340
+"Aduddle, Bryan","Jr","2808031",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2808031",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Chisholm, Brennan","Sr","2140274",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2140274",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Cisco, Mason","Fr",NA,2023,"3","INF",NA,116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Consigli, Peyton","So","2654898",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2654898",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
@@ -10,7 +10,7 @@
 "Dodson, Kenny","Sr","2308958",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2308958",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Duffy, Aaron","So","2654906",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2654906",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Duffy, Matt","Jr","2466749",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2466749",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
-"Ennen, JT","Jr",NA,2023,"5","C",NA,116,"Canisius","/team/116/16340",871,"MAAC",1,16340
+"Ennen, JT","Jr","2654902",2023,"5","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2654902",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Fron, Andrew","Sr","2117670",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2117670",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Genge, Clifton","Jr",NA,2023,"36","P",NA,116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Grant, Max","Jr","2466748",2023,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2466748",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
@@ -32,10 +32,10 @@
 "Sebastian, Cole","So","2654909",2023,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2654909",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Seidel, Rockne","Sr","2308975",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2308975",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Sheridan, Tommy","Fr",NA,2023,"12","C",NA,116,"Canisius","/team/116/16340",871,"MAAC",1,16340
-"Staerker, Sam","Fr",NA,2023,"11","P",NA,116,"Canisius","/team/116/16340",871,"MAAC",1,16340
+"Staerker, Sam","Fr","2808046",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2808046",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Strong, Jackson","So","2654933",2023,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2654933",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Terry-Emanuel, Alex","So",NA,2023,"37","INF",NA,116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Vincent, Dylan","Sr","2117669",2023,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2117669",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Weiss, Ryan","Sr","2148214",2023,"35","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2148214",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
-"Wevers, Ty","Jr",NA,2023,"23","C",NA,116,"Canisius","/team/116/16340",871,"MAAC",1,16340
+"Wevers, Ty","Jr","2808038",2023,"23","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=116&stats_player_seq=2808038",116,"Canisius","/team/116/16340",871,"MAAC",1,16340
 "Zwirecki, Thomas","Fr",NA,2023,"33","C",NA,116,"Canisius","/team/116/16340",871,"MAAC",1,16340

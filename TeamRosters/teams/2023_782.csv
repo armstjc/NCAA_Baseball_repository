@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Adler, Grant","Jr","2798307",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2798307",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
 "Adler, Nate","Jr","2658792",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2658792",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
-"Birge, Alex","Fr",NA,2023,"28","C",NA,782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
+"Adler, Grant","Jr","2798307",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2798307",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
+"Birge, Alex","Fr","2658787",2023,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2658787",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
 "Boyer, Matthew","So","2310058",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2310058",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
 "Bye, Cameron","Jr","2486544",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2486544",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
 "Candiotti, Clark","Jr","2798336",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2798336",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
@@ -19,7 +19,7 @@
 "McDonald, Kyte","Jr","2332243",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2332243",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
 "Millan, Mauricio","So","2798267",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2798267",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
 "Miner, Jace","So","2658786",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2658786",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
-"Mulhollon, Michael","Fr",NA,2023,"16","P",NA,782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
+"Mulhollon, Michael","Fr","2798310",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2798310",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
 "Pennington, Garrett","Jr","2305752",2023,"29","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2305752",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
 "Rodden, Brock","Jr","2658779",2023,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2658779",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
 "Rogan, Charlie","Fr",NA,2023,"3","1B",NA,782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
@@ -33,5 +33,5 @@
 "Tolle, Payton","So","2658793",2023,"49","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2658793",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
 "Vercoe, Colton","So",NA,2023,"39","P",NA,782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
 "Wallace, Austin","So","2310003",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2310003",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
-"Wilkinson, Matt","Jr",NA,2023,"46","P",NA,782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
+"Wilkinson, Matt","Jr","2798285",2023,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2798285",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340
 "Williams, Gage","So","2486539",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2486539",782,"Wichita St.","/team/782/16340",823,"AAC",1,16340

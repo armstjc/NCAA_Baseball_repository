@@ -180,7 +180,7 @@ def generate_league_pitching_stats():
 ##
 #####################################################################################################################################################################################################################
 
-def generate_park_factors():
+def generate_park_factors(season:int):
     """
     """
     
@@ -650,8 +650,8 @@ def generate_team_game_batting_stats(season:int):
         lg_slg = league_df['SLG'].iloc[0]
 
         main_df['G'] = 1
-        main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','opponent_id','opponent_name','runs_scored','runs_allowed','run_difference'],as_index=False)\
-            ['G','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP'].sum())
+        main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','field','opponent_id','opponent_name','runs_scored','runs_allowed','run_difference'],as_index=False)\
+            ['AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP'].sum())
 
         ## Runs Created (Technical version)
         main_df['RC'] = ((main_df['H'] + main_df['BB'] - main_df['CS'] + main_df['HBP'] - main_df['GDP']) * (main_df['TB'] + (0.26 * (main_df['BB'] - main_df['IBB'] + main_df['HBP']))) + (0.52 * (main_df['SH'] + main_df['SF'] + main_df['SB']))) / (main_df['AB'] + main_df['BB'] + main_df['HBP'] + main_df['SH'] + main_df['SF'])
@@ -769,8 +769,8 @@ def generate_team_game_pitching_stats(season:int):
         main_df[['whole_innings','part_innings']] = main_df['IP'].str.split('.',expand=True)
         main_df = main_df.astype({'whole_innings':'int','part_innings':'int'})
         main_df['IP'] = main_df['whole_innings'] + (main_df['part_innings']/3)
-        main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','opponent_id','opponent_name','runs_scored','runs_allowed','run_difference'],as_index=False)\
-            ['App','GS','W','L','SV','CG','SHO','IP','H','R','ER','2B-A','3B-A','HR-A','BB','IBB','SO','HB','Bk','WP','BF','P-OAB','Inh Run','Inh Run Score','SHA','SFA','GO','FO','KL','pickoffs'].sum())
+        main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','field','opponent_id','opponent_name','runs_scored','runs_allowed','run_difference'],as_index=False)\
+            ['W','L','SV','CG','SHO','IP','H','R','ER','2B-A','3B-A','HR-A','BB','IBB','SO','HB','Bk','WP','BF','P-OAB','Inh Run','Inh Run Score','SHA','SFA','GO','FO','KL','pickoffs'].sum())
 
         # main_df['PI'] = main_df['Pitches']
         # main_df = main_df.drop(['Pitches'], axis=1)
@@ -839,7 +839,7 @@ def generate_team_game_fielding_stats(season:int):
     part_df = pd.read_parquet(f'game_stats/player/fielding_game_stats/parquet/{season}_fielding.parquet')
     main_df = pd.concat([main_df,part_df],ignore_index=True)
     
-    finished_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','opponent_id','opponent_name','runs_scored','runs_allowed','run_difference'],as_index=False)\
+    finished_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','field','opponent_id','opponent_name','runs_scored','runs_allowed','run_difference'],as_index=False)\
         ['TC','PO','A','E','CI','PB','SBA','CSB','IDP','TP'].sum())
     ## Fielding Percentage
     finished_df['FLD%'] = (finished_df['PO'] + finished_df['A']) / (finished_df['PO'] + finished_df['A'] + finished_df['E'])

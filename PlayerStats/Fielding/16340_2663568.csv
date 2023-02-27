@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/03/2023,neutral,16340,9011,Fort Hays St.,9,True,14,11,3,win,2389703,929,2663568,2023,2
+1,0,1,0,0,0,0,0,0,0,02/04/2023,neutral,16340,9011,Fort Hays St.,8,True,7,19,-12,loss,2408211,929,2663568,2023,2
+1,0,2,1,0,0,0,0,0,0,02/10/2023,away,16340,8744,Southwestern Okla.,9,True,7,10,-3,loss,2389964,929,2663568,2023,2
+2,0,2,0,0,0,0,0,0,0,02/11/2023,away,16340,8744,Southwestern Okla.,9,True,0,7,-7,loss,2407823,929,2663568,2023,2

@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,2,2,0,0,0,0,0,0,02/05/2023,neutral,16340,507,Northwest Mo. St.,9,True,2,5,-3,loss,2389839,1371,2679718,2023,2
+1,0,1,0,0,0,0,0,0,0,02/10/2023,home,16340,11403,Colo. Christian,9,True,12,1,11,win,2389960,1371,2679718,2023,2
+2,0,2,0,0,0,0,0,0,0,02/11/2023,home,16340,11403,Colo. Christian,9,True,22,9,13,win,2407814,1371,2679718,2023,2
+1,0,1,0,0,0,0,0,0,0,02/14/2023,neutral,16340,12810,Northeastern St.,9,True,15,0,15,win,2390210,1371,2679718,2023,2
+6,1,7,0,0,0,0,0,1,0,02/21/2023,home,16340,12810,Northeastern St.,9,True,7,12,-5,loss,2421015,1371,2679718,2023,2
+3,0,3,0,0,0,0,0,0,0,02/26/2023,away,16340,8411,Ark.-Monticello,9,True,6,16,-10,loss,2421855,1371,2679718,2023,2
+1,0,1,0,0,0,0,0,0,0,02/26/2023,away,16340,8411,Ark.-Monticello,9,True,2,5,-3,loss,2408043,1371,2679718,2023,2

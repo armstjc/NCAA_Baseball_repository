@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,1,1,0,0,2,0,0,0,02/03/2023,away,16340,30052,North Georgia,9,True,0,7,-7,loss,2389725,1199,2302355,2023,2
+0,2,2,0,0,0,1,0,0,0,02/11/2023,away,16340,30013,Lee,9,True,7,9,-2,loss,2390076,1199,2302355,2023,2
+0,0,1,1,0,0,2,0,0,0,02/17/2023,away,16340,1001,Catawba,9,True,2,10,-8,loss,2390461,1199,2302355,2023,2
+0,2,3,1,0,0,0,0,0,0,02/24/2023,home,16340,1462,Wingate,9,True,1,4,-3,loss,2391406,1199,2302355,2023,2

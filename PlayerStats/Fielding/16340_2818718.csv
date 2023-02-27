@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/10/2023,away,16340,8744,Southwestern Okla.,9,True,7,10,-3,loss,2389964,929,2818718,2023,2
+2,0,3,1,0,0,0,0,0,0,02/11/2023,away,16340,8744,Southwestern Okla.,9,True,10,9,1,win,2390066,929,2818718,2023,2

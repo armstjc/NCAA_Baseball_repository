@@ -183,25 +183,28 @@ def generate_league_pitching_stats():
 def generate_park_factors(season:int):
     """
     """
-    main_df = pd.read_csv('game_stats/team/batting_game_stats/csv/2021_batting.csv')
+    main_df = pd.read_parquet(f'game_stats/player/batting_game_stats/parquet/{season}_batting.parquet')
     main_df['G'] = 1
 
     home_gm_df = main_df[main_df['field'] == 'home']
     away_gm_df = main_df[main_df['field'] != 'home']
 
     home_gm_df = pd.DataFrame(home_gm_df.groupby(['season','season_id','school_id','division'],as_index=False)\
-        ['runs_scored','runs_allowed','G','PA','AB','H','2B','3B','HR','BB','K'].sum())
-    home_gm_df = home_gm_df.rename({'runs_scored':'home_runs_scored','runs_allowed':'home_runs_allowed','G':'home_G','PA':'home_PA','AB':'home_AB','R':'home_R','2B':'home_2B','3B':'home_3B','HR':'home_HR','BB':'home_BB','K':'home_K'},axis=1)
+        ['runs_scored','runs_allowed','G','AB','H','2B','3B','HR','BB','K'].sum())
+    home_gm_df = home_gm_df.rename({'runs_scored':'home_runs_scored','runs_allowed':'home_runs_allowed','G':'home_G','AB':'home_AB','R':'home_R','2B':'home_2B','3B':'home_3B','HR':'home_HR','BB':'home_BB','K':'home_K'},axis=1)
+    
     away_gm_df = pd.DataFrame(away_gm_df.groupby(['season','season_id','school_id','division'],as_index=False)\
-        ['runs_scored','runs_allowed','G','PA','AB','H','2B','3B','HR','BB','K'].sum())
-    away_gm_df = away_gm_df.rename({'runs_scored':'away_runs_scored','runs_allowed':'away_runs_allowed','G':'away_G','PA':'away_PA','AB':'away_AB','R':'away_R','2B':'away_2B','3B':'away_3B','HR':'away_HR','BB':'away_BB','K':'away_K'},axis=1)
+        ['runs_scored','runs_allowed','G','AB','H','2B','3B','HR','BB','K'].sum())
+    away_gm_df = away_gm_df.rename({'runs_scored':'away_runs_scored','runs_allowed':'away_runs_allowed','G':'away_G','AB':'away_AB','R':'away_R','2B':'away_2B','3B':'away_3B','HR':'away_HR','BB':'away_BB','K':'away_K'},axis=1)
 
-    finished_df = pd.merge(home_gm_df,away_gm_df,left_on=['season','season_id','school_id','division'],right_on=['season','season_id','school_id','division'])
+    finished_df = pd.merge(home_gm_df,away_gm_df,left_on=['season','season_id','school_id','division'],right_on=['season','season_id','school_id','division'],how='left')
     
     finished_df['PF'] = 100 * (((finished_df['home_runs_scored'] + finished_df['home_runs_allowed']) / finished_df['home_G']) / ((finished_df['away_runs_scored'] + finished_df['away_runs_allowed']) / finished_df['away_G']))
     
     print(finished_df)
-    return finished_df
+    finished_df.to_csv(f'season_stats/league/park_factors/csv/{season}_park_factors.csv',index=False)
+    finished_df.to_parquet(f'season_stats/league/park_factors/parquet/{season}_park_factors.parquet',index=False)
+    # return finished_df
 
 #####################################################################################################################################################################################################################
 ## Season Player Stats
@@ -874,23 +877,23 @@ def generate_team_game_fielding_stats(season:int):
 
 if __name__ == "__main__":
     current_year = int(datetime.now().year)
-    # generate_league_batting_stats()
-    # generate_league_pitching_stats()
+    generate_league_batting_stats()
+    generate_league_pitching_stats()
 
-    # for i in range(2013,current_year+1):
-    #     print(f'\n\nGenerating stats for the {i} season.\n\n')
+    for i in range(2013,current_year+1):
+        print(f'\n\nGenerating stats for the {i} season.\n\n')
+        generate_team_game_batting_stats(i)
+        generate_team_game_pitching_stats(i)
 
-    #     generate_team_game_batting_stats(i)
-    #     generate_team_game_pitching_stats(i)
+        generate_season_team_batting_stats(i)
+        generate_season_team_pitching_stats(i)
 
-    #     generate_season_team_batting_stats(i)
-    #     generate_season_team_pitching_stats(i)
+        generate_season_player_batting_stats(i)
+        generate_season_player_pitching_stats(i)
 
-    #     generate_season_player_batting_stats(i)
-    #     generate_season_player_pitching_stats(i)
+        if i >= 2016:
+            generate_team_game_fielding_stats(i)
+            generate_season_team_fielding_stats(i)
+            generate_season_player_fielding_stats(i)
 
-    #     if i >= 2016:
-    #         generate_team_game_fielding_stats(i)
-    #         generate_season_team_fielding_stats(i)
-    #         generate_season_player_fielding_stats(i)
-    generate_park_factors(2020)
+        generate_park_factors(i)

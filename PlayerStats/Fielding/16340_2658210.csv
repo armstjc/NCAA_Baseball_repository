@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,02/11/2023,home,16340,436,Mo.-St. Louis,9,True,26,5,21,win,2407818,10,2658210,2023,2
+0,0,0,0,0,0,1,0,0,0,02/14/2023,away,16340,422,Miles,9,True,6,5,1,win,2418446,10,2658210,2023,2
+0,0,0,0,0,0,2,0,0,0,02/24/2023,home,16340,435,Missouri S&T,9,True,3,15,-12,loss,2391380,10,2658210,2023,2

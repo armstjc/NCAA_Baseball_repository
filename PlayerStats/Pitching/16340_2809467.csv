@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,5.0,0.0,5,4,4,1,4,0,21,19,1,0,0,2,0,1,0,0,0,0,0,60,6,4,0,0,0,2,3,0,02/04/2023,home,16340,645,Sonoma St.,10,True,6,7,-1,loss,2389752,30123,2809467,2023,2
+1,0,0.2,0.0,2,3,0,1,0,0,7,4,0,0,0,0,0,1,1,0,0,0,1,16,1,1,0,0,0,3,0,0,02/14/2023,home,16340,1010,Central Wash.,9,True,9,8,1,win,2390192,30123,2809467,2023,2
+1,1,5.0,0.0,4,2,1,1,3,0,21,19,1,0,0,0,1,1,0,0,0,0,0,75,8,3,1,0,0,1,1,0,02/17/2023,away,16340,98,Cal St. East Bay,9,True,13,5,8,win,2408379,30123,2809467,2023,2
+1,1,2.1,0.0,6,4,4,2,1,0,16,13,1,0,0,0,0,1,0,0,0,0,0,56,3,3,0,1,0,1,0,0,02/25/2023,home,16340,0,Simpson (CA),9,True,1,7,-6,loss,2408021,30123,2809467,2023,2

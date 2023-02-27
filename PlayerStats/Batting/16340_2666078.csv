@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,4,2,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,02/04/2023,home,16340,743,Virginia St.,9,True,12,0,12,win,2389742,632,2666078,2023,1
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/05/2023,home,16340,743,Virginia St.,9,True,4,12,-8,loss,2389833,632,2666078,2023,1
+1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,02/18/2023,home,16340,347,Lane,9,True,11,4,7,win,2408876,632,2666078,2023,1
+1,2,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,02/26/2023,home,16340,30191,Spring Hill,9,True,9,7,2,win,2392022,632,2666078,2023,1

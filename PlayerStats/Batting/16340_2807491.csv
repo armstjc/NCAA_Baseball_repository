@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,02/01/2023,home,16340,103,Stanislaus St.,9,True,6,7,-1,loss,2389635,30123,2807491,2023,2
+0,4,2,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,02/04/2023,home,16340,645,Sonoma St.,10,True,6,7,-1,loss,2389752,30123,2807491,2023,2
+1,5,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,02/13/2023,home,16340,30147,Fresno Pacific,9,True,10,4,6,win,2390189,30123,2807491,2023,2
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/14/2023,home,16340,1010,Central Wash.,9,True,9,8,1,win,2390192,30123,2807491,2023,2
+0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/17/2023,away,16340,98,Cal St. East Bay,9,True,8,13,-5,loss,2390326,30123,2807491,2023,2
+0,4,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,02/21/2023,away,16340,30175,Holy Names,9,True,7,19,-12,loss,2412160,30123,2807491,2023,2
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/25/2023,home,16340,0,Simpson (CA),9,True,1,7,-6,loss,2408021,30123,2807491,2023,2

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,2,1,0,0,0,0,0,0,02/11/2023,home,16340,568,Regis (CO),9,True,11,14,-3,loss,2390025,1314,2808727,2023,2
+0,2,2,0,0,0,0,0,1,0,02/12/2023,home,16340,568,Regis (CO),9,True,16,3,13,win,2390129,1314,2808727,2023,2
+1,0,1,0,0,0,0,0,0,0,02/26/2023,home,16340,9012,Mo. Southern St.,9,True,14,19,-5,loss,2392034,1314,2808727,2023,2

@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/11/2023,home,16340,1013,Charleston (WV),9,True,10,7,3,win,2390013,1462,2511346,2023,2
+1,1,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,02/18/2023,home,16340,24639,Nova Southeastern,9,True,4,3,1,win,2390571,1462,2511346,2023,2
+0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,02/26/2023,away,16340,1199,Mars Hill,9,True,1,6,-5,loss,2421850,1462,2511346,2023,2

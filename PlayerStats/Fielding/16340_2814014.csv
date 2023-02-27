@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+10,0,10,0,0,0,1,0,0,0,02/10/2023,home,16340,307,Indiana (PA),9,True,2,1,1,win,2415424,197,2814014,2023,2
+1,0,1,0,0,1,0,0,0,0,02/13/2023,away,16340,307,Indiana (PA),9,True,1,9,-8,loss,2415426,197,2814014,2023,2
+6,0,6,0,0,0,0,0,0,0,02/19/2023,home,16340,1347,Saint Rose,9,True,18,1,17,win,2418477,197,2814014,2023,2
+8,1,9,0,0,0,1,1,0,0,02/19/2023,home,16340,1347,Saint Rose,9,True,3,2,1,win,2418478,197,2814014,2023,2
+6,0,6,0,0,0,0,0,0,0,02/20/2023,home,16340,1347,Saint Rose,9,True,4,3,1,win,2418479,197,2814014,2023,2
+4,0,4,0,0,0,0,0,0,0,02/20/2023,home,16340,1347,Saint Rose,9,True,5,4,1,win,2418520,197,2814014,2023,2
+2,0,2,0,0,0,0,0,0,0,02/26/2023,home,16340,593,St. Anselm,9,True,14,2,12,win,2391655,197,2814014,2023,2
+10,1,11,0,0,0,0,1,0,0,02/26/2023,home,16340,593,St. Anselm,9,True,8,1,7,win,2408044,197,2814014,2023,2

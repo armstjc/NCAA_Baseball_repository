@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/04/2023,away,16340,30051,King (TN),9,True,0,1,-1,loss,2389773,30181,2468416,2023,2
+2,0,2,0,0,0,0,0,0,0,02/05/2023,away,16340,30051,King (TN),9,True,9,11,-2,loss,2389844,30181,2468416,2023,2
+2,0,3,1,0,0,0,0,0,0,02/10/2023,home,16340,537,UNC Pembroke,9,True,3,33,-30,loss,2417894,30181,2468416,2023,2
+3,0,3,0,0,0,0,0,0,0,02/19/2023,away,16340,30119,Ohio Dominican,9,True,2,3,-1,loss,2390938,30181,2468416,2023,2
+5,0,5,0,0,0,0,0,0,0,02/21/2023,away,16340,0,CarolinaU,9,True,8,5,3,win,2391138,30181,2468416,2023,2
+1,0,1,0,0,0,0,0,0,0,02/24/2023,away,16340,12830,Tusculum,9,True,11,8,3,win,2391546,30181,2468416,2023,2
+4,0,4,0,0,0,0,0,0,0,02/26/2023,away,16340,12830,Tusculum,9,True,4,10,-6,loss,2421854,30181,2468416,2023,2

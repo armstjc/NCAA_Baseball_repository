@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+7,0,7,0,0,0,0,0,0,0,02/04/2023,away,16340,1123,Henderson St.,9,True,6,4,2,win,2389804,30180,2818899,2023,2
+6,0,6,0,0,0,0,0,2,0,02/05/2023,away,16340,1289,Ouachita Baptist,9,True,3,10,-7,loss,2389665,30180,2818899,2023,2
+8,2,11,1,0,0,0,0,1,0,02/06/2023,neutral,16340,1376,Southern Ark.,9,True,4,2,2,win,2389692,30180,2818899,2023,2
+11,0,11,0,0,0,0,0,0,0,02/10/2023,home,16340,1328,Rockhurst,9,True,2,1,1,win,2417892,30180,2818899,2023,2
+7,1,8,0,0,0,0,0,1,0,02/11/2023,home,16340,1328,Rockhurst,9,True,7,6,1,win,2390055,30180,2818899,2023,2

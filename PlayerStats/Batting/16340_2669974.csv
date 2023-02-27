@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,2,0,0,0,0,0,0,2,0,0,0,2,0,0,0,1,0,0,02/05/2023,away,16340,30123,Academy of Art,9,True,6,4,2,win,2407979,645,2669974,2023,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/07/2023,home,16340,30175,Holy Names,9,True,6,3,3,win,2389878,645,2669974,2023,2
+0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,02/17/2023,home,16340,30147,Fresno Pacific,9,True,5,9,-4,loss,2390284,645,2669974,2023,2
+1,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/18/2023,home,16340,30147,Fresno Pacific,9,True,3,2,1,win,2408880,645,2669974,2023,2

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,0,5,0,0,0,1,0,0,0,02/06/2023,neutral,16340,30180,Rogers St.,9,True,2,4,-2,loss,2389692,1376,2817434,2023,2
+4,0,4,0,0,0,1,0,0,0,02/11/2023,neutral,16340,347,Lane,9,True,26,0,26,win,2390031,1376,2817434,2023,2
+2,0,2,0,0,0,0,0,0,0,02/24/2023,home,16340,8965,East Central,9,True,18,0,18,win,2391653,1376,2817434,2023,2

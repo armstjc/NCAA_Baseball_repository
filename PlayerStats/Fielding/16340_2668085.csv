@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,02/03/2023,home,16340,638,Shippensburg,9,True,10,3,7,win,2389717,1001,2668085,2023,2
+4,0,4,0,0,0,0,0,0,0,02/04/2023,home,16340,638,Shippensburg,9,True,19,10,9,win,2389808,1001,2668085,2023,2
+3,0,3,0,0,0,0,0,0,0,02/05/2023,home,16340,638,Shippensburg,9,True,9,12,-3,loss,2389851,1001,2668085,2023,2
+4,0,4,0,0,0,0,0,0,0,02/07/2023,home,16340,1245,Mount Olive,9,True,12,5,7,win,2389892,1001,2668085,2023,2
+4,0,4,0,0,0,0,0,0,0,02/13/2023,neutral,16340,30259,USC Beaufort,9,True,15,3,12,win,2390047,1001,2668085,2023,2
+1,0,1,0,0,0,0,0,0,0,02/13/2023,away,16340,1085,Francis Marion,9,True,2,5,-3,loss,2390185,1001,2668085,2023,2
+1,0,1,0,0,0,0,0,0,0,02/15/2023,home,16340,1170,Lenoir-Rhyne,9,True,3,5,-2,loss,2390231,1001,2668085,2023,2
+4,0,4,0,0,0,0,0,0,0,02/17/2023,home,16340,1199,Mars Hill,9,True,10,2,8,win,2390461,1001,2668085,2023,2
+2,0,2,0,0,0,0,0,0,0,02/18/2023,home,16340,1199,Mars Hill,9,True,4,5,-1,loss,2390687,1001,2668085,2023,2
+5,1,6,0,0,0,0,0,0,0,02/21/2023,home,16340,1245,Mount Olive,9,True,5,15,-10,loss,2391152,1001,2668085,2023,2

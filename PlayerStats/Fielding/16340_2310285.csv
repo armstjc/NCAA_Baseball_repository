@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,1,5,0,0,0,1,0,0,0,02/18/2023,neutral,16340,736,Vanderbilt,9,True,9,11,-2,loss,2390577,521,2310285,2023,1
 15,1,16,0,0,0,0,0,0,0,02/21/2023,home,16340,30135,California Baptist,9,True,2,0,2,win,2391166,521,2310285,2023,1
+14,0,14,0,0,0,0,0,0,0,02/25/2023,home,16340,370,LMU (CA),10,True,8,10,-2,loss,2391829,521,2310285,2023,1
+6,0,6,0,0,0,0,0,0,0,02/26/2023,home,16340,370,LMU (CA),9,True,11,1,10,win,2392225,521,2310285,2023,1

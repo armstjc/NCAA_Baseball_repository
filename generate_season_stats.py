@@ -183,7 +183,7 @@ def generate_league_pitching_stats():
 def generate_park_factors(season:int):
     """
     """
-    main_df = pd.read_parquet(f'game_stats/player/batting_game_stats/parquet/{season}_batting.parquet')
+    main_df = pd.read_parquet(f'game_stats/player/team_game_stats/parquet/{season}_batting.parquet')
     main_df['G'] = 1
 
     home_gm_df = main_df[main_df['field'] == 'home']

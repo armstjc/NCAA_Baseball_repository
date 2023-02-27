@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,5,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,02/24/2023,away,16340,415,Miami (FL),9,True,7,9,-2,loss,2391571,172,2303196,2023,1
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/25/2023,away,16340,415,Miami (FL),9,True,0,6,-6,loss,2391989,172,2303196,2023,1
+0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/26/2023,away,16340,415,Miami (FL),9,True,2,20,-18,loss,2392246,172,2303196,2023,1

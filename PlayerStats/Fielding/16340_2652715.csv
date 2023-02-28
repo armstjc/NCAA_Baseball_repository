@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,1,0,0,02/05/2023,home,16340,2814,Washburn,9,True,7,6,1,win,2389869,1123,2652715,2023,2
+10,2,12,0,0,0,0,2,0,0,02/12/2023,home,16340,30138,McKendree,9,True,11,1,10,win,2390184,1123,2652715,2023,2
+5,0,5,0,0,0,0,0,0,0,02/14/2023,away,16340,429,Mississippi Col.,9,True,8,18,-10,loss,2390207,1123,2652715,2023,2

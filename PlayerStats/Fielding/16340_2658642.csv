@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,2,0,0,0,0,0,1,0,02/04/2023,neutral,16340,9223,North Greenville,9,True,9,11,-2,loss,2389763,947,2658642,2023,2
+3,3,7,1,0,0,0,0,1,0,02/05/2023,neutral,16340,1238,Montevallo,9,True,0,15,-15,loss,2389836,947,2658642,2023,2
+2,1,3,0,0,0,0,0,0,0,02/11/2023,away,16340,130,Central Mo.,9,True,0,1,-1,loss,2407893,947,2658642,2023,2
+0,1,1,0,0,0,0,0,0,0,02/12/2023,away,16340,130,Central Mo.,9,True,9,5,4,win,2390167,947,2658642,2023,2

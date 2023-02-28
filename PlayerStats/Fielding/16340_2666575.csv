@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/05/2023,away,16340,1085,Francis Marion,9,True,7,12,-5,loss,2389870,1257,2666575,2023,2
+0,1,1,0,0,0,0,0,0,0,02/12/2023,home,16340,11276,USC Aiken,10,True,4,3,1,win,2390178,1257,2666575,2023,2
+0,1,1,0,0,0,0,0,0,0,02/18/2023,home,16340,1023,Coker,9,True,3,7,-4,loss,2390690,1257,2666575,2023,2

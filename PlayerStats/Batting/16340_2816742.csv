@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/12/2023,home,16340,30179,Okla. Christian,10,True,8,7,1,win,2390080,30105,2816742,2023,2
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/13/2023,home,16340,30179,Okla. Christian,9,True,3,8,-5,loss,2390173,30105,2816742,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/23/2023,home,16340,30177,Lubbock Christian,9,True,0,3,-3,loss,2391388,30105,2816742,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2023,home,16340,30177,Lubbock Christian,15,True,8,9,-1,loss,2391862,30105,2816742,2023,2
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/24/2023,home,16340,30177,Lubbock Christian,9,True,0,11,-11,loss,2392249,30105,2816742,2023,2

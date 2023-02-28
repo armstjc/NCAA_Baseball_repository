@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,6,0,0,0,02/03/2023,away,16340,25,Angelo St.,9,True,1,11,-10,loss,2389710,206,2665105,2023,2
+0,2,2,0,0,0,0,1,0,0,02/11/2023,home,16340,30090,Tex. A&M Int'l,9,True,5,4,1,win,2390105,206,2665105,2023,2
+0,1,1,0,0,0,3,0,0,0,02/17/2023,away,16340,696,Tex. A&M-Kingsville,9,True,0,2,-2,loss,2390460,206,2665105,2023,2
+0,1,1,0,0,0,0,0,0,0,02/24/2023,home,16340,1334,St. Edward's,9,True,8,4,4,win,2391479,206,2665105,2023,2

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,2,0,0,0,0,1,0,0,02/04/2023,neutral,16340,9223,North Greenville,9,True,9,11,-2,loss,2389763,947,2804862,2023,2
+1,1,2,0,0,0,0,1,0,0,02/11/2023,away,16340,130,Central Mo.,8,True,1,2,-1,loss,2417955,947,2804862,2023,2
+0,0,0,0,0,0,1,1,0,0,02/18/2023,home,16340,30202,Okla. Baptist,9,True,3,2,1,win,2408868,947,2804862,2023,2
+0,1,1,0,0,0,1,0,0,0,02/25/2023,away,16340,30152,Southern Nazarene,9,True,1,10,-9,loss,2408466,947,2804862,2023,2

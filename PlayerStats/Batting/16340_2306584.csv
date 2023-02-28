@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,02/04/2023,away,16340,25,Angelo St.,9,True,1,17,-16,loss,2408100,206,2306584,2023,2
+1,4,2,0,0,2,0,2,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,away,16340,696,Tex. A&M-Kingsville,9,True,9,1,8,win,2408285,206,2306584,2023,2

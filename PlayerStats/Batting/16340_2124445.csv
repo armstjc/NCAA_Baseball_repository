@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,4,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,02/03/2023,home,16340,11403,Colo. Christian,10,True,20,20,0,tie,2389709,20794,2124445,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/11/2023,home,16340,333,Ky. Wesleyan,9,True,8,1,7,win,2390049,20794,2124445,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/13/2023,home,16340,2814,Washburn,9,True,3,18,-15,loss,2390191,20794,2124445,2023,2
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/17/2023,home,16340,658,Southern Conn. St.,9,True,10,2,8,win,2390361,20794,2124445,2023,2

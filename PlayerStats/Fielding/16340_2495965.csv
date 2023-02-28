@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+8,1,11,2,0,0,0,0,1,0,02/03/2023,neutral,16340,598,St. Cloud St.,9,True,0,17,-17,loss,2389697,2755,2495965,2023,2
+3,0,4,1,0,0,0,0,0,0,02/04/2023,away,16340,9012,Mo. Southern St.,9,True,2,12,-10,loss,2389740,2755,2495965,2023,2
+4,0,4,0,0,0,0,0,0,0,02/12/2023,away,16340,1116,Harding,9,True,1,19,-18,loss,2418049,2755,2495965,2023,2
+0,2,3,1,0,0,0,0,0,0,02/18/2023,home,16340,799,Wis.-Parkside,9,True,11,9,2,win,2390630,2755,2495965,2023,2
+3,0,3,0,0,0,0,0,0,0,02/19/2023,home,16340,799,Wis.-Parkside,9,True,8,18,-10,loss,2408445,2755,2495965,2023,2

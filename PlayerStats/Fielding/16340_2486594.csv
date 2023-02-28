@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/10/2023,away,16340,30052,North Georgia,9,True,2,10,-8,loss,2390072,233,2486594,2023,2
+2,0,3,1,0,0,0,0,0,0,02/10/2023,away,16340,30052,North Georgia,9,True,9,6,3,win,2389979,233,2486594,2023,2
+3,0,3,0,0,0,0,0,0,0,02/11/2023,away,16340,30052,North Georgia,9,True,7,6,1,win,2390158,233,2486594,2023,2
+2,0,2,0,0,0,0,0,0,0,02/17/2023,away,16340,1096,Georgia College,10,True,6,5,1,win,2390431,233,2486594,2023,2
+1,0,1,0,0,0,0,0,0,0,02/19/2023,away,16340,1096,Georgia College,9,True,9,1,8,win,2390913,233,2486594,2023,2
+2,0,2,0,0,0,0,0,0,0,02/24/2023,away,16340,208,Eckerd,9,True,8,4,4,win,2391544,233,2486594,2023,2
+3,0,3,0,0,0,0,0,0,0,02/25/2023,away,16340,208,Eckerd,9,True,14,5,9,win,2421612,233,2486594,2023,2
+1,0,1,0,0,0,0,0,0,0,02/25/2023,away,16340,208,Eckerd,9,True,9,8,1,win,2408741,233,2486594,2023,2

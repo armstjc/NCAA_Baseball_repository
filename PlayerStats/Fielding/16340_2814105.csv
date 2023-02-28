@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,3,0,0,0,0,0,0,0,02/05/2023,away,16340,30051,King (TN),9,True,2,3,-1,loss,2408281,30181,2814105,2023,2
+0,0,0,0,0,0,1,0,0,0,02/19/2023,away,16340,30119,Ohio Dominican,9,True,2,3,-1,loss,2390938,30181,2814105,2023,2
+0,1,1,0,0,0,0,0,0,0,02/26/2023,away,16340,12830,Tusculum,9,True,4,10,-6,loss,2421854,30181,2814105,2023,2

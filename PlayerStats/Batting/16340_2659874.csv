@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,4,1,1,0,2,0,2,0,0,0,0,1,0,0,0,0,0,0,02/04/2023,home,16340,30178,Northwestern Okla.,9,True,13,10,3,win,2389746,413,2659874,2023,2
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/09/2023,away,16340,30220,Biola,9,True,2,12,-10,loss,2389911,413,2659874,2023,2
+1,4,2,1,0,6,1,1,0,1,0,0,1,0,0,0,0,0,0,02/11/2023,away,16340,30220,Biola,9,True,15,5,10,win,2390008,413,2659874,2023,2
+2,4,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,02/17/2023,neutral,16340,30128,Sioux Falls,9,True,21,11,10,win,2390321,413,2659874,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/25/2023,home,16340,30075,Mary,9,True,16,10,6,win,2421604,413,2659874,2023,2

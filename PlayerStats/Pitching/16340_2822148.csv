@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.2,0.0,3,0,0,3,1,0,10,7,1,0,0,0,0,0,0,0,0,0,0,28,2,1,1,0,0,3,1,0,02/11/2023,home,16340,1328,Rockhurst,9,True,7,6,1,win,2390055,30180,2822148,2023,2
+1,1,7.0,0.0,6,2,2,1,5,0,28,25,1,0,0,0,0,2,0,0,0,0,0,107,6,8,1,0,0,1,1,0,02/17/2023,home,16340,436,Mo.-St. Louis,9,True,10,2,8,win,2390350,30180,2822148,2023,2
+1,1,4.0,0.0,4,1,1,6,1,0,20,12,0,0,0,0,0,0,0,0,0,2,0,70,8,1,0,1,0,1,0,0,02/24/2023,away,16340,30054,Newman,9,True,0,2,-2,loss,2391413,30180,2822148,2023,2

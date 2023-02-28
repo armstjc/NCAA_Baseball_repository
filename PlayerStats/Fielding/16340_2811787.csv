@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,1,1,0,0,0,02/03/2023,neutral,16340,947,Arkansas Tech,9,True,0,5,-5,loss,2389695,95,2811787,2023,2
+3,1,4,0,0,0,0,0,0,0,02/05/2023,neutral,16340,9223,North Greenville,9,True,6,7,-1,loss,2389837,95,2811787,2023,2
+10,3,13,0,0,0,1,1,0,0,02/11/2023,home,16340,30147,Fresno Pacific,12,True,2,3,-1,loss,2390056,95,2811787,2023,2
+7,0,8,1,0,0,2,0,0,0,02/19/2023,home,16340,11416,Colorado Mesa,9,True,11,7,4,win,2418709,95,2811787,2023,2
+6,0,6,0,0,0,1,0,0,0,02/20/2023,home,16340,11416,Colorado Mesa,9,True,7,4,3,win,2418710,95,2811787,2023,2

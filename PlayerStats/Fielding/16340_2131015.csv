@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+9,0,9,0,0,0,0,0,0,0,02/18/2023,neutral,16340,8366,Goldey-Beacom,9,True,7,8,-1,loss,2390770,407,2131015,2023,2
+5,0,5,0,0,0,0,0,1,0,02/19/2023,away,16340,349,Le Moyne,9,True,16,5,11,win,2390896,407,2131015,2023,2
+4,0,5,1,0,0,0,0,0,0,02/19/2023,neutral,16340,8366,Goldey-Beacom,9,True,0,10,-10,loss,2391049,407,2131015,2023,2
+9,0,9,0,0,0,0,0,2,0,02/21/2023,away,16340,537,UNC Pembroke,9,True,15,11,4,win,2391154,407,2131015,2023,2
+9,0,9,0,0,0,0,0,0,0,02/23/2023,neutral,16340,241,Franklin Pierce,9,True,2,5,-3,loss,2391264,407,2131015,2023,2
+8,0,8,0,0,0,0,0,0,0,02/24/2023,neutral,16340,23157,Felician,9,True,5,6,-1,loss,2391378,407,2131015,2023,2
+3,0,3,0,0,0,0,0,0,0,02/25/2023,neutral,16340,468,Southern N.H.,9,True,8,12,-4,loss,2391949,407,2131015,2023,2
+6,0,6,0,0,0,0,0,0,0,02/26/2023,neutral,16340,349,Le Moyne,9,True,0,15,-15,loss,2392102,407,2131015,2023,2

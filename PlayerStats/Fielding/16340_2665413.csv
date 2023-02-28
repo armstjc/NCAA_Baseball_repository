@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,0,0,0,0,0,02/03/2023,away,16340,30090,Tex. A&M Int'l,9,True,10,1,9,win,2389676,767,2665413,2023,2
+1,0,1,0,0,0,0,0,0,0,02/05/2023,away,16340,30090,Tex. A&M Int'l,9,True,17,2,15,win,2389823,767,2665413,2023,2
+1,0,1,0,0,0,0,0,0,0,02/11/2023,home,16340,696,Tex. A&M-Kingsville,9,True,13,10,3,win,2407835,767,2665413,2023,2
+1,0,1,0,0,0,0,0,0,0,02/25/2023,neutral,16340,205,Mont. St. Billings,9,True,22,5,17,win,2391814,767,2665413,2023,2

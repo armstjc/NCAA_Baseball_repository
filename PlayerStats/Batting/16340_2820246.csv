@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/03/2023,away,16340,0,Wayland Baptist,9,True,3,9,-6,loss,2407802,8577,2820246,2023,2
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,02/11/2023,home,16340,9011,Fort Hays St.,9,True,1,22,-21,loss,2390087,8577,2820246,2023,2
+1,2,1,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,02/11/2023,home,16340,9011,Fort Hays St.,9,True,5,8,-3,loss,2407887,8577,2820246,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/17/2023,away,16340,92,Cal St. Dom. Hills,9,True,0,8,-8,loss,2408380,8577,2820246,2023,2
+0,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,away,16340,92,Cal St. Dom. Hills,9,True,0,9,-9,loss,2390607,8577,2820246,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/19/2023,away,16340,92,Cal St. Dom. Hills,9,True,0,19,-19,loss,2390903,8577,2820246,2023,2

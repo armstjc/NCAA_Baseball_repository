@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/10/2023,away,16340,9754,UC-Colo. Springs,9,True,7,5,2,win,2389928,628,2676679,2023,2
+2,0,2,0,0,0,0,0,0,0,02/18/2023,home,16340,2720,CSU Pueblo,9,True,2,1,1,win,2390659,628,2676679,2023,2
+1,0,1,0,0,0,0,0,0,0,02/18/2023,home,16340,2720,CSU Pueblo,9,True,7,3,4,win,2407908,628,2676679,2023,2
+1,0,1,0,0,0,0,0,0,0,02/24/2023,home,16340,98,Cal St. East Bay,9,True,11,2,9,win,2391416,628,2676679,2023,2
+6,0,6,0,0,0,0,0,0,0,02/25/2023,home,16340,98,Cal St. East Bay,9,True,8,3,5,win,2391742,628,2676679,2023,2
+2,0,2,0,0,0,0,0,0,0,02/25/2023,home,16340,98,Cal St. East Bay,9,True,2,14,-12,loss,2408342,628,2676679,2023,2

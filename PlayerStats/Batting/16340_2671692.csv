@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/18/2023,away,16340,1098,Glenville St.,9,True,2,7,-5,loss,2390698,384,2671692,2023,2
+0,3,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,02/18/2023,away,16340,1098,Glenville St.,10,True,0,1,-1,loss,2408009,384,2671692,2023,2
+2,2,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,1,02/19/2023,away,16340,1098,Glenville St.,10,True,13,5,8,win,2390988,384,2671692,2023,2
+1,6,2,0,0,2,0,2,0,0,0,0,1,0,0,0,0,0,0,02/24/2023,neutral,16340,8366,Goldey-Beacom,9,True,19,8,11,win,2391431,384,2671692,2023,2
+0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2023,neutral,16340,8366,Goldey-Beacom,9,True,0,10,-10,loss,2408637,384,2671692,2023,2

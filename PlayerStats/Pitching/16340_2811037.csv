@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.0,0.0,0,0,0,0,1,0,4,4,0,0,0,0,1,0,0,0,0,0,0,18,0,2,0,0,0,4,1,0,02/03/2023,home,16340,30054,Newman,9,True,7,14,-7,loss,2389698,30152,2811037,2023,2
+1,0,1.2,0.0,6,5,5,1,0,0,12,10,2,0,0,1,1,1,0,0,0,0,0,37,2,2,0,0,0,4,0,0,02/04/2023,home,16340,30054,Newman,9,True,12,23,-11,loss,2408090,30152,2811037,2023,2
+1,0,3.0,0.0,7,7,7,3,1,0,20,16,1,0,0,2,1,1,0,0,0,0,0,57,2,5,0,0,0,4,0,0,02/14/2023,home,16340,30075,Mary,9,True,14,26,-12,loss,2390204,30152,2811037,2023,2
+1,0,5.0,0.0,9,6,6,1,2,0,25,23,2,0,0,2,0,0,0,0,0,0,1,82,4,8,0,0,0,2,1,1,02/21/2023,home,16340,1009,Central Okla.,9,True,4,14,-10,loss,2391126,30152,2811037,2023,2
+1,0,2.0,0.0,2,2,2,0,1,0,9,8,0,0,0,2,0,1,0,0,0,0,0,32,3,2,0,0,0,6,0,0,02/26/2023,home,16340,947,Arkansas Tech,9,True,9,17,-8,loss,2421885,30152,2811037,2023,2

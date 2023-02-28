@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,02/17/2023,neutral,16340,349,Le Moyne,9,True,4,3,1,win,2390341,8366,2810178,2023,2
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,02/18/2023,neutral,16340,407,Mercy,9,True,8,7,1,win,2390770,8366,2810178,2023,2
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/19/2023,neutral,16340,407,Mercy,9,True,10,0,10,win,2391049,8366,2810178,2023,2
+1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2023,neutral,16340,384,Mansfield,9,True,8,19,-11,loss,2391431,8366,2810178,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,02/26/2023,neutral,16340,339,Kutztown,9,True,5,13,-8,loss,2392270,8366,2810178,2023,2

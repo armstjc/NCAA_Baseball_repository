@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,2,1,0,0,1,0,1,2,0,0,0,0,0,0,0,2,0,0,02/18/2023,away,16340,934,Alderson Broaddus,9,True,9,19,-10,loss,2408928,984,2511390,2023,2
+0,3,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,02/24/2023,home,16340,1347,Saint Rose,9,True,8,10,-2,loss,2391371,984,2511390,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/26/2023,home,16340,360,Lock Haven,9,True,0,18,-18,loss,2408395,984,2511390,2023,2

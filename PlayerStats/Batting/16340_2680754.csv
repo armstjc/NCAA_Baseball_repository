@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/24/2023,away,16340,1028,Concord,9,True,8,1,7,win,2391783,35,2680754,2023,2
+1,2,1,1,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,02/26/2023,away,16340,1028,Concord,9,True,6,5,1,win,2408520,35,2680754,2023,2
+1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,02/26/2023,away,16340,1028,Concord,9,True,9,4,5,win,2392146,35,2680754,2023,2

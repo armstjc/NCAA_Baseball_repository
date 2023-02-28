@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/18/2023,away,16340,1013,Charleston (WV),9,True,3,5,-2,loss,2408385,65,2146985,2023,2
+8,2,11,1,0,0,2,1,0,0,02/19/2023,away,16340,1013,Charleston (WV),9,True,3,7,-4,loss,2420281,65,2146985,2023,2

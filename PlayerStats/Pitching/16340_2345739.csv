@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,3.2,0.0,1,0,0,0,3,0,12,12,0,0,0,0,0,0,0,0,0,0,0,32,3,4,1,0,0,2,0,0,02/04/2023,home,16340,1462,Wingate,9,True,4,3,1,win,2389744,230,2345739,2023,2
+1,0,2.0,0.0,1,0,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0,0,30,1,2,1,0,0,2,1,0,02/11/2023,neutral,16340,30093,AUM,9,True,3,1,2,win,2390032,230,2345739,2023,2
+1,0,2.2,0.0,1,0,0,0,2,0,9,7,0,0,0,0,0,1,0,2,0,1,0,28,4,1,1,0,0,2,1,0,02/18/2023,away,16340,11740,West Florida,9,True,2,0,2,win,2390707,230,2345739,2023,2
+1,0,1.2,0.0,1,0,0,0,2,0,7,6,0,0,0,0,0,1,0,0,0,0,0,30,1,2,0,0,0,2,2,0,02/24/2023,home,16340,20794,Lynn,9,True,5,6,-1,loss,2391550,230,2345739,2023,2

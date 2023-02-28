@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/05/2023,home,16340,1096,Georgia College,10,True,5,3,2,win,2389848,689,2304283,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/10/2023,home,16340,561,Quincy,9,True,7,8,-1,loss,2390000,689,2304283,2023,2
+0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,02/18/2023,home,16340,395,Maryville (MO),9,True,10,6,4,win,2390780,689,2304283,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/25/2023,away,16340,30045,Palm Beach Atl.,9,True,10,2,8,win,2391778,689,2304283,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/27/2023,home,16340,30221,Davenport,9,True,2,1,1,win,2392329,689,2304283,2023,2

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+8,1,9,0,0,1,1,1,0,0,02/18/2023,neutral,16340,1079,Findlay,9,True,1,7,-6,loss,2390718,30063,2134110,2023,2
+13,3,16,0,0,0,0,2,0,0,02/23/2023,home,16340,30141,Walsh,9,True,6,0,6,win,2421285,30063,2134110,2023,2
+9,0,9,0,0,0,0,0,0,0,02/26/2023,home,16340,30141,Walsh,9,True,9,1,8,win,2392242,30063,2134110,2023,2

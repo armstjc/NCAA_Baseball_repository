@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,1,6,0,0,2,3,1,0,0,02/10/2023,away,16340,2683,Belmont Abbey,9,True,2,7,-5,loss,2389968,30002,2312157,2023,2
+5,0,6,1,0,1,0,0,0,0,02/10/2023,away,16340,2683,Belmont Abbey,9,True,4,5,-1,loss,2408722,30002,2312157,2023,2
+9,1,11,1,0,0,1,1,0,0,02/11/2023,away,16340,2683,Belmont Abbey,11,True,7,9,-2,loss,2390038,30002,2312157,2023,2
+16,1,18,1,0,0,9,0,0,0,02/17/2023,home,16340,1176,Lincoln Memorial,9,True,0,10,-10,loss,2390392,30002,2312157,2023,2
+10,1,11,0,0,0,0,1,0,0,02/18/2023,home,16340,1176,Lincoln Memorial,11,True,5,7,-2,loss,2390713,30002,2312157,2023,2
+1,0,1,0,0,0,0,0,0,0,02/18/2023,home,16340,1176,Lincoln Memorial,9,True,4,8,-4,loss,2408116,30002,2312157,2023,2
+11,0,11,0,0,0,1,0,0,0,02/22/2023,away,16340,10,Alabama Huntsville,9,True,6,13,-7,loss,2391224,30002,2312157,2023,2
+12,0,12,0,0,0,0,0,0,0,02/23/2023,home,16340,354,Lewis,9,True,5,4,1,win,2421349,30002,2312157,2023,2
+12,0,12,0,0,0,0,0,0,0,02/24/2023,home,16340,354,Lewis,9,True,5,1,4,win,2391334,30002,2312157,2023,2
+3,0,3,0,0,0,0,0,0,0,02/24/2023,home,16340,354,Lewis,9,True,6,0,6,win,2408449,30002,2312157,2023,2

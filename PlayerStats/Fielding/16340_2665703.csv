@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,5,1,0,0,0,0,0,0,02/04/2023,neutral,16340,1238,Montevallo,9,True,10,11,-1,loss,2389803,130,2665703,2023,2
+10,1,11,0,0,0,2,0,0,0,02/11/2023,home,16340,947,Arkansas Tech,8,True,2,1,1,win,2417955,130,2665703,2023,2
+14,0,14,0,0,0,1,0,0,0,02/17/2023,home,16340,30221,Davenport,9,True,4,5,-1,loss,2390372,130,2665703,2023,2
+3,0,3,0,0,0,0,0,0,0,02/21/2023,home,16340,1328,Rockhurst,9,True,12,2,10,win,2391229,130,2665703,2023,2
+7,1,9,1,1,0,0,0,0,0,02/24/2023,home,16340,507,Northwest Mo. St.,9,True,4,1,3,win,2391450,130,2665703,2023,2

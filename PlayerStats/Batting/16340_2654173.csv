@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/12/2023,away,16340,1257,Newberry,9,True,5,15,-10,loss,2389986,11276,2654173,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/12/2023,away,16340,1257,Newberry,10,True,3,4,-1,loss,2390178,11276,2654173,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/26/2023,home,16340,9680,Embry-Riddle (FL),10,True,6,7,-1,loss,2392248,11276,2654173,2023,2

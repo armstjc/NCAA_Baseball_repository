@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/05/2023,away,16340,1346,St. Mary's (TX),9,True,0,8,-8,loss,2408214,30088,2804672,2023,2
+0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,02/06/2023,away,16340,1346,St. Mary's (TX),9,True,8,4,4,win,2389860,30088,2804672,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/11/2023,home,16340,30177,Lubbock Christian,9,True,2,16,-14,loss,2390060,30088,2804672,2023,2
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/12/2023,home,16340,30177,Lubbock Christian,10,True,5,4,1,win,2390151,30088,2804672,2023,2

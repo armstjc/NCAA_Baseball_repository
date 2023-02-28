@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,1,0,0,0,02/14/2023,away,16340,30123,Academy of Art,9,True,8,9,-1,loss,2390192,1010,2815557,2023,2
+0,0,1,1,0,0,0,0,0,0,02/18/2023,away,16340,103,Stanislaus St.,9,True,0,6,-6,loss,2408002,1010,2815557,2023,2
+0,0,0,0,0,0,2,0,0,0,02/26/2023,home,16340,1343,Saint Martin's,9,True,6,4,2,win,2408393,1010,2815557,2023,2

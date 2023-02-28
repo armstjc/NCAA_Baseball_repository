@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,0,5,0,0,0,0,0,0,0,02/19/2023,home,16340,422,Miles,9,True,3,8,-5,loss,2408940,55,2669799,2023,2
+0,0,0,0,0,0,1,1,0,0,02/20/2023,home,16340,422,Miles,9,True,3,21,-18,loss,2390939,55,2669799,2023,2
+3,0,3,0,0,0,0,0,0,0,02/23/2023,home,16340,357,Lincoln (PA),9,True,23,3,20,win,2408328,55,2669799,2023,2
+0,1,1,0,0,0,0,0,0,0,02/27/2023,home,16340,350,LeMoyne-Owen,9,True,14,11,3,win,2391795,55,2669799,2023,2

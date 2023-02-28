@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,2,3,0,0,0,0,0,1,0,02/24/2023,neutral,16340,437,Molloy,9,True,2,6,-4,loss,2391370,74,2136730,2023,2
+4,0,4,0,0,0,0,0,0,0,02/24/2023,neutral,16340,437,Molloy,9,True,2,10,-8,loss,2408516,74,2136730,2023,2
+0,3,3,0,0,0,0,0,0,0,02/25/2023,neutral,16340,349,Le Moyne,9,True,1,4,-3,loss,2391749,74,2136730,2023,2
+5,2,7,0,0,0,0,0,2,0,02/26/2023,neutral,16340,3,Adelphi,11,True,3,2,1,win,2392180,74,2136730,2023,2

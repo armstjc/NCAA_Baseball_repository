@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.0,0.0,1,1,1,0,1,0,5,5,0,0,0,0,1,0,0,2,1,0,0,11,0,2,0,0,0,4,0,0,02/05/2023,neutral,16340,130,Central Mo.,9,True,5,7,-2,loss,2389868,30092,2800637,2023,2
+1,0,3.0,0.0,0,0,0,0,1,0,10,9,0,0,0,0,0,1,0,0,0,0,0,42,3,5,0,0,0,3,0,0,02/11/2023,away,16340,608,Saint Leo,9,True,3,4,-1,loss,2390077,30092,2800637,2023,2
+1,0,0.2,0.0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,3,1,0,1,7,1,1,0,0,0,2,0,0,02/26/2023,home,16340,1096,Georgia College,9,True,2,1,1,win,2392136,30092,2800637,2023,2

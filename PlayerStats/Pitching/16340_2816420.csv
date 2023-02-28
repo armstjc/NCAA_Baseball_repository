@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,2.0,0.0,4,2,2,1,1,0,11,10,0,0,0,0,1,0,0,0,0,0,0,37,3,2,0,0,0,1,0,0,02/01/2023,home,16340,30093,AUM,10,True,4,3,1,win,2389630,422,2816420,2023,2
+1,1,6.0,0.0,3,3,1,5,2,0,28,23,1,0,0,0,1,0,0,0,0,0,0,112,6,8,0,0,0,1,0,0,02/04/2023,home,16340,30151,Shorter,10,True,7,6,1,win,2389782,422,2816420,2023,2
+1,1,7.0,0.0,5,5,1,3,10,0,31,26,0,0,0,0,1,1,0,0,0,0,0,121,2,7,1,0,0,1,0,1,02/24/2023,away,16340,445,Morehouse,9,True,14,5,9,win,2391423,422,2816420,2023,2

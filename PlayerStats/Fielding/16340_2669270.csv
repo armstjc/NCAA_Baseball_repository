@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+6,0,6,0,0,0,0,0,0,0,02/02/2023,away,16340,30147,Fresno Pacific,10,True,1,2,-1,loss,2389662,1446,2669270,2023,2
+2,0,2,0,0,0,0,0,0,0,02/18/2023,home,16340,0,Eastern Ore.,13,True,5,4,1,win,2390616,1446,2669270,2023,2
+5,0,5,0,0,0,0,0,0,0,02/18/2023,home,16340,0,Eastern Ore.,8,True,1,2,-1,loss,2408941,1446,2669270,2023,2
+1,0,1,0,0,0,0,0,0,0,02/19/2023,home,16340,0,Eastern Ore.,9,True,9,0,9,win,2408576,1446,2669270,2023,2

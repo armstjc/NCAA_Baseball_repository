@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,5,2,0,0,0,0,0,0,02/03/2023,away,16340,537,UNC Pembroke,9,True,0,18,-18,loss,2389677,593,2354393,2023,2
+1,4,6,1,0,0,0,0,0,0,02/04/2023,away,16340,537,UNC Pembroke,9,True,6,13,-7,loss,2412143,593,2354393,2023,2
+3,0,3,0,0,0,0,0,0,0,02/04/2023,away,16340,537,UNC Pembroke,9,True,2,12,-10,loss,2412148,593,2354393,2023,2
+2,4,6,0,0,0,0,0,0,0,02/10/2023,away,16340,1318,Post,9,True,16,10,6,win,2417893,593,2354393,2023,2
+3,1,4,0,0,0,0,0,0,0,02/10/2023,away,16340,1318,Post,9,True,4,7,-3,loss,2389942,593,2354393,2023,2
+1,0,1,0,0,0,0,0,0,0,02/12/2023,away,16340,1318,Post,9,True,8,15,-7,loss,2390034,593,2354393,2023,2

@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.2,0.0,1,0,0,0,1,0,7,6,0,0,0,0,0,1,0,0,0,0,0,25,0,4,0,0,0,2,0,0,02/04/2023,home,16340,11740,West Florida,11,True,3,2,1,win,2389795,233,2146854,2023,2
+1,0,2.0,0.0,2,0,0,0,2,0,8,8,1,0,0,0,0,0,0,0,0,0,0,29,3,1,0,0,0,5,0,0,02/05/2023,home,16340,11740,West Florida,10,True,6,7,-1,loss,2389862,233,2146854,2023,2
+1,0,0.2,0.0,1,1,1,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,19,1,0,0,0,0,4,0,0,02/07/2023,home,16340,208,Eckerd,9,True,6,8,-2,loss,2389899,233,2146854,2023,2
+1,0,1.0,0.0,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,1,0,0,0,0,3,0,0,02/17/2023,away,16340,1096,Georgia College,10,True,6,5,1,win,2390431,233,2146854,2023,2
+1,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,0,0,0,0,17,0,1,0,0,0,2,1,0,02/24/2023,away,16340,208,Eckerd,9,True,8,4,4,win,2391544,233,2146854,2023,2

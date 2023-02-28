@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/03/2023,neutral,16340,30105,Ark.-Fort Smith,9,True,0,6,-6,loss,2389728,8965,2319802,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/04/2023,neutral,16340,12810,Northeastern St.,9,True,2,14,-12,loss,2389766,8965,2319802,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/11/2023,away,16340,12810,Northeastern St.,9,True,1,9,-8,loss,2390007,8965,2319802,2023,2
+0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/17/2023,home,16340,8411,Ark.-Monticello,9,True,8,11,-3,loss,2390296,8965,2319802,2023,2
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2023,home,16340,8411,Ark.-Monticello,9,True,2,9,-7,loss,2390566,8965,2319802,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,home,16340,8411,Ark.-Monticello,9,True,0,9,-9,loss,2408885,8965,2319802,2023,2

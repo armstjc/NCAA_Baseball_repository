@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/18/2023,away,16340,638,Shippensburg,9,True,2,10,-8,loss,2390662,246,1975599,2023,2
+1,0,1,0,0,0,0,0,0,0,02/18/2023,away,16340,638,Shippensburg,9,True,1,4,-3,loss,2407911,246,1975599,2023,2
+1,0,1,0,0,0,0,0,0,0,02/19/2023,away,16340,638,Shippensburg,9,True,8,11,-3,loss,2390935,246,1975599,2023,2
+1,0,1,0,0,0,0,0,0,0,02/25/2023,neutral,16340,1403,Tiffin,9,True,20,13,7,win,2421734,246,1975599,2023,2
+2,0,2,0,0,0,0,0,0,0,02/26/2023,neutral,16340,1079,Findlay,9,True,7,14,-7,loss,2392272,246,1975599,2023,2

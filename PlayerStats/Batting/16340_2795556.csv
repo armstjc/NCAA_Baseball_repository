@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/03/2023,home,16340,216,Emory & Henry,9,True,4,3,1,win,2389720,30192,2795556,2023,2
+1,1,1,1,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,02/04/2023,home,16340,216,Emory & Henry,9,True,2,1,1,win,2389776,30192,2795556,2023,2
+1,6,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,02/10/2023,home,16340,1023,Coker,13,True,6,8,-2,loss,2389987,30192,2795556,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,away,16340,1170,Lenoir-Rhyne,9,True,2,16,-14,loss,2408003,30192,2795556,2023,2

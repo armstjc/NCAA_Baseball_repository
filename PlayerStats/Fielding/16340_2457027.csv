@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/08/2023,away,16340,30013,Lee,9,True,10,7,3,win,2389908,1176,2457027,2023,2
+3,0,3,0,0,0,0,0,0,0,02/11/2023,home,16340,1167,Lander,9,True,14,9,5,win,2390181,1176,2457027,2023,2
+3,0,3,0,0,0,0,0,0,0,02/11/2023,home,16340,1167,Lander,11,True,12,11,1,win,2390111,1176,2457027,2023,2
+2,0,3,1,0,0,0,0,0,0,02/17/2023,away,16340,30002,Trevecca Nazarene,9,True,10,0,10,win,2390392,1176,2457027,2023,2
+3,0,3,0,0,0,0,0,0,0,02/18/2023,away,16340,30002,Trevecca Nazarene,11,True,7,5,2,win,2390713,1176,2457027,2023,2
+1,0,1,0,0,0,0,0,0,0,02/18/2023,away,16340,30002,Trevecca Nazarene,9,True,8,4,4,win,2408116,1176,2457027,2023,2
+3,0,3,0,0,0,0,0,0,0,02/21/2023,away,16340,1072,Erskine,9,True,6,9,-3,loss,2391135,1176,2457027,2023,2

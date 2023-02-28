@@ -183,7 +183,7 @@ def generate_league_pitching_stats():
 def generate_park_factors(season:int):
     """
     """
-    main_df = pd.read_parquet(f'game_stats/player/batting_game_stats/parquet/{season}_batting.parquet')
+    main_df = pd.read_parquet(f'game_stats/team/batting_game_stats/parquet/{season}_batting.parquet')
     main_df['G'] = 1
 
     home_gm_df = main_df[main_df['field'] == 'home']
@@ -340,6 +340,8 @@ def generate_season_player_pitching_stats(season:int):
         lg_era = league_df['ERA'].iloc[0]
         fip_const = league_df['FIP_const'].iloc[0]
 
+        del league_df
+
         main_df['App'] = 1
         main_df = main_df.astype({'IP':'string'})
         main_df[['whole_innings','part_innings']] = main_df['IP'].str.split('.',expand=True)
@@ -352,17 +354,23 @@ def generate_season_player_pitching_stats(season:int):
         # main_df = main_df.drop(['Pitches'], axis=1)
 
         main_df = main_df.rename(columns={'2B-A':'2B','3B-A':'3B','HR-A':'HR','Inh Run':'IR','Inh Run Score':'IRS','HB':'HBP'})
-        
+
+        park_factors_df = pd.read_parquet(f'season_stats/league/park_factors/parquet/{season}_park_factors.parquet')
+        park_factors_df = park_factors_df.filter(items=['school_id','PF'])
+        main_df = pd.merge(main_df, park_factors_df, left_on='school_id', right_on='school_id', how='left')
+
+
         ## Win-loss percentage
         main_df['W-L%'] = main_df['W'] / (main_df['W'] + main_df['L'])
         
         ## Earned Run Average (ERA)
         main_df['ERA'] = 9 * (main_df['ER'] / main_df['IP'])
 
-        ## Earned Run Average (ERA)
-        main_df['ERA+'] = 100 * (lg_era / main_df['ERA'])
-        main_df['ERA+'] = main_df['ERA+'].round(0)
+        ## Earned Run Average (ERA-)
+        main_df['ERA-'] = 100 * ((main_df['ERA'] + (main_df['ERA'] - (main_df['ERA'] * (main_df['PF']/100)))) / lg_era)
+        main_df['ERA-'] = main_df['ERA-'].round(0)
         
+
         ## Field Indipendent Pitching
         main_df['FIP'] = (((13 * main_df['HR']) + (3 * (main_df['BB'] + main_df['HBP'])) - (2 * main_df['SO']))/main_df['IP']) + fip_const
 
@@ -570,8 +578,9 @@ def generate_season_team_pitching_stats(season:int):
         main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division'],as_index=False)\
             ['App','GS','W','L','SV','CG','SHO','IP','H','R','ER','2B-A','3B-A','HR-A','BB','IBB','SO','HB','Bk','WP','BF','P-OAB','Inh Run','Inh Run Score','SHA','SFA','GO','FO','KL','pickoffs'].sum())
 
-        # main_df['PI'] = main_df['Pitches']
-        # main_df = main_df.drop(['Pitches'], axis=1)
+        park_factors_df = pd.read_parquet(f'season_stats/league/park_factors/parquet/{season}_park_factors.parquet')
+        park_factors_df = park_factors_df.filter(items=['school_id','PF'])
+        main_df = pd.merge(main_df, park_factors_df, left_on='school_id', right_on='school_id', how='left')
 
         main_df = main_df.rename(columns={'2B-A':'2B','3B-A':'3B','HR-A':'HR','Inh Run':'IR','Inh Run Score':'IRS','HB':'HBP'})
         
@@ -581,9 +590,9 @@ def generate_season_team_pitching_stats(season:int):
         ## Earned Run Average (ERA)
         main_df['ERA'] = 9 * (main_df['ER'] / main_df['IP'])
 
-        ## Earned Run Average (ERA)
-        main_df['ERA+'] = 100 * (lg_era / main_df['ERA'])
-        main_df['ERA+'] = main_df['ERA+'].round(0)
+        ## Earned Run Average (ERA-)
+        main_df['ERA-'] = 100 * ((main_df['ERA'] + (main_df['ERA'] - (main_df['ERA'] * (main_df['PF']/100)))) / lg_era)
+        main_df['ERA-'] = main_df['ERA-'].round(0)
         
         ## Field Indipendent Pitching
         main_df['FIP'] = (((13 * main_df['HR']) + (3 * (main_df['BB'] + main_df['HBP'])) - (2 * main_df['SO']))/main_df['IP']) + fip_const
@@ -671,7 +680,7 @@ def generate_team_game_batting_stats(season:int):
         lg_slg = league_df['SLG'].iloc[0]
 
         main_df['G'] = 1
-        main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','field','opponent_id','opponent_name','runs_scored','runs_allowed','run_difference'],as_index=False)\
+        main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','field','opponent_id','opponent_name','runs_scored','runs_allowed'],as_index=False)\
             ['AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP'].sum())
 
         ## Runs Created (Technical version)
@@ -790,11 +799,12 @@ def generate_team_game_pitching_stats(season:int):
         main_df[['whole_innings','part_innings']] = main_df['IP'].str.split('.',expand=True)
         main_df = main_df.astype({'whole_innings':'int','part_innings':'int'})
         main_df['IP'] = main_df['whole_innings'] + (main_df['part_innings']/3)
-        main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','field','opponent_id','opponent_name','runs_scored','runs_allowed','run_difference'],as_index=False)\
+        main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','field','opponent_id','opponent_name','runs_scored','runs_allowed'],as_index=False)\
             ['W','L','SV','CG','SHO','IP','H','R','ER','2B-A','3B-A','HR-A','BB','IBB','SO','HB','Bk','WP','BF','P-OAB','Inh Run','Inh Run Score','SHA','SFA','GO','FO','KL','pickoffs'].sum())
 
-        # main_df['PI'] = main_df['Pitches']
-        # main_df = main_df.drop(['Pitches'], axis=1)
+        park_factors_df = pd.read_parquet(f'season_stats/league/park_factors/parquet/{season}_park_factors.parquet')
+        park_factors_df = park_factors_df.filter(items=['school_id','PF'])
+        main_df = pd.merge(main_df, park_factors_df, left_on='school_id', right_on='school_id', how='left')
 
         main_df = main_df.rename(columns={'2B-A':'2B','3B-A':'3B','HR-A':'HR','Inh Run':'IR','Inh Run Score':'IRS','HB':'HBP'})
         
@@ -804,9 +814,9 @@ def generate_team_game_pitching_stats(season:int):
         ## Earned Run Average (ERA)
         main_df['ERA'] = 9 * (main_df['ER'] / main_df['IP'])
 
-        ## Earned Run Average (ERA)
-        main_df['ERA+'] = 100 * (lg_era / main_df['ERA'])
-        main_df['ERA+'] = main_df['ERA+'].round(0)
+        ## Earned Run Average (ERA-)
+        main_df['ERA-'] = 100 * ((main_df['ERA'] + (main_df['ERA'] - (main_df['ERA'] * (main_df['PF']/100)))) / lg_era)
+        main_df['ERA-'] = main_df['ERA-'].round(0)
         
         ## Field Indipendent Pitching
         main_df['FIP'] = (((13 * main_df['HR']) + (3 * (main_df['BB'] + main_df['HBP'])) - (2 * main_df['SO']))/main_df['IP']) + fip_const
@@ -860,7 +870,7 @@ def generate_team_game_fielding_stats(season:int):
     part_df = pd.read_parquet(f'game_stats/player/fielding_game_stats/parquet/{season}_fielding.parquet')
     main_df = pd.concat([main_df,part_df],ignore_index=True)
     
-    finished_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','field','opponent_id','opponent_name','runs_scored','runs_allowed','run_difference'],as_index=False)\
+    finished_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','field','opponent_id','opponent_name','runs_scored','runs_allowed'],as_index=False)\
         ['TC','PO','A','E','CI','PB','SBA','CSB','IDP','TP'].sum())
     ## Fielding Percentage
     finished_df['FLD%'] = (finished_df['PO'] + finished_df['A']) / (finished_df['PO'] + finished_df['A'] + finished_df['E'])
@@ -882,6 +892,8 @@ if __name__ == "__main__":
 
     for i in range(2013,current_year+1):
         print(f'\n\nGenerating stats for the {i} season.\n\n')
+        generate_park_factors(i)
+
         generate_team_game_batting_stats(i)
         generate_team_game_pitching_stats(i)
 
@@ -896,4 +908,3 @@ if __name__ == "__main__":
             generate_season_team_fielding_stats(i)
             generate_season_player_fielding_stats(i)
 
-        generate_park_factors(i)

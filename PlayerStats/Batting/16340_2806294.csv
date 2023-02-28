@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/11/2023,away,16340,15646,Barton,9,True,2,0,2,win,2417825,1245,2806294,2023,2
+0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/11/2023,away,16340,15646,Barton,9,True,9,6,3,win,2417826,1245,2806294,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,home,16340,30193,Emmanuel (GA),9,True,2,1,1,win,2408871,1245,2806294,2023,2
+0,4,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,02/19/2023,home,16340,30193,Emmanuel (GA),11,True,2,1,1,win,2418557,1245,2806294,2023,2
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/24/2023,home,16340,15646,Barton,9,True,5,4,1,win,2391639,1245,2806294,2023,2

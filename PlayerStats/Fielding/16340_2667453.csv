@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,0,5,0,0,0,0,0,3,0,02/02/2023,home,16340,0,Providence Christian,9,True,15,2,13,win,2389639,100,2667453,2023,2
+10,1,11,0,0,0,0,0,0,0,02/03/2023,home,16340,0,Master's,9,True,1,9,-8,loss,2389685,100,2667453,2023,2
+7,0,7,0,0,0,0,0,1,0,02/07/2023,home,16340,205,Mont. St. Billings,9,True,3,11,-8,loss,2389874,100,2667453,2023,2
+7,0,7,0,0,0,0,0,0,0,02/08/2023,home,16340,205,Mont. St. Billings,9,True,11,12,-1,loss,2389901,100,2667453,2023,2
+10,0,10,0,0,0,0,0,1,0,02/17/2023,home,16340,155,Colo. Sch. of Mines,9,True,7,4,3,win,2390249,100,2667453,2023,2

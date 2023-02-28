@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,1,1,0,0,0,0,0,0,02/04/2023,home,16340,996,Cameron,9,True,10,8,2,win,2408209,30177,2656421,2023,2
+1,1,2,0,0,0,0,0,0,0,02/12/2023,away,16340,30088,Tex. Permian Basin,10,True,4,5,-1,loss,2390151,30177,2656421,2023,2
+0,1,1,0,0,0,0,0,0,0,02/23/2023,away,16340,30105,Ark.-Fort Smith,15,True,9,8,1,win,2391862,30177,2656421,2023,2

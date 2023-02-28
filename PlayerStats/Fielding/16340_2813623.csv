@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,0,0,0,0,0,02/18/2023,neutral,16340,143,Clarion,9,True,4,3,1,win,2390674,765,2813623,2023,2
+5,0,5,0,0,0,0,0,1,0,02/18/2023,neutral,16340,143,Clarion,9,True,6,4,2,win,2407997,765,2813623,2023,2
+9,0,10,1,0,0,0,0,1,0,02/19/2023,neutral,16340,1403,Tiffin,8,True,10,15,-5,loss,2418502,765,2813623,2023,2
+8,0,8,0,0,0,0,0,2,0,02/19/2023,neutral,16340,1403,Tiffin,9,True,4,3,1,win,2418476,765,2813623,2023,2
+9,1,10,0,0,0,0,0,1,0,02/24/2023,neutral,16340,1059,D'Youville,9,True,5,1,4,win,2391341,765,2813623,2023,2
+5,1,6,0,0,0,0,0,0,0,02/25/2023,neutral,16340,408,Mercyhurst,9,True,5,3,2,win,2391681,765,2813623,2023,2
+7,2,9,0,0,0,0,0,1,0,02/26/2023,neutral,16340,546,Pitt.-Johnstown,9,True,6,1,5,win,2392298,765,2813623,2023,2

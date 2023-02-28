@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/04/2023,home,16340,9754,UC-Colo. Springs,9,True,11,3,8,win,2408212,91,2504329,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/11/2023,home,16340,155,Colo. Sch. of Mines,11,True,4,3,1,win,2390106,91,2504329,2023,2
+0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,02/11/2023,home,16340,155,Colo. Sch. of Mines,9,True,5,4,1,win,2407892,91,2504329,2023,2
+1,4,1,0,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,02/12/2023,home,16340,155,Colo. Sch. of Mines,9,True,4,7,-3,loss,2390146,91,2504329,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/21/2023,away,16340,30220,Biola,9,True,9,3,6,win,2391127,91,2504329,2023,2

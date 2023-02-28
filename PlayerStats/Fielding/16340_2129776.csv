@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,2,5,0,0,0,0,0,1,0,02/17/2023,neutral,16340,8366,Goldey-Beacom,9,True,3,4,-1,loss,2390341,349,2129776,2023,2
+0,0,1,1,0,0,0,0,0,0,02/17/2023,neutral,16340,8366,Goldey-Beacom,9,True,1,5,-4,loss,2408384,349,2129776,2023,2
+2,3,5,0,0,0,0,0,0,0,02/18/2023,neutral,16340,407,Mercy,9,True,10,6,4,win,2390772,349,2129776,2023,2
+2,1,3,0,0,0,0,0,0,0,02/19/2023,home,16340,407,Mercy,9,True,5,16,-11,loss,2390896,349,2129776,2023,2
+3,0,3,0,0,0,0,0,0,0,02/24/2023,neutral,16340,1348,St. Thomas Aquinas,9,True,4,13,-9,loss,2391367,349,2129776,2023,2
+3,1,4,0,0,0,0,0,0,0,02/24/2023,neutral,16340,1348,St. Thomas Aquinas,8,True,2,1,1,win,2408514,349,2129776,2023,2
+2,4,6,0,0,0,0,0,0,0,02/25/2023,neutral,16340,74,Bridgeport,9,True,4,1,3,win,2391749,349,2129776,2023,2
+2,4,6,0,0,0,0,0,1,0,02/26/2023,neutral,16340,407,Mercy,9,True,15,0,15,win,2392102,349,2129776,2023,2

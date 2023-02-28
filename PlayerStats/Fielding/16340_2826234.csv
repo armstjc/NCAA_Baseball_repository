@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,2,0,0,0,02/18/2023,away,16340,25,Angelo St.,9,True,5,6,-1,loss,2390709,30088,2826234,2023,2
+0,0,0,0,0,0,3,0,0,0,02/18/2023,away,16340,25,Angelo St.,9,True,8,19,-11,loss,2408112,30088,2826234,2023,2

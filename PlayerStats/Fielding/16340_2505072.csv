@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+10,0,10,0,0,0,0,0,0,0,02/10/2023,away,16340,689,Tampa,9,True,8,7,1,win,2390000,561,2505072,2023,2
+2,0,2,0,0,0,0,0,0,0,02/11/2023,away,16340,689,Tampa,9,True,2,14,-12,loss,2390110,561,2505072,2023,2
+8,0,9,1,0,0,3,0,0,0,02/12/2023,away,16340,689,Tampa,9,True,11,10,1,win,2390150,561,2505072,2023,2
+10,0,11,1,0,0,0,0,0,0,02/14/2023,away,16340,608,Saint Leo,9,True,10,2,8,win,2390218,561,2505072,2023,2
+8,0,8,0,0,0,0,0,0,0,02/16/2023,away,16340,584,Rollins,9,True,11,7,4,win,2390243,561,2505072,2023,2
+9,0,9,0,0,0,1,0,0,0,02/18/2023,away,16340,584,Rollins,9,True,3,9,-6,loss,2390637,561,2505072,2023,2

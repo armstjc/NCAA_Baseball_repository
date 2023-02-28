@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,4,3,1,0,7,1,4,0,0,0,0,0,0,0,0,0,0,0,02/03/2023,home,16340,0,Master's,9,True,8,4,4,win,2408910,100,2667442,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,02/07/2023,home,16340,205,Mont. St. Billings,9,True,3,11,-8,loss,2389874,100,2667442,2023,2
+0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,02/08/2023,home,16340,205,Mont. St. Billings,9,True,11,12,-1,loss,2389901,100,2667442,2023,2
+1,4,3,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,02/18/2023,home,16340,155,Colo. Sch. of Mines,9,True,8,0,8,win,2408795,100,2667442,2023,2

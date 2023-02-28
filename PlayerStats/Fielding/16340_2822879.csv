@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,1,1,0,0,02/11/2023,away,16340,30175,Holy Names,9,True,2,3,-1,loss,2407889,103,2822879,2023,2
+0,2,2,0,0,0,0,0,0,0,02/18/2023,home,16340,1010,Central Wash.,9,True,9,1,8,win,2390691,103,2822879,2023,2
+0,0,0,0,0,0,1,0,0,0,02/26/2023,home,16340,30055,Cal St. Monterey Bay,9,True,5,12,-7,loss,2392133,103,2822879,2023,2

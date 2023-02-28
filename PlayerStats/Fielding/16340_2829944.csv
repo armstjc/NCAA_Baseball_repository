@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/20/2023,home,16340,422,Miles,9,True,3,21,-18,loss,2390939,55,2829944,2023,2
+1,0,1,0,0,0,0,0,0,0,02/27/2023,home,16340,350,LeMoyne-Owen,9,True,14,11,3,win,2391795,55,2829944,2023,2

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,1,1,0,0,2,1,0,0,02/03/2023,away,16340,1001,Catawba,9,True,3,10,-7,loss,2389717,638,2143745,2023,2
+0,1,2,1,0,0,1,0,0,0,02/10/2023,away,16340,19117,Salem (WV),9,True,4,2,2,win,2415369,638,2143745,2023,2
+0,0,1,1,0,0,2,0,0,0,02/18/2023,home,16340,246,Gannon,9,True,10,2,8,win,2390662,638,2143745,2023,2
+0,1,1,0,0,0,0,0,0,0,02/24/2023,home,16340,643,Slippery Rock,12,True,4,6,-2,loss,2391418,638,2143745,2023,2

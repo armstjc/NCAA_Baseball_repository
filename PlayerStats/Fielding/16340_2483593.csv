@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+8,1,9,0,0,0,0,0,0,0,02/18/2023,home,16340,0,Oregon Tech,9,True,2,5,-3,loss,2390669,1343,2483593,2023,2
+5,0,5,0,0,0,0,0,0,0,02/19/2023,home,16340,0,Oregon Tech,10,True,2,3,-1,loss,2390957,1343,2483593,2023,2
+4,0,4,0,0,0,0,0,0,0,02/19/2023,home,16340,0,Oregon Tech,9,True,7,2,5,win,2408727,1343,2483593,2023,2
+7,0,9,2,0,0,0,0,2,0,02/26/2023,away,16340,1010,Central Wash.,9,True,13,10,3,win,2392170,1343,2483593,2023,2
+8,0,8,0,0,0,0,0,0,0,02/26/2023,away,16340,1010,Central Wash.,9,True,4,6,-2,loss,2408393,1343,2483593,2023,2

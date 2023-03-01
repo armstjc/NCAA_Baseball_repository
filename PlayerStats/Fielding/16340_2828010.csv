@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,0,5,0,0,0,0,0,0,0,02/25/2023,away,16340,702,UT Arlington,9,True,12,8,4,win,2391913,402,2828010,2023,1
 8,1,9,0,0,0,0,0,0,0,02/26/2023,away,16340,702,UT Arlington,9,True,6,12,-6,loss,2392231,402,2828010,2023,1
+9,1,10,0,0,0,0,0,0,0,02/28/2023,home,16340,671,Louisiana,9,True,5,4,1,win,2392470,402,2828010,2023,1

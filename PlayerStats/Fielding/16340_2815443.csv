@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/19/2023,home,16340,702,UT Arlington,9,True,3,5,-2,loss,2391004,26172,2815443,2023,1
 1,1,2,0,0,0,0,0,0,0,02/24/2023,home,16340,2743,UIW,9,True,4,10,-6,loss,2391282,26172,2815443,2023,1
+3,1,4,0,0,0,0,0,0,0,02/26/2023,home,16340,732,Utah,9,True,6,7,-1,loss,2392003,26172,2815443,2023,1
+2,0,2,0,0,0,0,0,0,0,02/27/2023,home,16340,732,Utah,9,True,3,6,-3,loss,2392306,26172,2815443,2023,1

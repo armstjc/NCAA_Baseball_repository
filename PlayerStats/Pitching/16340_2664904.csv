@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2.0,0.0,1,0,0,0,2,0,10,9,0,0,0,0,0,1,0,0,0,0,0,24,2,2,0,0,0,2,0,0,02/18/2023,home,16340,310,Iona,9,True,9,2,7,win,2390527,563,2664904,2023,1
 1,1,2.0,0.0,6,6,4,0,1,0,14,12,1,0,0,0,0,1,0,0,0,0,1,43,2,3,0,1,0,1,1,0,02/21/2023,away,16340,457,North Carolina,9,True,2,14,-12,loss,2391168,563,2664904,2023,1
+1,1,1.2,0.0,4,4,4,3,0,0,13,8,1,0,0,1,0,1,0,0,0,0,1,50,2,3,0,1,0,1,0,0,02/28/2023,away,16340,742,Virginia Tech,9,True,2,17,-15,loss,2392423,563,2664904,2023,1

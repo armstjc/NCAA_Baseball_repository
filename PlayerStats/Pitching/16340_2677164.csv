@@ -1,3 +1,6 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.0,0.0,0,0,0,0,2,0,4,3,0,0,0,0,0,1,0,0,0,0,0,15,0,1,0,0,0,2,1,0,02/18/2023,neutral,16340,434,Missouri,9,True,5,6,-1,loss,2390576,703,2677164,2023,1
+1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,0,1,0,0,0,6,1,0,02/19/2023,neutral,16340,736,Vanderbilt,9,True,2,12,-10,loss,2390872,703,2677164,2023,1
 1,0,1.0,0.0,1,0,0,0,2,0,4,4,0,0,0,0,0,0,0,1,0,0,0,17,1,0,0,0,0,2,2,0,02/21/2023,home,16340,26172,A&M-Corpus Christi,9,True,12,2,10,win,2391099,703,2677164,2023,1
 1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,3,1,0,0,17,2,1,0,0,0,3,0,0,02/25/2023,home,16340,306,Indiana,9,True,5,2,3,win,2391926,703,2677164,2023,1
+1,0,0.2,0.0,0,0,0,1,1,0,3,2,0,0,1,0,0,0,0,2,0,0,0,15,1,0,0,0,0,3,0,0,02/28/2023,home,16340,365,LSU,9,True,0,3,-3,loss,2392355,703,2677164,2023,1

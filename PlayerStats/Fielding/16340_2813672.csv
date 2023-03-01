@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,02/18/2023,away,16340,772,Western Ky.,9,True,1,6,-5,loss,2390783,175,2813672,2023,1
 1,0,2,1,0,0,0,0,0,0,02/19/2023,away,16340,772,Western Ky.,9,True,1,7,-6,loss,2391031,175,2813672,2023,1
+2,2,4,0,0,0,0,0,0,0,02/26/2023,away,16340,694,Tennessee,9,True,0,6,-6,loss,2392239,175,2813672,2023,1

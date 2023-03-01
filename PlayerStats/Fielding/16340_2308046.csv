@@ -1,4 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-4,1,5,0,0,0,0,0,0,0,02/17/2023,neutral,16340,222,Fairleigh Dickinson,9,True,8,9,-1,loss,2390400,87,2308046,2023,1
-1,0,1,0,0,0,0,0,0,0,02/18/2023,neutral,16340,222,Fairleigh Dickinson,9,True,3,0,3,win,2390675,87,2308046,2023,1
+4,1,5,0,0,0,0,0,0,0,02/17/2023,neutral,16340,222,FDU,9,True,8,9,-1,loss,2390400,87,2308046,2023,1
+1,0,1,0,0,0,0,0,0,0,02/18/2023,neutral,16340,222,FDU,9,True,3,0,3,win,2390675,87,2308046,2023,1
 0,1,1,0,0,0,0,0,0,0,02/24/2023,away,16340,115,Campbell,9,True,4,9,-5,loss,2391521,87,2308046,2023,1
+6,0,6,0,0,0,0,0,1,0,02/26/2023,away,16340,115,Campbell,10,True,9,10,-1,loss,2392261,87,2308046,2023,1

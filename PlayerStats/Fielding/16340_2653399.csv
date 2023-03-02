@@ -1,3 +1,2 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/10/2023,away,16340,24639,Nova Southeastern,9,True,3,12,-9,loss,2389989,2814,2471394,2023,2
-1,0,1,0,0,1,0,0,0,0,02/11/2023,away,16340,30045,Palm Beach Atl.,9,True,0,8,-8,loss,2390071,2814,2471394,2023,2
+3,3,6,0,0,0,0,0,1,0,03/01/2023,home,16340,0,St. Francis (IL),9,True,15,5,10,win,2392494,354,2653399,2023,2

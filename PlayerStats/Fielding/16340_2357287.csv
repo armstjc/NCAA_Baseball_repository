@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,1,5,0,0,0,02/17/2023,away,16340,30244,Edward Waters,9,True,2,3,-1,loss,2390307,350,2357287,2023,2
 5,0,5,0,0,4,4,0,0,0,02/17/2023,away,16340,30244,Edward Waters,9,True,1,24,-23,loss,2408325,350,2357287,2023,2
+3,0,6,3,0,0,10,0,0,0,02/27/2023,away,16340,55,Benedict,9,True,5,19,-14,loss,2408532,350,2357287,2023,2

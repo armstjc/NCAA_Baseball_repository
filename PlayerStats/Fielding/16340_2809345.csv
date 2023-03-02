@@ -7,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,02/18/2023,away,16340,1123,Henderson St.,9,True,3,5,-2,loss,2407840,8744,2809345,2023,2
 2,0,3,1,0,0,0,0,0,0,02/25/2023,home,16340,1289,Ouachita Baptist,9,True,7,4,3,win,2408519,8744,2809345,2023,2
 1,1,2,0,0,0,0,0,0,0,02/26/2023,home,16340,1289,Ouachita Baptist,9,True,14,16,-2,loss,2391762,8744,2809345,2023,2
+1,2,3,0,0,0,0,0,0,0,02/28/2023,home,16340,0,Science & Arts Okla.,9,True,12,5,7,win,2392393,8744,2809345,2023,2

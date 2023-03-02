@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,1,0,0,1,0,1,0,0,0,0,2,0,0,0,0,0,0,02/11/2023,neutral,16340,347,Lane,9,True,9,2,7,win,2390157,1289,2668976,2023,2
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/11/2023,neutral,16340,30138,McKendree,9,True,10,2,8,win,2390091,1289,2668976,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/28/2023,away,16340,1116,Harding,9,True,6,4,2,win,2392390,1289,2668976,2023,2

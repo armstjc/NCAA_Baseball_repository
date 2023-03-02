@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/10/2023,away,16340,24639,Nova Southeastern,9,True,3,12,-9,loss,2389989,2814,2471394,2023,2
-1,0,1,0,0,1,0,0,0,0,02/11/2023,away,16340,30045,Palm Beach Atl.,9,True,0,8,-8,loss,2390071,2814,2471394,2023,2
+8,2,10,0,0,0,0,0,0,0,02/21/2023,away,16340,0,St. Francis (IL),9,True,13,8,5,win,2391106,354,1978582,2023,2
+7,0,7,0,0,0,0,0,0,0,02/23/2023,away,16340,30002,Trevecca Nazarene,9,True,4,5,-1,loss,2421349,354,1978582,2023,2
+7,1,8,0,0,0,0,0,2,0,02/24/2023,away,16340,30002,Trevecca Nazarene,9,True,1,5,-4,loss,2391334,354,1978582,2023,2
+4,1,5,0,0,0,0,0,1,0,02/24/2023,away,16340,30002,Trevecca Nazarene,9,True,0,6,-6,loss,2408449,354,1978582,2023,2
+4,0,4,0,0,0,0,0,1,0,03/01/2023,home,16340,0,St. Francis (IL),9,True,15,5,10,win,2392494,354,1978582,2023,2

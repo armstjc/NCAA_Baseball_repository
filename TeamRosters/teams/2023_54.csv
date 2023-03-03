@@ -1,16 +1,16 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Allen, Tyrese","So","2649792",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2649792",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Barrick, Logan","Sr","2501730",2023,"10","DH","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2501730",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
-"Barry, Beau","Fr",NA,2023,"55","P",NA,54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
-"Bersaw, Riley","Fr",NA,2023,"15","P",NA,54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
+"Barry, Beau","Fr","2809846",2023,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2809846",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
+"Bersaw, Riley","Fr","2809795",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2809795",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Biehn, Isaiah","So","2649802",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2649802",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
-"Czech, Riley","Fr",NA,2023,"13","OF",NA,54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
+"Czech, Riley","Fr","2809828",2023,"13","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2809828",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Daymond, Hunter","So","2649791",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2649791",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Dolezal, Derek","Sr","2501723",2023,"33","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2501723",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Ekstrum, Nick","Fr","2809832",2023,"23","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2809832",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Endersby, Nick","Jr",NA,2023,"20","P",NA,54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Gates, Jonathan","Fr",NA,2023,"31","INF",NA,54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
-"Gengler, AJ","So",NA,2023,"39","P",NA,54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
+"Gengler, AJ","So","2649813",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2649813",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Goplen, Seth","Jr","2809818",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2809818",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Grundhofer, Max","Jr",NA,2023,"27","INF",NA,54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Hamann, Wyatt","Jr","2649800",2023,"9","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2649800",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
@@ -22,7 +22,7 @@
 "Lavin, Will","Jr","2319845",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2319845",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Lindow, Christian","Fr","2809842",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2809842",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Listiak, Zach","Jr","2122762",2023,"17","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2122762",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
-"Lung, Ethan","Fr",NA,2023,"45","P",NA,54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
+"Lung, Ethan","Fr","2809861",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2809861",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Marx, Jacob","So","2682660",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2682660",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Mathiason, Jacob","Jr","2518948",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2518948",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340
 "Matise, Jake","Sr","2649798",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=54&stats_player_seq=2649798",54,"Bemidji St.","/team/54/16340",12853,"NSIC",2,16340

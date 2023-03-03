@@ -1,5 +1,5 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Acal, Justin","Jr",NA,2023,"2","INF",NA,545,"Pittsburgh","/team/545/16340",821,"ACC",1,16340
+"Acal, Justin","Jr","2803423",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=545&stats_player_seq=2803423",545,"Pittsburgh","/team/545/16340",821,"ACC",1,16340
 "Anderson, Jack","Sr","2128810",2023,"33","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=545&stats_player_seq=2128810",545,"Pittsburgh","/team/545/16340",821,"ACC",1,16340
 "Barto, Cameron","Jr","2312451",2023,"20","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=545&stats_player_seq=2312451",545,"Pittsburgh","/team/545/16340",821,"ACC",1,16340
 "Bautista, Jonathan","So","2655371",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=545&stats_player_seq=2655371",545,"Pittsburgh","/team/545/16340",821,"ACC",1,16340

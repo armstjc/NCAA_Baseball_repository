@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Ball, Michael","Jr","2680019",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2680019",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Bauser, Jeff","Sr","2823525",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2823525",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
-"Becker, Kyle","Fr",NA,2023,"27","UT",NA,466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
+"Becker, Kyle","Fr","2823532",2023,"27","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2823532",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Biesterfeld, Jacob","Sr","2680028",2023,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2680028",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Burfield, Casey","Jr","2680000",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2680000",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Catacutan, Josh","Jr","2475148",2023,"28","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2475148",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
@@ -10,8 +10,8 @@
 "Doktorczyk, Jason","So","2669992",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2669992",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Freethy, JR","So","2679997",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2679997",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Gather, Lucas","Sr","2110612",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2110612",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
-"Ham, Billy","So",NA,2023,"30","1B",NA,466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
-"Harvey, Jake","Fr",NA,2023,"18","INF",NA,466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
+"Ham, Billy","So","2680025",2023,"30","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2680025",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
+"Harvey, Jake","Fr","2823528",2023,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2823528",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Heinz, Tyson","Sr","2823524",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2823524",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Hirata, Mason","Fr","2823514",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2823514",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Holder, Taylor","So","2473036",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2473036",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
@@ -26,7 +26,7 @@
 "Morris, Kade","Jr","2475141",2023,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2475141",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Murillo, Alejandro","Sr","2475149",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2475149",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Pierce, Jesse","Sr","2823526",2023,"7","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2823526",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
-"Ray, Clayton","Sr",NA,2023,"22","P",NA,466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
+"Ray, Clayton","Sr","2823529",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2823529",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Sarhatt, Michael","So","2823515",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2823515",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Spear, Colin","Fr",NA,2023,"50","INF",NA,466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340
 "Strmecki, Henry","Sr","2004090",2023,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=466&stats_player_seq=2004090",466,"Nevada","/team/466/16340",5486,"Mountain West",1,16340

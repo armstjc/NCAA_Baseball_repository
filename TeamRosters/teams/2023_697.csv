@@ -1,10 +1,10 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Arvidson, Brandon","Fr",NA,2023,"41","P",NA,697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
-"Aschenbeck, Evan","Jr",NA,2023,"53","P",NA,697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
+"Aschenbeck, Evan","Jr","2798620",2023,"53","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2798620",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
 "Bard, Hank","Jr","2798601",2023,"48","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2798601",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
 "Binderup, Blake","Fr",NA,2023,"6","P",NA,697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
 "Bost, Austin","Sr","2309475",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2309475",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
-"Chestnut, Travis","Jr",NA,2023,"4","INF",NA,697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
+"Chestnut, Travis","Jr","2798582",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2798582",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
 "Cortez, Chris","So","2662418",2023,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2662418",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
 "Davenport, Lucas","Fr",NA,2023,"40","P",NA,697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
 "Debiec, Max","So","2685067",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2685067",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
@@ -34,8 +34,8 @@
 "Targac, Ryan","Jr","2480207",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2480207",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
 "Thompson, Jordan","Sr","2480212",2023,"31","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2480212",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
 "Tracy , Tab","So","2663342",2023,"47","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2663342",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
-"Tucker, Wyatt","Jr","2480209",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2480209",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
 "Tucker, Stanley","Jr","2798580",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2798580",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
+"Tucker, Wyatt","Jr","2480209",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2480209",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
 "Vossos, Justin","Fr",NA,2023,"0","INF",NA,697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
 "Wansing, Troy","So","2661605",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2661605",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340
 "Warwick, Jaren","Jr","2484690",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=697&stats_player_seq=2484690",697,"Texas A&M","/team/697/16340",911,"SEC",1,16340

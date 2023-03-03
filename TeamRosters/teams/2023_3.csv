@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Acosta, Carlos","Jr","2469145",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=3&stats_player_seq=2469145",3,"Adelphi","/team/3/16340",899,"NE10",2,16340
 "Affenita III, Robert","Sr","2112590",2023,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=3&stats_player_seq=2112590",3,"Adelphi","/team/3/16340",899,"NE10",2,16340
-"Bohne, L.J.","Fr",NA,2023,"9","OF",NA,3,"Adelphi","/team/3/16340",899,"NE10",2,16340
+"Bohne, L.J.","Fr","2797746",2023,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=3&stats_player_seq=2797746",3,"Adelphi","/team/3/16340",899,"NE10",2,16340
 "Carr, Jack","Jr","2459034",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=3&stats_player_seq=2459034",3,"Adelphi","/team/3/16340",899,"NE10",2,16340
 "Carver, John","So",NA,2023,"6","P",NA,3,"Adelphi","/team/3/16340",899,"NE10",2,16340
 "Catuosco, Johnny","So","2648604",2023,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=3&stats_player_seq=2648604",3,"Adelphi","/team/3/16340",899,"NE10",2,16340
@@ -18,7 +18,7 @@
 "Graff, Gavin","So","2664612",2023,"52","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=3&stats_player_seq=2664612",3,"Adelphi","/team/3/16340",899,"NE10",2,16340
 "Johnson, Cooper","Sr","2112592",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=3&stats_player_seq=2112592",3,"Adelphi","/team/3/16340",899,"NE10",2,16340
 "Kendrick, Kendall","So","2648610",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=3&stats_player_seq=2648610",3,"Adelphi","/team/3/16340",899,"NE10",2,16340
-"Kenneally, Brendan","Fr",NA,2023,"31","P",NA,3,"Adelphi","/team/3/16340",899,"NE10",2,16340
+"Kenneally, Brendan","Fr","2797765",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=3&stats_player_seq=2797765",3,"Adelphi","/team/3/16340",899,"NE10",2,16340
 "Lee, Jacob","Fr",NA,2023,"30","INF",NA,3,"Adelphi","/team/3/16340",899,"NE10",2,16340
 "Lopez, Nick","Sr","2331356",2023,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=3&stats_player_seq=2331356",3,"Adelphi","/team/3/16340",899,"NE10",2,16340
 "Maag, Alec","Sr","2648611",2023,"5","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=3&stats_player_seq=2648611",3,"Adelphi","/team/3/16340",899,"NE10",2,16340

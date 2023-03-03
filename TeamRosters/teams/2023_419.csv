@@ -1,6 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Akens, Ollie","Fr",NA,2023,"40","P",NA,419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
-"Avros, Gino","Sr",NA,2023,"1","OF",NA,419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
+"Avros, Gino","Sr","2823165",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=419&stats_player_seq=2823165",419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
 "Beranek, Bryant","Fr","2823134",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=419&stats_player_seq=2823134",419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
 "Boyd, Jeremiah","Sr","2116004",2023,"33","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=419&stats_player_seq=2116004",419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
 "Brewer, Nathan","Fr",NA,2023,"39","OF",NA,419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
@@ -15,8 +15,8 @@
 "Johnson, Luke","Fr",NA,2023,"41","INF",NA,419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
 "Johnson, Kam","So","2823127",2023,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=419&stats_player_seq=2823127",419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
 "Johnson, Patrick","Fr","2823175",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=419&stats_player_seq=2823175",419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
-"Jones, Tyler","Fr",NA,2023,"53","OF",NA,419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
 "Jones, Tanner","Fr",NA,2023,"54","OF",NA,419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
+"Jones, Tyler","Fr",NA,2023,"53","OF",NA,419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
 "Julian, Jack","So","2312247",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=419&stats_player_seq=2312247",419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
 "Lee, Justin","Fr","2823179",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=419&stats_player_seq=2823179",419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340
 "Mabry, JT","Sr","2121226",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=419&stats_player_seq=2121226",419,"Middle Tenn.","/team/419/16340",24312,"C-USA",1,16340

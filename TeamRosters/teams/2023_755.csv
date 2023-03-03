@@ -1,5 +1,5 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Ardemagni, Alex","Fr",NA,2023,"36","P",NA,755,"WashU","/team/755/16340",1471,"UAA",3,16340
+"Ardemagni, Alex","Fr","2809340",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=755&stats_player_seq=2809340",755,"WashU","/team/755/16340",1471,"UAA",3,16340
 "Bernhard, Kaden","Jr","2509527",2023,"24","rf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=755&stats_player_seq=2509527",755,"WashU","/team/755/16340",1471,"UAA",3,16340
 "Braemer, Dax","So","2661548",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=755&stats_player_seq=2661548",755,"WashU","/team/755/16340",1471,"UAA",3,16340
 "Buday, Brandon","So","2661517",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=755&stats_player_seq=2661517",755,"WashU","/team/755/16340",1471,"UAA",3,16340
@@ -15,7 +15,7 @@
 "Holt, Josh","Fr",NA,2023,"13","P",NA,755,"WashU","/team/755/16340",1471,"UAA",3,16340
 "Jacinto, Chris","Fr","2809333",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=755&stats_player_seq=2809333",755,"WashU","/team/755/16340",1471,"UAA",3,16340
 "Kirkendall , Ryan","So","2661553",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=755&stats_player_seq=2661553",755,"WashU","/team/755/16340",1471,"UAA",3,16340
-"Lindsey, Connor","Fr",NA,2023,"21","INF",NA,755,"WashU","/team/755/16340",1471,"UAA",3,16340
+"Lindsey, Connor","Fr","2809267",2023,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=755&stats_player_seq=2809267",755,"WashU","/team/755/16340",1471,"UAA",3,16340
 "Lopes, Matt","Sr","2112308",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=755&stats_player_seq=2112308",755,"WashU","/team/755/16340",1471,"UAA",3,16340
 "Malis, Zac","Jr","2527261",2023,"14","ss","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=755&stats_player_seq=2527261",755,"WashU","/team/755/16340",1471,"UAA",3,16340
 "Mauterer, Harry","Jr","2519619",2023,"7","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=755&stats_player_seq=2519619",755,"WashU","/team/755/16340",1471,"UAA",3,16340

@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Adamos, Brandon","Fr",NA,2023,"40","C",NA,269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
 "Armour, Ashton","Fr",NA,2023,"28","P",NA,269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
-"Austin, Sterling","Fr",NA,2023,"21","P",NA,269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
+"Austin, Sterling","Fr","2825829",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=269&stats_player_seq=2825829",269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
 "Barnett, Jackson","Fr",NA,2023,"29","P",NA,269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
 "Beavers, Jay","Sr","2346297",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=269&stats_player_seq=2346297",269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
 "Bourdon, Jack","Jr","2492490",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=269&stats_player_seq=2492490",269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
@@ -37,7 +37,7 @@
 "Powell, Hunter","Fr","2825870",2023,"60","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=269&stats_player_seq=2825870",269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
 "Reynolds, Justin","So","2673854",2023,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=269&stats_player_seq=2673854",269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
 "Robbins, Dylan","So","2673852",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=269&stats_player_seq=2673852",269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
-"Sanford, Chase","Fr",NA,2023,"47","P",NA,269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
+"Sanford, Chase","Fr","2825861",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=269&stats_player_seq=2825861",269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
 "Shields, Cameron","Jr","2492466",2023,"5","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=269&stats_player_seq=2492466",269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
 "Smeltzer, Noah","Fr","2825860",2023,"46","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=269&stats_player_seq=2825860",269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340
 "Smith, Ty","So","2673853",2023,"25","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=269&stats_player_seq=2673853",269,"Hampden-Sydney","/team/269/16340",903,"ODAC",3,16340

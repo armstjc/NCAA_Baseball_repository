@@ -1,6 +1,6 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Aleman, Angelo","Fr","2801655",2023,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2801655",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
-"Alfaro, Jesse","Fr",NA,2023,"58","P",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
+"Alfaro, Jesse","Fr","2801710",2023,"58","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2801710",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Blood, Jason","Jr","2801648",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2801648",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Bobo, Brendan","Jr","2482456",2023,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2482456",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Ceniceros, Aaron","Fr",NA,2023,"45","P",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
@@ -20,7 +20,7 @@
 "Lopez, Eli","Fr",NA,2023,"12","INF",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Meek, Jack","Fr",NA,2023,"37","P",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Meyer, Gavin","So","2656056",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2656056",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
-"Mistone, Luke","Fr",NA,2023,"30","P",NA,97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
+"Mistone, Luke","Fr","2801651",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2801651",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Morones, Andrew","Jr","2801709",2023,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2801709",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Muniz, Izeah","So","2656134",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2656134",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340
 "Nankil, Nate","Jr","2482446",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=97&stats_player_seq=2482446",97,"Cal St. Fullerton","/team/97/16340",904,"Big West",1,16340

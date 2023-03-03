@@ -1,5 +1,5 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Ahler, John","Fr",NA,2023,"12","INF",NA,342,"Lafayette","/team/342/16340",838,"Patriot",1,16340
+"Ahler, John","Fr","2824731",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=342&stats_player_seq=2824731",342,"Lafayette","/team/342/16340",838,"Patriot",1,16340
 "Aselta, James","Fr","2824736",2023,"27","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=342&stats_player_seq=2824736",342,"Lafayette","/team/342/16340",838,"Patriot",1,16340
 "Barley, Chase","So","2680398",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=342&stats_player_seq=2680398",342,"Lafayette","/team/342/16340",838,"Patriot",1,16340
 "Bogosian, Adam","Jr","2465473",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=342&stats_player_seq=2465473",342,"Lafayette","/team/342/16340",838,"Patriot",1,16340
@@ -14,7 +14,7 @@
 "Grech, Justin","Jr","2465467",2023,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=342&stats_player_seq=2465467",342,"Lafayette","/team/342/16340",838,"Patriot",1,16340
 "Hajdu, Noah","Fr","2824754",2023,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=342&stats_player_seq=2824754",342,"Lafayette","/team/342/16340",838,"Patriot",1,16340
 "Ingram, Seif","Sr","2310660",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=342&stats_player_seq=2310660",342,"Lafayette","/team/342/16340",838,"Patriot",1,16340
-"Kapkowski, Eli","Fr",NA,2023,"30","C",NA,342,"Lafayette","/team/342/16340",838,"Patriot",1,16340
+"Kapkowski, Eli","Fr","2824768",2023,"30","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=342&stats_player_seq=2824768",342,"Lafayette","/team/342/16340",838,"Patriot",1,16340
 "Mallas, Michael","Jr","2465485",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=342&stats_player_seq=2465485",342,"Lafayette","/team/342/16340",838,"Patriot",1,16340
 "Maurer, Jacob","So","2680396",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=342&stats_player_seq=2680396",342,"Lafayette","/team/342/16340",838,"Patriot",1,16340
 "McMullen, Jack","So","2680399",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=342&stats_player_seq=2680399",342,"Lafayette","/team/342/16340",838,"Patriot",1,16340

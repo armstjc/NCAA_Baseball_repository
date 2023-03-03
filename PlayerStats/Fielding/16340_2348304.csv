@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,02/17/2023,home,16340,93,Cal St. San B'dino,9,True,7,3,4,win,2390328,30149,2348304,2023,2
 2,0,2,0,0,0,0,0,0,0,02/17/2023,home,16340,93,Cal St. San B'dino,9,True,3,4,-1,loss,2408381,30149,2348304,2023,2
 2,0,2,0,0,0,0,0,0,0,02/18/2023,away,16340,93,Cal St. San B'dino,9,True,4,20,-16,loss,2390784,30149,2348304,2023,2
+2,0,2,0,0,0,0,0,0,0,02/28/2023,home,16340,0,San Diego Christian,9,True,18,1,17,win,2421242,30149,2348304,2023,2

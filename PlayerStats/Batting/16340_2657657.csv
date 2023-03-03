@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,home,16340,546,Pitt.-Johnstown,9,True,0,19,-19,loss,2408105,1028,2657657,2023,2
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/19/2023,home,16340,546,Pitt.-Johnstown,9,True,7,16,-9,loss,2390930,1028,2657657,2023,2
+0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,03/01/2023,home,16340,216,Emory & Henry,9,True,6,14,-8,loss,2392486,1028,2657657,2023,2

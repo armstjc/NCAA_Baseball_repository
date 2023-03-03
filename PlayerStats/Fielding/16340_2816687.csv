@@ -1,3 +1,2 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/14/2023,home,16340,30075,Mary,9,True,26,10,16,win,2408218,30152,2816687,2023,2
-1,0,2,1,0,0,0,0,0,0,02/25/2023,home,16340,947,Arkansas Tech,9,True,2,15,-13,loss,2391779,30152,2816687,2023,2
+0,1,1,0,0,0,0,0,0,0,02/28/2023,home,16340,92,Cal St. Dom. Hills,9,True,5,4,1,win,2392440,30146,2648751,2023,2

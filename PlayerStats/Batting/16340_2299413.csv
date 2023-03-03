@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/11/2023,neutral,16340,280,Hillsdale,9,True,5,2,3,win,2390092,30221,2299413,2023,2
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/28/2023,neutral,16340,246,Gannon,9,True,2,1,1,win,2422395,30221,2299413,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2023,away,16340,9680,Embry-Riddle (FL),9,True,3,11,-8,loss,2392471,30221,2299413,2023,2

@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2.2,0.0,1,1,1,2,2,0,11,7,0,0,0,0,1,0,0,3,2,0,2,42,0,6,0,0,0,2,0,0,02/11/2023,away,16340,767,West Tex. A&M,9,True,10,13,-3,loss,2407835,696,2811709,2023,2
 1,0,2.1,0.0,0,0,0,0,2,0,7,7,0,0,0,0,0,0,0,0,0,0,0,15,1,4,0,0,0,4,1,0,02/25/2023,away,16340,996,Cameron,9,True,19,10,9,win,2421753,696,2811709,2023,2
+1,0,2.0,0.0,2,1,1,0,4,0,8,7,0,1,0,0,1,0,0,0,0,0,1,35,1,1,0,1,0,4,1,0,03/01/2023,away,16340,30090,Tex. A&M Int'l,9,True,6,7,-1,loss,2392488,696,2811709,2023,2

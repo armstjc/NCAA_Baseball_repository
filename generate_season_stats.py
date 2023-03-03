@@ -1,7 +1,7 @@
 from datetime import datetime
 import pandas as pd
 import numpy as np
-#from tqdm import tqdm
+from tqdm import tqdm
 
 #####################################################################################################################################################################################################################
 ## League stats

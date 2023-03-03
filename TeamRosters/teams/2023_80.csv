@@ -1,15 +1,15 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Begnaud, Stiles","Fr",NA,2023,"29","P",NA,80,"Brown","/team/80/16340",865,"Ivy League",1,16340
+"Begnaud, Stiles","Fr","2797951",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2797951",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Boree, Gunner","So","2655224",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2655224",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Brasher, Nathan","So","2655242",2023,"20","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2655242",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Burley, Jacob","Sr","2303071",2023,"22","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2303071",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
-"Cooke, Conor","So",NA,2023,"24","C",NA,80,"Brown","/team/80/16340",865,"Ivy League",1,16340
+"Cooke, Conor","So","2655247",2023,"24","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2655247",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Crawford, Charles","Jr","2655179",2023,"4","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2655179",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Dillehay, DJ","Fr",NA,2023,"17","UT",NA,80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Dubie, Peter","Fr","2797967",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2797967",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Duncan, Sam","Jr","2655245",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2655245",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Gottam, Santhosh","So","2655241",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2655241",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
-"Harris, Ty","Fr",NA,2023,"35","P",NA,80,"Brown","/team/80/16340",865,"Ivy League",1,16340
+"Harris, Ty","Fr","2797954",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2797954",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Henshon, Mark","Fr",NA,2023,"10","INF",NA,80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Johnson, Jared","So","2655267",2023,"32","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2655267",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Keel, Christian","Fr",NA,2023,"33","P",NA,80,"Brown","/team/80/16340",865,"Ivy League",1,16340
@@ -24,7 +24,7 @@
 "Pichardo, Olivia","Fr",NA,2023,"19","UT",NA,80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Rappoli, Reece","Jr","2655227",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2655227",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Rasmussen, Carter","Fr","2797952",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2797952",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
-"Reid, Dylan","Fr",NA,2023,"28","P",NA,80,"Brown","/team/80/16340",865,"Ivy League",1,16340
+"Reid, Dylan","Fr","2797950",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2797950",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Rooks, Quinn","Jr","2655233",2023,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2655233",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Sass, Ray","Sr","2303094",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2303094",80,"Brown","/team/80/16340",865,"Ivy League",1,16340
 "Seppings, Jack","So","2655266",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=80&stats_player_seq=2655266",80,"Brown","/team/80/16340",865,"Ivy League",1,16340

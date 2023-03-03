@@ -1,5 +1,5 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Abbott, Lucas","Jr","2476506",2023,"33","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2476506",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
+"Abbott, Lucas","Sr","2476506",2023,"33","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2476506",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
 "Atchley, Jaxon","Fr",NA,2023,"42","3B",NA,23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
 "Bivins, Dylan","Jr","2820137",2023,"19","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2820137",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
 "Brieden, Derek","So","2673491",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2673491",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
@@ -32,7 +32,6 @@
 "Martinez, Diego","Fr",NA,2023,"51","UT",NA,23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
 "McGrath, Trevor","Sr","2673469",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2673469",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
 "Mueller, Brock","So",NA,2023,"63","3B",NA,23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
-"Myles, Seth","Jr",NA,2023,"64","INF",NA,23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
 "Nairn, Austin","Jr","2820134",2023,"17","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2820134",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
 "Neeley, Garrett","Fr","2820126",2023,"2","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2820126",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
 "Paul, Kai","Fr",NA,2023,"52","P",NA,23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
@@ -51,8 +50,8 @@
 "Vera, Ryan","Sr","2127234",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2127234",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
 "Vorst, Andrew","So","2673475",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2673475",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
 "Vuono, Caleb","Jr","2474277",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2474277",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
-"Weiland, Kenton","Sr","2490286",2023,"65","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2490286",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
+"Weiland, Kenton","Jr","2490286",2023,"65","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2490286",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
 "Woltman, Jake","So","2675271",2023,"35","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2675271",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
-"Wood, Joshua","So","2337435",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2337435",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
+"Wood, Joshua","Sr","2337435",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2337435",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
 "Young, Clayton","Jr","2673478",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=2673478",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340
 "Zamora, Daniel","Sr","1990639",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=23121&stats_player_seq=1990639",23121,"Texas-Dallas","/team/23121/16340",14825,"ASC",3,16340

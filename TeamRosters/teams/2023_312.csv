@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Anthony, Keaton","So","2465752",2023,"7","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2465752",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "Brecht, Brody","So","2655152",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2655152",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
-"Christensen, Gehrig","So",NA,2023,"43","C",NA,312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
+"Christensen, Gehrig","So","2655083",2023,"43","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2655083",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "Christophersen, Will","Jr","2120570",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2120570",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "DeTaeye, Benjamin","Jr","2655126",2023,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2655126",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "Dorighi, Brennen","Sr","2112361",2023,"24","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2112361",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
@@ -20,10 +20,10 @@
 "Moss, Cade","Jr","2655131",2023,"40","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2655131",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "Mulflur, Will","Jr","2655132",2023,"42","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2655132",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "Nelson, Andy","Jr","2465785",2023,"17","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2465785",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
-"Obermueller, Cade","Fr",NA,2023,"33","P",NA,312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
+"Obermueller, Cade","Fr","2799254",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2799254",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "Petersen, Sam","So","2655147",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2655147",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
-"Proskovec, Drew","Fr",NA,2023,"48","P",NA,312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
-"Sarsfield, Coy","Fr",NA,2023,"38","OF",NA,312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
+"Proskovec, Drew","Fr","2799280",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2799280",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
+"Sarsfield, Coy","Fr","2799256",2023,"38","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2799256",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "Savary, Aaron","Fr",NA,2023,"18","P",NA,312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "Seegers, Michael","Jr","2465765",2023,"10","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2465765",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "Simpson, Jared","Sr","2489059",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2489059",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
@@ -35,7 +35,7 @@
 "Tramontana, Max","Fr",NA,2023,"16","P",NA,312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "Voelker, Zach","So","2655180",2023,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2655180",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "Wheatley, Chas","So","2655134",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2655134",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
-"Whitlock, Jack","Fr",NA,2023,"25","P",NA,312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
+"Whitlock, Jack","Fr","2463638",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2463638",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "Wilmes, Ben","So","2655136",2023,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2655136",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
 "Wood, Mitch","So","2655137",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2655137",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
-"Young, Jack","Jr",NA,2023,"29","P",NA,312,"Iowa","/team/312/16340",827,"Big Ten",1,16340
+"Young, Jack","Jr","2799266",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=312&stats_player_seq=2799266",312,"Iowa","/team/312/16340",827,"Big Ten",1,16340

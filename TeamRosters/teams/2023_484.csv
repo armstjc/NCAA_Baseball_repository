@@ -1,7 +1,7 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
 "Basher, Tyler","Fr",NA,2023,"48","P",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Bernier, Colby","Fr",NA,2023,"38","UT",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
-"Birks, Kyle","Fr",NA,2023,"52","C",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
+"Birks, Kyle","Fr","2817518",2023,"52","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2817518",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Blair, Robert","So",NA,2023,"27","P",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Catone, Marc","So","2654489",2023,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2654489",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Churchill, Clark","So","2654514",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2654514",484,"Nichols","/team/484/16340",839,"CCC",3,16340
@@ -28,20 +28,20 @@
 "McCarthy, Zachary","Jr",NA,2023,"28","INF",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "McCutcheon, Kyle","Sr","2335191",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2335191",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Merrill, Jack","So",NA,2023,"55","OF",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
-"Metivier, Brandon","Fr",NA,2023,"47","P",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
+"Metivier, Brandon","Fr","2817508",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2817508",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Michonski, Ryan","Fr",NA,2023,"53","C",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Miller, Karl","So","2654493",2023,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2654493",484,"Nichols","/team/484/16340",839,"CCC",3,16340
-"Moran, Dylan","Fr",NA,2023,"30","INF",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
+"Moran, Dylan","Fr","2817492",2023,"30","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2817492",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Nath, William","So","2654526",2023,"9","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2654526",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Ouellette, Kasey","Fr",NA,2023,"36","INF",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Panzica, Matthew","Jr",NA,2023,"34","OF",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Pignone, Richard","So","2654528",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2654528",484,"Nichols","/team/484/16340",839,"CCC",3,16340
-"Pollock, John","Jr",NA,2023,"32","P",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
+"Pollock, John","Jr","2817494",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2817494",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Rabidoux, Jakob","So",NA,2023,"16","P",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Rancourt, Chase","Sr","2335153",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2335153",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Rowe, Brandon","Fr",NA,2023,"50","OF",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Ryan, Sean","So","2654531",2023,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2654531",484,"Nichols","/team/484/16340",839,"CCC",3,16340
-"Sanabia, Noah","Fr",NA,2023,"56","P",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
+"Sanabia, Noah","Fr","2665643",2023,"56","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2665643",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Santos, Connor","So",NA,2023,"24","P",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Sawyer, Patrick","Sr","2335190",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2335190",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Sexton, Casey","Fr",NA,2023,"51","P",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
@@ -49,7 +49,7 @@
 "Sullivan, Noah","So","2654537",2023,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2654537",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Tipton, Jacob","So","2654540",2023,"40","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2654540",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Vargas, Luis","So","2654544",2023,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2654544",484,"Nichols","/team/484/16340",839,"CCC",3,16340
-"Vera Cruz, Taj","Jr",NA,2023,"43","INF",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
+"Vera Cruz, Taj","Jr","2817505",2023,"43","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2817505",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Wander, Ben","So","2654549",2023,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=484&stats_player_seq=2654549",484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Whitman, Ben","Fr",NA,2023,"37","P",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340
 "Whitten, Aidan","Fr",NA,2023,"35","P",NA,484,"Nichols","/team/484/16340",839,"CCC",3,16340

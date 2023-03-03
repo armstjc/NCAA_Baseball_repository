@@ -1,23 +1,23 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Argenziano, Joseph","Sr","2329791",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2329791",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Argenziano, Nick","Sr","2329801",2023,"3","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2329801",479,"NYU","/team/479/16340",1471,"UAA",3,16340
+"Argenziano, Joseph","Sr","2329791",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2329791",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Augustine, Joseph","Sr","2329802",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2329802",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Balmer, Ansel","Fr",NA,2023,"14","P",NA,479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Barbet, Dakota","Sr","2307983",2023,"11","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2307983",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Beggy, Richard","So","2688881",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2688881",479,"NYU","/team/479/16340",1471,"UAA",3,16340
-"Blueweiss, Harrison","Fr",NA,2023,"8","OF",NA,479,"NYU","/team/479/16340",1471,"UAA",3,16340
+"Blueweiss, Harrison","Fr","2804051",2023,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2804051",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Bolin, Sean","Jr",NA,2023,"33","P",NA,479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Branca, Dylan","Fr",NA,2023,"31","P",NA,479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Burton, Russel","Sr","2329797",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2329797",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Carr, Ryan","Sr","2130474",2023,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2130474",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Cetale, Joe","Jr","2688885",2023,"28","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2688885",479,"NYU","/team/479/16340",1471,"UAA",3,16340
-"Cetin, Zack","Fr",NA,2023,"17","P",NA,479,"NYU","/team/479/16340",1471,"UAA",3,16340
+"Cetin, Zack","Fr","2804073",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2804073",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Cheadle, Christopher","N/A","2115836",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2115836",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Chona, Ashwin","Sr","2329819",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2329819",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Cialone, Will","Sr","2328800",2023,"34","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2328800",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Clark, Mason","Fr",NA,2023,"40","P",NA,479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Conklin, Rob","Jr","2688914",2023,"35","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2688914",479,"NYU","/team/479/16340",1471,"UAA",3,16340
-"Damiani, Bruno","Fr",NA,2023,"30","3B",NA,479,"NYU","/team/479/16340",1471,"UAA",3,16340
+"Damiani, Bruno","Fr","2804081",2023,"30","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2804081",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Dark, Noah","Sr","2329826",2023,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2329826",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Dearie, Hayden","Fr",NA,2023,"32","P",NA,479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Dolinsky, Aidan","So","2688918",2023,"52","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2688918",479,"NYU","/team/479/16340",1471,"UAA",3,16340
@@ -25,7 +25,7 @@
 "Gassler, John","N/A","2115837",2023,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2115837",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Judge, Tyler","Sr","2308032",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2308032",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Lacagnina, Gabe","Jr","2690416",2023,"12","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2690416",479,"NYU","/team/479/16340",1471,"UAA",3,16340
-"McDonough, Tucker","Fr",NA,2023,"5","INF",NA,479,"NYU","/team/479/16340",1471,"UAA",3,16340
+"McDonough, Tucker","Fr","2804038",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2804038",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "McLaughlin, Nick","Jr","2688912",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2688912",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Mocklis, Kosta","So","2690421",2023,"2","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2690421",479,"NYU","/team/479/16340",1471,"UAA",3,16340
 "Montenegro, Mike","Jr","2688915",2023,"15","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=479&stats_player_seq=2688915",479,"NYU","/team/479/16340",1471,"UAA",3,16340

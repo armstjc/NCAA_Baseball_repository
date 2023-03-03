@@ -1,11 +1,11 @@
 "name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Armstrong, Adrien","Fr",NA,2023,"3","C",NA,217,"Emory","/team/217/16340",1471,"UAA",3,16340
+"Armstrong, Adrien","Fr","2796203",2023,"3","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2796203",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Bock, Joey","Sr","2115635",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2115635",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Culbert, Matthew","Jr","2503886",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2503886",217,"Emory","/team/217/16340",1471,"UAA",3,16340
-"DiVito, Chris","So",NA,2023,"29","OF",NA,217,"Emory","/team/217/16340",1471,"UAA",3,16340
+"DiVito, Chris","So","2796207",2023,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2796207",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Dincman, Blake","So","2796204",2023,"13","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2796204",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Fine, Paul","Fr","2796366",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2796366",217,"Emory","/team/217/16340",1471,"UAA",3,16340
-"Geller, Adam","Fr",NA,2023,"44","UT",NA,217,"Emory","/team/217/16340",1471,"UAA",3,16340
+"Geller, Adam","Fr","2796368",2023,"44","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2796368",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Golob, Mike","Sr","2302424",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2302424",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Grossman, Jacob","Jr","2503881",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2503881",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Grover, Arjun","Jr","2503892",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2503892",217,"Emory","/team/217/16340",1471,"UAA",3,16340
@@ -19,7 +19,7 @@
 "McLoughlin, Tyler","Jr","2503888",2023,"31","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2503888",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Melton, Justin","Sr","2302442",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2302442",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Mishoulam, Aaron","Sr","2302426",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2302426",217,"Emory","/team/217/16340",1471,"UAA",3,16340
-"Newell, Cam","Fr",NA,2023,"12","INF",NA,217,"Emory","/team/217/16340",1471,"UAA",3,16340
+"Newell, Cam","Fr","2796367",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2796367",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Pelinski, Henry","Sr","2302440",2023,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2302440",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Reynolds, Ryan","So","2652572",2023,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2652572",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Schultz, Zac","Jr","2503890",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2503890",217,"Emory","/team/217/16340",1471,"UAA",3,16340
@@ -27,9 +27,9 @@
 "Shlomm, Andrew","So","2652593",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2652593",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Sicoli, Matthew","So","2652597",2023,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2652597",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Skertich, Connor","So","2652592",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2652592",217,"Emory","/team/217/16340",1471,"UAA",3,16340
-"Speicher, Bennett","So",NA,2023,"11","P",NA,217,"Emory","/team/217/16340",1471,"UAA",3,16340
-"Sullo, Nick","Fr",NA,2023,"35","OF",NA,217,"Emory","/team/217/16340",1471,"UAA",3,16340
+"Speicher, Bennett","So","2652589",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2652589",217,"Emory","/team/217/16340",1471,"UAA",3,16340
+"Sullo, Nick","Fr","2796209",2023,"35","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2796209",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Wasserlauf, Zach","Fr","2796205",2023,"23","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2796205",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Woolf, Walker","Jr","2503884",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2503884",217,"Emory","/team/217/16340",1471,"UAA",3,16340
 "Wronski, Jonah","So","2652594",2023,"26","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2652594",217,"Emory","/team/217/16340",1471,"UAA",3,16340
-"Zuckerman, Josh","Fr",NA,2023,"32","P",NA,217,"Emory","/team/217/16340",1471,"UAA",3,16340
+"Zuckerman, Josh","Fr","2796208",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=217&stats_player_seq=2796208",217,"Emory","/team/217/16340",1471,"UAA",3,16340

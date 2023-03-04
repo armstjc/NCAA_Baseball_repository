@@ -2,7 +2,7 @@ import os
 import glob
 from tqdm import tqdm
 import pandas as pd
-import numpy as np
+#import numpy as np
 from multiprocessing import Pool
 
 def reader(filename):

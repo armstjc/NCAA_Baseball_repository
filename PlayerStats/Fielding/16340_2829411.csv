@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,02/18/2023,home,16340,381,Manhattan,9,True,9,1,8,win,2390523,678,2829411,2023,1
 0,0,0,0,0,0,1,0,0,0,02/24/2023,home,16340,180,Delaware,9,True,8,19,-11,loss,2391309,678,2829411,2023,1
+0,2,2,0,0,0,0,1,0,0,03/01/2023,home,16340,639,Siena,9,True,10,3,7,win,2392492,678,2829411,2023,1

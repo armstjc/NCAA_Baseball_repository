@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2.1,0.0,3,4,1,1,2,0,12,11,0,0,0,2,0,0,0,0,0,0,0,29,1,4,0,0,0,2,2,0,02/19/2023,home,16340,742,Virginia Tech,9,True,2,15,-13,loss,2390825,1014,2678773,2023,1
 1,0,1.0,0.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,2,1,0,02/25/2023,home,16340,391,UMBC,9,True,9,2,7,win,2391588,1014,2678773,2023,1
+1,1,4.0,0.0,3,2,2,1,8,0,17,16,0,0,0,1,1,0,0,0,0,0,0,64,4,0,0,0,0,1,1,0,02/28/2023,home,16340,149,Coastal Carolina,9,True,4,3,1,win,2392337,1014,2678773,2023,1

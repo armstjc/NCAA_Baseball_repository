@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 6,0,7,1,0,0,0,0,2,0,02/25/2023,neutral,16340,410,Merrimack,9,True,11,4,7,win,2391689,116,2148214,2023,1
 7,0,7,0,0,0,0,0,0,0,02/26/2023,neutral,16340,248,George Mason,9,True,6,4,2,win,2421536,116,2148214,2023,1
+4,0,4,0,0,0,0,0,0,0,03/04/2023,neutral,16340,768,West Virginia,9,True,2,3,-1,loss,2422975,116,2148214,2023,1

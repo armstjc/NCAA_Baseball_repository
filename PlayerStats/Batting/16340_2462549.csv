@@ -1,2 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/25/2023,away,16340,6,Alabama A&M,9,True,3,2,1,win,2391750,261,2462549,2023,1
 1,5,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/26/2023,neutral,16340,314,Jackson St.,12,True,11,12,-1,loss,2392184,261,2462549,2023,1
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/28/2023,away,16340,498,ULM,9,True,1,14,-13,loss,2392450,261,2462549,2023,1
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/03/2023,neutral,16340,228,Florida A&M,9,True,2,17,-15,loss,2392688,261,2462549,2023,1
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,03/04/2023,neutral,16340,228,Florida A&M,9,True,3,4,-1,loss,2422907,261,2462549,2023,1

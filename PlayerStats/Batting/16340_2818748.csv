@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,6,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,02/19/2023,away,16340,472,New Mexico St.,11,True,10,9,1,win,2390815,52,2818748,2023,1
 0,4,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,02/26/2023,away,16340,661,Southern Ind.,9,True,5,18,-13,loss,2392147,52,2818748,2023,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2023,away,16340,406,Mercer,9,True,1,6,-5,loss,2392998,52,2818748,2023,1
+0,3,1,1,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,03/04/2023,away,16340,406,Mercer,9,True,3,4,-1,loss,2408165,52,2818748,2023,1

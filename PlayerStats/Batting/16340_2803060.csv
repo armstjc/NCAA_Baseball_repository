@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,home,16340,219,Evansville,10,True,8,7,1,win,2390782,716,2803060,2023,1
 2,4,2,0,0,5,1,1,0,0,0,1,1,0,1,0,0,0,0,02/25/2023,home,16340,683,Stony Brook,9,True,15,11,4,win,2391956,716,2803060,2023,1
+1,4,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,03/04/2023,home,16340,10411,USC Upstate,9,True,15,9,6,win,2393289,716,2803060,2023,1

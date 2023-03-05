@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/19/2023,neutral,16340,312,Iowa,9,True,0,10,-10,loss,2390889,562,2496152,2023,1
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/24/2023,away,16340,393,UMES,9,True,8,6,2,win,2408128,562,2496152,2023,1
+0,5,1,1,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,03/03/2023,away,16340,1068,Elon,10,True,8,9,-1,loss,2392659,562,2496152,2023,1
+0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2023,away,16340,1068,Elon,9,True,3,14,-11,loss,2392940,562,2496152,2023,1

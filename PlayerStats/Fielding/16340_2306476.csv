@@ -7,3 +7,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,0,2,0,0,0,0,0,0,0,02/26/2023,neutral,16340,67,Boston College,9,True,4,6,-2,loss,2392080,587,2306476,2023,1
 1,0,1,0,0,0,0,0,0,0,03/01/2023,home,16340,606,Saint Joseph's,9,True,6,3,3,win,2392340,587,2306476,2023,1
 2,0,2,0,0,0,0,0,0,0,03/03/2023,away,16340,459,UNC Greensboro,9,True,2,3,-1,loss,2392827,587,2306476,2023,1
+1,0,1,0,0,0,0,0,0,0,03/04/2023,away,16340,459,UNC Greensboro,9,True,5,8,-3,loss,2393262,587,2306476,2023,1
+3,0,3,0,0,0,0,0,0,0,03/05/2023,away,16340,459,UNC Greensboro,10,True,9,10,-1,loss,2393618,587,2306476,2023,1

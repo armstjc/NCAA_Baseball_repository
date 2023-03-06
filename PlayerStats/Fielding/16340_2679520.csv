@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 9,0,9,0,0,2,0,0,0,0,02/18/2023,away,16340,30095,Utah Tech,9,True,6,4,2,win,2390774,551,2679520,2023,1
 6,2,8,0,0,1,1,1,0,0,02/19/2023,away,16340,30095,Utah Tech,9,True,1,11,-10,loss,2390964,551,2679520,2023,1
+7,0,7,0,0,0,0,0,0,0,03/04/2023,home,16340,30024,Utah Valley,9,True,0,1,-1,loss,2408654,551,2679520,2023,1

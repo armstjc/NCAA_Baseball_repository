@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/19/2023,neutral,16340,202,Eastern Ky.,9,True,1,11,-10,loss,2390961,508,2480119,2023,1
 1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/28/2023,home,16340,676,SFA,9,True,13,2,11,win,2392457,508,2480119,2023,1
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/05/2023,home,16340,702,UT Arlington,9,True,2,5,-3,loss,2393573,508,2480119,2023,1

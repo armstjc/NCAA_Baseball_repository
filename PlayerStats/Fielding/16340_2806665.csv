@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,02/26/2023,home,16340,201,Eastern Ill.,9,True,3,12,-9,loss,2392223,31,2806665,2023,1
+0,1,1,0,0,0,1,1,0,0,03/05/2023,home,16340,810,Wright St.,9,True,6,2,4,win,2393578,31,2806665,2023,1

@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2.0,0.0,3,3,0,2,0,0,14,9,1,0,0,0,0,2,0,0,0,0,1,49,2,4,0,0,0,1,0,0,02/18/2023,neutral,16340,285,Holy Cross,9,True,14,4,10,win,2390601,559,2138302,2023,1
 1,1,2.2,0.0,4,3,2,3,5,0,15,12,1,0,0,0,1,0,1,0,0,0,0,62,1,2,0,1,0,1,0,0,02/26/2023,neutral,16340,471,NJIT,9,True,5,7,-2,loss,2392075,559,2138302,2023,1
+1,1,4.0,0.0,5,2,2,3,2,0,19,15,1,0,0,1,1,1,0,0,0,0,0,71,4,4,1,0,0,1,0,0,03/05/2023,neutral,16340,5,Akron,9,True,23,4,19,win,2393628,559,2138302,2023,1

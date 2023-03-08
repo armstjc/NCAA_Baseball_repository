@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 8,1,9,0,0,0,0,0,1,0,03/04/2023,away,16340,711,Towson,9,True,9,0,9,win,2392983,204,2680559,2023,1
 5,0,5,0,0,0,0,0,0,0,03/04/2023,away,16340,711,Towson,9,True,7,3,4,win,2408150,204,2680559,2023,1
+15,1,16,0,0,0,0,0,3,0,03/05/2023,away,16340,711,Towson,11,True,11,6,5,win,2393358,204,2680559,2023,1

@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,3,3,0,0,12,3,5,1,0,0,0,0,0,0,0,1,1,0,03/03/2023,neutral,16340,87,Butler,9,True,6,5,1,win,2392744,127,2118559,2023,1
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/04/2023,away,16340,365,LSU,9,True,4,26,-22,loss,2393221,127,2118559,2023,1
+0,4,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,2,03/04/2023,neutral,16340,87,Butler,9,True,3,1,2,win,2393322,127,2118559,2023,1
+0,3,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2023,away,16340,365,LSU,9,True,0,13,-13,loss,2393581,127,2118559,2023,1

@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,02/26/2023,away,16340,505,Northern Ky.,9,True,4,27,-23,loss,2392167,774,2813161,2023,1
 2,0,2,0,0,0,0,0,0,0,03/04/2023,neutral,16340,83,Bucknell,9,True,15,5,10,win,2393029,774,2813161,2023,1
+2,0,2,0,0,0,0,0,0,0,03/05/2023,neutral,16340,83,Bucknell,9,True,9,5,4,win,2393421,774,2813161,2023,1
+1,0,1,0,0,0,0,0,0,0,03/05/2023,away,16340,488,N.C. A&T,9,True,10,1,9,win,2393388,774,2813161,2023,1

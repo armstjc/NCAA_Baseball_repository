@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,4.0,0.0,5,3,3,0,5,0,16,16,0,2,0,0,0,0,0,0,0,0,0,73,2,4,0,0,0,1,2,0,02/19/2023,home,16340,1395,Tarleton St.,12,True,5,7,-2,loss,2390992,706,2666813,2023,1
 1,1,6.0,0.0,7,2,2,0,4,0,27,26,0,0,0,2,0,1,0,0,0,0,0,84,2,12,1,0,0,1,0,0,02/25/2023,home,16340,610,Saint Mary's (CA),9,True,9,4,5,win,2408332,706,2666813,2023,1
+1,1,6.0,0.0,5,4,0,0,3,0,25,23,0,0,0,1,0,2,0,0,0,0,0,83,6,8,1,0,0,1,1,0,03/04/2023,home,16340,732,Utah,9,True,11,5,6,win,2393245,706,2666813,2023,1

@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/19/2023,neutral,16340,29,Arizona,9,True,1,7,-6,loss,2391065,416,2137432,2023,1
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2023,away,16340,48,Charleston So.,9,True,19,10,9,win,2393223,416,2137432,2023,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2023,away,16340,1014,Col. of Charleston,9,True,3,10,-7,loss,2393344,416,2137432,2023,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/06/2023,neutral,16340,721,Air Force,9,True,4,7,-3,loss,2393717,416,2137432,2023,1

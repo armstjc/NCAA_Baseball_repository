@@ -9,3 +9,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 11,0,11,0,0,0,0,0,0,0,02/28/2023,neutral,16340,10411,USC Upstate,9,True,3,6,-3,loss,2392435,147,2476055,2023,1
 11,0,11,0,0,0,0,0,1,0,03/03/2023,home,16340,648,South Carolina,9,True,5,2,3,win,2392856,147,2476055,2023,1
 2,0,2,0,0,0,0,0,1,0,03/04/2023,neutral,16340,648,South Carolina,9,True,9,11,-2,loss,2393211,147,2476055,2023,1
+0,1,1,0,0,0,0,0,0,0,03/07/2023,home,16340,198,ETSU,9,True,4,1,3,win,2393901,147,2476055,2023,1

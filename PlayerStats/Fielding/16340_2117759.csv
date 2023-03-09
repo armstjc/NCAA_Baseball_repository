@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/18/2023,away,16340,457,North Carolina,9,True,2,11,-9,loss,2390749,635,2117759,2023,1
 1,0,1,0,0,0,0,0,0,0,03/03/2023,away,16340,30135,California Baptist,9,True,7,13,-6,loss,2392858,635,2117759,2023,1
+0,0,0,0,0,0,1,0,0,0,03/07/2023,away,16340,30135,California Baptist,9,True,4,8,-4,loss,2393929,635,2117759,2023,1

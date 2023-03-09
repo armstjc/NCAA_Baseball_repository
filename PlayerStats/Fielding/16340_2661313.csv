@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/17/2023,away,16340,61,Bethune-Cookman,9,True,5,3,2,win,2390488,352,2661313,2023,1
 0,0,0,0,0,0,1,0,0,0,03/04/2023,neutral,16340,381,Manhattan,9,True,18,6,12,win,2393043,352,2661313,2023,1
+0,0,1,1,0,0,0,1,0,0,03/08/2023,home,16340,165,Coppin St.,9,True,12,2,10,win,2394054,352,2661313,2023,1

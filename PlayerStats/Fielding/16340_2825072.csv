@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,02/24/2023,away,16340,255,Georgia Tech,9,True,3,12,-9,loss,2391297,692,2825072,2023,1
 4,0,4,0,0,0,0,0,1,0,02/25/2023,away,16340,255,Georgia Tech,9,True,4,10,-6,loss,2391593,692,2825072,2023,1
+1,0,1,0,0,0,0,0,0,0,03/07/2023,away,16340,736,Vanderbilt,9,True,1,12,-11,loss,2393773,692,2825072,2023,1

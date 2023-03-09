@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,1,0,0,02/21/2023,home,16340,1004,Central Ark.,9,True,4,5,-1,loss,2391103,736,2485668,2023,1
 0,0,0,0,0,0,2,0,0,0,02/28/2023,home,16340,43,Austin Peay,9,True,11,7,4,win,2392438,736,2485668,2023,1
+0,0,0,0,0,0,1,0,0,0,03/08/2023,home,16340,219,Evansville,17,True,2,1,1,win,2393987,736,2485668,2023,1

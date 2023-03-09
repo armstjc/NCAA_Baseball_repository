@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,3.2,0.0,2,3,2,1,8,0,15,12,0,0,0,0,0,0,0,0,0,1,1,69,2,1,0,0,0,2,4,0,02/21/2023,home,16340,1004,Central Ark.,9,True,4,5,-1,loss,2391103,736,2485658,2023,1
 1,0,3.0,0.0,1,1,1,1,4,0,12,11,0,0,0,1,0,0,0,0,0,0,0,54,1,4,0,0,0,3,1,0,02/28/2023,home,16340,43,Austin Peay,9,True,11,7,4,win,2392438,736,2485658,2023,1
+1,1,3.2,0.0,5,1,1,2,5,0,16,14,1,0,0,0,0,0,0,0,0,0,0,74,1,3,0,0,0,1,1,0,03/07/2023,home,16340,692,Tennessee Tech,9,True,12,1,11,win,2393773,736,2485658,2023,1

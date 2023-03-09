@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/25/2023,home,16340,603,St. John's (NY),9,True,3,7,-4,loss,2391985,718,2515882,2023,1
 0,1,1,0,0,0,1,0,0,0,02/28/2023,home,16340,646,South Alabama,9,True,7,11,-4,loss,2392459,718,2515882,2023,1
+0,0,1,1,0,0,0,0,0,0,03/07/2023,home,16340,115,Campbell,9,True,7,17,-10,loss,2393941,718,2515882,2023,1

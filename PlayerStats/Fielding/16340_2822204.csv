@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 9,0,9,0,0,0,0,0,0,0,02/19/2023,away,16340,458,Charlotte,9,True,5,19,-14,loss,2390996,47,2822204,2023,1
 4,0,4,0,0,0,1,0,0,0,03/04/2023,neutral,16340,308,Purdue Fort Wayne,9,True,11,0,11,win,2392773,47,2822204,2023,1
+6,0,6,0,0,0,0,0,1,0,03/07/2023,away,16340,228,Florida A&M,9,True,11,9,2,win,2393917,47,2822204,2023,1

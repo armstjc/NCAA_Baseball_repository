@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,1,0,02/24/2023,away,16340,112,UC San Diego,9,True,1,15,-14,loss,2391300,465,2802219,2023,1
 0,1,1,0,0,0,0,0,1,0,02/27/2023,neutral,16340,754,Washington St.,9,True,9,10,-1,loss,2392320,465,2802219,2023,1
+1,1,2,0,0,0,0,0,1,0,03/08/2023,away,16340,522,Oklahoma,9,True,7,8,-1,loss,2394035,465,2802219,2023,1

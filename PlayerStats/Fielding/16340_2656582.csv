@@ -12,3 +12,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,4,6,1,0,0,0,0,1,0,03/03/2023,home,16340,655,Southeastern La.,9,True,6,2,4,win,2392643,316,2656582,2023,1
 2,4,7,1,0,0,0,0,0,0,03/04/2023,home,16340,655,Southeastern La.,9,True,2,15,-13,loss,2392934,316,2656582,2023,1
 2,2,4,0,0,0,0,0,0,0,03/05/2023,home,16340,655,Southeastern La.,9,True,6,4,2,win,2393363,316,2656582,2023,1
+2,3,5,0,0,0,0,0,1,0,03/08/2023,away,16340,415,Miami (FL),9,True,6,3,3,win,2393979,316,2656582,2023,1

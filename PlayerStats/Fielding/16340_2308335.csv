@@ -7,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,0,2,0,0,1,0,0,0,0,02/28/2023,away,16340,545,Pittsburgh,9,True,8,11,-3,loss,2392338,83,2308335,2023,1
 4,0,4,0,0,0,0,0,0,0,03/04/2023,neutral,16340,774,Western Mich.,9,True,5,15,-10,loss,2393029,83,2308335,2023,1
 5,4,9,0,0,0,1,1,0,0,03/05/2023,neutral,16340,774,Western Mich.,9,True,5,9,-4,loss,2393421,83,2308335,2023,1
+8,2,11,1,0,0,2,1,0,0,03/08/2023,home,16340,386,Marist,9,True,5,6,-1,loss,2393997,83,2308335,2023,1

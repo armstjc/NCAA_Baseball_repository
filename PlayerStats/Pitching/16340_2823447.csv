@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,3,3,3,1,0,0,6,4,1,0,0,0,1,0,0,0,0,0,1,31,1,1,0,0,0,5,0,0,02/17/2023,home,16340,450,Mount St. Mary's,9,True,9,13,-4,loss,2390421,363,2823447,2023,1
 1,0,2.0,0.0,4,2,2,0,0,0,10,10,0,0,0,1,0,0,0,0,0,0,0,24,2,4,0,0,0,5,0,0,02/22/2023,away,16340,457,North Carolina,9,True,0,10,-10,loss,2391236,363,2823447,2023,1
+1,1,2.0,0.0,4,1,1,1,0,0,10,9,1,0,0,0,0,0,0,0,0,0,0,37,5,0,0,1,0,1,0,0,03/08/2023,away,16340,1014,Col. of Charleston,9,True,1,2,-1,loss,2393970,363,2823447,2023,1

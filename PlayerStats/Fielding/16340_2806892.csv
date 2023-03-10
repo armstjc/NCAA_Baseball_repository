@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/19/2023,away,16340,1092,Gardner-Webb,9,True,17,2,15,win,2390860,576,2806892,2023,1
 2,0,2,0,0,0,0,0,0,0,03/05/2023,away,16340,180,Delaware,9,True,2,13,-11,loss,2393379,576,2806892,2023,1
+1,0,1,0,0,0,0,0,0,0,03/08/2023,away,16340,222,FDU,9,True,7,6,1,win,2393996,576,2806892,2023,1

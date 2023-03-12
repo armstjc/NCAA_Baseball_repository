@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,3,1,0,0,0,0,0,0,02/24/2023,away,16340,698,TCU,9,True,10,1,9,win,2391563,234,2468044,2023,1
 1,0,1,0,0,0,0,0,0,0,03/05/2023,home,16340,28755,FGCU,9,True,14,8,6,win,2393486,234,2468044,2023,1
+0,3,3,0,0,0,0,0,0,0,03/11/2023,home,16340,545,Pittsburgh,9,True,5,3,2,win,2394866,234,2468044,2023,1

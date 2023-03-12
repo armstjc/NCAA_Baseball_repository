@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,0,0,0,02/26/2023,away,16340,249,George Washington,9,True,2,4,-2,loss,2391837,220,2518125,2023,1
 0,3,3,0,0,0,0,0,0,0,03/05/2023,away,16340,740,VCU,9,True,3,9,-6,loss,2393552,220,2518125,2023,1
+1,0,1,0,0,0,0,0,0,0,03/11/2023,away,16340,2711,North Florida,9,True,13,16,-3,loss,2394861,220,2518125,2023,1

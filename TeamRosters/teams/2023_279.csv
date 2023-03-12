@@ -1,11 +1,23 @@
-"name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Allen, Stefan","So","2691456",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2691456",279,"Lehman","/team/279/16340",834,"CUNYAC",3,16340
-"Arias, Kevin","Jr","2347281",2023,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2347281",279,"Lehman","/team/279/16340",834,"CUNYAC",3,16340
-"Mack, Terrence","Sr","2347268",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2347268",279,"Lehman","/team/279/16340",834,"CUNYAC",3,16340
-"Monegro, Nico","Jr",NA,2023,"23","UT",NA,279,"Lehman","/team/279/16340",834,"CUNYAC",3,16340
-"Ortiz, Patrick","Sr","2691924",2023,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2691924",279,"Lehman","/team/279/16340",834,"CUNYAC",3,16340
-"Polanco, Randy","Sr","2691923",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2691923",279,"Lehman","/team/279/16340",834,"CUNYAC",3,16340
-"Rijo, Nomar","Jr","2347285",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2347285",279,"Lehman","/team/279/16340",834,"CUNYAC",3,16340
-"Rodriguez, Jordan","So","2691490",2023,"13","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2691490",279,"Lehman","/team/279/16340",834,"CUNYAC",3,16340
-"Santos, Jeremmy","Sr","2143356",2023,"34","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2143356",279,"Lehman","/team/279/16340",834,"CUNYAC",3,16340
-"Torres, David","Sr","2691492",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2691492",279,"Lehman","/team/279/16340",834,"CUNYAC",3,16340
+"player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
+"Allen, Stefan","So","2691456",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2691456",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Arias, Kevin","Jr","2347281",2023,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2347281",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Delgado, Chris","Sr","1999868",2023,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=1999868",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Femin, Elias","So","2835085",2023,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2835085",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Hennessy, Tran","Sr","2347287",2023,"32","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2347287",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Illa, Richard","So","2835068",2023,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2835068",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Jarrin, Glennd","Sr","2347259",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2347259",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"LeMire Jr, Todd","So",NA,2023,"29","P",NA,279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Mack, Terrence","Sr","2347268",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2347268",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Monegro, Nico","Jr",NA,2023,"8","UT",NA,279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Nunez, Justin","Sr","2347279",2023,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2347279",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Ortiz, Patrick","Sr","2691924",2023,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2691924",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Pinedo Pichardo, Ransell","Sr","2691491",2023,"77","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2691491",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Polanco, Randy","Sr","2691923",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2691923",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Rijo, Nomar","Jr","2347285",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2347285",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Rosa, Ryan","Fr","2835067",2023,"18","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2835067",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Santos, Jeremmy","Sr","2143356",2023,"34","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2143356",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Smith, Javaun","Jr","2835066",2023,"17","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2835066",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Smith, Nick","Sr","2347266",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2347266",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Then, Erik","Sr","2143358",2023,"24","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2143358",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"Torres, David","Sr","2691492",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2691492",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340
+"de la Rosa, Frederick","Fr","2835084",2023,"7","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=279&stats_player_seq=2835084",279,"Lehman","/team/279/16340",834,"CUNYAC",3,2023,16340

@@ -9,3 +9,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,02/26/2023,neutral,16340,260,Gonzaga,9,True,8,2,6,win,2392295,518,2112758,2023,1
 0,1,1,0,0,0,0,0,0,0,03/04/2023,neutral,16340,107,California,9,True,1,16,-15,loss,2393319,518,2112758,2023,1
 0,2,2,0,0,0,0,0,0,0,03/05/2023,neutral,16340,522,Oklahoma,9,True,12,9,3,win,2393664,518,2112758,2023,1
+1,1,2,0,0,0,0,0,0,0,03/11/2023,away,16340,94,CSU Bakersfield,9,True,17,5,12,win,2394508,518,2112758,2023,1

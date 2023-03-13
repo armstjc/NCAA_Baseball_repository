@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,7.0,0.0,2,1,0,2,9,0,28,24,1,0,0,0,0,2,0,0,0,0,0,92,7,4,0,0,0,1,0,0,02/22/2023,away,16340,671,Louisiana,9,True,3,4,-1,loss,2391241,77,2811300,2023,1
 1,0,2.0,0.0,4,6,2,4,0,0,14,10,1,0,0,1,1,0,0,0,0,0,0,57,1,4,0,0,0,3,0,0,03/04/2023,home,16340,464,Omaha,9,True,4,16,-12,loss,2392958,77,2811300,2023,1
+1,0,1.1,0.0,1,1,1,0,1,0,5,5,0,0,0,1,0,0,0,2,2,0,0,22,2,1,0,0,0,4,1,0,03/11/2023,neutral,16340,169,Creighton,9,True,5,15,-10,loss,2394764,77,2811300,2023,1

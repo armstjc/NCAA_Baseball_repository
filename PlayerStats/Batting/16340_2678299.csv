@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/24/2023,away,16340,257,Georgia,9,True,5,12,-7,loss,2421512,554,2678299,2023,1
 0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,03/04/2023,away,16340,193,Duke,9,True,2,21,-19,loss,2392924,554,2678299,2023,1
+0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2023,away,16340,726,Navy,9,True,3,5,-2,loss,2408178,554,2678299,2023,1

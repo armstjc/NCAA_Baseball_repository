@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/17/2023,neutral,16340,609,Saint Louis,9,True,11,4,7,win,2390314,388,2334951,2023,1
 0,1,1,0,0,0,0,0,0,0,02/24/2023,away,16340,48,Charleston So.,9,True,8,18,-10,loss,2391321,388,2334951,2023,1
+1,0,1,0,0,0,0,0,0,0,03/11/2023,home,16340,116,Canisius,9,True,3,4,-1,loss,2394945,388,2334951,2023,1

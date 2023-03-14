@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/17/2023,neutral,16340,305,Indiana St.,11,True,6,2,4,win,2390367,312,2489059,2023,1
 0,1,1,0,0,0,0,1,0,0,03/04/2023,away,16340,646,South Alabama,9,True,6,2,4,win,2393321,312,2489059,2023,1
+0,1,1,0,0,0,2,0,0,0,03/10/2023,away,16340,700,Texas Tech,9,True,5,17,-12,loss,2394490,312,2489059,2023,1

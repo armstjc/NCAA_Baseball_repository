@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 6,1,7,0,0,0,0,0,1,0,03/04/2023,away,16340,523,Old Dominion,9,True,4,15,-11,loss,2392609,606,2121411,2023,1
 1,0,1,0,0,0,0,0,0,0,03/05/2023,away,16340,523,Old Dominion,9,True,11,13,-2,loss,2393330,606,2121411,2023,1
+8,0,8,0,0,0,0,0,1,0,03/12/2023,home,16340,368,UMass Lowell,9,True,9,3,6,win,2395081,606,2121411,2023,1

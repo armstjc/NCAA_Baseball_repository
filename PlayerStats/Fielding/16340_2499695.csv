@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,3,3,0,0,0,0,0,1,0,02/28/2023,away,16340,545,Pittsburgh,9,True,8,11,-3,loss,2392338,83,2499695,2023,1
 3,4,8,1,0,0,0,0,0,0,03/04/2023,neutral,16340,774,Western Mich.,9,True,5,15,-10,loss,2393029,83,2499695,2023,1
 2,0,3,1,0,0,0,0,0,0,03/05/2023,neutral,16340,774,Western Mich.,9,True,5,9,-4,loss,2393421,83,2499695,2023,1
+2,2,4,0,0,0,0,0,1,0,03/12/2023,home,16340,572,Rhode Island,8,True,3,2,1,win,2408785,83,2499695,2023,1

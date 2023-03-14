@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.2,0.0,5,4,3,2,2,0,13,10,2,0,0,0,0,1,0,0,0,0,0,44,2,1,0,0,0,3,0,0,02/25/2023,away,16340,749,Wake Forest,9,True,1,18,-17,loss,2391983,711,2820703,2023,1
 1,0,2.2,0.0,2,1,1,2,3,0,12,10,1,0,0,0,0,0,0,1,1,0,0,48,3,2,0,0,0,3,1,0,03/04/2023,home,16340,204,Eastern Mich.,9,True,0,9,-9,loss,2392983,711,2820703,2023,1
+1,0,1.0,0.0,2,2,1,1,0,0,7,5,1,0,0,0,0,1,0,0,0,0,0,25,2,1,0,0,0,2,0,0,03/11/2023,away,16340,488,N.C. A&T,9,True,3,6,-3,loss,2424042,711,2820703,2023,1

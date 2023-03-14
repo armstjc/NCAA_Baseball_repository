@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/24/2023,away,16340,746,Virginia,9,True,3,11,-8,loss,2391447,158,2654244,2023,1
 1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,03/03/2023,away,16340,460,UNCW,9,True,15,0,15,win,2392816,158,2654244,2023,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2023,away,16340,8,Alabama,9,True,15,3,12,win,2394919,158,2654244,2023,1

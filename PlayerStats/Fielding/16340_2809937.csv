@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/24/2023,neutral,16340,287,Houston Christian,15,True,21,14,7,win,2391298,676,2809937,2023,1
 0,1,1,0,0,0,1,0,0,0,03/08/2023,away,16340,553,Prairie View,10,True,11,7,4,win,2394049,676,2809937,2023,1
+0,1,1,0,0,0,2,0,0,0,03/14/2023,home,16340,706,UTSA,9,True,3,9,-6,loss,2395546,676,2809937,2023,1

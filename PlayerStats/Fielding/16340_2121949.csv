@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/07/2023,away,16340,235,Florida,9,True,11,18,-7,loss,2393737,229,2121949,2023,1
 1,0,1,0,0,0,0,0,0,0,03/08/2023,away,16340,235,Florida,9,True,0,11,-11,loss,2393967,229,2121949,2023,1
+1,0,1,0,0,0,0,0,0,0,03/13/2023,home,16340,275,Harvard,10,True,12,11,1,win,2395297,229,2121949,2023,1

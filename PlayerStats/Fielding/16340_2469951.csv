@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,4,5,0,0,0,0,0,1,0,02/28/2023,home,16340,456,UNC Asheville,9,True,13,8,5,win,2392425,458,2469951,2023,1
 1,0,1,0,0,0,0,0,0,0,03/04/2023,away,16340,742,Virginia Tech,9,True,3,6,-3,loss,2393232,458,2469951,2023,1
 0,1,1,0,0,0,0,0,0,0,03/10/2023,home,16340,523,Old Dominion,9,True,10,2,8,win,2394454,458,2469951,2023,1
+2,0,2,0,0,0,0,0,0,0,03/14/2023,home,16340,457,North Carolina,9,True,3,16,-13,loss,2395550,458,2469951,2023,1

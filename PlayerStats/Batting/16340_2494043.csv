@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/19/2023,home,16340,67,Boston College,9,True,6,18,-12,loss,2390823,541,2494043,2023,1
 0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2023,neutral,16340,665,Southern U.,9,True,16,0,16,win,2393035,541,2494043,2023,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2023,home,16340,97,Cal St. Fullerton,12,True,8,10,-2,loss,2394755,541,2494043,2023,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/12/2023,home,16340,97,Cal St. Fullerton,9,True,1,5,-4,loss,2395155,541,2494043,2023,1

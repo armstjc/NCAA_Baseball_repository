@@ -1,2 +1,3 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,3,0,0,03/11/2023,home,16340,30095,Utah Tech,9,True,9,3,6,win,2407945,521,2304113,2023,1
+1,0,1.0,0.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,19,1,1,0,0,0,5,0,0,03/14/2023,home,16340,1045,DBU,9,True,20,4,16,win,2395518,521,2304113,2023,1

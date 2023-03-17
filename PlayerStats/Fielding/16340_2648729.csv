@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,03/03/2023,home,16340,2741,Howard Payne,9,True,11,5,6,win,2392900,1203,2648729,2023,3
+2,0,2,0,0,0,0,0,0,0,03/04/2023,home,16340,2741,Howard Payne,9,True,1,3,-2,loss,2393200,1203,2648729,2023,3
+1,2,3,0,0,0,0,0,0,0,03/04/2023,home,16340,2741,Howard Payne,9,True,5,9,-4,loss,2408655,1203,2648729,2023,3

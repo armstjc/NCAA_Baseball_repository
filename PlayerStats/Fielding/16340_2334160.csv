@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/18/2023,neutral,16340,23121,Texas-Dallas,9,True,6,16,-10,loss,2390595,142,2334160,2023,3
+0,1,1,0,0,0,0,0,0,0,02/26/2023,away,16340,134,Chapman,9,True,5,0,5,win,2391741,142,2334160,2023,3
+1,0,1,0,0,0,0,0,0,0,03/04/2023,away,16340,549,Pomona-Pitzer,9,True,6,5,1,win,2393081,142,2334160,2023,3
+0,2,2,0,0,0,0,0,0,0,03/10/2023,neutral,16340,19,Allegheny,9,True,4,0,4,win,2423829,142,2334160,2023,3

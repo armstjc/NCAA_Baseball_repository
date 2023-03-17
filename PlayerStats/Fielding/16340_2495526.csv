@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/28/2023,away,16340,2694,Franklin,9,True,15,6,9,win,2392371,114,2495526,2023,3
+2,0,2,0,0,0,0,0,0,0,03/04/2023,neutral,16340,25719,Penn St.-Altoona,8,True,8,1,7,win,2393056,114,2495526,2023,3
+2,0,2,0,0,0,0,0,0,0,03/04/2023,neutral,16340,25719,Penn St.-Altoona,9,True,0,1,-1,loss,2408353,114,2495526,2023,3

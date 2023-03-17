@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Baptiste, Evan","Fr","2823462",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=797&stats_player_seq=2823462",797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
 "Benson, Tommy","Jr","2648743",2023,"32","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=797&stats_player_seq=2648743",797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
-"Chapman, Andrew","Fr",NA,2023,"7","OF",NA,797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
+"Chapman, Andrew","Fr","2648734",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=797&stats_player_seq=2648734",797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
 "Chapman, Aaron","Sr","2118676",2023,"13","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=797&stats_player_seq=2118676",797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
 "Cline, Marcus","Jr","2328272",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=797&stats_player_seq=2328272",797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
 "Connelly, Mark","Sr","2648720",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=797&stats_player_seq=2648720",797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
@@ -23,7 +23,7 @@
 "Lee, Ben","Fr",NA,2023,"24","P",NA,797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
 "Lorbecki, Caleb","Jr","2648765",2023,"88","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=797&stats_player_seq=2648765",797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
 "Mathews, Sam","Sr","2144762",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=797&stats_player_seq=2144762",797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
-"Montilva, Adrian","Jr",NA,2023,"55","P",NA,797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
+"Montilva, Adrian","Jr","2823413",2023,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=797&stats_player_seq=2823413",797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
 "Morris, Quinton","Jr","2328280",2023,"33","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=797&stats_player_seq=2328280",797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
 "Neu, Andy","Sr","2481815",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=797&stats_player_seq=2481815",797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340
 "Novak, Jake","Jr","2328282",2023,"31","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=797&stats_player_seq=2328282",797,"Milwaukee","/team/797/16340",881,"Horizon",1,2023,16340

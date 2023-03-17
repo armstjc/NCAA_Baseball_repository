@@ -56,7 +56,7 @@ def get_season_ncaa_baseball_stats(season:int,division:int):
     season_id_arr = roster_df['season_id'].to_list()
     school_id_arr = roster_df['team_id'].to_list()
     len_player_id_arr = len(player_id_arr)
-    count = 0
+    count = 2000
 
     for i in tqdm(range(count,len_player_id_arr)):
         count += 1
@@ -118,7 +118,7 @@ def get_season_ncaa_baseball_stats(season:int,division:int):
         time.sleep(4)
 
 def main():
-    get_season_ncaa_baseball_stats(2023,1)
+    get_season_ncaa_baseball_stats(2023,3)
 
 if __name__ == "__main__":
     main()

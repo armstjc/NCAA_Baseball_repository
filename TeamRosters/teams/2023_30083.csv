@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Mulligan	, Connor","Fr",NA,2023,"2","P",NA,30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
 "Atkins	, Cael","Fr",NA,2023,"37","C",NA,30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
-"Balbera,  Evan","Fr",NA,2023,"20","P",NA,30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
+"Balbera,  Evan","Fr","2822138",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30083&stats_player_seq=2822138",30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
 "Champlin, Chris","Jr","2672397",2023,"22","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30083&stats_player_seq=2672397",30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
 "Cinamon	, Tyler","So","2672627",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30083&stats_player_seq=2672627",30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
 "Clements		, Caleb","So","2672694",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30083&stats_player_seq=2672694",30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
@@ -18,11 +18,11 @@
 "Leavey, Chris","Sr","2352605",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30083&stats_player_seq=2352605",30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
 "Leger, Frank","Sr","2134043",2023,"9","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30083&stats_player_seq=2134043",30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
 "Lewis, Devin","Sr","2002207",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30083&stats_player_seq=2002207",30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
-"Marchese	, Joey","Fr",NA,2023,"26","OF",NA,30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
+"Marchese	, Joey","Fr","2822162",2023,"26","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30083&stats_player_seq=2822162",30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
 "Palmer	, Wyatt","Sr","2672652",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30083&stats_player_seq=2672652",30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
 "Perez-Garcia, Jordy","Fr",NA,2023,"8","INF",NA,30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
 "Pohl, Dylan","So","2672701",2023,"44","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30083&stats_player_seq=2672701",30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
-"Renk, Scott","Fr",NA,2023,"45","P",NA,30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
+"Renk, Scott","Fr","2822146",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30083&stats_player_seq=2822146",30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
 "Schwam, Dylan","Fr","2822136",2023,"18","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30083&stats_player_seq=2822136",30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
 "Schwark, Ryan","Fr",NA,2023,"12","OF",NA,30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340
 "Scott, Logan","So","2672392",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30083&stats_player_seq=2672392",30083,"Cobleskill St.","/team/30083/16340",30026,"North Atlantic",3,2023,16340

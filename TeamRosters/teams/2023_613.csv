@@ -1,8 +1,8 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Balian, Trent","So","2687231",2023,"11","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2687231",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
 "Balian, Evan","So","2682615",2023,"45","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2682615",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
-"Burke, Colin","Fr","2803205",2023,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2803205",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
+"Balian, Trent","So","2687231",2023,"11","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2687231",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
 "Burke, Keegan","Fr","2803206",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2803206",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
+"Burke, Colin","Fr","2803205",2023,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2803205",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
 "Canty, Ryan","Fr","2803209",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2803209",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
 "Cavossa, Sam","Fr","2803212",2023,"23","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2803212",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
 "Cianciolo, John Luke","Sr","2126731",2023,"3","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2126731",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
@@ -10,9 +10,9 @@
 "Fane-Cushing, Colby","So","2682611",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2682611",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
 "Fischer, Jack","Fr","2803214",2023,"41","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2803214",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
 "Garcia, Justin","Jr","2463267",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2463267",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
-"Hewitt, Preston","So",NA,2023,"14","1B",NA,613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
-"Hosea, Joey","Jr","2463304",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2463304",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
+"Hewitt, Preston","So","2803158",2023,"14","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2803158",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
 "Hosea, Ryan","Sr","2361727",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2361727",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
+"Hosea, Joey","Jr","2463304",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2463304",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
 "King, Maverick","So","2682613",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2682613",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
 "Kolifrath, Max","So","2682614",2023,"44","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2682614",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340
 "Lanthier, Andrew","Jr","2463305",2023,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=613&stats_player_seq=2463305",613,"Saint Michael's","/team/613/16340",899,"NE10",2,2023,16340

@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,1,6,0,0,1,0,0,0,0,02/23/2023,away,16340,1434,Waynesburg,9,True,11,10,1,win,2408031,1163,2512782,2023,3
+5,1,6,0,0,0,1,1,0,0,03/07/2023,neutral,16340,30190,Penn College,9,True,4,9,-5,loss,2407794,1163,2512782,2023,3
+5,1,6,0,0,0,0,0,0,0,03/09/2023,away,16340,30190,Penn College,9,True,4,9,-5,loss,2424904,1163,2512782,2023,3
+0,0,0,0,0,0,2,0,0,0,03/09/2023,neutral,16340,1064,Eastern Nazarene,9,True,5,14,-9,loss,2394137,1163,2512782,2023,3
+6,0,6,0,0,0,2,0,0,0,03/10/2023,neutral,16340,59,Bethany (WV),9,True,7,8,-1,loss,2394275,1163,2512782,2023,3
+1,0,1,0,0,0,0,0,0,0,03/16/2023,home,16340,452,Mount Union,9,True,4,25,-21,loss,2395563,1163,2512782,2023,3

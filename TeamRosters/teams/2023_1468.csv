@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Alexander, Daniel","Fr",NA,2023,"77","P",NA,1468,"Mt. St. Mary (NY)","/team/1468/16340",13054,"Skyline",3,2023,16340
+"Alexander, Daniel","Fr","2816215",2023,"77","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1468&stats_player_seq=2816215",1468,"Mt. St. Mary (NY)","/team/1468/16340",13054,"Skyline",3,2023,16340
 "Anderson , Noah","Fr","2816210",2023,"37","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1468&stats_player_seq=2816210",1468,"Mt. St. Mary (NY)","/team/1468/16340",13054,"Skyline",3,2023,16340
 "Barnes, Coleman","Sr","2132068",2023,"25","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1468&stats_player_seq=2132068",1468,"Mt. St. Mary (NY)","/team/1468/16340",13054,"Skyline",3,2023,16340
 "Barone , Luke","So","2675208",2023,"52","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1468&stats_player_seq=2675208",1468,"Mt. St. Mary (NY)","/team/1468/16340",13054,"Skyline",3,2023,16340
@@ -42,5 +42,5 @@
 "Stella , Justin","Fr","2816132",2023,"44","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1468&stats_player_seq=2816132",1468,"Mt. St. Mary (NY)","/team/1468/16340",13054,"Skyline",3,2023,16340
 "Tait, Devin","Sr","2132097",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1468&stats_player_seq=2132097",1468,"Mt. St. Mary (NY)","/team/1468/16340",13054,"Skyline",3,2023,16340
 "Torres, Nick","Jr","2521696",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1468&stats_player_seq=2521696",1468,"Mt. St. Mary (NY)","/team/1468/16340",13054,"Skyline",3,2023,16340
-"Vernaglia , Joseph","Fr",NA,2023,"28","INF",NA,1468,"Mt. St. Mary (NY)","/team/1468/16340",13054,"Skyline",3,2023,16340
+"Vernaglia , Joseph","Fr","2816131",2023,"28","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1468&stats_player_seq=2816131",1468,"Mt. St. Mary (NY)","/team/1468/16340",13054,"Skyline",3,2023,16340
 "Volk , Stephen","Fr","2816214",2023,"41","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1468&stats_player_seq=2816214",1468,"Mt. St. Mary (NY)","/team/1468/16340",13054,"Skyline",3,2023,16340

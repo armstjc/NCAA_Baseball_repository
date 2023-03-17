@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/15/2023,home,16340,203,East. Mennonite,9,True,5,1,4,win,2390223,139,2499150,2023,3
+0,4,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,02/16/2023,home,16340,394,Marymount (VA),9,True,6,5,1,win,2418696,139,2499150,2023,3
+0,4,1,1,0,2,0,0,1,0,0,0,2,0,0,0,0,0,0,02/19/2023,home,16340,475,SUNY New Paltz,9,True,8,4,4,win,2390866,139,2499150,2023,3
+2,2,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,02/22/2023,home,16340,75,Bridgewater (VA),9,True,11,1,10,win,2391225,139,2499150,2023,3
+1,4,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,02/26/2023,neutral,16340,385,Marietta,9,True,10,0,10,win,2392078,139,2499150,2023,3
+2,4,2,1,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,03/03/2023,neutral,16340,44,Averett,9,True,6,3,3,win,2392695,139,2499150,2023,3

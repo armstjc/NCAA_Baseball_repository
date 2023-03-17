@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/25/2023,neutral,16340,455,Muskingum,9,True,4,7,-3,loss,2391709,1050,2684612,2023,3
+1,2,5,2,0,0,0,0,0,0,02/25/2023,neutral,16340,455,Muskingum,9,True,4,5,-1,loss,2408292,1050,2684612,2023,3
+0,4,4,0,0,0,0,0,0,0,02/26/2023,home,16340,326,Kalamazoo,9,True,2,8,-6,loss,2412064,1050,2684612,2023,3
+1,2,3,0,0,0,0,0,1,0,03/14/2023,neutral,16340,803,Wis.-Stout,9,True,0,5,-5,loss,2395387,1050,2684612,2023,3
+1,1,2,0,0,0,0,0,0,0,03/14/2023,neutral,16340,803,Wis.-Stout,9,True,4,6,-2,loss,2408430,1050,2684612,2023,3
+2,2,4,0,0,0,0,0,0,0,03/16/2023,neutral,16340,642,Skidmore,9,True,0,11,-11,loss,2395762,1050,2684612,2023,3
+2,2,4,0,0,0,0,0,1,0,03/16/2023,away,16340,8911,Wis. Lutheran,9,True,1,5,-4,loss,2395767,1050,2684612,2023,3

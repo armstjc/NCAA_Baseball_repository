@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Abshier, Randy","Sr","2140165",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2140165",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
-"Alexander, Cole","Jr",NA,2023,"34","UT",NA,277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
+"Alexander, Cole","Jr","2800596",2023,"34","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2800596",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
 "Atkins, Tai","Jr","2334628",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2334628",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
 "Bodendorf, Harrison","Fr","2800614",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2800614",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
 "Calderon, Naighel","Jr","2334646",2023,"20","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2334646",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
@@ -9,7 +9,7 @@
 "Donahue, Kyson","Jr","2662024",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2662024",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
 "Duarte, Dallas","Sr","2113969",2023,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2113969",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
 "Dyball, Tyler","Jr","2113981",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2113981",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
-"Flores, Matthew","Fr",NA,2023,"48","P",NA,277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
+"Flores, Matthew","Fr","2800616",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2800616",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
 "Giroux, Alex","So","2800623",2023,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2800623",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
 "Gustin, Harry","So","2662027",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2662027",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
 "Gyselman, Alton","So","2800595",2023,"32","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2800595",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
@@ -29,7 +29,7 @@
 "Rimmer, Sean","Jr","2800611",2023,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2800611",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
 "Rivera, Bronson","So","2662028",2023,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2662028",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
 "Rudy, Brock","Jr","2344230",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2344230",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
-"Schenk, Kahiau","Fr",NA,2023,"36","P",NA,277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
+"Schenk, Kahiau","Fr","2800598",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2800598",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
 "Sielken, Xander","Fr",NA,2023,"55","INF",NA,277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
 "Storbakken, Zach","Jr","2800593",2023,"28","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2800593",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340
 "Teixeira, Austin","So","2463498",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=277&stats_player_seq=2463498",277,"Hawaii","/team/277/16340",904,"Big West",1,2023,16340

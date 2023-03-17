@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,2,0,0,0,02/27/2023,neutral,16340,1192,Manchester,9,True,5,8,-3,loss,2392319,1254,2678587,2023,3
+0,2,2,0,0,0,2,0,0,0,03/07/2023,home,16340,681,Stockton,9,True,18,6,12,win,2393872,1254,2678587,2023,3
+0,3,3,0,0,0,4,0,0,0,03/16/2023,home,16340,783,Widener,9,True,9,13,-4,loss,2395467,1254,2678587,2023,3

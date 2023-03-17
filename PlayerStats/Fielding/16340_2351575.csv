@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/26/2023,home,16340,623,Salve Regina,9,True,6,3,3,win,2391997,124,2351575,2023,3
+3,0,3,0,0,0,0,0,0,0,02/26/2023,home,16340,623,Salve Regina,9,True,6,5,1,win,2407849,124,2351575,2023,3
+3,0,3,0,0,0,0,0,0,0,03/04/2023,home,16340,642,Skidmore,9,True,5,9,-4,loss,2423060,124,2351575,2023,3
+1,0,1,0,0,0,0,0,0,0,03/07/2023,neutral,16340,30044,Penn St.-Berks,9,True,19,5,14,win,2393810,124,2351575,2023,3
+1,0,1,0,0,0,0,0,0,0,03/08/2023,neutral,16340,30190,Penn College,9,True,7,2,5,win,2394008,124,2351575,2023,3
+2,0,2,0,0,0,0,0,0,0,03/09/2023,neutral,16340,722,Coast Guard,9,True,11,2,9,win,2394139,124,2351575,2023,3
+1,1,2,0,0,0,0,0,0,0,03/10/2023,neutral,16340,22626,JWU (Providence),9,True,3,4,-1,loss,2394277,124,2351575,2023,3
+2,0,2,0,0,0,0,0,0,0,03/11/2023,neutral,16340,76,Bridgewater St.,9,True,8,2,6,win,2394632,124,2351575,2023,3

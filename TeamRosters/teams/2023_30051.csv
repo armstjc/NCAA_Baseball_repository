@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Aguilar, Alec","Fr",NA,2023,"60","INF",NA,30051,"King (TN)","/team/30051/16340",4423,"Conference Carolinas",2,2023,16340
 "Berry, Ray","Jr","2467924",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30051&stats_player_seq=2467924",30051,"King (TN)","/team/30051/16340",4423,"Conference Carolinas",2,2023,16340
-"Blondino, Benjamin","Fr",NA,2023,"36","OF",NA,30051,"King (TN)","/team/30051/16340",4423,"Conference Carolinas",2,2023,16340
+"Blondino, Benjamin","Fr","2798361",2023,"36","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30051&stats_player_seq=2798361",30051,"King (TN)","/team/30051/16340",4423,"Conference Carolinas",2,2023,16340
 "Bonney, Wes","Sr","2306915",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30051&stats_player_seq=2306915",30051,"King (TN)","/team/30051/16340",4423,"Conference Carolinas",2,2023,16340
 "Briggs, Gavin","Fr",NA,2023,"18","OF",NA,30051,"King (TN)","/team/30051/16340",4423,"Conference Carolinas",2,2023,16340
 "Brown, Jakob","Sr","2116645",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30051&stats_player_seq=2116645",30051,"King (TN)","/team/30051/16340",4423,"Conference Carolinas",2,2023,16340

@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Agan, Eric","Jr","2509168",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=547&stats_player_seq=2509168",547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
 "Avin, Logan","Jr","2684446",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=547&stats_player_seq=2684446",547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
-"Baumann, Will","Fr",NA,2023,"4","1B",NA,547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
+"Baumann, Will","Fr","2826904",2023,"4","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=547&stats_player_seq=2826904",547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
 "Blair, Matt","Fr","2826907",2023,"32","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=547&stats_player_seq=2826907",547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
 "Catrambone, Ben","Jr","2684452",2023,"14","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=547&stats_player_seq=2684452",547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
 "Cergol, Nick","Jr","2684451",2023,"13","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=547&stats_player_seq=2684451",547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
@@ -28,7 +28,7 @@
 "Ramos Jr., Miguel","So","2684449",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=547&stats_player_seq=2684449",547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
 "Rasquin, Mike","Sr","2355923",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=547&stats_player_seq=2355923",547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
 "Santic, Chris","Jr","2509170",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=547&stats_player_seq=2509170",547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
-"Suafoa, Justice","So",NA,2023,"11","INF",NA,547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
+"Suafoa, Justice","So","2826899",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=547&stats_player_seq=2826899",547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
 "Trombley, Brayden","Fr",NA,2023,"31","1B",NA,547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
 "Veit, Andrew","Sr","2344942",2023,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=547&stats_player_seq=2344942",547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340
 "Voelpel, Connor","So","2684450",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=547&stats_player_seq=2684450",547,"Plattsburgh St.","/team/547/16340",917,"SUNYAC",3,2023,16340

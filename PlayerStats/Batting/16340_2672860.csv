@@ -1,0 +1,9 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/15/2023,home,16340,203,East. Mennonite,9,True,5,1,4,win,2390223,139,2672860,2023,3
+1,1,0,0,0,0,0,1,0,1,0,2,1,0,0,0,0,0,0,02/16/2023,home,16340,394,Marymount (VA),9,True,6,5,1,win,2418696,139,2672860,2023,3
+1,2,1,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,02/18/2023,home,16340,475,SUNY New Paltz,9,True,11,4,7,win,2408893,139,2672860,2023,3
+1,3,2,1,0,6,1,2,0,1,0,1,1,0,0,0,0,0,0,02/21/2023,home,16340,269,Hampden-Sydney,9,True,11,2,9,win,2391119,139,2672860,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/22/2023,home,16340,75,Bridgewater (VA),9,True,11,1,10,win,2391225,139,2672860,2023,3
+1,4,1,1,0,2,0,2,0,0,0,0,1,0,0,0,0,0,0,02/24/2023,neutral,16340,581,Rochester (NY),9,True,8,7,1,win,2391344,139,2672860,2023,3
+0,4,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,03/05/2023,neutral,16340,303,Immaculata,9,True,6,12,-6,loss,2393477,139,2672860,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2023,home,16340,374,Lynchburg,9,True,6,4,2,win,2393790,139,2672860,2023,3

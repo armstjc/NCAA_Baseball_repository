@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2023,home,16340,751,Wash. & Jeff.,9,True,1,10,-9,loss,2408543,122,2305717,2023,3
+1,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/13/2023,neutral,16340,168,Cortland,9,True,17,5,12,win,2395250,122,2305717,2023,3
+2,3,1,1,0,2,0,2,2,0,0,0,2,0,0,0,0,0,0,03/16/2023,away,16340,4,Adrian,9,True,17,8,9,win,2424964,122,2305717,2023,3

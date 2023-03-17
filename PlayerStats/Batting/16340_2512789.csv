@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,02/23/2023,away,16340,1434,Waynesburg,9,True,8,5,3,win,2421355,1163,2512789,2023,3
+2,3,2,0,0,5,1,1,0,0,0,1,1,0,0,0,0,0,0,02/23/2023,away,16340,1434,Waynesburg,9,True,11,10,1,win,2408031,1163,2512789,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2023,away,16340,751,Wash. & Jeff.,9,True,7,13,-6,loss,2392554,1163,2512789,2023,3
+1,4,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,03/06/2023,neutral,16340,30044,Penn St.-Berks,9,True,10,1,9,win,2393687,1163,2512789,2023,3
+2,3,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,03/07/2023,neutral,16340,30190,Penn College,9,True,13,7,6,win,2393821,1163,2512789,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/11/2023,home,16340,22626,JWU (Providence),9,True,1,14,-13,loss,2394628,1163,2512789,2023,3
+0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,03/16/2023,home,16340,452,Mount Union,9,True,4,25,-21,loss,2395563,1163,2512789,2023,3

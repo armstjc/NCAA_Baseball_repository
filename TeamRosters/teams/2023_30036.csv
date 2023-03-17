@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Abrams, Tanner","Fr",NA,2023,"34","P",NA,30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
+"Abrams, Tanner","Fr","2824907",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2824907",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Bailey, John Luke","So","2684727",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2684727",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Becquet, Evan","So","2352442",2023,"3","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2352442",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Bell, Aidan","Jr","2352444",2023,"20","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2352444",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
@@ -7,7 +7,7 @@
 "Brown, Joshua","So","2485169",2023,"45","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2485169",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Brown, Dylan","So","2684728",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2684728",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Bushey, Ryan","So","2684706",2023,"41","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2684706",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
-"Constein, Gavin","Fr",NA,2023,"43","OF",NA,30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
+"Constein, Gavin","Fr","2824914",2023,"43","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2824914",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Derubeis, Joey","So","2352449",2023,"7","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2352449",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Eck, Jeremy","So","2684734",2023,"48","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2684734",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Elias, John","So","2485167",2023,"37","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2485167",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
@@ -17,13 +17,13 @@
 "Gearhart, Mason","Fr",NA,2023,"46","P",NA,30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Griffith, John","So","2684711",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2684711",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Gustafson, Logan","Fr",NA,2023,"22","UT",NA,30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
-"Harkness, Cole","Fr",NA,2023,"14","C",NA,30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
+"Harkness, Cole","Fr","2824900",2023,"14","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2824900",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Hasse, Chris","So","2352422",2023,"25","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2352422",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Houser, Jared","So","2352423",2023,"35","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2352423",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Kozlovac, Jackson","So","2684699",2023,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2684699",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Lynn, Ryan","Sr","2344783",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2344783",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Mallin, Hayden","So","2684729",2023,"29","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2684729",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
-"Marcellus, Braden","Fr",NA,2023,"24","INF",NA,30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
+"Marcellus, Braden","Fr","2824890",2023,"24","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2824890",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "McGinnis, Bill","So","2485166",2023,"36","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2485166",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Peck, Zack","So","2352425",2023,"44","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2352425",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Perrone, Tanner","Jr","2144838",2023,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2144838",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
@@ -37,4 +37,4 @@
 "Suder, Tyler","Jr","2144843",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2144843",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Tunison, Griffin","So","2684713",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2684713",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
 "Warner, Payton","So",NA,2023,"38","C",NA,30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
-"Watkins, Matthew","Fr",NA,2023,"18","UT",NA,30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340
+"Watkins, Matthew","Fr","2824903",2023,"18","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30036&stats_player_seq=2824903",30036,"Mount Aloysius","/team/30036/16340",30022,"AMCC",3,2023,16340

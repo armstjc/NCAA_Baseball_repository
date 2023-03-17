@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/18/2023,away,16340,0,Penn St.-Brandywine,12,True,6,5,1,win,2390638,15882,2684794,2023,3
+3,0,3,0,0,0,0,0,0,0,02/19/2023,home,16340,0,Penn St.-Brandywine,9,True,5,6,-1,loss,2390948,15882,2684794,2023,3
+1,0,1,0,0,0,0,0,0,0,03/04/2023,home,16340,336,King's (PA),9,True,6,12,-6,loss,2393215,15882,2684794,2023,3
+2,0,2,0,0,0,0,0,0,0,03/04/2023,home,16340,336,King's (PA),9,True,4,5,-1,loss,2408665,15882,2684794,2023,3
+2,0,3,1,0,0,0,0,0,0,03/06/2023,neutral,16340,336,King's (PA),9,True,14,4,10,win,2393716,15882,2684794,2023,3
+2,0,2,0,0,0,0,0,0,0,03/12/2023,away,16340,1254,Neumann,9,True,8,4,4,win,2394707,15882,2684794,2023,3
+1,0,1,0,0,0,0,0,0,0,03/12/2023,away,16340,1254,Neumann,9,True,2,5,-3,loss,2407943,15882,2684794,2023,3

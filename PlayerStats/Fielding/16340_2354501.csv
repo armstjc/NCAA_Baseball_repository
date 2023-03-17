@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,03/11/2023,neutral,16340,23725,Medaille,9,True,5,15,-10,loss,2394647,152,2354501,2023,3
+1,0,1,0,0,0,0,0,0,0,03/11/2023,neutral,16340,23725,Medaille,9,True,7,12,-5,loss,2408844,152,2354501,2023,3
+1,0,1,0,0,0,0,0,0,0,03/12/2023,home,16340,30040,Me.-Presque Isle,9,True,18,9,9,win,2395027,152,2354501,2023,3
+1,0,1,0,0,0,0,0,0,0,03/15/2023,neutral,16340,170,Curry,9,True,1,7,-6,loss,2395631,152,2354501,2023,3
+2,0,2,0,0,0,0,0,0,0,03/15/2023,neutral,16340,170,Curry,9,True,3,13,-10,loss,2408898,152,2354501,2023,3
+1,0,1,0,0,0,0,0,0,0,03/16/2023,neutral,16340,379,Me.-Farmington,9,True,3,0,3,win,2408269,152,2354501,2023,3

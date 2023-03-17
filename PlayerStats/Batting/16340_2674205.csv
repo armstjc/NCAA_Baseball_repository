@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2023,neutral,16340,46,Baldwin Wallace,10,True,15,9,6,win,2393068,16142,2674205,2023,3
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/06/2023,neutral,16340,351,Lebanon Valley,9,True,15,4,11,win,2393726,16142,2674205,2023,3
+0,1,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,03/09/2023,neutral,16340,686,Swarthmore,9,True,15,1,14,win,2394181,16142,2674205,2023,3
+2,4,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,03/13/2023,neutral,16340,336,King's (PA),9,True,16,10,6,win,2395288,16142,2674205,2023,3

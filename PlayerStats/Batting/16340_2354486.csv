@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/05/2023,away,16340,399,Mass. Maritime,9,True,1,2,-1,loss,2393186,152,2354486,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2023,away,16340,399,Mass. Maritime,9,True,0,4,-4,loss,2408624,152,2354486,2023,3
+1,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,03/11/2023,neutral,16340,23725,Medaille,9,True,5,15,-10,loss,2394647,152,2354486,2023,3
+2,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,03/12/2023,home,16340,30040,Me.-Presque Isle,9,True,18,9,9,win,2395027,152,2354486,2023,3
+1,5,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,03/13/2023,neutral,16340,486,MCLA,9,True,7,13,-6,loss,2395247,152,2354486,2023,3
+1,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/15/2023,neutral,16340,170,Curry,9,True,3,13,-10,loss,2408898,152,2354486,2023,3
+1,3,2,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,03/16/2023,neutral,16340,379,Me.-Farmington,9,True,3,0,3,win,2408269,152,2354486,2023,3

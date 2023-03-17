@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/19/2023,neutral,16340,577,Ripon,9,True,11,10,1,win,2390876,177,2485058,2023,3
+4,0,4,0,0,0,0,0,0,0,02/19/2023,away,16340,492,North Central (IL),9,True,2,8,-6,loss,2390579,177,2485058,2023,3
+0,0,0,0,0,0,1,0,0,0,02/24/2023,neutral,16340,759,Webster,9,True,5,16,-11,loss,2391504,177,2485058,2023,3
+4,0,4,0,0,0,0,0,0,0,02/25/2023,neutral,16340,23260,Spalding,9,True,3,4,-1,loss,2391676,177,2485058,2023,3
+3,0,3,0,0,0,0,0,0,0,02/26/2023,neutral,16340,1461,Wilmington (OH),9,True,4,2,2,win,2392070,177,2485058,2023,3
+1,0,1,0,0,0,0,0,0,0,03/04/2023,neutral,16340,1192,Manchester,9,True,5,12,-7,loss,2393054,177,2485058,2023,3
+4,0,4,0,0,0,0,0,0,0,03/05/2023,neutral,16340,1192,Manchester,9,True,10,8,2,win,2393425,177,2485058,2023,3
+2,0,2,0,0,0,0,0,0,0,03/11/2023,away,16340,28749,Transylvania,9,True,3,5,-2,loss,2394547,177,2485058,2023,3
+1,0,1,0,0,0,0,0,0,0,03/11/2023,away,16340,798,Wis.-Oshkosh,9,True,2,3,-1,loss,2394689,177,2485058,2023,3
+1,0,1,0,0,0,0,0,0,0,03/12/2023,away,16340,28749,Transylvania,9,True,1,9,-8,loss,2394958,177,2485058,2023,3

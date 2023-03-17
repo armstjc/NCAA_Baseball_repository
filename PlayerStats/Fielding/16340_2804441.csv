@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/26/2023,away,16340,521,Oklahoma St.,9,True,1,11,-10,loss,2392225,370,2804441,2023,1
 0,1,1,0,0,0,0,0,0,0,03/10/2023,away,16340,736,Vanderbilt,9,True,1,2,-1,loss,2394358,370,2804441,2023,1
+0,0,0,0,0,0,1,0,0,0,03/13/2023,home,16340,104,UC Santa Barbara,9,True,6,13,-7,loss,2395508,370,2804441,2023,1

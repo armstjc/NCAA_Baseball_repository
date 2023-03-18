@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.0,0.0,0,0,0,2,0,0,5,3,0,0,0,0,1,0,0,0,0,0,0,24,1,2,0,0,0,4,0,0,03/01/2023,away,16340,30164,Southern Va.,9,True,2,5,-3,loss,2392547,225,2809017,2023,3
+1,0,2.0,0.0,2,0,0,1,1,0,9,7,0,0,0,0,1,1,0,0,0,0,0,28,2,2,0,0,0,3,1,0,03/05/2023,away,16340,21830,Piedmont,9,True,2,4,-2,loss,2393336,225,2809017,2023,3
+1,0,1.1,0.0,0,0,0,3,2,0,7,4,0,0,0,0,0,0,0,0,0,0,0,23,1,1,0,0,0,4,0,0,03/09/2023,home,16340,17094,William Peace,9,True,17,14,3,win,2394173,225,2809017,2023,3
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,3,0,0,0,3,0,0,03/12/2023,away,16340,565,Randolph-Macon,9,True,5,11,-6,loss,2394728,225,2809017,2023,3

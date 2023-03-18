@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/04/2023,away,16340,1099,Gordon,9,True,0,16,-16,loss,2411801,23725,2523216,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/05/2023,neutral,16340,8597,Martin Luther,9,True,7,20,-13,loss,2408631,23725,2523216,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/06/2023,neutral,16340,1196,Marian (WI),9,True,1,17,-16,loss,2393675,23725,2523216,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2023,away,16340,486,MCLA,9,True,8,20,-12,loss,2394292,23725,2523216,2023,3

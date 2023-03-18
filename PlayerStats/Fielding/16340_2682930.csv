@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+6,0,7,1,0,0,0,0,0,0,03/04/2023,away,16340,745,Va. Wesleyan,9,True,20,11,9,win,2393125,259,2682930,2023,3
+0,2,2,0,0,0,0,0,0,0,03/10/2023,neutral,16340,23121,Texas-Dallas,10,True,6,7,-1,loss,2394260,259,2682930,2023,3
+1,2,3,0,0,0,0,0,0,0,03/11/2023,neutral,16340,296,Benedictine (IL),9,True,0,2,-2,loss,2394607,259,2682930,2023,3
+2,1,3,0,0,0,0,0,0,0,03/12/2023,away,16340,84,Buena Vista,10,True,16,14,2,win,2394987,259,2682930,2023,3
+2,3,5,0,0,0,0,0,0,0,03/13/2023,home,16340,60,Bethel (MN),9,True,4,11,-7,loss,2395239,259,2682930,2023,3

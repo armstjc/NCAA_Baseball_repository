@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,3,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,02/10/2023,away,16340,0,Penn St.-Gr Allegheny,9,True,10,2,8,win,2418393,265,2334246,2023,3
+1,1,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,03/07/2023,neutral,16340,30037,Trine,9,True,11,4,7,win,2393802,265,2334246,2023,3
+0,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,03/08/2023,neutral,16340,601,St. John Fisher,9,True,7,2,5,win,2423698,265,2334246,2023,3

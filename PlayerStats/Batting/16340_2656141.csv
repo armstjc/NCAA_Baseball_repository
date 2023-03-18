@@ -1,0 +1,2 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,03/15/2023,neutral,16340,69,Bowdoin,9,True,5,20,-15,loss,2408828,242,2656141,2023,3

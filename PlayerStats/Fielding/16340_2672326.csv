@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,1,0,0,0,02/10/2023,away,16340,1094,George Fox,9,True,3,4,-1,loss,2389969,271,2672326,2023,3
+1,2,3,0,0,0,1,0,1,0,02/18/2023,away,16340,715,Trinity (TX),9,True,2,1,1,win,2390667,271,2672326,2023,3
+1,1,2,0,0,0,1,0,0,0,03/04/2023,home,16340,23008,Ozarks (AR),9,True,12,5,7,win,2408895,271,2672326,2023,3
+0,1,1,0,0,0,0,0,0,0,03/10/2023,home,16340,2810,St. Thomas (TX),9,True,12,3,9,win,2394473,271,2672326,2023,3
+0,0,0,0,0,0,2,0,0,0,03/17/2023,home,16340,1390,Sul Ross St.,9,True,11,8,3,win,2396103,271,2672326,2023,3

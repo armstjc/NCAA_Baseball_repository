@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+8,0,9,1,0,0,0,0,2,0,02/18/2023,away,16340,329,Kean,9,True,1,7,-6,loss,2390658,239,2515999,2023,3
+4,0,4,0,0,0,0,0,0,0,02/21/2023,away,16340,88,Cabrini,9,True,6,4,2,win,2391158,239,2515999,2023,3
+1,0,2,1,0,0,0,0,0,0,02/26/2023,away,16340,269,Hampden-Sydney,9,True,3,4,-1,loss,2392038,239,2515999,2023,3
+6,0,6,0,0,0,0,0,0,0,03/04/2023,away,16340,578,Roanoke,9,True,1,8,-7,loss,2393062,239,2515999,2023,3
+4,0,4,0,0,0,0,0,0,0,03/04/2023,neutral,16340,385,Marietta,9,True,1,13,-12,loss,2393213,239,2515999,2023,3
+5,0,5,0,0,0,0,0,0,0,03/05/2023,neutral,16340,78,SUNY Brockport,9,True,4,8,-4,loss,2393465,239,2515999,2023,3
+5,0,5,0,0,0,0,0,0,0,03/16/2023,neutral,16340,803,Wis.-Stout,10,True,9,6,3,win,2395763,239,2515999,2023,3

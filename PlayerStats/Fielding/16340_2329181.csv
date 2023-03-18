@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,3,0,0,0,02/26/2023,away,16340,398,MIT,9,True,7,8,-1,loss,2391680,20,2329181,2023,3
+0,0,0,0,0,0,3,0,0,0,03/07/2023,away,16340,1400,Texas Lutheran,9,True,1,10,-9,loss,2393936,20,2329181,2023,3

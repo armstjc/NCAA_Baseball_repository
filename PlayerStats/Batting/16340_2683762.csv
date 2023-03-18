@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,5,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/24/2023,away,16340,745,Va. Wesleyan,9,True,10,5,5,win,2391278,200,2683762,2023,3
+1,4,3,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2023,away,16340,745,Va. Wesleyan,9,True,8,4,4,win,2391583,200,2683762,2023,3
+1,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/26/2023,away,16340,745,Va. Wesleyan,9,True,7,1,6,win,2391999,200,2683762,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/08/2023,away,16340,30029,Purchase,9,True,9,6,3,win,2394070,200,2683762,2023,3
+0,1,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,03/12/2023,away,16340,322,Johns Hopkins,10,True,3,2,1,win,2394975,200,2683762,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/13/2023,away,16340,390,Mary Washington,9,True,4,7,-3,loss,2395284,200,2683762,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/16/2023,neutral,16340,30036,Mount Aloysius,9,True,4,0,4,win,2425022,200,2683762,2023,3

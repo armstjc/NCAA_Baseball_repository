@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,1,5,0,0,0,3,1,0,0,02/18/2023,away,16340,329,Kean,9,True,0,1,-1,loss,2407907,239,2798104,2023,3
+7,3,10,0,0,0,3,2,0,0,03/02/2023,away,16340,411,Messiah,9,True,6,9,-3,loss,2422594,239,2798104,2023,3
+3,0,4,1,0,0,2,0,0,0,03/04/2023,away,16340,578,Roanoke,9,True,1,8,-7,loss,2393062,239,2798104,2023,3
+4,0,4,0,0,0,1,0,0,0,03/07/2023,home,16340,815,York (PA),9,True,8,5,3,win,2393863,239,2798104,2023,3
+1,0,1,0,0,0,1,0,0,0,03/17/2023,neutral,16340,9684,Saint Elizabeth,9,True,11,6,5,win,2425026,239,2798104,2023,3

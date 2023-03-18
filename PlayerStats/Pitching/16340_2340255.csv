@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.0,0.0,2,2,0,0,1,0,6,6,0,0,0,0,1,0,0,0,0,0,0,19,0,2,0,0,0,5,0,0,02/19/2023,away,16340,396,Maryville (TN),9,True,2,9,-7,loss,2390974,2713,2340255,2023,3
+1,0,1.2,0.0,2,0,0,0,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,23,2,2,0,0,0,6,1,0,02/26/2023,away,16340,217,Emory,9,True,2,13,-11,loss,2392195,2713,2340255,2023,3
+1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,3,0,0,03/04/2023,home,16340,1124,Hendrix,9,True,7,0,7,win,2408618,2713,2340255,2023,3
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,19,1,1,0,0,0,7,1,0,03/05/2023,home,16340,1124,Hendrix,9,True,1,8,-7,loss,2393547,2713,2340255,2023,3
+1,1,1.2,0.0,1,2,2,3,1,0,10,5,0,0,0,0,3,1,0,0,0,0,1,46,2,2,0,1,0,1,0,0,03/14/2023,home,16340,1162,LaGrange,9,True,2,8,-6,loss,2395548,2713,2340255,2023,3

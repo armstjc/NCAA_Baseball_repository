@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.0,0.0,1,0,0,0,1,0,4,3,0,0,0,0,0,1,0,0,0,0,0,12,1,0,0,0,0,3,1,0,02/18/2023,away,16340,389,Mary Baldwin,9,True,15,4,11,win,2390540,269,2492472,2023,3
+1,0,2.0,0.0,1,0,0,0,1,0,8,8,0,0,0,0,0,0,0,0,0,0,0,24,3,2,1,0,0,2,0,0,03/01/2023,home,16340,17094,William Peace,9,True,6,3,3,win,2392495,269,2492472,2023,3
+1,0,1.0,0.0,4,4,3,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0,0,28,3,0,0,0,0,2,0,0,03/04/2023,away,16340,1130,Huntingdon,9,True,2,12,-10,loss,2393220,269,2492472,2023,3
+1,0,2.0,0.0,1,0,0,1,1,0,7,6,0,0,0,0,0,0,0,0,0,0,0,26,3,1,0,0,0,4,1,0,03/07/2023,away,16340,263,Greensboro,10,True,12,13,-1,loss,2393791,269,2492472,2023,3
+1,0,2.1,0.0,5,3,2,0,1,0,13,11,0,0,0,0,1,1,0,0,0,0,1,39,4,1,0,1,0,2,0,0,03/11/2023,away,16340,637,Shenandoah,9,True,6,13,-7,loss,2407936,269,2492472,2023,3

@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,1,0,0,0,03/05/2023,neutral,16340,1267,Northland,9,True,10,7,3,win,2393448,23624,2823106,2023,3
+4,0,4,0,0,0,0,0,0,0,03/09/2023,neutral,16340,11036,Russell Sage,9,True,4,8,-4,loss,2394147,23624,2823106,2023,3

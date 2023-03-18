@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/01/2023,home,16340,1395,Tarleton St.,9,True,6,5,1,win,2392532,527,2460190,2023,1
+0,0,0,0,0,0,1,0,0,0,03/15/2023,away,16340,2,Abilene Christian,9,True,8,10,-2,loss,2395673,527,2460190,2023,1

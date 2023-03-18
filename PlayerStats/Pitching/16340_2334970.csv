@@ -1,4 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2.0,0.0,1,0,0,3,4,0,10,6,0,0,0,0,1,1,0,1,1,0,0,43,1,0,0,0,0,2,2,0,02/19/2023,away,16340,198,ETSU,9,True,2,3,-1,loss,2390820,709,2334970,2023,1
+1,0,1.1,0.0,2,3,2,0,3,0,9,6,1,0,0,0,0,2,0,3,1,1,0,32,0,1,0,1,0,2,1,0,02/26/2023,away,16340,1092,Gardner-Webb,9,True,7,10,-3,loss,2392048,709,2334970,2023,1
 1,1,4.0,0.0,3,2,2,4,3,0,18,14,0,0,0,0,0,0,0,0,0,0,0,84,4,4,0,0,0,1,0,0,03/04/2023,away,16340,419,Middle Tenn.,9,True,13,3,10,win,2392925,709,2334970,2023,1
 1,1,4.1,0.0,5,2,2,2,8,0,20,17,1,0,0,1,2,0,0,0,0,1,0,87,2,3,1,0,0,1,6,0,03/11/2023,away,16340,414,Miami (OH),9,True,6,2,4,win,2394842,709,2334970,2023,1

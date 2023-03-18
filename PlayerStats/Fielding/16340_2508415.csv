@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 9,0,10,1,0,0,0,0,1,0,02/28/2023,away,16340,109,UC Irvine,9,True,3,15,-12,loss,2392455,418,2508415,2023,1
 5,0,5,0,0,0,0,0,0,0,03/01/2023,away,16340,110,UCLA,9,True,4,9,-5,loss,2392569,418,2508415,2023,1
+1,0,1,0,0,0,0,0,0,0,03/17/2023,home,16340,72,Bradley,9,True,8,4,4,win,2425058,418,2508415,2023,1

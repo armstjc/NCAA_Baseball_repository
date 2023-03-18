@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/18/2023,away,16340,1045,DBU,9,True,5,19,-14,loss,2390733,236,2144877,2023,1
 1,4,1,0,1,3,0,1,0,0,0,0,1,0,0,0,0,0,0,03/08/2023,home,16340,617,Saint Peter's,9,True,11,0,11,win,2394060,236,2144877,2023,1
+2,4,1,0,0,1,0,0,1,0,0,0,3,0,0,0,2,0,0,03/15/2023,away,16340,748,Wagner,9,True,10,7,3,win,2395670,236,2144877,2023,1

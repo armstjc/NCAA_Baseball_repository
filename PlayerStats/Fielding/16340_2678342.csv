@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,2,0,0,0,0,0,0,0,02/25/2023,neutral,16340,30160,Houghton,9,True,6,1,5,win,2391720,50,2678342,2023,3
+1,0,1,0,0,0,0,0,0,0,02/25/2023,neutral,16340,30160,Houghton,9,True,8,3,5,win,2408331,50,2678342,2023,3
+0,2,2,0,0,0,0,0,0,0,02/26/2023,neutral,16340,10972,Chatham,9,True,8,4,4,win,2392092,50,2678342,2023,3
+3,1,4,0,0,0,0,0,0,0,03/08/2023,away,16340,8981,Endicott,9,True,1,6,-5,loss,2393973,50,2678342,2023,3
+1,1,2,0,0,0,0,0,0,0,03/18/2023,away,16340,73,Brandeis,9,True,13,8,5,win,2396399,50,2678342,2023,3
+1,1,2,0,0,0,0,0,0,0,03/18/2023,away,16340,73,Brandeis,9,True,9,3,6,win,2409651,50,2678342,2023,3

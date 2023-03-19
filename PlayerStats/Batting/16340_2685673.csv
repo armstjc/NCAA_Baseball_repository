@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,02/24/2023,away,16340,12884,Centenary (NJ),9,True,0,1,-1,loss,2421408,511,2685673,2023,3
+0,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,02/24/2023,away,16340,12884,Centenary (NJ),9,True,1,17,-16,loss,2391465,511,2685673,2023,3
+1,3,3,0,0,3,0,2,1,1,0,0,0,0,0,1,0,0,0,03/04/2023,neutral,16340,30160,Houghton,9,True,9,8,1,win,2393057,511,2685673,2023,3
+0,2,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,03/04/2023,neutral,16340,30160,Houghton,9,True,6,17,-11,loss,2408354,511,2685673,2023,3
+0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/05/2023,neutral,16340,258,Gettysburg,9,True,5,12,-7,loss,2408084,511,2685673,2023,3
+0,1,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,03/08/2023,neutral,16340,784,Wilkes,8,True,1,3,-2,loss,2423763,511,2685673,2023,3
+0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,03/10/2023,neutral,16340,245,Gallaudet,9,True,1,5,-4,loss,2408194,511,2685673,2023,3

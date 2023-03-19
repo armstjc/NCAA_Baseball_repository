@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,4,1,0,0,0,0,0,0,03/06/2023,neutral,16340,1226,Minn.-Morris,9,True,7,4,3,win,2423505,376,2691829,2023,3
+5,0,5,0,0,0,0,0,2,0,03/11/2023,away,16340,142,Claremont-M-S,9,True,0,5,-5,loss,2423930,376,2691829,2023,3
+10,1,11,0,0,0,0,0,0,0,03/13/2023,neutral,16340,121,Carthage,9,True,7,1,6,win,2424504,376,2691829,2023,3
+1,0,1,0,0,0,0,0,0,0,03/16/2023,neutral,16340,764,Wesleyan (CT),9,True,10,7,3,win,2418257,376,2691829,2023,3
+3,0,3,0,0,0,0,0,0,0,03/18/2023,neutral,16340,372,Luther,9,True,0,10,-10,loss,2418318,376,2691829,2023,3

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,1,0,0,02/17/2023,neutral,16340,1461,Wilmington (OH),9,True,7,2,5,win,2390313,374,2346922,2023,3
+1,1,4,2,0,0,3,1,0,0,02/26/2023,home,16340,8968,Eastern,9,True,4,2,2,win,2391792,374,2346922,2023,3
+0,2,2,0,0,0,2,0,0,0,03/04/2023,home,16340,815,York (PA),9,True,5,1,4,win,2393604,374,2346922,2023,3
+1,0,1,0,0,0,1,1,0,0,03/18/2023,away,16340,578,Roanoke,9,True,9,4,5,win,2396199,374,2346922,2023,3

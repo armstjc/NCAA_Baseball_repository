@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,0,0,0,0,0,03/02/2023,home,16340,453,Muhlenberg,9,True,7,7,0,tie,2392419,351,2671158,2023,3
+6,0,6,0,0,0,0,0,0,0,03/06/2023,neutral,16340,278,Heidelberg,9,True,3,0,3,win,2393691,351,2671158,2023,3
+6,0,6,0,0,0,0,0,0,0,03/06/2023,neutral,16340,16142,Misericordia,9,True,4,15,-11,loss,2393726,351,2671158,2023,3
+5,0,5,0,0,0,0,0,0,0,03/07/2023,away,16340,602,Saint John's (MN),9,True,3,5,-2,loss,2393459,351,2671158,2023,3
+12,0,12,0,0,0,0,0,0,0,03/09/2023,neutral,16340,571,Rhode Island Col.,9,True,5,4,1,win,2394162,351,2671158,2023,3

@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,1,0,02/21/2023,away,16340,221,FDU-Florham,9,True,8,13,-5,loss,2421013,319,2507570,2023,3
+8,1,9,0,0,0,0,0,0,0,02/26/2023,home,16340,276,Haverford,9,True,17,7,10,win,2421238,319,2507570,2023,3
+4,0,4,0,0,0,0,0,0,0,03/02/2023,away,16340,12884,Centenary (NJ),9,True,17,4,13,win,2392553,319,2507570,2023,3
+8,3,11,0,0,0,0,0,1,0,03/07/2023,home,16340,443,Moravian,9,True,17,9,8,win,2393894,319,2507570,2023,3
+10,0,11,1,0,0,0,0,1,0,03/15/2023,away,16340,784,Wilkes,9,True,2,4,-2,loss,2395682,319,2507570,2023,3
+8,0,8,0,0,0,0,0,0,0,03/16/2023,away,16340,385,Marietta,9,True,3,5,-2,loss,2396243,319,2507570,2023,3
+4,0,4,0,0,0,0,0,0,0,03/17/2023,neutral,16340,22626,JWU (Providence),9,True,0,13,-13,loss,2395897,319,2507570,2023,3
+9,0,10,1,0,0,0,0,1,0,03/18/2023,neutral,16340,182,Denison,9,True,11,21,-10,loss,2425029,319,2507570,2023,3

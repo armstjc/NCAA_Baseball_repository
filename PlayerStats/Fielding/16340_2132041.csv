@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,0,0,0,0,0,03/05/2023,away,16340,713,Trinity (CT),9,True,2,9,-7,loss,2393224,330,2132041,2023,3
+4,0,4,0,0,0,0,0,0,0,03/05/2023,away,16340,713,Trinity (CT),9,True,4,1,3,win,2423081,330,2132041,2023,3
+3,0,3,0,0,0,0,0,0,0,03/12/2023,neutral,16340,238,Framingham St.,8,True,4,5,-1,loss,2395029,330,2132041,2023,3
+1,0,1,0,0,0,0,0,0,0,03/12/2023,neutral,16340,238,Framingham St.,9,True,0,2,-2,loss,2408770,330,2132041,2023,3
+1,0,1,0,0,0,0,0,0,0,03/13/2023,neutral,16340,621,Salem St.,9,True,9,3,6,win,2408259,330,2132041,2023,3
+2,0,3,1,0,0,0,0,0,0,03/14/2023,neutral,16340,761,Wells,9,True,11,5,6,win,2395375,330,2132041,2023,3
+3,0,3,0,0,0,0,0,0,0,03/15/2023,neutral,16340,809,Worcester St.,9,True,1,11,-10,loss,2395626,330,2132041,2023,3
+2,0,2,0,0,0,0,0,0,0,03/16/2023,neutral,16340,684,Suffolk,9,True,5,14,-9,loss,2395745,330,2132041,2023,3
+2,0,2,0,0,0,0,0,0,0,03/18/2023,away,16340,570,Rensselaer,9,True,2,11,-9,loss,2396223,330,2132041,2023,3
+1,0,1,0,0,0,0,0,0,0,03/18/2023,away,16340,570,Rensselaer,9,True,1,9,-8,loss,2409065,330,2132041,2023,3

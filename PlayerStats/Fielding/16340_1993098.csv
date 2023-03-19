@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,2,1,0,0,02/18/2023,home,16340,239,Franklin & Marshall,9,True,1,0,1,win,2407907,329,1993098,2023,3
+0,2,2,0,0,0,0,0,0,0,03/17/2023,home,16340,475,SUNY New Paltz,9,True,3,1,2,win,2409363,329,1993098,2023,3

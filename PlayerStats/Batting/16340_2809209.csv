@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/04/2023,home,16340,22235,Lewis & Clark,9,True,1,6,-5,loss,2407991,516,2809209,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/05/2023,home,16340,557,Puget Sound,9,True,5,11,-6,loss,2389840,516,2809209,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2023,away,16340,89,Caltech,9,True,13,1,12,win,2390619,516,2809209,2023,3

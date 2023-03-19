@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+11,1,12,0,0,1,1,0,0,0,02/26/2023,away,16340,814,Yeshiva,9,True,11,0,11,win,2392128,486,2668877,2023,3
+4,0,4,0,0,0,2,0,0,0,03/10/2023,home,16340,23725,Medaille,9,True,20,8,12,win,2394292,486,2668877,2023,3
+1,2,4,1,0,0,1,1,0,0,03/11/2023,neutral,16340,379,Me.-Farmington,9,True,9,7,2,win,2394646,486,2668877,2023,3
+1,0,1,0,0,0,0,0,0,0,03/11/2023,neutral,16340,379,Me.-Farmington,9,True,4,5,-1,loss,2408843,486,2668877,2023,3
+4,0,4,0,0,0,1,0,0,0,03/13/2023,neutral,16340,152,Colby-Sawyer,9,True,13,7,6,win,2395247,486,2668877,2023,3
+6,1,7,0,0,0,0,0,0,0,03/15/2023,away,16340,30040,Me.-Presque Isle,9,True,9,4,5,win,2395623,486,2668877,2023,3
+6,0,7,1,0,0,4,0,0,0,03/16/2023,neutral,16340,185,Dickinson,9,True,2,12,-10,loss,2395737,486,2668877,2023,3

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,4.0,0.0,9,6,6,0,4,0,19,18,1,1,1,1,0,1,0,0,0,0,0,67,2,3,0,1,0,1,1,0,02/26/2023,away,16340,611,St. Mary's (MD),9,True,5,15,-10,loss,2408582,453,2676779,2023,3
+1,0,3.0,0.0,3,1,1,1,1,0,14,12,1,0,0,0,0,0,0,0,0,0,1,47,3,5,1,0,0,2,0,0,03/05/2023,away,16340,16,Albright,9,True,7,4,3,win,2408316,453,2676779,2023,3
+1,0,2.0,0.0,5,4,4,1,2,0,12,10,1,0,0,0,2,0,0,0,0,1,0,35,2,2,0,0,0,2,0,0,03/17/2023,neutral,16340,712,TCNJ,9,True,2,8,-6,loss,2408433,453,2676779,2023,3

@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,0,0,0,0,0,03/09/2023,away,16340,319,New Jersey City,9,True,6,21,-15,loss,2394174,321,2360573,2023,3
+2,0,2,0,0,0,0,0,0,0,03/10/2023,home,16340,524,Old Westbury,9,True,2,12,-10,loss,2407960,321,2360573,2023,3
+3,0,3,0,0,0,0,0,0,0,03/12/2023,away,16340,30029,Purchase,9,True,5,10,-5,loss,2395046,321,2360573,2023,3
+6,0,6,0,0,0,0,0,0,0,03/12/2023,away,16340,30029,Purchase,9,True,1,4,-3,loss,2408822,321,2360573,2023,3
+9,0,9,0,0,0,0,0,0,0,03/15/2023,home,16340,814,Yeshiva,9,True,34,0,34,win,2395484,321,2360573,2023,3
+6,0,6,0,0,0,0,0,0,0,03/17/2023,away,16340,12884,Centenary (NJ),9,True,1,17,-16,loss,2395827,321,2360573,2023,3

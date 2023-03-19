@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/06/2023,neutral,16340,258,Gettysburg,9,True,3,12,-9,loss,2393723,538,2348384,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/09/2023,neutral,16340,30031,Northwestern-St. Paul,9,True,5,7,-2,loss,2394133,538,2348384,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2023,neutral,16340,335,Kenyon,9,True,1,9,-8,loss,2407862,538,2348384,2023,3

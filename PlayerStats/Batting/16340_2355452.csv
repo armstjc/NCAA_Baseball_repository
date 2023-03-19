@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/01/2023,home,16340,987,Bluffton,9,True,8,0,8,win,2392542,520,2355452,2023,3
+0,4,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,03/04/2023,neutral,16340,8567,Mt. St. Joseph,9,True,5,2,3,win,2393160,520,2355452,2023,3
+0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2023,neutral,16340,8567,Mt. St. Joseph,9,True,1,5,-4,loss,2408616,520,2355452,2023,3
+0,4,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,03/05/2023,neutral,16340,1461,Wilmington (OH),9,True,0,3,-3,loss,2393647,520,2355452,2023,3
+0,4,3,0,0,3,0,3,0,0,0,0,0,0,0,0,1,0,0,03/11/2023,neutral,16340,218,Eureka,9,True,9,5,4,win,2394649,520,2355452,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/12/2023,neutral,16340,218,Eureka,9,True,3,1,2,win,2395002,520,2355452,2023,3
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/12/2023,neutral,16340,218,Eureka,9,True,4,0,4,win,2408846,520,2355452,2023,3

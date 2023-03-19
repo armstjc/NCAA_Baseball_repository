@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/18/2023,away,16340,139,Chris. Newport,9,True,0,5,-5,loss,2390574,475,2821249,2023,3
+1,2,3,0,0,0,0,0,0,0,02/19/2023,away,16340,139,Chris. Newport,9,True,4,8,-4,loss,2390866,475,2821249,2023,3
+1,0,1,0,0,0,0,0,0,0,02/23/2023,away,16340,17094,William Peace,9,True,3,10,-7,loss,2421351,475,2821249,2023,3
+0,2,2,0,0,0,0,0,0,0,03/10/2023,away,16340,12884,Centenary (NJ),9,True,4,5,-1,loss,2423827,475,2821249,2023,3
+3,0,3,0,0,0,0,0,0,0,03/17/2023,away,16340,329,Kean,9,True,2,1,1,win,2396311,475,2821249,2023,3

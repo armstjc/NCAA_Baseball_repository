@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/05/2023,home,16340,1179,Linfield,9,True,16,7,9,win,2393088,557,2807556,2023,3
+1,0,1,0,0,0,0,0,0,0,03/11/2023,away,16340,2751,Pacific (OR),9,True,3,4,-1,loss,2394696,557,2807556,2023,3
+3,0,3,0,0,0,0,0,0,0,03/15/2023,away,16340,22235,Lewis & Clark,9,True,7,2,5,win,2391634,557,2807556,2023,3

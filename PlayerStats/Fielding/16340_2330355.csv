@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/06/2023,neutral,16340,1226,Minn.-Morris,9,True,1,9,-8,loss,2423666,376,2330355,2023,3
+1,0,1,0,0,0,0,0,0,0,03/06/2023,neutral,16340,1226,Minn.-Morris,9,True,7,4,3,win,2423505,376,2330355,2023,3
+6,0,6,0,0,0,0,0,0,0,03/11/2023,neutral,16340,142,Claremont-M-S,9,True,6,8,-2,loss,2394517,376,2330355,2023,3
+1,0,1,0,0,0,0,0,0,0,03/11/2023,away,16340,142,Claremont-M-S,9,True,0,5,-5,loss,2423930,376,2330355,2023,3
+2,0,2,0,0,0,0,0,0,0,03/13/2023,neutral,16340,121,Carthage,9,True,7,1,6,win,2424504,376,2330355,2023,3
+2,0,2,0,0,0,0,0,0,0,03/15/2023,neutral,16340,1036,Concordia Wisconsin,9,True,3,5,-2,loss,2417811,376,2330355,2023,3
+1,0,1,0,0,0,0,0,0,0,03/17/2023,neutral,16340,121,Carthage,9,True,10,6,4,win,2417814,376,2330355,2023,3
+3,0,4,1,0,0,0,0,0,0,03/17/2023,neutral,16340,567,Redlands,9,True,5,15,-10,loss,2395568,376,2330355,2023,3

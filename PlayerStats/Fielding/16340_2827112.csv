@@ -1,0 +1,12 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,2,0,0,0,0,02/18/2023,away,16340,8746,Southwestern (TX),9,True,8,21,-13,loss,2390553,496,2827112,2023,3
+1,0,1,0,0,0,0,0,0,0,02/18/2023,away,16340,8746,Southwestern (TX),9,True,4,12,-8,loss,2408872,496,2827112,2023,3
+2,0,2,0,0,0,0,0,0,0,02/26/2023,home,16340,798,Wis.-Oshkosh,9,True,1,4,-3,loss,2392113,496,2827112,2023,3
+5,0,5,0,0,2,4,0,0,0,03/04/2023,neutral,16340,1115,Hanover,9,True,2,11,-9,loss,2393466,496,2827112,2023,3
+5,0,5,0,0,0,0,0,0,0,03/04/2023,away,16340,296,Benedictine (IL),9,True,1,4,-3,loss,2393214,496,2827112,2023,3
+3,0,3,0,0,0,0,0,0,0,03/05/2023,neutral,16340,1115,Hanover,9,True,2,5,-3,loss,2393632,496,2827112,2023,3
+1,0,1,0,0,0,0,0,0,0,03/10/2023,neutral,16340,777,Westfield St.,9,True,1,3,-2,loss,2394355,496,2827112,2023,3
+11,2,13,0,0,0,2,2,0,0,03/11/2023,neutral,16340,577,Ripon,9,True,10,5,5,win,2394801,496,2827112,2023,3
+4,1,5,0,0,0,2,1,0,0,03/12/2023,neutral,16340,30197,Belhaven,9,True,2,6,-4,loss,2395207,496,2827112,2023,3
+7,2,9,0,0,0,2,1,0,0,03/17/2023,neutral,16340,614,St. Norbert,9,True,6,5,1,win,2395879,496,2827112,2023,3
+6,0,6,0,0,1,0,0,0,0,03/18/2023,neutral,16340,30047,Keystone,9,True,5,6,-1,loss,2396236,496,2827112,2023,3

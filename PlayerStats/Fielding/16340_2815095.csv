@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/17/2023,home,16340,524,Old Westbury,9,True,6,1,5,win,2390369,329,2815095,2023,3
+1,0,1,0,0,0,0,0,0,0,02/23/2023,home,16340,276,Haverford,9,True,9,5,4,win,2391752,329,2815095,2023,3
+0,0,1,1,0,0,0,0,0,0,03/03/2023,neutral,16340,4,Adrian,9,True,6,28,-22,loss,2392811,329,2815095,2023,3
+1,0,1,0,0,0,0,0,0,0,03/08/2023,neutral,16340,747,Wabash,9,True,1,7,-6,loss,2394010,329,2815095,2023,3

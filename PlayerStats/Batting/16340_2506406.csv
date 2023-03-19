@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,2,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2023,away,16340,30094,Brevard,9,True,4,10,-6,loss,2391260,30065,2506406,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2023,away,16340,30094,Brevard,9,True,1,7,-6,loss,2421406,30065,2506406,2023,3

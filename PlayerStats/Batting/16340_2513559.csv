@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2023,neutral,16340,320,John Carroll,9,True,3,8,-5,loss,2408075,30037,2513559,2023,3
+0,4,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2023,neutral,16340,265,Grove City,9,True,4,11,-7,loss,2393802,30037,2513559,2023,3
+2,6,3,1,0,7,1,5,0,0,0,0,0,0,0,0,1,0,0,03/08/2023,neutral,16340,1332,Dominican (IL),9,True,13,17,-4,loss,2394005,30037,2513559,2023,3
+2,4,1,0,0,1,0,0,1,0,0,0,1,0,0,0,2,0,0,03/09/2023,neutral,16340,1434,Waynesburg,10,True,6,7,-1,loss,2394153,30037,2513559,2023,3
+2,3,2,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,03/10/2023,neutral,16340,25719,Penn St.-Altoona,9,True,7,4,3,win,2408275,30037,2513559,2023,3

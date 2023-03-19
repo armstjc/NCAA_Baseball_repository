@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,2,0,1,0,0,3,0,0,03/05/2023,away,16340,195,Earlham,9,True,7,4,3,win,2393406,30172,2672033,2023,3
+1,0,1.0,0.0,1,1,0,2,1,0,7,5,0,0,0,0,0,0,0,1,1,0,0,26,2,0,0,1,0,3,0,0,03/05/2023,away,16340,195,Earlham,9,True,3,5,-2,loss,2407977,30172,2672033,2023,3
+1,0,2.0,0.0,3,2,2,2,2,0,11,8,1,0,0,0,0,1,0,0,0,0,0,56,0,3,0,0,1,3,2,0,03/11/2023,neutral,16340,479,NYU,9,True,6,4,2,win,2408842,30172,2672033,2023,3
+1,0,2.0,0.0,4,1,1,1,2,0,11,9,1,0,0,0,0,0,1,0,0,0,1,29,1,3,0,0,0,4,1,0,03/15/2023,neutral,16340,8567,Mt. St. Joseph,9,True,3,6,-3,loss,2395620,30172,2672033,2023,3

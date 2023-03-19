@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,3,0,0,0,02/15/2023,home,16340,1315,Pitt.-Bradford,9,True,3,11,-8,loss,2418514,30160,2342335,2023,3
+1,1,2,0,0,0,4,0,0,0,02/25/2023,neutral,16340,50,Bates,9,True,1,6,-5,loss,2391720,30160,2342335,2023,3
+0,0,1,1,0,0,0,0,0,0,03/03/2023,neutral,16340,784,Wilkes,9,True,10,16,-6,loss,2392805,30160,2342335,2023,3
+0,0,0,0,0,0,1,0,0,0,03/16/2023,home,16340,8398,Hilbert,9,True,12,2,10,win,2395419,30160,2342335,2023,3

@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,0,0,0,0,0,03/04/2023,home,16340,24317,Lesley,9,True,10,6,4,win,2392977,30085,2523525,2023,3
+1,0,1,0,0,0,2,1,0,0,03/04/2023,home,16340,24317,Lesley,9,True,7,12,-5,loss,2408144,30085,2523525,2023,3
+8,1,9,0,0,0,0,0,2,0,03/06/2023,neutral,16340,30084,Geneva,9,True,1,5,-4,loss,2393706,30085,2523525,2023,3
+5,0,6,1,0,0,0,0,1,0,03/09/2023,neutral,16340,18422,Rivier,9,True,2,3,-1,loss,2394158,30085,2523525,2023,3
+6,1,7,0,0,0,1,0,1,0,03/15/2023,home,16340,1254,Neumann,9,True,12,23,-11,loss,2395671,30085,2523525,2023,3
+11,0,11,0,0,0,0,0,1,0,03/18/2023,away,16340,30081,Penn St. Harrisburg,9,True,0,11,-11,loss,2409465,30085,2523525,2023,3

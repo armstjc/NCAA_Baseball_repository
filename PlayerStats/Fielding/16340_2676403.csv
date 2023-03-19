@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,02/18/2023,away,16340,30111,Covenant,9,True,2,16,-14,loss,2390747,30232,2676403,2023,3
+0,0,0,0,0,0,1,1,0,0,02/23/2023,away,16340,0,CarolinaU,9,True,6,8,-2,loss,2421346,30232,2676403,2023,3
+0,1,1,0,0,0,5,1,0,0,03/07/2023,home,16340,0,Montreat,9,True,3,12,-9,loss,2408186,30232,2676403,2023,3
+0,2,2,0,0,0,5,1,0,0,03/11/2023,home,16340,0,Trinity Int'l,9,True,8,16,-8,loss,2394745,30232,2676403,2023,3

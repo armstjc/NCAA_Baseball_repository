@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,3,0,0,0,0,0,0,0,02/26/2023,away,16340,784,Wilkes,9,True,7,5,2,win,2391775,30083,2672315,2023,3
+2,1,3,0,0,0,0,0,0,0,02/26/2023,away,16340,784,Wilkes,9,True,6,7,-1,loss,2408462,30083,2672315,2023,3
+2,2,4,0,0,0,0,0,0,0,03/03/2023,away,16340,526,SUNY Oneonta,9,True,1,4,-3,loss,2422549,30083,2672315,2023,3
+3,4,10,3,0,0,0,0,0,0,03/13/2023,neutral,16340,517,Ohio Northern,9,True,10,18,-8,loss,2395235,30083,2672315,2023,3
+1,4,6,1,0,0,0,0,0,0,03/13/2023,neutral,16340,712,TCNJ,9,True,9,10,-1,loss,2395238,30083,2672315,2023,3
+1,4,5,0,0,0,0,0,1,0,03/14/2023,neutral,16340,804,Wis.-Superior,8,True,6,8,-2,loss,2395380,30083,2672315,2023,3
+3,1,4,0,0,0,0,0,0,0,03/14/2023,neutral,16340,804,Wis.-Superior,9,True,7,3,4,win,2408425,30083,2672315,2023,3
+1,3,4,0,0,0,0,0,0,0,03/16/2023,neutral,16340,1468,Mt. St. Mary (NY),9,True,10,9,1,win,2408266,30083,2672315,2023,3

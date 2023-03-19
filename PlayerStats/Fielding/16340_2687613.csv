@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,0,5,0,0,0,0,0,0,0,03/03/2023,home,16340,24317,Lesley,9,True,13,11,2,win,2392630,30085,2687613,2023,3
+7,1,8,0,0,0,0,0,0,0,03/08/2023,neutral,16340,1064,Eastern Nazarene,9,True,0,2,-2,loss,2394018,30085,2687613,2023,3
+12,0,12,0,0,0,0,0,1,0,03/08/2023,neutral,16340,1064,Eastern Nazarene,9,True,0,4,-4,loss,2408563,30085,2687613,2023,3
+4,1,5,0,0,0,0,0,0,0,03/17/2023,away,16340,30081,Penn St. Harrisburg,9,True,4,5,-1,loss,2395977,30085,2687613,2023,3

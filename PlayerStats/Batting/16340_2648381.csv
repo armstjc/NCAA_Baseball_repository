@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,03/04/2023,away,16340,245,Gallaudet,9,True,5,7,-2,loss,2408491,30084,2648381,2023,3
+0,1,1,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,03/07/2023,neutral,16340,958,Clarks Summit,9,True,13,6,7,win,2407795,30084,2648381,2023,3
+0,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,03/09/2023,neutral,16340,30166,Valley Forge,9,True,3,2,1,win,2408907,30084,2648381,2023,3
+0,3,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2023,neutral,16340,761,Wells,9,True,12,8,4,win,2394652,30084,2648381,2023,3
+0,3,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,03/16/2023,away,16340,11839,Pitt.-Greensburg,9,True,8,18,-10,loss,2395777,30084,2648381,2023,3

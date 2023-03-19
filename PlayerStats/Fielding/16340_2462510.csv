@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/03/2023,neutral,16340,478,SUNY Maritime,9,True,7,2,5,win,2392710,30031,2462510,2023,3
+1,1,2,0,0,0,0,0,1,0,03/09/2023,neutral,16340,538,Penn St.-Behrend,9,True,7,5,2,win,2394133,30031,2462510,2023,3
+1,0,2,1,0,0,0,0,0,0,03/10/2023,neutral,16340,258,Gettysburg,9,True,1,10,-9,loss,2394307,30031,2462510,2023,3

@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+9,0,9,0,0,1,5,0,0,0,02/18/2023,home,16340,0,Miami-Hamilton,9,True,0,4,-4,loss,2390505,30171,2803842,2023,3
+6,0,6,0,0,0,2,0,0,0,02/24/2023,home,16340,120,Carroll (WI),9,True,6,7,-1,loss,2392105,30171,2803842,2023,3
+5,1,7,1,0,0,5,1,0,0,03/05/2023,home,16340,30094,Brevard,9,True,2,11,-9,loss,2393342,30171,2803842,2023,3
+7,0,8,1,1,1,2,0,0,0,03/07/2023,away,16340,132,Centre,9,True,7,14,-7,loss,2393935,30171,2803842,2023,3
+6,0,7,1,0,2,1,0,0,0,03/11/2023,away,16340,1192,Manchester,9,True,5,13,-8,loss,2394562,30171,2803842,2023,3
+5,1,6,0,0,0,6,1,0,0,03/18/2023,home,16340,1162,LaGrange,9,True,2,6,-4,loss,2396174,30171,2803842,2023,3

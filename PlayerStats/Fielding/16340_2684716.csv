@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,1,0,0,02/15/2023,away,16340,307,Indiana (PA),9,True,10,15,-5,loss,2404627,30036,2684716,2023,3
+0,2,2,0,0,0,0,0,1,0,03/01/2023,away,16340,637,Shenandoah,9,True,5,7,-2,loss,2392529,30036,2684716,2023,3
+2,0,2,0,0,0,0,0,0,0,03/04/2023,away,16340,389,Mary Baldwin,9,True,2,8,-6,loss,2393523,30036,2684716,2023,3
+1,0,1,0,0,0,0,0,0,0,03/05/2023,away,16340,389,Mary Baldwin,9,True,6,1,5,win,2393156,30036,2684716,2023,3
+5,0,5,0,0,0,0,0,0,0,03/13/2023,neutral,16340,684,Suffolk,9,True,7,14,-7,loss,2395255,30036,2684716,2023,3
+3,0,3,0,0,0,0,0,0,0,03/14/2023,neutral,16340,633,Scranton,9,True,9,18,-9,loss,2395374,30036,2684716,2023,3
+1,0,2,1,0,0,0,0,0,0,03/15/2023,neutral,16340,548,Plymouth St.,9,True,5,8,-3,loss,2395615,30036,2684716,2023,3
+1,2,3,0,0,0,0,0,1,0,03/16/2023,neutral,16340,200,Eastern Conn. St.,9,True,0,4,-4,loss,2425022,30036,2684716,2023,3
+1,0,1,0,0,0,0,0,0,0,03/16/2023,neutral,16340,200,Eastern Conn. St.,9,True,3,5,-2,loss,2425023,30036,2684716,2023,3
+1,0,1,0,0,0,0,0,0,0,03/17/2023,neutral,16340,1305,Cairn,9,True,2,7,-5,loss,2395874,30036,2684716,2023,3

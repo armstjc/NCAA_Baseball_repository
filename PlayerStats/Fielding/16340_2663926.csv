@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,0,5,0,0,0,0,0,0,0,03/05/2023,neutral,16340,25719,Penn St.-Altoona,9,True,15,7,8,win,2408076,297,2663926,2023,3
+6,1,8,1,0,0,0,0,1,0,03/06/2023,neutral,16340,1196,Marian (WI),9,True,5,11,-6,loss,2393674,297,2663926,2023,3
+10,0,10,0,0,0,0,0,1,0,03/09/2023,neutral,16340,265,Grove City,9,True,0,6,-6,loss,2394124,297,2663926,2023,3
+7,0,7,0,0,0,0,0,0,0,03/10/2023,neutral,16340,30035,Crown (MN),9,True,4,0,4,win,2394290,297,2663926,2023,3
+8,0,8,0,0,0,0,0,0,0,03/10/2023,neutral,16340,30035,Crown (MN),9,True,2,8,-6,loss,2408190,297,2663926,2023,3
+4,1,5,0,0,0,0,0,1,0,03/15/2023,home,16340,64,Blackburn,9,True,14,0,14,win,2395400,297,2663926,2023,3
+1,0,1,0,0,0,0,0,0,0,03/15/2023,home,16340,64,Blackburn,9,True,10,3,7,win,2408505,297,2663926,2023,3

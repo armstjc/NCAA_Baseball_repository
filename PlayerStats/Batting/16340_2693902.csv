@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2023,home,16340,30232,Bob Jones,9,True,16,2,14,win,2390747,30111,2693902,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/04/2023,home,16340,217,Emory,9,True,0,10,-10,loss,2408057,30111,2693902,2023,3
+0,3,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,03/07/2023,away,16340,28593,Birmingham-So.,9,True,4,5,-1,loss,2393745,30111,2693902,2023,3
+0,2,2,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,03/11/2023,home,16340,114,Calvin,9,True,7,6,1,win,2407869,30111,2693902,2023,3
+1,4,2,1,1,5,0,3,0,0,0,0,1,0,0,0,0,0,0,03/18/2023,home,16340,1130,Huntingdon,9,True,10,4,6,win,2409252,30111,2693902,2023,3

@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,5,2,0,0,5,1,1,0,0,0,0,1,0,0,0,0,0,0,03/04/2023,away,16340,195,Earlham,9,True,8,9,-1,loss,2393014,30172,2672034,2023,3
+0,3,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,03/04/2023,away,16340,195,Earlham,9,True,14,1,13,win,2408318,30172,2672034,2023,3
+0,2,1,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,03/05/2023,away,16340,195,Earlham,9,True,7,4,3,win,2393406,30172,2672034,2023,3
+0,4,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0,0,03/05/2023,away,16340,195,Earlham,9,True,3,5,-2,loss,2407977,30172,2672034,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/15/2023,neutral,16340,8567,Mt. St. Joseph,9,True,3,6,-3,loss,2395620,30172,2672034,2023,3

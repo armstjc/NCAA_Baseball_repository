@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,4,9,0,0,0,0,0,1,0,03/12/2023,neutral,16340,45,Babson,9,True,15,13,2,win,2395220,807,2460277,2023,3
+1,3,4,0,0,0,0,0,1,0,03/14/2023,neutral,16340,966,Arcadia,9,True,5,1,4,win,2395389,807,2460277,2023,3
+2,3,5,0,0,0,0,0,0,0,03/15/2023,neutral,16340,492,North Central (IL),9,True,7,8,-1,loss,2395276,807,2460277,2023,3
+5,2,7,0,0,0,0,0,1,0,03/16/2023,neutral,16340,45,Babson,9,True,0,16,-16,loss,2395764,807,2460277,2023,3

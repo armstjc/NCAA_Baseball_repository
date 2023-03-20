@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,2,0,03/01/2023,away,16340,390,Mary Washington,9,True,12,6,6,win,2392512,88,2497705,2023,3
+1,0,1,0,0,0,0,0,0,0,03/03/2023,neutral,16340,30047,Keystone,9,True,6,0,6,win,2408605,88,2497705,2023,3
+2,0,2,0,0,0,0,0,0,0,03/04/2023,neutral,16340,382,Manhattanville,9,True,14,6,8,win,2393040,88,2497705,2023,3
+3,0,3,0,0,0,0,0,0,0,03/08/2023,home,16340,8968,Eastern,9,True,17,4,13,win,2394071,88,2497705,2023,3
+8,0,8,0,0,0,0,0,2,0,03/12/2023,home,16340,179,Delaware Valley,9,True,19,2,17,win,2395082,88,2497705,2023,3
+2,0,2,0,0,0,0,0,1,0,03/18/2023,away,16340,276,Haverford,9,True,3,4,-1,loss,2396343,88,2497705,2023,3
+1,0,1,0,0,0,0,0,0,0,03/18/2023,away,16340,276,Haverford,9,True,0,5,-5,loss,2409462,88,2497705,2023,3
+1,0,1,0,0,0,0,0,0,0,03/19/2023,home,16340,783,Widener,9,True,8,4,4,win,2396687,88,2497705,2023,3

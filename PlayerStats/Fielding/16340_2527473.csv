@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,3,1,0,0,03/12/2023,neutral,16340,166,Cornell College,9,True,1,10,-9,loss,2394989,9500,2527473,2023,3
+0,1,1,0,0,0,0,0,0,0,03/16/2023,neutral,16340,30040,Me.-Presque Isle,9,True,8,0,8,win,2408268,9500,2527473,2023,3
+0,0,0,0,0,0,1,0,0,0,03/17/2023,neutral,16340,1159,Keuka,9,True,4,5,-1,loss,2408435,9500,2527473,2023,3

@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/18/2023,away,16340,23008,Ozarks (AR),9,True,8,4,4,win,2408884,755,2509527,2023,3
+2,0,2,0,0,0,0,0,0,0,02/19/2023,away,16340,23008,Ozarks (AR),10,True,9,7,2,win,2390849,755,2509527,2023,3
+2,0,2,0,0,0,0,0,0,0,02/26/2023,away,16340,1124,Hendrix,9,True,1,3,-2,loss,2408804,755,2509527,2023,3
+1,0,1,0,0,0,0,0,0,0,03/04/2023,home,16340,300,Ill. Wesleyan,11,True,6,5,1,win,2393513,755,2509527,2023,3
+2,0,2,0,0,0,0,0,0,0,03/05/2023,home,16340,300,Ill. Wesleyan,9,True,9,4,5,win,2393143,755,2509527,2023,3
+3,0,3,0,0,0,0,0,0,0,03/11/2023,home,16340,372,Luther,9,True,3,2,1,win,2423993,755,2509527,2023,3
+2,1,3,0,0,0,0,0,0,0,03/12/2023,home,16340,372,Luther,9,True,9,5,4,win,2394586,755,2509527,2023,3
+2,0,2,0,0,0,0,0,0,0,03/19/2023,home,16340,266,Gust. Adolphus,9,True,6,2,4,win,2410453,755,2509527,2023,3

@@ -1,0 +1,9 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,4,3,0,0,3,0,1,0,0,0,0,0,0,0,0,1,0,0,03/06/2023,neutral,16340,38,Augsburg,9,True,14,2,12,win,2393705,804,2347705,2023,3
+0,3,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,03/12/2023,neutral,16340,53,Beloit,9,True,3,2,1,win,2395025,804,2347705,2023,3
+1,2,1,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,03/12/2023,neutral,16340,53,Beloit,9,True,4,8,-4,loss,2408766,804,2347705,2023,3
+2,3,1,1,0,2,0,0,1,0,0,0,1,0,0,0,1,0,0,03/14/2023,neutral,16340,30083,Cobleskill St.,8,True,8,6,2,win,2395380,804,2347705,2023,3
+1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,03/14/2023,neutral,16340,30083,Cobleskill St.,9,True,3,7,-4,loss,2408425,804,2347705,2023,3
+3,4,3,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,03/16/2023,neutral,16340,1111,Greenville,11,True,5,6,-1,loss,2395726,804,2347705,2023,3
+0,4,3,2,0,5,0,2,0,0,0,0,0,0,0,0,0,0,0,03/17/2023,neutral,16340,641,Simpson,9,True,4,5,-1,loss,2395884,804,2347705,2023,3
+0,5,1,0,0,1,0,1,0,0,0,0,3,0,0,0,0,0,0,03/18/2023,neutral,16340,793,Wis.-Eau Claire,9,True,4,7,-3,loss,2396227,804,2347705,2023,3

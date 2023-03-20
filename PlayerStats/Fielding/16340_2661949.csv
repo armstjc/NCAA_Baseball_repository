@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/11/2023,away,16340,426,Millsaps,9,True,14,9,5,win,2390051,8490,2661949,2023,3
+1,0,2,1,0,0,3,0,0,0,02/28/2023,away,16340,953,Austin,9,True,8,6,2,win,2392469,8490,2661949,2023,3
+0,0,0,0,0,0,1,0,0,0,03/07/2023,home,16340,125,Centenary (LA),9,True,2,6,-4,loss,2393946,8490,2661949,2023,3
+0,0,0,0,0,0,1,0,0,0,03/11/2023,home,16340,1355,Schreiner,9,True,11,18,-7,loss,2407951,8490,2661949,2023,3

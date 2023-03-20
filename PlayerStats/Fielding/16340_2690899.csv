@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,1,0,0,0,0,03/13/2023,neutral,16340,618,St. Scholastica,9,True,14,4,10,win,2424518,787,2690899,2023,3
+7,0,7,0,0,0,4,0,0,0,03/14/2023,neutral,16340,530,Oswego St.,9,True,7,27,-20,loss,2395464,787,2690899,2023,3
+3,0,3,0,0,0,0,0,1,0,03/15/2023,neutral,16340,296,Benedictine (IL),9,True,12,14,-2,loss,2395633,787,2690899,2023,3
+1,0,1,0,0,0,0,0,1,0,03/17/2023,neutral,16340,583,Roger Williams,9,True,7,1,6,win,2408181,787,2690899,2023,3
+5,3,8,0,0,0,0,0,0,0,03/18/2023,neutral,16340,795,Wis.-La Crosse,9,True,7,9,-2,loss,2396257,787,2690899,2023,3

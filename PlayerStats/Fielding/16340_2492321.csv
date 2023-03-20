@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,2,0,0,0,0,0,0,0,03/12/2023,neutral,16340,53,Beloit,9,True,3,2,1,win,2395025,804,2492321,2023,3
+1,0,2,1,0,0,0,0,0,0,03/13/2023,neutral,16340,795,Wis.-La Crosse,9,True,8,7,1,win,2395291,804,2492321,2023,3
+1,1,2,0,0,0,0,0,0,0,03/14/2023,neutral,16340,30083,Cobleskill St.,8,True,8,6,2,win,2395380,804,2492321,2023,3
+1,0,2,1,0,0,0,0,0,0,03/16/2023,neutral,16340,1111,Greenville,11,True,5,6,-1,loss,2395726,804,2492321,2023,3
+1,2,4,1,0,0,0,0,0,0,03/18/2023,neutral,16340,793,Wis.-Eau Claire,9,True,4,7,-3,loss,2396227,804,2492321,2023,3

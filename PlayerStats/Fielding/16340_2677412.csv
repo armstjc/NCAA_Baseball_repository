@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/26/2023,away,16340,278,Heidelberg,9,True,2,6,-4,loss,2412261,747,2677412,2023,3
+1,2,3,0,0,0,0,0,0,0,03/05/2023,neutral,16340,16142,Misericordia,9,True,2,5,-3,loss,2408185,747,2677412,2023,3
+3,2,5,0,0,0,0,0,0,0,03/06/2023,neutral,16340,686,Swarthmore,9,True,23,4,19,win,2423504,747,2677412,2023,3
+3,2,5,0,0,0,0,0,1,0,03/07/2023,neutral,16340,351,Lebanon Valley,9,True,10,9,1,win,2393831,747,2677412,2023,3
+0,4,6,2,0,0,0,0,0,0,03/08/2023,neutral,16340,329,Kean,9,True,7,1,6,win,2394010,747,2677412,2023,3
+1,2,3,0,0,0,0,0,0,0,03/10/2023,neutral,16340,602,Saint John's (MN),9,True,16,6,10,win,2394313,747,2677412,2023,3
+1,1,2,0,0,0,0,0,0,0,03/11/2023,neutral,16340,770,WestConn,9,True,17,6,11,win,2411805,747,2677412,2023,3
+2,1,3,0,0,0,0,0,0,0,03/18/2023,away,16340,1115,Hanover,9,True,6,9,-3,loss,2396304,747,2677412,2023,3
+3,1,4,0,0,0,0,0,0,0,03/19/2023,away,16340,1115,Hanover,9,True,5,4,1,win,2409356,747,2677412,2023,3
+2,2,4,0,0,0,0,0,2,0,03/19/2023,away,16340,1115,Hanover,9,True,6,7,-1,loss,2396659,747,2677412,2023,3

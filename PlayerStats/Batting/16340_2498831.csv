@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,1,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,03/08/2023,neutral,16340,30219,Dean,9,True,6,7,-1,loss,2394011,987,2498831,2023,3
+0,4,1,0,0,1,0,2,0,0,1,0,2,0,0,0,0,0,0,03/10/2023,home,16340,281,Hiram,9,True,11,8,3,win,2394302,987,2498831,2023,3
+1,5,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2023,neutral,16340,455,Muskingum,9,True,11,12,-1,loss,2394618,987,2498831,2023,3

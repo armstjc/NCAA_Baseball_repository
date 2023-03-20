@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,2,1,0,0,0,0,0,0,02/11/2023,home,16340,557,Puget Sound,9,True,2,13,-11,loss,2408915,89,2671549,2023,3
+0,1,1,0,0,0,0,0,0,0,02/18/2023,home,16340,516,Occidental,9,True,1,13,-12,loss,2390619,89,2671549,2023,3
+0,2,2,0,0,0,0,1,0,0,03/11/2023,home,16340,0,Bethesda (CA),9,True,2,8,-6,loss,2408170,89,2671549,2023,3

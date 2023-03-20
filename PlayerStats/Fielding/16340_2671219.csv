@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,2,1,0,0,0,0,0,0,02/18/2023,home,16340,730,Ursinus,9,True,14,3,11,win,2390801,752,2671219,2023,3
+1,0,1,0,0,0,0,0,0,0,03/04/2023,away,16340,1112,Guilford,9,True,11,8,3,win,2408493,752,2671219,2023,3
+1,1,2,0,0,0,1,0,0,0,03/18/2023,away,16340,565,Randolph-Macon,9,True,8,3,5,win,2409454,752,2671219,2023,3

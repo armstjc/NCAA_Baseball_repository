@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,4,0,0,0,0,0,0,0,02/26/2023,neutral,16340,16142,Misericordia,9,True,0,2,-2,loss,2421848,78,2354465,2023,3
+0,0,0,0,0,0,1,0,0,0,03/12/2023,neutral,16340,401,UMass Boston,9,True,5,10,-5,loss,2394986,78,2354465,2023,3

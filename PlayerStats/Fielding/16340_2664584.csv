@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/04/2023,home,16340,259,Rowan,9,True,9,14,-5,loss,2408490,745,2664584,2023,3
+3,0,3,0,0,0,0,0,0,0,03/05/2023,home,16340,259,Rowan,9,True,5,9,-4,loss,2393501,745,2664584,2023,3
+6,1,7,0,0,0,0,0,0,0,03/09/2023,home,16340,30081,Penn St. Harrisburg,9,True,12,16,-4,loss,2394167,745,2664584,2023,3
+3,2,5,0,0,0,0,0,0,0,03/11/2023,away,16340,1112,Guilford,9,True,14,5,9,win,2394713,745,2664584,2023,3
+9,0,9,0,0,0,0,0,0,0,03/11/2023,away,16340,1112,Guilford,9,True,5,5,0,tie,2407949,745,2664584,2023,3
+6,0,6,0,0,0,0,0,0,0,03/18/2023,home,16340,203,East. Mennonite,9,True,11,0,11,win,2425256,745,2664584,2023,3
+5,0,5,0,0,0,0,0,0,0,03/19/2023,home,16340,203,East. Mennonite,9,True,2,9,-7,loss,2396302,745,2664584,2023,3

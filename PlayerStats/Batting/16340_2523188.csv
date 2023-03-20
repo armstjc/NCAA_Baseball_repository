@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2023,neutral,16340,681,Stockton,9,True,9,7,2,win,2394997,775,2523188,2023,3
+1,4,2,2,0,4,0,2,0,1,0,0,1,0,0,0,0,0,0,03/13/2023,neutral,16340,313,Ithaca,9,True,9,11,-2,loss,2395230,775,2523188,2023,3
+1,3,1,0,0,1,0,1,1,0,1,0,1,0,1,0,1,0,0,03/15/2023,neutral,16340,221,FDU-Florham,9,True,9,7,2,win,2395602,775,2523188,2023,3
+2,3,1,1,0,2,0,0,3,0,0,0,0,0,0,0,0,0,0,03/16/2023,away,16340,1226,Minn.-Morris,9,True,14,8,6,win,2395725,775,2523188,2023,3
+0,4,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,03/17/2023,neutral,16340,479,NYU,9,True,6,15,-9,loss,2395864,775,2523188,2023,3

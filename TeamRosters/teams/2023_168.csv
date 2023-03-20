@@ -3,12 +3,12 @@
 "Beers, Dylan","So","2680270",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2680270",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Bernard, Bryan","So","2828450",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2828450",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Biederman, Grant","So","2690073",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2690073",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
-"Bolton, James","Fr",NA,2023,"46","C",NA,168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
+"Bolton, James","Fr","2828422",2023,"46","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2828422",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Bonacci, Chris","So","2513645",2023,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2513645",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Bruno, Mat","Sr","2132997",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2132997",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Capozzi, James","So",NA,2023,"14","P",NA,168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Chemotti, Nick","Jr","2513649",2023,"26","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2513649",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
-"Collora, Frankie","So",NA,2023,"93","P",NA,168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
+"Collora, Frankie","So","2513647",2023,"93","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2513647",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Dalton, Patrick","So","2680261",2023,"88","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2680261",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "DeLawder, JJ","Fr","2828410",2023,"19","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2828410",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Disonell, Brendan","Jr","2493114",2023,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2493114",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
@@ -24,8 +24,8 @@
 "Krasney, Liam","Jr","2133025",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2133025",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Kringdon, Zachary","So","2680266",2023,"32","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2680266",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "LaBruno, James","So","2680271",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2680271",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
-"Lynch, Tommy","Fr","2828427",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2828427",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Lynch, Connor","Fr","2828425",2023,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2828425",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
+"Lynch, Tommy","Fr","2828427",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2828427",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Mackenzie, Dylan","So","2513644",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2513644",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Marshall, Noah","Fr",NA,2023,"91","P",NA,168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Mays, Greg","Fr",NA,2023,"94","P",NA,168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
@@ -35,7 +35,7 @@
 "Munoz, Jon","Fr","2828414",2023,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2828414",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Novak, Kyle","So","2680267",2023,"96","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2680267",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Olmo, Triston","Sr","2347833",2023,"97","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2347833",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
-"Parrillo, Nick","Fr",NA,2023,"43","P",NA,168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
+"Parrillo, Nick","Fr","2828431",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2828431",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Partsch, Nick","So","2473172",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2473172",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Patsey, Justin","So","2513646",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2513646",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340
 "Payne, Xander","Fr","2828434",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=168&stats_player_seq=2828434",168,"Cortland","/team/168/16340",917,"SUNYAC",3,2023,16340

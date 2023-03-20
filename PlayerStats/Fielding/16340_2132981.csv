@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,2,0,0,0,02/07/2023,away,16340,30197,Belhaven,9,True,7,5,2,win,2389875,573,2132981,2023,3
+0,1,1,0,0,0,0,0,0,0,02/10/2023,away,16340,217,Emory,9,True,8,1,7,win,2389956,573,2132981,2023,3
+0,1,1,0,0,0,0,0,0,0,02/19/2023,home,16340,747,Wabash,9,True,9,10,-1,loss,2391053,573,2132981,2023,3
+0,1,1,0,0,0,0,1,0,0,03/04/2023,away,16340,132,Centre,9,True,3,5,-2,loss,2408479,573,2132981,2023,3
+0,0,0,0,0,0,1,0,0,0,03/10/2023,home,16340,973,Berry,9,True,7,6,1,win,2394560,573,2132981,2023,3

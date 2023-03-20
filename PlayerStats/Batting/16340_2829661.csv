@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/19/2023,away,16340,492,North Central (IL),9,True,2,8,-6,loss,2390579,177,2829661,2023,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2023,neutral,16340,759,Webster,9,True,5,16,-11,loss,2391504,177,2829661,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/12/2023,away,16340,28749,Transylvania,9,True,1,9,-8,loss,2394958,177,2829661,2023,3

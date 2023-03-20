@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,4,0,0,0,0,0,0,0,02/21/2023,away,16340,752,Wash. & Lee,9,True,6,12,-6,loss,2391160,123,2148411,2023,3
+1,0,1,0,0,0,0,0,0,0,02/22/2023,away,16340,1112,Guilford,9,True,17,12,5,win,2391223,123,2148411,2023,3
+1,0,3,2,0,0,0,0,0,0,02/23/2023,away,16340,1112,Guilford,9,True,3,15,-12,loss,2391259,123,2148411,2023,3
+0,1,1,0,0,0,0,0,0,0,02/24/2023,away,16340,390,Mary Washington,9,True,7,3,4,win,2391432,123,2148411,2023,3
+0,1,1,0,0,0,0,0,0,0,03/05/2023,away,16340,681,Stockton,9,True,2,1,1,win,2393085,123,2148411,2023,3
+0,1,1,0,0,0,0,0,0,0,03/05/2023,away,16340,681,Stockton,9,True,2,12,-10,loss,2408407,123,2148411,2023,3
+0,2,2,0,0,0,0,0,0,0,03/09/2023,away,16340,1066,Edgewood,9,True,4,12,-8,loss,2394136,123,2148411,2023,3
+0,3,5,2,0,0,0,0,0,0,03/10/2023,away,16340,1130,Huntingdon,9,True,5,7,-2,loss,2394396,123,2148411,2023,3
+0,1,1,0,0,0,0,0,0,0,03/11/2023,neutral,16340,431,MUW,9,True,5,4,1,win,2394627,123,2148411,2023,3

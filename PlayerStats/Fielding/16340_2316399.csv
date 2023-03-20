@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+16,0,16,0,0,0,0,0,0,0,02/15/2023,home,16340,203,East. Mennonite,9,True,5,1,4,win,2390223,139,2316399,2023,3
+12,0,12,0,0,0,0,0,0,0,02/18/2023,home,16340,475,SUNY New Paltz,9,True,5,0,5,win,2390574,139,2316399,2023,3
+6,2,8,0,0,0,2,0,0,0,02/19/2023,home,16340,475,SUNY New Paltz,9,True,8,4,4,win,2390866,139,2316399,2023,3
+13,1,14,0,0,0,0,0,0,0,02/21/2023,home,16340,269,Hampden-Sydney,9,True,11,2,9,win,2391119,139,2316399,2023,3
+9,2,11,0,0,2,1,1,0,0,02/25/2023,neutral,16340,182,Denison,9,True,3,8,-5,loss,2391874,139,2316399,2023,3
+9,3,12,0,0,0,1,2,0,0,02/28/2023,home,16340,245,Gallaudet,9,True,12,1,11,win,2392395,139,2316399,2023,3
+10,1,11,0,0,2,0,0,1,0,03/04/2023,away,16340,412,Methodist,9,True,2,8,-6,loss,2392922,139,2316399,2023,3
+1,0,1,0,0,0,0,0,0,0,03/08/2023,away,16340,75,Bridgewater (VA),9,True,4,5,-1,loss,2394056,139,2316399,2023,3
+3,1,4,0,0,0,0,0,0,0,03/12/2023,home,16340,30081,Penn St. Harrisburg,9,True,15,9,6,win,2395084,139,2316399,2023,3

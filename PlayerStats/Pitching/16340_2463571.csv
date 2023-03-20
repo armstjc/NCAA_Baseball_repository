@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,3.2,0.0,4,2,1,1,4,0,18,13,1,0,0,0,0,4,0,0,0,0,0,55,4,0,0,0,0,3,1,0,02/25/2023,neutral,16340,4,Adrian,9,True,4,9,-5,loss,2391980,759,2463571,2023,3
+1,0,3.2,0.0,1,0,0,1,5,0,12,11,0,0,0,0,0,0,0,0,0,0,0,38,4,1,0,0,0,2,1,0,03/05/2023,home,16340,296,Benedictine (IL),9,True,4,3,1,win,2393663,759,2463571,2023,3
+1,0,3.2,0.0,4,0,0,0,3,0,14,14,0,0,0,0,0,0,0,0,0,0,0,43,5,1,1,0,0,3,1,1,03/12/2023,away,16340,134,Chapman,15,True,5,4,1,win,2395152,759,2463571,2023,3

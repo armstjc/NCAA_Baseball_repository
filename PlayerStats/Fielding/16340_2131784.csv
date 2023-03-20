@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,0,5,0,0,0,0,0,0,0,03/03/2023,away,16340,214,Emerson,9,True,9,10,-1,loss,2392651,170,2131784,2023,3
+7,2,9,0,0,0,0,0,2,0,03/07/2023,away,16340,399,Mass. Maritime,9,True,5,11,-6,loss,2393898,170,2131784,2023,3
+2,0,2,0,0,0,0,0,0,0,03/11/2023,neutral,16340,614,St. Norbert,9,True,1,26,-25,loss,2408854,170,2131784,2023,3
+6,0,6,0,0,0,0,0,0,0,03/13/2023,neutral,16340,564,Ramapo,9,True,4,9,-5,loss,2395273,170,2131784,2023,3
+0,1,1,0,0,0,0,0,0,0,03/15/2023,neutral,16340,152,Colby-Sawyer,9,True,7,1,6,win,2395631,170,2131784,2023,3
+9,0,9,0,0,0,0,0,1,0,03/15/2023,neutral,16340,152,Colby-Sawyer,9,True,13,3,10,win,2408898,170,2131784,2023,3
+6,1,7,0,0,0,0,0,0,0,03/16/2023,neutral,16340,589,Rutgers-Newark,9,True,6,16,-10,loss,2395760,170,2131784,2023,3

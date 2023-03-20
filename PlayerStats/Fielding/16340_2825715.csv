@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,1,1,0,0,0,0,0,0,02/19/2023,home,16340,373,Lycoming,10,True,4,3,1,win,2390714,263,2825715,2023,3
+1,2,3,0,0,0,0,0,1,0,02/19/2023,home,16340,373,Lycoming,9,True,3,16,-13,loss,2408117,263,2825715,2023,3
+0,1,1,0,0,0,0,0,0,0,02/21/2023,away,16340,44,Averett,10,True,3,2,1,win,2391153,263,2825715,2023,3
+1,1,2,0,0,0,0,0,0,0,03/04/2023,away,16340,973,Berry,9,True,7,5,2,win,2392916,263,2825715,2023,3
+0,0,1,1,0,0,0,0,0,0,03/05/2023,away,16340,973,Berry,9,True,12,16,-4,loss,2393339,263,2825715,2023,3
+2,2,4,0,0,0,0,0,0,0,03/11/2023,neutral,16340,442,Montclair St.,9,True,3,5,-2,loss,2394853,263,2825715,2023,3

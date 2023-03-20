@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,03/15/2023,away,16340,713,Trinity (CT),9,True,3,5,-2,loss,2407790,73,2319558,2023,3
+0,0,0,0,0,0,3,0,0,0,03/18/2023,home,16340,50,Bates,9,True,8,13,-5,loss,2396399,73,2319558,2023,3

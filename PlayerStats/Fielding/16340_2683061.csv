@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,03/05/2023,neutral,16340,282,Hobart,9,True,1,12,-11,loss,2393462,30219,2683061,2023,3
+0,1,1,0,0,0,0,0,0,0,03/08/2023,neutral,16340,987,Bluffton,9,True,7,6,1,win,2394011,30219,2683061,2023,3
+0,0,0,0,0,0,2,0,0,0,03/18/2023,home,16340,227,Fitchburg St.,10,True,7,8,-1,loss,2396288,30219,2683061,2023,3

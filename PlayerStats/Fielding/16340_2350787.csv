@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,02/23/2023,neutral,16340,213,Elmira,9,True,6,4,2,win,2408289,443,2350787,2023,3
+0,0,0,0,0,0,1,0,0,0,02/27/2023,neutral,16340,2694,Franklin,9,True,5,9,-4,loss,2392310,443,2350787,2023,3
+0,1,1,0,0,0,0,0,0,0,03/03/2023,neutral,16340,750,Wartburg,9,True,2,13,-11,loss,2408607,443,2350787,2023,3
+0,1,1,0,0,0,1,0,0,0,03/07/2023,away,16340,319,New Jersey City,9,True,9,17,-8,loss,2393894,443,2350787,2023,3
+0,0,0,0,0,0,3,1,0,0,03/11/2023,away,16340,622,Salisbury,9,True,0,14,-14,loss,2394840,443,2350787,2023,3
+0,1,1,0,0,0,1,0,0,0,03/18/2023,away,16340,190,Drew,9,True,8,7,1,win,2396339,443,2350787,2023,3

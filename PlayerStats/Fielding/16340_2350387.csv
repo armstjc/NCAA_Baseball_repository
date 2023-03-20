@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,1,4,0,0,0,0,0,0,0,02/19/2023,home,16340,146,Clarkson,9,True,12,6,6,win,2391035,601,2350387,2023,3
+1,0,1,0,0,0,0,0,0,0,02/26/2023,away,16340,622,Salisbury,9,True,8,9,-1,loss,2421058,601,2350387,2023,3
+3,0,3,0,0,0,0,0,0,0,02/26/2023,away,16340,622,Salisbury,9,True,1,13,-12,loss,2392159,601,2350387,2023,3
+3,0,3,0,0,0,0,0,0,0,03/05/2023,neutral,16340,42,Aurora,9,True,1,11,-10,loss,2393413,601,2350387,2023,3
+4,0,4,0,0,0,0,0,0,0,03/07/2023,neutral,16340,84,Buena Vista,9,True,9,13,-4,loss,2393923,601,2350387,2023,3
+1,0,1,0,0,0,0,0,0,0,03/08/2023,neutral,16340,265,Grove City,9,True,2,7,-5,loss,2423698,601,2350387,2023,3
+1,0,1,0,0,0,0,0,0,0,03/10/2023,neutral,16340,30114,Penn St.-Abington,9,True,0,6,-6,loss,2394305,601,2350387,2023,3
+4,0,4,0,0,0,0,0,0,0,03/11/2023,neutral,16340,303,Immaculata,9,True,6,4,2,win,2394669,601,2350387,2023,3
+4,0,4,0,0,0,0,0,0,0,03/12/2023,neutral,16340,681,Stockton,9,True,6,9,-3,loss,2394996,601,2350387,2023,3
+3,0,3,0,0,0,0,0,0,0,03/18/2023,away,16340,211,Elizabethtown,9,True,0,4,-4,loss,2396262,601,2350387,2023,3

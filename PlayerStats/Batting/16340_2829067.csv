@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,home,16340,542,Pfeiffer,9,True,3,1,2,win,2390501,973,2829067,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/19/2023,home,16340,542,Pfeiffer,9,True,6,13,-7,loss,2390869,973,2829067,2023,3
+1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/26/2023,neutral,16340,752,Wash. & Lee,9,True,4,9,-5,loss,2392304,973,2829067,2023,3
+2,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,03/04/2023,home,16340,263,Greensboro,9,True,19,9,10,win,2392615,973,2829067,2023,3
+0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,03/04/2023,home,16340,263,Greensboro,9,True,5,7,-2,loss,2392916,973,2829067,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,03/05/2023,home,16340,263,Greensboro,9,True,16,12,4,win,2393339,973,2829067,2023,3
+1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/19/2023,home,16340,28593,Birmingham-So.,9,True,8,4,4,win,2395792,973,2829067,2023,3

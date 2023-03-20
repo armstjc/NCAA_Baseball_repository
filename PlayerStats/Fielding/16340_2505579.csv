@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,03/11/2023,neutral,16340,30084,Geneva,9,True,4,3,1,win,2408849,761,2505579,2023,3
+1,0,1,0,0,0,0,0,0,0,03/17/2023,away,16340,611,St. Mary's (MD),9,True,3,12,-9,loss,2395970,761,2505579,2023,3
+1,0,1,0,0,0,0,0,0,0,03/18/2023,away,16340,611,St. Mary's (MD),9,True,8,21,-13,loss,2396331,761,2505579,2023,3
+1,0,1,0,0,0,0,0,0,0,03/18/2023,away,16340,611,St. Mary's (MD),9,True,7,4,3,win,2409450,761,2505579,2023,3

@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,2.0,0.0,1,1,1,1,2,0,8,7,0,0,0,0,0,0,0,0,0,0,0,30,1,2,1,0,0,2,0,0,03/05/2023,home,16340,278,Heidelberg,9,True,4,3,1,win,2408083,686,2324946,2023,3
+1,0,2.0,0.0,2,3,3,3,1,0,9,6,0,0,0,0,0,0,0,1,0,0,0,34,3,0,0,1,0,2,0,0,03/07/2023,neutral,16340,329,Kean,9,True,4,19,-15,loss,2393812,686,2324946,2023,3
+1,0,1.0,0.0,1,0,0,0,0,0,5,4,1,0,0,0,0,1,0,0,0,0,0,8,3,0,0,0,0,5,0,0,03/16/2023,home,16340,16142,Misericordia,9,True,13,9,4,win,2395473,686,2324946,2023,3

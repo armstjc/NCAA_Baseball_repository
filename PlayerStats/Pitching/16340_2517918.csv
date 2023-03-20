@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,2.2,0.0,11,8,8,1,1,0,21,20,4,1,0,0,0,0,0,0,0,0,0,75,3,4,0,1,0,1,0,0,03/05/2023,neutral,16340,656,UMass Dartmouth,9,True,0,12,-12,loss,2408085,808,2517918,2023,3
+1,1,5.2,0.0,10,8,7,1,4,0,29,27,1,0,0,1,1,1,0,0,0,0,0,78,7,6,0,1,0,1,1,0,03/10/2023,neutral,16340,730,Ursinus,9,True,4,8,-4,loss,2394287,808,2517918,2023,3
+1,1,4.0,0.0,4,1,1,1,5,0,18,16,2,0,0,0,0,1,0,0,0,0,0,67,0,7,1,0,0,1,1,0,03/18/2023,home,16340,605,St. Joseph's (ME),9,True,6,2,4,win,2408963,808,2517918,2023,3

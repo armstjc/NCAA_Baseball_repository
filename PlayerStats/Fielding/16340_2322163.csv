@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/18/2023,home,16340,542,Pfeiffer,9,True,21,8,13,win,2420140,973,2322163,2023,3
+1,0,1,0,0,0,0,0,0,0,02/18/2023,home,16340,542,Pfeiffer,9,True,3,1,2,win,2390501,973,2322163,2023,3
+2,0,2,0,0,0,0,0,0,0,02/19/2023,home,16340,542,Pfeiffer,9,True,6,13,-7,loss,2390869,973,2322163,2023,3
+2,0,2,0,0,0,0,0,0,0,02/24/2023,neutral,16340,182,Denison,9,True,5,6,-1,loss,2391575,973,2322163,2023,3
+2,0,2,0,0,0,0,0,0,0,03/05/2023,home,16340,263,Greensboro,9,True,16,12,4,win,2393339,973,2322163,2023,3
+3,0,3,0,0,0,0,0,0,0,03/11/2023,away,16340,573,Rhodes,9,True,6,4,2,win,2423906,973,2322163,2023,3
+2,0,2,0,0,0,0,0,0,0,03/18/2023,home,16340,28593,Birmingham-So.,9,True,4,8,-4,loss,2408968,973,2322163,2023,3
+1,0,1,0,0,0,0,0,0,0,03/19/2023,home,16340,28593,Birmingham-So.,9,True,8,4,4,win,2395792,973,2322163,2023,3

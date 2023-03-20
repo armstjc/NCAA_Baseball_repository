@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,2,0,0,0,1,0,0,0,02/24/2023,neutral,16340,373,Lycoming,9,True,15,4,11,win,2391473,686,2685170,2023,3
+0,4,4,0,0,0,0,0,1,0,03/01/2023,home,16340,179,Delaware Valley,9,True,2,4,-2,loss,2392549,686,2685170,2023,3
+1,1,3,1,0,0,0,0,0,0,03/04/2023,away,16340,4,Adrian,9,True,16,13,3,win,2393225,686,2685170,2023,3
+1,0,1,0,0,0,0,0,1,0,03/06/2023,neutral,16340,747,Wabash,9,True,4,23,-19,loss,2423504,686,2685170,2023,3
+5,4,9,0,0,0,0,0,4,0,03/07/2023,neutral,16340,329,Kean,9,True,4,19,-15,loss,2393812,686,2685170,2023,3
+5,4,9,0,0,0,0,0,1,0,03/08/2023,neutral,16340,46,Baldwin Wallace,9,True,3,9,-6,loss,2394052,686,2685170,2023,3
+2,3,5,0,0,0,0,0,0,0,03/09/2023,neutral,16340,16142,Misericordia,9,True,1,15,-14,loss,2394181,686,2685170,2023,3
+1,2,5,2,0,0,0,0,0,0,03/12/2023,home,16340,420,Middlebury,9,True,2,4,-2,loss,2394729,686,2685170,2023,3
+2,0,2,0,0,0,0,0,0,0,03/18/2023,home,16340,303,Immaculata,9,True,10,4,6,win,2396278,686,2685170,2023,3

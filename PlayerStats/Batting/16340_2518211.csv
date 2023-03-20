@@ -1,0 +1,9 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,4,3,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,03/05/2023,neutral,16340,1064,Eastern Nazarene,9,True,9,4,5,win,2393430,722,2518211,2023,3
+0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/06/2023,away,16340,12884,Centenary (NJ),9,True,2,3,-1,loss,2393707,722,2518211,2023,3
+0,3,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,03/06/2023,home,16340,12884,Centenary (NJ),9,True,5,6,-1,loss,2408686,722,2518211,2023,3
+1,3,1,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,03/08/2023,neutral,16340,76,Bridgewater St.,11,True,4,5,-1,loss,2394006,722,2518211,2023,3
+0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/09/2023,neutral,16340,124,Catholic,9,True,2,11,-9,loss,2394139,722,2518211,2023,3
+1,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2023,away,16340,382,Manhattanville,9,True,5,6,-1,loss,2407786,722,2518211,2023,3
+0,4,2,0,0,2,0,1,1,0,0,0,1,0,0,0,0,0,0,03/16/2023,away,16340,399,Mass. Maritime,9,True,2,1,1,win,2395477,722,2518211,2023,3
+1,5,2,1,0,3,0,3,0,0,0,0,1,0,0,0,1,0,0,03/18/2023,home,16340,511,Norwich,9,True,5,4,1,win,2425197,722,2518211,2023,3

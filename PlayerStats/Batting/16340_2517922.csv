@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/05/2023,neutral,16340,656,UMass Dartmouth,9,True,0,12,-12,loss,2408085,808,2517922,2023,3
+0,3,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,03/06/2023,neutral,16340,762,Wentworth,9,True,1,5,-4,loss,2408678,808,2517922,2023,3

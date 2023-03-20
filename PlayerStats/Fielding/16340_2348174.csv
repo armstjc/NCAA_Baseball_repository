@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,03/08/2023,home,16340,578,Roanoke,9,True,7,1,6,win,2393998,322,2348174,2023,3
+0,1,1,0,0,0,0,0,0,0,03/12/2023,home,16340,200,Eastern Conn. St.,10,True,2,3,-1,loss,2394975,322,2348174,2023,3
+0,0,0,0,0,0,1,0,0,0,03/18/2023,neutral,16340,530,Oswego St.,9,True,16,9,7,win,2396241,322,2348174,2023,3

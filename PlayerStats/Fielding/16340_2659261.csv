@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,02/23/2023,home,16340,475,SUNY New Paltz,9,True,10,3,7,win,2421351,17094,2659261,2023,3
+7,1,9,1,0,0,3,0,0,0,03/04/2023,home,16340,282,Hobart,9,True,9,4,5,win,2393318,17094,2659261,2023,3
+1,2,3,0,0,0,0,0,0,0,03/07/2023,away,16340,1112,Guilford,9,True,12,14,-2,loss,2393849,17094,2659261,2023,3
+2,0,2,0,0,1,0,0,0,0,03/11/2023,home,16340,530,Oswego St.,9,True,13,12,1,win,2394558,17094,2659261,2023,3

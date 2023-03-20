@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+6,0,6,0,0,1,1,0,0,0,03/13/2023,neutral,16340,770,WestConn,9,True,11,1,10,win,2395271,803,2683346,2023,3
+4,1,5,0,0,0,0,0,0,0,03/14/2023,neutral,16340,1050,Defiance,9,True,5,0,5,win,2395387,803,2683346,2023,3
+4,1,5,0,0,0,2,1,0,0,03/17/2023,neutral,16340,642,Skidmore,9,True,7,4,3,win,2395890,803,2683346,2023,3

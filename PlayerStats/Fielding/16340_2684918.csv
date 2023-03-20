@@ -1,0 +1,12 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,3,4,0,0,0,0,0,1,0,03/05/2023,neutral,16340,12399,Gwynedd Mercy,9,True,12,2,10,win,2393410,161,2684918,2023,3
+2,2,4,0,0,0,0,0,1,0,03/05/2023,neutral,16340,84,Buena Vista,9,True,2,7,-5,loss,2393414,161,2684918,2023,3
+5,2,8,1,0,0,0,0,1,0,03/07/2023,neutral,16340,1133,Husson,9,True,8,1,7,win,2393819,161,2684918,2023,3
+2,1,3,0,0,0,0,0,0,0,03/07/2023,neutral,16340,1133,Husson,9,True,2,5,-3,loss,2423671,161,2684918,2023,3
+2,2,4,0,0,0,0,0,2,0,03/09/2023,neutral,16340,656,UMass Dartmouth,9,True,4,7,-3,loss,2394156,161,2684918,2023,3
+0,0,2,2,0,0,0,0,0,0,03/09/2023,neutral,16340,656,UMass Dartmouth,9,True,1,7,-6,loss,2408906,161,2684918,2023,3
+3,2,5,0,0,0,0,0,0,0,03/11/2023,neutral,16340,27892,Farmingdale St.,9,True,3,4,-1,loss,2394640,161,2684918,2023,3
+1,0,1,0,0,0,0,0,0,0,03/13/2023,neutral,16340,364,Loras,9,True,1,4,-3,loss,2395262,161,2684918,2023,3
+1,2,3,0,0,0,0,0,0,0,03/13/2023,neutral,16340,364,Loras,9,True,5,2,3,win,2408254,161,2684918,2023,3
+1,3,4,0,0,0,0,0,1,0,03/15/2023,neutral,16340,267,Hamilton,9,True,4,1,3,win,2395630,161,2684918,2023,3
+1,2,3,0,0,0,0,0,1,0,03/15/2023,neutral,16340,267,Hamilton,9,True,4,3,1,win,2408897,161,2684918,2023,3

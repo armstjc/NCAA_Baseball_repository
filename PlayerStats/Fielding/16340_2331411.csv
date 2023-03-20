@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/04/2023,home,16340,633,Scranton,9,True,2,17,-15,loss,2393183,27892,2331411,2023,3
+2,0,2,0,0,0,0,0,0,0,03/06/2023,home,16340,564,Ramapo,9,True,9,18,-9,loss,2392780,27892,2331411,2023,3
+4,0,4,0,0,0,3,0,0,0,03/10/2023,neutral,16340,1267,Northland,9,True,10,5,5,win,2394264,27892,2331411,2023,3
+0,1,1,0,0,0,0,0,0,0,03/14/2023,neutral,16340,526,SUNY Oneonta,9,True,0,8,-8,loss,2395360,27892,2331411,2023,3
+9,2,11,0,0,0,3,1,1,0,03/15/2023,neutral,16340,182,Denison,9,True,2,6,-4,loss,2412250,27892,2331411,2023,3

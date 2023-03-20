@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/19/2023,home,16340,1062,East Tex. Baptist,9,True,15,11,4,win,2390822,28593,2303044,2023,3
+1,0,1,0,0,0,0,0,0,0,02/27/2023,home,16340,4,Adrian,9,True,6,5,1,win,2392307,28593,2303044,2023,3
+0,1,1,0,0,0,0,0,0,0,03/04/2023,away,16340,652,Sewanee,9,True,9,1,8,win,2393071,28593,2303044,2023,3
+0,0,1,1,0,0,0,0,0,0,03/08/2023,home,16340,1130,Huntingdon,9,True,19,5,14,win,2394099,28593,2303044,2023,3

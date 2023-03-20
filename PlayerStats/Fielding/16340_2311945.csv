@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+9,0,9,0,0,0,3,0,0,0,03/02/2023,away,16340,1451,Westminster (PA),9,True,8,14,-6,loss,2422590,242,2311945,2023,3
+5,0,5,0,0,0,2,0,0,0,03/12/2023,away,16340,733,Utica,9,True,8,22,-14,loss,2394995,242,2311945,2023,3
+11,2,13,0,0,0,0,1,0,0,03/13/2023,neutral,16340,1164,Lakeland,9,True,13,8,5,win,2395269,242,2311945,2023,3
+8,0,8,0,0,0,1,0,0,0,03/15/2023,neutral,16340,69,Bowdoin,9,True,5,20,-15,loss,2408828,242,2311945,2023,3

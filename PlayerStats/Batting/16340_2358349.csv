@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2023,away,16340,622,Salisbury,9,True,7,11,-4,loss,2408404,712,2358349,2023,3
+1,3,2,0,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,03/14/2023,neutral,16340,24,Amherst,8,True,5,4,1,win,2408426,712,2358349,2023,3
+0,4,1,0,0,1,0,2,1,0,0,0,1,0,0,0,0,0,0,03/16/2023,neutral,16340,496,North Park,9,True,9,3,6,win,2395734,712,2358349,2023,3
+1,5,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/17/2023,neutral,16340,453,Muhlenberg,9,True,6,7,-1,loss,2395881,712,2358349,2023,3
+0,3,2,1,0,3,0,1,0,0,0,0,1,0,0,0,0,0,0,03/17/2023,neutral,16340,453,Muhlenberg,9,True,8,2,6,win,2408433,712,2358349,2023,3
+1,5,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,03/18/2023,neutral,16340,221,FDU-Florham,12,True,4,3,1,win,2396233,712,2358349,2023,3

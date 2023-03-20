@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,0,5,0,0,0,0,0,0,0,03/06/2023,neutral,16340,258,Gettysburg,9,True,3,12,-9,loss,2393723,538,2663752,2023,3
+5,1,6,0,0,0,0,0,0,0,03/08/2023,neutral,16340,211,Elizabethtown,9,True,1,2,-1,loss,2394004,538,2663752,2023,3
+3,1,4,0,0,0,0,0,1,0,03/09/2023,neutral,16340,30031,Northwestern-St. Paul,9,True,5,7,-2,loss,2394133,538,2663752,2023,3
+11,0,11,0,0,0,0,0,0,0,03/10/2023,neutral,16340,438,Monmouth (IL),9,True,12,1,11,win,2394303,538,2663752,2023,3

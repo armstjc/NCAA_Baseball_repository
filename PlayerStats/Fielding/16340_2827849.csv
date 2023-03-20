@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/18/2023,home,16340,213,Elmira,9,True,3,22,-19,loss,2407901,245,2827849,2023,3
+0,1,1,0,0,0,0,0,0,0,02/19/2023,home,16340,23624,Cazenovia,9,True,3,22,-19,loss,2390954,245,2827849,2023,3
+1,0,1,0,0,0,0,0,0,0,02/24/2023,home,16340,753,Washington Col.,9,True,5,19,-14,loss,2391365,245,2827849,2023,3
+0,1,1,0,0,0,0,0,0,0,03/14/2023,neutral,16340,8486,Lasell,9,True,3,15,-12,loss,2395366,245,2827849,2023,3

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,1,0,0,0,02/25/2023,neutral,16340,1450,Westminster (MO),10,True,3,4,-1,loss,2391683,1066,2684039,2023,3
+1,0,1,0,0,0,0,0,0,0,03/11/2023,away,16340,1130,Huntingdon,10,True,8,6,2,win,2394882,1066,2684039,2023,3
+0,1,1,0,0,0,0,0,0,0,03/15/2023,neutral,16340,120,Carroll (WI),9,True,13,1,12,win,2395627,1066,2684039,2023,3

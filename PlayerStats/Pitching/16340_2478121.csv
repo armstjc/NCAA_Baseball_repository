@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.2,0.0,1,2,2,4,0,0,11,5,0,0,0,0,0,1,0,0,0,0,1,47,0,5,0,0,0,2,0,0,02/14/2023,away,16340,217,Emory,9,True,4,7,-3,loss,2390215,2713,2478121,2023,3
+1,0,1.1,0.0,2,2,0,3,0,0,9,6,0,1,0,0,3,0,0,0,0,0,0,26,2,1,0,0,0,2,0,0,02/19/2023,away,16340,396,Maryville (TN),9,True,2,9,-7,loss,2390974,2713,2478121,2023,3
+1,0,1.1,0.0,1,1,1,1,2,0,6,5,0,0,0,0,0,0,0,0,0,0,0,23,1,1,0,0,0,5,1,0,02/26/2023,away,16340,217,Emory,9,True,2,13,-11,loss,2392195,2713,2478121,2023,3
+1,0,2.0,0.0,4,2,2,0,2,0,10,10,3,0,0,0,0,0,0,0,0,0,0,37,1,3,0,0,0,4,1,0,03/14/2023,home,16340,1162,LaGrange,9,True,2,8,-6,loss,2395548,2713,2478121,2023,3

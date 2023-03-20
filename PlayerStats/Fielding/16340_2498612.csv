@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/26/2023,neutral,16340,320,John Carroll,9,True,9,17,-8,loss,2408291,19,2498612,2023,3
+0,0,0,0,0,0,1,0,0,0,03/07/2023,neutral,16340,531,Otterbein,9,True,5,12,-7,loss,2423577,19,2498612,2023,3
+12,2,14,0,0,1,2,1,0,0,03/09/2023,neutral,16340,30038,Bethany Lutheran,9,True,5,7,-2,loss,2417907,19,2498612,2023,3

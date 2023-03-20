@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,3,0,0,0,0,0,0,0,03/07/2023,neutral,16340,30190,Penn College,9,True,4,9,-5,loss,2407794,1163,2512773,2023,3
+0,4,4,0,0,0,0,0,0,0,03/09/2023,away,16340,30190,Penn College,9,True,4,9,-5,loss,2424904,1163,2512773,2023,3
+0,4,4,0,0,0,0,0,0,0,03/09/2023,neutral,16340,1064,Eastern Nazarene,9,True,5,14,-9,loss,2394137,1163,2512773,2023,3

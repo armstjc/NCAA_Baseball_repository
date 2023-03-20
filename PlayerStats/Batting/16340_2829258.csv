@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,2,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,02/18/2023,home,16340,269,Hampden-Sydney,9,True,4,15,-11,loss,2390540,389,2829258,2023,3
+0,3,2,0,0,2,0,0,1,0,0,0,0,0,1,0,0,0,0,02/21/2023,away,16340,203,East. Mennonite,9,True,2,9,-7,loss,2391108,389,2829258,2023,3
+1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,02/26/2023,home,16340,12973,Wilson,9,True,7,10,-3,loss,2392068,389,2829258,2023,3
+1,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/26/2023,home,16340,12973,Wilson,9,True,7,4,3,win,2408229,389,2829258,2023,3
+1,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/01/2023,away,16340,21852,Stevenson,9,True,2,24,-22,loss,2421326,389,2829258,2023,3
+0,3,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,03/18/2023,away,16340,263,Greensboro,9,True,1,4,-3,loss,2425259,389,2829258,2023,3
+2,3,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,03/18/2023,away,16340,263,Greensboro,9,True,8,17,-9,loss,2396164,389,2829258,2023,3

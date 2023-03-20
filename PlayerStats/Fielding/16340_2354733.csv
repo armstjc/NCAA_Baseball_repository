@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,02/26/2023,neutral,16340,443,Moravian,9,True,1,22,-21,loss,2392098,321,2354733,2023,3
+0,0,0,0,0,0,1,0,0,0,03/02/2023,neutral,16340,10972,Chatham,9,True,9,7,2,win,2392587,321,2354733,2023,3
+0,1,2,1,0,0,3,0,0,0,03/12/2023,away,16340,30029,Purchase,9,True,5,10,-5,loss,2395046,321,2354733,2023,3

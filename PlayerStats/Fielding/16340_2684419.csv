@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+6,2,8,0,0,0,1,0,0,0,02/26/2023,away,16340,478,SUNY Maritime,9,True,4,3,1,win,2391809,547,2684419,2023,3
+5,1,6,0,0,0,1,1,0,0,02/26/2023,away,16340,478,SUNY Maritime,9,True,1,3,-2,loss,2408590,547,2684419,2023,3
+11,1,12,0,0,0,0,1,0,0,03/17/2023,neutral,16340,809,Worcester St.,9,True,8,2,6,win,2408257,547,2684419,2023,3

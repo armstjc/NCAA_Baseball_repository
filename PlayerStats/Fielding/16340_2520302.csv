@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,02/23/2023,away,16340,966,Arcadia,9,True,4,14,-10,loss,2391252,730,2520302,2023,3
+0,1,1,0,0,0,0,0,0,0,02/26/2023,away,16340,21852,Stevenson,9,True,10,8,2,win,2420833,730,2520302,2023,3
+0,0,0,0,0,0,1,0,0,0,03/09/2023,neutral,16340,30064,Saint Vincent,9,True,6,24,-18,loss,2394165,730,2520302,2023,3
+0,1,1,0,0,0,2,0,0,0,03/15/2023,away,16340,622,Salisbury,9,True,6,3,3,win,2395675,730,2520302,2023,3

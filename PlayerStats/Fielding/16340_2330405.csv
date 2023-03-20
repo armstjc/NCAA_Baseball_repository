@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/26/2023,home,16340,538,Penn St.-Behrend,9,True,2,1,1,win,2392119,132,2330405,2023,3
+2,0,2,0,0,0,0,0,0,0,03/04/2023,home,16340,573,Rhodes,9,True,5,3,2,win,2408479,132,2330405,2023,3
+4,0,4,0,0,0,0,0,0,0,03/05/2023,home,16340,573,Rhodes,9,True,7,6,1,win,2393493,132,2330405,2023,3
+3,0,3,0,0,0,0,0,0,0,03/07/2023,home,16340,30171,Berea,9,True,14,7,7,win,2393935,132,2330405,2023,3
+3,0,3,0,0,0,0,0,0,0,03/11/2023,home,16340,426,Millsaps,9,True,8,2,6,win,2394701,132,2330405,2023,3
+3,0,3,0,0,0,0,0,0,0,03/11/2023,home,16340,426,Millsaps,9,True,3,2,1,win,2407937,132,2330405,2023,3
+3,0,3,0,0,0,0,0,0,0,03/12/2023,home,16340,426,Millsaps,9,True,13,1,12,win,2395131,132,2330405,2023,3
+3,0,3,0,0,0,0,0,0,0,03/14/2023,home,16340,30243,Asbury,9,True,10,5,5,win,2395314,132,2330405,2023,3

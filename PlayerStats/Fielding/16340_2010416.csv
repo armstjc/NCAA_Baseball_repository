@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+11,0,11,0,0,0,6,0,0,0,02/26/2023,away,16340,1340,St. Joseph's (L.I.),9,True,7,3,4,win,2393203,564,2010416,2023,3
+5,2,7,0,0,0,4,1,1,0,03/06/2023,away,16340,27892,Farmingdale St.,9,True,18,9,9,win,2392780,564,2010416,2023,3
+13,1,14,0,0,0,1,0,0,0,03/12/2023,neutral,16340,1451,Westminster (PA),9,True,5,0,5,win,2395037,564,2010416,2023,3
+4,0,4,0,0,0,1,0,0,0,03/13/2023,neutral,16340,170,Curry,9,True,9,4,5,win,2395273,564,2010416,2023,3
+9,0,9,0,0,0,2,0,0,0,03/14/2023,neutral,16340,583,Roger Williams,9,True,2,1,1,win,2395497,564,2010416,2023,3
+8,0,8,0,0,0,4,0,0,0,03/15/2023,neutral,16340,939,Anderson (IN),9,True,0,10,-10,loss,2395646,564,2010416,2023,3
+8,1,9,0,0,0,1,1,0,0,03/17/2023,neutral,16340,618,St. Scholastica,9,True,2,7,-5,loss,2395912,564,2010416,2023,3
+2,0,2,0,0,0,0,0,0,0,03/18/2023,home,16340,242,Fredonia,9,True,15,5,10,win,2409248,564,2010416,2023,3

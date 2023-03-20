@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+9,0,9,0,0,0,1,0,0,0,03/04/2023,home,16340,22626,JWU (Providence),11,True,5,4,1,win,2422858,322,2348170,2023,3
+5,1,6,0,0,1,2,0,0,0,03/17/2023,neutral,16340,286,Hope,9,True,7,6,1,win,2395876,322,2348170,2023,3
+10,0,10,0,0,0,3,0,0,0,03/18/2023,neutral,16340,530,Oswego St.,9,True,16,9,7,win,2396241,322,2348170,2023,3

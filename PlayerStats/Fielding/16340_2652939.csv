@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/11/2023,home,16340,30094,Brevard,9,True,3,2,1,win,2390062,44,2652939,2023,3
+0,0,0,0,0,0,1,0,0,0,02/15/2023,home,16340,21,Alma,9,True,3,2,1,win,2415399,44,2652939,2023,3
+0,0,0,0,0,0,1,0,0,0,03/04/2023,neutral,16340,303,Immaculata,9,True,3,13,-10,loss,2393311,44,2652939,2023,3
+0,1,1,0,0,0,0,0,0,0,03/18/2023,away,16340,75,Bridgewater (VA),9,True,10,11,-1,loss,2409260,44,2652939,2023,3

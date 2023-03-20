@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,03/03/2023,neutral,16340,88,Cabrini,9,True,4,5,-1,loss,2392712,30047,2495250,2023,3
+1,5,1,0,0,4,1,3,0,0,0,0,3,0,0,0,0,0,0,03/04/2023,neutral,16340,390,Mary Washington,9,True,6,7,-1,loss,2393037,30047,2495250,2023,3
+1,4,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,03/13/2023,neutral,16340,1468,Mt. St. Mary (NY),9,True,10,5,5,win,2395232,30047,2495250,2023,3
+1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/13/2023,neutral,16340,589,Rutgers-Newark,9,True,10,6,4,win,2395278,30047,2495250,2023,3
+0,3,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,03/14/2023,neutral,16340,146,Clarkson,9,True,7,4,3,win,2395359,30047,2495250,2023,3

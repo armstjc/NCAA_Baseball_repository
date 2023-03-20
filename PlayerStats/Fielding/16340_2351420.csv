@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,2,0,0,0,0,1,0,0,02/24/2023,home,16340,313,Ithaca,9,True,8,16,-8,loss,2421094,303,2351420,2023,3
+0,0,1,1,0,0,0,1,0,0,03/03/2023,away,16340,412,Methodist,9,True,2,5,-3,loss,2392813,303,2351420,2023,3
+1,2,3,0,0,0,0,0,0,0,03/07/2023,neutral,16340,605,St. Joseph's (ME),9,True,6,0,6,win,2393825,303,2351420,2023,3
+0,1,1,0,0,0,0,0,0,0,03/18/2023,away,16340,686,Swarthmore,9,True,4,10,-6,loss,2396278,303,2351420,2023,3

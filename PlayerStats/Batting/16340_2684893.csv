@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/24/2023,away,16340,303,Immaculata,9,True,16,8,8,win,2421094,313,2684893,2023,3
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/26/2023,away,16340,966,Arcadia,9,True,9,16,-7,loss,2392282,313,2684893,2023,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2023,away,16340,724,Merchant Marine,10,True,10,3,7,win,2408488,313,2684893,2023,3
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/12/2023,neutral,16340,662,Southern Me.,9,True,9,17,-8,loss,2394984,313,2684893,2023,3
+0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,03/14/2023,neutral,16340,401,UMass Boston,9,True,4,9,-5,loss,2395368,313,2684893,2023,3

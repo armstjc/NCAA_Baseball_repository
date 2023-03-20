@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,2,0,0,0,0,0,0,0,02/19/2023,away,16340,752,Wash. & Lee,9,True,8,9,-1,loss,2390956,730,2687392,2023,3
+0,0,0,0,0,0,1,0,0,0,02/26/2023,away,16340,21852,Stevenson,9,True,2,16,-14,loss,2392286,730,2687392,2023,3
+0,0,0,0,0,0,1,0,0,0,03/07/2023,neutral,16340,737,Vassar,9,True,7,4,3,win,2393818,730,2687392,2023,3

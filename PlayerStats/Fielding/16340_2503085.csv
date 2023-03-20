@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,02/23/2023,away,16340,588,Rutgers-Camden,9,True,4,18,-14,loss,2391381,179,2503085,2023,3
+4,0,4,0,0,0,0,0,0,0,03/01/2023,away,16340,686,Swarthmore,9,True,4,2,2,win,2392549,179,2503085,2023,3
+3,0,3,0,0,0,0,0,0,0,03/04/2023,neutral,16340,12884,Centenary (NJ),9,True,9,3,6,win,2393039,179,2503085,2023,3
+1,0,1,0,0,0,0,0,0,0,03/06/2023,neutral,16340,8398,Hilbert,9,True,8,2,6,win,2393685,179,2503085,2023,3
+1,0,1,0,0,0,0,0,0,0,03/12/2023,away,16340,88,Cabrini,9,True,2,19,-17,loss,2395082,179,2503085,2023,3
+3,0,3,0,0,0,0,0,0,0,03/15/2023,away,16340,16,Albright,9,True,3,6,-3,loss,2395594,179,2503085,2023,3

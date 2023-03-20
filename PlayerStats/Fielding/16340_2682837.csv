@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,2,0,0,0,0,1,1,0,02/23/2023,away,16340,329,Kean,9,True,5,9,-4,loss,2391752,276,2682837,2023,3
+1,0,1,0,0,0,0,0,0,0,03/05/2023,away,16340,938,Alvernia,9,True,5,1,4,win,2421402,276,2682837,2023,3
+0,1,1,0,0,0,0,0,0,0,03/10/2023,neutral,16340,770,WestConn,9,True,10,1,9,win,2394319,276,2682837,2023,3

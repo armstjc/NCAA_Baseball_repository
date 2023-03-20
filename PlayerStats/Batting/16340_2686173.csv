@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,03/06/2023,away,16340,401,UMass Boston,9,True,1,7,-6,loss,2393728,238,2686173,2023,3
+1,3,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,03/08/2023,away,16340,214,Emerson,9,True,2,11,-9,loss,2393986,238,2686173,2023,3
+0,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,03/12/2023,neutral,16340,330,Keene St.,8,True,5,4,1,win,2395029,238,2686173,2023,3
+0,4,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,03/12/2023,neutral,16340,330,Keene St.,9,True,2,0,2,win,2408770,238,2686173,2023,3
+0,2,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,03/13/2023,neutral,16340,30072,St. Joseph's (Brkln),9,True,4,5,-1,loss,2395256,238,2686173,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/15/2023,home,16340,685,Susquehanna,9,True,4,8,-4,loss,2395613,238,2686173,2023,3

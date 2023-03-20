@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/18/2023,away,16340,2741,Howard Payne,9,True,1,15,-14,loss,2390654,1355,2798856,2023,3
+0,1,1,0,0,0,0,0,0,0,02/24/2023,home,16340,0,Dallas Christian,9,True,16,1,15,win,2392066,1355,2798856,2023,3
+0,1,1,0,0,0,0,0,0,0,02/24/2023,home,16340,0,Dallas Christian,9,True,12,4,8,win,2408227,1355,2798856,2023,3
+0,2,2,0,0,0,0,0,0,0,03/05/2023,home,16340,20,DeSales,9,True,1,0,1,win,2408558,1355,2798856,2023,3
+1,4,5,0,0,0,0,0,0,0,03/12/2023,away,16340,8490,LeTourneau,9,True,2,6,-4,loss,2394468,1355,2798856,2023,3

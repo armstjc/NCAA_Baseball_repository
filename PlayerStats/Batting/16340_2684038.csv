@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2023,neutral,16340,1450,Westminster (MO),9,True,2,14,-12,loss,2391343,1066,2684038,2023,3
+1,4,3,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,02/26/2023,away,16340,426,Millsaps,9,True,5,6,-1,loss,2392134,1066,2684038,2023,3
+0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/09/2023,home,16340,123,Castleton,9,True,12,4,8,win,2394136,1066,2684038,2023,3
+0,5,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/10/2023,away,16340,431,MUW,9,True,7,2,5,win,2394274,1066,2684038,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/11/2023,away,16340,1130,Huntingdon,10,True,8,6,2,win,2394882,1066,2684038,2023,3
+2,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,03/15/2023,neutral,16340,120,Carroll (WI),9,True,13,1,12,win,2395627,1066,2684038,2023,3

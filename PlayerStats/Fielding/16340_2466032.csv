@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,2,0,0,0,02/19/2023,home,16340,12973,Wilson,9,True,14,13,1,win,2390929,1112,2466032,2023,3
+1,0,1,0,0,0,0,0,0,0,02/23/2023,home,16340,123,Castleton,9,True,15,3,12,win,2391259,1112,2466032,2023,3
+0,1,1,0,0,0,0,0,0,0,03/07/2023,home,16340,17094,William Peace,9,True,14,12,2,win,2393849,1112,2466032,2023,3
+0,0,0,0,0,0,2,0,0,0,03/14/2023,home,16340,412,Methodist,9,True,16,6,10,win,2395407,1112,2466032,2023,3

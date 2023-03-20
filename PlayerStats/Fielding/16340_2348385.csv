@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+19,1,20,0,0,1,2,0,0,0,02/25/2023,neutral,16340,1332,Dominican (IL),9,True,6,5,1,win,2391679,538,2348385,2023,3
+3,0,3,0,0,0,1,0,0,0,03/06/2023,neutral,16340,258,Gettysburg,9,True,3,12,-9,loss,2393723,538,2348385,2023,3
+5,0,5,0,0,0,0,0,0,0,03/09/2023,neutral,16340,30031,Northwestern-St. Paul,9,True,5,7,-2,loss,2394133,538,2348385,2023,3
+1,0,1,0,0,0,0,0,0,0,03/11/2023,neutral,16340,335,Kenyon,9,True,1,9,-8,loss,2407862,538,2348385,2023,3

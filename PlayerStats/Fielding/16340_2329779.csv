@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,1,0,0,0,03/10/2023,away,16340,2713,Oglethorpe,9,True,0,6,-6,loss,2394415,806,2329779,2023,3
+0,2,2,0,0,0,0,0,0,0,03/16/2023,home,16340,114,Calvin,9,True,11,2,9,win,2396349,806,2329779,2023,3

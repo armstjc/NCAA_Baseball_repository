@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+10,0,10,0,0,1,0,0,0,0,02/26/2023,away,16340,784,Wilkes,9,True,6,7,-1,loss,2408462,30083,2489035,2023,3
+3,0,3,0,0,2,2,0,0,0,03/13/2023,neutral,16340,712,TCNJ,9,True,9,10,-1,loss,2395238,30083,2489035,2023,3
+7,0,8,1,0,0,7,0,0,0,03/14/2023,neutral,16340,804,Wis.-Superior,8,True,6,8,-2,loss,2395380,30083,2489035,2023,3
+4,1,5,0,0,0,0,0,0,0,03/16/2023,neutral,16340,1468,Mt. St. Mary (NY),9,True,10,9,1,win,2408266,30083,2489035,2023,3
+6,0,6,0,0,0,3,0,0,0,03/17/2023,neutral,16340,24,Amherst,8,True,1,2,-1,loss,2408434,30083,2489035,2023,3

@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/05/2023,neutral,16340,730,Ursinus,9,True,6,7,-1,loss,2393444,762,2127102,2023,3
+3,0,3,0,0,0,0,0,0,0,03/05/2023,neutral,16340,730,Ursinus,9,True,7,12,-5,loss,2408074,762,2127102,2023,3
+2,0,2,0,0,0,0,0,0,0,03/06/2023,neutral,16340,808,WPI,9,True,2,4,-2,loss,2393699,762,2127102,2023,3
+1,0,1,0,0,0,0,0,0,0,03/06/2023,neutral,16340,808,WPI,9,True,5,1,4,win,2408678,762,2127102,2023,3
+2,0,2,0,0,0,0,0,0,0,03/08/2023,neutral,16340,737,Vassar,9,True,7,22,-15,loss,2394019,762,2127102,2023,3
+4,2,6,0,0,0,0,0,1,0,03/08/2023,neutral,16340,737,Vassar,9,True,0,3,-3,loss,2408564,762,2127102,2023,3
+6,0,6,0,0,0,0,0,0,0,03/10/2023,neutral,16340,11036,Russell Sage,9,True,3,9,-6,loss,2394295,762,2127102,2023,3
+1,0,1,0,0,0,0,0,0,0,03/10/2023,neutral,16340,11036,Russell Sage,9,True,3,8,-5,loss,2408195,762,2127102,2023,3
+2,0,2,0,0,0,0,0,0,0,03/11/2023,neutral,16340,656,UMass Dartmouth,9,True,4,5,-1,loss,2394648,762,2127102,2023,3
+1,0,1,0,0,0,0,0,0,0,03/11/2023,neutral,16340,656,UMass Dartmouth,9,True,5,7,-2,loss,2408845,762,2127102,2023,3

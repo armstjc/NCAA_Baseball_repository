@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/24/2023,neutral,16340,30243,Asbury,9,True,5,11,-6,loss,2391348,8567,2652093,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/25/2023,neutral,16340,30243,Asbury,9,True,5,1,4,win,2421508,8567,2652093,2023,3
+0,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,03/04/2023,neutral,16340,520,Ohio Wesleyan,9,True,2,5,-3,loss,2393160,8567,2652093,2023,3
+1,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,03/18/2023,away,16340,337,Knox,9,True,5,2,3,win,2396253,8567,2652093,2023,3

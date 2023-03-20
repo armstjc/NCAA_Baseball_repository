@@ -1,12 +1,12 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Alessandroni, Chase","Sr","2362062",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2362062",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
 "Allegrini, Joey","Sr","2362063",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2362063",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
-"Bakken, Charlie","Fr",NA,2023,"14","OF",NA,325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
+"Bakken, Charlie","Fr","2811616",2023,"14","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2811616",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
 "Beard, David","Fr","2811626",2023,"15","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2811626",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
 "Biars, Alexander","Fr","2811656",2023,"46","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2811656",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
 "Bollinger, Aaron","Jr","2516063",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2516063",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
 "Coldren, Devon","So","2685104",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2685104",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
-"Coleman, Tim","Fr",NA,2023,"13","INF",NA,325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
+"Coleman, Tim","Fr","2811625",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2811625",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
 "Collins, Caden","Fr","2811654",2023,"43","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2811654",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
 "Cunnane, Jackson","Fr","2811644",2023,"22","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2811644",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
 "Daniels, Corey","Jr","2516026",2023,"12","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2516026",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
@@ -25,7 +25,7 @@
 "Lewis, Colson","Jr","2516028",2023,"17","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2516028",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
 "Lonstein, Ari","Jr","2516068",2023,"24","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2516068",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
 "Mack, Tyler","Fr","2811664",2023,"50","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2811664",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
-"Magill, Blake","Fr",NA,2023,"47","P",NA,325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
+"Magill, Blake","Fr","2811662",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2811662",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
 "Malone, Zachary","Jr","2516065",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2516065",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
 "Meisner, Connor","Fr","2811632",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2811632",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340
 "Mock, Evan","Sr","2361898",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=325&stats_player_seq=2361898",325,"Juniata","/team/325/16340",30101,"Landmark",3,2023,16340

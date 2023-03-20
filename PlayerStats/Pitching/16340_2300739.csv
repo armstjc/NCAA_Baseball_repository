@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,3.0,0.0,3,1,1,2,2,0,15,13,1,0,0,0,0,0,0,0,0,0,0,50,4,3,0,0,0,2,1,0,02/10/2023,away,16340,426,Millsaps,9,True,2,5,-3,loss,2389995,8490,2300739,2023,3
+1,0,0.1,0.0,4,4,4,1,1,0,6,5,1,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,2,0,0,02/24/2023,away,16340,23008,Ozarks (AR),9,True,0,16,-16,loss,2391420,8490,2300739,2023,3
+1,0,1.0,0.0,0,1,1,1,0,0,4,1,0,0,0,0,1,0,0,0,0,1,1,17,2,1,0,1,0,4,0,0,03/07/2023,home,16340,125,Centenary (LA),9,True,2,6,-4,loss,2393946,8490,2300739,2023,3
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,7,1,0,03/11/2023,home,16340,1355,Schreiner,9,True,11,18,-7,loss,2407951,8490,2300739,2023,3

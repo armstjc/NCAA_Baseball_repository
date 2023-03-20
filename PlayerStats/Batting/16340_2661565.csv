@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/04/2023,home,16340,300,Ill. Wesleyan,11,True,6,5,1,win,2393513,755,2661565,2023,3
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/05/2023,home,16340,300,Ill. Wesleyan,9,True,9,4,5,win,2393143,755,2661565,2023,3
+0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,03/12/2023,home,16340,372,Luther,9,True,7,3,4,win,2408716,755,2661565,2023,3
+1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/14/2023,neutral,16340,777,Westfield St.,9,True,15,6,9,win,2395372,755,2661565,2023,3
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/16/2023,away,16340,573,Rhodes,9,True,4,5,-1,loss,2395716,755,2661565,2023,3

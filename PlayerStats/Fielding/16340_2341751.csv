@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,02/19/2023,home,16340,0,Park (MO),9,True,1,12,-11,loss,2390861,953,2341751,2023,3
+0,0,0,0,0,0,2,1,0,0,03/04/2023,home,16340,64,Blackburn,9,True,6,4,2,win,2392949,953,2341751,2023,3
+0,1,2,1,0,0,4,0,0,0,03/18/2023,away,16340,715,Trinity (TX),9,True,4,5,-1,loss,2409675,953,2341751,2023,3

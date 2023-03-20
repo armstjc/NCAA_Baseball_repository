@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/19/2023,away,16340,124,Catholic,9,True,2,3,-1,loss,2390542,185,2516416,2023,3
+1,0,1,0,0,0,1,0,0,0,02/24/2023,away,16340,578,Roanoke,9,True,3,4,-1,loss,2421412,185,2516416,2023,3
+1,0,1,0,0,0,1,0,0,0,03/05/2023,away,16340,633,Scranton,11,True,11,7,4,win,2393370,185,2516416,2023,3
+0,0,0,0,0,0,1,1,0,0,03/11/2023,neutral,16340,30064,Saint Vincent,9,True,10,6,4,win,2394642,185,2516416,2023,3
+0,1,1,0,0,0,0,1,0,0,03/16/2023,away,16340,214,Emerson,9,True,11,3,8,win,2411889,185,2516416,2023,3

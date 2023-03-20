@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,03/05/2023,away,16340,21852,Stevenson,9,True,1,11,-10,loss,2393073,397,2506189,2023,3
+2,2,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,03/13/2023,neutral,16340,245,Gallaudet,9,True,17,5,12,win,2418506,397,2506189,2023,3
+0,3,1,0,0,1,0,1,1,0,0,0,2,0,0,0,0,0,0,03/16/2023,neutral,16340,8486,Lasell,9,True,9,6,3,win,2424973,397,2506189,2023,3

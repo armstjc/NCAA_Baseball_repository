@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,03/10/2023,home,16340,30029,Purchase,9,True,1,3,-2,loss,2394770,962,2314263,2023,3
+2,3,1,0,0,4,1,2,1,0,0,0,1,0,0,0,0,0,0,03/18/2023,neutral,16340,524,Old Westbury,9,True,11,14,-3,loss,2396248,962,2314263,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/18/2023,neutral,16340,524,Old Westbury,9,True,10,5,5,win,2409142,962,2314263,2023,3
+2,3,1,1,0,2,0,3,0,1,0,0,1,0,0,0,1,0,0,03/19/2023,neutral,16340,212,Elmhurst,9,True,10,8,2,win,2423324,962,2314263,2023,3
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/19/2023,neutral,16340,212,Elmhurst,9,True,0,4,-4,loss,2396617,962,2314263,2023,3
+2,3,1,1,0,2,0,3,0,1,0,0,1,0,0,0,1,0,0,03/19/2023,neutral,16340,212,Elmhurst,9,True,10,8,2,win,2425396,962,2314263,2023,3

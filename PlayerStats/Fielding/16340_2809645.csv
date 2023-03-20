@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/18/2023,neutral,16340,269,Hampden-Sydney,9,True,4,14,-10,loss,2390787,753,2809645,2023,3
+1,0,4,3,0,0,0,0,0,0,02/19/2023,away,16340,389,Mary Baldwin,9,True,5,11,-6,loss,2390952,753,2809645,2023,3
+3,0,3,0,0,0,0,0,0,0,02/24/2023,neutral,16340,580,RIT,9,True,1,10,-9,loss,2391430,753,2809645,2023,3
+1,0,1,0,0,0,0,0,0,0,03/05/2023,home,16340,611,St. Mary's (MD),9,True,10,2,8,win,2393131,753,2809645,2023,3
+2,0,2,0,0,0,0,0,0,0,03/08/2023,away,16340,622,Salisbury,9,True,3,19,-16,loss,2394053,753,2809645,2023,3
+3,0,3,0,0,0,0,0,0,0,03/12/2023,neutral,16340,335,Kenyon,9,True,11,2,9,win,2395096,753,2809645,2023,3
+1,0,1,0,0,0,0,0,0,0,03/14/2023,neutral,16340,397,Marywood,9,True,4,3,1,win,2395390,753,2809645,2023,3
+2,0,2,0,0,0,0,0,0,0,03/14/2023,neutral,16340,397,Marywood,9,True,3,5,-2,loss,2408431,753,2809645,2023,3
+1,0,1,0,0,0,0,0,0,0,03/18/2023,neutral,16340,8486,Lasell,9,True,9,3,6,win,2396250,753,2809645,2023,3

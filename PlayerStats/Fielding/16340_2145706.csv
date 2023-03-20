@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,2,1,0,0,1,0,0,0,02/18/2023,away,16340,394,Marymount (VA),9,True,4,7,-3,loss,2390769,21852,2145706,2023,3
+0,0,1,1,0,0,1,0,0,0,02/26/2023,home,16340,730,Ursinus,9,True,8,10,-2,loss,2420833,21852,2145706,2023,3
+0,0,0,0,0,0,1,0,0,0,03/05/2023,home,16340,397,Marywood,9,True,7,2,5,win,2408362,21852,2145706,2023,3
+0,1,1,0,0,0,2,0,1,0,03/10/2023,away,16340,783,Widener,9,True,7,0,7,win,2423831,21852,2145706,2023,3

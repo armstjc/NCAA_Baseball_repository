@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,3,1,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,02/19/2023,away,16340,124,Catholic,9,True,7,13,-6,loss,2408794,185,2666682,2023,3
+1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2023,away,16340,578,Roanoke,9,True,3,4,-1,loss,2421412,185,2666682,2023,3
+3,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,02/24/2023,away,16340,578,Roanoke,9,True,10,5,5,win,2408041,185,2666682,2023,3
+0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,03/11/2023,neutral,16340,30064,Saint Vincent,9,True,8,5,3,win,2408839,185,2666682,2023,3
+0,2,1,0,0,1,0,2,1,0,0,0,0,1,0,0,0,0,1,03/12/2023,neutral,16340,146,Clarkson,9,True,7,3,4,win,2408762,185,2666682,2023,3
+0,3,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,03/16/2023,neutral,16340,486,MCLA,9,True,12,2,10,win,2395737,185,2666682,2023,3

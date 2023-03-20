@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/26/2023,away,16340,611,St. Mary's (MD),9,True,4,3,1,win,2391801,453,2676770,2023,3
+1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,03/02/2023,away,16340,351,Lebanon Valley,9,True,7,7,0,tie,2392419,453,2676770,2023,3
+2,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,03/05/2023,away,16340,16,Albright,9,True,13,2,11,win,2393012,453,2676770,2023,3
+1,1,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,03/05/2023,away,16340,16,Albright,9,True,7,4,3,win,2408316,453,2676770,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/09/2023,home,16340,8968,Eastern,9,True,5,9,-4,loss,2393836,453,2676770,2023,3

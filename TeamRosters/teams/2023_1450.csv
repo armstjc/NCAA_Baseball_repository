@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Adelson, Quin","So","2661909",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2661909",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
-"Adkins, Kerrick","Fr",NA,2023,"45","UT",NA,1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
+"Adkins, Kerrick","Fr","2806666",2023,"45","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2806666",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Allen, Kobe","Jr","2456881",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2456881",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Archer, Derek","Fr","2806664",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2806664",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Bello, Ian","Fr","2661893",2023,"40","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2661893",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
@@ -13,10 +13,10 @@
 "Gebbink, Bode","Jr","2456862",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2456862",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Green, Coltin","Jr","2456828",2023,"3","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2456828",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Harrison , Corbin","So","2661888",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2661888",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
-"Henke, Brian","So",NA,2023,"22","P",NA,1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
+"Henke, Brian","So","2806634",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2806634",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Hinkle-Pruett, Kaleb","So","2661911",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2661911",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Keiser , Spencer","Jr","2661889",2023,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2661889",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
-"Kennekeck, Ben","So",NA,2023,"29","P",NA,1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
+"Kennekeck, Ben","So","2806639",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2806639",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Kespohl, Jackson","So","2661898",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2661898",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Knittel, Brayden","Fr","2806660",2023,"34","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2806660",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Louie , Chris","So","2806662",2023,"37","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2806662",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
@@ -34,12 +34,12 @@
 "Rueckert, Trent","So","2806601",2023,"7","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2806601",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Sanborn, Hayden","Fr","2806661",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2806661",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Schuemann, Dawson","Jr","2456871",2023,"43","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2456871",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
-"Seest, Luke","So",NA,2023,"11","C",NA,1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
+"Seest, Luke","So","2806619",2023,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2806619",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Shepard, Nathan","Jr","2456869",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2456869",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Sherman, Connor","Jr","2456880",2023,"46","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2456880",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
-"Smith, Coy","Fr","2806625",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2806625",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
-"Smith, Quin","Fr",NA,2023,"33","1B",NA,1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
+"Smith, Quin","Fr","2806659",2023,"33","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2806659",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Smith, Quin","Fr","2806643",2023,"33","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2806643",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
+"Smith, Coy","Fr","2806625",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2806625",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Torpey, Hayden","So","2661895",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2661895",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Trout, Matt","Jr","2456859",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2456859",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340
 "Waeltermann, Jacob","Sr","2456838",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1450&stats_player_seq=2456838",1450,"Westminster (MO)","/team/1450/16340",12974,"SLIAC",3,2023,16340

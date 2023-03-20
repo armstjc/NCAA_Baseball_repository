@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,0,0,0,0,0,02/25/2023,neutral,16340,19,Allegheny,9,True,11,10,1,win,2391708,320,2158865,2023,3
+9,1,10,0,0,0,0,0,0,0,02/26/2023,neutral,16340,19,Allegheny,9,True,5,8,-3,loss,2392069,320,2158865,2023,3
+6,0,6,0,0,0,0,0,0,0,03/10/2023,neutral,16340,1226,Minn.-Morris,9,True,6,3,3,win,2408188,320,2158865,2023,3

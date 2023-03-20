@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+8,0,8,0,0,0,0,0,1,0,02/18/2023,away,16340,752,Wash. & Lee,9,True,3,14,-11,loss,2390801,730,2363635,2023,3
+4,1,5,0,0,0,0,0,0,0,02/19/2023,away,16340,752,Wash. & Lee,9,True,8,9,-1,loss,2390956,730,2363635,2023,3
+5,1,6,0,0,0,0,0,1,0,02/23/2023,away,16340,966,Arcadia,9,True,4,14,-10,loss,2391252,730,2363635,2023,3
+11,0,11,0,0,0,0,0,1,0,02/26/2023,away,16340,21852,Stevenson,9,True,10,8,2,win,2420833,730,2363635,2023,3
+6,0,6,0,0,0,0,0,0,0,02/26/2023,away,16340,21852,Stevenson,9,True,2,16,-14,loss,2392286,730,2363635,2023,3
+4,0,4,0,0,0,0,0,0,0,03/05/2023,neutral,16340,762,Wentworth,9,True,7,6,1,win,2393444,730,2363635,2023,3
+1,0,1,0,0,0,0,0,0,0,03/09/2023,neutral,16340,30064,Saint Vincent,9,True,6,24,-18,loss,2394165,730,2363635,2023,3

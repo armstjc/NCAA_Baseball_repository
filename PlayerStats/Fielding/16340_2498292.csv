@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,2,0,0,0,02/09/2023,home,16340,21830,Piedmont,9,True,4,8,-4,loss,2389910,105,2498292,2023,3
+0,0,0,0,0,0,1,0,0,0,02/10/2023,home,16340,21830,Piedmont,11,True,7,6,1,win,2389925,105,2498292,2023,3
+0,1,1,0,0,0,1,0,0,0,02/18/2023,home,16340,1454,Whitworth,9,True,7,6,1,win,2408796,105,2498292,2023,3
+0,0,0,0,0,0,1,0,0,0,03/04/2023,home,16340,781,Whittier,9,True,17,4,13,win,2408056,105,2498292,2023,3

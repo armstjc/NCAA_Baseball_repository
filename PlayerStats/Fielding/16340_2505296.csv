@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+8,1,9,0,0,0,0,0,0,0,03/04/2023,away,16340,1112,Guilford,9,True,11,8,3,win,2408493,752,2505296,2023,3
+11,1,12,0,0,0,1,1,0,0,03/08/2023,home,16340,389,Mary Baldwin,9,True,9,6,3,win,2394082,752,2505296,2023,3
+5,1,6,0,0,0,0,1,0,0,03/11/2023,away,16340,44,Averett,9,True,9,1,8,win,2407953,752,2505296,2023,3

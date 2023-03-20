@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/19/2023,neutral,16340,177,DePauw,9,True,10,11,-1,loss,2390876,577,2829148,2023,3
+0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,03/12/2023,home,16340,525,Olivet,9,True,7,6,1,win,2395038,577,2829148,2023,3
+0,3,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,03/12/2023,neutral,16340,300,Ill. Wesleyan,9,True,1,11,-10,loss,2395212,577,2829148,2023,3
+1,4,2,1,0,3,0,2,0,0,0,0,1,0,0,0,0,0,0,03/13/2023,neutral,16340,218,Eureka,9,True,9,1,8,win,2395252,577,2829148,2023,3
+0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,03/15/2023,neutral,16340,724,Merchant Marine,9,True,3,2,1,win,2395635,577,2829148,2023,3
+0,5,2,1,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,03/16/2023,neutral,16340,777,Westfield St.,9,True,9,4,5,win,2395773,577,2829148,2023,3
+0,4,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,03/17/2023,neutral,16340,724,Merchant Marine,9,True,3,12,-9,loss,2395900,577,2829148,2023,3

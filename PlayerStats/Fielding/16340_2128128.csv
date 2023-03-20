@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,2,1,0,0,0,1,0,0,02/05/2023,home,16340,1454,Whitworth,9,True,3,5,-2,loss,2389854,341,2128128,2023,3
+0,1,1,0,0,0,2,1,0,0,02/18/2023,neutral,16340,1461,Wilmington (OH),9,True,5,3,2,win,2390582,341,2128128,2023,3
+0,4,4,0,0,0,1,0,0,0,02/27/2023,away,16340,516,Occidental,9,True,6,5,1,win,2422256,341,2128128,2023,3
+0,1,1,0,0,0,1,0,0,0,03/11/2023,home,16340,581,Rochester (NY),9,True,7,2,5,win,2394684,341,2128128,2023,3
+0,0,1,1,0,0,0,0,0,0,03/18/2023,home,16340,8981,Endicott,9,True,10,5,5,win,2396261,341,2128128,2023,3

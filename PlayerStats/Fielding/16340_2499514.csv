@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,1,3,0,0,0,1,0,0,0,02/26/2023,neutral,16340,20220,MSOE,9,True,1,6,-5,loss,2392131,750,2499514,2023,3
+5,1,6,0,0,0,1,0,0,0,02/26/2023,neutral,16340,20220,MSOE,9,True,0,1,-1,loss,2408348,750,2499514,2023,3
+2,0,2,0,0,1,2,0,0,0,02/27/2023,neutral,16340,114,Calvin,9,True,2,9,-7,loss,2392321,750,2499514,2023,3
+4,0,4,0,0,1,2,0,0,0,02/27/2023,home,16340,114,Calvin,9,True,4,3,1,win,2408638,750,2499514,2023,3
+11,0,11,0,0,0,3,0,0,0,02/28/2023,neutral,16340,15,Albion,9,True,4,2,2,win,2392377,750,2499514,2023,3
+13,1,14,0,0,0,1,1,0,0,03/03/2023,neutral,16340,443,Moravian,9,True,15,3,12,win,2392714,750,2499514,2023,3
+10,0,10,0,0,3,1,0,0,0,03/03/2023,neutral,16340,443,Moravian,9,True,13,2,11,win,2408607,750,2499514,2023,3
+7,2,9,0,0,0,0,1,0,0,03/04/2023,neutral,16340,570,Rensselaer,9,True,4,3,1,win,2393042,750,2499514,2023,3
+6,1,8,1,0,1,4,2,0,0,03/05/2023,neutral,16340,160,Concordia Chicago,9,True,3,11,-8,loss,2393431,750,2499514,2023,3

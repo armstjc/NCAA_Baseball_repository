@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,3,1,0,0,0,0,0,0,03/05/2023,away,16340,399,Mass. Maritime,9,True,0,4,-4,loss,2408624,152,2528484,2023,3
+6,0,6,0,0,0,0,0,0,0,03/11/2023,neutral,16340,23725,Medaille,9,True,7,12,-5,loss,2408844,152,2528484,2023,3
+1,0,1,0,0,0,2,0,0,0,03/12/2023,neutral,16340,30040,Me.-Presque Isle,9,True,19,2,17,win,2408768,152,2528484,2023,3
+5,0,5,0,0,0,0,0,0,0,03/13/2023,neutral,16340,486,MCLA,9,True,7,13,-6,loss,2395247,152,2528484,2023,3
+0,3,3,0,0,0,1,0,0,0,03/16/2023,neutral,16340,379,Me.-Farmington,9,True,3,0,3,win,2408269,152,2528484,2023,3

@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,2,7,0,0,0,0,1,0,0,02/24/2023,away,16340,225,Ferrum,9,True,14,8,6,win,2407854,30081,2685172,2023,3
+2,3,5,0,0,0,0,0,0,0,02/26/2023,away,16340,225,Ferrum,9,True,20,4,16,win,2408394,30081,2685172,2023,3
+9,2,12,1,0,2,5,0,0,0,03/05/2023,home,16340,966,Arcadia,9,True,14,8,6,win,2393153,30081,2685172,2023,3
+1,1,2,0,0,0,0,0,0,0,03/05/2023,home,16340,966,Arcadia,9,True,14,7,7,win,2408611,30081,2685172,2023,3
+5,2,7,0,0,0,3,1,0,0,03/06/2023,away,16340,966,Arcadia,9,True,4,9,-5,loss,2393348,30081,2685172,2023,3
+6,0,6,0,0,0,0,0,0,0,03/08/2023,away,16340,565,Randolph-Macon,9,True,4,3,1,win,2393990,30081,2685172,2023,3
+6,0,6,0,0,0,4,0,0,0,03/12/2023,away,16340,139,Chris. Newport,9,True,9,15,-6,loss,2395084,30081,2685172,2023,3
+9,0,9,0,0,0,1,0,0,0,03/17/2023,home,16340,30085,Lancaster Bible,9,True,5,4,1,win,2395977,30081,2685172,2023,3
+4,0,4,0,0,1,0,0,0,0,03/18/2023,home,16340,30085,Lancaster Bible,9,True,11,0,11,win,2409465,30081,2685172,2023,3

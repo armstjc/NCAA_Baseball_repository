@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,2,6,0,0,0,1,1,1,0,02/25/2023,away,16340,364,Loras,9,True,4,14,-10,loss,2391684,212,2662499,2023,3
+14,2,16,0,0,0,5,0,0,0,03/04/2023,neutral,16340,525,Olivet,9,True,14,6,8,win,2393312,212,2662499,2023,3
+7,0,7,0,0,1,0,0,0,0,03/05/2023,neutral,16340,126,Central (IA),9,True,8,10,-2,loss,2393639,212,2662499,2023,3
+2,3,5,0,0,0,3,1,0,0,03/11/2023,neutral,16340,326,Kalamazoo,9,True,0,5,-5,loss,2408706,212,2662499,2023,3

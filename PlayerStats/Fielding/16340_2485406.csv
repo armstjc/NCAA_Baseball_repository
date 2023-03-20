@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+14,0,14,0,0,0,0,1,0,0,03/03/2023,neutral,16340,30114,Penn St.-Abington,9,True,10,1,9,win,2392690,26,2485406,2023,3
+12,2,14,0,0,1,0,1,0,0,03/04/2023,neutral,16340,121,Carthage,9,True,5,8,-3,loss,2393021,26,2485406,2023,3
+9,0,9,0,0,0,0,0,0,0,03/07/2023,home,16340,320,John Carroll,9,True,8,3,5,win,2393795,26,2485406,2023,3
+11,0,12,1,0,0,2,0,0,0,03/08/2023,neutral,16340,808,WPI,9,True,5,10,-5,loss,2393999,26,2485406,2023,3
+6,0,6,0,0,2,1,0,0,0,03/11/2023,neutral,16340,775,Western New Eng.,9,True,9,14,-5,loss,2394641,26,2485406,2023,3
+13,1,14,0,0,1,5,1,0,0,03/16/2023,home,16340,227,Fitchburg St.,9,True,6,3,3,win,2395582,26,2485406,2023,3

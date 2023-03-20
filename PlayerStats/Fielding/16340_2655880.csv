@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/25/2023,neutral,16340,278,Heidelberg,9,True,1,10,-9,loss,2391702,160,2655880,2023,3
+1,0,1,0,0,0,0,0,0,0,02/25/2023,neutral,16340,348,Lawrence,10,True,10,8,2,win,2391682,160,2655880,2023,3
+1,0,1,0,0,0,0,0,0,0,02/26/2023,away,16340,618,St. Scholastica,9,True,7,5,2,win,2391361,160,2655880,2023,3
+3,0,3,0,0,0,0,0,0,0,03/04/2023,neutral,16340,192,Dubuque,9,True,10,6,4,win,2393020,160,2655880,2023,3
+2,0,2,0,0,0,0,0,0,0,03/05/2023,neutral,16340,750,Wartburg,9,True,11,3,8,win,2393431,160,2655880,2023,3
+1,0,1,0,0,0,0,0,0,0,03/09/2023,neutral,16340,11538,Fontbonne,9,True,6,9,-3,loss,2394126,160,2655880,2023,3
+2,0,2,0,0,0,0,0,0,0,03/10/2023,neutral,16340,24400,Concordia (TX),9,True,8,9,-1,loss,2394281,160,2655880,2023,3
+3,0,3,0,0,0,0,0,0,0,03/11/2023,neutral,16340,1226,Minn.-Morris,9,True,8,5,3,win,2394606,160,2655880,2023,3

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/26/2023,neutral,16340,806,Wittenberg,9,True,5,17,-12,loss,2391675,28749,2472030,2023,3
+0,0,0,0,0,0,1,0,0,0,03/15/2023,away,16340,396,Maryville (TN),9,True,0,10,-10,loss,2395689,28749,2472030,2023,3
+0,1,2,1,0,0,3,0,0,0,03/18/2023,home,16340,137,UChicago,9,True,3,8,-5,loss,2396217,28749,2472030,2023,3

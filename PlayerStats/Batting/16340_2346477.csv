@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,02/15/2023,away,16340,30160,Houghton,9,True,11,3,8,win,2418514,1315,2346477,2023,3
+0,2,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,02/19/2023,away,16340,565,Randolph-Macon,9,True,2,12,-10,loss,2391026,1315,2346477,2023,3
+2,3,2,1,0,3,0,2,1,0,0,0,1,0,0,0,0,0,0,02/26/2023,away,16340,59,Bethany (WV),9,True,14,6,8,win,2408598,1315,2346477,2023,3
+0,3,1,0,0,1,0,0,1,0,0,0,2,0,0,1,0,0,0,03/06/2023,neutral,16340,281,Hiram,9,True,5,6,-1,loss,2408680,1315,2346477,2023,3

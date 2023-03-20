@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,2,0,0,0,02/26/2023,away,16340,278,Heidelberg,9,True,2,6,-4,loss,2412261,747,2329375,2023,3
+0,1,1,0,0,0,1,0,0,0,03/06/2023,neutral,16340,686,Swarthmore,9,True,23,4,19,win,2423504,747,2329375,2023,3
+0,0,0,0,0,0,1,0,0,0,03/11/2023,neutral,16340,770,WestConn,9,True,10,3,7,win,2411820,747,2329375,2023,3
+0,0,1,1,0,0,3,0,0,0,03/18/2023,away,16340,1115,Hanover,9,True,6,9,-3,loss,2396304,747,2329375,2023,3

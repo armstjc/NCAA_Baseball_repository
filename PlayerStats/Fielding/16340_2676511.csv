@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/19/2023,home,16340,1315,Pitt.-Bradford,9,True,12,2,10,win,2391026,565,2676511,2023,3
+0,1,1,0,0,0,0,0,0,0,02/26/2023,home,16340,938,Alvernia,9,True,6,4,2,win,2408050,565,2676511,2023,3
+0,1,1,0,0,0,0,1,0,0,03/08/2023,home,16340,30081,Penn St. Harrisburg,9,True,3,4,-1,loss,2393990,565,2676511,2023,3
+0,1,2,1,0,0,1,0,0,0,03/18/2023,home,16340,752,Wash. & Lee,9,True,3,8,-5,loss,2409454,565,2676511,2023,3

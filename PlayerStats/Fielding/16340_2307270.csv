@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,2,0,0,0,02/11/2023,home,16340,30094,Brevard,9,True,3,2,1,win,2390062,44,2307270,2023,3
+0,1,1,0,0,0,0,0,0,0,02/21/2023,home,16340,263,Greensboro,10,True,2,3,-1,loss,2391153,44,2307270,2023,3
+0,1,1,0,0,0,2,1,0,0,03/11/2023,home,16340,752,Wash. & Lee,9,True,2,14,-12,loss,2394717,44,2307270,2023,3

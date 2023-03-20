@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/18/2023,home,16340,1355,Schreiner,9,True,15,1,14,win,2390654,2741,2813425,2023,3
+2,0,2,0,0,0,0,0,0,0,03/17/2023,home,16340,1062,East Tex. Baptist,9,True,5,17,-12,loss,2395925,2741,2813425,2023,3

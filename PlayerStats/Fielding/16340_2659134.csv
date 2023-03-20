@@ -1,0 +1,12 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,2,0,0,0,0,0,0,0,02/19/2023,away,16340,59,Bethany (WV),9,True,2,5,-3,loss,2417856,1163,2659134,2023,3
+2,1,4,1,0,0,0,0,1,0,02/23/2023,away,16340,1434,Waynesburg,9,True,11,10,1,win,2408031,1163,2659134,2023,3
+5,0,5,0,0,0,0,0,0,0,03/01/2023,away,16340,751,Wash. & Jeff.,9,True,7,13,-6,loss,2392554,1163,2659134,2023,3
+5,0,5,0,0,0,0,0,0,0,03/06/2023,neutral,16340,30044,Penn St.-Berks,9,True,10,1,9,win,2393687,1163,2659134,2023,3
+4,0,4,0,0,0,0,0,0,0,03/07/2023,neutral,16340,30190,Penn College,9,True,13,7,6,win,2393821,1163,2659134,2023,3
+1,0,1,0,0,0,0,0,0,0,03/07/2023,neutral,16340,30190,Penn College,9,True,4,9,-5,loss,2407794,1163,2659134,2023,3
+1,0,1,0,0,0,0,0,0,0,03/09/2023,away,16340,30190,Penn College,9,True,4,9,-5,loss,2424904,1163,2659134,2023,3
+3,0,3,0,0,0,0,0,0,0,03/09/2023,neutral,16340,1064,Eastern Nazarene,9,True,5,14,-9,loss,2394137,1163,2659134,2023,3
+5,0,5,0,0,0,0,0,0,0,03/10/2023,neutral,16340,59,Bethany (WV),9,True,7,8,-1,loss,2394275,1163,2659134,2023,3
+4,0,4,0,0,0,0,0,0,0,03/11/2023,home,16340,22626,JWU (Providence),9,True,1,14,-13,loss,2394628,1163,2659134,2023,3
+1,0,2,1,0,0,0,0,0,0,03/16/2023,home,16340,452,Mount Union,9,True,4,25,-21,loss,2395563,1163,2659134,2023,3

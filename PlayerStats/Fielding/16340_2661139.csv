@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/18/2023,neutral,16340,492,North Central (IL),9,True,5,16,-11,loss,2390875,577,2661139,2023,3
+1,1,2,0,0,0,0,0,0,0,02/18/2023,neutral,16340,192,Dubuque,9,True,5,6,-1,loss,2390580,577,2661139,2023,3
+1,0,1,0,0,0,0,0,0,0,02/19/2023,neutral,16340,177,DePauw,9,True,10,11,-1,loss,2390876,577,2661139,2023,3
+1,0,1,0,0,0,0,0,0,0,03/12/2023,neutral,16340,300,Ill. Wesleyan,9,True,1,11,-10,loss,2395212,577,2661139,2023,3
+2,0,2,0,0,0,0,0,0,0,03/13/2023,neutral,16340,218,Eureka,9,True,9,1,8,win,2395252,577,2661139,2023,3
+2,0,2,0,0,0,0,0,0,0,03/15/2023,neutral,16340,724,Merchant Marine,9,True,3,2,1,win,2395635,577,2661139,2023,3
+1,0,1,0,0,0,0,0,0,0,03/17/2023,neutral,16340,724,Merchant Marine,9,True,3,12,-9,loss,2395900,577,2661139,2023,3

@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/03/2023,home,16340,1297,Pacific Lutheran,9,True,3,8,-5,loss,2389715,1179,2805313,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/09/2023,away,16340,341,La Verne,9,True,5,16,-11,loss,2389917,1179,2805313,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/05/2023,away,16340,557,Puget Sound,9,True,7,16,-9,loss,2393088,1179,2805313,2023,3
+0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,03/11/2023,home,16340,1454,Whitworth,9,True,3,2,1,win,2407948,1179,2805313,2023,3

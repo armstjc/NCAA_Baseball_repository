@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,02/26/2023,away,16340,398,MIT,9,True,7,8,-1,loss,2391680,20,2509596,2023,3
+0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/06/2023,away,16340,8746,Southwestern (TX),9,True,0,8,-8,loss,2393733,20,2509596,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2023,away,16340,1400,Texas Lutheran,9,True,1,10,-9,loss,2393936,20,2509596,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2023,away,16340,715,Trinity (TX),9,True,3,4,-1,loss,2394101,20,2509596,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/12/2023,away,16340,784,Wilkes,9,True,7,4,3,win,2407940,20,2509596,2023,3
+1,3,1,0,0,4,1,4,0,0,0,0,1,0,0,0,0,0,0,03/16/2023,home,16340,784,Wilkes,9,True,6,13,-7,loss,2395158,20,2509596,2023,3

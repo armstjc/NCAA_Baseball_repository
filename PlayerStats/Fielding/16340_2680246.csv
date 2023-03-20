@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/04/2023,home,16340,633,Scranton,9,True,1,0,1,win,2408621,27892,2680246,2023,3
+1,0,1,0,0,0,0,0,0,0,03/06/2023,home,16340,564,Ramapo,9,True,9,18,-9,loss,2392780,27892,2680246,2023,3
+2,0,2,0,0,0,0,0,0,0,03/11/2023,neutral,16340,161,Concordia-M'head,9,True,3,2,1,win,2408837,27892,2680246,2023,3
+0,0,2,2,0,0,0,0,0,0,03/13/2023,neutral,16340,1226,Minn.-Morris,9,True,6,11,-5,loss,2408253,27892,2680246,2023,3
+1,0,1,0,0,0,0,0,0,0,03/14/2023,neutral,16340,526,SUNY Oneonta,9,True,0,8,-8,loss,2395360,27892,2680246,2023,3

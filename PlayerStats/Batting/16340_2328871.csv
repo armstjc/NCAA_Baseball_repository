@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/18/2023,away,16340,637,Shenandoah,9,True,2,6,-4,loss,2390642,16142,2328871,2023,3
+0,3,1,0,0,1,0,2,0,0,0,0,1,0,0,0,0,0,0,02/26/2023,neutral,16340,78,SUNY Brockport,9,True,2,0,2,win,2421848,16142,2328871,2023,3
+0,4,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,03/04/2023,neutral,16340,46,Baldwin Wallace,10,True,15,9,6,win,2393068,16142,2328871,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/05/2023,neutral,16340,747,Wabash,9,True,5,2,3,win,2408185,16142,2328871,2023,3
+0,2,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,03/07/2023,neutral,16340,602,Saint John's (MN),11,True,4,3,1,win,2393834,16142,2328871,2023,3
+2,3,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,03/09/2023,neutral,16340,686,Swarthmore,9,True,15,1,14,win,2394181,16142,2328871,2023,3
+0,4,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,03/12/2023,neutral,16340,336,King's (PA),9,True,6,0,6,win,2395098,16142,2328871,2023,3

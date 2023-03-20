@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,03/02/2023,home,16340,2798,Albertus Magnus,9,True,11,0,11,win,2422542,30042,2500105,2023,3
+2,3,1,0,1,3,0,3,0,1,0,0,1,0,0,0,0,0,0,03/07/2023,home,16340,777,Westfield St.,9,True,16,2,14,win,2393760,30042,2500105,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/09/2023,neutral,16340,329,Kean,9,True,14,8,6,win,2394146,30042,2500105,2023,3
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,03/15/2023,neutral,16340,1226,Minn.-Morris,9,True,8,0,8,win,2408825,30042,2500105,2023,3

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,0,5,0,0,0,0,0,0,0,03/04/2023,neutral,16340,321,John Jay,9,True,7,0,7,win,2408412,451,2672569,2023,3
+6,0,6,0,0,0,1,0,0,0,03/05/2023,home,16340,480,CCNY,9,True,10,9,1,win,2423073,451,2672569,2023,3
+3,0,3,0,0,0,0,0,0,0,03/05/2023,home,16340,480,CCNY,9,True,17,3,14,win,2393401,451,2672569,2023,3
+7,1,8,0,0,0,0,1,0,0,03/16/2023,neutral,16340,335,Kenyon,9,True,0,5,-5,loss,2408273,451,2672569,2023,3

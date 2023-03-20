@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,5,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,03/13/2023,neutral,16340,804,Wis.-Superior,9,True,7,8,-1,loss,2395291,795,2518791,2023,3
+0,5,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,03/14/2023,neutral,16340,662,Southern Me.,12,True,4,3,1,win,2395475,795,2518791,2023,3
+1,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/15/2023,neutral,16340,150,Coe,9,True,2,5,-3,loss,2395634,795,2518791,2023,3
+1,4,2,1,0,3,0,1,1,0,0,0,0,0,0,0,0,0,0,03/16/2023,neutral,16340,618,St. Scholastica,9,True,7,0,7,win,2395770,795,2518791,2023,3
+1,4,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,03/18/2023,neutral,16340,787,Wm. Paterson,9,True,9,7,2,win,2396257,795,2518791,2023,3
+0,4,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,03/19/2023,neutral,16340,60,Bethel (MN),9,True,1,0,1,win,2396626,795,2518791,2023,3

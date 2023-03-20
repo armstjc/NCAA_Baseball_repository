@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+7,1,8,0,0,0,0,0,0,0,02/05/2023,away,16340,516,Occidental,9,True,11,5,6,win,2389840,557,2660314,2023,3
+0,1,1,0,0,0,0,0,0,0,02/11/2023,away,16340,89,Caltech,9,True,11,1,10,win,2390028,557,2660314,2023,3
+8,1,9,0,0,0,0,0,1,0,02/19/2023,home,16340,780,Whitman,9,True,4,9,-5,loss,2390865,557,2660314,2023,3
+0,0,0,0,0,0,1,0,0,0,03/05/2023,home,16340,1179,Linfield,9,True,16,7,9,win,2393088,557,2660314,2023,3
+4,0,4,0,0,0,0,0,0,0,03/05/2023,home,16340,1179,Linfield,9,True,7,6,1,win,2408410,557,2660314,2023,3
+7,0,7,0,0,0,0,0,1,0,03/06/2023,home,16340,1179,Linfield,9,True,3,2,1,win,2393522,557,2660314,2023,3
+0,1,1,0,0,0,0,0,0,0,03/11/2023,away,16340,2751,Pacific (OR),9,True,3,4,-1,loss,2394696,557,2660314,2023,3
+0,1,1,0,0,0,0,0,0,0,03/18/2023,home,16340,785,Willamette,9,True,6,4,2,win,2396348,557,2660314,2023,3

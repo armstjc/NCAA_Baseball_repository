@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,02/10/2023,home,16340,424,Millikin,9,True,4,2,2,win,2390004,1062,2336180,2023,3
+1,1,2,0,0,0,3,0,0,0,02/17/2023,neutral,16340,1162,LaGrange,9,True,0,5,-5,loss,2390310,1062,2336180,2023,3
+0,2,2,0,0,0,0,0,0,0,02/24/2023,away,16340,1390,Sul Ross St.,9,True,13,1,12,win,2391503,1062,2336180,2023,3
+0,1,1,0,0,0,1,0,0,0,03/11/2023,home,16340,1400,Texas Lutheran,9,True,4,2,2,win,2394791,1062,2336180,2023,3

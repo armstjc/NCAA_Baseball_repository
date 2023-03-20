@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+6,0,6,0,0,0,0,0,0,0,02/18/2023,home,16340,542,Pfeiffer,9,True,3,1,2,win,2390501,973,2322161,2023,3
+0,0,0,0,0,0,3,0,0,0,02/25/2023,neutral,16340,685,Susquehanna,9,True,9,10,-1,loss,2391685,973,2322161,2023,3
+2,0,2,0,0,0,1,0,0,0,03/04/2023,home,16340,263,Greensboro,9,True,19,9,10,win,2392615,973,2322161,2023,3
+3,0,3,0,0,0,0,0,0,0,03/04/2023,home,16340,263,Greensboro,9,True,5,7,-2,loss,2392916,973,2322161,2023,3
+5,0,5,0,0,0,4,0,0,0,03/18/2023,home,16340,28593,Birmingham-So.,9,True,4,8,-4,loss,2408968,973,2322161,2023,3

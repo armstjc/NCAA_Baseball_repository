@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2023,neutral,16340,238,Framingham St.,8,True,4,5,-1,loss,2395029,330,2311842,2023,3
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/16/2023,neutral,16340,684,Suffolk,9,True,5,14,-9,loss,2395745,330,2311842,2023,3
+0,2,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,03/18/2023,away,16340,570,Rensselaer,9,True,2,11,-9,loss,2396223,330,2311842,2023,3

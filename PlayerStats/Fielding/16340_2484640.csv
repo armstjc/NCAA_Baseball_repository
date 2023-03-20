@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,1,5,0,0,1,0,0,0,0,02/16/2023,home,16340,21,Alma,9,True,14,5,9,win,2390512,412,2484640,2023,3
+4,3,7,0,0,0,0,1,0,0,02/19/2023,home,16340,745,Va. Wesleyan,9,True,3,2,1,win,2391045,412,2484640,2023,3
+5,3,8,0,0,2,0,2,0,0,02/24/2023,home,16340,398,MIT,9,True,11,8,3,win,2391492,412,2484640,2023,3
+6,2,9,1,0,0,1,1,0,0,03/01/2023,neutral,16340,8968,Eastern,9,True,15,5,10,win,2392511,412,2484640,2023,3
+2,0,4,2,1,1,0,0,0,0,03/05/2023,home,16340,44,Averett,9,True,10,4,6,win,2393349,412,2484640,2023,3
+7,1,8,0,0,0,0,0,1,0,03/11/2023,home,16340,21830,Piedmont,9,True,11,7,4,win,2394518,412,2484640,2023,3
+6,1,7,0,0,0,1,1,0,0,03/14/2023,away,16340,1112,Guilford,9,True,6,16,-10,loss,2395407,412,2484640,2023,3
+5,0,5,0,0,0,1,0,0,0,03/18/2023,away,16340,17094,William Peace,9,True,7,9,-2,loss,2395852,412,2484640,2023,3

@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+8,2,10,0,0,0,0,0,1,0,02/25/2023,away,16340,217,Emory,9,True,3,6,-3,loss,2391734,2713,2340232,2023,3
+7,2,9,0,0,0,0,0,2,0,02/25/2023,away,16340,217,Emory,9,True,6,11,-5,loss,2408334,2713,2340232,2023,3
+6,0,6,0,0,0,0,0,0,0,02/26/2023,away,16340,217,Emory,9,True,2,13,-11,loss,2392195,2713,2340232,2023,3
+7,1,9,1,0,0,0,0,2,0,03/04/2023,home,16340,1124,Hendrix,9,True,4,13,-9,loss,2393180,2713,2340232,2023,3
+5,0,5,0,0,0,0,0,0,0,03/04/2023,home,16340,1124,Hendrix,9,True,7,0,7,win,2408618,2713,2340232,2023,3
+12,0,13,1,0,0,0,0,2,0,03/05/2023,home,16340,1124,Hendrix,9,True,1,8,-7,loss,2393547,2713,2340232,2023,3
+1,0,1,0,0,0,0,0,0,0,03/10/2023,home,16340,806,Wittenberg,9,True,6,0,6,win,2394415,2713,2340232,2023,3

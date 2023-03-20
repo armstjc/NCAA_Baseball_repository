@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,2,0,0,0,03/03/2023,away,16340,8981,Endicott,9,True,0,7,-7,loss,2422712,621,2317402,2023,3
+0,0,0,0,0,0,1,0,0,0,03/13/2023,neutral,16340,330,Keene St.,9,True,3,9,-6,loss,2408259,621,2317402,2023,3
+0,2,2,0,0,0,3,1,0,0,03/18/2023,neutral,16340,200,Eastern Conn. St.,9,True,7,16,-9,loss,2425202,621,2317402,2023,3

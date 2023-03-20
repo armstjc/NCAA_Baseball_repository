@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,4,1,0,2,2,0,0,0,02/18/2023,away,16340,747,Wabash,9,True,6,11,-5,loss,2390628,793,2818189,2023,3
+5,0,5,0,0,0,0,0,0,0,03/19/2023,neutral,16340,30029,Purchase,9,True,12,4,8,win,2396618,793,2818189,2023,3

@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,1,0,1,0,02/16/2023,home,16340,21,Alma,9,True,10,3,7,win,2415415,412,2000350,2023,3
+0,1,1,0,0,0,0,1,0,0,02/24/2023,home,16340,398,MIT,9,True,9,2,7,win,2421467,412,2000350,2023,3
+0,0,0,0,0,0,1,0,0,0,03/04/2023,home,16340,139,Chris. Newport,9,True,8,2,6,win,2392922,412,2000350,2023,3
+1,2,3,0,0,0,3,2,0,0,03/11/2023,home,16340,21830,Piedmont,10,True,6,5,1,win,2394189,412,2000350,2023,3
+0,2,2,0,0,0,1,0,0,0,03/18/2023,away,16340,17094,William Peace,9,True,7,9,-2,loss,2395852,412,2000350,2023,3

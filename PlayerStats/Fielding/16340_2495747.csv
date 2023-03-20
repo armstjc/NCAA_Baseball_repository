@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+9,1,10,0,0,0,0,1,0,0,03/10/2023,neutral,16340,662,Southern Me.,9,True,8,4,4,win,2394263,583,2495747,2023,3
+3,1,4,0,0,0,0,1,0,0,03/11/2023,neutral,16340,60,Bethel (MN),9,True,4,8,-4,loss,2394799,583,2495747,2023,3
+7,0,7,0,0,0,0,0,0,0,03/11/2023,neutral,16340,60,Bethel (MN),9,True,4,11,-7,loss,2408252,583,2495747,2023,3
+14,1,15,0,0,0,4,1,0,0,03/12/2023,away,16340,30035,Crown (MN),9,True,6,9,-3,loss,2395034,583,2495747,2023,3
+11,1,12,0,0,0,0,1,0,0,03/14/2023,neutral,16340,564,Ramapo,9,True,1,2,-1,loss,2395497,583,2495747,2023,3
+4,1,5,0,0,2,0,1,0,0,03/15/2023,neutral,16340,313,Ithaca,9,True,5,20,-15,loss,2395604,583,2495747,2023,3
+4,0,4,0,0,0,2,0,0,0,03/16/2023,away,16340,259,Rowan,9,True,1,11,-10,loss,2395731,583,2495747,2023,3
+4,1,5,0,0,0,3,0,0,0,03/17/2023,neutral,16340,787,Wm. Paterson,9,True,4,13,-9,loss,2395940,583,2495747,2023,3

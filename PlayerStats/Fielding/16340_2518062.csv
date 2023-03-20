@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,0,0,0,0,0,02/10/2023,home,16340,0,Brescia,9,True,4,2,2,win,2389958,652,2518062,2023,3
+2,0,2,0,0,0,0,0,0,0,02/11/2023,home,16340,0,Brescia,9,True,7,1,6,win,2390042,652,2518062,2023,3
+2,0,2,0,0,0,0,0,0,0,02/18/2023,home,16340,11538,Fontbonne,10,True,6,5,1,win,2390681,652,2518062,2023,3
+1,0,1,0,0,0,0,0,0,0,03/14/2023,neutral,16340,525,Olivet,9,True,8,2,6,win,2408501,652,2518062,2023,3
+2,0,2,0,0,0,0,0,0,0,03/15/2023,neutral,16340,218,Eureka,9,True,9,1,8,win,2395647,652,2518062,2023,3
+1,0,1,0,0,0,0,0,0,0,03/18/2023,neutral,16340,724,Merchant Marine,9,True,13,3,10,win,2396271,652,2518062,2023,3

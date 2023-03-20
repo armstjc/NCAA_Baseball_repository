@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/23/2023,home,16340,475,SUNY New Paltz,9,True,10,3,7,win,2421351,17094,2659266,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/28/2023,home,16340,374,Lynchburg,9,True,10,11,-1,loss,2392366,17094,2659266,2023,3
+2,5,3,0,0,3,0,3,0,0,0,0,1,0,0,0,1,0,0,03/06/2023,home,16340,30219,Dean,9,True,14,6,8,win,2393673,17094,2659266,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/08/2023,home,16340,1112,Guilford,9,True,5,16,-11,loss,2394037,17094,2659266,2023,3

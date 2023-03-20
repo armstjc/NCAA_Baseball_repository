@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,1,0,0,0,02/10/2023,away,16340,105,Cal Lutheran,11,True,6,7,-1,loss,2389925,21830,2657049,2023,3
+0,1,1,0,0,0,0,0,0,0,02/24/2023,neutral,16340,685,Susquehanna,9,True,6,7,-1,loss,2391346,21830,2657049,2023,3
+0,0,0,0,0,0,3,0,0,0,03/11/2023,away,16340,412,Methodist,9,True,7,11,-4,loss,2394518,21830,2657049,2023,3

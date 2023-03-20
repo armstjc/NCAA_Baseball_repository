@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,1,1,0,0,0,0,0,0,02/26/2023,home,16340,276,Haverford,9,True,17,7,10,win,2421238,319,2353036,2023,3
+3,0,4,1,0,0,0,0,0,0,03/02/2023,away,16340,12884,Centenary (NJ),9,True,17,4,13,win,2392553,319,2353036,2023,3
+2,1,3,0,0,0,0,0,0,0,03/10/2023,away,16340,1468,Mt. St. Mary (NY),9,True,4,8,-4,loss,2421282,319,2353036,2023,3
+0,2,2,0,0,0,0,0,0,0,03/16/2023,away,16340,385,Marietta,9,True,3,5,-2,loss,2396243,319,2353036,2023,3
+1,0,1,0,0,0,0,0,0,0,03/18/2023,neutral,16340,182,Denison,9,True,11,21,-10,loss,2425029,319,2353036,2023,3

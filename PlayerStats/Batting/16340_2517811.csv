@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/27/2023,away,16340,612,Saint Mary's (MN),9,True,2,3,-1,loss,2392323,20220,2517811,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,03/03/2023,neutral,16340,1133,Husson,9,True,14,5,9,win,2392778,20220,2517811,2023,3

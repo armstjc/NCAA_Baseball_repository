@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/03/2023,neutral,16340,1064,Eastern Nazarene,9,True,3,8,-5,loss,2392713,390,2333966,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/03/2023,neutral,16340,1064,Eastern Nazarene,9,True,18,5,13,win,2408606,390,2333966,2023,3
+1,1,1,0,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,03/13/2023,home,16340,200,Eastern Conn. St.,9,True,7,4,3,win,2395284,390,2333966,2023,3
+0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/14/2023,home,16340,75,Bridgewater (VA),9,True,7,3,4,win,2395428,390,2333966,2023,3

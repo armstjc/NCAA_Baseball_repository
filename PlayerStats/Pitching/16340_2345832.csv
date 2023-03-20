@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,0,1,1,4,3,0,7,3,0,0,0,0,2,0,0,0,0,0,0,38,0,0,0,0,0,3,1,0,02/26/2023,away,16340,406,Mercer,9,True,15,4,11,win,2392125,572,2345832,2023,1
 1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,0,0,0,0,0,0,0,17,1,1,0,0,0,4,0,0,03/05/2023,away,16340,746,Virginia,9,True,6,16,-10,loss,2393566,572,2345832,2023,1
+1,0,1.2,0.0,2,2,2,3,0,0,11,7,1,0,0,0,0,1,0,2,0,0,0,38,4,1,0,0,0,3,0,0,03/18/2023,away,16340,756,Washington,9,True,6,12,-6,loss,2425293,572,2345832,2023,1

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,3,1,0,0,0,0,0,0,03/04/2023,neutral,16340,938,Alvernia,9,True,5,17,-12,loss,2393094,582,2682964,2023,3
+2,0,3,1,0,0,0,0,0,0,03/06/2023,neutral,16340,987,Bluffton,9,True,4,12,-8,loss,2408687,582,2682964,2023,3
+1,0,1,0,0,0,0,0,0,0,03/09/2023,neutral,16340,455,Muskingum,9,True,0,15,-15,loss,2394160,582,2682964,2023,3
+2,0,2,0,0,0,0,0,0,0,03/11/2023,neutral,16340,239,Franklin & Marshall,9,True,2,13,-11,loss,2408856,582,2682964,2023,3

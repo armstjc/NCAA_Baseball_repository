@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/18/2023,neutral,16340,192,Dubuque,9,True,1,17,-16,loss,2390578,64,2823656,2023,3
+6,2,8,0,0,0,2,0,0,0,02/26/2023,neutral,16340,212,Elmhurst,10,True,2,1,1,win,2391358,64,2823656,2023,3
+4,1,5,0,0,0,2,0,0,0,03/05/2023,away,16340,953,Austin,9,True,16,3,13,win,2393405,64,2823656,2023,3
+3,0,3,0,0,0,2,0,0,0,03/08/2023,away,16340,2741,Howard Payne,9,True,5,4,1,win,2394047,64,2823656,2023,3
+7,1,8,0,0,0,4,1,0,0,03/15/2023,away,16340,297,Illinois Col.,9,True,0,14,-14,loss,2395400,64,2823656,2023,3

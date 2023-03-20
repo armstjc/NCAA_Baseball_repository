@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,3,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,03/10/2023,neutral,16340,662,Southern Me.,9,True,8,4,4,win,2394263,583,2667855,2023,3
+0,2,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,03/11/2023,neutral,16340,60,Bethel (MN),9,True,4,8,-4,loss,2394799,583,2667855,2023,3
+1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2023,away,16340,30035,Crown (MN),9,True,6,9,-3,loss,2395034,583,2667855,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/14/2023,neutral,16340,564,Ramapo,9,True,1,2,-1,loss,2395497,583,2667855,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/16/2023,away,16340,259,Rowan,9,True,1,11,-10,loss,2395731,583,2667855,2023,3

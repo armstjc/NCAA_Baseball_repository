@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,1,0,0,0,02/24/2023,neutral,16340,373,Lycoming,9,True,15,4,11,win,2391473,686,2682282,2023,3
+0,0,0,0,0,0,1,0,0,0,03/04/2023,away,16340,4,Adrian,9,True,16,13,3,win,2393225,686,2682282,2023,3
+0,1,1,0,0,0,1,0,0,0,03/07/2023,neutral,16340,329,Kean,9,True,4,19,-15,loss,2393812,686,2682282,2023,3
+0,0,0,0,0,0,1,1,0,0,03/12/2023,home,16340,420,Middlebury,9,True,2,9,-7,loss,2407965,686,2682282,2023,3
+0,0,0,0,0,0,1,0,0,0,03/18/2023,home,16340,303,Immaculata,9,True,10,4,6,win,2396278,686,2682282,2023,3

@@ -56,7 +56,7 @@ def get_season_ncaa_baseball_stats(season:int,division:int):
     season_id_arr = roster_df['season_id'].to_list()
     school_id_arr = roster_df['team_id'].to_list()
     len_player_id_arr = len(player_id_arr)
-    count = 8900
+    count = 10900
 
     for i in tqdm(range(count,len_player_id_arr)):
         count += 1

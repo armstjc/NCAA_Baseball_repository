@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/02/2023,away,16340,730,Ursinus,9,True,3,1,2,win,2392596,712,2519227,2023,3
+2,0,2,0,0,0,0,0,0,0,03/04/2023,away,16340,622,Salisbury,9,True,1,2,-1,loss,2393082,712,2519227,2023,3
+1,0,1,0,0,0,0,0,0,0,03/04/2023,away,16340,622,Salisbury,9,True,7,11,-4,loss,2408404,712,2519227,2023,3
+2,0,2,0,0,0,0,0,0,0,03/11/2023,neutral,16340,662,Southern Me.,9,True,8,2,6,win,2394639,712,2519227,2023,3
+4,0,4,0,0,0,0,0,0,0,03/12/2023,neutral,16340,296,Benedictine (IL),9,True,8,11,-3,loss,2395020,712,2519227,2023,3
+3,0,3,0,0,0,0,0,0,0,03/14/2023,neutral,16340,24,Amherst,9,True,3,5,-2,loss,2395381,712,2519227,2023,3
+3,0,3,0,0,0,0,0,0,0,03/14/2023,neutral,16340,24,Amherst,8,True,5,4,1,win,2408426,712,2519227,2023,3
+3,0,3,0,0,0,0,0,0,0,03/16/2023,neutral,16340,496,North Park,9,True,9,3,6,win,2395734,712,2519227,2023,3
+3,0,3,0,0,0,0,0,0,0,03/17/2023,neutral,16340,453,Muhlenberg,9,True,6,7,-1,loss,2395881,712,2519227,2023,3
+1,0,1,0,0,0,0,0,0,0,03/18/2023,neutral,16340,221,FDU-Florham,12,True,4,3,1,win,2396233,712,2519227,2023,3

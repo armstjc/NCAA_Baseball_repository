@@ -10,3 +10,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 3,0,3,0,0,0,0,0,0,0,03/07/2023,home,16340,0,Texas Wesleyan,9,True,9,7,2,win,2393788,699,2347453,2023,1
 1,0,1,0,0,0,0,0,0,0,03/14/2023,home,16340,0,Huston-Tillotson,9,True,3,2,1,win,2395358,699,2347453,2023,1
 1,0,1,0,0,0,0,0,0,0,03/17/2023,away,16340,2678,Ark.-Pine Bluff,10,True,9,7,2,win,2395853,699,2347453,2023,1
+2,0,2,0,0,0,0,0,0,0,03/19/2023,away,16340,2678,Ark.-Pine Bluff,9,True,0,5,-5,loss,2396602,699,2347453,2023,1

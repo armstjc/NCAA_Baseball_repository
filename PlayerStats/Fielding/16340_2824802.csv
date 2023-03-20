@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/17/2023,away,16340,655,Southeastern La.,9,True,4,15,-11,loss,2390441,342,2824802,2023,1
 1,1,2,0,0,0,0,0,0,0,03/04/2023,away,16340,19651,High Point,10,True,11,10,1,win,2407778,342,2824802,2023,1
+0,0,0,0,0,0,1,0,0,0,03/18/2023,away,16340,62,Binghamton,9,True,6,14,-8,loss,2396463,342,2824802,2023,1

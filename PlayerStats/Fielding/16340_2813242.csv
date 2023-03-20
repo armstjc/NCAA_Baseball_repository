@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/03/2023,home,16340,80,Brown,9,True,10,3,7,win,2392904,474,2813242,2023,1
 1,0,1,0,0,0,0,0,0,0,03/11/2023,home,16340,432,Mississippi Val.,9,True,35,3,32,win,2394552,474,2813242,2023,1
+2,0,2,0,0,0,0,0,0,0,03/18/2023,away,16340,703,Texas,9,True,1,15,-14,loss,2396139,474,2813242,2023,1

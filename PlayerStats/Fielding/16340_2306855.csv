@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,1,0,0,0,02/28/2023,away,16340,648,South Carolina,9,True,3,11,-8,loss,2392421,488,2306855,2023,1
 1,0,1,0,0,0,0,0,0,0,03/05/2023,home,16340,774,Western Mich.,9,True,1,10,-9,loss,2393388,488,2306855,2023,1
 0,1,1,0,0,0,0,0,0,0,03/14/2023,away,16340,459,UNC Greensboro,9,True,9,4,5,win,2395485,488,2306855,2023,1
+1,0,1,0,0,0,0,0,1,0,03/18/2023,away,16340,500,Northeastern,9,True,5,3,2,win,2396367,488,2306855,2023,1

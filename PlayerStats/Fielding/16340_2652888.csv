@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/17/2023,away,16340,2711,North Florida,10,True,2,3,-1,loss,2390472,454,2652888,2023,1
 0,1,1,0,0,0,2,0,0,0,03/04/2023,home,16340,505,Northern Ky.,9,True,10,13,-3,loss,2392941,454,2652888,2023,1
+0,1,1,0,0,0,0,0,0,0,03/18/2023,home,16340,661,Southern Ind.,9,True,11,4,7,win,2396477,454,2652888,2023,1

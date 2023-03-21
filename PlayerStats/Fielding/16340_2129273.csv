@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/15/2023,away,16340,1092,Gardner-Webb,12,True,3,4,-1,loss,2395587,400,2129273,2023,1
+8,0,8,0,0,0,0,0,1,0,03/18/2023,away,16340,540,Penn,9,True,3,9,-6,loss,2425246,400,2129273,2023,1
+8,1,9,0,0,0,0,0,0,0,03/18/2023,away,16340,540,Penn,9,True,4,19,-15,loss,2425245,400,2129273,2023,1

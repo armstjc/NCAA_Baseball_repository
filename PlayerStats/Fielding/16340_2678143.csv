@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/03/2023,away,16340,1395,Tarleton St.,9,True,0,19,-19,loss,2392855,553,2678143,2023,1
 2,0,2,0,0,0,3,0,0,0,03/05/2023,away,16340,1395,Tarleton St.,9,True,0,13,-13,loss,2393559,553,2678143,2023,1
+2,0,2,0,0,0,0,0,0,0,03/19/2023,away,16340,17,Alcorn,9,True,16,3,13,win,2396722,553,2678143,2023,1

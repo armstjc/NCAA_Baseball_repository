@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,1,0,02/17/2023,away,16340,541,Pepperdine,9,True,0,9,-9,loss,2390256,67,2660828,2023,1
 0,1,1,0,0,0,0,0,0,0,02/26/2023,neutral,16340,587,Rutgers,9,True,6,4,2,win,2392080,67,2660828,2023,1
 2,0,2,0,0,0,0,0,1,0,03/11/2023,away,16340,742,Virginia Tech,9,True,7,3,4,win,2395112,67,2660828,2023,1
+1,1,2,0,0,0,0,1,0,0,03/21/2023,away,16340,500,Northeastern,9,True,2,6,-4,loss,2396953,67,2660828,2023,1

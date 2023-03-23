@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/05/2023,away,16340,406,Mercer,9,True,5,15,-10,loss,2393613,52,2332674,2023,1
 0,1,1,0,0,0,0,0,0,0,03/10/2023,away,16340,306,Indiana,9,True,7,9,-2,loss,2394420,52,2332674,2023,1
+0,1,1,0,0,0,0,0,0,0,03/21/2023,home,16340,201,Eastern Ill.,9,True,6,14,-8,loss,2396936,52,2332674,2023,1

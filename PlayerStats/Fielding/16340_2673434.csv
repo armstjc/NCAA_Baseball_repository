@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 7,0,7,0,0,0,0,0,0,0,03/18/2023,home,16340,29,Arizona,9,True,7,5,2,win,2396454,110,2673434,2023,1
 6,0,6,0,0,0,0,0,1,0,03/19/2023,home,16340,29,Arizona,9,True,6,4,2,win,2396737,110,2673434,2023,1
+5,1,6,0,0,0,0,0,1,0,03/24/2023,home,16340,756,Washington,9,True,5,1,4,win,2397567,110,2673434,2023,1

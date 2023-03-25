@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/17/2023,away,16340,697,Texas A&M,9,True,2,8,-6,loss,2390449,1356,2805754,2023,1
 1,0,1,0,0,0,3,0,0,0,02/19/2023,away,16340,697,Texas A&M,9,True,2,14,-12,loss,2390983,1356,2805754,2023,1
+0,1,1,0,0,0,0,0,0,0,03/22/2023,away,16340,657,Southern California,9,True,4,9,-5,loss,2397103,1356,2805754,2023,1

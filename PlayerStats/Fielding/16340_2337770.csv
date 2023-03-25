@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,1,0,0,0,03/07/2023,away,16340,718,Tulane,9,True,17,7,10,win,2393941,115,2337770,2023,1
 0,0,0,0,0,0,1,0,0,0,03/14/2023,away,16340,149,Coastal Carolina,9,True,9,12,-3,loss,2395309,115,2337770,2023,1
+0,1,1,0,0,0,1,0,0,0,03/22/2023,neutral,16340,196,East Carolina,9,True,2,1,1,win,2397234,115,2337770,2023,1

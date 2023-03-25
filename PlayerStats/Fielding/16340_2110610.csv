@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,1,1,0,0,03/07/2023,home,16340,702,UT Arlington,9,True,7,8,-1,loss,2393932,698,2110610,2023,1
 1,0,1,0,0,0,0,0,0,0,03/17/2023,away,16340,522,Oklahoma,9,True,13,5,8,win,2396098,698,2110610,2023,1
+0,1,1,0,0,0,0,0,0,0,03/22/2023,home,16340,509,Northwestern,9,True,9,2,7,win,2397225,698,2110610,2023,1

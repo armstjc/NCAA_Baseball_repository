@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,0,0,0,03/08/2023,home,16340,465,UNLV,9,True,8,7,1,win,2394035,522,2491130,2023,1
 0,0,0,0,0,0,1,0,0,0,03/14/2023,away,16340,782,Wichita St.,9,True,2,6,-4,loss,2395504,522,2491130,2023,1
+0,0,0,0,0,0,1,0,0,0,03/21/2023,home,16340,1045,DBU,9,True,6,8,-2,loss,2397073,522,2491130,2023,1

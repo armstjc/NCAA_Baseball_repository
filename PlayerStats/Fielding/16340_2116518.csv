@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/24/2023,away,16340,740,VCU,10,True,7,6,1,win,2391441,590,2116518,2023,1
 1,0,1,0,0,0,0,0,0,0,03/05/2023,away,16340,2915,Wofford,9,True,1,5,-4,loss,2393554,590,2116518,2023,1
+0,0,0,0,0,0,1,0,0,0,03/22/2023,away,16340,67,Boston College,9,True,7,8,-1,loss,2397094,590,2116518,2023,1

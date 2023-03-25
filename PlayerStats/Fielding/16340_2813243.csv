@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,1,0,0,0,02/20/2023,away,16340,631,Santa Clara,9,True,10,7,3,win,2391070,756,2813243,2023,1
 1,0,1,0,0,0,0,0,0,0,03/07/2023,away,16340,551,Portland,9,True,6,2,4,win,2393754,756,2813243,2023,1
+0,0,0,0,0,0,1,0,0,0,03/22/2023,home,16340,718,Tulane,9,True,9,14,-5,loss,2397102,756,2813243,2023,1

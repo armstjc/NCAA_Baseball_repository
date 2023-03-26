@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/07/2023,home,16340,740,VCU,9,True,10,0,10,win,2393904,355,2812084,2023,1
 2,0,2,0,0,0,0,0,0,0,03/22/2023,away,16340,523,Old Dominion,9,True,9,5,4,win,2397082,355,2812084,2023,1
+1,0,1,0,0,0,0,0,0,0,03/24/2023,home,16340,43,Austin Peay,9,True,12,1,11,win,2397288,355,2812084,2023,1
+2,0,2,0,0,0,0,0,0,0,03/25/2023,home,16340,43,Austin Peay,9,True,15,18,-3,loss,2397587,355,2812084,2023,1

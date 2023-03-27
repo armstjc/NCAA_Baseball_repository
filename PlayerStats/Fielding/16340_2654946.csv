@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,02/18/2023,away,16340,363,Longwood,9,True,8,5,3,win,2390756,450,2654946,2023,1
 0,0,0,0,0,0,2,0,0,0,03/03/2023,away,16340,678,Stetson,9,True,0,18,-18,loss,2392645,450,2654946,2023,1
+0,0,0,0,0,0,1,0,0,0,03/26/2023,home,16340,116,Canisius,9,True,6,23,-17,loss,2397336,450,2654946,2023,1

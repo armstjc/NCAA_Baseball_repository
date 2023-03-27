@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/04/2023,home,16340,287,Houston Christian,9,True,9,5,4,win,2408158,2,2678254,2023,1
+0,1,1,0,0,0,0,0,0,0,03/24/2023,home,16340,102,Sacramento St.,9,True,4,8,-4,loss,2397320,2,2678254,2023,1
+1,2,3,0,0,0,0,0,1,0,03/25/2023,home,16340,102,Sacramento St.,9,True,10,0,10,win,2397615,2,2678254,2023,1
+2,0,2,0,0,0,0,0,0,0,03/26/2023,home,16340,102,Sacramento St.,9,True,20,5,15,win,2398054,2,2678254,2023,1

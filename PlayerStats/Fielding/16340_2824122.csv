@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,2,4,0,0,0,0,0,0,0,03/04/2023,home,16340,519,Ohio,9,True,11,3,8,win,2393261,659,2824122,2023,1
 0,0,1,1,0,0,0,0,0,0,03/11/2023,home,16340,334,Kentucky,9,True,2,7,-5,loss,2394845,659,2824122,2023,1
+0,0,0,0,0,0,1,0,0,0,03/26/2023,home,16340,302,UIC,9,True,13,5,8,win,2398281,659,2824122,2023,1

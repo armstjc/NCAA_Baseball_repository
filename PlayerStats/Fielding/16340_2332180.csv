@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/19/2023,home,16340,509,Northwestern,9,True,24,9,15,win,2390914,670,2332180,2023,1
 0,0,0,0,0,0,1,0,0,0,03/05/2023,away,16340,1104,Grand Canyon,9,True,0,11,-11,loss,2393584,670,2332180,2023,1
+1,0,1,0,0,0,0,0,0,0,03/25/2023,away,16340,149,Coastal Carolina,9,True,6,13,-7,loss,2426076,670,2332180,2023,1

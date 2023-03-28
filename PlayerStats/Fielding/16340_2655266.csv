@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,2,0,0,0,03/11/2023,neutral,16340,539,Penn St.,12,True,4,6,-2,loss,2394743,80,2655266,2023,1
 1,1,2,0,0,0,0,0,0,0,03/18/2023,home,16340,81,Bryant,9,True,11,3,8,win,2409258,80,2655266,2023,1
+0,0,0,0,0,0,2,0,0,0,03/26/2023,away,16340,158,Columbia,9,True,14,6,8,win,2397731,80,2655266,2023,1

@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,02/19/2023,home,16340,169,Creighton,9,True,1,5,-4,loss,2391033,402,2828008,2023,1
 14,2,16,0,0,0,0,0,0,0,03/24/2023,home,16340,483,Nicholls,9,True,8,3,5,win,2397345,402,2828008,2023,1
+11,2,13,0,0,0,0,0,2,0,03/25/2023,home,16340,483,Nicholls,12,True,6,8,-2,loss,2397632,402,2828008,2023,1
+6,0,6,0,0,0,0,0,0,0,03/26/2023,home,16340,483,Nicholls,9,True,5,8,-3,loss,2398085,402,2828008,2023,1

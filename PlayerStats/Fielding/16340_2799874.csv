@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,02/22/2023,away,16340,235,Florida,9,True,10,9,1,win,2391204,651,2799874,2023,1
 1,0,1,0,0,0,0,0,0,0,02/26/2023,away,16340,229,Fla. Atlantic,9,True,6,8,-2,loss,2392165,651,2799874,2023,1
+0,1,1,0,0,0,1,0,0,0,03/28/2023,away,16340,61,Bethune-Cookman,9,True,9,3,6,win,2398569,651,2799874,2023,1

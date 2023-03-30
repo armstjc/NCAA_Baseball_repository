@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,4.1,0.0,3,4,4,8,0,0,23,15,0,0,0,0,0,0,0,0,0,0,0,103,5,7,0,0,0,1,0,0,03/10/2023,away,16340,692,Tennessee Tech,9,True,6,5,1,win,2394385,487,2802645,2023,1
 1,1,5.0,0.0,7,3,3,5,2,0,25,20,1,0,0,1,0,0,0,0,0,0,0,113,3,7,0,1,0,1,0,0,03/17/2023,away,16340,1004,Central Ark.,9,True,1,9,-8,loss,2395821,487,2802645,2023,1
+1,0,0.2,0.0,2,3,3,2,2,0,6,4,0,0,0,1,0,0,0,0,0,0,0,26,0,0,0,0,0,4,0,0,03/28/2023,away,16340,37,Auburn,9,True,1,14,-13,loss,2398334,487,2802645,2023,1

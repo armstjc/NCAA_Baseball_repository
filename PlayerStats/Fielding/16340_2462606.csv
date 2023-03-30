@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/26/2023,home,16340,167,Cornell,9,True,12,2,10,win,2397730,813,2462606,2023,1
 2,0,2,0,0,0,0,0,0,0,03/26/2023,home,16340,167,Cornell,9,True,5,7,-2,loss,2409848,813,2462606,2023,1
+2,0,2,0,0,0,0,0,0,0,03/29/2023,home,16340,590,Sacred Heart,14,True,4,3,1,win,2398659,813,2462606,2023,1

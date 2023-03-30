@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/19/2023,neutral,16340,111,UC Riverside,9,True,8,6,2,win,2390888,754,2472098,2023,1
 0,0,0,0,0,0,2,0,0,0,03/18/2023,home,16340,529,Oregon,9,True,8,14,-6,loss,2396495,754,2472098,2023,1
+1,1,2,0,0,0,0,0,1,0,03/29/2023,home,16340,1179,Linfield,9,True,9,1,8,win,2398609,754,2472098,2023,1

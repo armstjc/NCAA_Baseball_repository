@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/18/2023,away,16340,519,Ohio,9,True,8,4,4,win,2420095,746,2799719,2023,1
 0,1,1,0,0,0,0,0,0,0,03/22/2023,home,16340,251,Georgetown,9,True,6,4,2,win,2397112,746,2799719,2023,1
+1,0,1,0,0,0,0,0,0,0,03/28/2023,home,16340,523,Old Dominion,9,True,8,1,7,win,2398337,746,2799719,2023,1

@@ -1,14 +1,14 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Angell, Derek","So","2679202",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2679202",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
-"Bamforth, Nick","Jr",NA,2023,"18","P",NA,621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
+"Bamforth, Nick","Jr","2822414",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2822414",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Banche, Kyle","Jr","2497587",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2497587",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Beatrice, Carl","Sr","2317400",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2317400",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Beninati, TJ","So","2679210",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2679210",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Boucher, Jake","Sr","2317417",2023,"29","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2317417",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Bourgeois, Ryan","Fr","2822408",2023,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2822408",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Consigli, Mason","So","2679208",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2679208",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
-"Dolan, Conor","Jr","2822395",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2822395",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Dolan, James","Jr","2822412",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2822412",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
+"Dolan, Conor","Jr","2822395",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2822395",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Duffy, Alex","So","2679217",2023,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2679217",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Duggan, Owen","Fr","2822391",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2822391",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Erskine, Samuel","Jr","2497585",2023,"19","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2497585",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
@@ -22,7 +22,7 @@
 "Ortega, Brahiam","Sr","2317397",2023,"2","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2317397",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Pare, Brock","Sr","2317402",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2317402",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Sefrino , Jack","Jr","2679207",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2679207",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
-"Simone, Chris","Fr",NA,2023,"3","OF",NA,621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
+"Simone, Chris","Fr","2822394",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2822394",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Smith, Chris","So","2679216",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2679216",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Tucholski, Emerson","Jr","2822417",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2822417",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340
 "Usenia, Jake","Jr","2822354",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=621&stats_player_seq=2822354",621,"Salem St.","/team/621/16340",870,"MASCAC",3,2023,16340

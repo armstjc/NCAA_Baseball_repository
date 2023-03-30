@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Barkus, Andrew","Fr",NA,2023,"40","P",NA,179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
+"Barkus, Andrew","Fr","2820505",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=179&stats_player_seq=2820505",179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
 "Bennett, Liam","Jr","2503087",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=179&stats_player_seq=2503087",179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
 "Bielen, Hank","Sr","2333570",2023,"44","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=179&stats_player_seq=2333570",179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
 "Bright, Bobby","Sr","2333561",2023,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=179&stats_player_seq=2333561",179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
@@ -20,9 +20,10 @@
 "Koch, Nick","Jr","2503090",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=179&stats_player_seq=2503090",179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
 "Martin, Liam","Fr","2820587",2023,"47","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=179&stats_player_seq=2820587",179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
 "Martino , Anthony","Fr","2820531",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=179&stats_player_seq=2820531",179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
+"McClain, Brayden","Fr","2839360",2023,"28","ph/lf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=179&stats_player_seq=2839360",179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
 "McDonnell, Jake","Fr",NA,2023,"30","",NA,179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
 "Mellinger, Tyler","So","2673143",2023,"10","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=179&stats_player_seq=2673143",179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
-"Migliori, Gavin","Fr",NA,2023,"27","OF",NA,179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
+"Migliori, Gavin","Fr","2820558",2023,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=179&stats_player_seq=2820558",179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
 "Miskanic, James","So","2673122",2023,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=179&stats_player_seq=2673122",179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
 "Moore, Dalton","Sr","2673123",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=179&stats_player_seq=2673123",179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340
 "Mulcahey, Ryan","Fr","2820575",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=179&stats_player_seq=2820575",179,"Delaware Valley","/team/179/16340",28745,"MAC Freedom",3,2023,16340

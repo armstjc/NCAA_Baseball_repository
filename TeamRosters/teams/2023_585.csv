@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Borcherding, Brett","Jr","2472916",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2472916",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
-"Brown, Colton","So","2654228",2023,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2654228",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Brown, Jermaine","Jr",NA,2023,"50","INF",NA,585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
+"Brown, Colton","So","2654228",2023,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2654228",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Busboom, Dalton","Jr","2472910",2023,"24","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2472910",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Carr, Zacheus","So","2654231",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2654231",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Christiansen, Ben","Sr","2305452",2023,"33","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2305452",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
@@ -15,10 +15,10 @@
 "Goik, Warren","Fr","2830411",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2830411",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Harris, Brenden","Sr","2305460",2023,"38","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2305460",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Hixon, Ryland","So","2654225",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2654225",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
-"Kelly, Jack","So",NA,2023,"45","1B",NA,585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
-"King, Sam","So",NA,2023,"16","INF",NA,585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
-"Kline, Kade","So","2654237",2023,"30","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2654237",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
+"Kelly, Jack","So","2654241",2023,"45","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2654241",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
+"King, Sam","So","2654201",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2654201",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Kline, Ian","Jr","2472909",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2472909",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
+"Kline, Kade","So","2654237",2023,"30","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2654237",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Krajecki, Andy","Sr","2305475",2023,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2305475",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Lewandowski, Alec","So","2654234",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2654234",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Loyed, Garrett","Jr","2472920",2023,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2472920",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
@@ -36,7 +36,7 @@
 "Rogers, Peter","So","2654227",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2654227",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Rosen, Ari","Jr",NA,2023,"36","P",NA,585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Serdinak, Mark","Fr","2830422",2023,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2830422",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
-"Stenger, Michael","So",NA,2023,"3","C",NA,585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
+"Stenger, Michael","So","2654233",2023,"3","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2654233",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Stieby, Sam","Sr","2305476",2023,"44","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2305476",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "VanDerHulst, Collin","So",NA,2023,"37","P",NA,585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340
 "Wanninger, Isaac","Jr","2472922",2023,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=585&stats_player_seq=2472922",585,"Rose-Hulman","/team/585/16340",9174,"HCAC",3,2023,16340

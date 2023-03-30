@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Berni, Max","So","2671568",2023,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11416&stats_player_seq=2671568",11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
 "Boyd, Julian","Sr","2129065",2023,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11416&stats_player_seq=2129065",11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
-"Caperon, Gino","Jr",NA,2023,"35","OF",NA,11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
+"Caperon, Gino","Jr","2819432",2023,"35","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11416&stats_player_seq=2819432",11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
 "Carrell, Bret","So","2819424",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11416&stats_player_seq=2819424",11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
 "Clontz, Bridger","Fr","2819414",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11416&stats_player_seq=2819414",11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
 "Cosgrove, Bransen","So","2819434",2023,"41","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11416&stats_player_seq=2819434",11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
@@ -23,7 +23,7 @@
 "Hohenstein, Liam","Fr","2819415",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11416&stats_player_seq=2819415",11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
 "Mazzetti, Joey","Jr","2490300",2023,"10","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11416&stats_player_seq=2490300",11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
 "Miller, Kyle","So","2671605",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11416&stats_player_seq=2671605",11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
-"Morris, Brenden","Fr",NA,2023,"30","P",NA,11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
+"Morris, Brenden","Fr","2820254",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11416&stats_player_seq=2820254",11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
 "Nicol, Cade","Jr","2331621",2023,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11416&stats_player_seq=2331621",11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
 "Reckers, David","Jr","2127059",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11416&stats_player_seq=2127059",11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340
 "Renteria, Brent","So","2819454",2023,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11416&stats_player_seq=2819454",11416,"Colorado Mesa","/team/11416/16340",13128,"RMAC",2,2023,16340

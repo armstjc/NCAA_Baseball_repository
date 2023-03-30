@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Baldwin, Izek","Fr","2819994",2023,"39","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2819994",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
 "Beatty, Luke","Sr","2337391",2023,"48","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2337391",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
-"Behrendt, Chad","Fr",NA,2023,"10","INF",NA,59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
+"Behrendt, Chad","Fr","2819935",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2819935",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
 "Bennett, Logan","Jr","2510679",2023,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2510679",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
 "Berg, Alec","Sr","2337387",2023,"23","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2337387",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
 "Berger, Keith","So","2683489",2023,"5","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2683489",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
@@ -10,7 +10,7 @@
 "Connelly, Blake","So","2683444",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2683444",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
 "Cramer, Luke","Fr",NA,2023,"29","P",NA,59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
 "D'Angela, Kyle","Sr","2337388",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2337388",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
-"Dorazio, Patrick","Fr",NA,2023,"1","OF",NA,59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
+"Dorazio, Patrick","Fr","2819913",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2819913",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
 "Fox, Hayden","So","2683501",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2683501",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
 "Gerfen, Riley","Fr",NA,2023,"27","C",NA,59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
 "Henderson, Reece","Fr","2819968",2023,"24","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2819968",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
@@ -34,6 +34,6 @@
 "Speaker, Josh","Jr","2659136",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2659136",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
 "Stoneman, Colton","Sr","2337411",2023,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2337411",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
 "Thomas, Colin","Fr","2819938",2023,"14","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2819938",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
-"Tiano, Ayden","Fr",NA,2023,"32","OF",NA,59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
+"Tiano, Ayden","Fr","2819987",2023,"32","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2819987",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
 "Toothman, Devin","Fr","2819960",2023,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2819960",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340
 "Zupko, Payton","Fr","2819914",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=59&stats_player_seq=2819914",59,"Bethany (WV)","/team/59/16340",907,"PAC",3,2023,16340

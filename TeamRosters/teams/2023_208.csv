@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Abbott, Kyle","Jr","2803573",2023,"26","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2803573",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
+"Abbott, Kyle","Jr","2803573",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2803573",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
 "Andriole, Jake","So","2658829",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2658829",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
 "Ballard, Michael","So","2306810",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2306810",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
 "Boudreau, Sam","So","2306951",2023,"32","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2306951",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
@@ -7,7 +7,7 @@
 "Collier, Cam","Jr","2818780",2023,"9","rf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2818780",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
 "Colon, Gil","So","2306851",2023,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2306851",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
 "Cox, Tyler","Jr","2505059",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2505059",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
-"Ericson, Kyle","Jr","2803575",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2803575",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
+"Ericson, Kyle","Jr","2803575",2023,"26","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2803575",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
 "Fajardo, Jake","So","2658819",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2658819",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
 "Gelwick, Kam","Fr","2803548",2023,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2803548",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
 "Grubbs, Gavin","Jr","2309736",2023,"10","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2309736",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
@@ -27,7 +27,7 @@
 "Stavrakos, Peter","So","2658759",2023,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2658759",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
 "Stipp, Jacob","So","2658823",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2658823",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
 "Stockman, Wil","Fr","2803584",2023,"13","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2803584",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
-"Swartz, Ryan","So",NA,2023,"15","P",NA,208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
+"Swartz, Ryan","So","2658824",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2658824",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
 "Trompke, Alek","Fr","2803608",2023,"30","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2803608",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
 "Vega, Vincent","So",NA,2023,"21","P",NA,208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340
 "Waxler, Ben","Jr","2658827",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=208&stats_player_seq=2658827",208,"Eckerd","/team/208/16340",919,"Sunshine State",2,2023,16340

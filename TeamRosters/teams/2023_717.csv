@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Beindorff, Hunter","Jr",NA,2023,"33","P",NA,717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
+"Beindorff, Hunter","Jr","2834176",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=717&stats_player_seq=2834176",717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
 "Biskupiak, Charlie","Fr",NA,2023,"46","P",NA,717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
 "Bowman, Connor","Sr","2154985",2023,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=717&stats_player_seq=2154985",717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
 "Brala, Connor","Jr","2526879",2023,"26","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=717&stats_player_seq=2526879",717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
@@ -10,7 +10,7 @@
 "Donato, Cole","Fr",NA,2023,"41","P",NA,717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
 "Donato, Matt","Sr","2526878",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=717&stats_player_seq=2526878",717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
 "Duffy, Jackson","Sr","2526880",2023,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=717&stats_player_seq=2526880",717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
-"Edwards, Jack","Fr",NA,2023,"55","P",NA,717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
+"Edwards, Jack","Fr","2834195",2023,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=717&stats_player_seq=2834195",717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
 "Evans, Jimmy","Sr","2526857",2023,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=717&stats_player_seq=2526857",717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
 "Fanning, Patrick","Fr",NA,2023,"43","P",NA,717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
 "Flavin, Connor","Sr","2526882",2023,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=717&stats_player_seq=2526882",717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
@@ -33,5 +33,5 @@
 "Stawiecki, Todd","Jr","2526854",2023,"28","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=717&stats_player_seq=2526854",717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
 "Tucker, Aidan","Jr","2153741",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=717&stats_player_seq=2153741",717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
 "Wells, Justin","Jr","2526877",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=717&stats_player_seq=2526877",717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
-"Whitfield, Malcolm","Fr",NA,2023,"42","UT",NA,717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
+"Whitfield, Malcolm","Fr","2834168",2023,"42","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=717&stats_player_seq=2834168",717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340
 "Wilson, Liam","Jr","2526855",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=717&stats_player_seq=2526855",717,"Tufts","/team/717/16340",12817,"NESCAC",3,2023,16340

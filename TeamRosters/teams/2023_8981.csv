@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Abt, Joe","Fr",NA,2023,"52","INF",NA,8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
+"Abt, Joe","Fr","2817542",2023,"52","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2817542",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
 "Amero, Zach","So","2683134",2023,"17","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2683134",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
 "Bagshaw, Kyan","Fr","2817531",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2817531",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
 "Barbieri, Thomas","Sr","2350969",2023,"5","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2350969",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
@@ -43,7 +43,7 @@
 "Rosado, Jason","So","2683101",2023,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2683101",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
 "Schmautz, Connor","So",NA,2023,"40","P",NA,8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
 "Schwede, Rian","Sr","2350973",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2350973",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
-"Scully, Evan","Fr",NA,2023,"47","P",NA,8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
+"Scully, Evan","Fr","2817534",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2817534",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
 "Shpur, Caleb","Sr","2350970",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2350970",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
 "Stuart, Brady","Fr","2817516",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2817516",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
 "Tarlin, Max","Sr","2145690",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2145690",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
@@ -51,7 +51,7 @@
 "Therrien, Noah","Sr","2350984",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2350984",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
 "Van Emon, Gabe","Sr","2350983",2023,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2350983",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
 "Velez, Vincent","Fr",NA,2023,"56","P",NA,8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
-"Walton, Ryan","Fr",NA,2023,"49","P",NA,8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
+"Walton, Ryan","Fr","2817539",2023,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2817539",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
 "Wang, Tim","Jr","2520877",2023,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2520877",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
 "Wladkowski, Robbie","So","2683103",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2683103",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340
 "Yates, Taylor","Sr","2683143",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8981&stats_player_seq=2683143",8981,"Endicott","/team/8981/16340",839,"CCC",3,2023,16340

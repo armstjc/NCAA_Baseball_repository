@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Aldaz, Jesus","Sr","2344660",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2344660",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Ariza, JC","Sr","2474645",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2474645",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
-"Barrera, Daren","Fr",NA,2023,"50","P",NA,536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
+"Barrera, Daren","Fr","2827840",2023,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2827840",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Behrens, Milo","Jr",NA,2023,"39","C",NA,536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Cabral, Angelo","Jr","2680502",2023,"7","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2680502",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Cain, Montclair","Sr","2349360",2023,"26","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2349360",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
@@ -10,7 +10,7 @@
 "Garcia, Abanny","Sr","2138872",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2138872",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Garza, Randy","So","2349379",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2349379",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Gonzalez, Roberto","Jr","2674499",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2674499",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
-"Gonzalez, Rudy","Fr",NA,2023,"22","C",NA,536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
+"Gonzalez, Rudy","Fr","2827859",2023,"22","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2827859",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Gonzalez, Ruben","Fr","2827838",2023,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2827838",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Havlicek, Alex","Sr","2117844",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2117844",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Lancia, Steven","So","2680601",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2680601",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
@@ -27,8 +27,8 @@
 "Pimentel, Brandon","Sr","2332251",2023,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2332251",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Raygoza, Armani","Fr",NA,2023,"27","INF",NA,536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Rivera, Juan","Fr","2827864",2023,"0","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2827864",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
-"Rodriguez, Damian","Jr","2827865",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2827865",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Rodriguez, Nico","Jr","2306163",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2306163",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
+"Rodriguez, Damian","Jr","2827865",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2827865",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Saenz, Zerek","Sr","2347199",2023,"14","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2347199",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Sanchez, Jacob","Jr","2474646",2023,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2474646",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340
 "Serven, Spencer","Sr","2474659",2023,"33","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=536&stats_player_seq=2474659",536,"UTRGV","/team/536/16340",923,"WAC",1,2023,16340

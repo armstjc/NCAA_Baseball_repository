@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Acla, Joey","Fr",NA,2023,"32","P",NA,272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
+"Acla, Joey","Fr","2806250",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=272&stats_player_seq=2806250",272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
 "Almanzar Jr., Edwin","So","2666488",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=272&stats_player_seq=2666488",272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
 "Alvarez, Michael","So","2806242",2023,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=272&stats_player_seq=2806242",272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
 "Benzinger, Derek","So","2806256",2023,"37","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=272&stats_player_seq=2806256",272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
@@ -25,10 +25,10 @@
 "Melendez, Ryan","Fr","2806221",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=272&stats_player_seq=2806221",272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
 "Mulachy, Teague","So",NA,2023,"15","P",NA,272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
 "Rier, Luke","So","2806223",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=272&stats_player_seq=2806223",272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
-"Rivera, Sabien","Fr",NA,2023,"33","P",NA,272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
 "Rivera, Noah","Sr","1986757",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=272&stats_player_seq=1986757",272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
+"Rivera, Sabien","Fr",NA,2023,"33","P",NA,272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
 "Romatzick, JJ","Fr","2806220",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=272&stats_player_seq=2806220",272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
-"Rose, Matt","Jr",NA,2023,"39","P",NA,272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
+"Rose, Matt","Jr","2806259",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=272&stats_player_seq=2806259",272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
 "Russell, John","Fr",NA,2023,"29","C",NA,272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
 "Santiago, Jake","Jr","2495193",2023,"26","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=272&stats_player_seq=2495193",272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340
 "Smith, Sam","Fr",NA,2023,"34","P",NA,272,"Hartford","/team/272/16340",99000,"DI Independent",1,2023,16340

@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Abele, Cameron","So","2671680",2023,"42","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2671680",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
-"Amato, Evan","Fr",NA,2023,"55","OF",NA,938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
+"Amato, Evan","Fr","2825872",2023,"55","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2825872",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Andrew, Michael","Fr","2825897",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2825897",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Byard, Ryan","Fr","2825898",2023,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2825898",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Canterino, Joe","Fr",NA,2023,"23","OF",NA,938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
@@ -14,7 +14,7 @@
 "Edwards, Matt","So","2667831",2023,"3","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2667831",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Emrich, RJ","Fr","2826408",2023,"44","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2826408",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Faggioni, Thomas","Sr","2350636",2023,"15","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2350636",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
-"Ferraioli, Nick","Fr",NA,2023,"25","P",NA,938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
+"Ferraioli, Nick","Fr","2826423",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2826423",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Ficarro, Nicholas","So","2484565",2023,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2484565",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Fitzgerald, Grant","Fr","2826436",2023,"32","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2826436",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Francis, Derek","Fr",NA,2023,"14","INF",NA,938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
@@ -26,7 +26,6 @@
 "Kelly, Jason","Jr","2505358",2023,"88","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2505358",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Kreider, Josh","So","2668127",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2668127",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Lind, Jason","Jr","2505360",2023,"24","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2505360",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
-"Linsalata, David","Jr","2667881",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2667881",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Mays, Matt","Fr","2826682",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2826682",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Mele, Mike","Fr","2826672",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2826672",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Mortimer, Anthony","So","2668057",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2668057",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
@@ -42,8 +41,8 @@
 "Siegel, Tim","Fr","2826697",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2826697",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Smith, Brandon","Sr","2349696",2023,"13","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2349696",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Solomine, Logan","Fr","2826725",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2826725",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
-"Thomas, Brendan","Fr",NA,2023,"49","P",NA,938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Thomas, Evan","So","2668131",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2668131",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
+"Thomas, Brendan","Fr","2826729",2023,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2826729",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Umans, Jake","So","2668135",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2668135",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Wall, Richard","Jr",NA,2023,"17","OF",NA,938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340
 "Wheeler, Ryan","So","2668142",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=938&stats_player_seq=2668142",938,"Alvernia","/team/938/16340",28744,"MAC Commonwealth",3,2023,16340

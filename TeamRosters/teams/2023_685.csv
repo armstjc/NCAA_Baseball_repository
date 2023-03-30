@@ -1,8 +1,8 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Andersen, Thomas","So","2675080",2023,"51","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2675080",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Bernier, Logan","So","2675065",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2675065",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
-"Biuso, Michael","Jr","2529441",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2529441",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Biuso, Christian","Fr","2816992",2023,"24","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2816992",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
+"Biuso, Michael","Jr","2529441",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2529441",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Book, Lance","Jr","2529442",2023,"7","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2529442",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Cahill, Jack","Fr","2816993",2023,"25","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2816993",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Cangelosi, Robert","Fr","2816974",2023,"77","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2816974",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
@@ -13,7 +13,7 @@
 "Duffie, Teagan","Jr","2519276",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2519276",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Eberly, Camryn","So","2675069",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2675069",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Forscht, Jared","Sr","2327617",2023,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2327617",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
-"Girardi, Michael","Fr",NA,2023,"20","OF",NA,685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
+"Girardi, Michael","Fr","2816990",2023,"20","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2816990",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Greco, Jack","So","2675070",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2675070",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Gregory, Brice","Jr","2529458",2023,"53","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2529458",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Healy, Joseph","So","2675092",2023,"23","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2675092",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
@@ -37,7 +37,7 @@
 "Rossi, Christian","So","2675113",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2675113",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Ruisch, Jesse","Fr","2816994",2023,"26","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2816994",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Sferlazza, A.J.","So","2675104",2023,"47","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2675104",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
-"Shane, Brian","Fr",NA,2023,"37","P",NA,685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
+"Shane, Brian","Fr","2816996",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2816996",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Shiller, Josh","Fr","2816995",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2816995",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Stine, Jason","Jr","2522068",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2522068",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340
 "Stuck, Adam","Jr","2519278",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=685&stats_player_seq=2519278",685,"Susquehanna","/team/685/16340",30101,"Landmark",3,2023,16340

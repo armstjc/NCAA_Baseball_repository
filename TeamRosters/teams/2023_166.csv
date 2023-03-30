@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Anderson, Tylor","So",NA,2023,"59","OF",NA,166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Anderson, Elijah","So",NA,2023,"45","INF",NA,166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
+"Anderson, Tylor","So",NA,2023,"59","OF",NA,166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Beals, Seth","So","2685667",2023,"39","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2685667",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Beckjorden, Noah","Fr",NA,2023,"62","OF",NA,166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Boldt, Alec","Jr","2506327",2023,"37","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2506327",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
@@ -40,9 +40,9 @@
 "Murphy, Keegan","So","2696010",2023,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2696010",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Parrott, Atticus","Jr","2506316",2023,"1","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2506316",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Petersen, Bobby","Sr","2302771",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2302771",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
-"Platre, Niko","So",NA,2023,"63","OF",NA,166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
+"Platre, Niko","So","2811983",2023,"63","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2811983",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Roehl, Garrett","Fr","2811963",2023,"57","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2811963",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
-"Rogers, Jack","Fr",NA,2023,"7","OF",NA,166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
+"Rogers, Jack","Fr","2811940",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2811940",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Rose, Kale","So","2685689",2023,"66","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2685689",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Rosenthal, Aiden","Jr","2506319",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2506319",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Sanders, Ryan","Fr",NA,2023,"65","INF",NA,166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
@@ -60,7 +60,7 @@
 "Whelan, Colin","So","2696734",2023,"64","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2696734",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Williamson, Sam","Jr","2506320",2023,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2506320",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Withers, Max","Fr",NA,2023,"48","P",NA,166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
-"Wright, Paxson","So","2811946",2023,"32","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2811946",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Wright, Preston","Sr","2302800",2023,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2302800",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
+"Wright, Paxson","So","2811946",2023,"32","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2811946",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Zahn, Cody","Jr","2506321",2023,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2506321",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340
 "Zipperer, Vince","So","2690508",2023,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=166&stats_player_seq=2690508",166,"Cornell College","/team/166/16340",23119,"MWC",3,2023,16340

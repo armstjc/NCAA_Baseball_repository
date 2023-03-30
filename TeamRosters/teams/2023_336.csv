@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Acchione, Quin","Fr",NA,2023,"24","INF",NA,336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340
+"Acchione, Quin","Fr","2817752",2023,"24","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=336&stats_player_seq=2817752",336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340
 "Ahlstrom, Gregory","Jr","2501629",2023,"7","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=336&stats_player_seq=2501629",336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340
 "Baiera, Josh","Jr","2501639",2023,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=336&stats_player_seq=2501639",336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340
 "Barry, John","Sr","2346569",2023,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=336&stats_player_seq=2346569",336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340
@@ -12,8 +12,8 @@
 "Desiderio, Frank","So",NA,2023,"36","P",NA,336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340
 "Donovan, Gabriel","So","2817793",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=336&stats_player_seq=2817793",336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340
 "Galimi, Christian","Fr","2817785",2023,"22","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=336&stats_player_seq=2817785",336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340
-"Graham, Blaze","Fr",NA,2023,"41","INF",NA,336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340
 "Graham, Caleb","Jr","2817788",2023,"28","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=336&stats_player_seq=2817788",336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340
+"Graham, Blaze","Fr",NA,2023,"41","INF",NA,336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340
 "Higgins, Jeff","So","2678021",2023,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=336&stats_player_seq=2678021",336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340
 "Hoderewski, Adin","Jr","2345296",2023,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=336&stats_player_seq=2345296",336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340
 "Hronich, Will","Sr","2346543",2023,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=336&stats_player_seq=2346543",336,"King's (PA)","/team/336/16340",28745,"MAC Freedom",3,2023,16340

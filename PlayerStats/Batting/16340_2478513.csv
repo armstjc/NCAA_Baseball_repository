@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/25/2023,home,16340,17,Alcorn,9,True,20,3,17,win,2397539,261,2478513,2023,1
 2,3,2,2,0,4,0,2,0,0,0,0,0,0,0,0,0,0,0,03/26/2023,home,16340,17,Alcorn,9,True,14,6,8,win,2398277,261,2478513,2023,1
+0,2,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,03/28/2023,away,16340,365,LSU,9,True,5,17,-12,loss,2398582,261,2478513,2023,1

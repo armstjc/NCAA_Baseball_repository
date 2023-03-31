@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,03/08/2023,away,16340,1014,Col. of Charleston,9,True,1,2,-1,loss,2393970,363,2479756,2023,1
+0,1,1,0,0,0,0,0,0,0,03/29/2023,home,16340,248,George Mason,9,True,6,13,-7,loss,2398699,363,2479756,2023,1

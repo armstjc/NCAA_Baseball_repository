@@ -1,13 +1,13 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Apodaca, Ricky","Sr","2670902",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2670902",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
 "Badger, Trevyn","Jr","2464245",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2464245",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
-"Bagshaw, Cameron","Jr","2464261",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2464261",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
-"Bagshaw, Bryant","Sr","2671671",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2671671",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
 "Bagshaw, Colton","So","2671995",2023,"21","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2671995",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
+"Bagshaw, Bryant","Sr","2671671",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2671671",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
+"Bagshaw, Cameron","Jr","2464261",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2464261",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
 "Balandran, Noah","Jr","2821585",2023,"27","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2821585",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
 "Bolanos, Anthony","So",NA,2023,"18","OF",NA,30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
 "Breeze, Kaleb","So",NA,2023,"40","1B",NA,30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
-"Bright, Jack","So",NA,2023,"24","P",NA,30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
+"Bright, Jack","So","2671974",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2671974",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
 "Carlson, Tim","So","2346714",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2346714",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
 "Carr, Cameron","Jr","2821549",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2821549",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
 "Collett, Parker","Jr","2464262",2023,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2464262",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
@@ -24,7 +24,7 @@
 "Ludlow, Dalin","So","2671650",2023,"0","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2671650",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
 "Madas, Noah","Fr","2821538",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2821538",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
 "Malone, Matt","Sr","2464238",2023,"20","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2464238",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
-"McKendry, Erick","Fr",NA,2023,"35","P",NA,30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
+"McKendry, Erick","Fr","2821569",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=2821569",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
 "Meldrim, Conner","Fr",NA,2023,"44","P",NA,30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
 "Munos, Kekoa","Fr",NA,2023,"42","OF",NA,30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340
 "Nicholson, Garrett","Sr","1978745",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30125&stats_player_seq=1978745",30125,"Minot St.","/team/30125/16340",12853,"NSIC",2,2023,16340

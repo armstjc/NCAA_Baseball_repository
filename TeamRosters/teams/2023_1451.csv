@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Banfi, Kolton","Jr","2514061",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2514061",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Beach, Derek","So","2692417",2023,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2692417",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
-"Brannagan, Justin","Fr",NA,2023,"37","OF",NA,1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
+"Brannagan, Justin","Fr","2814637",2023,"37","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2814637",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Campbell, Braeden","So","2692057",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2692057",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Chinn, Carter","Jr","2348026",2023,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2348026",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Cooper, Brandon","Sr","2153170",2023,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2153170",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
@@ -24,7 +24,7 @@
 "Miller Jr., Kenneth","So","2680218",2023,"40","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2680218",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Murgenovich, Logan","Jr","2514064",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2514064",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Parker, Dwight","So","2692226",2023,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2692226",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
-"Parsons, Tyler","Fr",NA,2023,"34","P",NA,1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
+"Parsons, Tyler","Fr","2814615",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2814615",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Perry, Anthony","So","2815413",2023,"41","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2815413",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Quahliero, J.A.","Fr",NA,2023,"26","INF",NA,1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Randza, Matthew","Jr","2692227",2023,"2","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2692227",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
@@ -32,11 +32,11 @@
 "Schrader, Seth","Sr","2153096",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2153096",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Sergi, Camden","Fr",NA,2023,"18","P",NA,1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Shimko, Donald","Jr","2522791",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2522791",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
-"Simon, Thomas","Fr",NA,2023,"24","P",NA,1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
+"Simon, Thomas","Fr","2814623",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2814623",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Stellato, Hunter","Sr","2364251",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2364251",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Tomko, Chase","Jr","2514068",2023,"3","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2514068",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Vetter, Cody","So","2696752",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2696752",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
-"Vitale, Nicholas","Fr",NA,2023,"44","C",NA,1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
+"Vitale, Nicholas","Fr","2814617",2023,"44","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2814617",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Vitale, Jake","So","2692228",2023,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2692228",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Vo, Thomas","Fr","2814606",2023,"29","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2814606",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340
 "Walker, Wyatt","So","2814643",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1451&stats_player_seq=2814643",1451,"Westminster (PA)","/team/1451/16340",907,"PAC",3,2023,16340

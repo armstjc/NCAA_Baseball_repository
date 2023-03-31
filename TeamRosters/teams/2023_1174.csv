@@ -1,12 +1,12 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Adams, C.","Sr","2835788",2023,"21","2b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2835788",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Adams, Peter","So","2672496",2023,"17","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2672496",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
+"Adams, C.","Sr","2835788",2023,"21","2b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2835788",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Austin, William","Fr",NA,2023,"47","1B",NA,1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Balsley, Brock","So","2669132",2023,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2669132",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Barozzino, Noah","So","2669166",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2669166",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Berrora, Janniel","Fr","2806885",2023,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2806885",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Blair, Hunter","Sr","2674933",2023,"19","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2674933",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
-"Boltinghouse, Brady","Fr",NA,2023,"15","1B",NA,1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
+"Boltinghouse, Brady","Fr","2806922",2023,"15","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2806922",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Brooks, Chandler","Sr",NA,2023,"42","P",NA,1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Brown, C.","Sr","2832117",2023,"38","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2832117",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Burroughs, Clark","Jr","2669269",2023,"50","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2669269",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
@@ -26,6 +26,7 @@
 "Humphries, Colby","Fr","2806957",2023,"36","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2806957",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Keyes, Tyler","Sr","2669172",2023,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2669172",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Kosco, Cole","Sr","2806955",2023,"24","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2806955",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
+"Kough, Ned","So","2839786",2023,"49","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2839786",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Lombardo, Gianni","Jr","2478062",2023,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2478062",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Love, Noah","So","2806908",2023,"6","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2806908",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "MacCallum, James","Sr","2669285",2023,"20","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2669285",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
@@ -36,6 +37,7 @@
 "O'Malley, Zach","Sr","2806888",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2806888",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Potzner, Hunter","So","2669207",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2669207",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Reel, Peyton","Jr","2669059",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2669059",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
+"Richards, Briggs","Fr","2839999",2023,"42","ph/c","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2839999",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Robertson, Nick","Jr","2669230",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2669230",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Rodriguez, Willy","Sr","2669200",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2669200",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340
 "Rushing, Will","Sr","2669253",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1174&stats_player_seq=2669253",1174,"Limestone","/team/1174/16340",12850,"SAC",2,2023,16340

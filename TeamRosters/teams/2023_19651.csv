@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Ahalt, Brett","So","2658251",2023,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=19651&stats_player_seq=2658251",19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
 "Baker, Christian","Jr",NA,2023,"25","P",NA,19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
-"Burgess, Will","Fr",NA,2023,"48","P",NA,19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
+"Burgess, Will","Fr","2814464",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=19651&stats_player_seq=2814464",19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
 "Carr, Peyton","Jr","2473002",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=19651&stats_player_seq=2473002",19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
 "Chatham, Cael","Sr","2127726",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=19651&stats_player_seq=2127726",19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
 "Cumbee, Xavier","Jr","2814505",2023,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=19651&stats_player_seq=2814505",19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
@@ -33,7 +33,7 @@
 "Simpson, Brayden","Fr","2814548",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=19651&stats_player_seq=2814548",19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
 "Singsank, Cole","Jr","2324598",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=19651&stats_player_seq=2324598",19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
 "Smith, Connor","Sr","2128292",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=19651&stats_player_seq=2128292",19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
-"Snyder, Tristan","Jr",NA,2023,"41","P",NA,19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
+"Snyder, Tristan","Jr","2814550",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=19651&stats_player_seq=2814550",19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
 "Stuart, Adam","Jr","2324650",2023,"20","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=19651&stats_player_seq=2324650",19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
 "Sutton, Blake","Jr","2324633",2023,"3","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=19651&stats_player_seq=2324633",19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340
 "Vaughan, Everett","So","2677791",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=19651&stats_player_seq=2677791",19651,"High Point","/team/19651/16340",826,"Big South",1,2023,16340

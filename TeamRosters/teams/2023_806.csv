@@ -1,4 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
+"Applegate, Q.","Fr","2840103",2023,"36","c","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2840103",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Ash, Ian","Jr","2513579",2023,"27","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2513579",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Bobey, Josh","So","2652720",2023,"26","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2652720",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Bronowski, Michael","Fr","2833315",2023,"6","dh","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2833315",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
@@ -23,8 +24,8 @@
 "MacAuley, James","Fr","2832732",2023,"14","ss","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2832732",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Macy, M.","Fr","2836432",2023,"2","lf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2836432",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Mahon, Kyle","So","2652717",2023,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2652717",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
-"Maynard, Colin","So","2652774",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2652774",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Maynard, Justin","Sr","2329781",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2329781",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
+"Maynard, Colin","So","2652774",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2652774",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Monachino, Maxwell","Sr","2329747",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2329747",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Moore, Matt","Sr","2329799",2023,"30","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2329799",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Moore, Josh","So","2652778",2023,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2652778",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
@@ -37,8 +38,8 @@
 "Raterman, Zach","So",NA,2023,"18","P",NA,806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Rengel, Carson","Sr","2329770",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2329770",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Royer, Rocco","So","2652767",2023,"32","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2652767",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
-"Rust, Andrew","Fr","2836871",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2836871",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Rust, Zach","Fr","2836443",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2836443",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
+"Rust, Andrew","Fr","2836871",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2836871",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Schafer, Charlie","So","2652760",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2652760",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Seibert, Ben","So","2652757",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2652757",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340
 "Thomas, Luke","Jr","2513584",2023,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=806&stats_player_seq=2513584",806,"Wittenberg","/team/806/16340",897,"NCAC",3,2023,16340

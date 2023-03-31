@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Ballard, Carson","Fr",NA,2023,"38","P",NA,255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
 "Baughcum, Brant","Fr","2823230",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823230",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
-"Bogue, Logan","Fr",NA,2023,"50","P",NA,255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
+"Bogue, Logan","Fr","2823260",2023,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823260",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
 "Brosius, Parker","Fr","2823223",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823223",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
 "Brown, Dawson","Jr","2487178",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2487178",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
 "Busse, Terry","So","2823261",2023,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823261",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340

@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Barbarisi, Alex","So","2674373",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=190&stats_player_seq=2674373",190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
 "Bilheimer, Jake","So","2674382",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=190&stats_player_seq=2674382",190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
-"Cacoilo, Benjamin","Fr",NA,2023,"41","C",NA,190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
+"Cacoilo, Benjamin","Fr","2822917",2023,"41","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=190&stats_player_seq=2822917",190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
 "Caggiano, Joseph","Sr","2348511",2023,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=190&stats_player_seq=2348511",190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
 "Cece, Justin","Jr","2516726",2023,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=190&stats_player_seq=2516726",190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
 "Coleman, William","Sr","2353852",2023,"16","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=190&stats_player_seq=2353852",190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
@@ -30,7 +30,7 @@
 "Ruscansky, Connor","So","2674389",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=190&stats_player_seq=2674389",190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
 "Shuman, T.J.","Jr","2675105",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=190&stats_player_seq=2675105",190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
 "Sutaria, Devan","Fr","2822911",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=190&stats_player_seq=2822911",190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
-"Tambasco, Luke","Fr",NA,2023,"20","P",NA,190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
+"Tambasco, Luke","Fr","2822913",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=190&stats_player_seq=2822913",190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
 "Tobia, Chris","Fr","2822916",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=190&stats_player_seq=2822916",190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
 "Weaver, Lewie","Jr","2516727",2023,"27","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=190&stats_player_seq=2516727",190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340
 "Wilkie, Tom","So","2674378",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=190&stats_player_seq=2674378",190,"Drew","/team/190/16340",30101,"Landmark",3,2023,16340

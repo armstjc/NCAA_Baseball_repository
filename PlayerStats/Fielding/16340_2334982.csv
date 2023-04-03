@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/05/2023,away,16340,459,UNC Greensboro,10,True,9,10,-1,loss,2393618,587,2334982,2023,1
+0,0,0,0,0,0,1,0,0,0,03/29/2023,home,16340,471,NJIT,9,True,9,7,2,win,2398596,587,2334982,2023,1
+0,0,0,0,0,0,2,0,0,0,04/01/2023,home,16340,416,Michigan St.,9,True,4,10,-6,loss,2399046,587,2334982,2023,1

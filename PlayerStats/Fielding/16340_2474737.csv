@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/04/2023,away,16340,473,New Mexico,9,True,3,20,-17,loss,2408145,596,2474737,2023,1
 1,0,1,0,0,0,0,0,0,0,03/05/2023,away,16340,473,New Mexico,9,True,6,16,-10,loss,2393352,596,2474737,2023,1
+4,0,4,0,0,0,0,0,0,0,03/31/2023,away,16340,740,VCU,9,True,9,23,-14,loss,2398954,596,2474737,2023,1

@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,2,1,0,0,2,0,0,0,02/17/2023,neutral,16340,432,Mississippi Val.,9,True,5,7,-2,loss,2390316,699,2829467,2023,1
 1,0,1,0,0,0,0,0,0,0,02/25/2023,away,16340,0,Randall,9,True,8,1,7,win,2421898,699,2829467,2023,1
 0,1,1,0,0,0,1,0,0,0,03/14/2023,home,16340,0,Huston-Tillotson,9,True,14,5,9,win,2408424,699,2829467,2023,1
+0,0,1,1,0,0,1,0,0,0,04/01/2023,home,16340,553,Prairie View,9,True,5,10,-5,loss,2399092,699,2829467,2023,1

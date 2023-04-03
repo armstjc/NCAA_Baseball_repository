@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,1,0,0,02/18/2023,away,16340,19651,High Point,9,True,6,7,-1,loss,2390725,81,2465296,2023,1
 1,0,1,0,0,0,0,0,0,0,03/11/2023,away,16340,173,Davidson,9,True,11,1,10,win,2424039,81,2465296,2023,1
+0,0,0,0,0,0,1,0,0,0,04/01/2023,away,16340,62,Binghamton,9,True,6,4,2,win,2427040,81,2465296,2023,1

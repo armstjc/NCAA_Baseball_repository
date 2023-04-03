@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/22/2023,home,16340,140,Cincinnati,9,True,6,19,-13,loss,2397170,812,2301327,2023,1
 0,0,0,0,0,0,1,0,0,0,03/26/2023,away,16340,768,West Virginia,9,True,8,3,5,win,2398032,812,2301327,2023,1
+0,0,1,1,0,0,1,0,0,0,03/31/2023,home,16340,503,NIU,9,True,8,3,5,win,2398789,812,2301327,2023,1

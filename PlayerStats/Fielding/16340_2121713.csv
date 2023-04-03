@@ -4,3 +4,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/03/2023,away,16340,624,Sam Houston,9,True,8,5,3,win,2392642,301,2121713,2023,1
 2,0,2,0,0,0,0,1,0,0,03/10/2023,away,16340,149,Coastal Carolina,9,True,8,16,-8,loss,2394375,301,2121713,2023,1
 1,0,1,0,0,0,1,0,1,0,03/17/2023,neutral,16340,659,Southern Ill.,9,True,3,2,1,win,2395955,301,2121713,2023,1
+1,0,1,0,0,0,0,0,0,0,03/31/2023,home,16340,418,Michigan,9,True,9,12,-3,loss,2398983,301,2121713,2023,1

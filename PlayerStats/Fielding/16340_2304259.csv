@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/18/2023,home,16340,277,Hawaii,9,True,10,3,7,win,2396511,90,2304259,2023,1
+1,0,1,0,0,0,0,0,0,0,04/01/2023,away,16340,99,Long Beach St.,9,True,4,5,-1,loss,2399476,90,2304259,2023,1

@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,03/11/2023,home,16340,0,Dillard,9,True,7,2,5,win,2423899,2678,2347212,2023,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/02/2023,home,16340,261,Grambling,9,True,1,11,-10,loss,2399756,2678,2347212,2023,1

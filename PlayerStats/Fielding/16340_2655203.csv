@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,1,0,0,03/04/2023,home,16340,709,Toledo,9,True,3,13,-10,loss,2392925,419,2655203,2023,1
 0,1,1,0,0,0,0,1,0,0,03/28/2023,neutral,16340,8,Alabama,9,True,4,10,-6,loss,2398422,419,2655203,2023,1
+0,0,1,1,0,0,1,0,0,0,04/02/2023,home,16340,231,FIU,9,True,13,12,1,win,2399726,419,2655203,2023,1

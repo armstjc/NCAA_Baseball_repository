@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,1,0,0,0,0,0,0,18,1,2,0,0,0,4,0,0,02/18/2023,neutral,16340,740,VCU,9,True,3,10,-7,loss,2390622,220,2673808,2023,1
 1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,6,1,0,03/05/2023,away,16340,740,VCU,9,True,3,9,-6,loss,2393552,220,2673808,2023,1
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,1,1,1,0,0,5,0,0,04/04/2023,home,16340,813,Yale,9,True,10,3,7,win,2399942,220,2673808,2023,1

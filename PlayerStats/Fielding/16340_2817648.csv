@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,1,0,1,0,03/19/2023,home,16340,553,Prairie View,9,True,3,16,-13,loss,2396722,17,2817648,2023,1
 0,0,1,1,0,0,0,0,0,0,03/28/2023,home,16340,0,Southeastern Bapt.,9,True,3,2,1,win,2398541,17,2817648,2023,1
 0,1,1,0,0,0,1,0,0,0,04/01/2023,away,16340,665,Southern U.,9,True,15,12,3,win,2399451,17,2817648,2023,1
+1,0,1,0,0,0,2,0,0,0,04/04/2023,neutral,16340,432,Mississippi Val.,9,True,17,20,-3,loss,2400094,17,2817648,2023,1

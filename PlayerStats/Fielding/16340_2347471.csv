@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-7,1,8,0,0,0,3,1,0,0,02/17/2023,neutral,16340,432,Mississippi Val.,9,True,5,7,-2,loss,2390316,699,2347471,2023,1
+8,0,8,0,0,1,0,0,0,0,02/17/2023,away,16340,432,Mississippi Val.,9,True,5,7,-2,loss,2390316,699,2347471,2023,1
 5,0,5,0,0,0,0,0,0,0,02/18/2023,neutral,16340,553,Prairie View,9,True,8,4,4,win,2390587,699,2347471,2023,1
 5,1,6,0,0,0,1,0,0,0,02/19/2023,neutral,16340,665,Southern U.,9,True,1,11,-10,loss,2391064,699,2347471,2023,1
 1,0,1,0,0,0,1,0,0,0,02/21/2023,home,16340,0,Wiley,9,True,10,0,10,win,2421016,699,2347471,2023,1

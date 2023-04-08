@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,02/20/2023,away,16340,483,Nicholls,9,True,2,9,-7,loss,2391075,30136,2341254,2023,2
+0,1,1,0,0,0,0,0,0,0,04/04/2023,away,16340,659,Southern Ill.,9,True,2,14,-12,loss,2400076,30136,2341254,2023,2

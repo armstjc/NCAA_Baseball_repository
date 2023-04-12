@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,1,0,0,0,03/15/2023,away,16340,457,North Carolina,9,True,2,16,-14,loss,2395707,19651,2473000,2023,1
 1,1,2,0,0,0,0,0,0,0,04/01/2023,away,16340,363,Longwood,9,True,2,16,-14,loss,2399069,19651,2473000,2023,1
+1,1,2,0,0,0,0,0,0,0,04/08/2023,away,16340,563,Radford,9,True,8,6,2,win,2428072,19651,2473000,2023,1

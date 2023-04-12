@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,1,0,0,0,03/03/2023,home,16340,702,UT Arlington,9,True,4,5,-1,loss,2392888,508,2480092,2023,1
 1,0,1,0,0,0,0,0,0,0,03/11/2023,home,16340,6,Alabama A&M,9,True,10,0,10,win,2394819,508,2480092,2023,1
 0,0,0,0,0,0,1,0,0,0,04/04/2023,home,16340,366,Louisiana Tech,13,True,8,7,1,win,2400057,508,2480092,2023,1
+0,1,1,0,0,0,0,0,0,0,04/08/2023,home,16340,346,Lamar University,9,True,7,9,-2,loss,2400349,508,2480092,2023,1

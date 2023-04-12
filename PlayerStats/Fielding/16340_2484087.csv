@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 7,0,7,0,0,0,0,0,0,0,02/18/2023,home,16340,381,Manhattan,9,True,9,1,8,win,2390523,678,2484087,2023,1
 0,3,3,0,0,0,0,0,0,0,04/04/2023,home,16340,231,FIU,9,True,6,4,2,win,2400026,678,2484087,2023,1
+0,2,2,0,0,0,0,0,0,0,04/07/2023,away,16340,52,Bellarmine,9,True,3,6,-3,loss,2400244,678,2484087,2023,1
+1,2,3,0,0,0,0,0,0,0,04/08/2023,away,16340,52,Bellarmine,9,True,6,11,-5,loss,2401047,678,2484087,2023,1

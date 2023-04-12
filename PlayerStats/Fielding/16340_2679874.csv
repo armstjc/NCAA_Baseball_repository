@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/26/2023,away,16340,813,Yale,9,True,2,12,-10,loss,2397730,167,2679874,2023,1
 2,0,2,0,0,0,0,0,0,0,04/04/2023,home,16340,313,Ithaca,9,True,13,3,10,win,2399848,167,2679874,2023,1
+2,0,2,0,0,0,0,0,0,0,04/08/2023,home,16340,80,Brown,9,True,0,1,-1,loss,2409533,167,2679874,2023,1
+1,0,1,0,0,0,0,0,0,0,04/09/2023,home,16340,80,Brown,9,True,2,5,-3,loss,2401189,167,2679874,2023,1

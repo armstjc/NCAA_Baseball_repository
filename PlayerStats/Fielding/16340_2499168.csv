@@ -27,3 +27,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,4,4,0,0,0,0,0,1,0,04/02/2023,home,16340,606,Saint Joseph's,9,True,7,2,5,win,2399547,575,2499168,2023,1
 1,2,3,0,0,0,0,0,0,0,04/04/2023,home,16340,317,James Madison,9,True,8,11,-3,loss,2399924,575,2499168,2023,1
 2,0,2,0,0,0,0,0,0,0,04/07/2023,away,16340,249,George Washington,9,True,2,3,-1,loss,2400411,575,2499168,2023,1
+1,2,3,0,0,0,0,0,1,0,04/08/2023,away,16340,249,George Washington,9,True,7,3,4,win,2400780,575,2499168,2023,1
+2,3,5,0,0,0,0,0,1,0,04/09/2023,away,16340,249,George Washington,9,True,13,3,10,win,2401175,575,2499168,2023,1

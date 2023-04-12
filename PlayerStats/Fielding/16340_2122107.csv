@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/21/2023,home,16340,202,Eastern Ky.,9,True,9,3,6,win,2397068,334,2122107,2023,1
+1,1,2,0,0,0,0,0,0,0,04/09/2023,away,16340,257,Georgia,9,True,0,3,-3,loss,2401133,334,2122107,2023,1

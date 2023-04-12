@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,04/01/2023,home,16340,620,St. Thomas (MN),9,True,8,5,3,win,2427019,169,2663899,2023,1
 4,3,7,0,0,0,0,0,2,0,04/02/2023,home,16340,620,St. Thomas (MN),9,True,7,2,5,win,2399645,169,2663899,2023,1
+0,2,2,0,0,0,0,0,0,0,04/06/2023,home,16340,739,Villanova,9,True,6,0,6,win,2400344,169,2663899,2023,1

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,3,0,0,0,0,0,0,0,03/08/2023,home,16340,617,Saint Peter's,9,True,11,0,11,win,2394060,236,2661044,2023,1
 1,0,1,0,0,0,0,0,0,0,03/16/2023,home,16340,342,Lafayette,9,True,11,1,10,win,2395430,236,2661044,2023,1
+0,1,1,0,0,0,0,0,0,0,04/08/2023,home,16340,572,Rhode Island,9,True,1,0,1,win,2400905,236,2661044,2023,1

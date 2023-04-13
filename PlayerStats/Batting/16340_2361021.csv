@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,03/04/2023,away,16340,365,LSU,9,True,4,26,-22,loss,2393221,127,2361021,2023,1
 1,1,1,1,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,03/26/2023,home,16340,485,Norfolk St.,9,True,20,2,18,win,2426204,127,2361021,2023,1
+0,3,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,04/10/2023,neutral,16340,164,UConn,9,True,4,10,-6,loss,2401226,127,2361021,2023,1

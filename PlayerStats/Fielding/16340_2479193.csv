@@ -28,3 +28,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 5,1,6,0,0,0,0,0,0,0,04/07/2023,away,16340,71,Bowling Green,9,True,1,0,1,win,2400378,331,2479193,2023,1
 11,0,11,0,0,0,0,0,1,0,04/08/2023,away,16340,71,Bowling Green,9,True,10,1,9,win,2400749,331,2479193,2023,1
 6,0,6,0,0,0,0,0,1,0,04/09/2023,away,16340,71,Bowling Green,9,True,4,2,2,win,2401169,331,2479193,2023,1
+7,0,7,0,0,0,0,0,0,0,04/11/2023,home,16340,545,Pittsburgh,9,True,5,2,3,win,2401275,331,2479193,2023,1

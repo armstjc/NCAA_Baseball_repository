@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,2,0,0,0,03/12/2023,home,16340,514,Oakland,11,True,12,11,1,win,2395069,661,2303534,2023,2
+0,0,0,0,0,0,1,0,0,0,04/11/2023,home,16340,609,Saint Louis,9,True,11,16,-5,loss,2401505,661,2303534,2023,2

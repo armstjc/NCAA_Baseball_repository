@@ -13,3 +13,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 3,0,3,0,0,0,0,0,0,0,04/04/2023,away,16340,255,Georgia Tech,9,True,7,13,-6,loss,2400072,253,2653242,2023,1
 7,0,7,0,0,1,1,0,0,0,04/06/2023,away,16340,149,Coastal Carolina,9,True,4,10,-6,loss,2400331,253,2653242,2023,1
 9,0,9,0,0,0,0,0,0,0,04/07/2023,away,16340,149,Coastal Carolina,9,True,7,5,2,win,2427910,253,2653242,2023,1
+9,0,10,1,0,0,0,0,0,0,04/12/2023,away,16340,316,Jacksonville,9,True,5,4,1,win,2401510,253,2653242,2023,1

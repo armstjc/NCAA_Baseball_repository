@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/03/2023,home,16340,509,Northwestern,9,True,14,5,9,win,2392877,366,2660300,2023,1
 1,0,1,0,0,0,0,0,0,0,03/14/2023,home,16340,721,Air Force,9,True,5,0,5,win,2395534,366,2660300,2023,1
+1,0,1,0,0,0,0,0,0,0,04/12/2023,home,16340,498,ULM,9,True,5,8,-3,loss,2401666,366,2660300,2023,1

@@ -22,3 +22,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,1,3,1,0,0,0,0,0,0,04/02/2023,away,16340,31,Arkansas,9,True,4,5,-1,loss,2399777,8,2813210,2023,1
 0,1,1,0,0,0,0,0,0,0,04/06/2023,home,16340,430,Mississippi St.,9,True,8,12,-4,loss,2400184,8,2813210,2023,1
 0,1,1,0,0,0,0,0,0,0,04/08/2023,home,16340,430,Mississippi St.,9,True,4,8,-4,loss,2400751,8,2813210,2023,1
+0,1,2,1,0,0,0,0,0,0,04/11/2023,home,16340,664,Southern Miss.,9,True,13,0,13,win,2401273,8,2813210,2023,1

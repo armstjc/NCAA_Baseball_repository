@@ -118,7 +118,7 @@ def get_season_ncaa_baseball_stats(season:int,division:int):
         time.sleep(4)
 
 def main():
-    get_season_ncaa_baseball_stats(2023,1)
+    get_season_ncaa_baseball_stats(2023,0)
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,1,1,0,0,0,0,0,0,03/07/2023,away,16340,423,Millersville,9,True,3,4,-1,loss,2393839,143,2827396,2023,2
+0,0,0,0,0,0,3,1,0,0,03/26/2023,away,16340,307,Indiana (PA),9,True,0,7,-7,loss,2397654,143,2827396,2023,2
+0,1,1,0,0,0,0,0,0,0,04/02/2023,away,16340,408,Mercyhurst,9,True,0,6,-6,loss,2398835,143,2827396,2023,2

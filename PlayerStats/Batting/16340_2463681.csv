@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/12/2023,away,16340,91,Cal Poly Pomona,9,True,7,4,3,win,2390146,155,2463681,2023,2
 0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/18/2023,away,16340,100,Cal State LA,9,True,0,8,-8,loss,2408795,155,2463681,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2023,away,16340,11403,Colo. Christian,9,True,17,3,14,win,2394732,155,2463681,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/19/2023,home,16340,11416,Colorado Mesa,9,True,3,19,-16,loss,2396307,155,2463681,2023,2
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/25/2023,away,16340,2720,CSU Pueblo,9,True,7,4,3,win,2397793,155,2463681,2023,2

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/11/2023,away,16340,1013,Charleston (WV),9,True,3,17,-14,loss,2408245,546,2466312,2023,2
+1,0,1,0,0,0,0,0,0,0,04/04/2023,away,16340,638,Shippensburg,9,True,3,1,2,win,2399955,546,2466312,2023,2
+1,0,1,0,0,0,0,0,0,0,04/11/2023,home,16340,65,Bloomsburg,9,True,4,5,-1,loss,2409900,546,2466312,2023,2

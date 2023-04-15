@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,4,0,0,0,0,0,1,0,02/19/2023,neutral,16340,339,Kutztown,9,True,3,4,-1,loss,2390894,143,2683889,2023,2
 1,1,2,0,0,0,2,0,1,0,02/24/2023,neutral,16340,8956,Dominican (NY),9,True,4,5,-1,loss,2391558,143,2683889,2023,2
+0,2,2,0,0,0,0,0,0,0,03/04/2023,neutral,16340,243,Frostburg St.,9,True,1,9,-8,loss,2423136,143,2683889,2023,2
+1,4,6,1,0,0,0,0,0,0,03/11/2023,neutral,16340,21323,Chestnut Hill,9,True,8,3,5,win,2394742,143,2683889,2023,2
+0,3,3,0,0,0,1,0,0,0,04/08/2023,home,16340,546,Pitt.-Johnstown,9,True,0,1,-1,loss,2401105,143,2683889,2023,2
+0,0,0,0,0,0,3,0,0,0,04/15/2023,away,16340,30063,Seton Hill,9,True,3,12,-9,loss,2402355,143,2683889,2023,2

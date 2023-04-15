@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,03/11/2023,neutral,16340,934,Alderson Broaddus,9,True,15,6,9,win,2394877,143,2827397,2023,2
+0,2,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,03/20/2023,home,16340,0,Penn St.-Gr Allegheny,9,True,2,0,2,win,2425002,143,2827397,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/04/2023,home,16340,65,Bloomsburg,9,True,3,9,-6,loss,2427513,143,2827397,2023,2
+1,1,1,0,0,4,1,2,0,0,0,0,0,0,0,0,0,0,0,04/11/2023,home,16340,12799,Wheeling,9,True,2,19,-17,loss,2401414,143,2827397,2023,2

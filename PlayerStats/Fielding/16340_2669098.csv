@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/12/2023,away,16340,49,Barry,9,True,8,9,-1,loss,2390166,2814,2669098,2023,2
+1,0,1,0,0,0,0,0,0,0,03/25/2023,away,16340,9013,Missouri Western,9,True,6,4,2,win,2397961,2814,2669098,2023,2
+0,0,0,0,0,0,1,0,0,0,04/01/2023,away,16340,130,Central Mo.,9,True,12,9,3,win,2399416,2814,2669098,2023,2

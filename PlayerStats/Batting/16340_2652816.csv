@@ -1,2 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,02/17/2023,neutral,16340,360,Lock Haven,9,True,2,10,-8,loss,2390329,2746,2652816,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/05/2023,away,16340,10870,Shepherd,9,True,3,15,-12,loss,2392728,2746,2652816,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/07/2023,away,16340,537,UNC Pembroke,9,True,2,13,-11,loss,2393793,2746,2652816,2023,2
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,03/19/2023,home,16340,333,Ky. Wesleyan,9,True,0,7,-7,loss,2408994,2746,2652816,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/20/2023,home,16340,333,Ky. Wesleyan,9,True,4,11,-7,loss,2396342,2746,2652816,2023,2
+0,4,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,03/20/2023,home,16340,333,Ky. Wesleyan,9,True,11,9,2,win,2409461,2746,2652816,2023,2

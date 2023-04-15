@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,1,0,0,03/18/2023,home,16340,368,UMass Lowell,9,True,3,2,1,win,2396479,180,2657126,2023,1
 0,2,2,0,0,0,0,1,0,0,04/01/2023,home,16340,1014,Col. of Charleston,9,True,18,2,16,win,2399074,180,2657126,2023,1
 0,3,3,0,0,0,0,0,0,0,04/08/2023,away,16340,500,Northeastern,9,True,0,9,-9,loss,2401036,180,2657126,2023,1
+0,1,1,0,0,0,0,0,0,0,04/12/2023,away,16340,249,George Washington,9,True,8,3,5,win,2401555,180,2657126,2023,1

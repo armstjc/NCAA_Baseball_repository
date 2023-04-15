@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,1,0,0,02/04/2023,away,16340,537,UNC Pembroke,9,True,2,12,-10,loss,2412148,593,2354600,2023,2
 0,1,1,0,0,0,0,0,0,0,02/12/2023,away,16340,1318,Post,9,True,8,15,-7,loss,2390034,593,2354600,2023,2
+0,0,0,0,0,0,2,1,0,0,03/04/2023,neutral,16340,8956,Dominican (NY),9,True,5,4,1,win,2393162,593,2354600,2023,2
+0,1,2,1,0,0,1,0,0,0,03/12/2023,away,16340,36,Assumption,9,True,1,6,-5,loss,2394977,593,2354600,2023,2
+0,1,1,0,0,0,0,0,0,0,03/24/2023,neutral,16340,349,Le Moyne,9,True,4,16,-12,loss,2425913,593,2354600,2023,2
+0,0,0,0,0,0,2,0,0,0,04/02/2023,away,16340,468,Southern N.H.,9,True,5,12,-7,loss,2399217,593,2354600,2023,2
+0,2,2,0,0,0,1,0,0,0,04/12/2023,away,16340,241,Franklin Pierce,9,True,2,10,-8,loss,2428615,593,2354600,2023,2

@@ -1,2 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,3,6,0,0,0,0,0,1,0,03/01/2023,home,16340,0,St. Francis (IL),9,True,15,5,10,win,2392494,354,2653399,2023,2
+1,1,2,0,0,0,0,0,0,0,03/26/2023,away,16340,30138,McKendree,9,True,9,14,-5,loss,2426372,354,2653399,2023,2
+1,1,2,0,0,0,0,0,0,0,04/01/2023,away,16340,395,Maryville (MO),9,True,5,9,-4,loss,2409099,354,2653399,2023,2
+1,2,3,0,0,0,0,0,0,0,04/06/2023,home,16340,30120,William Jewell,9,True,7,2,5,win,2400245,354,2653399,2023,2
+1,1,2,0,0,0,0,0,0,0,04/07/2023,home,16340,30120,William Jewell,9,True,7,6,1,win,2400501,354,2653399,2023,2
+0,1,1,0,0,0,0,0,0,0,04/14/2023,home,16340,1328,Rockhurst,9,True,23,6,17,win,2428759,354,2653399,2023,2
+0,2,2,0,0,0,0,0,0,0,04/15/2023,home,16340,1328,Rockhurst,9,True,8,2,6,win,2402222,354,2653399,2023,2

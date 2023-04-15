@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,1,5,0,0,0,0,0,1,0,02/21/2023,home,16340,0,Southwestern (KS),9,True,12,9,3,win,2391091,30054,2656096,2023,2
 8,1,9,0,0,0,0,0,1,0,03/01/2023,away,16340,8965,East Central,9,True,5,8,-3,loss,2421962,30054,2656096,2023,2
+8,0,8,0,0,0,0,0,1,0,03/07/2023,home,16340,0,Cent. Christian (KS),9,True,13,3,10,win,2393748,30054,2656096,2023,2
+2,0,2,0,0,0,0,0,1,0,04/01/2023,home,16340,507,Northwest Mo. St.,9,True,5,20,-15,loss,2399043,30054,2656096,2023,2
+6,0,6,0,0,0,0,0,1,0,04/04/2023,home,16340,1371,Southeastern Okla.,9,True,23,14,9,win,2399901,30054,2656096,2023,2

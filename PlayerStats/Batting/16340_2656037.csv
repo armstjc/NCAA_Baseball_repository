@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/21/2023,home,16340,0,Southwestern (KS),9,True,12,9,3,win,2391091,30054,2656037,2023,2
+2,4,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,03/07/2023,home,16340,0,Cent. Christian (KS),9,True,13,3,10,win,2393748,30054,2656037,2023,2
+0,4,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,04/05/2023,home,16340,8965,East Central,9,True,10,0,10,win,2427639,30054,2656037,2023,2

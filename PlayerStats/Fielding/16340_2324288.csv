@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/24/2023,away,16340,30002,Trevecca Nazarene,9,True,0,6,-6,loss,2408449,354,2324288,2023,2
+0,0,0,0,0,0,1,0,0,0,03/19/2023,home,16340,30050,Ill. Springfield,9,True,1,12,-11,loss,2395834,354,2324288,2023,2
+0,0,0,0,0,0,1,0,0,0,03/26/2023,away,16340,30138,McKendree,9,True,9,14,-5,loss,2426372,354,2324288,2023,2
+0,1,1,0,0,0,0,0,0,0,04/07/2023,home,16340,30120,William Jewell,9,True,7,6,1,win,2400501,354,2324288,2023,2

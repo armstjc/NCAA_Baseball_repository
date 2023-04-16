@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/19/2023,away,16340,1098,Glenville St.,10,True,13,5,8,win,2390988,384,2484557,2023,2
+0,1,1,0,0,0,1,0,0,0,03/28/2023,away,16340,765,West Chester,9,True,2,5,-3,loss,2410278,384,2484557,2023,2
+0,0,0,0,0,0,4,1,0,0,04/03/2023,home,16340,197,East Stroudsburg,9,True,8,15,-7,loss,2410516,384,2484557,2023,2
+0,1,1,0,0,0,1,0,0,0,04/11/2023,away,16340,643,Slippery Rock,9,True,8,5,3,win,2409901,384,2484557,2023,2

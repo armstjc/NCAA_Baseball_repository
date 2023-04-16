@@ -1,3 +1,6 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2.0,0.0,0,0,0,3,2,0,9,6,0,0,1,0,1,0,1,0,0,0,0,36,4,0,1,0,0,4,1,0,02/02/2023,home,16340,347,Lane,10,True,7,6,1,win,2389638,30045,2481363,2023,2
 1,0,1.0,0.0,2,1,1,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,1,17,0,2,0,0,0,7,0,0,02/21/2023,away,16340,49,Barry,9,True,1,5,-4,loss,2391186,30045,2481363,2023,2
+1,0,0.1,0.0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,4,0,0,03/02/2023,home,16340,36,Assumption,11,True,9,10,-1,loss,2392603,30045,2481363,2023,2
+1,0,1.0,0.0,2,1,1,1,1,0,6,5,2,0,0,0,0,0,0,0,0,0,0,19,0,2,0,0,0,5,0,0,04/01/2023,away,16340,233,Fla. Southern,9,True,9,17,-8,loss,2409153,30045,2481363,2023,2
+1,0,0.1,0.0,0,0,0,2,0,0,4,1,0,0,0,0,1,1,0,0,0,0,0,14,0,1,0,0,0,3,0,0,04/06/2023,home,16340,49,Barry,9,True,9,3,6,win,2400180,30045,2481363,2023,2

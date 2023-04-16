@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,02/18/2023,away,16340,19117,Salem (WV),9,True,4,3,1,win,2390646,1076,2344605,2023,2
+0,1,1,0,0,0,0,0,0,0,03/11/2023,home,16340,468,Southern N.H.,9,True,4,16,-12,loss,2394779,1076,2344605,2023,2
+0,1,1,0,0,0,0,0,1,0,03/20/2023,away,16340,1028,Concord,9,True,3,4,-1,loss,2410449,1076,2344605,2023,2
+0,0,0,0,0,0,1,0,0,0,04/03/2023,away,16340,9630,West Va. Wesleyan,9,True,7,6,1,win,2409159,1076,2344605,2023,2
+0,1,1,0,0,0,0,0,0,0,04/04/2023,away,16340,174,Davis & Elkins,9,True,0,4,-4,loss,2399370,1076,2344605,2023,2

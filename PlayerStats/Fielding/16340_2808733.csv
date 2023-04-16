@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/19/2023,home,16340,413,MSU Denver,9,True,8,14,-6,loss,2390848,1314,2808733,2023,2
+0,1,1,0,0,0,0,0,0,0,03/29/2023,home,16340,435,Missouri S&T,9,True,7,13,-6,loss,2398644,1314,2808733,2023,2
+0,0,0,0,0,0,1,0,0,0,03/31/2023,away,16340,1009,Central Okla.,9,True,16,12,4,win,2399007,1314,2808733,2023,2
+0,1,1,0,0,0,0,0,0,0,04/15/2023,home,16340,130,Central Mo.,9,True,5,9,-4,loss,2402076,1314,2808733,2023,2

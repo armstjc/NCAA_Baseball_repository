@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,2,0,0,0,02/12/2023,away,16340,1071,Emporia St.,10,True,6,7,-1,loss,2390174,30125,2671675,2023,2
 1,0,1,0,0,0,2,1,0,0,02/19/2023,away,16340,30054,Newman,9,True,6,5,1,win,2390927,30125,2671675,2023,2
+0,2,2,0,0,0,5,0,0,0,03/20/2023,neutral,16340,30128,Sioux Falls,9,True,17,4,13,win,2425488,30125,2671675,2023,2
+0,0,0,0,0,0,3,0,0,0,03/27/2023,neutral,16340,383,Minnesota St.,11,True,3,4,-1,loss,2397748,30125,2671675,2023,2
+0,0,1,1,0,0,3,0,0,0,04/07/2023,away,16340,728,Upper Iowa,9,True,7,10,-3,loss,2409957,30125,2671675,2023,2

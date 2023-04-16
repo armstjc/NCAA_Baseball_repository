@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,02/02/2023,away,16340,30045,Palm Beach Atl.,10,True,6,7,-1,loss,2389638,347,2811467,2023,2
 0,0,0,0,0,0,4,0,0,0,02/11/2023,neutral,16340,1376,Southern Ark.,9,True,0,26,-26,loss,2390031,347,2811467,2023,2
+0,0,0,0,0,0,1,0,0,0,02/26/2023,away,16340,13,Albany St. (GA),9,True,1,11,-10,loss,2392041,347,2811467,2023,2
+0,1,1,0,0,0,1,0,0,0,03/27/2023,home,16340,350,LeMoyne-Owen,9,True,7,2,5,win,2410669,347,2811467,2023,2
+0,0,0,0,0,0,1,0,0,0,04/04/2023,neutral,16340,30153,Union (TN),9,True,5,12,-7,loss,2400079,347,2811467,2023,2
+0,0,0,0,0,0,1,0,0,0,04/11/2023,away,16340,1116,Harding,9,True,7,20,-13,loss,2401518,347,2811467,2023,2

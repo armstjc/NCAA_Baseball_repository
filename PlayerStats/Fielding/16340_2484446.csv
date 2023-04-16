@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,1,0,0,02/24/2023,away,16340,1013,Charleston (WV),9,True,5,10,-5,loss,2421413,30119,2484446,2023,2
+0,0,0,0,0,0,3,0,0,0,03/05/2023,neutral,16340,757,Wayne St. (MI),9,True,2,9,-7,loss,2393656,30119,2484446,2023,2
+0,0,0,0,0,0,4,0,0,0,04/11/2023,away,16340,309,UIndy,11,True,23,24,-1,loss,2401370,30119,2484446,2023,2

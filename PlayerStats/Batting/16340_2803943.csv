@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/12/2023,home,16340,30154,Young Harris,9,True,6,20,-14,loss,2390149,30045,2803943,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/17/2023,home,16340,208,Eckerd,9,True,4,14,-10,loss,2395790,30045,2803943,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/18/2023,home,16340,208,Eckerd,9,True,0,21,-21,loss,2425282,30045,2803943,2023,2

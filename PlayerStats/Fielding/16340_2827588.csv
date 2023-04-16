@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/19/2023,away,16340,19117,Salem (WV),9,True,0,7,-7,loss,2390953,1076,2827588,2023,2
 0,1,1,0,0,0,0,0,0,0,02/19/2023,away,16340,19117,Salem (WV),12,True,4,5,-1,loss,2408723,1076,2827588,2023,2
+0,3,3,0,0,0,0,0,0,0,03/04/2023,away,16340,65,Bloomsburg,9,True,7,9,-2,loss,2422909,1076,2827588,2023,2
+1,0,1,0,0,0,0,0,0,0,03/05/2023,away,16340,65,Bloomsburg,9,True,3,9,-6,loss,2423076,1076,2827588,2023,2
+0,2,3,1,0,0,0,0,0,0,03/11/2023,home,16340,468,Southern N.H.,9,True,4,16,-12,loss,2394779,1076,2827588,2023,2
+1,1,2,0,0,0,0,0,0,0,04/04/2023,away,16340,174,Davis & Elkins,9,True,1,8,-7,loss,2409163,1076,2827588,2023,2

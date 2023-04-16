@@ -1,3 +1,10 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,2,0,0,0,02/24/2023,neutral,16340,423,Millersville,9,True,1,8,-7,loss,2391436,408,2658262,2023,2
 0,1,1,0,0,0,0,0,0,0,02/26/2023,neutral,16340,1059,D'Youville,9,True,6,9,-3,loss,2392095,408,2658262,2023,2
+0,0,0,0,0,0,2,0,0,0,03/05/2023,away,16340,19117,Salem (WV),9,True,4,0,4,win,2423173,408,2658262,2023,2
+0,1,1,0,0,0,0,0,0,0,03/06/2023,away,16340,19117,Salem (WV),9,True,9,8,1,win,2393099,408,2658262,2023,2
+1,1,2,0,0,0,1,0,0,0,03/16/2023,home,16340,19117,Salem (WV),9,True,3,2,1,win,2424931,408,2658262,2023,2
+0,0,0,0,0,0,1,0,0,0,03/26/2023,home,16340,643,Slippery Rock,20,True,2,1,1,win,2397638,408,2658262,2023,2
+0,2,2,0,0,0,1,0,0,0,04/02/2023,home,16340,143,Clarion,8,True,4,3,1,win,2410674,408,2658262,2023,2
+2,2,4,0,0,0,2,0,0,0,04/07/2023,away,16340,246,Gannon,9,True,5,3,2,win,2409943,408,2658262,2023,2
+0,1,1,0,0,0,2,1,0,0,04/14/2023,home,16340,546,Pitt.-Johnstown,9,True,2,5,-3,loss,2410199,408,2658262,2023,2

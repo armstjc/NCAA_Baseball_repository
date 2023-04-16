@@ -1,2 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/12/2023,home,16340,30154,Young Harris,9,True,6,20,-14,loss,2390149,30045,2140213,2023,2
+0,0,0,0,0,0,1,0,0,0,03/03/2023,away,16340,24639,Nova Southeastern,9,True,2,10,-8,loss,2392625,30045,2140213,2023,2
+0,0,1,1,0,0,1,0,0,0,03/10/2023,home,16340,22,American Int'l,9,True,16,3,13,win,2394188,30045,2140213,2023,2
+1,0,2,1,0,0,2,0,0,0,03/17/2023,home,16340,208,Eckerd,9,True,4,14,-10,loss,2395790,30045,2140213,2023,2
+0,1,1,0,0,0,0,1,0,0,03/24/2023,away,16340,20794,Lynn,9,True,9,6,3,win,2397439,30045,2140213,2023,2
+0,0,1,1,0,0,0,0,0,0,03/31/2023,away,16340,233,Fla. Southern,9,True,6,16,-10,loss,2398989,30045,2140213,2023,2
+0,0,0,0,0,0,1,0,0,0,04/06/2023,home,16340,49,Barry,9,True,9,3,6,win,2400180,30045,2140213,2023,2
+0,0,0,0,0,0,1,0,0,0,04/15/2023,home,16340,9680,Embry-Riddle (FL),9,True,8,6,2,win,2409493,30045,2140213,2023,2

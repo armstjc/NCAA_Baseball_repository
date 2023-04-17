@@ -1,2 +1,10 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/03/2023,away,16340,1176,Lincoln Memorial,9,True,5,25,-20,loss,2389712,30124,2664349,2023,2
+0,1,1,0,0,0,0,0,0,0,03/10/2023,away,16340,1001,Catawba,9,True,3,5,-2,loss,2394326,30124,2664349,2023,2
+1,0,1,0,0,0,0,0,0,0,03/17/2023,home,16340,510,Northwood,9,True,7,17,-10,loss,2408971,30124,2664349,2023,2
+1,0,1,0,0,0,0,0,0,0,03/22/2023,home,16340,35,Ashland,9,True,4,0,4,win,2425476,30124,2664349,2023,2
+0,1,1,0,0,0,0,0,0,0,04/04/2023,home,16340,332,Kentucky St.,9,True,10,7,3,win,2399816,30124,2664349,2023,2
+0,1,1,0,0,0,1,0,0,0,04/07/2023,away,16340,30119,Ohio Dominican,9,True,6,12,-6,loss,2400540,30124,2664349,2023,2
+3,1,4,0,0,0,0,0,1,0,04/08/2023,away,16340,30119,Ohio Dominican,11,True,9,11,-2,loss,2410601,30124,2664349,2023,2
+1,0,1,0,0,0,0,0,0,0,04/14/2023,home,16340,30002,Trevecca Nazarene,9,True,2,12,-10,loss,2401811,30124,2664349,2023,2
+3,0,3,0,0,0,0,0,0,0,04/15/2023,home,16340,30002,Trevecca Nazarene,10,True,12,14,-2,loss,2409498,30124,2664349,2023,2

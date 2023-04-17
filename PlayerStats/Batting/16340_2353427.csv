@@ -1,2 +1,8 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/26/2023,neutral,16340,1460,Wilmington (DE),9,True,1,12,-11,loss,2392082,241,2353427,2023,2
+1,3,2,1,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,03/04/2023,neutral,16340,1318,Post,9,True,5,4,1,win,2393217,241,2353427,2023,2
+0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/04/2023,neutral,16340,1318,Post,9,True,8,3,5,win,2408667,241,2353427,2023,2
+0,4,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,03/05/2023,neutral,16340,1318,Post,9,True,2,6,-4,loss,2393464,241,2353427,2023,2
+0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/26/2023,home,16340,613,Saint Michael's,9,True,2,1,1,win,2398194,241,2353427,2023,2
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/26/2023,home,16340,613,Saint Michael's,9,True,13,1,12,win,2409721,241,2353427,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/03/2023,away,16340,349,Le Moyne,9,True,5,6,-1,loss,2410684,241,2353427,2023,2

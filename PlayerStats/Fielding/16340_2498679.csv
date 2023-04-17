@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,2,0,0,0,02/03/2023,home,16340,11403,Colo. Christian,10,True,20,20,0,tie,2389709,20794,2498679,2023,2
+0,0,0,0,0,0,1,0,0,0,03/15/2023,home,16340,22,American Int'l,9,True,4,10,-6,loss,2424794,20794,2498679,2023,2
+0,0,0,0,0,0,4,0,0,0,04/14/2023,away,16340,608,Saint Leo,9,True,8,22,-14,loss,2401996,20794,2498679,2023,2

@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,5,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,02/14/2023,home,16340,10,Alabama Huntsville,9,True,5,6,-1,loss,2418446,422,2826235,2023,2
 0,5,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,02/19/2023,away,16340,55,Benedict,9,True,8,9,-1,loss,2390615,422,2826235,2023,2
+0,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/15/2023,away,16340,10,Alabama Huntsville,9,True,6,28,-22,loss,2395398,422,2826235,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/21/2023,home,16340,1238,Montevallo,9,True,1,9,-8,loss,2396926,422,2826235,2023,2
+1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,04/01/2023,home,16340,632,Savannah St.,9,True,13,20,-7,loss,2409011,422,2826235,2023,2

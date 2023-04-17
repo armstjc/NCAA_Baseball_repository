@@ -1,2 +1,7 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,3,1,1,0,1,0,6,6,0,0,0,0,0,0,0,0,0,0,0,19,1,0,0,0,0,2,0,0,02/24/2023,away,16340,1274,Northwest Nazarene,9,True,3,6,-3,loss,2408517,11416,2671334,2023,2
+1,0,1.2,0.0,3,0,0,0,2,0,7,7,0,0,0,0,0,0,0,2,1,0,0,27,2,0,0,0,0,3,0,0,03/04/2023,home,16340,205,Mont. St. Billings,9,True,6,9,-3,loss,2393101,11416,2671334,2023,2
+1,0,2.0,0.0,4,2,2,0,4,0,10,10,0,0,0,1,0,0,0,0,0,0,0,41,1,1,0,0,0,2,1,0,03/13/2023,home,16340,413,MSU Denver,9,True,12,6,6,win,2395071,11416,2671334,2023,2
+1,0,0.2,0.0,0,0,0,1,1,0,4,2,0,0,0,0,0,1,0,0,0,0,0,14,0,1,0,0,0,3,0,0,03/19/2023,away,16340,155,Colo. Sch. of Mines,9,True,5,3,2,win,2409359,11416,2671334,2023,2
+1,0,1.0,0.0,3,2,2,2,1,0,8,6,0,0,0,1,0,0,0,0,0,0,0,33,1,1,0,0,0,3,0,0,04/02/2023,home,16340,568,Regis (CO),11,True,7,6,1,win,2399627,11416,2671334,2023,2
+1,0,1.2,0.0,1,0,0,0,2,0,6,6,0,0,0,0,0,0,0,1,0,0,0,19,1,2,1,0,0,2,1,0,04/07/2023,away,16340,2720,CSU Pueblo,8,True,4,3,1,win,2400535,11416,2671334,2023,2

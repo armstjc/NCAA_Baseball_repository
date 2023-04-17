@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/10/2023,home,16340,984,Bloomfield,9,True,12,3,9,win,2394488,49,2364600,2023,2
+1,0,1,0,0,0,0,0,0,0,03/13/2023,home,16340,1318,Post,9,True,23,7,16,win,2395293,49,2364600,2023,2
+1,0,1,0,0,0,0,0,0,0,04/15/2023,home,16340,230,Florida Tech,9,True,6,3,3,win,2402335,49,2364600,2023,2

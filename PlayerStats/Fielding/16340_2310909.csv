@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,02/24/2023,home,16340,435,Missouri S&T,9,True,3,15,-12,loss,2391380,10,2310909,2023,2
+5,0,5,0,0,0,0,0,0,0,03/15/2023,home,16340,422,Miles,9,True,28,6,22,win,2395398,10,2310909,2023,2

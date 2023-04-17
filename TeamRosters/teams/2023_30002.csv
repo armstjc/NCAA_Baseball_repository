@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Baker, Jake","So",NA,2023,"45","P",NA,30002,"Trevecca Nazarene","/team/30002/16340",30182,"G-MAC",2,2023,16340
+"Baker, Jake","So","2648956",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30002&stats_player_seq=2648956",30002,"Trevecca Nazarene","/team/30002/16340",30182,"G-MAC",2,2023,16340
 "Becker, Andru","Jr","2514225",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30002&stats_player_seq=2514225",30002,"Trevecca Nazarene","/team/30002/16340",30182,"G-MAC",2,2023,16340
 "Bornstein, Braden","Fr",NA,2023,"48","P",NA,30002,"Trevecca Nazarene","/team/30002/16340",30182,"G-MAC",2,2023,16340
 "Burns, Jonathan","So","2648952",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30002&stats_player_seq=2648952",30002,"Trevecca Nazarene","/team/30002/16340",30182,"G-MAC",2,2023,16340
@@ -10,7 +10,7 @@
 "Donkin, Grant","Fr",NA,2023,"32","UT",NA,30002,"Trevecca Nazarene","/team/30002/16340",30182,"G-MAC",2,2023,16340
 "Doughty, Connor","So","2648954",2023,"41","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30002&stats_player_seq=2648954",30002,"Trevecca Nazarene","/team/30002/16340",30182,"G-MAC",2,2023,16340
 "Drebes, Preston","Fr","2812079",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30002&stats_player_seq=2812079",30002,"Trevecca Nazarene","/team/30002/16340",30182,"G-MAC",2,2023,16340
-"Fernandez, Alex","So",NA,2023,"15","INF",NA,30002,"Trevecca Nazarene","/team/30002/16340",30182,"G-MAC",2,2023,16340
+"Fernandez, Alex","So","2648919",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30002&stats_player_seq=2648919",30002,"Trevecca Nazarene","/team/30002/16340",30182,"G-MAC",2,2023,16340
 "Goolsby, Bryant","Sr","2121341",2023,"44","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30002&stats_player_seq=2121341",30002,"Trevecca Nazarene","/team/30002/16340",30182,"G-MAC",2,2023,16340
 "Griffin, Josh","Jr","2811528",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30002&stats_player_seq=2811528",30002,"Trevecca Nazarene","/team/30002/16340",30182,"G-MAC",2,2023,16340
 "Hargrove, Cooper","Fr","2812085",2023,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30002&stats_player_seq=2812085",30002,"Trevecca Nazarene","/team/30002/16340",30182,"G-MAC",2,2023,16340

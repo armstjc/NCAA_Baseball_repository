@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,1,1,0,0,0,0,0,0,03/03/2023,home,16340,584,Rollins,9,True,3,11,-8,loss,2392767,20794,2305445,2023,2
+0,0,0,0,0,0,1,0,0,0,03/11/2023,neutral,16340,470,New Haven,9,True,2,5,-3,loss,2394675,20794,2305445,2023,2
+0,1,1,0,0,0,1,0,0,0,03/18/2023,away,16340,49,Barry,9,True,14,15,-1,loss,2425289,20794,2305445,2023,2
+2,0,2,0,0,0,0,0,0,0,04/06/2023,home,16340,233,Fla. Southern,9,True,5,1,4,win,2400272,20794,2305445,2023,2

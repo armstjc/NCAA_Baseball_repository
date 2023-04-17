@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,4,1,0,0,02/17/2023,away,16340,1257,Newberry,9,True,6,10,-4,loss,2390468,10870,2309944,2023,2
 0,0,0,0,0,0,1,0,0,0,02/24/2023,away,16340,537,UNC Pembroke,9,True,8,7,1,win,2391301,10870,2309944,2023,2
+0,1,1,0,0,0,0,1,0,0,03/04/2023,home,16340,2746,Lake Erie,9,True,9,1,8,win,2422919,10870,2309944,2023,2
+0,0,0,0,0,0,1,1,0,0,03/12/2023,away,16340,197,East Stroudsburg,9,True,2,8,-6,loss,2394581,10870,2309944,2023,2
+0,0,0,0,0,0,2,1,0,0,03/18/2023,home,16340,384,Mansfield,9,True,4,3,1,win,2409378,10870,2309944,2023,2
+0,0,0,0,0,0,2,0,0,0,03/23/2023,home,16340,65,Bloomsburg,9,True,14,12,2,win,2397399,10870,2309944,2023,2

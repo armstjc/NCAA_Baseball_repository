@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,5,1,0,0,0,0,0,0,02/09/2023,away,16340,0,Wilberforce,9,True,13,1,12,win,2412038,144,2660714,2023,2
+8,1,10,1,0,0,0,0,0,0,02/17/2023,home,16340,30191,Spring Hill,9,True,3,14,-11,loss,2390670,144,2660714,2023,2
+8,2,10,0,0,0,0,0,1,0,03/13/2023,away,16340,350,LeMoyne-Owen,9,True,22,6,16,win,2412081,144,2660714,2023,2
+2,0,3,1,0,0,0,0,0,0,03/26/2023,away,16340,445,Morehouse,9,True,6,7,-1,loss,2398082,144,2660714,2023,2
+1,0,1,0,0,0,0,0,0,0,04/07/2023,home,16340,55,Benedict,9,True,17,11,6,win,2428005,144,2660714,2023,2

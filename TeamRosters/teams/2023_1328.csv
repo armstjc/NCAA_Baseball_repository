@@ -1,12 +1,12 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Allen, Sawyer","Fr","2802500",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2802500",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
 "Bennett, Hoyt","Jr","2473919",2023,"22","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2473919",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
-"Bicak, Lucas","Jr",NA,2023,"43","P",NA,1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
+"Bicak, Lucas","Jr","2822129",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2822129",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
 "Canent, Jake","Sr","2529444",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2529444",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
 "Carr, Landon","Fr","2802502",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2802502",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
 "Clerk, Peyton","Fr","2802509",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2802509",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
 "Cross, Mac","Sr","2807675",2023,"41","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2807675",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
-"DeGroote, Tyler","Fr",NA,2023,"5","P",NA,1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
+"DeGroote, Tyler","Fr","2802506",2023,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2802506",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
 "Dockery, Gavyn","Fr","2807667",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2807667",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
 "Evers, Derrick","Jr","2651457",2023,"40","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2651457",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
 "Feucht, Luke","So","2651458",2023,"44","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2651458",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
@@ -24,7 +24,7 @@
 "Medlin, Clayton","Sr","2302417",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2302417",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
 "Miller, Jack","Fr","2807684",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2807684",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
 "Murray, Austin","So","2651444",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2651444",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
-"Owens, Sam","Fr",NA,2023,"16","P",NA,1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
+"Owens, Sam","Fr","2822130",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2822130",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
 "Pender, William","Jr","2473967",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2473967",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
 "Rasmussen, Beckett","Sr","2651449",2023,"19","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1328&stats_player_seq=2651449",1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340
 "Schalf, Luke","Jr",NA,2023,"27","SS",NA,1328,"Rockhurst","/team/1328/16340",855,"GLVC",2,2023,16340

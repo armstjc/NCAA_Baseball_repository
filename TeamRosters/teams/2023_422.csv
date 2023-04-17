@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Allen, Tyler","So","2667580",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2667580",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "Allen, Justin","So","2670758",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2670758",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
+"Allen, Tyler","So","2667580",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2667580",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "Archie, Michael","Jr","2498272",2023,"44","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2498272",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "Caron, Peyton","Sr","2498273",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2498273",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "Davenport, Max","Sr","2667591",2023,"20","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2667591",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
@@ -26,6 +26,7 @@
 "Lindsey, J.","N/A","2818851",2023,"15","rf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2818851",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "McClammy, M.","N/A","2816394",2023,"6","2b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2816394",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "McKinney, J.","N/A","2816395",2023,"10","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2816395",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
+"Michael, I.","N/A","2841043",2023,"44","cf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2841043",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "Norris, Cooper","Jr","2131777",2023,"45","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2131777",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "Orr, Clifton","Sr","2498274",2023,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2498274",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "Owen, James","Jr","2333405",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2333405",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
@@ -37,8 +38,8 @@
 "Riley, John","Sr","2676737",2023,"9","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2676737",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "Rutledge, T.","N/A","2816398",2023,"9","cf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2816398",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "Shackleford, Drew","So","2670734",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2670734",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
-"Smith, Hunter","So","2683378",2023,"16","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2683378",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "Smith, J.","Fr","2821126",2023,"19","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2821126",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
+"Smith, Hunter","So","2683378",2023,"16","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2683378",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "Spruill, T.","N/A","2816439",2023,"4","dh","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2816439",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "Walden, Tahj","Fr","2839379",2023,"99","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2839379",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340
 "Watts, L.","N/A","2816422",2023,"17","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=422&stats_player_seq=2816422",422,"Miles","/team/422/16340",913,"SIAC",2,2023,16340

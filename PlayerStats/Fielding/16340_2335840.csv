@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/10/2023,away,16340,1170,Lenoir-Rhyne,9,True,2,3,-1,loss,2417895,30050,2335840,2023,2
+0,1,1,0,0,0,1,1,0,0,03/25/2023,home,16340,309,UIndy,9,True,11,10,1,win,2397703,30050,2335840,2023,2
+1,0,1,0,0,0,1,0,0,0,04/01/2023,home,16340,561,Quincy,9,True,9,3,6,win,2399293,30050,2335840,2023,2
+0,1,1,0,0,0,2,2,0,0,04/06/2023,away,16340,30138,McKendree,9,True,12,8,4,win,2400242,30050,2335840,2023,2

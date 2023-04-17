@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Baker, Kyle","Sr","2666570",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1257&stats_player_seq=2666570",1257,"Newberry","/team/1257/16340",12850,"SAC",2,2023,16340
-"Barnett, Ryan","Fr",NA,2023,"47","P",NA,1257,"Newberry","/team/1257/16340",12850,"SAC",2,2023,16340
+"Barnett, Ryan","Fr","2817575",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1257&stats_player_seq=2817575",1257,"Newberry","/team/1257/16340",12850,"SAC",2,2023,16340
 "Bledsoe, Logan","So","2666592",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1257&stats_player_seq=2666592",1257,"Newberry","/team/1257/16340",12850,"SAC",2,2023,16340
 "Brooks, Brad","So","2666572",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1257&stats_player_seq=2666572",1257,"Newberry","/team/1257/16340",12850,"SAC",2,2023,16340
 "Brown, Rylan","Jr","2666584",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1257&stats_player_seq=2666584",1257,"Newberry","/team/1257/16340",12850,"SAC",2,2023,16340
@@ -44,6 +44,6 @@
 "Testerman, Trevor","Fr","2817580",2023,"42","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1257&stats_player_seq=2817580",1257,"Newberry","/team/1257/16340",12850,"SAC",2,2023,16340
 "Tuck, Tyler","Jr","2666612",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1257&stats_player_seq=2666612",1257,"Newberry","/team/1257/16340",12850,"SAC",2,2023,16340
 "Velez, Jonathan","So","2666453",2023,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1257&stats_player_seq=2666453",1257,"Newberry","/team/1257/16340",12850,"SAC",2,2023,16340
-"White, Johnathan","Jr","2502419",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1257&stats_player_seq=2502419",1257,"Newberry","/team/1257/16340",12850,"SAC",2,2023,16340
 "White, Luke","Fr","2817536",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1257&stats_player_seq=2817536",1257,"Newberry","/team/1257/16340",12850,"SAC",2,2023,16340
+"White, Johnathan","Jr","2502419",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1257&stats_player_seq=2502419",1257,"Newberry","/team/1257/16340",12850,"SAC",2,2023,16340
 "Winter, Brody","Fr","2817377",2023,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1257&stats_player_seq=2817377",1257,"Newberry","/team/1257/16340",12850,"SAC",2,2023,16340

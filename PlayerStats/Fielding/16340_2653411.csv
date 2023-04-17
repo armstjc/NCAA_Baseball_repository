@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,02/13/2023,home,16340,2814,Washburn,9,True,3,18,-15,loss,2390191,20794,2653411,2023,2
+0,1,2,1,0,0,0,0,0,0,03/15/2023,home,16340,22,American Int'l,9,True,4,10,-6,loss,2424794,20794,2653411,2023,2

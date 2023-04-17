@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,03/11/2023,home,16340,30147,Fresno Pacific,9,True,8,0,8,win,2424051,30220,2522923,2023,2
+0,0,0,0,0,0,1,0,0,0,03/18/2023,home,16340,30149,Point Loma,9,True,11,13,-2,loss,2396184,30220,2522923,2023,2
+0,0,0,0,0,0,3,0,0,0,03/20/2023,away,16340,30149,Point Loma,9,True,2,4,-2,loss,2396838,30220,2522923,2023,2
+0,1,1,0,0,0,1,0,0,0,04/15/2023,away,16340,30146,Azusa Pacific,11,True,5,6,-1,loss,2402343,30220,2522923,2023,2

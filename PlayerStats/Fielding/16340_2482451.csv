@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/11/2023,away,16340,11416,Colorado Mesa,9,True,3,6,-3,loss,2390037,30146,2482451,2023,2
 0,0,1,1,0,0,0,0,0,0,02/18/2023,away,16340,30220,Biola,14,True,5,4,1,win,2390611,30146,2482451,2023,2
+1,1,2,0,0,0,0,0,0,0,03/18/2023,home,16340,30175,Holy Names,9,True,4,0,4,win,2391774,30146,2482451,2023,2
+2,1,3,0,0,0,1,0,0,0,03/24/2023,home,16340,30147,Fresno Pacific,9,True,3,2,1,win,2410355,30146,2482451,2023,2
+1,0,1,0,0,0,0,0,0,0,03/31/2023,home,16340,30149,Point Loma,10,True,7,5,2,win,2398842,30146,2482451,2023,2
+0,2,2,0,0,0,0,1,0,0,04/08/2023,home,16340,30199,CUI,9,True,3,6,-3,loss,2401084,30146,2482451,2023,2

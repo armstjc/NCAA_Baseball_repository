@@ -1,3 +1,8 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,1,1,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,02/04/2023,home,16340,30105,Ark.-Fort Smith,9,True,3,10,-7,loss,2389788,1289,2668969,2023,2
 0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,02/28/2023,away,16340,1116,Harding,9,True,6,4,2,win,2392390,1289,2668969,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/17/2023,away,16340,8965,East Central,9,True,13,3,10,win,2395933,1289,2668969,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/18/2023,away,16340,8965,East Central,9,True,14,2,12,win,2409455,1289,2668969,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/28/2023,away,16340,1015,Christian Brothers,9,True,13,0,13,win,2398428,1289,2668969,2023,2
+0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,04/04/2023,home,16340,0,Williams Baptist,9,True,9,3,6,win,2409403,1289,2668969,2023,2
+0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,04/10/2023,neutral,16340,1123,Henderson St.,9,True,13,4,9,win,2428382,1289,2668969,2023,2

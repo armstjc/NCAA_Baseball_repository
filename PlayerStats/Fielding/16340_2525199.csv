@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,1,0,0,02/04/2023,home,16340,445,Morehouse,9,True,7,9,-2,loss,2389750,144,2525199,2023,2
+0,1,1,0,0,0,3,0,0,0,02/18/2023,home,16340,30191,Spring Hill,9,True,3,9,-6,loss,2407919,144,2525199,2023,2
+0,0,0,0,0,0,2,0,0,0,02/21/2023,home,16340,0,Stillman,9,True,8,22,-14,loss,2412080,144,2525199,2023,2
+0,1,1,0,0,0,3,0,0,0,04/01/2023,away,16340,13,Albany St. (GA),9,True,0,17,-17,loss,2410165,144,2525199,2023,2

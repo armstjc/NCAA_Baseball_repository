@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/10/2023,neutral,16340,1348,St. Thomas Aquinas,10,True,8,7,1,win,2394332,3,2469166,2023,2
+1,0,1,0,0,0,0,0,0,0,03/15/2023,neutral,16340,470,New Haven,9,True,4,23,-19,loss,2395632,3,2469166,2023,2
+6,0,6,0,0,0,0,0,0,0,03/15/2023,neutral,16340,1277,Alliance,9,True,18,7,11,win,2395714,3,2469166,2023,2
+7,0,7,0,0,0,0,0,0,0,03/29/2023,home,16340,8956,Dominican (NY),9,True,8,13,-5,loss,2398662,3,2469166,2023,2
+1,0,1,0,0,0,0,0,0,0,04/02/2023,home,16340,1347,Saint Rose,9,True,14,3,11,win,2399652,3,2469166,2023,2
+7,0,7,0,0,0,0,0,0,0,04/04/2023,home,16340,543,Jefferson,9,True,3,5,-2,loss,2399972,3,2469166,2023,2
+3,0,4,1,0,0,0,0,0,0,04/13/2023,away,16340,8956,Dominican (NY),10,True,17,7,10,win,2401704,3,2469166,2023,2

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,2,3,0,0,0,0,0,0,0,03/05/2023,neutral,16340,174,Davis & Elkins,9,True,16,2,14,win,2393411,27854,2659580,2023,2
+1,0,3,2,0,0,0,0,0,0,03/09/2023,neutral,16340,1460,Wilmington (DE),9,True,1,11,-10,loss,2394151,27854,2659580,2023,2
+1,1,2,0,0,0,0,0,0,0,03/09/2023,neutral,16340,591,Saginaw Valley,9,True,2,6,-4,loss,2394122,27854,2659580,2023,2
+1,1,2,0,0,0,0,0,0,0,03/19/2023,neutral,16340,1433,Wayne St. (NE),9,True,21,5,16,win,2408987,27854,2659580,2023,2

@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/12/2023,away,16340,30054,Newman,9,True,10,6,4,win,2394922,9013,2654710,2023,2
+2,0,2,0,0,0,0,0,0,0,03/17/2023,away,16340,30180,Rogers St.,9,True,15,12,3,win,2395916,9013,2654710,2023,2
+3,0,3,0,0,0,0,0,0,0,03/18/2023,away,16340,30180,Rogers St.,9,True,8,9,-1,loss,2396442,9013,2654710,2023,2
+2,0,2,0,0,0,0,0,0,0,03/19/2023,away,16340,30180,Rogers St.,9,True,4,5,-1,loss,2396721,9013,2654710,2023,2
+3,0,3,0,0,0,0,0,0,0,03/21/2023,away,16340,30120,William Jewell,9,True,4,8,-4,loss,2397022,9013,2654710,2023,2
+2,0,2,0,0,0,0,0,0,0,03/22/2023,home,16340,395,Maryville (MO),9,True,7,12,-5,loss,2397179,9013,2654710,2023,2

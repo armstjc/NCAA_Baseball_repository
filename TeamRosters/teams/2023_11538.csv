@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Andrews, Jack","Fr",NA,2023,"14","P",NA,11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
-"Argent, Ian","So",NA,2023,"31","P",NA,11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
+"Argent, Ian","So","2678988",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2678988",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Baum , Brady","Jr",NA,2023,"49","OF",NA,11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Bisig, Ben","So","2816307",2023,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2816307",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Blumer, Chase","So","2679064",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2679064",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
@@ -16,25 +16,25 @@
 "Gutjhar, Nolan","Sr","2679068",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2679068",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Harris, Reese","Sr","2333886",2023,"44","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2333886",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Harris, Nick","Fr",NA,2023,"22","P",NA,11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
-"Hartle, Andrew","So",NA,2023,"41","P",NA,11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
+"Hartle, Andrew","So","2694377",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2694377",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Helm, Matt","Sr","2678989",2023,"40","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2678989",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Himes, Avery","Jr","2464126",2023,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2464126",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Howard, David","Jr","2464102",2023,"13","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2464102",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
-"James, Kyle","Jr",NA,2023,"0","P",NA,11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
+"James, Kyle","Jr","2464092",2023,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2464092",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Johnson, Joey","Sr","2333856",2023,"20","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2333856",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Kahwaji, Joey","Fr","2816304",2023,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2816304",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Keck, Zack","So","2679069",2023,"38","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2679069",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Kinworthy, Gavin","So","2678986",2023,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2678986",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Kueper, Trey","Sr","2333878",2023,"46","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2333878",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Kueper, Ty","Sr","2333854",2023,"19","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2333854",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
-"Lea, Zapher","Fr",NA,2023,"23","OF",NA,11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
+"Lea, Zapher","Fr","2816256",2023,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2816256",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Leahy, Nolan","So",NA,2023,"24","C",NA,11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Lee, Carter","Sr","2333873",2023,"26","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2333873",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Luchetti, Darren","Fr","2816259",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2816259",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "McIntyre, Shane","Fr",NA,2023,"25","P",NA,11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Mckinnion, Bryce","So","2299197",2023,"17","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2299197",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
-"Meert, Jack","So",NA,2023,"54","C",NA,11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
-"Molden, Zack","So",NA,2023,"7","OF",NA,11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
+"Meert, Jack","So","2679073",2023,"54","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2679073",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
+"Molden, Zack","So","2679061",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2679061",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Panek, Vonner","Jr","2464077",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2464077",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Pruneau, Nathan","Fr","2816301",2023,"48","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2816301",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340
 "Purschke, Thomas","Sr","2333882",2023,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=11538&stats_player_seq=2333882",11538,"Fontbonne","/team/11538/16340",12974,"SLIAC",3,2023,16340

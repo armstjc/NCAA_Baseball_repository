@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/15/2023,neutral,16340,470,New Haven,9,True,4,23,-19,loss,2395632,3,2331356,2023,2
+2,5,2,0,0,2,0,3,0,0,1,0,0,0,0,0,0,0,0,03/15/2023,neutral,16340,1277,Alliance,9,True,18,7,11,win,2395714,3,2331356,2023,2
+0,4,1,1,0,2,0,1,0,1,0,0,2,0,0,0,0,0,0,04/13/2023,away,16340,8956,Dominican (NY),10,True,17,7,10,win,2401704,3,2331356,2023,2

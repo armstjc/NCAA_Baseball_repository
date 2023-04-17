@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Allen, Christian","Jr","2481697",2023,"3","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2481697",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
-"Bailey, Jayden","Jr","2481703",2023,"20","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2481703",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
 "Bailey, Warren","Jr","2804990",2023,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2804990",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
+"Bailey, Jayden","Jr","2481703",2023,"20","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2481703",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
 "Bartholomew, Christian","Fr","2805005",2023,"50","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2805005",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
 "Bausas, Ben","So","2656658",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2656658",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
 "Bellamy, Owen","Fr","2805012",2023,"79","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2805012",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
@@ -37,12 +37,12 @@
 "Sanzo, Brendon","So","2656707",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2656707",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
 "Sellers, TyShawn","So","2656695",2023,"74","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2656695",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
 "Tomzcak, Konner","So","2656663",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2656663",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
-"Wade, Derrick","Fr",NA,2023,"55","INF",NA,8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
+"Wade, Derrick","Fr","2805007",2023,"55","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2805007",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
 "Walker, Jacob","Fr","2805026",2023,"56","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2805026",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
 "West, Tyler","Jr","2481693",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2481693",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
 "Whelan, Ethan","Jr","2481705",2023,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2481705",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
 "Wilbourne, Bradley","Jr","2805000",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2805000",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
 "Williams, Carrington","So","2656668",2023,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2656668",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
-"Wilson, Zachary","Fr",NA,2023,"34","P",NA,8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
+"Wilson, Zachary","Fr","2805001",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2805001",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
 "Wohleking, Nicky","Jr","2477786",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2477786",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340
 "Yancey, John","Fr","2805006",2023,"52","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=8875&stats_player_seq=2805006",8875,"Chowan","/team/8875/16340",4423,"Conference Carolinas",2,2023,16340

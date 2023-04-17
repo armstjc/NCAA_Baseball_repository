@@ -1,3 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,2,1,0,0,02/10/2023,home,16340,30092,Flagler,9,True,6,5,1,win,2390001,608,2111743,2023,2
 0,0,1,1,0,0,0,1,0,0,02/24/2023,away,16340,49,Barry,9,True,3,7,-4,loss,2391537,608,2111743,2023,2
+0,0,0,0,0,0,2,0,0,0,03/03/2023,home,16340,230,Florida Tech,9,True,10,5,5,win,2392629,608,2111743,2023,2
+0,0,0,0,0,0,1,0,0,0,03/10/2023,home,16340,333,Ky. Wesleyan,9,True,19,11,8,win,2394258,608,2111743,2023,2
+0,1,1,0,0,0,1,0,0,0,03/17/2023,away,16340,9680,Embry-Riddle (FL),9,True,12,1,11,win,2396030,608,2111743,2023,2
+0,0,0,0,0,0,1,0,0,0,03/24/2023,home,16340,233,Fla. Southern,9,True,7,10,-3,loss,2397533,608,2111743,2023,2
+2,0,2,0,0,0,1,0,0,0,03/31/2023,away,16340,24639,Nova Southeastern,9,True,16,6,10,win,2398756,608,2111743,2023,2
+1,0,1,0,0,0,3,0,0,0,04/14/2023,home,16340,20794,Lynn,9,True,22,8,14,win,2401996,608,2111743,2023,2

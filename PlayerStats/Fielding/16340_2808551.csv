@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,0,4,0,0,0,0,0,0,0,02/25/2023,home,16340,30124,Cedarville,9,True,5,3,2,win,2411947,1170,2808551,2023,2
 7,1,8,0,0,0,0,0,1,0,03/01/2023,away,16340,1023,Coker,9,True,7,9,-2,loss,2392501,1170,2808551,2023,2
+4,0,4,0,0,0,0,0,0,0,03/04/2023,away,16340,13028,Anderson (SC),9,True,14,7,7,win,2408159,1170,2808551,2023,2
+9,1,10,0,0,0,0,0,1,0,03/05/2023,away,16340,13028,Anderson (SC),9,True,11,10,1,win,2423164,1170,2808551,2023,2
+3,0,3,0,0,0,0,0,0,0,03/07/2023,home,16340,1001,Catawba,9,True,15,9,6,win,2393867,1170,2808551,2023,2
+3,0,3,0,0,0,0,0,0,0,04/02/2023,away,16340,30181,UVA Wise,9,True,11,5,6,win,2427292,1170,2808551,2023,2

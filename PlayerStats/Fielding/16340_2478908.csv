@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,1,0,0,02/15/2023,away,16340,573,Rhodes,9,True,7,5,2,win,2418510,1015,2478908,2023,2
 0,0,0,0,0,0,1,0,0,0,02/21/2023,home,16340,0,Blue Mountain (MS),11,True,8,9,-1,loss,2391128,1015,2478908,2023,2
+0,4,4,0,0,0,0,0,0,0,03/15/2023,home,16340,350,LeMoyne-Owen,9,True,9,0,9,win,2395644,1015,2478908,2023,2

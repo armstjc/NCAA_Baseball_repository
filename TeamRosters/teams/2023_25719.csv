@@ -1,9 +1,9 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Alauzen, Garrett","So","2663531",2023,"32","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=25719&stats_player_seq=2663531",25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
 "Allison, Bryant","Fr","2831159",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=25719&stats_player_seq=2831159",25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
-"Angstadt, Luke","Fr",NA,2023,"26","C",NA,25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
+"Angstadt, Luke","Fr","2831162",2023,"26","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=25719&stats_player_seq=2831162",25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
 "Barberich, Grant","So","2663520",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=25719&stats_player_seq=2663520",25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
-"Beck, Cavan","Fr",NA,2023,"10","3B",NA,25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
+"Beck, Cavan","Fr","2831138",2023,"10","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=25719&stats_player_seq=2831138",25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
 "Brechbill, Cole","Jr","2507802",2023,"5","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=25719&stats_player_seq=2507802",25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
 "Carey, Richard","Sr","1991289",2023,"14","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=25719&stats_player_seq=1991289",25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
 "Chamberlain, Corey","So","2663525",2023,"15","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=25719&stats_player_seq=2663525",25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
@@ -34,4 +34,4 @@
 "Wiles, Eli","So","2663546",2023,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=25719&stats_player_seq=2663546",25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
 "Wing, Sean","Fr","2831199",2023,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=25719&stats_player_seq=2831199",25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
 "Yokobosky, Jake","Jr","2507811",2023,"99","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=25719&stats_player_seq=2507811",25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
-"Zarrilli, Mike","Fr",NA,2023,"28","OF",NA,25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340
+"Zarrilli, Mike","Fr","2831163",2023,"28","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=25719&stats_player_seq=2831163",25719,"Penn St.-Altoona","/team/25719/16340",30022,"AMCC",3,2023,16340

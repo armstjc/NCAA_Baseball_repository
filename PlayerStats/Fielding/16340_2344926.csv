@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,03/07/2023,home,16340,30222,Purdue Northwest,9,True,7,5,2,win,2393794,309,2344926,2023,2
+0,1,1,0,0,0,0,0,0,0,03/10/2023,home,16340,30221,Davenport,9,True,10,7,3,win,2394404,309,2344926,2023,2
+1,0,1,0,0,0,0,0,1,0,03/11/2023,home,16340,30221,Davenport,9,True,7,4,3,win,2423909,309,2344926,2023,2
+0,0,0,0,0,0,1,0,0,0,03/25/2023,away,16340,30050,Ill. Springfield,9,True,10,11,-1,loss,2397703,309,2344926,2023,2
+0,1,1,0,0,0,2,0,0,0,04/11/2023,home,16340,30119,Ohio Dominican,11,True,24,23,1,win,2401370,309,2344926,2023,2
+0,1,1,0,0,0,1,0,0,0,04/15/2023,home,16340,30120,William Jewell,8,True,6,13,-7,loss,2402265,309,2344926,2023,2

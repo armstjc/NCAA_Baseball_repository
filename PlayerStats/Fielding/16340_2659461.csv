@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,03/17/2023,home,16340,395,Maryville (MO),9,True,6,12,-6,loss,2425053,309,2659461,2023,2
+2,0,2,0,0,0,0,0,0,0,03/19/2023,home,16340,395,Maryville (MO),9,True,1,12,-11,loss,2396270,309,2659461,2023,2
+3,0,3,0,0,0,0,0,0,0,03/26/2023,away,16340,30050,Ill. Springfield,9,True,6,11,-5,loss,2426134,309,2659461,2023,2
+1,0,2,1,0,0,1,0,0,0,04/02/2023,away,16340,436,Mo.-St. Louis,9,True,18,8,10,win,2399676,309,2659461,2023,2
+4,0,5,1,0,0,7,0,0,0,04/11/2023,home,16340,30119,Ohio Dominican,11,True,24,23,1,win,2401370,309,2659461,2023,2

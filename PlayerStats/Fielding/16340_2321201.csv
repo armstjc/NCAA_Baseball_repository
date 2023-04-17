@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,03/12/2023,home,16340,468,Southern N.H.,9,True,0,13,-13,loss,2395198,1076,2321201,2023,2
+1,0,1,0,0,0,0,0,0,0,03/26/2023,home,16340,1013,Charleston (WV),8,True,5,19,-14,loss,2398299,1076,2321201,2023,2
+1,0,1,0,0,0,0,0,0,0,04/08/2023,home,16340,934,Alderson Broaddus,8,True,4,3,1,win,2410590,1076,2321201,2023,2
+2,0,2,0,0,0,0,0,0,0,04/10/2023,home,16340,934,Alderson Broaddus,9,True,3,1,2,win,2409786,1076,2321201,2023,2

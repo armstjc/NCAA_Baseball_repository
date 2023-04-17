@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,2,1,0,0,0,0,0,0,03/06/2023,away,16340,422,Miles,9,True,8,9,-1,loss,2393615,144,2681798,2023,2
+0,0,1,1,0,0,0,0,0,0,03/13/2023,away,16340,350,LeMoyne-Owen,9,True,22,6,16,win,2412081,144,2681798,2023,2
+1,0,1,0,0,0,0,0,0,0,03/25/2023,away,16340,445,Morehouse,9,True,1,11,-10,loss,2397697,144,2681798,2023,2
+6,0,7,1,0,0,0,0,0,0,03/26/2023,away,16340,445,Morehouse,9,True,6,7,-1,loss,2398082,144,2681798,2023,2
+1,0,1,0,0,0,0,0,0,0,04/07/2023,home,16340,55,Benedict,9,True,17,11,6,win,2428005,144,2681798,2023,2
+2,0,2,0,0,0,0,0,0,0,04/07/2023,home,16340,55,Benedict,9,True,13,6,7,win,2428006,144,2681798,2023,2

@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Alameda, Andrew","So","2683122",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1348&stats_player_seq=2683122",1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
-"Appell, Ryan","So",NA,2023,"20","INF",NA,1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
+"Appell, Ryan","So","2815809",2023,"20","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1348&stats_player_seq=2815809",1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
 "Archer, John","Sr","2343814",2023,"52","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1348&stats_player_seq=2343814",1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
 "Callaghan, Ryan","Fr","2815811",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1348&stats_player_seq=2815811",1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
 "Celeiro, Alex","Fr","2815812",2023,"30","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1348&stats_player_seq=2815812",1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
@@ -30,8 +30,8 @@
 "Mifsud, Anthony","So",NA,2023,"42","P",NA,1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
 "Minett, Billy","Jr","2511137",2023,"45","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1348&stats_player_seq=2511137",1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
 "Murtagh, Mathew","Fr","2815799",2023,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1348&stats_player_seq=2815799",1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
-"O'Connor, Aidan","So","2511136",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1348&stats_player_seq=2511136",1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
 "O'Connor, Nick","So","2511106",2023,"34","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1348&stats_player_seq=2511106",1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
+"O'Connor, Aidan","So","2511136",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1348&stats_player_seq=2511136",1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
 "Oelcher, Nick","Fr",NA,2023,"15","INF",NA,1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
 "Polemeni, Matthew","So","2683123",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1348&stats_player_seq=2683123",1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340
 "Potenza, David","So","2511145",2023,"75","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1348&stats_player_seq=2511145",1348,"St. Thomas Aquinas","/team/1348/16340",11265,"ECC",2,2023,16340

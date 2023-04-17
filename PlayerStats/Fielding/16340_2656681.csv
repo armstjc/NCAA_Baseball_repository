@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,1,0,0,0,0,02/03/2023,home,16340,10,Alabama Huntsville,10,True,8,9,-1,loss,2389737,608,2656681,2023,2
 7,0,7,0,0,0,0,0,0,0,02/07/2023,home,16340,584,Rollins,9,True,4,9,-5,loss,2389900,608,2656681,2023,2
+1,0,1,0,0,0,0,0,0,0,03/10/2023,home,16340,333,Ky. Wesleyan,9,True,19,11,8,win,2394258,608,2656681,2023,2
+1,0,1,0,0,0,0,0,0,0,04/06/2023,away,16340,30093,AUM,9,True,13,2,11,win,2427787,608,2656681,2023,2

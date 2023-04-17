@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/11/2023,away,16340,1176,Lincoln Memorial,11,True,11,12,-1,loss,2390111,1167,2809235,2023,2
+2,0,2,0,0,0,0,0,0,0,03/11/2023,home,16340,30193,Emmanuel (GA),9,True,15,3,12,win,2424057,1167,2809235,2023,2
+3,0,3,0,0,0,0,0,0,0,03/14/2023,away,16340,9223,North Greenville,9,True,7,19,-12,loss,2395323,1167,2809235,2023,2
+2,0,2,0,0,0,0,0,0,0,03/21/2023,away,16340,1462,Wingate,10,True,12,9,3,win,2396896,1167,2809235,2023,2
+2,2,4,0,0,0,0,0,0,0,03/24/2023,home,16340,30058,Claflin,9,True,12,5,7,win,2397988,1167,2809235,2023,2
+9,0,9,0,0,0,1,0,0,0,03/25/2023,home,16340,30058,Claflin,9,True,23,6,17,win,2398294,1167,2809235,2023,2

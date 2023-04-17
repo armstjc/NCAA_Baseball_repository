@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,02/03/2023,home,16340,11403,Colo. Christian,10,True,20,20,0,tie,2389709,20794,2124445,2023,2
+3,0,3,0,0,0,0,0,0,0,02/21/2023,away,16340,0,St. Thomas (FL),9,True,9,7,2,win,2391197,20794,2124445,2023,2
+4,0,4,0,0,0,0,0,0,0,03/13/2023,home,16340,3,Adelphi,9,True,25,27,-2,loss,2395285,20794,2124445,2023,2
+1,1,2,0,0,0,0,0,0,0,03/15/2023,home,16340,22,American Int'l,9,True,4,10,-6,loss,2424794,20794,2124445,2023,2
+3,0,3,0,0,0,0,0,0,0,03/18/2023,away,16340,49,Barry,9,True,14,15,-1,loss,2425289,20794,2124445,2023,2
+2,0,2,0,0,0,0,0,0,0,04/08/2023,home,16340,233,Fla. Southern,9,True,2,3,-1,loss,2401054,20794,2124445,2023,2

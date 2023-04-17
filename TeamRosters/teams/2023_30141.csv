@@ -1,6 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Acres, Brodey","Fr","2811927",2023,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30141&stats_player_seq=2811927",30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340
 "Bangtson, Todd","So","2347356",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30141&stats_player_seq=2347356",30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340
+"Becks, J.","N/A","2840211",2023,"38","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30141&stats_player_seq=2840211",30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340
 "Bell, Bryson","So",NA,2023,"39","OF",NA,30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340
 "Benoit, Cam","Sr","2821855",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30141&stats_player_seq=2821855",30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340
 "Beyerle, Alex","So","2689567",2023,"22","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30141&stats_player_seq=2689567",30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340
@@ -32,7 +33,7 @@
 "Shepherd, Marshall","Fr","2811938",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30141&stats_player_seq=2811938",30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340
 "Simmer, Shea","Jr","2529440",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30141&stats_player_seq=2529440",30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340
 "Soltis, Asher","Jr","2811932",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30141&stats_player_seq=2811932",30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340
-"Stoldt, Mason","Fr",NA,2023,"40","OF",NA,30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340
+"Stoldt, Mason","Fr","2811935",2023,"40","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30141&stats_player_seq=2811935",30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340
 "Sutton, Eli","Fr","2811909",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30141&stats_player_seq=2811909",30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340
 "Thompson, Zach","Jr","2508248",2023,"44","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30141&stats_player_seq=2508248",30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340
 "Warden, Gavin","Fr",NA,2023,"21","C",NA,30141,"Walsh","/team/30141/16340",30182,"G-MAC",2,2023,16340

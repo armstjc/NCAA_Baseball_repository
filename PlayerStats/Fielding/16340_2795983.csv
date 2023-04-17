@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,2,1,0,0,2,0,0,0,02/11/2023,away,16340,10,Alabama Huntsville,9,True,7,8,-1,loss,2390061,436,2795983,2023,2
 0,0,0,0,0,0,1,0,0,0,02/18/2023,away,16340,30180,Rogers St.,9,True,3,8,-5,loss,2407843,436,2795983,2023,2
+0,0,0,0,0,0,2,0,0,0,03/04/2023,home,16340,790,Winona St.,9,True,13,3,10,win,2393107,436,2795983,2023,2
+0,1,1,0,0,0,0,0,0,0,03/10/2023,away,16340,1328,Rockhurst,9,True,4,2,2,win,2408176,436,2795983,2023,2
+0,3,3,0,0,0,4,0,0,0,03/24/2023,away,16340,30120,William Jewell,9,True,11,7,4,win,2397486,436,2795983,2023,2
+0,0,0,0,0,0,1,0,0,0,04/01/2023,home,16340,309,UIndy,10,True,6,13,-7,loss,2399201,436,2795983,2023,2
+0,0,0,0,0,0,3,0,0,0,04/14/2023,home,16340,2755,Southwest Baptist,9,True,11,10,1,win,2401830,436,2795983,2023,2

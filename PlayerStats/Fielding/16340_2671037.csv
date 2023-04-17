@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,0,2,0,0,0,0,0,0,0,02/26/2023,neutral,16340,30221,Davenport,9,True,3,7,-4,loss,2421891,1403,2671037,2023,2
+0,0,0,0,0,0,2,0,0,0,03/03/2023,neutral,16340,246,Gannon,9,True,3,15,-12,loss,2392692,1403,2671037,2023,2
+0,0,0,0,0,0,1,0,0,0,03/16/2023,away,16340,30141,Walsh,9,True,4,5,-1,loss,2409672,1403,2671037,2023,2
+0,0,0,0,0,0,1,0,0,0,03/26/2023,home,16340,510,Northwood,9,True,4,11,-7,loss,2397743,1403,2671037,2023,2
+0,1,1,0,0,0,0,0,0,0,04/07/2023,home,16340,1079,Findlay,9,True,2,5,-3,loss,2409780,1403,2671037,2023,2
+1,1,2,0,0,0,0,0,0,0,04/15/2023,away,16340,333,Ky. Wesleyan,9,True,15,10,5,win,2409107,1403,2671037,2023,2

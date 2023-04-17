@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/04/2023,away,16340,1176,Lincoln Memorial,9,True,1,5,-4,loss,2408201,30124,2319889,2023,2
+0,0,0,0,0,0,1,0,0,0,03/04/2023,away,16340,1013,Charleston (WV),9,True,4,7,-3,loss,2408645,30124,2319889,2023,2
+0,0,0,0,0,0,2,0,0,0,03/17/2023,home,16340,510,Northwood,9,True,7,17,-10,loss,2408971,30124,2319889,2023,2
+1,0,1,0,0,0,0,0,0,0,03/22/2023,home,16340,35,Ashland,9,True,4,0,4,win,2425476,30124,2319889,2023,2
+1,1,2,0,0,0,0,0,1,0,04/15/2023,home,16340,30002,Trevecca Nazarene,9,True,2,1,1,win,2402107,30124,2319889,2023,2

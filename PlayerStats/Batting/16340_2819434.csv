@@ -1,2 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/10/2023,home,16340,30146,Azusa Pacific,9,True,13,3,10,win,2408635,11416,2819434,2023,2
+2,4,1,0,0,1,0,2,1,0,0,0,3,0,0,0,0,0,0,03/02/2023,home,16340,205,Mont. St. Billings,9,True,19,8,11,win,2392595,11416,2819434,2023,2
+3,2,1,0,0,4,1,2,2,0,0,0,1,0,0,0,0,0,0,03/25/2023,away,16340,11403,Colo. Christian,9,True,38,1,37,win,2397831,11416,2819434,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/08/2023,away,16340,2720,CSU Pueblo,9,True,9,6,3,win,2400919,11416,2819434,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/15/2023,home,16340,584,Rollins,9,True,4,6,-2,loss,2402312,11416,2819434,2023,2

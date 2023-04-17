@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,03/09/2023,home,16340,333,Ky. Wesleyan,9,True,16,3,13,win,2394114,608,2655354,2023,2
+1,0,2,1,0,0,0,0,0,0,03/10/2023,home,16340,333,Ky. Wesleyan,9,True,19,11,8,win,2394258,608,2655354,2023,2
+3,1,4,0,0,0,0,0,0,0,03/17/2023,away,16340,9680,Embry-Riddle (FL),9,True,14,0,14,win,2396382,608,2655354,2023,2

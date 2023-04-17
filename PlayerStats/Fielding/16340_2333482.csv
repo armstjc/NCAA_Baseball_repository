@@ -1,3 +1,10 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/17/2023,home,16340,30178,Northwestern Okla.,9,True,6,1,5,win,2420019,1289,2333482,2023,2
 0,0,0,0,0,0,2,0,0,0,02/25/2023,away,16340,8744,Southwestern Okla.,9,True,2,4,-2,loss,2391375,1289,2333482,2023,2
+2,0,2,0,0,0,2,0,0,0,03/05/2023,away,16340,8411,Ark.-Monticello,9,True,5,3,2,win,2423127,1289,2333482,2023,2
+0,1,1,0,0,0,0,0,0,0,03/11/2023,home,16340,947,Arkansas Tech,9,True,6,7,-1,loss,2394727,1289,2333482,2023,2
+2,2,4,0,0,0,1,1,0,0,03/17/2023,away,16340,8965,East Central,9,True,13,3,10,win,2395933,1289,2333482,2023,2
+1,1,2,0,0,0,0,0,0,0,03/26/2023,home,16340,1371,Southeastern Okla.,9,True,6,1,5,win,2397816,1289,2333482,2023,2
+0,1,1,0,0,0,1,0,0,0,04/01/2023,away,16340,1376,Southern Ark.,9,True,4,7,-3,loss,2398793,1289,2333482,2023,2
+2,0,2,0,0,0,0,0,0,0,04/07/2023,home,16340,1116,Harding,9,True,9,8,1,win,2400609,1289,2333482,2023,2
+1,0,1,0,0,0,0,0,0,0,04/14/2023,home,16340,30202,Okla. Baptist,9,True,12,8,4,win,2401821,1289,2333482,2023,2

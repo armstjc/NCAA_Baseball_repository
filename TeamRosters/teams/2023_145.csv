@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Belt, Gavin","So",NA,2023,"41","P",NA,145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
+"Belt, Gavin","So","2684136",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2684136",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Belt, Ethan","Sr","2333750",2023,"19","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2333750",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Bonini, Nate","Sr","2333760",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2333760",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Bonja, Ryan","So","2684084",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2684084",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
@@ -8,14 +8,14 @@
 "Casabianca, Andrea","Sr","2149751",2023,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2149751",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Caulfield, Ryan","Sr","2684138",2023,"46","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2684138",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Cockburn, Heath","Jr","2519540",2023,"18","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2519540",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
-"Curren, Ayden","Fr",NA,2023,"44","P",NA,145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
+"Curren, Ayden","Fr","2821710",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2821710",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Domizio, Chris","Jr","2529519",2023,"31","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2529519",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Donahue, Matthew","Fr","2821715",2023,"47","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2821715",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Doran, Carter","So","2684061",2023,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2684061",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Farrell, Samuel","Jr","2519541",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2519541",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Faulkenham, Jake","Fr","2821689",2023,"17","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2821689",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Flaherty, Tommy","Fr","2821708",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2821708",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
-"Forbes, Gavin","Fr",NA,2023,"38","P",NA,145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
+"Forbes, Gavin","Fr","2821706",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2821706",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Furnelli, Anthony","Fr",NA,2023,"45","P",NA,145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Giannelli, Cory","Jr","2519542",2023,"22","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2519542",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Gitlin, Maxwell","Jr","2519489",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2519489",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
@@ -35,10 +35,10 @@
 "Mooney, Steven","Sr","1996462",2023,"16","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=1996462",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Moss, Max","Sr","2333751",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2333751",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "O'Donnell, Jake","Fr","2821704",2023,"30","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2821704",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
-"Reder, Andrew","Fr",NA,2023,"13","P",NA,145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
+"Reder, Andrew","Fr","2821611",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2821611",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Rulnick, Connor","Sr","2333749",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2333749",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Soares, Andrew","Fr","2821702",2023,"23","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2821702",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Spencer, Benjamin","Sr","2333742",2023,"35","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2333742",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Sullivan, Billy","Jr","2519490",2023,"33","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2519490",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
 "Webster, James","Fr","2821692",2023,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2821692",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
-"Zhao, Max","Fr",NA,2023,"50","P",NA,145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340
+"Zhao, Max","Fr","2821718",2023,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=145&stats_player_seq=2821718",145,"Clark (MA)","/team/145/16340",890,"NEWMAC",3,2023,16340

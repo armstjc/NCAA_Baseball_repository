@@ -1,2 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,1,0,0,02/09/2023,home,16340,30146,Azusa Pacific,9,True,9,5,4,win,2389915,11416,2331630,2023,2
+0,1,1,0,0,0,0,0,0,0,03/03/2023,home,16340,205,Mont. St. Billings,9,True,16,6,10,win,2392725,11416,2331630,2023,2
+0,1,1,0,0,0,2,0,0,0,03/12/2023,home,16340,413,MSU Denver,8,True,11,9,2,win,2424188,11416,2331630,2023,2
+1,0,1,0,0,0,0,0,0,0,03/25/2023,away,16340,11403,Colo. Christian,9,True,13,4,9,win,2410277,11416,2331630,2023,2
+0,0,1,1,0,0,0,1,0,0,04/01/2023,home,16340,568,Regis (CO),9,True,1,4,-3,loss,2399371,11416,2331630,2023,2
+0,0,0,0,0,0,1,0,0,0,04/07/2023,away,16340,2720,CSU Pueblo,8,True,4,3,1,win,2400535,11416,2331630,2023,2
+0,1,1,0,0,0,1,0,0,0,04/15/2023,home,16340,584,Rollins,9,True,4,6,-2,loss,2402312,11416,2331630,2023,2

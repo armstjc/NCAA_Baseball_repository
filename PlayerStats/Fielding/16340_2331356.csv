@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/11/2023,away,16340,49,Barry,9,True,1,17,-16,loss,2394893,3,2331356,2023,2
+6,2,9,1,0,0,0,0,0,0,03/15/2023,neutral,16340,1277,Alliance,9,True,18,7,11,win,2395714,3,2331356,2023,2
+1,0,1,0,0,0,0,0,0,0,04/08/2023,home,16340,533,Pace,9,True,4,15,-11,loss,2409643,3,2331356,2023,2

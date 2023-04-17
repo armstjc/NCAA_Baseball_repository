@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/01/2023,away,16340,537,UNC Pembroke,9,True,6,15,-9,loss,2392544,1001,2668070,2023,2
+0,0,0,0,0,0,2,0,0,0,03/04/2023,away,16340,1176,Lincoln Memorial,9,True,2,9,-7,loss,2408619,1001,2668070,2023,2
+0,0,0,0,0,0,1,0,0,0,03/21/2023,away,16340,1245,Mount Olive,9,True,5,6,-1,loss,2396864,1001,2668070,2023,2
+0,1,1,0,0,0,0,0,0,0,03/25/2023,away,16340,1462,Wingate,9,True,1,12,-11,loss,2397990,1001,2668070,2023,2
+0,1,1,0,0,0,0,0,0,0,04/12/2023,away,16340,9223,North Greenville,9,True,2,14,-12,loss,2401678,1001,2668070,2023,2

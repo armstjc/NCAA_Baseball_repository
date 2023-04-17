@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/05/2023,away,16340,632,Savannah St.,9,True,0,20,-20,loss,2408279,743,2143836,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2023,home,16340,1277,Alliance,9,True,10,2,8,win,2408114,743,2143836,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2023,home,16340,384,Mansfield,9,True,1,7,-6,loss,2408550,743,2143836,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/14/2023,away,16340,15646,Barton,9,True,0,11,-11,loss,2395336,743,2143836,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/18/2023,home,16340,30058,Claflin,9,True,14,2,12,win,2409676,743,2143836,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/25/2023,home,16340,357,Lincoln (PA),9,True,1,4,-3,loss,2409701,743,2143836,2023,2

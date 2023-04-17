@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/26/2023,home,16340,2746,Lake Erie,9,True,9,0,9,win,2410289,30119,2484439,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/02/2023,away,16340,35,Ashland,9,True,2,9,-7,loss,2399762,30119,2484439,2023,2
+0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,04/02/2023,away,16340,35,Ashland,9,True,3,4,-1,loss,2410644,30119,2484439,2023,2
+1,5,2,0,0,5,1,1,0,0,0,0,2,0,0,0,0,0,0,04/03/2023,away,16340,35,Ashland,9,True,10,1,9,win,2409102,30119,2484439,2023,2
+0,3,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,04/07/2023,home,16340,30124,Cedarville,9,True,12,6,6,win,2400540,30119,2484439,2023,2

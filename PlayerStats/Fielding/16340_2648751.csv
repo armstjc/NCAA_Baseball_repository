@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/28/2023,home,16340,92,Cal St. Dom. Hills,9,True,5,4,1,win,2392440,30146,2648751,2023,2
+0,1,1,0,0,0,0,0,0,0,03/07/2023,away,16340,2696,Hawaii Pacific,9,True,5,3,2,win,2407978,30146,2648751,2023,2
+0,1,1,0,0,0,0,0,0,0,03/11/2023,away,16340,2697,Hawaii Hilo,9,True,13,8,5,win,2394875,30146,2648751,2023,2
+0,1,2,1,0,0,0,0,0,0,04/07/2023,away,16340,30199,CUI,9,True,4,2,2,win,2409621,30146,2648751,2023,2
+0,1,1,0,0,0,0,0,1,0,04/15/2023,home,16340,30220,Biola,9,True,4,2,2,win,2409924,30146,2648751,2023,2

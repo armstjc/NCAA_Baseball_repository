@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,1,02/12/2023,home,16340,2814,Washburn,9,True,9,8,1,win,2390166,49,2504858,2023,2
 0,0,0,0,0,0,1,0,0,0,02/18/2023,home,16340,9680,Embry-Riddle (FL),9,True,3,2,1,win,2408008,49,2504858,2023,2
+0,0,0,0,0,0,1,0,0,0,03/18/2023,home,16340,20794,Lynn,9,True,15,14,1,win,2425289,49,2504858,2023,2
+0,1,1,0,0,0,1,0,0,0,04/04/2023,home,16340,0,St. Thomas (FL),9,True,7,5,2,win,2400049,49,2504858,2023,2

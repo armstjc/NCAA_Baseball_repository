@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,03/05/2023,home,16340,2746,Lake Erie,9,True,15,3,12,win,2392728,10870,2829690,2023,2
+0,0,0,0,0,0,2,1,0,0,03/12/2023,away,16340,197,East Stroudsburg,9,True,2,8,-6,loss,2394581,10870,2829690,2023,2
+0,0,0,0,0,0,2,0,0,0,03/20/2023,home,16340,197,East Stroudsburg,9,True,4,14,-10,loss,2425496,10870,2829690,2023,2
+0,1,1,0,0,0,0,0,0,0,03/28/2023,home,16340,174,Davis & Elkins,9,True,14,3,11,win,2398425,10870,2829690,2023,2

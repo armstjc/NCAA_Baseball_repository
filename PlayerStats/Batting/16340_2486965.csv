@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,3,2,0,0,5,1,3,0,0,0,0,0,0,0,0,0,0,0,02/11/2023,home,16340,8875,Chowan,9,True,23,1,22,win,2417958,423,2486965,2023,2
+0,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2023,home,16340,8366,Goldey-Beacom,9,True,10,0,10,win,2408500,423,2486965,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2023,home,16340,384,Mansfield,9,True,8,1,7,win,2424157,423,2486965,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/11/2023,away,16340,243,Frostburg St.,9,True,21,4,17,win,2401409,423,2486965,2023,2

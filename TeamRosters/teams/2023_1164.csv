@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Biggs, Brian","Sr","2153664",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2153664",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
 "Bukantis, Hunter","Sr","2332187",2023,"12","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2332187",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
-"Coleman, Brady","Fr",NA,2023,"37","P",NA,1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
+"Coleman, Brady","Fr","2833893",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2833893",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
 "Costello, Dylan","Fr","2833939",2023,"42","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2833939",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
 "Cournoyer, Jay","So","2687327",2023,"1","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2687327",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
 "Davi, Dominic","Jr","2833938",2023,"34","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2833938",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
@@ -24,12 +24,12 @@
 "Pecore, Luke","Fr","2833940",2023,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2833940",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
 "Pugh, Sawyer","Fr","2833931",2023,"7","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2833931",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
 "Robinson, Griffin","So","2669827",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2669827",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
-"Scalia, Francesco","Jr",NA,2023,"15","P",NA,1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
+"Scalia, Francesco","Jr","2833934",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2833934",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
 "Schroer, Mike","Jr","2833929",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2833929",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
 "Sharma, Armaan","Fr","2833936",2023,"26","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2833936",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
-"Sobieski, Lane","Jr","2332172",2023,"16","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2332172",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
 "Sobieski, Landen","So","2687363",2023,"28","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2687363",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
-"Soto, Lurian","So",NA,2023,"30","P",NA,1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
+"Sobieski, Lane","Jr","2332172",2023,"16","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2332172",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
+"Soto, Lurian","So","2687364",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2687364",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
 "Spens, OakLee","Jr","2519327",2023,"21","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2519327",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
 "Uzella, Chris","Fr",NA,2023,"2","P",NA,1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340
 "Wollschlaeger, Jacob","Fr","2833892",2023,"20","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1164&stats_player_seq=2833892",1164,"Lakeland","/team/1164/16340",30097,"NACC",3,2023,16340

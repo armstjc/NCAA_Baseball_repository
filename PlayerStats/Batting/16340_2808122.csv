@@ -1,3 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,4,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,02/19/2023,neutral,16340,36,Assumption,9,True,10,2,8,win,2390886,437,2808122,2023,2
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2023,neutral,16340,74,Bridgeport,9,True,10,2,8,win,2408516,437,2808122,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/18/2023,home,16340,8956,Dominican (NY),9,True,12,4,8,win,2396322,437,2808122,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/19/2023,home,16340,8956,Dominican (NY),9,True,27,9,18,win,2396772,437,2808122,2023,2
+1,2,2,1,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,03/26/2023,away,16340,407,Mercy,9,True,20,7,13,win,2398123,437,2808122,2023,2
+0,1,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,03/27/2023,home,16340,407,Mercy,9,True,17,4,13,win,2397802,437,2808122,2023,2

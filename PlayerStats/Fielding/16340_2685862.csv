@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,1,0,0,02/19/2023,away,16340,1257,Newberry,9,True,6,14,-8,loss,2391025,10870,2685862,2023,2
+0,0,0,0,0,0,1,0,0,0,03/08/2023,away,16340,743,Virginia St.,9,True,0,6,-6,loss,2408571,10870,2685862,2023,2
+0,1,1,0,0,0,0,1,0,0,03/28/2023,home,16340,174,Davis & Elkins,9,True,14,3,11,win,2398425,10870,2685862,2023,2

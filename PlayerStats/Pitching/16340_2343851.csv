@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,3.0,0.0,5,2,2,0,4,0,12,12,2,0,0,0,0,0,0,0,0,0,0,51,1,2,0,0,0,2,1,0,02/26/2023,away,16340,395,Maryville (MO),9,True,3,6,-3,loss,2392144,591,2343851,2023,2
 1,0,0.2,0.0,3,1,1,2,0,0,6,3,0,0,0,0,0,0,1,0,0,1,0,18,1,0,0,1,0,4,0,0,03/07/2023,away,16340,584,Rollins,10,True,9,10,-1,loss,2393835,591,2343851,2023,2
+1,0,1.0,0.0,3,0,0,0,2,0,5,5,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,2,0,0,04/15/2023,away,16340,799,Wis.-Parkside,9,True,10,5,5,win,2410222,591,2343851,2023,2

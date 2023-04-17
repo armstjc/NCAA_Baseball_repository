@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/25/2023,home,16340,233,Fla. Southern,9,True,5,14,-9,loss,2421612,208,2306951,2023,2
 0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/18/2023,away,16340,30045,Palm Beach Atl.,9,True,21,0,21,win,2425282,208,2306951,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/15/2023,away,16340,689,Tampa,9,True,3,17,-14,loss,2409930,208,2306951,2023,2

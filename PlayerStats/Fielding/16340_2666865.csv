@@ -1,2 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,1,0,0,0,02/10/2023,home,16340,30151,Shorter,9,True,11,3,8,win,2417898,12830,2666865,2023,2
+0,2,2,0,0,0,1,0,0,0,03/07/2023,home,16340,30124,Cedarville,9,True,10,7,3,win,2393761,12830,2666865,2023,2
+2,0,2,0,0,0,0,0,0,0,03/10/2023,home,16340,1174,Limestone,9,True,11,5,6,win,2394469,12830,2666865,2023,2
+0,0,0,0,0,0,1,1,0,0,03/18/2023,away,16340,1199,Mars Hill,8,True,9,10,-1,loss,2409350,12830,2666865,2023,2
+1,0,1,0,0,0,1,0,0,0,03/21/2023,home,16340,766,West Ga.,9,True,2,6,-4,loss,2396868,12830,2666865,2023,2
+0,0,0,0,0,0,1,0,0,0,03/28/2023,home,16340,30013,Lee,9,True,6,10,-4,loss,2398561,12830,2666865,2023,2
+0,1,2,1,0,0,0,1,0,0,04/01/2023,home,16340,30051,King (TN),9,True,15,3,12,win,2410028,12830,2666865,2023,2

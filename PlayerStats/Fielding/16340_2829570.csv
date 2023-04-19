@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,03/14/2023,away,16340,766,West Ga.,12,True,3,4,-1,loss,2395528,1097,2829570,2023,2
+0,1,1,0,0,0,0,0,0,0,03/26/2023,home,16340,1096,Georgia College,9,True,9,14,-5,loss,2398202,1097,2829570,2023,2
+0,1,1,0,0,0,0,0,0,0,04/01/2023,home,16340,49,Barry,9,True,0,5,-5,loss,2427016,1097,2829570,2023,2

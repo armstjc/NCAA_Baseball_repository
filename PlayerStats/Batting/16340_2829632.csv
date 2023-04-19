@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,4,2,0,0,2,0,2,1,0,0,0,0,0,0,0,1,0,0,02/18/2023,away,16340,934,Alderson Broaddus,9,True,9,19,-10,loss,2408928,984,2829632,2023,2
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/18/2023,away,16340,560,Queens (NY),9,True,3,12,-9,loss,2396293,984,2829632,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/18/2023,away,16340,560,Queens (NY),9,True,3,5,-2,loss,2409345,984,2829632,2023,2
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/19/2023,away,16340,560,Queens (NY),9,True,4,9,-5,loss,2425347,984,2829632,2023,2

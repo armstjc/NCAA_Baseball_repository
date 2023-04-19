@@ -1,2 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,6.0,0.0,7,2,2,0,5,0,23,22,2,0,0,0,0,0,0,0,0,0,1,58,5,6,0,0,0,1,1,0,02/25/2023,away,16340,30178,Northwestern Okla.,9,True,3,4,-1,loss,2391804,1123,2652755,2023,2
+1,1,5.0,0.0,2,1,1,0,2,0,18,14,0,0,0,0,0,2,0,0,0,1,1,65,7,5,0,0,0,1,1,0,03/04/2023,away,16340,947,Arkansas Tech,9,True,6,9,-3,loss,2392970,1123,2652755,2023,2
+1,1,5.0,0.0,8,8,5,3,2,0,28,24,0,1,0,2,0,0,0,0,0,1,0,101,2,11,1,0,0,1,0,0,03/17/2023,away,16340,1371,Southeastern Okla.,9,True,11,10,1,win,2395917,1123,2652755,2023,2
+1,1,5.2,0.0,9,6,6,2,4,0,27,25,2,1,0,0,0,0,0,0,0,0,0,74,4,8,0,1,0,1,0,1,04/01/2023,away,16340,1116,Harding,9,True,5,7,-2,loss,2399375,1123,2652755,2023,2

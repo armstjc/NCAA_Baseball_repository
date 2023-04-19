@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,2,0,0,0,0,0,0,0,03/24/2023,home,16340,92,Cal St. Dom. Hills,9,True,7,10,-3,loss,2397432,628,2806829,2023,2
+1,0,1,0,0,0,0,0,0,0,03/31/2023,away,16340,100,Cal State LA,9,True,6,0,6,win,2398743,628,2806829,2023,2
+0,2,2,0,0,0,0,0,0,0,04/11/2023,home,16340,95,Chico St.,9,True,9,0,9,win,2394341,628,2806829,2023,2
+0,1,1,0,0,0,0,0,0,0,04/15/2023,away,16340,103,Stanislaus St.,9,True,1,3,-2,loss,2402328,628,2806829,2023,2

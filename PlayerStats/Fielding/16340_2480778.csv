@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/04/2023,home,16340,30180,Rogers St.,9,True,4,6,-2,loss,2389804,1123,2480778,2023,2
 0,2,2,0,0,0,0,0,0,0,02/28/2023,home,16340,181,Delta St.,10,True,8,7,1,win,2392400,1123,2480778,2023,2
+0,1,1,0,0,0,0,0,0,0,03/11/2023,home,16340,1376,Southern Ark.,9,True,6,5,1,win,2394772,1123,2480778,2023,2
+0,0,0,0,0,0,1,0,0,0,03/18/2023,away,16340,1371,Southeastern Okla.,9,True,7,15,-8,loss,2396392,1123,2480778,2023,2
+1,0,1,0,0,0,1,0,0,0,04/02/2023,away,16340,1116,Harding,9,True,6,4,2,win,2427208,1123,2480778,2023,2
+0,0,0,0,0,0,1,0,0,0,04/08/2023,home,16340,8411,Ark.-Monticello,9,True,6,5,1,win,2410438,1123,2480778,2023,2

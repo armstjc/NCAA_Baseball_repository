@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,1,0,02/12/2023,home,16340,30179,Okla. Christian,10,True,8,7,1,win,2390080,30105,2816718,2023,2
 0,0,0,0,0,0,1,0,0,0,02/17/2023,away,16340,1346,St. Mary's (TX),9,True,9,8,1,win,2390457,30105,2816718,2023,2
+0,0,0,0,0,0,1,0,0,0,03/19/2023,away,16340,696,Tex. A&M-Kingsville,9,True,6,3,3,win,2396766,30105,2816718,2023,2
+0,1,1,0,0,0,1,0,0,0,03/26/2023,home,16340,1334,St. Edward's,9,True,0,10,-10,loss,2410483,30105,2816718,2023,2
+0,0,1,1,0,0,0,0,0,0,03/27/2023,home,16340,1334,St. Edward's,9,True,4,14,-10,loss,2398268,30105,2816718,2023,2
+1,0,1,0,0,0,2,0,0,0,04/08/2023,home,16340,206,Eastern N.M.,11,True,9,8,1,win,2401052,30105,2816718,2023,2

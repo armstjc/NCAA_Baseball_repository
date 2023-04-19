@@ -1,2 +1,3 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,1,1,1,1,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,13,0,3,0,0,0,3,0,0,02/17/2023,away,16340,30058,Claflin,9,True,15,4,11,win,2390455,1097,2829569,2023,2
+1,0,1.0,0.0,3,2,2,2,1,0,7,5,0,0,0,0,0,0,0,0,0,0,0,27,0,1,0,0,0,3,0,0,03/28/2023,away,16340,30151,Shorter,9,True,4,10,-6,loss,2398458,1097,2829569,2023,2

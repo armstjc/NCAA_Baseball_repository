@@ -1,2 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/10/2023,away,16340,2720,CSU Pueblo,9,True,22,5,17,win,2389961,1334,2476512,2023,2
+0,0,0,0,0,0,1,0,0,0,03/03/2023,home,16340,996,Cameron,9,True,1,5,-4,loss,2392735,1334,2476512,2023,2
+0,1,1,0,0,0,0,1,0,0,03/10/2023,away,16340,30088,Tex. Permian Basin,9,True,9,6,3,win,2394324,1334,2476512,2023,2
+0,1,1,0,0,0,0,0,0,0,03/17/2023,home,16340,30028,UT Tyler,9,True,7,4,3,win,2395905,1334,2476512,2023,2
+0,1,1,0,0,0,1,1,0,0,03/25/2023,away,16340,30105,Ark.-Fort Smith,9,True,7,2,5,win,2397377,1334,2476512,2023,2
+0,0,0,0,0,0,1,0,0,0,03/31/2023,home,16340,30179,Okla. Christian,9,True,14,1,13,win,2398854,1334,2476512,2023,2
+1,1,2,0,0,0,0,0,0,0,04/14/2023,home,16340,30177,Lubbock Christian,9,True,6,12,-6,loss,2401831,1334,2476512,2023,2

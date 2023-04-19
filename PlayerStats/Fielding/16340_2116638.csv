@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,02/17/2023,away,16340,30058,Claflin,9,True,15,4,11,win,2390455,1097,2116638,2023,2
+2,0,2,0,0,0,0,0,0,0,03/10/2023,away,16340,30154,Young Harris,9,True,1,8,-7,loss,2394467,1097,2116638,2023,2
+3,0,3,0,0,0,0,0,0,0,04/01/2023,home,16340,49,Barry,9,True,0,5,-5,loss,2427016,1097,2116638,2023,2

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,03/18/2023,home,16340,30259,USC Beaufort,9,True,6,0,6,win,2396486,1097,2666701,2023,2
+0,1,1,0,0,0,0,0,0,0,03/26/2023,home,16340,1096,Georgia College,9,True,9,14,-5,loss,2398202,1097,2666701,2023,2
+0,0,1,1,0,0,0,0,0,0,04/02/2023,home,16340,49,Barry,9,True,8,4,4,win,2409076,1097,2666701,2023,2

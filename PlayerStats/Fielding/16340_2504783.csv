@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,03/03/2023,home,16340,1274,Northwest Nazarene,9,True,7,4,3,win,2392727,1446,2504783,2023,2
+0,1,1,0,0,0,0,0,0,0,03/12/2023,away,16340,1010,Central Wash.,9,True,6,3,3,win,2394978,1446,2504783,2023,2
+0,1,1,0,0,0,0,0,0,0,03/30/2023,home,16340,1343,Saint Martin's,9,True,6,5,1,win,2426738,1446,2504783,2023,2
+0,0,0,0,0,0,1,0,0,0,04/07/2023,away,16340,1274,Northwest Nazarene,9,True,8,3,5,win,2400617,1446,2504783,2023,2

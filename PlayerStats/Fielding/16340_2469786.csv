@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,02/10/2023,away,16340,130,Central Mo.,9,True,10,8,2,win,2389974,947,2469786,2023,2
 0,1,1,0,0,0,0,0,0,0,02/26/2023,away,16340,30152,Southern Nazarene,9,True,17,9,8,win,2421885,947,2469786,2023,2
+1,0,1,0,0,0,0,0,0,0,03/12/2023,neutral,16340,1289,Ouachita Baptist,9,True,8,15,-7,loss,2394349,947,2469786,2023,2
+0,0,0,0,0,0,1,0,0,0,03/25/2023,away,16340,8744,Southwestern Okla.,9,True,11,7,4,win,2397812,947,2469786,2023,2
+0,1,1,0,0,0,0,0,0,0,04/04/2023,home,16340,429,Mississippi Col.,9,True,3,7,-4,loss,2399967,947,2469786,2023,2

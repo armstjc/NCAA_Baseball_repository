@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,2,0,0,0,02/17/2023,home,16340,2720,CSU Pueblo,9,True,3,1,2,win,2390357,628,1986474,2023,2
 0,1,1,0,0,0,0,1,0,0,02/24/2023,home,16340,98,Cal St. East Bay,9,True,11,2,9,win,2391416,628,1986474,2023,2
+0,1,1,0,0,0,1,1,0,0,03/03/2023,away,16340,30055,Cal St. Monterey Bay,9,True,4,11,-7,loss,2392873,628,1986474,2023,2
+0,1,1,0,0,0,0,0,0,0,03/17/2023,away,16340,93,Cal St. San B'dino,9,True,16,7,9,win,2395978,628,1986474,2023,2
+0,2,2,0,0,0,0,0,0,0,03/26/2023,home,16340,92,Cal St. Dom. Hills,9,True,3,6,-3,loss,2398112,628,1986474,2023,2
+1,2,3,0,0,0,0,0,1,0,04/02/2023,away,16340,100,Cal State LA,9,True,14,3,11,win,2399494,628,1986474,2023,2

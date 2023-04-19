@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,03/11/2023,away,16340,30088,Tex. Permian Basin,9,True,14,5,9,win,2394714,1334,2124725,2023,2
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,03/11/2023,away,16340,30088,Tex. Permian Basin,12,True,7,6,1,win,2407950,1334,2124725,2023,2
+0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/18/2023,home,16340,30028,UT Tyler,9,True,10,2,8,win,2409349,1334,2124725,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/19/2023,home,16340,30028,UT Tyler,9,True,10,9,1,win,2396733,1334,2124725,2023,2
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/26/2023,away,16340,30105,Ark.-Fort Smith,9,True,10,0,10,win,2410483,1334,2124725,2023,2

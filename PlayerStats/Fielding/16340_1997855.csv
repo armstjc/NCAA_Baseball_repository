@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,04/11/2023,away,16340,784,Wilkes,9,True,6,3,3,win,2401451,787,1997855,2023,3
+3,0,3,0,0,0,0,0,0,0,04/13/2023,home,16340,589,Rutgers-Newark,9,True,19,7,12,win,2401705,787,1997855,2023,3
+1,0,1,0,0,0,0,0,0,0,04/14/2023,away,16340,589,Rutgers-Newark,9,True,21,7,14,win,2401908,787,1997855,2023,3
+1,0,1,0,0,0,0,0,0,0,04/16/2023,home,16340,681,Stockton,9,True,4,3,1,win,2402184,787,1997855,2023,3
+3,1,4,0,0,0,0,0,0,0,04/16/2023,home,16340,681,Stockton,9,True,5,4,1,win,2409600,787,1997855,2023,3
+3,0,3,0,0,0,0,0,0,0,04/18/2023,home,16340,633,Scranton,9,True,10,12,-2,loss,2402949,787,1997855,2023,3

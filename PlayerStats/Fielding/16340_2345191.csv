@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,2,1,0,0,03/28/2023,away,16340,30084,Geneva,9,True,3,7,-4,loss,2398432,30069,2345191,2023,3
+0,0,0,0,0,0,1,1,0,0,04/05/2023,away,16340,30064,Saint Vincent,9,True,8,12,-4,loss,2400130,30069,2345191,2023,3
+0,0,0,0,0,0,2,0,0,0,04/18/2023,home,16340,1451,Westminster (PA),8,True,0,18,-18,loss,2402878,30069,2345191,2023,3

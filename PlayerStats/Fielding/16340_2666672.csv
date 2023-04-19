@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,03/26/2023,away,16340,19,Allegheny,9,True,0,6,-6,loss,2409983,30069,2666672,2023,3
+1,0,1,0,0,0,0,0,0,0,04/12/2023,home,16340,751,Wash. & Jeff.,8,True,1,15,-14,loss,2409210,30069,2666672,2023,3
+0,2,2,0,0,0,0,0,0,0,04/18/2023,home,16340,1451,Westminster (PA),8,True,0,18,-18,loss,2402878,30069,2666672,2023,3

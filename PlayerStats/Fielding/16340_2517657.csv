@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/05/2023,home,16340,30040,Me.-Presque Isle,9,True,21,0,21,win,2408143,151,2517657,2023,3
 0,2,2,0,0,0,2,0,0,0,03/11/2023,away,16340,570,Rensselaer,9,True,0,3,-3,loss,2408784,151,2517657,2023,3
+1,1,2,0,0,0,1,0,0,0,03/18/2023,neutral,16340,607,St. Lawrence,9,True,8,7,1,win,2396239,151,2517657,2023,3
+0,1,1,0,0,0,0,0,0,0,03/24/2023,neutral,16340,615,St. Olaf,9,True,9,3,6,win,2410350,151,2517657,2023,3
+0,1,1,0,0,0,0,0,0,0,04/08/2023,away,16340,50,Bates,9,True,4,7,-3,loss,2400856,151,2517657,2023,3
+0,1,1,0,0,0,0,0,0,0,04/15/2023,home,16340,1133,Husson,9,True,7,1,6,win,2410077,151,2517657,2023,3

@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/05/2023,neutral,16340,382,Manhattanville,9,True,4,20,-16,loss,2393452,30044,2689681,2023,3
 1,0,1,0,0,0,0,0,0,0,03/08/2023,neutral,16340,59,Bethany (WV),9,True,0,10,-10,loss,2394007,30044,2689681,2023,3
+4,0,4,0,0,0,0,0,0,0,03/22/2023,home,16340,453,Muhlenberg,9,True,13,18,-5,loss,2397188,30044,2689681,2023,3
+1,0,1,0,0,0,0,0,0,0,03/26/2023,home,16340,30081,Penn St. Harrisburg,9,True,3,14,-11,loss,2410000,30044,2689681,2023,3
+2,0,2,0,0,0,0,0,0,0,04/13/2023,home,16340,12973,Wilson,9,True,14,19,-5,loss,2401703,30044,2689681,2023,3

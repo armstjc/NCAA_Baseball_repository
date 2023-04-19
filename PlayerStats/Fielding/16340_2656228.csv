@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 7,0,7,0,0,1,0,0,0,0,02/24/2023,away,16340,245,Gallaudet,9,True,19,5,14,win,2391365,753,2656228,2023,3
 3,0,3,0,0,0,0,0,0,0,02/26/2023,neutral,16340,30165,SUNY Canton,9,True,17,1,16,win,2392114,753,2656228,2023,3
+3,0,3,0,0,0,0,0,0,0,03/28/2023,home,16340,21852,Stevenson,9,True,3,15,-12,loss,2397779,753,2656228,2023,3
+1,0,1,0,0,0,0,0,0,0,04/04/2023,home,16340,322,Johns Hopkins,9,True,0,25,-25,loss,2399981,753,2656228,2023,3
+1,0,1,0,0,0,1,0,0,0,04/08/2023,home,16340,686,Swarthmore,10,True,7,6,1,win,2400966,753,2656228,2023,3
+0,0,0,0,0,0,2,0,0,0,04/11/2023,away,16340,276,Haverford,9,True,8,33,-25,loss,2401448,753,2656228,2023,3

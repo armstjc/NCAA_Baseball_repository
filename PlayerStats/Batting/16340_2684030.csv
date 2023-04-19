@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,02/25/2023,neutral,16340,1450,Westminster (MO),10,True,3,4,-1,loss,2391683,1066,2684030,2023,3
 3,6,2,0,0,2,0,1,0,0,0,0,1,0,0,0,1,0,0,03/11/2023,away,16340,123,Castleton,9,True,16,12,4,win,2423994,1066,2684030,2023,3
+0,3,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,1,03/18/2023,neutral,16340,264,Grinnell,9,True,6,4,2,win,2396246,1066,2684030,2023,3
+1,5,3,0,0,3,0,3,0,0,0,0,1,0,0,0,0,0,0,04/06/2023,home,16340,212,Elmhurst,9,True,9,3,6,win,2400117,1066,2684030,2023,3
+1,5,3,0,0,3,0,2,0,1,0,0,0,0,0,0,0,0,0,04/12/2023,home,16340,53,Beloit,9,True,18,19,-1,loss,2401545,1066,2684030,2023,3

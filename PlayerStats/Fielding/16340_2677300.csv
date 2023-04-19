@@ -1,2 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,1,0,0,0,03/05/2023,away,16340,11839,Pitt.-Greensburg,9,True,2,11,-9,loss,2393665,1099,2677300,2023,3
+0,1,1,0,0,0,0,0,0,0,03/21/2023,away,16340,621,Salem St.,9,True,14,6,8,win,2396892,1099,2677300,2023,3
+0,0,0,0,0,0,2,0,0,0,03/26/2023,away,16340,170,Curry,9,True,5,9,-4,loss,2409838,1099,2677300,2023,3
+0,0,0,0,0,0,1,1,0,0,03/30/2023,home,16340,18422,Rivier,9,True,22,7,15,win,2398720,1099,2677300,2023,3
+0,0,0,0,0,0,1,0,0,0,04/03/2023,home,16340,76,Bridgewater St.,9,True,3,6,-3,loss,2399795,1099,2677300,2023,3
+0,0,0,0,0,0,2,0,0,0,04/08/2023,home,16340,484,Nichols,9,True,0,7,-7,loss,2409529,1099,2677300,2023,3
+0,0,0,0,0,0,2,0,0,0,04/11/2023,away,16340,684,Suffolk,9,True,6,16,-10,loss,2401444,1099,2677300,2023,3
+0,1,1,0,0,0,0,1,0,0,04/18/2023,home,16340,8981,Endicott,9,True,4,9,-5,loss,2402914,1099,2677300,2023,3

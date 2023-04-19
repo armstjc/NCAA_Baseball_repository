@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,1,3,0,0,0,1,0,0,0,02/26/2023,away,16340,124,Catholic,9,True,5,6,-1,loss,2407849,623,2359746,2023,3
 1,0,1,0,0,0,0,0,0,0,03/18/2023,home,16340,1133,Husson,9,True,3,0,3,win,2425240,623,2359746,2023,3
+0,0,0,0,0,0,2,0,0,0,04/02/2023,away,16340,8981,Endicott,9,True,1,4,-3,loss,2409878,623,2359746,2023,3
+1,0,1,0,0,0,5,1,0,0,04/08/2023,away,16340,401,UMass Boston,9,True,10,6,4,win,2409423,623,2359746,2023,3
+0,1,1,0,0,0,1,0,0,0,04/15/2023,away,16340,775,Western New Eng.,10,True,5,5,0,tie,2410396,623,2359746,2023,3
+1,0,1,0,0,0,0,0,0,0,04/18/2023,away,16340,583,Roger Williams,9,True,9,8,1,win,2402845,623,2359746,2023,3

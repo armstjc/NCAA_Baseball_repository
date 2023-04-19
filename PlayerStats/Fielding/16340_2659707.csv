@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,04/04/2023,away,16340,520,Ohio Wesleyan,9,True,16,4,12,win,2399898,182,2659707,2023,3
+3,0,3,0,0,0,0,0,0,0,04/04/2023,away,16340,520,Ohio Wesleyan,9,True,14,3,11,win,2409317,182,2659707,2023,3
+2,0,2,0,0,0,0,0,0,0,04/06/2023,home,16340,278,Heidelberg,9,True,7,4,3,win,2400169,182,2659707,2023,3
+1,0,2,1,0,0,0,0,0,0,04/08/2023,home,16340,335,Kenyon,9,True,9,8,1,win,2409788,182,2659707,2023,3
+1,0,1,0,0,0,0,0,0,0,04/09/2023,away,16340,122,CWRU,9,True,8,9,-1,loss,2425030,182,2659707,2023,3
+2,0,2,0,0,0,0,0,0,0,04/13/2023,home,16340,385,Marietta,9,True,12,15,-3,loss,2401711,182,2659707,2023,3
+1,0,1,0,0,0,0,0,0,0,04/15/2023,home,16340,807,Wooster,9,True,8,2,6,win,2402203,182,2659707,2023,3
+2,0,2,0,0,0,0,0,0,0,04/15/2023,home,16340,807,Wooster,9,True,11,0,11,win,2410552,182,2659707,2023,3

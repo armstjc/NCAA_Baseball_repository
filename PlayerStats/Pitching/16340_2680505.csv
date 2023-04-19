@@ -1,2 +1,6 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,0,3,2,0,03/08/2023,away,16340,1305,Cairn,9,True,12,2,10,win,2393975,397,2680505,2023,3
+1,1,4.0,0.0,3,2,1,1,4,0,18,17,1,0,0,0,0,0,0,0,0,0,0,56,3,5,0,0,0,1,0,0,03/21/2023,home,16340,336,King's (PA),9,True,10,2,8,win,2397010,397,2680505,2023,3
+1,0,1.0,0.0,6,4,4,2,0,0,11,9,1,0,0,0,0,0,0,0,0,0,0,36,2,1,0,0,0,3,0,0,03/24/2023,away,16340,12884,Centenary (NJ),9,True,6,12,-6,loss,2397327,397,2680505,2023,3
+1,1,2.0,0.0,2,2,0,4,4,0,12,7,0,0,0,0,1,1,0,0,0,0,0,43,1,0,0,1,0,1,2,0,03/29/2023,home,16340,213,Elmira,9,True,7,16,-9,loss,2398393,397,2680505,2023,3
+1,1,1.0,0.0,4,2,2,2,0,0,9,7,1,0,0,0,1,0,0,0,0,0,0,32,1,2,0,0,0,1,0,0,04/03/2023,home,16340,0,Penn St.-Brandywine,9,True,6,14,-8,loss,2422278,397,2680505,2023,3

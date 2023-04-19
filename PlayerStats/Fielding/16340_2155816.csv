@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 9,0,9,0,0,0,1,0,0,0,03/16/2023,neutral,16340,618,St. Scholastica,9,True,7,0,7,win,2395770,795,2155816,2023,3
+9,1,10,0,0,1,0,0,0,0,03/25/2023,home,16340,803,Wis.-Stout,9,True,10,4,6,win,2397795,795,2155816,2023,3
+16,1,17,0,0,0,1,1,0,0,03/25/2023,home,16340,803,Wis.-Stout,9,True,4,17,-13,loss,2410151,795,2155816,2023,3
+7,0,9,2,0,0,3,0,0,0,03/28/2023,away,16340,612,Saint Mary's (MN),9,True,9,4,5,win,2426565,795,2155816,2023,3
+7,2,9,0,0,0,0,0,1,0,04/03/2023,neutral,16340,800,Wis.-Platteville,9,True,10,0,10,win,2399256,795,2155816,2023,3
+6,1,7,0,0,0,0,0,0,0,04/03/2023,neutral,16340,800,Wis.-Platteville,9,True,6,1,5,win,2410539,795,2155816,2023,3

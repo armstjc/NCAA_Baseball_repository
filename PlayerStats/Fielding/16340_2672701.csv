@@ -1,3 +1,10 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,0,6,1,0,0,1,0,0,0,03/14/2023,neutral,16340,804,Wis.-Superior,8,True,6,8,-2,loss,2395380,30083,2672701,2023,3
 6,1,7,0,0,0,3,1,0,0,03/14/2023,neutral,16340,804,Wis.-Superior,9,True,7,3,4,win,2408425,30083,2672701,2023,3
+2,0,2,0,0,0,0,0,0,0,03/16/2023,neutral,16340,1468,Mt. St. Mary (NY),9,True,12,2,10,win,2395754,30083,2672701,2023,3
+6,0,6,0,0,0,0,0,0,0,03/17/2023,neutral,16340,24,Amherst,9,True,9,15,-6,loss,2395882,30083,2672701,2023,3
+8,0,8,0,0,1,4,0,0,0,03/31/2023,away,16340,787,Wm. Paterson,9,True,6,11,-5,loss,2426743,30083,2672701,2023,3
+5,1,7,1,0,0,0,1,0,0,04/08/2023,home,16340,9500,SUNY Poly,9,True,13,0,13,win,2400874,30083,2672701,2023,3
+4,2,6,0,0,2,0,0,0,0,04/11/2023,away,16340,9500,SUNY Poly,8,True,11,10,1,win,2409896,30083,2672701,2023,3
+8,0,10,2,0,0,0,0,0,0,04/12/2023,home,16340,475,SUNY New Paltz,9,True,4,11,-7,loss,2401571,30083,2672701,2023,3
+3,1,4,0,0,2,0,0,0,0,04/18/2023,home,16340,23624,Cazenovia,9,True,8,7,1,win,2411036,30083,2672701,2023,3

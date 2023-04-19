@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/24/2023,home,16340,307,Indiana (PA),9,True,18,6,12,win,2391555,1257,2666526,2023,2
+0,0,0,0,0,0,1,0,0,0,03/19/2023,away,16340,30181,UVA Wise,9,True,19,16,3,win,2396012,1257,2666526,2023,2
+0,0,1,1,0,0,0,0,0,0,04/18/2023,neutral,16340,1245,Mount Olive,9,True,3,19,-16,loss,2422283,1257,2666526,2023,2

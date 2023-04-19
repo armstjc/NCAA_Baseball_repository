@@ -1,3 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,2,0,0,0,02/07/2023,away,16340,100,Cal State LA,9,True,11,3,8,win,2389874,205,2125899,2023,2
 1,0,1,0,0,0,0,0,0,0,02/25/2023,neutral,16340,767,West Tex. A&M,9,True,5,22,-17,loss,2391814,205,2125899,2023,2
+0,1,1,0,0,0,1,1,0,0,03/03/2023,away,16340,11416,Colorado Mesa,9,True,6,16,-10,loss,2392725,205,2125899,2023,2
+1,1,2,0,0,0,1,0,0,0,03/09/2023,away,16340,1274,Northwest Nazarene,12,True,5,6,-1,loss,2394698,205,2125899,2023,2
+1,1,2,0,0,0,0,0,1,0,03/17/2023,home,16340,1343,Saint Martin's,9,True,16,8,8,win,2395909,205,2125899,2023,2
+1,2,3,0,0,0,1,0,0,0,03/24/2023,home,16340,1446,Western Ore.,9,True,17,7,10,win,2397380,205,2125899,2023,2
+0,2,3,1,0,0,1,0,0,0,03/31/2023,away,16340,1010,Central Wash.,9,True,7,9,-2,loss,2398844,205,2125899,2023,2
+1,0,1,0,0,0,2,0,0,0,04/14/2023,home,16340,1274,Northwest Nazarene,9,True,8,4,4,win,2401828,205,2125899,2023,2

@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,6,0,0,0,03/10/2023,neutral,16340,278,Heidelberg,9,True,10,6,4,win,2394282,30042,2145000,2023,3
 0,0,0,0,0,0,1,0,0,0,03/15/2023,neutral,16340,1226,Minn.-Morris,9,True,1,2,-1,loss,2424820,30042,2145000,2023,3
+0,0,0,0,0,0,1,0,0,0,03/24/2023,home,16340,467,New England Col.,9,True,7,0,7,win,2425870,30042,2145000,2023,3
+2,0,2,0,0,0,0,1,0,0,04/01/2023,away,16340,1064,Eastern Nazarene,9,True,12,1,11,win,2399098,30042,2145000,2023,3
+0,1,2,1,0,0,1,1,0,0,04/08/2023,home,16340,24317,Lesley,9,True,7,4,3,win,2400831,30042,2145000,2023,3

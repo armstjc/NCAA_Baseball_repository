@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/21/2023,neutral,16340,802,Wis.-Stevens Point,9,True,1,9,-8,loss,2396917,751,2650086,2023,3
+0,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/24/2023,neutral,16340,807,Wooster,8,True,5,4,1,win,2397371,751,2650086,2023,3
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/29/2023,away,16340,30064,Saint Vincent,9,True,10,1,9,win,2398434,751,2650086,2023,3
+0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,04/04/2023,home,16340,0,Point Park,9,True,10,15,-5,loss,2399921,751,2650086,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/12/2023,away,16340,30069,Franciscan,8,True,15,1,14,win,2409210,751,2650086,2023,3
+0,3,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,04/16/2023,away,16340,452,Mount Union,9,True,6,5,1,win,2429280,751,2650086,2023,3

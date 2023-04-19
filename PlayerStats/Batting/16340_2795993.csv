@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,02/26/2023,home,16340,601,St. John Fisher,9,True,13,1,12,win,2392159,622,2795993,2023,3
 1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,03/05/2023,home,16340,322,Johns Hopkins,9,True,4,23,-19,loss,2393644,622,2795993,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/18/2023,away,16340,1254,Neumann,9,True,18,0,18,win,2402931,622,2795993,2023,3

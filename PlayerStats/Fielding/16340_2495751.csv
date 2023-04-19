@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+13,0,13,0,0,0,4,0,0,0,04/08/2023,away,16340,762,Wentworth,9,True,15,10,5,win,2400885,583,2495751,2023,3
+8,1,9,0,0,0,3,0,0,0,04/08/2023,away,16340,762,Wentworth,9,True,7,2,5,win,2409527,583,2495751,2023,3
+14,1,15,0,0,0,0,0,0,0,04/11/2023,home,16340,22626,JWU (Providence),9,True,5,7,-2,loss,2401350,583,2495751,2023,3

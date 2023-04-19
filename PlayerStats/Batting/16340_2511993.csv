@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/14/2023,neutral,16340,245,Gallaudet,9,True,15,3,12,win,2395366,8486,2511993,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/13/2023,home,16340,684,Suffolk,9,True,3,13,-10,loss,2426027,8486,2511993,2023,3

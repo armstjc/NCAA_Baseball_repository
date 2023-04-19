@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/07/2023,home,16340,777,Westfield St.,9,True,16,2,14,win,2393760,30042,2355662,2023,3
 0,1,1,0,0,0,0,0,0,0,03/11/2023,neutral,16340,182,Denison,9,True,6,10,-4,loss,2394633,30042,2355662,2023,3
+0,2,2,0,0,0,1,0,0,0,03/26/2023,home,16340,1133,Husson,9,True,17,8,9,win,2398190,30042,2355662,2023,3
+0,1,1,0,0,0,0,0,0,0,04/01/2023,away,16340,1064,Eastern Nazarene,9,True,12,1,11,win,2409864,30042,2355662,2023,3
+0,0,0,0,0,0,1,1,0,0,04/02/2023,away,16340,775,Western New Eng.,9,True,4,6,-2,loss,2399520,30042,2355662,2023,3
+0,1,1,0,0,0,1,0,0,0,04/16/2023,home,16340,623,Salve Regina,9,True,5,12,-7,loss,2402523,30042,2355662,2023,3

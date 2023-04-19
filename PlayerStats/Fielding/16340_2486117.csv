@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,4,0,0,0,0,0,0,0,02/12/2023,home,16340,1355,Schreiner,9,True,4,5,-1,loss,2407992,8530,2486117,2023,3
+0,2,2,0,0,0,0,0,0,0,03/21/2023,home,16340,715,Trinity (TX),9,True,9,5,4,win,2396902,8530,2486117,2023,3
+1,0,1,0,0,0,0,0,0,0,03/28/2023,away,16340,1044,Dallas,9,True,13,5,8,win,2398409,8530,2486117,2023,3
+1,2,3,0,0,0,0,0,2,0,04/15/2023,home,16340,8490,LeTourneau,9,True,13,14,-1,loss,2410221,8530,2486117,2023,3

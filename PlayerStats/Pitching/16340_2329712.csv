@@ -1,2 +1,3 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,5.0,0.0,7,4,4,1,1,0,24,20,0,0,1,1,1,0,0,0,0,2,1,78,9,5,0,1,0,1,0,0,03/11/2023,away,16340,139,Chris. Newport,9,True,2,11,-9,loss,2408064,30081,2329712,2023,3
+1,1,8.1,0.0,6,2,2,1,4,0,31,28,2,0,0,0,0,1,0,0,0,1,0,97,6,13,1,0,0,1,0,1,04/08/2023,away,16340,611,St. Mary's (MD),9,True,6,2,4,win,2410233,30081,2329712,2023,3

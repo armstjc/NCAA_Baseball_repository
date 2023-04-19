@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/03/2023,home,16340,30105,Ark.-Fort Smith,9,True,15,2,13,win,2392896,25,2816975,2023,2
+1,0,1,0,0,0,0,0,0,0,03/04/2023,home,16340,30105,Ark.-Fort Smith,9,True,16,1,15,win,2393301,25,2816975,2023,2
+1,0,1,0,0,0,0,0,0,0,03/14/2023,home,16340,8746,Southwestern (TX),9,True,6,1,5,win,2395338,25,2816975,2023,2
+3,0,3,0,0,0,0,0,0,0,03/15/2023,home,16340,8746,Southwestern (TX),9,True,33,4,29,win,2395579,25,2816975,2023,2
+4,0,4,0,0,0,0,0,0,0,03/17/2023,home,16340,1346,St. Mary's (TX),9,True,3,10,-7,loss,2396102,25,2816975,2023,2
+2,0,2,0,0,0,0,0,0,0,03/18/2023,home,16340,1346,St. Mary's (TX),9,True,6,1,5,win,2396515,25,2816975,2023,2
+1,0,1,0,0,0,0,0,0,0,03/18/2023,home,16340,1346,St. Mary's (TX),9,True,4,3,1,win,2410249,25,2816975,2023,2

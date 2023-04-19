@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,1,1,0,0,0,0,0,0,03/24/2023,away,16340,787,Wm. Paterson,13,True,6,7,-1,loss,2425761,382,2695676,2023,3
+0,1,1,0,0,0,0,0,0,0,04/03/2023,home,16340,30072,St. Joseph's (Brkln),9,True,12,6,6,win,2410171,382,2695676,2023,3
+0,3,3,0,0,0,0,0,0,0,04/15/2023,away,16340,451,CMSV,9,True,1,2,-1,loss,2402170,382,2695676,2023,3

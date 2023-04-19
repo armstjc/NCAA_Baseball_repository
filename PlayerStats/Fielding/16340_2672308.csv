@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/26/2023,home,16340,190,Drew,9,True,2,20,-18,loss,2391881,221,2672308,2023,3
+0,2,2,0,0,0,0,0,0,0,03/18/2023,neutral,16340,712,TCNJ,12,True,3,4,-1,loss,2396233,221,2672308,2023,3
+0,1,1,0,0,0,0,0,0,0,03/22/2023,away,16340,724,Merchant Marine,9,True,2,10,-8,loss,2397190,221,2672308,2023,3
+0,0,0,0,0,0,1,0,0,0,03/26/2023,away,16340,20,DeSales,9,True,6,15,-9,loss,2410470,221,2672308,2023,3

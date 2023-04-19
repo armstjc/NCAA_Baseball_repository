@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,1,0,0,03/08/2023,away,16340,585,Rose-Hulman,9,True,4,6,-2,loss,2423683,1111,2500225,2023,3
 0,1,1,0,0,0,0,0,0,0,03/13/2023,neutral,16340,526,SUNY Oneonta,9,True,10,0,10,win,2395248,1111,2500225,2023,3
+1,0,1,0,0,0,0,0,0,0,03/17/2023,neutral,16340,53,Beloit,9,True,15,11,4,win,2395878,1111,2500225,2023,3
+0,1,1,0,0,0,0,0,0,0,03/27/2023,away,16340,64,Blackburn,9,True,15,0,15,win,2426461,1111,2500225,2023,3
+0,1,1,0,0,0,1,0,0,0,04/01/2023,home,16340,1450,Westminster (MO),10,True,8,7,1,win,2399176,1111,2500225,2023,3
+0,1,1,0,0,0,0,0,0,0,04/14/2023,away,16340,218,Eureka,9,True,16,3,13,win,2428926,1111,2500225,2023,3

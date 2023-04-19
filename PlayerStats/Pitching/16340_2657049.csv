@@ -1,2 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2.0,0.0,3,3,3,3,2,0,12,9,0,0,0,0,0,0,0,0,0,0,0,69,1,3,0,0,0,1,1,0,03/11/2023,away,16340,412,Methodist,9,True,7,11,-4,loss,2394518,21830,2657049,2023,3
+1,1,6.0,0.0,3,1,1,2,8,0,24,21,0,0,0,0,1,1,0,0,0,0,0,98,0,9,1,0,0,1,4,1,03/18/2023,away,16340,217,Emory,9,True,12,1,11,win,2425258,21830,2657049,2023,3
+1,1,6.0,0.0,3,3,3,5,6,0,27,20,1,0,0,0,0,1,0,0,0,0,1,110,4,7,0,0,0,1,0,0,03/24/2023,away,16340,30197,Belhaven,9,True,10,12,-2,loss,2397285,21830,2657049,2023,3
+1,0,1.0,0.0,1,0,0,3,1,0,7,4,0,0,0,0,0,0,0,0,0,0,0,24,1,1,0,0,0,2,1,0,04/11/2023,away,16340,30111,Covenant,9,True,11,16,-5,loss,2400375,21830,2657049,2023,3

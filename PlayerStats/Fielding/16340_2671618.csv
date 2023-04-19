@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,1,1,0,0,5,0,0,0,03/16/2023,neutral,16340,397,Marywood,9,True,3,6,-3,loss,2424974,8486,2671618,2023,3
+0,0,1,1,0,0,6,0,0,0,03/16/2023,neutral,16340,397,Marywood,9,True,3,6,-3,loss,2424974,8486,2671618,2023,3
+1,1,2,0,0,0,0,0,0,0,04/03/2023,away,16340,2798,Albertus Magnus,9,True,13,8,5,win,2409094,8486,2671618,2023,3
+0,0,0,0,0,0,1,0,0,0,04/13/2023,home,16340,684,Suffolk,9,True,3,13,-10,loss,2426027,8486,2671618,2023,3

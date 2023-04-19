@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2023,home,16340,30040,Me.-Presque Isle,9,True,18,2,16,win,2392976,151,2355438,2023,3
 0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,03/05/2023,home,16340,30040,Me.-Presque Isle,9,True,21,0,21,win,2408143,151,2355438,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/29/2023,home,16340,379,Me.-Farmington,9,True,14,2,12,win,2398598,151,2355438,2023,3
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,04/07/2023,home,16340,50,Bates,9,True,17,7,10,win,2400392,151,2355438,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/08/2023,away,16340,50,Bates,9,True,22,4,18,win,2428369,151,2355438,2023,3

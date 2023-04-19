@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,03/18/2023,home,16340,320,John Carroll,9,True,15,2,13,win,2409264,390,2333966,2023,3
+1,0,1,0,0,0,0,0,0,0,03/19/2023,home,16340,320,John Carroll,9,True,10,3,7,win,2396642,390,2333966,2023,3
+2,0,2,0,0,0,0,0,0,0,03/25/2023,home,16340,30170,Alfred St.,9,True,7,2,5,win,2397744,390,2333966,2023,3
+2,0,3,1,0,0,0,0,0,0,03/28/2023,home,16340,30164,Southern Va.,9,True,10,4,6,win,2398451,390,2333966,2023,3
+1,0,1,0,0,0,0,0,0,0,04/13/2023,away,16340,203,East. Mennonite,9,True,14,4,10,win,2401698,390,2333966,2023,3

@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/05/2023,away,16340,689,Tampa,10,True,3,5,-2,loss,2389848,1096,2134441,2023,2
+0,1,2,1,0,0,4,1,0,0,03/04/2023,away,16340,30154,Young Harris,9,True,5,14,-9,loss,2392870,1096,2134441,2023,2
+0,0,0,0,0,0,2,0,0,0,04/12/2023,away,16340,1257,Newberry,9,True,2,13,-11,loss,2401680,1096,2134441,2023,2

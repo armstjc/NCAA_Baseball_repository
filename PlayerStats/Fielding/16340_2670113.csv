@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/04/2023,home,16340,752,Wash. & Lee,9,True,8,11,-3,loss,2408493,1112,2670113,2023,3
 1,0,1,0,0,0,0,0,0,0,03/08/2023,away,16340,17094,William Peace,9,True,16,5,11,win,2394037,1112,2670113,2023,3
+0,3,3,0,0,0,0,0,0,0,03/22/2023,away,16340,225,Ferrum,9,True,11,7,4,win,2397232,1112,2670113,2023,3
+1,1,2,0,0,0,0,0,0,0,04/04/2023,home,16340,30164,Southern Va.,9,True,23,8,15,win,2399947,1112,2670113,2023,3
+0,1,1,0,0,0,0,0,0,0,04/08/2023,away,16340,390,Mary Washington,9,True,6,4,2,win,2400964,1112,2670113,2023,3
+0,0,0,0,0,0,1,0,0,0,04/11/2023,home,16340,225,Ferrum,9,True,10,2,8,win,2401401,1112,2670113,2023,3

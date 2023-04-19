@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,1,0,0,0,02/18/2023,away,16340,1130,Huntingdon,9,True,5,6,-1,loss,2390779,1062,2336188,2023,3
 1,0,1,0,0,0,0,0,0,0,02/25/2023,away,16340,1390,Sul Ross St.,9,True,15,11,4,win,2391827,1062,2336188,2023,3
+0,0,0,0,0,0,1,1,0,0,03/24/2023,home,16340,1203,Mary Hardin-Baylor,9,True,10,1,9,win,2397571,1062,2336188,2023,3
+0,0,0,0,0,0,2,0,0,0,03/31/2023,away,16340,8530,McMurry,9,True,12,10,2,win,2399033,1062,2336188,2023,3
+0,1,1,0,0,0,0,1,0,0,04/08/2023,home,16340,8490,LeTourneau,9,True,15,7,8,win,2409937,1062,2336188,2023,3

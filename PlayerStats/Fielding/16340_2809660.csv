@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,02/24/2023,away,16340,245,Gallaudet,9,True,19,5,14,win,2391365,753,2809660,2023,3
 1,0,1,0,0,0,0,0,0,0,03/17/2023,neutral,16340,30069,Franciscan,9,True,13,3,10,win,2395893,753,2809660,2023,3
+3,0,3,0,0,0,0,0,0,0,03/23/2023,home,16340,622,Salisbury,9,True,6,35,-29,loss,2397259,753,2809660,2023,3
+1,1,2,0,0,0,0,0,0,0,03/28/2023,home,16340,21852,Stevenson,9,True,3,15,-12,loss,2397779,753,2809660,2023,3
+3,0,3,0,0,0,0,0,0,0,04/04/2023,home,16340,322,Johns Hopkins,9,True,0,25,-25,loss,2399981,753,2809660,2023,3
+10,0,10,0,0,0,0,0,1,0,04/18/2023,home,16340,239,Franklin & Marshall,9,True,5,13,-8,loss,2402933,753,2809660,2023,3

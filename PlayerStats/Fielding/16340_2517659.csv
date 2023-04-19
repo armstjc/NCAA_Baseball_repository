@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/05/2023,home,16340,30040,Me.-Presque Isle,9,True,18,2,16,win,2392976,151,2517659,2023,3
 1,0,1,0,0,0,0,0,0,0,03/05/2023,home,16340,30040,Me.-Presque Isle,9,True,21,0,21,win,2408143,151,2517659,2023,3
+5,0,5,0,0,0,0,0,0,0,03/20/2023,neutral,16340,802,Wis.-Stevens Point,9,True,2,5,-3,loss,2396829,151,2517659,2023,3
+2,0,2,0,0,0,0,0,0,0,04/08/2023,away,16340,50,Bates,9,True,22,4,18,win,2428369,151,2517659,2023,3

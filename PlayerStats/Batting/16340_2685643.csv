@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2023,away,16340,452,Mount Union,9,True,7,3,4,win,2394988,623,2685643,2023,3
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/12/2023,neutral,16340,452,Mount Union,9,True,7,3,4,win,2394988,623,2685643,2023,3
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,03/14/2023,home,16340,673,Springfield,9,True,16,0,16,win,2395362,623,2685643,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/02/2023,away,16340,8981,Endicott,9,True,1,4,-3,loss,2409878,623,2685643,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/15/2023,away,16340,775,Western New Eng.,10,True,5,5,0,tie,2410396,623,2685643,2023,3

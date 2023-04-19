@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/18/2023,home,16340,783,Widener,9,True,16,0,16,win,2390755,622,2796039,2023,3
 0,0,0,0,0,0,1,0,0,0,03/15/2023,home,16340,730,Ursinus,9,True,3,6,-3,loss,2395675,622,2796039,2023,3
+3,0,3,0,0,0,0,0,0,0,03/23/2023,away,16340,753,Washington Col.,9,True,35,6,29,win,2397259,622,2796039,2023,3

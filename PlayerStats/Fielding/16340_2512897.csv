@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,03/21/2023,home,16340,321,John Jay,9,True,17,5,12,win,2396997,382,2512897,2023,3
+2,0,2,0,0,0,6,0,0,0,04/04/2023,away,16340,319,New Jersey City,9,True,3,9,-6,loss,2399977,382,2512897,2023,3
+1,0,1,0,0,1,0,0,0,0,04/11/2023,away,16340,564,Ramapo,9,True,6,20,-14,loss,2401440,382,2512897,2023,3
+2,0,2,0,0,0,0,0,0,0,04/16/2023,away,16340,478,SUNY Maritime,9,True,8,13,-5,loss,2402588,382,2512897,2023,3

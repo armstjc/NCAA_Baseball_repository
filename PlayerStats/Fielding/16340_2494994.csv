@@ -1,5 +1,10 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,1,0,0,02/20/2023,home,16340,258,Gettysburg,9,True,8,3,5,win,2391077,390,2494994,2023,3
+0,0,0,0,0,0,1,0,0,0,02/26/2023,home,16340,325,Juniata,9,True,4,3,1,win,2391737,390,2494994,2023,3
 0,3,3,0,0,0,0,0,0,0,03/04/2023,neutral,16340,30047,Keystone,9,True,7,6,1,win,2393037,390,2494994,2023,3
 0,1,1,0,0,0,0,0,0,0,03/11/2023,home,16340,588,Rutgers-Camden,9,True,11,4,7,win,2394678,390,2494994,2023,3
 0,1,1,0,0,0,4,0,0,0,03/18/2023,home,16340,320,John Carroll,9,True,7,13,-6,loss,2396285,390,2494994,2023,3
+0,1,1,0,0,0,0,0,0,0,03/25/2023,home,16340,30170,Alfred St.,9,True,6,5,1,win,2409985,390,2494994,2023,3
+0,1,1,0,0,0,0,0,0,0,03/28/2023,home,16340,30164,Southern Va.,9,True,10,4,6,win,2398451,390,2494994,2023,3
+0,0,0,0,0,0,1,0,0,0,04/08/2023,home,16340,1112,Guilford,9,True,4,6,-2,loss,2409811,390,2494994,2023,3
+0,1,1,0,0,0,0,0,0,0,04/16/2023,away,16340,622,Salisbury,9,True,10,12,-2,loss,2402430,390,2494994,2023,3

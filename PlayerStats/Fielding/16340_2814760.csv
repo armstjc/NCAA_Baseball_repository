@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 8,0,8,0,0,0,0,0,0,0,03/02/2023,away,16340,11416,Colorado Mesa,9,True,8,19,-11,loss,2392595,205,2814760,2023,2
+1,0,1,0,0,0,0,0,0,0,03/04/2023,away,16340,11416,Colorado Mesa,9,True,9,6,3,win,2393101,205,2814760,2023,2
+3,0,3,0,0,0,0,0,0,0,03/11/2023,away,16340,1274,Northwest Nazarene,9,True,7,4,3,win,2394388,205,2814760,2023,2
+13,0,13,0,0,0,0,0,2,0,03/18/2023,home,16340,1343,Saint Martin's,9,True,9,8,1,win,2396309,205,2814760,2023,2
+6,0,6,0,0,0,0,0,2,0,03/18/2023,home,16340,1343,Saint Martin's,8,True,12,13,-1,loss,2409361,205,2814760,2023,2
+2,0,2,0,0,0,0,0,0,0,04/07/2023,home,16340,11403,Colo. Christian,9,True,30,6,24,win,2400534,205,2814760,2023,2

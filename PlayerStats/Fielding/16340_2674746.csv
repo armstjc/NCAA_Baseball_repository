@@ -1,4 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,03/04/2023,away,16340,30171,Berea,9,True,11,6,5,win,2392967,30094,2674746,2023,3
 1,0,1,0,0,0,0,0,0,0,03/05/2023,away,16340,30171,Berea,9,True,11,2,9,win,2393342,30094,2674746,2023,3
-2,0,2,0,0,1,0,0,0,0,03/18/2023,away,16340,30164,Southern Va.,9,True,23,6,17,win,2425249,30094,2674746,2023,3
+2,0,2,0,0,1,0,0,0,0,03/18/2023,away,16340,30164,Southern Va.,9,True,23,6,17,win,2409677,30094,2674746,2023,3
+6,1,8,1,0,0,4,0,0,0,03/27/2023,home,16340,789,Williams,9,True,12,14,-2,loss,2398326,30094,2674746,2023,3

@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,0,4,0,0,0,0,0,0,0,03/04/2023,home,16340,75,Bridgewater (VA),9,True,14,2,12,win,2422661,21830,2467617,2023,3
+8,0,8,0,0,0,0,0,0,0,03/18/2023,away,16340,217,Emory,9,True,12,1,11,win,2425258,21830,2467617,2023,3
+7,1,8,0,0,0,0,0,0,0,03/19/2023,home,16340,217,Emory,9,True,11,2,9,win,2396812,21830,2467617,2023,3
+6,0,6,0,0,2,2,0,0,0,03/24/2023,away,16340,30197,Belhaven,9,True,10,12,-2,loss,2397285,21830,2467617,2023,3
+8,1,9,0,0,0,0,0,0,0,04/01/2023,home,16340,30171,Berea,9,True,10,13,-3,loss,2409871,21830,2467617,2023,3
+1,0,1,0,0,0,0,0,0,0,04/18/2023,home,16340,2713,Oglethorpe,9,True,3,7,-4,loss,2402995,21830,2467617,2023,3

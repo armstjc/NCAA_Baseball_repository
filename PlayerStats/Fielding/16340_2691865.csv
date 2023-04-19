@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/26/2023,away,16340,225,Ferrum,9,True,20,4,16,win,2408394,30081,2691865,2023,3
 1,0,1,0,0,0,0,0,0,0,03/09/2023,away,16340,745,Va. Wesleyan,9,True,16,12,4,win,2394167,30081,2691865,2023,3
+1,0,1,0,0,0,0,0,0,0,03/26/2023,away,16340,30044,Penn St.-Berks,9,True,14,3,11,win,2410000,30081,2691865,2023,3
+1,0,1,0,0,0,0,0,0,0,04/01/2023,home,16340,245,Gallaudet,9,True,28,1,27,win,2398905,30081,2691865,2023,3

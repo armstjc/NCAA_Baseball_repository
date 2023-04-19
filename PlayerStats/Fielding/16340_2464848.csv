@@ -1,2 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,2,0,0,0,02/25/2023,neutral,16340,143,Clarion,9,True,4,8,-4,loss,2421618,339,2464848,2023,2
+0,0,0,0,0,0,1,0,0,0,03/04/2023,neutral,16340,1347,Saint Rose,9,True,4,15,-11,loss,2393048,339,2464848,2023,2
+1,1,2,0,0,0,0,0,0,0,03/12/2023,home,16340,357,Lincoln (PA),9,True,11,1,10,win,2394575,339,2464848,2023,2
+0,2,2,0,0,0,4,0,0,0,03/18/2023,home,16340,423,Millersville,11,True,4,8,-4,loss,2409369,339,2464848,2023,2
+0,1,2,1,0,0,0,0,1,0,03/26/2023,home,16340,360,Lock Haven,11,True,5,4,1,win,2426300,339,2464848,2023,2
+1,2,3,0,0,0,0,1,1,0,04/03/2023,away,16340,65,Bloomsburg,9,True,5,6,-1,loss,2399253,339,2464848,2023,2
+0,1,1,0,0,0,0,0,0,0,04/08/2023,away,16340,10870,Shepherd,9,True,5,4,1,win,2410122,339,2464848,2023,2
+1,1,2,0,0,0,1,0,0,0,04/15/2023,away,16340,384,Mansfield,11,True,14,13,1,win,2410570,339,2464848,2023,2

@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/04/2023,home,16340,423,Millersville,9,True,4,7,-3,loss,2412095,15646,2815822,2023,2
 1,0,1,0,0,0,2,0,0,0,02/24/2023,away,16340,1245,Mount Olive,9,True,4,5,-1,loss,2391639,15646,2815822,2023,2
+0,1,1,0,0,0,0,1,0,0,03/05/2023,home,16340,30051,King (TN),9,True,18,7,11,win,2423134,15646,2815822,2023,2
+0,0,0,0,0,0,1,0,0,0,03/18/2023,home,16340,1072,Erskine,9,True,13,10,3,win,2409046,15646,2815822,2023,2

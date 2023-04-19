@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/03/2023,neutral,16340,1071,Emporia St.,9,True,9,17,-8,loss,2389696,30202,2806095,2023,2
 0,1,1,0,0,0,0,1,0,0,02/15/2023,away,16340,1009,Central Okla.,9,True,5,4,1,win,2390234,30202,2806095,2023,2
+0,1,1,0,0,0,0,0,0,0,03/04/2023,away,16340,30178,Northwestern Okla.,9,True,13,7,6,win,2393206,30202,2806095,2023,2
+0,0,1,1,0,0,1,0,0,0,03/11/2023,home,16340,1371,Southeastern Okla.,9,True,14,2,12,win,2394784,30202,2806095,2023,2
+0,2,2,0,0,0,2,1,0,0,04/01/2023,home,16340,8965,East Central,9,True,8,11,-3,loss,2399368,30202,2806095,2023,2
+0,1,1,0,0,0,0,0,0,0,04/08/2023,away,16340,8744,Southwestern Okla.,9,True,23,4,19,win,2400495,30202,2806095,2023,2
+0,1,1,0,0,0,0,0,0,0,04/15/2023,away,16340,1289,Ouachita Baptist,9,True,5,10,-5,loss,2402191,30202,2806095,2023,2

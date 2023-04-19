@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,02/10/2023,home,16340,2814,Washburn,9,True,12,3,9,win,2389989,24639,2315657,2023,2
+2,0,2,0,0,0,0,0,0,0,04/04/2023,away,16340,30045,Palm Beach Atl.,9,True,8,6,2,win,2399809,24639,2315657,2023,2
+2,0,3,1,0,0,0,0,0,0,04/06/2023,away,16340,9680,Embry-Riddle (FL),9,True,5,12,-7,loss,2427830,24639,2315657,2023,2
+2,0,2,0,0,0,0,0,0,0,04/15/2023,home,16340,233,Fla. Southern,9,True,5,4,1,win,2402425,24639,2315657,2023,2
+3,0,3,0,0,0,0,0,0,0,04/16/2023,home,16340,233,Fla. Southern,9,True,7,17,-10,loss,2402623,24639,2315657,2023,2

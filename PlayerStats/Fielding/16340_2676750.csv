@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/22/2023,away,16340,720,Tuskegee,9,True,16,3,13,win,2391215,766,2676750,2023,2
+1,1,2,0,0,0,0,0,0,0,03/07/2023,home,16340,720,Tuskegee,9,True,12,1,11,win,2393755,766,2676750,2023,2
+0,1,1,0,0,0,0,0,0,0,03/25/2023,away,16340,10,Alabama Huntsville,9,True,1,8,-7,loss,2410474,766,2676750,2023,2

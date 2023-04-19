@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,1,0,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,03/01/2023,home,16340,8956,Dominican (NY),9,True,11,1,10,win,2392522,1245,2331414,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2023,away,16340,30092,Flagler,9,True,15,4,11,win,2408620,1245,2331414,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/15/2023,home,16340,613,Saint Michael's,9,True,21,1,20,win,2395565,1245,2331414,2023,2

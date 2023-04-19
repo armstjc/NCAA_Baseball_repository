@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,1,0,0,02/26/2023,neutral,16340,468,Southern N.H.,9,True,4,8,-4,loss,2392100,1348,2511147,2023,2
+0,0,0,0,0,0,1,1,0,0,03/12/2023,away,16340,49,Barry,9,True,0,6,-6,loss,2395058,1348,2511147,2023,2
+1,1,3,1,0,0,1,0,1,0,03/19/2023,away,16340,543,Jefferson,9,True,0,5,-5,loss,2408990,1348,2511147,2023,2
+1,1,2,0,0,0,0,1,0,0,04/03/2023,away,16340,407,Mercy,9,True,5,1,4,win,2398874,1348,2511147,2023,2
+1,1,2,0,0,0,0,0,0,0,04/08/2023,home,16340,357,Lincoln (PA),9,True,4,2,2,win,2409526,1348,2511147,2023,2

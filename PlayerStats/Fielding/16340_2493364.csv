@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/26/2023,away,16340,9754,UC-Colo. Springs,9,True,9,11,-2,loss,2392014,30128,2493364,2023,2
+0,0,0,0,0,0,2,0,0,0,03/12/2023,neutral,16340,757,Wayne St. (MI),9,True,2,8,-6,loss,2395022,30128,2493364,2023,2
+0,0,0,0,0,0,1,0,0,0,03/26/2023,neutral,16340,54,Bemidji St.,12,True,13,11,2,win,2426357,30128,2493364,2023,2
+1,1,2,0,0,0,3,1,0,0,04/01/2023,neutral,16340,27854,Minn.-Crookston,9,True,11,6,5,win,2410042,30128,2493364,2023,2
+0,0,1,1,0,0,1,0,0,0,04/07/2023,neutral,16340,1266,Northern St.,9,True,26,17,9,win,2409958,30128,2493364,2023,2
+0,0,0,0,0,0,2,0,0,0,04/17/2023,home,16340,598,St. Cloud St.,9,True,9,19,-10,loss,2429506,30128,2493364,2023,2

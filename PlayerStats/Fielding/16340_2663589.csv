@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,2,0,0,0,02/26/2023,home,16340,728,Upper Iowa,9,True,6,1,5,win,2408346,30138,2663589,2023,2
+1,0,1,0,0,0,0,1,0,0,03/11/2023,home,16340,395,Maryville (MO),9,True,6,3,3,win,2407868,30138,2663589,2023,2
+0,1,1,0,0,0,0,0,0,0,03/19/2023,away,16340,2755,Southwest Baptist,9,True,8,18,-10,loss,2396661,30138,2663589,2023,2
+1,0,1,0,0,0,0,1,0,0,03/26/2023,home,16340,354,Lewis,9,True,14,9,5,win,2426372,30138,2663589,2023,2
+0,0,0,0,0,0,1,0,0,0,04/02/2023,away,16340,1328,Rockhurst,9,True,13,10,3,win,2399603,30138,2663589,2023,2
+0,1,1,0,0,0,0,1,0,0,04/08/2023,home,16340,30050,Ill. Springfield,9,True,0,6,-6,loss,2401035,30138,2663589,2023,2

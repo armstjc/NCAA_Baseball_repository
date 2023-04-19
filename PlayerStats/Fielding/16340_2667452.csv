@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/08/2023,home,16340,205,Mont. St. Billings,9,True,11,12,-1,loss,2389901,100,2667452,2023,2
+0,1,1,0,0,0,0,0,0,0,04/01/2023,home,16340,628,San Fran. St.,9,True,6,4,2,win,2399102,100,2667452,2023,2
+0,2,2,0,0,0,0,0,0,0,04/14/2023,home,16340,645,Sonoma St.,9,True,7,6,1,win,2401730,100,2667452,2023,2

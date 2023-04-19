@@ -1,3 +1,10 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,02/03/2023,home,16340,0,Master's,9,True,1,9,-8,loss,2389685,100,2815665,2023,2
 7,0,7,0,0,0,0,0,0,0,02/18/2023,home,16340,155,Colo. Sch. of Mines,9,True,8,0,8,win,2408795,100,2815665,2023,2
+3,0,3,0,0,0,3,0,0,0,03/04/2023,away,16340,92,Cal St. Dom. Hills,9,True,2,8,-6,loss,2408402,100,2815665,2023,2
+2,0,2,0,0,0,0,0,0,0,03/17/2023,home,16340,30198,Cal St. San Marcos,9,True,13,5,8,win,2396059,100,2815665,2023,2
+6,1,7,0,0,0,1,0,0,0,03/18/2023,home,16340,30198,Cal St. San Marcos,9,True,12,2,10,win,2409647,100,2815665,2023,2
+9,3,12,0,0,0,3,0,0,0,03/25/2023,away,16340,103,Stanislaus St.,9,True,1,2,-1,loss,2410361,100,2815665,2023,2
+3,0,3,0,0,0,0,0,0,0,04/01/2023,home,16340,628,San Fran. St.,9,True,3,14,-11,loss,2409868,100,2815665,2023,2
+3,1,4,0,0,0,0,1,0,0,04/02/2023,home,16340,628,San Fran. St.,9,True,3,14,-11,loss,2399494,100,2815665,2023,2
+2,1,4,1,0,0,0,1,0,0,04/15/2023,home,16340,645,Sonoma St.,9,True,0,9,-9,loss,2409492,100,2815665,2023,2

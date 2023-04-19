@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/04/2023,home,16340,1446,Western Ore.,9,True,5,3,2,win,2389745,30147,2329611,2023,2
+0,2,2,0,0,0,1,0,0,0,03/17/2023,home,16340,30123,Academy of Art,9,True,3,9,-6,loss,2408835,30147,2329611,2023,2
+1,1,2,0,0,0,3,0,0,0,04/01/2023,home,16340,2696,Hawaii Pacific,9,True,12,4,8,win,2399185,30147,2329611,2023,2

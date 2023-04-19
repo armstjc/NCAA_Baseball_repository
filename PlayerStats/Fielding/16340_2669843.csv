@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,03/09/2023,home,16340,1347,Saint Rose,9,True,4,14,-10,loss,2394163,55,2669843,2023,2
+0,0,0,0,0,0,2,0,0,0,03/20/2023,home,16340,0,Morris,9,True,23,8,15,win,2426417,55,2669843,2023,2
+0,0,0,0,0,0,1,0,0,0,04/03/2023,home,16340,445,Morehouse,9,True,0,12,-12,loss,2399738,55,2669843,2023,2

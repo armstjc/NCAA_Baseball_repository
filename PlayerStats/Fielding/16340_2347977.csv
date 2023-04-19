@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,1,0,0,02/10/2023,away,16340,1009,Central Okla.,9,True,10,4,6,win,2389978,30075,2347977,2023,2
+0,2,2,0,0,0,0,0,1,0,03/04/2023,away,16340,499,Truman St.,9,True,21,2,19,win,2393110,30075,2347977,2023,2
+0,1,1,0,0,0,0,1,0,0,03/20/2023,away,16340,728,Upper Iowa,9,True,6,2,4,win,2396430,30075,2347977,2023,2

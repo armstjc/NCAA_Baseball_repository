@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/12/2023,away,16340,689,Tampa,9,True,11,10,1,win,2390150,561,2505082,2023,2
 0,1,1,0,0,0,0,0,0,0,02/18/2023,away,16340,584,Rollins,9,True,3,9,-6,loss,2390637,561,2505082,2023,2
+0,0,0,0,0,0,2,0,0,0,03/10/2023,home,16340,41,Augustana (SD),9,True,7,2,5,win,2408277,561,2505082,2023,2
+0,1,1,0,0,0,1,1,0,0,03/17/2023,home,16340,435,Missouri S&T,9,True,5,4,1,win,2425111,561,2505082,2023,2
+0,0,0,0,0,0,1,0,0,0,04/01/2023,away,16340,30050,Ill. Springfield,9,True,13,6,7,win,2398867,561,2505082,2023,2
+0,1,1,0,0,0,0,1,0,0,04/07/2023,home,16340,395,Maryville (MO),9,True,14,6,8,win,2400492,561,2505082,2023,2
+0,1,1,0,0,0,0,0,0,0,04/14/2023,away,16340,30138,McKendree,9,True,5,2,3,win,2428979,561,2505082,2023,2

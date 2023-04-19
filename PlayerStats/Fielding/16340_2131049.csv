@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,2,2,0,0,0,2,1,0,0,03/01/2023,away,16340,1028,Concord,9,True,14,6,8,win,2392486,216,2131049,2023,2
+0,2,2,0,0,0,2,2,0,0,03/01/2023,away,16340,1028,Concord,9,True,14,6,8,win,2392486,216,2131049,2023,2
+1,0,1,0,0,0,0,1,0,0,03/08/2023,away,16340,8875,Chowan,10,True,14,15,-1,loss,2394032,216,2131049,2023,2
+0,0,0,0,0,0,1,0,0,0,03/28/2023,away,16340,30181,UVA Wise,9,True,7,11,-4,loss,2398452,216,2131049,2023,2
+0,1,1,0,0,0,1,0,0,0,04/04/2023,home,16340,12830,Tusculum,9,True,4,9,-5,loss,2399956,216,2131049,2023,2

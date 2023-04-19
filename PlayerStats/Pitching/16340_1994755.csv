@@ -1,3 +1,7 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,3.0,0.0,0,0,0,1,6,0,10,9,0,0,0,0,0,0,0,0,0,0,0,43,1,2,0,0,1,2,2,0,02/10/2023,home,16340,593,St. Anselm,9,True,7,4,3,win,2389942,1318,1994755,2023,2
 1,0,2.0,0.0,3,1,1,2,4,0,12,9,0,0,0,0,0,1,0,0,0,0,0,48,1,1,0,0,0,3,0,0,02/25/2023,neutral,16340,560,Queens (NY),9,True,4,6,-2,loss,2391950,1318,1994755,2023,2
+1,1,5.1,0.0,4,1,0,4,6,0,23,19,0,0,0,0,0,0,0,0,0,0,0,112,5,4,1,0,0,1,1,0,03/05/2023,neutral,16340,241,Franklin Pierce,9,True,6,2,4,win,2393464,1318,1994755,2023,2
+1,0,4.1,0.0,3,3,2,0,4,0,18,14,1,0,0,0,0,2,0,0,0,1,1,57,3,6,0,0,0,3,2,0,03/11/2023,neutral,16340,1348,St. Thomas Aquinas,9,True,6,10,-4,loss,2394738,1318,1994755,2023,2
+1,1,3.2,0.0,5,5,5,7,4,0,22,13,1,0,0,0,1,0,0,0,0,1,1,96,4,2,0,0,0,1,2,0,04/02/2023,away,16340,543,Jefferson,9,True,8,7,1,win,2399662,1318,1994755,2023,2
+1,1,7.0,1,5,1,1,1,7,0,26,24,1,0,0,0,0,1,0,0,0,0,0,108,4,8,1,0,0,1,4,0,04/16/2023,home,16340,1460,Wilmington (DE),9,True,2,1,1,win,2402664,1318,1994755,2023,2

@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,02/25/2023,away,16340,30138,McKendree,9,True,4,7,-3,loss,2408340,728,2007528,2023,2
+0,0,0,0,0,0,1,0,0,0,03/10/2023,away,16340,499,Truman St.,9,True,3,10,-7,loss,2408276,728,2007528,2023,2
+0,1,1,0,0,0,0,1,0,0,03/15/2023,home,16340,30120,William Jewell,9,True,16,6,10,win,2395639,728,2007528,2023,2
+1,0,2,1,0,0,1,0,0,0,03/21/2023,home,16340,54,Bemidji St.,9,True,13,1,12,win,2425906,728,2007528,2023,2
+0,2,2,0,0,0,2,0,0,0,03/28/2023,home,16340,598,St. Cloud St.,9,True,0,2,-2,loss,2426525,728,2007528,2023,2
+0,2,2,0,0,0,0,0,0,0,04/12/2023,away,16340,383,Minnesota St.,9,True,2,5,-3,loss,2401599,728,2007528,2023,2

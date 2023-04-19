@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/04/2023,away,16340,1328,Rockhurst,9,True,9,4,5,win,2408477,799,2829623,2023,2
+0,0,0,0,0,0,1,0,0,0,03/05/2023,away,16340,1328,Rockhurst,9,True,15,6,9,win,2408364,799,2829623,2023,2
+0,0,0,0,0,0,1,0,0,0,03/26/2023,away,16340,757,Wayne St. (MI),9,True,2,15,-13,loss,2409714,799,2829623,2023,2
+0,0,0,0,0,0,1,0,0,0,03/29/2023,away,16340,354,Lewis,9,True,2,10,-8,loss,2426661,799,2829623,2023,2
+1,0,1,0,0,0,1,0,0,0,04/11/2023,away,16340,30222,Purdue Northwest,9,True,16,11,5,win,2409903,799,2829623,2023,2

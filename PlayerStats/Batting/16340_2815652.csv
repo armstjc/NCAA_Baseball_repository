@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/18/2023,home,16340,1245,Mount Olive,9,True,6,19,-13,loss,2409678,2683,2815652,2023,2
+0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,03/24/2023,home,16340,1085,Francis Marion,9,True,8,6,2,win,2397491,2683,2815652,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/25/2023,home,16340,1085,Francis Marion,9,True,10,6,4,win,2397916,2683,2815652,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/28/2023,neutral,16340,1001,Catawba,9,True,12,6,6,win,2398574,2683,2815652,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/15/2023,home,16340,9223,North Greenville,9,True,1,11,-10,loss,2410212,2683,2815652,2023,2

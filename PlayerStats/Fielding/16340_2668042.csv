@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,02/17/2023,away,16340,537,UNC Pembroke,9,True,8,9,-1,loss,2390279,2683,2668042,2023,2
 0,1,1,0,0,0,0,0,0,0,02/18/2023,away,16340,537,UNC Pembroke,9,True,0,12,-12,loss,2390558,2683,2668042,2023,2
+0,1,1,0,0,0,0,0,0,0,03/28/2023,neutral,16340,1001,Catawba,9,True,12,6,6,win,2398574,2683,2668042,2023,2
+0,1,1,0,0,0,0,0,0,0,04/11/2023,home,16340,11276,USC Aiken,9,True,20,3,17,win,2401465,2683,2668042,2023,2
+0,1,1,0,0,0,0,0,0,0,04/15/2023,home,16340,9223,North Greenville,9,True,1,11,-10,loss,2410212,2683,2668042,2023,2

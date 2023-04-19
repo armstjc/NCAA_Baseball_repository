@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,1,0,0,0,02/21/2023,home,16340,1328,Rockhurst,9,True,12,2,10,win,2391229,130,2665798,2023,2
+0,0,0,0,0,0,1,0,0,0,03/08/2023,away,16340,1057,Drury,9,True,13,1,12,win,2393883,130,2665798,2023,2
+0,0,0,0,0,0,1,0,0,0,03/14/2023,home,16340,9013,Missouri Western,9,True,11,1,10,win,2395433,130,2665798,2023,2
+0,1,1,0,0,0,1,1,0,0,03/28/2023,away,16340,9013,Missouri Western,9,True,14,7,7,win,2398529,130,2665798,2023,2
+0,1,1,0,0,0,0,0,1,0,04/04/2023,home,16340,561,Quincy,9,True,15,1,14,win,2396848,130,2665798,2023,2

@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,03/04/2023,home,16340,103,Stanislaus St.,9,True,6,4,2,win,2408480,95,2319580,2023,2
+0,0,0,0,0,0,1,0,0,0,03/26/2023,away,16340,645,Sonoma St.,9,True,4,3,1,win,2397435,95,2319580,2023,2
+0,1,2,1,0,0,0,0,0,0,04/01/2023,home,16340,98,Cal St. East Bay,9,True,6,5,1,win,2399218,95,2319580,2023,2
+0,1,1,0,0,0,2,0,0,0,04/03/2023,home,16340,2696,Hawaii Pacific,9,True,6,1,5,win,2399794,95,2319580,2023,2
+0,0,0,0,0,0,1,0,0,0,04/08/2023,away,16340,30055,Cal St. Monterey Bay,9,True,4,8,-4,loss,2400922,95,2319580,2023,2

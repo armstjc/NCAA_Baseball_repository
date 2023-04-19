@@ -1,3 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2,1,0,0,0,0,0,0,02/04/2023,away,16340,30090,Tex. A&M Int'l,9,True,9,5,4,win,2407980,767,2815137,2023,2
 0,0,0,0,0,0,1,1,0,0,02/19/2023,away,16340,1334,St. Edward's,9,True,7,8,-1,loss,2390921,767,2815137,2023,2
+0,1,1,0,0,0,0,0,0,0,03/04/2023,home,16340,206,Eastern N.M.,9,True,1,5,-4,loss,2408815,767,2815137,2023,2
+0,1,1,0,0,0,2,0,0,0,03/11/2023,away,16340,996,Cameron,8,True,7,4,3,win,2408696,767,2815137,2023,2
+0,0,0,0,0,0,1,0,0,0,03/18/2023,home,16340,30088,Tex. Permian Basin,9,True,5,11,-6,loss,2410248,767,2815137,2023,2
+0,0,0,0,0,0,1,0,0,0,03/27/2023,away,16340,30028,UT Tyler,9,True,5,6,-1,loss,2397572,767,2815137,2023,2
+0,1,1,0,0,0,0,0,0,0,04/08/2023,away,16340,30179,Okla. Christian,9,True,5,7,-2,loss,2401063,767,2815137,2023,2
+0,1,1,0,0,0,0,0,0,0,04/16/2023,home,16340,1346,St. Mary's (TX),9,True,5,9,-4,loss,2402739,767,2815137,2023,2

@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/05/2023,home,16340,30179,Okla. Christian,9,True,25,8,17,win,2393614,30177,2307821,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/20/2023,home,16340,0,Southwest (NM),9,True,15,6,9,win,2396845,30177,2307821,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/25/2023,home,16340,25,Angelo St.,9,True,6,20,-14,loss,2410668,30177,2307821,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/11/2023,home,16340,0,Wayland Baptist,9,True,11,9,2,win,2401516,30177,2307821,2023,2

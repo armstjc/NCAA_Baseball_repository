@@ -1,3 +1,8 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/11/2023,home,16340,30147,Fresno Pacific,12,True,2,3,-1,loss,2390056,95,2662912,2023,2
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/20/2023,home,16340,11416,Colorado Mesa,9,True,1,4,-3,loss,2418711,95,2662912,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/31/2023,home,16340,98,Cal St. East Bay,10,True,5,8,-3,loss,2398939,95,2662912,2023,2
+1,3,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,04/01/2023,home,16340,98,Cal St. East Bay,9,True,6,5,1,win,2399218,95,2662912,2023,2
+2,3,1,1,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,04/01/2023,home,16340,98,Cal St. East Bay,9,True,4,3,1,win,2410501,95,2662912,2023,2
+0,5,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,04/02/2023,home,16340,98,Cal St. East Bay,9,True,9,13,-4,loss,2399606,95,2662912,2023,2
+1,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,04/07/2023,away,16340,30055,Cal St. Monterey Bay,9,True,1,2,-1,loss,2410104,95,2662912,2023,2

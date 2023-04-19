@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/01/2023,away,16340,584,Rollins,9,True,11,12,-1,loss,2392546,1079,2483978,2023,2
+0,1,1,0,0,0,0,0,0,0,03/04/2023,neutral,16340,591,Saginaw Valley,9,True,14,6,8,win,2408356,1079,2483978,2023,2
+0,1,1,0,0,0,0,0,0,0,03/21/2023,away,16340,309,UIndy,9,True,10,7,3,win,2396880,1079,2483978,2023,2
+1,0,1,0,0,0,1,0,0,0,03/27/2023,home,16340,30137,Malone,9,True,12,5,7,win,2426453,1079,2483978,2023,2
+0,0,0,0,0,0,1,0,0,0,04/15/2023,home,16340,30119,Ohio Dominican,9,True,7,15,-8,loss,2410206,1079,2483978,2023,2

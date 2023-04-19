@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,2,0,0,0,0,0,0,0,03/03/2023,neutral,16340,30221,Davenport,9,True,11,15,-4,loss,2392686,35,2492906,2023,2
+2,0,2,0,0,0,0,0,1,0,03/07/2023,neutral,16340,9630,West Va. Wesleyan,9,True,16,3,13,win,2393828,35,2492906,2023,2
+1,0,1,0,0,0,0,2,0,0,03/08/2023,neutral,16340,30063,Seton Hill,9,True,7,9,-2,loss,2394014,35,2492906,2023,2
+0,2,2,0,0,0,0,0,1,0,03/17/2023,neutral,16340,1079,Findlay,9,True,10,11,-1,loss,2396802,35,2492906,2023,2
+0,2,3,1,0,0,1,0,0,0,03/22/2023,away,16340,30124,Cedarville,9,True,0,4,-4,loss,2425476,35,2492906,2023,2
+0,1,1,0,0,0,0,1,0,0,04/02/2023,home,16340,30119,Ohio Dominican,9,True,4,3,1,win,2410644,35,2492906,2023,2
+1,1,2,0,0,0,0,0,0,0,04/11/2023,away,16340,757,Wayne St. (MI),10,True,4,5,-1,loss,2401392,35,2492906,2023,2

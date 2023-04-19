@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,03/04/2023,neutral,16340,1348,St. Thomas Aquinas,9,True,0,8,-8,loss,2393161,765,2681961,2023,2
+1,0,1,0,0,0,1,0,0,0,03/10/2023,away,16340,638,Shippensburg,9,True,10,15,-5,loss,2394343,765,2681961,2023,2
+0,0,0,0,0,0,1,0,0,0,03/31/2023,home,16340,19117,Salem (WV),9,True,8,9,-1,loss,2399296,765,2681961,2023,2

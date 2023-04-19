@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/11/2023,neutral,16340,9013,Missouri Western,9,True,3,7,-4,loss,2390108,30202,2665122,2023,2
 0,2,2,0,0,0,0,0,0,0,02/18/2023,away,16340,947,Arkansas Tech,9,True,2,3,-1,loss,2408868,30202,2665122,2023,2
+0,1,1,0,0,0,0,1,0,0,03/11/2023,home,16340,1371,Southeastern Okla.,9,True,12,6,6,win,2408239,30202,2665122,2023,2
+0,0,0,0,0,0,2,0,0,0,03/18/2023,home,16340,8411,Ark.-Monticello,9,True,3,1,2,win,2409659,30202,2665122,2023,2
+1,0,1,0,0,0,1,0,0,0,03/25/2023,away,16340,1376,Southern Ark.,9,True,6,9,-3,loss,2410664,30202,2665122,2023,2
+0,2,2,0,0,0,2,1,0,0,04/01/2023,home,16340,8965,East Central,9,True,11,1,10,win,2409161,30202,2665122,2023,2

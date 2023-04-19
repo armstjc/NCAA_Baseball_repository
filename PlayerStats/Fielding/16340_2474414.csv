@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,0,0,0,0,0,03/31/2023,away,16340,3,Adelphi,9,True,3,11,-8,loss,2426795,1347,2474414,2023,2
+3,0,3,0,0,0,0,0,0,0,03/31/2023,away,16340,3,Adelphi,9,True,7,4,3,win,2426848,1347,2474414,2023,2
+2,0,2,0,0,0,0,0,0,0,04/02/2023,away,16340,3,Adelphi,9,True,3,14,-11,loss,2399652,1347,2474414,2023,2
+1,0,1,0,0,0,0,0,0,0,04/02/2023,away,16340,3,Adelphi,9,True,17,10,7,win,2410193,1347,2474414,2023,2
+1,0,1,0,0,0,0,0,0,0,04/11/2023,away,16340,468,Southern N.H.,9,True,2,10,-8,loss,2406145,1347,2474414,2023,2
+1,0,1,0,0,0,0,0,0,0,04/12/2023,home,16340,1348,St. Thomas Aquinas,9,True,14,8,6,win,2401621,1347,2474414,2023,2
+1,0,1,0,0,0,0,0,0,0,04/15/2023,away,16340,349,Le Moyne,9,True,0,13,-13,loss,2402382,1347,2474414,2023,2
+1,0,1,0,0,0,0,0,0,0,04/15/2023,away,16340,349,Le Moyne,9,True,3,7,-4,loss,2410203,1347,2474414,2023,2

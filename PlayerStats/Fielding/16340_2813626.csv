@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,4,1,0,0,0,0,1,0,02/18/2023,neutral,16340,143,Clarion,9,True,6,4,2,win,2407997,765,2813626,2023,2
+1,0,1,0,0,0,0,0,0,0,03/03/2023,neutral,16340,593,St. Anselm,9,True,17,0,17,win,2392720,765,2813626,2023,2
+1,2,3,0,0,0,0,0,0,0,03/29/2023,home,16340,1460,Wilmington (DE),9,True,12,5,7,win,2398616,765,2813626,2023,2
+1,0,1,0,0,0,0,0,0,0,03/31/2023,home,16340,19117,Salem (WV),9,True,8,9,-1,loss,2399296,765,2813626,2023,2
+1,1,2,0,0,0,0,0,0,0,03/31/2023,home,16340,19117,Salem (WV),9,True,6,7,-1,loss,2398906,765,2813626,2023,2
+0,0,1,1,0,0,0,0,0,0,04/01/2023,home,16340,19117,Salem (WV),9,True,32,3,29,win,2409024,765,2813626,2023,2

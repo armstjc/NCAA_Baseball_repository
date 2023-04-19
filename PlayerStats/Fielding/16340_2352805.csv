@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,4,0,0,0,02/19/2023,away,16340,197,East Stroudsburg,9,True,1,18,-17,loss,2418477,1347,2352805,2023,2
+0,1,1,0,0,0,0,0,0,0,03/07/2023,away,16340,39,Augusta,9,True,7,9,-2,loss,2393848,1347,2352805,2023,2
+0,0,0,0,0,0,1,0,0,0,04/16/2023,away,16340,349,Le Moyne,9,True,7,12,-5,loss,2410793,1347,2352805,2023,2

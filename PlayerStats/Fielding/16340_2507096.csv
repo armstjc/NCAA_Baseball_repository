@@ -1,2 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,02/26/2023,away,16340,1028,Concord,9,True,9,4,5,win,2392146,35,2507096,2023,2
+0,1,1,0,0,0,0,0,0,0,03/06/2023,neutral,16340,30126,Notre Dame (OH),9,True,13,0,13,win,2393713,35,2507096,2023,2
+1,2,3,0,0,0,0,0,0,0,03/11/2023,neutral,16340,1433,Wayne St. (NE),9,True,1,5,-4,loss,2394605,35,2507096,2023,2
+0,1,1,0,0,0,1,0,0,0,03/17/2023,neutral,16340,1079,Findlay,9,True,10,11,-1,loss,2396802,35,2507096,2023,2
+0,3,3,0,0,0,1,0,1,0,03/28/2023,home,16340,246,Gannon,9,True,12,11,1,win,2398466,35,2507096,2023,2
+1,1,2,0,0,0,1,0,0,0,04/02/2023,home,16340,30119,Ohio Dominican,9,True,4,3,1,win,2410644,35,2507096,2023,2
+1,1,2,0,0,0,1,1,0,0,04/07/2023,home,16340,30137,Malone,9,True,4,0,4,win,2409785,35,2507096,2023,2

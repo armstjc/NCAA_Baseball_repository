@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,1,0,03/15/2023,away,16340,10,Alabama Huntsville,9,True,6,28,-22,loss,2395398,422,2816391,2023,2
+0,0,1,1,0,0,0,0,0,0,04/16/2023,home,16340,13,Albany St. (GA),9,True,0,17,-17,loss,2429348,422,2816391,2023,2

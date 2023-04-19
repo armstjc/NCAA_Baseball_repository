@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,2,0,0,0,0,0,1,0,03/07/2023,neutral,16340,35,Ashland,9,True,3,16,-13,loss,2393828,9630,2680893,2023,2
+0,0,0,0,0,0,1,0,0,0,04/14/2023,home,16340,1028,Concord,9,True,6,12,-6,loss,2428833,9630,2680893,2023,2

@@ -1,2 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,1.1,0.0,7,11,11,4,2,0,15,11,1,0,0,1,1,0,0,0,0,0,0,48,1,1,0,1,0,1,0,0,02/18/2023,away,16340,1170,Lenoir-Rhyne,9,True,2,16,-14,loss,2408003,30192,2648365,2023,2
+1,1,1.1,0.0,6,6,6,1,1,0,11,9,1,0,0,1,0,1,0,0,0,0,0,32,1,1,0,1,0,1,0,0,03/04/2023,away,16340,2683,Belmont Abbey,9,True,5,16,-11,loss,2408662,30192,2648365,2023,2
+1,1,4.0,0.0,9,4,4,2,2,0,21,18,0,1,0,1,0,0,0,0,0,0,1,101,4,4,0,1,0,1,1,2,04/11/2023,home,16340,13028,Anderson (SC),9,True,3,12,-9,loss,2401478,30192,2648365,2023,2
+1,0,3.1,0.0,1,2,2,2,2,0,14,11,1,0,0,0,0,1,0,3,0,0,0,70,2,6,0,0,0,3,0,0,04/15/2023,home,16340,1245,Mount Olive,9,True,6,10,-4,loss,2402329,30192,2648365,2023,2

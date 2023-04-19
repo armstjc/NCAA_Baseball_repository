@@ -1,3 +1,8 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/13/2023,home,16340,159,Columbus St.,9,True,1,7,-6,loss,2390095,30191,2693051,2023,2
 0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,02/18/2023,away,16340,144,Clark Atlanta,9,True,9,3,6,win,2407919,30191,2693051,2023,2
+1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,04/04/2023,away,16340,11740,West Florida,9,True,3,13,-10,loss,2400027,30191,2693051,2023,2
+1,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,04/09/2023,away,16340,350,LeMoyne-Owen,9,True,21,1,20,win,2400653,30191,2693051,2023,2
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,04/10/2023,away,16340,350,LeMoyne-Owen,9,True,11,5,6,win,2401008,30191,2693051,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/10/2023,away,16340,350,LeMoyne-Owen,9,True,13,1,12,win,2410243,30191,2693051,2023,2
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/11/2023,home,16340,0,Mobile,9,True,4,18,-14,loss,2401541,30191,2693051,2023,2

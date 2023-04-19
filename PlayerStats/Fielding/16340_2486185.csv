@@ -35,3 +35,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 11,0,11,0,0,0,0,0,1,0,04/11/2023,away,16340,2683,Belmont Abbey,9,True,3,20,-17,loss,2401465,11276,2486185,2023,2
 0,1,1,0,0,0,0,0,0,0,04/12/2023,home,16340,2683,Belmont Abbey,9,True,2,3,-1,loss,2401677,11276,2486185,2023,2
 1,3,4,0,0,0,0,0,0,0,04/15/2023,home,16340,1097,Ga. Southwestern,9,True,0,12,-12,loss,2402428,11276,2486185,2023,2
+1,3,5,1,0,0,0,0,0,0,04/16/2023,home,16340,1097,Ga. Southwestern,9,True,7,1,6,win,2402731,11276,2486185,2023,2

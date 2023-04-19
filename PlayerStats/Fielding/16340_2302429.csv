@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/11/2023,home,16340,696,Tex. A&M-Kingsville,9,True,13,10,3,win,2407835,767,2302429,2023,2
 0,1,1,0,0,0,0,0,0,0,02/17/2023,away,16340,1334,St. Edward's,11,True,5,4,1,win,2390342,767,2302429,2023,2
+0,0,1,1,0,0,0,0,0,0,03/05/2023,home,16340,206,Eastern N.M.,9,True,22,16,6,win,2393608,767,2302429,2023,2
+0,1,1,0,0,0,0,0,0,0,03/18/2023,home,16340,30088,Tex. Permian Basin,9,True,10,9,1,win,2396507,767,2302429,2023,2
+0,0,0,0,0,0,1,0,0,0,04/02/2023,home,16340,30105,Ark.-Fort Smith,9,True,16,3,13,win,2399739,767,2302429,2023,2
+0,2,3,1,0,0,0,0,0,0,04/15/2023,home,16340,1346,St. Mary's (TX),10,True,3,4,-1,loss,2402461,767,2302429,2023,2

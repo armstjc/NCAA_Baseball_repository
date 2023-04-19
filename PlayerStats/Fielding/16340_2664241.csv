@@ -23,3 +23,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 10,0,11,1,0,0,0,0,0,0,04/10/2023,away,16340,765,West Chester,9,True,9,4,5,win,2410244,65,2664241,2023,2
 12,1,13,0,0,0,1,0,0,0,04/11/2023,away,16340,546,Pitt.-Johnstown,9,True,5,4,1,win,2409900,65,2664241,2023,2
 11,3,15,1,0,1,5,2,0,0,04/14/2023,away,16340,197,East Stroudsburg,11,True,5,6,-1,loss,2401842,65,2664241,2023,2
+4,1,5,0,0,0,2,1,0,0,04/16/2023,home,16340,197,East Stroudsburg,9,True,8,1,7,win,2429254,65,2664241,2023,2
+7,0,8,1,0,1,4,0,0,0,04/16/2023,home,16340,197,East Stroudsburg,9,True,4,3,1,win,2429294,65,2664241,2023,2

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,1,3,0,0,0,0,0,0,0,03/11/2023,away,16340,1059,D'Youville,9,True,2,4,-2,loss,2394609,174,2684508,2023,2
+3,0,3,0,0,0,0,0,0,0,03/28/2023,away,16340,10870,Shepherd,9,True,4,8,-4,loss,2409067,174,2684508,2023,2
+1,0,1,0,0,0,0,0,0,0,04/15/2023,home,16340,1013,Charleston (WV),9,True,3,18,-15,loss,2410081,174,2684508,2023,2

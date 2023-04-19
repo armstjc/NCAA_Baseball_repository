@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/07/2023,away,16340,233,Fla. Southern,9,True,2,12,-10,loss,2393944,333,2661829,2023,2
+0,0,0,0,0,0,2,2,0,0,03/11/2023,away,16340,608,Saint Leo,9,True,3,2,1,win,2394523,333,2661829,2023,2
+0,0,0,0,0,0,1,0,0,0,03/19/2023,away,16340,2746,Lake Erie,9,True,3,1,2,win,2396697,333,2661829,2023,2
+0,0,0,0,0,0,1,1,0,0,03/26/2023,home,16340,280,Hillsdale,13,True,10,11,-1,loss,2398192,333,2661829,2023,2
+0,1,1,0,0,0,0,0,0,0,04/08/2023,away,16340,30002,Trevecca Nazarene,11,True,2,3,-1,loss,2409427,333,2661829,2023,2
+1,0,1,0,0,0,0,0,0,0,04/14/2023,home,16340,1403,Tiffin,9,True,9,8,1,win,2428921,333,2661829,2023,2

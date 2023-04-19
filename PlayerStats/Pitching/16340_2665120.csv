@@ -1,2 +1,7 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,4.1,0.0,5,2,1,0,7,0,19,19,1,1,0,0,0,0,0,3,3,0,0,75,2,4,0,0,0,2,0,0,02/18/2023,away,16340,947,Arkansas Tech,9,True,9,12,-3,loss,2390549,30202,2665120,2023,2
+1,0,1.2,0.0,5,3,3,0,2,0,10,10,2,0,0,0,0,0,0,0,0,0,0,26,2,1,0,0,0,2,1,0,03/03/2023,away,16340,30178,Northwestern Okla.,9,True,8,14,-6,loss,2392879,30202,2665120,2023,2
+1,1,5.0,0.0,2,1,1,1,2,0,17,16,0,0,0,0,2,0,0,0,0,0,0,62,8,4,1,0,0,1,1,0,03/14/2023,away,16340,8965,East Central,9,True,8,3,5,win,2395414,30202,2665120,2023,2
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,2,1,0,0,0,2,0,0,04/07/2023,away,16340,8744,Southwestern Okla.,9,True,5,0,5,win,2400243,30202,2665120,2023,2
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,0,3,0,0,0,2,0,0,04/14/2023,away,16340,1289,Ouachita Baptist,9,True,10,3,7,win,2410198,30202,2665120,2023,2
+1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6,0,0,0,0,0,4,0,0,04/15/2023,away,16340,1289,Ouachita Baptist,9,True,5,10,-5,loss,2402191,30202,2665120,2023,2

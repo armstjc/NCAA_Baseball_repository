@@ -1,3 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/24/2023,neutral,16340,241,Franklin Pierce,9,True,5,7,-2,loss,2391512,21323,2672332,2023,2
 0,0,1,1,0,0,1,1,0,0,03/02/2023,away,16340,423,Millersville,9,True,1,6,-5,loss,2408305,21323,2672332,2023,2
+1,2,3,0,0,0,0,0,0,0,03/17/2023,home,16340,675,Staten Island,9,True,4,3,1,win,2425114,21323,2672332,2023,2
+1,0,1,0,0,0,0,0,0,0,03/19/2023,away,16340,357,Lincoln (PA),9,True,5,8,-3,loss,2408992,21323,2672332,2023,2
+0,1,1,0,0,0,0,0,0,0,04/05/2023,away,16340,765,West Chester,9,True,0,2,-2,loss,2400146,21323,2672332,2023,2
+0,1,1,0,0,0,0,0,0,0,04/07/2023,away,16340,1460,Wilmington (DE),10,True,3,4,-1,loss,2397771,21323,2672332,2023,2
+0,1,1,0,0,0,0,0,0,0,04/11/2023,home,16340,543,Jefferson,9,True,7,6,1,win,2401390,21323,2672332,2023,2
+0,2,3,1,0,0,0,0,0,0,04/14/2023,away,16340,543,Jefferson,10,True,6,7,-1,loss,2402233,21323,2672332,2023,2

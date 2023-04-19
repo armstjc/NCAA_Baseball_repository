@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,1,0,0,02/11/2023,home,16340,1245,Mount Olive,9,True,6,9,-3,loss,2417826,15646,2815840,2023,2
+0,2,2,0,0,0,0,0,0,0,03/05/2023,home,16340,30051,King (TN),9,True,18,7,11,win,2423134,15646,2815840,2023,2
+0,1,1,0,0,0,0,0,0,0,03/10/2023,home,16340,2683,Belmont Abbey,9,True,7,4,3,win,2394230,15646,2815840,2023,2
+0,1,1,0,0,0,0,0,0,0,03/18/2023,home,16340,1072,Erskine,9,True,13,10,3,win,2409046,15646,2815840,2023,2
+0,0,0,0,0,0,1,0,0,0,04/01/2023,away,16340,30193,Emmanuel (GA),9,True,11,21,-10,loss,2410046,15646,2815840,2023,2

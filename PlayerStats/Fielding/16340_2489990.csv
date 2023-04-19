@@ -1,2 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,2,0,0,0,02/19/2023,neutral,16340,1079,Findlay,9,True,4,0,4,win,2390958,30063,2489990,2023,2
+1,1,2,0,0,0,1,0,0,0,03/09/2023,neutral,16340,757,Wayne St. (MI),9,True,2,12,-10,loss,2394127,30063,2489990,2023,2
+0,3,3,0,0,0,0,0,0,0,03/16/2023,home,16340,349,Le Moyne,11,True,3,2,1,win,2424933,30063,2489990,2023,2
+0,1,1,0,0,0,0,0,0,0,03/26/2023,away,16340,106,California (PA),9,True,13,6,7,win,2397356,30063,2489990,2023,2
+1,0,1,0,0,0,0,1,0,0,04/03/2023,away,16340,546,Pitt.-Johnstown,9,True,6,2,4,win,2398848,30063,2489990,2023,2
+0,1,1,0,0,0,0,0,0,0,04/08/2023,away,16340,307,Indiana (PA),9,True,9,3,6,win,2401100,30063,2489990,2023,2
+0,0,1,1,0,0,0,0,0,0,04/15/2023,home,16340,143,Clarion,9,True,12,3,9,win,2402355,30063,2489990,2023,2

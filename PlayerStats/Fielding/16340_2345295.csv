@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,03/05/2023,neutral,16340,1098,Glenville St.,9,True,0,1,-1,loss,2393436,339,2345295,2023,2
+0,1,1,0,0,0,1,0,0,0,03/12/2023,home,16340,357,Lincoln (PA),9,True,3,2,1,win,2408705,339,2345295,2023,2
+0,0,0,0,0,0,2,0,0,0,03/15/2023,away,16340,357,Lincoln (PA),9,True,13,14,-1,loss,2408673,339,2345295,2023,2
+1,0,1,0,0,0,1,0,0,0,03/28/2023,home,16340,307,Indiana (PA),9,True,2,9,-7,loss,2408998,339,2345295,2023,2

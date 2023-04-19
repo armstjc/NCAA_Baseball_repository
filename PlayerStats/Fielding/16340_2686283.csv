@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,5,6,0,0,0,0,0,0,0,03/05/2023,away,16340,675,Staten Island,9,True,2,7,-5,loss,2393528,995,2686283,2023,2
+0,1,1,0,0,0,0,0,0,0,03/08/2023,home,16340,675,Staten Island,9,True,10,0,10,win,2408570,995,2686283,2023,2
+1,0,1,0,0,0,0,2,0,0,03/12/2023,neutral,16340,1277,Alliance,9,True,6,4,2,win,2394998,995,2686283,2023,2
+0,0,0,0,0,0,1,1,0,0,03/17/2023,neutral,16340,22,American Int'l,9,True,9,2,7,win,2395871,995,2686283,2023,2
+0,1,1,0,0,0,2,0,0,0,03/24/2023,home,16340,23157,Felician,9,True,2,9,-7,loss,2425947,995,2686283,2023,2
+1,0,1,0,0,0,2,0,0,0,03/31/2023,away,16340,1318,Post,9,True,6,12,-6,loss,2426841,995,2686283,2023,2
+0,1,1,0,0,0,2,0,0,0,04/05/2023,away,16340,8366,Goldey-Beacom,10,True,8,6,2,win,2400125,995,2686283,2023,2
+0,0,0,0,0,0,1,0,0,0,04/16/2023,home,16340,543,Jefferson,9,True,2,7,-5,loss,2410846,995,2686283,2023,2

@@ -1,2 +1,10 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,1,0,0,02/18/2023,away,16340,445,Morehouse,9,True,7,2,5,win,2408888,332,2824514,2023,2
 0,1,1,0,0,0,5,0,0,0,02/24/2023,away,16340,30244,Edward Waters,9,True,6,7,-1,loss,2391333,332,2824514,2023,2
+0,1,1,0,0,0,2,0,0,0,03/05/2023,home,16340,632,Savannah St.,9,True,13,2,11,win,2423069,332,2824514,2023,2
+1,0,1,0,0,0,4,0,0,0,03/11/2023,home,16340,422,Miles,11,True,7,9,-2,loss,2394686,332,2824514,2023,2
+1,0,2,1,0,0,3,1,0,0,03/18/2023,away,16340,720,Tuskegee,9,True,7,5,2,win,2396218,332,2824514,2023,2
+0,0,1,1,0,0,10,0,0,0,03/25/2023,away,16340,30191,Spring Hill,9,True,4,9,-5,loss,2426161,332,2824514,2023,2
+0,1,1,0,0,0,1,0,0,0,04/02/2023,home,16340,350,LeMoyne-Owen,9,True,20,1,19,win,2427059,332,2824514,2023,2
+2,0,2,0,0,0,3,0,0,0,04/08/2023,away,16340,347,Lane,9,True,6,4,2,win,2428170,332,2824514,2023,2
+0,2,2,0,0,0,1,1,1,0,04/15/2023,home,16340,144,Clark Atlanta,9,True,11,1,10,win,2429055,332,2824514,2023,2

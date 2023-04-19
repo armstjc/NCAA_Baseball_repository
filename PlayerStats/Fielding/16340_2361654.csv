@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,2,6,1,0,0,0,0,1,0,03/05/2023,away,16340,675,Staten Island,9,True,15,2,13,win,2408366,995,2361654,2023,2
+0,0,1,1,0,0,0,0,0,0,03/08/2023,home,16340,675,Staten Island,11,True,8,9,-1,loss,2394038,995,2361654,2023,2
+0,1,1,0,0,0,0,1,0,0,03/11/2023,neutral,16340,658,Southern Conn. St.,9,True,13,9,4,win,2425490,995,2361654,2023,2
+0,0,0,0,0,0,3,0,0,0,03/15/2023,away,16340,598,St. Cloud St.,9,True,3,17,-14,loss,2408256,995,2361654,2023,2
+1,1,3,1,0,0,0,0,0,0,03/24/2023,home,16340,23157,Felician,9,True,2,9,-7,loss,2425947,995,2361654,2023,2
+0,1,1,0,0,0,0,0,0,0,04/04/2023,away,16340,560,Queens (NY),9,True,3,12,-9,loss,2399804,995,2361654,2023,2
+1,0,1,0,0,0,1,0,0,0,04/16/2023,home,16340,543,Jefferson,9,True,2,7,-5,loss,2410846,995,2361654,2023,2

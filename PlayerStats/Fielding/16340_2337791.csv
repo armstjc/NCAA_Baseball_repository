@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/18/2023,neutral,16340,143,Clarion,9,True,6,4,2,win,2407997,765,2337791,2023,2
+1,0,1,0,0,0,2,0,0,0,03/15/2023,home,16340,543,Jefferson,9,True,16,5,11,win,2395415,765,2337791,2023,2
+0,2,2,0,0,0,0,0,0,0,03/29/2023,home,16340,1460,Wilmington (DE),9,True,12,5,7,win,2398616,765,2337791,2023,2
+2,1,4,1,0,0,0,0,0,0,04/12/2023,home,16340,3,Adelphi,9,True,7,10,-3,loss,2401626,765,2337791,2023,2

@@ -1,2 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,2,2,2,1,1,0,6,5,2,0,0,0,1,0,0,0,0,0,0,31,1,1,0,0,0,4,1,0,02/04/2023,neutral,16340,2755,Southwest Baptist,9,True,15,5,10,win,2389817,598,2691013,2023,2
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,10,0,2,0,0,0,5,0,0,03/09/2023,away,16340,24639,Nova Southeastern,9,True,2,9,-7,loss,2394113,598,2691013,2023,2
+1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,4,1,1,0,0,0,3,0,0,03/15/2023,neutral,16340,533,Pace,9,True,11,1,10,win,2395619,598,2691013,2023,2
+1,0,2.0,0.0,4,1,1,1,1,0,10,9,1,0,0,0,0,0,0,0,0,0,0,36,3,1,0,0,0,4,0,0,03/25/2023,neutral,16340,41,Augustana (SD),9,True,2,5,-3,loss,2410616,598,2691013,2023,2

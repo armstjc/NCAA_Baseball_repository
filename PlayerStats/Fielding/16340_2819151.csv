@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,3,0,0,0,0,1,0,0,02/23/2023,home,16340,9013,Missouri Western,9,True,8,4,4,win,2421347,1009,2819151,2023,2
+1,0,1,0,0,0,1,0,0,0,03/04/2023,away,16340,30180,Rogers St.,9,True,4,2,2,win,2393235,1009,2819151,2023,2
+0,2,3,1,0,0,0,0,0,0,03/10/2023,away,16340,9012,Mo. Southern St.,9,True,4,5,-1,loss,2394195,1009,2819151,2023,2
+1,0,1,0,0,0,0,0,0,0,03/31/2023,home,16340,1314,Pittsburg St.,9,True,12,16,-4,loss,2399007,1009,2819151,2023,2

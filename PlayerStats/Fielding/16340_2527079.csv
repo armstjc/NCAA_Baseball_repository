@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,1,0,0,02/18/2023,away,16340,20794,Lynn,9,True,7,6,1,win,2390634,658,2527079,2023,2
+0,1,1,0,0,0,0,0,0,0,03/08/2023,home,16340,407,Mercy,9,True,6,1,5,win,2393150,658,2527079,2023,2
+0,0,0,0,0,0,1,0,0,0,04/14/2023,away,16340,470,New Haven,9,True,7,6,1,win,2401872,658,2527079,2023,2

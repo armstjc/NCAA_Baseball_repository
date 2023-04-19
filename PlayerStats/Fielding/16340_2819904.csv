@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,3,0,0,0,02/17/2023,away,16340,106,California (PA),9,True,6,12,-6,loss,2390384,360,2819904,2023,2
+0,1,1,0,0,0,1,0,0,0,03/16/2023,home,16340,65,Bloomsburg,9,True,5,7,-2,loss,2394348,360,2819904,2023,2
+1,0,2,1,0,0,0,0,0,0,03/18/2023,home,16340,765,West Chester,9,True,11,8,3,win,2409449,360,2819904,2023,2
+1,0,1,0,0,0,0,0,0,0,03/24/2023,home,16340,339,Kutztown,9,True,1,4,-3,loss,2397401,360,2819904,2023,2
+1,0,1,0,0,0,0,0,0,0,03/26/2023,away,16340,339,Kutztown,11,True,4,5,-1,loss,2426300,360,2819904,2023,2

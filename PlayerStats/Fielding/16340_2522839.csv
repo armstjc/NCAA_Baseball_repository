@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,2,0,0,0,03/08/2023,away,16340,358,West Ala.,9,True,15,3,12,win,2393981,30191,2522839,2023,2
+1,0,1,0,0,0,1,1,0,0,03/22/2023,home,16340,30093,AUM,9,True,9,10,-1,loss,2397149,30191,2522839,2023,2
+0,0,0,0,0,0,1,0,0,0,03/29/2023,home,16340,1238,Montevallo,9,True,1,14,-13,loss,2398443,30191,2522839,2023,2
+1,2,4,1,0,0,1,0,0,0,04/04/2023,away,16340,11740,West Florida,9,True,3,13,-10,loss,2400027,30191,2522839,2023,2
+0,0,0,0,0,0,3,0,0,0,04/11/2023,home,16340,0,Mobile,9,True,4,18,-14,loss,2401541,30191,2522839,2023,2

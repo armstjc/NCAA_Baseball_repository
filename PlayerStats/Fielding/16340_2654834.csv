@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,02/26/2023,away,16340,984,Bloomfield,9,True,18,0,18,win,2408395,360,2654834,2023,2
+0,1,2,1,0,0,0,0,0,0,03/26/2023,away,16340,339,Kutztown,11,True,4,5,-1,loss,2426300,360,2654834,2023,2
+0,3,3,0,0,0,0,0,1,0,04/04/2023,away,16340,307,Indiana (PA),9,True,3,10,-7,loss,2409304,360,2654834,2023,2
+0,1,1,0,0,0,0,0,0,0,04/11/2023,home,16340,1277,Alliance,9,True,10,8,2,win,2401375,360,2654834,2023,2

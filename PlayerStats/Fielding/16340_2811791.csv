@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/05/2023,neutral,16340,9223,North Greenville,9,True,6,7,-1,loss,2389837,95,2811791,2023,2
 1,0,1,0,0,0,0,0,0,0,02/19/2023,home,16340,11416,Colorado Mesa,9,True,11,7,4,win,2418709,95,2811791,2023,2
+1,0,1,0,0,0,0,0,0,0,03/18/2023,home,16340,91,Cal Poly Pomona,9,True,7,5,2,win,2396291,95,2811791,2023,2
+2,0,2,0,0,0,0,1,1,0,03/25/2023,away,16340,645,Sonoma St.,9,True,16,1,15,win,2410155,95,2811791,2023,2
+1,2,3,0,0,0,0,0,0,0,04/01/2023,home,16340,98,Cal St. East Bay,9,True,6,5,1,win,2399218,95,2811791,2023,2
+0,1,1,0,0,0,0,0,0,0,04/07/2023,away,16340,30055,Cal St. Monterey Bay,9,True,2,4,-2,loss,2400575,95,2811791,2023,2
+1,0,1,0,0,0,0,0,0,0,04/12/2023,away,16340,628,San Fran. St.,9,True,2,3,-1,loss,2395072,95,2811791,2023,2

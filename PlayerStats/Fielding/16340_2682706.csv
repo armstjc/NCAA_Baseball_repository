@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,1,1,0,0,03/12/2023,away,16340,30045,Palm Beach Atl.,9,True,8,13,-5,loss,2394915,22,2682706,2023,2
+0,0,0,0,0,0,1,0,0,0,03/18/2023,away,16340,658,Southern Conn. St.,9,True,2,7,-5,loss,2396238,22,2682706,2023,2
+0,1,1,0,0,0,7,0,0,0,03/26/2023,home,16340,468,Southern N.H.,9,True,3,12,-9,loss,2398303,22,2682706,2023,2
+0,1,1,0,0,0,2,1,0,0,04/02/2023,away,16340,56,Bentley,9,True,4,7,-3,loss,2399731,22,2682706,2023,2
+0,1,1,0,0,0,2,1,0,0,04/16/2023,away,16340,613,Saint Michael's,9,True,10,7,3,win,2401903,22,2682706,2023,2

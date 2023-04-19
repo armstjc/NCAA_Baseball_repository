@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,2,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,03/11/2023,home,16340,720,Tuskegee,9,True,21,2,19,win,2424043,30191,2814957,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/29/2023,home,16340,1238,Montevallo,9,True,1,14,-13,loss,2398443,30191,2814957,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/01/2023,home,16340,347,Lane,9,True,14,2,12,win,2399367,30191,2814957,2023,2

@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/18/2023,neutral,16340,30063,Seton Hill,9,True,7,1,6,win,2390718,1079,2130526,2023,2
 0,0,0,0,0,0,1,0,0,0,02/26/2023,neutral,16340,246,Gannon,9,True,14,7,7,win,2392272,1079,2130526,2023,2
+0,0,0,0,0,0,1,0,0,0,03/03/2023,neutral,16340,591,Saginaw Valley,9,True,4,16,-12,loss,2392715,1079,2130526,2023,2
+0,1,1,0,0,0,0,1,0,0,03/16/2023,home,16340,35,Ashland,9,True,3,6,-3,loss,2396422,1079,2130526,2023,2
+0,2,3,1,0,0,1,0,0,0,03/24/2023,home,16340,30137,Malone,9,True,6,3,3,win,2425950,1079,2130526,2023,2
+0,1,1,0,0,0,0,0,0,0,04/07/2023,away,16340,1403,Tiffin,9,True,7,1,6,win,2400524,1079,2130526,2023,2
+0,0,1,1,0,0,0,0,0,0,04/14/2023,home,16340,30119,Ohio Dominican,9,True,20,3,17,win,2428823,1079,2130526,2023,2

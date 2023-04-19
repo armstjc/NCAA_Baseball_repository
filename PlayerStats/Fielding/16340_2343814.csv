@@ -1,2 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2,1,0,0,1,0,0,0,02/24/2023,neutral,16340,349,Le Moyne,8,True,1,2,-1,loss,2408514,1348,2343814,2023,2
+0,1,1,0,0,0,1,0,0,0,03/04/2023,neutral,16340,765,West Chester,9,True,5,7,-2,loss,2408617,1348,2343814,2023,2
+0,0,0,0,0,0,1,0,0,0,03/12/2023,away,16340,49,Barry,9,True,0,6,-6,loss,2395058,1348,2343814,2023,2
+0,1,1,0,0,0,1,1,0,0,03/18/2023,away,16340,543,Jefferson,9,True,4,1,3,win,2409253,1348,2343814,2023,2
+1,0,1,0,0,0,0,0,0,0,03/24/2023,away,16340,1059,D'Youville,9,True,8,5,3,win,2425955,1348,2343814,2023,2
+0,1,1,0,0,0,0,0,0,0,04/07/2023,home,16340,357,Lincoln (PA),9,True,6,4,2,win,2409632,1348,2343814,2023,2
+1,0,1,0,0,0,2,2,0,0,04/14/2023,away,16340,437,Molloy,9,True,3,11,-8,loss,2401909,1348,2343814,2023,2

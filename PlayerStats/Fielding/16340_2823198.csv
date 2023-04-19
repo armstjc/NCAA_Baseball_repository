@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,1,0,0,0,02/19/2023,neutral,16340,2746,Lake Erie,10,True,6,4,2,win,2390907,12799,2823198,2023,2
 0,0,0,0,0,0,1,0,0,0,02/24/2023,away,16340,985,Bluefield St.,9,True,17,12,5,win,2421502,12799,2823198,2023,2
+0,1,1,0,0,0,0,0,0,0,03/04/2023,away,16340,0,CarolinaU,9,True,6,8,-2,loss,2408484,12799,2823198,2023,2
+0,1,1,0,0,0,1,0,0,0,04/02/2023,away,16340,1098,Glenville St.,9,True,5,4,1,win,2399759,12799,2823198,2023,2
+0,2,2,0,0,0,0,0,0,0,04/07/2023,home,16340,30126,Notre Dame (OH),9,True,6,5,1,win,2400527,12799,2823198,2023,2
+0,2,2,0,0,0,0,0,0,0,04/08/2023,home,16340,30126,Notre Dame (OH),10,True,6,7,-1,loss,2401087,12799,2823198,2023,2

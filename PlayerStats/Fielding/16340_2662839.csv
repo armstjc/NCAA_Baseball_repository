@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/04/2023,neutral,16340,30092,Flagler,9,True,6,4,2,win,2389764,95,2662839,2023,2
+0,2,2,0,0,0,0,0,0,0,03/04/2023,home,16340,103,Stanislaus St.,9,True,6,4,2,win,2408480,95,2662839,2023,2
+0,1,1,0,0,0,0,0,0,0,03/18/2023,home,16340,91,Cal Poly Pomona,9,True,5,2,3,win,2409343,95,2662839,2023,2
+0,1,1,0,0,0,0,0,0,0,04/01/2023,home,16340,98,Cal St. East Bay,9,True,4,3,1,win,2410501,95,2662839,2023,2

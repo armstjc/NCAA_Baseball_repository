@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/10/2023,away,16340,2683,Belmont Abbey,9,True,2,7,-5,loss,2389968,30002,2648955,2023,2
+0,0,0,0,0,0,1,0,0,0,03/14/2023,away,16340,30153,Union (TN),9,True,10,5,5,win,2395332,30002,2648955,2023,2
+0,1,1,0,0,0,0,0,0,0,04/15/2023,away,16340,30124,Cedarville,10,True,14,12,2,win,2409498,30002,2648955,2023,2

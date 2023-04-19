@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/18/2023,home,16340,468,Southern N.H.,9,True,0,9,-9,loss,2418684,1318,2819509,2023,2
+0,0,0,0,0,0,1,0,0,0,03/11/2023,neutral,16340,1348,St. Thomas Aquinas,9,True,6,10,-4,loss,2394738,1318,2819509,2023,2
+0,1,1,0,0,0,0,0,0,0,04/11/2023,home,16340,984,Bloomfield,9,True,12,5,7,win,2401421,1318,2819509,2023,2

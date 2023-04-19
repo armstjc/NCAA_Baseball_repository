@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,03/06/2023,neutral,16340,27854,Minn.-Crookston,9,True,0,4,-4,loss,2393676,174,2806254,2023,2
+0,0,0,0,0,0,3,0,0,0,03/10/2023,neutral,16340,427,Minn. Duluth,9,True,5,15,-10,loss,2394299,174,2806254,2023,2
+0,1,1,0,0,0,0,0,0,0,03/15/2023,away,16340,0,West Va. Tech,9,True,7,10,-3,loss,2395642,174,2806254,2023,2
+0,1,2,1,0,0,1,1,0,0,03/20/2023,home,16340,30126,Notre Dame (OH),9,True,1,7,-6,loss,2396408,174,2806254,2023,2
+1,1,2,0,0,0,0,0,0,0,03/26/2023,away,16340,1438,West Liberty,9,True,3,10,-7,loss,2426313,174,2806254,2023,2
+0,0,0,0,0,0,3,0,0,0,04/15/2023,home,16340,1013,Charleston (WV),9,True,4,16,-12,loss,2402362,174,2806254,2023,2

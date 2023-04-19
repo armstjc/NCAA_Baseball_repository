@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/11/2023,away,16340,8411,Ark.-Monticello,9,True,23,24,-1,loss,2418007,598,2660834,2023,2
+0,1,1,0,0,0,0,0,0,0,03/15/2023,home,16340,995,Caldwell,9,True,17,3,14,win,2408256,598,2660834,2023,2

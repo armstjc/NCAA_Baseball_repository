@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.0,0.0,1,1,1,1,0,0,6,4,0,0,0,0,0,1,0,0,0,0,0,15,3,0,0,0,0,3,0,0,03/05/2023,away,16340,675,Staten Island,9,True,15,2,13,win,2408366,995,2516079,2023,2
+1,1,5.0,0.0,4,3,1,4,1,0,24,20,1,0,0,0,0,0,0,0,0,0,0,87,4,9,0,1,0,1,0,0,03/15/2023,neutral,16340,56,Bentley,9,True,1,4,-3,loss,2395610,995,2516079,2023,2
+1,0,3.0,0.0,2,0,0,2,2,0,13,11,0,0,0,0,0,0,0,0,0,0,0,44,6,1,0,0,0,2,0,0,03/22/2023,away,16340,23157,Felician,9,True,3,12,-9,loss,2397099,995,2516079,2023,2
+1,1,2.1,0.0,3,4,4,4,1,0,15,10,0,0,0,1,1,1,0,0,0,0,0,67,4,1,0,1,0,1,0,0,03/26/2023,away,16340,21323,Chestnut Hill,9,True,2,6,-4,loss,2409271,995,2516079,2023,2
+1,0,2.0,0.0,6,7,5,2,1,0,13,11,1,0,0,0,1,0,0,0,0,0,0,42,2,1,0,0,0,2,0,0,03/31/2023,away,16340,1318,Post,9,True,6,12,-6,loss,2426841,995,2516079,2023,2

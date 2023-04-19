@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,3,1,0,0,02/20/2023,away,16340,197,East Stroudsburg,9,True,3,4,-1,loss,2418479,1347,2507577,2023,2
+1,1,2,0,0,0,1,0,0,0,03/04/2023,neutral,16340,339,Kutztown,9,True,15,4,11,win,2393048,1347,2507577,2023,2
+1,0,1,0,0,0,4,0,0,0,03/09/2023,away,16340,55,Benedict,9,True,14,4,10,win,2394163,1347,2507577,2023,2
+0,1,1,0,0,0,0,0,0,0,03/31/2023,away,16340,3,Adelphi,9,True,7,4,3,win,2426848,1347,2507577,2023,2
+0,0,0,0,0,0,2,1,0,0,04/07/2023,home,16340,984,Bloomfield,9,True,3,2,1,win,2427908,1347,2507577,2023,2
+0,0,0,0,0,0,1,0,0,0,04/15/2023,away,16340,349,Le Moyne,9,True,3,7,-4,loss,2410203,1347,2507577,2023,2

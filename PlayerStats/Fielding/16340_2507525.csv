@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,2,2,0,0,02/20/2023,away,16340,197,East Stroudsburg,9,True,4,5,-1,loss,2418520,1347,2679924,2023,2
-0,0,0,0,0,0,1,0,0,0,02/24/2023,away,16340,984,Bloomfield,9,True,10,8,2,win,2391371,1347,2679924,2023,2
+0,1,1,0,0,0,3,0,0,0,03/05/2023,home,16340,30075,Mary,9,True,8,11,-3,loss,2423122,499,2507525,2023,2
+0,0,0,0,0,0,1,0,0,0,03/12/2023,home,16340,799,Wis.-Parkside,9,True,9,8,1,win,2424185,499,2507525,2023,2
+0,0,1,1,0,0,0,0,0,0,03/16/2023,home,16340,1328,Rockhurst,9,True,6,7,-1,loss,2409549,499,2507525,2023,2
+0,0,0,0,0,0,1,0,0,0,04/02/2023,away,16340,435,Missouri S&T,9,True,9,10,-1,loss,2399610,499,2507525,2023,2
+1,1,2,0,0,0,2,0,0,0,04/16/2023,away,16340,1057,Drury,9,True,7,12,-5,loss,2402637,499,2507525,2023,2

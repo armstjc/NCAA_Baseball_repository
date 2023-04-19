@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/11/2023,home,16340,30177,Lubbock Christian,8,True,1,9,-8,loss,2407817,30088,2804695,2023,2
+1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/11/2023,home,16340,1334,St. Edward's,12,True,6,7,-1,loss,2407950,30088,2804695,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2023,home,16340,1334,St. Edward's,9,True,3,9,-6,loss,2395070,30088,2804695,2023,2
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,04/15/2023,home,16340,30028,UT Tyler,9,True,3,16,-13,loss,2409742,30088,2804695,2023,2

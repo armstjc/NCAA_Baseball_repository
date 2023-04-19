@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/18/2023,neutral,16340,1079,Findlay,9,True,3,4,-1,loss,2408118,30063,2489988,2023,2
+0,0,0,0,0,0,2,0,0,0,03/10/2023,away,16340,233,Fla. Southern,9,True,10,18,-8,loss,2394339,30063,2489988,2023,2
+0,2,2,0,0,0,0,1,0,0,03/21/2023,away,16340,638,Shippensburg,9,True,6,2,4,win,2396963,30063,2489988,2023,2
+0,0,1,1,0,0,1,0,0,0,04/11/2023,away,16340,0,Point Park,9,True,5,6,-1,loss,2428495,30063,2489988,2023,2

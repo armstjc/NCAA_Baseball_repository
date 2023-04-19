@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/18/2023,home,16340,395,Maryville (MO),9,True,10,6,4,win,2390780,689,2803582,2023,2
 0,1,1,0,0,0,0,0,0,0,02/27/2023,home,16340,30221,Davenport,9,True,2,1,1,win,2392329,689,2803582,2023,2
+0,1,1,0,0,0,0,0,0,0,03/14/2023,home,16340,734,Valdosta St.,9,True,3,6,-3,loss,2395492,689,2803582,2023,2
+0,1,1,0,0,0,0,0,0,0,04/04/2023,away,16340,734,Valdosta St.,11,True,14,15,-1,loss,2400018,689,2803582,2023,2

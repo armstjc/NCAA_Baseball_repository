@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,02/19/2023,away,16340,2696,Hawaii Pacific,9,True,11,3,8,win,2420361,510,2691989,2023,2
 3,0,3,0,0,0,0,0,0,0,02/26/2023,away,16340,30222,Purdue Northwest,9,True,13,2,11,win,2408224,510,2691989,2023,2
+2,0,2,0,0,0,0,0,0,0,04/03/2023,home,16340,1079,Findlay,9,True,10,3,7,win,2409182,510,2691989,2023,2
+7,0,7,0,0,0,0,0,0,0,04/06/2023,home,16340,0,Grace Christian (MI),9,True,21,3,18,win,2400161,510,2691989,2023,2
+1,0,1,0,0,0,0,0,0,0,04/11/2023,away,16340,262,Grand Valley St.,9,True,11,19,-8,loss,2401306,510,2691989,2023,2

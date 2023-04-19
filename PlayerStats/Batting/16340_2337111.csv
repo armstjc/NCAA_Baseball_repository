@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2023,home,16340,468,Southern N.H.,9,True,1,9,-8,loss,2418683,1318,2337111,2023,2
 0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,home,16340,468,Southern N.H.,9,True,0,9,-9,loss,2418684,1318,2337111,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2023,neutral,16340,241,Franklin Pierce,9,True,0,1,-1,loss,2392810,1318,2337111,2023,2
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/13/2023,away,16340,49,Barry,9,True,7,23,-16,loss,2395293,1318,2337111,2023,2
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,04/02/2023,away,16340,543,Jefferson,9,True,8,7,1,win,2399662,1318,2337111,2023,2

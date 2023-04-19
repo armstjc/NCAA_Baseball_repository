@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,04/02/2023,away,16340,1028,Concord,9,True,1,11,-10,loss,2399569,1438,2321183,2023,2
+0,0,0,0,0,0,1,0,0,0,04/04/2023,home,16340,10870,Shepherd,9,True,10,11,-1,loss,2399919,1438,2321183,2023,2

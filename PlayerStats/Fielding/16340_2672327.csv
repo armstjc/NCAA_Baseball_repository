@@ -1,2 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/24/2023,neutral,16340,241,Franklin Pierce,9,True,5,7,-2,loss,2391512,21323,2672327,2023,2
+1,1,2,0,0,0,0,0,0,0,03/04/2023,home,16340,360,Lock Haven,9,True,8,6,2,win,2393155,21323,2672327,2023,2
+0,2,2,0,0,0,0,0,0,0,03/09/2023,away,16340,934,Alderson Broaddus,9,True,3,2,1,win,2394176,21323,2672327,2023,2
+1,1,2,0,0,0,1,0,0,0,03/19/2023,away,16340,357,Lincoln (PA),8,True,21,11,10,win,2396695,21323,2672327,2023,2
+0,1,1,0,0,0,0,0,0,0,03/26/2023,home,16340,995,Caldwell,9,True,6,7,-1,loss,2398091,21323,2672327,2023,2
+0,0,0,0,0,0,1,0,0,0,03/31/2023,home,16340,1277,Alliance,9,True,16,3,13,win,2426843,21323,2672327,2023,2
+1,2,4,1,0,0,0,2,0,0,04/07/2023,away,16340,1460,Wilmington (DE),10,True,3,4,-1,loss,2397771,21323,2672327,2023,2
+0,0,1,1,0,0,1,2,0,0,04/14/2023,away,16340,543,Jefferson,10,True,6,7,-1,loss,2402233,21323,2672327,2023,2

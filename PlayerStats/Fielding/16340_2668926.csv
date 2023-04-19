@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/04/2023,away,16340,1001,Catawba,9,True,10,19,-9,loss,2389808,638,2668926,2023,2
+0,0,0,0,0,0,4,0,0,0,03/24/2023,away,16340,197,East Stroudsburg,9,True,1,17,-16,loss,2410163,638,2668926,2023,2

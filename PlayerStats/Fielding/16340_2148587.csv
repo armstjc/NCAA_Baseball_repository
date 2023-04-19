@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/17/2023,away,16340,584,Rollins,9,True,3,9,-6,loss,2390391,561,2148587,2023,2
+0,0,0,0,0,0,2,0,0,0,03/10/2023,home,16340,41,Augustana (SD),9,True,7,2,5,win,2408277,561,2148587,2023,2
+1,0,1,0,0,0,0,1,0,0,04/02/2023,away,16340,30050,Ill. Springfield,9,True,10,1,9,win,2409021,561,2148587,2023,2
+0,0,0,0,0,0,2,0,0,0,04/08/2023,home,16340,395,Maryville (MO),9,True,8,4,4,win,2400901,561,2148587,2023,2

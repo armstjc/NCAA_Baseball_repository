@@ -1,3 +1,10 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/04/2023,home,16340,30028,UT Tyler,9,True,9,6,3,win,2412141,30179,2653545,2023,2
 0,1,1,0,0,0,0,1,0,0,02/25/2023,home,16340,1346,St. Mary's (TX),9,True,5,6,-1,loss,2407860,30179,2653545,2023,2
+0,1,1,0,0,0,0,0,0,0,03/04/2023,away,16340,30177,Lubbock Christian,9,True,3,4,-1,loss,2408760,30179,2653545,2023,2
+0,1,1,0,0,0,0,0,0,0,03/05/2023,away,16340,30177,Lubbock Christian,9,True,8,25,-17,loss,2393614,30179,2653545,2023,2
+0,2,2,0,0,0,2,0,0,0,03/11/2023,home,16340,25,Angelo St.,9,True,2,9,-7,loss,2394594,30179,2653545,2023,2
+0,1,1,0,0,0,0,0,1,0,03/17/2023,away,16340,30090,Tex. A&M Int'l,9,True,10,6,4,win,2425107,30179,2653545,2023,2
+0,2,2,0,0,0,0,0,0,0,03/26/2023,home,16340,696,Tex. A&M-Kingsville,8,True,4,16,-12,loss,2398293,30179,2653545,2023,2
+1,1,2,0,0,0,0,0,0,0,04/02/2023,away,16340,1334,St. Edward's,9,True,13,14,-1,loss,2399700,30179,2653545,2023,2
+0,1,1,0,0,0,0,0,0,0,04/14/2023,away,16340,206,Eastern N.M.,9,True,21,22,-1,loss,2401930,30179,2653545,2023,2

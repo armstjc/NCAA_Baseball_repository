@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,2,0,0,0,1,0,0,0,02/23/2023,away,16340,100,Cal State LA,9,True,14,5,9,win,2391279,93,2818869,2023,2
+0,1,1,0,0,0,0,0,0,0,03/11/2023,away,16340,103,Stanislaus St.,10,True,2,3,-1,loss,2394433,93,2818869,2023,2
+0,0,0,0,0,0,1,0,0,0,03/17/2023,home,16340,628,San Fran. St.,9,True,7,16,-9,loss,2395978,93,2818869,2023,2
+0,1,1,0,0,0,0,0,0,0,03/26/2023,away,16340,91,Cal Poly Pomona,9,True,2,0,2,win,2397962,93,2818869,2023,2
+0,1,1,0,0,0,0,0,0,0,04/07/2023,away,16340,98,Cal St. East Bay,9,True,5,4,1,win,2400493,93,2818869,2023,2

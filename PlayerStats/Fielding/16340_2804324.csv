@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,02/04/2023,neutral,16340,12810,Northeastern St.,9,True,2,14,-12,loss,2389766,8965,2804324,2023,2
+1,2,3,0,0,0,0,0,0,0,03/04/2023,home,16340,30152,Southern Nazarene,9,True,6,9,-3,loss,2392971,8965,2804324,2023,2
+1,1,3,1,0,0,0,0,0,0,03/11/2023,away,16340,8744,Southwestern Okla.,9,True,4,15,-11,loss,2394725,8965,2804324,2023,2
+0,1,2,1,0,0,0,0,0,0,04/08/2023,home,16340,30178,Northwestern Okla.,9,True,1,4,-3,loss,2400854,8965,2804324,2023,2
+0,1,1,0,0,0,0,0,0,0,04/11/2023,away,16340,30178,Northwestern Okla.,9,True,1,12,-11,loss,2401334,8965,2804324,2023,2

@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/14/2023,away,16340,11740,West Florida,9,True,3,8,-5,loss,2390219,30191,2460489,2023,2
 0,1,1,0,0,0,0,0,0,0,02/26/2023,away,16340,632,Savannah St.,9,True,7,9,-2,loss,2392022,30191,2460489,2023,2
+0,0,0,0,0,0,1,0,0,0,03/19/2023,away,16340,422,Miles,10,True,14,15,-1,loss,2425389,30191,2460489,2023,2
+1,0,2,1,0,0,0,0,0,0,03/22/2023,home,16340,30093,AUM,9,True,9,10,-1,loss,2397149,30191,2460489,2023,2
+0,1,1,0,0,0,0,0,0,0,03/26/2023,home,16340,332,Kentucky St.,9,True,11,1,10,win,2397734,30191,2460489,2023,2

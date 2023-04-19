@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,03/11/2023,neutral,16340,1277,Alliance,9,True,21,4,17,win,2394614,658,2361146,2023,2
+0,0,0,0,0,0,1,0,0,0,03/15/2023,neutral,16340,1318,Post,9,True,4,9,-5,loss,2395612,658,2361146,2023,2

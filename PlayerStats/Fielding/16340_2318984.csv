@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,2,5,0,0,0,1,0,0,0,02/25/2023,away,16340,309,UIndy,9,True,2,4,-2,loss,2421518,262,2318984,2023,2
+1,0,1,0,0,0,1,0,0,0,03/06/2023,neutral,16340,106,California (PA),9,True,8,3,5,win,2393694,262,2318984,2023,2
+2,2,4,0,0,0,0,1,0,0,03/11/2023,neutral,16340,1460,Wilmington (DE),9,True,2,0,2,win,2394656,262,2318984,2023,2
+1,2,3,0,0,0,1,0,0,0,03/17/2023,away,16340,19117,Salem (WV),9,True,7,3,4,win,2412002,262,2318984,2023,2
+0,1,1,0,0,0,0,0,0,0,04/02/2023,home,16340,799,Wis.-Parkside,9,True,7,2,5,win,2399766,262,2318984,2023,2
+3,2,5,0,0,0,0,0,1,0,04/07/2023,away,16340,799,Wis.-Parkside,9,True,3,1,2,win,2400550,262,2318984,2023,2

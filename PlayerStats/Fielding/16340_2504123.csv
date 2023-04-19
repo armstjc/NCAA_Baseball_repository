@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,4,5,0,0,0,0,0,0,0,03/05/2023,home,16340,360,Lock Haven,9,True,5,7,-2,loss,2393520,21323,2504123,2023,2
+2,3,6,1,0,0,0,0,1,0,03/07/2023,away,16340,339,Kutztown,9,True,11,16,-5,loss,2393852,21323,2504123,2023,2
+1,3,4,0,0,0,0,0,1,0,03/09/2023,away,16340,934,Alderson Broaddus,9,True,3,2,1,win,2394176,21323,2504123,2023,2
+0,1,2,1,0,0,0,0,0,0,03/09/2023,home,16340,143,Clarion,9,True,13,12,1,win,2394180,21323,2504123,2023,2
+0,1,1,0,0,0,0,0,0,0,03/10/2023,neutral,16340,934,Alderson Broaddus,9,True,8,5,3,win,2394318,21323,2504123,2023,2
+0,2,2,0,0,0,0,0,0,0,03/11/2023,neutral,16340,143,Clarion,9,True,3,8,-5,loss,2394742,21323,2504123,2023,2
+0,1,1,0,0,0,0,0,0,0,03/17/2023,home,16340,675,Staten Island,9,True,4,3,1,win,2425114,21323,2504123,2023,2
+2,2,4,0,0,0,0,0,1,0,03/17/2023,home,16340,675,Staten Island,9,True,2,9,-7,loss,2425101,21323,2504123,2023,2
+1,1,3,1,0,0,0,0,0,0,03/22/2023,home,16340,1460,Wilmington (DE),9,True,2,9,-7,loss,2397157,21323,2504123,2023,2

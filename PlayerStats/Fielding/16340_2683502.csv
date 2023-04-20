@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,2,5,0,0,0,2,1,0,0,03/11/2023,neutral,16340,276,Haverford,9,True,8,12,-4,loss,2394739,58,2683502,2023,3
+7,0,7,0,0,0,2,0,0,0,04/02/2023,away,16340,480,CCNY,9,True,15,1,14,win,2398834,58,2683502,2023,3
+8,0,8,0,0,0,3,0,0,0,04/02/2023,away,16340,480,CCNY,9,True,5,16,-11,loss,2410673,58,2683502,2023,3
+6,3,9,0,0,0,3,3,0,0,04/04/2023,home,16340,1468,Mt. St. Mary (NY),9,True,4,11,-7,loss,2399837,58,2683502,2023,3
+5,0,5,0,0,0,1,0,0,0,04/08/2023,away,16340,321,John Jay,9,True,16,2,14,win,2410118,58,2683502,2023,3
+4,1,5,0,0,0,10,0,0,0,04/18/2023,home,16340,724,Merchant Marine,9,True,3,12,-9,loss,2429607,58,2683502,2023,3

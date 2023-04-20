@@ -1,3 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,03/05/2023,home,16340,615,St. Olaf,9,True,2,15,-13,loss,2393365,641,2337303,2023,3
 0,0,0,0,0,0,1,0,0,0,03/17/2023,neutral,16340,804,Wis.-Superior,9,True,5,4,1,win,2395884,641,2337303,2023,3
+0,1,1,0,0,0,0,0,0,0,03/25/2023,home,16340,268,Hamline,9,True,6,3,3,win,2409568,641,2337303,2023,3
+0,0,0,0,0,0,1,0,0,0,03/26/2023,home,16340,268,Hamline,14,True,4,3,1,win,2398049,641,2337303,2023,3
+0,1,1,0,0,0,1,1,0,0,04/05/2023,home,16340,462,Neb. Wesleyan,9,True,0,5,-5,loss,2399884,641,2337303,2023,3
+0,0,0,0,0,0,1,0,0,0,04/08/2023,away,16340,372,Luther,9,True,1,6,-5,loss,2409424,641,2337303,2023,3
+0,0,0,0,0,0,1,0,0,0,04/14/2023,home,16340,750,Wartburg,9,True,14,10,4,win,2428898,641,2337303,2023,3
+0,1,1,0,0,0,1,0,0,0,04/18/2023,away,16340,462,Neb. Wesleyan,9,True,5,3,2,win,2402838,641,2337303,2023,3

@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/26/2023,neutral,16340,122,CWRU,10,True,3,5,-2,loss,2392090,137,2317284,2023,3
+0,0,0,0,0,0,1,0,0,0,03/19/2023,away,16340,28749,Transylvania,11,True,6,3,3,win,2396588,137,2317284,2023,3
+0,0,0,0,0,0,1,0,0,0,04/08/2023,home,16340,297,Illinois Col.,10,True,4,6,-2,loss,2410117,137,2317284,2023,3

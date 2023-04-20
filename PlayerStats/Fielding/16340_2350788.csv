@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/12/2023,away,16340,622,Salisbury,9,True,1,15,-14,loss,2395036,443,2350788,2023,3
 0,0,0,0,0,0,1,0,0,0,03/18/2023,away,16340,190,Drew,9,True,7,11,-4,loss,2409458,443,2350788,2023,3
+0,0,0,0,0,0,2,2,0,0,03/30/2023,home,16340,30047,Keystone,9,True,9,13,-4,loss,2398730,443,2350788,2023,3
+0,1,1,0,0,0,2,1,0,0,04/12/2023,home,16340,20,DeSales,9,True,5,12,-7,loss,2401650,443,2350788,2023,3

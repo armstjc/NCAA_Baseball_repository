@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,03/05/2023,home,16340,642,Skidmore,9,True,14,5,9,win,2408055,124,2683892,2023,3
 1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/07/2023,neutral,16340,30044,Penn St.-Berks,9,True,19,5,14,win,2393810,124,2683892,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/26/2023,home,16340,685,Susquehanna,9,True,15,7,8,win,2409473,124,2683892,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/29/2023,home,16340,322,Johns Hopkins,9,True,3,12,-9,loss,2398593,124,2683892,2023,3
+1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,04/02/2023,away,16340,190,Drew,9,True,25,4,21,win,2427321,124,2683892,2023,3

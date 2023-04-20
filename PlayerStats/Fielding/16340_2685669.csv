@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,1,0,0,0,03/05/2023,home,16340,278,Heidelberg,9,True,4,3,1,win,2408083,686,2685669,2023,3
+0,0,0,0,0,0,1,0,0,0,04/08/2023,away,16340,753,Washington Col.,10,True,6,7,-1,loss,2400966,686,2685669,2023,3
+0,0,1,1,0,0,0,0,0,0,04/16/2023,away,16340,258,Gettysburg,9,True,8,7,1,win,2409757,686,2685669,2023,3

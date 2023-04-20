@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,1,0,0,0,03/03/2023,neutral,16340,30031,Northwestern-St. Paul,9,True,2,7,-5,loss,2392710,478,2671380,2023,3
 0,0,1,1,0,0,1,0,0,0,03/10/2023,home,16340,480,CCNY,9,True,21,4,17,win,2394603,478,2671380,2023,3
+0,2,2,0,0,0,1,0,0,0,03/19/2023,home,16340,279,Lehman,9,True,5,0,5,win,2411825,478,2671380,2023,3
+0,1,1,0,0,0,0,0,0,0,03/26/2023,away,16340,321,John Jay,9,True,18,2,16,win,2398193,478,2671380,2023,3
+1,0,1,0,0,0,0,0,0,0,04/08/2023,away,16340,524,Old Westbury,9,True,7,6,1,win,2400973,478,2671380,2023,3
+0,1,1,0,0,0,0,0,0,0,04/16/2023,home,16340,382,Manhattanville,9,True,13,8,5,win,2402588,478,2671380,2023,3

@@ -1,2 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,1,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,03/14/2023,neutral,16340,120,Carroll (WI),9,True,20,3,17,win,2395402,23260,2681491,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/07/2023,home,16340,1111,Greenville,11,True,2,1,1,win,2400398,23260,2681491,2023,3
+0,3,1,1,0,2,0,3,1,0,0,0,2,0,0,1,0,0,0,04/08/2023,home,16340,1111,Greenville,9,True,9,5,4,win,2400833,23260,2681491,2023,3
+1,1,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,04/15/2023,home,16340,555,Principia,9,True,19,0,19,win,2402363,23260,2681491,2023,3
+0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,04/15/2023,home,16340,555,Principia,9,True,16,6,10,win,2410082,23260,2681491,2023,3

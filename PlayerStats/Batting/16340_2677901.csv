@@ -1,2 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,3,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,03/08/2023,neutral,16340,76,Bridgewater St.,11,True,4,5,-1,loss,2394006,722,2677901,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/21/2023,home,16340,22626,JWU (Providence),9,True,4,13,-9,loss,2396994,722,2677901,2023,3
+0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,03/22/2023,away,16340,2798,Albertus Magnus,9,True,16,12,4,win,2397199,722,2677901,2023,3
+0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,03/26/2023,home,16340,50,Bates,9,True,4,10,-6,loss,2426345,722,2677901,2023,3
+0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/28/2023,home,16340,724,Merchant Marine,9,True,2,12,-10,loss,2398496,722,2677901,2023,3

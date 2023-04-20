@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/08/2023,neutral,16340,76,Bridgewater St.,11,True,4,5,-1,loss,2394006,722,2677905,2023,3
+0,0,0,0,0,0,2,0,0,0,04/06/2023,home,16340,532,Elms,9,True,11,6,5,win,2427795,722,2677905,2023,3
+0,1,1,0,0,0,1,0,0,0,04/18/2023,away,16340,779,Wheaton (MA),9,True,8,6,2,win,2402937,722,2677905,2023,3

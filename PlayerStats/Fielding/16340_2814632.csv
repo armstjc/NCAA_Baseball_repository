@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,5,8,0,0,0,0,0,0,0,03/26/2023,home,16340,712,TCNJ,9,True,6,5,1,win,2397639,185,2814632,2023,3
+2,3,5,0,0,0,0,0,0,0,03/26/2023,home,16340,712,TCNJ,9,True,1,5,-4,loss,2409472,185,2814632,2023,3
+1,0,1,0,0,0,0,0,0,0,03/29/2023,home,16340,637,Shenandoah,9,True,5,18,-13,loss,2398666,185,2814632,2023,3
+0,1,1,0,0,0,0,0,0,0,04/05/2023,home,16340,30036,Mount Aloysius,9,True,1,10,-9,loss,2393895,185,2814632,2023,3
+0,0,1,1,0,0,0,0,0,0,04/07/2023,away,16340,773,McDaniel,9,True,4,3,1,win,2400634,185,2814632,2023,3
+0,2,3,1,0,0,0,0,0,0,04/08/2023,home,16340,276,Haverford,9,True,15,5,10,win,2400814,185,2814632,2023,3
+1,1,4,2,0,0,0,0,1,0,04/08/2023,home,16340,276,Haverford,9,True,18,4,14,win,2409235,185,2814632,2023,3
+2,1,4,1,0,0,0,0,0,0,04/12/2023,away,16340,211,Elizabethtown,9,True,8,18,-10,loss,2428613,185,2814632,2023,3

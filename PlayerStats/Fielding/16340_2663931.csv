@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,4,0,0,0,03/10/2023,neutral,16340,30035,Crown (MN),9,True,2,8,-6,loss,2408190,297,2663931,2023,3
+0,0,0,0,0,0,4,0,0,0,03/21/2023,home,16340,424,Millikin,9,True,2,16,-14,loss,2396308,297,2663931,2023,3
+0,0,0,0,0,0,1,1,0,0,03/24/2023,away,16340,166,Cornell College,9,True,9,11,-2,loss,2426028,297,2663931,2023,3
+0,0,0,0,0,0,1,0,0,0,04/11/2023,away,16340,300,Ill. Wesleyan,9,True,12,13,-1,loss,2401472,297,2663931,2023,3
+1,1,2,0,0,0,2,1,0,0,04/18/2023,home,16340,337,Knox,9,True,3,1,2,win,2402886,297,2663931,2023,3

@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,1,1,0,0,0,0,0,0,02/04/2023,home,16340,0,Providence Christian,8,True,6,5,1,win,2412105,89,2671587,2023,3
 1,0,1,0,0,0,0,0,0,0,02/11/2023,home,16340,557,Puget Sound,9,True,2,13,-11,loss,2408915,89,2671587,2023,3
 0,1,1,0,0,0,0,0,0,0,02/18/2023,home,16340,516,Occidental,9,True,1,13,-12,loss,2390619,89,2671587,2023,3
+0,0,0,0,0,0,1,0,0,0,04/07/2023,home,16340,105,Cal Lutheran,9,True,6,15,-9,loss,2400431,89,2671587,2023,3

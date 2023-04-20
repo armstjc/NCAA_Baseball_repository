@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/10/2023,home,16340,524,Old Westbury,9,True,2,12,-10,loss,2407960,321,2683866,2023,3
 0,0,0,0,0,0,1,1,0,0,03/17/2023,away,16340,12884,Centenary (NJ),9,True,1,17,-16,loss,2395827,321,2683866,2023,3
+0,0,1,1,0,0,0,0,0,0,03/23/2023,away,16340,27892,Farmingdale St.,9,True,0,22,-22,loss,2397270,321,2683866,2023,3
+0,0,0,0,0,0,1,0,0,0,03/28/2023,away,16340,589,Rutgers-Newark,9,True,4,11,-7,loss,2398491,321,2683866,2023,3
+0,0,1,1,0,0,0,0,0,0,04/05/2023,home,16340,27892,Farmingdale St.,9,True,7,23,-16,loss,2400157,321,2683866,2023,3
+0,0,0,0,0,0,1,0,0,0,04/11/2023,away,16340,9684,Saint Elizabeth,9,True,2,15,-13,loss,2401307,321,2683866,2023,3
+0,0,1,1,0,0,1,0,0,0,04/18/2023,away,16340,1340,St. Joseph's (L.I.),9,True,0,10,-10,loss,2402953,321,2683866,2023,3

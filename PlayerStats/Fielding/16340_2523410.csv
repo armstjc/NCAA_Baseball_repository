@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,03/28/2023,away,16340,722,Coast Guard,9,True,12,2,10,win,2398496,724,2523410,2023,3
+0,0,0,0,0,0,1,0,0,0,04/08/2023,away,16340,20,DeSales,9,True,3,10,-7,loss,2410588,724,2523410,2023,3
+0,0,0,0,0,0,1,0,0,0,04/16/2023,away,16340,30072,St. Joseph's (Brkln),9,True,9,5,4,win,2410740,724,2523410,2023,3

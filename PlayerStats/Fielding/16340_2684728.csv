@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/04/2023,away,16340,389,Mary Baldwin,9,True,2,8,-6,loss,2393523,30036,2684728,2023,3
 1,1,2,0,0,0,1,0,0,0,03/14/2023,neutral,16340,633,Scranton,9,True,9,18,-9,loss,2395374,30036,2684728,2023,3
+0,0,0,0,0,0,2,0,0,0,03/26/2023,home,16340,258,Gettysburg,9,True,20,21,-1,loss,2409986,30036,2684728,2023,3
+0,0,0,0,0,0,1,0,0,0,04/05/2023,away,16340,185,Dickinson,9,True,10,1,9,win,2393895,30036,2684728,2023,3
+0,1,1,0,0,0,0,0,0,0,04/16/2023,home,16340,12973,Wilson,9,True,2,12,-10,loss,2427469,30036,2684728,2023,3

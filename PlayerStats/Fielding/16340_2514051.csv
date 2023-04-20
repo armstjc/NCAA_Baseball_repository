@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/26/2023,away,16340,939,Anderson (IN),9,True,7,4,3,win,2392139,30037,2514051,2023,3
+0,0,0,0,0,0,2,0,0,0,03/19/2023,away,16340,2694,Franklin,10,True,6,7,-1,loss,2396652,30037,2514051,2023,3
+0,1,1,0,0,0,3,0,0,0,03/26/2023,home,16340,0,Wright St.-Lake,9,True,5,2,3,win,2426065,30037,2514051,2023,3
+1,1,2,0,0,0,1,0,0,0,04/02/2023,home,16340,525,Olivet,9,True,5,0,5,win,2399344,30037,2514051,2023,3
+0,2,2,0,0,0,1,0,0,0,04/07/2023,home,16340,326,Kalamazoo,9,True,7,3,4,win,2400449,30037,2514051,2023,3
+1,1,2,0,0,0,0,0,0,0,04/12/2023,away,16340,4,Adrian,9,True,1,5,-4,loss,2401651,30037,2514051,2023,3

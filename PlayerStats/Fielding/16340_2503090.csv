@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,2,3,0,0,0,0,0,1,0,03/21/2023,home,16340,1254,Neumann,9,True,18,3,15,win,2396985,179,2503090,2023,3
+0,2,2,0,0,0,0,0,0,0,03/22/2023,home,16340,397,Marywood,9,True,20,7,13,win,2397085,179,2503090,2023,3
+1,1,2,0,0,0,0,0,0,0,04/12/2023,home,16340,783,Widener,9,True,9,8,1,win,2401632,179,2503090,2023,3
+1,2,3,0,0,0,0,0,0,0,04/14/2023,away,16340,221,FDU-Florham,8,True,9,8,1,win,2428748,179,2503090,2023,3
+1,2,3,0,0,0,0,0,0,0,04/14/2023,away,16340,221,FDU-Florham,9,True,6,2,4,win,2428825,179,2503090,2023,3
+1,2,3,0,0,0,0,0,0,0,04/16/2023,home,16340,221,FDU-Florham,9,True,15,3,12,win,2409734,179,2503090,2023,3
+1,4,6,1,0,0,0,0,0,0,04/18/2023,home,16340,12399,Gwynedd Mercy,9,True,10,26,-16,loss,2402833,179,2503090,2023,3

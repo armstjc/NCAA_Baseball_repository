@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/04/2023,home,16340,286,Hope,9,True,5,4,1,win,2408482,2694,2648584,2023,3
 0,0,1,1,0,0,3,0,0,0,03/11/2023,home,16340,15,Albion,9,True,1,4,-3,loss,2407939,2694,2648584,2023,3
+0,0,0,0,0,0,1,0,0,0,03/20/2023,home,16340,30037,Trine,9,True,18,8,10,win,2396295,2694,2648584,2023,3
+0,1,1,0,0,0,0,0,0,0,03/26/2023,away,16340,28749,Transylvania,11,True,6,4,2,win,2410267,2694,2648584,2023,3
+0,0,0,0,0,0,1,0,0,0,04/02/2023,home,16340,1115,Hanover,9,True,13,6,7,win,2399220,2694,2648584,2023,3
+1,0,1,0,0,0,0,0,0,0,04/08/2023,away,16340,939,Anderson (IN),9,True,11,3,8,win,2400943,2694,2648584,2023,3
+1,1,2,0,0,0,1,0,0,0,04/15/2023,away,16340,8567,Mt. St. Joseph,10,True,11,9,2,win,2402367,2694,2648584,2023,3

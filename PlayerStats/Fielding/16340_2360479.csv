@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,2,0,0,0,03/23/2023,home,16340,401,UMass Boston,9,True,8,21,-13,loss,2397266,684,2360479,2023,3
+0,0,0,0,0,0,1,0,0,0,03/26/2023,home,16340,484,Nichols,9,True,4,3,1,win,2426311,684,2360479,2023,3
+0,0,0,0,0,0,3,0,0,0,03/29/2023,away,16340,45,Babson,9,True,2,7,-5,loss,2398668,684,2360479,2023,3
+0,0,0,0,0,0,2,0,0,0,04/04/2023,away,16340,8981,Endicott,10,True,3,4,-1,loss,2399819,684,2360479,2023,3
+0,1,1,0,0,0,2,1,0,0,04/08/2023,home,16340,775,Western New Eng.,9,True,3,8,-5,loss,2400999,684,2360479,2023,3
+0,1,2,1,0,0,7,0,0,0,04/12/2023,away,16340,779,Wheaton (MA),9,True,2,14,-12,loss,2401657,684,2360479,2023,3

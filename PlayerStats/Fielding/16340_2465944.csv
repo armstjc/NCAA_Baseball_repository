@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/05/2023,home,16340,326,Kalamazoo,9,True,5,2,3,win,2392930,23260,2465944,2023,3
 1,0,1,0,0,0,0,0,0,0,03/14/2023,neutral,16340,120,Carroll (WI),9,True,20,3,17,win,2395402,23260,2465944,2023,3
+0,2,3,1,0,0,0,0,0,0,04/02/2023,home,16340,218,Eureka,9,True,3,1,2,win,2399127,23260,2465944,2023,3
+1,0,1,0,0,0,0,0,0,0,04/15/2023,home,16340,555,Principia,9,True,16,6,10,win,2410082,23260,2465944,2023,3

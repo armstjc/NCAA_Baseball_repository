@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,03/07/2023,neutral,16340,382,Manhattanville,9,True,19,8,11,win,2393809,76,2689952,2023,3
+0,1,1,0,0,0,2,0,0,0,03/23/2023,away,16340,571,Rhode Island Col.,9,True,6,5,1,win,2397260,76,2689952,2023,3
+1,2,3,0,0,0,1,0,1,0,04/02/2023,home,16340,486,MCLA,9,True,34,7,27,win,2410185,76,2689952,2023,3

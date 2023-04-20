@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,1,0,0,02/25/2023,away,16340,939,Anderson (IN),9,True,8,2,6,win,2408459,30037,2514053,2023,3
 0,2,2,0,0,0,0,0,0,0,03/07/2023,neutral,16340,265,Grove City,9,True,4,11,-7,loss,2393802,30037,2514053,2023,3
+0,0,0,0,0,0,2,1,0,0,04/08/2023,away,16340,326,Kalamazoo,9,True,4,14,-10,loss,2409333,30037,2514053,2023,3
+0,2,2,0,0,0,0,1,0,0,04/15/2023,away,16340,21,Alma,9,True,0,10,-10,loss,2402111,30037,2514053,2023,3

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/15/2023,home,16340,1164,Lakeland,9,True,13,3,10,win,2395679,337,2361717,2023,3
+0,0,0,0,0,0,1,0,0,0,03/15/2023,neutral,16340,1164,Lakeland,9,True,13,3,10,win,2395679,337,2361717,2023,3
 0,1,1,0,0,0,0,0,0,0,03/17/2023,away,16340,152,Colby-Sawyer,9,True,12,11,1,win,2395868,337,2361717,2023,3
+0,0,0,0,0,0,1,0,0,0,04/18/2023,away,16340,297,Illinois Col.,9,True,1,3,-2,loss,2402886,337,2361717,2023,3

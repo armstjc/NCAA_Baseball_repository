@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/09/2023,neutral,16340,124,Catholic,9,True,2,11,-9,loss,2394139,722,2518216,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/21/2023,home,16340,22626,JWU (Providence),9,True,4,13,-9,loss,2396994,722,2518216,2023,3
+1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,04/02/2023,home,16340,398,MIT,9,True,15,17,-2,loss,2410632,722,2518216,2023,3

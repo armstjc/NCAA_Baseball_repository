@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,0,0,0,03/04/2023,neutral,16340,8567,Mt. St. Joseph,9,True,5,2,3,win,2393160,520,2515816,2023,3
 0,2,2,0,0,0,1,0,0,0,03/12/2023,neutral,16340,218,Eureka,9,True,3,1,2,win,2395002,520,2515816,2023,3
+0,0,1,1,0,0,1,0,0,0,03/19/2023,away,16340,385,Marietta,9,True,6,7,-1,loss,2396573,520,2515816,2023,3
+1,0,1,0,0,0,0,0,0,0,03/28/2023,away,16340,4,Adrian,9,True,3,4,-1,loss,2410477,520,2515816,2023,3
+0,1,1,0,0,0,0,0,0,0,04/02/2023,away,16340,335,Kenyon,9,True,9,5,4,win,2410522,520,2515816,2023,3
+0,3,3,0,0,0,3,0,0,0,04/15/2023,home,16340,177,DePauw,9,True,5,10,-5,loss,2402248,520,2515816,2023,3

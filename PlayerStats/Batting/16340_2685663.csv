@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/02/2023,home,16340,12973,Wilson,9,True,5,24,-19,loss,2399445,15882,2685663,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/03/2023,away,16340,12973,Wilson,9,True,3,24,-21,loss,2398800,15882,2685663,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/04/2023,home,16340,8968,Eastern,9,True,9,11,-2,loss,2400093,15882,2685663,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/15/2023,away,16340,958,Clarks Summit,8,True,18,7,11,win,2409138,15882,2685663,2023,3

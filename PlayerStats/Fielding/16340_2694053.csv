@@ -1,2 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,1,0,03/10/2023,neutral,16340,25719,Penn St.-Altoona,9,True,7,0,7,win,2394308,30037,2694053,2023,3
+1,0,1,0,0,0,0,0,0,0,04/08/2023,away,16340,326,Kalamazoo,9,True,4,14,-10,loss,2409333,30037,2694053,2023,3
+10,1,11,0,0,0,0,0,0,0,04/10/2023,away,16340,525,Olivet,9,True,4,11,-7,loss,2399757,30037,2694053,2023,3
+9,1,10,0,0,0,0,0,0,0,04/12/2023,away,16340,4,Adrian,9,True,1,5,-4,loss,2401651,30037,2694053,2023,3
+12,1,13,0,0,0,0,0,1,0,04/14/2023,home,16340,21,Alma,9,True,2,7,-5,loss,2402566,30037,2694053,2023,3
+9,1,10,0,0,0,0,0,0,0,04/15/2023,away,16340,21,Alma,9,True,4,8,-4,loss,2409502,30037,2694053,2023,3
+13,0,13,0,0,0,0,0,1,0,04/18/2023,home,16340,4,Adrian,9,True,3,10,-7,loss,2402958,30037,2694053,2023,3

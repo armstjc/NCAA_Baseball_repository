@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/04/2023,neutral,16340,8567,Mt. St. Joseph,9,True,5,2,3,win,2393160,520,2686961,2023,3
 0,2,2,0,0,0,0,1,0,0,03/11/2023,neutral,16340,218,Eureka,9,True,9,5,4,win,2394649,520,2686961,2023,3
+0,0,0,0,0,0,1,0,0,0,03/15/2023,away,16340,30243,Asbury,9,True,9,8,1,win,2395561,520,2686961,2023,3
+0,0,0,0,0,0,1,0,0,0,03/21/2023,away,16340,117,Capital,9,True,20,8,12,win,2397002,520,2686961,2023,3
+0,0,1,1,0,0,0,0,0,0,03/30/2023,away,16340,531,Otterbein,9,True,11,10,1,win,2396333,520,2686961,2023,3
+0,1,2,1,0,0,1,0,0,0,04/04/2023,home,16340,182,Denison,9,True,3,14,-11,loss,2409317,520,2686961,2023,3
+0,1,1,0,0,0,0,0,0,0,04/08/2023,away,16340,281,Hiram,9,True,16,6,10,win,2400994,520,2686961,2023,3

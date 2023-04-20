@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,2,0,0,0,2,0,0,0,03/21/2023,away,16340,185,Dickinson,9,True,4,11,-7,loss,2396849,325,2516082,2023,3
+0,0,0,0,0,0,3,0,0,0,04/01/2023,away,16340,633,Scranton,9,True,14,24,-10,loss,2426977,325,2516082,2023,3
+0,0,0,0,0,0,2,0,0,0,04/06/2023,away,16340,30085,Lancaster Bible,9,True,17,20,-3,loss,2400188,325,2516082,2023,3
+0,0,0,0,0,0,1,0,0,0,04/13/2023,home,16340,11839,Pitt.-Greensburg,9,True,13,10,3,win,2428743,325,2516082,2023,3

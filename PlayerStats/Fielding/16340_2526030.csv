@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/04/2023,home,16340,279,Lehman,9,True,15,4,11,win,2408363,679,2526030,2023,3
+2,0,2,0,0,0,0,0,0,0,03/28/2023,away,16340,221,FDU-Florham,9,True,8,6,2,win,2398485,679,2526030,2023,3
+1,0,1,0,0,0,0,0,0,0,04/04/2023,home,16340,221,FDU-Florham,9,True,9,3,6,win,2399896,679,2526030,2023,3
+1,0,1,0,0,0,0,0,0,0,04/04/2023,home,16340,221,FDU-Florham,9,True,8,3,5,win,2409315,679,2526030,2023,3
+3,1,4,0,0,0,0,0,0,0,04/12/2023,neutral,16340,16142,Misericordia,9,True,5,2,3,win,2401682,679,2526030,2023,3

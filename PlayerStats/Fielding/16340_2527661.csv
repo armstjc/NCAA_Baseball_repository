@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/12/2023,home,16340,759,Webster,9,True,2,1,1,win,2394460,134,2527661,2023,3
 1,0,1,0,0,0,0,0,0,0,03/12/2023,home,16340,759,Webster,15,True,4,5,-1,loss,2395152,134,2527661,2023,3
+2,0,2,0,0,0,0,0,0,0,03/25/2023,home,16340,717,Tufts,9,True,6,3,3,win,2409835,134,2527661,2023,3
+1,0,1,0,0,0,0,0,0,0,04/01/2023,away,16340,567,Redlands,9,True,7,2,5,win,2410301,134,2527661,2023,3
+1,0,1,0,0,0,0,0,0,0,04/07/2023,away,16340,516,Occidental,9,True,15,6,9,win,2400585,134,2527661,2023,3
+1,0,1,0,0,0,0,0,0,0,04/08/2023,home,16340,516,Occidental,9,True,14,6,8,win,2400883,134,2527661,2023,3

@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,03/26/2023,away,16340,641,Simpson,14,True,3,4,-1,loss,2398049,268,2128241,2023,3
+3,0,3,0,0,0,0,0,0,0,04/11/2023,away,16340,615,St. Olaf,9,True,8,7,1,win,2399925,268,2128241,2023,3
+4,0,4,0,0,0,0,0,0,0,04/12/2023,home,16340,602,Saint John's (MN),9,True,7,5,2,win,2409222,268,2128241,2023,3
+1,0,1,0,0,0,0,0,0,0,04/15/2023,away,16340,60,Bethel (MN),9,True,5,19,-14,loss,2402383,268,2128241,2023,3
+1,0,1,0,0,0,0,0,0,0,04/15/2023,away,16340,60,Bethel (MN),9,True,3,10,-7,loss,2410204,268,2128241,2023,3
+2,0,2,0,0,0,0,0,0,0,04/17/2023,home,16340,376,Macalester,9,True,1,10,-9,loss,2429514,268,2128241,2023,3

@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/04/2023,neutral,16340,492,North Central (IL),9,True,8,9,-1,loss,2393033,326,2686736,2023,3
 1,0,1,0,0,0,2,0,0,0,03/16/2023,neutral,16340,531,Otterbein,9,True,6,15,-9,loss,2395742,326,2686736,2023,3
+0,1,1,0,0,0,1,0,0,0,03/22/2023,neutral,16340,789,Williams,9,True,10,9,1,win,2397139,326,2686736,2023,3
+0,1,1,0,0,0,0,0,0,0,04/10/2023,away,16340,286,Hope,11,True,15,14,1,win,2400008,326,2686736,2023,3
+0,1,2,1,0,0,0,0,0,0,04/11/2023,away,16340,15,Albion,9,True,13,6,7,win,2427543,326,2686736,2023,3
+1,0,1,0,0,0,1,0,0,0,04/18/2023,home,16340,286,Hope,9,True,9,7,2,win,2402951,326,2686736,2023,3

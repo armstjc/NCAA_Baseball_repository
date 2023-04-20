@@ -1,3 +1,8 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/26/2023,away,16340,390,Mary Washington,9,True,4,11,-7,loss,2408337,325,2685120,2023,3
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/11/2023,away,16340,322,Johns Hopkins,9,True,3,9,-6,loss,2408786,325,2685120,2023,3
+0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,03/28/2023,away,16340,211,Elizabethtown,9,True,4,12,-8,loss,2398119,325,2685120,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/05/2023,away,16340,25719,Penn St.-Altoona,9,True,18,7,11,win,2410332,325,2685120,2023,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/06/2023,away,16340,30085,Lancaster Bible,9,True,17,20,-3,loss,2400188,325,2685120,2023,3
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/08/2023,home,16340,938,Alvernia,9,True,1,21,-20,loss,2409326,325,2685120,2023,3
+0,3,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,04/12/2023,home,16340,30036,Mount Aloysius,9,True,2,5,-3,loss,2409213,325,2685120,2023,3

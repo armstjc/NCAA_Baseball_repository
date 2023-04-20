@@ -1,3 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,03/07/2023,away,16340,773,McDaniel,9,True,9,12,-3,loss,2393884,21852,2353141,2023,3
 1,0,1,0,0,0,0,0,0,0,03/12/2023,home,16340,783,Widener,9,True,7,1,6,win,2407938,21852,2353141,2023,3
+1,0,1,0,0,0,0,0,0,0,03/18/2023,home,16340,411,Messiah,9,True,5,1,4,win,2396290,21852,2353141,2023,3
+1,0,1,0,0,0,0,0,0,0,03/21/2023,away,16340,784,Wilkes,9,True,7,5,2,win,2395466,21852,2353141,2023,3
+1,0,1,0,0,0,0,0,0,0,04/02/2023,away,16340,815,York (PA),9,True,2,3,-1,loss,2399216,21852,2353141,2023,3
+3,0,3,0,0,0,0,0,0,0,04/11/2023,away,16340,8404,Hood,9,True,8,5,3,win,2409899,21852,2353141,2023,3
+3,0,3,0,0,0,0,0,0,0,04/12/2023,home,16340,622,Salisbury,8,True,5,27,-22,loss,2401629,21852,2353141,2023,3
+4,0,4,0,0,0,0,0,0,0,04/14/2023,home,16340,16,Albright,9,True,24,3,21,win,2401899,21852,2353141,2023,3

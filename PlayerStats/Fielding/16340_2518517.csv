@@ -1,3 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/05/2023,away,16340,124,Catholic,9,True,4,7,-3,loss,2392961,642,2518517,2023,3
 1,0,1,0,0,0,0,0,0,0,03/15/2023,neutral,16340,770,WestConn,9,True,6,4,2,win,2408896,642,2518517,2023,3
+1,0,2,1,0,0,0,0,0,0,03/26/2023,home,16340,570,Rensselaer,9,True,5,19,-14,loss,2398156,642,2518517,2023,3
+6,0,6,0,0,0,0,0,0,0,04/12/2023,home,16340,789,Williams,9,True,2,16,-14,loss,2401649,642,2518517,2023,3
+1,0,1,0,0,0,0,0,0,0,04/15/2023,home,16340,581,Rochester (NY),9,True,2,6,-4,loss,2409745,642,2518517,2023,3
+1,0,1,0,0,0,0,0,0,0,04/16/2023,home,16340,580,RIT,9,True,11,5,6,win,2402655,642,2518517,2023,3
+4,0,4,0,0,0,0,0,0,0,04/16/2023,home,16340,580,RIT,9,True,5,3,2,win,2410774,642,2518517,2023,3
+2,0,2,0,0,0,0,0,0,0,04/19/2023,home,16340,486,MCLA,9,True,14,0,14,win,2403142,642,2518517,2023,3

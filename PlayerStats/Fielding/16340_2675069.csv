@@ -1,4 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/26/2023,neutral,16340,182,Denison,9,True,7,10,-3,loss,2392104,685,2675069,2023,3
-1,6,7,0,0,0,0,0,0,0,03/05/2023,neutral,16340,530,Oswego St.,9,True,11,4,7,win,2393050,685,2675069,2023,3
+1,6,7,0,0,0,0,0,0,0,03/05/2023,neutral,16340,530,Oswego St.,10,True,11,4,7,win,2393050,685,2675069,2023,3
 0,2,2,0,0,0,0,0,0,0,03/18/2023,home,16340,633,Scranton,9,True,13,2,11,win,2408983,685,2675069,2023,3
+0,2,2,0,0,0,0,0,1,0,04/08/2023,away,16340,443,Moravian,9,True,15,3,12,win,2409964,685,2675069,2023,3
+3,2,5,0,0,0,0,0,0,0,04/18/2023,away,16340,30047,Keystone,9,True,2,12,-10,loss,2402929,685,2675069,2023,3

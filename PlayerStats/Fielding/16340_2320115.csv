@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,1,1,0,0,1,0,0,0,03/24/2023,neutral,16340,751,Wash. & Jeff.,8,True,4,5,-1,loss,2397371,807,2320115,2023,3
+0,1,1,0,0,0,0,0,0,0,03/30/2023,neutral,16340,30036,Mount Aloysius,9,True,6,8,-2,loss,2398734,807,2320115,2023,3
+0,1,1,0,0,0,0,0,0,0,04/04/2023,away,16340,335,Kenyon,9,True,19,9,10,win,2409316,807,2320115,2023,3
+0,0,0,0,0,0,1,0,0,0,04/08/2023,home,16340,806,Wittenberg,9,True,3,7,-4,loss,2410112,807,2320115,2023,3
+0,1,1,0,0,0,1,0,0,0,04/19/2023,home,16340,520,Ohio Wesleyan,9,True,11,1,10,win,2411446,807,2320115,2023,3

@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,6,0,0,0,03/04/2023,away,16340,679,Stevens,9,True,5,18,-13,loss,2393074,279,2691923,2023,3
 0,1,1,0,0,0,5,0,0,0,03/12/2023,home,16340,524,Old Westbury,9,True,2,15,-13,loss,2395090,279,2691923,2023,3
+0,1,1,0,0,0,0,0,0,0,03/18/2023,home,16340,1340,St. Joseph's (L.I.),9,True,6,19,-13,loss,2425198,279,2691923,2023,3
+0,0,0,0,0,0,1,0,0,0,03/21/2023,away,16340,442,Montclair St.,9,True,0,25,-25,loss,2396956,279,2691923,2023,3
+0,1,1,0,0,0,1,1,0,0,03/29/2023,away,16340,27892,Farmingdale St.,9,True,0,14,-14,loss,2426647,279,2691923,2023,3
+0,0,0,0,0,0,3,1,0,0,04/08/2023,away,16340,480,CCNY,9,True,4,2,2,win,2400456,279,2691923,2023,3
+0,1,1,0,0,0,4,0,0,0,04/15/2023,home,16340,58,Baruch,9,True,3,16,-13,loss,2402271,279,2691923,2023,3

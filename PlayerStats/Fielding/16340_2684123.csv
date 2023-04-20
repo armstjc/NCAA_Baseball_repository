@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,03/23/2023,neutral,16340,727,Union (NY),9,True,2,5,-3,loss,2397252,1159,2684123,2023,3
+4,0,4,0,0,0,0,0,0,0,04/02/2023,away,16340,601,St. John Fisher,9,True,4,5,-1,loss,2427630,1159,2684123,2023,3
+2,1,3,0,0,0,0,0,1,0,04/03/2023,away,16340,601,St. John Fisher,9,True,1,15,-14,loss,2409174,1159,2684123,2023,3
+1,0,1,0,0,0,0,0,0,0,04/06/2023,away,16340,8398,Hilbert,9,True,7,2,5,win,2399878,1159,2684123,2023,3
+1,0,2,1,0,0,0,0,0,0,04/08/2023,neutral,16340,733,Utica,9,True,1,12,-11,loss,2401094,1159,2684123,2023,3

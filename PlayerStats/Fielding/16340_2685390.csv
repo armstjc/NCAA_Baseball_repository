@@ -1,4 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/19/2023,home,16340,0,Penn St.-Brandywine,9,True,5,6,-1,loss,2390948,15882,2685390,2023,3
+0,1,1,0,0,0,0,0,0,0,03/04/2023,home,16340,336,King's (PA),9,True,6,12,-6,loss,2393215,15882,2685390,2023,3
 1,0,1,0,0,0,0,0,0,0,03/06/2023,neutral,16340,336,King's (PA),9,True,14,4,10,win,2393716,15882,2685390,2023,3
 1,0,1,0,0,0,0,0,0,0,03/12/2023,away,16340,1254,Neumann,9,True,2,5,-3,loss,2407943,15882,2685390,2023,3
+0,1,2,1,0,0,0,0,0,0,03/18/2023,away,16340,12884,Centenary (NJ),10,True,5,4,1,win,2396202,15882,2685390,2023,3
+0,0,0,0,0,0,1,0,0,0,03/24/2023,away,16340,9684,Saint Elizabeth,9,True,10,12,-2,loss,2397322,15882,2685390,2023,3
+0,0,1,1,0,0,0,0,0,0,03/28/2023,away,16340,588,Rutgers-Camden,9,True,4,6,-2,loss,2423736,15882,2685390,2023,3
+1,0,1,0,0,0,0,0,0,0,04/03/2023,away,16340,12973,Wilson,9,True,3,24,-21,loss,2398800,15882,2685390,2023,3

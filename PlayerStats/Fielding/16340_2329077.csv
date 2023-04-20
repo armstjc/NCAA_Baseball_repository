@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,3,0,0,0,0,0,0,0,03/05/2023,neutral,16340,747,Wabash,9,True,5,2,3,win,2408185,16142,2329077,2023,3
 1,0,1,0,0,0,0,0,0,0,03/12/2023,neutral,16340,336,King's (PA),9,True,6,0,6,win,2395098,16142,2329077,2023,3
+0,1,1,0,0,0,0,0,0,0,03/18/2023,home,16340,179,Delaware Valley,9,True,18,1,17,win,2409453,16142,2329077,2023,3
+0,1,1,0,0,0,0,0,0,0,04/07/2023,away,16340,679,Stevens,9,True,4,2,2,win,2400248,16142,2329077,2023,3
+0,0,0,0,0,0,2,0,0,0,04/14/2023,home,16340,373,Lycoming,9,True,13,8,5,win,2401912,16142,2329077,2023,3

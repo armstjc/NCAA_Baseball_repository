@@ -1,2 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,2,1,0,0,0,1,1,0,03/16/2023,away,16340,8404,Hood,9,True,6,14,-8,loss,2395471,325,2516065,2023,3
+1,0,1,0,0,0,0,0,0,0,03/22/2023,home,16340,258,Gettysburg,9,True,5,7,-2,loss,2397090,325,2516065,2023,3
+0,0,0,0,0,0,4,0,0,0,04/02/2023,away,16340,633,Scranton,9,True,10,15,-5,loss,2410043,325,2516065,2023,3
+0,0,0,0,0,0,1,0,0,0,04/05/2023,away,16340,25719,Penn St.-Altoona,9,True,18,7,11,win,2410332,325,2516065,2023,3
+0,1,1,0,0,0,0,0,0,0,04/08/2023,home,16340,938,Alvernia,9,True,1,21,-20,loss,2409326,325,2516065,2023,3
+1,0,1,0,0,0,0,0,0,0,04/14/2023,home,16340,190,Drew,10,True,9,8,1,win,2428820,325,2516065,2023,3
+0,0,0,0,0,0,2,0,0,0,04/15/2023,home,16340,190,Drew,9,True,11,10,1,win,2402517,325,2516065,2023,3

@@ -1,3 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2023,neutral,16340,773,McDaniel,9,True,25,3,22,win,2421344,442,2678318,2023,3
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/08/2023,neutral,16340,17094,William Peace,9,True,2,6,-4,loss,2394089,442,2678318,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/02/2023,home,16340,589,Rutgers-Newark,10,True,7,9,-2,loss,2410375,442,2678318,2023,3
+2,1,1,0,0,1,0,1,2,0,1,0,0,0,0,0,1,0,0,04/14/2023,home,16340,319,New Jersey City,9,True,25,10,15,win,2401902,442,2678318,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/16/2023,away,16340,712,TCNJ,9,True,2,3,-1,loss,2402187,442,2678318,2023,3
+0,4,2,1,0,3,0,3,1,0,0,0,2,0,0,0,0,0,0,04/16/2023,away,16340,712,TCNJ,9,True,6,7,-1,loss,2409603,442,2678318,2023,3

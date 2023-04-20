@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/12/2023,home,16340,1036,Concordia Wisconsin,9,True,8,29,-21,loss,2417809,268,2485343,2023,3
+0,0,0,0,0,0,2,0,0,0,03/18/2023,neutral,16340,567,Redlands,10,True,9,10,-1,loss,2424686,268,2485343,2023,3
+0,1,1,0,0,0,0,0,0,0,03/26/2023,away,16340,641,Simpson,14,True,3,4,-1,loss,2398049,268,2485343,2023,3

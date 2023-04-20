@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,03/12/2023,away,16340,622,Salisbury,9,True,4,8,-4,loss,2408819,443,2670138,2023,3
+0,1,1,0,0,0,0,0,0,0,04/04/2023,home,16340,1254,Neumann,9,True,2,9,-7,loss,2400005,443,2670138,2023,3
+0,0,1,1,0,0,3,1,0,0,04/12/2023,home,16340,20,DeSales,9,True,5,12,-7,loss,2401650,443,2670138,2023,3

@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,1,3,1,0,0,0,0,0,0,02/18/2023,away,16340,203,East. Mennonite,9,True,16,13,3,win,2408887,685,2327617,2023,3
 1,0,1,0,0,0,0,0,0,0,02/26/2023,neutral,16340,182,Denison,9,True,7,10,-3,loss,2392104,685,2327617,2023,3
 1,0,1,0,0,0,0,0,0,0,03/13/2023,home,16340,588,Rutgers-Camden,9,True,7,6,1,win,2395257,685,2327617,2023,3
+0,1,2,1,0,0,0,0,1,0,04/02/2023,home,16340,390,Mary Washington,9,True,4,12,-8,loss,2409157,685,2327617,2023,3

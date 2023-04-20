@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,2,0,0,0,0,0,1,0,03/24/2023,home,16340,245,Gallaudet,9,True,4,2,2,win,2425903,30190,2673093,2023,3
+2,0,2,0,0,0,0,0,0,0,03/24/2023,home,16340,245,Gallaudet,9,True,9,7,2,win,2425985,30190,2673093,2023,3
+1,0,1,0,0,0,0,0,0,0,03/26/2023,home,16340,245,Gallaudet,9,True,20,7,13,win,2397834,30190,2673093,2023,3
+2,0,2,0,0,0,0,0,0,0,04/03/2023,home,16340,611,St. Mary's (MD),9,True,13,7,6,win,2409027,30190,2673093,2023,3
+7,0,7,0,0,0,0,0,0,0,04/07/2023,home,16340,761,Wells,9,True,3,1,2,win,2400446,30190,2673093,2023,3
+1,0,1,0,0,0,0,0,0,0,04/08/2023,home,16340,761,Wells,9,True,7,2,5,win,2400870,30190,2673093,2023,3
+2,0,2,0,0,0,0,0,0,0,04/08/2023,home,16340,761,Wells,9,True,6,4,2,win,2409442,30190,2673093,2023,3
+3,0,3,0,0,0,0,0,0,0,04/14/2023,away,16340,30081,Penn St. Harrisburg,9,True,0,10,-10,loss,2428753,30190,2673093,2023,3

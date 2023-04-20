@@ -1,2 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/25/2023,home,16340,0,Crowley's Ridge,9,True,1,13,-12,loss,2391785,555,2689236,2023,3
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/17/2023,home,16340,1194,Maranatha Baptist,9,True,16,5,11,win,2425437,555,2689236,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/26/2023,away,16340,218,Eureka,9,True,0,18,-18,loss,2426316,555,2689236,2023,3
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/01/2023,home,16340,11538,Fontbonne,9,True,6,35,-29,loss,2399362,555,2689236,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/08/2023,home,16340,64,Blackburn,9,True,0,21,-21,loss,2410591,555,2689236,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/14/2023,away,16340,23260,Spalding,9,True,1,11,-10,loss,2401998,555,2689236,2023,3

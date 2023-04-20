@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/12/2023,neutral,16340,532,Elms,9,True,2,11,-9,loss,2395026,379,2693062,2023,3
 0,0,1,1,0,0,0,0,0,0,03/15/2023,neutral,16340,526,SUNY Oneonta,9,True,6,10,-4,loss,2408826,379,2693062,2023,3
+0,1,1,0,0,0,0,0,0,0,03/26/2023,away,16340,24317,Lesley,9,True,0,10,-10,loss,2409282,379,2693062,2023,3
+0,0,0,0,0,0,2,0,0,0,04/04/2023,away,16340,69,Bowdoin,9,True,0,11,-11,loss,2400017,379,2693062,2023,3
+0,1,1,0,0,0,0,0,0,0,04/08/2023,home,16340,2758,Thomas (ME),9,True,0,12,-12,loss,2428133,379,2693062,2023,3
+0,0,0,0,0,0,2,0,0,0,04/12/2023,away,16340,50,Bates,9,True,5,12,-7,loss,2401565,379,2693062,2023,3
+0,0,0,0,0,0,1,0,0,0,04/15/2023,away,16340,30065,NVU-Lyndon,9,True,2,10,-8,loss,2409507,379,2693062,2023,3

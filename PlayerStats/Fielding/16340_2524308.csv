@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,2,1,0,0,03/11/2023,neutral,16340,486,MCLA,9,True,7,9,-2,loss,2394646,379,2524308,2023,3
 1,0,1,0,0,0,1,1,0,0,03/16/2023,neutral,16340,152,Colby-Sawyer,9,True,16,7,9,win,2395757,379,2524308,2023,3
+0,0,0,0,0,0,3,0,0,0,03/26/2023,away,16340,24317,Lesley,9,True,4,10,-6,loss,2398102,379,2524308,2023,3
+0,1,1,0,0,0,4,0,0,0,04/02/2023,away,16340,484,Nichols,9,True,2,7,-5,loss,2399172,379,2524308,2023,3
+0,2,2,0,0,0,2,0,0,0,04/09/2023,away,16340,2758,Thomas (ME),9,True,6,7,-1,loss,2401186,379,2524308,2023,3
+0,0,0,0,0,0,1,0,0,0,04/15/2023,away,16340,30065,NVU-Lyndon,9,True,2,10,-8,loss,2409507,379,2524308,2023,3
+1,4,5,0,0,0,0,0,0,0,04/18/2023,home,16340,30040,Me.-Presque Isle,8,True,2,1,1,win,2411029,379,2524308,2023,3

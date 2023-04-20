@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,2,1,0,0,2,0,0,0,03/02/2023,home,16340,453,Muhlenberg,9,True,7,7,0,tie,2392419,351,2671189,2023,3
 0,1,2,1,0,0,1,0,0,0,03/18/2023,home,16340,8968,Eastern,9,True,8,5,3,win,2409463,351,2671189,2023,3
+1,2,3,0,0,0,2,0,0,0,03/26/2023,home,16340,8404,Hood,9,True,3,4,-1,loss,2410272,351,2671189,2023,3
+0,1,1,0,0,0,0,0,0,0,04/01/2023,home,16340,16,Albright,9,True,4,3,1,win,2409018,351,2671189,2023,3
+0,1,1,0,0,0,0,0,0,0,04/08/2023,away,16340,21852,Stevenson,9,True,8,4,4,win,2400811,351,2671189,2023,3

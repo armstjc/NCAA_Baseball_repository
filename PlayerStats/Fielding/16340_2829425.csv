@@ -1,3 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,0,4,0,0,0,0,0,0,0,03/11/2023,home,16340,611,St. Mary's (MD),9,True,14,5,9,win,2394541,12973,2829425,2023,3
 2,0,2,0,0,0,0,0,0,0,03/15/2023,away,16340,325,Juniata,9,True,25,11,14,win,2395596,12973,2829425,2023,3
+9,0,9,0,0,0,0,0,0,0,03/29/2023,home,16340,25719,Penn St.-Altoona,9,True,12,4,8,win,2410017,12973,2829425,2023,3
+1,0,1,0,0,0,0,0,0,0,04/02/2023,away,16340,15882,Rosemont,9,True,24,5,19,win,2399445,12973,2829425,2023,3
+5,0,5,0,0,0,0,0,0,0,04/02/2023,away,16340,15882,Rosemont,9,True,11,9,2,win,2409486,12973,2829425,2023,3
+4,0,4,0,0,1,1,0,0,0,04/03/2023,home,16340,15882,Rosemont,9,True,24,3,21,win,2398800,12973,2829425,2023,3
+4,0,4,0,0,1,4,0,0,0,04/06/2023,away,16340,30166,Valley Forge,9,True,5,4,1,win,2408949,12973,2829425,2023,3
+4,1,5,0,0,0,1,0,0,0,04/13/2023,away,16340,30044,Penn St.-Berks,9,True,19,14,5,win,2401703,12973,2829425,2023,3

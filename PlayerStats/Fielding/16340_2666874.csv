@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/18/2023,away,16340,1112,Guilford,9,True,18,10,8,win,2390655,12973,2666874,2023,3
 1,0,1,0,0,0,0,0,0,0,03/15/2023,away,16340,325,Juniata,9,True,25,11,14,win,2395596,12973,2666874,2023,3
+1,0,1,0,0,0,0,0,0,0,03/20/2023,away,16340,1434,Waynesburg,9,True,6,7,-1,loss,2409817,12973,2666874,2023,3
+1,0,1,0,0,0,0,0,0,0,04/02/2023,away,16340,15882,Rosemont,9,True,24,5,19,win,2399445,12973,2666874,2023,3
+1,0,1,0,0,0,0,0,0,0,04/02/2023,away,16340,15882,Rosemont,9,True,11,9,2,win,2409486,12973,2666874,2023,3
+3,0,3,0,0,0,0,0,0,0,04/10/2023,home,16340,394,Marymount (VA),9,True,7,2,5,win,2401228,12973,2666874,2023,3

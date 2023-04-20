@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,3,0,0,0,1,1,0,0,03/11/2023,neutral,16340,286,Hope,9,True,3,5,-2,loss,2394858,1115,2656271,2023,3
+0,1,1,0,0,0,0,0,0,0,03/18/2023,home,16340,747,Wabash,9,True,9,6,3,win,2396304,1115,2656271,2023,3
+0,0,0,0,0,0,2,0,0,0,04/02/2023,away,16340,2694,Franklin,9,True,6,13,-7,loss,2399220,1115,2656271,2023,3
+0,0,0,0,0,0,2,0,0,0,04/03/2023,away,16340,2694,Franklin,9,True,11,13,-2,loss,2399776,1115,2656271,2023,3
+0,0,0,0,0,0,1,0,0,0,04/07/2023,home,16340,585,Rose-Hulman,9,True,7,13,-6,loss,2400646,1115,2656271,2023,3
+0,1,1,0,0,0,0,0,0,0,04/08/2023,home,16340,585,Rose-Hulman,9,True,3,7,-4,loss,2409805,1115,2656271,2023,3

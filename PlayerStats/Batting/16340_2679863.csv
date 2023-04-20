@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,1,0,0,1,0,1,0,0,0,0,2,0,0,0,0,0,0,03/08/2023,neutral,16340,602,Saint John's (MN),9,True,6,11,-5,loss,2394029,1315,2679863,2023,3
+1,3,2,0,0,2,0,3,1,0,0,1,0,0,0,0,0,0,0,04/03/2023,home,16340,30036,Mount Aloysius,9,True,10,6,4,win,2409083,1315,2679863,2023,3
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,04/19/2023,away,16340,538,Penn St.-Behrend,9,True,3,10,-7,loss,2403090,1315,2679863,2023,3

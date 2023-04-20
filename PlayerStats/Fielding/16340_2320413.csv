@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,2,0,0,0,03/04/2023,neutral,16340,390,Mary Washington,9,True,6,7,-1,loss,2393037,30047,2320413,2023,3
 1,0,1,0,0,0,0,0,0,0,03/13/2023,neutral,16340,589,Rutgers-Newark,9,True,10,6,4,win,2395278,30047,2320413,2023,3
+0,1,1,0,0,0,0,0,0,0,04/01/2023,home,16340,958,Clarks Summit,9,True,5,4,1,win,2399225,30047,2320413,2023,3
+1,0,1,0,0,0,2,0,0,0,04/04/2023,home,16340,588,Rutgers-Camden,9,True,8,9,-1,loss,2399978,30047,2320413,2023,3
+0,1,2,1,0,0,1,2,0,0,04/14/2023,home,16340,30166,Valley Forge,9,True,6,2,4,win,2401864,30047,2320413,2023,3

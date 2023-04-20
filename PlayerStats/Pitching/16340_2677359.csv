@@ -1,2 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,4.0,0.0,2,0,0,0,2,0,14,14,0,0,0,0,0,0,0,0,0,0,0,52,7,3,0,0,1,2,1,0,03/12/2023,neutral,16340,496,North Park,9,True,6,2,4,win,2395207,30197,2677359,2023,3
+1,1,5.2,0.0,4,4,4,3,2,0,26,20,0,0,0,0,0,2,0,0,0,0,1,95,8,7,0,0,0,1,0,0,03/28/2023,away,16340,426,Millsaps,9,True,8,7,1,win,2398532,30197,2677359,2023,3
+1,0,5.1,0.0,4,1,1,1,2,0,22,19,0,0,0,0,0,1,0,0,0,0,1,70,6,8,0,0,0,2,0,0,04/14/2023,home,16340,1130,Huntingdon,9,True,1,6,-5,loss,2401928,30197,2677359,2023,3

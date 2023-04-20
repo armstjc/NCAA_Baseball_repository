@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/04/2023,home,16340,300,Ill. Wesleyan,11,True,6,5,1,win,2393513,755,2303806,2023,3
+0,2,2,0,0,0,0,1,0,0,04/07/2023,away,16340,479,NYU,9,True,4,2,2,win,2400376,755,2303806,2023,3
+0,1,1,0,0,0,0,0,0,0,04/16/2023,home,16340,73,Brandeis,9,True,7,3,4,win,2402592,755,2303806,2023,3

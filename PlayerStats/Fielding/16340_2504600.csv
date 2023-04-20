@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,2,1,0,0,03/12/2023,neutral,16340,520,Ohio Wesleyan,9,True,0,4,-4,loss,2408846,218,2504600,2023,3
 2,1,3,0,0,0,2,0,0,0,03/15/2023,neutral,16340,652,Sewanee,9,True,1,9,-8,loss,2395647,218,2504600,2023,3
+0,1,1,0,0,0,0,0,0,0,03/20/2023,away,16340,11538,Fontbonne,9,True,7,4,3,win,2396488,218,2504600,2023,3
+0,1,1,0,0,0,0,0,0,0,03/26/2023,home,16340,555,Principia,9,True,19,4,15,win,2426317,218,2504600,2023,3
+0,2,2,0,0,0,0,1,0,0,04/02/2023,away,16340,23260,Spalding,9,True,1,11,-10,loss,2410030,218,2504600,2023,3
+0,1,1,0,0,0,1,0,0,0,04/07/2023,home,16340,759,Webster,9,True,1,8,-7,loss,2400517,218,2504600,2023,3
+0,0,0,0,0,0,1,0,0,0,04/15/2023,home,16340,1111,Greenville,9,True,2,8,-6,loss,2410422,218,2504600,2023,3

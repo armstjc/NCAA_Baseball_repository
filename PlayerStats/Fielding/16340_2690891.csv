@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/05/2023,away,16340,399,Mass. Maritime,9,True,0,4,-4,loss,2408624,152,2690891,2023,3
 0,0,1,1,0,0,1,0,0,0,03/11/2023,neutral,16340,23725,Medaille,9,True,5,15,-10,loss,2394647,152,2690891,2023,3
+0,0,0,0,0,0,1,0,0,0,03/17/2023,home,16340,337,Knox,9,True,11,12,-1,loss,2395868,152,2690891,2023,3
+1,1,2,0,0,0,4,0,0,0,04/08/2023,home,16340,22626,JWU (Providence),8,True,2,16,-14,loss,2409431,152,2690891,2023,3
+1,2,4,1,0,0,2,0,0,0,04/13/2023,home,16340,548,Plymouth St.,9,True,11,19,-8,loss,2401699,152,2690891,2023,3

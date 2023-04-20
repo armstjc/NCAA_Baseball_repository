@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,02/26/2023,home,16340,30081,Penn St. Harrisburg,9,True,10,17,-7,loss,2392171,225,2809045,2023,3
 0,3,3,0,0,0,0,0,0,0,02/26/2023,home,16340,30081,Penn St. Harrisburg,9,True,4,20,-16,loss,2408394,225,2809045,2023,3
 0,1,1,0,0,0,0,0,0,0,03/01/2023,away,16340,30164,Southern Va.,9,True,2,5,-3,loss,2392547,225,2809045,2023,3
+1,1,2,0,0,0,0,0,1,0,03/29/2023,home,16340,389,Mary Baldwin,9,True,12,7,5,win,2398700,225,2809045,2023,3

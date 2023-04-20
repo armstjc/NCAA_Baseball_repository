@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,2,1,0,0,0,0,0,0,03/04/2023,neutral,16340,496,North Park,9,True,11,2,9,win,2393466,1115,2506169,2023,3
 1,0,1,0,0,0,0,1,0,0,03/10/2023,neutral,16340,286,Hope,9,True,14,4,10,win,2394389,1115,2506169,2023,3
+0,1,1,0,0,0,1,0,0,0,03/25/2023,home,16340,8567,Mt. St. Joseph,9,True,5,6,-1,loss,2426074,1115,2506169,2023,3
+0,2,2,0,0,0,2,0,0,0,04/02/2023,away,16340,2694,Franklin,9,True,6,13,-7,loss,2399220,1115,2506169,2023,3
+0,0,0,0,0,0,2,0,0,0,04/07/2023,home,16340,585,Rose-Hulman,9,True,7,13,-6,loss,2400646,1115,2506169,2023,3
+0,1,1,0,0,0,0,2,0,0,04/15/2023,away,16340,195,Earlham,9,True,11,5,6,win,2402397,1115,2506169,2023,3

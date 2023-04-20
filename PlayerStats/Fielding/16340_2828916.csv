@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/18/2023,away,16340,1112,Guilford,9,True,8,1,7,win,2407904,12973,2828916,2023,3
+2,0,2,0,0,0,0,0,0,0,04/02/2023,away,16340,15882,Rosemont,9,True,11,9,2,win,2409486,12973,2828916,2023,3
+2,0,2,0,0,0,0,0,0,0,04/03/2023,home,16340,15882,Rosemont,9,True,24,3,21,win,2398800,12973,2828916,2023,3
+3,0,3,0,0,0,0,0,0,0,04/13/2023,away,16340,30044,Penn St.-Berks,9,True,19,14,5,win,2401703,12973,2828916,2023,3

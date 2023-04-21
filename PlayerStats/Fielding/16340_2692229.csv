@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/04/2023,away,16340,341,La Verne,9,True,1,16,-15,loss,2408406,567,2692229,2023,3
 0,1,1,0,0,0,0,0,0,0,03/17/2023,neutral,16340,376,Macalester,9,True,15,5,10,win,2395568,567,2692229,2023,3
+0,1,1,0,0,0,1,0,0,0,03/19/2023,neutral,16340,602,Saint John's (MN),10,True,7,12,-5,loss,2417822,567,2692229,2023,3
+0,2,2,0,0,0,0,0,0,0,04/01/2023,home,16340,134,Chapman,9,True,4,6,-2,loss,2399188,567,2692229,2023,3
+0,0,1,1,0,0,0,0,0,0,04/08/2023,away,16340,781,Whittier,9,True,0,4,-4,loss,2400886,567,2692229,2023,3
+0,0,1,1,0,0,0,0,0,0,04/15/2023,home,16340,142,Claremont-M-S,9,True,3,10,-7,loss,2409591,567,2692229,2023,3

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,1,1,0,0,0,0,0,0,03/11/2023,home,16340,30171,Berea,9,True,13,5,8,win,2394562,1192,2501108,2023,3
+3,0,3,0,0,0,0,0,0,0,03/22/2023,home,16340,114,Calvin,9,True,0,6,-6,loss,2425695,1192,2501108,2023,3
+2,0,2,0,0,0,0,0,0,0,03/28/2023,away,16340,286,Hope,9,True,15,6,9,win,2398511,1192,2501108,2023,3
+2,0,2,0,0,0,0,0,0,0,04/10/2023,home,16340,747,Wabash,9,True,11,12,-1,loss,2401252,1192,2501108,2023,3

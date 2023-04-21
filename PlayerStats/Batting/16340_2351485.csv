@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,away,16340,1044,Dallas,9,True,3,1,2,win,2408894,462,2351485,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/26/2023,home,16340,300,Ill. Wesleyan,9,True,0,11,-11,loss,2392085,462,2351485,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/25/2023,away,16340,372,Luther,9,True,4,32,-28,loss,2397687,462,2351485,2023,3

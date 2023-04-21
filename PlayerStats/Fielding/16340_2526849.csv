@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,2,0,0,0,02/04/2023,away,16340,1390,Sul Ross St.,9,True,1,7,-6,loss,2389793,1044,2526849,2023,3
 0,0,0,0,0,0,1,0,0,0,02/11/2023,away,16340,1124,Hendrix,9,True,1,12,-11,loss,2390088,1044,2526849,2023,3
+1,1,2,0,0,0,0,0,0,0,03/28/2023,home,16340,8530,McMurry,9,True,5,13,-8,loss,2398409,1044,2526849,2023,3
+0,0,0,0,0,0,2,0,0,0,04/14/2023,away,16340,2810,St. Thomas (TX),9,True,3,13,-10,loss,2401728,1044,2526849,2023,3

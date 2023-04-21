@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/16/2023,home,16340,21,Alma,9,True,14,5,9,win,2390512,412,1985751,2023,3
 0,0,0,0,0,0,1,0,0,0,02/26/2023,home,16340,484,Nichols,9,True,10,6,4,win,2391589,412,1985751,2023,3
+1,0,1,0,0,0,0,0,0,0,03/19/2023,away,16340,17094,William Peace,10,True,11,10,1,win,2396601,412,1985751,2023,3
+0,1,1,0,0,0,1,1,0,0,03/28/2023,home,16340,789,Williams,9,True,15,6,9,win,2398512,412,1985751,2023,3
+1,1,2,0,0,0,0,0,0,0,04/02/2023,away,16340,389,Mary Baldwin,9,True,17,2,15,win,2399566,412,1985751,2023,3
+0,1,2,1,0,0,2,0,0,0,04/10/2023,home,16340,30094,Brevard,9,True,10,9,1,win,2409522,412,1985751,2023,3
+1,1,2,0,0,0,0,0,0,0,04/15/2023,away,16340,30164,Southern Va.,9,True,22,9,13,win,2410421,412,1985751,2023,3

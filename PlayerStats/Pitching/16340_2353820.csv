@@ -1,3 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,3,2,2,0,2,0,6,6,1,0,0,1,0,0,0,0,0,0,0,15,0,1,0,0,0,2,0,0,02/19/2023,away,16340,132,Centre,9,True,16,4,12,win,2390919,46,2353820,2023,3
 1,1,5.0,0.0,5,3,2,0,2,0,22,21,1,0,0,1,0,0,0,0,0,1,0,64,5,7,0,0,0,1,0,0,03/08/2023,neutral,16340,686,Swarthmore,9,True,9,3,6,win,2394052,46,2353820,2023,3
+1,0,0.1,0.0,2,3,3,0,1,0,4,3,0,0,0,1,0,1,0,0,0,0,0,18,0,0,0,0,0,3,0,0,03/26/2023,home,16340,517,Ohio Northern,9,True,6,9,-3,loss,2397919,46,2353820,2023,3
+1,1,4.0,0.0,2,2,2,1,4,0,17,14,0,0,0,0,0,2,0,0,0,0,0,53,2,4,0,0,0,1,1,0,04/17/2023,home,16340,281,Hiram,9,True,8,5,3,win,2400160,46,2353820,2023,3

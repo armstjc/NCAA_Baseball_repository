@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/16/2023,neutral,16340,218,Eureka,9,True,7,2,5,win,2395768,30170,2347418,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/08/2023,away,16340,1315,Pitt.-Bradford,9,True,14,1,13,win,2401078,30170,2347418,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/12/2023,away,16340,580,RIT,10,True,12,13,-1,loss,2392593,30170,2347418,2023,3

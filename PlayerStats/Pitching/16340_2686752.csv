@@ -1,2 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,1,0,0,1,0,0,5,3,0,0,0,0,0,0,0,0,0,1,0,13,1,2,1,0,0,5,0,0,03/12/2023,neutral,16340,170,Curry,10,True,9,8,1,win,2395215,30165,2686752,2023,3
+1,0,0.2,0.0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,0,2,0,0,03/28/2023,away,16340,526,SUNY Oneonta,9,True,2,7,-5,loss,2426526,30165,2686752,2023,3
+1,0,1.1,0.0,0,1,1,4,1,0,9,5,0,0,1,0,1,0,0,2,0,0,0,48,2,2,0,0,0,2,0,0,04/07/2023,home,16340,23624,Cazenovia,9,True,11,10,1,win,2400616,30165,2686752,2023,3
+1,0,5.0,0.0,2,1,1,4,1,0,21,15,0,0,0,0,0,1,0,0,0,1,0,69,4,9,0,0,0,2,0,1,04/15/2023,away,16340,9500,SUNY Poly,9,True,4,7,-3,loss,2409139,30165,2686752,2023,3

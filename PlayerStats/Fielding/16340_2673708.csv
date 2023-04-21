@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,03/08/2023,neutral,16340,335,Kenyon,9,True,3,16,-13,loss,2394028,707,2673708,2023,3
+0,0,0,0,0,0,1,0,0,0,03/26/2023,home,16340,10972,Chatham,9,True,7,14,-7,loss,2397682,707,2673708,2023,3
+0,0,0,0,0,0,1,0,0,0,04/11/2023,home,16340,242,Fredonia,9,True,7,20,-13,loss,2398064,707,2673708,2023,3

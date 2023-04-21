@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,1,0,0,02/25/2023,neutral,16340,452,Mount Union,9,True,4,8,-4,loss,2412259,348,2686610,2023,3
+1,0,1,0,0,0,0,0,0,0,03/21/2023,neutral,16340,69,Bowdoin,9,True,5,6,-1,loss,2410454,348,2686610,2023,3
+0,1,1,0,0,0,0,0,0,0,04/01/2023,away,16340,264,Grinnell,9,True,10,14,-4,loss,2427013,348,2686610,2023,3
+0,2,2,0,0,0,0,0,0,0,04/07/2023,home,16340,166,Cornell College,12,True,9,8,1,win,2400470,348,2686610,2023,3
+0,1,1,0,0,0,1,0,0,0,04/15/2023,away,16340,297,Illinois Col.,9,True,6,16,-10,loss,2409743,348,2686610,2023,3

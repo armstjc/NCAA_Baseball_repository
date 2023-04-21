@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/13/2023,neutral,16340,23121,Texas-Dallas,9,True,1,11,-10,loss,2395237,662,2355852,2023,3
+0,1,1,0,0,0,0,0,0,0,03/22/2023,away,16340,398,MIT,9,True,4,8,-4,loss,2397159,662,2355852,2023,3
+0,1,1,0,0,0,1,0,0,0,03/29/2023,away,16340,8981,Endicott,9,True,4,21,-17,loss,2398595,662,2355852,2023,3
+0,2,3,1,0,0,0,0,0,0,04/06/2023,home,16340,605,St. Joseph's (ME),9,True,15,8,7,win,2400155,662,2355852,2023,3
+0,0,0,0,0,0,3,1,0,0,04/12/2023,home,16340,151,Colby,9,True,6,3,3,win,2401552,662,2355852,2023,3
+1,1,2,0,0,0,2,0,1,0,04/18/2023,away,16340,548,Plymouth St.,9,True,13,2,11,win,2402887,662,2355852,2023,3

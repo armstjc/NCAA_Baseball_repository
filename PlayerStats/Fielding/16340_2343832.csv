@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,04/03/2023,away,16340,30172,IIT,9,True,13,11,2,win,2399273,42,2343832,2023,3
+0,0,0,0,0,0,1,0,0,0,04/10/2023,away,16340,1196,Marian (WI),9,True,18,14,4,win,2401238,42,2343832,2023,3
+0,0,0,0,0,0,1,0,0,0,04/19/2023,away,16340,778,Wheaton (IL),9,True,7,4,3,win,2396480,42,2343832,2023,3

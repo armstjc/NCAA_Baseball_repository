@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/15/2023,away,16340,0,Mid-Atlantic Christ.,9,True,8,6,2,win,2418688,30164,2663662,2023,3
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/20/2023,away,16340,225,Ferrum,9,True,5,8,-3,loss,2390240,30164,2663662,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/18/2023,home,16340,30094,Brevard,9,True,6,23,-17,loss,2409677,30164,2663662,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/28/2023,away,16340,390,Mary Washington,9,True,4,10,-6,loss,2398451,30164,2663662,2023,3

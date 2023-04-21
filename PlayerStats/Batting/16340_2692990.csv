@@ -1,2 +1,8 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/16/2023,neutral,16340,238,Framingham St.,9,True,6,34,-28,loss,2424938,2798,2692990,2023,3
+3,3,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,03/29/2023,home,16340,11036,Russell Sage,9,True,15,5,10,win,2410294,2798,2692990,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/03/2023,home,16340,8486,Lasell,9,True,5,15,-10,loss,2399349,2798,2692990,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/03/2023,home,16340,8486,Lasell,9,True,8,13,-5,loss,2409094,2798,2692990,2023,3
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/05/2023,home,16340,467,New England Col.,9,True,2,16,-14,loss,2400206,2798,2692990,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/10/2023,home,16340,605,St. Joseph's (ME),9,True,7,10,-3,loss,2428328,2798,2692990,2023,3
+0,2,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,04/19/2023,home,16340,770,WestConn,9,True,6,7,-1,loss,2411547,2798,2692990,2023,3

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,03/12/2023,neutral,16340,170,Curry,10,True,9,8,1,win,2395215,30165,2364064,2023,3
 4,2,6,0,0,0,0,0,0,0,03/13/2023,neutral,16340,8567,Mt. St. Joseph,9,True,7,13,-6,loss,2395233,30165,2364064,2023,3
+5,1,7,1,0,1,5,0,0,0,03/28/2023,away,16340,526,SUNY Oneonta,9,True,5,6,-1,loss,2408368,30165,2364064,2023,3

@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,2,0,0,0,03/12/2023,neutral,16340,685,Susquehanna,9,True,6,7,-1,loss,2395008,467,2664846,2023,3
 0,0,0,0,0,0,2,0,0,0,03/15/2023,neutral,16340,773,McDaniel,9,True,10,23,-13,loss,2395616,467,2664846,2023,3
+1,0,1,0,0,0,1,0,0,0,03/18/2023,home,16340,547,Plattsburgh St.,9,True,12,6,6,win,2396245,467,2664846,2023,3
+0,3,3,0,0,0,0,0,0,0,03/26/2023,away,16340,26,Anna Maria,9,True,3,0,3,win,2398072,467,2664846,2023,3
+0,0,0,0,0,0,1,2,0,0,04/02/2023,away,16340,605,St. Joseph's (ME),9,True,3,2,1,win,2427291,467,2664846,2023,3
+0,0,0,0,0,0,2,1,0,0,04/08/2023,home,16340,1064,Eastern Nazarene,9,True,4,10,-6,loss,2409337,467,2664846,2023,3
+0,0,2,2,0,0,1,0,0,0,04/15/2023,home,16340,30042,Mitchell,9,True,1,13,-12,loss,2410402,467,2664846,2023,3

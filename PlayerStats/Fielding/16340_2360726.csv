@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/26/2023,away,16340,715,Trinity (TX),9,True,11,6,5,win,2392124,45,2360726,2023,3
+0,2,2,0,0,0,0,0,0,0,03/30/2023,home,16340,583,Roger Williams,10,True,4,3,1,win,2398724,45,2360726,2023,3
+0,0,0,0,0,0,1,0,0,0,04/11/2023,away,16340,722,Coast Guard,9,True,1,7,-6,loss,2401443,45,2360726,2023,3

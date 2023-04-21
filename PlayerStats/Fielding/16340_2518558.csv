@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,03/18/2023,away,16340,623,Salve Regina,9,True,3,8,-5,loss,2425257,1133,2518558,2023,3
+0,0,0,0,0,0,1,0,0,0,04/11/2023,away,16340,50,Bates,9,True,3,9,-6,loss,2401446,1133,2518558,2023,3
+0,0,0,0,0,0,1,0,0,0,04/15/2023,away,16340,151,Colby,9,True,1,7,-6,loss,2410077,1133,2518558,2023,3
+0,0,0,0,0,0,1,0,0,0,04/19/2023,away,16340,605,St. Joseph's (ME),9,True,0,13,-13,loss,2403152,1133,2518558,2023,3

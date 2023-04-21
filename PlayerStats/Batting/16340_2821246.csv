@@ -1,2 +1,8 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,02/18/2023,away,16340,139,Chris. Newport,9,True,4,11,-7,loss,2408893,475,2821246,2023,3
+0,1,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,02/24/2023,home,16340,213,Elmira,9,True,17,5,12,win,2422509,475,2821246,2023,3
+0,3,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,03/22/2023,neutral,16340,1468,Mt. St. Mary (NY),9,True,8,4,4,win,2408485,475,2821246,2023,3
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/24/2023,home,16340,78,SUNY Brockport,9,True,4,14,-10,loss,2409825,475,2821246,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/08/2023,home,16340,530,Oswego St.,9,True,11,16,-5,loss,2409441,475,2821246,2023,3
+0,5,2,1,0,3,0,3,0,0,0,0,1,0,0,0,0,0,0,04/18/2023,home,16340,11036,Russell Sage,9,True,7,13,-6,loss,2402856,475,2821246,2023,3
+1,3,2,0,0,2,0,1,2,0,1,0,0,0,0,0,0,0,0,04/19/2023,away,16340,737,Vassar,9,True,10,0,10,win,2403139,475,2821246,2023,3

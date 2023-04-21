@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,03/15/2023,neutral,16340,939,Anderson (IN),9,True,0,10,-10,loss,2395646,564,2689761,2023,3
+0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/28/2023,away,16340,730,Ursinus,9,True,5,4,1,win,2426423,564,2689761,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/11/2023,home,16340,382,Manhattanville,9,True,20,6,14,win,2401440,564,2689761,2023,3

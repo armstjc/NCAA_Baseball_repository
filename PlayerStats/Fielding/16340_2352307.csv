@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,1,0,0,03/11/2023,neutral,16340,479,NYU,9,True,6,4,2,win,2408842,30172,2352307,2023,3
+0,1,1,0,0,0,0,1,0,0,03/19/2023,neutral,16340,492,North Central (IL),9,True,2,6,-4,loss,2396209,30172,2352307,2023,3
+0,0,0,0,0,0,1,0,0,0,03/26/2023,neutral,16340,335,Kenyon,9,True,8,4,4,win,2409716,30172,2352307,2023,3
+0,1,1,0,0,0,0,0,0,0,04/02/2023,away,16340,1164,Lakeland,9,True,17,1,16,win,2410058,30172,2352307,2023,3
+1,0,1,0,0,0,5,0,0,0,04/08/2023,home,16340,296,Benedictine (IL),9,True,7,11,-4,loss,2409420,30172,2352307,2023,3
+1,0,1,0,0,0,0,0,0,0,04/15/2023,away,16340,1196,Marian (WI),9,True,0,13,-13,loss,2410563,30172,2352307,2023,3

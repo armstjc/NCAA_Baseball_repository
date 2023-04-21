@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,2,1,0,0,03/12/2023,neutral,16340,804,Wis.-Superior,9,True,8,4,4,win,2408766,53,2362066,2023,3
 0,2,2,0,0,0,2,1,0,0,03/17/2023,neutral,16340,526,SUNY Oneonta,9,True,7,14,-7,loss,2395877,53,2362066,2023,3
+0,0,0,0,0,0,1,0,0,0,03/28/2023,home,16340,264,Grinnell,9,True,7,6,1,win,2409485,53,2362066,2023,3
+0,1,1,0,0,0,0,0,0,0,04/02/2023,home,16340,337,Knox,9,True,13,0,13,win,2410023,53,2362066,2023,3
+1,0,1,0,0,0,0,0,0,0,04/11/2023,home,16340,137,UChicago,9,True,7,11,-4,loss,2401405,53,2362066,2023,3

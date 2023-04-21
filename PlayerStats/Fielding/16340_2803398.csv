@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/12/2023,home,16340,1044,Dallas,9,True,17,13,4,win,2390159,1124,2803398,2023,3
+2,0,2,0,0,0,0,0,0,0,03/22/2023,neutral,16340,264,Grinnell,9,True,9,3,6,win,2397132,1124,2803398,2023,3
+2,0,2,0,0,0,0,0,0,0,04/08/2023,home,16340,573,Rhodes,9,True,9,17,-8,loss,2401115,1124,2803398,2023,3

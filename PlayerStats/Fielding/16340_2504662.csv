@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,1,0,0,0,02/19/2023,home,16340,475,SUNY New Paltz,9,True,8,4,4,win,2390866,139,2504662,2023,3
 1,0,1,0,0,0,0,0,0,0,03/01/2023,home,16340,565,Randolph-Macon,9,True,0,6,-6,loss,2392503,139,2504662,2023,3
 0,1,1,0,0,0,0,1,0,0,03/05/2023,neutral,16340,303,Immaculata,9,True,6,12,-6,loss,2393477,139,2504662,2023,3
+0,1,1,0,0,0,2,0,0,0,03/26/2023,home,16340,30072,St. Joseph's (Brkln),9,True,7,3,4,win,2398090,139,2504662,2023,3

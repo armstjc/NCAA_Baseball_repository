@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/19/2023,away,16340,245,Gallaudet,9,True,22,3,19,win,2390954,23624,2823104,2023,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2023,neutral,16340,190,Drew,9,True,3,14,-11,loss,2393798,23624,2823104,2023,3
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/21/2023,away,16340,526,SUNY Oneonta,9,True,5,15,-10,loss,2396988,23624,2823104,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/22/2023,home,16340,8398,Hilbert,9,True,3,13,-10,loss,2425743,23624,2823104,2023,3

@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/18/2023,away,16340,225,Ferrum,9,True,11,6,5,win,2390666,30170,2511010,2023,3
+2,0,2,0,0,0,0,0,0,0,04/02/2023,home,16340,25719,Penn St.-Altoona,9,True,11,2,9,win,2409088,30170,2511010,2023,3

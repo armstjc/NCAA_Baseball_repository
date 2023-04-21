@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2,1,0,0,0,0,0,0,03/12/2023,home,16340,50,Bates,9,True,5,14,-9,loss,2394973,570,2331209,2023,3
+1,2,3,0,0,0,0,0,0,0,03/26/2023,away,16340,642,Skidmore,9,True,19,5,14,win,2398156,570,2331209,2023,3
+0,3,4,1,0,0,1,0,0,0,04/02/2023,home,16340,727,Union (NY),9,True,7,5,2,win,2399650,570,2331209,2023,3
+1,4,5,0,0,0,2,0,0,0,04/08/2023,home,16340,30029,Purchase,9,True,6,2,4,win,2409439,570,2331209,2023,3
+0,1,1,0,0,0,0,0,0,0,04/15/2023,home,16340,607,St. Lawrence,9,True,5,2,3,win,2410215,570,2331209,2023,3
+0,1,1,0,0,0,0,0,0,0,04/16/2023,home,16340,146,Clarkson,9,True,3,7,-4,loss,2402584,570,2331209,2023,3

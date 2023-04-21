@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/15/2023,home,16340,1297,Pacific Lutheran,9,True,7,3,4,win,2424823,1179,2486848,2023,3
+0,0,0,0,0,0,1,0,0,0,03/19/2023,away,16340,780,Whitman,9,True,6,9,-3,loss,2396686,1179,2486848,2023,3
+0,0,0,0,0,0,1,0,0,0,03/25/2023,home,16340,22235,Lewis & Clark,9,True,5,11,-6,loss,2426117,1179,2486848,2023,3
+0,0,0,0,0,0,1,0,0,0,04/07/2023,away,16340,2751,Pacific (OR),9,True,1,4,-3,loss,2400639,1179,2486848,2023,3
+0,1,1,0,0,0,0,0,0,0,04/12/2023,home,16340,1297,Pacific Lutheran,11,True,8,9,-1,loss,2428608,1179,2486848,2023,3
+1,0,1,0,0,0,1,0,0,0,04/15/2023,home,16340,785,Willamette,9,True,6,9,-3,loss,2402228,1179,2486848,2023,3

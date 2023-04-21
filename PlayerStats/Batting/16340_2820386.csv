@@ -1,2 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/04/2023,away,16340,1305,Cairn,9,True,6,5,1,win,2392972,8404,2820386,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/26/2023,away,16340,351,Lebanon Valley,9,True,0,18,-18,loss,2397826,8404,2820386,2023,3
+0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/02/2023,home,16340,938,Alvernia,9,True,4,9,-5,loss,2399252,8404,2820386,2023,3
+0,3,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0,0,04/02/2023,home,16340,938,Alvernia,9,True,7,3,4,win,2410535,8404,2820386,2023,3
+1,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,04/04/2023,away,16340,21852,Stevenson,9,True,9,19,-10,loss,2399999,8404,2820386,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/16/2023,home,16340,815,York (PA),9,True,1,2,-1,loss,2409754,8404,2820386,2023,3

@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,2,0,0,0,02/04/2023,home,16340,785,Willamette,10,True,12,13,-1,loss,2407981,567,2806814,2023,3
 0,1,1,0,0,0,0,0,0,0,02/17/2023,home,16340,1454,Whitworth,9,True,11,4,7,win,2390274,567,2806814,2023,3
+0,1,1,0,0,0,3,0,0,0,04/04/2023,away,16340,0,Vanguard,9,True,5,16,-11,loss,2399829,567,2806814,2023,3
+1,0,1,0,0,0,0,0,0,0,04/16/2023,away,16340,142,Claremont-M-S,9,True,6,7,-1,loss,2401873,567,2806814,2023,3

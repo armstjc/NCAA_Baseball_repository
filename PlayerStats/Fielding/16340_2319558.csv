@@ -1,3 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/15/2023,away,16340,713,Trinity (CT),9,True,3,5,-2,loss,2407790,73,2319558,2023,3
 0,0,0,0,0,0,3,0,0,0,03/18/2023,home,16340,50,Bates,9,True,8,13,-5,loss,2396399,73,2319558,2023,3
+0,1,1,0,0,0,0,0,0,0,03/26/2023,home,16340,214,Emerson,9,True,6,9,-3,loss,2398240,73,2319558,2023,3
+0,0,0,0,0,0,1,2,0,0,03/31/2023,away,16340,479,NYU,9,True,6,7,-1,loss,2398748,73,2319558,2023,3
+0,0,1,1,0,0,1,0,0,0,04/05/2023,home,16340,45,Babson,9,True,2,13,-11,loss,2427636,73,2319558,2023,3
+0,0,0,0,0,0,1,0,0,0,04/11/2023,away,16340,24,Amherst,9,True,3,14,-11,loss,2397902,73,2319558,2023,3
+1,0,1,0,0,0,1,0,0,0,04/16/2023,away,16340,755,WashU,9,True,3,7,-4,loss,2402592,73,2319558,2023,3
+0,0,0,0,0,0,1,0,0,0,04/19/2023,home,16340,151,Colby,9,True,3,13,-10,loss,2403166,73,2319558,2023,3

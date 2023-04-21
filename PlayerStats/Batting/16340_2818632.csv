@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,4,3,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,03/28/2023,home,16340,8530,McMurry,9,True,5,13,-8,loss,2398409,1044,2818632,2023,3
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/15/2023,away,16340,2810,St. Thomas (TX),9,True,6,10,-4,loss,2409490,1044,2818632,2023,3

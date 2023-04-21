@@ -1,2 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,0.2,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,3,1,1,02/27/2023,neutral,16340,1254,Neumann,9,True,8,5,3,win,2392319,1192,2682753,2023,3
+1,0,0.2,0.0,2,1,1,0,0,0,5,4,0,0,0,0,0,1,0,0,0,0,0,11,0,2,0,0,0,4,0,0,03/21/2023,home,16340,30037,Trine,11,True,10,13,-3,loss,2396916,1192,2682753,2023,3
+1,0,0.2,0.0,6,7,5,1,1,0,10,8,2,0,0,0,0,1,0,0,0,0,0,36,0,1,0,0,0,2,0,0,04/18/2023,home,16340,0,St. Francis (IN),9,True,9,17,-8,loss,2429371,1192,2682753,2023,3

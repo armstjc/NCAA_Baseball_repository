@@ -1,3 +1,6 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,3,3,3,1,1,0,7,6,1,0,0,0,0,0,0,0,0,0,0,20,0,2,0,0,0,3,0,0,03/10/2023,neutral,16340,30031,Northwestern-St. Paul,9,True,5,14,-9,loss,2408199,258,2691656,2023,3
 1,0,1.2,0.0,4,2,1,2,1,0,10,8,1,0,0,0,0,0,0,1,1,0,0,37,1,2,0,0,0,2,0,0,03/17/2023,home,16340,737,Vassar,9,True,4,16,-12,loss,2395986,258,2691656,2023,3
+1,1,5.0,0.0,4,4,3,1,4,0,22,17,1,0,0,1,0,2,0,0,0,1,1,75,4,6,1,0,0,1,3,0,03/28/2023,away,16340,8404,Hood,9,True,9,7,2,win,2398490,258,2691656,2023,3
+1,1,5.0,0.0,4,4,4,2,2,0,20,18,0,0,0,2,0,0,0,0,0,0,0,64,4,8,0,1,0,1,1,1,04/04/2023,away,16340,239,Franklin & Marshall,9,True,5,9,-4,loss,2399974,258,2691656,2023,3
+1,1,3.0,0.0,7,5,5,1,4,0,16,15,1,1,0,1,0,0,0,0,0,0,0,58,1,3,0,0,0,1,1,0,04/14/2023,away,16340,773,McDaniel,10,True,10,8,2,win,2401910,258,2691656,2023,3

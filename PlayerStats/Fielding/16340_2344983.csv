@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/24/2023,away,16340,745,Va. Wesleyan,9,True,10,5,5,win,2391278,200,2344983,2023,3
 1,1,2,0,0,0,0,0,0,0,03/16/2023,neutral,16340,30036,Mount Aloysius,9,True,4,0,4,win,2425022,200,2344983,2023,3
+0,2,2,0,0,0,1,0,0,0,03/22/2023,home,16340,777,Westfield St.,9,True,1,10,-9,loss,2397219,200,2344983,2023,3
+0,1,1,0,0,0,0,0,1,0,04/12/2023,home,16340,26,Anna Maria,9,True,7,1,6,win,2401653,200,2344983,2023,3
+0,1,1,0,0,0,0,0,0,0,04/19/2023,away,16340,382,Manhattanville,9,True,11,4,7,win,2403148,200,2344983,2023,3

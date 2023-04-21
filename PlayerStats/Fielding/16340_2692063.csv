@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/16/2023,neutral,16340,238,Framingham St.,9,True,6,34,-28,loss,2424938,2798,2692063,2023,3
+1,0,2,1,0,0,0,0,0,0,04/03/2023,home,16340,8486,Lasell,9,True,8,13,-5,loss,2409094,2798,2692063,2023,3
+2,1,3,0,0,0,0,0,0,0,04/16/2023,away,16340,152,Colby-Sawyer,9,True,6,7,-1,loss,2410735,2798,2692063,2023,3

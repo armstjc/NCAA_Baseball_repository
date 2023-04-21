@@ -1,2 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 8,0,8,0,0,0,0,0,2,0,03/07/2023,away,16340,139,Chris. Newport,9,True,4,6,-2,loss,2393790,374,2662327,2023,3
+5,0,5,0,0,0,0,0,1,0,03/29/2023,home,16340,139,Chris. Newport,9,True,14,6,8,win,2398602,374,2662327,2023,3
+8,0,8,0,0,0,0,0,0,0,04/02/2023,home,16340,203,East. Mennonite,9,True,13,1,12,win,2410041,374,2662327,2023,3
+6,2,8,0,0,0,0,0,0,0,04/08/2023,home,16340,225,Ferrum,9,True,5,4,1,win,2409336,374,2662327,2023,3
+1,1,2,0,0,0,0,0,0,0,04/12/2023,home,16340,542,Pfeiffer,9,True,12,4,8,win,2401543,374,2662327,2023,3
+7,0,7,0,0,0,0,0,2,0,04/15/2023,away,16340,44,Averett,9,True,11,1,10,win,2402244,374,2662327,2023,3
+8,1,9,0,0,0,0,0,0,0,04/19/2023,home,16340,565,Randolph-Macon,9,True,4,3,1,win,2403052,374,2662327,2023,3
+5,1,6,0,0,0,0,0,0,0,04/20/2023,home,16340,17094,William Peace,9,True,7,6,1,win,2402831,374,2662327,2023,3

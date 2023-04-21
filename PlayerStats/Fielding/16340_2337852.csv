@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,2,0,0,0,0,0,0,0,03/20/2023,away,16340,23725,Medaille,9,True,8,3,5,win,2409040,8398,2337852,2023,3
+0,0,1,1,0,0,0,0,0,0,03/29/2023,home,16340,9500,SUNY Poly,9,True,4,3,1,win,2409851,8398,2337852,2023,3
+0,1,1,0,0,0,0,0,1,0,04/02/2023,neutral,16340,11839,Pitt.-Greensburg,9,True,5,8,-3,loss,2409867,8398,2337852,2023,3
+0,1,1,0,0,0,0,0,0,0,04/08/2023,neutral,16340,538,Penn St.-Behrend,9,True,6,2,4,win,2400816,8398,2337852,2023,3
+0,0,0,0,0,0,1,0,0,0,04/08/2023,neutral,16340,538,Penn St.-Behrend,9,True,3,8,-5,loss,2409237,8398,2337852,2023,3
+0,1,1,0,0,0,0,0,0,0,04/14/2023,away,16340,1163,La Roche,9,True,14,13,1,win,2428893,8398,2337852,2023,3

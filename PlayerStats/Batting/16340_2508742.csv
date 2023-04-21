@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2023,neutral,16340,161,Concordia-M'head,9,True,1,8,-7,loss,2393819,1133,2508742,2023,3
 0,3,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,03/08/2023,neutral,16340,23624,Cazenovia,10,True,4,3,1,win,2423686,1133,2508742,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/18/2023,away,16340,623,Salve Regina,9,True,3,8,-5,loss,2425257,1133,2508742,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/18/2023,away,16340,623,Salve Regina,9,True,0,3,-3,loss,2425240,1133,2508742,2023,3

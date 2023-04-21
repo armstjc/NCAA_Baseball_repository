@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/24/2023,home,16340,398,MIT,9,True,11,8,3,win,2391492,412,2675276,2023,3
+0,0,0,0,0,0,1,0,0,0,03/19/2023,away,16340,17094,William Peace,10,True,11,10,1,win,2396601,412,2675276,2023,3
+0,2,2,0,0,0,0,0,0,0,03/28/2023,home,16340,789,Williams,9,True,15,6,9,win,2398512,412,2675276,2023,3
+0,1,1,0,0,0,0,0,0,0,04/10/2023,home,16340,30094,Brevard,9,True,10,9,1,win,2409522,412,2675276,2023,3

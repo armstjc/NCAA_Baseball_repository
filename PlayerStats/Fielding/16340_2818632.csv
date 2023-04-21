@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/04/2023,away,16340,1390,Sul Ross St.,10,True,10,9,1,win,2408203,1044,2818632,2023,3
 0,0,0,0,0,0,1,0,0,0,02/11/2023,away,16340,1124,Hendrix,9,True,5,4,1,win,2407888,1044,2818632,2023,3
+0,3,3,0,0,0,0,0,0,0,02/18/2023,home,16340,462,Neb. Wesleyan,9,True,5,12,-7,loss,2390575,1044,2818632,2023,3
+0,0,0,0,0,0,1,0,0,0,02/19/2023,home,16340,462,Neb. Wesleyan,9,True,0,3,-3,loss,2390867,1044,2818632,2023,3
+6,3,9,0,0,0,0,0,0,0,03/28/2023,home,16340,8530,McMurry,9,True,5,13,-8,loss,2398409,1044,2818632,2023,3
+0,2,2,0,0,0,0,0,0,0,04/07/2023,home,16340,715,Trinity (TX),9,True,2,14,-12,loss,2409778,1044,2818632,2023,3
+1,0,1,0,0,0,0,0,0,0,04/15/2023,away,16340,2810,St. Thomas (TX),9,True,6,10,-4,loss,2409490,1044,2818632,2023,3

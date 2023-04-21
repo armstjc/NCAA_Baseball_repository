@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/11/2023,neutral,16340,605,St. Joseph's (ME),9,True,7,3,4,win,2394616,265,2149589,2023,3
+0,1,1,0,0,0,0,0,0,0,04/12/2023,away,16340,30084,Geneva,9,True,20,6,14,win,2401590,265,2149589,2023,3
+0,1,1,0,0,0,0,0,0,0,04/15/2023,home,16340,59,Bethany (WV),9,True,12,2,10,win,2402320,265,2149589,2023,3

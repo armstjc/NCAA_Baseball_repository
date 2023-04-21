@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,03/16/2023,home,16340,373,Lycoming,9,True,14,6,8,win,2395448,258,2691655,2023,3
+0,0,0,0,0,0,1,0,0,0,04/02/2023,home,16340,730,Ursinus,9,True,1,13,-12,loss,2410537,258,2691655,2023,3
+0,0,2,2,0,0,0,1,0,0,04/07/2023,home,16340,239,Franklin & Marshall,9,True,3,15,-12,loss,2400631,258,2691655,2023,3
+0,1,1,0,0,0,0,0,0,0,04/11/2023,home,16340,773,McDaniel,9,True,12,10,2,win,2401439,258,2691655,2023,3

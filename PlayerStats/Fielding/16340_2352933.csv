@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,03/08/2023,away,16340,1468,Mt. St. Mary (NY),9,True,1,8,-7,loss,2394095,2798,2352933,2023,3
 0,0,2,2,0,0,1,0,0,0,03/14/2023,neutral,16340,30072,St. Joseph's (Brkln),10,True,13,11,2,win,2424320,2798,2352933,2023,3
+1,0,1,0,0,0,1,0,0,0,04/03/2023,home,16340,8486,Lasell,9,True,5,15,-10,loss,2399349,2798,2352933,2023,3
+0,1,1,0,0,0,0,0,0,0,04/05/2023,home,16340,467,New England Col.,9,True,8,25,-17,loss,2426630,2798,2352933,2023,3
+0,1,1,0,0,0,0,0,0,0,04/15/2023,home,16340,22626,JWU (Providence),8,True,0,11,-11,loss,2409929,2798,2352933,2023,3
+0,1,1,0,0,0,9,0,0,0,04/19/2023,home,16340,770,WestConn,9,True,7,8,-1,loss,2403150,2798,2352933,2023,3

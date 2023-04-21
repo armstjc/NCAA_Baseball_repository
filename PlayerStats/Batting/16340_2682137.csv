@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/29/2023,away,16340,137,UChicago,9,True,1,0,1,win,2426663,53,2682137,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/01/2023,away,16340,337,Knox,9,True,13,0,13,win,2426978,53,2682137,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/02/2023,home,16340,337,Knox,9,True,13,0,13,win,2410023,53,2682137,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/08/2023,away,16340,577,Ripon,9,True,1,6,-5,loss,2408952,53,2682137,2023,3
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,04/11/2023,home,16340,137,UChicago,9,True,7,11,-4,loss,2401405,53,2682137,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/19/2023,home,16340,348,Lawrence,9,True,5,9,-4,loss,2411451,53,2682137,2023,3

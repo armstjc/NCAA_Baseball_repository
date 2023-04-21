@@ -1,3 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,3,0,0,0,02/26/2023,away,16340,398,MIT,9,True,7,8,-1,loss,2391680,20,2329181,2023,3
 0,0,0,0,0,0,3,0,0,0,03/07/2023,away,16340,1400,Texas Lutheran,9,True,1,10,-9,loss,2393936,20,2329181,2023,3
+0,1,1,0,0,0,0,0,0,0,03/17/2023,home,16340,373,Lycoming,9,True,16,6,10,win,2395985,20,2329181,2023,3
+0,0,0,0,0,0,1,0,0,0,03/24/2023,away,16340,221,FDU-Florham,9,True,4,2,2,win,2397456,20,2329181,2023,3
+0,1,1,0,0,0,0,1,0,0,04/02/2023,away,16340,966,Arcadia,9,True,3,10,-7,loss,2399114,20,2329181,2023,3
+0,1,1,0,0,0,0,0,0,0,04/08/2023,home,16340,724,Merchant Marine,9,True,10,3,7,win,2410588,20,2329181,2023,3
+0,0,0,0,0,0,1,0,0,0,04/12/2023,away,16340,443,Moravian,9,True,12,5,7,win,2401650,20,2329181,2023,3
+0,0,1,1,0,0,0,0,0,0,04/19/2023,home,16340,453,Muhlenberg,9,True,20,15,5,win,2403169,20,2329181,2023,3

@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,3,6,0,0,0,0,0,1,0,03/05/2023,away,16340,89,Caltech,9,True,6,11,-5,loss,2408777,462,2351478,2023,3
+2,2,5,1,0,0,0,0,1,0,03/06/2023,away,16340,567,Redlands,9,True,6,5,1,win,2393671,462,2351478,2023,3
+4,1,5,0,0,0,0,0,0,0,03/19/2023,home,16340,30039,North Central (MN),9,True,36,1,35,win,2396207,462,2351478,2023,3
+1,0,1,0,0,0,0,0,0,0,03/24/2023,away,16340,372,Luther,9,True,3,6,-3,loss,2425959,462,2351478,2023,3
+1,0,2,1,0,0,0,0,0,0,04/11/2023,away,16340,84,Buena Vista,9,True,1,11,-10,loss,2401323,462,2351478,2023,3

@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/13/2023,neutral,16340,548,Plymouth St.,9,True,2,7,-5,loss,2408258,2798,2527816,2023,3
 0,1,1,0,0,0,0,0,0,0,03/14/2023,neutral,16340,30072,St. Joseph's (Brkln),10,True,13,11,2,win,2424320,2798,2527816,2023,3
+0,0,0,0,0,0,1,0,0,0,03/29/2023,home,16340,11036,Russell Sage,9,True,6,4,2,win,2398684,2798,2527816,2023,3
+0,1,1,0,0,0,0,0,0,0,04/03/2023,home,16340,8486,Lasell,9,True,5,15,-10,loss,2399349,2798,2527816,2023,3
+0,0,0,0,0,0,2,0,0,0,04/10/2023,home,16340,605,St. Joseph's (ME),10,True,11,10,1,win,2428361,2798,2527816,2023,3
+0,0,0,0,0,0,1,0,0,0,04/15/2023,home,16340,22626,JWU (Providence),8,True,0,11,-11,loss,2409929,2798,2527816,2023,3

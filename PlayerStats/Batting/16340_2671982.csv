@@ -1,2 +1,8 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/11/2023,neutral,16340,479,NYU,9,True,8,16,-8,loss,2423970,30172,2671982,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/21/2023,home,16340,492,North Central (IL),9,True,0,21,-21,loss,2425062,30172,2671982,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/27/2023,away,16340,335,Kenyon,9,True,0,11,-11,loss,2397770,30172,2671982,2023,3
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/02/2023,away,16340,1164,Lakeland,9,True,17,1,16,win,2410058,30172,2671982,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/08/2023,home,16340,296,Benedictine (IL),9,True,7,11,-4,loss,2409420,30172,2671982,2023,3
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,04/10/2023,away,16340,614,St. Norbert,9,True,7,3,4,win,2409319,30172,2671982,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/19/2023,home,16340,160,Concordia Chicago,9,True,7,3,4,win,2410732,30172,2671982,2023,3

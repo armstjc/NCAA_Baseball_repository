@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/02/2023,away,16340,730,Ursinus,9,True,3,1,2,win,2392596,712,2693005,2023,3
 0,1,1,0,0,0,0,0,0,0,03/14/2023,neutral,16340,24,Amherst,8,True,5,4,1,win,2408426,712,2693005,2023,3
+0,0,0,0,0,0,2,0,0,0,03/22/2023,away,16340,783,Widener,9,True,9,17,-8,loss,2397192,712,2693005,2023,3
+0,1,1,0,0,0,0,0,0,0,04/02/2023,away,16340,319,New Jersey City,9,True,15,0,15,win,2426832,712,2693005,2023,3
+0,0,0,0,0,0,1,0,0,0,04/08/2023,away,16340,589,Rutgers-Newark,9,True,8,4,4,win,2400895,712,2693005,2023,3
+0,1,1,0,0,0,0,1,0,0,04/14/2023,away,16340,259,Rowan,9,True,3,8,-5,loss,2401762,712,2693005,2023,3

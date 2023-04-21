@@ -1,0 +1,3 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,0.1,0.0,2,3,3,0,0,0,5,2,0,0,0,0,0,3,0,0,0,0,0,28,0,0,0,0,0,4,0,1,04/08/2023,away,16340,185,Dickinson,9,True,4,18,-14,loss,2409235,276,2682838,2023,3
+1,0,1.0,0.0,0,0,0,0,1,0,4,3,0,0,0,0,0,1,0,0,0,0,0,11,1,1,0,0,0,4,1,0,04/11/2023,home,16340,753,Washington Col.,9,True,33,8,25,win,2401448,276,2682838,2023,3

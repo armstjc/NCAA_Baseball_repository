@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/20/2023,neutral,16340,607,St. Lawrence,9,True,10,2,8,win,2409973,267,2362340,2023,3
+0,1,1,0,0,0,1,0,0,0,04/08/2023,home,16340,789,Williams,9,True,5,9,-4,loss,2409968,267,2362340,2023,3
+0,1,1,0,0,0,0,0,0,0,04/15/2023,away,16340,420,Middlebury,9,True,8,9,-1,loss,2402201,267,2362340,2023,3
+4,0,4,0,0,0,0,0,0,0,04/18/2023,home,16340,733,Utica,9,True,16,0,16,win,2402959,267,2362340,2023,3

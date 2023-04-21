@@ -1,2 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,7.0,1,5,1,1,0,6,0,26,25,1,0,0,0,0,1,0,0,0,0,0,89,7,7,1,0,0,1,2,0,03/10/2023,away,16340,962,Bard,9,True,3,1,2,win,2394770,30029,2512762,2023,3
+1,1,6.0,1,5,4,3,2,4,0,24,20,2,0,0,0,0,0,0,0,0,1,1,74,9,4,0,1,0,1,1,1,03/26/2023,away,16340,1468,Mt. St. Mary (NY),9,True,2,4,-2,loss,2398093,30029,2512762,2023,3
+1,1,7.0,1,2,0,0,2,6,1,25,20,0,0,0,0,0,2,0,0,0,1,0,93,10,3,1,0,0,1,1,0,04/02/2023,away,16340,524,Old Westbury,9,True,4,0,4,win,2399590,30029,2512762,2023,3
+1,1,6.0,0.0,9,6,3,3,2,0,32,29,2,0,0,0,0,0,0,0,0,0,0,132,8,7,0,1,0,1,0,1,04/15/2023,home,16340,1340,St. Joseph's (L.I.),9,True,2,6,-4,loss,2402178,30029,2512762,2023,3

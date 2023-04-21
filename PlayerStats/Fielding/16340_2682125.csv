@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,03/11/2023,neutral,16340,681,Stockton,9,True,5,2,3,win,2394622,53,2682125,2023,3
 0,1,1,0,0,0,0,0,0,0,03/16/2023,neutral,16340,126,Central (IA),9,True,19,2,17,win,2395748,53,2682125,2023,3
+0,1,1,0,0,0,3,0,0,0,03/27/2023,home,16340,264,Grinnell,9,True,7,5,2,win,2426465,53,2682125,2023,3
+0,1,1,0,0,0,0,0,0,0,04/01/2023,away,16340,337,Knox,9,True,13,0,13,win,2426978,53,2682125,2023,3
+1,2,3,0,0,0,0,0,0,0,04/19/2023,home,16340,348,Lawrence,9,True,12,5,7,win,2403087,53,2682125,2023,3

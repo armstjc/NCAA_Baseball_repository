@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,3,0,0,0,3,0,0,0,03/14/2023,home,16340,1062,East Tex. Baptist,9,True,6,4,2,win,2395451,1124,2678476,2023,3
+0,0,1,1,0,0,0,0,0,0,03/21/2023,neutral,16340,800,Wis.-Platteville,9,True,8,1,7,win,2396915,1124,2678476,2023,3
+0,0,0,0,0,0,1,0,0,0,04/02/2023,home,16340,132,Centre,9,True,15,9,6,win,2399647,1124,2678476,2023,3
+1,0,1,0,0,0,4,0,0,0,04/08/2023,home,16340,573,Rhodes,9,True,9,17,-8,loss,2401115,1124,2678476,2023,3
+0,3,4,1,0,0,0,0,0,0,04/14/2023,away,16340,973,Berry,11,True,3,4,-1,loss,2401738,1124,2678476,2023,3

@@ -1,2 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,03/19/2023,away,16340,549,Pomona-Pitzer,9,True,1,5,-4,loss,2396694,717,2526879,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/25/2023,away,16340,134,Chapman,9,True,0,7,-7,loss,2397716,717,2526879,2023,3
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/05/2023,away,16340,398,MIT,9,True,20,1,19,win,2400148,717,2526879,2023,3
+0,3,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,04/12/2023,away,16340,401,UMass Boston,9,True,3,1,2,win,2401673,717,2526879,2023,3
+0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/18/2023,home,16340,22626,JWU (Providence),9,True,11,5,6,win,2429614,717,2526879,2023,3

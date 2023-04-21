@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/17/2023,neutral,16340,517,Ohio Northern,9,True,0,11,-11,loss,2395891,267,2523178,2023,3
+2,0,2,0,0,0,0,0,0,0,03/20/2023,neutral,16340,607,St. Lawrence,9,True,10,2,8,win,2409973,267,2523178,2023,3
+13,0,13,0,0,0,0,0,1,0,03/24/2023,home,16340,30165,SUNY Canton,9,True,3,4,-1,loss,2397257,267,2523178,2023,3
+5,1,6,0,0,0,0,0,0,0,04/16/2023,home,16340,24,Amherst,9,True,5,15,-10,loss,2398921,267,2523178,2023,3

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2,1,0,0,0,0,0,0,02/10/2023,home,16340,24400,Concordia (TX),9,True,8,10,-2,loss,2389932,271,2519323,2023,3
 2,0,3,1,0,0,0,0,0,0,02/11/2023,away,16340,1297,Pacific Lutheran,9,True,3,8,-5,loss,2390036,271,2519323,2023,3
+1,0,1,0,0,0,0,0,0,0,03/31/2023,away,16340,2741,Howard Payne,9,True,16,4,12,win,2398861,271,2519323,2023,3

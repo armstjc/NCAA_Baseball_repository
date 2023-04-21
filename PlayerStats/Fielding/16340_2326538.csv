@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/18/2023,away,16340,2741,Howard Payne,9,True,1,15,-14,loss,2390654,1355,2326538,2023,3
+0,0,0,0,0,0,1,0,0,0,03/25/2023,away,16340,953,Austin,9,True,4,2,2,win,2409820,1355,2326538,2023,3
+1,1,2,0,0,0,0,0,0,0,03/31/2023,home,16340,8746,Southwestern (TX),9,True,4,14,-10,loss,2398803,1355,2326538,2023,3
+0,1,1,0,0,0,0,0,0,0,04/10/2023,home,16340,1400,Texas Lutheran,9,True,1,10,-9,loss,2409771,1355,2326538,2023,3
+0,0,0,0,0,0,1,0,0,0,04/16/2023,away,16340,125,Centenary (LA),9,True,4,5,-1,loss,2429229,1355,2326538,2023,3

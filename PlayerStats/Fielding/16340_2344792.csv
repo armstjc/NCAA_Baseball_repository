@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+13,1,16,2,0,0,0,0,1,0,04/04/2023,home,16340,30064,Saint Vincent,9,True,5,10,-5,loss,2417870,1163,2344792,2023,3
+3,0,3,0,0,0,0,0,0,0,04/08/2023,home,16340,11839,Pitt.-Greensburg,9,True,2,5,-3,loss,2400828,1163,2344792,2023,3
+11,0,12,1,0,0,0,0,1,0,04/11/2023,away,16340,19,Allegheny,10,True,2,1,1,win,2427628,1163,2344792,2023,3
+13,0,13,0,0,0,0,0,0,0,04/13/2023,away,16340,30069,Franciscan,9,True,17,6,11,win,2401709,1163,2344792,2023,3
+13,0,13,0,0,0,0,0,1,0,04/14/2023,home,16340,8398,Hilbert,9,True,4,5,-1,loss,2428752,1163,2344792,2023,3
+6,1,8,1,0,0,0,0,0,0,04/14/2023,home,16340,8398,Hilbert,9,True,13,14,-1,loss,2428893,1163,2344792,2023,3
+7,0,7,0,0,0,0,0,1,0,04/16/2023,home,16340,807,Wooster,9,True,11,9,2,win,2402723,1163,2344792,2023,3
+4,0,4,0,0,0,0,0,0,0,04/19/2023,away,16340,25719,Penn St.-Altoona,9,True,1,6,-5,loss,2403088,1163,2344792,2023,3
+10,1,11,0,0,0,0,0,1,0,04/19/2023,away,16340,25719,Penn St.-Altoona,9,True,5,10,-5,loss,2411452,1163,2344792,2023,3

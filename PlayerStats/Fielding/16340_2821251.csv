@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/18/2023,away,16340,139,Chris. Newport,9,True,4,11,-7,loss,2408893,475,2821251,2023,3
+0,0,0,0,0,0,1,0,0,0,04/07/2023,home,16340,530,Oswego St.,9,True,10,14,-4,loss,2400445,475,2821251,2023,3
+1,0,1,0,0,0,0,0,0,0,04/08/2023,home,16340,530,Oswego St.,9,True,11,16,-5,loss,2409441,475,2821251,2023,3
+0,0,0,0,0,0,1,0,0,0,04/15/2023,away,16340,547,Plattsburgh St.,9,True,3,4,-1,loss,2402212,475,2821251,2023,3
+0,0,0,0,0,0,1,0,0,0,04/18/2023,home,16340,11036,Russell Sage,9,True,7,13,-6,loss,2402856,475,2821251,2023,3

@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,1,0,0,0,03/05/2023,neutral,16340,296,Benedictine (IL),10,True,6,12,-6,loss,2422411,798,2357785,2023,3
+1,1,2,0,0,0,0,0,0,0,03/21/2023,away,16340,20220,MSOE,9,True,4,5,-1,loss,2425089,798,2357785,2023,3
+0,0,0,0,0,0,1,0,0,0,04/02/2023,home,16340,805,Wis.-Whitewater,9,True,4,17,-13,loss,2410311,798,2357785,2023,3
+1,2,3,0,0,0,0,0,0,0,04/07/2023,away,16340,793,Wis.-Eau Claire,9,True,9,0,9,win,2409952,798,2357785,2023,3
+0,2,2,0,0,0,3,0,0,0,04/14/2023,away,16340,803,Wis.-Stout,9,True,8,10,-2,loss,2428896,798,2357785,2023,3

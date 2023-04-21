@@ -1,5 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/03/2023,neutral,16340,26,Anna Maria,9,True,1,10,-9,loss,2392690,30114,2510587,2023,3
-0,1,1,0,0,0,0,0,0,0,03/06/2023,neutral,16340,452,Mount Union,9,True,4,14,-10,loss,2393678,30114,2510587,2023,3
+0,1,1,0,0,0,1,0,0,0,03/06/2023,neutral,16340,452,Mount Union,9,True,4,14,-10,loss,2393678,30114,2510587,2023,3
 0,1,1,0,0,0,0,0,0,0,03/11/2023,home,16340,808,WPI,9,True,14,16,-2,loss,2394655,30114,2510587,2023,3
 0,0,0,0,0,0,1,1,0,0,03/17/2023,home,16340,30190,Penn College,9,True,7,13,-6,loss,2425035,30114,2510587,2023,3
+1,0,1,0,0,0,0,0,0,0,03/26/2023,home,16340,761,Wells,9,True,18,2,16,win,2397785,30114,2510587,2023,3
+0,1,1,0,0,0,0,0,0,0,04/15/2023,home,16340,611,St. Mary's (MD),9,True,14,16,-2,loss,2402240,30114,2510587,2023,3

@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,02/28/2023,home,16340,363,Longwood,9,True,14,0,14,win,2392406,490,2473258,2023,1
+0,0,1,1,0,0,0,0,0,0,04/18/2023,neutral,16340,173,Davidson,9,True,22,7,15,win,2403014,490,2473258,2023,1

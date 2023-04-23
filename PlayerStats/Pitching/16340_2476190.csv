@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,5.0,0.0,3,2,2,2,7,0,21,17,0,0,1,0,0,1,0,0,0,0,1,72,5,3,1,0,0,1,3,0,02/18/2023,away,16340,2711,North Florida,9,True,11,3,8,win,2390773,454,2476190,2023,1
 1,1,5.0,0.0,3,2,1,1,7,0,20,17,0,0,0,0,0,0,0,0,0,1,1,78,5,3,0,0,0,1,3,0,04/03/2023,away,16340,735,Valparaiso,9,True,2,5,-3,loss,2399310,454,2476190,2023,1
+1,1,5.0,0.0,8,6,6,2,5,0,26,23,1,0,0,1,0,1,0,0,0,0,0,93,7,4,1,0,0,1,1,0,04/16/2023,away,16340,299,Illinois St.,9,True,8,6,2,win,2402525,454,2476190,2023,1

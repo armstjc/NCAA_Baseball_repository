@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/03/2023,away,16340,466,Nevada,9,True,6,15,-9,loss,2408652,283,2680231,2023,1
 2,0,2,0,0,0,0,0,0,0,03/08/2023,away,16340,603,St. John's (NY),9,True,7,11,-4,loss,2394061,283,2680231,2023,1
+8,1,9,0,0,0,2,0,0,0,04/18/2023,home,16340,310,Iona,9,True,8,3,5,win,2402902,283,2680231,2023,1
+7,1,8,0,0,0,2,1,0,0,04/19/2023,home,16340,220,Fairfield,9,True,11,10,1,win,2403106,283,2680231,2023,1

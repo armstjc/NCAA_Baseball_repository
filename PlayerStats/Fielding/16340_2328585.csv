@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,2,2,0,0,0,0,0,0,0,04/04/2023,home,16340,98,Cal St. East Bay,11,True,7,8,-1,loss,2427158,645,2328585,2023,2
 0,1,1,0,0,0,0,0,0,0,04/07/2023,home,16340,92,Cal St. Dom. Hills,9,True,1,0,1,win,2400499,645,2328585,2023,2
 0,1,1,0,0,0,0,1,0,0,04/11/2023,home,16340,98,Cal St. East Bay,9,True,1,5,-4,loss,2428474,645,2328585,2023,2
+1,0,1,0,0,0,2,1,0,0,04/18/2023,home,16340,98,Cal St. East Bay,9,True,0,4,-4,loss,2429606,645,2328585,2023,2

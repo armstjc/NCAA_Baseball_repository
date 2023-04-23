@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,1,1,0,0,03/15/2023,away,16340,573,Rhodes,9,True,10,12,-2,loss,2395559,777,2474356,2023,3
+0,0,0,0,0,0,2,0,0,0,03/21/2023,away,16340,673,Springfield,9,True,5,1,4,win,2425574,777,2474356,2023,3
+0,1,1,0,0,0,4,0,0,0,04/02/2023,away,16340,227,Fitchburg St.,9,True,7,11,-4,loss,2399211,777,2474356,2023,3
+0,2,2,0,0,0,0,0,0,0,04/08/2023,home,16340,399,Mass. Maritime,9,True,3,0,3,win,2400577,777,2474356,2023,3
+0,0,0,0,0,0,3,0,0,0,04/15/2023,home,16340,809,Worcester St.,9,True,5,7,-2,loss,2402390,777,2474356,2023,3

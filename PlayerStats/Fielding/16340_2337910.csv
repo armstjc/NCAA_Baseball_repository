@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,1,1,0,02/18/2023,home,16340,1315,Pitt.-Bradford,9,True,8,0,8,win,2390710,565,2337910,2023,3
 0,1,1,0,0,0,0,0,0,0,03/18/2023,home,16340,752,Wash. & Lee,9,True,15,1,14,win,2396335,565,2337910,2023,3
+0,1,1,0,0,0,0,0,0,0,03/25/2023,away,16340,1112,Guilford,9,True,29,17,12,win,2397776,565,2337910,2023,3
+1,0,1,0,0,0,2,0,0,0,04/02/2023,home,16340,44,Averett,9,True,12,11,1,win,2399280,565,2337910,2023,3
+1,0,1,0,0,0,0,0,0,0,04/08/2023,away,16340,75,Bridgewater (VA),9,True,13,2,11,win,2400936,565,2337910,2023,3
+0,1,1,0,0,0,0,0,0,0,04/15/2023,home,16340,637,Shenandoah,9,True,5,10,-5,loss,2429120,565,2337910,2023,3

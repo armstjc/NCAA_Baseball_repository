@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,2,0,0,0,03/08/2023,away,16340,357,Lincoln (PA),9,True,11,8,3,win,2393982,543,2307026,2023,2
 0,0,1,1,0,0,0,1,0,0,03/18/2023,home,16340,1348,St. Thomas Aquinas,9,True,1,4,-3,loss,2409253,543,2307026,2023,2
 0,0,0,0,0,0,1,0,0,0,03/21/2023,home,16340,765,West Chester,9,True,10,11,-1,loss,2396934,543,2307026,2023,2
+0,0,0,0,0,0,3,0,0,0,04/18/2023,neutral,16340,765,West Chester,9,True,2,5,-3,loss,2427666,543,2307026,2023,2

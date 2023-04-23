@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,0,5,0,0,0,0,0,1,0,03/16/2023,away,16340,0,Penn St.-Wilkes Barre,9,True,13,0,13,win,2424971,213,2796904,2023,3
+1,0,1,0,0,0,0,0,0,0,04/18/2023,home,16340,373,Lycoming,9,True,0,4,-4,loss,2429226,213,2796904,2023,3
+7,0,7,0,0,0,0,0,0,0,04/19/2023,home,16340,761,Wells,9,True,4,3,1,win,2402799,213,2796904,2023,3

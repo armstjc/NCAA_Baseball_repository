@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/11/2023,home,16340,590,Sacred Heart,9,True,3,16,-13,loss,2394555,485,2477788,2023,1
 1,0,1,0,0,0,1,0,0,0,04/04/2023,home,16340,363,Longwood,9,True,3,14,-11,loss,2399872,485,2477788,2023,1
+0,0,0,0,0,0,1,0,0,0,04/18/2023,away,16340,363,Longwood,9,True,3,9,-6,loss,2403003,485,2477788,2023,1

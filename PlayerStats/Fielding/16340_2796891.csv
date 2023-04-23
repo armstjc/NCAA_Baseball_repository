@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/24/2023,neutral,16340,30170,Alfred St.,9,True,2,9,-7,loss,2391338,213,2796891,2023,3
+0,1,1,0,0,0,0,0,0,0,03/28/2023,away,16340,30160,Houghton,9,True,1,6,-5,loss,2397906,213,2796891,2023,3
+0,0,0,0,0,0,1,0,0,0,04/05/2023,home,16340,282,Hobart,9,True,10,20,-10,loss,2400170,213,2796891,2023,3
+0,0,1,1,0,0,0,0,0,0,04/07/2023,home,16340,23725,Medaille,9,True,9,3,6,win,2400370,213,2796891,2023,3
+0,2,2,0,0,0,0,0,0,0,04/15/2023,away,16340,733,Utica,9,True,1,11,-10,loss,2409134,213,2796891,2023,3
+0,0,1,1,0,0,0,0,0,0,04/16/2023,away,16340,733,Utica,9,True,5,15,-10,loss,2402651,213,2796891,2023,3

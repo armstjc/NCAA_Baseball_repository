@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 6,0,6,0,0,0,0,0,1,0,03/07/2023,neutral,16340,174,Davis & Elkins,9,True,14,1,13,win,2393796,262,2501879,2023,2
+1,1,2,0,0,0,0,0,0,0,04/22/2023,away,16340,30222,Purdue Northwest,9,True,4,5,-1,loss,2403616,262,2501879,2023,2
+7,0,8,1,0,0,0,0,1,0,04/22/2023,away,16340,30222,Purdue Northwest,9,True,14,10,4,win,2410949,262,2501879,2023,2

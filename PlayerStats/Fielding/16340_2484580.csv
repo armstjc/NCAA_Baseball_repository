@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,03/21/2023,home,16340,423,Millersville,9,True,6,13,-7,loss,2394322,384,2484580,2023,2
+7,0,7,0,0,0,0,0,0,0,04/18/2023,home,16340,643,Slippery Rock,9,True,1,5,-4,loss,2429602,384,2484580,2023,2

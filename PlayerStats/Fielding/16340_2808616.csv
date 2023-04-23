@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/04/2023,neutral,16340,30202,Okla. Baptist,9,True,4,21,-17,loss,2389784,1314,2808616,2023,2
 1,0,1,0,0,0,0,0,0,0,02/21/2023,away,16340,30202,Okla. Baptist,9,True,1,9,-8,loss,2391134,1314,2808616,2023,2
+0,2,2,0,0,0,4,0,0,0,04/18/2023,away,16340,435,Missouri S&T,9,True,14,3,11,win,2402885,1314,2808616,2023,2

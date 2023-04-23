@@ -10,3 +10,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,1,0,0,0,03/28/2023,home,16340,0,Southeastern Bapt.,9,True,3,2,1,win,2398541,17,2817691,2023,1
 1,1,2,0,0,0,4,1,0,0,04/07/2023,away,16340,2678,Ark.-Pine Bluff,9,True,5,4,1,win,2400582,17,2817691,2023,1
 9,0,10,1,0,0,3,0,0,0,04/11/2023,home,16340,0,Tougaloo,9,True,4,3,1,win,2401389,17,2817691,2023,1
+2,0,2,0,0,0,2,0,0,0,04/21/2023,away,16340,553,Prairie View,9,True,1,4,-3,loss,2403369,17,2817691,2023,1

@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/11/2023,away,16340,173,Davidson,9,True,11,1,10,win,2424039,81,2679498,2023,1
 3,0,3,0,0,0,0,0,0,0,04/08/2023,away,16340,368,UMass Lowell,9,True,5,14,-9,loss,2401033,81,2679498,2023,1
+1,0,1,0,0,0,0,0,0,0,04/21/2023,home,16340,14,UAlbany,9,True,17,11,6,win,2403364,81,2679498,2023,1
+2,0,2,0,0,0,0,0,0,0,04/22/2023,home,16340,14,UAlbany,9,True,10,1,9,win,2430251,81,2679498,2023,1
+3,1,4,0,0,0,0,0,0,0,04/22/2023,home,16340,14,UAlbany,9,True,7,5,2,win,2403816,81,2679498,2023,1

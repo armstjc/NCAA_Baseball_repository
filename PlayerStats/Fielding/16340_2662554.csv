@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/04/2023,away,16340,142,Claremont-M-S,9,True,9,13,-4,loss,2408091,1094,2662554,2023,3
 0,0,0,0,0,0,1,0,0,0,02/11/2023,away,16340,24400,Concordia (TX),9,True,3,6,-3,loss,2390011,1094,2662554,2023,3
+0,1,1,0,0,0,0,0,0,0,04/01/2023,away,16340,1454,Whitworth,10,True,11,10,1,win,2410054,1094,2662554,2023,3

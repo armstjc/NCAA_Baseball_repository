@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2023,home,16340,546,Pitt.-Johnstown,9,True,0,19,-19,loss,2408105,1028,2811653,2023,2
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/27/2023,away,16340,934,Alderson Broaddus,9,True,15,4,11,win,2409277,1028,2811653,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,04/19/2023,away,16340,216,Emory & Henry,9,True,6,12,-6,loss,2403118,1028,2811653,2023,2

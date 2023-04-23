@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/04/2023,home,16340,411,Messiah,9,True,15,1,14,win,2392999,565,2828279,2023,3
 2,0,2,0,0,0,0,0,0,0,03/07/2023,home,16340,22626,JWU (Providence),9,True,13,10,3,win,2393777,565,2828279,2023,3
+2,0,2,0,0,0,0,0,0,0,03/21/2023,home,16340,412,Methodist,9,True,8,1,7,win,2396883,565,2828279,2023,3
+2,0,2,0,0,0,0,0,0,0,03/22/2023,away,16340,269,Hampden-Sydney,9,True,3,7,-4,loss,2397101,565,2828279,2023,3

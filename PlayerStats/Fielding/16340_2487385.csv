@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/19/2023,away,16340,30181,UVA Wise,9,True,19,16,3,win,2396012,1257,2487385,2023,2
 0,0,0,0,0,0,1,0,0,0,04/04/2023,away,16340,1072,Erskine,9,True,2,5,-3,loss,2392351,1257,2487385,2023,2
+1,1,2,0,0,0,0,0,0,0,04/22/2023,away,16340,1170,Lenoir-Rhyne,9,True,10,7,3,win,2403839,1257,2487385,2023,2

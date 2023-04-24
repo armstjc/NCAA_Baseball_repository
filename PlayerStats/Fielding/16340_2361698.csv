@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/24/2023,away,16340,241,Franklin Pierce,9,True,4,22,-18,loss,2397820,613,2361698,2023,2
 0,0,0,0,0,0,1,0,0,0,04/15/2023,home,16340,22,American Int'l,9,True,5,16,-11,loss,2402229,613,2361698,2023,2
+0,1,1,0,0,0,0,0,0,0,04/22/2023,home,16340,468,Southern N.H.,9,True,2,23,-21,loss,2411481,613,2361698,2023,2

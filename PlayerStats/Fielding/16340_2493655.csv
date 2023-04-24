@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/26/2023,away,16340,498,ULM,9,True,8,5,3,win,2392191,660,2493655,2023,1
 1,0,1,0,0,0,0,0,0,0,03/07/2023,home,16340,659,Southern Ill.,9,True,5,4,1,win,2393874,660,2493655,2023,1
+1,1,2,0,0,0,0,0,0,0,04/19/2023,home,16340,64,Blackburn,9,True,16,4,12,win,2403153,660,2493655,2023,1

@@ -24,3 +24,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,5,5,0,0,0,0,0,0,0,04/07/2023,home,16340,30135,California Baptist,9,True,5,8,-3,loss,2400644,472,2807391,2023,1
 1,2,4,1,0,0,0,0,1,0,04/08/2023,home,16340,30135,California Baptist,9,True,13,7,6,win,2400908,472,2807391,2023,1
 1,3,4,0,0,0,0,0,0,0,04/11/2023,away,16340,29,Arizona,9,True,2,14,-12,loss,2401288,472,2807391,2023,1
+5,3,8,0,0,0,0,0,1,0,04/21/2023,away,16340,1395,Tarleton St.,9,True,1,7,-6,loss,2403454,472,2807391,2023,1

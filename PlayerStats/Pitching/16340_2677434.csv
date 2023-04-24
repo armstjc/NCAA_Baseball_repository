@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,17,2,0,0,0,0,2,0,0,03/17/2023,away,16340,0,Penn St.-Brandywine,9,True,9,2,7,win,2395824,12399,2677434,2023,3
+1,0,3.1,0.0,8,6,6,0,2,0,19,16,5,0,1,0,1,2,0,0,0,1,0,57,2,5,1,0,0,2,0,0,03/21/2023,away,16340,15882,Rosemont,9,True,17,16,1,win,2396996,12399,2677434,2023,3
+1,0,1.0,0.0,2,2,2,1,0,0,6,5,1,0,0,1,0,0,0,0,0,0,0,15,1,2,0,0,0,2,0,0,03/25/2023,away,16340,394,Marymount (VA),9,True,1,8,-7,loss,2426111,12399,2677434,2023,3
+1,0,1.2,0.0,2,0,0,1,0,0,7,5,0,0,0,0,2,0,0,1,1,1,0,28,3,1,0,0,0,2,0,0,04/04/2023,away,16340,259,Rowan,9,True,12,14,-2,loss,2399827,12399,2677434,2023,3
+1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,5,0,0,04/18/2023,away,16340,179,Delaware Valley,9,True,26,10,16,win,2402833,12399,2677434,2023,3

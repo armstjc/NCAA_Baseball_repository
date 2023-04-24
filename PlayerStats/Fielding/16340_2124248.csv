@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,1,0,0,02/21/2023,home,16340,1068,Elon,9,True,5,7,-2,loss,2391112,1092,2124248,2023,1
 0,0,0,0,0,0,1,0,0,0,03/18/2023,home,16340,363,Longwood,9,True,1,0,1,win,2425284,1092,2124248,2023,1
+0,0,0,0,0,0,1,1,0,0,04/16/2023,away,16340,19651,High Point,9,True,7,13,-6,loss,2429184,1092,2124248,2023,1

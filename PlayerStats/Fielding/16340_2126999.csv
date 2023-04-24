@@ -40,3 +40,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,04/11/2023,home,16340,1289,Ouachita Baptist,9,True,1,5,-4,loss,2401481,1123,2126999,2023,2
 1,0,1,0,0,0,0,0,0,0,04/14/2023,home,16340,30152,Southern Nazarene,9,True,14,3,11,win,2402330,1123,2126999,2023,2
 3,0,3,0,0,0,0,0,0,0,04/14/2023,home,16340,30152,Southern Nazarene,9,True,8,0,8,win,2409911,1123,2126999,2023,2
+3,0,3,0,0,0,0,0,0,0,04/22/2023,neutral,16340,30202,Okla. Baptist,9,True,7,2,5,win,2430345,1123,2126999,2023,2
+3,0,3,0,0,0,0,0,0,0,04/22/2023,neutral,16340,30202,Okla. Baptist,9,True,2,1,1,win,2430389,1123,2126999,2023,2

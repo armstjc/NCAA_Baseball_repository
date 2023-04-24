@@ -11,3 +11,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,1,0,0,04/08/2023,home,16340,9013,Missouri Western,10,True,5,6,-1,loss,2401046,507,2663963,2023,2
 0,0,0,0,0,0,1,0,0,0,04/11/2023,home,16340,2814,Washburn,9,True,5,6,-1,loss,2401404,507,2663963,2023,2
 0,1,1,0,0,0,0,0,0,0,04/15/2023,away,16340,1009,Central Okla.,9,True,5,4,1,win,2402460,507,2663963,2023,2
+0,0,0,0,0,0,1,0,0,0,04/18/2023,away,16340,30120,William Jewell,9,True,1,13,-12,loss,2402968,507,2663963,2023,2

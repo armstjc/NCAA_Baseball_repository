@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/19/2023,neutral,16340,1403,Tiffin,8,True,10,15,-5,loss,2418502,765,2514269,2023,2
 0,1,1,0,0,0,0,0,0,0,04/01/2023,home,16340,19117,Salem (WV),9,True,32,3,29,win,2409024,765,2514269,2023,2
+0,0,0,0,0,0,1,0,0,0,04/22/2023,away,16340,197,East Stroudsburg,9,True,4,11,-7,loss,2410966,765,2514269,2023,2

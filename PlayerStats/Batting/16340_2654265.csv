@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/11/2023,away,16340,8,Alabama,9,True,15,3,12,win,2394919,158,2654265,2023,1
 0,1,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,03/22/2023,home,16340,381,Manhattan,9,True,11,4,7,win,2397189,158,2654265,2023,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/19/2023,away,16340,386,Marist,8,True,22,4,18,win,2403134,158,2654265,2023,1

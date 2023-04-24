@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,0,0,0,03/05/2023,away,16340,347,Lane,9,True,7,12,-5,loss,2423131,55,2669809,2023,2
 0,1,1,0,0,0,1,1,0,0,04/02/2023,home,16340,445,Morehouse,9,True,21,14,7,win,2410628,55,2669809,2023,2
+0,0,0,0,0,0,1,0,0,0,04/22/2023,home,16340,30191,Spring Hill,9,True,4,17,-13,loss,2411278,55,2669809,2023,2

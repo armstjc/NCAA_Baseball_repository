@@ -1,3 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,4,3,3,2,2,0,9,7,2,0,0,0,0,0,0,0,0,0,0,31,1,0,0,0,0,4,0,0,04/02/2023,home,16340,36,Assumption,9,True,1,13,-12,loss,2399589,613,2463304,2023,2
 1,0,0.1,0.0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,3,2,0,0,4,0,1,0,0,0,6,0,0,04/11/2023,away,16340,420,Middlebury,9,True,4,7,-3,loss,2428465,613,2463304,2023,2
+1,0,1.0,0.0,0,0,0,1,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,6,1,0,04/22/2023,home,16340,468,Southern N.H.,9,True,2,23,-21,loss,2411481,613,2463304,2023,2
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,11,1,1,0,0,0,4,1,0,04/23/2023,home,16340,468,Southern N.H.,9,True,4,16,-12,loss,2430041,613,2463304,2023,2

@@ -7,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,2,3,1,0,0,0,1,0,0,03/25/2023,away,16340,30028,UT Tyler,9,True,2,3,-1,loss,2397989,767,2665392,2023,2
 1,1,2,0,0,0,0,0,0,0,04/01/2023,home,16340,30105,Ark.-Fort Smith,9,True,7,3,4,win,2399462,767,2665392,2023,2
 0,0,0,0,0,0,1,0,0,0,04/07/2023,away,16340,30179,Okla. Christian,9,True,4,3,1,win,2400619,767,2665392,2023,2
+0,1,1,0,0,0,1,1,0,0,04/21/2023,away,16340,30177,Lubbock Christian,10,True,6,7,-1,loss,2403497,767,2665392,2023,2

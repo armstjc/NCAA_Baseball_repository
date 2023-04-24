@@ -1,2 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,1,1,0,1,1,0,5,4,0,0,0,0,1,0,0,0,0,0,0,20,1,1,0,0,0,3,0,0,04/09/2023,home,16340,180,Delaware,9,True,20,5,15,win,2401207,500,2470970,2023,1
+1,0,2.0,0.0,0,0,0,1,0,0,7,6,0,0,0,0,0,0,0,0,0,0,0,1,4,2,0,0,0,5,0,0,04/15/2023,away,16340,683,Stony Brook,9,True,3,11,-8,loss,2402316,500,2470970,2023,1
+1,0,1.0,0.0,0,0,0,2,3,0,5,3,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,3,2,0,04/18/2023,away,16340,164,UConn,9,True,12,3,9,win,2403018,500,2470970,2023,1
+1,0,0.1,0.0,1,0,0,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,22,1,0,0,0,0,3,0,0,04/22/2023,home,16340,283,Hofstra,9,True,14,5,9,win,2430255,500,2470970,2023,1

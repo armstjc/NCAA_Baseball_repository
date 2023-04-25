@@ -7,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,2,0,0,0,04/04/2023,neutral,16340,432,Mississippi Val.,9,True,17,20,-3,loss,2400094,17,2817697,2023,1
 0,1,1,0,0,0,1,0,0,0,04/11/2023,home,16340,0,Tougaloo,9,True,4,3,1,win,2401389,17,2817697,2023,1
 0,1,1,0,0,0,0,0,0,0,04/15/2023,home,16340,261,Grambling,9,True,4,10,-6,loss,2402451,17,2817697,2023,1
+2,0,2,0,0,0,0,0,0,0,04/22/2023,away,16340,553,Prairie View,10,True,13,10,3,win,2403958,17,2817697,2023,1

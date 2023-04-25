@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/20/2023,neutral,16340,264,Grinnell,9,True,0,5,-5,loss,2396831,800,2500055,2023,3
+0,0,0,0,0,0,2,0,0,0,04/23/2023,away,16340,798,Wis.-Oshkosh,9,True,4,7,-3,loss,2410747,800,2500055,2023,3

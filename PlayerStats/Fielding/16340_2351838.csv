@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,02/26/2023,home,16340,160,Concordia Chicago,9,True,5,7,-2,loss,2391361,618,2351838,2023,3
 0,0,0,0,0,0,1,0,0,0,04/07/2023,neutral,16340,376,Macalester,9,True,5,10,-5,loss,2409307,618,2351838,2023,3
 0,2,2,0,0,0,0,1,0,0,04/12/2023,home,16340,161,Concordia-M'head,9,True,5,14,-9,loss,2409208,618,2351838,2023,3
+0,0,0,0,0,0,1,0,0,0,04/23/2023,home,16340,118,Carleton,9,True,18,13,5,win,2411148,618,2351838,2023,3

@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/26/2023,away,16340,336,King's (PA),9,True,15,1,14,win,2397758,784,2509109,2023,3
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/07/2023,away,16340,179,Delaware Valley,9,True,3,13,-10,loss,2400624,784,2509109,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/21/2023,away,16340,88,Cabrini,9,True,6,15,-9,loss,2403407,784,2509109,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/24/2023,away,16340,30047,Keystone,9,True,3,17,-14,loss,2404293,784,2509109,2023,3

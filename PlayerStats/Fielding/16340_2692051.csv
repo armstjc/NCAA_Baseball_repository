@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/25/2023,home,16340,778,Wheaton (IL),9,True,6,18,-12,loss,2408131,1111,2692051,2023,3
 2,0,2,0,0,0,0,0,0,0,04/08/2023,away,16340,23260,Spalding,9,True,5,9,-4,loss,2409330,1111,2692051,2023,3
+1,0,1,0,0,0,0,0,0,0,04/22/2023,home,16340,555,Principia,9,True,16,5,11,win,2403889,1111,2692051,2023,3

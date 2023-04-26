@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,1,0,0,0,04/04/2023,neutral,16340,648,South Carolina,9,True,0,5,-5,loss,2399890,457,2679986,2023,1
 0,1,1,0,0,0,0,0,0,0,04/18/2023,home,16340,458,Charlotte,9,True,5,3,2,win,2402998,457,2679986,2023,1
 0,0,0,0,0,0,1,0,0,0,04/21/2023,home,16340,67,Boston College,10,True,8,9,-1,loss,2403482,457,2679986,2023,1
+0,1,1,0,0,0,0,0,0,0,04/23/2023,home,16340,67,Boston College,9,True,2,6,-4,loss,2404221,457,2679986,2023,1

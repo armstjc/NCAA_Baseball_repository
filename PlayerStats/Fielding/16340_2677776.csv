@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/19/2023,away,16340,516,Occidental,9,True,18,7,11,win,2425485,420,2677776,2023,3
 1,1,2,0,0,0,0,0,0,0,04/12/2023,away,16340,123,Castleton,9,True,18,11,7,win,2401646,420,2677776,2023,3
+1,0,2,1,0,0,3,0,0,0,04/22/2023,away,16340,789,Williams,10,True,10,11,-1,loss,2411268,420,2677776,2023,3

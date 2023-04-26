@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/04/2023,home,16340,620,St. Thomas (MN),13,True,6,5,1,win,2392906,609,2798259,2023,1
+0,1,1,0,0,0,3,0,0,0,04/22/2023,away,16340,175,Dayton,9,True,12,10,2,win,2403815,609,2798259,2023,1

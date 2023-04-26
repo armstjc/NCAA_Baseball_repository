@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,1,0,0,03/25/2023,home,16340,803,Wis.-Stout,9,True,4,17,-13,loss,2410151,795,2358760,2023,3
 0,0,1,1,0,0,0,0,0,0,04/07/2023,home,16340,802,Wis.-Stevens Point,9,True,3,14,-11,loss,2409940,795,2358760,2023,3
+0,1,1,0,0,0,0,0,0,0,04/19/2023,home,16340,266,Gust. Adolphus,9,True,4,8,-4,loss,2403115,795,2358760,2023,3

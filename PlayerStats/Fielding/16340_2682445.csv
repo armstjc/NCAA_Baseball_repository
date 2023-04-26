@@ -7,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,1,1,0,0,0,0,0,0,04/10/2023,neutral,16340,161,Concordia-M'head,9,True,9,10,-1,loss,2409432,38,2682445,2023,3
 2,0,2,0,0,0,0,0,0,0,04/12/2023,home,16340,266,Gust. Adolphus,9,True,5,9,-4,loss,2401582,38,2682445,2023,3
 3,0,3,0,0,0,0,0,0,0,04/18/2023,away,16340,118,Carleton,9,True,6,3,3,win,2402892,38,2682445,2023,3
+2,0,3,1,0,0,0,0,0,0,04/23/2023,home,16340,268,Hamline,9,True,1,8,-7,loss,2411535,38,2682445,2023,3

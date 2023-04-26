@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,0,0,0,03/20/2023,away,16340,341,La Verne,9,True,21,14,7,win,2396842,420,2145164,2023,3
+0,1,1,0,0,0,0,0,0,0,04/19/2023,home,16340,570,Rensselaer,9,True,9,4,5,win,2403126,420,2145164,2023,3
+0,1,1,0,0,0,0,0,0,0,04/21/2023,away,16340,789,Williams,9,True,9,7,2,win,2403416,420,2145164,2023,3
+0,1,1,0,0,0,0,0,0,0,04/22/2023,away,16340,789,Williams,10,True,10,11,-1,loss,2411268,420,2145164,2023,3

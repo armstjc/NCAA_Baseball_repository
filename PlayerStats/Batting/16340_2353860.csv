@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/11/2023,away,16340,637,Shenandoah,9,True,2,13,-11,loss,2390054,783,2353860,2023,3
 0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,02/18/2023,neutral,16340,168,Cortland,9,True,1,16,-15,loss,2390605,783,2353860,2023,3
+0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,04/22/2023,home,16340,16,Albright,9,True,10,6,4,win,2403732,783,2353860,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/22/2023,home,16340,16,Albright,9,True,14,7,7,win,2411189,783,2353860,2023,3

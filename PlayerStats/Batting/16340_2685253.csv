@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,1,0,0,4,1,4,0,0,0,0,0,0,0,0,0,0,0,02/26/2023,home,16340,245,Gallaudet,9,True,29,1,28,win,2392288,580,2685253,2023,3
 1,4,0,0,0,0,0,0,1,1,0,0,3,0,0,0,0,0,0,04/12/2023,home,16340,30170,Alfred St.,10,True,13,12,1,win,2392593,580,2685253,2023,3
+1,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,04/19/2023,away,16340,601,St. John Fisher,9,True,8,13,-5,loss,2403145,580,2685253,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,04/23/2023,home,16340,282,Hobart,10,True,7,6,1,win,2411258,580,2685253,2023,3
+1,2,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,04/23/2023,away,16340,282,Hobart,9,True,15,4,11,win,2404145,580,2685253,2023,3

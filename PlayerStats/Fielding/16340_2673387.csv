@@ -25,3 +25,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 4,0,4,0,0,0,0,0,0,0,04/18/2023,home,16340,109,UC Irvine,9,True,4,12,-8,loss,2402984,110,2673387,2023,1
 4,0,4,0,0,0,0,0,0,0,04/21/2023,away,16340,657,Southern California,9,True,9,3,6,win,2403529,110,2673387,2023,1
 2,0,2,0,0,0,0,0,0,0,04/22/2023,away,16340,657,Southern California,9,True,1,5,-4,loss,2403976,110,2673387,2023,1
+7,0,7,0,0,0,0,0,0,0,04/23/2023,away,16340,657,Southern California,9,True,5,6,-1,loss,2404284,110,2673387,2023,1
+2,0,2,0,0,0,0,0,0,0,04/25/2023,away,16340,370,LMU (CA),9,True,7,1,6,win,2404502,110,2673387,2023,1

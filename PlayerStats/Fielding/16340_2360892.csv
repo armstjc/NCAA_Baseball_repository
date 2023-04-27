@@ -30,3 +30,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,04/16/2023,home,16340,753,Washington Col.,9,True,8,2,6,win,2402220,730,2360892,2023,3
 1,0,1,0,0,0,0,0,0,0,04/16/2023,home,16340,753,Washington Col.,9,True,9,3,6,win,2410569,730,2360892,2023,3
 4,0,4,0,0,0,0,0,0,0,04/18/2023,away,16340,686,Swarthmore,9,True,2,18,-16,loss,2402939,730,2360892,2023,3
+5,0,5,0,0,0,0,0,0,0,04/25/2023,home,16340,453,Muhlenberg,9,True,3,2,1,win,2404433,730,2360892,2023,3

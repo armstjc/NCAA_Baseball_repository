@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/24/2023,home,16340,601,St. John Fisher,8,True,6,27,-21,loss,2397667,23725,2523217,2023,3
 1,4,1,0,0,1,0,1,0,0,0,0,2,0,0,0,0,0,0,04/11/2023,home,16340,761,Wells,9,True,9,8,1,win,2401305,23725,2523217,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,04/21/2023,away,16340,733,Utica,9,True,2,19,-17,loss,2404151,23725,2523217,2023,3

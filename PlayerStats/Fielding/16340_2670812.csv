@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,1,1,0,0,2,0,0,0,03/03/2023,home,16340,581,Rochester (NY),12,True,7,8,-1,loss,2392749,516,2670812,2023,3
 0,1,1,0,0,0,0,0,1,0,03/24/2023,home,16340,549,Pomona-Pitzer,9,True,0,9,-9,loss,2397411,516,2670812,2023,3
 0,1,1,0,0,0,0,1,0,0,04/01/2023,home,16340,105,Cal Lutheran,9,True,4,12,-8,loss,2410299,516,2670812,2023,3
+0,0,0,0,0,0,1,0,0,0,04/22/2023,away,16340,142,Claremont-M-S,9,True,6,7,-1,loss,2403683,516,2670812,2023,3

@@ -9,3 +9,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,04/04/2023,home,16340,669,Missouri St.,10,True,9,8,1,win,2399950,328,2490944,2023,1
 0,0,1,1,0,0,0,0,0,0,04/11/2023,neutral,16340,699,Texas Southern,9,True,8,5,3,win,2401364,328,2490944,2023,1
 0,0,0,0,0,0,1,1,0,0,04/14/2023,home,16340,327,Kansas St.,9,True,4,5,-1,loss,2401992,328,2490944,2023,1
+1,1,2,0,0,0,2,0,0,0,04/23/2023,home,16340,521,Oklahoma St.,9,True,3,8,-5,loss,2404016,328,2490944,2023,1

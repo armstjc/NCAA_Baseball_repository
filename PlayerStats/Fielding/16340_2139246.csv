@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/04/2023,home,16340,627,San Diego,9,True,13,0,13,win,2393278,529,2139246,2023,1
 3,0,3,0,0,0,0,0,0,0,04/12/2023,home,16340,629,San Francisco,9,True,16,6,10,win,2401664,529,2139246,2023,1
+1,0,1,0,0,0,0,0,1,0,04/25/2023,home,16340,260,Gonzaga,9,True,11,4,7,win,2404491,529,2139246,2023,1

@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,04/02/2023,home,16340,390,Mary Washington,9,True,4,12,-8,loss,2409157,685,2327616,2023,3
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/21/2023,home,16340,325,Juniata,9,True,13,6,7,win,2410942,685,2327616,2023,3
+1,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,0,04/23/2023,home,16340,325,Juniata,9,True,9,8,1,win,2403996,685,2327616,2023,3

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/14/2023,home,16340,464,Omaha,9,True,6,10,-4,loss,2395343,463,2130870,2023,1
 0,3,3,0,0,0,1,0,0,0,03/19/2023,neutral,16340,483,Nicholls,9,True,7,10,-3,loss,2396586,463,2130870,2023,1
+0,1,1,0,0,0,0,0,0,0,04/23/2023,away,16340,312,Iowa,9,True,1,6,-5,loss,2404267,463,2130870,2023,1

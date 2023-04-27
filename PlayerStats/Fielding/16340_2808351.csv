@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 9,0,9,0,0,0,0,0,1,0,04/22/2023,home,16340,251,Georgetown,9,True,6,3,3,win,2403558,164,2808351,2023,1
 6,1,7,0,0,0,0,0,0,0,04/22/2023,home,16340,251,Georgetown,9,True,2,6,-4,loss,2404015,164,2808351,2023,1
+7,0,7,0,0,0,0,0,2,0,04/25/2023,home,16340,572,Rhode Island,9,True,9,0,9,win,2404333,164,2808351,2023,1

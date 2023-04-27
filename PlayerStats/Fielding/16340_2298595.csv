@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/21/2023,away,16340,459,UNC Greensboro,9,True,20,2,18,win,2391175,749,2298595,2023,1
 0,1,1,0,0,0,0,0,0,0,03/28/2023,away,16340,19651,High Point,9,True,12,3,9,win,2398538,749,2298595,2023,1
+0,0,0,0,0,0,1,0,0,0,04/16/2023,away,16340,367,Louisville,9,True,2,7,-5,loss,2402709,749,2298595,2023,1

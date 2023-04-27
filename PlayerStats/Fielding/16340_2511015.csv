@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/17/2023,away,16340,573,Rhodes,9,True,4,14,-10,loss,2395898,30170,2511015,2023,3
 0,0,1,1,0,0,0,0,0,0,04/12/2023,away,16340,580,RIT,10,True,12,13,-1,loss,2392593,30170,2511015,2023,3
+0,0,0,0,0,0,1,0,0,0,04/26/2023,away,16340,581,Rochester (NY),9,True,4,10,-6,loss,2404688,30170,2511015,2023,3

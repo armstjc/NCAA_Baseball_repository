@@ -1,2 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2023,home,16340,30232,Bob Jones,9,True,16,2,14,win,2390747,30111,2685130,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/01/2023,away,16340,30197,Belhaven,9,True,4,6,-2,loss,2409872,30111,2685130,2023,3
+0,2,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,1,04/11/2023,home,16340,21830,Piedmont,9,True,16,11,5,win,2400375,30111,2685130,2023,3
+0,4,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,04/17/2023,away,16340,396,Maryville (TN),9,True,0,8,-8,loss,2401957,30111,2685130,2023,3
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,04/25/2023,away,16340,652,Sewanee,10,True,6,5,1,win,2404382,30111,2685130,2023,3

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,3,0,0,0,04/08/2023,away,16340,265,Grove City,9,True,3,8,-5,loss,2401056,19,2671451,2023,3
+0,1,1,0,0,0,0,0,0,0,04/15/2023,home,16340,10972,Chatham,9,True,8,9,-1,loss,2402095,19,2671451,2023,3
+0,0,1,1,0,0,0,0,0,0,04/27/2023,home,16340,30064,Saint Vincent,9,True,0,8,-8,loss,2431440,19,2671451,2023,3

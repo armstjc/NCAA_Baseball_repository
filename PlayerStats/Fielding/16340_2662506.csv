@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,2,0,0,0,03/20/2023,neutral,16340,282,Hobart,9,True,8,5,3,win,2409975,212,2662506,2023,3
+0,0,0,0,0,0,1,1,0,0,04/06/2023,away,16340,1066,Edgewood,9,True,3,9,-6,loss,2400117,212,2662506,2023,3

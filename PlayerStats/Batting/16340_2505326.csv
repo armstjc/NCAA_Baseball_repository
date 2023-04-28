@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/28/2023,neutral,16340,40,Augustana (IL),9,True,6,16,-10,loss,2398424,615,2505326,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/08/2023,home,16340,612,Saint Mary's (MN),9,True,9,8,1,win,2410593,615,2505326,2023,3
+0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/11/2023,home,16340,268,Hamline,9,True,7,8,-1,loss,2399925,615,2505326,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/11/2023,home,16340,268,Hamline,9,True,3,13,-10,loss,2409414,615,2505326,2023,3
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/13/2023,home,16340,795,Wis.-La Crosse,9,True,5,20,-15,loss,2401694,615,2505326,2023,3

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,2,1,0,0,0,0,0,0,03/23/2023,away,16340,567,Redlands,9,True,1,4,-3,loss,2397242,1297,2507099,2023,3
+1,0,1,0,0,0,2,1,0,0,04/07/2023,home,16340,1454,Whitworth,9,True,3,2,1,win,2409774,1297,2507099,2023,3
+1,0,1,0,0,0,0,0,0,0,04/12/2023,away,16340,1179,Linfield,11,True,9,8,1,win,2428608,1297,2507099,2023,3
+0,0,0,0,0,0,2,0,0,0,04/16/2023,away,16340,780,Whitman,9,True,8,11,-3,loss,2402645,1297,2507099,2023,3

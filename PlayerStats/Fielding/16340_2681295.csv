@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/18/2023,neutral,16340,1305,Cairn,9,True,20,3,17,win,2423735,588,2681295,2023,3
+1,0,1,0,0,0,0,0,0,0,04/01/2023,away,16340,329,Kean,9,True,4,3,1,win,2399197,588,2681295,2023,3
+1,0,2,1,0,0,0,0,0,0,04/18/2023,away,16340,966,Arcadia,9,True,1,7,-6,loss,2402932,588,2681295,2023,3
+1,0,1,0,0,0,0,0,0,0,04/21/2023,home,16340,259,Rowan,10,True,8,7,1,win,2403388,588,2681295,2023,3

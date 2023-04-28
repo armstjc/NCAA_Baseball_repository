@@ -1,2 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,5,0,0,0,03/16/2023,home,16340,227,Fitchburg St.,9,True,6,3,3,win,2395582,26,2485428,2023,3
+1,0,2,1,0,0,0,0,1,0,03/22/2023,home,16340,170,Curry,9,True,6,4,2,win,2397104,26,2485428,2023,3
+0,2,2,0,0,0,0,0,0,0,03/26/2023,home,16340,467,New England Col.,9,True,5,2,3,win,2391608,26,2485428,2023,3
+0,0,0,0,0,0,2,0,0,0,04/03/2023,home,16340,532,Elms,9,True,6,0,6,win,2399156,26,2485428,2023,3
+0,2,2,0,0,0,0,0,0,0,04/08/2023,home,16340,605,St. Joseph's (ME),9,True,11,8,3,win,2409422,26,2485428,2023,3
+0,0,0,0,0,0,2,0,0,0,04/15/2023,home,16340,18422,Rivier,9,True,11,3,8,win,2410418,26,2485428,2023,3
+0,1,1,0,0,0,1,1,0,0,04/21/2023,home,16340,152,Colby-Sawyer,9,True,3,4,-1,loss,2404076,26,2485428,2023,3

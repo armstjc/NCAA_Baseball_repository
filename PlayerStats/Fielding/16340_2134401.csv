@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,1,6,0,0,1,2,0,0,0,03/15/2023,home,16340,685,Susquehanna,9,True,4,8,-4,loss,2395613,238,2134401,2023,3
 3,0,3,0,0,2,0,0,0,0,03/16/2023,neutral,16340,2798,Albertus Magnus,9,True,34,6,28,win,2424938,238,2134401,2023,3
+5,0,5,0,0,1,4,1,0,0,03/22/2023,away,16340,24317,Lesley,9,True,8,19,-11,loss,2397236,238,2134401,2023,3

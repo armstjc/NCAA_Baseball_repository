@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,03/20/2023,home,16340,282,Hobart,9,True,8,5,3,win,2396834,212,2662498,2023,3
+1,0,1,0,0,0,0,0,0,0,04/22/2023,away,16340,492,North Central (IL),9,True,7,16,-9,loss,2430350,212,2662498,2023,3

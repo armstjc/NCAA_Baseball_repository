@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+12,0,12,0,0,2,1,0,0,0,04/15/2023,away,16340,530,Oswego St.,9,True,20,8,12,win,2402322,601,2679901,2023,3
+8,0,8,0,0,1,0,0,0,0,04/19/2023,home,16340,580,RIT,9,True,13,8,5,win,2403145,601,2679901,2023,3
+6,0,6,0,0,2,1,0,0,0,04/21/2023,home,16340,30160,Houghton,9,True,15,4,11,win,2403417,601,2679901,2023,3
+5,2,7,0,0,0,0,0,0,0,04/23/2023,home,16340,30160,Houghton,9,True,6,0,6,win,2403757,601,2679901,2023,3
+4,0,4,0,0,0,0,0,0,0,04/26/2023,away,16340,78,SUNY Brockport,9,True,5,2,3,win,2404641,601,2679901,2023,3

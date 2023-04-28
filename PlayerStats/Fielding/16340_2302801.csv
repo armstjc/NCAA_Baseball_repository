@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,3,0,0,0,03/03/2023,neutral,16340,40,Augustana (IL),9,True,0,5,-5,loss,2392703,166,2302801,2023,3
 0,1,1,0,0,0,1,0,0,0,03/16/2023,neutral,16340,614,St. Norbert,9,True,5,0,5,win,2395755,166,2302801,2023,3
+0,2,2,0,0,0,1,0,0,0,03/30/2023,home,16340,264,Grinnell,9,True,3,6,-3,loss,2398685,166,2302801,2023,3
+0,0,0,0,0,0,3,1,0,0,04/07/2023,away,16340,348,Lawrence,12,True,8,9,-1,loss,2400470,166,2302801,2023,3
+1,0,1,0,0,0,0,1,0,0,04/13/2023,away,16340,264,Grinnell,9,True,7,3,4,win,2401695,166,2302801,2023,3
+0,1,1,0,0,0,2,0,0,0,04/19/2023,home,16340,438,Monmouth (IL),9,True,12,2,10,win,2403151,166,2302801,2023,3
+0,0,0,0,0,0,1,0,0,0,04/25/2023,away,16340,438,Monmouth (IL),10,True,5,6,-1,loss,2404404,166,2302801,2023,3

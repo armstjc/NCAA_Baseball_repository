@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/26/2023,neutral,16340,806,Wittenberg,9,True,5,17,-12,loss,2391675,28749,2310825,2023,3
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2023,home,16340,798,Wis.-Oshkosh,9,True,4,11,-7,loss,2395041,28749,2310825,2023,3
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/21/2023,away,16340,132,Centre,9,True,4,6,-2,loss,2397079,28749,2310825,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/08/2023,away,16340,8567,Mt. St. Joseph,9,True,16,1,15,win,2409447,28749,2310825,2023,3

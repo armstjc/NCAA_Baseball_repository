@@ -1,7 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,0,5,0,0,0,0,0,0,0,02/17/2023,neutral,16340,1461,Wilmington (OH),9,True,7,2,5,win,2390313,374,2142494,2023,3
 2,0,2,0,0,0,0,0,0,0,02/18/2023,away,16340,21830,Piedmont,9,True,4,5,-1,loss,2390500,374,2142494,2023,3
-2,0,2,0,0,0,0,0,0,0,02/19/2023,away,16340,21830,Piedmont,9,True,4,5,-1,loss,2420232,374,2142494,2023,3
 1,0,1,0,0,0,0,0,0,0,02/19/2023,neutral,16340,341,La Verne,9,True,10,2,8,win,2390898,374,2142494,2023,3
 2,0,2,0,0,0,0,0,0,0,02/28/2023,away,16340,17094,William Peace,9,True,11,10,1,win,2392366,374,2142494,2023,3
 1,0,1,0,0,0,0,0,0,0,03/04/2023,home,16340,815,York (PA),9,True,5,1,4,win,2393604,374,2142494,2023,3
@@ -28,3 +27,7 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,0,2,0,0,0,0,0,0,0,04/15/2023,away,16340,44,Averett,9,True,11,1,10,win,2402244,374,2142494,2023,3
 2,0,2,0,0,0,0,0,0,0,04/15/2023,away,16340,44,Averett,9,True,12,0,12,win,2409752,374,2142494,2023,3
 2,0,3,1,0,0,0,0,0,0,04/20/2023,home,16340,17094,William Peace,9,True,7,6,1,win,2402831,374,2142494,2023,3
+1,0,1,0,0,0,0,0,0,0,04/23/2023,away,16340,637,Shenandoah,10,True,3,2,1,win,2403709,374,2142494,2023,3
+1,0,1,0,0,0,0,0,0,0,04/23/2023,away,16340,637,Shenandoah,9,True,4,6,-2,loss,2411166,374,2142494,2023,3
+4,0,4,0,0,0,0,0,0,0,04/25/2023,away,16340,269,Hampden-Sydney,9,True,11,0,11,win,2404340,374,2142494,2023,3
+2,0,2,0,0,0,0,0,0,0,04/26/2023,home,16340,263,Greensboro,9,True,6,3,3,win,2404566,374,2142494,2023,3

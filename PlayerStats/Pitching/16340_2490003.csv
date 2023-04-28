@@ -1,0 +1,7 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,4.0,0.0,4,2,2,3,5,0,20,17,0,0,0,0,1,0,0,0,0,0,0,69,7,1,0,0,1,2,3,0,03/22/2023,away,16340,46,Baldwin Wallace,9,True,7,4,3,win,2397152,19,2490003,2023,3
+1,0,1.0,0.0,0,0,0,3,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,21,1,1,0,0,0,2,0,0,03/28/2023,home,16340,1451,Westminster (PA),9,True,3,4,-1,loss,2398430,19,2490003,2023,3
+1,0,1.1,0.0,5,2,2,0,0,0,8,7,1,0,0,0,0,0,0,0,0,1,0,25,2,1,0,0,0,2,0,0,04/08/2023,away,16340,265,Grove City,9,True,3,8,-5,loss,2401056,19,2490003,2023,3
+1,0,3.0,0.0,3,0,0,3,2,0,14,11,0,0,0,0,1,0,0,0,0,0,0,62,1,5,1,0,0,2,1,0,04/15/2023,home,16340,10972,Chatham,9,True,6,4,2,win,2411928,19,2490003,2023,3
+1,0,0.2,0.0,3,2,2,1,1,0,6,5,1,0,0,0,1,0,0,0,0,0,0,25,0,1,0,0,0,2,0,0,04/21/2023,home,16340,1434,Waynesburg,9,True,11,6,5,win,2411082,19,2490003,2023,3
+1,0,1.0,0.0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,12,1,1,0,0,0,4,0,0,04/27/2023,home,16340,30064,Saint Vincent,9,True,0,8,-8,loss,2431440,19,2490003,2023,3

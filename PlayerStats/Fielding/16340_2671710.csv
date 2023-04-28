@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,0,4,0,0,0,0,0,0,0,03/11/2023,neutral,16340,614,St. Norbert,9,True,1,26,-25,loss,2408854,170,2671710,2023,3
 1,0,1,0,0,0,0,0,0,0,03/13/2023,neutral,16340,564,Ramapo,9,True,4,9,-5,loss,2395273,170,2671710,2023,3
+2,0,2,0,0,0,0,0,0,0,03/21/2023,home,16340,8486,Lasell,9,True,3,14,-11,loss,2396962,170,2671710,2023,3
+2,0,2,0,0,1,0,0,0,0,03/26/2023,home,16340,1099,Gordon,9,True,1,11,-10,loss,2397719,170,2671710,2023,3
+2,0,2,0,0,0,0,0,0,0,04/13/2023,home,16340,1064,Eastern Nazarene,9,True,2,29,-27,loss,2401696,170,2671710,2023,3

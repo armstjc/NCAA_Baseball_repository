@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 7,2,9,0,0,0,2,0,0,0,03/01/2023,away,16340,21852,Stevenson,9,True,2,24,-22,loss,2421326,389,2683870,2023,3
 2,0,2,0,0,0,0,0,0,0,03/07/2023,away,16340,75,Bridgewater (VA),9,True,2,14,-12,loss,2393860,389,2683870,2023,3
+1,1,2,0,0,0,0,1,0,0,04/23/2023,home,16340,491,N.C. Wesleyan,9,True,5,19,-14,loss,2410710,389,2683870,2023,3

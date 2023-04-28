@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/24/2023,neutral,16340,151,Colby,9,True,3,9,-6,loss,2410350,615,2306324,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/11/2023,home,16340,268,Hamline,9,True,3,13,-10,loss,2409414,615,2306324,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/13/2023,home,16340,795,Wis.-La Crosse,9,True,5,20,-15,loss,2401694,615,2306324,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/18/2023,away,16340,60,Bethel (MN),9,True,5,16,-11,loss,2411045,615,2306324,2023,3

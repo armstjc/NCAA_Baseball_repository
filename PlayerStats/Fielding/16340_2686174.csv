@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,03/29/2023,away,16340,775,Western New Eng.,9,True,1,9,-8,loss,2398495,238,2686174,2023,3
+0,0,1,1,0,0,0,0,0,0,04/12/2023,away,16340,8486,Lasell,9,True,10,5,5,win,2401546,238,2686174,2023,3
+0,1,1,0,0,0,0,0,0,0,04/17/2023,away,16340,621,Salem St.,9,True,6,0,6,win,2429505,238,2686174,2023,3
+0,0,0,0,0,0,1,0,0,0,04/22/2023,home,16340,809,Worcester St.,9,True,1,3,-2,loss,2403631,238,2686174,2023,3

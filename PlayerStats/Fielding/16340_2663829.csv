@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,3,1,0,0,03/04/2023,away,16340,641,Simpson,9,True,1,4,-3,loss,2408157,615,2663829,2023,3
+1,0,1,0,0,0,2,0,0,0,03/23/2023,neutral,16340,607,St. Lawrence,9,True,1,6,-5,loss,2409976,615,2663829,2023,3
+0,0,0,0,0,0,1,0,0,0,03/28/2023,neutral,16340,40,Augustana (IL),9,True,6,16,-10,loss,2398424,615,2663829,2023,3
+0,1,1,0,0,0,1,0,0,0,04/26/2023,home,16340,9081,Concordia-St. Paul,9,True,11,10,1,win,2401250,615,2663829,2023,3

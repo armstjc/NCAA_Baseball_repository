@@ -1,3 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/19/2023,home,16340,480,CCNY,9,True,7,2,5,win,2420238,589,2689402,2023,3
 1,0,1,0,0,0,0,0,0,0,03/04/2023,home,16340,30072,St. Joseph's (Brkln),9,True,10,5,5,win,2408538,589,2689402,2023,3
+1,0,1,0,0,0,0,0,0,0,03/28/2023,home,16340,321,John Jay,9,True,11,4,7,win,2398491,589,2689402,2023,3
+4,0,4,0,0,0,0,0,0,0,04/08/2023,home,16340,712,TCNJ,9,True,9,1,8,win,2409537,589,2689402,2023,3
+1,0,1,0,0,0,0,0,0,0,04/13/2023,away,16340,787,Wm. Paterson,9,True,7,19,-12,loss,2401705,589,2689402,2023,3
+3,0,3,0,0,0,0,0,0,0,04/14/2023,home,16340,787,Wm. Paterson,9,True,7,21,-14,loss,2401908,589,2689402,2023,3
+5,0,5,0,0,0,0,0,0,0,04/15/2023,home,16340,329,Kean,9,True,0,8,-8,loss,2402185,589,2689402,2023,3
+4,0,4,0,0,0,0,0,0,0,04/15/2023,home,16340,329,Kean,10,True,5,5,0,tie,2409601,589,2689402,2023,3

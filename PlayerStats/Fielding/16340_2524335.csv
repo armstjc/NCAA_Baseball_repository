@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/12/2023,neutral,16340,623,Salve Regina,9,True,11,10,1,win,2395206,787,2655620,2023,3
-0,0,0,0,0,0,3,0,0,0,03/14/2023,neutral,16340,530,Oswego St.,9,True,7,27,-20,loss,2395464,787,2655620,2023,3
+0,1,1,0,0,0,0,1,0,0,03/19/2023,neutral,16340,242,Fredonia,9,True,7,1,6,win,2396627,789,2524335,2023,3
+0,1,1,0,0,0,0,1,0,0,04/02/2023,away,16340,764,Wesleyan (CT),9,True,5,6,-1,loss,2409184,789,2524335,2023,3
+0,1,1,0,0,0,2,0,0,0,04/08/2023,away,16340,267,Hamilton,9,True,9,5,4,win,2409968,789,2524335,2023,3
+0,2,2,0,0,0,0,1,0,0,04/15/2023,home,16340,24,Amherst,9,True,6,13,-7,loss,2410080,789,2524335,2023,3
+0,1,1,0,0,0,2,0,0,0,04/22/2023,home,16340,420,Middlebury,10,True,11,10,1,win,2411268,789,2524335,2023,3

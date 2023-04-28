@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,03/26/2023,home,16340,2694,Franklin,11,True,4,6,-2,loss,2410267,28749,2472035,2023,3
+0,1,1,0,0,0,1,0,0,0,04/22/2023,home,16340,1115,Hanover,9,True,3,7,-4,loss,2430423,28749,2472035,2023,3

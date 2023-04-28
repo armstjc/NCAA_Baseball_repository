@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/26/2023,away,16340,578,Roanoke,9,True,7,10,-3,loss,2408225,211,2151101,2023,3
 0,0,0,0,0,0,1,0,0,0,03/15/2023,home,16340,815,York (PA),10,True,9,10,-1,loss,2395680,211,2151101,2023,3
+0,1,1,0,0,0,0,0,0,0,03/26/2023,home,16340,325,Juniata,9,True,13,3,10,win,2409981,211,2151101,2023,3
+1,0,1,0,0,0,0,0,0,0,04/02/2023,away,16340,443,Moravian,9,True,16,5,11,win,2399626,211,2151101,2023,3
+0,0,0,0,0,0,1,0,0,0,04/04/2023,away,16340,637,Shenandoah,9,True,11,12,-1,loss,2399996,211,2151101,2023,3

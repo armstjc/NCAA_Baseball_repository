@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 6,2,8,0,0,0,0,0,1,0,03/04/2023,away,16340,641,Simpson,9,True,1,4,-3,loss,2408157,615,2306323,2023,3
+4,1,6,1,0,0,0,0,1,0,03/24/2023,neutral,16340,151,Colby,9,True,3,9,-6,loss,2410350,615,2306323,2023,3
+1,0,1,0,0,0,0,0,0,0,03/26/2023,neutral,16340,40,Augustana (IL),9,True,5,8,-3,loss,2398114,615,2306323,2023,3
+1,0,1,0,0,0,0,0,0,0,04/13/2023,home,16340,795,Wis.-La Crosse,9,True,5,20,-15,loss,2401694,615,2306323,2023,3
+3,0,3,0,0,0,0,0,0,0,04/26/2023,home,16340,9081,Concordia-St. Paul,9,True,11,10,1,win,2401250,615,2306323,2023,3

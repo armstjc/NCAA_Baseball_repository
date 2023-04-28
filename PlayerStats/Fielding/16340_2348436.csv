@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,03/12/2023,neutral,16340,78,SUNY Brockport,9,True,10,5,5,win,2394986,401,2348436,2023,3
 0,1,1,0,0,0,0,0,0,0,03/17/2023,neutral,16340,221,FDU-Florham,9,True,10,7,3,win,2395862,401,2348436,2023,3
+0,0,0,0,0,0,3,0,0,0,03/24/2023,home,16340,123,Castleton,9,True,5,1,4,win,2397686,401,2348436,2023,3
+0,2,3,1,0,0,0,0,0,0,04/04/2023,neutral,16340,770,WestConn,9,True,8,7,1,win,2399212,401,2348436,2023,3
+0,0,0,0,0,0,1,1,0,0,04/08/2023,home,16340,623,Salve Regina,9,True,5,9,-4,loss,2400851,401,2348436,2023,3
+1,0,2,1,0,0,1,0,0,0,04/15/2023,away,16340,330,Keene St.,9,True,7,5,2,win,2402109,401,2348436,2023,3
+0,0,1,1,0,0,1,0,0,0,04/22/2023,away,16340,662,Southern Me.,9,True,1,3,-2,loss,2403624,401,2348436,2023,3

@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/11/2023,home,16340,762,Wentworth,9,True,17,3,14,win,2401437,775,2355368,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/22/2023,home,16340,170,Curry,9,True,10,1,9,win,2403614,775,2355368,2023,3
+0,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,04/22/2023,home,16340,170,Curry,9,True,11,7,4,win,2410947,775,2355368,2023,3

@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2023,neutral,16340,42,Aurora,9,True,1,11,-10,loss,2393413,601,2679882,2023,3
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2023,neutral,16340,30114,Penn St.-Abington,9,True,0,6,-6,loss,2394305,601,2679882,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/15/2023,away,16340,530,Oswego St.,9,True,20,8,12,win,2402322,601,2679882,2023,3

@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,1,1,0,0,0,0,0,0,03/29/2023,home,16340,22626,JWU (Providence),10,True,6,7,-1,loss,2398413,571,2680240,2023,3
 0,1,1,0,0,0,0,0,1,0,04/04/2023,away,16340,623,Salve Regina,9,True,2,11,-9,loss,2399965,571,2680240,2023,3
 0,1,1,0,0,0,0,0,0,0,04/20/2023,home,16340,775,Western New Eng.,9,True,3,11,-8,loss,2403203,571,2680240,2023,3
+1,0,1,0,0,0,0,0,0,0,04/22/2023,home,16340,200,Eastern Conn. St.,9,True,7,6,1,win,2403759,571,2680240,2023,3

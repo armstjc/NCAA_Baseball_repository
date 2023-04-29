@@ -35,3 +35,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 10,0,10,0,0,0,0,0,1,0,04/21/2023,home,16340,104,UC Santa Barbara,9,True,2,4,-2,loss,2403235,112,2827871,2023,1
 6,0,6,0,0,0,0,0,0,0,04/23/2023,home,16340,104,UC Santa Barbara,9,True,5,11,-6,loss,2404006,112,2827871,2023,1
 7,1,8,0,0,0,0,0,2,0,04/25/2023,away,16340,657,Southern California,9,True,3,4,-1,loss,2404345,112,2827871,2023,1
+9,0,9,0,0,0,0,0,2,0,04/28/2023,away,16340,90,Cal Poly,9,True,5,1,4,win,2404955,112,2827871,2023,1

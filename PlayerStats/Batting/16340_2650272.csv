@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,03/04/2023,home,16340,1245,Mount Olive,9,True,4,15,-11,loss,2408620,30092,2650272,2023,2
 0,3,1,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,1,04/18/2023,home,16340,30244,Edward Waters,9,True,6,1,5,win,2402854,30092,2650272,2023,2
+2,3,2,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,04/23/2023,home,16340,30058,Claflin,9,True,29,4,25,win,2404092,30092,2650272,2023,2
+1,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,04/25/2023,home,16340,30244,Edward Waters,9,True,5,3,2,win,2404359,30092,2650272,2023,2

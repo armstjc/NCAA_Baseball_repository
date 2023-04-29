@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/04/2023,away,16340,568,Regis (CO),9,True,2,30,-28,loss,2392927,11403,2467966,2023,2
 1,0,1,0,0,0,0,0,0,0,03/11/2023,home,16340,155,Colo. Sch. of Mines,9,True,3,17,-14,loss,2394732,11403,2467966,2023,2
+0,1,1,0,0,0,0,0,0,0,04/23/2023,away,16340,413,MSU Denver,9,True,6,15,-9,loss,2430567,11403,2467966,2023,2

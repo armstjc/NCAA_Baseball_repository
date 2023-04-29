@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/26/2023,home,16340,28755,FGCU,9,True,3,14,-11,loss,2398142,487,2802652,2023,1
 0,0,0,0,0,0,1,0,0,0,04/06/2023,home,16340,28600,Lipscomb,9,True,2,7,-5,loss,2400325,487,2802652,2023,1
+0,2,2,0,0,0,0,0,0,0,04/25/2023,away,16340,454,Murray St.,9,True,7,8,-1,loss,2404346,487,2802652,2023,1

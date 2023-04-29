@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/04/2023,home,16340,1334,St. Edward's,9,True,2,20,-18,loss,2408215,696,2679586,2023,2
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/26/2023,away,16340,30179,Okla. Christian,8,True,16,4,12,win,2398293,696,2679586,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/22/2023,away,16340,30090,Tex. A&M Int'l,9,True,10,2,8,win,2403612,696,2679586,2023,2

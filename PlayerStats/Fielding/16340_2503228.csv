@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,04/04/2023,away,16340,30123,Academy of Art,9,True,17,7,10,win,2399811,2697,2503228,2023,2
 2,1,3,0,0,0,0,0,0,0,04/11/2023,away,16340,30147,Fresno Pacific,9,True,5,13,-8,loss,2401354,2697,2503228,2023,2
+3,1,4,0,0,0,0,1,0,0,04/23/2023,home,16340,2696,Hawaii Pacific,9,True,8,4,4,win,2404274,2697,2503228,2023,2

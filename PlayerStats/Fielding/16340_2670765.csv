@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,1,1,0,0,2,0,0,0,03/28/2023,away,16340,1402,Thomas More,9,True,4,14,-10,loss,2398402,332,2670765,2023,2
 1,0,1,0,0,0,0,0,0,0,04/04/2023,away,16340,30124,Cedarville,9,True,7,10,-3,loss,2399816,332,2670765,2023,2
 0,1,1,0,0,0,0,0,1,0,04/18/2023,away,16340,1176,Lincoln Memorial,9,True,2,32,-30,loss,2402944,332,2670765,2023,2
+1,0,1,0,0,0,0,0,0,0,04/25/2023,home,16340,0,Oakland City,9,True,10,9,1,win,2404357,332,2670765,2023,2

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/15/2023,home,16340,657,Southern California,9,True,3,16,-13,loss,2395554,90,2463574,2023,1
 0,1,1,0,0,0,0,0,0,0,03/17/2023,home,16340,277,Hawaii,10,True,0,1,-1,loss,2396037,90,2463574,2023,1
+0,1,1,0,0,0,0,0,0,0,04/25/2023,away,16340,631,Santa Clara,10,True,10,11,-1,loss,2404469,90,2463574,2023,1

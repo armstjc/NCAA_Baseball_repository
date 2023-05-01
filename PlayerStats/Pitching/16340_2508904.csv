@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,5.0,0.0,4,2,2,1,6,0,19,18,1,0,0,0,0,0,0,0,0,0,0,70,4,4,1,0,0,2,4,0,03/28/2023,home,16340,179,Delaware Valley,9,True,6,2,4,win,2398350,966,2508904,2023,3
 1,0,1.1,0.0,3,3,3,1,1,0,8,7,1,1,0,0,0,0,0,0,0,0,0,26,0,3,0,0,0,2,1,0,04/11/2023,home,16340,211,Elizabethtown,9,True,8,7,1,win,2401435,966,2508904,2023,3
+1,1,0.1,0.0,2,3,2,3,0,0,7,4,0,0,0,0,2,0,0,0,0,0,0,28,0,1,0,1,0,1,0,0,04/25/2023,home,16340,712,TCNJ,9,True,4,16,-12,loss,2404309,966,2508904,2023,3

@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,1,0,0,03/07/2023,away,16340,110,UCLA,9,True,6,7,-1,loss,2393914,99,2127948,2023,1
 1,0,1,0,0,0,0,0,1,0,03/15/2023,away,16340,30135,California Baptist,10,True,8,6,2,win,2395505,99,2127948,2023,1
 0,1,1,0,0,0,0,0,0,0,03/28/2023,home,16340,30135,California Baptist,9,True,3,2,1,win,2398535,99,2127948,2023,1
+0,1,1,0,0,0,0,1,0,0,04/28/2023,away,16340,466,Nevada,9,True,17,8,9,win,2405025,99,2127948,2023,1

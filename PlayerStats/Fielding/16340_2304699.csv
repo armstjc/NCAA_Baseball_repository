@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,1,0,0,0,02/25/2023,home,16340,30135,California Baptist,9,True,0,4,-4,loss,2421134,466,2304699,2023,1
 0,0,0,0,0,0,1,0,0,0,03/27/2023,home,16340,534,Pacific,9,True,5,6,-1,loss,2426458,466,2304699,2023,1
 1,0,1,0,0,0,0,0,0,0,04/28/2023,home,16340,99,Long Beach St.,9,True,8,17,-9,loss,2405025,466,2304699,2023,1
+0,1,1,0,0,0,0,0,0,0,04/30/2023,home,16340,99,Long Beach St.,9,True,8,7,1,win,2405742,466,2304699,2023,1

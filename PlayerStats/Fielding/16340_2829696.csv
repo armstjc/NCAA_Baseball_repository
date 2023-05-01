@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,3,0,0,0,04/02/2023,home,16340,553,Prairie View,9,True,11,10,1,win,2399564,699,2829696,2023,1
 1,0,1,0,0,0,2,0,0,0,04/09/2023,away,16340,261,Grambling,9,True,4,9,-5,loss,2400611,699,2829696,2023,1
+0,0,0,0,0,0,1,0,0,0,04/30/2023,away,16340,17,Alcorn,9,True,9,4,5,win,2405652,699,2829696,2023,1

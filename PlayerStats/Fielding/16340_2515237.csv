@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,04/11/2023,away,16340,16142,Misericordia,9,True,7,13,-6,loss,2401464,633,2515237,2023,3
 0,1,1,0,0,0,0,0,0,0,04/14/2023,home,16340,966,Arcadia,9,True,10,7,3,win,2428887,633,2515237,2023,3
+1,0,1,0,0,0,0,0,0,0,04/29/2023,home,16340,211,Elizabethtown,9,True,12,11,1,win,2411134,633,2515237,2023,3

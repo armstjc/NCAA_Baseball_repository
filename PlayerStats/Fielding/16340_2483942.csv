@@ -22,3 +22,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/21/2023,home,16340,67,Boston College,10,True,8,9,-1,loss,2403482,457,2483942,2023,1
 1,5,6,0,0,0,0,0,0,0,04/22/2023,home,16340,67,Boston College,9,True,4,9,-5,loss,2403918,457,2483942,2023,1
 1,0,1,0,0,0,0,0,0,0,04/23/2023,home,16340,67,Boston College,9,True,2,6,-4,loss,2404221,457,2483942,2023,1
+1,1,2,0,0,0,0,0,0,0,04/28/2023,away,16340,742,Virginia Tech,9,True,0,7,-7,loss,2405031,457,2483942,2023,1

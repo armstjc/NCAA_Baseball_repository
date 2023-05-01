@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,1,0,0,03/27/2023,away,16340,466,Nevada,9,True,6,5,1,win,2426458,534,2814851,2023,1
 9,1,10,0,0,0,0,0,1,0,04/25/2023,away,16340,108,UC Davis,9,True,6,5,1,win,2404299,534,2814851,2023,1
+5,1,6,0,0,0,0,0,1,0,04/30/2023,away,16340,260,Gonzaga,9,True,7,8,-1,loss,2405537,534,2814851,2023,1

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,4,1,0,0,1,0,0,0,04/01/2023,home,16340,692,Tennessee Tech,10,True,12,17,-5,loss,2399431,444,2489313,2023,1
 1,0,1,0,0,0,0,0,0,0,04/22/2023,home,16340,654,Southeast Mo. St.,11,True,9,11,-2,loss,2403927,444,2489313,2023,1
+1,0,1,0,0,1,0,0,0,0,04/28/2023,away,16340,695,UT Martin,9,True,9,13,-4,loss,2404935,444,2489313,2023,1

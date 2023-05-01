@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,03/20/2023,neutral,16340,727,Union (NY),9,True,3,14,-11,loss,2396826,524,2679459,2023,3
 1,1,4,2,0,0,0,0,0,0,04/01/2023,home,16340,724,Merchant Marine,9,True,5,3,2,win,2410031,524,2679459,2023,3
+0,2,2,0,0,0,0,0,0,0,04/28/2023,away,16340,814,Yeshiva,9,True,5,2,3,win,2404816,524,2679459,2023,3
+0,2,2,0,0,0,0,0,0,0,04/28/2023,away,16340,814,Yeshiva,9,True,17,0,17,win,2411678,524,2679459,2023,3

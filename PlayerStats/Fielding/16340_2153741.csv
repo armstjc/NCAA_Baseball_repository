@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,04/07/2023,away,16340,24,Amherst,9,True,4,3,1,win,2400593,717,2153741,2023,3
 0,1,1,0,0,0,0,0,0,0,04/21/2023,away,16340,713,Trinity (CT),9,True,4,2,2,win,2403382,717,2153741,2023,3
+0,1,1,0,0,0,0,0,0,0,04/29/2023,away,16340,151,Colby,9,True,2,1,1,win,2411334,717,2153741,2023,3

@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,1,0,0,0,03/01/2023,away,16340,520,Ohio Wesleyan,9,True,0,8,-8,loss,2392542,987,2664942,2023,3
 0,1,1,0,0,0,2,1,0,0,03/09/2023,neutral,16340,276,Haverford,9,True,4,13,-9,loss,2394129,987,2664942,2023,3
 0,1,1,0,0,0,0,0,0,0,04/12/2023,home,16340,806,Wittenberg,9,True,7,27,-20,loss,2401660,987,2664942,2023,3
+0,1,1,0,0,0,0,0,0,0,04/30/2023,home,16340,28749,Transylvania,9,True,17,2,15,win,2410765,987,2664942,2023,3

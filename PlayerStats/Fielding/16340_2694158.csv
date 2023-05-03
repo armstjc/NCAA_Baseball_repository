@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/05/2023,neutral,16340,511,Norwich,9,True,12,5,7,win,2408084,258,2694158,2023,3
 0,1,1,0,0,0,0,1,0,0,03/21/2023,away,16340,30085,Lancaster Bible,9,True,14,13,1,win,2396865,258,2694158,2023,3
 0,0,0,0,0,0,1,1,0,0,04/08/2023,away,16340,453,Muhlenberg,9,True,7,8,-1,loss,2401010,258,2694158,2023,3
+0,1,1,0,0,0,0,0,0,0,04/29/2023,away,16340,322,Johns Hopkins,9,True,0,11,-11,loss,2404918,258,2694158,2023,3

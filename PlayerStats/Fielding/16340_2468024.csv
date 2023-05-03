@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,1,0,0,02/17/2023,home,16340,220,Fairfield,9,True,14,7,7,win,2390487,149,2468024,2023,1
 1,1,2,0,0,0,0,0,0,0,04/22/2023,home,16340,664,Southern Miss.,9,True,20,7,13,win,2403814,149,2468024,2023,1
+0,0,0,0,0,0,1,1,0,0,04/30/2023,away,16340,671,Louisiana,11,True,3,2,1,win,2405642,149,2468024,2023,1

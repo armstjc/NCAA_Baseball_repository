@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,3,1,0,0,04/07/2023,home,16340,1203,Mary Hardin-Baylor,9,True,1,6,-5,loss,2409941,271,2500604,2023,3
 0,0,0,0,0,0,1,0,0,0,04/15/2023,away,16340,1062,East Tex. Baptist,9,True,1,16,-15,loss,2402378,271,2500604,2023,3
 0,1,1,0,0,0,1,2,0,0,04/22/2023,home,16340,8490,LeTourneau,9,True,4,3,1,win,2403869,271,2500604,2023,3
+0,1,2,1,0,0,0,1,0,0,04/29/2023,away,16340,8530,McMurry,9,True,19,5,14,win,2405364,271,2500604,2023,3

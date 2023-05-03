@@ -22,3 +22,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,04/13/2023,away,16340,457,North Carolina,9,True,5,4,1,win,2401716,415,2680466,2023,1
 1,0,1,0,0,0,0,0,0,0,04/19/2023,away,16340,229,Fla. Atlantic,11,True,6,7,-1,loss,2403065,415,2680466,2023,1
 0,1,1,0,0,0,0,0,0,0,04/21/2023,home,16340,255,Georgia Tech,9,True,4,2,2,win,2403231,415,2680466,2023,1
+0,1,1,0,0,0,0,0,0,0,04/29/2023,away,16340,367,Louisville,9,True,10,7,3,win,2405279,415,2680466,2023,1

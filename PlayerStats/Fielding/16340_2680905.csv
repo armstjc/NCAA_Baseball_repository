@@ -1,4 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,04/02/2023,away,16340,364,Loras,9,True,14,17,-3,loss,2410296,84,2680905,2023,3
 0,1,1,0,0,0,0,0,0,0,04/18/2023,away,16340,126,Central (IA),9,True,3,1,2,win,2402897,84,2680905,2023,3
-0,0,0,0,0,0,1,0,0,0,04/23/2023,home,16340,372,Luther,9,True,4,5,-1,loss,2403651,84,2680905,2023,3
+0,0,0,0,0,0,1,0,0,0,04/23/2023,home,16340,372,Luther,9,True,4,6,-2,loss,2431386,84,2680905,2023,3
+0,0,0,0,0,0,2,0,0,0,04/30/2023,home,16340,641,Simpson,9,True,8,10,-2,loss,2405137,84,2680905,2023,3

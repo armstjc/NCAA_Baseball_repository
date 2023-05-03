@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,04/19/2023,away,16340,420,Middlebury,9,True,4,9,-5,loss,2403126,570,2528828,2023,3
 0,0,0,0,0,0,1,0,0,0,04/26/2023,away,16340,789,Williams,9,True,4,6,-2,loss,2404651,570,2528828,2023,3
+0,0,0,0,0,0,1,0,0,0,04/30/2023,home,16340,737,Vassar,9,True,8,5,3,win,2405618,570,2528828,2023,3

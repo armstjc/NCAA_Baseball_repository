@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/25/2023,home,16340,1096,Georgia College,9,True,3,12,-9,loss,2391890,30092,2800635,2023,2
 0,0,0,0,0,0,1,0,0,0,04/18/2023,home,16340,30244,Edward Waters,9,True,6,1,5,win,2402854,30092,2800635,2023,2
+0,0,0,0,0,0,2,0,0,0,04/30/2023,away,16340,1097,Ga. Southwestern,9,True,6,8,-2,loss,2405472,30092,2800635,2023,2

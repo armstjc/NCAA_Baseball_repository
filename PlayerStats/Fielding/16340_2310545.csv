@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,04/05/2023,away,16340,554,Princeton,9,True,12,10,2,win,2400106,635,2310545,2023,1
 0,1,1,0,0,0,0,0,0,0,04/19/2023,away,16340,748,Wagner,9,True,14,5,9,win,2403129,635,2310545,2023,1
+0,0,0,0,0,0,1,0,0,0,05/03/2023,home,16340,381,Manhattan,9,True,14,3,11,win,2405791,635,2310545,2023,1

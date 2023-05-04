@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,04/14/2023,home,16340,546,Pitt.-Johnstown,9,True,2,5,-3,loss,2410199,408,2658235,2023,2
 0,1,1,0,0,0,0,0,0,0,04/23/2023,away,16340,106,California (PA),9,True,9,2,7,win,2403611,408,2658235,2023,2
+0,1,1,0,0,0,0,0,0,0,04/29/2023,home,16340,307,Indiana (PA),9,True,4,3,1,win,2405096,408,2658235,2023,2

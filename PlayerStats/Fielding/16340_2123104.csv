@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,3,1,0,0,03/27/2023,neutral,16340,30222,Purdue Northwest,9,True,7,3,4,win,2397714,262,2123104,2023,2
 0,2,3,1,0,0,1,0,0,0,04/03/2023,home,16340,757,Wayne St. (MI),8,True,1,7,-6,loss,2398850,262,2123104,2023,2
 0,0,0,0,0,0,2,0,0,0,04/08/2023,away,16340,799,Wis.-Parkside,9,True,15,4,11,win,2401118,262,2123104,2023,2
+0,0,1,1,0,0,1,0,0,0,04/29/2023,home,16340,30221,Davenport,9,True,7,8,-1,loss,2411348,262,2123104,2023,2

@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/05/2023,away,16340,30045,Palm Beach Atl.,11,True,5,6,-1,loss,2393335,36,2525203,2023,2
 0,0,0,0,0,0,1,0,0,0,04/02/2023,away,16340,613,Saint Michael's,9,True,5,10,-5,loss,2410063,36,2525203,2023,2
+0,0,0,0,0,0,2,0,0,0,04/21/2023,away,16340,241,Franklin Pierce,11,True,5,6,-1,loss,2403377,36,2525203,2023,2
+1,0,1,0,0,0,0,0,0,0,05/01/2023,away,16340,22,American Int'l,9,True,9,11,-2,loss,2411136,36,2525203,2023,2

@@ -312,7 +312,7 @@ def ncaa_player_game_logs(player, season, variant, school=None, include_advanced
                'year_stat_category_id': str(year_stat_category_id)}
     url = 'https://stats.ncaa.org/player/game_by_game?'
     with Session() as s:
-        r = s.get(url, params=payload, headers=_HEADERS)
+        r = s.get(url, params=payload, headers=_HEADERS,timeout=15)
     soup = BeautifulSoup(r.text, features='lxml')
     table = soup.find_all('table')[3]
     if table is None:

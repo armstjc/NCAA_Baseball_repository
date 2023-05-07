@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/07/2023,home,16340,285,Holy Cross,9,True,9,2,7,win,2393783,48,2127951,2023,1
 1,1,2,0,0,0,1,0,0,0,03/14/2023,home,16340,328,Kansas,9,True,5,3,2,win,2395347,48,2127951,2023,1
+0,0,0,0,0,0,2,0,0,0,05/05/2023,away,16340,19651,High Point,9,True,2,7,-5,loss,2406175,48,2127951,2023,1

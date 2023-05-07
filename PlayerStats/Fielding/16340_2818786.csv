@@ -13,3 +13,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,1,3,0,0,0,0,0,1,0,04/02/2023,home,16340,645,Sonoma St.,9,True,13,3,10,win,2399558,93,2818786,2023,2
 0,1,1,0,0,0,0,0,0,0,04/08/2023,away,16340,98,Cal St. East Bay,9,True,9,4,5,win,2400904,93,2818786,2023,2
 1,2,3,0,0,0,0,0,1,0,04/15/2023,home,16340,30055,Cal St. Monterey Bay,9,True,6,14,-8,loss,2410214,93,2818786,2023,2
+2,7,9,0,0,0,0,0,0,0,04/25/2023,away,16340,100,Cal State LA,9,True,12,8,4,win,2429503,93,2818786,2023,2

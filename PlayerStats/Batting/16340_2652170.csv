@@ -1,4 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,02/04/2023,home,16340,2683,Belmont Abbey,9,True,1,5,-4,loss,2433466,1023,2652170,2023,2
 0,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/04/2023,home,16340,2683,Belmont Abbey,9,True,2,7,-5,loss,2389800,1023,2652170,2023,2
 0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,02/04/2023,home,16340,2683,Belmont Abbey,9,True,1,5,-4,loss,2408210,1023,2652170,2023,2
 0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/10/2023,away,16340,30192,Southern Wesleyan,9,True,3,2,1,win,2411844,1023,2652170,2023,2
@@ -25,3 +26,5 @@ R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,sea
 0,3,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,04/04/2023,away,16340,537,UNC Pembroke,9,True,5,10,-5,loss,2399835,1023,2652170,2023,2
 1,4,1,0,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,04/11/2023,away,16340,1085,Francis Marion,12,True,5,6,-1,loss,2401504,1023,2652170,2023,2
 1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,04/19/2023,home,16340,39,Augusta,9,True,15,6,9,win,2403177,1023,2652170,2023,2
+1,4,1,0,0,4,1,4,0,0,0,0,1,0,0,0,0,0,0,04/22/2023,home,16340,1000,Carson-Newman,9,True,17,4,13,win,2430669,1023,2652170,2023,2
+1,3,0,0,0,0,0,0,0,1,0,1,3,0,0,0,0,0,0,04/23/2023,home,16340,1000,Carson-Newman,9,True,9,7,2,win,2411387,1023,2652170,2023,2

@@ -30,3 +30,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 8,1,9,0,0,0,6,0,1,0,04/28/2023,home,16340,400,Massachusetts,9,True,5,7,-2,loss,2404864,596,2318762,2023,1
 4,2,6,0,0,0,0,1,0,0,04/29/2023,home,16340,400,Massachusetts,9,True,6,7,-1,loss,2431836,596,2318762,2023,1
 6,3,9,0,0,0,0,0,0,0,04/29/2023,home,16340,400,Massachusetts,9,True,7,5,2,win,2431959,596,2318762,2023,1
+8,0,8,0,0,0,1,0,0,0,05/05/2023,away,16340,575,Richmond,9,True,0,15,-15,loss,2406112,596,2318762,2023,1

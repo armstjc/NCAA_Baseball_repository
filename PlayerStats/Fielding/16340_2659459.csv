@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,1,0,0,0,04/14/2023,home,16340,30120,William Jewell,9,True,8,3,5,win,2428834,309,2659459,2023,2
 0,1,1,0,0,0,0,0,0,0,04/18/2023,away,16340,333,Ky. Wesleyan,9,True,8,14,-6,loss,2402888,309,2659459,2023,2
 1,0,2,1,0,0,1,0,0,0,04/23/2023,away,16340,2755,Southwest Baptist,9,True,7,4,3,win,2404121,309,2659459,2023,2
+0,1,1,0,0,0,0,0,0,0,04/29/2023,away,16340,1328,Rockhurst,9,True,8,6,2,win,2411309,309,2659459,2023,2

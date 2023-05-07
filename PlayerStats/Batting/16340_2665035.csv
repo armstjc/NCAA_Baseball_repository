@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2023,away,16340,8577,N.M. Highlands,9,True,15,8,7,win,2394695,206,2665035,2023,2
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/01/2023,home,16340,30028,UT Tyler,9,True,6,14,-8,loss,2399440,206,2665035,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/30/2023,home,16340,30177,Lubbock Christian,9,True,5,18,-13,loss,2405641,206,2665035,2023,2

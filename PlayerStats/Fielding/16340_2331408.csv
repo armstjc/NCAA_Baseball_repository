@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,03/28/2023,home,16340,1023,Coker,9,True,7,0,7,win,2398356,1245,2331408,2023,2
 0,1,1,0,0,0,0,0,0,0,04/01/2023,home,16340,9223,North Greenville,9,True,10,4,6,win,2410025,1245,2331408,2023,2
+0,1,1,0,0,0,0,1,0,0,04/29/2023,away,16340,537,UNC Pembroke,9,True,5,4,1,win,2405115,1245,2331408,2023,2

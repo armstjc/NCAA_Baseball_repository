@@ -1,6 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2.0,0.0,0,1,1,2,1,0,8,5,0,0,0,0,1,1,0,0,0,0,0,31,3,1,0,0,0,4,1,0,02/11/2023,away,16340,689,Tampa,9,True,2,14,-12,loss,2390110,561,2505077,2023,2
-1,0,1.0,0.0,2,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,19,1,1,0,0,0,2,0,0,02/14/2023,away,16340,608,Saint Leo,9,True,10,2,8,win,2390218,561,2505077,2023,2
 1,0,2.0,0.0,2,1,1,0,2,0,8,7,0,0,0,1,0,0,0,0,0,1,0,27,2,2,1,0,0,3,0,0,03/04/2023,home,16340,510,Northwood,9,True,9,8,1,win,2408476,561,2505077,2023,2
 1,0,1.1,0.0,3,2,2,1,1,0,9,6,1,0,0,0,2,1,0,0,0,0,1,44,0,3,0,0,0,2,0,0,03/10/2023,home,16340,41,Augustana (SD),9,True,7,2,5,win,2394317,561,2505077,2023,2
 1,0,1.0,0.0,1,1,1,1,0,0,5,3,0,1,0,0,0,0,0,0,0,0,1,21,2,1,0,0,0,2,0,0,03/26/2023,home,16340,499,Truman St.,9,True,20,7,13,win,2398125,561,2505077,2023,2

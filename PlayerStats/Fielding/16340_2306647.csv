@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,4,5,0,0,0,0,0,0,0,03/10/2023,away,16340,8577,N.M. Highlands,9,True,10,1,9,win,2394331,206,2306647,2023,2
 4,6,11,1,0,0,0,0,2,0,04/14/2023,home,16340,30179,Okla. Christian,9,True,22,21,1,win,2401930,206,2306647,2023,2
+1,0,1,0,0,0,0,0,0,0,04/28/2023,home,16340,30177,Lubbock Christian,9,True,13,17,-4,loss,2404932,206,2306647,2023,2

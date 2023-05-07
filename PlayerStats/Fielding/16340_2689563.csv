@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/30/2023,home,16340,30126,Notre Dame (OH),9,True,15,4,11,win,2398658,30141,2689563,2023,2
+0,2,2,0,0,0,0,0,1,0,04/30/2023,away,16340,510,Northwood,9,True,7,21,-14,loss,2432142,30141,2689563,2023,2
+0,1,1,0,0,0,0,0,0,0,05/02/2023,away,16340,643,Slippery Rock,9,True,16,0,16,win,2405760,30141,2689563,2023,2

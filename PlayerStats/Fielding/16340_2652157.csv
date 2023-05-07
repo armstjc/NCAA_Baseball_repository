@@ -1,5 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,2,4,0,0,0,0,0,2,0,02/03/2023,away,16340,2683,Belmont Abbey,10,True,9,10,-1,loss,2389726,1023,2652157,2023,2
+1,4,5,0,0,0,0,0,0,0,02/04/2023,home,16340,2683,Belmont Abbey,9,True,1,5,-4,loss,2433466,1023,2652157,2023,2
 1,7,8,0,0,0,0,0,1,0,02/04/2023,home,16340,2683,Belmont Abbey,9,True,2,7,-5,loss,2389800,1023,2652157,2023,2
 1,4,5,0,0,0,0,0,0,0,02/04/2023,home,16340,2683,Belmont Abbey,9,True,1,5,-4,loss,2408210,1023,2652157,2023,2
 2,4,6,0,0,0,0,0,0,0,02/07/2023,away,16340,1170,Lenoir-Rhyne,9,True,1,2,-1,loss,2389889,1023,2652157,2023,2
@@ -43,3 +44,6 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,2,3,0,0,0,0,0,0,0,04/11/2023,away,16340,1085,Francis Marion,12,True,5,6,-1,loss,2401504,1023,2652157,2023,2
 2,3,5,0,0,0,0,0,1,0,04/12/2023,away,16340,15646,Barton,9,True,13,7,6,win,2401558,1023,2652157,2023,2
 1,4,5,0,0,0,0,0,0,0,04/19/2023,home,16340,39,Augusta,9,True,15,6,9,win,2403177,1023,2652157,2023,2
+0,2,2,0,0,0,0,0,0,0,04/22/2023,home,16340,1000,Carson-Newman,9,True,17,4,13,win,2430669,1023,2652157,2023,2
+2,3,5,0,0,0,0,0,0,0,04/23/2023,home,16340,1000,Carson-Newman,9,True,9,7,2,win,2411387,1023,2652157,2023,2
+0,1,1,0,0,0,0,0,0,0,04/23/2023,home,16340,1000,Carson-Newman,9,True,3,4,-1,loss,2430672,1023,2652157,2023,2

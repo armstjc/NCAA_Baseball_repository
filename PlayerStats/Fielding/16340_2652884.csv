@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/05/2023,away,16340,659,Southern Ill.,9,True,4,7,-3,loss,2393616,519,2652884,2023,1
+0,2,2,0,0,0,0,0,0,0,05/05/2023,home,16340,47,Ball St.,9,True,3,5,-2,loss,2406001,519,2652884,2023,1

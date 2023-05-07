@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/14/2023,away,16340,608,Saint Leo,9,True,10,2,8,win,2390218,561,2664288,2023,2
 0,2,2,0,0,0,0,0,0,0,03/17/2023,home,16340,435,Missouri S&T,9,True,10,20,-10,loss,2425043,561,2664288,2023,2
+0,1,1,0,0,0,0,0,0,0,04/29/2023,home,16340,1057,Drury,9,True,17,0,17,win,2411008,561,2664288,2023,2

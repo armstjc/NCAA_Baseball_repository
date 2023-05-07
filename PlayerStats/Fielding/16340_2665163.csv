@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,1,0,0,0,03/04/2023,neutral,16340,30137,Malone,9,True,15,14,1,win,2412068,9081,2665163,2023,2
+3,2,6,1,0,0,0,0,0,0,04/26/2023,away,16340,615,St. Olaf,9,True,10,11,-1,loss,2401250,9081,2665163,2023,2
+2,2,5,1,0,0,0,0,0,0,04/30/2023,home,16340,41,Augustana (SD),9,True,3,9,-6,loss,2405612,9081,2665163,2023,2
+0,1,1,0,0,0,0,0,0,0,05/02/2023,home,16340,30128,Sioux Falls,9,True,7,10,-3,loss,2410814,9081,2665163,2023,2

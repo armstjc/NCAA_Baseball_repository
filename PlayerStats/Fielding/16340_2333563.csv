@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 11,0,11,0,0,0,0,0,1,0,03/06/2023,neutral,16340,8398,Hilbert,9,True,8,2,6,win,2393685,179,2333563,2023,3
 5,0,5,0,0,0,0,0,0,0,04/18/2023,home,16340,12399,Gwynedd Mercy,9,True,10,26,-16,loss,2402833,179,2333563,2023,3
+1,0,1,0,0,0,0,0,0,0,05/02/2023,home,16340,336,King's (PA),9,True,6,2,4,win,2432952,179,2333563,2023,3

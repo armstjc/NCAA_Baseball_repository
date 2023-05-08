@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,04/10/2023,away,16340,160,Concordia Chicago,9,True,8,32,-24,loss,2409192,8911,2354966,2023,3
+2,3,5,0,0,0,0,0,0,0,05/06/2023,home,16340,1164,Lakeland,9,True,8,3,5,win,2406372,8911,2354966,2023,3

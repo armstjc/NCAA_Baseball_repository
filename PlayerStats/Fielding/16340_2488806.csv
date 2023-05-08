@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,2,1,0,0,1,0,0,0,03/14/2023,neutral,16340,530,Oswego St.,9,True,4,9,-5,loss,2408555,787,2488806,2023,3
 2,0,2,0,0,0,0,1,0,0,04/14/2023,away,16340,589,Rutgers-Newark,9,True,21,7,14,win,2401908,787,2488806,2023,3
 1,0,1,0,0,0,0,1,0,0,04/22/2023,away,16340,588,Rutgers-Camden,9,True,21,13,8,win,2411149,787,2488806,2023,3
+0,1,1,0,0,0,0,0,0,0,05/01/2023,home,16340,319,New Jersey City,9,True,15,8,7,win,2431569,787,2488806,2023,3

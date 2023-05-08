@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,1,5,2,0,0,0,0,0,0,02/19/2023,neutral,16340,736,Vanderbilt,9,True,2,12,-10,loss,2390872,703,2817039,2023,1
 0,1,1,0,0,0,0,0,0,0,04/19/2023,home,16340,2,Abilene Christian,9,True,20,0,20,win,2403054,703,2817039,2023,1
 0,1,1,0,0,0,0,0,0,0,04/25/2023,home,16340,699,Texas Southern,9,True,18,3,15,win,2404330,703,2817039,2023,1
+1,2,3,0,0,0,0,0,1,0,05/01/2023,away,16340,698,TCU,9,True,7,15,-8,loss,2405016,703,2817039,2023,1

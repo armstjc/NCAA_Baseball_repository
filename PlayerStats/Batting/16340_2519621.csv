@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,03/15/2023,neutral,16340,764,Wesleyan (CT),9,True,16,5,11,win,2418255,38,2519621,2023,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/04/2023,away,16340,803,Wis.-Stout,9,True,4,14,-10,loss,2432195,38,2519621,2023,3

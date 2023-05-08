@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,1,0,04/08/2023,away,16340,21852,Stevenson,9,True,8,4,4,win,2400811,351,2337864,2023,3
+1,0,1,0,0,0,0,0,0,0,05/07/2023,home,16340,815,York (PA),9,True,5,4,1,win,2433027,351,2337864,2023,3

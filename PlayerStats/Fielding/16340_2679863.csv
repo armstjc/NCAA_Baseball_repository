@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/08/2023,neutral,16340,602,Saint John's (MN),9,True,6,11,-5,loss,2394029,1315,2679863,2023,3
 0,1,1,0,0,0,1,0,1,0,04/04/2023,away,16340,1451,Westminster (PA),9,True,5,10,-5,loss,2410333,1315,2679863,2023,3
+0,0,0,0,0,0,1,0,0,0,05/02/2023,away,16340,12973,Wilson,9,True,1,7,-6,loss,2431056,1315,2679863,2023,3

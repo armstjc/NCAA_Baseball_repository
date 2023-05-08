@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,0,4,0,0,0,0,0,0,0,03/17/2023,neutral,16340,787,Wm. Paterson,9,True,4,13,-9,loss,2395940,583,2667826,2023,3
 3,0,3,0,0,0,0,0,0,0,03/21/2023,home,16340,571,Rhode Island Col.,9,True,2,5,-3,loss,2396974,583,2667826,2023,3
+4,0,4,0,0,0,0,0,0,0,05/04/2023,away,16340,656,UMass Dartmouth,9,True,30,3,27,win,2405959,583,2667826,2023,3

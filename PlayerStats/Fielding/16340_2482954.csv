@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-3,0,4,1,0,0,0,0,0,0,02/18/2023,neutral,16340,64,Blackburn,9,True,17,1,16,win,2390578,192,2482954,2023,3
 1,0,1,0,0,0,0,0,0,0,02/18/2023,neutral,16340,577,Ripon,9,True,6,5,1,win,2390580,192,2482954,2023,3
+3,0,4,1,0,0,0,0,0,0,02/18/2023,neutral,16340,64,Blackburn,9,True,17,1,16,win,2390578,192,2482954,2023,3
 4,0,4,0,0,0,0,0,0,0,02/27/2023,neutral,16340,15,Albion,9,True,5,4,1,win,2392314,192,2482954,2023,3
 1,0,1,0,0,0,0,0,0,0,02/28/2023,neutral,16340,612,Saint Mary's (MN),9,True,11,2,9,win,2392372,192,2482954,2023,3
 0,2,2,0,0,0,0,0,2,0,03/01/2023,neutral,16340,321,John Jay,9,True,12,0,12,win,2392509,192,2482954,2023,3
@@ -28,3 +28,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,1,2,0,0,0,0,0,0,0,04/23/2023,home,16340,750,Wartburg,9,True,7,4,3,win,2403861,192,2482954,2023,3
 1,1,2,0,0,0,0,0,0,0,04/23/2023,home,16340,750,Wartburg,9,True,15,3,12,win,2411490,192,2482954,2023,3
 2,0,2,0,0,0,0,0,0,0,04/27/2023,away,16340,496,North Park,9,True,8,6,2,win,2404705,192,2482954,2023,3
+2,0,2,0,0,0,0,0,0,0,04/30/2023,home,16340,755,WashU,9,True,12,1,11,win,2405544,192,2482954,2023,3

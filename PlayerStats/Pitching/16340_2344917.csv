@@ -1,4 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,3.0,0.0,0,0,0,0,4,0,9,9,0,0,0,0,0,0,0,0,0,0,0,36,2,3,0,0,0,1,2,0,03/10/2023,away,16340,626,San Diego St.,9,True,3,5,-2,loss,2433585,630,2344917,2023,1
 1,1,5.0,0.0,4,5,5,3,4,0,23,19,1,0,0,1,1,1,0,0,0,0,0,95,8,3,0,0,0,1,2,0,04/01/2023,away,16340,466,Nevada,9,True,7,6,1,win,2399044,630,2344917,2023,1
 1,1,8.0,0.0,7,3,2,2,6,0,34,30,0,0,0,1,1,2,0,0,0,0,0,115,7,10,1,0,0,1,2,0,04/07/2023,away,16340,473,New Mexico,9,True,8,3,5,win,2400394,630,2344917,2023,1
 1,1,7.1,0.0,4,3,3,2,5,0,29,26,0,0,0,1,0,1,0,0,0,0,0,100,5,12,0,1,0,1,2,0,04/22/2023,away,16340,96,Fresno St.,9,True,1,4,-3,loss,2403979,630,2344917,2023,1

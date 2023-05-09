@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2023,home,16340,1454,Whitworth,9,True,11,4,7,win,2390274,567,2806819,2023,3
 0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/29/2023,away,16340,516,Occidental,9,True,14,1,13,win,2410983,567,2806819,2023,3
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/05/2023,away,16340,89,Caltech,9,True,15,2,13,win,2406030,567,2806819,2023,3

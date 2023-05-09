@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,04/02/2023,away,16340,1164,Lakeland,9,True,17,1,16,win,2410058,30172,2671982,2023,3
+1,0,2,1,0,0,0,0,0,0,05/06/2023,away,16340,1066,Edgewood,9,True,5,17,-12,loss,2411566,30172,2671982,2023,3
+5,0,5,0,0,0,0,0,0,0,05/07/2023,away,16340,8911,Wis. Lutheran,9,True,17,11,6,win,2411707,30172,2671982,2023,3

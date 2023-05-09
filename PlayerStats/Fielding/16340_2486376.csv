@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/07/2023,away,16340,120,Carroll (WI),9,True,8,9,-1,loss,2393792,1036,2486376,2023,3
 0,1,1,0,0,0,0,0,0,0,03/13/2023,neutral,16340,38,Augsburg,9,True,11,5,6,win,2417810,1036,2486376,2023,3
 0,0,0,0,0,0,1,0,0,0,04/15/2023,home,16340,1332,Dominican (IL),9,True,2,5,-3,loss,2402128,1036,2486376,2023,3
+0,0,0,0,0,0,1,0,0,0,05/02/2023,away,16340,160,Concordia Chicago,9,True,1,7,-6,loss,2432957,1036,2486376,2023,3

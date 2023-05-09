@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,1,0,0,03/07/2023,neutral,16340,656,UMass Dartmouth,9,True,11,12,-1,loss,2393829,25719,2507809,2023,3
 0,0,0,0,0,0,1,0,0,0,04/25/2023,home,16340,30190,Penn College,9,True,8,10,-2,loss,2404379,25719,2507809,2023,3
 0,0,0,0,0,0,1,0,0,0,04/29/2023,neutral,16340,538,Penn St.-Behrend,9,True,7,9,-2,loss,2411343,25719,2507809,2023,3
+0,1,1,0,0,0,0,0,0,0,05/07/2023,away,16340,30036,Mount Aloysius,9,True,10,4,6,win,2433847,25719,2507809,2023,3

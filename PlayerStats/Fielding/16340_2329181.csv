@@ -7,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/08/2023,home,16340,724,Merchant Marine,9,True,10,3,7,win,2410588,20,2329181,2023,3
 0,0,0,0,0,0,1,0,0,0,04/12/2023,away,16340,443,Moravian,9,True,12,5,7,win,2401650,20,2329181,2023,3
 0,0,1,1,0,0,0,0,0,0,04/19/2023,home,16340,453,Muhlenberg,9,True,20,15,5,win,2403169,20,2329181,2023,3
+0,1,1,0,0,0,1,0,0,0,05/07/2023,away,16340,16142,Misericordia,9,True,5,13,-8,loss,2432830,20,2329181,2023,3

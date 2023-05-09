@@ -1,8 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,0,5,0,0,0,0,0,0,0,03/13/2023,neutral,16340,641,Simpson,9,True,5,10,-5,loss,2395260,53,2362082,2023,3
 1,0,1,0,0,0,0,0,0,0,03/14/2023,neutral,16340,30165,SUNY Canton,9,True,14,2,12,win,2395365,53,2362082,2023,3
-1,0,1,0,0,0,0,0,0,0,03/16/2023,neutral,16340,24,Amherst,9,True,1,13,-12,loss,2395751,53,2362082,2023,3
 2,0,2,0,0,0,0,0,0,0,03/16/2023,neutral,16340,126,Central (IA),9,True,19,2,17,win,2395748,53,2362082,2023,3
+1,0,1,0,0,0,0,0,0,0,03/16/2023,neutral,16340,24,Amherst,9,True,1,13,-12,loss,2395751,53,2362082,2023,3
 2,0,3,1,0,0,0,0,0,0,03/17/2023,neutral,16340,526,SUNY Oneonta,9,True,7,14,-7,loss,2395877,53,2362082,2023,3
 3,0,3,0,0,0,0,0,0,0,03/27/2023,home,16340,264,Grinnell,9,True,7,5,2,win,2426465,53,2362082,2023,3
 2,0,2,0,0,0,0,0,0,0,03/28/2023,home,16340,264,Grinnell,9,True,11,1,10,win,2397652,53,2362082,2023,3
@@ -25,3 +25,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,04/29/2023,home,16340,166,Cornell College,9,True,15,2,13,win,2405111,53,2362082,2023,3
 2,0,2,0,0,0,0,0,0,0,04/29/2023,home,16340,166,Cornell College,9,True,10,8,2,win,2410866,53,2362082,2023,3
 2,0,2,0,0,0,0,0,0,0,04/30/2023,away,16340,166,Cornell College,9,True,7,8,-1,loss,2405526,53,2362082,2023,3
+1,0,1,0,0,0,0,0,0,0,05/06/2023,home,16340,297,Illinois Col.,9,True,16,1,15,win,2406284,53,2362082,2023,3
+1,0,1,0,0,0,0,0,0,0,05/07/2023,home,16340,297,Illinois Col.,9,True,14,5,9,win,2406521,53,2362082,2023,3

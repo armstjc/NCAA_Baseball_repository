@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,1,1,0,0,0,0,0,0,03/02/2023,neutral,16340,30039,North Central (MN),8,True,10,6,4,win,2408301,268,2525966,2023,3
 1,1,2,0,0,0,0,0,1,0,03/18/2023,neutral,16340,567,Redlands,10,True,9,10,-1,loss,2424686,268,2525966,2023,3
 0,0,1,1,0,0,1,1,0,0,04/13/2023,home,16340,793,Wis.-Eau Claire,9,True,2,13,-11,loss,2401712,268,2525966,2023,3
+0,0,0,0,0,0,1,0,0,0,05/01/2023,home,16340,118,Carleton,9,True,5,12,-7,loss,2411307,268,2525966,2023,3

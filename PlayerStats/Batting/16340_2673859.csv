@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/03/2023,neutral,16340,426,Millsaps,9,True,8,13,-5,loss,2392699,269,2673859,2023,3
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/05/2023,neutral,16340,420,Middlebury,9,True,0,13,-13,loss,2393541,269,2673859,2023,3
+1,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,05/01/2023,away,16340,75,Bridgewater (VA),9,True,14,9,5,win,2411692,269,2673859,2023,3

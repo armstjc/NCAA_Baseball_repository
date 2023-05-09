@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/11/2023,neutral,16340,268,Hamline,9,True,3,1,2,win,2418522,1390,2128246,2023,3
 0,0,0,0,0,0,1,0,0,0,03/28/2023,away,16340,30088,Tex. Permian Basin,9,True,5,15,-10,loss,2398426,1390,2128246,2023,3
+0,0,0,0,0,0,2,0,0,0,05/04/2023,neutral,16340,8490,LeTourneau,9,True,9,17,-8,loss,2433419,1390,2128246,2023,3

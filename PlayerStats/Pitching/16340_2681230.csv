@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,6.0,0.0,3,0,0,3,5,0,21,17,1,0,0,0,0,1,0,0,0,0,0,79,6,3,1,0,0,1,2,2,02/25/2023,home,16340,30165,SUNY Canton,9,True,15,1,14,win,2391917,245,2681230,2023,3
 1,1,7.0,0.0,7,5,2,3,5,0,31,27,1,1,1,0,0,1,0,0,0,0,0,114,5,7,0,0,0,1,2,1,03/05/2023,home,16340,336,King's (PA),8,True,5,6,-1,loss,2393529,245,2681230,2023,3
+1,1,4.2,0.0,12,13,10,5,3,0,34,28,3,1,0,0,1,1,0,0,0,0,0,115,3,8,0,1,0,1,0,0,05/06/2023,away,16340,611,St. Mary's (MD),9,True,0,13,-13,loss,2411196,245,2681230,2023,3

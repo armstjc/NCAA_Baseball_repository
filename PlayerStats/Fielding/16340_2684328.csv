@@ -29,3 +29,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,0,2,0,0,0,0,0,0,0,04/27/2023,home,16340,589,Rutgers-Newark,9,True,4,2,2,win,2404708,319,2684328,2023,3
 1,0,1,0,0,0,0,0,0,0,04/28/2023,away,16340,589,Rutgers-Newark,9,True,2,3,-1,loss,2404906,319,2684328,2023,3
 1,0,2,1,0,0,0,0,0,0,04/30/2023,away,16340,787,Wm. Paterson,9,True,3,9,-6,loss,2431568,319,2684328,2023,3
+1,0,1,0,0,0,0,0,0,0,05/01/2023,away,16340,787,Wm. Paterson,9,True,8,15,-7,loss,2431569,319,2684328,2023,3

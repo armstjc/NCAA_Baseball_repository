@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,1,0,0,0,02/28/2023,neutral,16340,443,Moravian,9,True,4,2,2,win,2392399,20220,2517813,2023,3
 0,1,1,0,0,0,0,0,0,0,03/02/2023,neutral,16340,192,Dubuque,9,True,4,11,-7,loss,2392584,20220,2517813,2023,3
 1,0,1,0,0,0,0,0,0,0,04/08/2023,home,16340,1036,Concordia Wisconsin,9,True,9,14,-5,loss,2409971,20220,2517813,2023,3
+0,1,1,0,0,0,0,0,0,0,05/06/2023,away,16340,614,St. Norbert,10,True,5,4,1,win,2406358,20220,2517813,2023,3

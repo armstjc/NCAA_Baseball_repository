@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/14/2023,neutral,16340,120,Carroll (WI),9,True,20,3,17,win,2395402,23260,2681479,2023,3
 0,0,0,0,0,0,1,0,0,0,03/19/2023,neutral,16340,800,Wis.-Platteville,9,True,3,9,-6,loss,2396623,23260,2681479,2023,3
+0,0,0,0,0,0,1,0,0,0,05/07/2023,away,16340,11538,Fontbonne,9,True,15,4,11,win,2406626,23260,2681479,2023,3

@@ -1,5 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,3,0,0,0,0,0,0,0,03/04/2023,away,16340,953,Austin,9,True,4,6,-2,loss,2392949,64,2660412,2023,3
+2,0,4,2,0,0,0,0,0,0,03/11/2023,away,16340,1044,Dallas,9,True,7,13,-6,loss,2394600,64,2660412,2023,3
 0,2,2,0,0,0,0,0,0,0,03/15/2023,away,16340,297,Illinois Col.,9,True,3,10,-7,loss,2408505,64,2660412,2023,3
 0,4,4,0,0,0,0,0,0,0,03/28/2023,away,16340,1450,Westminster (MO),9,True,2,12,-10,loss,2408975,64,2660412,2023,3
 2,0,3,1,0,0,0,0,0,0,04/02/2023,home,16340,759,Webster,9,True,8,20,-12,loss,2399380,64,2660412,2023,3

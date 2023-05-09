@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,04/23/2023,away,16340,30092,Flagler,9,True,4,29,-25,loss,2404092,30058,2690039,2023,2
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,04/29/2023,away,16340,30052,North Georgia,9,True,3,16,-13,loss,2405291,30058,2690039,2023,2
+0,2,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,04/30/2023,away,16340,30052,North Georgia,9,True,2,8,-6,loss,2405716,30058,2690039,2023,2

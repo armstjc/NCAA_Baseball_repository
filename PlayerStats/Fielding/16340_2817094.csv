@@ -32,3 +32,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 6,0,6,0,0,0,0,0,0,0,04/27/2023,away,16340,1203,Mary Hardin-Baylor,10,True,7,8,-1,loss,2431447,1390,2817094,2023,3
 2,0,2,0,0,0,0,0,0,0,04/28/2023,away,16340,1203,Mary Hardin-Baylor,9,True,13,4,9,win,2405336,1390,2817094,2023,3
 3,0,3,0,0,0,0,0,0,0,04/28/2023,away,16340,1203,Mary Hardin-Baylor,9,True,15,4,11,win,2411338,1390,2817094,2023,3
+2,0,2,0,0,0,0,0,0,0,05/04/2023,neutral,16340,271,Hardin-Simmons,9,True,2,3,-1,loss,2432176,1390,2817094,2023,3
+3,0,4,1,0,0,0,0,0,0,05/04/2023,neutral,16340,8490,LeTourneau,9,True,9,17,-8,loss,2433419,1390,2817094,2023,3

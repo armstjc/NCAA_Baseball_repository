@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/26/2023,home,16340,414,Miami (OH),9,True,14,9,5,win,2391911,487,2459280,2023,1
 1,0,2,1,0,0,1,0,0,0,04/11/2023,away,16340,736,Vanderbilt,9,True,2,14,-12,loss,2401316,487,2459280,2023,1
+0,0,0,0,0,0,1,0,0,0,05/06/2023,home,16340,2711,North Florida,9,True,3,9,-6,loss,2406463,487,2459280,2023,1

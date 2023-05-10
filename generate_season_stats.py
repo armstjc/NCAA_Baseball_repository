@@ -23,7 +23,7 @@ def generate_league_batting_stats():
 
     main_df['G'] = 1
     finished_df = pd.DataFrame(main_df.groupby(['season','season_id','division'],as_index=False)\
-        ['G','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP'].sum())
+        [['G','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP']].sum())
     
     ## Runs Created (Technical version)
     finished_df['RC'] = ((finished_df['H'] + finished_df['BB'] - finished_df['CS'] + finished_df['HBP'] - finished_df['GDP']) * (finished_df['TB'] + (0.26 * (finished_df['BB'] - finished_df['IBB'] + finished_df['HBP']))) + (0.52 * (finished_df['SH'] + finished_df['SF'] + finished_df['SB']))) / (finished_df['AB'] + finished_df['BB'] + finished_df['HBP'] + finished_df['SH'] + finished_df['SF'])
@@ -131,9 +131,9 @@ def generate_league_pitching_stats():
     # print(main_df.dtypes)
 
     finished_df = pd.DataFrame(main_df.groupby(['season','season_id','division'],as_index=False)\
-        ['App','GS','W','L','SV','CG','SHO','IP','H','R','ER','2B-A','3B-A','HR-A',\
+        [['App','GS','W','L','SV','CG','SHO','IP','H','R','ER','2B-A','3B-A','HR-A',\
          'BB','IBB','SO','HB','Bk','WP','BF','P-OAB','Inh Run','Inh Run Score','SHA'\
-            ,'SFA','GO','FO','KL','pickoffs'].sum())
+            ,'SFA','GO','FO','KL','pickoffs']].sum())
     
     # finished_df['PI'] = finished_df['Pitches']
     # finished_df = finished_df.drop(['Pitches'], axis=1)
@@ -183,18 +183,18 @@ def generate_league_pitching_stats():
 def generate_park_factors(season:int):
     """
     """
-    main_df = pd.read_parquet(f'game_stats/team/batting_game_stats/parquet/{season}_batting.parquet')
+    main_df = pd.read_parquet(f'game_stats/player/batting_game_stats/parquet/{season}_batting.parquet')
     main_df['G'] = 1
 
     home_gm_df = main_df[main_df['field'] == 'home']
     away_gm_df = main_df[main_df['field'] != 'home']
 
     home_gm_df = pd.DataFrame(home_gm_df.groupby(['season','season_id','school_id','division'],as_index=False)\
-        ['runs_scored','runs_allowed','G','AB','H','2B','3B','HR','BB','K'].sum())
+        [['runs_scored','runs_allowed','G','AB','H','2B','3B','HR','BB','K']].sum())
     home_gm_df = home_gm_df.rename({'runs_scored':'home_runs_scored','runs_allowed':'home_runs_allowed','G':'home_G','AB':'home_AB','R':'home_R','2B':'home_2B','3B':'home_3B','HR':'home_HR','BB':'home_BB','K':'home_K'},axis=1)
     
     away_gm_df = pd.DataFrame(away_gm_df.groupby(['season','season_id','school_id','division'],as_index=False)\
-        ['runs_scored','runs_allowed','G','AB','H','2B','3B','HR','BB','K'].sum())
+        [['runs_scored','runs_allowed','G','AB','H','2B','3B','HR','BB','K']].sum())
     away_gm_df = away_gm_df.rename({'runs_scored':'away_runs_scored','runs_allowed':'away_runs_allowed','G':'away_G','AB':'away_AB','R':'away_R','2B':'away_2B','3B':'away_3B','HR':'away_HR','BB':'away_BB','K':'away_K'},axis=1)
 
     finished_df = pd.merge(home_gm_df,away_gm_df,left_on=['season','season_id','school_id','division'],right_on=['season','season_id','school_id','division'],how='left')
@@ -227,7 +227,7 @@ def generate_season_player_batting_stats(season:int):
         lg_slg = league_df['SLG'].iloc[0]
         main_df['G'] = 1
         main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','stats_player_seq','division'],as_index=False)\
-            ['G','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP'].sum())
+            [['G','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP']].sum())
 
         ## Runs Created (Technical version)
         main_df['RC'] = ((main_df['H'] + main_df['BB'] - main_df['CS'] + main_df['HBP'] - main_df['GDP']) * (main_df['TB'] + (0.26 * (main_df['BB'] - main_df['IBB'] + main_df['HBP']))) + (0.52 * (main_df['SH'] + main_df['SF'] + main_df['SB']))) / (main_df['AB'] + main_df['BB'] + main_df['HBP'] + main_df['SH'] + main_df['SF'])
@@ -348,7 +348,7 @@ def generate_season_player_pitching_stats(season:int):
         main_df = main_df.astype({'whole_innings':'int','part_innings':'int'})
         main_df['IP'] = main_df['whole_innings'] + (main_df['part_innings']/3)
         main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','stats_player_seq','division'],as_index=False)\
-            ['App','GS','W','L','SV','CG','SHO','IP','H','R','ER','2B-A','3B-A','HR-A','BB','IBB','SO','HB','Bk','WP','BF','P-OAB','Inh Run','Inh Run Score','SHA','SFA','GO','FO','KL','pickoffs'].sum())
+            [['App','GS','W','L','SV','CG','SHO','IP','H','R','ER','2B-A','3B-A','HR-A','BB','IBB','SO','HB','Bk','WP','BF','P-OAB','Inh Run','Inh Run Score','SHA','SFA','GO','FO','KL','pickoffs']].sum())
 
         # main_df['PI'] = main_df['Pitches']
         # main_df = main_df.drop(['Pitches'], axis=1)
@@ -424,7 +424,7 @@ def generate_season_player_fielding_stats(season:int):
     main_df = pd.concat([main_df,part_df],ignore_index=True)
     
     finished_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','stats_player_seq','division'],as_index=False)\
-        ['TC','PO','A','E','CI','PB','SBA','CSB','IDP','TP'].sum())
+        [['TC','PO','A','E','CI','PB','SBA','CSB','IDP','TP']].sum())
     ## Fielding Percentage
     finished_df['FLD%'] = (finished_df['PO'] + finished_df['A']) / (finished_df['PO'] + finished_df['A'] + finished_df['E'])
     ## Caught Stealing Percentage
@@ -457,7 +457,7 @@ def generate_season_team_batting_stats(season:int):
 
         main_df['G'] = 1
         main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division'],as_index=False)\
-            ['G','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP'].sum())
+            [['G','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP']].sum())
 
         ## Runs Created (Technical version)
         main_df['RC'] = ((main_df['H'] + main_df['BB'] - main_df['CS'] + main_df['HBP'] - main_df['GDP']) * (main_df['TB'] + (0.26 * (main_df['BB'] - main_df['IBB'] + main_df['HBP']))) + (0.52 * (main_df['SH'] + main_df['SF'] + main_df['SB']))) / (main_df['AB'] + main_df['BB'] + main_df['HBP'] + main_df['SH'] + main_df['SF'])
@@ -576,7 +576,7 @@ def generate_season_team_pitching_stats(season:int):
         main_df = main_df.astype({'whole_innings':'int','part_innings':'int'})
         main_df['IP'] = main_df['whole_innings'] + (main_df['part_innings']/3)
         main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division'],as_index=False)\
-            ['App','GS','W','L','SV','CG','SHO','IP','H','R','ER','2B-A','3B-A','HR-A','BB','IBB','SO','HB','Bk','WP','BF','P-OAB','Inh Run','Inh Run Score','SHA','SFA','GO','FO','KL','pickoffs'].sum())
+            [['App','GS','W','L','SV','CG','SHO','IP','H','R','ER','2B-A','3B-A','HR-A','BB','IBB','SO','HB','Bk','WP','BF','P-OAB','Inh Run','Inh Run Score','SHA','SFA','GO','FO','KL','pickoffs']].sum())
 
         park_factors_df = pd.read_parquet(f'season_stats/league/park_factors/parquet/{season}_park_factors.parquet')
         park_factors_df = park_factors_df.filter(items=['school_id','PF'])
@@ -647,7 +647,7 @@ def generate_season_team_fielding_stats(season:int):
     main_df = pd.concat([main_df,part_df],ignore_index=True)
     
     finished_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division'],as_index=False)\
-        ['TC','PO','A','E','CI','PB','SBA','CSB','IDP','TP'].sum())
+        [['TC','PO','A','E','CI','PB','SBA','CSB','IDP','TP']].sum())
     ## Fielding Percentage
     finished_df['FLD%'] = (finished_df['PO'] + finished_df['A']) / (finished_df['PO'] + finished_df['A'] + finished_df['E'])
     ## Caught Stealing Percentage
@@ -681,7 +681,7 @@ def generate_team_game_batting_stats(season:int):
 
         main_df['G'] = 1
         main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','field','opponent_id','opponent_name','runs_scored','runs_allowed'],as_index=False)\
-            ['AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP'].sum())
+            [['AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP']].sum())
 
         ## Runs Created (Technical version)
         main_df['RC'] = ((main_df['H'] + main_df['BB'] - main_df['CS'] + main_df['HBP'] - main_df['GDP']) * (main_df['TB'] + (0.26 * (main_df['BB'] - main_df['IBB'] + main_df['HBP']))) + (0.52 * (main_df['SH'] + main_df['SF'] + main_df['SB']))) / (main_df['AB'] + main_df['BB'] + main_df['HBP'] + main_df['SH'] + main_df['SF'])
@@ -800,7 +800,7 @@ def generate_team_game_pitching_stats(season:int):
         main_df = main_df.astype({'whole_innings':'int','part_innings':'int'})
         main_df['IP'] = main_df['whole_innings'] + (main_df['part_innings']/3)
         main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','field','opponent_id','opponent_name','runs_scored','runs_allowed'],as_index=False)\
-            ['W','L','SV','CG','SHO','IP','H','R','ER','2B-A','3B-A','HR-A','BB','IBB','SO','HB','Bk','WP','BF','P-OAB','Inh Run','Inh Run Score','SHA','SFA','GO','FO','KL','pickoffs'].sum())
+            [['W','L','SV','CG','SHO','IP','H','R','ER','2B-A','3B-A','HR-A','BB','IBB','SO','HB','Bk','WP','BF','P-OAB','Inh Run','Inh Run Score','SHA','SFA','GO','FO','KL','pickoffs']].sum())
 
         park_factors_df = pd.read_parquet(f'season_stats/league/park_factors/parquet/{season}_park_factors.parquet')
         park_factors_df = park_factors_df.filter(items=['school_id','PF'])
@@ -871,7 +871,7 @@ def generate_team_game_fielding_stats(season:int):
     main_df = pd.concat([main_df,part_df],ignore_index=True)
     
     finished_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','field','opponent_id','opponent_name','runs_scored','runs_allowed'],as_index=False)\
-        ['TC','PO','A','E','CI','PB','SBA','CSB','IDP','TP'].sum())
+        [['TC','PO','A','E','CI','PB','SBA','CSB','IDP','TP']].sum())
     ## Fielding Percentage
     finished_df['FLD%'] = (finished_df['PO'] + finished_df['A']) / (finished_df['PO'] + finished_df['A'] + finished_df['E'])
     ## Caught Stealing Percentage
@@ -908,3 +908,6 @@ if __name__ == "__main__":
             generate_season_team_fielding_stats(i)
             generate_season_player_fielding_stats(i)
 
+    # generate_team_game_batting_stats(2020)
+    # generate_team_game_pitching_stats(2020)
+    # generate_team_game_fielding_stats(2020)

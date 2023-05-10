@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,03/21/2023,away,16340,0,Penn St.-Du Bois,9,True,4,7,-3,loss,2429846,213,2658154,2023,3
 0,0,0,0,0,0,1,0,0,0,04/18/2023,home,16340,373,Lycoming,9,True,0,4,-4,loss,2429226,213,2658154,2023,3
+0,0,0,0,0,0,2,0,0,0,05/04/2023,home,16340,601,St. John Fisher,9,True,4,12,-8,loss,2405470,213,2658154,2023,3
+0,0,0,0,0,0,1,0,0,0,05/07/2023,away,16340,1159,Keuka,9,True,1,11,-10,loss,2406642,213,2658154,2023,3

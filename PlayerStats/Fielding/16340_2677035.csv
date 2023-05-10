@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/25/2023,home,16340,432,Mississippi Val.,9,True,6,4,2,win,2398011,61,2677035,2023,1
 0,0,0,0,0,0,2,1,0,0,03/26/2023,home,16340,432,Mississippi Val.,9,True,12,8,4,win,2398280,61,2677035,2023,1
 1,1,2,0,0,0,0,1,0,0,03/31/2023,home,16340,228,Florida A&M,9,True,5,7,-2,loss,2399032,61,2677035,2023,1
+1,0,1,0,0,0,1,0,0,0,05/07/2023,away,16340,6,Alabama A&M,9,True,14,9,5,win,2406668,61,2677035,2023,1

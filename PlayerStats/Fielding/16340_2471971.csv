@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/21/2023,home,16340,624,Sam Houston,9,True,7,6,1,win,2397071,51,2471971,2023,1
 0,2,3,1,0,0,0,0,0,0,04/29/2023,home,16340,768,West Virginia,9,True,0,10,-10,loss,2405392,51,2471971,2023,1
 0,1,1,0,0,0,0,1,0,0,05/02/2023,away,16340,2,Abilene Christian,9,True,8,9,-1,loss,2405883,51,2471971,2023,1
+0,0,0,0,0,0,2,0,0,0,05/09/2023,home,16340,1104,Grand Canyon,9,True,2,4,-2,loss,2406769,51,2471971,2023,1

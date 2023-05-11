@@ -19,3 +19,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,05/02/2023,home,16340,367,Louisville,9,True,7,18,-11,loss,2405872,52,2818748,2023,1
 0,1,1,0,0,0,0,0,0,0,05/05/2023,away,16340,316,Jacksonville,9,True,3,8,-5,loss,2406231,52,2818748,2023,1
 6,2,8,0,0,0,0,0,1,0,05/06/2023,away,16340,316,Jacksonville,9,True,4,9,-5,loss,2406503,52,2818748,2023,1
+1,2,4,1,0,0,0,0,0,0,05/07/2023,away,16340,316,Jacksonville,9,True,1,9,-8,loss,2406651,52,2818748,2023,1

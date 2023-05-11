@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/10/2023,away,16340,1170,Lenoir-Rhyne,9,True,5,9,-4,loss,2417944,30050,2138698,2023,2
 1,0,1,0,0,0,1,0,0,0,04/02/2023,home,16340,561,Quincy,9,True,1,10,-9,loss,2409021,30050,2138698,2023,2
+1,0,1,0,0,0,0,0,0,0,05/06/2023,away,16340,436,Mo.-St. Louis,9,True,11,4,7,win,2406106,30050,2138698,2023,2
+1,0,1,0,0,0,0,0,0,0,05/06/2023,away,16340,436,Mo.-St. Louis,9,True,14,4,10,win,2406336,30050,2138698,2023,2

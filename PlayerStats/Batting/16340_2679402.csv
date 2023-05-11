@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,04/11/2023,home,16340,630,San Jose St.,9,True,12,2,10,win,2424936,104,2679402,2023,1
 0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/16/2023,home,16340,109,UC Irvine,9,True,1,13,-12,loss,2402770,104,2679402,2023,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/07/2023,away,16340,111,UC Riverside,9,True,18,4,14,win,2406661,104,2679402,2023,1

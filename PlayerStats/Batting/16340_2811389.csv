@@ -1,7 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/02/2023,away,16340,30045,Palm Beach Atl.,10,True,6,7,-1,loss,2389638,347,2811389,2023,2
-0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/03/2023,away,16340,24639,Nova Southeastern,9,True,2,8,-6,loss,2389675,347,2811389,2023,2
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/03/2023,away,16340,49,Barry,9,True,0,16,-16,loss,2389672,347,2811389,2023,2
+0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/03/2023,away,16340,24639,Nova Southeastern,9,True,2,8,-6,loss,2389675,347,2811389,2023,2
 2,4,2,2,0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,02/11/2023,neutral,16340,1289,Ouachita Baptist,9,True,2,9,-7,loss,2390157,347,2811389,2023,2
 0,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/11/2023,neutral,16340,1376,Southern Ark.,9,True,0,26,-26,loss,2390031,347,2811389,2023,2
 1,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/12/2023,away,16340,1123,Henderson St.,9,True,1,12,-11,loss,2417948,347,2811389,2023,2

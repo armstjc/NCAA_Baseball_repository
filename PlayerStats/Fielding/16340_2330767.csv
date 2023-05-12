@@ -9,3 +9,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,1,1,0,0,04/05/2023,home,16340,30154,Young Harris,9,True,9,5,4,win,2400171,9223,2330767,2023,2
 0,0,0,0,0,0,1,1,0,0,04/24/2023,away,16340,1001,Catawba,9,True,10,6,4,win,2404295,9223,2330767,2023,2
 0,1,1,0,0,0,0,0,1,0,04/29/2023,home,16340,30192,Southern Wesleyan,9,True,15,0,15,win,2405340,9223,2330767,2023,2
+1,0,1,0,0,0,0,0,0,0,05/05/2023,neutral,16340,2683,Belmont Abbey,9,True,4,8,-4,loss,2433474,9223,2330767,2023,2

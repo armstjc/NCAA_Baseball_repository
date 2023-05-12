@@ -12,3 +12,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/24/2023,away,16340,1001,Catawba,9,True,10,6,4,win,2404295,9223,2818025,2023,2
 1,0,1,0,0,0,0,0,0,0,04/26/2023,away,16340,30052,North Georgia,9,True,15,8,7,win,2404581,9223,2818025,2023,2
 2,1,3,0,0,0,0,0,0,0,04/28/2023,home,16340,30192,Southern Wesleyan,9,True,3,0,3,win,2404926,9223,2818025,2023,2
+1,1,2,0,0,0,0,0,0,0,05/04/2023,neutral,16340,1085,Francis Marion,9,True,5,15,-10,loss,2433259,9223,2818025,2023,2

@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-5,0,6,1,0,0,0,0,1,0,02/17/2023,neutral,16340,413,MSU Denver,9,True,11,21,-10,loss,2390321,30128,2493299,2023,2
 2,0,2,0,0,0,0,0,0,0,02/17/2023,away,16340,1314,Pittsburg St.,9,True,2,23,-21,loss,2390291,30128,2493299,2023,2
+5,0,6,1,0,0,0,0,1,0,02/17/2023,neutral,16340,413,MSU Denver,9,True,11,21,-10,loss,2390321,30128,2493299,2023,2
 4,1,5,0,0,0,0,0,0,0,02/18/2023,neutral,16340,413,MSU Denver,9,True,4,15,-11,loss,2390593,30128,2493299,2023,2
 6,0,7,1,0,0,0,0,0,0,02/19/2023,away,16340,1314,Pittsburg St.,9,True,11,14,-3,loss,2390847,30128,2493299,2023,2
 6,0,6,0,0,0,0,0,0,0,02/25/2023,away,16340,9754,UC-Colo. Springs,9,True,3,13,-10,loss,2391638,30128,2493299,2023,2
@@ -45,3 +45,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,2,0,0,0,04/30/2023,home,16340,1433,Wayne St. (NE),9,True,8,7,1,win,2405513,30128,2493299,2023,2
 7,0,8,1,0,0,0,0,0,0,05/02/2023,away,16340,9081,Concordia-St. Paul,9,True,9,17,-8,loss,2405807,30128,2493299,2023,2
 7,0,7,0,0,0,0,0,0,0,05/02/2023,away,16340,9081,Concordia-St. Paul,9,True,10,7,3,win,2410814,30128,2493299,2023,2
+7,1,8,0,0,0,0,0,0,0,05/05/2023,away,16340,790,Winona St.,13,True,5,6,-1,loss,2406065,30128,2493299,2023,2
+5,0,5,0,0,0,0,0,0,0,05/06/2023,away,16340,790,Winona St.,9,True,0,2,-2,loss,2433626,30128,2493299,2023,2

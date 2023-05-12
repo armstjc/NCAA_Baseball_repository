@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,3,3,0,0,0,0,0,0,0,02/18/2023,neutral,16340,8366,Goldey-Beacom,9,True,7,8,-1,loss,2390770,407,2302902,2023,2
 3,1,4,0,0,0,0,0,0,0,02/18/2023,neutral,16340,349,Le Moyne,9,True,6,10,-4,loss,2390772,407,2302902,2023,2
+0,3,3,0,0,0,0,0,0,0,02/18/2023,neutral,16340,8366,Goldey-Beacom,9,True,7,8,-1,loss,2390770,407,2302902,2023,2
 0,1,1,0,0,0,0,0,0,0,02/19/2023,away,16340,349,Le Moyne,9,True,16,5,11,win,2390896,407,2302902,2023,2
 3,1,5,1,0,0,0,0,0,0,02/19/2023,neutral,16340,8366,Goldey-Beacom,9,True,0,10,-10,loss,2391049,407,2302902,2023,2
 0,4,4,0,0,0,0,0,1,0,02/21/2023,away,16340,537,UNC Pembroke,9,True,15,11,4,win,2391154,407,2302902,2023,2
@@ -39,3 +39,7 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,2,2,0,0,0,0,0,0,0,04/29/2023,away,16340,638,Shippensburg,9,True,4,7,-3,loss,2405166,407,2302902,2023,2
 0,4,4,0,0,0,0,0,0,0,04/29/2023,away,16340,638,Shippensburg,9,True,4,5,-1,loss,2410986,407,2302902,2023,2
 0,2,2,0,0,0,0,0,0,0,05/04/2023,home,16340,357,Lincoln (PA),9,True,5,2,3,win,2406060,407,2302902,2023,2
+1,3,5,1,0,0,0,0,0,0,05/05/2023,home,16340,357,Lincoln (PA),9,True,9,1,8,win,2406338,407,2302902,2023,2
+0,2,2,0,0,0,0,0,0,0,05/05/2023,home,16340,357,Lincoln (PA),9,True,8,3,5,win,2411621,407,2302902,2023,2
+1,2,3,0,0,0,0,0,0,0,05/06/2023,home,16340,357,Lincoln (PA),9,True,3,10,-7,loss,2406572,407,2302902,2023,2
+2,0,2,0,0,0,0,0,0,0,05/11/2023,away,16340,437,Molloy,9,True,4,12,-8,loss,2434032,407,2302902,2023,2

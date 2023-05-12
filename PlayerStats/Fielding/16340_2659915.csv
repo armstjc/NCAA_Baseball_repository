@@ -36,3 +36,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,04/23/2023,home,16340,11403,Colo. Christian,9,True,12,2,10,win,2430619,413,2659915,2023,2
 1,1,2,0,0,0,0,0,0,0,04/28/2023,away,16340,155,Colo. Sch. of Mines,9,True,10,1,9,win,2404990,413,2659915,2023,2
 0,0,1,1,0,0,0,0,0,0,04/30/2023,away,16340,155,Colo. Sch. of Mines,9,True,6,17,-11,loss,2405590,413,2659915,2023,2
+3,0,3,0,0,0,0,0,0,0,05/10/2023,neutral,16340,2720,CSU Pueblo,9,True,16,15,1,win,2434383,413,2659915,2023,2

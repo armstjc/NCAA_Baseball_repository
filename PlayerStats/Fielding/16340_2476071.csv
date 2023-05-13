@@ -35,3 +35,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 3,1,4,0,0,0,0,0,0,0,05/05/2023,home,16340,367,Louisville,9,True,6,3,3,win,2406173,147,2476071,2023,1
 1,0,1,0,0,0,0,0,0,0,05/06/2023,home,16340,367,Louisville,9,True,4,3,1,win,2406424,147,2476071,2023,1
 1,0,1,0,0,0,0,0,1,0,05/07/2023,home,16340,367,Louisville,9,True,7,3,4,win,2406571,147,2476071,2023,1
+1,1,2,0,0,0,0,0,0,0,05/10/2023,away,16340,149,Coastal Carolina,9,True,13,6,7,win,2406799,147,2476071,2023,1

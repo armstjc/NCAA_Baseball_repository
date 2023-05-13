@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,04/12/2023,away,16340,316,Jacksonville,9,True,5,4,1,win,2401510,253,2464450,2023,1
 2,2,1,1,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,04/29/2023,home,16340,498,ULM,9,True,35,8,27,win,2405376,253,2464450,2023,1
+0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,05/10/2023,away,16340,1014,Col. of Charleston,9,True,1,12,-11,loss,2406802,253,2464450,2023,1

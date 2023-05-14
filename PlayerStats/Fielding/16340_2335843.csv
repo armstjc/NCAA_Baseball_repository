@@ -10,3 +10,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,2,2,0,0,0,1,0,0,0,04/06/2023,home,16340,308,Purdue Fort Wayne,9,True,14,9,5,win,2400217,514,2335843,2023,1
 0,1,1,0,0,0,0,1,0,0,04/14/2023,away,16340,505,Northern Ky.,9,True,5,11,-6,loss,2401843,514,2335843,2023,1
 0,0,1,1,0,0,0,0,0,0,05/03/2023,home,16340,71,Bowling Green,9,True,2,12,-10,loss,2433229,514,2335843,2023,1
+0,0,0,0,0,0,1,0,0,0,05/13/2023,away,16340,308,Purdue Fort Wayne,9,True,12,9,3,win,2407005,514,2335843,2023,1

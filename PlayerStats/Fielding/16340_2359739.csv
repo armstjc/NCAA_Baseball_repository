@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/30/2023,away,16340,713,Trinity (CT),9,True,7,10,-3,loss,2398682,623,2359739,2023,3
+0,0,1,1,0,0,0,0,0,0,05/12/2023,neutral,16340,583,Roger Williams,9,True,12,6,6,win,2434980,623,2359739,2023,3
+0,1,1,0,0,0,0,0,0,0,05/13/2023,away,16340,8981,Endicott,9,True,5,2,3,win,2434759,623,2359739,2023,3

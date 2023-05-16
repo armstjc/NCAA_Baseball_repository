@@ -1,5 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/04/2023,home,16340,336,King's (PA),9,True,6,12,-6,loss,2393215,15882,2684770,2023,3
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/04/2023,neutral,16340,336,King's (PA),9,True,6,12,-6,loss,2393215,15882,2684770,2023,3
 0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/06/2023,neutral,16340,336,King's (PA),9,True,14,4,10,win,2393716,15882,2684770,2023,3
 0,3,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,03/17/2023,away,16340,0,Penn St.-York,9,True,2,0,2,win,2407971,15882,2684770,2023,3
 0,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/18/2023,away,16340,12884,Centenary (NJ),9,True,10,3,7,win,2409044,15882,2684770,2023,3

@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,1,0,0,0,04/23/2023,home,16340,596,St. Bonaventure,11,True,3,4,-1,loss,2404276,248,2658243,2023,1
 0,0,0,0,0,0,1,0,0,0,04/29/2023,home,16340,575,Richmond,9,True,0,7,-7,loss,2405058,248,2658243,2023,1
 0,0,1,1,0,0,0,0,0,0,05/07/2023,away,16340,236,Fordham,9,True,11,10,1,win,2406577,248,2658243,2023,1
+1,0,1,0,0,0,0,0,0,0,05/14/2023,away,16340,249,George Washington,9,True,9,5,4,win,2407138,248,2658243,2023,1

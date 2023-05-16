@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 11,2,13,0,0,1,1,0,0,0,04/03/2023,home,16340,0,Menlo,9,True,10,5,5,win,2426440,102,2813703,2023,1
 1,0,1,0,0,0,0,0,0,0,04/22/2023,away,16340,1356,Seattle U,9,True,7,10,-3,loss,2403546,102,2813703,2023,1
+2,0,2,0,0,0,0,0,0,0,05/14/2023,away,16340,30135,California Baptist,9,True,8,3,5,win,2407167,102,2813703,2023,1

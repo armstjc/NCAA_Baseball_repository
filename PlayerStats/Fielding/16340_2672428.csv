@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,1,0,04/22/2023,away,16340,245,Gallaudet,9,True,8,1,7,win,2403735,30114,2672428,2023,3
 0,3,3,0,0,0,3,0,0,0,04/27/2023,home,16340,30081,Penn St. Harrisburg,9,True,5,11,-6,loss,2411118,30114,2672428,2023,3
 0,0,0,0,0,0,2,0,0,0,05/05/2023,home,16340,30081,Penn St. Harrisburg,9,True,15,9,6,win,2404871,30114,2672428,2023,3
+0,0,0,0,0,0,1,0,0,0,05/12/2023,neutral,16340,30190,Penn College,9,True,7,10,-3,loss,2434865,30114,2672428,2023,3

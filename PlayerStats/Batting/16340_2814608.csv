@@ -1,6 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,02/19/2023,away,16340,124,Catholic,9,True,7,13,-6,loss,2408794,185,2814608,2023,3
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2023,neutral,16340,30064,Saint Vincent,9,True,8,5,3,win,2408839,185,2814608,2023,3
 0,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,03/17/2023,neutral,16340,1451,Westminster (PA),9,True,19,3,16,win,2408432,185,2814608,2023,3
 0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,03/22/2023,away,16340,411,Messiah,9,True,6,10,-4,loss,2397118,185,2814608,2023,3
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/26/2023,home,16340,712,TCNJ,9,True,1,5,-4,loss,2409472,185,2814608,2023,3

@@ -4,3 +4,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,05/02/2023,away,16340,1066,Edgewood,9,True,12,2,10,win,2411561,42,2683018,2023,3
 5,0,6,1,0,0,0,0,0,0,05/05/2023,home,16340,582,Rockford,9,True,13,3,10,win,2411243,42,2683018,2023,3
 2,0,2,0,0,0,0,0,0,0,05/06/2023,away,16340,1036,Concordia Wisconsin,10,True,8,7,1,win,2411639,42,2683018,2023,3
+1,0,1,0,0,0,0,0,0,0,05/12/2023,neutral,16340,296,Benedictine (IL),9,True,0,6,-6,loss,2434781,42,2683018,2023,3

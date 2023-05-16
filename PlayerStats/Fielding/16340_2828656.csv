@@ -34,3 +34,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,4,6,0,0,0,0,0,0,0,05/05/2023,home,16340,30072,St. Joseph's (Brkln),9,True,7,1,6,win,2406152,524,2828656,2023,3
 1,4,5,0,0,0,0,0,0,0,05/06/2023,away,16340,382,Manhattanville,9,True,5,3,2,win,2406267,524,2828656,2023,3
 2,3,5,0,0,0,0,0,0,0,05/06/2023,away,16340,382,Manhattanville,9,True,2,4,-2,loss,2411774,524,2828656,2023,3
+1,2,4,1,0,0,0,0,0,0,05/10/2023,neutral,16340,724,Merchant Marine,9,True,0,13,-13,loss,2434629,524,2828656,2023,3

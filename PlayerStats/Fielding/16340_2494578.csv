@@ -41,3 +41,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 8,2,11,1,0,0,0,0,1,0,05/02/2023,away,16340,622,Salisbury,9,True,5,6,-1,loss,2405834,565,2494578,2023,3
 4,0,4,0,0,0,0,0,0,0,05/06/2023,home,16340,269,Hampden-Sydney,9,True,2,0,2,win,2432904,565,2494578,2023,3
 6,0,6,0,0,0,0,0,0,0,05/07/2023,away,16340,269,Hampden-Sydney,9,True,9,8,1,win,2432905,565,2494578,2023,3
+3,0,3,0,0,0,0,0,0,0,05/11/2023,neutral,16340,374,Lynchburg,9,True,0,3,-3,loss,2434506,565,2494578,2023,3

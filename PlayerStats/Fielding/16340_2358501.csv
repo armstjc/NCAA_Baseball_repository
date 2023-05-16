@@ -22,3 +22,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 5,1,6,0,0,0,0,0,0,0,05/02/2023,home,16340,478,SUNY Maritime,9,True,9,8,1,win,2411615,30029,2358501,2023,3
 7,7,14,0,0,0,0,0,3,0,05/03/2023,away,16340,382,Manhattanville,9,True,6,4,2,win,2433232,30029,2358501,2023,3
 1,3,4,0,0,0,0,0,0,0,05/07/2023,away,16340,27892,Farmingdale St.,9,True,10,6,4,win,2410821,30029,2358501,2023,3
+1,3,4,0,0,0,0,0,1,0,05/13/2023,home,16340,478,SUNY Maritime,9,True,1,6,-5,loss,2434907,30029,2358501,2023,3

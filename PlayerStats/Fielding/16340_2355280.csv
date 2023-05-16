@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,03/05/2023,neutral,16340,12399,Gwynedd Mercy,9,True,12,2,10,win,2393410,161,2355280,2023,3
 1,0,1,0,0,0,0,0,0,0,03/05/2023,neutral,16340,84,Buena Vista,9,True,2,7,-5,loss,2393414,161,2355280,2023,3
+1,0,1,0,0,0,0,0,0,0,03/05/2023,neutral,16340,12399,Gwynedd Mercy,9,True,12,2,10,win,2393410,161,2355280,2023,3
 2,0,2,0,0,0,0,0,0,0,03/07/2023,neutral,16340,1133,Husson,9,True,8,1,7,win,2393819,161,2355280,2023,3
 2,0,2,0,0,0,0,0,0,0,03/09/2023,neutral,16340,656,UMass Dartmouth,9,True,4,7,-3,loss,2394156,161,2355280,2023,3
 1,0,1,0,0,0,0,0,0,0,03/09/2023,neutral,16340,656,UMass Dartmouth,9,True,1,7,-6,loss,2408906,161,2355280,2023,3
@@ -17,3 +17,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 3,0,3,0,0,0,0,0,0,0,04/18/2023,home,16340,602,Saint John's (MN),9,True,2,18,-16,loss,2409185,161,2355280,2023,3
 1,0,2,1,0,0,0,0,0,0,04/26/2023,away,16340,268,Hamline,9,True,11,2,9,win,2404615,161,2355280,2023,3
 3,1,4,0,0,0,0,0,0,0,04/28/2023,away,16340,612,Saint Mary's (MN),9,True,5,9,-4,loss,2411034,161,2355280,2023,3
+4,0,4,0,0,0,0,0,0,0,05/09/2023,home,16340,615,St. Olaf,9,True,7,11,-4,loss,2411528,161,2355280,2023,3
+1,0,1,0,0,0,0,0,0,0,05/12/2023,neutral,16340,60,Bethel (MN),9,True,0,3,-3,loss,2434786,161,2355280,2023,3

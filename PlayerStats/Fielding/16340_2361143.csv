@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,2,1,0,0,0,1,0,0,04/22/2023,home,16340,200,Eastern Conn. St.,9,True,6,5,1,win,2411279,571,2361143,2023,3
 0,2,2,0,0,0,1,0,0,0,04/28/2023,away,16340,401,UMass Boston,9,True,3,1,2,win,2431787,571,2361143,2023,3
 1,3,4,0,0,0,0,0,0,0,05/05/2023,home,16340,548,Plymouth St.,9,True,8,0,8,win,2411247,571,2361143,2023,3
+0,0,0,0,0,0,3,0,0,0,05/11/2023,away,16340,401,UMass Boston,9,True,3,9,-6,loss,2434671,571,2361143,2023,3

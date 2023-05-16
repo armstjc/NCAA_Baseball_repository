@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/13/2023,neutral,16340,30036,Mount Aloysius,9,True,14,7,7,win,2395255,684,2509254,2023,3
 0,0,0,0,0,0,1,0,0,0,03/20/2023,away,16340,808,WPI,9,True,10,13,-3,loss,2396560,684,2509254,2023,3
+0,1,1,0,0,0,3,0,0,0,05/08/2023,home,16340,1099,Gordon,11,True,13,12,1,win,2433972,684,2509254,2023,3

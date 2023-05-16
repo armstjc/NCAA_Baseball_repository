@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/22/2023,away,16340,783,Widener,9,True,9,17,-8,loss,2397192,712,2693006,2023,3
 0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/04/2023,home,16340,303,Immaculata,9,True,7,20,-13,loss,2399987,712,2693006,2023,3
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,05/08/2023,home,16340,329,Kean,9,True,10,20,-10,loss,2434388,712,2693006,2023,3

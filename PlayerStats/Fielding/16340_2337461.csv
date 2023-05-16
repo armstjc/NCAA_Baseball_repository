@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/14/2023,away,16340,269,Hampden-Sydney,9,True,8,4,4,win,2395337,139,2337461,2023,3
 1,0,1,0,0,0,0,0,0,0,03/18/2023,away,16340,394,Marymount (VA),9,True,14,5,9,win,2396166,139,2337461,2023,3
 0,1,1,0,0,0,0,0,0,0,03/26/2023,home,16340,30072,St. Joseph's (Brkln),9,True,7,3,4,win,2398090,139,2337461,2023,3
+0,0,1,1,0,0,0,0,0,0,05/12/2023,neutral,16340,390,Mary Washington,9,True,5,6,-1,loss,2434153,139,2337461,2023,3

@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-10,2,13,1,0,0,5,0,0,0,02/25/2023,neutral,16340,278,Heidelberg,9,True,1,10,-9,loss,2391702,160,2360215,2023,3
 5,0,5,0,0,0,0,0,0,0,02/25/2023,neutral,16340,348,Lawrence,10,True,10,8,2,win,2391682,160,2360215,2023,3
+10,2,13,1,0,0,5,0,0,0,02/25/2023,neutral,16340,278,Heidelberg,9,True,1,10,-9,loss,2391702,160,2360215,2023,3
 4,1,5,0,0,1,1,0,0,0,02/26/2023,away,16340,618,St. Scholastica,9,True,7,5,2,win,2391361,160,2360215,2023,3
 12,0,13,1,0,1,2,0,0,0,03/04/2023,neutral,16340,192,Dubuque,9,True,10,6,4,win,2393020,160,2360215,2023,3
 7,0,7,0,0,0,2,0,0,0,03/06/2023,neutral,16340,84,Buena Vista,9,True,3,15,-12,loss,2393680,160,2360215,2023,3
@@ -19,3 +19,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 6,0,6,0,0,1,1,1,0,0,05/03/2023,home,16340,582,Rockford,9,True,2,9,-7,loss,2411703,160,2360215,2023,3
 10,0,10,0,0,0,0,0,0,0,05/04/2023,away,16340,1196,Marian (WI),9,True,23,0,23,win,2411020,160,2360215,2023,3
 13,0,13,0,0,0,0,0,0,0,05/06/2023,home,16340,1332,Dominican (IL),9,True,10,4,6,win,2411581,160,2360215,2023,3
+1,1,2,0,0,0,0,1,0,0,05/12/2023,neutral,16340,30172,IIT,9,True,3,7,-4,loss,2434746,160,2360215,2023,3

@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/26/2023,neutral,16340,752,Wash. & Lee,9,True,4,9,-5,loss,2392304,973,2829065,2023,3
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/07/2023,home,16340,426,Millsaps,9,True,16,4,12,win,2400379,973,2829065,2023,3
-1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,05/06/2023,neutral,16340,28593,Birmingham-So.,9,True,6,9,-3,loss,2433590,973,2829065,2023,3
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,05/06/2023,away,16340,28593,Birmingham-So.,9,True,6,9,-3,loss,2433590,973,2829065,2023,3

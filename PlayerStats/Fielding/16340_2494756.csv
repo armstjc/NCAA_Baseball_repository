@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,04/16/2023,home,16340,314,Jackson St.,9,True,6,5,1,win,2402745,7,2494756,2023,1
+0,1,1,0,0,0,0,0,0,0,05/13/2023,home,16340,6,Alabama A&M,9,True,6,3,3,win,2407116,7,2494756,2023,1

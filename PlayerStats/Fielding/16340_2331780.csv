@@ -31,3 +31,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,2,3,0,0,0,0,0,0,0,05/05/2023,away,16340,399,Mass. Maritime,9,True,3,4,-1,loss,2406149,809,2331780,2023,3
 1,0,1,0,0,0,0,0,0,0,05/06/2023,home,16340,399,Mass. Maritime,9,True,9,7,2,win,2406343,809,2331780,2023,3
 2,0,2,0,0,0,0,0,0,0,05/06/2023,home,16340,399,Mass. Maritime,9,True,13,7,6,win,2411626,809,2331780,2023,3
+1,0,1,0,0,0,0,0,0,0,05/11/2023,neutral,16340,399,Mass. Maritime,9,True,1,5,-4,loss,2434071,809,2331780,2023,3

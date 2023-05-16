@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,03/18/2023,away,16340,516,Occidental,9,True,14,6,8,win,2396259,759,2463560,2023,3
 1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/29/2023,home,16340,555,Principia,9,True,32,4,28,win,2411341,759,2463560,2023,3
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,05/11/2023,neutral,16340,218,Eureka,9,True,20,1,19,win,2434000,759,2463560,2023,3

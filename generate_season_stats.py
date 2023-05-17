@@ -342,7 +342,7 @@ def generate_season_player_pitching_stats(season:int):
 
         del league_df
 
-        main_df['App'] = 1
+        main_df.loc[main_df['season_id'] != None,'App'] = 1
         main_df = main_df.astype({'IP':'string'})
         main_df[['whole_innings','part_innings']] = main_df['IP'].str.split('.',expand=True)
         main_df = main_df.astype({'whole_innings':'int','part_innings':'int'})

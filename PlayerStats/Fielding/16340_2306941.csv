@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,2,0,0,0,05/02/2023,away,16340,584,Rollins,9,True,5,6,-1,loss,2430113,208,2306941,2023,2
+0,0,0,0,0,0,1,1,0,0,05/13/2023,away,16340,20794,Lynn,9,True,1,7,-6,loss,2411545,208,2306941,2023,2

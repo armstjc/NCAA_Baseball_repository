@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/24/2023,away,16340,1343,Saint Martin's,10,True,6,2,4,win,2397383,1274,2484443,2023,2
 1,1,2,0,0,0,0,0,1,0,04/22/2023,away,16340,1010,Central Wash.,9,True,2,5,-3,loss,2403867,1274,2484443,2023,2
 0,0,0,0,0,0,1,0,0,0,04/28/2023,home,16340,1343,Saint Martin's,9,True,9,5,4,win,2404892,1274,2484443,2023,2
+0,2,2,0,0,0,0,0,0,0,05/12/2023,neutral,16340,1446,Western Ore.,9,True,4,5,-1,loss,2434798,1274,2484443,2023,2

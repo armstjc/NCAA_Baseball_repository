@@ -34,3 +34,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 6,0,6,0,0,0,0,0,0,0,04/26/2023,home,16340,0,Lewis-Clark St.,9,True,7,5,2,win,2425569,1010,2815565,2023,2
 5,1,6,0,0,0,0,0,0,0,05/04/2023,away,16340,205,Mont. St. Billings,10,True,12,7,5,win,2405967,1010,2815565,2023,2
 1,0,1,0,0,0,0,0,0,0,05/05/2023,away,16340,205,Mont. St. Billings,9,True,1,2,-1,loss,2406070,1010,2815565,2023,2
+4,0,4,0,0,0,0,0,0,0,05/11/2023,neutral,16340,1446,Western Ore.,9,True,4,5,-1,loss,2434050,1010,2815565,2023,2
+3,1,4,0,0,0,0,0,0,0,05/11/2023,neutral,16340,1274,Northwest Nazarene,9,True,5,8,-3,loss,2434048,1010,2815565,2023,2

@@ -9,3 +9,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,2,1,0,0,04/08/2023,home,16340,1343,Saint Martin's,9,True,12,3,9,win,2409335,1010,2499717,2023,2
 1,0,1,0,0,0,0,0,0,0,04/16/2023,away,16340,1446,Western Ore.,9,True,2,5,-3,loss,2429343,1010,2499717,2023,2
 0,1,1,0,0,0,4,1,0,0,04/22/2023,home,16340,1274,Northwest Nazarene,9,True,10,6,4,win,2411496,1010,2499717,2023,2
+0,0,0,0,0,0,1,1,0,0,05/11/2023,neutral,16340,1446,Western Ore.,9,True,4,5,-1,loss,2434050,1010,2499717,2023,2

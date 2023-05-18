@@ -9,3 +9,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,2,3,0,0,0,0,0,0,0,04/22/2023,away,16340,30178,Northwestern Okla.,9,True,7,1,6,win,2403571,1376,2675925,2023,2
 0,0,1,1,0,0,0,0,0,0,04/28/2023,home,16340,8411,Ark.-Monticello,9,True,1,4,-3,loss,2410880,1376,2675925,2023,2
 0,0,1,1,0,0,0,0,0,0,05/06/2023,home,16340,1371,Southeastern Okla.,9,True,14,7,7,win,2432711,1376,2675925,2023,2
+0,1,1,0,0,0,0,0,0,0,05/12/2023,neutral,16340,30202,Okla. Baptist,9,True,6,1,5,win,2434779,1376,2675925,2023,2

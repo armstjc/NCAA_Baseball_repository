@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+6,0,6,0,0,0,0,0,0,0,02/18/2023,away,16340,1318,Post,9,True,9,0,9,win,2418684,468,2800538,2023,2
+10,0,10,0,0,2,2,0,0,0,02/26/2023,neutral,16340,1348,St. Thomas Aquinas,9,True,8,4,4,win,2392100,468,2800538,2023,2
+6,0,6,0,0,0,1,0,0,0,03/11/2023,away,16340,1076,Fairmont St.,9,True,16,4,12,win,2394779,468,2800538,2023,2
+3,0,3,0,0,0,2,0,0,0,03/17/2023,away,16340,8366,Goldey-Beacom,9,True,4,7,-3,loss,2408988,468,2800538,2023,2

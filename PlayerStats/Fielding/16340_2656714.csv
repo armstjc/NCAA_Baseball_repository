@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,03/06/2023,away,16340,197,East Stroudsburg,9,True,0,3,-3,loss,2393041,468,2656714,2023,2
+2,0,2,0,0,0,0,0,0,0,03/17/2023,away,16340,8366,Goldey-Beacom,9,True,4,7,-3,loss,2408988,468,2656714,2023,2
+3,0,3,0,0,0,0,0,0,0,03/18/2023,away,16340,8366,Goldey-Beacom,9,True,6,7,-1,loss,2409262,468,2656714,2023,2
+2,0,2,0,0,0,0,0,0,0,03/26/2023,away,16340,22,American Int'l,9,True,12,3,9,win,2398303,468,2656714,2023,2

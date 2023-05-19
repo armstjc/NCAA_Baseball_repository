@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,away,16340,1318,Post,9,True,9,0,9,win,2418684,468,2525290,2023,2
+0,4,1,1,0,2,0,2,0,0,0,0,2,0,0,0,0,0,0,03/11/2023,away,16340,1076,Fairmont St.,9,True,11,0,11,win,2408234,468,2525290,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/24/2023,away,16340,22,American Int'l,9,True,15,6,9,win,2410162,468,2525290,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/26/2023,away,16340,22,American Int'l,9,True,12,3,9,win,2398303,468,2525290,2023,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/08/2023,away,16340,36,Assumption,9,True,31,1,30,win,2400980,468,2525290,2023,2
+1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/11/2023,home,16340,1347,Saint Rose,9,True,15,3,12,win,2428530,468,2525290,2023,2
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,04/22/2023,away,16340,613,Saint Michael's,9,True,23,2,21,win,2411481,468,2525290,2023,2

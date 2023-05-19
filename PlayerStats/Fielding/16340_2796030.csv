@@ -28,3 +28,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,04/30/2023,away,16340,1289,Ouachita Baptist,9,True,0,2,-2,loss,2411195,1123,2796030,2023,2
 2,0,2,0,0,0,0,0,0,0,05/05/2023,home,16340,8411,Ark.-Monticello,9,True,8,0,8,win,2432712,1123,2796030,2023,2
 3,0,3,0,0,0,0,0,0,0,05/06/2023,home,16340,8411,Ark.-Monticello,9,True,10,2,8,win,2432713,1123,2796030,2023,2
+4,0,4,0,0,0,0,0,0,0,05/11/2023,neutral,16340,1376,Southern Ark.,9,True,2,4,-2,loss,2433796,1123,2796030,2023,2

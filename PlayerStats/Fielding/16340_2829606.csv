@@ -15,3 +15,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,1,0,0,0,04/15/2023,home,16340,591,Saginaw Valley,9,True,7,22,-15,loss,2402401,799,2829606,2023,2
 1,1,2,0,0,0,0,0,0,0,04/28/2023,away,16340,757,Wayne St. (MI),9,True,7,8,-1,loss,2404854,799,2829606,2023,2
 4,0,4,0,0,0,0,0,0,0,05/05/2023,home,16340,30222,Purdue Northwest,9,True,6,10,-4,loss,2411367,799,2829606,2023,2
+0,1,1,0,0,0,0,0,0,0,05/12/2023,neutral,16340,30221,Davenport,9,True,5,10,-5,loss,2434791,799,2829606,2023,2

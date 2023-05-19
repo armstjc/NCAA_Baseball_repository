@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,04/02/2023,home,16340,1079,Findlay,9,True,10,5,5,win,2410651,510,2328434,2023,2
 0,1,1,0,0,0,0,0,0,0,04/08/2023,home,16340,280,Hillsdale,9,True,2,1,1,win,2410656,510,2328434,2023,2
+0,1,1,0,0,0,0,0,0,0,05/13/2023,home,16340,30119,Ohio Dominican,9,True,9,3,6,win,2435055,510,2328434,2023,2

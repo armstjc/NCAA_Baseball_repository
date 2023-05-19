@@ -43,3 +43,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,3,6,1,0,0,0,0,1,0,05/07/2023,away,16340,483,Nicholls,9,True,0,9,-9,loss,2406673,655,2658806,2023,1
 1,1,2,0,0,0,0,0,1,0,05/12/2023,neutral,16340,287,Houston Christian,9,True,9,5,4,win,2407037,655,2658806,2023,1
 2,4,6,0,0,0,0,0,2,0,05/12/2023,neutral,16340,287,Houston Christian,9,True,5,4,1,win,2406875,655,2658806,2023,1
+1,2,3,0,0,0,0,0,1,0,05/16/2023,home,16340,646,South Alabama,9,True,5,4,1,win,2407304,655,2658806,2023,1

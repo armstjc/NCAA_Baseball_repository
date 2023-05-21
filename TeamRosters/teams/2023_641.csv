@@ -1,19 +1,19 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Baldwin, Ian","Fr","2825327",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825327",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
-"Bly, Jordan","Fr",NA,2023,"41","OF",NA,641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
+"Bly, Jordan","Fr","2825329",2023,"41","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825329",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Boswell, Braedon","Fr","2825330",2023,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825330",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Cagley, Nate","Fr","2825331",2023,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825331",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
-"Campin, Sam","Fr",NA,2023,"13","INF",NA,641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
+"Campin, Sam","Fr","2825303",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825303",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Carlock, Will","So","2660629",2023,"5","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2660629",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Castile, Trey","Jr","2495723",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2495723",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
-"Clark, Wyatt","Fr",NA,2023,"38","OF",NA,641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
+"Clark, Wyatt","Fr","2495724",2023,"38","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2495724",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Cowley, Ty","Sr","2337302",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2337302",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Crooks, Max","Sr","2337303",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2337303",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Dolash, Dante","So","2660597",2023,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2660597",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Dueker, Zach","Jr","2495725",2023,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2495725",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Dunwoody, Easton","Fr","2825332",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825332",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
-"Edenburn, Jake","Fr",NA,2023,"29","P",NA,641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
-"Essmann, Hunter","Fr",NA,2023,"26","C",NA,641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
+"Edenburn, Jake","Fr","2825333",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825333",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
+"Essmann, Hunter","Fr","2825334",2023,"26","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825334",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Feekin, Eli","So","2660598",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2660598",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Ferrin, Dalton","Fr","2825335",2023,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825335",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Foster, Alex","Fr","2825336",2023,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825336",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
@@ -21,13 +21,13 @@
 "Grasmick, Cody","Jr","2495729",2023,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2495729",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Held, Brady","Sr","2147110",2023,"27","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2147110",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Herrick, Levi","So","2660607",2023,"32","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2660607",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
-"Holladay, Ryan","Fr",NA,2023,"46","P",NA,641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
+"Holladay, Ryan","Fr","2825304",2023,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825304",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Jackson, Dallas","Sr","2337287",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2337287",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Juhl, Lucas","Jr","2495730",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2495730",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Lemke, Brennen","Sr","2147073",2023,"33","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2147073",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Marquez, Matthew","Sr","2147113",2023,"31","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2147113",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "McAlexander, Tyson","Fr","2825337",2023,"20","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825337",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
-"McEnany, Teegan","Fr",NA,2023,"21","P",NA,641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
+"McEnany, Teegan","Fr","2825338",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825338",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Porter, Sam","Jr","2495731",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2495731",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Roeder, Mitchell","Fr","2825339",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2825339",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Rupprecht, Aiden","So","2660624",2023,"35","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2660624",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
@@ -39,5 +39,5 @@
 "Vanderpool, Sam","So","2660627",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2660627",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Wadstrom, Bennett","So","2660609",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2660609",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Weig, Andrew","So","2660628",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2660628",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
-"Wemhoff, Zach","Jr",NA,2023,"37","P",NA,641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
+"Wemhoff, Zach","Jr","2495732",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2495732",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340
 "Willis, Ryan","Sr","2147571",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=641&stats_player_seq=2147571",641,"Simpson","/team/641/16340",864,"American Rivers",3,2023,16340

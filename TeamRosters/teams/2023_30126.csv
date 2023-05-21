@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Andringa, Calvin","Sr","2664509",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30126&stats_player_seq=2664509",30126,"Notre Dame (OH)","/team/30126/16340",30183,"MEC",2,2023,16340
 "Anservitz, John","Jr","2658219",2023,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30126&stats_player_seq=2658219",30126,"Notre Dame (OH)","/team/30126/16340",30183,"MEC",2,2023,16340
-"Beck, Darius","Fr",NA,2023,"98","",NA,30126,"Notre Dame (OH)","/team/30126/16340",30183,"MEC",2,2023,16340
+"Beck, Darius","Fr","2811710",2023,"98","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30126&stats_player_seq=2811710",30126,"Notre Dame (OH)","/team/30126/16340",30183,"MEC",2,2023,16340
 "Brammer, Danny","Jr","2664516",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30126&stats_player_seq=2664516",30126,"Notre Dame (OH)","/team/30126/16340",30183,"MEC",2,2023,16340
 "Brown, Matthew","So","2664521",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30126&stats_player_seq=2664521",30126,"Notre Dame (OH)","/team/30126/16340",30183,"MEC",2,2023,16340
 "Cook, Johnathan","So","2811711",2023,"21","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30126&stats_player_seq=2811711",30126,"Notre Dame (OH)","/team/30126/16340",30183,"MEC",2,2023,16340

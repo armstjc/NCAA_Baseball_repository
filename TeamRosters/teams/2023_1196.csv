@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Alsteen, Tanner","So","2657721",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2657721",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
-"Bartelt, Casey","Fr",NA,2023,"21","P",NA,1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
+"Bartelt, Casey","Fr","2802869",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2802869",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Blum, Tyler","Jr","2460332",2023,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2460332",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Bohn, Mason","So","2657713",2023,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2657713",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Bornick, James","So","2657714",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2657714",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
@@ -12,9 +12,9 @@
 "Espinosa, Nathan","Fr","2802861",2023,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2802861",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Fenske, Kyler","Fr","2802864",2023,"16","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2802864",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Flora, Mitch","Fr",NA,2023,"46","P",NA,1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
-"Gebler, Colin","Fr",NA,2023,"88","P",NA,1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
+"Gebler, Colin","Fr","2802826",2023,"88","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2802826",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Grimm, Isaiah","Fr","2802855",2023,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2802855",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
-"Jordan, Brody","So",NA,2023,"17","P",NA,1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
+"Jordan, Brody","So","2657718",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2657718",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Kiszka, Albert","Jr","2460343",2023,"55","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2460343",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Knorr, Robbie","Sr","2351129",2023,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2351129",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Koscinski, Joe","Sr","2351138",2023,"45","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2351138",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
@@ -36,9 +36,9 @@
 "Russell, Steven","Jr","2460331",2023,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2460331",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Schroeder, Andrew","Jr","2460334",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2460334",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Tyczkowski, Jacob","Jr","2460191",2023,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2460191",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
-"Van Vooren, Ryan","So",NA,2023,"38","OF",NA,1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
+"Van Vooren, Ryan","So","2802881",2023,"38","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2802881",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Walker, Gus","So","2657716",2023,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2657716",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Wiederholt, Sam","Fr","2802885",2023,"50","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2802885",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
-"Wilson, Davis","Jr","2519646",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2519646",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Wilson, Ben","Fr","2802873",2023,"25","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2802873",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
+"Wilson, Davis","Jr","2519646",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2519646",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340
 "Zackrison, Brady","Sr","2505436",2023,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1196&stats_player_seq=2505436",1196,"Marian (WI)","/team/1196/16340",30097,"NACC",3,2023,16340

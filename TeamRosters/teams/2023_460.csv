@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Arendt, Bryan","So","2658991",2023,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2658991",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Arendt, Jayson","Jr","2797641",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2797641",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
+"Arendt, Bryan","So","2658991",2023,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2658991",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Banks, Brett","Jr","2659001",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2659001",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Benton, Cody","Jr","2304393",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2304393",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Benton, Cole","Sr","2328852",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2328852",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
@@ -9,8 +9,8 @@
 "Craig, Luke","Jr","2471762",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2471762",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Croom, Jac","Sr","2328791",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2328791",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "DeMartino, Alec","So","2658990",2023,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2658990",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
-"Evans, Ron","Sr","2328830",2023,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2328830",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Evans, Aidan","Fr","2797631",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2797631",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
+"Evans, Ron","Sr","2328830",2023,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2328830",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Fisher, Jack","Sr","2328845",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2328845",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Gaither, Matt","Jr","2499151",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2499151",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Gillespie, Mac","Fr","2797661",2023,"35","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2797661",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
@@ -32,8 +32,8 @@
 "Ruffner, Teddy","So","2658989",2023,"9","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2658989",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Sales, RJ","So","2658994",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2658994",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Shafer, Jacob","Jr","2471761",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2471761",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
-"Smith, Aubrey","Fr","2797652",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2797652",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Smith, Aidan","Sr","2328842",2023,"31","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2328842",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
+"Smith, Aubrey","Fr","2797652",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2797652",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Specht, Joe","Fr",NA,2023,"8","INF",NA,460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Stroup, Case","Jr","2797656",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2797656",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340
 "Taylor, Zane","So","2658996",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=460&stats_player_seq=2658996",460,"UNCW","/team/460/16340",837,"CAA",1,2023,16340

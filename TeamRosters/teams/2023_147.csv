@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Abrams, Gavin","So","2650933",2023,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2650933",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Allen, Joe","Fr","2796513",2023,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2796513",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
-"Amick, Billy","So","2650934",2023,"17","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2650934",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
+"Amick, Billy","So","2650934",2023,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2650934",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Ammons, Ryan","Jr","2335520",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2335520",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Bailey, B.J.","Jr","2796517",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2796517",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Barlow, Billy","So","2650935",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2650935",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
@@ -9,10 +9,10 @@
 "Bissetta, Tristan","Fr","2650944",2023,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2650944",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Blackwell, Benjamin","Sr","2131117",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2131117",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Blauser, Cooper","Fr",NA,2023,"19","INF",NA,147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
-"Cannarella, Cam","Fr","2796520",2023,"10","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2796520",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
+"Cannarella, Cam","Fr","2796520",2023,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2796520",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Clayton, Nick","Jr","2335524",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2335524",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Corbitt, Tyler","Sr","2120379",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2120379",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
-"Crighton, Jack","Fr","2796549",2023,"3","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2796549",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
+"Crighton, Jack","Fr","2796549",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2796549",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Darden, Ethan","Fr","2796550",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2796550",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Dill, Jay","So","2650937",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2650937",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Dillard, Jay","Fr",NA,2023,"50","INF",NA,147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
@@ -25,12 +25,12 @@
 "Hall, Nathan","Fr","2796434",2023,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2796434",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Hoffmann, Nick","Jr","2335490",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2335490",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Hughes, Rob","Jr","2140351",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2140351",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
-"Ingle, Cooper","Jr","2476057",2023,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2476057",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
+"Ingle, Cooper","Jr","2476057",2023,"12","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2476057",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Jarrell, Jacob","Fr","2796435",2023,"9","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2796435",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Lackey, Lleyton","Fr","2796563",2023,"55","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2796563",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Lindley, Jackson","Sr","2130007",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2130007",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Nawrocki, Nolan","Fr",NA,2023,"2","INF",NA,147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
-"Olenchuk, Ty","Jr","2476062",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2476062",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
+"Olenchuk, Ty","Jr","2476062",2023,"36","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2476062",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Reid, Rocco","So","2650938",2023,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2650938",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Reynolds, Jack","Fr",NA,2023,"32","INF",NA,147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340
 "Smith, Tristan","Fr","2796567",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=147&stats_player_seq=2796567",147,"Clemson","/team/147/16340",821,"ACC",1,2023,16340

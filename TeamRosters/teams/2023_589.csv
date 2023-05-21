@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Acevedo, Gianmarco","Jr","2524828",2023,"40","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2524828",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
-"Alvarez, Aaron","Jr","2524803",2023,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2524803",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Alvarez, Armando","Sr","2348306",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2348306",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
+"Alvarez, Aaron","Jr","2524803",2023,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2524803",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Baksh, Connor","So","2508710",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2508710",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Bukowski, R.","N/A","2838699",2023,"38","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2838699",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Calcano, Ethan","Sr","2348305",2023,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2348305",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
@@ -14,8 +14,8 @@
 "Evensen, Jesse","Fr","2685678",2023,"3","3b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2685678",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Farrington, John","N/A","2837467",2023,"16","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2837467",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Furcal, D.","N/A","2833219",2023,"5","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2833219",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
+"Gonzalez, Ricky","Jr","2689402",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2689402",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Gonzalez, Robert","Jr","2524814",2023,"28","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2524814",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
-"Gonzalez, Ricky","Fr","2689402",2023,"44","ph/lf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2689402",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Gonzalez, G.","N/A","2838663",2023,"11","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2838663",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Gonzalez, Nico","N/A","2835528",2023,"45","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2835528",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Greene, Dan","Jr","2524812",2023,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2524812",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
@@ -30,7 +30,7 @@
 "Morales, Dario","Fr","2689403",2023,"30","ph/1b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2689403",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Nunez, Nathaniel","Jr","2524808",2023,"17","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2524808",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Ostroman, Matthew","Jr","2524810",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2524810",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
-"Prial, Gilroy","N/A","2832424",2023,"6","cf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2832424",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
+"Prial, Gilroy","Fr","2832424",2023,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2832424",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Reardon, Daniel","Sr","2155157",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2155157",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Recchia, Eric","So","2685679",2023,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2685679",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340
 "Recchia, Paul","So","2692445",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=589&stats_player_seq=2692445",589,"Rutgers-Newark","/team/589/16340",891,"NJAC",3,2023,16340

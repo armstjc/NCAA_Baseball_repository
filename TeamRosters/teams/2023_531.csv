@@ -1,9 +1,10 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Biddle, Tyler","So","2835575",2023,"38","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=531&stats_player_seq=2835575",531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
+"Bond, Caleb","N/A","2842767",2023,"40","pr","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=531&stats_player_seq=2842767",531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
 "Brown, Jake","So","2691729",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=531&stats_player_seq=2691729",531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
 "Carter, Brayden","Sr","2352539",2023,"3","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=531&stats_player_seq=2352539",531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
-"Conrad, Henry","Jr",NA,2023,"55","P",NA,531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
 "Conrad, Joey","Jr","2835576",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=531&stats_player_seq=2835576",531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
+"Conrad, Henry","Jr",NA,2023,"55","P",NA,531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
 "Firchau, Drew","Fr","2841315",2023,"16","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=531&stats_player_seq=2841315",531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
 "Folk, Adam","Jr","2526728",2023,"50","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=531&stats_player_seq=2526728",531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
 "Franz, Zach","Sr","2510823",2023,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=531&stats_player_seq=2510823",531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
@@ -40,4 +41,4 @@
 "Weaver, Matthew","So","2835574",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=531&stats_player_seq=2835574",531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
 "Weita, Nathan","Sr","2352540",2023,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=531&stats_player_seq=2352540",531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
 "Wilson, Jackson","Sr","2352544",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=531&stats_player_seq=2352544",531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
-"Wolf, G.","Jr","2832960",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=531&stats_player_seq=2832960",531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340
+"Wolf, Gavin","Jr","2832960",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=531&stats_player_seq=2832960",531,"Otterbein","/team/531/16340",901,"OAC",3,2023,16340

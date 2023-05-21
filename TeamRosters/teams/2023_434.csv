@@ -1,7 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Austin, Trevor","Jr","2489071",2023,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2489071",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Bargo, Dalton","Fr","2825609",2023,"50","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2825609",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
-"Beaman, Jackson","Jr","2489076",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2489076",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Careswell, Cam","So","2656242",2023,"52","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2656242",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Chick, Cam","Sr","2130902",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2130902",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Colon, Justin","So","2656182",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2656182",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
@@ -14,20 +13,17 @@
 "Horn, Sam","Fr","2825659",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2825659",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Leach, Dylan","Jr","2477424",2023,"2","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2477424",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Lohse, Ian","Jr","2489072",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2489072",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
-"Lovich, Ross","Jr","2489088",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2489088",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Lovich, Jackson","Fr","2825656",2023,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2825656",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
+"Lovich, Ross","Jr","2489088",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2489088",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Lucas, Brock","Fr","2825665",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2825665",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Lunceford, Logan","Fr","2825676",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2825676",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Maltrud, Rorik","Sr","2476093",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2476093",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
-"Mangual, Hector","So","2656209",2023,"24","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2656209",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Mann, Luke","Sr","2119792",2023,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2119792",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
-"Mayer, Bryce","Jr",NA,2023,"38","P",NA,434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Moore, Tucker","Fr",NA,2023,"39","C",NA,434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Morris, Tre","Sr","2119790",2023,"3","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2119790",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Mosh, Jack","Fr","2825610",2023,"53","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2825610",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Murphy, Chandler","Sr","2308386",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2308386",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Neubeck, Tony","So","2656212",2023,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2656212",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
-"Pedersen, Ben","Sr","2308128",2023,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2308128",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Pena, Carlos","So","2656216",2023,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2656216",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Pimental, Javyn","Jr","2474956",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2474956",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340
 "Pottoff, Kyle","Sr","2489106",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=434&stats_player_seq=2489106",434,"Missouri","/team/434/16340",911,"SEC",1,2023,16340

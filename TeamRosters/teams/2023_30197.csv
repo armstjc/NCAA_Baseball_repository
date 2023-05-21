@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Abney, Owen","Fr","2826642",2023,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2826642",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "Albin, Dawson","Sr","2675829",2023,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2675829",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
-"Bradley, Andrew","Fr",NA,2023,"31","INF",NA,30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
+"Bradley, Andrew","Fr","2826597",2023,"31","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2826597",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "Canale, Preston","So","2493993",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2493993",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "Carr, Jake","So","2826659",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2826659",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "Charbonnet, Matthew","Jr","2364080",2023,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2364080",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
@@ -9,7 +9,7 @@
 "Collins, Vincent","Fr",NA,2023,"50","P",NA,30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "Conlee, Preston","So","2675830",2023,"26","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2675830",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "Cross, Layne","Fr",NA,2023,"28","UT",NA,30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
-"David, Cooper","Fr",NA,2023,"42","OF",NA,30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
+"David, Cooper","Fr","2826652",2023,"42","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2826652",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "Dawson, John","Jr","1987104",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=1987104",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "Degeyter, Darron","Fr","2826653",2023,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2826653",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "Despaux, Mason","Fr","2826660",2023,"47","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2826660",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
@@ -30,6 +30,7 @@
 "Lucido, Nick","Sr","2135583",2023,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2135583",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "McInnis, Samuel","So",NA,2023,"46","1B",NA,30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "McLaughlin, Kyle","Sr","2364081",2023,"9","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2364081",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
+"Menard, C.","N/A","2842333",2023,"29","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2842333",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "Miller, Luke","Sr","2364082",2023,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2364082",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "Mitchell, Mark","Jr","2513867",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2513867",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340
 "Mitchell-Harvard, Shawn","Fr","2826666",2023,"44","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=30197&stats_player_seq=2826666",30197,"Belhaven","/team/30197/16340",30251,"CCS",3,2023,16340

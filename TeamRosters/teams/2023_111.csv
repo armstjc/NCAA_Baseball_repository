@@ -1,4 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
+"Anderson, Troy","Fr","2842920",2023,"45","ph/1b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=111&stats_player_seq=2842920",111,"UC Riverside","/team/111/16340",904,"Big West",1,2023,16340
 "Anderson, Kyle","Jr","2519461",2023,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=111&stats_player_seq=2519461",111,"UC Riverside","/team/111/16340",904,"Big West",1,2023,16340
 "Badawi, Jacob","So","2681298",2023,"32","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=111&stats_player_seq=2681298",111,"UC Riverside","/team/111/16340",904,"Big West",1,2023,16340
 "Barker, Corbin","So","2681741",2023,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=111&stats_player_seq=2681741",111,"UC Riverside","/team/111/16340",904,"Big West",1,2023,16340
@@ -24,8 +25,8 @@
 "O'Neill, David","Fr","2832753",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=111&stats_player_seq=2832753",111,"UC Riverside","/team/111/16340",904,"Big West",1,2023,16340
 "Pearson, Marcellus","Sr","2348301",2023,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=111&stats_player_seq=2348301",111,"UC Riverside","/team/111/16340",904,"Big West",1,2023,16340
 "Poss, Nick","Jr","2681409",2023,"23","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=111&stats_player_seq=2681409",111,"UC Riverside","/team/111/16340",904,"Big West",1,2023,16340
-"Rivas, Andrew","So","2681302",2023,"21","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=111&stats_player_seq=2681302",111,"UC Riverside","/team/111/16340",904,"Big West",1,2023,16340
 "Rivas, Alexander","Jr","2124983",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=111&stats_player_seq=2124983",111,"UC Riverside","/team/111/16340",904,"Big West",1,2023,16340
+"Rivas, Andrew","So","2681302",2023,"21","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=111&stats_player_seq=2681302",111,"UC Riverside","/team/111/16340",904,"Big West",1,2023,16340
 "Shanks, Jacob","Sr","2130862",2023,"10","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=111&stats_player_seq=2130862",111,"UC Riverside","/team/111/16340",904,"Big West",1,2023,16340
 "Shelton, Keith","Jr","2829111",2023,"48","ph/c","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=111&stats_player_seq=2829111",111,"UC Riverside","/team/111/16340",904,"Big West",1,2023,16340
 "Tracy, Cameron","Fr","2829113",2023,"35","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=111&stats_player_seq=2829113",111,"UC Riverside","/team/111/16340",904,"Big West",1,2023,16340

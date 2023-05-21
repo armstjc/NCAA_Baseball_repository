@@ -1,9 +1,9 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Alley, Jack","So","2663825",2023,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2663825",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
-"Ammons, Lucas","Sr","2505326",2023,"24","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2505326",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
+"Ammons, Lucas","Sr","2505326",2023,"99","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2505326",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
 "Armistad, AJ","So",NA,2023,"41","OF",NA,615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
 "Bambakidis, Peter","So",NA,2023,"40","OF",NA,615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
-"Beltrand, Ethan","Jr",NA,2023,"37","P",NA,615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
+"Beltrand, Ethan","Jr","2479485",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2479485",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
 "Bittner, Max","Fr",NA,2023,"45","P",NA,615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
 "Black, Henry","Fr",NA,2023,"43","OF",NA,615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
 "Blum, Chris","So","2663832",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2663832",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
@@ -18,8 +18,8 @@
 "Glampe, Joey","Jr","2479481",2023,"23","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2479481",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
 "Goldman, Brendan","Fr","2833485",2023,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2833485",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
 "Hadley, Breckin","Fr","2833470",2023,"29","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2833470",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
-"Hammonds, Cameron","So","2663810",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2663810",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
 "Hammonds, Evan","So","2663808",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2663808",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
+"Hammonds, Cameron","So","2663810",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2663810",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
 "Hansen, Derek","Jr","2479476",2023,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2479476",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
 "Humphreys, Jaden","So","2663830",2023,"34","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2663830",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340
 "Isaacson, Justin","So","2663824",2023,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=615&stats_player_seq=2663824",615,"St. Olaf","/team/615/16340",882,"MIAC",3,2023,16340

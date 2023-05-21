@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Arquette, Aiva","Fr",NA,2023,"13","INF",NA,756,"Washington","/team/756/16340",905,"Pac-12",1,2023,16340
+"Arquette, Aiva","Fr","2813225",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=756&stats_player_seq=2813225",756,"Washington","/team/756/16340",905,"Pac-12",1,2023,16340
 "Barney, McKay","Jr","2681292",2023,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=756&stats_player_seq=2681292",756,"Washington","/team/756/16340",905,"Pac-12",1,2023,16340
 "Bender, Kyle","Fr","2695878",2023,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=756&stats_player_seq=2695878",756,"Washington","/team/756/16340",905,"Pac-12",1,2023,16340
 "Blanchard, Colin","Fr","2695879",2023,"41","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=756&stats_player_seq=2695879",756,"Washington","/team/756/16340",905,"Pac-12",1,2023,16340
@@ -34,7 +34,7 @@
 "Tincher, Johnny","Jr","2319179",2023,"2","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=756&stats_player_seq=2319179",756,"Washington","/team/756/16340",905,"Pac-12",1,2023,16340
 "Warkentin, Boston","Fr","2813252",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=756&stats_player_seq=2813252",756,"Washington","/team/756/16340",905,"Pac-12",1,2023,16340
 "Whitton, Cooper","Fr","2813236",2023,"41","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=756&stats_player_seq=2813236",756,"Washington","/team/756/16340",905,"Pac-12",1,2023,16340
-"Woodward, Will","Fr",NA,2023,"37","P",NA,756,"Washington","/team/756/16340",905,"Pac-12",1,2023,16340
+"Woodward, Will","Fr","2813237",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=756&stats_player_seq=2813237",756,"Washington","/team/756/16340",905,"Pac-12",1,2023,16340
 "Ybarra, Jeter","So","2813259",2023,"16","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=756&stats_player_seq=2813259",756,"Washington","/team/756/16340",905,"Pac-12",1,2023,16340
 "Yeager, Isaac","Fr","2813238",2023,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=756&stats_player_seq=2813238",756,"Washington","/team/756/16340",905,"Pac-12",1,2023,16340
 "Zamora, Barron","Fr","2813253",2023,"30","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=756&stats_player_seq=2813253",756,"Washington","/team/756/16340",905,"Pac-12",1,2023,16340

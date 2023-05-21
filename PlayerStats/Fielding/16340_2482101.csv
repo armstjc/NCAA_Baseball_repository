@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,2,0,0,0,03/26/2023,home,16340,367,Louisville,9,True,1,2,-1,loss,2398274,513,2482101,2023,1
 1,0,1,0,0,0,0,0,0,0,04/11/2023,home,16340,416,Michigan St.,11,True,6,7,-1,loss,2401315,513,2482101,2023,1
 0,1,1,0,0,0,1,0,0,0,04/25/2023,away,16340,416,Michigan St.,9,True,5,12,-7,loss,2404535,513,2482101,2023,1
+0,1,1,0,0,0,0,0,0,0,05/19/2023,neutral,16340,67,Boston College,9,True,4,8,-4,loss,2407632,513,2482101,2023,1

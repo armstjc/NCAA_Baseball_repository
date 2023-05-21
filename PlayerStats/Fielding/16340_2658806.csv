@@ -44,3 +44,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,1,2,0,0,0,0,0,1,0,05/12/2023,neutral,16340,287,Houston Christian,9,True,9,5,4,win,2407037,655,2658806,2023,1
 2,4,6,0,0,0,0,0,2,0,05/12/2023,neutral,16340,287,Houston Christian,9,True,5,4,1,win,2406875,655,2658806,2023,1
 1,2,3,0,0,0,0,0,1,0,05/16/2023,home,16340,646,South Alabama,9,True,5,4,1,win,2407304,655,2658806,2023,1
+4,5,9,0,0,0,0,0,0,0,05/18/2023,home,16340,508,Northwestern St.,10,True,6,5,1,win,2407409,655,2658806,2023,1
+3,2,7,2,0,0,0,0,1,0,05/19/2023,home,16340,508,Northwestern St.,9,True,7,5,2,win,2407564,655,2658806,2023,1

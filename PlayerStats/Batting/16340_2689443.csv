@@ -1,5 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,3,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,03/15/2023,neutral,16340,69,Bowdoin,9,True,5,20,-15,loss,2408828,242,2689443,2023,3
+0,3,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,03/15/2023,neutral,16340,69,Bowdoin,8,True,5,20,-15,loss,2408828,242,2689443,2023,3
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/10/2023,away,16340,8398,Hilbert,9,True,8,16,-8,loss,2409189,242,2689443,2023,3
 0,2,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,04/29/2023,home,16340,475,SUNY New Paltz,9,True,7,13,-6,loss,2410902,242,2689443,2023,3
 0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/06/2023,away,16340,547,Plattsburgh St.,9,True,0,3,-3,loss,2406342,242,2689443,2023,3

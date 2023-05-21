@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,1,0,03/18/2023,home,16340,320,John Carroll,9,True,15,2,13,win,2409264,390,2333946,2023,3
 0,0,1,1,0,0,0,0,0,0,03/28/2023,home,16340,30164,Southern Va.,9,True,10,4,6,win,2398451,390,2333946,2023,3
+0,0,0,0,0,0,1,0,0,0,05/19/2023,neutral,16340,122,CWRU,9,True,2,16,-14,loss,2435343,390,2333946,2023,3

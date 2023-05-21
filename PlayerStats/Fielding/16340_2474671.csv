@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/31/2023,away,16340,474,New Orleans,9,True,11,8,3,win,2399028,508,2474671,2023,1
 1,1,2,0,0,0,0,0,0,0,04/04/2023,home,16340,366,Louisiana Tech,13,True,8,7,1,win,2400057,508,2474671,2023,1
 1,1,2,0,0,0,0,0,0,0,04/07/2023,home,16340,346,Lamar University,9,True,13,5,8,win,2400725,508,2474671,2023,1
+0,0,1,1,0,0,0,0,0,0,05/18/2023,away,16340,655,Southeastern La.,10,True,5,6,-1,loss,2407409,508,2474671,2023,1

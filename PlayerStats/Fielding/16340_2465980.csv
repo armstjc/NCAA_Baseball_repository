@@ -38,3 +38,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,1,0,05/12/2023,neutral,16340,1450,Westminster (MO),9,True,5,4,1,win,2434930,23260,2465980,2023,3
 1,4,5,0,0,0,0,0,1,0,05/13/2023,neutral,16340,759,Webster,9,True,8,1,7,win,2434931,23260,2465980,2023,3
 0,2,2,0,0,0,0,0,0,0,05/13/2023,neutral,16340,759,Webster,9,True,4,3,1,win,2435066,23260,2465980,2023,3
+1,4,5,0,0,0,0,0,1,0,05/19/2023,neutral,16340,46,Baldwin Wallace,9,True,3,4,-1,loss,2435331,23260,2465980,2023,3

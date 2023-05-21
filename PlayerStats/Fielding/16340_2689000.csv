@@ -11,3 +11,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 5,1,6,0,0,0,0,1,0,0,05/03/2023,away,16340,120,Carroll (WI),9,True,14,2,12,win,2405922,805,2689000,2023,3
 3,0,3,0,0,0,1,0,0,0,05/05/2023,home,16340,800,Wis.-Platteville,9,True,20,6,14,win,2411229,805,2689000,2023,3
 8,0,9,1,1,0,0,0,0,0,05/06/2023,home,16340,800,Wis.-Platteville,9,True,19,8,11,win,2411589,805,2689000,2023,3
+3,0,3,0,0,0,2,0,0,0,05/11/2023,neutral,16340,795,Wis.-La Crosse,9,True,4,14,-10,loss,2433811,805,2689000,2023,3

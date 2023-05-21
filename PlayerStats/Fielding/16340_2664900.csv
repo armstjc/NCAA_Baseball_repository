@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,1,0,1,0,04/14/2023,home,16340,149,Coastal Carolina,9,True,8,5,3,win,2401727,523,2664900,2023,1
 0,1,1,0,0,0,0,0,0,0,05/06/2023,away,16340,30,Arkansas St.,9,True,3,0,3,win,2406248,523,2664900,2023,1
 0,1,1,0,0,0,0,0,0,0,05/14/2023,away,16340,317,James Madison,11,True,8,5,3,win,2407194,523,2664900,2023,1
+0,0,0,0,0,0,1,0,0,0,05/19/2023,home,16340,254,Georgia St.,9,True,0,4,-4,loss,2407581,523,2664900,2023,1

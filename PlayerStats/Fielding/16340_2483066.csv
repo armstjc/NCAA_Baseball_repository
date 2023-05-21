@@ -1,5 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/04/2023,neutral,16340,321,John Jay,9,True,7,0,7,win,2408412,451,2483066,2023,3
 0,0,0,0,0,0,1,0,0,0,03/05/2023,home,16340,480,CCNY,9,True,10,9,1,win,2423073,451,2483066,2023,3
+0,0,0,0,0,0,1,0,0,0,03/15/2023,neutral,16340,195,Earlham,9,True,4,11,-7,loss,2395607,451,2483066,2023,3
 0,0,0,0,0,0,1,1,0,0,03/29/2023,away,16340,319,New Jersey City,9,True,11,14,-3,loss,2426470,451,2483066,2023,3
 0,0,0,0,0,0,1,0,0,0,05/02/2023,away,16340,30072,St. Joseph's (Brkln),9,True,18,2,16,win,2432980,451,2483066,2023,3

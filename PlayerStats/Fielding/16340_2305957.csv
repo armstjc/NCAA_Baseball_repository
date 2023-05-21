@@ -43,3 +43,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,3,6,1,0,0,0,0,0,0,05/12/2023,home,16340,16142,Misericordia,9,True,6,2,4,win,2433853,966,2305957,2023,3
 0,4,4,0,0,0,0,0,0,0,05/13/2023,home,16340,16142,Misericordia,9,True,1,6,-5,loss,2433854,966,2305957,2023,3
 2,7,9,0,0,0,0,0,1,0,05/13/2023,home,16340,16142,Misericordia,9,True,3,2,1,win,2435044,966,2305957,2023,3
+3,0,3,0,0,0,0,0,0,0,05/19/2023,home,16340,685,Susquehanna,10,True,9,14,-5,loss,2435491,966,2305957,2023,3

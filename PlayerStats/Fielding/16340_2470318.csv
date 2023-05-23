@@ -15,3 +15,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,0,2,0,0,0,0,0,0,0,05/13/2023,home,16340,104,UC Santa Barbara,9,True,0,8,-8,loss,2407104,99,2470318,2023,1
 2,0,2,0,0,0,0,0,0,0,05/14/2023,home,16340,104,UC Santa Barbara,9,True,7,3,4,win,2407190,99,2470318,2023,1
 4,0,4,0,0,0,0,0,0,0,05/19/2023,away,16340,97,Cal St. Fullerton,9,True,2,1,1,win,2407574,99,2470318,2023,1
+1,1,2,0,0,0,0,0,0,0,05/20/2023,away,16340,97,Cal St. Fullerton,9,True,7,4,3,win,2407748,99,2470318,2023,1
+2,0,2,0,0,0,0,0,0,0,05/21/2023,away,16340,97,Cal St. Fullerton,9,True,1,9,-8,loss,2407759,99,2470318,2023,1

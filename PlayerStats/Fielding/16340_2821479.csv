@@ -32,3 +32,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 6,0,6,0,0,0,0,0,0,0,05/14/2023,home,16340,474,New Orleans,9,True,5,15,-10,loss,2407128,2743,2821479,2023,1
 6,2,8,0,0,0,0,0,1,0,05/18/2023,away,16340,26172,A&M-Corpus Christi,9,True,9,6,3,win,2407346,2743,2821479,2023,1
 10,0,10,0,0,0,0,0,1,0,05/19/2023,away,16340,26172,A&M-Corpus Christi,9,True,3,7,-4,loss,2407477,2743,2821479,2023,1
+11,0,12,1,0,0,0,0,2,0,05/20/2023,away,16340,26172,A&M-Corpus Christi,9,True,5,1,4,win,2407621,2743,2821479,2023,1

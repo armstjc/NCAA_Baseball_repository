@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,1,0,0,0,05/02/2023,away,16340,346,Lamar University,9,True,1,13,-12,loss,2405875,553,2330077,2023,1
 0,0,0,0,0,0,1,0,0,0,05/12/2023,neutral,16340,699,Texas Southern,9,True,2,4,-2,loss,2434999,553,2330077,2023,1
 1,0,1,0,0,0,0,0,0,0,05/16/2023,away,16340,574,Rice,9,True,5,18,-13,loss,2407268,553,2330077,2023,1
+0,2,2,0,0,0,2,1,1,0,05/20/2023,home,16340,261,Grambling,9,True,6,1,5,win,2407710,553,2330077,2023,1

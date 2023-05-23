@@ -21,7 +21,7 @@ def generate_league_batting_stats():
         main_df = pd.concat([main_df,part_df],ignore_index=True)
         del part_df
 
-    main_df['G'] = 1
+    main_df.loc[main_df['season'] != None,'G'] = 1
     finished_df = pd.DataFrame(main_df.groupby(['season','season_id','division'],as_index=False)\
         [['G','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP']].sum())
     
@@ -225,7 +225,7 @@ def generate_season_player_batting_stats(season:int):
         
         lg_ops = league_df['OPS'].iloc[0]
         lg_slg = league_df['SLG'].iloc[0]
-        main_df['G'] = 1
+        main_df.loc[main_df['season'] != None,'G'] = 1
         main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','stats_player_seq','division'],as_index=False)\
             [['G','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP']].sum())
 
@@ -570,7 +570,7 @@ def generate_season_team_pitching_stats(season:int):
         lg_era = league_df['ERA'].iloc[0]
         fip_const = league_df['FIP_const'].iloc[0]
 
-        main_df['App'] = 1
+        main_df.loc[main_df['season'] != None, 'App'] = 1
         main_df = main_df.astype({'IP':'string'})
         main_df[['whole_innings','part_innings']] = main_df['IP'].str.split('.',expand=True)
         main_df = main_df.astype({'whole_innings':'int','part_innings':'int'})
@@ -679,7 +679,7 @@ def generate_team_game_batting_stats(season:int):
         lg_ops = league_df['OPS'].iloc[0]
         lg_slg = league_df['SLG'].iloc[0]
 
-        main_df['G'] = 1
+        main_df.loc[main_df['season'] != None,'G'] = 1
         main_df = pd.DataFrame(main_df.groupby(['season','season_id','school_id','division','date','game_id','field','opponent_id','opponent_name','runs_scored','runs_allowed'],as_index=False)\
             [['AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','IBB','TB','GDP','HBP','SH','SF','DP','Picked','OPP DP']].sum())
 

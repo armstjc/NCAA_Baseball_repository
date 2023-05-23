@@ -52,3 +52,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 7,0,7,0,0,0,0,0,0,0,05/16/2023,home,16340,316,Jacksonville,9,True,9,8,1,win,2407308,253,2122240,2023,1
 9,0,9,0,0,0,0,0,0,0,05/19/2023,home,16340,317,James Madison,9,True,10,6,4,win,2407448,253,2122240,2023,1
 5,1,7,1,0,0,0,0,0,0,05/19/2023,home,16340,317,James Madison,9,True,3,4,-1,loss,2407597,253,2122240,2023,1
+7,1,8,0,0,0,0,0,2,0,05/20/2023,home,16340,317,James Madison,9,True,4,2,2,win,2407728,253,2122240,2023,1

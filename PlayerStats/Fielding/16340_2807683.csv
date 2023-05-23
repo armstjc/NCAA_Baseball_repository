@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/22/2023,home,16340,472,New Mexico St.,9,True,9,7,2,win,2430386,1395,2807683,2023,1
 0,1,1,0,0,0,1,0,0,0,05/06/2023,home,16340,1104,Grand Canyon,9,True,5,8,-3,loss,2406460,1395,2807683,2023,1
 0,1,1,0,0,0,2,0,0,0,05/13/2023,away,16340,2,Abilene Christian,9,True,4,8,-4,loss,2406993,1395,2807683,2023,1
+0,1,2,1,0,0,0,0,0,0,05/19/2023,home,16340,624,Sam Houston,9,True,3,12,-9,loss,2407546,1395,2807683,2023,1

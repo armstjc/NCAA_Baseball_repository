@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,1,0,0,04/16/2023,home,16340,772,Western Ky.,10,True,6,4,2,win,2402557,9,2310184,2023,1
 0,1,1,0,0,0,0,0,0,0,04/21/2023,away,16340,458,Charlotte,9,True,1,4,-3,loss,2403470,9,2310184,2023,1
 1,0,1,0,0,0,0,0,0,0,05/06/2023,away,16340,366,Louisiana Tech,9,True,4,7,-3,loss,2406442,9,2310184,2023,1
+1,1,2,0,0,0,0,0,0,0,05/19/2023,home,16340,229,Fla. Atlantic,9,True,3,8,-5,loss,2407510,9,2310184,2023,1

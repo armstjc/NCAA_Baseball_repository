@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/22/2023,home,16340,87,Butler,9,True,19,2,17,win,2397176,47,2471719,2023,1
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,05/09/2023,away,16340,305,Indiana St.,9,True,1,11,-10,loss,2406734,47,2471719,2023,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,05/16/2023,away,16340,661,Southern Ind.,9,True,12,1,11,win,2407320,47,2471719,2023,1
+0,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,05/18/2023,home,16340,331,Kent St.,9,True,11,29,-18,loss,2407402,47,2471719,2023,1
+1,1,1,0,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,05/19/2023,home,16340,331,Kent St.,9,True,3,14,-11,loss,2407537,47,2471719,2023,1

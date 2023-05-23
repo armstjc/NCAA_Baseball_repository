@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,04/21/2023,away,16340,12973,Wilson,9,True,10,17,-7,loss,2403373,30047,2484400,2023,3
 0,1,1,0,0,0,0,0,0,0,04/25/2023,home,16340,1254,Neumann,9,True,24,14,10,win,2404431,30047,2484400,2023,3
+0,2,2,0,0,0,2,0,0,0,05/20/2023,neutral,16340,751,Wash. & Jeff.,9,True,9,18,-9,loss,2435324,30047,2484400,2023,3

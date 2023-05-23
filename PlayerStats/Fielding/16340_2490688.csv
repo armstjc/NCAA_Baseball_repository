@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,03/04/2023,away,16340,149,Coastal Carolina,9,True,5,26,-21,loss,2392912,173,2490688,2023,1
 1,2,4,1,0,0,0,0,1,0,04/11/2023,away,16340,193,Duke,9,True,0,19,-19,loss,2401277,173,2490688,2023,1
+1,0,1,0,0,0,0,0,0,0,05/18/2023,away,16340,575,Richmond,9,True,10,11,-1,loss,2407369,173,2490688,2023,1
+4,1,5,0,0,0,0,0,0,0,05/19/2023,away,16340,575,Richmond,9,True,3,7,-4,loss,2407503,173,2490688,2023,1
+0,2,2,0,0,0,0,0,0,0,05/20/2023,away,16340,575,Richmond,9,True,2,18,-16,loss,2407646,173,2490688,2023,1

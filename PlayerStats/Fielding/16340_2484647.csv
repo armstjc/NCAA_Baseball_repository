@@ -7,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/28/2023,home,16340,474,New Orleans,9,True,4,7,-3,loss,2404793,32,2484647,2023,1
 1,0,1,0,0,0,0,0,0,0,05/06/2023,away,16340,661,Southern Ind.,9,True,14,10,4,win,2406437,32,2484647,2023,1
 0,1,1,0,0,0,0,0,0,0,05/14/2023,home,16340,692,Tennessee Tech,10,True,11,10,1,win,2407156,32,2484647,2023,1
+1,1,2,0,0,0,0,0,0,0,05/18/2023,away,16340,444,Morehead St.,9,True,8,12,-4,loss,2407406,32,2484647,2023,1

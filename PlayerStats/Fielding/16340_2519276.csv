@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,2,3,0,0,0,0,1,0,0,04/08/2023,away,16340,443,Moravian,9,True,15,3,12,win,2409964,685,2519276,2023,3
 1,1,2,0,0,0,0,1,0,0,04/16/2023,home,16340,211,Elizabethtown,9,True,5,8,-3,loss,2402238,685,2519276,2023,3
 0,1,2,1,0,0,1,1,0,0,05/14/2023,away,16340,633,Scranton,10,True,8,6,2,win,2435106,685,2519276,2023,3
+0,2,2,0,0,0,0,0,0,0,05/20/2023,neutral,16340,78,SUNY Brockport,9,True,8,6,2,win,2435664,685,2519276,2023,3

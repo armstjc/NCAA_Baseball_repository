@@ -19,3 +19,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,1,0,0,0,04/23/2023,home,16340,300,Ill. Wesleyan,9,True,5,11,-6,loss,2403993,53,2502971,2023,3
 2,0,2,0,0,0,0,0,0,0,04/30/2023,away,16340,166,Cornell College,9,True,7,8,-1,loss,2405526,53,2502971,2023,3
 3,0,3,0,0,0,0,0,0,0,05/07/2023,home,16340,297,Illinois Col.,9,True,14,5,9,win,2406521,53,2502971,2023,3
+1,1,2,0,0,0,0,1,0,0,05/20/2023,home,16340,23260,Spalding,12,True,3,4,-1,loss,2435333,53,2502971,2023,3

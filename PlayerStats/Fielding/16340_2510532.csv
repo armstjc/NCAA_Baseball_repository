@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,1,0,0,0,03/16/2023,home,16340,276,Haverford,9,True,8,16,-8,loss,2395470,303,2510532,2023,3
 1,1,2,0,0,0,0,0,0,0,03/23/2023,away,16340,588,Rutgers-Camden,9,True,6,0,6,win,2425817,303,2510532,2023,3
 1,0,1,0,0,0,0,0,0,0,04/15/2023,away,16340,88,Cabrini,9,True,4,5,-1,loss,2402281,303,2510532,2023,3
+0,1,1,0,0,0,0,0,0,0,05/19/2023,neutral,16340,139,Chris. Newport,9,True,2,9,-7,loss,2435447,303,2510532,2023,3

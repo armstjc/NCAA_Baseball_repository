@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,03/19/2023,home,16340,89,Caltech,9,True,15,14,1,win,2421118,515,2350842,2023,3
+1,0,1,0,0,0,0,0,0,0,03/19/2023,neutral,16340,89,Caltech,9,True,15,14,1,win,2421118,515,2350842,2023,3
 0,0,1,1,0,0,0,0,0,0,03/24/2023,neutral,16340,764,Wesleyan (CT),9,True,10,8,2,win,2418263,515,2350842,2023,3
 0,0,0,0,0,0,1,0,0,0,04/02/2023,home,16340,807,Wooster,9,True,5,12,-7,loss,2409014,515,2350842,2023,3
 1,1,3,1,0,0,0,0,0,0,04/08/2023,away,16340,177,DePauw,9,True,7,8,-1,loss,2409418,515,2350842,2023,3

@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 8,0,8,0,0,0,1,0,0,0,03/13/2023,neutral,16340,1451,Westminster (PA),9,True,4,18,-14,loss,2408322,69,2692966,2023,3
-1,1,2,0,0,0,0,0,0,0,03/15/2023,neutral,16340,242,Fredonia,9,True,20,5,15,win,2408828,69,2692966,2023,3
+1,1,2,0,0,0,0,0,0,0,03/15/2023,neutral,16340,242,Fredonia,8,True,20,5,15,win,2408828,69,2692966,2023,3
 3,0,3,0,0,0,0,0,0,0,03/29/2023,neutral,16340,2758,Thomas (ME),9,True,14,4,10,win,2426665,69,2692966,2023,3
 1,0,1,0,0,0,0,0,0,0,04/12/2023,home,16340,605,St. Joseph's (ME),9,True,6,5,1,win,2401661,69,2692966,2023,3
 1,0,3,2,0,1,4,0,0,0,04/15/2023,away,16340,717,Tufts,9,True,6,10,-4,loss,2409733,69,2692966,2023,3

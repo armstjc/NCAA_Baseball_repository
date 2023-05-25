@@ -1,5 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 12,2,16,2,0,1,6,1,0,0,03/04/2023,away,16340,745,Va. Wesleyan,9,True,20,11,9,win,2393125,259,2682974,2023,3
+2,0,2,0,0,2,3,0,0,0,03/05/2023,away,16340,745,Va. Wesleyan,9,True,9,5,4,win,2393501,259,2682974,2023,3
 12,1,16,3,2,1,0,1,0,0,03/09/2023,neutral,16340,42,Aurora,9,True,13,9,4,win,2394119,259,2682974,2023,3
 1,0,1,0,0,0,0,0,0,0,03/10/2023,neutral,16340,23121,Texas-Dallas,10,True,6,7,-1,loss,2394260,259,2682974,2023,3
 4,0,4,0,0,0,0,0,0,0,03/12/2023,away,16340,84,Buena Vista,10,True,16,14,2,win,2394987,259,2682974,2023,3

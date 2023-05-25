@@ -1,8 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/08/2023,home,16340,50,Bates,9,True,6,1,5,win,2393973,8981,2520852,2023,3
 3,0,3,0,0,0,0,0,0,0,03/12/2023,away,16340,549,Pomona-Pitzer,9,True,7,2,5,win,2394944,8981,2520852,2023,3
-4,0,4,0,0,0,0,0,0,0,03/13/2023,away,16340,134,Chapman,9,True,11,13,-2,loss,2395441,8981,2520852,2023,3
 3,0,3,0,0,0,0,0,0,0,03/13/2023,away,16340,549,Pomona-Pitzer,9,True,5,4,1,win,2395227,8981,2520852,2023,3
+4,0,4,0,0,0,0,0,0,0,03/13/2023,away,16340,134,Chapman,9,True,11,13,-2,loss,2395441,8981,2520852,2023,3
 1,0,1,0,0,0,0,0,0,0,03/16/2023,away,16340,341,La Verne,9,True,5,3,2,win,2395775,8981,2520852,2023,3
 1,0,1,0,0,0,0,0,0,0,03/17/2023,away,16340,516,Occidental,9,True,16,2,14,win,2395942,8981,2520852,2023,3
 1,0,1,0,0,0,0,0,0,0,03/18/2023,away,16340,341,La Verne,9,True,11,0,11,win,2423984,8981,2520852,2023,3
@@ -36,3 +36,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 3,0,3,0,0,0,0,0,0,0,05/11/2023,home,16340,484,Nichols,12,True,3,2,1,win,2434024,8981,2520852,2023,3
 3,0,3,0,0,0,0,0,0,0,05/12/2023,home,16340,623,Salve Regina,10,True,8,7,1,win,2434733,8981,2520852,2023,3
 2,0,2,0,0,0,0,0,0,0,05/13/2023,home,16340,623,Salve Regina,9,True,2,5,-3,loss,2434759,8981,2520852,2023,3
+2,0,2,0,0,0,0,0,0,0,05/22/2023,neutral,16340,22626,JWU (Providence),9,True,10,4,6,win,2435790,8981,2520852,2023,3
+2,0,2,0,0,0,0,0,0,0,05/22/2023,neutral,16340,22626,JWU (Providence),9,True,7,1,6,win,2435991,8981,2520852,2023,3

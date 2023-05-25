@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,2,1,0,0,04/27/2023,home,16340,809,Worcester St.,9,True,2,1,1,win,2431450,76,2521580,2023,3
 0,0,0,0,0,0,4,0,0,0,05/05/2023,away,16340,777,Westfield St.,9,True,7,8,-1,loss,2406138,76,2521580,2023,3
 0,1,1,0,0,0,0,1,0,0,05/11/2023,home,16340,227,Fitchburg St.,9,True,10,7,3,win,2434713,76,2521580,2023,3
+0,1,1,0,0,0,2,0,0,0,05/21/2023,home,16340,22626,JWU (Providence),9,True,0,10,-10,loss,2435225,76,2521580,2023,3

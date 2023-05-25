@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,2,2,0,0,0,1,1,0,0,04/27/2023,home,16340,583,Roger Williams,9,True,6,7,-1,loss,2431445,200,2680152,2023,3
 0,0,0,0,0,0,1,0,0,0,05/05/2023,away,16340,401,UMass Boston,9,True,7,5,2,win,2406078,200,2680152,2023,3
 1,2,3,0,0,0,0,1,0,0,05/11/2023,neutral,16340,662,Southern Me.,9,True,4,2,2,win,2434670,200,2680152,2023,3
+0,0,0,0,0,0,2,0,0,0,05/19/2023,neutral,16340,313,Ithaca,9,True,2,11,-9,loss,2435192,200,2680152,2023,3

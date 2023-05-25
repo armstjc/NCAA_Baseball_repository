@@ -11,3 +11,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,1,2,0,0,0,1,0,0,0,05/07/2023,home,16340,228,Florida A&M,9,True,10,7,3,win,2406653,314,2810753,2023,1
 0,0,0,0,0,0,1,0,0,0,05/14/2023,home,16340,432,Mississippi Val.,9,True,6,7,-1,loss,2407157,314,2810753,2023,1
 1,1,2,0,0,0,1,1,0,0,05/18/2023,away,16340,61,Bethune-Cookman,9,True,0,5,-5,loss,2407467,314,2810753,2023,1
+0,1,1,0,0,0,1,0,0,0,05/24/2023,neutral,16340,261,Grambling,9,True,7,8,-1,loss,2436189,314,2810753,2023,1

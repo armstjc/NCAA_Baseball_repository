@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/15/2023,home,16340,692,Tennessee Tech,9,True,5,4,1,win,2402086,654,2488398,2023,1
 1,1,2,0,0,0,0,0,1,0,05/12/2023,away,16340,695,UT Martin,9,True,8,9,-1,loss,2406899,654,2488398,2023,1
 0,0,0,0,0,0,3,0,0,0,05/18/2023,home,16340,201,Eastern Ill.,9,True,2,10,-8,loss,2407442,654,2488398,2023,1
+0,1,1,0,0,0,0,0,0,0,05/24/2023,neutral,16340,201,Eastern Ill.,9,True,6,7,-1,loss,2436139,654,2488398,2023,1

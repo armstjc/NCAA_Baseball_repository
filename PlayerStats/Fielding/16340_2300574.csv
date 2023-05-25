@@ -10,3 +10,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/28/2023,home,16340,1395,Tarleton St.,9,True,1,2,-1,loss,2404755,1356,2300574,2023,1
 0,2,2,0,0,0,1,1,0,0,05/05/2023,away,16340,472,New Mexico St.,9,True,10,8,2,win,2406187,1356,2300574,2023,1
 0,2,2,0,0,0,1,1,0,0,05/18/2023,home,16340,2,Abilene Christian,9,True,9,3,6,win,2407352,1356,2300574,2023,1
+1,0,1,0,0,0,0,0,0,0,05/24/2023,neutral,16340,30024,Utah Valley,9,True,6,16,-10,loss,2436014,1356,2300574,2023,1

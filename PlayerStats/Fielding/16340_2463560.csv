@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,02/24/2023,neutral,16340,177,DePauw,9,True,16,5,11,win,2391504,759,2463560,2023,3
 1,0,1,0,0,0,0,0,0,0,05/11/2023,neutral,16340,218,Eureka,9,True,20,1,19,win,2434000,759,2463560,2023,3
+2,0,2,0,0,0,0,0,0,0,05/20/2023,away,16340,802,Wis.-Stevens Point,9,True,1,20,-19,loss,2435345,759,2463560,2023,3

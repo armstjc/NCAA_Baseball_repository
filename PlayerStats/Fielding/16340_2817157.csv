@@ -19,3 +19,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,1,2,0,0,0,0,0,0,0,04/15/2023,home,16340,30202,Okla. Baptist,9,True,10,5,5,win,2402191,1289,2817157,2023,2
 0,1,1,0,0,0,0,0,0,0,04/18/2023,home,16340,8411,Ark.-Monticello,9,True,3,0,3,win,2423562,1289,2817157,2023,2
 0,0,1,1,0,0,0,0,0,0,04/21/2023,away,16340,30152,Southern Nazarene,9,True,6,3,3,win,2430059,1289,2817157,2023,2
+3,1,4,0,0,0,0,0,0,0,05/20/2023,neutral,16340,598,St. Cloud St.,13,True,4,5,-1,loss,2435552,1289,2817157,2023,2

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,04/28/2023,away,16340,468,Southern N.H.,9,True,11,13,-2,loss,2411514,241,2683578,2023,2
 0,1,1,0,0,0,0,0,0,0,05/12/2023,neutral,16340,56,Bentley,9,True,8,3,5,win,2434806,241,2683578,2023,2
+0,2,2,0,0,0,1,0,0,0,05/18/2023,home,16340,533,Pace,9,True,5,10,-5,loss,2435147,241,2683578,2023,2

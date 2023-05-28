@@ -1,4 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/18/2023,away,16340,30058,Claflin,9,True,20,0,20,win,2390700,1097,2818867,2023,2
 1,0,1,0,0,0,3,0,0,0,03/04/2023,home,16340,1167,Lander,9,True,10,1,9,win,2393228,1097,2818867,2023,2
 0,0,0,0,0,0,6,0,0,0,04/02/2023,home,16340,49,Barry,9,True,9,7,2,win,2427204,1097,2818867,2023,2
 0,1,1,0,0,0,0,1,0,0,04/07/2023,away,16340,159,Columbus St.,9,True,3,8,-5,loss,2427917,1097,2818867,2023,2
@@ -6,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,2,2,0,0,0,0,0,0,0,04/22/2023,home,16340,30052,North Georgia,9,True,10,4,6,win,2403897,1097,2818867,2023,2
 0,1,1,0,0,0,1,0,0,0,04/29/2023,home,16340,30092,Flagler,9,True,9,6,3,win,2405040,1097,2818867,2023,2
 0,2,2,0,0,0,1,0,0,0,05/13/2023,away,16340,30154,Young Harris,9,True,9,2,7,win,2434966,1097,2818867,2023,2
+0,2,2,0,0,0,0,0,0,0,05/18/2023,away,16340,9223,North Greenville,9,True,5,6,-1,loss,2435570,1097,2818867,2023,2

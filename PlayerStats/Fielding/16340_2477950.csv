@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,1,1,0,0,1,0,0,0,04/28/2023,away,16340,655,Southeastern La.,9,True,5,4,1,win,2404952,346,2477950,2023,1
 0,0,1,1,0,0,0,0,0,0,05/07/2023,away,16340,402,McNeese,9,True,10,9,1,win,2406672,346,2477950,2023,1
 0,1,1,0,0,0,0,0,0,0,05/20/2023,home,16340,287,Houston Christian,9,True,9,5,4,win,2407698,346,2477950,2023,1
+0,1,1,0,0,0,0,0,0,0,05/25/2023,neutral,16340,483,Nicholls,9,True,0,4,-4,loss,2436076,346,2477950,2023,1

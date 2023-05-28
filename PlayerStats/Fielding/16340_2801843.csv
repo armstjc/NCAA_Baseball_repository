@@ -1,6 +1,2 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/19/2023,neutral,16340,164,UConn,9,True,6,8,-2,loss,2391058,518,2801843,2023,1
-0,1,1,0,0,0,0,0,0,0,04/02/2023,home,16340,428,Minnesota,9,True,2,6,-4,loss,2399712,518,2801843,2023,1
-0,0,0,0,0,0,1,0,0,0,04/23/2023,away,16340,539,Penn St.,9,True,3,15,-12,loss,2404172,518,2801843,2023,1
-0,0,0,0,0,0,1,0,0,0,04/26/2023,away,16340,331,Kent St.,9,True,5,10,-5,loss,2404520,518,2801843,2023,1
-0,1,1,0,0,0,0,0,0,0,05/18/2023,home,16340,418,Michigan,9,True,7,3,4,win,2407427,518,2801843,2023,1
+0,0,0,0,0,0,3,0,0,0,02/19/2023,neutral,16340,164,UConn,9,True,6,8,-2,loss,2391058,518,2496968,2023,1

@@ -9,3 +9,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,1,0,05/16/2023,away,16340,149,Coastal Carolina,9,True,6,8,-2,loss,2407263,457,2804917,2023,1
 1,0,1,0,0,0,0,0,0,0,05/19/2023,away,16340,147,Clemson,9,True,4,5,-1,loss,2407567,457,2804917,2023,1
 1,0,1,0,0,0,0,0,0,0,05/23/2023,neutral,16340,255,Georgia Tech,9,True,11,5,6,win,2435872,457,2804917,2023,1
+1,0,1,0,0,0,0,0,0,0,05/27/2023,neutral,16340,147,Clemson,9,True,4,10,-6,loss,2435871,457,2804917,2023,1

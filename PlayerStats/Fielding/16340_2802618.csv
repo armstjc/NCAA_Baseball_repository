@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/28/2023,home,16340,527,Oral Roberts,9,True,0,4,-4,loss,2398580,669,2802618,2023,1
 0,1,1,0,0,0,0,0,0,0,05/13/2023,away,16340,659,Southern Ill.,12,True,6,5,1,win,2407074,669,2802618,2023,1
+0,0,1,1,0,0,0,0,0,0,05/26/2023,neutral,16340,454,Murray St.,9,True,4,3,1,win,2436000,669,2802618,2023,1

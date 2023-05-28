@@ -27,3 +27,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 5,1,6,0,0,0,0,0,0,0,05/14/2023,away,16340,742,Virginia Tech,9,True,9,6,3,win,2407196,147,2796435,2023,1
 10,1,11,0,0,0,0,0,0,0,05/16/2023,home,16340,10411,USC Upstate,9,True,12,2,10,win,2407307,147,2796435,2023,1
 11,0,11,0,0,1,0,0,0,0,05/20/2023,home,16340,457,North Carolina,9,True,3,1,2,win,2407680,147,2796435,2023,1
+9,1,10,0,0,1,1,0,0,0,05/24/2023,neutral,16340,742,Virginia Tech,9,True,14,5,9,win,2435889,147,2796435,2023,1

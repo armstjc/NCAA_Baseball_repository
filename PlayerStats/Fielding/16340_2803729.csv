@@ -17,3 +17,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,1,2,0,0,0,0,0,0,0,04/18/2023,away,16340,546,Pitt.-Johnstown,9,True,17,7,10,win,2402876,638,2803729,2023,2
 1,1,2,0,0,0,0,0,0,0,04/22/2023,away,16340,339,Kutztown,9,True,6,3,3,win,2403622,638,2803729,2023,2
 0,1,1,0,0,0,0,0,0,0,04/22/2023,away,16340,339,Kutztown,8,True,7,4,3,win,2410955,638,2803729,2023,2
+1,0,1,0,0,0,0,0,0,0,05/19/2023,neutral,16340,197,East Stroudsburg,9,True,4,20,-16,loss,2435550,638,2803729,2023,2

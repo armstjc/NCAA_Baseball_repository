@@ -48,3 +48,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,2,4,0,0,0,0,0,0,0,05/20/2023,home,16340,786,William & Mary,9,True,6,0,6,win,2407566,460,2328791,2023,1
 0,3,3,0,0,0,0,0,0,0,05/20/2023,home,16340,786,William & Mary,9,True,6,3,3,win,2407727,460,2328791,2023,1
 1,5,6,0,0,0,0,0,0,0,05/25/2023,neutral,16340,180,Delaware,9,True,3,0,3,win,2435949,460,2328791,2023,1
+0,3,4,1,0,0,0,0,0,0,05/26/2023,neutral,16340,500,Northeastern,10,True,6,5,1,win,2435964,460,2328791,2023,1

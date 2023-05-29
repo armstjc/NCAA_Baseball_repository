@@ -56,3 +56,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,3,5,0,0,0,0,0,1,0,05/23/2023,neutral,16340,248,George Mason,11,True,4,5,-1,loss,2435710,175,2813610,2023,1
 2,1,4,1,0,0,0,0,0,0,05/25/2023,neutral,16340,173,Davidson,9,True,15,4,11,win,2435714,175,2813610,2023,1
 2,2,4,0,0,0,0,0,0,0,05/25/2023,neutral,16340,606,Saint Joseph's,9,True,15,10,5,win,2435716,175,2813610,2023,1
+1,1,2,0,0,0,0,0,1,0,05/26/2023,neutral,16340,248,George Mason,9,True,2,3,-1,loss,2435719,175,2813610,2023,1

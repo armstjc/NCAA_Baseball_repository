@@ -7,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/24/2023,home,16340,620,St. Thomas (MN),9,True,2,1,1,win,2403347,649,2308728,2023,1
 1,0,1,0,0,0,0,0,0,0,05/14/2023,home,16340,502,Northern Colo.,9,True,7,6,1,win,2406882,649,2308728,2023,1
 0,0,0,0,0,0,1,0,0,0,05/18/2023,away,16340,493,North Dakota St.,9,True,6,5,1,win,2407450,649,2308728,2023,1
+0,0,2,2,0,0,1,0,0,0,05/27/2023,neutral,16340,527,Oral Roberts,9,True,4,12,-8,loss,2436032,649,2308728,2023,1

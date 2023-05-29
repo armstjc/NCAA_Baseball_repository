@@ -4,3 +4,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,1,0,0,03/04/2023,home,16340,368,UMass Lowell,9,True,11,5,6,win,2422671,317,2348982,2023,1
 0,1,1,0,0,0,0,0,0,0,03/11/2023,away,16340,10411,USC Upstate,9,True,6,9,-3,loss,2395184,317,2348982,2023,1
 0,1,1,0,0,0,0,0,0,0,04/02/2023,home,16340,646,South Alabama,9,True,3,14,-11,loss,2399585,317,2348982,2023,1
+1,0,1,0,0,0,0,0,0,0,05/25/2023,neutral,16340,27,App State,9,True,7,8,-1,loss,2436098,317,2348982,2023,1

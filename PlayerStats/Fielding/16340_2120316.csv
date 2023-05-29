@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,0,0,0,05/05/2023,home,16340,272,Hartford,11,True,10,8,2,win,2406142,562,2120316,2023,1
 0,1,1,0,0,0,0,0,0,0,05/19/2023,away,16340,639,Siena,14,True,12,11,1,win,2407482,562,2120316,2023,1
+0,0,0,0,0,0,1,0,0,0,05/26/2023,neutral,16340,220,Fairfield,9,True,4,12,-8,loss,2435974,562,2120316,2023,1

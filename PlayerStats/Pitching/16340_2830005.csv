@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.1,0.0,1,2,2,1,0,0,6,5,0,0,0,0,1,0,0,1,0,0,0,23,0,4,0,0,0,5,0,0,03/05/2023,away,16340,434,Missouri,9,True,7,15,-8,loss,2393392,699,2830005,2023,1
 1,1,4.0,0.0,3,4,2,2,4,0,19,15,0,0,0,1,1,1,0,0,0,0,1,66,4,3,0,1,0,1,1,0,04/11/2023,neutral,16340,328,Kansas,9,True,5,8,-3,loss,2401364,699,2830005,2023,1
+1,1,4.0,0.0,6,5,4,2,1,0,20,16,1,0,0,0,0,1,0,0,0,1,0,70,5,5,0,1,0,1,0,0,05/25/2023,neutral,16340,553,Prairie View,9,True,6,9,-3,loss,2436185,699,2830005,2023,1

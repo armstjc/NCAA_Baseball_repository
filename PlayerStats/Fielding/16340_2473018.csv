@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,1,0,0,04/22/2023,away,16340,107,California,9,True,6,8,-2,loss,2403938,529,2473018,2023,1
 1,0,1,0,0,0,0,2,0,0,05/06/2023,away,16340,657,Southern California,9,True,7,5,2,win,2406499,529,2473018,2023,1
 0,0,0,0,0,0,3,0,0,0,05/18/2023,away,16340,732,Utah,9,True,5,12,-7,loss,2407456,529,2473018,2023,1
+0,0,0,0,0,0,2,0,0,0,05/25/2023,neutral,16340,674,Stanford,10,True,8,6,2,win,2435998,529,2473018,2023,1

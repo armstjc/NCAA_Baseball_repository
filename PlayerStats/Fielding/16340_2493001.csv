@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,1,0,0,0,05/02/2023,away,16340,457,North Carolina,9,True,6,5,1,win,2405879,115,2493001,2023,1
 0,0,0,0,0,0,1,0,0,0,05/07/2023,away,16340,456,UNC Asheville,9,True,11,7,4,win,2406529,115,2493001,2023,1
 0,1,1,0,0,0,1,1,0,0,05/16/2023,away,16340,196,East Carolina,9,True,14,13,1,win,2407312,115,2493001,2023,1
+0,3,3,0,0,0,0,1,1,0,05/27/2023,neutral,16340,10411,USC Upstate,9,True,3,2,1,win,2435828,115,2493001,2023,1

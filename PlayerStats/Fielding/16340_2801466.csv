@@ -38,3 +38,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 13,0,13,0,0,0,0,0,1,0,05/20/2023,home,16340,30135,California Baptist,9,True,8,1,7,win,2407667,1104,2801466,2023,1
 10,0,10,0,0,0,0,0,0,0,05/24/2023,neutral,16340,536,UTRGV,9,True,3,1,2,win,2436017,1104,2801466,2023,1
 6,0,6,0,0,0,0,0,1,0,05/25/2023,neutral,16340,702,UT Arlington,9,True,5,6,-1,loss,2436041,1104,2801466,2023,1
+5,0,6,1,0,0,0,0,1,0,05/26/2023,neutral,16340,624,Sam Houston,9,True,8,22,-14,loss,2436024,1104,2801466,2023,1

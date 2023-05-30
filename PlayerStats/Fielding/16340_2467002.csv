@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/29/2023,home,16340,1332,Dominican (IL),9,True,5,1,4,win,2405230,42,2467002,2023,3
 0,0,0,0,0,0,1,1,0,0,05/11/2023,neutral,16340,1066,Edgewood,9,True,12,1,11,win,2434147,42,2467002,2023,3
 1,2,3,0,0,0,1,1,0,0,05/19/2023,home,16340,320,John Carroll,9,True,3,2,1,win,2435171,42,2467002,2023,3
+0,1,1,0,0,0,0,1,0,0,05/26/2023,away,16340,46,Baldwin Wallace,9,True,5,6,-1,loss,2435931,42,2467002,2023,3

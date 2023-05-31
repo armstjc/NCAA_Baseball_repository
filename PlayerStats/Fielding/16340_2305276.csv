@@ -11,3 +11,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,2,1,0,0,05/13/2023,away,16340,782,Wichita St.,9,True,2,9,-7,loss,2407048,651,2305276,2023,1
 0,1,1,0,0,0,1,0,0,0,05/18/2023,home,16340,196,East Carolina,9,True,3,8,-5,loss,2407453,651,2305276,2023,1
 0,2,2,0,0,0,0,1,0,0,05/23/2023,neutral,16340,196,East Carolina,11,True,12,11,1,win,2435772,651,2305276,2023,1
+0,0,0,0,0,0,1,0,0,0,05/27/2023,neutral,16340,196,East Carolina,9,True,7,14,-7,loss,2501417,651,2305276,2023,1

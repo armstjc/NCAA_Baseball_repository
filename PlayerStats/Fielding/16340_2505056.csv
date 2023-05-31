@@ -43,3 +43,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,05/20/2023,home,16340,196,East Carolina,9,True,1,7,-6,loss,2407685,651,2505056,2023,1
 0,2,2,0,0,0,0,0,1,0,05/23/2023,neutral,16340,196,East Carolina,11,True,12,11,1,win,2435772,651,2505056,2023,1
 0,2,3,1,0,0,0,0,0,0,05/25/2023,neutral,16340,128,UCF,9,True,15,4,11,win,2435773,651,2505056,2023,1
+2,0,2,0,0,0,0,0,0,0,05/27/2023,neutral,16340,196,East Carolina,9,True,7,14,-7,loss,2501417,651,2505056,2023,1

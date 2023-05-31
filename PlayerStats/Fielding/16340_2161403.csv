@@ -1,2 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/29/2023,away,16340,397,Marywood,9,True,16,7,9,win,2398393,213,2161403,2023,3
+1,0,1,0,0,0,0,0,0,0,03/28/2023,away,16340,30160,Houghton,9,True,1,6,-5,loss,2397906,213,2343942,2023,3
+0,1,2,1,0,0,3,1,0,0,04/02/2023,home,16340,11036,Russell Sage,9,True,0,3,-3,loss,2409862,213,2343942,2023,3
+1,1,2,0,0,0,1,0,0,0,04/07/2023,home,16340,23725,Medaille,9,True,9,3,6,win,2400370,213,2343942,2023,3
+0,1,1,0,0,0,0,0,0,0,04/08/2023,home,16340,23725,Medaille,9,True,12,2,10,win,2400809,213,2343942,2023,3
+0,1,1,0,0,0,0,0,0,0,04/19/2023,home,16340,761,Wells,9,True,4,3,1,win,2402799,213,2343942,2023,3
+1,1,2,0,0,0,1,0,0,0,04/29/2023,home,16340,601,St. John Fisher,9,True,1,2,-1,loss,2405094,213,2343942,2023,3
+0,1,1,0,0,0,5,0,0,0,05/04/2023,home,16340,601,St. John Fisher,9,True,4,12,-8,loss,2405470,213,2343942,2023,3
+0,1,1,0,0,0,0,0,0,0,05/06/2023,away,16340,1159,Keuka,9,True,4,2,2,win,2406407,213,2343942,2023,3

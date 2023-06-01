@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,2,3,1,0,0,1,1,0,0,04/21/2023,away,16340,317,James Madison,9,True,8,10,-2,loss,2403448,671,2649610,2023,1
 0,1,1,0,0,0,0,0,0,0,04/25/2023,home,16340,665,Southern U.,9,True,10,5,5,win,2404493,671,2649610,2023,1
 0,0,0,0,0,0,1,0,0,0,04/28/2023,home,16340,149,Coastal Carolina,9,True,11,9,2,win,2404949,671,2649610,2023,1
+0,0,0,0,0,0,1,0,0,0,05/28/2023,neutral,16340,664,Southern Miss.,9,True,2,6,-4,loss,2436011,671,2649610,2023,1

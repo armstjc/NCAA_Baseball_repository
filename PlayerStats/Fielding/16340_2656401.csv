@@ -13,3 +13,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,6,0,0,0,05/05/2023,home,16340,624,Sam Houston,9,True,12,10,2,win,2406217,700,2656401,2023,1
 0,2,2,0,0,0,0,1,0,0,05/12/2023,away,16340,768,West Virginia,9,True,5,2,3,win,2406903,700,2656401,2023,1
 0,2,2,0,0,0,2,0,0,0,05/24/2023,neutral,16340,768,West Virginia,9,True,6,2,4,win,2435811,700,2656401,2023,1
+0,1,1,0,0,0,0,0,0,0,06/02/2023,neutral,16340,164,UConn,9,True,3,2,1,win,2566978,700,2656401,2023,1

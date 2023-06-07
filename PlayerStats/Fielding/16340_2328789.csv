@@ -27,4 +27,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 5,2,7,0,0,0,2,1,0,0,05/14/2023,away,16340,1014,Col. of Charleston,9,True,7,8,-1,loss,2407226,460,2328789,2023,1
 5,1,6,0,0,0,0,0,0,0,05/20/2023,home,16340,786,William & Mary,9,True,6,0,6,win,2407566,460,2328789,2023,1
 5,1,7,1,0,0,0,0,0,0,05/26/2023,neutral,16340,500,Northeastern,10,True,6,5,1,win,2435964,460,2328789,2023,1
-8,0,8,0,0,0,1,0,0,0,06/03/2023,home,16340,149,Coastal Carolina,9,True,2,12,-10,loss,2566993,460,2328789,2023,1
+8,0,8,0,0,1,1,0,0,0,06/03/2023,home,16340,149,Coastal Carolina,9,True,2,12,-10,loss,2566993,460,2328789,2023,1

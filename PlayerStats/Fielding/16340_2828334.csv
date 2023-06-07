@@ -1,7 +1,2 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,03/16/2023,home,16340,139,Chris. Newport,9,True,6,5,1,win,2395719,565,2347883,2023,3
-0,1,1,0,0,0,0,0,0,0,03/22/2023,away,16340,269,Hampden-Sydney,9,True,3,7,-4,loss,2397101,565,2347883,2023,3
-1,1,2,0,0,0,0,0,0,0,04/15/2023,home,16340,637,Shenandoah,9,True,5,10,-5,loss,2429120,565,2347883,2023,3
-1,0,1,0,0,0,1,0,0,0,04/23/2023,away,16340,203,East. Mennonite,9,True,19,4,15,win,2411066,565,2347883,2023,3
-0,1,1,0,0,0,0,0,0,0,04/29/2023,away,16340,578,Roanoke,9,True,2,15,-13,loss,2410879,565,2347883,2023,3
-0,0,0,0,0,0,1,0,0,0,05/20/2023,home,16340,322,Johns Hopkins,9,True,3,10,-7,loss,2435176,565,2347883,2023,3
+4,0,4,0,0,0,0,0,1,0,05/11/2023,neutral,16340,374,Lynchburg,9,True,0,3,-3,loss,2434506,565,2828334,2023,3

@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,05/14/2023,away,16340,674,Stanford,10,True,21,20,1,win,2407187,29,2815046,2023,1
 5,0,5,0,0,0,0,0,0,0,05/15/2023,away,16340,109,UC Irvine,9,True,4,3,1,win,2427700,29,2815046,2023,1
 0,1,1,0,0,0,0,0,0,0,05/19/2023,home,16340,657,Southern California,9,True,13,4,9,win,2407486,29,2815046,2023,1
+0,1,1,0,0,0,1,0,0,0,06/03/2023,neutral,16340,631,Santa Clara,9,True,3,9,-6,loss,2567023,29,2815046,2023,1

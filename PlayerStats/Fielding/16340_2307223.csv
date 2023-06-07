@@ -11,3 +11,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,1,2,0,0,0,0,0,0,0,05/24/2023,neutral,16340,8,Alabama,11,True,7,6,1,win,2436038,235,2307223,2023,1
 0,3,3,0,0,0,0,0,0,0,05/25/2023,neutral,16340,736,Vanderbilt,9,True,6,3,3,win,2436067,235,2307223,2023,1
 0,3,3,0,0,0,0,0,0,0,05/27/2023,neutral,16340,736,Vanderbilt,9,True,6,11,-5,loss,2436033,235,2307223,2023,1
+0,2,2,0,0,0,0,0,0,0,06/02/2023,home,16340,228,Florida A&M,9,True,3,0,3,win,2566979,235,2307223,2023,1

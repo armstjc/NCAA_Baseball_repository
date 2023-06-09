@@ -48,3 +48,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 10,0,10,0,0,0,0,0,1,0,06/02/2023,away,16340,37,Auburn,11,True,6,3,3,win,2566967,540,2329764,2023,1
 9,1,10,0,0,0,0,0,1,0,06/03/2023,neutral,16340,625,Samford,9,True,5,4,1,win,2566968,540,2329764,2023,1
 5,3,9,1,0,0,0,0,0,0,06/04/2023,neutral,16340,664,Southern Miss.,9,True,2,11,-9,loss,2566971,540,2329764,2023,1
+6,0,6,0,0,0,0,0,2,0,06/05/2023,neutral,16340,664,Southern Miss.,9,True,7,11,-4,loss,2824312,540,2329764,2023,1

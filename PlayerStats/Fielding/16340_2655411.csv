@@ -30,3 +30,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 5,1,6,0,0,0,0,0,0,0,05/19/2023,home,16340,30146,Azusa Pacific,9,True,10,9,1,win,2435588,93,2655411,2023,2
 10,0,10,0,0,0,1,0,0,0,05/26/2023,away,16340,30055,Cal St. Monterey Bay,9,True,8,6,2,win,2435923,93,2655411,2023,2
 7,0,7,0,0,0,0,0,0,0,06/03/2023,neutral,16340,584,Rollins,9,True,1,7,-6,loss,2501436,93,2655411,2023,2
+9,0,9,0,0,0,1,0,0,0,06/08/2023,neutral,16340,584,Rollins,9,True,16,11,5,win,2567032,93,2655411,2023,2

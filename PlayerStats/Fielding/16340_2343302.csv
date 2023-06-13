@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,05/03/2023,away,16340,139,Chris. Newport,9,True,2,8,-6,loss,2401148,622,2343302,2023,3
 1,0,1,0,0,0,0,0,0,0,05/12/2023,home,16340,390,Mary Washington,9,True,22,4,18,win,2434103,622,2343302,2023,3
 0,0,0,0,0,0,1,0,0,0,05/27/2023,away,16340,259,Rowan,9,True,17,12,5,win,2436072,622,2343302,2023,3
+1,1,2,0,0,0,0,0,0,0,06/04/2023,neutral,16340,1062,East Tex. Baptist,9,True,7,21,-14,loss,2567035,622,2343302,2023,3

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/11/2023,home,16340,749,Wake Forest,9,True,3,5,-2,loss,2424047,193,2121995,2023,1
 0,1,1,0,0,0,1,0,0,0,03/18/2023,away,16340,147,Clemson,9,True,9,14,-5,loss,2396440,193,2121995,2023,1
+0,0,1,1,0,0,0,0,0,0,06/11/2023,away,16340,746,Virginia,9,True,2,12,-10,loss,2967026,193,2121995,2023,1

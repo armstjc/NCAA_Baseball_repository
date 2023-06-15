@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-4,0,4,0,0,0,0,0,0,0,03/11/2023,home,16340,613,Saint Michael's,9,True,17,1,16,win,2424426,1001,2814889,2023,2
+0,1,1,0,0,0,0,0,0,0,02/21/2023,home,16340,1245,Mount Olive,9,True,5,15,-10,loss,2391152,1001,2462889,2023,2
+0,1,1,0,0,0,1,0,0,0,03/08/2023,away,16340,30052,North Georgia,11,True,3,4,-1,loss,2394085,1001,2462889,2023,2
+0,1,1,0,0,0,2,0,1,0,03/25/2023,away,16340,1462,Wingate,9,True,0,7,-7,loss,2410672,1001,2462889,2023,2
+0,0,0,0,0,0,2,0,0,0,04/10/2023,away,16340,1257,Newberry,9,True,1,7,-6,loss,2410654,1001,2462889,2023,2

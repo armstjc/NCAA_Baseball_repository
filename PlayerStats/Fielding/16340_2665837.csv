@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/11/2023,home,16340,205,Mont. St. Billings,9,True,15,9,6,win,2390040,30198,2665837,2023,2
-0,0,1,1,0,0,0,0,0,0,03/03/2023,away,16340,93,Cal St. San B'dino,9,True,5,10,-5,loss,2392769,30198,2665837,2023,2
+0,0,1,1,0,0,0,0,0,0,03/03/2023,away,16340,93,CSUSB,9,True,5,10,-5,loss,2392769,30198,2665837,2023,2
 0,1,1,0,0,0,0,0,0,0,04/11/2023,home,16340,92,Cal St. Dom. Hills,9,True,3,5,-2,loss,2407866,30198,2665837,2023,2
 0,1,1,0,0,0,0,1,0,0,04/22/2023,away,16340,645,Sonoma St.,9,True,3,9,-6,loss,2403753,30198,2665837,2023,2
 0,0,0,0,0,0,1,0,0,0,04/28/2023,home,16340,98,Cal St. East Bay,9,True,10,8,2,win,2404848,30198,2665837,2023,2

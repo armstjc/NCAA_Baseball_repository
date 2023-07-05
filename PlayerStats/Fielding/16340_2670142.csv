@@ -1,7 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,02/18/2023,home,16340,12973,Wilson,9,True,10,18,-8,loss,2390655,1112,2670142,2023,3
-5,0,5,0,0,0,0,0,0,0,02/22/2023,home,16340,123,Castleton,9,True,12,17,-5,loss,2391223,1112,2670142,2023,3
-1,0,1,0,0,0,0,0,0,0,02/25/2023,neutral,16340,30065,NVU-Lyndon,9,True,9,8,1,win,2391868,1112,2670142,2023,3
+5,0,5,0,0,0,0,0,0,0,02/22/2023,home,16340,123,VTSU Castleton,9,True,12,17,-5,loss,2391223,1112,2670142,2023,3
+1,0,1,0,0,0,0,0,0,0,02/25/2023,neutral,16340,30065,VTSU Lyndon,9,True,9,8,1,win,2391868,1112,2670142,2023,3
 5,0,5,0,0,0,0,0,0,0,03/01/2023,home,16340,263,Greensboro,9,True,24,3,21,win,2392521,1112,2670142,2023,3
 5,0,5,0,0,0,0,0,0,0,03/07/2023,home,16340,17094,William Peace,9,True,14,12,2,win,2393849,1112,2670142,2023,3
 2,0,2,0,0,0,0,0,0,0,03/11/2023,home,16340,745,Va. Wesleyan,9,True,5,5,0,tie,2407949,1112,2670142,2023,3

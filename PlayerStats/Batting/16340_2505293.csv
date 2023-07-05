@@ -1,7 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,2,1,0,3,0,1,0,0,0,0,1,0,0,0,0,0,0,02/18/2023,home,16340,730,Ursinus,9,True,14,3,11,win,2390801,752,2505293,2023,3
 2,4,3,1,0,4,0,2,1,0,0,0,1,0,0,0,0,1,0,02/19/2023,home,16340,730,Ursinus,9,True,9,8,1,win,2390956,752,2505293,2023,3
-1,4,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,02/21/2023,home,16340,123,Castleton,9,True,12,6,6,win,2391160,752,2505293,2023,3
+1,4,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,02/21/2023,home,16340,123,VTSU Castleton,9,True,12,6,6,win,2391160,752,2505293,2023,3
 1,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2023,neutral,16340,21830,Piedmont,9,True,5,7,-2,loss,2391257,752,2505293,2023,3
 0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,02/25/2023,neutral,16340,385,Marietta,9,True,2,13,-11,loss,2391873,752,2505293,2023,3
 1,3,3,2,0,5,0,2,0,1,0,0,0,0,0,0,0,0,0,02/26/2023,neutral,16340,973,Berry,9,True,9,4,5,win,2392304,752,2505293,2023,3

@@ -1,5 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1.1,0.0,2,1,0,0,1,0,7,6,0,0,0,0,0,0,0,0,0,1,0,31,3,0,0,0,0,2,0,0,02/21/2023,home,16340,123,Castleton,9,True,12,6,6,win,2391160,752,2671223,2023,3
+1,0,1.1,0.0,2,1,0,0,1,0,7,6,0,0,0,0,0,0,0,0,0,1,0,31,3,0,0,0,0,2,0,0,02/21/2023,home,16340,123,VTSU Castleton,9,True,12,6,6,win,2391160,752,2671223,2023,3
 1,0,3.1,0.0,0,2,2,3,3,0,11,8,0,0,0,0,0,0,0,0,0,0,0,47,2,3,1,0,0,3,0,0,03/08/2023,home,16340,389,Mary Baldwin,9,True,9,6,3,win,2394082,752,2671223,2023,3
 1,0,3.2,0.0,5,3,3,3,2,0,20,15,1,0,0,0,1,1,0,0,0,0,1,71,5,4,0,0,0,2,1,0,03/20/2023,home,16340,713,Trinity (CT),9,True,2,13,-11,loss,2410131,752,2671223,2023,3
 1,0,1.0,0.0,3,4,0,0,1,0,7,7,1,0,0,1,0,0,0,0,0,0,0,28,1,1,0,0,0,3,1,0,03/26/2023,home,16340,374,Lynchburg,9,True,3,14,-11,loss,2410143,752,2671223,2023,3

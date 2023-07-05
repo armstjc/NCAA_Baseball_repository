@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,03/19/2023,away,16340,516,Occidental,9,True,18,7,11,win,2425485,420,2677746,2023,3
 2,0,2,0,0,3,0,0,0,0,03/25/2023,away,16340,105,Cal Lutheran,9,True,10,0,10,win,2409474,420,2677746,2023,3
-3,0,4,1,0,0,0,0,0,0,04/26/2023,home,16340,123,Castleton,9,True,8,4,4,win,2404646,420,2677746,2023,3
+3,0,4,1,0,0,0,0,0,0,04/26/2023,home,16340,123,VTSU Castleton,9,True,8,4,4,win,2404646,420,2677746,2023,3
 1,0,1,0,0,0,0,0,0,0,04/29/2023,away,16340,24,Amherst,9,True,2,13,-11,loss,2411129,420,2677746,2023,3

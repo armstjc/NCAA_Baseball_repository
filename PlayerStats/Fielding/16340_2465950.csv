@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,0,2,0,0,0,0,0,0,0,02/23/2023,home,16340,123,Castleton,9,True,15,3,12,win,2391259,1112,2465950,2023,3
+2,0,2,0,0,0,0,0,0,0,02/23/2023,home,16340,123,VTSU Castleton,9,True,15,3,12,win,2391259,1112,2465950,2023,3
 3,0,3,0,0,0,0,0,0,0,02/26/2023,away,16340,30094,Brevard,9,True,17,12,5,win,2392169,1112,2465950,2023,3
 3,0,3,0,0,0,0,0,0,0,03/04/2023,home,16340,752,Wash. & Lee,9,True,5,1,4,win,2393128,1112,2465950,2023,3
 3,0,3,0,0,0,0,0,0,0,03/11/2023,home,16340,745,Va. Wesleyan,9,True,5,14,-9,loss,2394713,1112,2465950,2023,3

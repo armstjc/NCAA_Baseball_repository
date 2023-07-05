@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/21/2023,home,16340,123,Castleton,9,True,12,6,6,win,2391160,752,2671223,2023,3
+0,1,1,0,0,0,0,0,0,0,02/21/2023,home,16340,123,VTSU Castleton,9,True,12,6,6,win,2391160,752,2671223,2023,3
 0,0,0,0,0,0,4,0,0,0,03/20/2023,home,16340,713,Trinity (CT),9,True,2,13,-11,loss,2410131,752,2671223,2023,3
 0,0,0,0,0,0,1,0,0,0,04/19/2023,away,16340,637,Shenandoah,9,True,7,14,-7,loss,2403138,752,2671223,2023,3
 0,0,0,0,0,0,1,0,0,0,04/26/2023,away,16340,75,Bridgewater (VA),9,True,9,14,-5,loss,2404450,752,2671223,2023,3

@@ -1,7 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,03/08/2023,neutral,16340,23624,Cazenovia,10,True,4,3,1,win,2423686,1133,2672546,2023,3
 1,1,2,0,0,0,0,0,0,0,03/18/2023,away,16340,623,Salve Regina,9,True,0,3,-3,loss,2425240,1133,2672546,2023,3
-0,3,3,0,0,0,0,0,0,0,04/09/2023,home,16340,30065,NVU-Lyndon,9,True,6,2,4,win,2409104,1133,2672546,2023,3
+0,3,3,0,0,0,0,0,0,0,04/09/2023,home,16340,30065,VTSU Lyndon,9,True,6,2,4,win,2409104,1133,2672546,2023,3
 0,1,1,0,0,0,0,0,0,0,04/18/2023,home,16340,2758,Thomas (ME),9,True,1,5,-4,loss,2411041,1133,2672546,2023,3
 0,1,1,0,0,0,0,0,1,0,04/29/2023,away,16340,379,Me.-Farmington,9,True,8,1,7,win,2411013,1133,2672546,2023,3
 0,0,0,0,0,0,2,0,0,0,05/08/2023,away,16340,30083,Cobleskill St.,9,True,2,7,-5,loss,2433928,1133,2672546,2023,3

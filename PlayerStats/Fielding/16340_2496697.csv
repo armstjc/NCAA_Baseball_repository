@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,04/12/2023,home,16340,622,Salisbury,8,True,5,27,-22,loss,2401629,21852,2806563,2023,3
+0,1,1,0,0,0,2,0,0,0,03/21/2023,away,16340,784,Wilkes,9,True,7,5,2,win,2395466,21852,2496697,2023,3
+0,0,0,0,0,0,2,0,0,0,03/28/2023,away,16340,753,Washington Col.,9,True,15,3,12,win,2397779,21852,2496697,2023,3
+0,1,1,0,0,0,0,1,0,0,04/04/2023,home,16340,8404,Hood,9,True,19,9,10,win,2399999,21852,2496697,2023,3
+0,0,0,0,0,0,1,0,0,0,04/18/2023,away,16340,30085,Lancaster Bible,9,True,10,8,2,win,2402935,21852,2496697,2023,3
+1,0,1,0,0,0,0,0,0,0,04/21/2023,away,16340,938,Alvernia,9,True,4,6,-2,loss,2403410,21852,2496697,2023,3

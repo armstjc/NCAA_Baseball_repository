@@ -132,6 +132,14 @@ def _has_no_id(tag):
 #    get too messy
 team_gamelog_headers = {
     'batting': {
+        2024: ['G', 'R', 'AB', 'H', '2B', '3B', 'TB', 'HR',
+               'RBI', 'BB', 'HBP', 'SF', 'SH', 'K', 'OPP DP',
+               'CS', 'Picked', 'SB', 'IBB',
+               'GDP', 'RBI2out', 'date', 'field', 'season_id',
+               'opponent_id', 'opponent_name', 'innings_played',
+               'extras', 'runs_scored', 'runs_allowed',
+               'run_difference', 'result', 'game_id',
+               'school_id'],
         2023: ['G', 'R', 'AB', 'H', '2B', '3B', 'TB', 'HR',
                'RBI', 'BB', 'HBP', 'SF', 'SH', 'K', 'OPP DP',
                'CS', 'Picked', 'SB', 'IBB',
@@ -217,6 +225,15 @@ team_gamelog_headers = {
                'result', 'game_id', 'school_id']
     },
     'pitching': {
+        2024: ['G', 'App', 'GS', 'IP', 'CG', 'H',
+               'R', 'ER', 'BB', 'SO', 'SHO', 'BF', 'P-OAB', '2B-A',
+               '3B-A', 'Bk', 'HR-A', 'WP', 'HB', 'IBB', 'Inh Run',
+               'Inh Run Score', 'SHA', 'SFA', 'Pitches', 'GO', 'FO', 'W',
+               'L', 'SV', 'OrdAppeared', 'KL', 'pickoffs', 'date',
+               'field', 'season_id', 'opponent_id', 'opponent_name',
+               'innings_played', 'extras', 'runs_scored', 'runs_allowed',
+               'run_difference', 'result', 'game_id',
+               'school_id'],
         2023: ['G', 'App', 'GS', 'IP', 'CG', 'H',
                'R', 'ER', 'BB', 'SO', 'SHO', 'BF', 'P-OAB', '2B-A',
                '3B-A', 'Bk', 'HR-A', 'WP', 'HB', 'IBB', 'Inh Run',
@@ -320,6 +337,11 @@ team_gamelog_headers = {
                'school_id'],
     },
     'fielding':  {
+        2024: ['G', 'PO', 'A', 'TC', 'E', 'CI', 'PB', 'SBA', 'CSB', 'IDP',
+               'TP', 'date', 'field', 'season_id', 'opponent_id',
+               'opponent_name', 'innings_played', 'extras', 'runs_scored',
+               'runs_allowed', 'run_difference', 'result',
+               'game_id', 'school_id'],
         2023: ['G', 'PO', 'A', 'TC', 'E', 'CI', 'PB', 'SBA', 'CSB', 'IDP',
                'TP', 'date', 'field', 'season_id', 'opponent_id',
                'opponent_name', 'innings_played', 'extras', 'runs_scored',
@@ -390,6 +412,14 @@ team_gamelog_headers = {
 
 player_gamelog_headers = {
     'batting': {
+        2024: ['G', 'R', 'AB', 'H', '2B', '3B', 'TB', 'HR',
+               'RBI', 'BB', 'HBP', 'SF', 'SH', 'K', 'OPP DP',
+               'CS', 'Picked', 'SB', 'IBB',
+               'GDP', 'RBI2out', 'date', 'field', 'season_id',
+               'opponent_id', 'opponent_name', 'innings_played',
+               'extras', 'runs_scored', 'runs_allowed',
+               'run_difference', 'result', 'game_id',
+               'school_id', 'stats_player_seq'],
         2023: ['G', 'R', 'AB', 'H', '2B', '3B', 'TB', 'HR',
                'RBI', 'BB', 'HBP', 'SF', 'SH', 'K', 'OPP DP',
                'CS', 'Picked', 'SB', 'IBB',
@@ -475,6 +505,15 @@ player_gamelog_headers = {
                'result', 'game_id', 'school_id', 'stats_player_seq']
     },
     'pitching': {
+        2024: ['G', 'App', 'GS', 'IP', 'CG', 'H',
+               'R', 'ER', 'BB', 'SO', 'SHO', 'BF', 'P-OAB', '2B-A',
+               '3B-A', 'Bk', 'HR-A', 'WP', 'HB', 'IBB', 'Inh Run',
+               'Inh Run Score', 'SHA', 'SFA', 'Pitches', 'GO', 'FO', 'W',
+               'L', 'SV', 'OrdAppeared', 'KL', 'pickoffs', 'date',
+               'field', 'season_id', 'opponent_id', 'opponent_name',
+               'innings_played', 'extras', 'runs_scored', 'runs_allowed',
+               'run_difference', 'result', 'game_id',
+               'school_id', 'stats_player_seq'],
         2023: ['G', 'App', 'GS', 'IP', 'CG', 'H',
                'R', 'ER', 'BB', 'SO', 'SHO', 'BF', 'P-OAB', '2B-A',
                '3B-A', 'Bk', 'HR-A', 'WP', 'HB', 'IBB', 'Inh Run',
@@ -578,6 +617,11 @@ player_gamelog_headers = {
                'school_id', 'stats_player_seq'],
     },
     'fielding':  {
+        2024: ['G', 'PO', 'A', 'TC', 'E', 'CI', 'PB', 'SBA', 'CSB', 'IDP',
+               'TP', 'date', 'field', 'season_id', 'opponent_id',
+               'opponent_name', 'innings_played', 'extras', 'runs_scored',
+               'runs_allowed', 'run_difference', 'result',
+               'game_id', 'school_id', 'stats_player_seq'],
         2023: ['G', 'PO', 'A', 'TC', 'E', 'CI', 'PB', 'SBA', 'CSB', 'IDP',
                'TP', 'date', 'field', 'season_id', 'opponent_id',
                'opponent_name', 'innings_played', 'extras', 'runs_scored',

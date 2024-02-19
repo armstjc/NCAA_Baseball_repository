@@ -1,9 +1,9 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Adams, Jeron","Jr","2495789",2023,"67","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2495789",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Alonzo, Jimmy","Jr",NA,2023,"64","P",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
-"Anderson, Grant","Jr",NA,2023,"16","INF",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
+"Anderson, Grant","Jr","2495752",2023,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2495752",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Baird, Konway","Jr","2676425",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2676425",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
-"Burton, Trent","Fr",NA,2023,"49","OF",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
+"Burton, Trent","Fr","2798854",2023,"49","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2798854",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Camarillo, Gerry","Fr",NA,2023,"55","OF",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Canales, Rocky","Jr","2676451",2023,"59","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2676451",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Cardenas, Brandon","Fr","2798856",2023,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2798856",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
@@ -12,7 +12,7 @@
 "Fallowfield, Cole","Jr","2495783",2023,"41","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2495783",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Fowler, Josh","Jr","2798855",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2798855",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Gallegos, Justin","So","2676433",2023,"53","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2676433",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
-"Garcia, Christian","Fr",NA,2023,"45","P",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
+"Garcia, Christian","Fr","2798857",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2798857",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Garza, Daniel","Sr","2326560",2023,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2326560",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Goins, Chance","Sr","2135062",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2135062",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Gomez, Alex","Fr",NA,2023,"40","INF",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
@@ -24,14 +24,14 @@
 "Herb, Jake","Fr","2798910",2023,"50","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2798910",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Hernandez, Isaiah","Sr","2326513",2023,"17","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2326513",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Hiatt, Ian","Fr",NA,2023,"70","OF",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
-"Holliday, Brayden","Fr",NA,2023,"56","INF",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
+"Holliday, Brayden","Fr","2798944",2023,"56","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2798944",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Hooper, Devin","Sr","2135070",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2135070",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Hutcherson, Cole","So",NA,2023,"74","OF",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Hyman, Jared","Fr","2798948",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2798948",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Jamal, Josh","Fr",NA,2023,"71","C",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
-"Joseph, Seth","Jr","2495738",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2495738",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Joseph, Shane","Fr","2798950",2023,"26","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2798950",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
-"Juarez, Blake","Fr",NA,2023,"44","INF",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
+"Joseph, Seth","Jr","2495738",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2495738",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
+"Juarez, Blake","Fr","2798951",2023,"44","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2798951",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Juarez, Tyler","Jr","2495739",2023,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2495739",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Kowalczyk, Aleksander","Fr",NA,2023,"48","INF",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Landin, Garrett","Sr","2326538",2023,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2326538",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
@@ -46,8 +46,8 @@
 "Ochoa, RJ","So",NA,2023,"65","INF",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Perez, Miguel","So","2676420",2023,"46","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2676420",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Ramirez, Salvatore","Jr",NA,2023,"14","INF",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
-"Rodriguez, AJ","So","2676386",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2676386",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Rodriguez, Christopher","Jr","2495784",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2495784",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
+"Rodriguez, AJ","So","2676386",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2676386",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Rogers, Luke","So","2676567",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2676567",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Ruggiero, Ian","Fr",NA,2023,"57","C",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Sanchez, Adam","Jr","2495746",2023,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2495746",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
@@ -55,7 +55,7 @@
 "Saucedo, Noah","Jr","2495795",2023,"66","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2495795",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Sifuentes, Logan","Fr","2799028",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2799028",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Smith, Kolten","Sr","2326581",2023,"42","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2326581",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
-"Snow, Stefan","Jr",NA,2023,"20","INF",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
+"Snow, Stefan","Jr","2798861",2023,"20","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2798861",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Trevino, Lee","Sr","2326583",2023,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2326583",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Uecker, Raine","Sr","2135079",2023,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1355&stats_player_seq=2135079",1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340
 "Vasquez, Sergio","Sr",NA,2023,"54","INF",NA,1355,"Schreiner","/team/1355/16340",835,"SCAC",3,2023,16340

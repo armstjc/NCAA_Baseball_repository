@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Adams, D.","N/A","2837545",2023,"47","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2837545",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
+"Adams, Dylan","N/A","2837545",2023,"47","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2837545",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Albers, Derek","Sr","2682417",2023,"21","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2682417",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
-"Allbee, N.","N/A","2838289",2023,"15","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2838289",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
+"Allbee, Nick","N/A","2838289",2023,"15","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2838289",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Barnard, Aidan","So",NA,2023,"9","INF",NA,38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Bernards, Owen","Jr","2528416",2023,"24","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2528416",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Columbus, Colin","Sr","2528417",2023,"23","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2528417",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
@@ -9,16 +9,16 @@
 "Flynn, Isaac","Sr","2352070",2023,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2352070",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Gage, Ty","Jr","2519634",2023,"8","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2519634",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Hemera, Jimmy","So","2682431",2023,"31","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2682431",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
-"Henry, J.","N/A","2836709",2023,"46","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2836709",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
+"Henry, Jacob","N/A","2836709",2023,"46","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2836709",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Hinz, Alex","Sr","2352045",2023,"44","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2352045",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Hubbard, Nick","So","2682419",2023,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2682419",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Ishaug, Nick","So","2682420",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2682420",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
-"Jenkins, D.","N/A","2836710",2023,"12","2b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2836710",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
+"Jenkins, Drew","N/A","2836710",2023,"12","2b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2836710",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Johnson, Luke","Sr","2352046",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2352046",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Jones, Jack","Jr","2528266",2023,"5","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2528266",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Kittleson, Ben","So","2682434",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2682434",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Krenz, Matt","Sr","2157626",2023,"17","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2157626",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
-"Lang, A.","N/A","2837469",2023,"16","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2837469",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
+"Lang, Austin","N/A","2837469",2023,"16","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2837469",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Littmann, Sean","So","2682436",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2682436",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Lockhart, Brandon","So","2682422",2023,"38","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2682422",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Marshall, Adam","Fr","2689455",2023,"41","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2689455",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
@@ -28,11 +28,11 @@
 "Nesbit, Burke","Jr","2682447",2023,"30","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2682447",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Peterson, Joe","So","2682423",2023,"25","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2682423",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Peterson, Carter","Jr","2519642",2023,"1","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2519642",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
-"Piggott, K.","Fr","2838281",2023,"43","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2838281",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
-"Pittelkow, J.","N/A","2842712",2023,"37","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2842712",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
+"Piggott, Kell","Fr","2838281",2023,"43","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2838281",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
+"Pittelkow, Jake","N/A","2842712",2023,"37","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2842712",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Rodriguez, Rico","Sr","2352051",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2352051",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Rones, Matt","Sr","2147146",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2147146",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
-"Rupp, V.","N/A","2836711",2023,"41","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2836711",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
+"Rupp, Vincent","N/A","2836711",2023,"41","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2836711",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Salz, Steven","Sr","2352078",2023,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2352078",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Schmitz, Myer","So","2682424",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2682424",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340
 "Skogrand, Jake","So","2682443",2023,"33","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=38&stats_player_seq=2682443",38,"Augsburg","/team/38/16340",882,"MIAC",3,2023,16340

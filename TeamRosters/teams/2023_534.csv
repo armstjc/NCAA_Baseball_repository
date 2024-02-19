@@ -1,11 +1,11 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Andrus, David","So",NA,2023,"48","P",NA,534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
+"Andrus, David","So","2663763",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2663763",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
 "Barrera, Daniel","So","2663949",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2663949",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
 "Bledy, Max","Fr","2814946",2023,"35","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2814946",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
 "Bobo, John-Howard","Jr","2814876",2023,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2814876",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
 "Brice, Jahlil","So",NA,2023,"51","OF",NA,534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
 "Casagrande, Caden","Fr","2814847",2023,"12","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2814847",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
-"Defazio, Nico","Fr",NA,2023,"31","INF",NA,534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
+"Defazio, Nico","Fr","2814922",2023,"31","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2814922",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
 "Defelippi, Micheal","Sr","2113192",2023,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2113192",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
 "Duke, Caden","So","2664015",2023,"29","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2664015",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
 "Ertz, Jackson","Sr","2664016",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2664016",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
@@ -32,7 +32,7 @@
 "Sloan, Andrew","Fr","2814944",2023,"32","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2814944",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
 "Smith, Jacob","Fr","2814924",2023,"38","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2814924",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
 "Stevens, Grant","Sr","2348667",2023,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2348667",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
-"Stout, Tyler","Sr","2664021",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2664021",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
+"Stout, Ty","Sr","2664021",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2664021",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
 "Sweany, Quinlan","Sr","2348666",2023,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2348666",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
 "Tandy, Jake","Fr","2814851",2023,"15","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=534&stats_player_seq=2814851",534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340
 "Troutner, Matthew","Fr",NA,2023,"45","",NA,534,"Pacific","/team/534/16340",922,"WCC",1,2023,16340

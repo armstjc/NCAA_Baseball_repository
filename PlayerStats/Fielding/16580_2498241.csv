@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+12,0,12,0,0,0,0,0,0,0,02/16/2024,away,16580,115,Campbell,9,True,20,8,12,win,4525676,104,2498241,2024,1
+7,0,7,0,0,0,1,0,0,0,02/17/2024,away,16580,115,Campbell,9,True,4,5,-1,loss,4526002,104,2498241,2024,1
+10,0,10,0,0,0,2,0,0,0,02/18/2024,away,16580,115,Campbell,9,True,3,7,-4,loss,4526237,104,2498241,2024,1

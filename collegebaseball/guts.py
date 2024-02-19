@@ -48,7 +48,7 @@ def get_seasons_path():
     """
     """
     with resources.path("collegebaseball.data",
-                        "seasons.parquet") as f:
+                        "seasons.csv") as f:
         data_file_path = f
     return data_file_path
 
@@ -56,14 +56,14 @@ def get_seasons_path():
 def get_seasons_table():
     """
     """
-    return pd.read_parquet(get_seasons_path())
+    return pd.read_csv(get_seasons_path())
 
 
 def get_rosters_path():
     """
     """
     with resources.path("collegebaseball.data",
-                        "rosters_2012_2023_all.csv") as f:
+                        "rosters_2012_2024_all.csv") as f:
         data_file_path = f
     return data_file_path
 

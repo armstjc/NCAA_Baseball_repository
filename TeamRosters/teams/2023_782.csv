@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Adler, Nate","Jr","2658792",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2658792",782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340
 "Adler, Grant","Jr","2798307",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2798307",782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340
+"Adler, Nate","Jr","2658792",2023,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2658792",782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340
 "Birge, Alex","Fr","2658787",2023,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2658787",782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340
 "Boyer, Matthew","So","2310058",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2310058",782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340
 "Bye, Cameron","Jr","2486544",2023,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2486544",782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340
@@ -22,7 +22,7 @@
 "Mulhollon, Michael","Fr","2798310",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2798310",782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340
 "Pennington, Garrett","Jr","2305752",2023,"29","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2305752",782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340
 "Rodden, Brock","Jr","2658779",2023,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2658779",782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340
-"Rogan, Charlie","Fr",NA,2023,"3","1B",NA,782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340
+"Rogan, Charlie","Fr","2798256",2023,"3","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2798256",782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340
 "Rogers, Jordan","So","2486535",2023,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2486535",782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340
 "Rost, Carter","So","2798318",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=782&stats_player_seq=2798318",782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340
 "Shelby, Hogan","Fr",NA,2023,"19","INF",NA,782,"Wichita St.","/team/782/16340",823,"AAC",1,2023,16340

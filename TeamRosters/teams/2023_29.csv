@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Adams, TJ","Fr",NA,2023,"23","OF",NA,29,"Arizona","/team/29/16340",905,"Pac-12",1,2023,16340
+"Adams, TJ","Fr","2815033",2023,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=29&stats_player_seq=2815033",29,"Arizona","/team/29/16340",905,"Pac-12",1,2023,16340
 "Arias Jr., George","Sr","2140075",2023,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=29&stats_player_seq=2140075",29,"Arizona","/team/29/16340",905,"Pac-12",1,2023,16340
 "Barraza, Chris","Sr","2129526",2023,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=29&stats_player_seq=2129526",29,"Arizona","/team/29/16340",905,"Pac-12",1,2023,16340
 "Bingham, Mac","Jr","2308336",2023,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=29&stats_player_seq=2308336",29,"Arizona","/team/29/16340",905,"Pac-12",1,2023,16340
@@ -10,7 +10,7 @@
 "Davis, Chase","Jr","2474947",2023,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=29&stats_player_seq=2474947",29,"Arizona","/team/29/16340",905,"Pac-12",1,2023,16340
 "Drees, Derek","Sr","2121011",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=29&stats_player_seq=2121011",29,"Arizona","/team/29/16340",905,"Pac-12",1,2023,16340
 "Elarton, Kenan","Fr",NA,2023,"40","P",NA,29,"Arizona","/team/29/16340",905,"Pac-12",1,2023,16340
-"Esquer, Xavier","Fr",NA,2023,"10","INF",NA,29,"Arizona","/team/29/16340",905,"Pac-12",1,2023,16340
+"Esquer, Xavier","Fr","2815029",2023,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=29&stats_player_seq=2815029",29,"Arizona","/team/29/16340",905,"Pac-12",1,2023,16340
 "Grant, Jack","So","2474958",2023,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=29&stats_player_seq=2474958",29,"Arizona","/team/29/16340",905,"Pac-12",1,2023,16340
 "Hintz, Casey","Fr","2815046",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=29&stats_player_seq=2815046",29,"Arizona","/team/29/16340",905,"Pac-12",1,2023,16340
 "Huff, Kade","Fr",NA,2023,"14","C",NA,29,"Arizona","/team/29/16340",905,"Pac-12",1,2023,16340

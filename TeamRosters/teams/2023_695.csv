@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Anderson, Garner","Fr",NA,2023,"28","UT",NA,695,"UT Martin","/team/695/16340",902,"OVC",1,2023,16340
+"Anderson, Garner","Fr","2804189",2023,"28","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=695&stats_player_seq=2804189",695,"UT Martin","/team/695/16340",902,"OVC",1,2023,16340
 "Arender, Brock","Fr",NA,2023,"30","P",NA,695,"UT Martin","/team/695/16340",902,"OVC",1,2023,16340
 "Armstrong, Jordan","Sr","2665802",2023,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=695&stats_player_seq=2665802",695,"UT Martin","/team/695/16340",902,"OVC",1,2023,16340
 "Beaman, Alec","Jr","2469801",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=695&stats_player_seq=2469801",695,"UT Martin","/team/695/16340",902,"OVC",1,2023,16340
@@ -18,7 +18,7 @@
 "Hobson, J. Henry","So","2676644",2023,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=695&stats_player_seq=2676644",695,"UT Martin","/team/695/16340",902,"OVC",1,2023,16340
 "Hobson, Caleb","Jr","2804259",2023,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=695&stats_player_seq=2804259",695,"UT Martin","/team/695/16340",902,"OVC",1,2023,16340
 "Jones, Baylor","So","2310111",2023,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=695&stats_player_seq=2310111",695,"UT Martin","/team/695/16340",902,"OVC",1,2023,16340
-"Lapic, Dylan","So",NA,2023,"19","P",NA,695,"UT Martin","/team/695/16340",902,"OVC",1,2023,16340
+"Lapic, Dylan","So","2804260",2023,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=695&stats_player_seq=2804260",695,"UT Martin","/team/695/16340",902,"OVC",1,2023,16340
 "Lee, Warren","Jr","2365017",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=695&stats_player_seq=2365017",695,"UT Martin","/team/695/16340",902,"OVC",1,2023,16340
 "Martin, Eli","Jr","2469824",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=695&stats_player_seq=2469824",695,"UT Martin","/team/695/16340",902,"OVC",1,2023,16340
 "McLean, Hunter","Jr","2676646",2023,"10","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=695&stats_player_seq=2676646",695,"UT Martin","/team/695/16340",902,"OVC",1,2023,16340

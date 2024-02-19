@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Ballard, Carson","Fr",NA,2023,"38","P",NA,255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
+"Ballard, Carson","Fr","2823238",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823238",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
 "Baughcum, Brant","Fr","2823230",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823230",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
 "Bogue, Logan","Fr","2823260",2023,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823260",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
 "Brosius, Parker","Fr","2823223",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823223",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
@@ -15,7 +15,7 @@
 "Finateri, Aeden","So","2661213",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2661213",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
 "Finley, Jackson","So","2328908",2023,"12","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2328908",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
 "Gaspard, Jackson","Fr",NA,2023,"3","UT",NA,255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
-"Gaudette, Caden","Fr",NA,2023,"35","P",NA,255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
+"Gaudette, Caden","Fr","2823240",2023,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2823240",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
 "Giesler, John","Sr","2328936",2023,"40","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2328936",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
 "Green, Davis","Fr",NA,2023,"8","OF",NA,255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340
 "Hare, Tyler","So","2661168",2023,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=255&stats_player_seq=2661168",255,"Georgia Tech","/team/255/16340",821,"ACC",1,2023,16340

@@ -3,7 +3,7 @@ library(dplyr)
 library(glue)
 library(dplyr)
 
-seasons = 2022:2022
+seasons = 2023:2023
 
 for (s in seasons) {
   print(glue::glue("Donwloading all the play-by-play data for the NCAA Baseball season of {s}"))
@@ -16,7 +16,7 @@ for (s in seasons) {
   game_list_len = length(game_list)
   count = 0
   
-  l_range = 2660:8299
+  l_range = 0:8299
   
   for (i in l_range){
     count = count + 1

@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Atterberry, Marcus","Sr","2344794",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=314&stats_player_seq=2344794",314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
 "Bannon, Daniel","Jr","2810760",2023,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=314&stats_player_seq=2810760",314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
-"Barksdale, Omari","So",NA,2023,"55","P",NA,314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
+"Barksdale, Omari","So","2678158",2023,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=314&stats_player_seq=2678158",314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
 "Betancourt, Emanuel","Sr",NA,2023,"16","C",NA,314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
 "Boarden, Austin","Jr","2825191",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=314&stats_player_seq=2825191",314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
 "Bowers, Jhaeden","Fr","2810780",2023,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=314&stats_player_seq=2810780",314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
@@ -31,7 +31,7 @@
 "Saavedra, Cesar","Jr","2810751",2023,"12","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=314&stats_player_seq=2810751",314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
 "Smiley , Jordon","Fr","2810762",2023,"13","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=314&stats_player_seq=2810762",314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
 "Spurgeon Jr., Steve","Jr",NA,2023,"27","P",NA,314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
-"Thomas, Miles","Fr",NA,2023,"99","UT",NA,314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
+"Thomas, Miles","Fr","2825193",2023,"99","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=314&stats_player_seq=2825193",314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
 "Thorne , Francis","So","2679697",2023,"23","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=314&stats_player_seq=2679697",314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
 "Townsend, Arderrius","Jr",NA,2023,"0","OF",NA,314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340
 "White, Myles","Jr","2810779",2023,"44","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=314&stats_player_seq=2810779",314,"Jackson St.","/team/314/16340",916,"SWAC",1,2023,16340

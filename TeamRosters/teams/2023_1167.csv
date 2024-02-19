@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Barbee, Ethan","Fr",NA,2023,"41","P",NA,1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
+"Barbee, Ethan","Fr","2809236",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2809236",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Bowen, Tyler","So","2656820",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2656820",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Bryant, Jackson","So","2310537",2023,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2310537",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Burgess, Matthew","Jr","2310496",2023,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2310496",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
@@ -13,7 +13,7 @@
 "Ellis, Matthew","Jr","2478447",2023,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2478447",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Foray, Nick","Sr","2123616",2023,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2123616",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Garrett, Gary","Jr","2310539",2023,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2310539",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
-"Gravely, Ryan","Fr",NA,2023,"49","P",NA,1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
+"Gravely, Ryan","Fr","2811833",2023,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2811833",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Hall, Tyler","Jr","2809229",2023,"26","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2809229",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Hoshour, Jackson","Jr","2809212",2023,"13","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2809212",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Jenkins, Ian","Sr","2656794",2023,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2656794",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
@@ -26,7 +26,7 @@
 "Mauldin, Evan","Jr","2120763",2023,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2120763",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "McClellan, Will","So","2656817",2023,"1","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2656817",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "McCurley, Ross","Jr","2478442",2023,"33","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2478442",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
-"McKittric, Caleb","Fr","2837723",2023,"5","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2837723",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
+"McKittrick, Caleb","Fr","2837723",2023,"5","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2837723",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Melton, Logan","Jr","2310535",2023,"25","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2310535",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Merrick, Anson","So","2656824",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2656824",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Moeller, Chandler","Jr","2656789",2023,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2656789",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
@@ -39,7 +39,7 @@
 "Prell, Tyler","Sr","2478437",2023,"7","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2478437",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Rapp, JJ","So",NA,2023,"5","INF",NA,1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Rogers, Kurt","So","2656792",2023,"19","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2656792",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
-"Sanchez, Joshua","Fr",NA,2023,"46","P",NA,1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
+"Sanchez, Joshua","Fr","2809249",2023,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2809249",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Singleton, Caleb","So","2656818",2023,"4","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2656818",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Sloper, Bennett","So","2656795",2023,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2656795",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340
 "Smith, Gage","Jr","2310543",2023,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1167&stats_player_seq=2310543",1167,"Lander","/team/1167/16340",12923,"Peach Belt",2,2023,16340

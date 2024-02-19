@@ -192,9 +192,9 @@ def download_player_game_logs(season, division=None, save=True):
 #     schools = schools.loc[schools.division == division]
 #     res = pd.DataFrame()
 #     for i in schools.school_id.unique():
-#         for season in seasons:
-#             try:
-#                 new = ncaa.ncaa_team_game_logs(i,
-#                                                season, variant)
+# for season in seasons:
+#     try:
+#         new = ncaa.ncaa_team_game_logs(i,
+#                                        season, variant)
 
 #             except:

@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,4,3,1,0,4,0,3,0,0,0,0,0,0,0,0,0,0,0,02/16/2024,home,16580,334,Kentucky,9,True,7,11,-4,loss,4525547,10411,2826526,2024,1
+0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,02/17/2024,home,16580,334,Kentucky,9,True,0,3,-3,loss,4525772,10411,2826526,2024,1
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2024,home,16580,334,Kentucky,9,True,3,9,-6,loss,4526105,10411,2826526,2024,1

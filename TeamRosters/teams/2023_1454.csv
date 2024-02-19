@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Andrews, Hudson","Jr","2489446",2023,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1454&stats_player_seq=2489446",1454,"Whitworth","/team/1454/16340",25300,"NWC",3,2023,16340
 "Balmores, Miles","So","2814092",2023,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1454&stats_player_seq=2814092",1454,"Whitworth","/team/1454/16340",25300,"NWC",3,2023,16340
-"Barrett, Alex","So","2814067",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1454&stats_player_seq=2814067",1454,"Whitworth","/team/1454/16340",25300,"NWC",3,2023,16340
+"Barrett, Alec","So","2814067",2023,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1454&stats_player_seq=2814067",1454,"Whitworth","/team/1454/16340",25300,"NWC",3,2023,16340
 "Barrett, Blake","So","2814091",2023,"9","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1454&stats_player_seq=2814091",1454,"Whitworth","/team/1454/16340",25300,"NWC",3,2023,16340
 "Bennett, Thomas","So","2683169",2023,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1454&stats_player_seq=2683169",1454,"Whitworth","/team/1454/16340",25300,"NWC",3,2023,16340
 "Bishop, Dylan","Jr","2312433",2023,"99","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1454&stats_player_seq=2312433",1454,"Whitworth","/team/1454/16340",25300,"NWC",3,2023,16340
@@ -33,4 +33,4 @@
 "Warner, Dawson","Jr","2312435",2023,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1454&stats_player_seq=2312435",1454,"Whitworth","/team/1454/16340",25300,"NWC",3,2023,16340
 "Whelan, Riley","Jr","2670649",2023,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1454&stats_player_seq=2670649",1454,"Whitworth","/team/1454/16340",25300,"NWC",3,2023,16340
 "Williams, Hunter","Jr","2489441",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1454&stats_player_seq=2489441",1454,"Whitworth","/team/1454/16340",25300,"NWC",3,2023,16340
-"Zaska, Henry","Fr","2814096",2023,"26","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1454&stats_player_seq=2814096",1454,"Whitworth","/team/1454/16340",25300,"NWC",3,2023,16340
+"Zaske, Henry","Fr","2814096",2023,"26","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=1454&stats_player_seq=2814096",1454,"Whitworth","/team/1454/16340",25300,"NWC",3,2023,16340

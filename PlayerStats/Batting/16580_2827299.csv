@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,3,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,02/16/2024,away,16580,31,Arkansas,9,True,4,6,-2,loss,4525460,317,2827299,2024,1
+0,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,02/17/2024,away,16580,31,Arkansas,9,True,5,15,-10,loss,4525703,317,2827299,2024,1
+1,4,1,0,0,1,0,0,1,0,0,0,3,0,0,0,0,0,0,02/18/2024,away,16580,31,Arkansas,9,True,7,3,4,win,4526019,317,2827299,2024,1
+0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,02/19/2024,away,16580,31,Arkansas,9,True,0,4,-4,loss,4526267,317,2827299,2024,1

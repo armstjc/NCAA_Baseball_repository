@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,1,6,0,0,0,0,0,1,0,02/16/2024,home,16580,505,Northern Ky.,9,True,4,15,-11,loss,4525518,695,2469802,2024,1
+6,1,8,1,0,0,0,0,0,0,02/18/2024,home,16580,505,Northern Ky.,9,True,13,8,5,win,4526072,695,2469802,2024,1
+7,1,8,0,0,0,0,0,0,0,02/18/2024,home,16580,505,Northern Ky.,9,True,2,10,-8,loss,4525746,695,2469802,2024,1

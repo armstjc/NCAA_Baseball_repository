@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,6,5,3,0,8,0,2,0,0,0,0,0,0,1,0,0,0,0,02/16/2024,away,16580,19651,High Point,11,True,10,6,4,win,4525496,368,2673807,2024,1
+0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/17/2024,away,16580,19651,High Point,9,True,1,6,-5,loss,4525795,368,2673807,2024,1
+2,4,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/17/2024,away,16580,19651,High Point,9,True,11,9,2,win,4544932,368,2673807,2024,1
+2,4,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,02/18/2024,away,16580,19651,High Point,9,True,6,1,5,win,4526053,368,2673807,2024,1

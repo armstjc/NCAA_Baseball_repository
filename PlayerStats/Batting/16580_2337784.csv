@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,4,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,02/16/2024,home,16580,342,Lafayette,9,True,27,7,20,win,4525553,198,2337784,2024,1
+2,3,1,1,0,2,0,0,2,1,0,0,1,0,0,0,0,0,0,02/17/2024,home,16580,342,Lafayette,9,True,15,5,10,win,4525778,198,2337784,2024,1
+1,4,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,02/18/2024,home,16580,342,Lafayette,9,True,13,1,12,win,4526114,198,2337784,2024,1

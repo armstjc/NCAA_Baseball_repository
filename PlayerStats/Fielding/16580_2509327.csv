@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,2,0,0,0,0,0,0,0,02/16/2024,away,16580,415,Miami (FL),9,True,7,8,-1,loss,4525539,471,2509327,2024,1
+0,2,3,1,0,0,0,0,1,0,02/17/2024,away,16580,415,Miami (FL),9,True,2,19,-17,loss,4525815,471,2509327,2024,1
+1,1,2,0,0,0,0,0,0,0,02/17/2024,away,16580,415,Miami (FL),9,True,0,16,-16,loss,4545054,471,2509327,2024,1

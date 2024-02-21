@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,5,3,0,0,6,1,2,0,0,0,0,1,0,0,0,0,0,0,02/16/2024,neutral,16580,352,Lehigh,9,True,8,4,4,win,4525569,47,2678393,2024,1
+0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/17/2024,neutral,16580,312,Iowa,9,True,0,5,-5,loss,4492946,47,2678393,2024,1
+0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,02/17/2024,neutral,16580,410,Merrimack,9,True,2,1,1,win,4525834,47,2678393,2024,1
+0,3,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,02/18/2024,neutral,16580,416,Michigan St.,9,True,4,1,3,win,4780660,47,2678393,2024,1

@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,1,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,02/16/2024,home,16580,140,Cincinnati,9,True,8,6,2,win,5245944,316,2656627,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/16/2024,home,16580,140,Cincinnati,9,True,11,3,8,win,5245945,316,2656627,2024,1

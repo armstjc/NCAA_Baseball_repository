@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/16/2024,away,16580,1014,Col. of Charleston,9,True,3,15,-12,loss,4525646,388,2680814,2024,1
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2024,away,16580,1014,Col. of Charleston,9,True,0,5,-5,loss,4525973,388,2680814,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/19/2024,away,16580,1014,Col. of Charleston,9,True,5,8,-3,loss,4526279,388,2680814,2024,1

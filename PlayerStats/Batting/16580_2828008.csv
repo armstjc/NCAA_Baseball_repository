@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/16/2024,away,16580,697,Texas A&M,9,True,0,15,-15,loss,4525480,402,2828008,2024,1
+0,3,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,02/17/2024,away,16580,697,Texas A&M,9,True,1,6,-5,loss,4525718,402,2828008,2024,1
+0,3,2,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2024,away,16580,697,Texas A&M,9,True,0,10,-10,loss,4526038,402,2828008,2024,1

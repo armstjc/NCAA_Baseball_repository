@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/16/2024,neutral,16580,94,CSU Bakersfield,12,True,8,7,1,win,4491908,428,2799069,2024,1
+3,0,3,0,0,0,0,0,0,0,02/18/2024,neutral,16580,473,New Mexico,9,True,11,2,9,win,4491910,428,2799069,2024,1

@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+13,0,13,0,0,1,0,0,0,0,02/16/2024,home,16580,317,James Madison,9,True,6,4,2,win,4525460,31,2656391,2024,1
+15,2,17,0,0,0,2,0,0,0,02/18/2024,home,16580,317,James Madison,9,True,3,7,-4,loss,4526019,31,2656391,2024,1

@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/16/2024,away,16580,28,Arizona St.,9,True,6,11,-5,loss,4525544,631,2810426,2024,1
+0,4,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/17/2024,away,16580,28,Arizona St.,9,True,13,14,-1,loss,4525769,631,2810426,2024,1
+1,5,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,02/18/2024,away,16580,28,Arizona St.,9,True,14,13,1,win,4526097,631,2810426,2024,1

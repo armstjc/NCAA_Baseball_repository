@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,3,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,02/16/2024,neutral,16580,380,Maine,9,True,10,7,3,win,4525580,545,2673892,2024,1
+0,3,1,0,0,1,0,1,1,0,0,0,1,1,0,0,0,0,1,02/16/2024,neutral,16580,380,Maine,9,True,7,4,3,win,4525845,545,2673892,2024,1
+4,4,2,0,0,8,2,4,2,0,0,0,1,0,0,0,0,0,0,02/17/2024,neutral,16580,380,Maine,9,True,13,3,10,win,4526144,545,2673892,2024,1

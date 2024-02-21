@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+7,2,9,0,0,0,0,0,0,0,02/16/2024,home,16580,465,UNLV,9,True,2,1,1,win,4525549,534,2953449,2024,1
+10,0,10,0,0,0,0,0,3,0,02/18/2024,home,16580,465,UNLV,10,True,5,6,-1,loss,5246326,534,2953449,2024,1
+10,1,11,0,0,0,0,0,0,0,02/18/2024,home,16580,465,UNLV,9,True,0,8,-8,loss,4526108,534,2953449,2024,1
+7,0,8,1,0,0,0,0,1,0,02/19/2024,home,16580,1356,Seattle U,9,True,5,9,-4,loss,4526275,534,2953449,2024,1

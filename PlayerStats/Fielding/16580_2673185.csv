@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,1,6,0,0,0,0,0,1,0,02/16/2024,home,16580,596,St. Bonaventure,9,True,14,2,12,win,4525467,141,2673185,2024,1
+8,0,8,0,0,0,0,0,0,0,02/17/2024,home,16580,596,St. Bonaventure,9,True,10,22,-12,loss,4525708,141,2673185,2024,1
+2,0,3,1,0,0,0,0,0,0,02/18/2024,home,16580,596,St. Bonaventure,9,True,8,4,4,win,4526025,141,2673185,2024,1

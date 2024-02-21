@@ -1,29 +1,29 @@
-"name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Angress, Ethan","So","2145400",2022,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2145400",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Boccio, Zach","So","2685308",2022,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685308",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Burke, Eamon","Fr","2685302",2022,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685302",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Chasanov, Michael","Fr","2685303",2022,"8","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685303",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Creegan, John","Fr","2351988",2022,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2351988",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Daly, Jack","Fr","2685306",2022,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685306",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Dean Johnstone, James","Fr","2685247",2022,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685247",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"DiBlasi, Tyler","Fr","2351989",2022,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2351989",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Gomez, Wellington","Fr","2685305",2022,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685305",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Grobbel, Xavier","Fr","2685245",2022,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685245",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Hernandez, Justin","Fr","2685321",2022,"33","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685321",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Kahnbilvardi, Sardar","Sr","2352016",2022,"21","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2352016",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Kessler, Michael","Fr","2685318",2022,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685318",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Kue, Matthew","Fr","2685319",2022,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685319",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Montanile, Alex","Fr","2685307",2022,"16","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685307",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Mura Schott, Victor","Fr","2685668",2022,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685668",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Murray, Max","Fr","2685243",2022,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685243",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Nisan, Samuel","Fr","2352020",2022,"31","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2352020",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Ortiz, Austin","Fr","2351997",2022,"32","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2351997",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Paider, Brandon","Fr","2685244",2022,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685244",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Rivera, Jonathan","Fr","2352015",2022,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2352015",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Rodriguez, Jason","Fr","2685246",2022,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685246",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Rodriguez, Josue","So","2685322",2022,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685322",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Romero, Eric","Fr","2685313",2022,"20","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685313",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Rozon, Alexander","Fr","2685320",2022,"41","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685320",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Suprun, Stephen","Fr","2685242",2022,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685242",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Vega, Angel","So","2351996",2022,"19","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2351996",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
-"Vento, Richard","Fr","2352018",2022,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2352018",480,"CCNY","/team/480/15860",834,"CUNYAC",3,15860
+"player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
+"Angress, Ethan","So","2145400",2022,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2145400",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Boccio, Zach","So","2685308",2022,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685308",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Burke, Eamon","Fr","2685302",2022,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685302",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Chasanov, Michael","Fr","2685303",2022,"8","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685303",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Creegan, John","Fr","2351988",2022,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2351988",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Daly, Jack","Fr","2685306",2022,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685306",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Dean Johnstone, James","Fr","2685247",2022,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685247",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"DiBlasi, Tyler","Fr","2351989",2022,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2351989",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Gomez, Wellington","Fr","2685305",2022,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685305",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Grobbel, Xavier","Fr","2685245",2022,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685245",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Hernandez, Justin","Fr","2685321",2022,"33","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685321",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Kahnbilvardi, Sardar","Sr","2352016",2022,"21","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2352016",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Kessler, Michael","Fr","2685318",2022,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685318",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Kue, Matthew","Fr","2685319",2022,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685319",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Montanile, Alex","Fr","2685307",2022,"16","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685307",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Mura Schott, Victor","Fr","2685668",2022,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685668",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Murray, Max","Fr","2685243",2022,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685243",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Nisan, Samuel","Fr","2352020",2022,"31","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2352020",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Ortiz, Austin","Fr","2351997",2022,"32","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2351997",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Paider, Brandon","Fr","2685244",2022,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685244",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Rivera, Jonathan","Fr","2352015",2022,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2352015",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Rodriguez, Jason","Fr","2685246",2022,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685246",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Rodriguez, Josue","So","2685322",2022,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685322",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Romero, Eric","Fr","2685313",2022,"20","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685313",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Rozon, Alexander","Fr","2685320",2022,"41","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685320",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Suprun, Stephen","Fr","2685242",2022,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2685242",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Vega, Angel","So","2351996",2022,"19","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2351996",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860
+"Vento, Richard","Fr","2352018",2022,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=480&stats_player_seq=2352018",480,"CCNY","/team/480/15860",834,"CUNYAC",3,2022,15860

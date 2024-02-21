@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,1,4,0,0,0,0,0,0,0,02/16/2024,neutral,16580,410,Merrimack,9,True,10,3,7,win,4780657,416,2809414,2024,1
+0,2,2,0,0,0,0,0,0,0,02/17/2024,neutral,16580,635,Seton Hall,9,True,4,10,-6,loss,4780658,416,2809414,2024,1
+2,1,4,1,0,0,0,0,0,0,02/17/2024,neutral,16580,352,Lehigh,9,True,0,2,-2,loss,4780659,416,2809414,2024,1
+4,2,7,1,0,0,0,0,1,0,02/18/2024,neutral,16580,47,Ball St.,9,True,1,4,-3,loss,4780660,416,2809414,2024,1

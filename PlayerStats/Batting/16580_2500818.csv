@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,5,2,1,0,6,1,1,0,0,0,0,2,0,0,0,0,0,0,02/16/2024,away,16580,534,Pacific,9,True,1,2,-1,loss,4525549,465,2500818,2024,1
+0,5,1,0,0,1,0,1,0,1,0,0,2,1,0,0,0,0,0,02/18/2024,away,16580,534,Pacific,10,True,6,5,1,win,5246326,465,2500818,2024,1
+1,5,1,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,02/18/2024,away,16580,534,Pacific,9,True,8,0,8,win,4526108,465,2500818,2024,1
+0,6,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/19/2024,away,16580,674,Stanford,9,True,10,8,2,win,4526278,465,2500818,2024,1

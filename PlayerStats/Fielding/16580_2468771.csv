@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,2,3,0,0,0,0,0,0,0,02/16/2024,away,16580,534,Pacific,9,True,1,2,-1,loss,4525549,465,2468771,2024,1
+2,3,5,0,0,0,0,0,1,0,02/18/2024,away,16580,534,Pacific,10,True,6,5,1,win,5246326,465,2468771,2024,1
+0,4,4,0,0,0,0,0,0,0,02/19/2024,away,16580,674,Stanford,9,True,10,8,2,win,4526278,465,2468771,2024,1

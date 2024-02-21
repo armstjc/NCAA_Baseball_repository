@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,02/16/2024,away,16580,574,Rice,9,True,3,1,2,win,4525515,513,2303772,2024,1
+1,4,2,0,0,5,1,3,0,0,1,0,1,0,0,0,0,0,0,02/17/2024,away,16580,574,Rice,9,True,9,5,4,win,4525743,513,2303772,2024,1
+2,5,1,0,0,4,1,1,1,0,0,0,4,0,0,0,0,0,0,02/18/2024,away,16580,574,Rice,9,True,13,10,3,win,4526069,513,2303772,2024,1

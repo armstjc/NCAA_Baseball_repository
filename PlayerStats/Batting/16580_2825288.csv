@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,4,2,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,02/16/2024,away,16580,366,Louisiana Tech,9,True,3,9,-6,loss,4525691,502,2825288,2024,1
+1,4,1,0,0,1,0,0,1,0,0,0,2,1,0,0,0,0,1,02/17/2024,away,16580,366,Louisiana Tech,12,True,2,3,-1,loss,4525908,502,2825288,2024,1
+1,3,1,0,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,02/17/2024,away,16580,366,Louisiana Tech,9,True,3,5,-2,loss,4542780,502,2825288,2024,1
+0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2024,away,16580,366,Louisiana Tech,9,True,0,8,-8,loss,4526233,502,2825288,2024,1

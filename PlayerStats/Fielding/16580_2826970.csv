@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,3,6,1,0,0,0,0,2,0,02/16/2024,away,16580,101,CSUN,9,True,6,10,-4,loss,4525630,30024,2826970,2024,1
+2,3,5,0,0,0,0,0,1,0,02/17/2024,away,16580,101,CSUN,9,True,6,5,1,win,4525999,30024,2826970,2024,1
+2,1,4,1,0,0,0,0,0,0,02/18/2024,away,16580,111,UC Riverside,9,True,4,8,-4,loss,5246393,30024,2826970,2024,1
+1,2,3,0,0,0,0,0,0,0,02/18/2024,away,16580,101,CSUN,9,True,10,6,4,win,4526253,30024,2826970,2024,1

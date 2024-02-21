@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,3,1,0,0,0,0,0,0,02/16/2024,away,16580,703,Texas,9,True,3,7,-4,loss,4525482,627,2492058,2024,1
+3,2,5,0,0,0,0,0,1,0,02/17/2024,away,16580,703,Texas,11,True,6,5,1,win,4525719,627,2492058,2024,1
+2,0,3,1,0,0,0,0,0,0,02/18/2024,away,16580,703,Texas,9,True,4,9,-5,loss,4526040,627,2492058,2024,1

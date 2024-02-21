@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,4,3,0,0,3,0,1,0,0,1,0,0,0,0,0,0,0,0,02/16/2024,home,16580,748,Wagner,9,True,10,3,7,win,4525654,457,2471660,2024,1
+1,4,2,0,1,4,0,1,1,0,0,0,0,0,0,0,0,0,0,02/17/2024,home,16580,748,Wagner,9,True,16,5,11,win,4525883,457,2471660,2024,1
+1,4,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,02/18/2024,home,16580,748,Wagner,9,True,20,6,14,win,4526220,457,2471660,2024,1

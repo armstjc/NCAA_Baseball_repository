@@ -1,35 +1,35 @@
-"name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Almanzar Jr., Edwin","Fr","2666488",2022,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2666488",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Anderson, Brett","So","2495190",2022,"23","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2495190",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Anzalone, Santo","Fr",NA,2022,"40","1B",NA,272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Blaisdell, Tim","Sr","2138191",2022,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2138191",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Blake, Colin","So","2495199",2022,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2495199",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Burnett, Daniel","So","2495187",2022,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2495187",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Chaney, Robert","Sr","2154902",2022,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2154902",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Chavarria, Martin","Jr","2666463",2022,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2666463",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Cobb Jr., Tremayne","Jr","2350162",2022,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2350162",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Cohoon, Donnie","Sr","2138203",2022,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2138203",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Cole, Logan","Jr","2666460",2022,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2666460",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Colella, Jack","So","2463301",2022,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2463301",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Corporan, Manny","Jr","2137501",2022,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2137501",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Cote, Dan","Jr","2350193",2022,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2350193",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Couture, Alec","Fr","2666481",2022,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2666481",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Crook, Evan","Fr",NA,2022,"35","P",NA,272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Dee, Ryan","So","2495184",2022,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2495184",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Engstrom, Harrison","Jr","2305447",2022,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2305447",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Gatton, Nick","So","2666489",2022,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2666489",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Giroux-Harvey, Julien","Sr","1985012",2022,"33","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=1985012",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Hawes, Kyle","Sr","2350187",2022,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2350187",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Holmes, Tyler","Jr","2350181",2022,"7","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2350181",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Judenis, James","Sr","1997185",2022,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=1997185",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Kellogg, Devin","Sr","2138184",2022,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2138184",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Knight, Ryan","Fr","2666467",2022,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2666467",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Koziol, Kevin","Sr","2496203",2022,"22","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2496203",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"LaPierre, Ryan","So","2495198",2022,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2495198",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Maycock, Ben","Sr","1974526",2022,"39","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=1974526",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Mulachy, Teague","Fr",NA,2022,"15","P",NA,272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Nowak, Will","Sr","2138186",2022,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2138186",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Rivera, Noah","Sr","1986757",2022,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=1986757",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Santiago, Jake","So","2495193",2022,"26","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2495193",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Tenney, Derek","Jr","2350166",2022,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2350166",272,"Hartford","/team/272/15860",845,"America East",1,15860
-"Woronick, Joseph","Jr","2350168",2022,"17","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2350168",272,"Hartford","/team/272/15860",845,"America East",1,15860
+"player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
+"Almanzar Jr., Edwin","Fr","2666488",2022,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2666488",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Anderson, Brett","So","2495190",2022,"23","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2495190",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Anzalone, Santo","Fr",NA,2022,"40","1B",NA,272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Blaisdell, Tim","Sr","2138191",2022,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2138191",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Blake, Colin","So","2495199",2022,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2495199",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Burnett, Daniel","So","2495187",2022,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2495187",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Chaney, Robert","Sr","2154902",2022,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2154902",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Chavarria, Martin","Jr","2666463",2022,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2666463",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Cobb Jr., Tremayne","Jr","2350162",2022,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2350162",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Cohoon, Donnie","Sr","2138203",2022,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2138203",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Cole, Logan","Jr","2666460",2022,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2666460",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Colella, Jack","So","2463301",2022,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2463301",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Corporan, Manny","Jr","2137501",2022,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2137501",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Cote, Dan","Jr","2350193",2022,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2350193",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Couture, Alec","Fr","2666481",2022,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2666481",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Crook, Evan","Fr",NA,2022,"35","P",NA,272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Dee, Ryan","So","2495184",2022,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2495184",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Engstrom, Harrison","Jr","2305447",2022,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2305447",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Gatton, Nick","So","2666489",2022,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2666489",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Giroux-Harvey, Julien","Sr","1985012",2022,"33","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=1985012",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Hawes, Kyle","Sr","2350187",2022,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2350187",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Holmes, Tyler","Jr","2350181",2022,"7","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2350181",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Judenis, James","Sr","1997185",2022,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=1997185",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Kellogg, Devin","Sr","2138184",2022,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2138184",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Knight, Ryan","Fr","2666467",2022,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2666467",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Koziol, Kevin","Sr","2496203",2022,"22","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2496203",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"LaPierre, Ryan","So","2495198",2022,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2495198",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Maycock, Ben","Sr","1974526",2022,"39","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=1974526",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Mulachy, Teague","Fr",NA,2022,"15","P",NA,272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Nowak, Will","Sr","2138186",2022,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2138186",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Rivera, Noah","Sr","1986757",2022,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=1986757",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Santiago, Jake","So","2495193",2022,"26","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2495193",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Tenney, Derek","Jr","2350166",2022,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2350166",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860
+"Woronick, Joseph","Jr","2350168",2022,"17","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=272&stats_player_seq=2350168",272,"Hartford","/team/272/15860",845,"America East",1,2022,15860

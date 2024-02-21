@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+13,0,14,1,0,0,2,0,0,0,02/18/2024,away,16580,536,UTRGV,11,True,4,3,1,win,5246077,572,2680710,2024,1
+5,1,6,0,0,0,0,1,0,0,02/19/2024,away,16580,536,UTRGV,9,True,1,15,-14,loss,4526286,572,2680710,2024,1

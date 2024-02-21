@@ -1,20 +1,20 @@
-"name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","season_id"
-"Allen, Stefan","Fr","2691456",2022,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2691456",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Arias, Kevin","So","2347281",2022,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347281",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Delgado, Chris","Sr","1999868",2022,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=1999868",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Hennessy, Tran","Sr","2347287",2022,"32","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347287",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"James, Kyle","Sr","2347265",2022,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347265",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Jarrin, Glennd","Sr","2347259",2022,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347259",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Mack, Terrence","Jr","2347268",2022,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347268",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Maher, Eamon","Sr","1999853",2022,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=1999853",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Monegro, Nico","So",NA,2022,"23","UT",NA,279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Nunez, Justin","Sr","2347279",2022,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347279",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Ortiz, Patrick","Jr","2691924",2022,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2691924",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Pinedo Pichardo, Ransell","Sr","2691491",2022,"77","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2691491",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Polanco, Randy","Jr","2691923",2022,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2691923",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Rijo, Nomar","So","2347285",2022,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347285",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Rodriguez, Jordan","Fr","2691490",2022,"13","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2691490",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Santos, Jeremmy","Jr","2143356",2022,"34","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2143356",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Smith, Nick","Sr","2347266",2022,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347266",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Then, Erik","Sr","2143358",2022,"24","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2143358",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
-"Torres, David","Jr","2691492",2022,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2691492",279,"Lehman","/team/279/15860",834,"CUNYAC",3,15860
+"player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
+"Allen, Stefan","Fr","2691456",2022,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2691456",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Arias, Kevin","So","2347281",2022,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347281",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Delgado, Chris","Sr","1999868",2022,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=1999868",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Hennessy, Tran","Sr","2347287",2022,"32","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347287",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"James, Kyle","Sr","2347265",2022,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347265",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Jarrin, Glennd","Sr","2347259",2022,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347259",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Mack, Terrence","Jr","2347268",2022,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347268",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Maher, Eamon","Sr","1999853",2022,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=1999853",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Monegro, Nico","So",NA,2022,"23","UT",NA,279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Nunez, Justin","Sr","2347279",2022,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347279",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Ortiz, Patrick","Jr","2691924",2022,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2691924",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Pinedo Pichardo, Ransell","Sr","2691491",2022,"77","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2691491",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Polanco, Randy","Jr","2691923",2022,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2691923",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Rijo, Nomar","So","2347285",2022,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347285",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Rodriguez, Jordan","Fr","2691490",2022,"13","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2691490",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Santos, Jeremmy","Jr","2143356",2022,"34","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2143356",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Smith, Nick","Sr","2347266",2022,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2347266",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Then, Erik","Sr","2143358",2022,"24","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2143358",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860
+"Torres, David","Jr","2691492",2022,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=15860&org_id=279&stats_player_seq=2691492",279,"Lehman","/team/279/15860",834,"CUNYAC",3,2022,15860

@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,5,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/16/2024,away,16580,772,Western Ky.,9,True,5,2,3,win,4525540,72,2301038,2024,1
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2024,away,16580,772,Western Ky.,9,True,0,5,-5,loss,4525766,72,2301038,2024,1
+1,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,02/18/2024,away,16580,772,Western Ky.,9,True,3,5,-2,loss,4526093,72,2301038,2024,1

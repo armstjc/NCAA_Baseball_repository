@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/16/2024,neutral,16580,439,Monmouth,9,True,3,2,1,win,4525668,725,2825544,2024,1
+0,3,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,02/17/2024,neutral,16580,539,Penn St.,9,True,3,4,-1,loss,4491802,725,2825544,2024,1
+0,2,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,02/18/2024,neutral,16580,539,Penn St.,9,True,4,12,-8,loss,4491857,725,2825544,2024,1
+0,3,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,02/18/2024,neutral,16580,439,Monmouth,9,True,10,1,9,win,4526152,725,2825544,2024,1

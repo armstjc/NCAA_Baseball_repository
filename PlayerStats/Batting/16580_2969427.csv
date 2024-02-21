@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/16/2024,away,16580,99,Long Beach St.,9,True,5,10,-5,loss,4525690,756,2969427,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2024,away,16580,99,Long Beach St.,17,True,3,3,0,tie,4526232,756,2969427,2024,1

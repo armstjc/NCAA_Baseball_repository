@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/16/2024,away,16580,490,NC State,9,True,1,6,-5,loss,4525628,740,2939683,2024,1
+2,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,02/17/2024,away,16580,490,NC State,9,True,9,6,3,win,4525978,740,2939683,2024,1
+0,5,1,1,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,02/18/2024,away,16580,490,NC State,9,True,3,5,-2,loss,4526210,740,2939683,2024,1
+1,4,2,1,0,3,0,2,2,0,0,0,0,1,0,0,0,0,1,02/20/2024,home,16580,363,Longwood,9,True,16,6,10,win,4526291,740,2939683,2024,1

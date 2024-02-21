@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,02/16/2024,away,16580,30095,Utah Tech,9,True,12,6,6,win,4525669,754,2670451,2024,1
+2,4,1,0,0,4,1,1,1,0,0,0,0,0,0,0,0,0,0,02/17/2024,away,16580,30095,Utah Tech,9,True,8,6,2,win,4525926,754,2670451,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2024,away,16580,30095,Utah Tech,9,True,4,7,-3,loss,4542796,754,2670451,2024,1
+0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2024,away,16580,30095,Utah Tech,9,True,5,1,4,win,4526200,754,2670451,2024,1

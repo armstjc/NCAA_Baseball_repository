@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,02/16/2024,away,16580,365,LSU,9,True,8,11,-3,loss,4525498,741,2968441,2024,1
+1,2,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,02/18/2024,away,16580,365,LSU,9,True,5,27,-22,loss,4526055,741,2968441,2024,1
+2,2,1,0,0,4,1,2,2,1,0,0,1,0,1,1,0,0,0,02/20/2024,away,16580,485,Norfolk St.,9,True,11,9,2,win,4526343,741,2968441,2024,1

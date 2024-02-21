@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,4,0,0,0,0,0,1,0,02/17/2024,neutral,16580,711,Towson,9,True,3,14,-11,loss,4525847,83,2677224,2024,1
+5,2,7,0,0,0,0,0,1,0,02/18/2024,neutral,16580,711,Towson,9,True,7,3,4,win,4526147,83,2677224,2024,1

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,3,5,0,0,0,0,0,2,0,02/16/2024,home,16580,310,Iona,9,True,8,5,3,win,4525555,769,2966356,2024,1
+0,4,4,0,0,0,0,0,1,0,02/17/2024,home,16580,310,Iona,9,True,16,3,13,win,4525779,769,2966356,2024,1
+0,1,1,0,0,0,0,0,0,0,02/18/2024,home,16580,310,Iona,9,True,8,4,4,win,4526117,769,2966356,2024,1

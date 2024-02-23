@@ -1,12 +1,12 @@
-from collegebaseball import ncaa_scraper as ncaa
-
+import ssl
+import time
 # from collegebaseball import datasets
 from datetime import date
 
-import time
-from tqdm import tqdm
 import pandas as pd
-import ssl
+from tqdm import tqdm
+
+from collegebaseball import ncaa_scraper as ncaa
 
 # import warnings
 

@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,3,1,0,0,1,0,2,0,1,1,0,0,0,0,0,0,0,0,02/18/2024,home,16580,627,San Diego,9,True,9,4,5,win,4526040,703,2817013,2024,1
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/20/2024,home,16580,287,Houston Christian,9,True,20,3,17,win,4526296,703,2817013,2024,1

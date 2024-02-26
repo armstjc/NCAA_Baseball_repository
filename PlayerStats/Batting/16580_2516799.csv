@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,3,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,02/17/2024,away,16580,287,Houston Christian,10,True,11,4,7,win,4525812,349,2516799,2024,2
 0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,02/18/2024,away,16580,287,Houston Christian,9,True,0,1,-1,loss,4526086,349,2516799,2024,2
 0,3,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,02/18/2024,away,16580,287,Houston Christian,9,True,6,7,-1,loss,4545051,349,2516799,2024,2
+0,4,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,02/23/2024,away,16580,563,Radford,9,True,2,19,-17,loss,4527112,349,2516799,2024,2
+2,5,2,0,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,02/23/2024,away,16580,563,Radford,10,True,8,6,2,win,4526680,349,2516799,2024,2

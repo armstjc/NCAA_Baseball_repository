@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/16/2024,home,16580,464,Omaha,9,True,14,4,10,win,4525520,30,2966091,2024,1
+1,1,2,0,0,0,0,1,0,0,02/20/2024,home,16580,2678,Ark.-Pine Bluff,9,True,10,0,10,win,4526324,30,2966091,2024,1

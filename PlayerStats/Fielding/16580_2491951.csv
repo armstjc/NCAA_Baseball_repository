@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,02/16/2024,away,16580,703,Texas,9,True,3,7,-4,loss,4525482,627,2491951,2024,1
 1,0,1,0,0,0,0,0,0,0,02/18/2024,away,16580,703,Texas,9,True,4,9,-5,loss,4526040,627,2491951,2024,1
+1,0,1,0,0,0,0,0,0,0,02/21/2024,home,16580,112,UC San Diego,10,True,8,7,1,win,5247298,627,2491951,2024,1
+1,0,1,0,0,0,0,0,0,0,02/23/2024,home,16580,29,Arizona,9,True,10,8,2,win,4526560,627,2491951,2024,1

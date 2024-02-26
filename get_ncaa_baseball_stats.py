@@ -74,23 +74,23 @@ def get_season_ncaa_baseball_stats(season: int, division: int):
         ######################################################################
         #  Batting Stats
         ######################################################################
-        # try:
-        #     batting_df = ncaa.ncaa_player_game_logs(
-        #         player=int(player_id_arr[i]),
-        #         season=int(season_id_arr[i]),
-        #         variant="batting",
-        #         school=int(school_id_arr[i]),
-        #         include_advanced=False,
-        #     )
-        # except Exception:
-        #     print("No batting stats to download.")
-        batting_df = ncaa.ncaa_player_game_logs(
-            player=int(player_id_arr[i]),
-            season=int(season_id_arr[i]),
-            variant="batting",
-            school=int(school_id_arr[i]),
-            include_advanced=False,
-        )
+        try:
+            batting_df = ncaa.ncaa_player_game_logs(
+                player=int(player_id_arr[i]),
+                season=int(season_id_arr[i]),
+                variant="batting",
+                school=int(school_id_arr[i]),
+                include_advanced=False,
+            )
+        except Exception:
+            print("No batting stats to download.")
+        # batting_df = ncaa.ncaa_player_game_logs(
+        #     player=int(player_id_arr[i]),
+        #     season=int(season_id_arr[i]),
+        #     variant="batting",
+        #     school=int(school_id_arr[i]),
+        #     include_advanced=False,
+        # )
 
         try:
             batting_df = batting_df[

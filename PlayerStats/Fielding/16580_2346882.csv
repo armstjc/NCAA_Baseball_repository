@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 10,2,12,0,0,0,3,1,0,0,02/16/2024,home,16580,222,FDU,9,True,4,2,2,win,4525956,629,2346882,2024,1
 7,0,7,0,0,0,0,0,2,0,02/16/2024,home,16580,222,FDU,9,True,4,5,-1,loss,5245921,629,2346882,2024,1
+2,1,3,0,0,0,0,1,0,0,02/18/2024,home,16580,222,FDU,9,True,6,3,3,win,4526261,629,2346882,2024,1
+8,1,9,0,0,0,1,1,0,0,02/23/2024,home,16580,466,Nevada,9,True,1,5,-4,loss,4526540,629,2346882,2024,1

@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 9,0,9,0,0,0,1,0,0,0,02/16/2024,neutral,16580,261,Grambling,9,True,10,5,5,win,4525574,553,2462162,2024,1
 7,2,9,0,0,5,3,1,0,0,02/18/2024,neutral,16580,17,Alcorn,9,True,15,14,1,win,4526138,553,2462162,2024,1
+8,0,8,0,0,0,2,0,0,0,02/20/2024,away,16580,288,Houston,9,True,1,27,-26,loss,4526398,553,2462162,2024,1
+8,1,9,0,0,0,0,1,0,0,02/23/2024,neutral,16580,488,N.C. A&T,9,True,7,5,2,win,4526602,553,2462162,2024,1

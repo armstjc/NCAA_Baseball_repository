@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/16/2024,neutral,16580,26172,A&M-Corpus Christi,11,True,1,3,-2,loss,4525642,129,2829534,2024,1
+0,1,1,0,0,0,0,0,0,0,02/21/2024,away,16580,676,SFA,11,True,11,10,1,win,4526443,129,2829534,2024,1

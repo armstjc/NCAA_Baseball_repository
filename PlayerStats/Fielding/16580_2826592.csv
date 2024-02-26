@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 8,0,8,0,0,0,1,0,0,0,02/16/2024,neutral,16580,164,UConn,9,True,3,4,-1,loss,5245949,367,2826592,2024,1
+4,0,4,0,0,0,0,0,0,0,02/23/2024,home,16580,596,St. Bonaventure,9,True,21,3,18,win,5247337,367,2826592,2024,1
+6,0,6,0,0,0,0,0,0,0,02/23/2024,home,16580,596,St. Bonaventure,8,True,3,4,-1,loss,4526678,367,2826592,2024,1

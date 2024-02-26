@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/16/2024,home,16580,169,Creighton,9,True,0,24,-24,loss,4525610,165,2668873,2024,1
 1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2024,home,16580,169,Creighton,8,True,6,9,-3,loss,5246297,165,2668873,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/20/2024,away,16580,248,George Mason,9,True,2,21,-19,loss,4526356,165,2668873,2024,1

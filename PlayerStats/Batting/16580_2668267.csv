@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,02/16/2024,away,16580,173,Davidson,9,True,7,4,3,win,4525545,444,2668267,2024,1
 0,4,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,02/17/2024,away,16580,173,Davidson,9,True,5,16,-11,loss,4525770,444,2668267,2024,1
+1,3,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,02/20/2024,away,16580,334,Kentucky,9,True,5,9,-4,loss,4526287,444,2668267,2024,1
+0,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/23/2024,away,16580,487,North Ala.,9,True,5,2,3,win,4526526,444,2668267,2024,1

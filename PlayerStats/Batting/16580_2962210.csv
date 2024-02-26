@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,02/16/2024,neutral,16580,700,Texas Tech,9,True,6,2,4,win,4525566,694,2962210,2024,1
 0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2024,neutral,16580,51,Baylor,9,True,11,5,6,win,4526129,694,2962210,2024,1
+0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/20/2024,home,16580,456,UNC Asheville,9,True,3,2,1,win,4526309,694,2962210,2024,1
+1,2,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,02/21/2024,home,16580,198,ETSU,9,True,16,0,16,win,4526407,694,2962210,2024,1
+3,3,2,0,0,5,1,2,1,2,0,0,1,0,0,0,0,0,0,02/24/2024,home,16580,14,UAlbany,9,True,21,6,15,win,4526805,694,2962210,2024,1

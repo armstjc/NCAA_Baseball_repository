@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/18/2024,home,16580,771,Western Ill.,9,True,18,9,9,win,4525976,43,2471954,2024,1
+4,0,4,0,0,0,0,0,0,0,02/20/2024,away,16580,430,Mississippi St.,9,True,3,2,1,win,4526288,43,2471954,2024,1
+2,0,2,0,0,0,0,0,0,0,02/21/2024,away,16580,430,Mississippi St.,9,True,13,10,3,win,4526400,43,2471954,2024,1

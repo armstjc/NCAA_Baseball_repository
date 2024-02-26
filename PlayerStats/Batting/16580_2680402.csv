@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2024,home,16580,334,Kentucky,9,True,3,9,-6,loss,4526105,10411,2680402,2024,1
+1,4,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,02/21/2024,home,16580,769,Western Caro.,9,True,16,9,7,win,4526424,10411,2680402,2024,1
+1,4,3,1,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,02/23/2024,home,16580,562,Quinnipiac,9,True,10,0,10,win,4526555,10411,2680402,2024,1

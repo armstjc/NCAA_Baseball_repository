@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 7,0,7,0,0,0,0,0,0,0,02/16/2024,home,16580,180,Delaware,9,True,9,7,2,win,4525475,2711,2934489,2024,1
 6,0,6,0,0,0,1,0,0,0,02/16/2024,home,16580,180,Delaware,9,True,1,6,-5,loss,4525713,2711,2934489,2024,1
+5,2,7,0,0,0,0,1,0,0,02/20/2024,home,16580,235,Florida,9,True,0,10,-10,loss,4526292,2711,2934489,2024,1
+6,0,6,0,0,0,2,0,0,0,02/21/2024,away,16580,235,Florida,9,True,4,13,-9,loss,4526401,2711,2934489,2024,1
+11,1,12,0,0,0,4,1,0,0,02/23/2024,home,16580,813,Yale,9,True,13,6,7,win,4526475,2711,2934489,2024,1

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 10,1,11,0,0,0,0,1,1,0,02/16/2024,neutral,16580,473,New Mexico,9,True,15,6,9,win,4525582,528,2667094,2024,1
 8,0,8,0,0,0,0,0,0,0,02/18/2024,neutral,16580,94,CSU Bakersfield,9,True,15,2,13,win,4526148,528,2667094,2024,1
+8,0,8,0,0,0,0,0,0,0,02/21/2024,neutral,16580,700,Texas Tech,9,True,10,4,6,win,4526429,528,2667094,2024,1

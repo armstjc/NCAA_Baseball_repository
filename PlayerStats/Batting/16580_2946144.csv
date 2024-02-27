@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,1,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,02/18/2024,away,16580,234,Florida St.,9,True,5,15,-10,loss,4526059,87,2946144,2024,1
+1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,away,16580,6,Alabama A&M,9,True,19,6,13,win,4526784,87,2946144,2024,1

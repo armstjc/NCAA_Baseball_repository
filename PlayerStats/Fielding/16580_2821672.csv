@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 7,0,7,0,0,0,0,0,0,0,02/16/2024,away,16580,2711,North Florida,9,True,6,1,5,win,4525713,180,2821672,2024,1
 4,1,5,0,0,0,0,0,0,0,02/20/2024,home,16580,178,Delaware St.,9,True,14,8,6,win,4526375,180,2821672,2024,1
+10,0,10,0,0,0,1,0,0,0,02/24/2024,away,16580,316,Jacksonville,10,True,14,4,10,win,5249995,180,2821672,2024,1
+10,0,10,0,0,0,1,0,0,0,02/24/2024,away,16580,316,Jacksonville,10,True,14,4,10,win,4527119,180,2821672,2024,1

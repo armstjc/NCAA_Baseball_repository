@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,02/17/2024,home,16580,393,UMES,9,True,12,2,10,win,4525985,488,2655140,2024,1
+0,3,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,02/20/2024,away,16580,1092,Gardner-Webb,9,True,9,2,7,win,4526336,488,2655140,2024,1
+1,4,2,1,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,02/23/2024,neutral,16580,553,Prairie View,9,True,5,7,-2,loss,4526602,488,2655140,2024,1
+2,3,3,2,0,5,0,3,2,0,0,0,0,0,0,0,0,0,0,02/25/2024,neutral,16580,261,Grambling,9,True,14,5,9,win,4527322,488,2655140,2024,1

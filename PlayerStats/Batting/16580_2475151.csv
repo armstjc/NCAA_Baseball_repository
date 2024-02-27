@@ -1,4 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,4,3,1,1,6,0,2,0,0,0,0,1,0,0,0,0,0,0,02/16/2024,away,16580,111,UC Riverside,9,True,12,3,9,win,4525551,466,2475151,2024,1
+2,4,2,1,0,3,0,2,0,0,0,0,1,0,0,0,0,0,0,02/16/2024,away,16580,111,UC Riverside,9,True,12,3,9,win,4525551,466,2475151,2024,1
 0,5,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,02/17/2024,away,16580,111,UC Riverside,9,True,7,11,-4,loss,4525776,466,2475151,2024,1
 1,5,3,1,0,4,0,6,0,0,0,0,0,1,0,0,0,0,1,02/18/2024,away,16580,111,UC Riverside,9,True,13,3,10,win,4526112,466,2475151,2024,1
+1,5,1,0,0,4,1,2,0,0,0,0,1,1,0,0,0,0,1,02/23/2024,away,16580,629,San Francisco,9,True,5,1,4,win,4526540,466,2475151,2024,1
+1,4,3,1,1,6,0,1,1,0,0,0,1,0,0,0,0,0,0,02/24/2024,away,16580,629,San Francisco,9,True,9,2,7,win,4526832,466,2475151,2024,1
+0,5,3,1,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,02/25/2024,away,16580,629,San Francisco,9,True,2,7,-5,loss,4527242,466,2475151,2024,1

@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/16/2024,away,16580,716,Troy,10,True,8,9,-1,loss,4525481,660,2661407,2024,1
+0,1,1,0,0,0,0,0,0,0,02/23/2024,away,16580,527,Oral Roberts,9,True,6,10,-4,loss,4526529,660,2661407,2024,1

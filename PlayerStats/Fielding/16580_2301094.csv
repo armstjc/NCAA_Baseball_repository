@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,1,4,0,0,1,2,0,0,0,02/16/2024,away,16580,101,CSUN,9,True,6,10,-4,loss,4525630,30024,2301094,2024,1
 4,0,4,0,0,1,1,0,0,0,02/18/2024,away,16580,101,CSUN,9,True,10,6,4,win,4526253,30024,2301094,2024,1
+8,1,9,0,0,0,2,1,0,0,02/24/2024,away,16580,610,Saint Mary's (CA),9,True,8,11,-3,loss,4526989,30024,2301094,2024,1

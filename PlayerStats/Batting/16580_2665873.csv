@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,5,3,0,0,9,2,3,0,0,0,0,1,0,0,0,1,0,0,02/16/2024,away,16580,128,UCF,9,True,11,12,-1,loss,4525461,81,2665873,2024,1
+1,5,1,0,0,4,1,2,1,0,0,0,0,0,0,0,0,0,0,02/23/2024,away,16580,249,George Washington,9,True,13,10,3,win,4526661,81,2665873,2024,1
+2,3,1,0,0,4,1,1,1,0,0,0,1,0,0,0,0,0,0,02/24/2024,away,16580,249,George Washington,9,True,4,12,-8,loss,4527051,81,2665873,2024,1
+1,4,2,0,0,2,0,0,0,1,0,0,2,0,0,0,0,0,0,02/25/2024,away,16580,249,George Washington,9,True,3,16,-13,loss,4527351,81,2665873,2024,1

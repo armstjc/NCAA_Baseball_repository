@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/16/2024,neutral,16580,609,Saint Louis,9,True,8,13,-5,loss,4525843,299,2334252,2024,1
+1,5,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,02/24/2024,away,16580,32,Little Rock,9,True,14,5,9,win,4526830,299,2334252,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/25/2024,away,16580,32,Little Rock,9,True,5,10,-5,loss,4527238,299,2334252,2024,1

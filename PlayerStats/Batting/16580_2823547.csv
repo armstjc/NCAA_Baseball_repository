@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/20/2024,away,16580,32,Little Rock,9,True,4,10,-6,loss,4526330,404,2823547,2024,1
 1,1,1,0,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,02/21/2024,home,16580,1004,Central Ark.,9,True,14,4,10,win,4526408,404,2823547,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/23/2024,home,16580,71,Bowling Green,9,True,1,9,-8,loss,4526499,404,2823547,2024,1

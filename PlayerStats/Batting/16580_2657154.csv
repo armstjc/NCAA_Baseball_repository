@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/16/2024,home,16580,116,Canisius,9,True,6,5,1,win,5245411,606,2657154,2024,1
+1,3,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,02/23/2024,away,16580,1092,Gardner-Webb,9,True,6,2,4,win,4526551,606,2657154,2024,1
+0,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/24/2024,away,16580,1320,Presbyterian,10,True,2,3,-1,loss,4527111,606,2657154,2024,1
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/25/2024,away,16580,10411,USC Upstate,9,True,5,21,-16,loss,4527365,606,2657154,2024,1

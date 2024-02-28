@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,5,2,0,0,2,0,2,1,0,0,0,0,0,0,0,2,0,0,02/13/2024,home,16580,0,Hannibal-La Grange,9,True,18,9,9,win,4525422,11538,2464094,2024,3
+1,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/16/2024,away,16580,2713,Oglethorpe,9,True,16,7,9,win,5245911,11538,2464094,2024,3
+1,4,1,1,0,2,0,2,1,0,0,0,3,0,0,0,1,0,0,02/16/2024,away,16580,2713,Oglethorpe,9,True,4,10,-6,loss,4525670,11538,2464094,2024,3
+0,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,02/17/2024,away,16580,2713,Oglethorpe,9,True,0,8,-8,loss,4525928,11538,2464094,2024,3
+1,5,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,02/23/2024,home,16580,300,Ill. Wesleyan,9,True,6,5,1,win,4526620,11538,2464094,2024,3
+0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,home,16580,800,Wis.-Platteville,9,True,0,12,-12,loss,4527136,11538,2464094,2024,3
+1,5,2,1,0,3,0,2,0,0,0,0,0,0,0,0,1,0,0,02/25/2024,home,16580,800,Wis.-Platteville,9,True,8,7,1,win,4527327,11538,2464094,2024,3

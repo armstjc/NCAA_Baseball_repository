@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,1,0,02/23/2024,away,16580,11538,Fontbonne,9,True,5,6,-1,loss,4526620,300,2651821,2024,3
+9,2,11,0,0,0,0,0,0,0,02/24/2024,neutral,16580,800,Wis.-Platteville,9,True,3,0,3,win,4526941,300,2651821,2024,3
+1,0,1,0,0,0,0,0,0,0,02/25/2024,neutral,16580,126,Central (IA),9,True,4,3,1,win,4527388,300,2651821,2024,3

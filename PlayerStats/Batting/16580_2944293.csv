@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/09/2024,away,16580,30111,Covenant,9,True,4,5,-1,loss,5067804,21,2944293,2024,3
+0,4,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,02/09/2024,away,16580,30111,Covenant,9,True,10,6,4,win,4525160,21,2944293,2024,3
+0,2,2,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,02/26/2024,neutral,16580,192,Dubuque,9,True,1,7,-6,loss,4527471,21,2944293,2024,3
+0,4,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/26/2024,neutral,16580,750,Wartburg,10,True,7,8,-1,loss,4527472,21,2944293,2024,3
+0,2,1,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,02/27/2024,neutral,16580,30160,Houghton,9,True,10,9,1,win,4527575,21,2944293,2024,3

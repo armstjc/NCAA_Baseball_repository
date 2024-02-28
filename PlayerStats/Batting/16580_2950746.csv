@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/17/2024,home,16580,373,Lycoming,9,True,9,0,9,win,4525724,263,2950746,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,home,16580,1468,Mt. St. Mary (NY),9,True,14,1,13,win,4543478,263,2950746,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/27/2024,home,16580,752,Wash. & Lee,9,True,4,16,-12,loss,4527509,263,2950746,2024,3

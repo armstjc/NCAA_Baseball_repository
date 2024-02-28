@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,3,0,0,0,02/05/2024,home,16580,30193,Emmanuel (GA),9,True,4,7,-3,loss,4525091,429,2943558,2024,2
+1,0,1,0,0,0,0,0,0,0,02/10/2024,home,16580,422,Miles,9,True,13,3,10,win,5245118,429,2943558,2024,2
+1,0,1,0,0,0,0,0,0,0,02/16/2024,home,16580,10,Alabama Huntsville,9,True,2,5,-3,loss,4525629,429,2943558,2024,2
+1,0,1,0,0,0,0,0,0,0,02/20/2024,home,16580,0,William Carey,9,True,8,1,7,win,4526352,429,2943558,2024,2

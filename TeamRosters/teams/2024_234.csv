@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Abraham, John","Fr",NA,2024,"53","P",NA,234,"Florida St.","/team/234/16580",821,"ACC",1,2024,16580
+"Abraham, John","Fr","2943035",2024,"53","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=234&stats_player_seq=2943035",234,"Florida St.","/team/234/16580",821,"ACC",1,2024,16580
 "Adams, Gavin","Jr",NA,2024,"21","P",NA,234,"Florida St.","/team/234/16580",821,"ACC",1,2024,16580
 "Armstrong, Andrew","Sr","2468050",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=234&stats_player_seq=2468050",234,"Florida St.","/team/234/16580",821,"ACC",1,2024,16580
 "Arnold, Jamie","So","2797433",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=234&stats_player_seq=2797433",234,"Florida St.","/team/234/16580",821,"ACC",1,2024,16580
@@ -41,5 +41,5 @@
 "Trippel, Lance","So","2797488",2024,"48","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=234&stats_player_seq=2797488",234,"Florida St.","/team/234/16580",821,"ACC",1,2024,16580
 "West, Jaxson","So","2813213",2024,"20","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=234&stats_player_seq=2813213",234,"Florida St.","/team/234/16580",821,"ACC",1,2024,16580
 "Whittaker, Conner","Jr","2649344",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=234&stats_player_seq=2649344",234,"Florida St.","/team/234/16580",821,"ACC",1,2024,16580
-"Williams, Jordan","Jr","2797465",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=234&stats_player_seq=2797465",234,"Florida St.","/team/234/16580",821,"ACC",1,2024,16580
 "Williams, Max","So","2813214",2024,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=234&stats_player_seq=2813214",234,"Florida St.","/team/234/16580",821,"ACC",1,2024,16580
+"Williams, Jordan","Jr","2797465",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=234&stats_player_seq=2797465",234,"Florida St.","/team/234/16580",821,"ACC",1,2024,16580

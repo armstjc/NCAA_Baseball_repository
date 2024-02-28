@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Alberico, Alex","So",NA,2024,"29","P",NA,331,"Kent St.","/team/331/16580",875,"MAC",1,2024,16580
 "Ashby, Connor","Jr","2679829",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=331&stats_player_seq=2679829",331,"Kent St.","/team/331/16580",875,"MAC",1,2024,16580
-"Bean, Jacob","Fr",NA,2024,"5","P",NA,331,"Kent St.","/team/331/16580",875,"MAC",1,2024,16580
+"Bean, Jacob","Fr","2943811",2024,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=331&stats_player_seq=2943811",331,"Kent St.","/team/331/16580",875,"MAC",1,2024,16580
 "Bernadina, Rocco","Jr","2679853",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=331&stats_player_seq=2679853",331,"Kent St.","/team/331/16580",875,"MAC",1,2024,16580
 "Bickerstaff, Calvin","Sr","2479182",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=331&stats_player_seq=2479182",331,"Kent St.","/team/331/16580",875,"MAC",1,2024,16580
 "Cariaco, Peyton","Jr","2679856",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=331&stats_player_seq=2679856",331,"Kent St.","/team/331/16580",875,"MAC",1,2024,16580
@@ -37,5 +37,5 @@
 "Tiesing, Landon","Fr",NA,2024,"13","INF",NA,331,"Kent St.","/team/331/16580",875,"MAC",1,2024,16580
 "Varner, Jaden","Jr","2679875",2024,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=331&stats_player_seq=2679875",331,"Kent St.","/team/331/16580",875,"MAC",1,2024,16580
 "Waterman, Vince","Fr",NA,2024,"26","P",NA,331,"Kent St.","/team/331/16580",875,"MAC",1,2024,16580
-"Wentz, Gannon","So",NA,2024,"7","P",NA,331,"Kent St.","/team/331/16580",875,"MAC",1,2024,16580
+"Wentz, Gannon","So","2798368",2024,"7","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=331&stats_player_seq=2798368",331,"Kent St.","/team/331/16580",875,"MAC",1,2024,16580
 "Williams, Brody","So","2798385",2024,"22","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=331&stats_player_seq=2798385",331,"Kent St.","/team/331/16580",875,"MAC",1,2024,16580

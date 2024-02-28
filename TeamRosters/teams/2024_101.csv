@@ -1,12 +1,11 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Abel, Trent","Fr","2955243",2024,"46","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2955243",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
-"Allen-Fox, Destin","Fr",NA,2024,"22","P",NA,101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
+"Allen-Fox, Destin","Fr","2955218",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2955218",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Bainton, Thomas","Jr","2798028",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2798028",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Barraza, Nathan","Sr","2516442",2024,"3","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2516442",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Casey, Lucas","Fr","2955232",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2955232",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
-"Chandler, Smith","Fr",NA,2024,"35","INF",NA,101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
+"Chandler, Smith","Fr","2955233",2024,"35","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2955233",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Cody, Hayden","Jr","2516478",2024,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2516478",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
-"Colin, Aidan","So","2798040",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2798040",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Feist, Neil","Jr","2798435",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2798435",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Fitzer, Kevin","Jr","2516483",2024,"33","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2516483",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Franco, Nate","Fr",NA,2024,"48","UT",NA,101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
@@ -17,7 +16,7 @@
 "Halamicek, Ryan","Fr","2955200",2024,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2955200",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Hall, Hayden","So","2955215",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2955215",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Hanson, Gerald","So","2955207",2024,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2955207",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
-"Hernandez, Gabriel","Fr",NA,2024,"30","P",NA,101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
+"Hernandez, Gabriel","Fr","2955231",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2955231",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Ignaciak, Blake","Jr","2955234",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2955234",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Le, Mason","Sr","2330285",2024,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2330285",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Lee, Jehee","Fr",NA,2024,"47","C",NA,101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
@@ -38,7 +37,7 @@
 "Simons, Jakob","Sr","2670453",2024,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2670453",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Sojka, Andrew","Sr","2670407",2024,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2670407",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Stewart, Conner","Jr","2955227",2024,"26","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2955227",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
-"Vose, Justin","Jr",NA,2024,"10","P",NA,101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
+"Vose, Justin","Jr","2955203",2024,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2955203",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Wauschek, Braden","Fr","2955208",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2955208",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Wentz, Ryan","Sr","2516459",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2516459",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580
 "Wilkinson, Bren","So","2798503",2024,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=101&stats_player_seq=2798503",101,"CSUN","/team/101/16580",904,"Big West",1,2024,16580

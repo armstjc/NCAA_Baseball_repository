@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Anthony, Devin","So","2802830",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2802830",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
 "Baer, Cooper","So","2802908",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2802908",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
-"Barienbrock, Zack","Fr",NA,2024,"30","INF",NA,807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
+"Barienbrock, Zack","Fr","2946208",2024,"30","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2946208",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
 "Calcut, Sam","Fr",NA,2024,"23","C",NA,807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
 "Carroll, Ben","Jr","2666020",2024,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2666020",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
 "Craig, Grant","So",NA,2024,"26","C",NA,807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
@@ -14,7 +14,7 @@
 "Hanzie, Jay","Fr",NA,2024,"19","INF",NA,807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
 "Heintz, Andy","Jr","2666025",2024,"35","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2666025",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
 "Huxtable, Nathaniel","So","2802893",2024,"16","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2802893",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
-"Kasper, Noah","Fr",NA,2024,"37","P",NA,807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
+"Kasper, Noah","Fr","2946223",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2946223",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
 "Kerr, Andrew","Fr",NA,2024,"7","P",NA,807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
 "Knauf, Corey","Sr","2460278",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2460278",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
 "Kramer, Ryan","So","2802894",2024,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2802894",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
@@ -25,9 +25,9 @@
 "Panstares, John","So","2802895",2024,"25","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2802895",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
 "Pett, Nick","Jr","2666015",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2666015",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
 "Scarpelli, Michael","Fr",NA,2024,"18","P",NA,807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
-"Spring, Jack","So",NA,2024,"15","P",NA,807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
-"Tarpey, Ben","Fr",NA,2024,"21","P",NA,807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
-"Vance, Isaiah","Fr",NA,2024,"11","P",NA,807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
-"Vernadakis, Constantine","Fr",NA,2024,"2","P",NA,807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
+"Spring, Jack","So","2946158",2024,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2946158",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
+"Tarpey, Ben","Fr","2946182",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2946182",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
+"Vance, Isaiah","Fr","2946139",2024,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2946139",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
+"Vernadakis, Constantine","Fr","2946134",2024,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2946134",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
 "Westrick, Eli","Sr","2460277",2024,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2460277",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580
 "Widtmann, Leo","Jr","2666017",2024,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=807&stats_player_seq=2666017",807,"Wooster","/team/807/16580",897,"NCAC",3,2024,16580

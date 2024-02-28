@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,2,6,0,0,0,0,0,1,0,02/09/2024,home,16580,30193,Emmanuel (GA),9,True,3,11,-8,loss,4525224,1174,2953166,2024,2
+2,4,7,1,0,0,0,0,1,0,02/10/2024,home,16580,30193,Emmanuel (GA),9,True,1,5,-4,loss,5245154,1174,2953166,2024,2
+0,1,2,1,0,0,0,0,0,0,02/10/2024,home,16580,30193,Emmanuel (GA),9,True,2,6,-4,loss,4525308,1174,2953166,2024,2
+1,5,6,0,0,0,0,0,0,0,02/16/2024,away,16580,1170,Lenoir-Rhyne,9,True,12,6,6,win,4525635,1174,2953166,2024,2
+3,1,4,0,0,0,0,0,0,0,02/17/2024,away,16580,1170,Lenoir-Rhyne,9,True,4,10,-6,loss,4525904,1174,2953166,2024,2
+1,0,2,1,0,0,0,0,0,0,02/17/2024,away,16580,1170,Lenoir-Rhyne,9,True,3,9,-6,loss,4542653,1174,2953166,2024,2

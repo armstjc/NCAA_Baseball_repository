@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,3,1,0,0,0,0,0,0,02/02/2024,home,16580,537,UNC Pembroke,9,True,4,16,-12,loss,4524969,11276,2813054,2024,2
+1,7,8,0,0,0,0,0,0,0,02/03/2024,home,16580,537,UNC Pembroke,9,True,6,8,-2,loss,4525045,11276,2813054,2024,2

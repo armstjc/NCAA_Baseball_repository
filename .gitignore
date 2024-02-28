@@ -130,3 +130,5 @@ dmypy.json
 PlayerStats/batting_logs.csv
 PlayerStats/pitching_logs.csv
 .Rproj.user
+.Rhistory
+.RData

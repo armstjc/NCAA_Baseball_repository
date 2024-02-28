@@ -1,8 +1,8 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Baillargeon, Chris","Jr","2675393",2024,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=285&stats_player_seq=2675393",285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580
 "Bateman, Jack","Fr",NA,2024,"35","INF",NA,285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580
-"Brown, Oliver","So","2826184",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=285&stats_player_seq=2826184",285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580
 "Brown, Colin","Fr","2970582",2024,"10","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=285&stats_player_seq=2970582",285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580
+"Brown, Oliver","So","2826184",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=285&stats_player_seq=2826184",285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580
 "Bryant, Alex","Sr","2505520",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=285&stats_player_seq=2505520",285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580
 "Bryant, Cam","So","2826072",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=285&stats_player_seq=2826072",285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580
 "Casserly, Patrick","Sr","2505506",2024,"15","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=285&stats_player_seq=2505506",285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580
@@ -30,5 +30,5 @@
 "Sutman, Payton","Sr","2505507",2024,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=285&stats_player_seq=2505507",285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580
 "Toomey, Jack","So","2826071",2024,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=285&stats_player_seq=2826071",285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580
 "Walters, Augie","Jr","2675473",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=285&stats_player_seq=2675473",285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580
-"Wieder, Zach","Fr",NA,2024,"14","INF",NA,285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580
+"Wieder, Zach","Fr","2970583",2024,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=285&stats_player_seq=2970583",285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580
 "Wywoda, Jaden","So","2826102",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=285&stats_player_seq=2826102",285,"Holy Cross","/team/285/16580",838,"Patriot",1,2024,16580

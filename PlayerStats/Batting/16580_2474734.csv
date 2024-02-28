@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/09/2024,away,16580,1371,Southeastern Okla.,9,True,0,13,-13,loss,4525200,30054,2474734,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/10/2024,away,16580,1371,Southeastern Okla.,9,True,5,10,-5,loss,5245155,30054,2474734,2024,2
+1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,02/13/2024,away,16580,8744,Southwestern Okla.,9,True,1,14,-13,loss,4525411,30054,2474734,2024,2
+2,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,02/18/2024,home,16580,9081,Concordia-St. Paul,9,True,17,25,-8,loss,4526054,30054,2474734,2024,2
+0,3,1,0,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,02/19/2024,home,16580,9081,Concordia-St. Paul,9,True,10,18,-8,loss,4525497,30054,2474734,2024,2

@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Abbott, Levi","Sr","2466751",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2466751",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
-"Abramson, Joe","Jr","2654891",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2654891",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
+"Abramson, Joe","Jr","2654891",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2654891",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Aduddle, Bryan","Sr","2808031",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2808031",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Austra, Hunter","Fr",NA,2024,"42","C",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Cisco, Mason","So","2808023",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2808023",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
@@ -14,13 +14,13 @@
 "Genge, Clifton","Sr",NA,2024,"36","P",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Greenleaf, Tyler","Jr","2654903",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2654903",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Guiliano, Justin","Sr","2514461",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2514461",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
-"Haynes, Joey","So",NA,2024,"41","INF",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
+"Haynes, Joey","So",NA,2024,"10","INF",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Hennessy, Ethan","Sr","2466753",2024,"17","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2466753",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Hoover, Tyler","Jr",NA,2024,"30","P",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Kaufman, Tyson","Fr",NA,2024,"14","INF",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
-"Kelly, Michael","Fr",NA,2024,"27","INF",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
+"Kelly, Michael","Fr","2942052",2024,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2942052",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Kutz, Austin","Fr",NA,2024,"35","P",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
-"LoPinto, Joe","Fr",NA,2024,"10","P",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
+"LoPinto, Joe","Fr",NA,2024,"40","P",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Malec, Andrew","Fr",NA,2024,"16","P",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Marcello, Andrew","Jr","2808024",2024,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2808024",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Morin, Felix","So","2808034",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2808034",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
@@ -30,15 +30,14 @@
 "Podlas, Drew","So","2808050",2024,"38","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2808050",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Pouliot, Chris","Sr","2312833",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2312833",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Rumley, Trent","Jr","2654932",2024,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2654932",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
-"Russo, Thomas","Fr",NA,2024,"27","P",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
+"Russo, Thomas","Fr","2942049",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2942049",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Sebastian, Cole","Jr","2654909",2024,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2654909",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Sheridan, Tommy","So","2808028",2024,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2808028",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
-"Spinosa, JC","Fr",NA,2024,"15","INF",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
+"Spinosa, JC","Fr","2942027",2024,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2942027",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Staerker, Sam","So","2808046",2024,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2808046",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Strong, Jackson","Jr","2654933",2024,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2654933",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Stuckey, Howie","Fr","2941969",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2941969",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Terry-Emanuel, Alex","Jr","2654910",2024,"37","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2654910",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
-"Weeks, Eric","Fr",NA,2024,"8","INF",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
+"Weeks, Eric","Fr","2941983",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2941983",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
 "Wevers, Ty","Sr","2808038",2024,"23","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2808038",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
-"Wojcik, Ray","Fr",NA,2024,"44","P",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
-"Zwirecki, Thomas","So",NA,2024,"33","C",NA,116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580
+"Zwirecki, Thomas","So","2808036",2024,"33","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=116&stats_player_seq=2808036",116,"Canisius","/team/116/16580",871,"MAAC",1,2024,16580

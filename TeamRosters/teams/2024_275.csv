@@ -1,9 +1,9 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Abler, Andrew","Fr",NA,2024,"24","P",NA,275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
-"Baxter, Nate","Jr",NA,2024,"10","P",NA,275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
+"Abler, Andrew","Fr","2937928",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2937928",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
+"Baxter, Nate","Jr","2651876",2024,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2651876",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
 "Berger, Jake","Sr","2651877",2024,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2651877",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
 "Brancel, Dominic","Fr",NA,2024,"8","C",NA,275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
-"Burns, Will","Fr",NA,2024,"42","P",NA,275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
+"Burns, Will","Fr","2937930",2024,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2937930",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
 "Cleary, Cole","Jr","2841705",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2841705",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
 "Colasante, Gio","So","2796699",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2796699",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
 "Cooper, George","Jr","2651873",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2651873",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
@@ -21,11 +21,11 @@
 "McHugh, Ryan","Fr",NA,2024,"11","INF",NA,275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
 "Messervy, Peter","Sr","2651884",2024,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2651884",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
 "Narottam, Uday","Sr","2651890",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2651890",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
-"Pauley, Truman","Fr",NA,2024,"36","P",NA,275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
-"Rickheim, Jack","Fr",NA,2024,"12","INF",NA,275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
+"Pauley, Truman","Fr","2937929",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2937929",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
+"Rickheim, Jack","Fr","2937925",2024,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2937925",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
 "Rounds, Ben","Sr","2309234",2024,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2309234",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
-"Shulman, Tyler","Fr",NA,2024,"5","INF",NA,275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
-"Smith, Tanner","Jr","2651883",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2651883",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
+"Shulman, Tyler","Fr","2937922",2024,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2937922",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
 "Smith, Jack","So","2796700",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2796700",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
+"Smith, Tanner","Jr","2651883",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2651883",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
 "Snopek, Chris","Sr","2651889",2024,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=275&stats_player_seq=2651889",275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580
 "Targoff, Lou","Fr",NA,2024,"18","INF",NA,275,"Harvard","/team/275/16580",865,"Ivy League",1,2024,16580

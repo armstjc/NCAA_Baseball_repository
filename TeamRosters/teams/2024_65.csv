@@ -1,8 +1,10 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
+"Armstrong, Andrew","Fr","2973701",2024,"32","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2973701",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Balastrini, Drew","So","2664223",2024,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2664223",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Baranski, Nate","Sr","2336144",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2336144",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Barrow, Kolby","Sr","2501621",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2501621",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Cacioppo, Mike","Sr","2501618",2024,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2501618",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
+"Cawley, Jeremy","Fr","2973685",2024,"1","cf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2973685",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Coolbaugh, Cole","Sr","2482842",2024,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2482842",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Dean, Will","So","2824911",2024,"53","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2824911",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Ebbert, Brady","So","2824877",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2824877",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
@@ -12,8 +14,10 @@
 "Gilbert, Scott","Jr","2664261",2024,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2664261",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Heubel, Nick","Sr","2501625",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2501625",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Ingalls, Nico","So",NA,2024,"17","OF",NA,65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
+"Karpaitis, Shawn","Jr","2973686",2024,"15","c","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2973686",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Keenan, Dansby","Sr","2824879",2024,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2824879",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Keene, Mason","Sr","2501828",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2501828",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
+"Koppisch, Daniel","Fr","2973702",2024,"47","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2973702",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Kuperavage, Jacob","Jr","2664266",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2664266",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Labarbera, Christian","Jr","2664240",2024,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2664240",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Labarbero, Jonathan","Sr","2501829",2024,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2501829",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
@@ -27,6 +31,11 @@
 "Reifer, Jacob","Jr","2501627",2024,"40","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2501627",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Riley, Eli","Sr","2824882",2024,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2824882",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Ruiz, Alex","So","2824791",2024,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2824791",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
+"Scott, James","Fr","2973687",2024,"9","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2973687",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Standen, Michael","Sr","2501834",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2501834",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Steen, Zach","Sr","2501838",2024,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2501838",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
+"Velez, Xander","Fr","2973703",2024,"54","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2973703",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
 "Vernieri, Matt","Sr","2501839",2024,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2501839",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
+"Walsh, Brian","Fr","2973676",2024,"42","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2973676",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
+"Wilhide, Owen","Fr","2973677",2024,"23","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2973677",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580
+"Wilson, Josh","Jr","2973678",2024,"2","ss","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=65&stats_player_seq=2973678",65,"Bloomsburg","/team/65/16580",906,"PSAC",2,2024,16580

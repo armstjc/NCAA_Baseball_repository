@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,1,0,0,1,0,1,0,0,0,1,2,0,0,0,0,0,0,02/03/2024,away,16580,30045,Palm Beach Atl.,10,True,8,7,1,win,4525062,12830,2818760,2024,2
+2,2,1,0,0,1,0,0,3,0,0,0,1,0,0,0,0,0,0,02/03/2024,neutral,16580,20794,Lynn,9,True,7,8,-1,loss,4525044,12830,2818760,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/09/2024,home,16580,30050,Ill. Springfield,9,True,3,4,-1,loss,4543134,12830,2818760,2024,2
+0,4,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,02/16/2024,away,16580,13028,Anderson (SC),9,True,9,12,-3,loss,4525661,12830,2818760,2024,2
+1,4,1,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,02/17/2024,away,16580,13028,Anderson (SC),9,True,8,3,5,win,4542957,12830,2818760,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/26/2024,home,16580,1001,Catawba,9,True,6,4,2,win,4526465,12830,2818760,2024,2

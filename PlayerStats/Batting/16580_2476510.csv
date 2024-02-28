@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,02/02/2024,home,16580,696,Tex. A&M-Kingsville,9,True,6,2,4,win,4524931,1334,2476510,2024,2
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/02/2024,home,16580,696,Tex. A&M-Kingsville,9,True,3,1,2,win,4544752,1334,2476510,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/03/2024,home,16580,696,Tex. A&M-Kingsville,9,True,3,13,-10,loss,4525000,1334,2476510,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/08/2024,home,16580,2720,CSU Pueblo,9,True,1,5,-4,loss,4525310,1334,2476510,2024,2
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/23/2024,home,16580,206,Eastern N.M.,9,True,3,8,-5,loss,4526519,1334,2476510,2024,2

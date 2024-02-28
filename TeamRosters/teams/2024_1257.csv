@@ -1,11 +1,13 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
+"Baker, Kyle","Sr","2666570",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2666570",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Barnett, Ryan","So","2817575",2024,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2817575",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Brooks, Brad","Jr","2666572",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2666572",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Brown, Rylan","Sr","2666584",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2666584",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Busenlehner, UNKNOWN","N/A","2967385",2024,"46","c","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2967385",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Carey, Wyatt","Sr","2817581",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2817581",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
-"Carnahan, Jayden","So",NA,2024,"46","C",NA,1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
+"Carnahan, Jayden","So","2817571",2024,"46","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2817571",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Chinpire, Tyler","Jr","2666554",2024,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2666554",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
+"Cogdell, J.","Fr","2973664",2024,"48","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2973664",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Compton, Luke","Fr","2961990",2024,"38","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2961990",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Davidson, Matthew","So",NA,2024,"47","P",NA,1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Erickson, Gunnar","Sr","2817552",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2817552",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
@@ -34,6 +36,7 @@
 "Morrison, Blake","So","2962016",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2962016",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Nuckols, Bryson","Fr","2962015",2024,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2962015",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "O'Shea, Colm","Sr","2666575",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2666575",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
+"O'Sullivan, Cooper","Fr","2977107",2024,"42","dh","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2977107",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Osbon, Keillor","Fr","2961993",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2961993",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Plotkin, Anthony","So","2817378",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2817378",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Roemer, Bennett","So","2817578",2024,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2817578",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
@@ -42,6 +45,6 @@
 "Stout, Ryley","So","2817553",2024,"29","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2817553",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Velez, Jonathan","Jr","2666453",2024,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2666453",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Watson, Josh","Fr","2961994",2024,"42","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2961994",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
-"White, Johnathan","Sr","2502419",2024,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2502419",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "White, Luke","So","2817536",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2817536",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
+"White, Johnathan","Sr","2502419",2024,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2502419",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580
 "Winter, Brody","So","2817377",2024,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1257&stats_player_seq=2817377",1257,"Newberry","/team/1257/16580",12850,"SAC",2,2024,16580

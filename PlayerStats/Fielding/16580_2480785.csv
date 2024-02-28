@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/13/2024,home,16580,30153,Union (TN),9,True,8,2,6,win,4525412,1123,2480785,2024,2
+0,0,1,1,0,0,0,0,0,0,02/20/2024,home,16580,181,Delta St.,10,True,7,10,-3,loss,4526315,1123,2480785,2024,2

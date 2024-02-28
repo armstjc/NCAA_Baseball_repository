@@ -1,18 +1,18 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Barbarisi, Alex","Jr","2674373",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2674373",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
-"Bauer, Aidan","Fr",NA,2024,"34","P",NA,190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
-"Bell, Tyler","Fr",NA,2024,"22","P",NA,190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
+"Bauer, Aidan","Fr","2972083",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2972083",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
+"Bell, Tyler","Fr","2972080",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2972080",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Blendinger, Taylor","Fr",NA,2024,"20","OF",NA,190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
-"Bonito, Justin","Fr",NA,2024,"35","P",NA,190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
+"Bonito, Justin","Fr","2972084",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2972084",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Cacoilo, Benjamin","So","2822917",2024,"30","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2822917",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
-"Chhabria, Zachary","Fr",NA,2024,"36","1B",NA,190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
+"Chhabria, Zachary","Fr","2972085",2024,"36","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2972085",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Coleman, William","Sr","2353852",2024,"16","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2353852",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Colucci, Matt","Jr","2667813",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2667813",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Curcio, Nic","Jr","2678309",2024,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2678309",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "DeSantis, Vincent","Sr","2678310",2024,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2678310",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Diaz Jr., Anthony","Sr","2674375",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2674375",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
-"Feeney, Alex","Fr",NA,2024,"18","P",NA,190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
-"Francis, Tre","Fr",NA,2024,"41","OF",NA,190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
+"Feeney, Alex","Fr","2972078",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2972078",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
+"Francis, Tre","Fr","2972086",2024,"41","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2972086",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Fuentes, Luis","Sr","2516725",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2516725",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Gallaro, Mike","Jr","2674381",2024,"32","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2674381",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Goodenough, Dominic","Sr","2674359",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2674359",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
@@ -24,8 +24,8 @@
 "Lavelle, Brian","Sr","2516724",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2516724",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Lorenzetti, Dallas","Jr","2674361",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2674361",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Miller, Nate","Sr","2674550",2024,"43","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2674550",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
-"Mitchell, Aiden","Fr",NA,2024,"24","P",NA,190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
-"Mocik, Jack","Fr",NA,2024,"9","UT",NA,190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
+"Mitchell, Aiden","Fr","2972082",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2972082",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
+"Mocik, Jack","Fr","2972076",2024,"9","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2972076",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Murawinski, Daniel","Fr",NA,2024,"10","OF",NA,190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Myers, Matt","Jr","2674360",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=190&stats_player_seq=2674360",190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580
 "Ross, Graham","Fr",NA,2024,"23","P",NA,190,"Drew","/team/190/16580",30101,"Landmark",3,2024,16580

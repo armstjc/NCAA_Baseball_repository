@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,02/09/2024,away,16580,413,MSU Denver,9,True,4,8,-4,loss,4542770,30220,2674914,2024,2
+0,0,1,1,0,0,0,0,0,0,02/24/2024,away,16580,30260,Westmont,9,True,7,7,0,tie,4543820,30220,2674914,2024,2

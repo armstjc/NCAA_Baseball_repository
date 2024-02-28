@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+8,1,9,0,0,0,0,0,0,0,02/01/2024,away,16580,30028,UT Tyler,9,True,3,9,-6,loss,5015892,30179,2817896,2024,2
+5,0,5,0,0,0,0,0,3,0,02/02/2024,away,16580,30028,UT Tyler,9,True,3,8,-5,loss,4525052,30179,2817896,2024,2
+6,0,6,0,0,0,0,0,1,0,02/02/2024,away,16580,30028,UT Tyler,9,True,5,2,3,win,4544921,30179,2817896,2024,2
+4,0,4,0,0,0,0,0,0,0,02/08/2024,home,16580,30105,Ark.-Fort Smith,9,True,6,8,-2,loss,5021945,30179,2817896,2024,2
+4,0,4,0,0,0,0,0,1,0,02/09/2024,home,16580,30105,Ark.-Fort Smith,9,True,1,14,-13,loss,4525322,30179,2817896,2024,2

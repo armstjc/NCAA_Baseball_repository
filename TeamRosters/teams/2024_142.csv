@@ -1,9 +1,9 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Amruthur, Trishan","Sr","2665564",2024,"13","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2665564",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
-"Bergan, Matthew","Jr",NA,2024,"31","P",NA,142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
+"Bergan, Matthew","Jr","2958404",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2958404",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
 "Blackett, Andrew","So","2814129",2024,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2814129",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
 "Buchanan, Max","Fr",NA,2024,"36","P",NA,142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
-"Cahill, Jack","Fr",NA,2024,"15","C",NA,142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
+"Cahill, Jack","Fr","2958397",2024,"15","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2958397",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
 "Connell, Henry","Jr","2665582",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2665582",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
 "Dapkewicz, Adam","Sr","2344084",2024,"14","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2344084",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
 "DiBlasi, Vitaly","Fr",NA,2024,"26","P",NA,142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
@@ -11,7 +11,7 @@
 "Finefrock, Hamilton","Jr","2665574",2024,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2665574",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
 "Garcia, Bryan","So",NA,2024,"11","2B",NA,142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
 "Gordon, Rider","Fr","2958414",2024,"40","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2958414",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
-"Harsch, Berkeley","Fr",NA,2024,"32","P",NA,142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
+"Harsch, Berkeley","Fr","2958405",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2958405",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
 "Heher, Blaise","So","2814101",2024,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2814101",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
 "Hemby, Ethan","Fr",NA,2024,"35","P",NA,142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
 "Herst, Aaron","So","2814125",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2814125",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
@@ -39,5 +39,5 @@
 "Wells, Wesley","Fr",NA,2024,"37","INF",NA,142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
 "Wendler, PJ","Jr","2665570",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2665570",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
 "Wilson, Joey","So","2814121",2024,"4","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2814121",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
-"Worth, Thomas","Fr",NA,2024,"27","C",NA,142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
+"Worth, Thomas","Fr","2958402",2024,"27","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2958402",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580
 "van Wingerden, Pieter","Sr","2665539",2024,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=142&stats_player_seq=2665539",142,"Claremont-M-S","/team/142/16580",910,"SCIAC",3,2024,16580

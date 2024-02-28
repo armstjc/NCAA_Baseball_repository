@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,1,1,0,0,02/09/2024,home,16580,30149,Point Loma,9,True,13,8,5,win,4525181,30055,2811332,2024,2
+0,1,1,0,0,0,3,0,0,0,02/24/2024,away,16580,645,Sonoma St.,9,True,13,8,5,win,4526877,30055,2811332,2024,2

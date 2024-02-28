@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,02/03/2024,neutral,16580,12810,Northeastern St.,9,True,19,2,17,win,4525053,1376,2817403,2024,2
+0,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,02/09/2024,home,16580,395,Maryville (MO),9,True,4,3,1,win,4543151,1376,2817403,2024,2
+2,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/14/2024,away,16580,181,Delta St.,9,True,15,9,6,win,4525432,1376,2817403,2024,2
+0,3,1,0,0,1,0,0,0,0,0,0,2,0,0,0,1,0,0,02/17/2024,home,16580,1371,Southeastern Okla.,9,True,7,6,1,win,4525965,1376,2817403,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2024,home,16580,1371,Southeastern Okla.,9,True,11,9,2,win,4525692,1376,2817403,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,away,16580,8965,East Central,9,True,13,4,9,win,5249522,1376,2817403,2024,2

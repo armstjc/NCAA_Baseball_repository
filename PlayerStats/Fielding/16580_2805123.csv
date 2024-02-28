@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,02/03/2024,away,16580,39,Augusta,9,True,8,6,2,win,4525038,766,2805123,2024,2
+2,0,2,0,0,0,0,0,0,0,02/03/2024,away,16580,39,Augusta,9,True,8,2,6,win,4544914,766,2805123,2024,2
+1,0,1,0,0,0,0,0,0,0,02/06/2024,away,16580,1096,Georgia College,9,True,5,14,-9,loss,4525130,766,2805123,2024,2
+2,0,2,0,0,0,0,0,0,0,02/09/2024,home,16580,30154,Young Harris,12,True,6,10,-4,loss,5067819,766,2805123,2024,2
+1,0,1,0,0,0,0,0,0,0,02/10/2024,home,16580,30154,Young Harris,9,True,9,11,-2,loss,5245135,766,2805123,2024,2

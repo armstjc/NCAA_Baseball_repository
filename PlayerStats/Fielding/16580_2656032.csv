@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,02/01/2024,away,16580,30152,Southern Nazarene,9,True,7,9,-2,loss,4524953,30054,2656032,2024,2
+1,0,1,0,0,0,0,0,0,0,02/06/2024,away,16580,30178,Northwestern Okla.,9,True,8,9,-1,loss,4525115,30054,2656032,2024,2
+1,0,1,0,0,0,0,0,0,0,02/09/2024,away,16580,1371,Southeastern Okla.,9,True,0,13,-13,loss,4525200,30054,2656032,2024,2
+1,0,1,0,0,0,0,0,0,0,02/10/2024,away,16580,1371,Southeastern Okla.,9,True,11,12,-1,loss,5245123,30054,2656032,2024,2
+1,0,2,1,0,0,0,0,0,0,02/13/2024,away,16580,8744,Southwestern Okla.,9,True,1,14,-13,loss,4525411,30054,2656032,2024,2
+1,0,1,0,0,0,0,0,0,0,02/17/2024,home,16580,9081,Concordia-St. Paul,9,True,4,18,-14,loss,4525731,30054,2656032,2024,2

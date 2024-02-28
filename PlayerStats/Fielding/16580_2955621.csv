@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,02/03/2024,away,16580,1167,Lander,9,True,8,13,-5,loss,4524992,1072,2955621,2024,2
+0,1,1,0,0,0,2,0,0,0,02/13/2024,away,16580,1462,Wingate,9,True,2,4,-2,loss,4525433,1072,2955621,2024,2
+1,0,1,0,0,0,0,0,0,0,02/24/2024,away,16580,30154,Young Harris,9,True,3,5,-2,loss,4544118,1072,2955621,2024,2

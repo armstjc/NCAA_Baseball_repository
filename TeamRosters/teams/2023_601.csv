@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Becker, Dylan","Fr",NA,2023,"41","P",NA,601,"St. John Fisher","/team/601/16340",863,"Empire 8",3,2023,16340
+"Becker, Dylan","Fr","2821876",2023,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=601&stats_player_seq=2821876",601,"St. John Fisher","/team/601/16340",863,"Empire 8",3,2023,16340
 "Bowers, Evan","Sr","2679880",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=601&stats_player_seq=2679880",601,"St. John Fisher","/team/601/16340",863,"Empire 8",3,2023,16340
 "Campanelli, Noah","Sr","2350382",2023,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=601&stats_player_seq=2350382",601,"St. John Fisher","/team/601/16340",863,"Empire 8",3,2023,16340
 "Charnetski, Eric","Sr","2493277",2023,"26","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=601&stats_player_seq=2493277",601,"St. John Fisher","/team/601/16340",863,"Empire 8",3,2023,16340
@@ -38,7 +38,7 @@
 "Ruggiero, Joe","Sr","2493268",2023,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=601&stats_player_seq=2493268",601,"St. John Fisher","/team/601/16340",863,"Empire 8",3,2023,16340
 "Stilloe, Nick","Fr",NA,2023,"42","P",NA,601,"St. John Fisher","/team/601/16340",863,"Empire 8",3,2023,16340
 "Tronetti, Joseph","Sr","2350371",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=601&stats_player_seq=2350371",601,"St. John Fisher","/team/601/16340",863,"Empire 8",3,2023,16340
-"Walker, Conner","Fr",NA,2023,"43","P",NA,601,"St. John Fisher","/team/601/16340",863,"Empire 8",3,2023,16340
+"Walker, Conner","Fr","2821910",2023,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=601&stats_player_seq=2821910",601,"St. John Fisher","/team/601/16340",863,"Empire 8",3,2023,16340
 "Wall, Jason","So","2679878",2023,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=601&stats_player_seq=2679878",601,"St. John Fisher","/team/601/16340",863,"Empire 8",3,2023,16340
 "Walsh, Hunter","Sr","2350383",2023,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=601&stats_player_seq=2350383",601,"St. John Fisher","/team/601/16340",863,"Empire 8",3,2023,16340
 "Wells, John","Fr","2821872",2023,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=601&stats_player_seq=2821872",601,"St. John Fisher","/team/601/16340",863,"Empire 8",3,2023,16340

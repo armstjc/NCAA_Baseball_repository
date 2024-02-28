@@ -1,7 +1,8 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Andrade, Jordan","Sr","2508312",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2508312",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Bassinger, Reese","Jr","2973129",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2973129",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
-"Bradshaw, Breck","So",NA,2024,"32","P",NA,1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
+"Beagle, Parrish","Fr","2974758",2024,"38","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2974758",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
+"Bradshaw, Breck","So","2823078",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2823078",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Burcham, Jacob","Jr","2662166",2024,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2662166",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Carter, Tanner","Jr","2972763",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2972763",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Cordaway, Jonathan","Jr","2662171",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2662171",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
@@ -11,11 +12,14 @@
 "Driskell, Jack","Sr","2461072",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2461072",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Enriquez, Cristian","Sr","2807722",2024,"10","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2807722",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Escalon, Jacob","Jr","2662172",2024,"40","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2662172",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
+"Foss, Nile","Jr","2976370",2024,"25","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2976370",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Garza, Grant","Sr","2807729",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2807729",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Guerra, Sergio","Jr","2973130",2024,"19","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2973130",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Haley, Matt","Sr","2345771",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2345771",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Hammonds, Mason","Sr","2807664",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2807664",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
+"Hatch, Spencer","Fr","2976371",2024,"40","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2976371",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Howell, Brandon","Jr","2807663",2024,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2807663",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
+"Lee, Boston","Fr","2976372",2024,"35","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2976372",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "McCloud, Slade","Jr","2973131",2024,"27","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2973131",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "McElyea, Piercen","Sr","2807666",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2807666",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Miears, Cole","Sr","2807702",2024,"31","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2807702",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
@@ -23,7 +27,9 @@
 "Patel, Devon","Jr","2306133",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2306133",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Perez, Jaime","Jr","2662162",2024,"9","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2662162",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Poe, Zach","Sr","2473663",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2473663",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
+"Risley, Braydon","Fr","2973416",2024,"3","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2973416",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Russell, Austin","Jr","2972764",2024,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2972764",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Shirey, Ike","So","2972765",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2972765",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Shook, Kooper","Sr","2807686",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2807686",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
+"Smith, Hunter","Jr","2974759",2024,"32","ph/rf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1395&stats_player_seq=2974759",1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580
 "Sudderth, Tyler","So",NA,2024,"28","P",NA,1395,"Tarleton St.","/team/1395/16580",923,"WAC",1,2024,16580

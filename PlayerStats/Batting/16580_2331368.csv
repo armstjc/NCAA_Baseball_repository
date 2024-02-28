@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,5,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/23/2024,neutral,16580,1318,Post,10,True,5,6,-1,loss,4526728,3,2331368,2024,2
+0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,neutral,16580,407,Mercy,9,True,3,5,-2,loss,4526965,3,2331368,2024,2
+0,3,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,1,02/26/2024,neutral,16580,675,Staten Island,9,True,6,5,1,win,4527473,3,2331368,2024,2

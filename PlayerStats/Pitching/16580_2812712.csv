@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,2.0,0.0,0,0,0,0,1,0,6,6,0,0,0,0,0,0,0,0,0,0,0,23,2,3,0,0,0,3,0,0,02/04/2024,home,16580,30051,King (TN),9,True,13,3,10,win,4525099,1000,2812712,2024,2
+1,0,1.2,0.0,3,1,1,0,1,0,7,7,0,0,0,1,0,0,0,0,0,0,0,23,1,2,0,0,0,2,1,0,02/06/2024,home,16580,30151,Shorter,9,True,2,7,-5,loss,4525125,1000,2812712,2024,2
+1,0,0.2,0.0,1,1,1,0,1,0,4,3,1,0,0,0,0,1,0,0,0,0,0,15,1,0,0,0,0,4,0,0,02/17/2024,home,16580,30124,Cedarville,9,True,13,17,-4,loss,5246100,1000,2812712,2024,2
+1,0,3.0,0.0,3,0,0,0,0,0,11,11,0,0,0,0,0,0,0,0,0,0,0,38,5,3,1,0,0,4,0,0,02/23/2024,home,16580,1257,Newberry,11,True,6,5,1,win,4526648,1000,2812712,2024,2

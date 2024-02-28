@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/14/2024,home,16580,1238,Montevallo,9,True,0,12,-12,loss,4525439,358,2958543,2024,2
+1,0,2,1,0,0,0,0,0,0,02/21/2024,home,16580,720,Tuskegee,9,True,7,5,2,win,4526439,358,2958543,2024,2
+1,0,1,0,0,0,0,0,0,0,02/24/2024,home,16580,11740,West Florida,9,True,15,14,1,win,4527078,358,2958543,2024,2

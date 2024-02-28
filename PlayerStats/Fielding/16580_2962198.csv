@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,4,0,0,0,0,0,0,0,02/09/2024,away,16580,584,Rollins,9,True,3,4,-1,loss,4525163,11416,2962198,2024,2
+1,0,2,1,0,0,0,0,0,0,02/16/2024,home,16580,205,Mont. St. Billings,9,True,4,3,1,win,4544262,11416,2962198,2024,2
+1,3,4,0,0,0,0,0,0,0,02/17/2024,home,16580,205,Mont. St. Billings,9,True,10,2,8,win,4525885,11416,2962198,2024,2
+0,1,1,0,0,0,0,0,0,0,02/22/2024,home,16580,1274,Northwest Nazarene,9,True,12,14,-2,loss,4526453,11416,2962198,2024,2
+4,3,7,0,0,0,0,0,0,0,02/23/2024,home,16580,1274,Northwest Nazarene,9,True,8,10,-2,loss,4526624,11416,2962198,2024,2
+2,1,3,0,0,0,0,0,0,0,02/23/2024,home,16580,1274,Northwest Nazarene,9,True,2,1,1,win,4542657,11416,2962198,2024,2
+0,2,2,0,0,0,0,0,0,0,02/24/2024,home,16580,1274,Northwest Nazarene,9,True,7,13,-6,loss,4527004,11416,2962198,2024,2
+1,1,4,2,0,0,0,0,0,0,02/26/2024,away,16580,30146,Azusa Pacific,9,True,6,7,-1,loss,4527466,11416,2962198,2024,2

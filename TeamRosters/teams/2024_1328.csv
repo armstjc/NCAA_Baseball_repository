@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Allen, Gage","Jr",NA,2024,"50","3B",NA,1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
+"Allen, Gage","Jr","2964617",2024,"50","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2964617",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Boland, Zach","Fr",NA,2024,"45","P",NA,1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Brimacombe, Matthew","Jr","2964626",2024,"32","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2964626",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Canent, Jake","Sr","2529444",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2529444",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
@@ -19,19 +19,19 @@
 "Hebrank, Brandon","So","2802480",2024,"4","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2802480",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Howell, Sam","Sr","2651451",2024,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2651451",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Jacobs, Michael","Sr",NA,2024,"47","OF",NA,1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
-"Joyner, Ryan","Fr",NA,2024,"48","P",NA,1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
+"Joyner, Ryan","Fr","2964622",2024,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2964622",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Laudando, Michael","So","2651450",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2651450",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Lecluyse, Jackson","Fr",NA,2024,"23","P",NA,1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Loeffelman, Andrew","Jr","2651454",2024,"31","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2651454",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Loucks, PJ","Sr","2802408",2024,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2802408",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
-"Mertz, Garrison","Fr",NA,2024,"19","P",NA,1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
+"Mertz, Garrison","Fr","2964614",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2964614",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Miller, Jack","So","2807684",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2807684",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Murray, Austin","Jr","2651444",2024,"1","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2651444",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
-"Nolen, Archer","Fr",NA,2024,"43","P",NA,1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
+"Nolen, Archer","Fr","2964630",2024,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2964630",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Novak, Michael","Fr","2964608",2024,"20","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2964608",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Owens, Sam","So","2822130",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2822130",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
-"Rodis, Brendan","Fr",NA,2024,"15","P",NA,1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
-"Schalf, Luke","Sr",NA,2024,"16","OF",NA,1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
+"Rodis, Brendan","Fr","2964611",2024,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2964611",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
+"Schalf, Luke","Sr","2807688",2024,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2807688",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Shilt, Kellan","Sr","2473974",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2473974",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Viles, Augie","Jr","2964624",2024,"36","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2964624",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580
 "Wagner, Cole","Jr","2651445",2024,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1328&stats_player_seq=2651445",1328,"Rockhurst","/team/1328/16580",855,"GLVC",2,2024,16580

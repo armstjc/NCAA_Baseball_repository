@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,1,0,02/04/2024,home,16580,985,Bluefield St.,8,True,9,8,1,win,5019338,632,2815559,2024,1
+0,1,1,0,0,0,0,0,0,0,02/04/2024,home,16580,985,Bluefield St.,9,True,5,2,3,win,4525087,632,2815559,2024,1
+3,0,3,0,0,0,0,0,0,0,02/17/2024,home,16580,332,Kentucky St.,9,True,10,1,9,win,4525889,632,2815559,2024,1
+1,1,2,0,0,0,0,0,0,0,02/18/2024,home,16580,332,Kentucky St.,9,True,10,2,8,win,4526197,632,2815559,2024,1
+1,2,3,0,0,0,0,0,1,0,02/18/2024,home,16580,332,Kentucky St.,9,True,7,6,1,win,4543797,632,2815559,2024,1
+1,2,3,0,0,0,0,0,1,0,02/20/2024,home,16580,0,Morris,9,True,16,0,16,win,4526342,632,2815559,2024,1
+1,2,3,0,0,0,0,0,0,0,02/25/2024,home,16580,350,LeMoyne-Owen,9,True,18,0,18,win,4527278,632,2815559,2024,1

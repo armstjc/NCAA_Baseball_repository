@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/02/2024,home,16580,537,UNC Pembroke,9,True,4,16,-12,loss,4524969,11276,2952555,2024,2
+1,0,1,0,0,0,0,0,0,0,02/09/2024,away,16580,11740,West Florida,9,True,4,11,-7,loss,5067762,11276,2952555,2024,2
+4,1,5,0,0,0,0,0,1,0,02/10/2024,away,16580,11740,West Florida,9,True,4,6,-2,loss,4525333,11276,2952555,2024,2
+1,1,2,0,0,0,0,0,0,0,02/16/2024,home,16580,22,American Int'l,9,True,9,11,-2,loss,4525652,11276,2952555,2024,2
+2,4,6,0,0,0,0,0,0,0,02/17/2024,home,16580,22,American Int'l,9,True,7,5,2,win,4525992,11276,2952555,2024,2
+2,2,4,0,0,0,0,0,1,0,02/17/2024,home,16580,22,American Int'l,9,True,12,2,10,win,4542969,11276,2952555,2024,2
+1,0,1,0,0,0,0,0,0,0,02/18/2024,home,16580,22,American Int'l,9,True,14,2,12,win,4526157,11276,2952555,2024,2
+1,1,2,0,0,0,0,0,1,0,02/23/2024,home,16580,689,Tampa,9,True,1,9,-8,loss,4526735,11276,2952555,2024,2

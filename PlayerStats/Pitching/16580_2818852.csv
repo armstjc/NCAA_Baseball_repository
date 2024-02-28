@@ -1,0 +1,6 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,0.1,0.0,3,2,1,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,3,0,0,02/02/2024,home,16580,436,Mo.-St. Louis,9,True,9,8,1,win,4525086,358,2818852,2024,2
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,2,0,0,0,4,0,0,02/09/2024,home,16580,332,Kentucky St.,9,True,6,8,-2,loss,4525305,358,2818852,2024,2
+1,0,2.0,0.0,1,0,0,0,3,0,7,7,0,0,0,0,0,0,0,0,0,0,0,26,1,2,0,0,0,3,1,0,02/10/2024,home,16580,332,Kentucky St.,9,True,8,2,6,win,4525379,358,2818852,2024,2
+1,0,1.0,0.0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,3,0,0,02/21/2024,home,16580,720,Tuskegee,9,True,7,5,2,win,4526439,358,2818852,2024,2
+1,0,2.0,0.0,0,0,0,2,3,0,9,5,0,0,0,0,1,1,0,1,1,1,0,36,1,2,0,0,0,3,0,0,02/23/2024,home,16580,11740,West Florida,9,True,2,4,-2,loss,4526726,358,2818852,2024,2

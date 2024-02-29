@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,5,6,0,0,0,0,0,1,0,02/23/2024,neutral,16580,681,Stockton,9,True,1,7,-6,loss,4526691,775,2310867,2024,3
+1,3,4,0,0,0,0,0,0,0,02/24/2024,away,16580,124,Catholic,9,True,3,5,-2,loss,4526808,775,2310867,2024,3

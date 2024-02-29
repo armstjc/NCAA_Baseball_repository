@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/16/2024,neutral,16580,1062,East Tex. Baptist,9,True,0,5,-5,loss,4525568,374,2821041,2024,3
+3,3,3,1,0,4,0,0,1,1,0,1,0,0,1,0,2,0,0,02/17/2024,away,16580,28593,Birmingham-So.,9,True,10,3,7,win,4526013,374,2821041,2024,3
+0,5,2,0,0,2,0,4,1,0,0,0,2,0,0,0,0,0,0,02/18/2024,neutral,16580,424,Millikin,9,True,10,9,1,win,4526132,374,2821041,2024,3
+1,2,0,0,0,0,0,0,3,0,0,0,1,0,0,1,1,0,0,02/23/2024,neutral,16580,622,Salisbury,9,True,8,5,3,win,4526588,374,2821041,2024,3
+1,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/24/2024,neutral,16580,168,Cortland,10,True,4,5,-1,loss,4526589,374,2821041,2024,3
+1,4,1,1,0,2,0,2,0,0,1,0,0,0,0,0,0,0,0,02/24/2024,neutral,16580,385,Marietta,10,True,5,4,1,win,4526931,374,2821041,2024,3

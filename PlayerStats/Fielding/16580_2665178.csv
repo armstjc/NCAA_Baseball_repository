@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+13,0,13,0,0,0,1,1,0,0,02/13/2024,home,16580,125,Centenary (LA),9,True,10,2,8,win,5250215,573,2665178,2024,3
+1,0,1,0,0,0,0,0,0,0,02/13/2024,home,16580,125,Centenary (LA),9,True,2,11,-9,loss,5250216,573,2665178,2024,3
+12,0,12,0,0,0,0,0,0,0,02/16/2024,home,16580,1111,Greenville,9,True,13,3,10,win,4525466,573,2665178,2024,3
+13,0,13,0,0,0,1,0,0,0,02/18/2024,home,16580,40,Augustana (IL),9,True,7,3,4,win,4526024,573,2665178,2024,3
+9,1,10,0,0,2,1,0,0,0,02/23/2024,home,16580,2694,Franklin,9,True,6,10,-4,loss,4526467,573,2665178,2024,3
+12,2,14,0,0,0,1,1,0,0,02/24/2024,home,16580,492,North Central (IL),9,True,6,1,5,win,4526776,573,2665178,2024,3
+8,0,8,0,0,3,1,0,0,0,02/25/2024,home,16580,759,Webster,9,True,3,7,-4,loss,4527175,573,2665178,2024,3
+3,0,3,0,0,0,1,1,0,0,02/27/2024,away,16580,30197,Belhaven,9,True,5,9,-4,loss,4527603,573,2665178,2024,3

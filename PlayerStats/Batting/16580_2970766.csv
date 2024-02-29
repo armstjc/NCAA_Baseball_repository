@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/17/2024,home,16580,285,Holy Cross,9,True,8,4,4,win,4525937,786,2970766,2024,1
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2024,home,16580,368,UMass Lowell,9,True,11,1,10,win,4526677,786,2970766,2024,1
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/24/2024,home,16580,368,UMass Lowell,10,True,5,4,1,win,4527106,786,2970766,2024,1

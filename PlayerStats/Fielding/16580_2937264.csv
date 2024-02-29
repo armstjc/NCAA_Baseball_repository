@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,1,1,0,0,0,0,0,0,02/13/2024,home,16580,217,Emory,9,True,10,9,1,win,4525440,2713,2937264,2024,3
+0,1,1,0,0,0,0,0,0,0,02/24/2024,home,16580,578,Roanoke,9,True,7,3,4,win,4526975,2713,2937264,2024,3

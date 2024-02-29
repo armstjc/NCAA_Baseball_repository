@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,4.2,0.0,5,5,4,1,6,0,22,21,1,0,0,1,1,0,0,0,0,0,0,87,2,7,0,0,0,1,0,0,02/11/2024,home,16580,75,Bridgewater (VA),10,True,9,8,1,win,4525390,491,2946363,2024,3
+1,1,6.0,0.0,2,0,0,4,6,0,23,19,0,0,0,0,0,0,0,0,0,0,0,91,6,5,1,0,0,1,1,0,02/18/2024,neutral,16580,134,Chapman,9,True,4,1,3,win,4526153,491,2946363,2024,3
+1,1,8.0,0.0,5,1,1,1,12,0,29,27,1,1,0,0,0,1,0,0,0,0,0,106,4,6,1,0,0,1,4,0,02/25/2024,home,16580,239,Franklin & Marshall,9,True,7,1,6,win,4527218,491,2946363,2024,3

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+6,1,7,0,0,1,0,0,0,0,02/09/2024,home,16580,426,Millsaps,9,True,8,17,-9,loss,4543146,8490,2300765,2024,3
+5,2,9,2,0,0,2,1,0,0,02/17/2024,away,16580,567,Redlands,9,True,2,10,-8,loss,4542629,8490,2300765,2024,3
+11,1,12,0,0,0,2,0,0,0,02/24/2024,home,16580,23008,Ozarks (AR),9,True,13,10,3,win,4543505,8490,2300765,2024,3
+3,0,3,0,0,0,0,0,0,0,02/27/2024,home,16580,123,VTSU Castleton,9,True,10,3,7,win,4527631,8490,2300765,2024,3

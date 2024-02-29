@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,2,5,0,0,0,0,0,0,0,02/17/2024,away,16580,30111,Covenant,9,True,1,12,-11,loss,4525793,496,2681883,2024,3
+1,0,2,1,0,0,0,0,0,0,02/17/2024,away,16580,30111,Covenant,9,True,9,1,8,win,4544930,496,2681883,2024,3
+10,1,11,0,0,0,0,0,0,0,02/24/2024,neutral,16580,160,Concordia Chicago,9,True,6,4,2,win,4526942,496,2681883,2024,3
+5,0,5,0,0,0,0,0,0,0,02/24/2024,neutral,16580,278,Heidelberg,9,True,2,6,-4,loss,4527084,496,2681883,2024,3

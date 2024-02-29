@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,5,1,1,0,2,0,1,0,0,0,0,2,0,0,0,0,0,0,02/23/2024,away,16580,1111,Greenville,9,True,9,17,-8,loss,4526528,800,2815275,2024,3
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/24/2024,neutral,16580,300,Ill. Wesleyan,9,True,0,3,-3,loss,4526941,800,2815275,2024,3
+1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/25/2024,away,16580,11538,Fontbonne,9,True,7,8,-1,loss,4527327,800,2815275,2024,3

@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/17/2024,neutral,16580,134,Chapman,9,True,0,4,-4,loss,4525837,23260,2655037,2024,3
+4,0,4,0,0,0,0,0,0,0,02/18/2024,away,16580,21830,Piedmont,9,True,9,4,5,win,4526073,23260,2655037,2024,3
+1,0,1,0,0,0,0,0,0,0,02/23/2024,neutral,16580,807,Wooster,9,True,11,8,3,win,4526464,23260,2655037,2024,3
+2,0,2,0,0,0,0,0,0,0,02/24/2024,home,16580,807,Wooster,9,True,8,9,-1,loss,4526773,23260,2655037,2024,3
+4,0,4,0,0,0,0,0,0,0,02/24/2024,home,16580,531,Otterbein,9,True,4,7,-3,loss,4526774,23260,2655037,2024,3

@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/09/2024,home,16580,21,Alma,9,True,5,4,1,win,5067804,30111,2336019,2024,3
+2,0,2,0,0,0,0,0,0,0,02/09/2024,home,16580,21,Alma,9,True,6,10,-4,loss,4525160,30111,2336019,2024,3
+3,0,3,0,0,0,0,0,0,0,02/17/2024,home,16580,496,North Park,9,True,12,1,11,win,4525793,30111,2336019,2024,3
+1,1,2,0,0,0,0,0,0,0,02/17/2024,home,16580,496,North Park,9,True,1,9,-8,loss,4544930,30111,2336019,2024,3
+2,1,3,0,0,0,0,0,0,0,02/23/2024,home,16580,411,Messiah,9,True,6,2,4,win,4526491,30111,2336019,2024,3
+6,0,6,0,0,0,0,0,0,0,02/24/2024,home,16580,411,Messiah,9,True,7,19,-12,loss,4526867,30111,2336019,2024,3
+4,0,4,0,0,0,0,0,0,0,02/24/2024,home,16580,411,Messiah,9,True,8,12,-4,loss,4543481,30111,2336019,2024,3

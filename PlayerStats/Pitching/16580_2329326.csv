@@ -1,2 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2.0,0.0,1,0,0,1,4,0,8,7,0,0,0,0,0,0,0,0,0,0,0,31,2,0,0,0,0,2,0,0,02/16/2024,home,16580,72,Bradley,9,True,2,5,-3,loss,4525540,772,2329326,2024,1
+1,0,2.0,0.0,5,3,3,2,0,0,12,10,0,0,0,1,0,0,0,0,0,0,0,48,3,2,0,0,0,2,0,0,02/23/2024,home,16580,308,Purdue Fort Wayne,9,True,13,14,-1,loss,4526548,772,2329326,2024,1
+1,0,2.1,0.0,1,1,1,0,2,0,8,8,0,0,0,1,1,0,0,3,1,0,0,27,1,4,0,0,0,3,0,0,02/27/2024,away,16580,334,Kentucky,9,True,0,5,-5,loss,4527490,772,2329326,2024,1

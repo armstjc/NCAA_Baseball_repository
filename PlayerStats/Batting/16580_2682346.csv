@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,4,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,1,02/23/2024,neutral,16580,160,Concordia Chicago,9,True,14,9,5,win,4526600,278,2682346,2024,3
+0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,neutral,16580,348,Lawrence,9,True,4,11,-7,loss,5249423,278,2682346,2024,3
+0,4,2,1,0,3,0,2,0,0,0,0,1,0,0,0,0,0,0,02/24/2024,neutral,16580,496,North Park,9,True,6,2,4,win,4527084,278,2682346,2024,3

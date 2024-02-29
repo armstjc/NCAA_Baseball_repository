@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,4,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,02/16/2024,away,16580,549,Pomona-Pitzer,9,True,7,8,-1,loss,4525616,1179,2971749,2024,3
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2024,away,16580,549,Pomona-Pitzer,9,True,7,8,-1,loss,4525871,1179,2971749,2024,3
+1,5,2,1,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2024,away,16580,549,Pomona-Pitzer,9,True,4,7,-3,loss,4542633,1179,2971749,2024,3
+2,5,2,1,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,02/23/2024,home,16580,1010,Central Wash.,9,True,6,0,6,win,5249338,1179,2971749,2024,3
+0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,02/23/2024,home,16580,1010,Central Wash.,9,True,5,6,-1,loss,5249350,1179,2971749,2024,3
+2,5,3,1,0,7,1,1,0,0,0,0,1,0,0,0,0,0,0,02/24/2024,home,16580,1343,Saint Martin's,9,True,3,2,1,win,4527017,1179,2971749,2024,3
+2,5,2,1,0,6,1,2,0,1,0,0,1,1,0,0,0,0,1,02/24/2024,home,16580,1343,Saint Martin's,10,True,12,11,1,win,4543957,1179,2971749,2024,3

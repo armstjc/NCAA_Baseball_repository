@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,1.0,0.0,4,4,4,0,1,0,8,7,0,0,0,1,0,1,0,0,0,0,0,17,1,1,0,1,0,1,1,0,02/20/2024,away,16580,51,Baylor,9,True,5,11,-6,loss,4526373,346,2466319,2024,1
 1,0,1.1,0.0,2,1,1,0,1,0,6,6,1,0,0,0,0,0,0,0,0,0,0,14,1,2,0,0,0,3,0,0,02/23/2024,neutral,16580,302,UIC,10,True,8,7,1,win,4526601,346,2466319,2024,1
+1,0,0.2,0.0,3,4,4,1,0,0,6,5,1,0,0,2,0,0,0,0,0,0,0,29,2,0,0,1,0,2,0,0,02/27/2024,away,16580,697,Texas A&M,9,True,2,13,-11,loss,4527502,346,2466319,2024,1

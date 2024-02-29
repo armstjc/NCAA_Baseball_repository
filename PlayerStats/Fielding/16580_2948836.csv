@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/24/2024,home,16580,1332,Dominican (IL),9,True,13,14,-1,loss,5249600,1124,2948836,2024,3
+0,1,1,0,0,0,3,0,0,0,02/27/2024,home,16580,23008,Ozarks (AR),9,True,5,10,-5,loss,4527489,1124,2948836,2024,3

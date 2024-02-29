@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,1,0,0,1,0,0,0,1,0,0,2,0,0,0,0,0,0,02/23/2024,away,16580,724,Merchant Marine,9,True,1,7,-6,loss,4526569,11036,2835566,2024,3
+1,1,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,02/24/2024,away,16580,479,NYU,9,True,2,18,-16,loss,4526961,11036,2835566,2024,3
+0,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/24/2024,away,16580,479,NYU,9,True,3,10,-7,loss,4543802,11036,2835566,2024,3

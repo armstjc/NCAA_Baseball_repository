@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,5,2,0,0,2,0,2,0,0,0,0,1,0,0,0,0,0,0,02/09/2024,home,16580,2741,Howard Payne,9,True,16,4,12,win,4525205,1355,2955074,2024,3
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/11/2024,away,16580,2741,Howard Payne,9,True,4,6,-2,loss,5245103,1355,2955074,2024,3
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,02/16/2024,neutral,16580,1094,George Fox,9,True,3,20,-17,loss,4525830,1355,2955074,2024,3
+0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,02/17/2024,away,16580,24400,Concordia (TX),9,True,0,4,-4,loss,4525765,1355,2955074,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2024,home,16580,1454,Whitworth,9,True,6,14,-8,loss,4526571,1355,2955074,2024,3

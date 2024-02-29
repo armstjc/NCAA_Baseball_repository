@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/12/2024,away,16580,30263,Vanguard,9,True,2,8,-6,loss,4525405,781,2665910,2024,3
+7,2,9,0,0,0,0,0,0,0,02/16/2024,home,16580,22235,Lewis & Clark,9,True,3,9,-6,loss,4525625,781,2665910,2024,3
+0,1,1,0,0,0,0,0,0,0,02/17/2024,home,16580,22235,Lewis & Clark,9,True,10,9,1,win,4525872,781,2665910,2024,3
+3,0,3,0,0,0,0,0,0,0,02/17/2024,home,16580,22235,Lewis & Clark,11,True,5,5,0,tie,4542634,781,2665910,2024,3
+5,0,5,0,0,0,0,0,0,0,02/23/2024,home,16580,134,Chapman,9,True,6,18,-12,loss,4526662,781,2665910,2024,3
+0,3,3,0,0,0,1,0,0,0,02/24/2024,away,16580,134,Chapman,9,True,0,11,-11,loss,4526986,781,2665910,2024,3
+6,0,6,0,0,0,0,0,0,0,02/24/2024,away,16580,134,Chapman,9,True,10,4,6,win,4543815,781,2665910,2024,3

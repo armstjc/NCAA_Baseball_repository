@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+9,0,9,0,0,0,0,0,4,0,02/10/2024,away,16580,567,Redlands,9,True,9,2,7,win,4525279,8530,2665683,2024,3
+8,0,8,0,0,0,0,0,4,0,02/10/2024,away,16580,567,Redlands,9,True,4,6,-2,loss,4543154,8530,2665683,2024,3
+6,0,6,0,0,0,0,0,2,0,02/23/2024,home,16580,2741,Howard Payne,9,True,8,10,-2,loss,4526765,8530,2665683,2024,3
+4,1,5,0,0,0,0,0,1,0,02/24/2024,home,16580,2741,Howard Payne,9,True,3,2,1,win,4527079,8530,2665683,2024,3
+13,4,17,0,0,0,0,0,1,0,02/24/2024,home,16580,2741,Howard Payne,15,True,18,19,-1,loss,4544132,8530,2665683,2024,3

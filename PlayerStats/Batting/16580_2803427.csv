@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,2,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,02/18/2024,home,16580,755,WashU,9,True,3,8,-5,loss,4525705,1124,2803427,2024,3
+0,6,2,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,02/24/2024,home,16580,1332,Dominican (IL),9,True,13,14,-1,loss,5249600,1124,2803427,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/24/2024,home,16580,424,Millikin,9,True,3,4,-1,loss,4526771,1124,2803427,2024,3

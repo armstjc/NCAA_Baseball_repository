@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/03/2024,away,16580,30178,Northwestern Okla.,9,True,5,6,-1,loss,5015988,413,2950342,2024,2
+0,4,1,1,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,02/03/2024,away,16580,30178,Northwestern Okla.,9,True,9,3,6,win,5015989,413,2950342,2024,2
+1,5,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/08/2024,home,16580,30220,Biola,9,True,12,14,-2,loss,5021943,413,2950342,2024,2
+1,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/16/2024,home,16580,30128,Sioux Falls,9,True,3,6,-3,loss,4525543,413,2950342,2024,2
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2024,home,16580,205,Mont. St. Billings,9,True,13,25,-12,loss,4526645,413,2950342,2024,2

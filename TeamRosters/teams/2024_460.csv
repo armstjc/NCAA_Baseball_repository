@@ -1,19 +1,19 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Allen, Cooper","Fr",NA,2024,"18","P",NA,460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
+"Allen, Cooper","Fr","2941716",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2941716",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Arendt, Jayson","Sr","2797641",2024,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2797641",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Arendt, Bryan","Jr","2658991",2024,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2658991",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Baker, Trace","So","2941739",2024,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2941739",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
-"Benton, Cody","Sr","2304393",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2304393",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Benton, Cole","Sr","2328852",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2328852",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
+"Benton, Cody","Sr","2304393",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2304393",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Calvert, Ryan","Jr","2471753",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2471753",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Capuano, Jordan","Fr",NA,2024,"49","P",NA,460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
-"Cox, Baker","Jr",NA,2024,"41","P",NA,460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
+"Cox, Baker","Jr","2941742",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2941742",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Craig, Luke","Sr","2471762",2024,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2471762",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Croom, Jac","Sr","2328791",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2328791",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "DeMartino, Alec","Jr","2658990",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2658990",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
-"Dobos, Kyle","Fr",NA,2024,"9","INF",NA,460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
+"Dobos, Kyle","Fr","2941712",2024,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2941712",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Evans, Aidan","So","2797631",2024,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2797631",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
-"Everett, JD","Jr",NA,2024,"23","P",NA,460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
+"Everett, JD","Jr","2941728",2024,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2941728",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Gaither, Matt","Sr","2499151",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2499151",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Gibson, Jack","Fr",NA,2024,"37","P",NA,460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Gillespie, Mac","So","2797661",2024,"35","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2797661",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
@@ -26,7 +26,7 @@
 "Marsh, Trevor","Sr","2328785",2024,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2328785",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Marshburn, Connor","Fr","2941732",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2941732",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Murdock, Mason","So","2797645",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2797645",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
-"Nelson, Cole","Fr",NA,2024,"28","P",NA,460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
+"Nelson, Cole","Fr","2941734",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2941734",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Newton, John","Jr","2658993",2024,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2658993",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Novobilsky, Kevin","So","2815954",2024,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2815954",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Phelan, Cyle","Jr","2658992",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2658992",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
@@ -40,4 +40,4 @@
 "Thornton, Bromley","Fr","2941718",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2941718",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Tyrrell, Will","Fr","2941706",2024,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2941706",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
 "Wills, Brock","So","2797643",2024,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2797643",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
-"Zelenka, Martin","Jr",NA,2024,"34","C",NA,460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580
+"Zelenka, Martin","Jr","2941743",2024,"34","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=460&stats_player_seq=2941743",460,"UNCW","/team/460/16580",837,"CAA",1,2024,16580

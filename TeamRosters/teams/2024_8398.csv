@@ -1,19 +1,19 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Alessi, David","So","2822510",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2822510",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Balnis, Michael","So","2823102",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2823102",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
-"Black, Jonny","Fr",NA,2024,"36","1B",NA,8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
+"Black, Jonny","Fr","2972427",2024,"36","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2972427",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Chowaniec, Benjamin","Jr","2673552",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2673552",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Cole, Andrew","So","2812802",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2812802",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Duffek, Jack","Jr","2812799",2024,"19","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2812799",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Ellison, Alex","So","2812790",2024,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2812790",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
-"Evans, Nolan","Jr",NA,2024,"14","OF",NA,8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
+"Evans, Nolan","Jr","2972453",2024,"14","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2972453",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Fisher, Woodley","Fr",NA,2024,"15","OF",NA,8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Gennocro, Jack","Fr",NA,2024,"6","P",NA,8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
-"Harford, Spencer","Fr",NA,2024,"33","P",NA,8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
+"Harford, Spencer","Fr","2972426",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2972426",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Hasfurter, Johnray","Fr",NA,2024,"29","P",NA,8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
-"Hauck, Konner","Fr",NA,2024,"2","OF",NA,8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
+"Hauck, Konner","Fr","2972419",2024,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2972419",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Hediger, Brennen","So","2812805",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2812805",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
-"Hendrix, Dustin","Fr",NA,2024,"39","OF",NA,8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
+"Hendrix, Dustin","Fr","2972429",2024,"39","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2972429",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Hilton, Ryan","Fr",NA,2024,"32","P",NA,8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Hopkins, Brody","So","2812791",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2812791",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Kim-Kubiak, Jacob","Fr",NA,2024,"37","P",NA,8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
@@ -25,7 +25,7 @@
 "McAndrews, Griffin","Jr","2673574",2024,"42","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2673574",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "McClain, Emmanuel","Sr","2474755",2024,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2474755",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "McClellan, Shane","So","2829779",2024,"35","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2829779",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
-"Moorhouse, Dylan","Jr",NA,2024,"25","P",NA,8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
+"Moorhouse, Dylan","Jr","2972421",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2972421",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Morgan, Blaine","Jr","2673545",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2673545",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Mort, Ronald","So","2812804",2024,"26","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2812804",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Ratajczak, Benjamin","Sr","2474767",2024,"24","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2474767",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
@@ -34,7 +34,7 @@
 "Santos, Jairo","Jr","2673532",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2673532",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Walsh, Brendan","Sr","2474760",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2474760",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Watson, John","So","2812789",2024,"1","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2812789",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
-"Whelan, Patrick","Sr","2673542",2024,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2673542",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Whelan, Matt","Jr","2812795",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2812795",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
-"White, Trent","So",NA,2024,"10","INF",NA,8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
+"Whelan, Patrick","Sr","2673542",2024,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2673542",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
+"White, Trent","So","2972449",2024,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8398&stats_player_seq=2972449",8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580
 "Wisniewski, Zach","So",NA,2024,"13","OF",NA,8398,"Hilbert","/team/8398/16580",30022,"AMCC",3,2024,16580

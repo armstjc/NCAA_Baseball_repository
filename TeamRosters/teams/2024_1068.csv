@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Abromitis, Mason","Fr",NA,2024,"8","INF",NA,1068,"Elon","/team/1068/16580",837,"CAA",1,2024,16580
+"Abromitis, Mason","Fr","2822955",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1068&stats_player_seq=2822955",1068,"Elon","/team/1068/16580",837,"CAA",1,2024,16580
 "Berry, Adam","Jr","2822956",2024,"21","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1068&stats_player_seq=2822956",1068,"Elon","/team/1068/16580",837,"CAA",1,2024,16580
 "Broderick, James","Sr","2488949",2024,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1068&stats_player_seq=2488949",1068,"Elon","/team/1068/16580",837,"CAA",1,2024,16580
 "Cone, Henry","Jr","2680392",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1068&stats_player_seq=2680392",1068,"Elon","/team/1068/16580",837,"CAA",1,2024,16580
@@ -35,4 +35,4 @@
 "Wingenroth, Nathan","Fr",NA,2024,"14","OF",NA,1068,"Elon","/team/1068/16580",837,"CAA",1,2024,16580
 "Wolfe, Henry","Fr",NA,2024,"33","C",NA,1068,"Elon","/team/1068/16580",837,"CAA",1,2024,16580
 "Yaghoubi, Tank","So","2806734",2024,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1068&stats_player_seq=2806734",1068,"Elon","/team/1068/16580",837,"CAA",1,2024,16580
-"Yovino, Joe","Fr",NA,2024,"27","C",NA,1068,"Elon","/team/1068/16580",837,"CAA",1,2024,16580
+"Yovino, Joe","Fr","2939763",2024,"27","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1068&stats_player_seq=2939763",1068,"Elon","/team/1068/16580",837,"CAA",1,2024,16580

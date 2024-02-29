@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+9,0,9,0,0,0,0,0,0,0,02/02/2024,neutral,16580,30202,Okla. Baptist,9,True,2,6,-4,loss,4524948,1071,2812065,2024,2
+9,1,10,0,0,0,1,0,0,0,02/10/2024,home,16580,155,Colo. Sch. of Mines,9,True,1,10,-9,loss,4543247,1071,2812065,2024,2
+5,0,5,0,0,0,2,0,0,0,02/20/2024,away,16580,30178,Northwestern Okla.,9,True,4,11,-7,loss,4526321,1071,2812065,2024,2

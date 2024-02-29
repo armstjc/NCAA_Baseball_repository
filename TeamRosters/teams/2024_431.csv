@@ -1,13 +1,13 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Anmderson, Chandler","So","2810893",2024,"27","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810893",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Benson, Avery","Sr","2676563",2024,"40","c","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2676563",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
-"Brack, B.","N/A","2972635",2024,"7","lf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2972635",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
+"Brack, Baron","Jr","2972635",2024,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2972635",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Bumgarner, Ryan","So","2810908",2024,"22","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810908",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Canten, Robby","So","2810909",2024,"35","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810909",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Clark, Landon","Jr","2676405",2024,"6","ss","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2676405",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Cox, Loren","Jr","2810919",2024,"8","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810919",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Egan, Zack","So","2810910",2024,"14","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810910",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
-"Ellis, C.","N/A","2972636",2024,"27","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2972636",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
+"Ellis, Chris","So","2972636",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2972636",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Estabrook, Tyler","Jr","2810895",2024,"3","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810895",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Evans, Cole","Jr","2810913",2024,"26","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810913",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Fenimore, Brandon","Jr","2677387",2024,"18","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2677387",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
@@ -18,11 +18,11 @@
 "Kennedy, JC","So",NA,2024,"25","",NA,431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Leblanc, Chase","Jr","2810922",2024,"19","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810922",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Leblanc, Ethan","Sr","2810925",2024,"42","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810925",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
-"Makay, Josh","So","2810928",2024,"29","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810928",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
+"Mackey, Josh","So","2810928",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810928",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "McCluney, Campbell","So","2810931",2024,"7","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810931",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Nanney, Payton","So",NA,2024,"33","",NA,431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Neal, Colton","So","2810940",2024,"10","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810940",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
-"Reilly, C.","So","2825449",2024,"24","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2825449",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
+"Reilly, Conner","So","2825449",2024,"24","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2825449",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Setchfield, Johnny","Sr","2810938",2024,"5","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810938",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Sledge, Jack","Fr",NA,2024,"43","3B",NA,431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580
 "Swartz, Matt","So","2810961",2024,"36","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=431&stats_player_seq=2810961",431,"MUW","/team/431/16580",12974,"SLIAC",3,2024,16580

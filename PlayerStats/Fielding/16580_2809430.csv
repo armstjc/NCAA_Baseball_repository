@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+8,0,8,0,0,0,0,0,0,0,02/02/2024,away,16580,181,Delta St.,9,True,5,8,-3,loss,5015932,1116,2809430,2024,2
+11,0,12,1,0,0,0,0,0,0,02/03/2024,away,16580,181,Delta St.,9,True,10,3,7,win,4525024,1116,2809430,2024,2
+15,0,15,0,0,0,3,0,0,0,02/09/2024,home,16580,2755,Southwest Baptist,9,True,11,3,8,win,4542777,1116,2809430,2024,2
+9,0,11,2,1,0,1,0,0,0,02/10/2024,home,16580,2755,Southwest Baptist,9,True,5,1,4,win,4543272,1116,2809430,2024,2
+13,1,14,0,0,0,0,1,0,0,02/17/2024,away,16580,30152,Southern Nazarene,9,True,7,2,5,win,4542789,1116,2809430,2024,2
+4,0,4,0,0,0,0,0,0,0,02/20/2024,home,16580,8411,Ark.-Monticello,9,True,0,15,-15,loss,4526357,1116,2809430,2024,2
+10,0,10,0,0,0,1,0,0,0,02/24/2024,home,16580,30202,Okla. Baptist,9,True,10,5,5,win,4544129,1116,2809430,2024,2

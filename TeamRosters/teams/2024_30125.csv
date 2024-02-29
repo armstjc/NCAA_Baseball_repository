@@ -1,8 +1,10 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
+"Apodaca, Ricky","Sr","2670902",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2670902",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Badger, Trevyn","Sr","2464245",2024,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2464245",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
-"Bagshaw, Cameron","Sr","2464261",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2464261",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Bagshaw, Colton","Jr","2671995",2024,"21","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2671995",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
+"Bagshaw, Cameron","Sr","2464261",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2464261",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Balandran, Noah","Sr","2821585",2024,"27","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2821585",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
+"Bode, Hayden","Jr","2977747",2024,"7","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2977747",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Bolanos, Anthony","Jr",NA,2024,"18","OF",NA,30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Breeze, Kaleb","Jr",NA,2024,"40","1B",NA,30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Bright, Jack","Jr","2671974",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2671974",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
@@ -10,7 +12,9 @@
 "Carr, Cameron","Sr","2821549",2024,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2821549",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Collett, Parker","Sr","2464262",2024,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2464262",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Dominguez, Felix","Jr","2671661",2024,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2671661",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
+"Eastlick, Gage","Jr","2973683",2024,"16","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2973683",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Engel, Alex","So","2821568",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2821568",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
+"Gabbert, Grant","Jr","2973668",2024,"20","lf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2973668",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Gutierrez, Javier","Sr","2821589",2024,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2821589",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Hillhorst, Drew","Jr",NA,2024,"4","UT",NA,30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Iverson, Miles","Jr","2671660",2024,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2671660",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
@@ -20,16 +24,22 @@
 "Loeb, Austin","Sr","2821551",2024,"26","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2821551",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Ludlow, Dalin","Jr","2671650",2024,"0","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2671650",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Madas, Noah","So","2821538",2024,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2821538",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
+"Marton, Devin","Jr","2974030",2024,"40","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2974030",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "McKendry, Erick","So","2821569",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2821569",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
-"Meldrim, Conner","So",NA,2024,"44","P",NA,30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
-"Munos, Kekoa","So",NA,2024,"42","OF",NA,30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
+"Meldrim, Conner","So","2821597",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2821597",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
+"Munos, Kekoa","So","2821571",2024,"42","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2821571",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Ossanna, Mark","Sr","2671700",2024,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2671700",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
-"Phillips, Cole","So",NA,2024,"16","UT",NA,30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
+"Parry, Brian","Jr","2973669",2024,"4","2b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2973669",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
+"Phillips, Cole","So","2821542",2024,"16","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2821542",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Prokott, Jonah","Jr","2671993",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2671993",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Riddle, Brent","Sr","2821485",2024,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2821485",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Rodriquez, Martin","Sr","2346753",2024,"1","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2346753",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
+"Sanchez, Martin","So","2973670",2024,"13","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2973670",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Sauerbrei, Ayden","So","2821592",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2821592",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Schmich, Craig","Sr","2464268",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2464268",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Shearon, Griffin","Sr","2464269",2024,"10","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2464269",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
+"Song, Seugjun","Jr","2973681",2024,"8","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2973681",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
+"Thompson, Jacob","Fr","2973682",2024,"26","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2973682",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
+"Tucci, Oscar","Jr","2974031",2024,"30","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2974031",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Winn, Derrick","Sr","2821492",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2821492",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580
 "Yost, Gage","Sr","2671675",2024,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30125&stats_player_seq=2671675",30125,"Minot St.","/team/30125/16580",12853,"NSIC",2,2024,16580

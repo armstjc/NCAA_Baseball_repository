@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,02/02/2024,home,16580,537,UNC Pembroke,9,True,4,16,-12,loss,4524969,11276,2654166,2024,2
+0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,02/09/2024,away,16580,11740,West Florida,9,True,4,11,-7,loss,5067762,11276,2654166,2024,2
+1,1,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,02/16/2024,home,16580,22,American Int'l,9,True,9,11,-2,loss,4525652,11276,2654166,2024,2
+0,4,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,02/17/2024,home,16580,22,American Int'l,9,True,7,5,2,win,4525992,11276,2654166,2024,2

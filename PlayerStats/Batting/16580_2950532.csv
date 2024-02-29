@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/09/2024,away,16580,91,Cal Poly Pomona,9,True,2,10,-8,loss,4525230,30146,2950532,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/13/2024,home,16580,100,Cal State LA,9,True,1,10,-9,loss,4525415,30146,2950532,2024,2
+2,7,4,1,0,5,0,2,0,0,0,0,0,1,0,0,0,0,0,02/16/2024,home,16580,628,San Fran. St.,11,True,19,18,1,win,4525563,30146,2950532,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/17/2024,home,16580,628,San Fran. St.,9,True,3,6,-3,loss,4525756,30146,2950532,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/26/2024,home,16580,11416,Colorado Mesa,9,True,7,6,1,win,4527466,30146,2950532,2024,2

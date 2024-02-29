@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,02/08/2024,away,16580,584,Rollins,9,True,5,1,4,win,4525144,11416,2819440,2024,2
+1,4,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,02/09/2024,away,16580,584,Rollins,9,True,3,4,-1,loss,4525163,11416,2819440,2024,2
+0,3,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,02/16/2024,home,16580,205,Mont. St. Billings,9,True,4,3,1,win,4544262,11416,2819440,2024,2
+1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,02/17/2024,home,16580,205,Mont. St. Billings,9,True,10,2,8,win,4525885,11416,2819440,2024,2
+1,4,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,02/23/2024,home,16580,1274,Northwest Nazarene,9,True,8,10,-2,loss,4526624,11416,2819440,2024,2

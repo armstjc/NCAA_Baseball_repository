@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Burchell, Ben","Sr","2687608",2024,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=958&stats_player_seq=2687608",958,"Clarks Summit","/team/958/16580",21062,"CSAC",3,2024,16580
-"Donohue, Christopher","Fr",NA,2024,"16","P",NA,958,"Clarks Summit","/team/958/16580",21062,"CSAC",3,2024,16580
+"Donohue, Christopher","Fr","2941701",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=958&stats_player_seq=2941701",958,"Clarks Summit","/team/958/16580",21062,"CSAC",3,2024,16580
 "Howell, Will","So","2941707",2024,"14","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=958&stats_player_seq=2941707",958,"Clarks Summit","/team/958/16580",21062,"CSAC",3,2024,16580
 "Knight, Daniel","So","2829841",2024,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=958&stats_player_seq=2829841",958,"Clarks Summit","/team/958/16580",21062,"CSAC",3,2024,16580
 "Leith, Eli","Fr","2941717",2024,"19","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=958&stats_player_seq=2941717",958,"Clarks Summit","/team/958/16580",21062,"CSAC",3,2024,16580
@@ -16,5 +16,5 @@
 "Richardson, Braxton","So","2829845",2024,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=958&stats_player_seq=2829845",958,"Clarks Summit","/team/958/16580",21062,"CSAC",3,2024,16580
 "Roberts, Eric","So","2829847",2024,"0","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=958&stats_player_seq=2829847",958,"Clarks Summit","/team/958/16580",21062,"CSAC",3,2024,16580
 "Robinette, Noah","Fr","2946835",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=958&stats_player_seq=2946835",958,"Clarks Summit","/team/958/16580",21062,"CSAC",3,2024,16580
-"Smith, Kenneth","Fr","2941745",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=958&stats_player_seq=2941745",958,"Clarks Summit","/team/958/16580",21062,"CSAC",3,2024,16580
 "Smith, Tanner","So","2829854",2024,"4","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=958&stats_player_seq=2829854",958,"Clarks Summit","/team/958/16580",21062,"CSAC",3,2024,16580
+"Smith, Kenneth","Fr","2941745",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=958&stats_player_seq=2941745",958,"Clarks Summit","/team/958/16580",21062,"CSAC",3,2024,16580

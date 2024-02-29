@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,1,0,0,1,0,1,1,0,0,0,2,0,0,0,0,0,0,02/02/2024,away,16580,208,Eckerd,9,True,1,2,-1,loss,4524982,159,2469618,2024,2
+3,3,0,0,0,0,0,2,3,0,1,0,1,0,0,0,0,0,0,02/03/2024,away,16580,208,Eckerd,9,True,26,12,14,win,4525056,159,2469618,2024,2
+1,4,1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,1,02/07/2024,home,16580,13,Albany St. (GA),9,True,5,7,-2,loss,4525140,159,2469618,2024,2
+0,5,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/09/2024,home,16580,1001,Catawba,9,True,6,15,-9,loss,4525217,159,2469618,2024,2
+1,4,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,02/10/2024,home,16580,1001,Catawba,9,True,10,0,10,win,5245115,159,2469618,2024,2
+0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,02/10/2024,home,16580,1001,Catawba,9,True,2,3,-1,loss,5245139,159,2469618,2024,2

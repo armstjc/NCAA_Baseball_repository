@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/03/2024,away,16580,93,CSUSB,9,True,5,21,-16,loss,5015993,11403,2650029,2024,2
+1,5,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2024,away,16580,1097,Ga. Southwestern,9,True,10,11,-1,loss,4526158,11403,2650029,2024,2
+0,4,1,0,0,1,0,1,0,0,0,0,2,0,0,0,0,0,0,02/23/2024,away,16580,2720,CSU Pueblo,9,True,1,9,-8,loss,4526673,11403,2650029,2024,2

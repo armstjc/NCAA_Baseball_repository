@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Albright, Brandon","Sr","2510047",2024,"44","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2510047",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Amodeo, Sam","So",NA,2024,"83","P",NA,320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
-"Armstrong, Matt","Jr",NA,2024,"6","INF",NA,320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
+"Armstrong, Matt","Jr","2671275",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2671275",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Bach, Chris","So","2821606",2024,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2821606",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Balfour, Carson","Jr","2671276",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2671276",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Basso, Samuel","Sr","2509973",2024,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2509973",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
@@ -25,6 +25,7 @@
 "Harmon, Jack","Jr","2671295",2024,"56","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2671295",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Heckman, Joe","Sr",NA,2024,"99","OF",NA,320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Higley, Jamon","Sr","2510050",2024,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2510050",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
+"Holt, Bryce","Sr","2513027",2024,"34","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2513027",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Johnson, Michael","Jr",NA,2024,"21","INF",NA,320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Krowl, Erik","So",NA,2024,"44","INF",NA,320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "LaMere, Logan","Sr","2510053",2024,"17","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2510053",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
@@ -36,8 +37,10 @@
 "Noonan, Michael","So",NA,2024,"63","P",NA,320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Olsavsky, Joe","Sr","2510013",2024,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2510013",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Persichetti, Michael","Jr","2671296",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2671296",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
+"Pollard, Michael","Fr","2685379",2024,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2685379",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Rinehart, Jay","So","2821620",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2821620",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Rising, Matt","Jr",NA,2024,"46","INF",NA,320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
+"Schumaker, Maxwell","Sr","2337264",2024,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2337264",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Shahan, Ethan","So",NA,2024,"16","P",NA,320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Simon, Roger","So","2821624",2024,"37","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2821624",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580
 "Suvak, Jordan","So","2821626",2024,"51","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=320&stats_player_seq=2821626",320,"John Carroll","/team/320/16580",901,"OAC",3,2024,16580

@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/03/2024,away,16580,632,Savannah St.,9,True,3,17,-14,loss,5015953,985,2814772,2024,2
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/23/2024,away,16580,30058,Claflin,9,True,19,11,8,win,4526748,985,2814772,2024,2
+0,1,1,0,0,1,0,2,0,0,0,0,0,0,1,0,0,0,0,02/24/2024,away,16580,30058,Claflin,9,True,21,18,3,win,4527162,985,2814772,2024,2

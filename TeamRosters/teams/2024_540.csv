@@ -1,19 +1,19 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Ahearn, Qwynn","Fr",NA,2024,"10","C",NA,540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
+"Ahearn, Qwynn","Fr","2947398",2024,"10","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2947398",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Baker, Davis","So","2809562",2024,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2809562",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Brown, Calvin","Sr","2521777",2024,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2521777",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Cerwinski, John","So","2809584",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2809584",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
-"Chavez, Connor","Fr",NA,2024,"0","INF",NA,540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
-"Collins, Gavin","Fr",NA,2024,"16","OF",NA,540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
-"Coyne, Marty","Fr",NA,2024,"23","P",NA,540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
+"Chavez, Connor","Fr","2947396",2024,"0","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2947396",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
+"Collins, Gavin","Fr","2947400",2024,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2947400",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
+"Coyne, Marty","Fr","2947404",2024,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2947404",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Delany, Tommy","Jr","2656031",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2656031",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Dromboski, Ryan","Jr","2656002",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2656002",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Farrell, Reed","So","2809564",2024,"2","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2809564",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Gabauer, Alex","Jr","2655962",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2655962",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
-"Guachione, Nick","Fr",NA,2024,"19","INF",NA,540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
+"Guachione, Nick","Fr","2947402",2024,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2947402",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Heintz, Danny","Sr","2521784",2024,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2521784",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Henseler, Wyatt","Sr","2521776",2024,"8","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2521776",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
-"Katz, Josh","Fr",NA,2024,"21","P",NA,540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
+"Katz, Josh","Fr","2947403",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2947403",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Kiafoulis, Anthoni","Fr",NA,2024,"26","P",NA,540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Lipton, Holden","So",NA,2024,"43","P",NA,540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "McGonigal, Cole","Jr","2655963",2024,"28","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2655963",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
@@ -30,7 +30,7 @@
 "Ruggeri, Andrew","So","2809581",2024,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2809581",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Sarti, Edward","Sr","2521782",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2521782",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Shurtleff, Thomas","So","2809565",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2809565",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
-"Spaventa, Nick","Fr",NA,2024,"44","INF",NA,540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
+"Spaventa, Nick","Fr","2947407",2024,"44","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2947407",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Taylor, Ryan","So","2809580",2024,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2809580",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Tobin, Will","Jr","2656018",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2656018",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580
 "Trop, Eli","Jr","2656022",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=540&stats_player_seq=2656022",540,"Penn","/team/540/16580",865,"Ivy League",1,2024,16580

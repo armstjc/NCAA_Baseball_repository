@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,02/02/2024,neutral,16580,1376,Southern Ark.,9,True,4,17,-13,loss,4524955,30180,2952311,2024,2
+1,4,2,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,02/10/2024,home,16580,11403,Colo. Christian,9,True,3,10,-7,loss,4543250,30180,2952311,2024,2
+1,5,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,02/20/2024,away,16580,30152,Southern Nazarene,9,True,17,11,6,win,4526348,30180,2952311,2024,2
+1,4,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,02/23/2024,away,16580,30054,Newman,11,True,10,7,3,win,4526492,30180,2952311,2024,2

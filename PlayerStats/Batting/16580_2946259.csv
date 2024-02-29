@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,3,1,1,0,2,0,0,0,1,0,0,2,0,0,0,0,0,0,02/17/2024,home,16580,696,Tex. A&M-Kingsville,9,True,6,16,-10,loss,4544925,206,2946259,2024,2
+0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/24/2024,away,16580,1334,St. Edward's,9,True,7,6,1,win,4526887,206,2946259,2024,2

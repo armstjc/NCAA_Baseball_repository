@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Alch, Tucker","Sr",NA,2024,"47","P",NA,574,"Rice","/team/574/16580",823,"AAC",1,2024,16580
-"Anderson, Aric","Fr",NA,2024,"35","C",NA,574,"Rice","/team/574/16580",823,"AAC",1,2024,16580
+"Anderson, Aric","Fr","2955235",2024,"35","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=574&stats_player_seq=2955235",574,"Rice","/team/574/16580",823,"AAC",1,2024,16580
 "Becker, Nathan","Sr","2463051",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=574&stats_player_seq=2463051",574,"Rice","/team/574/16580",823,"AAC",1,2024,16580
 "Ben-Shoshan, Jack","Jr","2677118",2024,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=574&stats_player_seq=2677118",574,"Rice","/team/574/16580",823,"AAC",1,2024,16580
 "Blank, Jackson","Fr","2955252",2024,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=574&stats_player_seq=2955252",574,"Rice","/team/574/16580",823,"AAC",1,2024,16580
@@ -9,7 +9,7 @@
 "Devenny, Jacob","So","2812396",2024,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=574&stats_player_seq=2812396",574,"Rice","/team/574/16580",823,"AAC",1,2024,16580
 "Duffield, Trey","So","2812397",2024,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=574&stats_player_seq=2812397",574,"Rice","/team/574/16580",823,"AAC",1,2024,16580
 "Dukes, Ben","Sr","2463055",2024,"10","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=574&stats_player_seq=2463055",574,"Rice","/team/574/16580",823,"AAC",1,2024,16580
-"Fernandez, Robert","Jr",NA,2024,"53","P",NA,574,"Rice","/team/574/16580",823,"AAC",1,2024,16580
+"Fernandez, Robert","Jr","2955250",2024,"53","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=574&stats_player_seq=2955250",574,"Rice","/team/574/16580",823,"AAC",1,2024,16580
 "Fox, Tanner","So",NA,2024,"46","P",NA,574,"Rice","/team/574/16580",823,"AAC",1,2024,16580
 "Fuentes, Marco","Fr",NA,2024,"31","P",NA,574,"Rice","/team/574/16580",823,"AAC",1,2024,16580
 "Gallant, Reed","Sr","2463029",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=574&stats_player_seq=2463029",574,"Rice","/team/574/16580",823,"AAC",1,2024,16580

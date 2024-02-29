@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Alba, Jaden","Fr",NA,2024,"49","P",NA,28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
-"Barnes, Bradyn","Fr",NA,2024,"25","P",NA,28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
+"Barnes, Bradyn","Fr","2967710",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2967710",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Behrens, Adam","Fr","2967727",2024,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2967727",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Belardes, Alec","Fr",NA,2024,"29","P",NA,28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Briggs, Brody","Fr",NA,2024,"50","C",NA,28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
@@ -10,10 +10,10 @@
 "Carlon, Cole","Fr","2967709",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2967709",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Compton, Brandon","So","2828516",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2828516",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Contrades, Nu'u","So","2828494",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2828494",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
-"Cornelius, Matt","Jr",NA,2024,"41","P",NA,28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
+"Cornelius, Matt","Jr","2967733",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2967733",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Cromwick, Josiah","Jr","2473016",2024,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2473016",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "DeMera, Mario","Jr","2494399",2024,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2494399",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
-"Eddy, Brok","Fr",NA,2024,"45","P",NA,28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
+"Eddy, Brok","Fr","2967717",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2967717",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Fitzpatrick, Sean","So","2806645",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2806645",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Fryman, Bennett","Fr",NA,2024,"10","INF",NA,28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Giblin, Jonah","Sr","2468765",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2468765",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
@@ -23,7 +23,7 @@
 "Karstetter, Kevin","Sr","2967731",2024,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2967731",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Kroepel, Ryan","Fr",NA,2024,"43","INF",NA,28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Lance, Eamonn","Sr","2330629",2024,"7","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2330629",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
-"Lettow, Rohan","Fr",NA,2024,"47","P",NA,28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
+"Lettow, Rohan","Fr","2967719",2024,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2967719",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Markl, Connor","Jr","2467022",2024,"52","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2467022",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "McLain, Nick","Jr","2673389",2024,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2673389",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Mendoza, Ethan","Fr","2967706",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2967706",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
@@ -32,7 +32,7 @@
 "Omlid, Hunter","Sr","2310322",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2310322",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Ondina, Steven","Jr","2475726",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2475726",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Ryan, Jax","Fr","2967707",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2967707",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
-"Schiefer, Ryan","Jr",NA,2024,"54","P",NA,28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
+"Schiefer, Ryan","Jr","2967735",2024,"54","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2967735",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Tieding, Matt","Sr","2333550",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2333550",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Tobias, Jacob","Jr","2680923",2024,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2680923",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580
 "Vu, Kien","So","2828499",2024,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28&stats_player_seq=2828499",28,"Arizona St.","/team/28/16580",905,"Pac-12",1,2024,16580

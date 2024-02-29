@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Archambeau, Sam","Fr",NA,2024,"14","C",NA,15,"Albion","/team/15/16580",873,"Michigan Intercol. Ath. Assn.",3,2024,16580
+"Archambeau, Sam","Fr","2946652",2024,"14","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=15&stats_player_seq=2946652",15,"Albion","/team/15/16580",873,"Michigan Intercol. Ath. Assn.",3,2024,16580
 "Baidoon, Nick","Jr",NA,2024,"47","P",NA,15,"Albion","/team/15/16580",873,"Michigan Intercol. Ath. Assn.",3,2024,16580
 "Balint, Ian","So","2815308",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=15&stats_player_seq=2815308",15,"Albion","/team/15/16580",873,"Michigan Intercol. Ath. Assn.",3,2024,16580
 "Bowman, Chris","Fr",NA,2024,"26","P",NA,15,"Albion","/team/15/16580",873,"Michigan Intercol. Ath. Assn.",3,2024,16580
@@ -33,7 +33,7 @@
 "Schultz, Brendan","Fr",NA,2024,"37","P",NA,15,"Albion","/team/15/16580",873,"Michigan Intercol. Ath. Assn.",3,2024,16580
 "Schuster, Evan","So","2815392",2024,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=15&stats_player_seq=2815392",15,"Albion","/team/15/16580",873,"Michigan Intercol. Ath. Assn.",3,2024,16580
 "Stephens, Austyn","Jr","2664463",2024,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=15&stats_player_seq=2664463",15,"Albion","/team/15/16580",873,"Michigan Intercol. Ath. Assn.",3,2024,16580
-"Stojanovski, Kris","Jr",NA,2024,"23","OF",NA,15,"Albion","/team/15/16580",873,"Michigan Intercol. Ath. Assn.",3,2024,16580
+"Stojanovski, Kris","Jr","2946654",2024,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=15&stats_player_seq=2946654",15,"Albion","/team/15/16580",873,"Michigan Intercol. Ath. Assn.",3,2024,16580
 "Terrill, Colin","So","2815441",2024,"45","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=15&stats_player_seq=2815441",15,"Albion","/team/15/16580",873,"Michigan Intercol. Ath. Assn.",3,2024,16580
 "Tietema, Connor","Fr",NA,2024,"36","P",NA,15,"Albion","/team/15/16580",873,"Michigan Intercol. Ath. Assn.",3,2024,16580
 "Trombley, Ryan","Fr",NA,2024,"4","INF",NA,15,"Albion","/team/15/16580",873,"Michigan Intercol. Ath. Assn.",3,2024,16580

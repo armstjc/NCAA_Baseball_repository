@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Austin, Jordan","Fr",NA,2024,"1","OF",NA,305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
+"Austin, Jordan","Fr","2825769",2024,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2825769",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
 "Berghorst, Adam","Jr","2318733",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2318733",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
 "Brown, Henry","Jr","2677578",2024,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2677578",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
 "Burton, Jace","Fr",NA,2024,"27","INF",NA,305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
@@ -26,7 +26,7 @@
 "Lybarger, Brayden","So","2825785",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2825785",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
 "Magill, Grant","Sr","2347387",2024,"5","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2347387",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
 "Marx, Alex","Jr","2825779",2024,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2825779",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
-"McEwen, Max","Fr",NA,2024,"34","P",NA,305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
+"McEwen, Max","Fr","2825800",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2825800",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
 "Moss, Aaron","So","2677595",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2677595",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
 "Murphy, Carter","Fr",NA,2024,"19","INF",NA,305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
 "Parenteau, Matt","Sr","2674183",2024,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2674183",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
@@ -35,7 +35,7 @@
 "Pottinger, Adam","Sr","2825773",2024,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2825773",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
 "Pruitt, Jacob","So","2825789",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2825789",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
 "Sears, Mike","Sr","2492136",2024,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2492136",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
-"Spencer, Jared","Jr","2677582",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2677582",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
 "Spencer, Jacob","Jr",NA,2024,"35","P",NA,305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
+"Spencer, Jared","Jr","2677582",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2677582",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
 "Stinson, Parker","Sr","2492152",2024,"20","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2492152",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580
 "Urdaneta, Josue","Sr","2347405",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=305&stats_player_seq=2347405",305,"Indiana St.","/team/305/16580",884,"MVC",1,2024,16580

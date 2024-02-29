@@ -1,8 +1,8 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Anderson, Jack","Sr","2519171",2024,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2519171",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Baird, Jackson","So","2658259",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2658259",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
-"Benedict, Jake","So","2813042",2024,"48","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2813042",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Benedict, Sam","So","2813013",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2813013",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
+"Benedict, Jake","So","2813042",2024,"48","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2813042",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Blazer, Dylan","So","2813019",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2813019",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Bouck, Joey","Jr","2672849",2024,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2672849",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Braley, Jack","Sr","2499147",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2499147",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
@@ -14,11 +14,14 @@
 "Crosson, Scott","Sr","2499149",2024,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2499149",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "D'Arcy, Colin","Jr","2672865",2024,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2672865",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Daniels, Doc","So","2666845",2024,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2666845",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
+"Dux, Marcus","So","2658960",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2658960",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Dzarnowski, Zach","Sr","2484626",2024,"16","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2484626",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Elliott, Daniel","Sr","2499150",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2499150",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Gimbel, Jackson","So","2813018",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2813018",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Gingras, David","Sr","2672866",2024,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2672866",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
+"Godshalk, Connor","Fr","2973735",2024,"47","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2973735",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Hartman, Grant","Jr","2672848",2024,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2672848",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
+"Hoenig, Peter","So","2974620",2024,"38","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2974620",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Husby, Justin","Sr","2519172",2024,"30","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2519172",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Kelleher, Shane","Sr","2511172",2024,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2511172",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Koenig, Jacob","Fr","2972917",2024,"46","2b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2972917",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
@@ -32,6 +35,7 @@
 "Mendler, Jason","So","2813017",2024,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2813017",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Morrison, Ryan","So","2813023",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2813023",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Mortenson, Michael","Fr","2972918",2024,"88","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2972918",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
+"Novario, Eli","Fr","2974621",2024,"99","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2974621",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Pellegrino, Will","Jr","2672861",2024,"50","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2672861",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Reinhold, Josh","So","2813038",2024,"47","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2813038",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580
 "Rosenberg, Jack","Sr","2316390",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=139&stats_player_seq=2316390",139,"Chris. Newport","/team/139/16580",15810,"C2C",3,2024,16580

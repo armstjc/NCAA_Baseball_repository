@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/02/2024,away,16580,206,Eastern N.M.,9,True,3,4,-1,loss,4524995,25,2475650,2024,2
+0,2,2,0,0,0,0,0,0,0,02/09/2024,home,16580,996,Cameron,9,True,7,1,6,win,4525167,25,2475650,2024,2
+0,0,0,0,0,0,3,1,0,0,02/16/2024,away,16580,30088,Tex. Permian Basin,11,True,11,8,3,win,4525531,25,2475650,2024,2

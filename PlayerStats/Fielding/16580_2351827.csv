@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,02/18/2024,away,16580,1328,Rockhurst,8,True,7,8,-1,loss,4526151,799,2351827,2024,2
+4,0,4,0,0,0,0,0,0,0,02/18/2024,away,16580,1328,Rockhurst,9,True,7,1,6,win,4543602,799,2351827,2024,2
+4,0,4,0,0,0,0,0,0,0,02/19/2024,away,16580,1328,Rockhurst,9,True,7,2,5,win,4545071,799,2351827,2024,2
+4,1,5,0,0,0,0,0,0,0,02/25/2024,away,16580,728,Upper Iowa,9,True,11,5,6,win,5249736,799,2351827,2024,2
+3,0,3,0,0,0,0,0,0,0,02/25/2024,away,16580,728,Upper Iowa,9,True,3,8,-5,loss,5249731,799,2351827,2024,2

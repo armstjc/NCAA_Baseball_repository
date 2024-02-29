@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,2,1,0,0,0,0,0,0,02/02/2024,away,16580,206,Eastern N.M.,9,True,5,3,2,win,4524919,25,2669629,2024,2
+0,2,2,0,0,0,0,0,0,0,02/02/2024,away,16580,206,Eastern N.M.,9,True,3,4,-1,loss,4524995,25,2669629,2024,2
+0,2,2,0,0,0,0,0,0,0,02/03/2024,away,16580,206,Eastern N.M.,9,True,9,12,-3,loss,4544747,25,2669629,2024,2
+1,1,2,0,0,0,0,0,1,0,02/04/2024,away,16580,206,Eastern N.M.,9,True,8,0,8,win,4525057,25,2669629,2024,2
+2,3,5,0,0,0,0,0,0,0,02/09/2024,home,16580,996,Cameron,9,True,7,1,6,win,4525167,25,2669629,2024,2
+0,1,1,0,0,0,0,0,0,0,02/10/2024,home,16580,996,Cameron,9,True,8,2,6,win,4525266,25,2669629,2024,2
+0,1,1,0,0,0,0,0,0,0,02/10/2024,home,16580,996,Cameron,9,True,15,3,12,win,4543145,25,2669629,2024,2

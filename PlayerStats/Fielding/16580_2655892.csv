@@ -1,0 +1,11 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+6,0,6,0,0,0,1,0,0,0,02/09/2024,away,16580,30178,Northwestern Okla.,9,True,1,6,-5,loss,5067791,499,2655892,2024,2
+8,0,8,0,0,0,0,0,0,0,02/09/2024,away,16580,30178,Northwestern Okla.,9,True,8,10,-2,loss,4525190,499,2655892,2024,2
+6,0,6,0,0,0,5,0,0,0,02/10/2024,away,16580,30178,Northwestern Okla.,9,True,2,5,-3,loss,4525265,499,2655892,2024,2
+7,0,7,0,0,3,2,0,0,0,02/10/2024,away,16580,30178,Northwestern Okla.,9,True,4,10,-6,loss,4543144,499,2655892,2024,2
+9,1,11,1,0,0,0,0,0,0,02/17/2024,away,16580,2814,Washburn,9,True,7,4,3,win,4525631,499,2655892,2024,2
+5,0,5,0,0,0,0,0,1,0,02/18/2024,away,16580,2814,Washburn,9,True,2,16,-14,loss,4526254,499,2655892,2024,2
+4,1,5,0,0,0,1,1,0,0,02/19/2024,away,16580,2814,Washburn,9,True,3,4,-1,loss,5245482,499,2655892,2024,2
+8,0,8,0,0,0,0,0,0,0,02/24/2024,away,16580,10,Alabama Huntsville,9,True,6,7,-1,loss,4527031,499,2655892,2024,2
+8,1,9,0,0,0,2,1,0,0,02/24/2024,away,16580,10,Alabama Huntsville,9,True,4,13,-9,loss,4543971,499,2655892,2024,2
+5,1,6,0,0,0,0,0,0,0,02/25/2024,away,16580,10,Alabama Huntsville,9,True,4,14,-10,loss,4527366,499,2655892,2024,2

@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/01/2024,neutral,16580,8965,East Central,9,True,17,1,16,win,4524912,1071,2819500,2024,2
+4,0,4,0,0,0,0,0,0,0,02/02/2024,neutral,16580,30202,Okla. Baptist,9,True,2,6,-4,loss,4524948,1071,2819500,2024,2
+1,0,1,0,0,0,0,0,0,0,02/09/2024,home,16580,155,Colo. Sch. of Mines,9,True,3,2,1,win,4525211,1071,2819500,2024,2
+2,0,2,0,0,0,0,0,0,0,02/10/2024,home,16580,155,Colo. Sch. of Mines,9,True,2,0,2,win,4525294,1071,2819500,2024,2
+1,0,1,0,0,0,0,0,0,0,02/17/2024,home,16580,2720,CSU Pueblo,9,True,1,6,-5,loss,4525902,1071,2819500,2024,2
+3,0,3,0,0,0,0,0,0,0,02/18/2024,home,16580,2720,CSU Pueblo,9,True,9,5,4,win,4525632,1071,2819500,2024,2
+3,0,3,0,0,0,0,0,0,0,02/20/2024,away,16580,30178,Northwestern Okla.,9,True,4,11,-7,loss,4526321,1071,2819500,2024,2
+2,0,2,0,0,0,0,0,0,0,02/24/2024,away,16580,507,Northwest Mo. St.,9,True,13,5,8,win,4527102,1071,2819500,2024,2
+1,0,1,0,0,0,0,0,0,0,02/25/2024,away,16580,507,Northwest Mo. St.,9,True,14,10,4,win,4527420,1071,2819500,2024,2

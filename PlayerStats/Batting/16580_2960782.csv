@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/09/2024,away,16580,766,West Ga.,12,True,10,6,4,win,5067819,30154,2960782,2024,2
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/17/2024,away,16580,159,Columbus St.,9,True,10,2,8,win,4525982,30154,2960782,2024,2
+0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/18/2024,away,16580,159,Columbus St.,9,True,5,9,-4,loss,4526217,30154,2960782,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/21/2024,home,16580,12830,Tusculum,10,True,12,11,1,win,4526441,30154,2960782,2024,2

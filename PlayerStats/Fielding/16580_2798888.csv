@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,2,1,0,0,2,0,0,0,02/02/2024,away,16580,39,Augusta,9,True,5,3,2,win,4524971,766,2798888,2024,2
+0,1,1,0,0,0,0,0,0,0,02/09/2024,home,16580,30154,Young Harris,12,True,6,10,-4,loss,5067819,766,2798888,2024,2
+0,0,0,0,0,0,3,0,0,0,02/24/2024,home,16580,30151,Shorter,9,True,7,6,1,win,4543610,766,2798888,2024,2

@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Behringer, Landon","So","2809891",2024,"28","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2809891",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
-"Boeser, Andrew","Jr",NA,2024,"44","P",NA,9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
+"Boeser, Andrew","Jr","2948284",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2948284",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Borchardt, Cooper","So","2809888",2024,"20","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2809888",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Brohmer, Kal","Jr","2665287",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2665287",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Bustos, Leo","Jr","2809902",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2809902",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
@@ -12,7 +12,7 @@
 "Greenlun, Jack","Jr","2665284",2024,"15","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2665284",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Husemann, Will","Fr",NA,2024,"24","INF",NA,9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Jacobs, Chris","Sr","2809896",2024,"33","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2809896",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
-"Johnson, Kaden","Fr",NA,2024,"34","OF",NA,9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
+"Johnson, Kaden","Fr","2948291",2024,"34","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2948291",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Juliar, Noah","Jr","2829620",2024,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2829620",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Lundell, Eric","Sr","2307191",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2307191",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "McBroome, Koby","Jr","2651273",2024,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2651273",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
@@ -21,15 +21,15 @@
 "McGuigan, Justin","Sr","2307198",2024,"2","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2307198",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "McNeil, Jake","Fr","2948300",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2948300",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Nadolney, Mason","Sr","2665163",2024,"19","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2665163",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
-"Nelson, Bryce","Sr","2487046",2024,"30","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2487046",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Nelson, Eli","Fr",NA,2024,"26","C",NA,9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
+"Nelson, Bryce","Sr","2487046",2024,"30","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2487046",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Nicklaus, Jack","So","2809906",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2809906",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Piontek, Reece","Jr","2665288",2024,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2665288",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Roybal, Brayden","Sr","2307218",2024,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2307218",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Rusch, Gavin","Jr","2665289",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2665289",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Salz, David","So","2665290",2024,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2665290",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Schulte, Carter","Jr","2665286",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2665286",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
-"Segna, Ian","Fr",NA,2024,"10","P",NA,9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
+"Segna, Ian","Fr","2948303",2024,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2948303",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Setterlund, Jack","Fr",NA,2024,"29","INF",NA,9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Shaffer, Logan","Sr","2487047",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2487047",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580
 "Sherman, Matt","Sr","2307205",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=9081&stats_player_seq=2307205",9081,"Concordia-St. Paul","/team/9081/16580",12853,"NSIC",2,2024,16580

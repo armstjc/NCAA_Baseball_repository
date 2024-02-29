@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,4.2,0.0,7,4,3,2,3,0,24,22,0,1,0,1,0,0,0,0,0,0,0,83,5,6,1,0,0,1,2,0,02/03/2024,home,16580,30090,Tex. A&M Int'l,9,True,8,4,4,win,4544918,767,2474724,2024,2
+1,1,6.0,0.0,7,1,1,2,2,0,27,22,3,0,0,0,1,1,0,0,0,1,1,99,8,7,0,0,0,1,1,0,02/17/2024,home,16580,1334,St. Edward's,9,True,2,1,1,win,4525993,767,2474724,2024,2
+1,0,1.0,0.0,4,4,4,2,0,0,9,6,3,0,0,0,0,0,0,3,3,1,0,35,2,1,0,0,0,2,0,0,02/23/2024,home,16580,1057,Drury,9,True,6,14,-8,loss,4526649,767,2474724,2024,2

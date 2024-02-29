@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Abney, Owen","So","2826642",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30197&stats_player_seq=2826642",30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580
-"Britt, Eli","Jr",NA,2024,"27","OF",NA,30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580
+"Britt, Eli","Jr","2965351",2024,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30197&stats_player_seq=2965351",30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580
 "Canale, Preston","Sr","2493993",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30197&stats_player_seq=2493993",30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580
 "Collins, Vincent","Fr",NA,2024,"41","P",NA,30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580
 "Conlee, Preston","Jr","2675830",2024,"26","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30197&stats_player_seq=2675830",30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580
@@ -34,7 +34,7 @@
 "Sylvester, Colton","So","2826673",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30197&stats_player_seq=2826673",30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580
 "Thomas, Joshua","Sr","2677359",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30197&stats_player_seq=2677359",30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580
 "Thompson, Brayden","So","2826677",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30197&stats_player_seq=2826677",30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580
-"Trahan, Ian","Fr",NA,2024,"33","P",NA,30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580
+"Trahan, Ian","Fr","2965355",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30197&stats_player_seq=2965355",30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580
 "Trichel, Kade","Jr",NA,2024,"40","UT",NA,30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580
 "Tyndall, Jake","Sr","2494000",2024,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30197&stats_player_seq=2494000",30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580
 "Washington, Kyle","So",NA,2024,"32","P",NA,30197,"Belhaven","/team/30197/16580",30251,"CCS",3,2024,16580

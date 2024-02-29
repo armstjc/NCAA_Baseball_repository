@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Abt, Joseph","So",NA,2024,"40","INF",NA,227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
+"Abt, Joseph","So","2957601",2024,"40","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2957601",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Bickford, Jason","Jr","2663144",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2663144",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Blanchette, Ethan","Jr","2663137",2024,"45","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2663137",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Campbell, Brady","So",NA,2024,"33","INF",NA,227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
@@ -15,8 +15,8 @@
 "Hills, Nolan","Jr","2663102",2024,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2663102",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Hurrell, Jacob","Jr","2663133",2024,"1","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2663133",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Joslyn, Pete","So","2816068",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2816068",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
-"Kelly, Matthew","Sr","2816070",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2816070",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Kelly, Maxwell","Sr","2816065",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2816065",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
+"Kelly, Matthew","Sr","2816070",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2816070",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Koza, Adam","So","2816078",2024,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2816078",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Lorae, Devin","Sr","2663089",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2663089",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Maheu, Justin","Jr","2663139",2024,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2663139",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
@@ -29,7 +29,7 @@
 "Rewenko, Benjamin","Fr",NA,2024,"14","INF",NA,227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Riordan, Maxwell","So","2816074",2024,"15","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2816074",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Sampalis, Demetrius","Fr",NA,2024,"26","P",NA,227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
-"Santulli, Jake","Jr",NA,2024,"3","INF",NA,227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
+"Santulli, Jake","Jr","2957587",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2957587",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Smith, Matthew","Jr","2663086",2024,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=227&stats_player_seq=2663086",227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Stawski, Joseph","Fr",NA,2024,"16","P",NA,227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580
 "Sterner, Luke","Fr",NA,2024,"39","INF",NA,227,"Fitchburg St.","/team/227/16580",870,"MASCAC",3,2024,16580

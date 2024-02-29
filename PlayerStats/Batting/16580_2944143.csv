@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,5,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,02/03/2024,away,16580,208,Eckerd,9,True,26,12,14,win,4525056,159,2944143,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/10/2024,home,16580,1001,Catawba,9,True,2,3,-1,loss,5245139,159,2944143,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/13/2024,home,16580,0,Talladega,9,True,3,10,-7,loss,4525435,159,2944143,2024,2
+0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,02/16/2024,home,16580,30154,Young Harris,9,True,1,13,-12,loss,4525653,159,2944143,2024,2
+1,3,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,02/24/2024,home,16580,561,Quincy,9,True,5,1,4,win,4527055,159,2944143,2024,2

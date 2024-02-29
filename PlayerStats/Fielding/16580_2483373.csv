@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/03/2024,neutral,16580,98,Cal St. East Bay,9,True,3,27,-24,loss,4525017,2697,2483373,2024,2
+2,0,2,0,0,0,0,0,0,0,02/04/2024,neutral,16580,100,Cal State LA,9,True,15,6,9,win,4525075,2697,2483373,2024,2
+3,0,3,0,0,0,0,0,0,0,02/08/2024,home,16580,1343,Saint Martin's,9,True,8,3,5,win,4525151,2697,2483373,2024,2
+1,0,1,0,0,0,0,0,0,0,02/09/2024,home,16580,133,Chaminade,11,True,4,3,1,win,4525227,2697,2483373,2024,2
+4,0,5,1,0,0,0,0,0,0,02/10/2024,home,16580,2696,Hawaii Pacific,9,True,4,6,-2,loss,4525345,2697,2483373,2024,2
+1,0,1,0,0,0,0,0,0,0,02/18/2024,away,16580,133,Chaminade,9,True,5,3,2,win,4543791,2697,2483373,2024,2
+3,0,3,0,0,0,0,0,0,0,02/26/2024,home,16580,30199,CUI,9,True,5,10,-5,loss,4527483,2697,2483373,2024,2

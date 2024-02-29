@@ -5,7 +5,7 @@ team_ids_list = team_ids_df$school_id
 team_count = length(team_ids_df)
 count = 0
 
-seasons = 2022:2022
+seasons = 2024:2025
 for (i in seasons){
   for (j in team_ids_list){
     try({

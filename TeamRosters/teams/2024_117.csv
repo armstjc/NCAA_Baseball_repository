@@ -1,11 +1,17 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Anderson, Cade","Sr","2469270",2024,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2469270",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
+"Andrich, M.","N/A","2976388",2024,"6","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2976388",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
+"Andryszcz, M.","Fr","2976122",2024,"27","cf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2976122",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
+"Barnes, D.","N/A","2976389",2024,"9","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2976389",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
+"Bebout, T.","N/A","2976807",2024,"47","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2976807",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Beck, Andrew","So","2806409",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2806409",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
+"Boroff, C.","N/A","2976390",2024,"13","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2976390",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Bowles, Kyle","Sr","2469271",2024,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2469271",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Bromberg, Noah","So","2806410",2024,"53","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2806410",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Brophy, Ryan","Jr","2666301",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2666301",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Burch, Reagan","So","2806411",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2806411",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Burns, Tristan","So","2806424",2024,"41","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2806424",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
+"Carpenter, J.","N/A","2976391",2024,"31","3b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2976391",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Clifton, Ty","So","2806439",2024,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2806439",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Collier, Daniel","So","2806440",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2806440",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Feeney, Connor","Sr","2469273",2024,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2469273",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
@@ -16,9 +22,11 @@
 "Harrison, Robby","So","2806427",2024,"18","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2806427",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Hatfield, Ben","Sr","2469284",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2469284",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Jones, Connor","Sr","2469272",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2469272",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
+"Kim, L.","Fr","2976123",2024,"5","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2976123",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "LaMarr, Kielan","So","2806428",2024,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2806428",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Mason, Justin","Sr","2469292",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2469292",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "McKinney, Ryne","Jr","2666304",2024,"44","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2666304",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
+"Mohler, B.","Sr","2976124",2024,"25","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2976124",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Patterson, Carlos","Jr","2806431",2024,"49","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2806431",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Patton, Kaiden","So",NA,2024,"36","P",NA,117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Pollack, Ethan","So","2806430",2024,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2806430",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
@@ -31,3 +39,4 @@
 "Witherspoon, Justin","Sr","2666295",2024,"13","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2666295",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Womble, Joey","So","2806444",2024,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2806444",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
 "Woodyard, Trevor","So","2806445",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2806445",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580
+"Young, B.","N/A","2976392",2024,"37","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=117&stats_player_seq=2976392",117,"Capital","/team/117/16580",901,"OAC",3,2024,16580

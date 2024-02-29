@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/03/2024,home,16580,30177,Lubbock Christian,9,True,2,8,-6,loss,4544916,996,2818884,2024,2
+2,0,2,0,0,0,0,0,0,0,02/10/2024,away,16580,25,Angelo St.,9,True,3,15,-12,loss,4543145,996,2818884,2024,2
+2,0,2,0,0,0,0,0,0,0,02/17/2024,home,16580,30090,Tex. A&M Int'l,9,True,7,9,-2,loss,4542952,996,2818884,2024,2
+1,0,1,0,0,0,0,0,0,0,02/24/2024,away,16580,696,Tex. A&M-Kingsville,9,True,7,12,-5,loss,4527125,996,2818884,2024,2

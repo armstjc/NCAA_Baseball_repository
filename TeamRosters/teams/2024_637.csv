@@ -1,11 +1,11 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Ambrosius, Cole","Fr",NA,2024,"29","OF",NA,637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
+"Ambrosius, Cole","Fr","2945658",2024,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2945658",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Arrichiello, Anthony","So","2798334",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2798334",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
-"Ballenger, Chandler","Sr",NA,2024,"18","1B",NA,637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
+"Ballenger, Chandler","Sr","2945689",2024,"18","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2945689",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Barber, Samuel","Fr",NA,2024,"61","UT",NA,637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
-"Bell, Nick","Fr",NA,2024,"34","P",NA,637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Bell, Jacob","Sr","2331307",2024,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2331307",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
-"Berinato, Jake","Fr",NA,2024,"88","OF",NA,637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
+"Bell, Nick","Fr","2945693",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2945693",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
+"Berinato, Jake","Fr","2945696",2024,"88","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2945696",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Bucher, Pearce","Sr","2133451",2024,"30","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2133451",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Carrow, Cameron","Sr","2798314",2024,"1","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2798314",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Comins, Camden","Fr",NA,2024,"35","P",NA,637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
@@ -48,13 +48,13 @@
 "Patenaude, Seamus","Fr",NA,2024,"54","3B",NA,637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Pickette, Brody","Jr","2668138",2024,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2668138",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Ritter, Frankie","Sr","2133449",2024,"7","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2133449",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
-"Russell, Dawson","So",NA,2024,"37","C",NA,637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
+"Russell, Dawson","So","2798322",2024,"37","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2798322",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Seifert, Ryan","Fr",NA,2024,"60","P",NA,637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Shadle, Ayden","Jr","2668149",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2668149",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Sherman, Jackson","So","2798335",2024,"71","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2798335",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
-"Simko, Jackson","Fr",NA,2024,"50","OF",NA,637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
+"Simko, Jackson","Fr","2945713",2024,"50","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2945713",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Snyder, Ricky","So","2798330",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2798330",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
-"Stewart, Daulton","Jr",NA,2024,"8","1B",NA,637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
+"Stewart, Daulton","Jr","2668143",2024,"8","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2668143",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Stokely, Jonathan","So","2829121",2024,"13","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2829121",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Troutner, Jake","Sr","2486464",2024,"9","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=637&stats_player_seq=2486464",637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580
 "Vandrey, Samuel","Fr",NA,2024,"53","UT",NA,637,"Shenandoah","/team/637/16580",903,"ODAC",3,2024,16580

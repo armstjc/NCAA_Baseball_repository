@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,0,5,0,0,0,6,0,0,0,02/01/2024,home,16580,1167,Lander,9,True,7,8,-1,loss,4524897,1072,2659309,2024,2
+1,0,2,1,0,0,0,0,0,0,02/16/2024,away,16580,30058,Claflin,9,True,21,5,16,win,4544108,1072,2659309,2024,2
+16,1,17,0,0,0,5,0,0,0,02/17/2024,away,16580,30058,Claflin,9,True,11,0,11,win,4525823,1072,2659309,2024,2

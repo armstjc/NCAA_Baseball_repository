@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/01/2024,home,16580,9754,UC-Colo. Springs,9,True,10,1,9,win,4524959,1371,2815916,2024,2
+4,0,5,1,0,0,0,0,0,0,02/02/2024,home,16580,9754,UC-Colo. Springs,9,True,5,4,1,win,4525047,1371,2815916,2024,2
+1,0,1,0,0,0,0,0,0,0,02/02/2024,home,16580,9754,UC-Colo. Springs,9,True,11,4,7,win,4525107,1371,2815916,2024,2
+2,0,2,0,0,0,0,0,0,0,02/09/2024,home,16580,30054,Newman,9,True,13,0,13,win,4525200,1371,2815916,2024,2
+4,1,5,0,0,0,0,0,1,0,02/10/2024,home,16580,30054,Newman,9,True,12,11,1,win,5245123,1371,2815916,2024,2
+1,0,1,0,0,0,0,0,0,0,02/13/2024,away,16580,12810,Northeastern St.,11,True,9,10,-1,loss,4525427,1371,2815916,2024,2
+5,0,5,0,0,0,0,0,0,0,02/17/2024,away,16580,1376,Southern Ark.,9,True,6,7,-1,loss,4525965,1371,2815916,2024,2
+2,0,2,0,0,0,0,0,0,0,02/23/2024,home,16580,8411,Ark.-Monticello,9,True,9,10,-1,loss,4526643,1371,2815916,2024,2
+1,0,1,0,0,0,0,0,0,0,02/24/2024,home,16580,8411,Ark.-Monticello,9,True,5,6,-1,loss,4543968,1371,2815916,2024,2

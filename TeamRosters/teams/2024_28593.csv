@@ -1,11 +1,11 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Adams, Connor","Jr","2649885",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2649885",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Austin, Mitch","Sr","2802862",2024,"20","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2802862",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
-"Banks, Charlie","Fr",NA,2024,"8","OF",NA,28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
+"Banks, Charlie","Fr","2952412",2024,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2952412",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Barber, Jayson","Fr",NA,2024,"31","P",NA,28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Barron, Trip","Fr","2952415",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2952415",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Brown, Barrett","So","2802851",2024,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2802851",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
-"Davis, Cooper","Fr",NA,2024,"21","3B",NA,28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
+"Davis, Cooper","Fr","2952416",2024,"21","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2952416",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Dropp, Garrett","So","2802854",2024,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2802854",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Dutton, Andrew","Sr","2487499",2024,"7","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2487499",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Fields, Jacob","Fr","2952417",2024,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2952417",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
@@ -14,7 +14,7 @@
 "Harrison, Ricky","Sr","2491444",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2491444",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Hoover, Ben","Jr","2650002",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2650002",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Horne, Charlie","So","2802857",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2802857",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
-"Hutson, Parker","Jr",NA,2024,"17","UT",NA,28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
+"Hutson, Parker","Jr","2649875",2024,"17","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2649875",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "LaRoche, Drake","Jr","2952434",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2952434",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Ladd, Parker","Fr","2952423",2024,"1","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2952423",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Leerssen, Josh","Sr","2488348",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2488348",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
@@ -25,8 +25,8 @@
 "Mullins, Tams","Fr","2952451",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2952451",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Munyon, Grayson","Sr","2649887",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2649887",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Nelson, Shane","Jr","2649871",2024,"9","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2649871",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
-"Noland, Dixon","Fr",NA,2024,"2","OF",NA,28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
-"Scalese, Dominick","Fr",NA,2024,"0","P",NA,28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
+"Noland, Dixon","Fr","2952455",2024,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2952455",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
+"Scalese, Dominick","Fr","2952456",2024,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2952456",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Sottile, Hayden","Fr","2952457",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2952457",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Steadman, Eli","Jr","2649870",2024,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2649870",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580
 "Stephens, Owen","Sr","2650001",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=28593&stats_player_seq=2650001",28593,"Birmingham-So.","/team/28593/16580",30169,"SAA",3,2024,16580

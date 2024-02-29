@@ -1,13 +1,13 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Avila, Alejandro","Jr","2682778",2024,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2682778",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
-"Blackwell, Spencer","Fr",NA,2024,"27","P",NA,30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
+"Blackwell, Spencer","Fr","2969932",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2969932",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Brown, Justin","Jr","2682217",2024,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2682217",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Cancel, Julian","Fr",NA,2024,"42","INF",NA,30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Clay, Zion","Jr","2682935",2024,"40","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2682935",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
-"Curry, Matthew","Fr",NA,2024,"9","P",NA,30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
+"Curry, Matthew","Fr","2969956",2024,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2969956",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Dailey, Andrew","Jr","2682808",2024,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2682808",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Davis, Darius","Jr","2685358",2024,"7","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2685358",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
-"Galloway, Seth","Fr",NA,2024,"18","P",NA,30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
+"Galloway, Seth","Fr","2970000",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2970000",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Gomez, Stephano","Jr","2682219",2024,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2682219",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Griffey, Lawrence","Jr","2682817",2024,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2682817",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Hay, Derek","Sr","2682220",2024,"10","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2682220",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
@@ -29,10 +29,10 @@
 "Serra, Miguel","So","2803826",2024,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2803826",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Serra, Ricardo","Jr","2682232",2024,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2682232",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Thacker, Corbin","Fr",NA,2024,"37","INF",NA,30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
-"Torbicki, Peter","Fr",NA,2024,"28","P",NA,30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
+"Torbicki, Peter","Fr","2970071",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2970071",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Tribble, Kire","Jr","2682233",2024,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2682233",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Vazquez, Michael","Jr","2682234",2024,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2682234",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "White, Remington","Jr","2682926",2024,"33","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2682926",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Wylie, A.J.","Jr","2682228",2024,"21","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2682228",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
 "Yates, Talon","Jr","2682229",2024,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2682229",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
-"Zambrana, Efrain","Fr",NA,2024,"12","INF",NA,30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580
+"Zambrana, Efrain","Fr","2970077",2024,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30171&stats_player_seq=2970077",30171,"Berea","/team/30171/16580",30251,"CCS",3,2024,16580

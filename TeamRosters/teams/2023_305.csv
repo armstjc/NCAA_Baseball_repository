@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Austin, Jordan","Fr",NA,2023,"1","OF",NA,305,"Indiana St.","/team/305/16340",884,"MVC",1,2023,16340
+"Austin, Jordan","Fr","2825769",2023,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=305&stats_player_seq=2825769",305,"Indiana St.","/team/305/16340",884,"MVC",1,2023,16340
 "Brown, Henry","So","2677578",2023,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=305&stats_player_seq=2677578",305,"Indiana St.","/team/305/16340",884,"MVC",1,2023,16340
 "Cortner, Kyle","So","2825787",2023,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=305&stats_player_seq=2825787",305,"Indiana St.","/team/305/16340",884,"MVC",1,2023,16340
 "Cutts, Brennyn","So","2677598",2023,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=305&stats_player_seq=2677598",305,"Indiana St.","/team/305/16340",884,"MVC",1,2023,16340
@@ -23,7 +23,7 @@
 "Lybarger, Brayden","Fr","2825785",2023,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=305&stats_player_seq=2825785",305,"Indiana St.","/team/305/16340",884,"MVC",1,2023,16340
 "Magill, Grant","Jr","2347387",2023,"5","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=305&stats_player_seq=2347387",305,"Indiana St.","/team/305/16340",884,"MVC",1,2023,16340
 "Marx, Alex","So","2825779",2023,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=305&stats_player_seq=2825779",305,"Indiana St.","/team/305/16340",884,"MVC",1,2023,16340
-"McEwen, Max","Fr",NA,2023,"21","P",NA,305,"Indiana St.","/team/305/16340",884,"MVC",1,2023,16340
+"McEwen, Max","Fr","2825800",2023,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=305&stats_player_seq=2825800",305,"Indiana St.","/team/305/16340",884,"MVC",1,2023,16340
 "Miller, Lane","Sr","2347389",2023,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=305&stats_player_seq=2347389",305,"Indiana St.","/team/305/16340",884,"MVC",1,2023,16340
 "Moss, Aaron","So","2677595",2023,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=305&stats_player_seq=2677595",305,"Indiana St.","/team/305/16340",884,"MVC",1,2023,16340
 "Oliverio, Dom","Fr","2825801",2023,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16340&org_id=305&stats_player_seq=2825801",305,"Indiana St.","/team/305/16340",884,"MVC",1,2023,16340

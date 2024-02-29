@@ -1,25 +1,32 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Angell, Derek","Jr","2679202",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2679202",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Bamforth, Nick","Sr","2822414",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822414",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Adamson , Dylan","Fr","2974788",2024,"21","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2974788",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Angell, Derek","Jr","2679202",2024,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2679202",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Bamforth, Nick","Sr","2822414",2024,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822414",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
 "Banche, Kyle","Sr","2497587",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2497587",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Beninati, TJ","Jr","2679210",2024,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2679210",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Bourgeois, Ryan","So","2822408",2024,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822408",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Consigli, Mason","Jr","2679208",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2679208",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Dolan, Conor","Sr","2822395",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822395",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Dolan, James","Sr","2822412",2024,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822412",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Duffy, Alex","Jr","2679217",2024,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2679217",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Barberi , Ryan","Fr",NA,2024,"28","",NA,621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Belgrove, Antonio","Fr","2974778",2024,"4","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2974778",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Beninati, TJ","Jr","2679210",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2679210",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Boucher, Jake","Sr","2317417",2024,"29","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2317417",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Boucher , Brady","Fr",NA,2024,"13","",NA,621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Bourgeois, Ryan","So","2822408",2024,"20","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822408",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Butkevicius , Anthony","Fr",NA,2024,"16","",NA,621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Currier , Nolan","Fr",NA,2024,"23","",NA,621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Dolan, James","Sr","2822412",2024,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822412",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Dolan, Connor","Sr","2822395",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822395",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Doyle , Jack","Fr",NA,2024,"14","",NA,621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
 "Duggan, Owen","So","2822391",2024,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822391",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
 "Erskine, Samuel","Sr","2497585",2024,"19","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2497585",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Feeder, Brad","Sr","2679203",2024,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2679203",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
 "Field, Edward","Sr","2497590",2024,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2497590",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Fonseca, Juan Carlos","So","2822406",2024,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822406",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Fuegen, Devin","So","2822349",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822349",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Fisher , Cam","Fr",NA,2024,"34","",NA,621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Fuegen, Devin","So","2822349",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822349",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
 "Gentle, Greg","Sr","2679212",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2679212",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Jellison, Bobby","Jr","2679218",2024,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2679218",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Gonzalez, Yabdriel","Fr","2974782",2024,"9","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2974782",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Jellison, Bobby","Jr","2679218",2024,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2679218",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
 "Lynch, Aidan","So","2822398",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822398",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Simone, Chris","So","2822394",2024,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822394",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Smith, Chris","Jr","2679216",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2679216",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Tucholski, Emerson","Sr","2822417",2024,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822417",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"McIntyre , Nicolas","So",NA,2024,"24","",NA,621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"McMahon, Brandon","Fr",NA,2024,"18","",NA,621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Pare, Brock","Sr","2317402",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2317402",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Smith , Mark","Sr","2974783",2024,"12","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2974783",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Tucker , Harrison","Fr",NA,2024,"6","",NA,621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
 "Usenia, Jake","Sr","2822354",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822354",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Ward, Mike","So","2822425",2024,"31","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822425",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
-"Wilson, Tyler","So","2822424",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=621&stats_player_seq=2822424",621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580
+"Walling, Matt","Fr",NA,2024,"26","",NA,621,"Salem St.","/team/621/16580",870,"MASCAC",3,2024,16580

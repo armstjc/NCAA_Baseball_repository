@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/03/2024,neutral,16580,8577,N.M. Highlands,9,True,11,2,9,win,4525004,1314,2808643,2024,2
+4,0,4,0,0,0,0,0,0,0,02/09/2024,home,16580,568,Regis (CO),9,True,4,5,-1,loss,4525174,1314,2808643,2024,2
+2,0,2,0,0,0,0,0,0,0,02/18/2024,home,16580,2755,Southwest Baptist,9,True,25,3,22,win,5246300,1314,2808643,2024,2
+1,0,1,0,0,0,0,0,0,0,02/18/2024,home,16580,2755,Southwest Baptist,9,True,15,0,15,win,5246354,1314,2808643,2024,2
+2,0,2,0,0,0,0,0,0,0,02/23/2024,away,16580,2814,Washburn,9,True,8,6,2,win,4526670,1314,2808643,2024,2

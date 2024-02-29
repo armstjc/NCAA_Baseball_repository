@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/03/2024,home,16580,30124,Cedarville,9,True,14,4,10,win,4525020,1176,2670377,2024,2
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/10/2024,away,16580,1167,Lander,9,True,5,19,-14,loss,5245166,1176,2670377,2024,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,away,16580,1170,Lenoir-Rhyne,9,True,16,12,4,win,4527026,1176,2670377,2024,2

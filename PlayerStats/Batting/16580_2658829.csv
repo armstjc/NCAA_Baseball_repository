@@ -1,0 +1,7 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/02/2024,away,16580,1023,Coker,9,True,2,8,-6,loss,4524932,2683,2658829,2024,2
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/09/2024,away,16580,30002,Trevecca Nazarene,9,True,9,11,-2,loss,4525185,2683,2658829,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/17/2024,away,16580,30192,Southern Wesleyan,11,True,11,12,-1,loss,4544922,2683,2658829,2024,2
+0,4,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,02/23/2024,home,16580,15646,Barton,10,True,3,2,1,win,4526709,2683,2658829,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,home,16580,15646,Barton,9,True,1,19,-18,loss,4527072,2683,2658829,2024,2
+0,3,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,02/24/2024,home,16580,15646,Barton,9,True,13,3,10,win,4544125,2683,2658829,2024,2

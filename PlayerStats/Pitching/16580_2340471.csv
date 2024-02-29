@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,4.0,0.0,6,4,4,1,5,0,20,17,0,1,0,0,0,1,0,0,0,1,0,62,3,3,0,1,0,1,0,0,02/02/2024,away,16580,30152,Southern Nazarene,9,True,2,4,-2,loss,4544908,30054,2340471,2024,2
+1,1,5.0,0.0,10,6,6,2,4,0,28,25,5,0,0,3,2,1,0,0,0,0,0,102,2,9,0,1,0,1,1,0,02/10/2024,away,16580,1371,Southeastern Okla.,9,True,5,10,-5,loss,5245155,30054,2340471,2024,2
+1,1,5.0,0.0,9,10,10,4,4,0,29,24,2,0,0,1,0,1,0,0,0,0,0,100,5,6,0,1,0,1,1,0,02/19/2024,home,16580,9081,Concordia-St. Paul,9,True,10,18,-8,loss,4525497,30054,2340471,2024,2
+1,1,5.2,0.0,12,10,8,3,1,0,35,29,0,0,0,2,0,2,0,0,0,0,1,104,8,7,0,1,0,1,0,0,02/25/2024,home,16580,30180,Rogers St.,9,True,10,13,-3,loss,4527199,30054,2340471,2024,2

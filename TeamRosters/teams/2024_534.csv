@@ -1,11 +1,11 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Andrus, David","Fr",NA,2024,"33","P",NA,534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
-"Bicknell, Drake","Jr",NA,2024,"51","P",NA,534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
+"Andrus, David","Fr","2663763",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2663763",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
+"Bicknell, Drake","Jr","2953456",2024,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2953456",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Bobo, John-Howard","Sr","2814876",2024,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2814876",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Camacho, Gabe","Fr","2953449",2024,"36","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2953449",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
-"Carter, Regan","Fr",NA,2024,"30","P",NA,534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
+"Carter, Regan","Fr","2953444",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2953444",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Casagrande, Caden","So","2814847",2024,"12","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2814847",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
-"Cruz, Bryce","Fr",NA,2024,"29","P",NA,534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
+"Cruz, Bryce","Fr","2953443",2024,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2953443",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Defazio, Nico","Fr","2814922",2024,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2814922",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Evans, Rylan","So","2814863",2024,"3","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2814863",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Graves, Chase","Sr","2493719",2024,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2493719",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
@@ -22,7 +22,7 @@
 "Otis, Tony","So","2814849",2024,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2814849",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Petersen, Kaden","So","2814949",2024,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2814949",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Santos-LaPlaca, Mike","Fr",NA,2024,"35","INF",NA,534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
-"Scholzen, Grant","Fr",NA,2024,"13","INF",NA,534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
+"Scholzen, Grant","Fr","2953440",2024,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2953440",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Shank, JT","Fr","2953452",2024,"40","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2953452",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Shaver, Ethan","Jr","2953450",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2953450",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Sloan, Andrew","So","2814944",2024,"23","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2814944",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
@@ -31,9 +31,9 @@
 "Tandy, Jake","So","2814851",2024,"15","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2814851",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Troutner, Matthew","Fr",NA,2024,"5","C",NA,534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Vargas, Omar","Fr",NA,2024,"31","INF",NA,534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
-"Vargas, Luis","Fr",NA,2024,"38","INF",NA,534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
+"Vargas, Luis","Fr","2953451",2024,"38","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2953451",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Vidal, Andre","So","2814874",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2814874",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
-"Vidal, Adrian","Fr",NA,2024,"14","INF",NA,534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
+"Vidal, Adrian","Fr","2953441",2024,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2953441",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Wagner, Reece","Fr","2953442",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2953442",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Weiss, Jacob","Sr","2493724",2024,"10","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2493724",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580
 "Wood, Jarryd","Jr","2664022",2024,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=534&stats_player_seq=2664022",534,"Pacific","/team/534/16580",922,"WCC",1,2024,16580

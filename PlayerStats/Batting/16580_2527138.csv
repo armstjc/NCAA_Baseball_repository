@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,5,4,3,0,7,0,4,0,0,0,0,0,0,0,0,0,0,0,02/08/2024,away,16580,9754,UC-Colo. Springs,9,True,12,15,-3,loss,4525367,27854,2527138,2024,2
+0,4,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,02/08/2024,away,16580,9754,UC-Colo. Springs,9,True,5,7,-2,loss,4543159,27854,2527138,2024,2
+2,6,2,0,0,5,1,3,0,0,0,0,1,0,0,0,0,0,0,02/09/2024,away,16580,9754,UC-Colo. Springs,9,True,14,4,10,win,4525284,27854,2527138,2024,2
+1,4,3,0,0,6,1,2,0,0,0,0,1,0,0,0,0,0,0,02/21/2024,neutral,16580,1433,Wayne St. (NE),9,True,4,10,-6,loss,4526431,27854,2527138,2024,2
+1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,02/22/2024,neutral,16580,1433,Wayne St. (NE),9,True,2,0,2,win,4526451,27854,2527138,2024,2
+0,2,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,02/22/2024,neutral,16580,1433,Wayne St. (NE),9,True,2,9,-7,loss,4544574,27854,2527138,2024,2
+0,5,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/23/2024,neutral,16580,1433,Wayne St. (NE),9,True,8,9,-1,loss,4526585,27854,2527138,2024,2

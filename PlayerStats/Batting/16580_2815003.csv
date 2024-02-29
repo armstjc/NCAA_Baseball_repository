@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/02/2024,home,16580,98,Cal St. East Bay,9,True,4,2,2,win,4524899,2696,2815003,2024,2
+1,3,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,0,1,02/03/2024,home,16580,100,Cal State LA,9,True,15,11,4,win,4525009,2696,2815003,2024,2

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/01/2024,home,16580,507,Northwest Mo. St.,9,True,6,2,4,win,4524907,1015,2816291,2024,2
+0,0,0,0,0,0,1,1,0,0,02/09/2024,neutral,16580,1328,Rockhurst,9,True,6,10,-4,loss,5067796,1015,2816291,2024,2
+0,1,1,0,0,0,0,0,0,0,02/13/2024,home,16580,0,Bethel (TN),9,True,11,3,8,win,4525424,1015,2816291,2024,2
+0,1,1,0,0,0,0,0,0,0,02/23/2024,away,16580,1238,Montevallo,9,True,17,4,13,win,4526652,1015,2816291,2024,2

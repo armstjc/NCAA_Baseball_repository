@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Albanese, Tyler","Fr",NA,2024,"49","P",NA,630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
+"Albanese, Tyler","Fr","2968020",2024,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2968020",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Barnes, EJ","Fr",NA,2024,"31","INF",NA,630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Bowling, Dalton","Sr","2332297",2024,"8","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2332297",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Brooks, Trey","Fr",NA,2024,"30","OF",NA,630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
@@ -14,7 +14,7 @@
 "Ferrante, Cody","Fr",NA,2024,"27","INF",NA,630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Forbes, Jackson","Sr","2463504",2024,"11","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2463504",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Fukofuka, Kimo","Sr","2651949",2024,"20","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2651949",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
-"George, Nolan","Jr",NA,2024,"12","P",NA,630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
+"George, Nolan","Jr","2967999",2024,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2967999",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Griffin, Zach","Sr","2968017",2024,"44","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2968017",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Gutierrez, Jesse","So","2827630",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2827630",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Hall, Gary","Jr","2651929",2024,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2651929",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
@@ -23,14 +23,14 @@
 "Jansen, Neil","So","2827589",2024,"26","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2827589",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Keys, Trent","Fr",NA,2024,"33","OF",NA,630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Khela, TJ","So",NA,2024,"10","INF",NA,630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
+"Lewis, Jared","Fr","2967823",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2967823",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Lewis, Jeriah","Jr","2494060",2024,"0","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2494060",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
-"Lewis, Jared","Fr",NA,2024,"3","INF",NA,630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Maroney, Jake","So","2827590",2024,"5","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2827590",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Odum, Jeremiah","Fr",NA,2024,"43","OF",NA,630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Onaca, Jaden","Fr",NA,2024,"36","P",NA,630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Orduno, Sebastian","Sr","2968002",2024,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2968002",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Reeve, Timmy","Sr",NA,2024,"51","P",NA,630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
-"Rice, Michael","Jr",NA,2024,"45","P",NA,630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
+"Rice, Michael","Jr","2968019",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2968019",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Ross, Ethan","Sr","2344911",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2344911",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Sanchez, Corey","Sr","2332323",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=630&stats_player_seq=2332323",630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580
 "Scritzky, Kyle","Fr",NA,2024,"37","P",NA,630,"San Jose St.","/team/630/16580",5486,"Mountain West",1,2024,16580

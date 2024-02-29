@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Ardoin, Sam","Fr",NA,2024,"19","INF",NA,703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
+"Ardoin, Sam","Fr","2951445",2024,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2951445",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
 "Belyeu, Max","So","2817023",2024,"44","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2817023",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
 "Bertsch, Brandon","Fr",NA,2024,"54","P",NA,703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
 "Boehm, Gage","So","2951466",2024,"56","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2951466",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
@@ -15,7 +15,7 @@
 "Galvan, Rylan","So","2817021",2024,"6","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2817021",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
 "Gasparin, Will","Fr","2951442",2024,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2951442",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
 "Grubbs, Max","So","2817041",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2817041",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
-"Hamilton, Hudson","Fr",NA,2024,"48","P",NA,703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
+"Hamilton, Hudson","Fr","2951460",2024,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2951460",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
 "Harrison, Luke","Jr","2661716",2024,"53","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2661716",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
 "Howard, Cody","So","2801633",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2801633",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
 "Hurley, Charlie","Sr","2494059",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2494059",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
@@ -31,7 +31,7 @@
 "Santos, Oliver","Fr","2804907",2024,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2804907",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
 "Schuessler, Kimble","Sr","2480203",2024,"10","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2480203",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
 "Selvig, Cole","Fr","2951458",2024,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2951458",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
-"Service, Oliver","Fr",NA,2024,"42","C",NA,703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
+"Service, Oliver","Fr","2951453",2024,"42","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2951453",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
 "Shaw, David","So","2677164",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2677164",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
 "Thomas, Jared","So","2817016",2024,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2817016",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580
 "Tole, Heston","Sr","2477437",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=703&stats_player_seq=2477437",703,"Texas","/team/703/16580",25354,"Big 12",1,2024,16580

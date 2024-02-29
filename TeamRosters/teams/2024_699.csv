@@ -1,10 +1,12 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
+"Adams, Jaden","Jr","2973424",2024,"24","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2973424",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
+"Alanis, Edmundo","Jr","2973425",2024,"45","1b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2973425",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Alford, Dalton","Jr","2972606",2024,"18","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2972606",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Barnes, Justin","Sr","2829678",2024,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2829678",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Burns II, Nin","Sr","2812590",2024,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2812590",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Butler, Noah","Jr","2830004",2024,"8","cf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2830004",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
-"Castillo, CJ","Sr","2681178",2024,"0","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2681178",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Castillo, Adolf","Sr","2494404",2024,"23","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2494404",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
+"Castillo, CJ","Sr","2681178",2024,"0","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2681178",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Castro, Josiah","Sr","2681404",2024,"17","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2681404",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Cromer, Chase","Sr","2669091",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2669091",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Diaz, Alex","Jr","2678114",2024,"51","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2678114",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
@@ -21,8 +23,11 @@
 "Martin, Shannon","So","2829464",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2829464",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Martinez, Domenic","Sr","2830806",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2830806",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Molina, Victor","Jr","2830708",2024,"28","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2830708",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
+"Trejo, Jonathan","Fr","2975276",2024,"55","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2975276",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Valdez, Justyn","So","2833244",2024,"29","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2833244",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
+"Vidato, Jordan","Sr","2347453",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2347453",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Villalobos, Jose","So","2972621",2024,"22","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2972621",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
-"Walton, Kameron","So",NA,2024,"25","P",NA,699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
+"Walton, Kameron","So","2676961",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2676961",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Williams, Tyler","Sr","2494407",2024,"19","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2494407",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
 "Wilson, Brody","Jr","2837464",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2837464",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580
+"lll, Jesse","Jr","2973426",2024,"15","2b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=699&stats_player_seq=2973426",699,"Texas Southern","/team/699/16580",916,"SWAC",1,2024,16580

@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+7,0,7,0,0,0,0,0,0,0,02/02/2024,home,16580,30090,Tex. A&M Int'l,9,True,14,10,4,win,4524961,767,2815135,2024,2
+3,1,4,0,0,0,0,0,1,0,02/03/2024,home,16580,30090,Tex. A&M Int'l,9,True,17,5,12,win,4525042,767,2815135,2024,2
+6,0,6,0,0,0,0,0,0,0,02/03/2024,home,16580,30090,Tex. A&M Int'l,9,True,8,4,4,win,4544918,767,2815135,2024,2
+9,0,9,0,0,0,0,0,0,0,02/04/2024,home,16580,30090,Tex. A&M Int'l,9,True,5,4,1,win,4525100,767,2815135,2024,2
+8,0,8,0,0,0,0,0,2,0,02/09/2024,away,16580,696,Tex. A&M-Kingsville,9,True,4,6,-2,loss,4525214,767,2815135,2024,2
+6,1,7,0,0,0,0,0,1,0,02/10/2024,away,16580,696,Tex. A&M-Kingsville,9,True,3,2,1,win,4525339,767,2815135,2024,2
+7,1,8,0,0,0,0,0,0,0,02/17/2024,home,16580,1334,St. Edward's,9,True,2,1,1,win,4525993,767,2815135,2024,2
+8,0,8,0,0,2,4,0,0,0,02/17/2024,home,16580,1334,St. Edward's,9,True,0,10,-10,loss,4542970,767,2815135,2024,2
+5,2,7,0,0,0,0,0,0,0,02/18/2024,home,16580,1334,St. Edward's,9,True,7,5,2,win,4526238,767,2815135,2024,2

@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Adams, Sam","Jr","2809929",2024,"29","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2809929",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
-"Ausmus, Cody","Jr",NA,2024,"51","P",NA,676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
+"Ausmus, Cody","Jr","2943285",2024,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2943285",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Balmaceda, Elian","Jr","2943161",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2943161",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Biggs, Tom","Sr","2809798",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2809798",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Bourgeios, Dylan","Jr","2942931",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2942931",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
@@ -19,22 +19,22 @@
 "Jaco, Skyler","Sr","2477940",2024,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2477940",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "James, Jack","So","2943136",2024,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2943136",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Kithil, Andrew","Jr","2943280",2024,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2943280",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
-"Knoerr, Brock","Fr",NA,2024,"17","UT",NA,676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
+"Knoerr, Brock","Fr","2809915",2024,"17","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2809915",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Landry, Garrett","Jr",NA,2024,"21","P",NA,676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Larson, Will","Jr","2943246",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2943246",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Martin, Cal","Sr","2343995",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2343995",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Moreno, Lawson","Fr","2943225",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2943225",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
-"Mulcahy, Dylan","Fr",NA,2024,"43","P",NA,676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
+"Mulcahy, Dylan","Fr","2943275",2024,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2943275",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Nickerson, Trent","Jr","2943211",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2943211",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
-"Parker, Kade","So","2943235",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2943235",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Parker, Peyton","Sr","2680250",2024,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2680250",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
+"Parker, Kade","So","2943235",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2943235",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Prescher, Hunter","Sr","2525797",2024,"41","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2525797",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Rutledge, Caleb","Jr","2823172",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2823172",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Savino, Dylan","Sr","2809913",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2809913",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Smith, Cody","Sr",NA,2024,"26","P",NA,676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Stapleton, Cade","Sr","2809935",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2809935",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Thompson, Julian","Sr","2809862",2024,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2809862",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
-"Warren, Zerick","Jr",NA,2024,"28","C",NA,676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
+"Warren, Zerick","Jr","2943201",2024,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2943201",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Wilson, Crew","Sr","2809949",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2809949",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Woods, Connor","Sr","2809917",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2809917",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580
 "Yosko, Bryce","So","2828730",2024,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=676&stats_player_seq=2828730",676,"SFA","/team/676/16580",923,"WAC",1,2024,16580

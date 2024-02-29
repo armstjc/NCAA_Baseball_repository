@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/02/2024,home,16580,1199,Mars Hill,9,True,5,1,4,win,4524973,30052,2693822,2024,2
+0,1,1,0,0,0,2,0,0,0,02/10/2024,home,16580,19117,Salem (WV),9,True,5,4,1,win,4525312,30052,2693822,2024,2
+0,1,1,0,0,0,0,0,0,0,02/18/2024,home,16580,561,Quincy,9,True,15,4,11,win,4526162,30052,2693822,2024,2

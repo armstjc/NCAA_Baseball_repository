@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+9,0,10,1,0,0,1,0,0,0,02/18/2024,neutral,16580,598,St. Cloud St.,9,True,0,12,-12,loss,4543798,8736,2678951,2024,2
+4,2,6,0,0,0,0,0,0,0,02/19/2024,neutral,16580,598,St. Cloud St.,9,True,1,3,-2,loss,4525925,8736,2678951,2024,2
+8,1,9,0,0,0,0,1,0,0,02/25/2024,neutral,16580,427,Minn. Duluth,9,True,7,8,-1,loss,4542666,8736,2678951,2024,2
+11,0,11,0,0,0,0,0,0,0,02/26/2024,neutral,16580,427,Minn. Duluth,8,True,8,2,6,win,4527474,8736,2678951,2024,2

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,0,0,0,0,02/03/2024,away,16580,584,Rollins,9,True,3,12,-9,loss,4525003,1238,2668163,2024,2
+1,0,1,0,0,0,0,0,0,0,02/10/2024,home,16580,30181,UVA Wise,9,True,15,7,8,win,5245117,1238,2668163,2024,2
+0,1,1,0,0,0,1,1,0,0,02/18/2024,home,16580,510,Northwood,9,True,8,3,5,win,4526190,1238,2668163,2024,2
+0,1,1,0,0,0,0,0,0,0,02/24/2024,home,16580,1015,Christian Brothers,9,True,16,4,12,win,4527037,1238,2668163,2024,2

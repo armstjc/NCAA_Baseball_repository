@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,1,6,0,0,0,0,0,0,0,02/02/2024,away,16580,1176,Lincoln Memorial,9,True,4,9,-5,loss,4524967,30124,2664349,2024,2
+4,1,6,1,0,0,0,0,0,0,02/03/2024,away,16580,1176,Lincoln Memorial,9,True,4,14,-10,loss,4525020,30124,2664349,2024,2
+8,0,8,0,0,0,0,0,0,0,02/24/2024,home,16580,591,Saginaw Valley,9,True,2,3,-1,loss,4543947,30124,2664349,2024,2

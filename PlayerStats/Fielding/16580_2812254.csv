@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,02/18/2024,neutral,16580,591,Saginaw Valley,8,True,13,6,7,win,5246379,1079,2812254,2024,2
+1,0,1,0,0,0,0,0,0,0,02/18/2024,neutral,16580,591,Saginaw Valley,9,True,5,8,-3,loss,5246380,1079,2812254,2024,2
+1,0,1,0,0,0,0,0,0,0,02/19/2024,neutral,16580,591,Saginaw Valley,9,True,0,5,-5,loss,4525849,1079,2812254,2024,2

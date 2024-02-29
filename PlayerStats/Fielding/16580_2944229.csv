@@ -1,0 +1,8 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,4,5,0,0,0,0,0,0,0,02/02/2024,home,16580,10,Alabama Huntsville,9,True,2,5,-3,loss,4524927,584,2944229,2024,2
+1,1,2,0,0,0,0,0,1,0,02/03/2024,home,16580,1238,Montevallo,9,True,6,4,2,win,4856825,584,2944229,2024,2
+1,4,5,0,0,0,0,0,0,0,02/09/2024,home,16580,11416,Colorado Mesa,9,True,4,3,1,win,4525163,584,2944229,2024,2
+1,6,8,1,0,0,0,0,2,0,02/20/2024,away,16580,30092,Flagler,10,True,4,5,-1,loss,4526386,584,2944229,2024,2
+0,2,2,0,0,0,0,0,0,0,02/23/2024,home,16580,9680,Embry-Riddle (FL),12,True,6,10,-4,loss,4526721,584,2944229,2024,2
+2,5,7,0,0,0,0,0,2,0,02/24/2024,home,16580,9680,Embry-Riddle (FL),9,True,8,1,7,win,4527096,584,2944229,2024,2
+1,5,6,0,0,0,0,0,1,0,02/25/2024,home,16580,9680,Embry-Riddle (FL),9,True,3,5,-2,loss,4527413,584,2944229,2024,2

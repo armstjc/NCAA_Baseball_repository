@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,2,0,0,0,0,0,0,0,02/16/2024,away,16580,30126,Notre Dame (OH),9,True,12,1,11,win,4525548,309,2133931,2024,2
+0,0,1,1,0,0,0,0,0,0,02/23/2024,away,16580,1097,Ga. Southwestern,9,True,1,5,-4,loss,4526740,309,2133931,2024,2
+1,0,2,1,0,0,0,0,0,0,02/25/2024,away,16580,1097,Ga. Southwestern,9,True,0,16,-16,loss,4527414,309,2133931,2024,2

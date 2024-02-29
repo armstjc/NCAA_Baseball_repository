@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,2,7,0,0,0,0,0,0,0,02/06/2024,neutral,16580,30193,Emmanuel (GA),9,True,14,4,10,win,4525122,30002,2312157,2024,2
+9,0,9,0,0,0,0,0,0,0,02/09/2024,home,16580,2683,Belmont Abbey,9,True,11,9,2,win,4525185,30002,2312157,2024,2
+13,0,13,0,0,0,0,0,0,0,02/15/2024,home,16580,395,Maryville (MO),9,True,4,3,1,win,5245781,30002,2312157,2024,2
+5,1,6,0,0,0,1,0,0,0,02/16/2024,home,16580,395,Maryville (MO),9,True,6,8,-2,loss,4525559,30002,2312157,2024,2
+3,0,3,0,0,0,0,0,0,0,02/23/2024,home,16580,354,Lewis,9,True,6,5,1,win,5249308,30002,2312157,2024,2
+8,0,8,0,0,0,1,0,0,0,02/24/2024,home,16580,354,Lewis,10,True,5,6,-1,loss,4526913,30002,2312157,2024,2

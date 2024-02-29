@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,3,5,0,0,0,0,0,0,0,02/02/2024,away,16580,133,Chaminade,9,True,9,6,3,win,4524974,98,2651070,2024,2
+2,4,6,0,0,0,0,0,0,0,02/03/2024,neutral,16580,2697,Hawaii Hilo,9,True,12,6,6,win,4524943,98,2651070,2024,2
+0,4,4,0,0,0,0,0,0,0,02/04/2024,neutral,16580,2696,Hawaii Pacific,9,True,4,13,-9,loss,4525069,98,2651070,2024,2
+1,2,3,0,0,0,0,0,0,0,02/09/2024,home,16580,405,Menlo,9,True,8,7,1,win,4525173,98,2651070,2024,2
+3,2,5,0,0,0,0,0,0,0,02/16/2024,home,16580,0,Simpson (CA),10,True,3,4,-1,loss,5245932,98,2651070,2024,2

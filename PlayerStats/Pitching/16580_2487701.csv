@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,2.0,0.0,2,1,0,0,2,0,9,9,0,0,0,0,1,0,0,0,0,0,0,31,2,2,0,0,0,4,0,0,02/04/2024,home,16580,2746,Lake Erie,9,True,15,8,7,win,4545048,15646,2487701,2024,2
+1,1,4.0,0.0,4,3,1,0,3,0,16,14,1,0,0,0,0,0,0,0,0,1,1,63,4,4,1,0,0,1,0,0,02/21/2024,home,16580,1023,Coker,9,True,20,8,12,win,4526421,15646,2487701,2024,2
+1,1,2.0,0.0,2,0,0,0,3,0,7,7,0,0,0,0,0,0,0,0,0,0,0,28,1,1,0,0,0,1,1,0,02/27/2024,home,16580,74,Bridgeport,9,True,22,2,20,win,4527564,15646,2487701,2024,2

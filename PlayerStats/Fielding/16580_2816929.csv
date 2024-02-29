@@ -1,0 +1,12 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,2,3,0,0,0,0,0,1,0,02/02/2024,home,16580,0,Simpson (CA),9,True,14,1,13,win,4524928,645,2816929,2024,2
+6,3,9,0,0,0,0,2,0,0,02/02/2024,home,16580,0,Simpson (CA),9,True,2,0,2,win,5015938,645,2816929,2024,2
+6,2,8,0,0,0,1,1,0,0,02/03/2024,home,16580,0,Simpson (CA),9,True,3,2,1,win,4524999,645,2816929,2024,2
+1,2,3,0,0,0,0,0,0,0,02/03/2024,home,16580,0,Simpson (CA),9,True,7,5,2,win,4544751,645,2816929,2024,2
+0,0,1,1,0,0,0,0,0,0,02/13/2024,away,16580,405,Menlo,9,True,9,18,-9,loss,4525418,645,2816929,2024,2
+2,2,4,0,0,0,0,0,1,0,02/16/2024,away,16580,30147,Fresno Pacific,9,True,1,10,-9,loss,4525798,645,2816929,2024,2
+0,1,1,0,0,0,0,0,0,0,02/16/2024,away,16580,30147,Fresno Pacific,9,True,6,5,1,win,4544935,645,2816929,2024,2
+1,1,2,0,0,0,0,0,0,0,02/17/2024,away,16580,30147,Fresno Pacific,9,True,4,5,-1,loss,4525500,645,2816929,2024,2
+0,1,1,0,0,0,0,0,0,0,02/24/2024,home,16580,30055,Cal St. Monterey Bay,9,True,4,15,-11,loss,4543491,645,2816929,2024,2
+2,2,4,0,0,0,0,0,0,0,02/25/2024,home,16580,30055,Cal St. Monterey Bay,9,True,2,4,-2,loss,5249704,645,2816929,2024,2
+3,0,3,0,0,0,1,0,0,0,02/25/2024,home,16580,30055,Cal St. Monterey Bay,9,True,5,4,1,win,5249748,645,2816929,2024,2

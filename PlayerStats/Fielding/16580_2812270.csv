@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+7,0,7,0,0,0,0,0,0,0,02/19/2024,neutral,16580,591,Saginaw Valley,9,True,6,21,-15,loss,5246756,1079,2812270,2024,2
+1,1,2,0,0,0,0,0,0,0,02/23/2024,away,16580,1462,Wingate,9,True,3,6,-3,loss,4526713,1079,2812270,2024,2
+7,0,7,0,0,0,0,0,0,0,02/24/2024,away,16580,1462,Wingate,9,True,6,8,-2,loss,4527114,1079,2812270,2024,2
+10,0,10,0,0,0,0,0,0,0,02/27/2024,away,16580,13028,Anderson (SC),9,True,8,20,-12,loss,4527601,1079,2812270,2024,2

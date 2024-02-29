@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,2,4,0,0,0,0,0,1,0,02/03/2024,home,16580,332,Kentucky St.,9,True,6,12,-6,loss,4544920,445,2963949,2024,2
+3,2,5,0,0,0,0,0,1,0,02/17/2024,home,16580,720,Tuskegee,9,True,16,4,12,win,5246385,445,2963949,2024,2
+2,1,3,0,0,0,0,0,0,0,02/18/2024,home,16580,720,Tuskegee,9,True,6,2,4,win,5246386,445,2963949,2024,2
+1,1,2,0,0,0,0,0,0,0,02/18/2024,home,16580,720,Tuskegee,9,True,6,7,-1,loss,5246387,445,2963949,2024,2
+2,0,2,0,0,0,0,0,0,0,02/24/2024,home,16580,30191,Spring Hill,9,True,3,7,-4,loss,4527115,445,2963949,2024,2

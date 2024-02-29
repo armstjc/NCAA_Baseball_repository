@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,02/02/2024,away,16580,996,Cameron,9,True,9,8,1,win,4524958,30177,2812940,2024,2
+1,0,1,0,0,0,0,0,0,0,02/03/2024,away,16580,996,Cameron,9,True,8,2,6,win,4544916,30177,2812940,2024,2
+2,0,2,0,0,0,0,0,0,0,02/10/2024,home,16580,30088,Tex. Permian Basin,10,True,10,14,-4,loss,4525398,30177,2812940,2024,2
+2,0,2,0,0,0,0,0,0,0,02/18/2024,away,16580,30028,UT Tyler,9,True,5,4,1,win,4526226,30177,2812940,2024,2
+1,0,1,0,0,0,0,0,0,0,02/24/2024,home,16580,30105,Ark.-Fort Smith,9,True,6,25,-19,loss,4544127,30177,2812940,2024,2
+2,0,2,0,0,0,0,0,0,0,02/25/2024,home,16580,30105,Ark.-Fort Smith,9,True,11,10,1,win,4527433,30177,2812940,2024,2

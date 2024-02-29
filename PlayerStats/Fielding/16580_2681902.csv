@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+6,0,6,0,0,0,0,0,0,0,02/09/2024,away,16580,1059,D'Youville,9,True,5,9,-4,loss,5015860,143,2681902,2024,2
+12,0,12,0,0,2,0,0,0,0,02/16/2024,away,16580,1098,Glenville St.,9,True,9,2,7,win,5245935,143,2681902,2024,2
+7,1,8,0,0,1,4,1,0,0,02/18/2024,away,16580,1098,Glenville St.,9,True,4,5,-1,loss,5246367,143,2681902,2024,2
+5,0,5,0,0,0,0,0,0,0,02/23/2024,neutral,16580,339,Kutztown,9,True,4,14,-10,loss,5249356,143,2681902,2024,2
+10,0,10,0,0,0,3,0,0,0,02/24/2024,neutral,16580,243,Frostburg St.,10,True,5,6,-1,loss,4527127,143,2681902,2024,2

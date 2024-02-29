@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+8,0,8,0,0,0,1,0,0,0,02/03/2024,home,16580,216,Emory & Henry,9,True,10,0,10,win,4544915,1097,2946834,2024,2
+8,0,8,0,0,0,2,0,0,0,02/10/2024,home,16580,233,Fla. Southern,9,True,4,3,1,win,4525388,1097,2946834,2024,2
+8,0,8,0,0,0,2,0,0,0,02/13/2024,away,16580,30093,AUM,9,True,13,14,-1,loss,4525437,1097,2946834,2024,2
+6,0,6,0,0,0,0,0,0,0,02/18/2024,home,16580,11403,Colo. Christian,9,True,11,10,1,win,4526158,1097,2946834,2024,2
+15,0,16,1,1,0,0,1,0,0,02/23/2024,home,16580,309,UIndy,9,True,5,1,4,win,4526740,1097,2946834,2024,2
+10,0,11,1,1,0,0,0,0,0,02/27/2024,away,16580,1238,Montevallo,9,True,10,2,8,win,4527619,1097,2946834,2024,2

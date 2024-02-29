@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,3,0,0,0,0,0,0,0,02/02/2024,away,16580,30151,Shorter,9,True,7,13,-6,loss,4524950,422,2826235,2024,2
+2,0,2,0,0,0,0,0,0,0,02/03/2024,away,16580,30151,Shorter,9,True,6,7,-1,loss,4544905,422,2826235,2024,2
+1,0,1,0,0,0,0,0,0,0,02/09/2024,away,16580,429,Mississippi Col.,9,True,0,6,-6,loss,5067742,422,2826235,2024,2
+1,0,1,0,0,0,0,0,0,0,02/09/2024,away,16580,429,Mississippi Col.,9,True,5,21,-16,loss,5067778,422,2826235,2024,2
+4,0,4,0,0,0,0,0,0,0,02/14/2024,away,16580,10,Alabama Huntsville,9,True,4,6,-2,loss,4525423,422,2826235,2024,2
+1,0,1,0,0,0,0,0,0,0,02/23/2024,away,16580,13,Albany St. (GA),9,True,1,11,-10,loss,4526565,422,2826235,2024,2
+2,0,2,0,0,0,0,0,0,0,02/24/2024,away,16580,13,Albany St. (GA),9,True,5,8,-3,loss,4526912,422,2826235,2024,2
+3,0,3,0,0,0,0,0,0,0,02/24/2024,away,16580,13,Albany St. (GA),9,True,9,4,5,win,4543614,422,2826235,2024,2
+4,0,4,0,0,0,0,0,0,0,02/28/2024,away,16580,1015,Christian Brothers,9,True,7,12,-5,loss,4527669,422,2826235,2024,2

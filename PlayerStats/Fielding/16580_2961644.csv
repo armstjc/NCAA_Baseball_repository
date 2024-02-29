@@ -1,0 +1,10 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,3,1,0,0,0,0,0,0,02/03/2024,home,16580,743,Virginia St.,9,True,2,12,-10,loss,4525034,144,2961644,2024,2
+0,2,2,0,0,0,0,0,0,0,02/03/2024,home,16580,743,Virginia St.,9,True,2,7,-5,loss,4544910,144,2961644,2024,2
+1,0,2,1,0,0,0,0,0,0,02/06/2024,home,16580,0,Stillman,9,True,4,3,1,win,4525127,144,2961644,2024,2
+1,2,3,0,0,0,0,0,0,0,02/09/2024,home,16580,0,Wilberforce,10,True,9,14,-5,loss,4525344,144,2961644,2024,2
+2,0,2,0,0,0,0,0,0,0,02/10/2024,home,16580,0,Southeastern Bapt.,9,True,1,6,-5,loss,4525193,144,2961644,2024,2
+2,1,3,0,0,0,0,0,0,0,02/16/2024,home,16580,422,Miles,9,True,5,13,-8,loss,4525649,144,2961644,2024,2
+0,3,4,1,0,0,0,0,0,0,02/17/2024,home,16580,422,Miles,9,True,7,14,-7,loss,4525947,144,2961644,2024,2
+0,3,4,1,0,0,0,0,0,0,02/20/2024,away,16580,30151,Shorter,9,True,2,12,-10,loss,4526346,144,2961644,2024,2
+1,2,3,0,0,0,0,0,0,0,02/24/2024,home,16580,332,Kentucky St.,9,True,2,16,-14,loss,4527122,144,2961644,2024,2

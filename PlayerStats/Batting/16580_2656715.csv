@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/02/2024,home,16580,30093,AUM,9,True,10,2,8,win,4524933,608,2656715,2024,2
+0,4,1,0,0,1,0,2,0,0,0,0,1,0,0,0,0,0,0,02/03/2024,home,16580,30093,AUM,8,True,3,13,-10,loss,5015985,608,2656715,2024,2
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/10/2024,away,16580,30092,Flagler,9,True,5,0,5,win,4525313,608,2656715,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/16/2024,home,16580,30259,USC Beaufort,9,True,9,1,8,win,5245899,608,2656715,2024,2
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/23/2024,away,16580,30045,Palm Beach Atl.,9,True,14,4,10,win,4526498,608,2656715,2024,2

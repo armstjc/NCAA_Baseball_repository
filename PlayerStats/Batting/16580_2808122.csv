@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,2,0,1,4,0,1,0,0,0,0,2,0,0,0,0,0,0,02/16/2024,neutral,16580,23157,Felician,9,True,6,3,3,win,4525641,437,2808122,2024,2
+0,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2024,neutral,16580,423,Millersville,9,True,6,3,3,win,4525880,437,2808122,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2024,neutral,16580,36,Assumption,9,True,26,12,14,win,4526154,437,2808122,2024,2
+0,5,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,02/23/2024,neutral,16580,74,Bridgeport,9,True,8,6,2,win,5249336,437,2808122,2024,2
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/24/2024,neutral,16580,21323,Chestnut Hill,9,True,16,12,4,win,4526994,437,2808122,2024,2

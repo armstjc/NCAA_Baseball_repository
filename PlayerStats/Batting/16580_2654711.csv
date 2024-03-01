@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/09/2024,away,16580,30055,Cal St. Monterey Bay,9,True,8,13,-5,loss,4525181,30149,2654711,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/10/2024,away,16580,30055,Cal St. Monterey Bay,9,True,11,0,11,win,4525277,30149,2654711,2024,2
+1,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2024,home,16580,9754,UC-Colo. Springs,9,True,9,7,2,win,4525866,30149,2654711,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,away,16580,30147,Fresno Pacific,9,True,16,3,13,win,4543484,30149,2654711,2024,2

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,02/02/2024,away,16580,49,Barry,9,True,5,1,4,win,4524981,9223,2330767,2024,2
+0,0,0,0,0,0,2,0,0,0,02/09/2024,home,16580,30259,USC Beaufort,9,True,8,1,7,win,4525216,9223,2330767,2024,2
+1,0,1,0,0,0,0,0,0,0,02/16/2024,home,16580,1318,Post,9,True,12,11,1,win,4525892,9223,2330767,2024,2
+0,1,1,0,0,0,0,0,0,0,02/23/2024,home,16580,30051,King (TN),9,True,7,1,6,win,4526689,9223,2330767,2024,2

@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,1,0,0,1,0,2,1,0,0,0,1,0,0,0,0,0,0,02/03/2024,neutral,16580,2697,Hawaii Hilo,9,True,12,6,6,win,4524943,98,2959621,2024,2
+1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,02/03/2024,neutral,16580,2697,Hawaii Hilo,9,True,27,3,24,win,4525017,98,2959621,2024,2
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/04/2024,neutral,16580,2696,Hawaii Pacific,9,True,4,13,-9,loss,4525069,98,2959621,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/04/2024,away,16580,133,Chaminade,9,True,8,5,3,win,4524914,98,2959621,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/10/2024,away,16580,405,Menlo,9,True,11,8,3,win,4525252,98,2959621,2024,2

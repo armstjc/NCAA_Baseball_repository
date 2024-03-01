@@ -1,12 +1,13 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Angus, Nick","Sr","2320633",2024,"49","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2320633",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Appino, Joey","So","2815512",2024,"1","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2815512",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
-"Becker, Bennet","Sr","2518743",2024,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2518743",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Becker, Evan","So","2816445",2024,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2816445",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
+"Becker, Bennet","Sr","2518743",2024,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2518743",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Buskohl, Andy","So","2816515",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2816515",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Buzzelli, Brett","Sr","2508465",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2508465",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Cacini, Cole","Fr",NA,2024,"43","P",NA,120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Clark, Nathan","Fr",NA,2024,"35","C",NA,120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
+"Crick, N.","N/A","2978275",2024,"35","c","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2978275",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Dunlavy, Connor","Jr","2667374",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2667374",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Eckrote, Dylan","Fr","2959411",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2959411",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Ferko, Brody","So","2816446",2024,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2816446",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
@@ -17,8 +18,8 @@
 "Hurt Haller, Ben","So","2815563",2024,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2815563",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Jaschinski, Erik","So","2816572",2024,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2816572",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Kalinowski, Daniel","Sr","2508469",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2508469",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
-"LaMack, Brady","Jr","2667386",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2667386",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "LaMack, Tanner","Fr",NA,2024,"50","INF",NA,120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
+"LaMack, Brady","Jr","2667386",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2667386",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Lamberson, Dalen","So","2816573",2024,"23","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2816573",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Lee, Gabe","So","2816560",2024,"17","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2816560",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Leonard, Adam","Sr",NA,2024,"55","OF",NA,120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
@@ -26,9 +27,9 @@
 "Maguire, Roman","Jr","2667309",2024,"7","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2667309",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Matuga, Leo","Fr","2959385",2024,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2959385",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Menge, Ben","Fr",NA,2024,"40","P",NA,120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
-"Meyer, Noah","Fr","2959404",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2959404",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Meyer, Jack","Fr",NA,2024,"31","INF",NA,120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Meyer, Brody","Jr","2667358",2024,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2667358",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
+"Meyer, Noah","Fr","2959404",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2959404",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Mir, Casey","Sr","2320632",2024,"33","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2320632",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Molisee, Collin","Jr","2667355",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2667355",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580
 "Nolen, Connor","Sr","2508467",2024,"28","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=120&stats_player_seq=2508467",120,"Carroll (WI)","/team/120/16580",836,"CCIW",3,2024,16580

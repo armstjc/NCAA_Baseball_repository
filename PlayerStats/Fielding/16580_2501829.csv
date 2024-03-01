@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,4,1,0,0,0,0,0,0,02/17/2024,away,16580,15646,Barton,9,True,3,13,-10,loss,4525819,65,2501829,2024,2
+1,0,1,0,0,0,0,0,0,0,02/17/2024,away,16580,15646,Barton,9,True,9,11,-2,loss,4545058,65,2501829,2024,2
+0,1,1,0,0,0,0,0,0,0,02/18/2024,away,16580,15646,Barton,9,True,5,15,-10,loss,4526100,65,2501829,2024,2

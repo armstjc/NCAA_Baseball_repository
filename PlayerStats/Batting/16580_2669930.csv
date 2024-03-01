@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/02/2024,home,16580,0,Simpson (CA),9,True,14,1,13,win,4524928,645,2669930,2024,2
+1,3,2,0,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,02/02/2024,home,16580,0,Simpson (CA),9,True,2,0,2,win,5015938,645,2669930,2024,2
+1,3,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,02/03/2024,home,16580,0,Simpson (CA),9,True,7,5,2,win,4544751,645,2669930,2024,2
+0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,02/13/2024,away,16580,405,Menlo,9,True,9,18,-9,loss,4525418,645,2669930,2024,2
+0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,02/16/2024,away,16580,30147,Fresno Pacific,9,True,1,10,-9,loss,4525798,645,2669930,2024,2
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,home,16580,30055,Cal St. Monterey Bay,9,True,8,13,-5,loss,4526877,645,2669930,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,home,16580,30055,Cal St. Monterey Bay,9,True,4,15,-11,loss,4543491,645,2669930,2024,2

@@ -1,0 +1,9 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,02/03/2024,away,16580,1085,Francis Marion,9,True,6,7,-1,loss,4525028,1257,2962015,2024,2
+1,1,2,0,0,0,0,0,0,0,02/04/2024,home,16580,1085,Francis Marion,9,True,4,2,2,win,4525105,1257,2962015,2024,2
+2,0,2,0,0,0,0,0,0,0,02/11/2024,away,16580,689,Tampa,9,True,2,12,-10,loss,4525370,1257,2962015,2024,2
+4,6,10,0,0,0,0,0,2,0,02/14/2024,home,16580,1001,Catawba,9,True,9,7,2,win,4525447,1257,2962015,2024,2
+1,1,2,0,0,0,0,0,1,0,02/16/2024,home,16580,1462,Wingate,9,True,3,11,-8,loss,4525508,1257,2962015,2024,2
+1,0,1,0,0,0,0,0,0,0,02/17/2024,home,16580,1462,Wingate,9,True,7,13,-6,loss,4525803,1257,2962015,2024,2
+1,2,3,0,0,0,0,0,1,0,02/20/2024,away,16580,9223,North Greenville,9,True,5,3,2,win,4526371,1257,2962015,2024,2
+2,0,4,2,0,0,0,0,0,0,02/24/2024,away,16580,1000,Carson-Newman,9,True,16,11,5,win,4527034,1257,2962015,2024,2

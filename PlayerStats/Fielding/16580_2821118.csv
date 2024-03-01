@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,02/02/2024,home,16580,1116,Harding,9,True,9,17,-8,loss,5015927,181,2821118,2024,2
+0,3,3,0,0,0,0,0,0,0,02/09/2024,away,16580,30191,Spring Hill,9,True,6,0,6,win,4525314,181,2821118,2024,2
+1,2,3,0,0,0,0,0,0,0,02/16/2024,home,16580,20794,Lynn,9,True,10,5,5,win,4525677,181,2821118,2024,2
+0,1,1,0,0,0,0,0,0,0,02/23/2024,away,16580,30153,Union (TN),9,True,11,7,4,win,4526505,181,2821118,2024,2

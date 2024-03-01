@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,4.0,0.0,2,0,0,3,5,0,17,14,0,0,0,0,1,0,0,0,0,0,0,85,1,6,0,0,0,1,1,0,02/01/2024,home,16580,1462,Wingate,9,True,0,5,-5,loss,4524916,49,2656219,2024,2
+1,1,5.1,0.0,2,2,2,3,6,0,21,18,0,0,0,1,0,0,0,0,0,0,0,87,4,6,0,0,0,1,3,0,02/09/2024,home,16580,1245,Mount Olive,9,True,3,8,-5,loss,4525232,49,2656219,2024,2
+1,1,6.0,0.0,6,3,2,3,9,0,26,23,1,0,0,0,1,0,1,0,0,0,0,91,2,6,1,0,0,1,3,0,02/16/2024,home,16580,243,Frostburg St.,9,True,7,3,4,win,4525680,49,2656219,2024,2
+1,1,7.0,0.0,3,1,1,3,9,0,27,24,0,1,0,0,0,0,0,0,0,0,0,112,2,9,1,0,0,1,3,0,02/23/2024,home,16580,233,Fla. Southern,9,True,7,1,6,win,4526731,49,2656219,2024,2

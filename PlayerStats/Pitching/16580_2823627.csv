@@ -1,0 +1,4 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,1.1,0.0,1,0,0,3,0,0,6,3,0,0,0,0,1,0,0,0,0,0,0,24,0,2,0,0,0,1,0,0,02/06/2024,home,16580,766,West Ga.,9,True,14,5,9,win,4525130,1096,2823627,2024,2
+1,0,1.0,0.0,1,2,2,1,1,0,5,3,0,0,0,0,0,1,0,0,0,0,0,16,1,0,0,0,0,6,1,0,02/18/2024,home,16580,689,Tampa,9,True,1,10,-9,loss,4526175,1096,2823627,2024,2
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,1,1,0,0,0,6,0,0,02/28/2024,neutral,16580,1245,Mount Olive,9,True,11,7,4,win,4527688,1096,2823627,2024,2

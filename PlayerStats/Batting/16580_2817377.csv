@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/02/2024,away,16580,1085,Francis Marion,13,True,9,11,-2,loss,4524970,1257,2817377,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/09/2024,away,16580,689,Tampa,9,True,1,8,-7,loss,4525234,1257,2817377,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/10/2024,away,16580,689,Tampa,9,True,2,24,-22,loss,4525340,1257,2817377,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/16/2024,home,16580,1462,Wingate,9,True,3,11,-8,loss,4525508,1257,2817377,2024,2
+2,3,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,02/20/2024,away,16580,9223,North Greenville,9,True,5,3,2,win,4526371,1257,2817377,2024,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2024,away,16580,1000,Carson-Newman,11,True,5,6,-1,loss,4526648,1257,2817377,2024,2
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/24/2024,away,16580,1000,Carson-Newman,9,True,0,2,-2,loss,4543974,1257,2817377,2024,2

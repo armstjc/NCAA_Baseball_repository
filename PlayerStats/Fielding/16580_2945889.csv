@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,3,1,0,0,0,0,0,0,02/02/2024,neutral,16580,598,St. Cloud St.,9,True,11,21,-10,loss,4524949,468,2945889,2024,2
+2,1,3,0,0,0,0,0,0,0,02/24/2024,neutral,16580,675,Staten Island,9,True,20,6,14,win,4527134,468,2945889,2024,2
+1,1,3,1,0,0,0,0,0,0,02/24/2024,neutral,16580,675,Staten Island,9,True,3,4,-1,loss,4544270,468,2945889,2024,2

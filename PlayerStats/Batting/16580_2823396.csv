@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,02/10/2024,away,16580,39,Augusta,9,True,3,17,-14,loss,5245146,333,2823396,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/19/2024,home,16580,436,Mo.-St. Louis,9,True,4,7,-3,loss,4525588,333,2823396,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/25/2024,home,16580,30222,Purdue Northwest,9,True,1,4,-3,loss,4527247,333,2823396,2024,2

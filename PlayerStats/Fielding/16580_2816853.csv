@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+2,0,2,0,0,0,0,0,0,0,02/10/2024,neutral,16580,197,East Stroudsburg,9,True,9,10,-1,loss,4525276,23157,2816853,2024,2
+2,0,2,0,0,0,0,0,0,0,02/16/2024,neutral,16580,437,Molloy,9,True,3,6,-3,loss,4525641,23157,2816853,2024,2
+2,0,2,0,0,0,0,0,0,0,02/18/2024,home,16580,423,Millersville,9,True,1,15,-14,loss,4526246,23157,2816853,2024,2
+2,0,2,0,0,0,0,0,0,0,02/22/2024,home,16580,468,Southern N.H.,9,True,3,10,-7,loss,4526449,23157,2816853,2024,2

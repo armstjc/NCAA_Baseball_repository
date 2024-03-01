@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,02/03/2024,neutral,16580,1274,Northwest Nazarene,9,True,8,4,4,win,4525010,30149,2460308,2024,2
+1,0,1,0,0,0,0,0,0,0,02/10/2024,away,16580,30055,Cal St. Monterey Bay,9,True,11,0,11,win,4525277,30149,2460308,2024,2
+1,1,2,0,0,0,0,0,0,0,02/16/2024,home,16580,9754,UC-Colo. Springs,9,True,5,3,2,win,4525586,30149,2460308,2024,2

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,3,0,0,0,02/03/2024,home,16580,30192,Southern Wesleyan,12,True,4,5,-1,loss,4525035,30013,2657455,2024,2
+0,1,1,0,0,0,2,0,0,0,02/10/2024,home,16580,1199,Mars Hill,9,True,4,5,-1,loss,5245101,30013,2657455,2024,2
+0,1,1,0,0,0,4,0,0,0,02/17/2024,away,16580,30151,Shorter,9,True,4,6,-2,loss,4525909,30013,2657455,2024,2
+0,2,2,0,0,0,1,0,0,0,02/24/2024,home,16580,734,Valdosta St.,9,True,10,5,5,win,4527064,30013,2657455,2024,2

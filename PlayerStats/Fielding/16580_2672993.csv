@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,0,0,0,0,1,0,0,0,02/03/2024,neutral,16580,9012,Mo. Southern St.,9,True,6,10,-4,loss,4525006,8411,2672993,2024,2
+0,0,0,0,0,0,2,0,0,0,02/18/2024,home,16580,8965,East Central,9,True,14,0,14,win,5246322,8411,2672993,2024,2
+0,0,0,0,0,0,3,0,0,0,02/24/2024,away,16580,1371,Southeastern Okla.,9,True,11,10,1,win,4527028,8411,2672993,2024,2

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,1,1,0,0,4,0,0,0,02/03/2024,home,16580,1001,Catawba,9,True,6,3,3,win,4525027,49,2804505,2024,2
+0,1,1,0,0,0,0,0,0,0,02/11/2024,home,16580,56,Bentley,9,True,11,1,10,win,4525348,49,2804505,2024,2
+1,1,3,1,0,0,2,0,0,0,02/17/2024,home,16580,243,Frostburg St.,9,True,12,9,3,win,4542798,49,2804505,2024,2
+0,1,1,0,0,0,6,0,0,0,02/24/2024,home,16580,233,Fla. Southern,9,True,4,10,-6,loss,4544115,49,2804505,2024,2

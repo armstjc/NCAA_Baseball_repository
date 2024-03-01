@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+8,1,9,0,0,0,2,0,0,0,02/09/2024,away,16580,8490,LeTourneau,9,True,17,8,9,win,4543146,426,2795621,2024,3
+3,0,3,0,0,1,3,0,0,0,02/13/2024,home,16580,1130,Huntingdon,9,True,1,3,-2,loss,4525409,426,2795621,2024,3
+2,0,2,0,0,0,0,0,0,0,02/16/2024,home,16580,1066,Edgewood,9,True,3,2,1,win,4525477,426,2795621,2024,3
+7,2,10,1,0,0,4,0,0,0,02/17/2024,home,16580,1066,Edgewood,9,True,6,7,-1,loss,4525715,426,2795621,2024,3
+10,0,10,0,0,0,4,0,0,0,02/20/2024,home,16580,431,MUW,9,True,5,7,-2,loss,4526293,426,2795621,2024,3
+5,1,7,1,0,3,2,1,0,0,02/23/2024,home,16580,1450,Westminster (MO),9,True,3,2,1,win,4526477,426,2795621,2024,3

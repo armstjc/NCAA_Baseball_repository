@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/26/2024,away,16580,0,Hannibal-La Grange,9,True,1,14,-13,loss,4527468,1194,2839069,2024,3
+0,3,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,02/27/2024,away,16580,0,Hannibal-La Grange,9,True,0,23,-23,loss,5250197,1194,2839069,2024,3

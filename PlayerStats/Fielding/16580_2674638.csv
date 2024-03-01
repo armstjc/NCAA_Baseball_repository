@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/20/2024,home,16580,406,Mercer,9,True,3,9,-6,loss,4526303,1157,2674638,2024,1
 0,1,1,0,0,0,0,0,1,0,02/23/2024,away,16580,147,Clemson,9,True,18,1,17,win,4526537,1157,2674638,2024,1
+0,1,1,0,0,0,0,0,0,0,02/25/2024,away,16580,147,Clemson,9,True,2,7,-5,loss,4527239,1157,2674638,2024,1

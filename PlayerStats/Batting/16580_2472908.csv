@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,02/24/2024,away,16580,217,Emory,9,True,11,9,2,win,4526859,585,2472908,2024,3
+0,1,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,02/27/2024,neutral,16580,192,Dubuque,9,True,6,5,1,win,4527571,585,2472908,2024,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/28/2024,neutral,16580,443,Moravian,10,True,8,7,1,win,4527670,585,2472908,2024,3

@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,13,0,3,0,0,0,4,0,0,02/13/2024,home,16580,125,Centenary (LA),9,True,10,2,8,win,5250215,573,2937451,2024,3
+1,0,1.0,0.0,0,0,0,1,1,0,4,2,0,0,0,0,0,0,0,0,0,1,0,19,2,0,0,0,0,3,1,0,02/16/2024,home,16580,1111,Greenville,9,True,13,3,10,win,4525466,573,2937451,2024,3
+1,0,0.1,0.0,1,1,1,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,3,0,0,02/25/2024,home,16580,759,Webster,9,True,3,7,-4,loss,4527175,573,2937451,2024,3
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,1,0,0,0,0,0,0,0,0,0,0,14,1,1,0,0,0,6,1,0,02/27/2024,away,16580,30197,Belhaven,9,True,5,9,-4,loss,4527603,573,2937451,2024,3

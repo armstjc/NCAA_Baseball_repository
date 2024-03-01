@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/11/2024,away,16580,679,Stevens,9,True,0,6,-6,loss,4525368,480,2685242,2024,3
+0,1,1,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,02/11/2024,away,16580,679,Stevens,9,True,1,10,-9,loss,4543464,480,2685242,2024,3

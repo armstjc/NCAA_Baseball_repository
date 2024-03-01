@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,02/23/2024,neutral,16580,139,Chris. Newport,9,True,1,17,-16,loss,4526611,182,2799241,2024,3
+0,5,2,0,0,2,0,2,0,0,0,0,1,1,0,0,0,0,1,02/24/2024,neutral,16580,622,Salisbury,9,True,9,1,8,win,4527163,182,2799241,2024,3
+0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,02/25/2024,neutral,16580,168,Cortland,9,True,9,2,7,win,4527343,182,2799241,2024,3

@@ -1,0 +1,5 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,3,8,0,0,0,1,0,0,0,02/10/2024,home,16580,958,Clarks Summit,9,True,8,0,8,win,4856808,88,2326711,2024,3
+7,1,8,0,0,0,1,1,0,0,02/16/2024,home,16580,1305,Cairn,9,True,13,3,10,win,5245897,88,2326711,2024,3
+8,0,8,0,0,0,0,0,0,0,02/18/2024,home,16580,15882,Rosemont,9,True,14,2,12,win,5246317,88,2326711,2024,3
+10,1,11,0,0,0,2,1,0,0,02/26/2024,neutral,16580,8968,Eastern,9,True,7,1,6,win,4527470,88,2326711,2024,3

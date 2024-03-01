@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2024,away,16580,165,Coppin St.,8,True,9,6,3,win,5246297,169,2946179,2024,1
+1,2,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,neutral,16580,706,UTSA,9,True,4,1,3,win,4526943,169,2946179,2024,1

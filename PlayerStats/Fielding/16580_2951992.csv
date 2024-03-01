@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/16/2024,away,16580,698,TCU,9,True,9,10,-1,loss,4525695,28755,2951992,2024,1
+0,1,1,0,0,0,0,0,0,0,02/23/2024,home,16580,61,Bethune-Cookman,9,True,5,4,1,win,4526761,28755,2951992,2024,1
+0,0,0,0,0,0,1,0,0,0,02/25/2024,home,16580,61,Bethune-Cookman,9,True,1,5,-4,loss,4527438,28755,2951992,2024,1

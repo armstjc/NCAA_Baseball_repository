@@ -1,0 +1,7 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,0,1,1,0,0,0,0,0,0,02/16/2024,home,16580,12884,Centenary (NJ),11,True,4,7,-3,loss,4525651,752,2806977,2024,3
+2,0,2,0,0,0,0,0,0,0,02/17/2024,home,16580,12884,Centenary (NJ),9,True,8,2,6,win,4525969,752,2806977,2024,3
+4,0,4,0,0,0,0,0,0,0,02/18/2024,home,16580,12884,Centenary (NJ),9,True,5,4,1,win,4526174,752,2806977,2024,3
+1,0,1,0,0,0,0,0,0,0,02/20/2024,home,16580,30164,Southern Va.,9,True,5,7,-2,loss,4526372,752,2806977,2024,3
+1,0,1,0,0,0,0,0,0,0,02/23/2024,neutral,16580,973,Berry,9,True,4,7,-3,loss,4526690,752,2806977,2024,3
+1,0,1,0,0,0,0,0,0,0,02/25/2024,neutral,16580,685,Susquehanna,9,True,11,6,5,win,4527440,752,2806977,2024,3

@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,4,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,02/16/2024,home,16580,748,Wagner,9,True,10,3,7,win,4525654,457,2945302,2024,1
 1,2,1,0,0,4,1,2,0,0,0,0,0,1,0,0,0,0,1,02/18/2024,home,16580,748,Wagner,9,True,20,6,14,win,4526220,457,2945302,2024,1
+1,1,1,0,0,4,1,4,0,0,1,0,0,0,0,0,0,0,0,02/25/2024,away,16580,196,East Carolina,9,True,9,10,-1,loss,4527184,457,2945302,2024,1
+2,3,1,1,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,02/27/2024,home,16580,740,VCU,9,True,8,2,6,win,4527612,457,2945302,2024,1
+2,3,1,0,0,1,0,0,2,0,0,0,0,0,0,0,1,0,0,02/28/2024,home,16580,363,Longwood,9,True,12,3,9,win,4527695,457,2945302,2024,1

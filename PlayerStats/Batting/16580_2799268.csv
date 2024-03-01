@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,4,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,02/10/2024,away,16580,46,Baldwin Wallace,9,True,4,5,-1,loss,5245120,751,2799268,2024,3
+0,6,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,02/23/2024,home,16580,122,CWRU,13,True,7,10,-3,loss,5249335,751,2799268,2024,3
+1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2024,home,16580,122,CWRU,9,True,5,7,-2,loss,4527153,751,2799268,2024,3

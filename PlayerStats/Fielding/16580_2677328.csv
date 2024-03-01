@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,0,7,3,0,0,0,0,0,0,02/18/2024,away,16580,147,Clemson,9,True,7,11,-4,loss,4526085,812,2677328,2024,1
+1,0,1,0,0,0,0,0,0,0,02/24/2024,away,16580,28600,Lipscomb,9,True,8,17,-9,loss,4526816,812,2677328,2024,1
+1,0,1,0,0,0,0,0,0,0,02/27/2024,home,16580,140,Cincinnati,9,True,11,9,2,win,4527653,812,2677328,2024,1

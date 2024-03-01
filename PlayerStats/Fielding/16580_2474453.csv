@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,02/16/2024,away,16580,128,UCF,9,True,11,12,-1,loss,4525461,81,2474453,2024,1
 1,2,3,0,0,0,0,0,0,0,02/24/2024,away,16580,249,George Washington,9,True,4,12,-8,loss,4527051,81,2474453,2024,1
+1,2,3,0,0,0,0,0,0,0,02/27/2024,home,16580,682,Stonehill,9,True,3,5,-2,loss,5249288,81,2474453,2024,1

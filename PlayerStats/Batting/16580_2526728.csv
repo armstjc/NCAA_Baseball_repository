@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,02/24/2024,away,16580,23260,Spalding,9,True,7,4,3,win,4526774,531,2526728,2024,3
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,neutral,16580,807,Wooster,9,True,4,10,-6,loss,4527132,531,2526728,2024,3
+2,4,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,02/25/2024,neutral,16580,807,Wooster,9,True,10,4,6,win,4527384,531,2526728,2024,3

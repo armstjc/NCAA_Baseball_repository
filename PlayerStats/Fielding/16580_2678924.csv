@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,02/16/2024,home,16580,519,Ohio,9,True,7,15,-8,loss,4525514,28600,2678924,2024,1
 0,0,0,0,0,0,1,0,0,0,02/20/2024,home,16580,772,Western Ky.,9,True,5,8,-3,loss,4526318,28600,2678924,2024,1
+0,0,0,0,0,0,2,0,0,0,02/27/2024,away,16580,419,Middle Tenn.,9,True,7,3,4,win,4527510,28600,2678924,2024,1

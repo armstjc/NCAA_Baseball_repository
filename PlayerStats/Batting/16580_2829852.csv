@@ -1,0 +1,6 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,02/10/2024,away,16580,88,Cabrini,9,True,0,8,-8,loss,4856808,958,2829852,2024,3
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/16/2024,away,16580,8968,Eastern,9,True,2,5,-3,loss,4525850,958,2829852,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/16/2024,away,16580,8968,Eastern,9,True,0,6,-6,loss,4545069,958,2829852,2024,3
+0,2,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,02/21/2024,away,16580,761,Wells,9,True,2,16,-14,loss,4526414,958,2829852,2024,3
+2,4,2,0,1,4,0,3,1,1,0,0,0,0,0,0,1,0,0,02/27/2024,home,16580,0,Penn St.-Scranton,9,True,12,11,1,win,4527511,958,2829852,2024,3

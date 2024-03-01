@@ -1,0 +1,5 @@
+App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1.0,0.0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,2,0,0,0,0,5,0,0,02/03/2024,home,16580,0,Providence Christian,9,True,12,4,8,win,4544753,516,2667016,2024,3
+1,0,1.2,0.0,0,0,0,0,1,0,5,4,0,0,0,0,0,1,0,0,0,0,0,21,2,1,1,0,0,3,0,1,02/11/2024,home,16580,0,La Sierra,9,True,7,6,1,win,4525366,516,2667016,2024,3
+1,0,1.0,0.0,0,0,0,0,1,0,5,3,0,0,0,0,1,2,0,0,0,0,0,15,2,0,0,0,0,6,1,0,02/11/2024,home,16580,0,La Sierra,9,True,7,8,-1,loss,4543463,516,2667016,2024,3
+1,1,6.2,0.0,5,6,4,2,2,0,33,24,1,0,1,1,0,5,0,0,0,2,0,94,8,8,0,1,0,1,0,0,02/17/2024,home,16580,1454,Whitworth,9,True,1,6,-5,loss,4545052,516,2667016,2024,3

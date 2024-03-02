@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,02/24/2024,home,16580,30055,Cal St. Monterey Bay,9,True,8,13,-5,loss,4526877,645,2816921,2024,2
 0,1,2,1,0,0,0,0,0,0,02/25/2024,home,16580,30055,Cal St. Monterey Bay,9,True,2,4,-2,loss,5249704,645,2816921,2024,2
 1,2,3,0,0,0,0,0,0,0,02/25/2024,home,16580,30055,Cal St. Monterey Bay,9,True,5,4,1,win,5249748,645,2816921,2024,2
+0,2,3,1,0,0,0,0,0,0,03/01/2024,away,16580,98,Cal St. East Bay,9,True,2,12,-10,loss,4527820,645,2816921,2024,2

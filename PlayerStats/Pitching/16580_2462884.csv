@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,2,0,0,02/14/2024,away,16580,1257,Newberry,9,True,7,9,-2,loss,4525447,1001,2462884,2024,2
 1,0,1.0,0.0,1,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,1,1,13,1,2,0,0,0,3,0,0,02/25/2024,away,16580,12830,Tusculum,9,True,2,4,-2,loss,5249706,1001,2462884,2024,2
+1,0,0.2,0.0,2,1,1,1,0,0,5,4,0,0,0,0,1,0,0,0,0,0,0,20,1,1,0,0,0,5,0,0,02/27/2024,home,16580,1257,Newberry,9,True,6,5,1,win,4527559,1001,2462884,2024,2

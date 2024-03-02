@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,2,6,0,0,0,0,0,0,0,02/23/2024,neutral,16580,388,Marshall,9,True,10,20,-10,loss,4780662,416,2957268,2024,1
 4,2,6,0,0,0,0,0,2,0,02/24/2024,neutral,16580,388,Marshall,9,True,6,2,4,win,4780663,416,2957268,2024,1
+1,2,3,0,0,0,0,0,0,0,02/28/2024,away,16580,257,Georgia,9,True,19,6,13,win,4780664,416,2957268,2024,1

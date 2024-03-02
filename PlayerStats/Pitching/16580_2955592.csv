@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,4.0,0.0,3,5,4,3,3,0,20,14,0,0,1,0,2,1,0,0,0,1,1,89,3,6,0,0,0,1,1,0,02/03/2024,away,16580,1167,Lander,9,True,8,13,-5,loss,4524992,1072,2955592,2024,2
 1,1,5.0,0.0,3,0,0,0,8,0,20,19,1,0,0,0,0,1,0,0,0,0,0,79,4,3,1,0,0,1,2,0,02/09/2024,away,16580,24639,Nova Southeastern,9,True,6,0,6,win,4525159,1072,2955592,2024,2
+1,1,4.0,0.0,7,0,0,2,11,0,22,19,1,0,0,0,1,1,0,0,0,0,0,92,0,1,1,0,0,1,3,0,02/29/2024,home,16580,30051,King (TN),9,True,17,0,17,win,4527790,1072,2955592,2024,2

@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 4,1,5,0,0,0,0,0,0,0,02/23/2024,home,16580,0,Wright St.-Lake,11,True,4,3,1,win,4526573,431,2676410,2024,3
 1,2,3,0,0,0,0,0,0,0,02/24/2024,home,16580,0,Wright St.-Lake,9,True,10,6,4,win,4526786,431,2676410,2024,3
 2,1,4,1,0,0,0,0,0,0,02/24/2024,home,16580,0,Wright St.-Lake,9,True,9,13,-4,loss,4545073,431,2676410,2024,3
+3,2,5,0,0,0,0,0,0,0,02/29/2024,neutral,16580,1066,Edgewood,9,True,8,13,-5,loss,4527850,431,2676410,2024,3

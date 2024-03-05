@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 6,0,6,0,0,0,0,0,1,0,02/27/2024,away,16580,288,Houston,9,True,8,7,1,win,4527637,706,2829466,2024,1
+3,1,4,0,0,0,0,0,0,0,03/01/2024,home,16580,1104,Grand Canyon,9,True,12,0,12,win,4527972,706,2829466,2024,1
+9,0,9,0,0,0,0,0,0,0,03/02/2024,home,16580,1104,Grand Canyon,9,True,7,9,-2,loss,4528301,706,2829466,2024,1
+7,1,10,2,0,0,0,0,1,0,03/03/2024,home,16580,1104,Grand Canyon,9,True,10,9,1,win,4528602,706,2829466,2024,1

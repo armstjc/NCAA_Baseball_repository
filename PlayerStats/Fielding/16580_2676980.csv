@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,02/24/2024,neutral,16580,121,Carthage,9,True,9,1,8,win,5246806,265,2676980,2024,3
 1,0,1,0,0,0,0,0,0,0,02/26/2024,neutral,16580,192,Dubuque,9,True,7,9,-2,loss,4527469,265,2676980,2024,3
+3,0,3,0,0,0,0,0,0,0,03/01/2024,neutral,16580,585,Rose-Hulman,9,True,8,2,6,win,4544394,265,2676980,2024,3

@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/17/2024,neutral,16580,463,Nebraska,9,True,6,3,3,win,4493159,700,2656402,2024,1
 4,0,4,0,0,0,0,0,0,0,02/21/2024,neutral,16580,528,Oregon St.,9,True,4,10,-6,loss,4526429,700,2656402,2024,1
+2,0,2,0,0,0,0,0,0,0,03/01/2024,home,16580,1092,Gardner-Webb,9,True,10,7,3,win,4527770,700,2656402,2024,1
+2,0,2,0,0,0,0,0,0,0,03/03/2024,home,16580,1092,Gardner-Webb,9,True,9,5,4,win,4528448,700,2656402,2024,1

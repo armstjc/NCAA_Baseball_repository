@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,3,0,0,0,0,0,1,0,02/20/2024,home,16580,141,The Citadel,9,True,4,15,-11,loss,4526376,48,2667311,2024,1
+1,1,2,0,0,0,0,0,0,0,03/02/2024,home,16580,587,Rutgers,9,True,1,9,-8,loss,4780627,48,2667311,2024,1
+0,1,1,0,0,0,0,0,0,0,03/03/2024,home,16580,587,Rutgers,9,True,7,9,-2,loss,4780628,48,2667311,2024,1

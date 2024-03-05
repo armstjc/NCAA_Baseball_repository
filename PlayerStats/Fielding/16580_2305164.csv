@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,1,3,0,0,0,0,0,1,0,02/24/2024,home,16580,111,UC Riverside,9,True,6,2,4,win,4526819,30135,2305164,2024,1
+2,3,5,0,0,0,0,0,0,0,03/01/2024,home,16580,108,UC Davis,9,True,5,4,1,win,4528114,30135,2305164,2024,1
+3,4,7,0,0,0,0,0,1,0,03/03/2024,home,16580,108,UC Davis,9,True,5,10,-5,loss,4528464,30135,2305164,2024,1

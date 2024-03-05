@@ -1,2 +1,3 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,5.0,0.0,9,9,7,3,5,0,28,23,0,0,0,0,1,1,0,0,0,1,0,96,5,4,0,1,0,1,1,0,02/23/2024,away,16580,695,UT Martin,9,True,2,12,-10,loss,4526518,80,2655266,2024,1
+1,1,6.0,0.0,5,1,1,0,4,0,27,24,2,0,0,0,0,1,0,0,0,1,1,92,8,6,0,0,0,1,1,0,03/01/2024,away,16580,678,Stetson,9,True,2,7,-5,loss,4527795,80,2655266,2024,1

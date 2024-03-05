@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,3,0,0,0,0,0,0,0,02/16/2024,home,16580,370,LMU (CA),9,True,0,4,-4,loss,4525611,102,2488305,2024,1
 0,0,0,0,0,0,1,0,0,0,02/18/2024,home,16580,370,LMU (CA),9,True,9,8,1,win,4526218,102,2488305,2024,1
+0,0,0,0,0,0,1,0,0,0,03/01/2024,home,16580,428,Minnesota,9,True,7,5,2,win,4527783,102,2488305,2024,1

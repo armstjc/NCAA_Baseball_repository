@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 7,0,7,0,0,0,0,0,0,0,02/17/2024,neutral,16580,134,Chapman,9,True,0,4,-4,loss,4525837,23260,2681491,2024,3
 1,0,1,0,0,0,0,0,0,0,02/23/2024,neutral,16580,807,Wooster,9,True,11,8,3,win,4526464,23260,2681491,2024,3
+2,0,2,0,0,0,0,0,0,0,03/01/2024,home,16580,492,North Central (IL),9,True,14,5,9,win,4527741,23260,2681491,2024,3
+9,1,10,0,0,0,0,0,1,0,03/02/2024,home,16580,802,Wis.-Stevens Point,9,True,9,0,9,win,4528022,23260,2681491,2024,3
+5,0,5,0,0,0,0,0,0,0,03/03/2024,home,16580,182,Denison,9,True,6,11,-5,loss,4528727,23260,2681491,2024,3

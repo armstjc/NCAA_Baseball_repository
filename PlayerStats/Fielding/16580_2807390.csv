@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/16/2024,home,16580,140,Cincinnati,9,True,8,6,2,win,5245944,316,2807390,2024,1
 1,1,2,0,0,0,0,0,0,0,02/16/2024,home,16580,140,Cincinnati,9,True,11,3,8,win,5245945,316,2807390,2024,1
+2,0,2,0,0,0,0,0,0,0,03/02/2024,home,16580,47,Ball St.,9,True,2,9,-7,loss,4527828,316,2807390,2024,1
+1,2,3,0,0,0,0,0,1,0,03/02/2024,home,16580,47,Ball St.,9,True,9,10,-1,loss,4528091,316,2807390,2024,1

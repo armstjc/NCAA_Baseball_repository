@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,5,2,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,03/03/2024,away,16580,30083,SUNY Cobleskill,9,True,6,12,-6,loss,4528523,547,2509162,2024,3
+2,2,1,0,0,4,1,3,1,1,1,0,0,0,0,0,0,0,0,03/03/2024,away,16580,30083,SUNY Cobleskill,9,True,6,1,5,win,4544407,547,2509162,2024,3

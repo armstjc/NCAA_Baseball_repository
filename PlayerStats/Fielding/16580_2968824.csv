@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/16/2024,home,16580,72,Bradley,9,True,2,5,-3,loss,4525540,772,2968824,2024,1
 0,1,1,0,0,0,0,0,0,0,02/24/2024,home,16580,308,Purdue Fort Wayne,9,True,9,5,4,win,4543608,772,2968824,2024,1
+0,1,1,0,0,0,2,0,0,0,03/02/2024,home,16580,768,West Virginia,9,True,3,8,-5,loss,4528137,772,2968824,2024,1

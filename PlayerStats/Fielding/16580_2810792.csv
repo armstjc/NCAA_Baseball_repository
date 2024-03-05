@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/17/2024,neutral,16580,328,Kansas,9,True,13,6,7,win,4525836,302,2810792,2024,1
 0,0,0,0,0,0,1,0,0,0,02/24/2024,neutral,16580,287,Houston Christian,9,True,10,7,3,win,4526945,302,2810792,2024,1
+0,5,5,0,0,0,0,1,0,0,03/02/2024,away,16580,519,Ohio,9,True,2,3,-1,loss,4528359,302,2810792,2024,1

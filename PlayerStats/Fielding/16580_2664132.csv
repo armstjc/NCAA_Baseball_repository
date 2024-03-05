@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/24/2024,neutral,16580,641,Simpson,9,True,2,5,-3,loss,4526933,114,2664132,2024,3
 3,0,3,0,0,0,0,0,0,0,02/24/2024,neutral,16580,364,Loras,9,True,8,9,-1,loss,4526934,114,2664132,2024,3
+1,0,1,0,0,0,0,0,0,0,03/02/2024,neutral,16580,320,John Carroll,9,True,9,1,8,win,4543278,114,2664132,2024,3

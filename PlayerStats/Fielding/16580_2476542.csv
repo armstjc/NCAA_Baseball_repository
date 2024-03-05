@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,2,0,0,0,02/09/2024,home,16580,21,Alma,9,True,5,4,1,win,5067804,30111,2476542,2024,3
 2,0,2,0,0,0,1,0,0,0,02/17/2024,home,16580,496,North Park,9,True,12,1,11,win,4525793,30111,2476542,2024,3
+0,0,0,0,0,0,3,1,0,0,03/02/2024,away,16580,217,Emory,9,True,2,7,-5,loss,4528094,30111,2476542,2024,3

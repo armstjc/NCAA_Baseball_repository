@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,2,1,0,0,0,0,0,0,03/02/2024,home,16580,379,Me.-Farmington,9,True,13,0,13,win,4528153,69,2837940,2024,3
+0,2,2,0,0,0,0,0,0,0,03/02/2024,home,16580,379,Me.-Farmington,9,True,5,1,4,win,4543176,69,2837940,2024,3
+0,2,4,2,0,0,0,0,1,0,03/03/2024,home,16580,605,St. Joseph's (ME),9,True,9,13,-4,loss,4528513,69,2837940,2024,3

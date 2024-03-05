@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,02/24/2024,neutral,16580,641,Simpson,9,True,7,10,-3,loss,4527164,8911,2833826,2024,3
 3,0,3,0,0,0,0,0,0,0,02/25/2024,away,16580,64,Blackburn,9,True,9,16,-7,loss,4527292,8911,2833826,2024,3
+1,0,1,0,0,0,0,0,0,0,03/02/2024,neutral,16580,348,Lawrence,9,True,6,16,-10,loss,4528224,8911,2833826,2024,3
+1,0,1,0,0,0,0,0,0,0,03/02/2024,neutral,16580,212,Elmhurst,9,True,8,5,3,win,4528376,8911,2833826,2024,3

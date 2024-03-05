@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,3.0,0.0,3,1,1,0,7,0,12,12,2,0,0,0,0,0,0,0,0,0,0,40,1,1,0,0,1,2,1,0,02/16/2024,home,16580,251,Georgetown,9,True,5,2,3,win,4525683,1104,2940785,2024,1
 1,1,5.0,0.0,5,4,4,0,7,0,20,17,1,0,0,1,0,0,0,0,0,2,1,62,4,4,1,0,0,1,2,0,02/24/2024,home,16580,463,Nebraska,9,True,7,5,2,win,4493164,1104,2940785,2024,1
+1,1,2.0,0.0,5,4,3,2,3,0,15,12,1,0,0,0,0,1,0,0,0,0,0,50,3,0,0,0,0,1,1,0,03/03/2024,away,16580,706,UTSA,9,True,9,10,-1,loss,4528602,1104,2940785,2024,1

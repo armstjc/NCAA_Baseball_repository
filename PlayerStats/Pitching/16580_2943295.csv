@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2.2,0.0,5,5,5,2,1,0,15,11,2,0,0,0,0,0,0,0,0,1,1,48,2,5,0,1,0,1,1,0,02/09/2024,home,16580,217,Emory,9,True,2,11,-9,loss,5019366,973,2943295,2024,3
 1,1,4.0,0.0,2,0,0,4,3,0,19,13,1,0,0,0,0,1,0,0,0,1,0,62,4,5,1,0,0,1,1,0,02/18/2024,home,16580,542,Pfeiffer,9,True,10,1,9,win,4526180,973,2943295,2024,3
+1,1,4.0,0.0,6,1,1,2,4,0,18,16,0,0,0,0,1,0,0,0,0,0,0,62,2,4,1,0,0,1,1,0,03/03/2024,home,16580,263,Greensboro,9,True,14,4,10,win,5250947,973,2943295,2024,3

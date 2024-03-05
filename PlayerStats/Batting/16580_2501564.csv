@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,3,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,02/25/2024,neutral,16580,1192,Manchester,9,True,15,2,13,win,5247344,747,2501564,2024,3
 0,5,3,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,02/25/2024,neutral,16580,296,Benedictine (IL),9,True,7,17,-10,loss,4527345,747,2501564,2024,3
+3,5,4,0,0,4,0,3,1,0,0,0,0,0,0,0,1,0,0,03/03/2024,neutral,16580,531,Otterbein,10,True,22,8,14,win,4528722,747,2501564,2024,3
+1,4,1,0,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,03/04/2024,neutral,16580,385,Marietta,9,True,6,7,-1,loss,4528773,747,2501564,2024,3

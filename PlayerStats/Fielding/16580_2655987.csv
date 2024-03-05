@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 14,1,15,0,0,0,0,0,2,0,02/23/2024,neutral,16580,492,North Central (IL),9,True,7,6,1,win,4526593,759,2655987,2024,3
 1,2,3,0,0,0,0,0,0,0,02/24/2024,neutral,16580,2694,Franklin,9,True,7,1,6,win,4526974,759,2655987,2024,3
+0,1,2,1,0,0,0,0,0,0,03/01/2024,home,16580,798,Wis.-Oshkosh,9,True,1,11,-10,loss,4527933,759,2655987,2024,3
+5,1,6,0,0,0,0,0,0,0,03/02/2024,home,16580,496,North Park,10,True,3,2,1,win,4528202,759,2655987,2024,3
+3,2,6,1,0,0,0,0,2,0,03/02/2024,home,16580,798,Wis.-Oshkosh,9,True,8,3,5,win,4528400,759,2655987,2024,3

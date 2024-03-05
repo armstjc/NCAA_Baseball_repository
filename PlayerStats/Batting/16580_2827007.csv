@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,02/17/2024,away,16580,110,UCLA,9,True,3,10,-7,loss,4525754,260,2827007,2024,1
 0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/25/2024,away,16580,736,Vanderbilt,9,True,9,8,1,win,4527194,260,2827007,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/29/2024,away,16580,77,BYU,9,True,2,3,-1,loss,4527713,260,2827007,2024,1
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2024,away,16580,77,BYU,9,True,2,11,-9,loss,4528056,260,2827007,2024,1

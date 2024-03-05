@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 9,3,12,0,0,0,4,0,0,0,02/16/2024,home,16580,514,Oakland,9,True,0,5,-5,loss,4525618,610,2482559,2024,1
 4,0,4,0,0,0,0,0,0,0,02/24/2024,home,16580,30024,Utah Valley,9,True,4,9,-5,loss,4543818,610,2482559,2024,1
+8,1,9,0,0,0,0,0,0,0,03/02/2024,away,16580,1356,Seattle U,9,True,8,1,7,win,4528123,610,2482559,2024,1
+11,0,11,0,0,0,1,0,0,0,03/03/2024,away,16580,1356,Seattle U,9,True,15,4,11,win,4528477,610,2482559,2024,1

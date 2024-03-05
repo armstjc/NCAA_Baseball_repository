@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/18/2024,away,16580,287,Houston Christian,9,True,0,1,-1,loss,4526086,349,2829581,2024,2
 0,1,1,0,0,0,2,1,0,0,02/23/2024,away,16580,563,Radford,10,True,8,6,2,win,4526680,349,2829581,2024,2
+0,0,0,0,0,0,2,0,0,0,03/01/2024,away,16580,609,Saint Louis,9,True,6,5,1,win,4527962,349,2829581,2024,2

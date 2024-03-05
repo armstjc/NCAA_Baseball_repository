@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,0,0,0,0,0,03/02/2024,away,16580,28749,Transylvania,9,True,8,4,4,win,4528143,177,2829671,2024,3
+2,0,2,0,0,0,0,0,0,0,03/02/2024,away,16580,28749,Transylvania,9,True,3,6,-3,loss,4543021,177,2829671,2024,3

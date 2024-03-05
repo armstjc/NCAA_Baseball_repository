@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,0,0,0,02/10/2024,home,16580,8530,McMurry,9,True,2,9,-7,loss,4525279,567,2806811,2024,3
 0,1,1,0,0,0,0,0,0,0,02/24/2024,home,16580,105,Cal Lutheran,9,True,1,4,-3,loss,4526985,567,2806811,2024,3
+0,0,0,0,0,0,1,0,0,0,03/03/2024,home,16580,341,La Verne,9,True,10,17,-7,loss,4543291,567,2806811,2024,3

@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,02/24/2024,neutral,16580,278,Heidelberg,9,True,11,4,7,win,5249423,348,2686631,2024,3
+0,0,1,1,0,0,0,0,0,0,03/02/2024,neutral,16580,8911,Wis. Lutheran,9,True,16,6,10,win,4528224,348,2686631,2024,3
+1,0,1,0,0,0,0,0,0,0,03/02/2024,neutral,16580,525,Olivet,9,True,21,5,16,win,4528375,348,2686631,2024,3

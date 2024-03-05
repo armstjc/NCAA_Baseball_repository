@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+5,0,5,0,0,0,0,0,0,0,03/01/2024,home,16580,73,Brandeis,9,True,7,4,3,win,4527936,673,2674560,2024,3
+6,0,6,0,0,0,0,0,1,0,03/02/2024,home,16580,775,Western New Eng.,9,True,3,12,-9,loss,4543624,673,2674560,2024,3
+7,0,7,0,0,0,0,0,0,0,03/03/2024,home,16580,777,Westfield St.,9,True,10,1,9,win,4528628,673,2674560,2024,3

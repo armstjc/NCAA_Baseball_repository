@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/17/2024,home,16580,258,Gettysburg,9,True,11,17,-6,loss,4542638,44,2307244,2024,3
 2,2,2,1,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,02/21/2024,home,16580,0,Mid-Atlantic Christ.,9,True,4,6,-2,loss,4544572,44,2307244,2024,3
+0,4,1,1,0,2,0,1,1,0,0,0,1,0,0,0,0,0,0,02/29/2024,away,16580,542,Pfeiffer,9,True,6,11,-5,loss,4527708,44,2307244,2024,3

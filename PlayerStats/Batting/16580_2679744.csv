@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,neutral,16580,117,Capital,9,True,13,3,10,win,4526925,177,2679744,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/02/2024,away,16580,28749,Transylvania,9,True,3,6,-3,loss,4543021,177,2679744,2024,3
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/03/2024,away,16580,28749,Transylvania,9,True,5,11,-6,loss,4528497,177,2679744,2024,3

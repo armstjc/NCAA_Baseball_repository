@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,03/02/2024,away,16580,8687,Saint Joseph (CT),9,True,4,1,3,win,4528220,777,2684168,2024,3
+2,4,2,1,0,3,0,1,0,0,0,0,0,0,0,0,2,0,0,03/02/2024,away,16580,8687,Saint Joseph (CT),9,True,11,8,3,win,4543300,777,2684168,2024,3
+1,3,1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,away,16580,673,Springfield,9,True,1,10,-9,loss,4528628,777,2684168,2024,3
+0,4,2,1,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,away,16580,673,Springfield,9,True,4,2,2,win,4544769,777,2684168,2024,3

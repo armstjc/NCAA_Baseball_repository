@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,02/22/2024,away,16580,44,Averett,9,True,9,5,4,win,4526454,50,2524006,2024,3
 0,4,1,1,0,2,0,0,0,0,0,0,1,0,1,0,0,0,0,02/24/2024,neutral,16580,611,St. Mary's (MD),9,True,6,13,-7,loss,4527040,50,2524006,2024,3
+1,2,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,03/03/2024,neutral,16580,548,Plymouth St.,9,True,10,1,9,win,4528296,50,2524006,2024,3

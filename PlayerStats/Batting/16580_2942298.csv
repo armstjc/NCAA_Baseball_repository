@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,02/19/2024,away,16580,678,Stetson,9,True,4,5,-1,loss,4526076,768,2942298,2024,1
 0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/28/2024,home,16580,116,Canisius,9,True,10,3,7,win,4527646,768,2942298,2024,1
+1,2,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,03/02/2024,away,16580,772,Western Ky.,9,True,6,7,-1,loss,4543015,768,2942298,2024,1
+0,3,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,03/03/2024,away,16580,772,Western Ky.,9,True,3,4,-1,loss,4528488,768,2942298,2024,1

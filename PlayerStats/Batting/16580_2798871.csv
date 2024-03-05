@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/23/2024,away,16580,147,Clemson,9,True,18,1,17,win,4526537,1157,2798871,2024,1
+0,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,03/02/2024,home,16580,363,Longwood,9,True,2,1,1,win,4528037,1157,2798871,2024,1
+0,4,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,03/03/2024,home,16580,363,Longwood,9,True,1,6,-5,loss,4528441,1157,2798871,2024,1

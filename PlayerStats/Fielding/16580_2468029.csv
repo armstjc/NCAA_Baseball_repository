@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/17/2024,neutral,16580,522,Oklahoma,10,True,1,5,-4,loss,4525829,694,2468029,2024,1
 0,2,2,0,0,0,0,0,0,0,02/24/2024,home,16580,14,UAlbany,9,True,21,6,15,win,4526805,694,2468029,2024,1
+0,1,1,0,0,0,0,0,0,0,03/02/2024,home,16580,71,Bowling Green,9,True,12,1,11,win,4528047,694,2468029,2024,1

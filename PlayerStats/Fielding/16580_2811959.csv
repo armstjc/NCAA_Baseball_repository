@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/18/2024,home,16580,450,Mount St. Mary's,12,True,7,6,1,win,4526118,485,2811959,2024,1
 0,1,1,0,0,0,1,0,0,0,02/24/2024,home,16580,381,Manhattan,9,True,2,5,-3,loss,4526566,485,2811959,2024,1
+2,0,3,1,0,0,0,0,0,0,03/03/2024,home,16580,617,Saint Peter's,9,True,6,9,-3,loss,4528505,485,2811959,2024,1

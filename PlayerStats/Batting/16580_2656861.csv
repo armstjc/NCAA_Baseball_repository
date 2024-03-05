@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/18/2024,home,16580,229,Fla. Atlantic,9,True,11,1,10,win,4526044,736,2656861,2024,1
 0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,02/20/2024,home,16580,175,Dayton,9,True,5,8,-3,loss,4526299,736,2656861,2024,1
+1,3,2,1,0,6,1,2,1,0,0,0,1,0,0,0,0,0,0,03/02/2024,neutral,16580,288,Houston,9,True,3,1,2,win,4528222,736,2656861,2024,1
+0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,03/03/2024,neutral,16580,703,Texas,9,True,14,11,3,win,4528542,736,2656861,2024,1

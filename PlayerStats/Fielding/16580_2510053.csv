@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 6,2,8,0,0,0,4,2,0,0,02/25/2024,away,16580,19,Allegheny,9,True,2,5,-3,loss,4527045,320,2510053,2024,3
 6,1,7,0,0,0,1,1,0,0,02/25/2024,away,16580,19,Allegheny,9,True,2,4,-2,loss,4544109,320,2510053,2024,3
+4,2,6,0,0,1,0,1,0,0,03/02/2024,neutral,16580,114,Calvin,9,True,9,5,4,win,4528194,320,2510053,2024,3
+2,0,2,0,0,0,0,0,0,0,03/02/2024,neutral,16580,114,Calvin,9,True,1,9,-8,loss,4543278,320,2510053,2024,3
+4,0,5,1,1,1,0,0,0,0,03/03/2024,neutral,16580,42,Aurora,9,True,8,11,-3,loss,4528565,320,2510053,2024,3
+8,0,8,0,0,1,2,0,0,0,03/03/2024,neutral,16580,42,Aurora,9,True,0,9,-9,loss,4544578,320,2510053,2024,3

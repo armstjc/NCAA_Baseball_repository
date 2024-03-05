@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,02/17/2024,neutral,16580,314,Jackson St.,9,True,5,11,-6,loss,4525878,17,2674399,2024,1
 0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/24/2024,away,16580,2743,UIW,9,True,0,15,-15,loss,4526834,17,2674399,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/02/2024,away,16580,314,Jackson St.,9,True,3,4,-1,loss,4527988,17,2674399,2024,1

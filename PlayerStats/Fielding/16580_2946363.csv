@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/11/2024,home,16580,75,Bridgewater (VA),10,True,9,8,1,win,4525390,491,2946363,2024,3
 0,0,0,0,0,0,1,0,0,0,02/18/2024,neutral,16580,134,Chapman,9,True,4,1,3,win,4526153,491,2946363,2024,3
+1,1,3,1,0,0,0,0,0,0,03/03/2024,neutral,16580,21830,Piedmont,9,True,7,6,1,win,4528177,491,2946363,2024,3

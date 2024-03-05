@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,2,5,0,0,0,0,0,0,0,02/25/2024,neutral,16580,10972,Chatham,9,True,12,5,7,win,4526959,455,2810328,2024,3
 1,1,2,0,0,0,0,0,0,0,02/25/2024,neutral,16580,10972,Chatham,9,True,11,0,11,win,4543800,455,2810328,2024,3
+2,2,4,0,0,0,0,0,2,0,03/03/2024,away,16580,542,Pfeiffer,9,True,12,5,7,win,4528015,455,2810328,2024,3
+0,3,3,0,0,0,0,0,0,0,03/04/2024,away,16580,542,Pfeiffer,9,True,12,11,1,win,4528731,455,2810328,2024,3

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 8,1,9,0,0,0,0,0,0,0,02/28/2024,home,16580,11504,Queens (NC),9,True,17,2,15,win,4527678,490,2802528,2024,1
 9,0,9,0,0,1,2,0,0,0,03/01/2024,home,16580,711,Towson,9,True,6,5,1,win,4527916,490,2802528,2024,1
+4,0,4,0,0,0,1,0,0,0,03/02/2024,home,16580,711,Towson,9,True,10,0,10,win,4543524,490,2802528,2024,1

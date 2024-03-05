@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2.0,0.0,2,1,1,0,2,0,9,9,0,0,0,1,0,0,0,0,0,0,0,26,3,1,0,0,0,1,1,0,02/24/2024,home,16580,813,Yale,9,True,6,1,5,win,4526782,2711,2799852,2024,1
 1,0,2.0,0.0,1,0,0,0,3,0,7,7,1,0,0,0,0,0,0,0,0,0,0,29,1,2,0,0,0,2,0,0,02/28/2024,away,16580,229,Fla. Atlantic,9,True,8,6,2,win,4527651,2711,2799852,2024,1
+1,0,0.1,0.0,1,0,0,1,0,0,4,1,0,0,0,0,0,1,0,1,1,1,0,13,1,0,0,0,0,2,0,0,03/02/2024,home,16580,172,Dartmouth,9,True,14,8,6,win,4528028,2711,2799852,2024,1

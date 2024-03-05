@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,1,6,0,0,0,2,0,0,0,02/19/2024,away,16580,664,Southern Miss.,9,True,5,7,-2,loss,4526268,721,2943611,2024,1
 4,1,5,0,0,0,1,0,0,0,02/26/2024,away,16580,460,UNCW,9,True,8,11,-3,loss,4527484,721,2943611,2024,1
+1,1,2,0,0,0,3,0,0,0,03/02/2024,neutral,16580,725,Army West Point,9,True,2,13,-11,loss,4528189,721,2943611,2024,1
+1,0,1,0,0,0,0,0,0,0,03/03/2024,neutral,16580,366,Louisiana Tech,9,True,5,8,-3,loss,4528729,721,2943611,2024,1

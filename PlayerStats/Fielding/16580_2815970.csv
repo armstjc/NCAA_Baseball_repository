@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,0,4,0,0,0,2,0,0,0,02/24/2024,neutral,16580,623,Salve Regina,9,True,9,5,4,win,4527043,681,2815970,2024,3
+11,3,15,1,0,0,5,1,0,0,03/03/2024,away,16580,1340,St. Joseph's (L.I.),9,True,11,9,2,win,4528334,681,2815970,2024,3
+8,0,8,0,0,0,1,0,0,0,03/03/2024,away,16580,1340,St. Joseph's (L.I.),9,True,11,0,11,win,4543822,681,2815970,2024,3

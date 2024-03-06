@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/24/2024,neutral,16580,114,Calvin,9,True,5,2,3,win,4526933,641,2825337,2024,3
 2,3,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,02/24/2024,neutral,16580,8911,Wis. Lutheran,9,True,10,7,3,win,4527164,641,2825337,2024,3
+1,3,1,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,03/02/2024,home,16580,268,Hamline,9,True,10,0,10,win,4528573,641,2825337,2024,3
+0,4,1,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,03/02/2024,home,16580,268,Hamline,9,True,3,6,-3,loss,4544586,641,2825337,2024,3

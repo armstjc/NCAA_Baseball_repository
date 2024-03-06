@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+4,0,4,0,0,0,0,0,1,0,03/02/2024,away,16580,8567,Mt. St. Joseph,9,True,4,2,2,win,4528288,520,2833481,2024,3
+8,1,9,0,0,0,0,0,3,0,03/02/2024,away,16580,8567,Mt. St. Joseph,9,True,1,2,-1,loss,4543626,520,2833481,2024,3
+14,0,14,0,0,0,0,0,1,0,03/03/2024,away,16580,8567,Mt. St. Joseph,9,True,11,7,4,win,4528624,520,2833481,2024,3

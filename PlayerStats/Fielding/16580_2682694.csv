@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,3,0,0,0,0,1,0,0,03/03/2024,neutral,16580,1064,Eastern Nazarene,9,True,7,4,3,win,5251439,1192,2682694,2024,3
+4,0,4,0,0,0,0,0,0,0,03/04/2024,neutral,16580,1305,Cairn,9,True,2,11,-9,loss,4528765,1192,2682694,2024,3

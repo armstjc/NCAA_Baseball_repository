@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/02/2024,neutral,16580,1099,Gordon,12,True,6,5,1,win,4528161,1133,2672571,2024,3
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/04/2024,neutral,16580,394,Marymount (VA),9,True,3,9,-6,loss,4528762,1133,2672571,2024,3
+0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,03/04/2024,neutral,16580,394,Marymount (VA),9,True,5,7,-2,loss,4542814,1133,2672571,2024,3

@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,neutral,16580,602,Saint John's (MN),9,True,2,10,-8,loss,4528554,531,2510828,2024,3
 2,5,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,neutral,16580,747,Wabash,10,True,8,22,-14,loss,4528722,531,2510828,2024,3
+0,3,1,0,0,1,0,1,0,0,0,1,2,0,0,0,0,0,0,03/05/2024,neutral,16580,938,Alvernia,9,True,9,6,3,win,4528870,531,2510828,2024,3
+2,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,03/07/2024,neutral,16580,582,Rockford,9,True,11,1,10,win,5067753,531,2510828,2024,3

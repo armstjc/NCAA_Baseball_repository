@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/03/2024,neutral,16580,1332,Dominican (IL),9,True,6,2,4,win,4528529,15,2815392,2024,3
 3,0,3,0,0,0,0,0,0,0,03/04/2024,neutral,16580,30039,North Central (MN),9,True,19,2,17,win,4528741,15,2815392,2024,3
+3,0,3,0,0,0,0,0,0,0,03/05/2024,neutral,16580,1434,Waynesburg,9,True,5,4,1,win,4528883,15,2815392,2024,3
+1,0,1,0,0,0,0,0,0,0,03/06/2024,neutral,16580,2758,Thomas (ME),9,True,4,0,4,win,4529060,15,2815392,2024,3
+1,0,1,0,0,0,0,0,0,0,03/07/2024,neutral,16580,25719,Penn St.-Altoona,9,True,6,7,-1,loss,4529184,15,2815392,2024,3

@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/18/2024,neutral,16580,424,Millikin,9,True,10,9,1,win,4526132,374,2657328,2024,3
+0,1,1,0,0,0,0,0,0,0,03/05/2024,home,16580,806,Wittenberg,9,True,6,3,3,win,4528835,374,2657328,2024,3

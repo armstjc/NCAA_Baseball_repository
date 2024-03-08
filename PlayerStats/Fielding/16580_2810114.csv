@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-17,2,19,0,0,0,1,0,0,0,02/10/2024,home,16580,75,Bridgewater (VA),9,True,2,3,-1,loss,4525332,491,2810114,2024,3
-2,0,2,0,0,0,1,0,0,0,02/11/2024,home,16580,75,Bridgewater (VA),10,True,9,8,1,win,4525390,491,2810114,2024,3
+17,2,19,0,0,0,1,0,0,0,02/09/2024,home,16580,75,Bridgewater (VA),9,True,2,3,-1,loss,5251647,491,2810114,2024,3
+2,0,2,0,0,0,1,0,0,0,02/10/2024,home,16580,75,Bridgewater (VA),10,True,9,8,1,win,4525332,491,2810114,2024,3
 4,1,5,0,0,0,1,0,0,0,02/16/2024,neutral,16580,23260,Spalding,10,True,3,4,-1,loss,4525573,491,2810114,2024,3
 7,0,7,0,0,0,1,0,0,0,02/18/2024,neutral,16580,134,Chapman,9,True,4,1,3,win,4526153,491,2810114,2024,3
 8,0,9,1,0,3,3,0,0,0,02/24/2024,home,16580,30081,Penn St. Harrisburg,9,True,10,7,3,win,4526514,491,2810114,2024,3

@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/25/2024,away,16580,939,Anderson (IN),9,True,1,14,-13,loss,4526890,30037,2684229,2024,3
 0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,02/25/2024,away,16580,939,Anderson (IN),9,True,21,17,4,win,4543504,30037,2684229,2024,3
+0,3,2,0,0,2,0,2,0,0,1,0,0,0,0,0,0,0,0,03/04/2024,neutral,16580,30064,Saint Vincent,9,True,6,0,6,win,4528761,30037,2684229,2024,3

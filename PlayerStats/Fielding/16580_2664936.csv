@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,4,1,0,0,0,0,0,0,03/03/2024,neutral,16580,582,Rockford,9,True,11,18,-7,loss,5067751,987,2664936,2024,3
 1,0,1,0,0,0,0,0,0,0,03/03/2024,neutral,16580,46,Baldwin Wallace,9,True,6,11,-5,loss,5249298,987,2664936,2024,3
+2,0,2,0,0,0,0,0,0,0,03/04/2024,neutral,16580,582,Rockford,9,True,4,3,1,win,5067752,987,2664936,2024,3

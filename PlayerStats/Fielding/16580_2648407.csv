@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,1,0,0,03/01/2024,home,16580,152,Colby-Sawyer,9,True,6,7,-1,loss,5250609,399,2648407,2024,3
+0,1,1,0,0,0,1,0,0,0,03/04/2024,home,16580,656,UMass Dartmouth,9,True,10,7,3,win,4528851,399,2648407,2024,3

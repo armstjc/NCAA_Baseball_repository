@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,3,1,0,0,4,1,2,2,0,0,0,1,0,0,0,0,0,0,03/03/2024,neutral,16580,582,Rockford,9,True,11,18,-7,loss,5067751,987,2307115,2024,3
 0,5,1,0,0,1,0,1,0,0,0,0,2,0,0,0,0,0,0,03/03/2024,neutral,16580,46,Baldwin Wallace,9,True,6,11,-5,loss,5249298,987,2307115,2024,3
+0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,03/04/2024,neutral,16580,582,Rockford,9,True,4,3,1,win,5067752,987,2307115,2024,3
+0,4,1,0,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,03/05/2024,neutral,16580,278,Heidelberg,9,True,5,12,-7,loss,4528897,987,2307115,2024,3
+0,5,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,03/06/2024,neutral,16580,281,Hiram,9,True,17,13,4,win,4529064,987,2307115,2024,3

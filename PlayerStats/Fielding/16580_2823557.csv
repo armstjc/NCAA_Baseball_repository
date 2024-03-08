@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,02/23/2024,away,16580,30243,Asbury,9,True,1,4,-3,loss,4526578,582,2823557,2024,3
 0,3,3,0,0,0,0,0,0,0,03/02/2024,neutral,16580,278,Heidelberg,9,True,3,9,-6,loss,4528174,582,2823557,2024,3
+1,4,6,1,0,0,0,0,0,0,03/05/2024,neutral,16580,281,Hiram,9,True,6,7,-1,loss,4528871,582,2823557,2024,3

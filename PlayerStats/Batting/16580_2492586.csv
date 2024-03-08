@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,4,1,1,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,03/03/2024,neutral,16580,1192,Manchester,9,True,4,8,-4,loss,4528548,1064,2492586,2024,3
+0,4,1,1,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,03/03/2024,neutral,16580,1192,Manchester,9,True,4,7,-3,loss,5251439,1064,2492586,2024,3
+0,2,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,03/04/2024,neutral,16580,30190,Penn College,9,True,2,7,-5,loss,4528763,1064,2492586,2024,3
+0,3,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,03/05/2024,neutral,16580,30044,Penn St.-Berks,9,True,9,10,-1,loss,4528872,1064,2492586,2024,3

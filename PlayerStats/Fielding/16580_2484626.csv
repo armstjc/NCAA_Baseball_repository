@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 10,0,10,0,0,0,0,0,1,0,02/23/2024,neutral,16580,385,Marietta,9,True,5,1,4,win,4526587,139,2484626,2024,3
+6,0,6,0,0,0,0,0,0,0,03/02/2024,neutral,16580,806,Wittenberg,9,True,4,0,4,win,4528172,139,2484626,2024,3
 13,0,14,1,0,0,0,0,2,0,03/03/2024,away,16580,412,Methodist,10,True,11,12,-1,loss,4528418,139,2484626,2024,3

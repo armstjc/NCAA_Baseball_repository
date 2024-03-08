@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/04/2024,neutral,16580,30085,Lancaster Bible,9,True,3,12,-9,loss,4528774,30084,2462853,2024,3
+1,0,1,0,0,0,0,0,0,0,03/04/2024,neutral,16580,30085,Lancaster Bible,9,True,7,1,6,win,4542821,30084,2462853,2024,3
+4,0,4,0,0,0,0,0,0,0,03/05/2024,neutral,16580,30166,Valley Forge,9,True,8,7,1,win,4528874,30084,2462853,2024,3

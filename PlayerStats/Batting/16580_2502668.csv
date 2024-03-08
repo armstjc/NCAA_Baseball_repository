@@ -1,4 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/25/2024,away,16580,637,Shenandoah,9,True,1,19,-18,loss,4527022,351,2502668,2024,3
 0,3,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,02/25/2024,away,16580,637,Shenandoah,9,True,6,18,-12,loss,4543962,351,2502668,2024,3
+0,4,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,neutral,16580,511,Norwich,9,True,6,1,5,win,4528570,351,2502668,2024,3
 0,3,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,03/04/2024,neutral,16580,538,Penn St.-Behrend,9,True,3,1,2,win,4528752,351,2502668,2024,3
+1,5,2,0,0,2,0,0,0,0,0,0,2,0,0,0,1,0,0,03/05/2024,home,16580,784,Wilkes,9,True,4,6,-2,loss,4528895,351,2502668,2024,3
+0,3,1,0,0,1,0,2,0,0,1,0,0,0,0,0,1,0,0,03/06/2024,neutral,16580,335,Kenyon,9,True,18,10,8,win,4529080,351,2502668,2024,3

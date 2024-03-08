@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,03/03/2024,home,16580,713,Trinity (CT),9,True,1,9,-8,loss,5251015,27892,2680131,2024,3
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2024,home,16580,30083,SUNY Cobleskill,9,True,11,19,-8,loss,5250512,27892,2680131,2024,3

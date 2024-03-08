@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,0,4,0,0,0,0,0,0,0,03/03/2024,neutral,16580,1196,Marian (WI),9,True,3,8,-5,loss,4528566,161,2684937,2024,3
 2,0,2,0,0,0,0,0,0,0,03/03/2024,neutral,16580,1196,Marian (WI),9,True,0,10,-10,loss,4544579,161,2684937,2024,3
+2,0,2,0,0,0,0,0,0,0,03/04/2024,neutral,16580,114,Calvin,9,True,13,7,6,win,4528748,161,2684937,2024,3
+1,0,1,0,0,0,0,0,0,0,03/05/2024,neutral,16580,59,Bethany (WV),9,True,9,1,8,win,4528887,161,2684937,2024,3
+1,1,2,0,0,0,0,0,0,0,03/05/2024,neutral,16580,59,Bethany (WV),9,True,6,1,5,win,4543183,161,2684937,2024,3

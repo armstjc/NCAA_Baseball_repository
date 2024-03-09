@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,02/16/2024,away,16580,31,Arkansas,9,True,4,6,-2,loss,4525460,317,2348985,2024,1
 0,1,2,1,0,0,0,0,0,0,02/21/2024,home,16580,742,Virginia Tech,9,True,8,7,1,win,4526435,317,2348985,2024,1
+0,2,2,0,0,0,1,0,0,0,03/05/2024,home,16580,741,VMI,9,True,8,4,4,win,4528918,317,2348985,2024,1

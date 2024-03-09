@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/24/2024,neutral,16580,559,Purdue,9,True,11,9,2,win,4492420,248,2658243,2024,1
+0,1,1,0,0,0,2,0,0,0,03/02/2024,home,16580,220,Fairfield,9,True,8,0,8,win,4528070,248,2658243,2024,1

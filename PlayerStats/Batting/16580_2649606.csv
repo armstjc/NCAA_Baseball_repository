@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,3,2,2,0,4,0,0,0,0,0,0,0,1,0,0,0,0,1,02/25/2024,home,16580,574,Rice,9,True,3,0,3,win,4527395,671,2649606,2024,1
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/02/2024,neutral,16580,365,LSU,9,True,4,5,-1,loss,4528415,671,2649606,2024,1
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,neutral,16580,288,Houston,11,True,10,13,-3,loss,4528730,671,2649606,2024,1
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/06/2024,away,16580,508,Northwestern St.,9,True,3,0,3,win,4529140,671,2649606,2024,1

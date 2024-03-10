@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/10/2024,home,16580,10870,Shepherd,9,True,16,7,9,win,4543142,537,2949696,2024,2
 1,1,2,0,0,0,0,0,0,0,02/16/2024,home,16580,307,Indiana (PA),9,True,15,6,9,win,5245880,537,2949696,2024,2
+1,0,1,0,0,0,0,0,0,0,03/03/2024,home,16580,8875,Chowan,9,True,20,9,11,win,5251078,537,2949696,2024,2

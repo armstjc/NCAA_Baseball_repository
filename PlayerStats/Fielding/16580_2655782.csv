@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/02/2024,home,16580,766,West Ga.,9,True,3,5,-2,loss,4524971,39,2655782,2024,2
 0,1,1,0,0,0,0,0,0,0,02/23/2024,home,16580,1076,Fairmont St.,9,True,17,6,11,win,4526653,39,2655782,2024,2
+1,0,1,0,0,0,0,0,0,0,03/02/2024,home,16580,1096,Georgia College,9,True,0,10,-10,loss,4528348,39,2655782,2024,2
+0,1,1,0,0,0,1,0,0,0,03/08/2024,away,16580,1167,Lander,10,True,2,3,-1,loss,4529493,39,2655782,2024,2

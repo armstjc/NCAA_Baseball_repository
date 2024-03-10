@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/13/2024,home,16580,8965,East Central,9,True,18,0,18,win,4525414,1009,2957711,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/03/2024,home,16580,9013,Missouri Western,9,True,6,7,-1,loss,4528698,1009,2957711,2024,2

@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/18/2024,away,16580,1085,Francis Marion,9,True,13,8,5,win,4526216,30063,2489997,2024,2
+0,0,0,0,0,0,1,0,0,0,03/02/2024,neutral,16580,790,Winona St.,10,True,6,5,1,win,4528170,30063,2489997,2024,2
+0,0,0,0,0,0,1,1,0,0,03/04/2024,away,16580,689,Tampa,11,True,6,5,1,win,4528783,30063,2489997,2024,2

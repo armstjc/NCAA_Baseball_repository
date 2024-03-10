@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,1,3,0,0,0,0,0,1,0,02/10/2024,home,16580,91,Cal Poly Pomona,9,True,3,0,3,win,4543147,30146,2800896,2024,2
 2,2,4,0,0,0,0,0,1,0,02/13/2024,home,16580,100,Cal State LA,9,True,1,10,-9,loss,4525415,30146,2800896,2024,2
+2,2,4,0,0,0,0,0,0,0,03/02/2024,away,16580,2696,Hawaii Pacific,9,True,5,10,-5,loss,4528122,30146,2800896,2024,2

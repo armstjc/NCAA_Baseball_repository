@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,0,0,0,02/17/2024,home,16580,347,Lane,9,True,3,10,-7,loss,4542787,55,2669849,2024,2
 0,1,1,0,0,0,0,1,0,0,02/29/2024,home,16580,357,Lincoln (PA),9,True,5,2,3,win,4543979,55,2669849,2024,2
+0,1,1,0,0,0,1,1,0,0,03/03/2024,away,16580,350,LeMoyne-Owen,9,True,7,5,2,win,4528703,55,2669849,2024,2

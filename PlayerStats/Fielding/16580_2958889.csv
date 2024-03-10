@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/17/2024,home,16580,1334,St. Edward's,9,True,0,10,-10,loss,4542970,767,2958889,2024,2
 0,1,1,0,0,0,0,0,0,0,02/23/2024,home,16580,1057,Drury,9,True,6,14,-8,loss,4526649,767,2958889,2024,2
+0,3,3,0,0,0,0,0,1,0,03/01/2024,away,16580,206,Eastern N.M.,9,True,10,20,-10,loss,4527744,767,2958889,2024,2
+0,1,1,0,0,0,0,0,0,0,03/02/2024,away,16580,206,Eastern N.M.,9,True,5,8,-3,loss,4528098,767,2958889,2024,2
+1,0,1,0,0,0,0,0,0,0,03/02/2024,away,16580,206,Eastern N.M.,10,True,5,4,1,win,4542976,767,2958889,2024,2

@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,1,0,02/17/2024,away,16580,147,Clemson,9,True,3,8,-5,loss,4525759,812,2821717,2024,1
 0,0,1,1,0,0,0,0,0,0,02/18/2024,away,16580,147,Clemson,9,True,7,11,-4,loss,4526085,812,2821717,2024,1
+1,1,3,1,0,0,0,0,0,0,03/05/2024,away,16580,366,Louisiana Tech,9,True,3,11,-8,loss,4528978,812,2821717,2024,1
+1,2,3,0,0,0,0,0,0,0,03/06/2024,away,16580,366,Louisiana Tech,9,True,6,4,2,win,4529142,812,2821717,2024,1

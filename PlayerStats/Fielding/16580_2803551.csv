@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,0,5,0,0,0,0,0,0,0,02/10/2024,home,16580,1257,Newberry,9,True,24,2,22,win,4525340,689,2803551,2024,2
 1,0,1,0,0,0,0,0,0,0,02/26/2024,away,16580,13,Albany St. (GA),9,True,13,2,11,win,4527482,689,2803551,2024,2
+3,0,3,0,0,0,0,0,0,0,03/01/2024,home,16580,30045,Palm Beach Atl.,9,True,15,3,12,win,4527987,689,2803551,2024,2

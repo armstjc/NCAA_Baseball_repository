@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/23/2024,away,16580,395,Maryville (MO),9,True,9,13,-4,loss,4526510,510,2691015,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/02/2024,away,16580,9680,Embry-Riddle (FL),9,True,5,13,-8,loss,4528072,510,2691015,2024,2
+0,3,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,03/05/2024,neutral,16580,383,Minnesota St.,9,True,0,6,-6,loss,4528890,510,2691015,2024,2

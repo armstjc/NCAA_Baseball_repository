@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/25/2024,home,16580,509,Northwestern,9,True,20,9,11,win,4492539,193,2942935,2024,1
+0,2,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,03/05/2024,home,16580,27,App State,9,True,28,2,26,win,4528825,193,2942935,2024,1

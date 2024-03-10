@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/17/2024,home,16580,249,George Washington,9,True,7,4,3,win,4525721,523,2475876,2024,1
 0,0,1,1,0,0,0,0,0,0,02/21/2024,away,16580,746,Virginia,9,True,0,8,-8,loss,5246613,523,2475876,2024,1
+0,0,0,0,0,0,1,0,0,0,03/08/2024,home,16580,500,Northeastern,9,True,4,8,-4,loss,4529524,523,2475876,2024,1

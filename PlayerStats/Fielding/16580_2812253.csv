@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/24/2024,away,16580,1462,Wingate,9,True,6,8,-2,loss,4527114,1079,2812253,2024,2
 0,1,1,0,0,0,0,0,0,0,02/27/2024,away,16580,13028,Anderson (SC),9,True,8,20,-12,loss,4527601,1079,2812253,2024,2
+0,2,2,0,0,0,1,0,0,0,03/02/2024,away,16580,1257,Newberry,9,True,11,8,3,win,5250836,1079,2812253,2024,2

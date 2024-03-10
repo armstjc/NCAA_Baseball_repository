@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/24/2024,away,16580,1346,St. Mary's (TX),9,True,8,9,-1,loss,4544267,30179,2653551,2024,2
+0,0,0,0,0,0,2,0,0,0,03/08/2024,away,16580,25,Angelo St.,9,True,11,12,-1,loss,4529263,30179,2653551,2024,2

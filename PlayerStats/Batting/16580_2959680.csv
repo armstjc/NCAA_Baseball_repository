@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/09/2024,home,16580,30105,Ark.-Fort Smith,9,True,1,14,-13,loss,4525322,30179,2959680,2024,2
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/10/2024,home,16580,30105,Ark.-Fort Smith,9,True,2,12,-10,loss,4525229,30179,2959680,2024,2
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/02/2024,home,16580,30177,Lubbock Christian,9,True,2,22,-20,loss,4528274,30179,2959680,2024,2

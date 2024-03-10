@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/16/2024,home,16580,143,Clarion,9,True,2,9,-7,loss,5245935,1098,2660581,2024,2
 0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/24/2024,home,16580,423,Millersville,9,True,1,18,-17,loss,4526979,1098,2660581,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2024,away,16580,537,UNC Pembroke,9,True,1,19,-18,loss,4528826,1098,2660581,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/08/2024,neutral,16580,143,Clarion,9,True,0,11,-11,loss,4529350,1098,2660581,2024,2

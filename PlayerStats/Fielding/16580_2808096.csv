@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/10/2024,away,16580,92,Cal St. Dom. Hills,9,True,6,5,1,win,4543155,30147,2808096,2024,2
+2,0,2,0,0,0,0,0,0,0,03/01/2024,away,16580,133,Chaminade,9,True,15,7,8,win,4544764,30147,2808096,2024,2
+0,1,1,0,0,0,0,0,0,0,03/06/2024,away,16580,2696,Hawaii Pacific,9,True,5,1,4,win,4529051,30147,2808096,2024,2

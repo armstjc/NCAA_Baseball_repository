@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,02/17/2024,away,16580,32,Little Rock,9,True,14,0,14,win,4525987,782,2970639,2024,1
 1,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,02/24/2024,neutral,16580,37,Auburn,9,True,8,19,-11,loss,4526932,782,2970639,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2024,away,16580,522,Oklahoma,9,True,3,5,-2,loss,4528985,782,2970639,2024,1

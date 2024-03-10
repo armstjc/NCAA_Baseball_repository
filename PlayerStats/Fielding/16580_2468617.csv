@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/18/2024,home,16580,509,Northwestern,9,True,12,9,3,win,4492536,718,2468617,2024,1
 1,0,1,0,0,0,1,0,0,0,02/20/2024,home,16580,483,Nicholls,9,True,3,2,1,win,4526314,718,2468617,2024,1
+0,0,0,0,0,0,1,0,0,0,03/08/2024,away,16580,671,Louisiana,9,True,11,8,3,win,4529466,718,2468617,2024,1

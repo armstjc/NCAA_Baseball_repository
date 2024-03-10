@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/24/2024,neutral,16580,31,Arkansas,14,True,2,1,1,win,4527168,521,2943667,2024,1
 2,0,2,0,0,0,0,0,0,0,03/02/2024,home,16580,129,Central Mich.,9,True,8,1,7,win,4528105,521,2943667,2024,1
+1,0,1,0,0,0,0,0,0,0,03/06/2024,home,16580,30095,Utah Tech,9,True,12,2,10,win,4529101,521,2943667,2024,1
+1,0,1,0,0,0,0,0,0,0,03/09/2024,home,16580,406,Mercer,9,True,1,4,-3,loss,4529544,521,2943667,2024,1

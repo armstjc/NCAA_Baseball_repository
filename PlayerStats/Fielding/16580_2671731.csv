@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,3,0,0,0,02/17/2024,neutral,16580,743,Virginia St.,10,True,7,4,3,win,4525790,384,2671731,2024,2
 0,1,1,0,0,0,0,0,0,0,02/25/2024,away,16580,19117,Salem (WV),8,True,3,5,-2,loss,4527371,384,2671731,2024,2
+0,1,1,0,0,0,1,0,0,0,03/02/2024,neutral,16580,1348,St. Thomas Aquinas,9,True,5,4,1,win,4528377,384,2671731,2024,2
+0,2,3,1,0,0,1,1,0,0,03/08/2024,home,16580,638,Shippensburg,9,True,4,3,1,win,4529375,384,2671731,2024,2

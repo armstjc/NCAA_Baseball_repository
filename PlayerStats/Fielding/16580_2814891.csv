@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/03/2024,away,16580,49,Barry,9,True,3,6,-3,loss,4525027,1001,2814891,2024,2
 0,0,1,1,0,0,0,0,0,0,02/14/2024,away,16580,1257,Newberry,9,True,7,9,-2,loss,4525447,1001,2814891,2024,2
+0,1,1,0,0,0,0,0,0,0,03/02/2024,home,16580,1170,Lenoir-Rhyne,12,True,7,6,1,win,4543982,1001,2814891,2024,2

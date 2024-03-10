@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/10/2024,away,16580,1167,Lander,9,True,13,5,8,win,5245202,1176,2967383,2024,2
 0,1,1,0,0,0,0,0,0,0,02/20/2024,away,16580,1072,Erskine,9,True,7,3,4,win,4526355,1176,2967383,2024,2
+0,2,2,0,0,0,0,0,0,0,03/02/2024,home,16580,30181,UVA Wise,9,True,11,6,5,win,5250767,1176,2967383,2024,2

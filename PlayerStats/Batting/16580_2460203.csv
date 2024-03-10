@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2024,home,16580,219,Evansville,9,True,3,14,-11,loss,4525984,527,2460203,2024,1
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/25/2024,home,16580,660,SIUE,9,True,8,3,5,win,4527234,527,2460203,2024,1
+1,2,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,03/05/2024,home,16580,129,Central Mich.,9,True,15,5,10,win,4528992,527,2460203,2024,1
+0,4,2,0,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,03/06/2024,home,16580,129,Central Mich.,9,True,10,7,3,win,4529123,527,2460203,2024,1
+0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,03/09/2024,home,16580,368,UMass Lowell,9,True,5,4,1,win,4529272,527,2460203,2024,1

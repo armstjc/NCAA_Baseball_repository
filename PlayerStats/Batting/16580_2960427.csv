@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/13/2024,away,16580,537,UNC Pembroke,9,True,5,21,-16,loss,4525413,30058,2960427,2024,2
 0,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,02/23/2024,home,16580,985,Bluefield St.,9,True,11,19,-8,loss,4526748,30058,2960427,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/02/2024,away,16580,11276,USC Aiken,9,True,7,15,-8,loss,4543827,30058,2960427,2024,2
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/03/2024,away,16580,11276,USC Aiken,9,True,0,10,-10,loss,5251000,30058,2960427,2024,2

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/08/2024,away,16580,413,MSU Denver,9,True,16,15,1,win,5021934,30220,2671442,2024,2
 0,1,1,0,0,0,0,0,0,0,02/24/2024,away,16580,30260,Westmont,9,True,7,7,0,tie,4543820,30220,2671442,2024,2
+0,1,1,0,0,0,0,0,0,0,03/08/2024,away,16580,30199,CUI,9,True,3,5,-2,loss,5252449,30220,2671442,2024,2

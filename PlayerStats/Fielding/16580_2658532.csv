@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/23/2024,neutral,16580,246,Gannon,9,True,10,2,8,win,4526687,262,2658532,2024,2
+0,0,1,1,0,0,0,0,0,0,03/02/2024,away,16580,309,UIndy,9,True,6,8,-2,loss,4543020,262,2658532,2024,2

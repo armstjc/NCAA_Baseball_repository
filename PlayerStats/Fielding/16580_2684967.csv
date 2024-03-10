@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,1,0,0,0,02/13/2024,away,16580,208,Eckerd,9,True,4,14,-10,loss,4525445,233,2684967,2024,2
 2,0,2,0,0,0,1,0,0,0,02/24/2024,away,16580,49,Barry,9,True,5,6,-1,loss,4527062,233,2684967,2024,2
+7,0,7,0,0,0,0,0,0,0,03/02/2024,home,16580,208,Eckerd,9,True,17,7,10,win,4543647,233,2684967,2024,2
+6,0,7,1,0,0,2,0,0,0,03/08/2024,home,16580,30063,Seton Hill,9,True,5,2,3,win,4529384,233,2684967,2024,2

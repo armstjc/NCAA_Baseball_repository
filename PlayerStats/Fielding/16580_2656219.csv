@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,2,0,0,02/16/2024,home,16580,243,Frostburg St.,9,True,7,3,4,win,4525680,49,2656219,2024,2
 0,0,0,0,0,0,2,1,0,0,02/23/2024,home,16580,233,Fla. Southern,9,True,7,1,6,win,4526731,49,2656219,2024,2
+0,2,2,0,0,0,1,0,0,0,03/08/2024,home,16580,106,California (PA),9,True,6,12,-6,loss,4529469,49,2656219,2024,2

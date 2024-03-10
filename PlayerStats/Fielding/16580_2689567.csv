@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,1,0,0,0,02/19/2024,away,16580,19117,Salem (WV),9,True,7,10,-3,loss,4542639,30141,2689567,2024,2
 0,2,2,0,0,0,1,0,0,0,02/26/2024,away,16580,30063,Seton Hill,9,True,7,6,1,win,4544128,30141,2689567,2024,2
+1,0,1,0,0,0,0,0,0,0,03/03/2024,neutral,16580,929,Adams St.,10,True,6,5,1,win,5250955,30141,2689567,2024,2

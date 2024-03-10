@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/16/2024,away,16580,165,Coppin St.,9,True,24,0,24,win,4525610,169,2306618,2024,1
+0,1,1,0,0,0,0,0,0,0,03/05/2024,home,16580,368,UMass Lowell,9,True,12,2,10,win,4528974,169,2306618,2024,1

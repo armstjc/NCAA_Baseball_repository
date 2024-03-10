@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,4.0,0.0,7,4,4,0,5,0,20,18,0,0,0,0,0,1,0,0,0,1,0,60,4,3,0,0,0,1,1,0,02/16/2024,away,16580,1096,Georgia College,9,True,9,5,4,win,4525672,689,2662608,2024,2
 1,1,5.0,0.0,4,1,1,2,6,0,23,18,0,0,0,0,0,2,0,0,0,1,0,85,6,3,1,0,0,1,1,0,02/24/2024,away,16580,11276,USC Aiken,9,True,9,2,7,win,4527137,689,2662608,2024,2
+1,1,6.0,0.0,3,2,2,2,3,0,25,21,0,0,0,0,1,2,0,0,0,0,0,71,8,7,1,0,0,1,2,0,03/02/2024,home,16580,30045,Palm Beach Atl.,9,True,13,4,9,win,4528314,689,2662608,2024,2

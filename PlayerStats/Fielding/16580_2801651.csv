@@ -9,3 +9,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,03/01/2024,neutral,16580,655,Southeastern La.,9,True,1,5,-4,loss,4527866,97,2801651,2024,1
 2,0,2,0,0,0,0,0,0,0,03/02/2024,away,16580,196,East Carolina,11,True,1,2,-1,loss,4528030,97,2801651,2024,1
 2,0,2,0,0,0,0,0,0,0,03/05/2024,home,16580,657,Southern California,9,True,5,6,-1,loss,4528841,97,2801651,2024,1
+1,0,1,0,0,0,0,0,0,0,03/08/2024,home,16580,316,Jacksonville,9,True,12,2,10,win,4529287,97,2801651,2024,1
+2,0,2,0,0,0,0,0,1,0,03/09/2024,home,16580,316,Jacksonville,9,True,15,3,12,win,4543349,97,2801651,2024,1

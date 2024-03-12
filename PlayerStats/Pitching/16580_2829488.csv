@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,0.1,0.0,3,4,4,3,0,0,7,3,1,0,0,0,0,0,0,0,0,0,1,25,0,1,0,0,0,2,0,0,02/19/2024,away,16580,536,UTRGV,9,True,1,15,-14,loss,4526286,572,2829488,2024,1
 1,0,2.0,0.0,5,2,2,2,1,0,12,10,1,1,0,1,0,0,0,0,0,0,0,48,2,2,0,1,0,2,0,0,02/24/2024,away,16580,742,Virginia Tech,9,True,2,7,-5,loss,4526824,572,2829488,2024,1
+1,0,2.1,0.0,3,2,2,1,1,0,11,10,1,0,0,1,0,0,0,0,0,0,0,40,2,4,0,0,0,2,1,0,03/08/2024,away,16580,697,Texas A&M,9,True,0,11,-11,loss,4529222,572,2829488,2024,1

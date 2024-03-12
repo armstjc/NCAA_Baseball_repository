@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/10/2024,home,16580,751,Wash. & Jeff.,9,True,5,4,1,win,5245120,46,2829424,2024,3
 0,1,1,0,0,0,1,0,0,0,02/24/2024,neutral,16580,966,Arcadia,10,True,4,5,-1,loss,4526922,46,2829424,2024,3
+0,1,1,0,0,0,0,0,0,0,03/09/2024,away,16580,45,Babson,9,True,15,6,9,win,4529900,46,2829424,2024,3

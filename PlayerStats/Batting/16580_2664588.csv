@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/17/2024,away,16580,1130,Huntingdon,9,True,1,10,-9,loss,4525735,745,2664588,2024,3
 0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/18/2024,neutral,16580,431,MUW,9,True,7,9,-2,loss,4526141,745,2664588,2024,3
+0,4,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,03/08/2024,home,16580,1112,Guilford,9,True,7,0,7,win,4543347,745,2664588,2024,3

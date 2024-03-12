@@ -1,3 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,4,2,0,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,02/18/2024,home,16580,22235,Lewis & Clark,9,True,2,10,-8,loss,4526088,549,2964301,2024,3
 0,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,02/24/2024,home,16580,780,Whitman,9,True,3,9,-6,loss,4543513,549,2964301,2024,3
+1,4,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,03/04/2024,home,16580,4,Adrian,9,True,7,4,3,win,4528780,549,2964301,2024,3
+1,5,1,1,0,2,0,1,0,0,0,0,3,0,0,0,0,0,0,03/08/2024,away,16580,567,Redlands,9,True,15,3,12,win,4529399,549,2964301,2024,3
+1,5,1,1,0,2,0,1,0,0,0,0,2,0,0,0,0,0,0,03/09/2024,home,16580,567,Redlands,9,True,11,6,5,win,4529733,549,2964301,2024,3
+2,5,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/09/2024,home,16580,567,Redlands,9,True,20,12,8,win,4543844,549,2964301,2024,3

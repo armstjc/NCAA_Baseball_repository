@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2024,neutral,16580,190,Drew,9,True,5,12,-7,loss,4528894,30064,2495598,2024,3
 1,1,1,0,1,3,0,0,1,0,0,0,0,0,0,0,1,0,0,03/06/2024,neutral,16580,145,Clark (MA),9,True,4,13,-9,loss,4529072,30064,2495598,2024,3
+0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/07/2024,neutral,16580,1332,Dominican (IL),9,True,0,8,-8,loss,4529180,30064,2495598,2024,3

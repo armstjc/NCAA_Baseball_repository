@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/23/2024,neutral,16580,40,Augustana (IL),9,True,2,5,-3,loss,4526590,114,2495520,2024,3
 0,1,1,0,0,0,1,0,0,0,03/02/2024,neutral,16580,320,John Carroll,9,True,5,9,-4,loss,4528194,114,2495520,2024,3
+0,1,1,0,0,0,0,1,0,0,03/07/2024,neutral,16580,1099,Gordon,9,True,13,3,10,win,4529159,114,2495520,2024,3

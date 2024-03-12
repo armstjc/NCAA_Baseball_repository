@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2024,neutral,16580,297,Illinois Col.,9,True,3,15,-12,loss,4528893,1267,2679802,2024,3
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/06/2024,neutral,16580,59,Bethany (WV),9,True,3,4,-1,loss,4529055,1267,2679802,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/08/2024,neutral,16580,190,Drew,9,True,1,9,-8,loss,4529362,1267,2679802,2024,3

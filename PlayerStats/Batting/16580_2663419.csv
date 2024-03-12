@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,02/26/2024,home,16580,30083,SUNY Cobleskill,9,True,3,2,1,win,5247331,962,2663419,2024,3
 2,5,2,0,1,4,0,0,0,0,0,0,3,0,0,0,0,0,0,03/03/2024,home,16580,1468,Mt. St. Mary (NY),9,True,6,5,1,win,5250396,962,2663419,2024,3
+1,5,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/09/2024,home,16580,50,Bates,9,True,6,8,-2,loss,4529773,962,2663419,2024,3
+2,4,2,0,0,2,0,0,0,0,0,0,1,0,0,0,2,0,0,03/09/2024,home,16580,50,Bates,9,True,3,7,-4,loss,4543879,962,2663419,2024,3
+0,6,1,0,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,03/10/2024,home,16580,50,Bates,15,True,2,4,-2,loss,4530130,962,2663419,2024,3

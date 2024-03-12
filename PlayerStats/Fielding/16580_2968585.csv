@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/17/2024,away,16580,111,UC Riverside,9,True,7,11,-4,loss,4525776,466,2968585,2024,1
 0,1,1,0,0,0,0,0,0,0,02/27/2024,away,16580,110,UCLA,9,True,4,5,-1,loss,4527544,466,2968585,2024,1
+0,1,1,0,0,0,0,1,0,0,03/09/2024,away,16580,626,San Diego St.,9,True,8,2,6,win,4529557,466,2968585,2024,1

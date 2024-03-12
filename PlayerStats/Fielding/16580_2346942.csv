@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,4,0,0,0,02/16/2024,neutral,16580,1062,East Tex. Baptist,9,True,0,5,-5,loss,4525568,374,2346942,2024,3
 0,1,1,0,0,0,0,0,0,0,02/23/2024,neutral,16580,622,Salisbury,9,True,8,5,3,win,4526588,374,2346942,2024,3
 0,0,0,0,0,0,1,1,0,0,03/02/2024,home,16580,815,York (PA),9,True,6,11,-5,loss,5250736,374,2346942,2024,3
+0,0,1,1,0,0,1,0,0,0,03/10/2024,away,16580,75,Bridgewater (VA),10,True,6,7,-1,loss,4529730,374,2346942,2024,3

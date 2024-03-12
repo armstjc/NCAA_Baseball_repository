@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2.0,0.0,1,0,0,3,1,0,10,6,0,0,0,0,0,1,0,0,0,0,0,36,3,1,0,0,0,4,1,0,02/25/2024,away,16580,1014,Col. of Charleston,9,True,0,13,-13,loss,4527396,817,2659337,2024,1
 1,1,2.0,0.0,1,1,1,4,0,0,9,5,0,0,0,0,0,0,0,0,0,0,0,40,4,0,0,0,0,1,0,0,03/05/2024,away,16580,519,Ohio,9,True,19,21,-2,loss,4528954,817,2659337,2024,1
+1,1,2.0,0.0,8,9,9,3,2,0,18,14,0,0,0,1,0,1,0,0,0,0,0,66,0,3,0,1,0,1,1,0,03/10/2024,away,16580,255,Georgia Tech,9,True,2,18,-16,loss,4529995,817,2659337,2024,1

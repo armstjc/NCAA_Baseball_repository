@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/03/2024,away,16580,406,Mercer,9,True,10,9,1,win,4528435,500,2153741,2024,1
+1,0,1,0,0,0,2,0,0,0,03/08/2024,away,16580,523,Old Dominion,9,True,8,4,4,win,4529524,500,2153741,2024,1

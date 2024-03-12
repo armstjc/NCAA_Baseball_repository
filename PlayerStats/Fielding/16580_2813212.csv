@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,1,0,0,02/17/2024,home,16580,254,Georgia St.,9,True,4,2,2,win,4525738,474,2813212,2024,1
 0,0,0,0,0,0,1,0,0,0,02/24/2024,home,16580,219,Evansville,10,True,3,2,1,win,4526809,474,2813212,2024,1
+0,1,2,1,0,0,0,0,0,0,03/09/2024,away,16580,234,Florida St.,9,True,7,15,-8,loss,4529543,474,2813212,2024,1

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,0,5,0,0,0,0,0,0,0,03/02/2024,away,16580,474,New Orleans,9,True,2,4,-2,loss,4528054,6,2829470,2024,1
 2,0,2,0,0,0,0,0,0,0,03/03/2024,away,16580,474,New Orleans,9,True,4,14,-10,loss,4528457,6,2829470,2024,1
+2,0,2,0,0,0,0,0,0,0,03/09/2024,away,16580,498,ULM,9,True,1,18,-17,loss,4529847,6,2829470,2024,1

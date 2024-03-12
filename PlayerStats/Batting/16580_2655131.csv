@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,03/05/2024,home,16580,620,St. Thomas (MN),9,True,9,3,6,win,4492956,312,2655131,2024,1
+0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,03/09/2024,away,16580,315,Jacksonville St.,9,True,20,1,19,win,5252665,312,2655131,2024,1

@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,neutral,16580,582,Rockford,9,True,11,18,-7,loss,5067751,987,2664948,2024,3
 2,4,1,1,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,03/06/2024,neutral,16580,281,Hiram,9,True,17,13,4,win,4529064,987,2664948,2024,3
+0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,03/07/2024,neutral,16580,281,Hiram,9,True,1,9,-8,loss,4529163,987,2664948,2024,3

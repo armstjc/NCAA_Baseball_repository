@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,03/03/2024,home,16580,713,Trinity (CT),9,True,1,9,-8,loss,5251015,27892,2137353,2024,3
 2,3,0,0,0,0,0,1,2,1,0,0,1,0,0,0,1,0,0,03/05/2024,home,16580,30083,SUNY Cobleskill,9,True,11,19,-8,loss,5250512,27892,2137353,2024,3
+2,4,3,1,0,4,0,2,0,0,0,0,1,0,0,0,2,0,0,03/08/2024,neutral,16580,30114,Penn St.-Abington,9,True,12,0,12,win,4529323,27892,2137353,2024,3
+2,3,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,03/09/2024,away,16580,783,Widener,9,True,7,5,2,win,4529701,27892,2137353,2024,3

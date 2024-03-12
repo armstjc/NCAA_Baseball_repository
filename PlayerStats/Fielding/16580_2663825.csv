@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 6,1,8,1,0,0,0,0,0,0,03/02/2024,neutral,16580,1355,Schreiner,9,True,15,10,5,win,4528192,615,2663825,2024,3
 4,0,4,0,0,0,0,0,0,0,03/04/2024,neutral,16580,121,Carthage,9,True,5,16,-11,loss,4528760,615,2663825,2024,3
+1,0,1,0,0,0,0,0,0,0,03/10/2024,away,16580,372,Luther,9,True,10,1,9,win,4544973,615,2663825,2024,3

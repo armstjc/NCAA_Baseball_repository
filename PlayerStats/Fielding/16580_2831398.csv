@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,03/01/2024,away,16580,751,Wash. & Jeff.,9,True,5,10,-5,loss,4527731,11839,2831398,2024,3
+2,0,2,0,0,0,0,0,0,0,03/08/2024,neutral,16580,320,John Carroll,9,True,7,4,3,win,4529378,11839,2831398,2024,3
+2,0,2,0,0,0,0,0,0,0,03/08/2024,neutral,16580,320,John Carroll,9,True,5,8,-3,loss,4544960,11839,2831398,2024,3
+5,0,5,0,0,0,0,0,0,0,03/09/2024,neutral,16580,114,Calvin,9,True,10,15,-5,loss,4529787,11839,2831398,2024,3
+1,0,1,0,0,0,0,0,0,0,03/10/2024,home,16580,712,TCNJ,9,True,0,5,-5,loss,4530227,11839,2831398,2024,3
+2,0,2,0,0,0,0,0,0,0,03/11/2024,neutral,16580,30047,Keystone,9,True,0,9,-9,loss,4530256,11839,2831398,2024,3

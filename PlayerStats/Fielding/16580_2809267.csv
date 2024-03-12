@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,02/18/2024,away,16580,1124,Hendrix,9,True,12,0,12,win,4526021,755,2809267,2024,3
 2,0,2,0,0,0,0,0,0,0,02/24/2024,home,16580,150,Coe,9,True,10,1,9,win,5249467,755,2809267,2024,3
+0,1,1,0,0,0,0,0,0,0,03/09/2024,home,16580,137,UChicago,9,True,15,0,15,win,4529755,755,2809267,2024,3
+2,0,2,0,0,0,0,0,0,0,03/10/2024,home,16580,137,UChicago,9,True,12,8,4,win,4530111,755,2809267,2024,3

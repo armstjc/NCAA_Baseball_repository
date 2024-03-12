@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,1,0,0,1,0,1,1,0,0,0,1,0,0,0,1,0,0,03/02/2024,neutral,16580,1315,Pitt.-Bradford,10,True,10,9,1,win,5250697,242,2803887,2024,3
+0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/09/2024,neutral,16580,30219,Dean,9,True,8,3,5,win,4529688,242,2803887,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2024,neutral,16580,1163,La Roche,9,True,9,5,4,win,4530060,242,2803887,2024,3
+0,3,0,0,0,0,0,1,0,0,1,0,2,0,0,0,0,0,0,03/11/2024,neutral,16580,272,Hartford,9,True,5,10,-5,loss,4530265,242,2803887,2024,3

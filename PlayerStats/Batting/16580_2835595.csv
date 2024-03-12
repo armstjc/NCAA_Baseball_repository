@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,1,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,03/03/2024,away,16580,30042,Mitchell,9,True,2,7,-5,loss,4528713,73,2835595,2024,3
 3,4,1,1,0,2,0,1,2,0,0,0,2,0,0,0,0,0,0,03/05/2024,away,16580,713,Trinity (CT),9,True,13,8,5,win,4528948,73,2835595,2024,3
+1,4,1,0,0,1,0,0,0,0,0,0,2,0,0,0,1,0,0,03/09/2024,away,16580,399,Mass. Maritime,9,True,7,4,3,win,4529782,73,2835595,2024,3

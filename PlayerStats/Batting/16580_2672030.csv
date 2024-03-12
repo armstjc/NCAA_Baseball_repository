@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,03/02/2024,away,16580,120,Carroll (WI),9,True,4,6,-2,loss,4528200,30172,2672030,2024,3
 0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,03/03/2024,away,16580,120,Carroll (WI),9,True,7,14,-7,loss,4544589,30172,2672030,2024,3
+1,4,2,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,03/09/2024,neutral,16580,53,Beloit,9,True,4,9,-5,loss,4529672,30172,2672030,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2024,neutral,16580,580,RIT,9,True,2,4,-2,loss,4530036,30172,2672030,2024,3
+1,4,1,0,0,1,0,3,0,1,0,0,2,0,0,0,0,0,0,03/10/2024,neutral,16580,939,Anderson (IN),9,True,12,13,-1,loss,4530031,30172,2672030,2024,3

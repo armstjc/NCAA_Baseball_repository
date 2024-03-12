@@ -7,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 4,0,5,1,0,0,2,0,0,0,02/28/2024,home,16580,30065,VTSU Lyndon,9,True,12,2,10,win,4527662,225,2951041,2024,3
 6,0,6,0,0,0,1,0,0,0,03/02/2024,neutral,16580,491,N.C. Wesleyan,9,True,18,2,16,win,4527849,225,2951041,2024,3
 3,0,4,1,0,0,3,0,0,0,03/03/2024,neutral,16580,21830,Piedmont,9,True,0,9,-9,loss,4528544,225,2951041,2024,3
+2,1,4,1,0,0,3,0,0,0,03/10/2024,home,16580,565,Randolph-Macon,9,True,5,8,-3,loss,4529810,225,2951041,2024,3

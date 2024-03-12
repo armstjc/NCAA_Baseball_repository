@@ -12,3 +12,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,2,1,0,0,0,0,0,0,03/03/2024,home,16580,610,Saint Mary's (CA),9,True,4,15,-11,loss,4528477,1356,2471835,2024,1
 1,1,2,0,0,0,0,0,0,0,03/08/2024,away,16580,30135,California Baptist,10,True,2,3,-1,loss,4529259,1356,2471835,2024,1
 1,2,3,0,0,0,0,0,0,0,03/09/2024,away,16580,30135,California Baptist,9,True,4,9,-5,loss,4529550,1356,2471835,2024,1
+0,2,2,0,0,0,0,0,0,0,03/10/2024,away,16580,30135,California Baptist,9,True,0,1,-1,loss,4529963,1356,2471835,2024,1

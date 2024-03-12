@@ -1,2 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2.2,0.0,5,7,7,3,2,0,16,13,3,0,1,0,0,0,0,0,0,0,0,64,2,4,0,1,0,1,0,0,02/25/2024,away,16580,195,Earlham,9,True,4,14,-10,loss,4543949,525,2491699,2024,3
+1,1,5.0,0.0,5,1,0,3,4,0,24,21,1,0,0,0,1,0,0,0,0,0,0,86,6,6,1,0,0,1,0,0,03/10/2024,away,16580,1461,Wilmington (OH),9,True,5,1,4,win,4529600,525,2491699,2024,3
+1,1,5.0,0.0,5,1,0,3,4,0,24,21,1,0,0,0,1,0,0,0,0,0,0,106,6,6,1,0,0,1,0,0,03/10/2024,away,16580,1461,Wilmington (OH),9,True,5,1,4,win,5253064,525,2491699,2024,3

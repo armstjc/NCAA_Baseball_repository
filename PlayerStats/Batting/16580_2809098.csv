@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,home,16580,806,Wittenberg,9,True,4,13,-9,loss,4543950,225,2809098,2024,3
+0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,03/07/2024,away,16580,389,Mary Baldwin,9,True,11,8,3,win,4529191,225,2809098,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2024,home,16580,565,Randolph-Macon,9,True,5,8,-3,loss,4529810,225,2809098,2024,3
+0,4,1,0,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,03/10/2024,home,16580,565,Randolph-Macon,9,True,10,21,-11,loss,4544002,225,2809098,2024,3

@@ -1,3 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,4,1,0,0,0,0,0,0,03/03/2024,home,16580,8486,Lasell,9,True,4,11,-7,loss,4528636,684,2836882,2024,3
 1,2,3,0,0,0,0,0,0,0,03/03/2024,home,16580,8486,Lasell,9,True,15,0,15,win,4544777,684,2836882,2024,3
+0,3,4,1,0,0,0,0,1,0,03/07/2024,neutral,16580,30039,North Central (MN),9,True,14,3,11,win,4529155,684,2836882,2024,3
+0,2,3,1,0,0,0,0,0,0,03/08/2024,neutral,16580,618,St. Scholastica,9,True,3,4,-1,loss,4529507,684,2836882,2024,3
+0,4,4,0,0,0,0,0,0,0,03/09/2024,neutral,16580,1164,Lakeland,9,True,6,5,1,win,4529887,684,2836882,2024,3
+1,3,4,0,0,0,0,0,0,0,03/10/2024,neutral,16580,496,North Park,9,True,16,13,3,win,4530093,684,2836882,2024,3
+1,3,4,0,0,0,0,0,0,0,03/11/2024,neutral,16580,641,Simpson,9,True,10,4,6,win,4530281,684,2836882,2024,3

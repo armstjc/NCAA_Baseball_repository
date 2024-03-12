@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,03/02/2024,away,16580,8567,Mt. St. Joseph,9,True,4,2,2,win,4528288,520,2687039,2024,3
 0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/02/2024,away,16580,8567,Mt. St. Joseph,9,True,1,2,-1,loss,4543626,520,2687039,2024,3
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2024,home,16580,531,Otterbein,9,True,3,15,-12,loss,5252746,520,2687039,2024,3
+1,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,03/11/2024,neutral,16580,571,Rhode Island Col.,9,True,10,6,4,win,4530292,520,2687039,2024,3

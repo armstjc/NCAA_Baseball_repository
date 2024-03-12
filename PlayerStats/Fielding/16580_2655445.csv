@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/27/2024,home,16580,104,UC Santa Barbara,9,True,10,9,1,win,4526322,541,2655445,2024,1
+1,0,1,0,0,0,0,0,0,0,03/08/2024,home,16580,739,Villanova,9,True,2,7,-5,loss,4529258,541,2655445,2024,1
+2,4,6,0,0,0,0,0,0,0,03/09/2024,home,16580,739,Villanova,9,True,0,6,-6,loss,4529549,541,2655445,2024,1
+1,0,1,0,0,0,0,0,0,0,03/10/2024,home,16580,739,Villanova,9,True,1,7,-6,loss,4529962,541,2655445,2024,1

@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,home,16580,480,CCNY,9,True,14,2,12,win,4544596,30029,2512762,2024,3
 2,5,1,0,0,1,0,2,0,1,0,0,2,0,0,0,0,0,0,03/04/2024,away,16580,737,Vassar,11,True,11,12,-1,loss,4542813,30029,2512762,2024,3
+1,2,2,1,0,3,0,0,1,1,0,0,0,0,0,0,1,0,0,03/09/2024,home,16580,607,St. Lawrence,9,True,5,7,-2,loss,5252575,30029,2512762,2024,3
+0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2024,home,16580,282,Hobart,9,True,1,10,-9,loss,4530103,30029,2512762,2024,3
+1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/10/2024,home,16580,282,Hobart,9,True,8,6,2,win,4542586,30029,2512762,2024,3

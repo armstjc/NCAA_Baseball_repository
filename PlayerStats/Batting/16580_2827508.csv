@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/27/2024,home,16580,534,Pacific,9,True,17,3,14,win,4527579,108,2827508,2024,1
+1,4,1,0,0,4,1,2,0,0,0,0,0,0,0,0,0,0,0,03/11/2024,home,16580,30024,Utah Valley,9,True,8,7,1,win,4530297,108,2827508,2024,1

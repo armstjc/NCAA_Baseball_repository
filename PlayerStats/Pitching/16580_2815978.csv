@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,3.0,0.0,1,0,0,0,1,0,11,10,0,0,0,0,0,0,0,0,0,0,1,33,4,4,0,0,0,2,0,0,02/24/2024,neutral,16580,623,Salve Regina,9,True,9,5,4,win,4527043,681,2815978,2024,3
 1,0,5.0,0.0,5,2,1,0,6,0,23,21,0,0,0,1,1,1,0,0,0,1,0,82,4,6,1,0,0,2,2,0,03/03/2024,away,16580,1340,St. Joseph's (L.I.),9,True,11,9,2,win,4528334,681,2815978,2024,3
+1,0,5.0,0.0,7,5,5,1,7,0,23,20,1,1,0,1,0,0,0,0,0,0,2,83,3,5,0,0,0,2,3,0,03/10/2024,neutral,16580,583,Roger Williams,9,True,7,15,-8,loss,4530052,681,2815978,2024,3

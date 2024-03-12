@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,1,0,0,4,1,3,0,0,0,0,0,0,0,0,0,0,0,03/06/2024,neutral,16580,351,Lebanon Valley,9,True,10,18,-8,loss,4529080,335,2689160,2024,3
+0,1,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,03/08/2024,neutral,16580,511,Norwich,9,True,11,0,11,win,4544954,335,2689160,2024,3
+0,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,03/09/2024,neutral,16580,8486,Lasell,9,True,2,1,1,win,4529873,335,2689160,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/11/2024,neutral,16580,258,Gettysburg,9,True,9,0,9,win,4530285,335,2689160,2024,3

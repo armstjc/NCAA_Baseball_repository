@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/27/2024,away,16580,392,Maryland,9,True,5,14,-9,loss,4492166,251,2825793,2024,1
 1,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,03/03/2024,home,16580,222,FDU,9,True,9,2,7,win,4528674,251,2825793,2024,1
+0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,03/10/2024,home,16580,167,Cornell,9,True,20,0,20,win,4543870,251,2825793,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2024,home,16580,167,Cornell,9,True,24,6,18,win,4530180,251,2825793,2024,1

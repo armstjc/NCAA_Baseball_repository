@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,3,0,0,0,0,1,0,0,02/25/2024,away,16580,389,Mary Baldwin,9,True,1,8,-7,loss,4527038,25719,2663546,2024,3
 0,1,1,0,0,0,5,0,0,0,03/02/2024,neutral,16580,1332,Dominican (IL),9,True,3,9,-6,loss,4528204,25719,2663546,2024,3
+0,1,1,0,0,0,2,0,0,0,03/08/2024,neutral,16580,10972,Chatham,9,True,4,7,-3,loss,4529379,25719,2663546,2024,3

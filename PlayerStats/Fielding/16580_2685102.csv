@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 6,0,6,0,0,0,0,0,0,0,03/03/2024,away,16580,322,Johns Hopkins,9,True,2,15,-13,loss,4528512,325,2685102,2024,3
+4,0,5,1,0,1,0,0,0,0,03/08/2024,away,16580,30072,St. Joseph's (Brkln),9,True,13,2,11,win,5252401,325,2685102,2024,3
+8,1,9,0,0,0,1,2,0,0,03/11/2024,home,16580,30072,St. Joseph's (Brkln),9,True,33,16,17,win,4530264,325,2685102,2024,3

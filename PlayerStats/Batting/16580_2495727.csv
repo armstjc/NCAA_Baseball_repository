@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,02/25/2024,neutral,16580,40,Augustana (IL),9,True,3,18,-15,loss,4527291,641,2495727,2024,3
 2,4,2,1,0,3,0,3,0,1,0,0,1,0,0,0,0,0,0,03/03/2024,home,16580,268,Hamline,9,True,12,10,2,win,5246828,641,2495727,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2024,neutral,16580,605,St. Joseph's (ME),9,True,9,0,9,win,4544979,641,2495727,2024,3
+0,4,1,1,0,2,0,2,0,0,0,0,1,1,0,0,0,0,0,03/11/2024,neutral,16580,684,Suffolk,9,True,4,10,-6,loss,4530281,641,2495727,2024,3
+0,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,03/12/2024,neutral,16580,286,Hope,9,True,5,6,-1,loss,5253309,641,2495727,2024,3

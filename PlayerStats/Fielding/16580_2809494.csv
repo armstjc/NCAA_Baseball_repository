@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/02/2024,away,16580,2694,Franklin,9,True,7,8,-1,loss,4543547,286,2809494,2024,3
+0,2,2,0,0,0,2,0,0,0,03/11/2024,neutral,16580,1111,Greenville,9,True,4,6,-2,loss,4530247,286,2809494,2024,3

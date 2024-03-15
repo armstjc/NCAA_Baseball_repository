@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,1,0,0,02/18/2024,away,16580,130,Central Mo.,9,True,4,10,-6,loss,4526209,30221,2669189,2024,2
 1,1,2,0,0,0,0,1,0,0,03/02/2024,away,16580,561,Quincy,8,True,4,5,-1,loss,4543012,30221,2669189,2024,2
+1,0,1,0,0,0,1,0,0,0,03/09/2024,away,16580,24639,Nova Southeastern,9,True,4,11,-7,loss,4529599,30221,2669189,2024,2

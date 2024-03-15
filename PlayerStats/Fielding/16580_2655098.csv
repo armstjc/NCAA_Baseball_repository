@@ -1,6 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 11,0,11,0,0,0,0,0,1,0,02/19/2024,away,16580,106,California (PA),9,True,6,7,-1,loss,5245652,12799,2655098,2024,2
 3,0,3,0,0,0,0,0,0,0,02/20/2024,away,16580,106,California (PA),9,True,2,18,-16,loss,5245653,12799,2655098,2024,2
+8,1,9,0,0,0,0,0,3,0,03/02/2024,away,16580,985,Bluefield St.,9,True,5,3,2,win,4528412,12799,2655098,2024,2
 6,0,6,0,0,0,0,0,1,0,03/03/2024,away,16580,985,Bluefield St.,8,True,6,7,-1,loss,4528720,12799,2655098,2024,2
 7,0,7,0,0,0,0,0,0,0,03/03/2024,away,16580,985,Bluefield St.,9,True,17,6,11,win,4542668,12799,2655098,2024,2
+10,0,10,0,0,0,0,0,2,0,03/08/2024,away,16580,1098,Glenville St.,9,True,8,1,7,win,4529698,12799,2655098,2024,2
 13,0,13,0,0,0,0,0,1,0,03/08/2024,neutral,16580,143,Clarion,9,True,7,1,6,win,4529349,12799,2655098,2024,2
+6,1,7,0,0,0,0,0,2,0,03/10/2024,home,16580,1098,Glenville St.,9,True,16,11,5,win,4530071,12799,2655098,2024,2

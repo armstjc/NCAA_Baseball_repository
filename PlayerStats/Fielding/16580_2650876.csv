@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/03/2024,away,16580,93,CSUSB,9,True,5,21,-16,loss,5015993,11403,2650876,2024,2
 1,2,3,0,0,0,2,0,0,0,03/03/2024,home,16580,30125,Minot St.,11,True,15,17,-2,loss,4528590,11403,2650876,2024,2
+0,0,0,0,0,0,2,1,0,0,03/10/2024,away,16580,155,Colo. Sch. of Mines,9,True,2,14,-12,loss,4529443,11403,2650876,2024,2

@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/16/2024,away,16580,24639,Nova Southeastern,10,True,9,8,1,win,5245943,1167,2809240,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2024,home,16580,39,Augusta,9,True,10,8,2,win,5252879,1167,2809240,2024,2
+0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,03/12/2024,home,16580,1085,Francis Marion,9,True,24,7,17,win,4530517,1167,2809240,2024,2

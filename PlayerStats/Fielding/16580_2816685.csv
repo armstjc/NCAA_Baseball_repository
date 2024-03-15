@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,03/02/2024,home,16580,8965,East Central,9,True,18,11,7,win,4528279,30152,2816685,2024,2
+1,1,2,0,0,0,0,0,0,0,03/10/2024,away,16580,30178,Northwestern Okla.,9,True,9,12,-3,loss,5252817,30152,2816685,2024,2
+3,1,4,0,0,0,0,0,0,0,03/12/2024,home,16580,8965,East Central,9,True,19,5,14,win,4530447,30152,2816685,2024,2

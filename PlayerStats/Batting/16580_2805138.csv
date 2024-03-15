@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,03/02/2024,away,16580,456,UNC Asheville,9,True,5,12,-7,loss,4543554,639,2805138,2024,1
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/13/2024,away,16580,67,Boston College,9,True,4,20,-16,loss,4530669,639,2805138,2024,1

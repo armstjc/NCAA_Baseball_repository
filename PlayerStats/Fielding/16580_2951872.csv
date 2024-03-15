@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,02/20/2024,home,16580,8411,Ark.-Monticello,9,True,0,15,-15,loss,4526357,1116,2951872,2024,2
 0,1,1,0,0,0,0,0,0,0,02/24/2024,home,16580,30202,Okla. Baptist,9,True,10,5,5,win,4544129,1116,2951872,2024,2
+0,0,0,0,0,0,1,0,0,0,03/12/2024,home,16580,435,Missouri S&T,9,True,3,6,-3,loss,4530507,1116,2951872,2024,2

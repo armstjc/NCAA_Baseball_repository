@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,02/17/2024,home,16580,219,Evansville,9,True,3,14,-11,loss,4525984,527,2947044,2024,1
 0,0,0,0,0,0,3,0,0,0,03/05/2024,home,16580,129,Central Mich.,9,True,15,5,10,win,4528992,527,2947044,2024,1
+1,2,3,0,0,0,0,0,1,0,03/12/2024,away,16580,31,Arkansas,9,True,2,4,-2,loss,4530304,527,2947044,2024,1

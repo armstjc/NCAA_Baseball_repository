@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,03/09/2024,away,16580,255,Georgia Tech,9,True,6,16,-10,loss,4529636,817,2807619,2024,1
 0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/09/2024,away,16580,255,Georgia Tech,9,True,7,17,-10,loss,4543352,817,2807619,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,03/12/2024,away,16580,331,Kent St.,9,True,0,27,-27,loss,4530369,817,2807619,2024,1

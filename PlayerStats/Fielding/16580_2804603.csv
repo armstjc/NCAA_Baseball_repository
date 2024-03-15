@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/17/2024,home,16580,93,CSUSB,9,True,1,9,-8,loss,4542631,30220,2804603,2024,2
 0,1,1,0,0,0,1,0,0,0,03/02/2024,away,16580,2697,Hawaii Hilo,9,True,4,2,2,win,4543534,30220,2804603,2024,2
+0,1,1,0,0,0,0,0,0,0,03/09/2024,home,16580,30199,CUI,8,True,8,7,1,win,4543843,30220,2804603,2024,2

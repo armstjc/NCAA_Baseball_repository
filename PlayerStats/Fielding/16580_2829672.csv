@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/09/2024,home,16580,561,Quincy,9,True,3,7,-4,loss,4529832,30120,2829672,2024,2
+3,0,3,0,0,0,0,0,0,0,03/09/2024,home,16580,561,Quincy,9,True,11,7,4,win,4544142,30120,2829672,2024,2
+3,0,3,0,0,0,0,0,0,0,03/10/2024,home,16580,561,Quincy,9,True,10,16,-6,loss,4530202,30120,2829672,2024,2
+2,0,2,0,0,0,0,0,0,0,03/12/2024,away,16580,728,Upper Iowa,12,True,10,9,1,win,4530457,30120,2829672,2024,2

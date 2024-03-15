@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/09/2024,home,16580,11403,Colo. Christian,9,True,4,1,3,win,5020613,30180,2818899,2024,2
+0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2024,home,16580,1314,Pittsburg St.,9,True,0,11,-11,loss,4529402,30180,2818899,2024,2
+0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2024,home,16580,9012,Mo. Southern St.,9,True,1,5,-4,loss,4530475,30180,2818899,2024,2

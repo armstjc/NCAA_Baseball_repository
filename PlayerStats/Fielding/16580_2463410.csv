@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,1,0,0,03/02/2024,home,16580,1433,Wayne St. (NE),9,True,5,3,2,win,5250760,435,2463410,2024,2
+0,0,0,0,0,0,3,0,0,0,03/10/2024,home,16580,309,UIndy,9,True,11,12,-1,loss,5252867,435,2463410,2024,2

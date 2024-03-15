@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/03/2024,home,16580,10870,Shepherd,9,True,8,7,1,win,4544750,30181,2814105,2024,2
 0,1,1,0,0,0,0,0,0,0,02/09/2024,away,16580,1238,Montevallo,9,True,3,5,-2,loss,5067792,30181,2814105,2024,2
+0,0,0,0,0,0,1,0,0,0,03/10/2024,home,16580,1000,Carson-Newman,9,True,6,10,-4,loss,5252805,30181,2814105,2024,2

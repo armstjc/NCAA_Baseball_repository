@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,02/03/2024,home,16580,30153,Union (TN),9,True,15,2,13,win,4544913,30154,2669369,2024,2
 1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,02/09/2024,away,16580,766,West Ga.,12,True,10,6,4,win,5067819,30154,2669369,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/13/2024,home,16580,347,Lane,9,True,13,0,13,win,4544600,30154,2669369,2024,2

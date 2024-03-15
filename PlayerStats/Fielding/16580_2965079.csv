@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 6,0,6,0,0,0,0,0,0,0,03/05/2024,away,16580,1085,Francis Marion,9,True,8,6,2,win,4528972,1347,2965079,2024,2
 3,1,4,0,0,0,0,0,0,0,03/08/2024,neutral,16580,3,Adelphi,9,True,4,12,-8,loss,5251513,1347,2965079,2024,2
 1,0,1,0,0,0,0,0,0,0,03/09/2024,neutral,16580,593,St. Anselm,9,True,12,6,6,win,4529666,1347,2965079,2024,2
+1,0,2,1,0,0,0,0,0,0,03/10/2024,neutral,16580,1059,D'Youville,9,True,5,10,-5,loss,5251630,1347,2965079,2024,2

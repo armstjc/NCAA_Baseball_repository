@@ -1,8 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/24/2024,home,16580,38,Augsburg,10,True,8,7,1,win,5249452,30031,2335314,2024,3
-3,2,6,1,0,0,0,0,0,0,02/26/2024,away,16580,266,Gust. Adolphus,9,True,2,12,-10,loss,4532104,30031,2335314,2024,3
-1,2,3,0,0,0,0,0,2,0,02/26/2024,away,16580,266,Gust. Adolphus,9,True,2,22,-20,loss,4544477,30031,2335314,2024,3
+3,2,6,1,0,0,0,0,0,0,02/26/2024,away,16580,266,Gustavus Adolphus,9,True,2,12,-10,loss,4532104,30031,2335314,2024,3
+1,2,3,0,0,0,0,0,2,0,02/26/2024,away,16580,266,Gustavus Adolphus,9,True,2,22,-20,loss,4544477,30031,2335314,2024,3
 0,1,1,0,0,0,0,0,0,0,03/01/2024,home,16580,376,Macalester,9,True,9,1,8,win,5250599,30031,2335314,2024,3
 2,3,6,1,0,0,0,0,0,0,03/02/2024,home,16580,60,Bethel (MN),9,True,4,6,-2,loss,5250722,30031,2335314,2024,3
 1,3,4,0,0,0,0,0,1,0,03/02/2024,home,16580,60,Bethel (MN),9,True,2,9,-7,loss,5250755,30031,2335314,2024,3
 2,0,2,0,0,0,0,0,0,0,03/08/2024,neutral,16580,538,Penn St.-Behrend,9,True,2,9,-7,loss,4529334,30031,2335314,2024,3
+1,3,4,0,0,0,0,0,0,0,03/15/2024,neutral,16580,8486,Lasell,9,True,0,1,-1,loss,4530945,30031,2335314,2024,3

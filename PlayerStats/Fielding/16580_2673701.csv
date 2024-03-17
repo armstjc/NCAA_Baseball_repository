@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 8,0,8,0,0,0,0,0,0,0,03/09/2024,neutral,16580,117,Capital,9,True,8,14,-6,loss,4529886,707,2673701,2024,3
+11,0,11,0,0,0,0,0,1,0,03/10/2024,neutral,16580,770,WestConn,9,True,6,4,2,win,4530215,707,2673701,2024,3
+1,0,2,1,0,0,0,0,0,0,03/11/2024,neutral,16580,195,Earlham,9,True,1,11,-10,loss,4530294,707,2673701,2024,3

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,0,0,0,02/17/2024,home,16580,374,Lynchburg,9,True,3,10,-7,loss,4526013,28593,2952415,2024,3
 0,0,0,0,0,0,3,0,0,0,03/09/2024,away,16580,2713,Oglethorpe,9,True,5,6,-1,loss,4544001,28593,2952415,2024,3
+0,0,0,0,0,0,1,0,0,0,03/12/2024,home,16580,217,Emory,10,True,11,10,1,win,4530518,28593,2952415,2024,3

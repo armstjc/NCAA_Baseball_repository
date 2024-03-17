@@ -1,0 +1,6 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,0,4,1,0,0,0,0,0,0,03/10/2024,neutral,16580,1164,Lakeland,9,True,7,14,-7,loss,4530038,30040,2686261,2024,3
+3,0,3,0,0,0,0,0,0,0,03/11/2024,away,16580,555,Principia,9,True,5,6,-1,loss,4530300,30040,2686261,2024,3
+3,0,3,0,0,0,0,0,0,0,03/11/2024,neutral,16580,555,Principia,9,True,10,14,-4,loss,4543197,30040,2686261,2024,3
+3,0,3,0,0,0,0,0,0,0,03/13/2024,neutral,16580,486,MCLA,9,True,3,4,-1,loss,4530275,30040,2686261,2024,3
+2,0,2,0,0,0,0,0,0,0,03/13/2024,neutral,16580,486,MCLA,9,True,11,2,9,win,4543191,30040,2686261,2024,3

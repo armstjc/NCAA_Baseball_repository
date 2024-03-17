@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/10/2024,neutral,16580,379,Me.-Farmington,9,True,15,3,12,win,4530077,618,2684431,2024,3
 1,0,1,0,0,0,0,0,0,0,03/10/2024,neutral,16580,379,Me.-Farmington,9,True,15,0,15,win,4544971,618,2684431,2024,3
+3,0,3,0,0,0,0,0,1,0,03/12/2024,neutral,16580,30165,SUNY Canton,9,True,21,4,17,win,4530408,618,2684431,2024,3

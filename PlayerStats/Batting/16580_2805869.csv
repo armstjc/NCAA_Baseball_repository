@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,neutral,16580,759,Webster,9,True,1,7,-6,loss,4526974,2694,2805869,2024,3
 0,4,2,0,0,2,0,1,0,0,0,0,1,0,1,0,0,0,0,03/09/2024,home,16580,15,Albion,9,True,15,3,12,win,4543562,2694,2805869,2024,3
+0,5,1,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,03/10/2024,home,16580,15,Albion,9,True,7,14,-7,loss,4530003,2694,2805869,2024,3
+1,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,03/12/2024,home,16580,1461,Wilmington (OH),9,True,20,9,11,win,4530381,2694,2805869,2024,3

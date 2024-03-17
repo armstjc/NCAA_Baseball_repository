@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,02/18/2024,away,16580,21830,Piedmont,9,True,9,4,5,win,4526073,23260,2661859,2024,3
 0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,02/24/2024,home,16580,531,Otterbein,9,True,4,7,-3,loss,4526774,23260,2661859,2024,3
+0,4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,03/11/2024,neutral,16580,779,Wheaton (MA),9,True,15,5,10,win,4530283,23260,2661859,2024,3

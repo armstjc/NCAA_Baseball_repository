@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,2,0,0,0,02/25/2024,neutral,16580,122,CWRU,9,True,8,9,-1,loss,4527152,313,2835577,2024,3
 3,1,4,0,0,0,1,0,0,0,03/03/2024,away,16580,724,Merchant Marine,9,True,2,0,2,win,4528292,313,2835577,2024,3
+0,4,6,2,0,0,3,1,0,0,03/11/2024,neutral,16580,713,Trinity (CT),9,True,6,5,1,win,4530301,313,2835577,2024,3

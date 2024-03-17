@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 8,0,8,0,0,0,9,0,0,0,03/03/2024,neutral,16580,50,Bates,9,True,1,10,-9,loss,4528296,548,2520571,2024,3
+4,1,5,0,0,1,1,1,0,0,03/13/2024,neutral,16580,272,Hartford,9,True,11,2,9,win,4530621,548,2520571,2024,3
+7,1,8,0,0,0,0,1,0,0,03/14/2024,neutral,16580,1340,St. Joseph's (L.I.),8,True,6,7,-1,loss,4530738,548,2520571,2024,3
+6,1,7,0,0,1,1,0,0,0,03/15/2024,neutral,16580,1163,La Roche,9,True,7,17,-10,loss,5253313,548,2520571,2024,3

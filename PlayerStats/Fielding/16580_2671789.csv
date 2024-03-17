@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,03/01/2024,away,16580,214,Emerson,9,True,14,11,3,win,4527830,170,2671789,2024,3
+1,0,2,1,0,0,0,0,0,0,03/10/2024,neutral,16580,589,Rutgers-Newark,9,True,9,23,-14,loss,4530039,170,2671789,2024,3
+3,0,3,0,0,0,0,0,0,0,03/11/2024,neutral,16580,1164,Lakeland,9,True,3,8,-5,loss,4530633,170,2671789,2024,3
+2,0,2,0,0,0,0,0,0,0,03/14/2024,neutral,16580,614,St. Norbert,9,True,10,15,-5,loss,4530741,170,2671789,2024,3

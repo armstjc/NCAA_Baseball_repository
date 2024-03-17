@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,02/24/2024,home,16580,519,Ohio,9,True,14,12,2,win,4527139,115,2967922,2024,1
 0,1,1,0,0,0,0,0,0,0,03/09/2024,home,16580,83,Bucknell,9,True,9,8,1,win,4529881,115,2967922,2024,1
+0,1,1,0,0,0,0,0,0,0,03/15/2024,home,16580,735,Valparaiso,9,True,10,9,1,win,4531082,115,2967922,2024,1

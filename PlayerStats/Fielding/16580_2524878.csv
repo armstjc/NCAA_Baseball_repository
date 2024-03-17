@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 9,2,11,0,0,0,0,0,0,0,02/29/2024,away,16580,715,Trinity (TX),9,True,14,3,11,win,4527717,805,2524878,2024,3
 7,2,9,0,0,0,0,1,0,0,03/02/2024,away,16580,715,Trinity (TX),9,True,1,9,-8,loss,4528092,805,2524878,2024,3
+16,1,17,0,0,0,1,0,0,0,03/12/2024,neutral,16580,137,UChicago,9,True,6,2,4,win,4530423,805,2524878,2024,3
+2,0,2,0,0,0,0,0,0,0,03/14/2024,neutral,16580,28593,Birmingham-So.,9,True,14,3,11,win,4530739,805,2524878,2024,3
+8,0,8,0,0,0,0,0,0,0,03/15/2024,neutral,16580,652,Sewanee,9,True,6,1,5,win,4530925,805,2524878,2024,3
+4,1,5,0,0,0,0,0,0,0,03/16/2024,neutral,16580,1130,Huntingdon,9,True,17,2,15,win,4531279,805,2524878,2024,3

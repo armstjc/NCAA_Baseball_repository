@@ -1,3 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,02/27/2024,home,16580,467,New England Col.,9,True,5,2,3,win,4527563,214,2522742,2024,3
 0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,03/10/2024,neutral,16580,453,Muhlenberg,9,True,7,3,4,win,4530037,214,2522742,2024,3
+0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,03/11/2024,neutral,16580,656,UMass Dartmouth,9,True,3,9,-6,loss,4780633,214,2522742,2024,3
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,03/13/2024,neutral,16580,605,St. Joseph's (ME),9,True,6,13,-7,loss,4530611,214,2522742,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/14/2024,neutral,16580,8687,Saint Joseph (CT),9,True,3,12,-9,loss,4530723,214,2522742,2024,3
+1,2,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,03/15/2024,neutral,16580,588,Rutgers-Camden,9,True,4,6,-2,loss,4530898,214,2522742,2024,3

@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,5,3,2,0,5,0,2,0,0,0,0,2,0,0,0,0,0,0,03/09/2024,neutral,16580,117,Capital,9,True,8,14,-6,loss,4529886,707,2673701,2024,3
+0,4,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2024,neutral,16580,770,WestConn,9,True,6,4,2,win,4530215,707,2673701,2024,3
+0,2,2,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2024,neutral,16580,195,Earlham,9,True,1,11,-10,loss,4530294,707,2673701,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/15/2024,neutral,16580,753,Washington Col.,9,True,4,19,-15,loss,4530944,707,2673701,2024,3

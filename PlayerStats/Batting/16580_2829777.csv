@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/02/2024,home,16580,9500,SUNY Poly,9,True,6,10,-4,loss,4543002,761,2829777,2024,3
+1,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,03/11/2024,neutral,16580,30084,Geneva,9,True,7,8,-1,loss,4530278,761,2829777,2024,3

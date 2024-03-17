@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/23/2024,home,16580,753,Washington Col.,9,True,3,1,2,win,4526669,12399,2509865,2024,3
+0,1,1,0,0,0,4,0,0,0,03/13/2024,neutral,16580,27892,Farmingdale St.,9,True,5,6,-1,loss,4530609,12399,2509865,2024,3

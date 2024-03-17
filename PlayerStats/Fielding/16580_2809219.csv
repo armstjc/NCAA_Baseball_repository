@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,03/02/2024,away,16580,755,WashU,9,True,9,5,4,win,4528208,300,2809219,2024,3
 1,0,1,0,0,0,0,0,0,0,03/03/2024,away,16580,755,WashU,9,True,3,12,-9,loss,4528599,300,2809219,2024,3
+3,5,8,0,0,0,0,0,0,0,03/10/2024,neutral,16580,681,Stockton,9,True,21,6,15,win,4530053,300,2809219,2024,3
+0,1,1,0,0,0,0,0,1,0,03/14/2024,neutral,16580,641,Simpson,9,True,6,5,1,win,4530733,300,2809219,2024,3
+1,1,4,2,0,0,0,0,0,0,03/15/2024,neutral,16580,779,Wheaton (MA),9,True,8,18,-10,loss,4530966,300,2809219,2024,3

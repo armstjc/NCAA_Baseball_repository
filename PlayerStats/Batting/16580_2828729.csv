@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/16/2024,home,16580,603,St. John's (NY),9,True,5,9,-4,loss,4525469,235,2828729,2024,1
 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/28/2024,home,16580,61,Bethune-Cookman,9,True,9,2,7,win,4527639,235,2828729,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/16/2024,home,16580,697,Texas A&M,9,True,6,10,-4,loss,4531110,235,2828729,2024,1

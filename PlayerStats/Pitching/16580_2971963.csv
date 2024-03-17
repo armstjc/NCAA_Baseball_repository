@@ -1,4 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2.1,0.0,1,0,0,3,1,0,11,8,0,0,0,0,0,0,0,0,0,0,0,46,4,2,0,0,0,3,0,0,02/17/2024,away,16580,24400,Concordia (TX),9,True,1,2,-1,loss,5246028,1094,2971963,2024,3
 1,0,1.1,0.0,2,1,1,1,0,0,9,5,1,0,0,0,1,2,0,0,0,1,0,27,3,1,0,0,0,3,0,0,02/24/2024,home,16580,1010,Central Wash.,9,True,4,3,1,win,4543612,1094,2971963,2024,3
-1,0,1.0,0.0,0,5,5,6,1,0,10,2,0,0,0,0,1,1,0,0,0,0,1,76,0,2,0,0,0,5,0,0,03/02/2024,away,16580,780,Whitman,9,True,4,17,-13,loss,4543530,1094,2971963,2024,3
+1,0,1.0,0.0,0,5,5,6,1,0,10,2,0,0,0,0,1,1,0,0,0,0,1,49,0,2,0,0,0,4,0,0,03/02/2024,away,16580,780,Whitman,9,True,4,17,-13,loss,4543530,1094,2971963,2024,3
+1,0,1.0,0.0,0,0,0,1,1,0,4,3,0,0,0,0,1,0,0,0,0,0,0,17,2,0,0,0,0,4,0,0,03/13/2024,home,16580,401,UMass Boston,9,True,13,6,7,win,4530588,1094,2971963,2024,3

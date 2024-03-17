@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,03/03/2024,home,16580,30170,Alfred St.,9,True,9,4,5,win,4543168,12973,2828920,2024,3
 1,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2024,home,16580,21852,Stevenson,9,True,15,0,15,win,4529684,12973,2828920,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/13/2024,away,16580,179,Delaware Valley,9,True,9,10,-1,loss,4530660,12973,2828920,2024,3

@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,3,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,02/16/2024,away,16580,573,Rhodes,9,True,3,13,-10,loss,4525466,1111,2500095,2024,3
+1,2,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,02/16/2024,away,16580,573,Rhodes,9,True,3,13,-10,loss,4525466,1111,2500095,2024,3
 0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/17/2024,neutral,16580,40,Augustana (IL),9,True,2,8,-6,loss,5246791,1111,2500095,2024,3
+3,4,3,1,0,7,1,3,1,0,0,0,1,0,0,0,0,0,0,03/11/2024,neutral,16580,496,North Park,9,True,7,9,-2,loss,4530253,1111,2500095,2024,3
+0,4,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,03/12/2024,neutral,16580,939,Anderson (IN),10,True,3,4,-1,loss,4530407,1111,2500095,2024,3
+0,4,1,1,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,03/14/2024,neutral,16580,166,Cornell College,9,True,5,10,-5,loss,4530755,1111,2500095,2024,3

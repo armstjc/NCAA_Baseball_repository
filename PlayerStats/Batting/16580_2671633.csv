@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,5,3,1,0,4,0,2,0,0,0,0,0,0,0,0,0,0,0,03/10/2024,away,16580,753,Washington Col.,9,True,13,6,7,win,4530096,8486,2671633,2024,3
+0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/12/2024,away,16580,195,Earlham,9,True,6,5,1,win,4530549,8486,2671633,2024,3
+0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/14/2024,neutral,16580,438,Monmouth (IL),9,True,4,5,-1,loss,4530756,8486,2671633,2024,3
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,03/15/2024,neutral,16580,30031,Northwestern-St. Paul,9,True,1,0,1,win,4530945,8486,2671633,2024,3

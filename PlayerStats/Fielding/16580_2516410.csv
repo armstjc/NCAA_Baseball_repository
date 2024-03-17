@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,03/02/2024,neutral,16580,78,SUNY Brockport,9,True,3,9,-6,loss,4543283,76,2516410,2024,3
 1,0,2,1,0,0,0,0,0,0,03/04/2024,neutral,16580,1254,Neumann,9,True,6,12,-6,loss,4528758,76,2516410,2024,3
+0,1,2,1,0,0,0,0,0,0,03/16/2024,home,16580,1099,Gordon,9,True,12,1,11,win,5253864,76,2516410,2024,3

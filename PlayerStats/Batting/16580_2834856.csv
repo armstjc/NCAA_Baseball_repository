@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,3,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/15/2024,away,16580,0,Apprentice,9,True,1,2,-1,loss,4530959,30064,2834856,2024,3
+2,3,1,1,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,03/16/2024,away,16580,0,Apprentice,9,True,10,8,2,win,4531401,30064,2834856,2024,3

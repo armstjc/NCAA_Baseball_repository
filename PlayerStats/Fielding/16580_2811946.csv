@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,03/03/2024,home,16580,126,Central (IA),9,True,19,9,10,win,4528593,166,2811946,2024,3
 1,1,2,0,0,0,0,0,0,0,03/10/2024,neutral,16580,614,St. Norbert,9,True,14,2,12,win,4544980,166,2811946,2024,3
+7,0,7,0,0,0,0,0,0,0,03/14/2024,neutral,16580,1111,Greenville,9,True,10,5,5,win,4530755,166,2811946,2024,3

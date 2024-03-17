@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/16/2024,away,16580,573,Rhodes,9,True,3,13,-10,loss,4525466,1111,2819260,2024,3
+0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,02/16/2024,away,16580,573,Rhodes,9,True,3,13,-10,loss,4525466,1111,2819260,2024,3
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2024,away,16580,573,Rhodes,9,True,4,14,-10,loss,4525707,1111,2819260,2024,3
+0,3,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,03/14/2024,neutral,16580,166,Cornell College,9,True,5,10,-5,loss,4530755,1111,2819260,2024,3

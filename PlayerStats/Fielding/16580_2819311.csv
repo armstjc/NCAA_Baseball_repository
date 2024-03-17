@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,1,2,0,0,0,0,0,0,0,03/02/2024,neutral,16580,390,Mary Washington,9,True,0,12,-12,loss,4528392,225,2819311,2024,3
 2,0,3,1,0,0,0,0,0,0,03/03/2024,neutral,16580,21830,Piedmont,9,True,0,9,-9,loss,4528544,225,2819311,2024,3
 0,0,1,1,0,0,1,0,0,0,03/10/2024,home,16580,565,Randolph-Macon,9,True,10,21,-11,loss,4544002,225,2819311,2024,3
+1,1,2,0,0,0,0,1,1,0,03/16/2024,home,16580,269,Hampden-Sydney,9,True,7,5,2,win,4544994,225,2819311,2024,3

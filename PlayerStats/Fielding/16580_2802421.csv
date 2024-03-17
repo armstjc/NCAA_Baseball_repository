@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,02/24/2024,home,16580,505,Northern Ky.,9,True,7,6,1,win,4526800,257,2802421,2024,1
 2,0,2,0,0,0,1,0,0,0,03/02/2024,home,16580,255,Georgia Tech,9,True,3,1,2,win,4528038,257,2802421,2024,1
+0,1,1,0,0,0,1,0,0,0,03/15/2024,away,16580,334,Kentucky,9,True,10,16,-6,loss,4530777,257,2802421,2024,1

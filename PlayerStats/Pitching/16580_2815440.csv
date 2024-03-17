@@ -1,2 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,6.0,0.0,4,0,0,2,3,0,23,21,0,0,0,0,3,0,0,0,0,0,0,64,13,1,1,0,0,1,1,0,03/06/2024,neutral,16580,2758,Thomas (ME),9,True,4,0,4,win,4529060,15,2815440,2024,3
+1,1,2.0,0.0,5,6,6,1,2,0,13,11,1,0,0,0,0,1,0,0,0,0,0,42,0,4,0,1,0,1,1,0,03/12/2024,home,16580,987,Bluffton,9,True,16,22,-6,loss,4530510,15,2815440,2024,3
+1,0,1.0,0.0,1,0,0,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,4,0,0,03/16/2024,away,16580,278,Heidelberg,9,True,6,10,-4,loss,4544812,15,2815440,2024,3

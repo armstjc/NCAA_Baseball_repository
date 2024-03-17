@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/05/2024,neutral,16580,538,Penn St.-Behrend,9,True,1,19,-18,loss,4528896,730,2687375,2024,3
 3,0,3,0,0,0,0,0,0,0,03/07/2024,home,16580,351,Lebanon Valley,9,True,3,9,-6,loss,4529187,730,2687375,2024,3
+2,0,2,0,0,0,0,0,0,0,03/13/2024,home,16580,15882,Rosemont,9,True,8,7,1,win,4530661,730,2687375,2024,3

@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,02/17/2024,away,16580,225,Ferrum,9,True,18,7,11,win,4542640,30170,2945266,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/13/2024,away,16580,785,Willamette,9,True,2,11,-9,loss,4530589,30170,2945266,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/14/2024,away,16580,785,Willamette,9,True,3,12,-9,loss,4530703,30170,2945266,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/16/2024,neutral,16580,780,Whitman,9,True,0,12,-12,loss,4543028,30170,2945266,2024,3

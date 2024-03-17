@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,neutral,16580,1332,Dominican (IL),9,True,6,2,4,win,4528529,15,2815441,2024,3
 0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/04/2024,neutral,16580,30039,North Central (MN),9,True,19,2,17,win,4528741,15,2815441,2024,3
+0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2024,home,16580,987,Bluffton,9,True,16,22,-6,loss,4530510,15,2815441,2024,3

@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,3,1,1,0,2,0,1,0,1,0,0,1,0,0,0,0,0,0,03/09/2024,home,16580,321,John Jay,9,True,8,2,6,win,4529614,524,2828678,2024,3
 0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,03/09/2024,home,16580,321,John Jay,9,True,0,3,-3,loss,4543330,524,2828678,2024,3
+3,3,1,0,0,1,0,3,2,0,1,0,0,0,0,0,1,0,0,03/15/2024,home,16580,814,Yeshiva,9,True,32,1,31,win,4530889,524,2828678,2024,3
+2,2,1,0,0,1,0,2,1,1,0,0,0,0,0,0,1,0,0,03/15/2024,home,16580,814,Yeshiva,9,True,20,0,20,win,4542828,524,2828678,2024,3

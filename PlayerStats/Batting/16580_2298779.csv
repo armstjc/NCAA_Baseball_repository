@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,5,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,02/16/2024,home,16580,180,Delaware,9,True,9,7,2,win,4525475,2711,2298779,2024,1
 2,4,2,2,0,4,0,0,0,1,0,0,2,0,0,0,0,0,0,03/12/2024,away,16580,228,Florida A&M,9,True,11,8,3,win,4530505,2711,2298779,2024,1
+1,4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,03/15/2024,away,16580,11504,Queens (NC),9,True,6,0,6,win,4531068,2711,2298779,2024,1

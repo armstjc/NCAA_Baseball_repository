@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/18/2024,home,16580,939,Anderson (IN),9,True,7,10,-3,loss,4525787,652,2822101,2024,3
 0,1,1,0,0,0,0,0,0,0,03/03/2024,away,16580,28593,Birmingham-So.,9,True,9,3,6,win,4528710,652,2822101,2024,3
+1,0,1,0,0,0,0,1,0,0,03/14/2024,neutral,16580,120,Carroll (WI),9,True,11,10,1,win,5253583,652,2822101,2024,3

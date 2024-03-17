@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/03/2024,home,16580,227,Fitchburg St.,9,True,7,3,4,win,4543010,656,2821467,2024,3
 1,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/11/2024,neutral,16580,214,Emerson,9,True,9,3,6,win,4780633,656,2821467,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/12/2024,neutral,16580,783,Widener,9,True,4,10,-6,loss,4543674,656,2821467,2024,3

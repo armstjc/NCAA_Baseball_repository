@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/02/2024,away,16580,528,Oregon St.,9,True,0,10,-10,loss,4528041,493,2805781,2024,1
 3,0,3,0,0,0,0,0,0,0,03/09/2024,away,16580,655,Southeastern La.,9,True,6,3,3,win,4529478,493,2805781,2024,1
+3,0,3,0,0,0,0,0,0,0,03/16/2024,away,16580,464,Omaha,9,True,4,7,-3,loss,5253882,493,2805781,2024,1
+1,0,1,0,0,0,0,0,0,0,03/16/2024,away,16580,464,Omaha,9,True,8,5,3,win,5253953,493,2805781,2024,1

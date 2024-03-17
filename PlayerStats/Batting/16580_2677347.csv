@@ -1,3 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/01/2024,away,16580,479,NYU,9,True,1,9,-8,loss,4527814,737,2677347,2024,3
 0,3,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,03/08/2024,away,16580,1094,George Fox,9,True,2,13,-11,loss,4543357,737,2677347,2024,3
+1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,03/12/2024,away,16580,780,Whitman,9,True,8,19,-11,loss,4530443,737,2677347,2024,3
+1,2,2,0,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,03/13/2024,away,16580,557,Puget Sound,9,True,7,12,-5,loss,4530553,737,2677347,2024,3
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/16/2024,away,16580,22235,Lewis & Clark,9,True,1,5,-4,loss,4531149,737,2677347,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/16/2024,away,16580,22235,Lewis & Clark,9,True,6,11,-5,loss,4542831,737,2677347,2024,3

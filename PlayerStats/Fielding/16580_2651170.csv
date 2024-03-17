@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/23/2024,away,16580,718,Tulane,9,True,5,4,1,win,4526508,109,2651170,2024,1
 1,0,1,0,0,0,0,0,0,0,03/08/2024,neutral,16580,158,Columbia,9,True,32,2,30,win,4529335,109,2651170,2024,1
+1,0,1,0,0,0,0,0,0,0,03/15/2024,home,16580,108,UC Davis,9,True,1,0,1,win,4530797,109,2651170,2024,1
+2,0,2,0,0,0,0,0,0,0,03/16/2024,home,16580,108,UC Davis,9,True,6,1,5,win,4531120,109,2651170,2024,1

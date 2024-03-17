@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/18/2024,away,16580,460,UNCW,9,True,3,8,-5,loss,4526208,331,2479182,2024,1
 1,0,1,0,0,0,0,0,0,0,03/09/2024,home,16580,129,Central Mich.,9,True,17,2,15,win,4529801,331,2479182,2024,1
+0,1,1,0,0,0,0,0,0,0,03/17/2024,away,16580,519,Ohio,9,True,22,4,18,win,4531750,331,2479182,2024,1

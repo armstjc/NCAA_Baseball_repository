@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,1,0,0,0,02/23/2024,away,16580,89,Caltech,9,True,4,8,-4,loss,4526642,1226,2664665,2024,3
+0,1,1,0,0,0,0,1,0,0,03/13/2024,neutral,16580,526,SUNY Oneonta,9,True,11,3,8,win,4530630,1226,2664665,2024,3
+4,0,5,1,0,0,3,0,0,0,03/13/2024,neutral,16580,526,SUNY Oneonta,9,True,7,13,-6,loss,4544419,1226,2664665,2024,3
+0,1,1,0,0,0,0,0,0,0,03/15/2024,neutral,16580,641,Simpson,9,True,3,10,-7,loss,4530932,1226,2664665,2024,3
+5,2,7,0,0,0,0,0,0,0,03/15/2024,neutral,16580,641,Simpson,9,True,10,8,2,win,4543025,1226,2664665,2024,3
+4,0,4,0,0,0,3,0,0,0,03/16/2024,neutral,16580,300,Ill. Wesleyan,9,True,1,11,-10,loss,4531251,1226,2664665,2024,3

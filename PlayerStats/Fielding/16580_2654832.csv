@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,1,1,0,0,1,0,0,0,02/23/2024,neutral,16580,1439,West Virginia St.,9,True,9,12,-3,loss,4526618,360,2654832,2024,2
 0,1,1,0,0,0,2,0,0,0,03/03/2024,away,16580,1013,Charleston (WV),9,True,0,3,-3,loss,4528631,360,2654832,2024,2
 0,1,1,0,0,0,5,1,0,0,03/10/2024,away,16580,197,East Stroudsburg,9,True,0,5,-5,loss,5252752,360,2654832,2024,2
+1,1,2,0,0,0,0,0,0,0,03/16/2024,home,16580,65,Bloomsburg,9,True,10,2,8,win,4531406,360,2654832,2024,2

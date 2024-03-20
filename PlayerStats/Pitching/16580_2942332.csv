@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,6.0,0.0,11,5,3,1,2,0,28,27,0,0,0,0,0,0,0,0,0,0,0,93,6,7,0,1,0,1,0,0,03/01/2024,away,16580,133,Chaminade,9,True,7,10,-3,loss,4527948,30147,2942332,2024,2
 1,1,7.0,0.0,6,1,0,1,5,0,28,26,1,0,0,0,0,0,0,0,0,1,0,94,8,6,1,0,0,1,2,0,03/06/2024,away,16580,2696,Hawaii Pacific,9,True,5,1,4,win,4529051,30147,2942332,2024,2
+1,1,7.0,0.0,8,4,4,2,5,0,31,29,3,0,0,0,0,0,0,0,0,0,0,98,8,8,0,1,0,1,3,0,03/15/2024,home,16580,2697,Hawaii Hilo,9,True,6,9,-3,loss,4530888,30147,2942332,2024,2

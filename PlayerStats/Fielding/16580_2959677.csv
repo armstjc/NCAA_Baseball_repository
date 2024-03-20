@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/01/2024,away,16580,30028,UT Tyler,9,True,3,9,-6,loss,5015892,30179,2959677,2024,2
+0,0,0,0,0,0,1,0,0,0,03/15/2024,home,16580,30090,Tex. A&M Int'l,10,True,6,5,1,win,4531046,30179,2959677,2024,2
+0,0,0,0,0,0,1,0,0,0,03/17/2024,home,16580,30090,Tex. A&M Int'l,10,True,2,6,-4,loss,4531762,30179,2959677,2024,2

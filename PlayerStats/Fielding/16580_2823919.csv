@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/06/2024,away,16580,947,Arkansas Tech,9,True,3,9,-6,loss,5251681,181,2823919,2024,2
 0,1,1,0,0,0,0,0,0,0,03/12/2024,home,16580,8411,Ark.-Monticello,9,True,5,8,-3,loss,4530514,181,2823919,2024,2
+1,0,1,0,0,0,0,1,0,0,03/17/2024,home,16580,358,West Ala.,9,True,3,2,1,win,5254142,181,2823919,2024,2

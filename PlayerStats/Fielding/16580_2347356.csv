@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/19/2024,away,16580,19117,Salem (WV),9,True,7,10,-3,loss,4542639,30141,2347356,2024,2
+0,1,1,0,0,0,0,0,0,0,03/17/2024,home,16580,30119,Ohio Dominican,9,True,12,9,3,win,4531618,30141,2347356,2024,2
+0,1,1,0,0,0,0,0,0,0,03/17/2024,home,16580,30119,Ohio Dominican,9,True,9,12,-3,loss,4542839,30141,2347356,2024,2

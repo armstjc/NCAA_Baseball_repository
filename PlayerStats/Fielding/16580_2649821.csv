@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/20/2024,away,16580,537,UNC Pembroke,9,True,7,12,-5,loss,4526316,407,2649821,2024,2
 0,1,1,0,0,0,3,0,1,0,02/23/2024,neutral,16580,23157,Felician,9,True,6,9,-3,loss,4526595,407,2649821,2024,2
+1,1,2,0,0,0,0,0,0,0,03/15/2024,away,16580,74,Bridgeport,9,True,6,3,3,win,4530879,407,2649821,2024,2

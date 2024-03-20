@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,2,0,0,0,02/18/2024,away,16580,228,Florida A&M,10,True,9,8,1,win,4526224,201,2673450,2024,1
 0,0,0,0,0,0,1,0,0,0,03/02/2024,away,16580,488,N.C. A&T,8,True,3,4,-1,loss,4528071,201,2673450,2024,1
+0,0,0,0,0,0,3,0,0,0,03/15/2024,home,16580,175,Dayton,9,True,6,9,-3,loss,4530841,201,2673450,2024,1

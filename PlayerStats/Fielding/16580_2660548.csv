@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/10/2024,away,16580,1045,DBU,9,True,4,16,-12,loss,4529972,627,2660548,2024,1
+0,0,0,0,0,0,1,0,0,0,03/02/2024,home,16580,275,Harvard,10,True,3,4,-1,loss,4527743,141,2473061,2024,1
+0,0,0,0,0,0,1,0,0,0,03/03/2024,home,16580,275,Harvard,9,True,6,3,3,win,4528425,141,2473061,2024,1
+0,1,1,0,0,0,0,0,0,0,03/05/2024,away,16580,648,South Carolina,9,True,1,7,-6,loss,4528804,141,2473061,2024,1
+0,0,0,0,0,0,1,0,0,0,03/08/2024,home,16580,735,Valparaiso,9,True,2,3,-1,loss,4529212,141,2473061,2024,1

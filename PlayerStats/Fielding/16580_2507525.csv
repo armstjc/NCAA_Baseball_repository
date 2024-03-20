@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,1,1,0,0,03/03/2024,home,16580,1266,Northern St.,9,True,7,11,-4,loss,4528601,499,2507525,2024,2
 0,1,1,0,0,0,0,0,0,0,03/10/2024,home,16580,30138,McKendree,9,True,6,10,-4,loss,5252782,499,2507525,2024,2
+0,2,2,0,0,0,1,0,0,0,03/16/2024,away,16580,2755,Southwest Baptist,9,True,4,14,-10,loss,4544809,499,2507525,2024,2

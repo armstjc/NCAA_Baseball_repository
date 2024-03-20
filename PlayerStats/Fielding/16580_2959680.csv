@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,03/02/2024,home,16580,30177,Lubbock Christian,9,True,2,22,-20,loss,4528274,30179,2959680,2024,2
+3,3,6,0,0,0,0,0,0,0,03/15/2024,home,16580,30090,Tex. A&M Int'l,10,True,6,5,1,win,4531046,30179,2959680,2024,2

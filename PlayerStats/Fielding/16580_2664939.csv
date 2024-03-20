@@ -11,3 +11,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 6,0,6,0,0,0,0,0,1,0,03/08/2024,away,16580,26172,A&M-Corpus Christi,9,True,2,4,-2,loss,4529283,706,2664939,2024,1
 5,0,6,1,0,0,0,0,0,0,03/09/2024,away,16580,26172,A&M-Corpus Christi,12,True,5,4,1,win,4529566,706,2664939,2024,1
 4,2,6,0,0,0,0,0,1,0,03/12/2024,home,16580,2,Abilene Christian,9,True,3,4,-1,loss,4530329,706,2664939,2024,1
+6,0,7,1,0,0,0,0,0,0,03/16/2024,home,16580,509,Northwestern,9,True,4,10,-6,loss,4492547,706,2664939,2024,1

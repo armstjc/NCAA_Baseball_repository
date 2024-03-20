@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,0,0,0,1,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0,18,0,1,0,0,0,3,0,0,03/01/2024,home,16580,1238,Montevallo,9,True,8,2,6,win,4527979,181,2823919,2024,2
 1,1,2.2,0.0,0,0,0,1,1,0,10,8,0,0,0,0,0,1,0,0,0,0,0,48,5,2,0,0,0,1,0,0,03/06/2024,away,16580,947,Arkansas Tech,9,True,3,9,-6,loss,5251681,181,2823919,2024,2
+1,1,6.0,0.0,5,2,2,1,7,0,24,22,1,0,0,0,0,1,0,0,0,0,0,106,3,7,1,0,0,1,1,0,03/17/2024,home,16580,358,West Ala.,9,True,3,2,1,win,5254142,181,2823919,2024,2

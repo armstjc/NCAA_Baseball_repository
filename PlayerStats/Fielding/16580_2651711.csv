@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,3,0,0,0,0,0,1,0,03/12/2024,home,16580,527,Oral Roberts,9,True,4,2,2,win,4530304,31,2651711,2024,1
 1,1,2,0,0,0,0,0,0,0,03/15/2024,home,16580,434,Missouri,9,True,8,0,8,win,4530774,31,2651711,2024,1
+1,1,2,0,0,0,0,0,0,0,03/16/2024,home,16580,434,Missouri,9,True,6,0,6,win,4531102,31,2651711,2024,1
+3,2,5,0,0,0,0,0,1,0,03/17/2024,home,16580,434,Missouri,9,True,9,1,8,win,4531512,31,2651711,2024,1

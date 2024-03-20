@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,1,0,0,0,02/10/2024,home,16580,230,Florida Tech,9,True,1,5,-4,loss,4543136,734,2953325,2024,2
 0,2,2,0,0,0,0,0,0,0,03/03/2024,home,16580,30153,Union (TN),9,True,16,7,9,win,5251044,734,2953325,2024,2
+0,1,1,0,0,0,0,0,0,0,03/19/2024,home,16580,208,Eckerd,9,True,11,8,3,win,4531835,734,2953325,2024,2

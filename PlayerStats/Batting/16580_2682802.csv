@@ -1,0 +1,4 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/16/2024,neutral,16580,78,SUNY Brockport,9,True,1,7,-6,loss,4544300,607,2682802,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/17/2024,neutral,16580,809,Worcester St.,9,True,9,3,6,win,4531649,607,2682802,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/18/2024,neutral,16580,337,Knox,9,True,14,3,11,win,4543578,607,2682802,2024,3

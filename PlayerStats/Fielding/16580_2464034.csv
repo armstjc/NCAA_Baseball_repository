@@ -1,0 +1,3 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,2,0,0,0,0,0,1,0,03/03/2024,home,16580,0,Harris-Stowe,9,True,17,3,14,win,5253775,432,2464034,2024,1
+0,0,1,1,0,0,0,0,0,0,03/07/2024,home,16580,0,Williams Baptist,9,True,3,7,-4,loss,5253777,432,2464034,2024,1

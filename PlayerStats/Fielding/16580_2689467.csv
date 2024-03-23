@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,0,5,0,0,0,0,0,0,0,03/02/2024,home,16580,379,Me.-Farmington,9,True,13,0,13,win,4528153,69,2689467,2024,3
 13,0,13,0,0,0,0,0,1,0,03/03/2024,home,16580,605,St. Joseph's (ME),9,True,9,13,-4,loss,4528513,69,2689467,2024,3
+1,0,1,0,0,0,0,0,0,0,03/17/2024,neutral,16580,789,Williams,9,True,7,3,4,win,4531647,69,2689467,2024,3
+1,0,1,0,0,0,0,0,0,0,03/19/2024,neutral,16580,9500,SUNY Poly,9,True,11,3,8,win,4531936,69,2689467,2024,3

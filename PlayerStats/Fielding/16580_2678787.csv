@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,2,3,0,0,0,02/17/2024,away,16580,1203,Mary Hardin-Baylor,9,True,3,7,-4,loss,4544946,953,2678787,2024,3
 3,0,3,0,0,0,1,0,0,0,03/10/2024,home,16580,64,Blackburn,9,True,3,2,1,win,4544803,953,2678787,2024,3
-4,1,5,0,0,2,3,1,0,0,03/11/2024,home,16580,484,Nichols,9,True,7,16,-9,loss,4530239,953,2678787,2024,3
+3,1,4,0,0,2,3,1,0,0,03/11/2024,home,16580,484,Nichols,9,True,7,16,-9,loss,4530239,953,2678787,2024,3
 1,0,1,0,0,0,0,0,0,0,03/12/2024,away,16580,1371,Southeastern Okla.,9,True,1,10,-9,loss,4530480,953,2678787,2024,3

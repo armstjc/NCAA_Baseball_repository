@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/10/2024,away,16580,306,Indiana,9,True,15,11,4,win,4492107,716,2803123,2024,1
+0,1,1,0,0,0,0,0,0,0,03/19/2024,away,16580,9,UAB,9,True,9,8,1,win,4531871,716,2803123,2024,1

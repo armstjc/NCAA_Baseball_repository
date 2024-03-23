@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,4,2,1,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,03/09/2024,away,16580,564,Ramapo,9,True,8,2,6,win,4543851,24,2364302,2024,3
 2,5,3,1,0,7,1,4,1,0,0,0,0,1,0,0,0,0,0,03/12/2024,away,16580,808,WPI,9,True,19,6,13,win,4530392,24,2364302,2024,3
+1,3,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,03/17/2024,home,16580,30083,SUNY Cobleskill,9,True,8,12,-4,loss,4531633,24,2364302,2024,3
+1,3,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/19/2024,neutral,16580,607,St. Lawrence,9,True,8,4,4,win,4544057,24,2364302,2024,3

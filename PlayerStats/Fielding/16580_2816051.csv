@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 8,0,8,0,0,0,0,0,1,0,03/02/2024,away,16580,637,Shenandoah,9,True,1,5,-4,loss,4528373,200,2816051,2024,3
 3,0,3,0,0,0,0,0,0,0,03/12/2024,away,16580,1112,Guilford,9,True,14,11,3,win,4530335,200,2816051,2024,3
+1,0,1,0,0,0,0,0,1,0,03/19/2024,home,16580,467,New England Col.,9,True,19,0,19,win,4531967,200,2816051,2024,3

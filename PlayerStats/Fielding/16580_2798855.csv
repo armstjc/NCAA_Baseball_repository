@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2,1,0,0,0,0,0,0,02/11/2024,away,16580,2741,Howard Payne,9,True,4,6,-2,loss,5245103,1355,2798855,2024,3
 1,1,2,0,0,0,0,0,0,0,03/09/2024,away,16580,1203,Mary Hardin-Baylor,9,True,4,9,-5,loss,4543345,1355,2798855,2024,3
+0,2,2,0,0,0,0,0,0,0,03/17/2024,away,16580,953,Austin,9,True,12,8,4,win,5254061,1355,2798855,2024,3

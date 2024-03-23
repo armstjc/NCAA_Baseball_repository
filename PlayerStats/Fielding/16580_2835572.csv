@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/09/2024,away,16580,2751,Pacific (OR),9,True,4,14,-10,loss,4529742,30038,2835572,2024,3
+2,0,2,0,0,0,0,0,0,0,03/19/2024,away,16580,8597,Martin Luther,9,True,22,5,17,win,5254552,30038,2835572,2024,3

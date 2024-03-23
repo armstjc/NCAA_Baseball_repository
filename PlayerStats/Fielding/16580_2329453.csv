@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/09/2024,away,16580,2711,North Florida,9,True,11,4,7,win,4529521,635,2329453,2024,1
 0,2,2,0,0,0,0,0,0,0,03/13/2024,home,16580,617,Saint Peter's,9,True,7,6,1,win,4530572,635,2329453,2024,1
+0,1,1,0,0,0,0,0,0,0,03/19/2024,home,16580,439,Monmouth,9,True,6,5,1,win,4531954,635,2329453,2024,1

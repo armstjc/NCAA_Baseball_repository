@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/02/2024,neutral,16580,511,Norwich,10,True,11,10,1,win,4528221,179,2673121,2024,3
 5,0,5,0,0,0,0,0,0,0,03/06/2024,neutral,16580,117,Capital,9,True,5,6,-1,loss,4529092,179,2673121,2024,3
+2,0,2,0,0,0,0,0,0,0,03/20/2024,home,16580,480,CCNY,9,True,10,1,9,win,4532154,179,2673121,2024,3

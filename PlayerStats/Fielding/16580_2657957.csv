@@ -1,6 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-14,1,15,0,0,0,0,1,0,0,02/24/2024,away,16580,462,Neb. Wesleyan,9,True,7,3,4,win,4527048,264,2657957,2024,3
+14,1,15,0,0,0,0,1,0,0,02/24/2024,neutral,16580,462,Neb. Wesleyan,9,True,7,3,4,win,4527048,264,2657957,2024,3
 14,0,14,0,0,0,0,0,1,0,02/25/2024,neutral,16580,462,Neb. Wesleyan,9,True,5,6,-1,loss,4527383,264,2657957,2024,3
 6,0,6,0,0,3,2,0,0,0,03/02/2024,away,16580,1450,Westminster (MO),9,True,9,11,-2,loss,4543540,264,2657957,2024,3
 7,0,7,0,0,0,1,0,0,0,03/03/2024,away,16580,1450,Westminster (MO),9,True,11,4,7,win,4544594,264,2657957,2024,3
 3,0,3,0,0,0,6,0,0,0,03/09/2024,neutral,16580,326,Kalamazoo,9,True,0,11,-11,loss,4529723,264,2657957,2024,3
+9,0,9,0,0,1,0,0,0,0,03/16/2024,away,16580,396,Maryville (TN),9,True,3,1,2,win,4531273,264,2657957,2024,3
+3,0,3,0,0,0,3,0,0,0,03/18/2024,away,16580,1124,Hendrix,9,True,2,12,-10,loss,4531797,264,2657957,2024,3
+0,1,2,1,0,0,9,1,0,0,03/19/2024,away,16580,1124,Hendrix,9,True,8,11,-3,loss,4531823,264,2657957,2024,3

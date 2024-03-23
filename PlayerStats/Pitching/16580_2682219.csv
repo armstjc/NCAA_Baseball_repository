@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,2,3,0,1,0,0,7,6,1,0,0,0,0,0,0,0,0,0,0,21,2,1,0,0,0,3,0,0,03/03/2024,home,16580,515,Oberlin,9,True,7,9,-2,loss,4528693,30171,2682219,2024,3
 1,0,1.1,0.0,3,1,1,1,0,0,10,6,0,0,0,0,0,2,1,0,0,1,0,24,2,2,0,1,0,3,0,0,03/10/2024,away,16580,30094,Brevard,9,True,8,9,-1,loss,4529768,30171,2682219,2024,3
+1,0,1.0,0.0,1,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0,0,10,0,2,0,0,0,5,0,0,03/17/2024,home,16580,1192,Manchester,9,True,7,15,-8,loss,4531681,30171,2682219,2024,3

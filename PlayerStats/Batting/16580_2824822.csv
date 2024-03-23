@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,5,2,0,0,2,0,1,0,1,0,0,2,0,0,0,0,0,0,02/24/2024,away,16580,740,VCU,9,True,16,12,4,win,4526781,410,2824822,2024,1
 0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/08/2024,away,16580,165,Coppin St.,12,True,4,5,-1,loss,5252440,410,2824822,2024,1
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/20/2024,away,16580,500,Northeastern,9,True,5,9,-4,loss,4532125,410,2824822,2024,1

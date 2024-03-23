@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,03/02/2024,away,16580,401,UMass Boston,9,True,5,1,4,win,4528042,8981,2817528,2024,3
-1,2,1,0,0,1,0,0,2,1,0,0,1,0,0,0,0,0,0,03/17/2024,away,16580,420,Middlebury,9,True,8,6,2,win,4531634,8981,2817528,2024,3
+1,2,1,0,0,1,0,0,2,1,0,0,1,0,0,0,0,0,0,03/17/2024,neutral,16580,420,Middlebury,9,True,8,6,2,win,4531634,8981,2817528,2024,3
+1,5,2,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,03/18/2024,neutral,16580,322,Johns Hopkins,9,True,14,8,6,win,4531806,8981,2817528,2024,3
+0,3,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,03/19/2024,neutral,16580,802,Wis.-Stevens Point,9,True,4,8,-4,loss,4531928,8981,2817528,2024,3

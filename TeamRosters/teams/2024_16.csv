@@ -1,11 +1,11 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Ahearn, Patrick","Fr","2960834",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2960834",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
-"Augunas, Zack","Fr",NA,2024,"30","",NA,16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
+"Augunas, Zack","Fr","2960837",2024,"30","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2960837",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Aulisi, Thomas","Fr","2960844",2024,"42","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2960844",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Bamrick, Nick","Fr","2960845",2024,"7","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2960845",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Barton, Nick","Sr","2500582",2024,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2500582",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Berretta, Roman","Jr","2664984",2024,"14","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2664984",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
-"Bilinsky, Sam","Fr",NA,2024,"31","",NA,16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
+"Bilinsky, Sam","Fr","2960846",2024,"31","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2960846",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Boccelli, Tyler","Fr","2960847",2024,"35","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2960847",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Borelli, Domenic","Sr","2664992",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2664992",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Burwell, Keyir","Fr","2960850",2024,"9","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2960850",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
@@ -33,14 +33,14 @@
 "O'Connor, John","Sr","2500579",2024,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2500579",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Paukstis, Hayden","Jr","2664988",2024,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2664988",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Pierce, Andrew","Fr","2960863",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2960863",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
-"Polaski, Kyle","Fr",NA,2024,"46","",NA,16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
+"Polaski, Kyle","Fr","2960864",2024,"46","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2960864",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Schlueter, Blake","Fr","2960865",2024,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2960865",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Smith, Trey","Sr","2500576",2024,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2500576",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Stuhltrager, Brendan","Fr","2960867",2024,"18","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2960867",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Sturtevant, Aidan","Jr","2656229",2024,"36","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2656229",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Tesoriere, Zander","So","2832104",2024,"10","lf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2832104",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Tudor, Josh","So","2832105",2024,"23","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2832105",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
-"Valerio, Chris","Fr",NA,2024,"29","P",NA,16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
+"Valerio, Chris","Fr","2960868",2024,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2960868",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Williams, Lucas","So","2832106",2024,"9","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2832106",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Yaich, Colby","So","2960869",2024,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2960869",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580
 "Yeager, Dominic","Sr","2327640",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=16&stats_player_seq=2327640",16,"Albright","/team/16/16580",28744,"MAC Commonwealth",3,2024,16580

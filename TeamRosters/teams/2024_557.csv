@@ -1,8 +1,8 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Allen, Bennett","Jr","2660318",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2660318",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Allen, Cooper","So","2807556",2024,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2807556",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
+"Allen, Bennett","Jr","2660318",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2660318",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Baker, Henry","Sr","2524401",2024,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2524401",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
-"Batalucco, Evan","Fr",NA,2024,"45","P",NA,557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
+"Batalucco, Evan","Fr","2929677",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2929677",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Bell, Erik","Jr","2660323",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2660323",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Berg, Tucker","Jr","2660293",2024,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2660293",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Blackwell, Braden","Fr","2929678",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2929678",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
@@ -24,7 +24,7 @@
 "Hulst, Jack","So",NA,2024,"32","P",NA,557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Johnson, Cal","So","2807563",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2807563",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Kamihara, Drew","Jr","2660279",2024,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2660279",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
-"Kaneshiro, Matt","Fr",NA,2024,"39","OF",NA,557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
+"Kaneshiro, Matt","Fr","2929686",2024,"39","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2929686",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Krebs, Kellen","So","2807535",2024,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2807535",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Lee, Nevan","Jr","2929676",2024,"52","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2929676",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Lettiere, Armand","Fr",NA,2024,"53","OF",NA,557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
@@ -33,7 +33,7 @@
 "Moriarty, Michael","Fr",NA,2024,"46","P",NA,557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Murashige, Makana","Sr","2501538",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2501538",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Murphy, Sean","Jr","2660312",2024,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2660312",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
-"Nakamura, Ethan","Fr",NA,2024,"49","INF",NA,557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
+"Nakamura, Ethan","Fr","2929690",2024,"49","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2929690",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "O'Brien, Jim","Fr","2929682",2024,"42","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2929682",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Parascondola, Gio","Sr","2501537",2024,"3","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2501537",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Plunkett, Logan","So","2807560",2024,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2807560",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
@@ -42,10 +42,10 @@
 "Robman, Zach","So","2807537",2024,"29","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2807537",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Schwab, Joe","Sr","2507097",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2507097",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Seay, Mason","Fr","2929601",2024,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2929601",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
-"Spero, Ryan","Fr",NA,2024,"43","P",NA,557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
+"Spero, Ryan","Fr","2929675",2024,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2929675",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Sullivan, Aidan","Jr","2660310",2024,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2660310",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Teruya, Kahiau","So","2807566",2024,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2807566",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
-"Tokumaru, Kai","Fr",NA,2024,"20","P",NA,557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
+"Tokumaru, Kai","Fr","2929680",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2929680",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Ueyama, Cadence","Fr","2929684",2024,"51","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2929684",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Ujimori, Travis","Fr","2929688",2024,"35","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2929688",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580
 "Velasco, Jonah","So","2807531",2024,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=557&stats_player_seq=2807531",557,"Puget Sound","/team/557/16580",25300,"NWC",3,2024,16580

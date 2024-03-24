@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Altmann, Alex","Fr",NA,2024,"55","OF",NA,428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580
-"Argento, Nick","So",NA,2024,"39","P",NA,428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580
+"Argento, Nick","So","2679991",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=428&stats_player_seq=2679991",428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580
 "Berkland, Drew","So","2799069",2024,"15","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=428&stats_player_seq=2799069",428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580
 "Bork, Kyle","Sr","2334398",2024,"9","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=428&stats_player_seq=2334398",428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580
 "Bruett, Cade","Fr",NA,2024,"36","UT",NA,428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580
@@ -20,7 +20,7 @@
 "Hokenson, Kris","So","2799062",2024,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=428&stats_player_seq=2799062",428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580
 "Hunt, Sam","Jr","2656843",2024,"10","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=428&stats_player_seq=2656843",428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580
 "Jurgella, Brady","Sr","2799063",2024,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=428&stats_player_seq=2799063",428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580
-"Kennedy, Sam","So",NA,2024,"35","P",NA,428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580
+"Kennedy, Sam","So","2799064",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=428&stats_player_seq=2799064",428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580
 "Larson, Jake","Jr","2659355",2024,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=428&stats_player_seq=2659355",428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580
 "Lewin, Parker","Fr",NA,2024,"37","P",NA,428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580
 "Malec, Sam","Jr","2659343",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=428&stats_player_seq=2659343",428,"Minnesota","/team/428/16580",827,"Big Ten",1,2024,16580

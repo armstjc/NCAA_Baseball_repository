@@ -1,12 +1,11 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Aronson, Eli","Jr","2659720",2024,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=182&stats_player_seq=2659720",182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
 "Blozy, Jake","Jr","2689367",2024,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=182&stats_player_seq=2689367",182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
-"Burnworth, Maddox","So",NA,2024,"37","P",NA,182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
 "Cerretani, Evan","Fr",NA,2024,"26","P",NA,182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
 "Colaco, Eric","Jr","2659717",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=182&stats_player_seq=2659717",182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
 "Cole, Jaden","So","2799235",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=182&stats_player_seq=2799235",182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
 "Corrigan, James","Fr",NA,2024,"31","P",NA,182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
-"Dinges, Nate","Sr",NA,2024,"24","P",NA,182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
+"Dinges, Nate","Sr","2945034",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=182&stats_player_seq=2945034",182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
 "Eliot, Liam","So","2945035",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=182&stats_player_seq=2945035",182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
 "Falter, Nick","Jr","2659756",2024,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=182&stats_player_seq=2659756",182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
 "Fishbein, Max","So","2799242",2024,"3","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=182&stats_player_seq=2799242",182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
@@ -29,7 +28,7 @@
 "Remley, Connor","Fr",NA,2024,"39","P",NA,182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
 "Rettig, Will","So","2799237",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=182&stats_player_seq=2799237",182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
 "Rollo, Jack","Fr","2945240",2024,"7","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=182&stats_player_seq=2945240",182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
-"Smith, Garrett","Fr",NA,2024,"28","OF",NA,182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
+"Smith, Garrett","Fr","2945242",2024,"28","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=182&stats_player_seq=2945242",182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
 "Starr, Ryan","Jr","2799249",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=182&stats_player_seq=2799249",182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
 "Steel, Jack","So","2799234",2024,"18","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=182&stats_player_seq=2799234",182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580
 "Sullivan, Hugh","Fr",NA,2024,"17","UT",NA,182,"Denison","/team/182/16580",897,"NCAC",3,2024,16580

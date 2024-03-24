@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Acker, J.","So","2833519",2024,"20","cf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2833519",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Acker, Joey","So","2833519",2024,"20","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2833519",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Bangs, Stephen","Jr","2683578",2024,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2683578",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Battipaglia, Eli","Sr","2353427",2024,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2353427",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Battipaglia, Ian","Sr","2353443",2024,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2353443",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
@@ -7,27 +7,27 @@
 "Boglis, Andreas","Fr",NA,2024,"39","OF",NA,241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Bokis, Michael","Fr","2975082",2024,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975082",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Boyd, Curt","Fr",NA,2024,"35","C",NA,241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Carlucci, N.","So","2833520",2024,"12","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2833520",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Carlucci, Nick","So","2833520",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2833520",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Dadinos, Adam","Jr","2683580",2024,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2683580",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "DeAndrade, Nolan","So","2975076",2024,"7","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975076",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"DeLucia, D.","So","2833521",2024,"6","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2833521",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"DeLucia, D.","So","2833521",2024,"6","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2833521",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Diaz, Steven","Fr",NA,2024,"38","C",NA,241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Dillon, Thomas","So","2840476",2024,"25","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2840476",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Eramo, Vincent","Sr","2136824",2024,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2136824",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Eramo, Vincent","Sr","2136824",2024,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2136824",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Foody, Sean","Sr","2518781",2024,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2518781",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Gold, Theo","Fr",NA,2024,"36","OF",NA,241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Hoffman, Colin","So","2839752",2024,"13","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2839752",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Kulas, Devin","Fr",NA,2024,"40","INF",NA,241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"LaFleur, Jayden","So","2833522",2024,"34","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2833522",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Leggett, Jamie","Fr",NA,2024,"32","P",NA,241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Kulas, Devin","Fr","2975102",2024,"40","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975102",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"LaFleur, Jayden","So","2833522",2024,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2833522",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Leggett, Jamie","Fr","2975095",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975095",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Lugo, Kiobel","Jr","2975074",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975074",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Mascaro, Zach","Jr",NA,2024,"30","INF",NA,241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"McDona, T.","Fr","2833293",2024,"10","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2833293",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Mascaro, Zach","Jr","2975093",2024,"30","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975093",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"McDonald, Tyler","Sr","2833293",2024,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2833293",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Meredith, Elias","Jr","2975091",2024,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975091",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Monks, J.","Fr","2832141",2024,"22","3b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2832141",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Monks, Julien","Fr","2832141",2024,"22","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2832141",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Niavud, Luc","Fr","2975083",2024,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975083",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Orsulak, Cody","Fr",NA,2024,"43","INF",NA,241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Paquette, Hunter","Sr","2683581",2024,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2683581",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Paquette, Hunter","Jr","2683581",2024,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2683581",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Parent, Steven","Fr","2975103",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975103",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Pavia, Niklas","Fr","2975096",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975096",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Powell, Chaz","Sr","2353430",2024,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2353430",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
@@ -36,13 +36,13 @@
 "Rivera III, Esteban","Jr","2683575",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2683575",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Roberti, Chris","Sr","2335034",2024,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2335034",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Roche, Kyle","Sr","2518746",2024,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2518746",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Salvati, K.","So","2833505",2024,"44","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2833505",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Rosario, Aidan","Fr",NA,2024,"99","OF",NA,241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Salvati, Kyle","So","2833505",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2833505",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Smalley, Connor","Sr","2518780",2024,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2518780",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Starr, Shane","Jr","2975094",2024,"31","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975094",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Staubley, Brennan","Fr",NA,2024,"1","UT",NA,241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Sullivan, T.","So","2837675",2024,"21","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2837675",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Tetler, B.","So","2842807",2024,"45","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2842807",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Starr, Shane","Fr","2975094",2024,"31","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975094",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Staubley, Brennan","Fr","2975072",2024,"1","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975072",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Sullivan, Thomas Sullivan","So","2837675",2024,"97","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2837675",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Tetler, Brycen","Fr","2842807",2024,"45","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2842807",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
 "Villanueva, Jayden","Fr","2975079",2024,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2975079",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Walker, Jackson","Sr","2353445",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2353445",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Wilichoski, Hunter","Jr","2683574",2024,"7","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2683574",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
-"Yoest, Sean","Jr","2683577",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2683577",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Wilichoski, Hunter","Jr","2683574",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2683574",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580
+"Yoest, Sean","So","2683577",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=241&stats_player_seq=2683577",241,"Franklin Pierce","/team/241/16580",899,"NE10",2,2024,16580

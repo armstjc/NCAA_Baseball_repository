@@ -1,12 +1,12 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Adams, Keith","Jr","2665180",2024,"29","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2665180",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Angilly, Cooper","Fr","2937444",2024,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2937444",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
-"Anglin, Ed","Fr",NA,2024,"45","P",NA,573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
+"Anglin, Ed","Fr","2937468",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2937468",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Arney, Mick","Jr","2819473",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2819473",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Barber, Nick","Fr","2937452",2024,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2937452",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Barnett, Kevin","Fr","2937459",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2937459",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Blackman, Quinn","Sr","2665179",2024,"26","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2665179",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
-"Born, Collin","Fr",NA,2024,"48","C",NA,573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
+"Born, Collin","Fr","2937472",2024,"48","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2937472",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Bowman, Rush","Sr","2494648",2024,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2494648",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Brimmage, Trey","So","2819510",2024,"33","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2819510",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Burkhart, Ben","Jr","2665147",2024,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2665147",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
@@ -19,7 +19,7 @@
 "Fulton, Jack","Jr","2665176",2024,"4","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2665176",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Goldstein, Jack","Fr",NA,2024,"40","P",NA,573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Hicks, Daniel","Sr","2522751",2024,"34","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2522751",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
-"Kimball-McCavish, Collin","Fr",NA,2024,"25","1B",NA,573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
+"Kimball-McCavish, Collin","Fr","2937454",2024,"25","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2937454",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Kinder, Corbin","Jr","2665188",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2665188",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Kruger, Myles","Fr","2937453",2024,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2937453",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Kuriger, Cooper","Fr","2937460",2024,"37","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2937460",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
@@ -29,8 +29,8 @@
 "Luke, Logan","Sr","2522790",2024,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2522790",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "May, Will","So","2819477",2024,"7","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2819477",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Messina, Dante","Sr","2494651",2024,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2494651",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
-"Meyer, Charlie","Fr","2937457",2024,"31","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2937457",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Meyer, Kade","Fr","2937465",2024,"43","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2937465",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
+"Meyer, Charlie","Fr","2937457",2024,"31","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2937457",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Neave, Sebastian","Fr",NA,2024,"46","P",NA,573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Phelan, Brendan","Jr","2665192",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=573&stats_player_seq=2665192",573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580
 "Ranallo, Jonmarc","So",NA,2024,"24","OF",NA,573,"Rhodes","/team/573/16580",30169,"SAA",3,2024,16580

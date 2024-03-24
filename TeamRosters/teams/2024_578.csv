@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Allanach, Gavin","Fr",NA,2024,"42","P",NA,578,"Roanoke","/team/578/16580",903,"ODAC",3,2024,16580
+"Allanach, Gavin","Fr","2958007",2024,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=578&stats_player_seq=2958007",578,"Roanoke","/team/578/16580",903,"ODAC",3,2024,16580
 "Bonzon, Dylan","Fr","2955751",2024,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=578&stats_player_seq=2955751",578,"Roanoke","/team/578/16580",903,"ODAC",3,2024,16580
 "Brooks, Derek","So","2808414",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=578&stats_player_seq=2808414",578,"Roanoke","/team/578/16580",903,"ODAC",3,2024,16580
 "Brooks, Isaac","So","2808325",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=578&stats_player_seq=2808325",578,"Roanoke","/team/578/16580",903,"ODAC",3,2024,16580
@@ -40,4 +40,4 @@
 "Steens, Justin","Jr","2657474",2024,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=578&stats_player_seq=2657474",578,"Roanoke","/team/578/16580",903,"ODAC",3,2024,16580
 "Sullivan, Anthony","Sr","2504612",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=578&stats_player_seq=2504612",578,"Roanoke","/team/578/16580",903,"ODAC",3,2024,16580
 "Wall, Jonny","Sr","2494675",2024,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=578&stats_player_seq=2494675",578,"Roanoke","/team/578/16580",903,"ODAC",3,2024,16580
-"von Zelowitz, Hunter","So",NA,2024,"12","INF",NA,578,"Roanoke","/team/578/16580",903,"ODAC",3,2024,16580
+"von Zelowitz, Hunter","So","2808328",2024,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=578&stats_player_seq=2808328",578,"Roanoke","/team/578/16580",903,"ODAC",3,2024,16580

@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Bayor, Zach","Jr","2660577",2024,"14","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2660577",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Bright, Adam","Fr","2952035",2024,"52","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2952035",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
-"Bristol, Ethan","Fr",NA,2024,"44","",NA,1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
+"Bristol, Ethan","Fr","2952037",2024,"44","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2952037",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Byers, Cameron","Fr","2952039",2024,"53","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2952039",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Carter, Austin","Fr","2952041",2024,"46","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2952041",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Clem, Jonah","So",NA,2024,"15","OF",NA,1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
@@ -14,12 +14,12 @@
 "Frank, Logan","Fr",NA,2024,"99","P",NA,1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Gifford, Brian","Jr","2660580",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2660580",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Goldman, Will","Jr","2660581",2024,"33","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2660581",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
-"Grady, Cole","Fr",NA,2024,"55","P",NA,1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
+"Grady, Cole","Fr","2952062",2024,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2952062",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Greathouse, Lakin","Fr","2952063",2024,"99","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2952063",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Hall, Caden","Fr","2952064",2024,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2952064",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Hamrick, Noah","Fr",NA,2024,"99","P",NA,1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Helmick, Jayden","Fr","2952070",2024,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2952070",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
-"Hoffmeyer, Aidan","Fr",NA,2024,"99","P",NA,1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
+"Hoffmeyer, Aidan","Fr","2952071",2024,"99","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2952071",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Keys, Conner","Fr",NA,2024,"99","P",NA,1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Krajeski, Grant","So","2660584",2024,"2","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2660584",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Landis, Grant","Jr","2952080",2024,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2952080",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
@@ -32,7 +32,7 @@
 "McMurdo, Gavin","Fr",NA,2024,"99","P",NA,1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Minaya, Julian","Sr","2660559",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2660559",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Minson, Lance","Sr","2952106",2024,"3","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2952106",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
-"Moore, Luka","So",NA,2024,"32","P",NA,1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
+"Moore, Luka","So","2822852",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2822852",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Morris, Zach","Sr","2320446",2024,"28","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2320446",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "Mullins, Brandon","Sr","2660588",2024,"99","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2660588",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580
 "O'Dea, Andrew","Sr","2660561",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1098&stats_player_seq=2660561",1098,"Glenville St.","/team/1098/16580",30183,"MEC",2,2024,16580

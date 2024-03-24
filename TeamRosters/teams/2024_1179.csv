@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Ahn, Andrew","Fr",NA,2024,"34","OF",NA,1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
-"Albios, Eric","So",NA,2024,"27","C",NA,1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
+"Albios, Eric","So","2805323",2024,"27","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1179&stats_player_seq=2805323",1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
 "Alder, Nick","Jr","2670671",2024,"38","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1179&stats_player_seq=2670671",1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
 "Allen, Jarrett","Sr","2486831",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1179&stats_player_seq=2486831",1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
 "Bui, Jackson","So","2971734",2024,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1179&stats_player_seq=2971734",1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
@@ -13,7 +13,7 @@
 "Genduso, Joey","Fr",NA,2024,"53","OF",NA,1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
 "Hampson, Zack","Fr",NA,2024,"59","P",NA,1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
 "Hardy, Cage","Sr","2330283",2024,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1179&stats_player_seq=2330283",1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
-"Highberger, Chase","So",NA,2024,"29","INF",NA,1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
+"Highberger, Chase","So","2805304",2024,"29","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1179&stats_player_seq=2805304",1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
 "Holm, Nick","So","2805301",2024,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1179&stats_player_seq=2805301",1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
 "Hoskins, Jake","Sr","2805271",2024,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1179&stats_player_seq=2805271",1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
 "Hurley, Wyatt","So","2805313",2024,"37","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1179&stats_player_seq=2805313",1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
@@ -49,3 +49,4 @@
 "Towle, Riggs","Fr",NA,2024,"58","P",NA,1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
 "Travis, Logan","Sr","2486818",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1179&stats_player_seq=2486818",1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
 "Wainfeld, Trent","So","2805225",2024,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1179&stats_player_seq=2805225",1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580
+"Woods, Braden","Sr","2805279",2024,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1179&stats_player_seq=2805279",1179,"Linfield","/team/1179/16580",25300,"NWC",3,2024,16580

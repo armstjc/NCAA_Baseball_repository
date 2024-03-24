@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Adams, Corey","So","2806726",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=786&stats_player_seq=2806726",786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
 "Barnes III, Jerry","So","2806732",2024,"29","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=786&stats_player_seq=2806732",786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
-"Begasse, Trey","Fr",NA,2024,"9","INF",NA,786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
+"Begasse, Trey","Fr","2970759",2024,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=786&stats_player_seq=2970759",786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
 "Bourque, Tom","So",NA,2024,"46","P",NA,786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
 "Brizendine, Patrick","Fr",NA,2024,"48","P",NA,786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
 "Calveric, Luke","So","2798238",2024,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=786&stats_player_seq=2798238",786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
@@ -30,7 +30,7 @@
 "Lippman, Hank","Fr","2970760",2024,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=786&stats_player_seq=2970760",786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
 "Lottchea, Nick","Jr","2672801",2024,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=786&stats_player_seq=2672801",786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
 "Lovasz, Carter","Jr","2672808",2024,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=786&stats_player_seq=2672808",786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
-"Marano, Anthony","Fr",NA,2024,"1","P",NA,786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
+"Marano, Anthony","Fr","2970756",2024,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=786&stats_player_seq=2970756",786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
 "Markus, Alex","Sr","2337464",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=786&stats_player_seq=2337464",786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
 "McDonough, Bobby","So","2806748",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=786&stats_player_seq=2806748",786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580
 "Parker, Ben","Sr","2309935",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=786&stats_player_seq=2309935",786,"William & Mary","/team/786/16580",837,"CAA",1,2024,16580

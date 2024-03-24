@@ -1,11 +1,11 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Akins, Bryson","So",NA,2024,"18","UT",NA,214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
+"Akins, Bryson","So","2808582",2024,"18","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2808582",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Anton, Owen","Sr","2660136",2024,"99","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2660136",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Arboleda, Jordi","Jr","2660035",2024,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2660035",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Benway, Blake","Sr","2660037",2024,"10","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2660037",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Bourne, Ty","Sr","2522742",2024,"6","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2522742",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Braden, Logan","Fr",NA,2024,"17","",NA,214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
-"Cahnthompalit, Ethan","Fr",NA,2024,"3","C",NA,214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
+"Cahnthompalit, Ethan","Fr","2977802",2024,"3","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2977802",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Charles, Ezra","Jr","2660147",2024,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2660147",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Cheyney, Caleb","Fr",NA,2024,"32","",NA,214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Coors, Charlie","So","2808604",2024,"45","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2808604",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
@@ -21,9 +21,9 @@
 "Ladd, Eric","Jr","2660066",2024,"20","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2660066",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Loveland, Briggs","Jr","2663292",2024,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2663292",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Lowe, Chris","Sr","2522702",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2522702",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
-"McCann-Braun, Torin","Fr",NA,2024,"29","",NA,214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
-"Metcalf, Tyler","Fr",NA,2024,"15","",NA,214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
-"Moriarty, Shane","Fr",NA,2024,"50","",NA,214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
+"McCann-Braun, Torin","Fr","2977808",2024,"29","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2977808",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
+"Metcalf, Tyler","Fr","2977806",2024,"15","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2977806",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
+"Moriarty, Shane","Fr","2977813",2024,"50","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2977813",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Morvillo, Jake","Jr","2660076",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2660076",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Motola, Cameron","So","2808556",2024,"9","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2808556",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "O'Connell, Braenen","Fr","2977811",2024,"34","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2977811",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
@@ -31,10 +31,11 @@
 "Posio, Robby","Jr","2660104",2024,"26","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2660104",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Reilly, Logan","Sr","2522746",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2522746",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Rice, Aidan","Sr","2977812",2024,"37","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2977812",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
-"Roberts, Tobey","Fr",NA,2024,"30","",NA,214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
+"Roberts, Tobey","Fr","2977809",2024,"30","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2977809",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Santosuosso, Anthony","Sr","2977801",2024,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2977801",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Silverman, Russell","So","2808557",2024,"7","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2808557",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Simms, Lucas","Jr","2660139",2024,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2660139",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
-"Smith, Jake","Jr","2660106",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2660106",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
 "Smith, Avery","Jr","2663291",2024,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2663291",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
-"Travis, Connor","Fr",NA,2024,"14","",NA,214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
+"Smith, Jake","Jr","2660106",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2660106",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
+"Team, UNKNOWN","N/A","2983311",2024,"88","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2983311",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580
+"Travis, Connor","Fr","2977805",2024,"14","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=214&stats_player_seq=2977805",214,"Emerson","/team/214/16580",890,"NEWMAC",3,2024,16580

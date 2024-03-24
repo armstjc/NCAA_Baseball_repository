@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Ackermann, Dylan","Jr","2662399",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=364&stats_player_seq=2662399",364,"Loras","/team/364/16580",864,"American Rivers",3,2024,16580
 "Arnold, Brendan","Fr",NA,2024,"94","UT",NA,364,"Loras","/team/364/16580",864,"American Rivers",3,2024,16580
-"Bond, Carter","Fr",NA,2024,"35","P",NA,364,"Loras","/team/364/16580",864,"American Rivers",3,2024,16580
+"Bond, Carter","Fr","2958687",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=364&stats_player_seq=2958687",364,"Loras","/team/364/16580",864,"American Rivers",3,2024,16580
 "Boyd, TJ","So","2832987",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=364&stats_player_seq=2832987",364,"Loras","/team/364/16580",864,"American Rivers",3,2024,16580
 "Carney, Jack","Jr","2662430",2024,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=364&stats_player_seq=2662430",364,"Loras","/team/364/16580",864,"American Rivers",3,2024,16580
 "Carr, Jack","So","2831292",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=364&stats_player_seq=2831292",364,"Loras","/team/364/16580",864,"American Rivers",3,2024,16580
@@ -39,4 +39,4 @@
 "Sunny, Cody","So","2831297",2024,"23","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=364&stats_player_seq=2831297",364,"Loras","/team/364/16580",864,"American Rivers",3,2024,16580
 "Williamson, Adam","Fr","2958656",2024,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=364&stats_player_seq=2958656",364,"Loras","/team/364/16580",864,"American Rivers",3,2024,16580
 "Woods, Colin","Fr",NA,2024,"99","OF",NA,364,"Loras","/team/364/16580",864,"American Rivers",3,2024,16580
-"Zeal, Jake","Fr",NA,2024,"14","OF",NA,364,"Loras","/team/364/16580",864,"American Rivers",3,2024,16580
+"Zeal, Jake","Fr","2958664",2024,"14","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=364&stats_player_seq=2958664",364,"Loras","/team/364/16580",864,"American Rivers",3,2024,16580

@@ -1,12 +1,12 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Applegate, Carson","Fr",NA,2024,"36","P",NA,334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
+"Applegate, Carson","Fr","2800164",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2800164",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Bowen, Blake","Fr",NA,2024,"35","UT",NA,334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Brown, Hudson","Fr",NA,2024,"23","INF",NA,334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Burkes, Devin","Jr","2463927",2024,"7","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2463927",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Byers, Evan","Jr","2463915",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2463915",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Cameron, Griffin","Fr","2946532",2024,"42","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2946532",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Church, Reuben","Sr","2463903",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2463903",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
-"Cleaver, Ben","Fr",NA,2024,"48","P",NA,334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
+"Cleaver, Ben","Fr","2946535",2024,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2946535",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Crittenberger, Ty","Sr","2493237",2024,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2493237",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Daly, Mitchell","Sr","2471769",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2471769",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Fawley, Austin","Fr","2800147",2024,"52","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2800147",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
@@ -41,7 +41,7 @@
 "Skowronski, Josh","Fr",NA,2024,"5","OF",NA,334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Small, Eli","Fr","2946537",2024,"54","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2946537",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Smith, Hayden","Fr","2800144",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2800144",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
-"Smith, Grant","Sr","2330272",2024,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2330272",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Smith, Travis","So","2654139",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2654139",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
+"Smith, Grant","Sr","2330272",2024,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2330272",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Titus, Jake","Fr","2946523",2024,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2946523",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580
 "Waldschmidt, Ryan","Jr","2667313",2024,"21","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=334&stats_player_seq=2667313",334,"Kentucky","/team/334/16580",911,"SEC",1,2024,16580

@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Arbolida, Cary","Sr","2809043",2024,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=288&stats_player_seq=2809043",288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
 "Avalos, Anthony","Fr","2963106",2024,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=288&stats_player_seq=2963106",288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
-"Bennett, Conner","Fr",NA,2024,"34","C",NA,288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
+"Bennett, Conner","Fr","2963100",2024,"34","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=288&stats_player_seq=2963100",288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
 "Benzor, Michael","So","2801623",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=288&stats_player_seq=2801623",288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
 "Carbone, Cole","Fr",NA,2024,"37","C",NA,288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
 "Citelli, Cade","Jr","2466147",2024,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=288&stats_player_seq=2466147",288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
@@ -38,7 +38,7 @@
 "Solis, Alex","Fr","2963093",2024,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=288&stats_player_seq=2963093",288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
 "Stuart, Chris","Jr","2801634",2024,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=288&stats_player_seq=2801634",288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
 "Torrealba , Jose","Sr","2663349",2024,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=288&stats_player_seq=2663349",288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
-"Tulimero, Anthony","Sr","2663282",2024,"5","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=288&stats_player_seq=2663282",288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
+"Tulimero, Anthony","Sr","2310717",2024,"5","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=288&stats_player_seq=2310717",288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
 "Walker , Bryson","Sr","2663367",2024,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=288&stats_player_seq=2663367",288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
 "Williamson, Tim","Sr","2309209",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=288&stats_player_seq=2309209",288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580
 "Woodward, Owen","Sr","2809104",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=288&stats_player_seq=2809104",288,"Houston","/team/288/16580",25354,"Big 12",1,2024,16580

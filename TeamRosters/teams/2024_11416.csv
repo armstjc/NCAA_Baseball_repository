@@ -1,12 +1,15 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Almeda, JJ","Jr","2962307",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2962307",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Berni, Max","Jr","2671568",2024,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2671568",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
+"Biaggi, Aidan","Fr","2984218",2024,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2984218",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Blank, Joey","Fr","2962198",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2962198",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Bunevich, Evan","Jr","2962332",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2962332",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
+"Clontz, Bridger","Fr","2819414",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2819414",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Craig, David","Jr","2819334",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2819334",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "DiFrancesco, Rocco","So","2819440",2024,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2819440",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Ellison, Jordan","Jr","2819409",2024,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2819409",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
-"Ezor, Ethan","Sr","2495416",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2495416",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
+"Ezor, Ethan","Sr","2495416",2024,"99","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2495416",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
+"Feliz, Kolby","So","2819436",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2819436",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Flores, Emilio","Jr","2819411",2024,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2819411",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Glowacki, Tyler","Jr","2654640",2024,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2654640",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Gonzalez, Jonathan","Sr","2331588",2024,"2","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2331588",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
@@ -14,6 +17,7 @@
 "Hara, Kennedy","So","2819445",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2819445",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Hohenstein, Liam","So","2819415",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2819415",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Landis, Keegan","Fr","2962329",2024,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2962329",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
+"Lockhart, Gauge","Jr","2655181",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2655181",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Miller, Kyle","Jr","2671605",2024,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2671605",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Morris, Brenden","Fr","2820254",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2820254",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Nicol, Cade","Sr","2331621",2024,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2331621",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
@@ -23,7 +27,7 @@
 "Rheem, TJ","So","2962323",2024,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2962323",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Rhoades, Jacob","Sr","2331632",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2331632",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Romans, Josh","Jr","2962315",2024,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2962315",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
-"Ruter, Caleb","Jr","2975710",2024,"41","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2975710",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
+"Ruter, Caleb","Jr","2975710",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2975710",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Schoenfeld, Paul","Jr","2819457",2024,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2819457",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Seward, Cole","Jr","2671598",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2671598",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Sharrar, Robert","Sr","2331631",2024,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2331631",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
@@ -33,7 +37,9 @@
 "Turnbeaugh, Spye","Jr","2832140",2024,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2832140",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Valdez, Max","Jr","2671602",2024,"15","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2671602",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Voss, Ethan","Jr","2962328",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2962328",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
-"Webb, Brady","Fr","2972111",2024,"35","pr/lf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2972111",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
+"Webb, Brady","Fr","2972111",2024,"35","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2972111",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Wiesner, Declan","Jr","2819420",2024,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2819420",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Winget, Braden","Sr","2819443",2024,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2819443",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
+"Winget, Preston","Jr","2983461",2024,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2983461",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
 "Wolf, Tristan","Jr","2962330",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=11416&stats_player_seq=2962330",11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580
+"Zwahlen, CJ","So",NA,2024,"50","P",NA,11416,"Colorado Mesa","/team/11416/16580",13128,"RMAC",2,2024,16580

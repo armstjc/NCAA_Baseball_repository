@@ -1,8 +1,8 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Argenziano, Andrew","So",NA,2024,"40","P",NA,158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
+"Argenziano, Andrew","So","2812742",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2812742",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Blackwell, Miles","Jr","2654251",2024,"43","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2654251",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Bowman, Justin","Fr","2962190",2024,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2962190",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
-"Cooper, Jack","Sr","2654265",2024,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2654265",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
+"Cooper, Jack","Sr","2654265",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2654265",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Corso, Kyle","Jr","2654244",2024,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2654244",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Dardar, Seth","Sr","2477410",2024,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2477410",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Dixon, Lucas","Fr",NA,2024,"38","P",NA,158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
@@ -12,7 +12,7 @@
 "Hage, Cole","Sr","2477412",2024,"26","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2477412",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Harrigan, Will","Fr","2962191",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2962191",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Hicks, Baylor","Fr","2962200",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2962200",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
-"Jackson, Lucas","Fr",NA,2024,"37","C",NA,158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
+"Jackson, Lucas","Fr","2962197",2024,"37","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2962197",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Jeon, Eric","Fr","2962187",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2962187",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Kail, Jack","So","2812722",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2812722",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Kleinhans, Evan","So","2812740",2024,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2812740",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
@@ -25,7 +25,7 @@
 "Ogden, JD","Sr","2477413",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2477413",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Palfrey, Griffin","Jr","2654266",2024,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2654266",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Parkinson, Will","Jr","2654267",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2654267",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
-"Reynolds, Dean","Fr",NA,2024,"57","UT",NA,158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
+"Reynolds, Dean","Fr","2962201",2024,"57","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2962201",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Santana, Thomas","So","2812741",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2812741",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Selinsky, Skye","Jr","2654271",2024,"23","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2654271",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Seminara, Ben","So","2812743",2024,"41","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2812743",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
@@ -36,4 +36,4 @@
 "Vaughn, James","Sr","2812744",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2812744",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Wade, Pat","Jr","2812748",2024,"39","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2812748",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
 "Yoo, Derek","Sr","2477414",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2477414",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
-"Zhang, Martin","So",NA,2024,"21","P",NA,158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580
+"Zhang, Martin","So","2812739",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=158&stats_player_seq=2812739",158,"Columbia","/team/158/16580",865,"Ivy League",1,2024,16580

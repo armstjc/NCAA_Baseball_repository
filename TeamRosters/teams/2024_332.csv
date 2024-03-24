@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Adams, Seth","Sr","2952094",2024,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2952094",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
+"Adams, Seth","Sr","2466442",2024,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2466442",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Anderson, Jalen","Jr","2670765",2024,"4","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2670765",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Chambers, Antonio","Sr","2311223",2024,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2311223",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Chapman, Daccarius","Sr","2824511",2024,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2824511",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
@@ -8,7 +8,7 @@
 "Dossett, Brad","So","2824520",2024,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2824520",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Esparza, Joseph","Sr","2824513",2024,"23","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2824513",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Fletcher, Treyvon","Sr","2494840",2024,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2494840",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
-"Fry, Aarion","Fr",NA,2024,"29","P",NA,332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
+"Fry, Aarion","Fr","2952138",2024,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2952138",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Garland, Kendall","Fr","2952145",2024,"26","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2952145",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Higgs, Collier","Sr","2311228",2024,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2311228",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Holt, Anthony","Fr","2952150",2024,"33","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2952150",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
@@ -17,14 +17,14 @@
 "Jones, Preston","So","2836099",2024,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2836099",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Lewis, Zion","So","2831058",2024,"21","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2831058",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Lucas , Danzel","Jr","2952169",2024,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2952169",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
-"Marquez, Yosvany","Jr","2952171",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2952171",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
+"Marquez, Yosvany","Jr","2357286",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2357286",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Minyard, Gavyn","Fr","2952175",2024,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2952175",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Ocasio, Nathaniel","Fr","2952178",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2952178",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Odom, Cullen","Sr","2666159",2024,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2666159",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Pedraza, Michael","Sr","2670994",2024,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2670994",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Poellnitz, Cederic","So","2824521",2024,"24","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2824521",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Reed, Solomon","Sr","2129693",2024,"7","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2129693",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
-"Rush, Bakari","Fr",NA,2024,"19","C",NA,332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
+"Rush, Bakari","Fr","2952181",2024,"19","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2952181",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Saylor, Kelton","Sr","2311254",2024,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2311254",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "Turner, Eric","Sr","2824514",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2824514",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580
 "White, Parker","Sr","2514255",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=332&stats_player_seq=2514255",332,"Kentucky St.","/team/332/16580",913,"SIAC",2,2024,16580

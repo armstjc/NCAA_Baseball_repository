@@ -1,26 +1,23 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Allen, Kobe","Sr","2456881",2024,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2456881",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Archer, Derek","So","2806664",2024,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2806664",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
-"Ashmore, William","Fr",NA,2024,"6","OF",NA,1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
-"Ballard, Beno","Fr",NA,2024,"52","UT",NA,1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
-"Bello, Ian","So","2661893",2024,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2661893",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
-"Bober, Andrew","Fr",NA,2024,"23","C",NA,1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
+"Ashmore, William","Fr","2962609",2024,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2962609",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
+"Ballard, Beno","Fr","2962625",2024,"52","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2962625",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Bohler, Donovan","So","2806640",2024,"16","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2806640",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Bradke, Aydn","Fr","2962626",2024,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2962626",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
-"Bryowsky, Aidan","Fr",NA,2024,"25","UT",NA,1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
-"Cira, Brett","N/A","2962622",2024,"48","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2962622",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
+"Bryowsky, Aidan","Fr","2962615",2024,"25","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2962615",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
+"Cira, Brett","N/A","2962622",2024,"11","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2962622",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Crabtree, William","Fr","2962617",2024,"28","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2962617",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Decola, Richard","Fr","2962621",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2962621",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Eirhart, Kaden","So","2806663",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2806663",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Gebbink, Bode","Sr","2456862",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2456862",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
-"Harris II, Donte","Fr",NA,2024,"51","UT",NA,1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
+"Harris II, Donte","Fr","2962624",2024,"51","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2962624",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Harrison , Corbin","Sr","2661888",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2661888",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Henke, Brian","Jr","2806634",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2806634",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
-"Hidalgo, David","Fr",NA,2024,"3","",NA,1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Hinkle-Pruett, Kaleb","Jr","2661911",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2661911",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Howard, Ryan","So","2962623",2024,"50","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2962623",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Kennekeck, Ben","Jr","2806639",2024,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2806639",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
-"Kespohl, Jackson","So","2661898",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2661898",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
+"Kespohl, Jackson","Jr","2661898",2024,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2661898",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Knittel, Brayden","So","2806660",2024,"34","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2806660",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Louie , Chris","Jr","2806662",2024,"37","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2806662",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580
 "Lukins, Matt","Jr","2661907",2024,"10","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1450&stats_player_seq=2661907",1450,"Westminster (MO)","/team/1450/16580",12974,"SLIAC",3,2024,16580

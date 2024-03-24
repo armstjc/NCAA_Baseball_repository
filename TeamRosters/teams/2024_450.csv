@@ -1,14 +1,14 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Agar, Joey","So","2809724",2024,"34","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2809724",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Braxton, Josh","So","2809711",2024,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2809711",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
-"Capparella, Dominic","Fr",NA,2024,"30","P",NA,450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
+"Capparella, Dominic","Fr","2974715",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2974715",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Cincinnati, Kyle","Jr",NA,2024,"2","C",NA,450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Correa, Jr., Efrain","Sr","2481513",2024,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2481513",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Curley, Timothy","Fr","2974679",2024,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2974679",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Davis, Jeff","So","2809692",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2809692",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Fleming, Nick","Jr","2654921",2024,"33","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2654921",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Foster, Brayden","So","2809727",2024,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2809727",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
-"Foster, Jakob","Fr",NA,2024,"14","P",NA,450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
+"Foster, Jakob","Fr","2974682",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2974682",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Fredo, Ty","Fr","2974712",2024,"26","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2974712",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Giangreco, Kris","So","2809725",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2809725",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Haulik, Evan","Sr","2481515",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2481515",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
@@ -29,7 +29,7 @@
 "Salisbury, Danny","Jr","2654945",2024,"28","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2654945",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Seeker, Scott","Sr","2809729",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2809729",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Sheerin, Deven","Fr","2974002",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2974002",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
-"Smith, Evan","Fr",NA,2024,"35","OF",NA,450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
+"Smith, Evan","Fr","2974721",2024,"35","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2974721",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Snyder, Jackson","So","2809728",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2809728",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Speas, Kyle","So","2820069",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2820069",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580
 "Stam, Matt","Sr","2809734",2024,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=450&stats_player_seq=2809734",450,"Mount St. Mary's","/team/450/16580",871,"MAAC",1,2024,16580

@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Abner, Jaisen","Fr",NA,2024,"1","UT",NA,1356,"Seattle U","/team/1356/16580",923,"WAC",1,2024,16580
+"Abner, Jaisen","Fr","2962557",2024,"1","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1356&stats_player_seq=2962557",1356,"Seattle U","/team/1356/16580",923,"WAC",1,2024,16580
 "Alberghini, Kaden","So","2804978",2024,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1356&stats_player_seq=2804978",1356,"Seattle U","/team/1356/16580",923,"WAC",1,2024,16580
 "Alwood, Luke","So","2805745",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1356&stats_player_seq=2805745",1356,"Seattle U","/team/1356/16580",923,"WAC",1,2024,16580
 "Antonson, Trevor","Sr","2300573",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1356&stats_player_seq=2300573",1356,"Seattle U","/team/1356/16580",923,"WAC",1,2024,16580
@@ -34,7 +34,7 @@
 "Stinnett, Brandon","Fr","2962576",2024,"24","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1356&stats_player_seq=2962576",1356,"Seattle U","/team/1356/16580",923,"WAC",1,2024,16580
 "Tsoukalas, Michael","Jr","2657820",2024,"27","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1356&stats_player_seq=2657820",1356,"Seattle U","/team/1356/16580",923,"WAC",1,2024,16580
 "Wagoner, Jake","Fr","2962596",2024,"33","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1356&stats_player_seq=2962596",1356,"Seattle U","/team/1356/16580",923,"WAC",1,2024,16580
-"Williamson, Thomas","Fr",NA,2024,"40","P",NA,1356,"Seattle U","/team/1356/16580",923,"WAC",1,2024,16580
+"Williamson, Thomas","Fr","2962597",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1356&stats_player_seq=2962597",1356,"Seattle U","/team/1356/16580",923,"WAC",1,2024,16580
 "Wodward, Jarek","So",NA,2024,"44","P",NA,1356,"Seattle U","/team/1356/16580",923,"WAC",1,2024,16580
 "Wong, Andrew","So","2805706",2024,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1356&stats_player_seq=2805706",1356,"Seattle U","/team/1356/16580",923,"WAC",1,2024,16580
 "Woodward, Jack","So","2972440",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1356&stats_player_seq=2972440",1356,"Seattle U","/team/1356/16580",923,"WAC",1,2024,16580

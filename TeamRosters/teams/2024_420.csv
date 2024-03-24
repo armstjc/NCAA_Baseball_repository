@@ -1,9 +1,9 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Angstman, Baker","Sr","2520365",2024,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2520365",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
+"Ashley, Will","Fr","2945863",2024,"22","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2945863",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Ashley, Andrew","Sr","2520382",2024,"13","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2520382",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
-"Ashley, Will","Fr",NA,2024,"22","INF",NA,420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
-"Basso, Joe","Fr",NA,2024,"18","C",NA,420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
-"Bohlig, Cooper","Fr",NA,2024,"25","OF",NA,420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
+"Basso, Joe","Fr","2945824",2024,"18","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2945824",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
+"Bohlig, Cooper","Fr","2945827",2024,"25","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2945827",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Borter, Chris","Sr","2354948",2024,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2354948",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Byrne, David","Sr","2354949",2024,"23","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2354949",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Cai, Lucas","Sr","2520380",2024,"36","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2520380",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
@@ -12,9 +12,9 @@
 "Fox, Owen","Jr","2677774",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2677774",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Gatland, Andrew","Sr","2354963",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2354963",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Gattuso, Gavin","Sr","2520364",2024,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2520364",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
-"George, Emmet","Fr",NA,2024,"7","P",NA,420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
+"George, Emmet","Fr","2945818",2024,"7","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2945818",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Gilmartin, Zander","Jr","2677776",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2677776",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
-"Han, Aiden","Fr",NA,2024,"8","INF",NA,420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
+"Han, Aiden","Fr","2945819",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2945819",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Handa, Kunal","Jr","2677779",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2677779",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Knightly, Dylan","So","2821325",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2821325",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Kutz, Charlie","Jr","2520369",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2520369",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
@@ -22,8 +22,8 @@
 "Malley, Zip","Sr","2354950",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2354950",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Mathews, Brayden","So","2821314",2024,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2821314",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "McCausland, Kyle","Jr","2677775",2024,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2677775",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
-"Parker, Gus","Fr",NA,2024,"5","OF",NA,420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
-"Pellagrini, Anthony","Fr",NA,2024,"20","P",NA,420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
+"Parker, Gus","Fr","2945812",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2945812",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
+"Pellagrini, Anthony","Fr","2945825",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2945825",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Platt, Sky","Fr",NA,2024,"39","OF",NA,420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Root, Beau","Sr","2354964",2024,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2354964",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Rosario, Isaac","Jr","2677777",2024,"99","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2677777",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
@@ -33,5 +33,5 @@
 "Slaughter, Ben","Jr","2677746",2024,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2677746",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Smith, Sammy","Sr","2520378",2024,"16","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2520378",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
 "Tross, Owen","So","2821328",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2821328",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
-"Wessell, Frederick","So",NA,2024,"40","P",NA,420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
-"Yozzo, Stefano","Fr",NA,2024,"9","P",NA,420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
+"Wessell, Frederick","So","2945832",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2945832",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580
+"Yozzo, Stefano","Fr","2945822",2024,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=420&stats_player_seq=2945822",420,"Middlebury","/team/420/16580",12817,"NESCAC",3,2024,16580

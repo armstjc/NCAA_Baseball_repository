@@ -1,12 +1,12 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Albertson, Logan","Jr","2457462",2024,"30","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2457462",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Arner, Garrett","Fr","2938161",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2938161",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
-"Bell, Andrew","Fr",NA,2024,"35","P",NA,44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
-"Bobbitt, Isaiah","Fr",NA,2024,"19","UT",NA,44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
+"Bell, Andrew","Fr","2938171",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2938171",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
+"Bobbitt, Isaiah","Fr","2938167",2024,"19","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2938167",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Braun, Jake","Jr","2652916",2024,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2652916",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Brophy, Brandt","Sr","2457488",2024,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2457488",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Byrd, Chris","So","2803305",2024,"42","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2803305",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
-"Carson, Cameron","Fr",NA,2024,"37","UT",NA,44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
+"Carson, Cameron","Fr","2938164",2024,"37","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2938164",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Collins, C.J.","So","2803314",2024,"31","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2803314",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Colwell, Gavin","Jr","2652945",2024,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2652945",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Comer, Nathan","Jr","2652939",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2652939",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
@@ -19,7 +19,7 @@
 "Hemmis, Jacob","Fr",NA,2024,"16","P",NA,44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Jordan, M.","N/A","2965960",2024,"39","rf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2965960",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Kubis, Connor","So","2803316",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2803316",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
-"Lowe, Tyler","Fr",NA,2024,"17","UT",NA,44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
+"Lowe, Tyler","Fr","2938158",2024,"17","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2938158",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Lowman, Halen","Fr","2938159",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2938159",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Maccabe, Nolan","Sr","2307244",2024,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2307244",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Maddox, Jordan","Fr",NA,2024,"39","OF",NA,44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
@@ -34,7 +34,7 @@
 "Rowe, Hudson","Sr","2457489",2024,"8","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2457489",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Schware, Tim","So","2803315",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2803315",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Scourfield, Scott","Fr",NA,2024,"26","UT",NA,44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
-"Sheffield, Kendrick","Fr",NA,2024,"44","P",NA,44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
+"Sheffield, Kendrick","Fr","2938166",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2938166",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Skinner, Drew","Fr","2938154",2024,"10","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2938154",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Stephens, Ethan","Sr","2457465",2024,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2457465",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580
 "Testerman, Trevor","So","2817580",2024,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=44&stats_player_seq=2817580",44,"Averett","/team/44/16580",903,"ODAC",3,2024,16580

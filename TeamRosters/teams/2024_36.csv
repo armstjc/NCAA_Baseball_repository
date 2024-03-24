@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Arsenault, Collin","Fr",NA,2024,"34","OF",NA,36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
-"Barrington, Ethan","Fr",NA,2024,"54","P",NA,36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
+"Barrington, Ethan","Fr","2952374",2024,"54","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2952374",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
 "Barry, Jack","Sr","2525202",2024,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2525202",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
 "Barry, Luke","Fr","2952350",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2952350",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
 "Berardino, Jared","Sr","2524296",2024,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2524296",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
@@ -8,8 +8,8 @@
 "Burke, Thomas","Sr","2690033",2024,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2690033",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
 "Chiappone, Corey","Sr","2330231",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2330231",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
 "Cloutier, Ryan","So","2802334",2024,"49","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2802334",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
-"Connor, Matt","Fr",NA,2024,"24","P",NA,36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
-"Constantine, Cole","Fr",NA,2024,"25","P",NA,36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
+"Connor, Matt","Fr","2952361",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2952361",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
+"Constantine, Cole","Fr","2952362",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2952362",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
 "Cook, Andrew","So","2802333",2024,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2802333",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
 "Cronin, Shane","Sr","2685993",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2685993",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
 "Crowley, Michael","Fr","2952364",2024,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2952364",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
@@ -46,5 +46,5 @@
 "Sellinger, Dylan","So",NA,2024,"13","INF",NA,36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
 "Smith, Cody","Jr","2685766",2024,"14","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2685766",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
 "Stone, Austin","Jr","2802331",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2802331",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
-"Walsh, Joseph","So",NA,2024,"33","P",NA,36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
-"Wright, Bailey","Fr",NA,2024,"36","C",NA,36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
+"Walsh, Joseph","So","2802307",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2802307",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580
+"Wright, Bailey","Fr","2952370",2024,"36","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=36&stats_player_seq=2952370",36,"Assumption","/team/36/16580",899,"NE10",2,2024,16580

@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Barrett, Patrick","Fr",NA,2024,"28","P",NA,179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
+"Barrett, Patrick","Fr","2971121",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2971121",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Bennett, Liam","Sr","2503087",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2503087",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Bielen, Hank","Sr","2333570",2024,"44","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2333570",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Cannon, Derek","Jr","2673118",2024,"15","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2673118",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
@@ -14,14 +14,14 @@
 "Fisher, Nathan","Fr","2971134",2024,"40","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2971134",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Flynn, Patrick","Jr","2971136",2024,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2971136",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Foley , Colin","So","2820566",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2820566",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
-"Gossel, Ty","Jr",NA,2024,"37","C",NA,179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
+"Gossel, Ty","Jr","2971141",2024,"37","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2971141",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Hackett, Reese","Jr","2673138",2024,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2673138",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
-"Hinkel, Ayden","Fr",NA,2024,"33","1B",NA,179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
+"Hinkel, Ayden","Fr","2971145",2024,"33","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2971145",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Kapsa, Jeremy","Jr","2695048",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2695048",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Kelly, Jimmy","Jr","2673121",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2673121",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Koch, Nick","Sr","2503090",2024,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2503090",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
-"Koenig, Jakob","Fr",NA,2024,"46","INF",NA,179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
-"Ludwick, Nate","Fr",NA,2024,"30","1B",NA,179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
+"Koenig, Jakob","Fr","2971152",2024,"46","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2971152",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
+"Ludwick, Nate","Fr","2971153",2024,"30","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2971153",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Martin, Liam","So","2820587",2024,"47","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2820587",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Martino , Anthony","So","2820531",2024,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2820531",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Mattia, Samuele","Fr","2971156",2024,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2971156",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
@@ -35,7 +35,7 @@
 "Pittari, Ryan","Sr","2348519",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2348519",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Ramos, Blake","Jr","2673127",2024,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2673127",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Reed, Nate","Sr","2503075",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2503075",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
-"Santise, Lucas","Fr",NA,2024,"14","OF",NA,179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
+"Santise, Lucas","Fr","2971186",2024,"14","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2971186",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Saxe, Ethan","Sr","2503041",2024,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2503041",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Scally, Evan","Sr","2503061",2024,"9","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2503061",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580
 "Schneider, Andrew","Jr","2820521",2024,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=179&stats_player_seq=2820521",179,"Delaware Valley","/team/179/16580",28745,"MAC Freedom",3,2024,16580

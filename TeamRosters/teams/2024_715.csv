@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Aldmon, Carter","Fr",NA,2024,"4","INF",NA,715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
+"Aldmon, Carter","Fr","2977234",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2977234",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Baker, Jack","Sr","2496869",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2496869",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
-"Balbin, Zack","Jr",NA,2024,"34","P",NA,715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
+"Balbin, Zack","Jr","2809448",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2809448",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Bihn, Alex","Sr","2496882",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2496882",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Boeke, Michael","Sr","2321651",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2321651",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Bowman, Cedric","Sr","2678382",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2678382",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
@@ -10,8 +10,8 @@
 "Chavana, Joseph","Sr","2496872",2024,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2496872",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Coney, Khalfani","So","2809437",2024,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2809437",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Dioli, John Adrian","So","2977264",2024,"35","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2977264",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
-"Garza, Zachary","Sr","2496879",2024,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2496879",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Garza, Ryan","So",NA,2024,"50","INF",NA,715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
+"Garza, Zachary","Sr","2496879",2024,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2496879",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Gomez, Diego","Fr","2977258",2024,"31","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2977258",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Harris, Colt","Sr","2496867",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2496867",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Hastings, Korson","Sr","2496877",2024,"44","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2496877",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
@@ -31,14 +31,14 @@
 "McNaney, Matt","Sr","2496874",2024,"23","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2496874",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Milligan, Max","Jr","2678187",2024,"8","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2678187",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Monson, Alex","Sr","2977265",2024,"13","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2977265",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
-"Morio, Brandon","Fr","2977256",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2977256",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Morio, James","Fr",NA,2024,"9","P",NA,715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
+"Morio, Brandon","Fr","2977256",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2977256",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Nelson, Brandon","Jr","2678188",2024,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2678188",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Nevilles, Hunter","Sr","2321650",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2321650",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Newman, Jonathan","Sr","2496880",2024,"14","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2496880",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Peterson, Jack","Sr","2496871",2024,"24","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2496871",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Pfeiffer, Luke","Jr","2678391",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2678391",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
-"Phillips, Jarrett","Sr",NA,2024,"49","UT",NA,715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
+"Phillips, Jarrett","Sr","2977261",2024,"49","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2977261",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Preston, Ty","Sr","2496878",2024,"20","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2496878",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Roosa, Kyle","Jr","2678392",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2678392",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Rytting, Mattias","Fr","2976474",2024,"46","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2976474",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
@@ -48,3 +48,4 @@
 "Tyler, Sheppard","Fr","2976475",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2976475",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Wisdom, Zack","Fr",NA,2024,"52","P",NA,715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
 "Witte, Josh","So","2809440",2024,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2809440",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580
+"Woodward, Kaleb","Fr","2979495",2024,"48","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=715&stats_player_seq=2979495",715,"Trinity (TX)","/team/715/16580",835,"SCAC",3,2024,16580

@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Alexander, Gabriel","Fr",NA,2024,"41","C",NA,730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
+"Alexander, Gabriel","Fr","2969408",2024,"41","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2969408",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Balos, Peter","Jr","2687375",2024,"24","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2687375",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Barrow, Ryan","Fr","2969407",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2969407",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Bass, Dan","So","2824788",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2824788",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
@@ -7,15 +7,15 @@
 "Bogansky, Connor","Jr","2687377",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2687377",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Burns, Cory","Jr","2687379",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2687379",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Cantor, Jakob","Jr","2687395",2024,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2687395",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
-"Cerasaro, Nicholas","Fr",NA,2024,"37","P",NA,730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
+"Cerasaro, Nicholas","Fr","2969405",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2969405",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Chen, Eric","Fr",NA,2024,"45","OF",NA,730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Collins, Patrick","So","2833224",2024,"23","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2833224",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Conroy, Ian","Sr","2520317",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2520317",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
-"Cook, Gavin","So",NA,2024,"30","P",NA,730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
-"Couture, Ben","Fr",NA,2024,"48","1B",NA,730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
+"Cook, Gavin","So","2969251",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2969251",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
+"Couture, Ben","Fr","2969411",2024,"48","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2969411",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Covis, Nick","Fr","2969397",2024,"26","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2969397",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Crammer, Dylan","Sr","2520295",2024,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2520295",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
-"Crocona, Nick","Fr",NA,2024,"38","P",NA,730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
+"Crocona, Nick","Fr","2969406",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2969406",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Cuccolo, Ben","Jr","2687380",2024,"17","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2687380",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Dinan, Tyler","So","2824851",2024,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2824851",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Doroshow, Alex","Fr",NA,2024,"42","P",NA,730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
@@ -32,7 +32,7 @@
 "McKinney, Morgan","Fr",NA,2024,"46","OF",NA,730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Morgan, David","Jr","2824868",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2824868",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Nestor, George","So","2824861",2024,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2824861",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
-"Pan, Ty","Fr",NA,2024,"29","INF",NA,730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
+"Pan, Ty","Fr","2969399",2024,"29","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2969399",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Richter, Andrew","Jr","2687386",2024,"33","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2687386",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Rosenfeld, Kyle","So","2824857",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2824857",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580
 "Ross, Barritt","Fr","2969401",2024,"28","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=730&stats_player_seq=2969401",730,"Ursinus","/team/730/16580",9683,"Centennial",3,2024,16580

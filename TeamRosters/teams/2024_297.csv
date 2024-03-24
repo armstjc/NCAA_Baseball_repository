@@ -1,12 +1,12 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Akstulewicz, Connor","Fr","2944201",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2944201",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
-"Allen, Tyler","Jr",NA,2024,"18","P",NA,297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
+"Allen, Tyler","Jr","2944186",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2944186",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Balcom, Brody","Fr",NA,2024,"16","C",NA,297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Barker, Tyler","So","2814597",2024,"38","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2814597",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Bartletti, Louie","Jr","2814588",2024,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2814588",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Bettis, Ryan","Fr",NA,2024,"49","INF",NA,297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
-"Buonaura, Anthony","Fr",NA,2024,"13","UT",NA,297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
-"Campau, Chris","Jr",NA,2024,"37","P",NA,297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
+"Buonaura, Anthony","Fr","2944178",2024,"13","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2944178",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
+"Campau, Chris","Jr","2944197",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2944197",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Chamness, Tyler","So",NA,2024,"41","INF",NA,297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Cooley, Hunter","So",NA,2024,"19","INF",NA,297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Cooper, Evan","Fr",NA,2024,"42","UT",NA,297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
@@ -14,7 +14,7 @@
 "Duke, Eli","Fr",NA,2024,"27","C",NA,297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Eaton, Dylan","Jr","2663932",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2663932",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Emery, Aden","Sr","2814534",2024,"6","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2814534",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
-"Fricke, Jackson","Fr",NA,2024,"25","C",NA,297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
+"Fricke, Jackson","Fr","2944188",2024,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2944188",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Gibson, Dylan","Sr","2814590",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2814590",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Hankins, AJ","Sr","2814594",2024,"29","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2814594",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Hennemann, Connor","Jr","2663921",2024,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2663921",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
@@ -39,11 +39,11 @@
 "Phillis, Parker","Fr",NA,2024,"7","UT",NA,297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Schweigert, Logan","Sr","2483159",2024,"2","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2483159",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Shaw, Branson","Jr","2663933",2024,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2663933",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
-"Smith, Brandon","Jr","2663960",2024,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2663960",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Smith, Jacob","Jr","2814578",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2814578",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
+"Smith, Brandon","Jr","2663960",2024,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2663960",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Tate, Jon","Jr","2663925",2024,"15","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2663925",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Tate Jr., Seth","Fr",NA,2024,"48","P",NA,297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
-"Tieman, Liam","Fr",NA,2024,"8","OF",NA,297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
+"Tieman, Liam","Fr","2944172",2024,"8","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2944172",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Weaver, Brayden","Sr","2663966",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2663966",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Wickman, Tory","Sr","2814558",2024,"10","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2814558",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580
 "Wieneke, Andrew","Jr","2663930",2024,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=297&stats_player_seq=2663930",297,"Illinois Col.","/team/297/16580",23119,"MWC",3,2024,16580

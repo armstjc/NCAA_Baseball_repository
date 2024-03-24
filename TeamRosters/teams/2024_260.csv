@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Abulhosn, Marques","Fr",NA,2024,"43","INF",NA,260,"Gonzaga","/team/260/16580",922,"WCC",1,2024,16580
+"Abulhosn, Marques","Fr","2945253",2024,"43","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=260&stats_player_seq=2945253",260,"Gonzaga","/team/260/16580",922,"WCC",1,2024,16580
 "Calvillo, Cameron","Jr",NA,2024,"9","INF",NA,260,"Gonzaga","/team/260/16580",922,"WCC",1,2024,16580
 "Coupe, Max","Jr","2945199",2024,"7","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=260&stats_player_seq=2945199",260,"Gonzaga","/team/260/16580",922,"WCC",1,2024,16580
 "Cunneely, Michael","So","2945212",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=260&stats_player_seq=2945212",260,"Gonzaga","/team/260/16580",922,"WCC",1,2024,16580
@@ -37,7 +37,7 @@
 "Shupe, Hudson","So","2805674",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=260&stats_player_seq=2805674",260,"Gonzaga","/team/260/16580",922,"WCC",1,2024,16580
 "Smith, Parker","Fr",NA,2024,"45","P",NA,260,"Gonzaga","/team/260/16580",922,"WCC",1,2024,16580
 "Sotelo, Daniel","So","2945228",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=260&stats_player_seq=2945228",260,"Gonzaga","/team/260/16580",922,"WCC",1,2024,16580
-"Spear, Kevin","So",NA,2024,"23","C",NA,260,"Gonzaga","/team/260/16580",922,"WCC",1,2024,16580
+"Spear, Kevin","So","2827030",2024,"23","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=260&stats_player_seq=2827030",260,"Gonzaga","/team/260/16580",922,"WCC",1,2024,16580
 "Stem, Sam","So","2827006",2024,"37","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=260&stats_player_seq=2827006",260,"Gonzaga","/team/260/16580",922,"WCC",1,2024,16580
 "Swaim, Everett","So","2827005",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=260&stats_player_seq=2827005",260,"Gonzaga","/team/260/16580",922,"WCC",1,2024,16580
 "Temesvary, Vincent","Jr","2662916",2024,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=260&stats_player_seq=2662916",260,"Gonzaga","/team/260/16580",922,"WCC",1,2024,16580

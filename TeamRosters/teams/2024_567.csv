@@ -1,8 +1,8 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Anderson, Jared","Sr","2523320",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2523320",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Bacosa, Kyler","So","2806811",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2806811",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
-"Brown, Jack","Jr","2667909",2024,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2667909",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Brown, CJ","Jr","2955720",2024,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2955720",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
+"Brown, Jack","Jr","2667909",2024,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2667909",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Buchan, Nathan","Jr","2667898",2024,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2667898",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Burgess, Jake","Jr","2667901",2024,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2667901",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Ceja, Gabriel","Jr","2667916",2024,"20","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2667916",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
@@ -11,11 +11,11 @@
 "Correa, Caesar","So","2955718",2024,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2955718",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Daniels, Will","Sr","2806813",2024,"22","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2806813",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "De Vries, Luke","Jr","2667806",2024,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2667806",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
-"Duenez, Gavin","Fr",NA,2024,"26","P",NA,567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
+"Duenez, Gavin","Fr","2955727",2024,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2955727",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Efron, Kethan","So","2806817",2024,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2806817",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Godoy, Joe","Jr","2667908",2024,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2667908",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Hanson, Luke","So","2806819",2024,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2806819",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
-"Hernandez, John","Fr",NA,2024,"12","P",NA,567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
+"Hernandez, John","Fr","2955723",2024,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2955723",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Lu, Miles","Fr","2955721",2024,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2955721",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "McCance, Sean","So","2806814",2024,"25","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2806814",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "McClelland, Cade","Jr","2667918",2024,"31","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2667918",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
@@ -26,7 +26,7 @@
 "Preece, Tyler","Sr","2821301",2024,"18","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2821301",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Reiter, Tyler","Sr","2667807",2024,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2667807",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Rhoades, Ryan","Sr","2523291",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2523291",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
-"Romero, Lucas","Fr",NA,2024,"28","C",NA,567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
+"Romero, Lucas","Fr","2955729",2024,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2955729",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Russell, Jakob","Jr","2667805",2024,"7","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2667805",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Saito, Kaiya","Jr","2667904",2024,"11","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2667904",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580
 "Umscheid, Ian","So","2806778",2024,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=567&stats_player_seq=2806778",567,"Redlands","/team/567/16580",910,"SCIAC",3,2024,16580

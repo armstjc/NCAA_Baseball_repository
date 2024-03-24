@@ -1,14 +1,15 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Aguilar, Claudio","Jr","2679803",2024,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2679803",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Birko, Andrew","Sr","2830500",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2830500",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
-"Boyce, Ethan","Fr",NA,2024,"21","P",NA,1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
+"Boyce, Ethan","Fr","2945313",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2945313",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Boyle, Anthony","Jr","2679802",2024,"20","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2679802",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Guyette, Ridge","Jr","2679813",2024,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2679813",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Harris, Jay","Jr","2679785",2024,"8","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2679785",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Hemmesch , Nolan","Jr","2830521",2024,"40","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2830521",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Hernandez, Aidan","Sr","2830454",2024,"1","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2830454",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
-"LeTexier, Dezmon","Jr",NA,2024,"18","OF",NA,1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
+"LeTexier, Dezmon","Jr","2945312",2024,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2945312",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Linder, Andy","So","2830501",2024,"34","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2830501",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
+"Maxwell, Luke","So","2679807",2024,"35","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2679807",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "McCurry, Grant","So","2830492",2024,"9","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2830492",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Mount, Kazdion","Sr","2830490",2024,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2830490",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Murphy, Tyler","So","2830495",2024,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2830495",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
@@ -17,6 +18,7 @@
 "Richard, Blake","Jr","2679790",2024,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2679790",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Ross, Zach","Sr","2502114",2024,"27","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2502114",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Simpson, Matt","Sr","2502124",2024,"26","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2502124",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
+"Smith, Bryce","So","2979960",2024,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2979960",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Solberg, Peyton","So","2679798",2024,"33","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2679798",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Szymanski, Thomas","Fr",NA,2024,"22","P",NA,1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580
 "Tellefson, Austin","Sr","2502121",2024,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1267&stats_player_seq=2502121",1267,"Northland","/team/1267/16580",30115,"UMAC",3,2024,16580

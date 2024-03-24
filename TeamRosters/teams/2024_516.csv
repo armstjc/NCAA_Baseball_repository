@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Alfers, Aidan","Fr","2955260",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=516&stats_player_seq=2955260",516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580
-"Banks, Ryder","Fr",NA,2024,"40","INF",NA,516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580
+"Banks, Ryder","Fr","2955273",2024,"40","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=516&stats_player_seq=2955273",516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580
 "Cacatian, Ryan","Jr","2670811",2024,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=516&stats_player_seq=2670811",516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580
 "Cambra, Jeffery","Jr","2686632",2024,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=516&stats_player_seq=2686632",516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580
 "Capobianco, Miles","Jr","2670832",2024,"25","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=516&stats_player_seq=2670832",516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580
@@ -9,7 +9,7 @@
 "Elsee, Sean","Fr","2955271",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=516&stats_player_seq=2955271",516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580
 "Franck, Andy","Fr","2955272",2024,"34","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=516&stats_player_seq=2955272",516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580
 "Gonzalez, Nicholas","So","2809279",2024,"29","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=516&stats_player_seq=2809279",516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580
-"Goodman, Nathan","Fr",NA,2024,"28","INF",NA,516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580
+"Goodman, Nathan","Fr","2955267",2024,"28","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=516&stats_player_seq=2955267",516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580
 "Henderson, Alex","Fr","2955274",2024,"50","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=516&stats_player_seq=2955274",516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580
 "Holcomb, Riley","So","2809264",2024,"45","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=516&stats_player_seq=2809264",516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580
 "Kroese, Kenneth","Jr","2809258",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=516&stats_player_seq=2809258",516,"Occidental","/team/516/16580",910,"SCIAC",3,2024,16580

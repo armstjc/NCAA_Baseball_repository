@@ -1,4 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
+"Boyle, A.","N/A","2980779",2024,"9","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2980779",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Cairo, Max","So","2689500",2024,"19","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2689500",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Callahan, Collin","Jr","2685187",2024,"31","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2685187",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Carruthers, Chance","So","2819325",2024,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2819325",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
@@ -7,7 +8,7 @@
 "Cirillo, Tony","So",NA,2024,"40","P",NA,121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Devine, Evan","Jr","2685184",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2685184",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "DiGrazia, Ryan","Jr","2689690",2024,"26","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2689690",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
-"Duvall, Ashton","Fr",NA,2024,"18","C",NA,121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
+"Duvall, Ashton","Fr","2975860",2024,"18","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2975860",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Engelfried, Ethan","So","2819376",2024,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2819376",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Felber, Matt","Jr","2685230",2024,"12","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2685230",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Fulton, Jake","Sr","2819343",2024,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2819343",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
@@ -29,14 +30,15 @@
 "Minick, Kendall","Sr",NA,2024,"41","P",NA,121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Moser, P.J.","Jr","2693082",2024,"28","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2693082",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Papagallo, Jacob","Jr","2695072",2024,"32","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2695072",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
-"Pignotti-Wojtak, Santino","Fr",NA,2024,"3","P",NA,121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
+"Pignotti-Wojtak, Santino","Fr","2975858",2024,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2975858",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Roberts, Brendan","So","2819346",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2819346",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Scanlon, Ryan","Sr","2512042",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2512042",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Schaum, Bryce","Jr","2685189",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2685189",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Smith, Chuckie","Jr","2819331",2024,"36","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2819331",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
-"Stathopouslos, Billy","Fr",NA,2024,"16","OF",NA,121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
+"Stathopoulos, Billy","Fr",NA,2024,"16","OF",NA,121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Stuck, Zach","Fr","2975863",2024,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2975863",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Tindall, Max","So","2819342",2024,"21","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2819342",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Tubbs, Zander","So","2842335",2024,"37","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2842335",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
+"Wagner, L.","N/A","2980780",2024,"13","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2980780",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Zastrow, Troy","Sr","2695538",2024,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2695538",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580
 "Zuleger, Joe","Jr","2685186",2024,"11","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=121&stats_player_seq=2685186",121,"Carthage","/team/121/16580",836,"CCIW",3,2024,16580

@@ -1,8 +1,8 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Argenziano, Daniel","Fr","2950197",2024,"12","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2950197",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Argenziano, Joseph","Sr","2329791",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2329791",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Argenziano, Nick","Sr","2329801",2024,"3","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2329801",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
-"Baca, Domonic","So",NA,2024,"44","INF",NA,479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
+"Argenziano, Daniel","Fr","2950197",2024,"12","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2950197",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
+"Baca, Domonic","So","2950200",2024,"44","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2950200",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Balmer, Ansel","So","2813079",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2813079",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Barbet, Dakota","Sr","2307983",2024,"11","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2307983",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Beggy, Richard","Jr","2688881",2024,"1","2B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2688881",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
@@ -23,7 +23,7 @@
 "Kelman, Jack","Fr","2950232",2024,"21","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2950232",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Kessler, Miles","Fr","2950234",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2950234",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Levine, Andrew","Fr",NA,2024,"28","P",NA,479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
-"Lin, Ethan","Fr",NA,2024,"14","P",NA,479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
+"Lin, Ethan","Fr","2950239",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2950239",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "McDonough, Tucker","So","2804038",2024,"5","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2804038",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Mocklis, Kosta","Jr","2690421",2024,"2","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2690421",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Morello, Mason","Jr","2950260",2024,"99","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2950260",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
@@ -34,6 +34,7 @@
 "Quintanilla, Isaac","Fr",NA,2024,"48","1B",NA,479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Reid, Andrew","Sr","2688882",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2688882",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Roggero, Connor","Sr","2329840",2024,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2329840",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
+"Ruggero, C.","Fr","2979839",2024,"27","lf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2979839",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Sivolella, Donald","Sr","2688919",2024,"18","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2688919",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Tedeschi, Tyler","Fr","2950287",2024,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2950287",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580
 "Tomonto, Joseph","Fr","2950290",2024,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=479&stats_player_seq=2950290",479,"NYU","/team/479/16580",1471,"UAA",3,2024,16580

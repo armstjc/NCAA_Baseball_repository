@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Berglin, Quinn","Sr","2509530",2024,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2509530",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Borland, Alex","Sr","2519908",2024,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2519908",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
-"Brincks, Myles","Fr",NA,2024,"6","INF",NA,348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
+"Brincks, Myles","Fr","2955956",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2955956",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Brust, Brandon","So","2833036",2024,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2833036",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Charon, Jacob","Sr","2142909",2024,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2142909",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Depew, Nathan","Fr","2955958",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2955958",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
@@ -9,11 +9,11 @@
 "Foley, Shane","Jr","2686633",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2686633",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Freeman, Taylor","Jr","2686621",2024,"13","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2686621",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Gutowski, Ben","So","2833037",2024,"14","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2833037",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
-"Hartlaub, Brett","Fr",NA,2024,"31","P",NA,348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
+"Hartlaub, Brett","Fr","2955962",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2955962",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Hartlaub, Tate","Fr","2955955",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2955955",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Haylock, Stephaune","Sr","2509532",2024,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2509532",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Heerde, Nick","Jr","2686620",2024,"4","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2686620",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
-"Huddleston, Max","Fr",NA,2024,"19","P",NA,348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
+"Huddleston, Max","Fr","2955959",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2955959",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Johannes, Nathaniel","Jr","2686634",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2686634",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Katz, Nicholas","So","2833038",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2833038",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Knoll, Parker","Jr","2686622",2024,"17","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2686622",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
@@ -22,7 +22,7 @@
 "Leslie, Zach","Sr","2519939",2024,"28","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2519939",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Lordo, Zach","Sr","2519938",2024,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2519938",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Miles, Luke","Sr","2509533",2024,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2509533",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
-"Moosey, Josh","Fr",NA,2024,"24","P",NA,348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
+"Moosey, Josh","Fr","2955960",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2955960",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Palmer, Jonah","Sr","2509538",2024,"16","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2509538",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Peddle, Jeremy","So","2833014",2024,"20","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2833014",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Perez, Edan","Jr","2686631",2024,"11","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2686631",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
@@ -30,8 +30,8 @@
 "Robertson, Conner","So","2833162",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2833162",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Ruth, Cam","Jr","2686610",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2686610",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Santana, Elden","Sr","2509536",2024,"2","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2509536",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
-"Shackleton, Liam","Fr",NA,2024,"30","P",NA,348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
+"Shackleton, Liam","Fr","2955961",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2955961",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Sitter, Ethan","Fr",NA,2024,"37","P",NA,348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Watkins, Jake","So","2838874",2024,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2838874",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
 "Zatkowski, Will","So","2833015",2024,"38","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2833015",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
-"Zurawski, Nolan","Fr",NA,2024,"7","C",NA,348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580
+"Zurawski, Nolan","Fr","2955957",2024,"7","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=348&stats_player_seq=2955957",348,"Lawrence","/team/348/16580",23119,"MWC",3,2024,16580

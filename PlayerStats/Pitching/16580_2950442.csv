@@ -1,2 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,0,0,0,2,3,0,6,3,0,0,0,0,0,1,0,0,0,0,0,28,0,0,0,0,0,8,1,0,02/20/2024,home,16580,1097,Ga. Southwestern,9,True,2,17,-15,loss,4526384,766,2950442,2024,2
+1,0,0.2,0.0,0,0,0,1,2,0,3,2,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,6,2,0,03/19/2024,away,16580,689,Tampa,9,True,2,10,-8,loss,4532019,766,2950442,2024,2
+1,0,0.2,0.0,1,1,1,1,1,0,4,3,0,0,0,0,2,0,0,1,1,0,0,19,0,1,0,0,0,4,0,0,03/23/2024,away,16580,358,West Ala.,9,True,6,13,-7,loss,4532886,766,2950442,2024,2

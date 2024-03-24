@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,0,0,0,03/06/2024,home,16580,410,Merrimack,9,True,9,8,1,win,4529103,81,2529516,2024,1
 0,1,1,0,0,0,0,0,0,0,03/16/2024,away,16580,80,Brown,10,True,3,2,1,win,4544440,81,2529516,2024,1
+1,0,1,0,0,0,0,0,0,0,03/22/2024,home,16580,380,Maine,8,True,5,4,1,win,5254849,81,2529516,2024,1

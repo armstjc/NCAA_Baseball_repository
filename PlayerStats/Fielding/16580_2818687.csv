@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/02/2024,away,16580,767,West Tex. A&M,9,True,10,14,-4,loss,4524961,30090,2818687,2024,2
 0,0,0,0,0,0,2,0,0,0,02/21/2024,home,16580,696,Tex. A&M-Kingsville,9,True,1,13,-12,loss,4526433,30090,2818687,2024,2
+0,0,0,0,0,0,1,0,0,0,03/22/2024,home,16580,1346,St. Mary's (TX),9,True,8,5,3,win,4532392,30090,2818687,2024,2

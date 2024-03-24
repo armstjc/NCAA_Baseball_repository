@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/16/2024,away,16580,35,Ashland,9,True,5,7,-2,loss,4531384,30221,2471670,2024,2
 1,0,1,0,0,0,0,0,0,0,03/17/2024,away,16580,35,Ashland,10,True,10,8,2,win,4531722,30221,2471670,2024,2
+1,0,1,0,0,0,0,0,0,0,03/23/2024,neutral,16580,757,Wayne St. (MI),9,True,0,12,-12,loss,4532929,30221,2471670,2024,2

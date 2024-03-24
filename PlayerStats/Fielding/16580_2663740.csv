@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/24/2024,away,16580,947,Arkansas Tech,9,True,4,13,-9,loss,4543482,30152,2663740,2024,2
 0,1,1,0,0,0,1,0,0,0,03/12/2024,home,16580,8965,East Central,9,True,19,5,14,win,4530447,30152,2663740,2024,2
+0,1,1,0,0,0,0,0,0,0,03/22/2024,home,16580,8411,Ark.-Monticello,9,True,8,3,5,win,4532395,30152,2663740,2024,2

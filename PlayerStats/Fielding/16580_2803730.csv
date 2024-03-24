@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/16/2024,away,16580,1001,Catawba,9,True,4,5,-1,loss,4525590,638,2803730,2024,2
 1,0,1,0,0,0,0,0,0,0,03/15/2024,away,16580,765,West Chester,9,True,8,4,4,win,4543200,638,2803730,2024,2
+0,0,0,0,0,0,2,0,0,0,03/22/2024,home,16580,65,Bloomsburg,9,True,0,3,-3,loss,4542765,638,2803730,2024,2

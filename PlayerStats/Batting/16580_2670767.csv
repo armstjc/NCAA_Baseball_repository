@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/20/2024,home,16580,1097,Ga. Southwestern,9,True,2,17,-15,loss,4526384,766,2670767,2024,2
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/10/2024,away,16580,1238,Montevallo,9,True,6,22,-16,loss,5252803,766,2670767,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,03/19/2024,away,16580,689,Tampa,9,True,2,10,-8,loss,4532019,766,2670767,2024,2

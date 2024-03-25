@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,02/18/2024,home,16580,368,UMass Lowell,9,True,1,6,-5,loss,4526053,19651,2971067,2024,1
 0,1,1,0,0,0,0,0,0,0,03/10/2024,home,16580,587,Rutgers,9,True,6,2,4,win,4780632,19651,2971067,2024,1
+1,3,4,0,0,0,0,0,1,0,03/24/2024,home,16580,575,Richmond,9,True,14,3,11,win,4532995,19651,2971067,2024,1

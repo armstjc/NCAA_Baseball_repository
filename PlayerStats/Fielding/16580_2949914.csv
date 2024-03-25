@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,0,0,0,02/09/2024,home,16580,30088,Tex. Permian Basin,9,True,5,8,-3,loss,4525323,30177,2949914,2024,2
+0,1,1,0,0,0,1,1,0,0,03/23/2024,away,16580,25,Angelo St.,9,True,3,10,-7,loss,4543911,30177,2949914,2024,2

@@ -4,3 +4,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,2,2,0,0,0,0,1,0,0,03/01/2024,home,16580,797,Milwaukee,11,True,5,4,1,win,4527998,99,2799373,2024,1
 0,3,5,2,0,0,0,0,0,0,03/08/2024,away,16580,782,Wichita St.,9,True,1,4,-3,loss,4529419,99,2799373,2024,1
 1,0,1,0,0,0,0,0,0,0,03/15/2024,away,16580,104,UC Santa Barbara,9,True,5,10,-5,loss,4530825,99,2799373,2024,1
+0,0,1,1,0,0,0,0,0,0,03/22/2024,home,16580,97,Cal St. Fullerton,9,True,5,2,3,win,4532507,99,2799373,2024,1

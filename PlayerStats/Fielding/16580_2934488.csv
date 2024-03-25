@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/21/2024,away,16580,235,Florida,9,True,4,13,-9,loss,4526401,2711,2934488,2024,1
 0,1,1,0,0,0,1,0,0,0,03/08/2024,home,16580,635,Seton Hall,9,True,6,4,2,win,4529218,2711,2934488,2024,1
+0,1,1,0,0,0,1,0,0,0,03/23/2024,home,16580,1004,Central Ark.,9,True,3,1,2,win,5255143,2711,2934488,2024,1

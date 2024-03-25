@@ -1,7 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,02/02/2024,away,16580,49,Barry,9,True,5,1,4,win,4524981,9223,2486272,2024,2
-2,0,2,0,0,0,0,0,0,0,02/03/2024,away,16580,20794,Lynn,9,True,2,3,-1,loss,5015958,9223,2486272,2024,2
 2,2,5,1,0,0,0,0,0,0,02/03/2024,away,16580,30045,Palm Beach Atl.,9,True,18,10,8,win,4524987,9223,2486272,2024,2
+2,0,2,0,0,0,0,0,0,0,02/03/2024,away,16580,20794,Lynn,9,True,2,3,-1,loss,5015958,9223,2486272,2024,2
 2,0,2,0,0,0,0,0,0,0,02/07/2024,away,16580,1170,Lenoir-Rhyne,9,True,13,5,8,win,4525138,9223,2486272,2024,2
 1,0,1,0,0,0,0,0,0,0,02/09/2024,home,16580,30259,USC Beaufort,9,True,8,1,7,win,4525216,9223,2486272,2024,2
 2,1,4,1,0,0,0,0,0,0,02/10/2024,home,16580,30259,USC Beaufort,9,True,8,7,1,win,4525290,9223,2486272,2024,2
@@ -23,3 +23,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 3,0,3,0,0,0,0,0,0,0,03/15/2024,away,16580,537,UNC Pembroke,9,True,9,5,4,win,4531017,9223,2486272,2024,2
 1,0,1,0,0,0,0,0,0,0,03/16/2024,away,16580,537,UNC Pembroke,9,True,4,13,-9,loss,4531337,9223,2486272,2024,2
 1,1,2,0,0,0,0,0,0,0,03/16/2024,away,16580,537,UNC Pembroke,9,True,3,6,-3,loss,4544443,9223,2486272,2024,2
+3,0,3,0,0,0,0,0,0,0,03/24/2024,away,16580,15646,Barton,9,True,1,2,-1,loss,5255318,9223,2486272,2024,2
+1,0,1,0,0,0,0,0,0,0,03/24/2024,away,16580,15646,Barton,9,True,7,2,5,win,5255397,9223,2486272,2024,2

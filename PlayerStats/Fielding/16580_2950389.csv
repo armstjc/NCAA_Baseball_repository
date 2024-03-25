@@ -15,3 +15,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,4,5,0,0,0,0,0,0,0,03/16/2024,home,16580,249,George Washington,11,True,0,3,-3,loss,4531503,1320,2950389,2024,1
 1,2,3,0,0,0,0,0,0,0,03/17/2024,home,16580,249,George Washington,9,True,1,11,-10,loss,4531791,1320,2950389,2024,1
 1,6,7,0,0,0,0,0,1,0,03/20/2024,neutral,16580,147,Clemson,9,True,1,11,-10,loss,4532108,1320,2950389,2024,1
+0,1,1,0,0,0,0,0,0,0,03/22/2024,away,16580,363,Longwood,10,True,5,4,1,win,4532505,1320,2950389,2024,1

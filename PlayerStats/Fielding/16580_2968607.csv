@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,2,0,0,0,02/16/2024,neutral,16580,352,Lehigh,9,True,8,4,4,win,4525569,47,2968607,2024,1
 1,1,2,0,0,0,2,0,0,0,03/15/2024,home,16580,71,Bowling Green,9,True,4,5,-1,loss,4530862,47,2968607,2024,1
+1,1,2,0,0,0,1,1,0,0,03/22/2024,away,16580,709,Toledo,9,True,2,5,-3,loss,4532321,47,2968607,2024,1

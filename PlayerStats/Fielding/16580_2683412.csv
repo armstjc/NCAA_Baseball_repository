@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/27/2024,away,16580,15646,Barton,9,True,2,22,-20,loss,4527564,74,2683412,2024,2
 0,1,1,0,0,0,0,0,0,0,03/02/2024,away,16580,22,American Int'l,9,True,1,5,-4,loss,4543282,74,2683412,2024,2
+0,1,1,0,0,0,0,0,0,0,03/19/2024,away,16580,437,Molloy,9,True,3,5,-2,loss,4531949,74,2683412,2024,2

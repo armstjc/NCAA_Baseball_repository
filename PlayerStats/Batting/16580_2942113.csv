@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,02/18/2024,neutral,16580,36,Assumption,9,True,26,12,14,win,4526154,437,2942113,2024,2
 0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/12/2024,neutral,16580,658,Southern Conn. St.,9,True,5,13,-8,loss,4530440,437,2942113,2024,2
+1,4,3,0,0,3,0,1,0,0,0,0,1,0,0,0,0,0,0,03/22/2024,home,16580,1059,D'Youville,9,True,5,11,-6,loss,5255010,437,2942113,2024,2
+0,4,2,1,0,3,0,1,1,0,0,0,1,0,0,0,0,0,0,03/24/2024,home,16580,1059,D'Youville,9,True,13,4,9,win,5255372,437,2942113,2024,2
+0,4,2,1,0,3,0,1,1,0,0,0,1,0,0,0,0,0,0,03/24/2024,home,16580,1059,D'Youville,9,True,13,4,9,win,4544239,437,2942113,2024,2

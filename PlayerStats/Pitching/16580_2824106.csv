@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,4.2,0.0,4,3,2,4,6,0,24,18,0,0,1,0,0,1,0,0,0,1,0,104,4,4,0,1,0,1,2,0,03/10/2024,away,16580,736,Vanderbilt,9,True,0,4,-4,loss,4529933,299,2824106,2024,1
 1,1,5.0,0.0,8,5,5,2,4,0,25,22,5,0,0,0,0,0,0,0,0,0,1,94,4,7,1,0,0,1,1,0,03/17/2024,away,16580,695,UT Martin,9,True,11,7,4,win,4531559,299,2824106,2024,1
+1,1,7.0,0.0,8,3,3,2,5,0,30,27,1,0,0,0,0,0,0,0,0,0,1,100,11,3,1,0,0,1,1,0,03/24/2024,home,16580,72,Bradley,9,True,12,3,9,win,4532975,299,2824106,2024,1

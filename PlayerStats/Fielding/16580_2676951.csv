@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,5,7,0,0,0,0,0,0,0,02/17/2024,away,16580,2915,Wofford,9,True,9,17,-8,loss,4525714,83,2676951,2024,1
+3,2,5,0,0,0,0,0,0,0,03/24/2024,home,16580,285,Holy Cross,9,True,5,11,-6,loss,4542713,83,2676951,2024,1
+1,1,2,0,0,0,0,0,0,0,03/25/2024,home,16580,725,Army West Point,9,True,1,9,-8,loss,4533156,83,2676951,2024,1

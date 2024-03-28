@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/07/2024,neutral,16580,2758,Thomas (ME),9,True,5,3,2,win,4529161,10972,2667530,2024,3
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/13/2024,home,16580,0,Penn St.-Fayette,9,True,14,3,11,win,5253513,10972,2667530,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/23/2024,home,16580,707,Thiel,10,True,3,4,-1,loss,4532892,10972,2667530,2024,3

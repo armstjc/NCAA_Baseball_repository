@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,1,0,0,0,0,03/09/2024,neutral,16580,40,Augustana (IL),9,True,8,16,-8,loss,4529885,239,2649900,2024,3
+8,1,10,1,0,0,4,1,0,0,03/21/2024,away,16580,16,Albright,9,True,18,4,14,win,4532186,239,2649900,2024,3
+8,0,8,0,0,2,0,0,0,0,03/22/2024,home,16580,589,Rutgers-Newark,9,True,0,15,-15,loss,5254861,239,2649900,2024,3
+2,0,2,0,0,0,0,0,0,0,03/24/2024,away,16580,815,York (PA),9,True,4,12,-8,loss,4528925,239,2649900,2024,3
+2,0,2,0,0,0,2,0,1,0,03/26/2024,home,16580,712,TCNJ,9,True,11,8,3,win,4533451,239,2649900,2024,3

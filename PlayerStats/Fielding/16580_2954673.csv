@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,02/16/2024,home,16580,735,Valparaiso,9,True,16,5,11,win,4525689,7,2954673,2024,1
 2,0,2,0,0,0,0,0,0,0,02/23/2024,neutral,16580,665,Southern U.,9,True,1,7,-6,loss,4526603,7,2954673,2024,1
+1,0,1,0,0,0,0,0,0,0,03/25/2024,away,16580,646,South Alabama,9,True,9,10,-1,loss,5255671,7,2954673,2024,1

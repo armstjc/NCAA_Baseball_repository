@@ -1,3 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,0.1,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,3,0,0,02/24/2024,home,16580,807,Wooster,9,True,8,9,-1,loss,4526773,23260,2681485,2024,3
 1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,4,0,0,03/14/2024,away,16580,623,Salve Regina,9,True,3,9,-6,loss,4530745,23260,2681485,2024,3
+1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,19,0,3,0,0,0,4,0,0,03/20/2024,away,16580,28749,Transylvania,9,True,8,2,6,win,4532083,23260,2681485,2024,3
+1,0,0.2,0.0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,2,0,0,03/23/2024,away,16580,1111,Greenville,9,True,11,2,9,win,4532660,23260,2681485,2024,3

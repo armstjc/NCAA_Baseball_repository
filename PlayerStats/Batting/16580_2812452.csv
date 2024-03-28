@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/15/2024,home,16580,397,Marywood,9,True,3,9,-6,loss,5253750,30069,2812452,2024,3
 0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/20/2024,home,16580,538,Penn St.-Behrend,9,True,3,25,-22,loss,4544471,30069,2812452,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/21/2024,away,16580,455,Muskingum,9,True,5,15,-10,loss,4532192,30069,2812452,2024,3

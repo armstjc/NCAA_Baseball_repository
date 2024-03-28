@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,3,1,0,0,03/18/2024,neutral,16580,751,Wash. & Jeff.,9,True,0,9,-9,loss,4543575,238,2826502,2024,3
+0,1,1,0,0,0,1,0,0,0,03/21/2024,neutral,16580,24,Amherst,10,True,6,9,-3,loss,4532204,238,2826502,2024,3
+0,1,1,0,0,0,0,0,0,0,03/26/2024,away,16580,24317,Lesley,9,True,11,8,3,win,4533296,238,2826502,2024,3

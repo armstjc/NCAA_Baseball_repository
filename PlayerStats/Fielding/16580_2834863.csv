@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/07/2024,neutral,16580,1332,Dominican (IL),9,True,0,8,-8,loss,4529180,30064,2834863,2024,3
 1,0,1,0,0,0,0,0,0,0,03/08/2024,neutral,16580,26,Anna Maria,10,True,11,10,1,win,5252451,30064,2834863,2024,3
+1,1,2,0,0,0,0,0,0,0,03/24/2024,away,16580,281,Hiram,9,True,1,12,-11,loss,4533226,30064,2834863,2024,3

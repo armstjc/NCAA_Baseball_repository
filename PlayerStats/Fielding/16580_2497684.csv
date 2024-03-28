@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,02/18/2024,home,16580,15882,Rosemont,9,True,14,2,12,win,5246317,88,2497684,2024,3
+8,0,8,0,0,0,3,0,0,0,03/24/2024,home,16580,753,Washington Col.,8,True,8,21,-13,loss,5255056,88,2497684,2024,3

@@ -1,4 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,03/09/2024,neutral,16580,577,Ripon,10,True,3,4,-1,loss,4529653,300,2809167,2024,3
 1,0,1,0,0,0,0,0,0,0,03/12/2024,neutral,16580,662,Southern Me.,9,True,8,5,3,win,4530427,300,2809167,2024,3
 2,0,2,0,0,0,0,0,0,0,03/14/2024,neutral,16580,641,Simpson,9,True,6,5,1,win,4530733,300,2809167,2024,3
 2,0,2,0,0,0,0,0,0,0,03/15/2024,neutral,16580,779,Wheaton (MA),9,True,8,18,-10,loss,4530966,300,2809167,2024,3
+6,0,6,0,0,0,0,0,0,0,03/23/2024,home,16580,747,Wabash,9,True,6,5,1,win,4532776,300,2809167,2024,3
+1,0,1,0,0,0,0,0,0,0,03/23/2024,home,16580,747,Wabash,9,True,2,8,-6,loss,4542686,300,2809167,2024,3
+2,0,2,0,0,0,0,0,0,0,03/24/2024,away,16580,747,Wabash,9,True,5,8,-3,loss,4533172,300,2809167,2024,3

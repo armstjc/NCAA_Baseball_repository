@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,1,0,0,0,03/09/2024,neutral,16580,589,Rutgers-Newark,9,True,5,8,-3,loss,4529699,30064,2495574,2024,3
 0,0,0,0,0,0,1,0,0,0,03/15/2024,away,16580,0,Apprentice,9,True,10,13,-3,loss,4543201,30064,2495574,2024,3
 5,0,5,0,0,0,2,0,0,0,03/16/2024,away,16580,0,Apprentice,9,True,10,8,2,win,4531401,30064,2495574,2024,3
+7,0,7,0,0,0,1,0,0,0,03/22/2024,home,16580,1434,Waynesburg,9,True,8,10,-2,loss,4532855,30064,2495574,2024,3

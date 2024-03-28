@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/17/2024,away,16580,722,Coast Guard,9,True,0,5,-5,loss,4531629,511,2832416,2024,3
 1,0,1,0,0,0,0,0,0,0,03/17/2024,away,16580,722,Coast Guard,9,True,6,15,-9,loss,4542850,511,2832416,2024,3
+1,0,1,0,0,0,0,0,0,0,03/22/2024,away,16580,2798,Albertus Magnus,9,True,3,9,-6,loss,5254839,511,2832416,2024,3
+1,0,1,0,0,0,0,0,0,0,03/22/2024,away,16580,2798,Albertus Magnus,9,True,8,5,3,win,4543066,511,2832416,2024,3
+1,0,1,0,0,0,0,0,0,0,03/24/2024,away,16580,30042,Mitchell,9,True,2,8,-6,loss,4533068,511,2832416,2024,3

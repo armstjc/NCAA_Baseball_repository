@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,0.1,0.0,1,2,2,2,0,0,6,1,1,0,0,0,0,2,0,0,0,0,1,20,0,1,0,1,0,2,0,0,03/02/2024,away,16580,78,SUNY Brockport,9,True,5,6,-1,loss,4528199,76,2689952,2024,3
 1,1,5.2,0.0,9,6,6,4,8,0,29,25,4,0,0,1,1,0,0,0,0,0,0,124,4,4,1,0,0,1,2,0,03/05/2024,neutral,16580,18422,Rivier,9,True,13,7,6,win,4528877,76,2689952,2024,3
+1,0,0.2,0.0,3,7,7,5,0,0,10,5,0,0,0,0,0,0,0,0,0,0,0,44,0,2,0,0,0,2,0,0,03/24/2024,away,16580,623,Salve Regina,9,True,5,15,-10,loss,5254871,76,2689952,2024,3

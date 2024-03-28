@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 12,0,12,0,0,0,0,0,1,0,03/08/2024,neutral,16580,987,Bluffton,9,True,8,3,5,win,4529436,571,2827469,2024,3
+4,0,4,0,0,0,0,0,0,0,03/21/2024,home,16580,145,Clark (MA),9,True,15,14,1,win,4532215,571,2827469,2024,3
+4,0,4,0,0,0,0,0,0,0,03/22/2024,home,16580,330,Keene St.,9,True,9,7,2,win,5254859,571,2827469,2024,3
+1,0,1,0,0,0,0,0,0,0,03/22/2024,home,16580,330,Keene St.,9,True,3,4,-1,loss,4542716,571,2827469,2024,3
+1,0,1,0,0,0,0,0,0,0,03/26/2024,away,16580,22626,JWU (Providence),9,True,4,8,-4,loss,4533352,571,2827469,2024,3

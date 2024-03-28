@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-3,1,5,1,0,0,0,0,0,0,03/09/2024,neutral,16580,633,Scranton,9,True,1,5,-4,loss,5249305,987,2804757,2024,3
 2,0,3,1,0,0,0,0,0,0,03/09/2024,neutral,16580,58,Baruch,9,True,11,6,5,win,5249304,987,2804757,2024,3
+3,1,5,1,0,0,0,0,0,0,03/09/2024,neutral,16580,633,Scranton,9,True,1,5,-4,loss,5249305,987,2804757,2024,3
 1,0,1,0,0,0,0,0,0,0,03/12/2024,away,16580,15,Albion,9,True,22,16,6,win,4530510,987,2804757,2024,3
 1,0,2,1,0,0,0,0,0,0,03/16/2024,neutral,16580,10972,Chatham,9,True,7,9,-2,loss,4531436,987,2804757,2024,3
 4,1,5,0,0,0,0,0,0,0,03/19/2024,home,16580,531,Otterbein,9,True,11,29,-18,loss,4532008,987,2804757,2024,3

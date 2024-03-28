@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2,1,0,0,0,0,0,0,03/11/2024,neutral,16580,633,Scranton,9,True,3,10,-7,loss,4530259,276,2831352,2024,3
 0,1,1,0,0,0,0,0,0,0,03/16/2024,neutral,16580,724,Merchant Marine,9,True,8,3,5,win,4856788,276,2831352,2024,3
+0,1,1,0,0,0,0,0,0,0,03/26/2024,home,16580,966,Arcadia,9,True,11,16,-5,loss,4533450,276,2831352,2024,3

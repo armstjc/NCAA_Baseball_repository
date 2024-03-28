@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,2,3,0,0,0,0,1,1,0,02/24/2024,home,16580,303,Immaculata,9,True,0,4,-4,loss,4543948,588,2822850,2024,3
 0,1,1,0,0,0,0,0,0,0,03/05/2024,away,16580,322,Johns Hopkins,9,True,3,4,-1,loss,5251574,588,2822850,2024,3
 0,1,1,0,0,0,0,0,0,0,03/12/2024,neutral,16580,166,Cornell College,9,True,3,5,-2,loss,4530431,588,2822850,2024,3
+0,0,0,0,0,0,2,0,0,0,03/24/2024,away,16580,730,Ursinus,9,True,2,3,-1,loss,4533102,588,2822850,2024,3

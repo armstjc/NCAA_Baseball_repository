@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/05/2024,neutral,16580,808,WPI,9,True,2,19,-17,loss,4528878,1305,2805235,2024,3
+1,1,3,1,0,0,0,0,0,0,03/26/2024,away,16580,30190,Penn College,9,True,6,4,2,win,4533402,1305,2805235,2024,3

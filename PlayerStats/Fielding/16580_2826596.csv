@@ -20,3 +20,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,2,1,0,0,0,0,0,0,03/22/2024,home,16580,699,Texas Southern,9,True,3,13,-10,loss,4532401,553,2826596,2024,1
 2,0,2,0,0,0,0,0,0,0,03/23/2024,home,16580,699,Texas Southern,9,True,8,6,2,win,4532901,553,2826596,2024,1
 1,0,1,0,0,0,0,0,0,0,03/24/2024,home,16580,699,Texas Southern,9,True,3,17,-14,loss,4533165,553,2826596,2024,1
+2,0,2,0,0,0,0,0,0,0,03/26/2024,home,16580,0,Huston-Tillotson,9,True,4,5,-1,loss,5255663,553,2826596,2024,1
+1,2,3,0,0,0,0,0,1,0,03/26/2024,home,16580,0,Huston-Tillotson,9,True,9,3,6,win,4533390,553,2826596,2024,1

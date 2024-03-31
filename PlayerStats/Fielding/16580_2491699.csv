@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,2,1,0,0,1,0,0,0,03/02/2024,neutral,16580,212,Elmhurst,9,True,14,4,10,win,4528223,525,2491699,2024,3
 2,0,2,0,0,0,5,0,0,0,03/15/2024,neutral,16580,242,Fredonia,9,True,13,7,6,win,5253649,525,2491699,2024,3
+1,0,1,0,0,0,1,0,0,0,03/23/2024,away,16580,520,Ohio Wesleyan,9,True,5,1,4,win,4533133,525,2491699,2024,3

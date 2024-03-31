@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.2,0.0,3,2,2,1,2,0,10,8,1,0,0,0,0,1,0,0,0,0,0,35,1,2,0,0,0,3,0,0,02/20/2024,home,16580,406,Mercer,9,True,3,9,-6,loss,4526303,1157,2798899,2024,1
 1,1,1.0,0.0,0,2,0,2,0,0,6,3,0,0,0,0,1,1,0,0,0,0,0,32,1,2,0,0,0,1,0,0,02/27/2024,away,16580,315,Jacksonville St.,9,True,8,2,6,win,4527632,1157,2798899,2024,1
+1,0,1.0,0.0,1,1,1,1,1,0,5,3,0,0,0,1,0,1,0,3,3,0,0,20,0,1,0,0,0,5,0,0,03/29/2024,home,16580,43,Austin Peay,9,True,2,14,-12,loss,4534114,1157,2798899,2024,1

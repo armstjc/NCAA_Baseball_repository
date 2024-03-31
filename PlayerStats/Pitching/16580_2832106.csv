@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,1,3.2,0.0,4,7,2,1,6,0,21,15,2,0,0,0,0,2,0,0,0,1,2,82,1,3,0,1,0,1,1,0,03/10/2024,away,16580,784,Wilkes,9,True,3,8,-5,loss,4530140,16,2832106,2024,3
+1,1,3.2,0.0,5,7,2,1,6,0,21,15,2,0,0,0,0,2,0,0,0,1,2,82,1,3,0,1,0,1,1,0,03/10/2024,away,16580,784,Wilkes,9,True,3,8,-5,loss,4530140,16,2832106,2024,3
 1,1,2.2,0.0,7,5,4,1,1,0,16,14,1,0,0,1,0,1,0,0,0,0,0,73,1,5,0,1,0,1,0,0,03/15/2024,home,16580,815,York (PA),9,True,5,9,-4,loss,4530791,16,2832106,2024,3
+1,1,5.1,0.0,3,1,1,7,5,0,24,15,0,1,0,0,0,0,0,0,0,1,1,94,3,6,0,1,0,1,1,1,03/22/2024,away,16580,411,Messiah,9,True,2,8,-6,loss,4532239,16,2832106,2024,3

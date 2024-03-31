@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,03/09/2024,home,16580,607,St. Lawrence,9,True,4,3,1,win,5252573,30029,2512771,2024,3
 0,0,0,0,0,0,1,0,0,0,03/10/2024,home,16580,282,Hobart,9,True,8,6,2,win,4542586,30029,2512771,2024,3
+0,0,0,0,0,0,3,0,0,0,03/24/2024,neutral,16580,564,Ramapo,10,True,4,3,1,win,4533099,30029,2512771,2024,3

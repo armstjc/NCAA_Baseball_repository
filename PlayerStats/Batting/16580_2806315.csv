@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,03/15/2024,away,16580,22235,Lewis & Clark,9,True,1,12,-11,loss,4530892,737,2806315,2024,3
 2,3,1,0,0,4,1,1,0,1,0,0,1,0,0,0,0,0,0,03/16/2024,away,16580,22235,Lewis & Clark,9,True,6,11,-5,loss,4542831,737,2806315,2024,3
+1,4,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/25/2024,away,16580,570,Rensselaer,9,True,7,3,4,win,4544080,737,2806315,2024,3

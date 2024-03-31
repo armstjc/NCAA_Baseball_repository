@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/03/2024,home,16580,379,Me.-Farmington,9,True,24,6,18,win,4543180,151,2517658,2024,3
 1,0,1,0,0,0,0,0,0,0,03/16/2024,home,16580,73,Brandeis,9,True,13,3,10,win,4544805,151,2517658,2024,3
+1,0,2,1,0,0,0,0,0,0,03/27/2024,neutral,16580,789,Williams,9,True,15,5,10,win,4533566,151,2517658,2024,3

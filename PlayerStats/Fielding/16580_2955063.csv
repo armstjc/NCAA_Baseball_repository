@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/16/2024,neutral,16580,553,Prairie View,9,True,5,10,-5,loss,4525574,261,2955063,2024,1
 0,0,0,0,0,0,2,0,0,0,03/09/2024,away,16580,483,Nicholls,9,True,12,24,-12,loss,4529575,261,2955063,2024,1
+0,1,1,0,0,0,1,0,0,0,03/26/2024,away,16580,671,Louisiana,9,True,4,12,-8,loss,4533491,261,2955063,2024,1
+0,1,1,0,0,0,0,0,0,0,03/28/2024,away,16580,699,Texas Southern,9,True,13,5,8,win,4533741,261,2955063,2024,1

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,1,1,0,03/10/2024,away,16580,30,Arkansas St.,9,True,7,8,-1,loss,4529966,201,2493088,2024,1
 0,0,0,0,0,0,2,0,0,0,03/17/2024,home,16580,175,Dayton,9,True,11,17,-6,loss,4531567,201,2493088,2024,1
+0,0,0,0,0,0,1,0,0,0,03/28/2024,away,16580,695,UT Martin,11,True,4,5,-1,loss,4533655,201,2493088,2024,1

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,03/07/2024,away,16580,221,FDU-Florham,9,True,9,1,8,win,4528230,451,2834354,2024,3
 0,0,0,0,0,0,3,1,0,0,03/16/2024,away,16580,329,Kean,9,True,4,11,-7,loss,4531308,451,2834354,2024,3
+0,0,0,0,0,0,2,0,0,0,03/25/2024,away,16580,773,McDaniel,9,True,4,8,-4,loss,4533258,451,2834354,2024,3

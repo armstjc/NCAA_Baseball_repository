@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,3,2,0,0,2,0,0,2,0,0,0,0,0,0,0,3,0,0,03/09/2024,neutral,16580,152,Colby-Sawyer,9,True,17,3,14,win,5252570,382,2689684,2024,3
 2,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,03/17/2024,away,16580,12884,Centenary (NJ),9,True,8,7,1,win,4531795,382,2689684,2024,3
+1,2,1,0,0,1,0,0,2,0,0,1,0,0,0,1,1,0,0,03/24/2024,away,16580,442,Montclair St.,9,True,5,11,-6,loss,5255080,382,2689684,2024,3
+0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,03/26/2024,home,16580,564,Ramapo,9,True,1,9,-8,loss,4533462,382,2689684,2024,3

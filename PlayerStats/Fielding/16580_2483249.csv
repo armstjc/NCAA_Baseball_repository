@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/13/2024,away,16580,540,Penn,9,True,3,8,-5,loss,4530573,739,2483249,2024,1
 0,0,0,0,0,0,2,0,0,0,03/20/2024,home,16580,617,Saint Peter's,9,True,2,5,-3,loss,4532063,739,2483249,2024,1
+0,0,0,0,0,0,1,0,0,0,03/28/2024,away,16580,251,Georgetown,9,True,4,8,-4,loss,4533758,739,2483249,2024,1

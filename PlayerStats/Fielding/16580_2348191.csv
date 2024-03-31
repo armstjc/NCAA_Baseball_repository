@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,3,1,0,0,0,0,0,0,03/02/2024,neutral,16580,426,Millsaps,9,True,1,11,-10,loss,4528180,420,2348191,2024,3
 1,0,1,0,0,0,0,0,0,0,03/17/2024,neutral,16580,8981,Endicott,9,True,6,8,-2,loss,4531634,420,2348191,2024,3
+1,0,2,1,0,0,0,0,0,0,03/27/2024,away,16580,570,Rensselaer,9,True,14,7,7,win,4533604,420,2348191,2024,3

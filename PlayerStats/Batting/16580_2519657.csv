@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,2,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,03/14/2024,away,16580,321,John Jay,9,True,21,7,14,win,5253493,478,2519657,2024,3
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/21/2024,neutral,16580,789,Williams,9,True,2,9,-7,loss,4544831,478,2519657,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/26/2024,home,16580,475,SUNY New Paltz,10,True,12,14,-2,loss,4533349,478,2519657,2024,3

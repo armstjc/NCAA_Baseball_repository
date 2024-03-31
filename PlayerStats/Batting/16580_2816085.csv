@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,0,03/04/2024,away,16580,30081,Penn St. Harrisburg,9,True,10,7,3,win,4528709,966,2816085,2024,3
 0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/12/2024,neutral,16580,313,Ithaca,9,True,1,17,-16,loss,4530521,966,2816085,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/24/2024,away,16580,221,FDU-Florham,9,True,14,1,13,win,4543773,966,2816085,2024,3

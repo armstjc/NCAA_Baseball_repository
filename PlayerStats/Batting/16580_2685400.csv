@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,0,0,0,0,0,1,2,0,0,0,0,0,0,1,1,0,0,02/22/2024,home,16580,213,Elmira,9,True,11,21,-10,loss,4544575,30166,2685400,2024,3
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/15/2024,away,16580,1305,Cairn,9,True,1,24,-23,loss,4530773,30166,2685400,2024,3
+2,4,2,1,0,3,0,1,0,0,0,0,0,1,0,0,0,0,1,03/22/2024,away,16580,58,Baruch,9,True,5,12,-7,loss,4532446,30166,2685400,2024,3

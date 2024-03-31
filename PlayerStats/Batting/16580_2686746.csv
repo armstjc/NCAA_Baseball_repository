@@ -1,2 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,1,02/24/2024,neutral,16580,761,Wells,9,True,6,7,-1,loss,5249526,30165,2686746,2024,3
+0,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,03/22/2024,away,16580,267,Hamilton,9,True,1,11,-10,loss,4532376,30165,2686746,2024,3
+0,3,1,1,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,03/26/2024,neutral,16580,8398,Hilbert,9,True,6,13,-7,loss,5254894,30165,2686746,2024,3
+0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,03/26/2024,neutral,16580,8398,Hilbert,9,True,1,11,-10,loss,5254895,30165,2686746,2024,3
+0,3,1,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,03/27/2024,neutral,16580,733,Utica,9,True,8,3,5,win,4533577,30165,2686746,2024,3
+0,4,1,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,03/27/2024,neutral,16580,733,Utica,9,True,1,2,-1,loss,4542884,30165,2686746,2024,3

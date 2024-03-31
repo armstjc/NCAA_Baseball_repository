@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.2,0.0,1,0,0,2,2,0,8,5,0,0,0,0,1,0,0,0,0,1,0,29,2,1,0,0,0,2,0,0,02/18/2024,away,16580,565,Randolph-Macon,8,True,4,3,1,win,4542792,938,2826701,2024,3
 1,0,1.0,0.0,2,1,1,0,1,0,5,4,0,0,0,0,0,0,0,0,0,1,0,21,1,1,0,1,0,7,0,0,03/02/2024,neutral,16580,278,Heidelberg,9,True,6,7,-1,loss,4528173,938,2826701,2024,3
+1,1,4.1,0.0,4,1,1,2,4,0,19,16,0,0,0,0,0,1,0,0,0,0,0,127,3,5,0,1,0,1,1,0,03/22/2024,away,16580,8404,Hood,9,True,0,3,-3,loss,4532453,938,2826701,2024,3

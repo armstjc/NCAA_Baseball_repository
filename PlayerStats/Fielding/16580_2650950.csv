@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/12/2024,home,16580,361,LIU,9,True,13,2,11,win,4530325,603,2650950,2024,1
 3,0,4,1,0,0,0,0,0,0,03/15/2024,home,16580,576,Rider,9,True,19,3,16,win,4530802,603,2650950,2024,1
+7,0,7,0,0,0,0,0,0,0,03/29/2024,neutral,16580,792,Winthrop,9,True,6,0,6,win,4533639,603,2650950,2024,1

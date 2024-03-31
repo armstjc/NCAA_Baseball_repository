@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/24/2024,away,16580,522,Oklahoma,9,True,3,10,-7,loss,4544121,810,2797727,2024,1
 0,1,1,0,0,0,0,0,0,0,03/19/2024,home,16580,5,Akron,9,True,7,11,-4,loss,4531976,810,2797727,2024,1
+0,0,0,0,0,0,1,0,0,0,03/28/2024,home,16580,514,Oakland,9,True,1,19,-18,loss,4533705,810,2797727,2024,1
+0,1,1,0,0,0,0,0,0,0,03/30/2024,home,16580,514,Oakland,9,True,7,12,-5,loss,4534255,810,2797727,2024,1

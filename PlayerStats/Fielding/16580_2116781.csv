@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/22/2024,home,16580,28600,Lipscomb,9,True,9,8,1,win,4532291,678,2116781,2024,1
+2,0,2,0,0,0,0,0,0,0,03/28/2024,away,16580,202,Eastern Ky.,9,True,11,3,8,win,4533780,678,2116781,2024,1

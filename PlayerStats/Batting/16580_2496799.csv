@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/24/2024,home,16580,585,Rose-Hulman,9,True,5,11,-6,loss,4533157,2694,2496799,2024,3
+1,5,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,03/24/2024,home,16580,585,Rose-Hulman,9,True,4,7,-3,loss,4544064,2694,2496799,2024,3
+2,4,3,0,0,6,1,4,0,0,0,0,0,0,0,0,1,0,0,03/25/2024,away,16580,1050,Defiance,9,True,17,4,13,win,4532679,2694,2496799,2024,3
+2,2,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,03/25/2024,away,16580,1050,Defiance,9,True,17,0,17,win,4543933,2694,2496799,2024,3

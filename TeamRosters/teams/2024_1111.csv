@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Austin, Moses","So",NA,2024,"41","P",NA,1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580
+"Austin, Moses","So","2819280",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1111&stats_player_seq=2819280",1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580
 "Beard, Brexton","Sr","2503163",2024,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1111&stats_player_seq=2503163",1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580
 "Boehm, Dylan","Jr","2682315",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1111&stats_player_seq=2682315",1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580
 "Buehnerkemper, Cade","So","2819272",2024,"33","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1111&stats_player_seq=2819272",1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580
@@ -32,8 +32,8 @@
 "Mokris, Landon","Sr","2345652",2024,"40","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1111&stats_player_seq=2345652",1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580
 "Moran, Nathan","Jr","2819253",2024,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1111&stats_player_seq=2819253",1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580
 "Morgenstern, Trent","Jr","2692030",2024,"34","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1111&stats_player_seq=2692030",1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580
-"Pennington, Rhett","Sr","2505920",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1111&stats_player_seq=2505920",1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580
 "Pennington, Snyder","So","2819268",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1111&stats_player_seq=2819268",1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580
+"Pennington, Rhett","Sr","2505920",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1111&stats_player_seq=2505920",1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580
 "Salzman, Brady","Jr","2695160",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1111&stats_player_seq=2695160",1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580
 "Schlanser, Quaid","So","2819197",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1111&stats_player_seq=2819197",1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580
 "Schmitz, Garrett","Jr","2682279",2024,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1111&stats_player_seq=2682279",1111,"Greenville","/team/1111/16580",12974,"SLIAC",3,2024,16580

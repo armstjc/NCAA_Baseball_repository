@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,03/08/2024,home,16580,357,Lincoln (PA),9,True,22,2,20,win,4543567,543,2820586,2024,2
+0,0,0,0,0,0,1,2,0,0,03/26/2024,home,16580,984,Bloomfield,9,True,35,0,35,win,4544630,543,2820586,2024,2

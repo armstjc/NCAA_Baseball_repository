@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/24/2024,home,16580,354,Lewis,8,True,3,10,-7,loss,4543615,30002,2812080,2024,2
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/17/2024,home,16580,2746,Lake Erie,9,True,4,8,-4,loss,5254021,30002,2812080,2024,2
+3,4,2,0,1,4,0,1,1,0,0,0,1,0,0,0,0,0,0,03/29/2024,home,16580,280,Hillsdale,9,True,20,7,13,win,4544187,30002,2812080,2024,2

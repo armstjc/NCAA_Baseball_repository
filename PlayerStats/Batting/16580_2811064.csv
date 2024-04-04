@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/04/2024,neutral,16580,689,Tampa,9,True,4,16,-12,loss,4525106,130,2811064,2024,2
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2024,away,16580,1057,Drury,9,True,10,2,8,win,4528938,130,2811064,2024,2
+1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,03/26/2024,home,16580,9013,Missouri Western,9,True,12,5,7,win,4533419,130,2811064,2024,2
+2,3,2,0,0,5,1,2,0,0,0,0,0,0,0,0,0,0,0,03/29/2024,away,16580,30054,Newman,9,True,30,7,23,win,4534060,130,2811064,2024,2

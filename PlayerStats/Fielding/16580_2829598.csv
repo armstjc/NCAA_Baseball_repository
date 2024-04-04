@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,03/03/2024,home,16580,468,Southern N.H.,9,True,8,11,-3,loss,4544592,543,2829598,2024,2
 0,1,1,0,0,0,3,0,0,0,03/08/2024,home,16580,357,Lincoln (PA),9,True,7,5,2,win,4529648,543,2829598,2024,2
-0,2,2,0,0,0,1,0,0,0,03/24/2024,away,16580,8956,Dominican (NY),9,True,9,5,4,win,5255310,543,2829598,2024,2
+0,2,2,0,0,0,1,0,0,0,03/24/2024,away,16580,8956,Dominican (NY),9,True,9,5,4,win,4533080,543,2829598,2024,2

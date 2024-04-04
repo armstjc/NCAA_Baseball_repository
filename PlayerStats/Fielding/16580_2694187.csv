@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,1,0,0,0,03/02/2024,neutral,16580,1460,Wilmington (DE),9,True,2,4,-2,loss,4528164,533,2694187,2024,2
 0,1,1,0,0,0,0,0,0,0,03/13/2024,home,16580,8956,Dominican (NY),9,True,10,3,7,win,4530565,533,2694187,2024,2
+0,1,1,0,0,0,0,0,0,0,03/30/2024,home,16580,470,New Haven,9,True,1,7,-6,loss,4542916,533,2694187,2024,2

@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2.0,0.0,0,0,0,2,3,0,8,6,0,0,0,0,0,0,0,0,0,0,0,36,1,1,0,0,0,1,0,0,02/09/2024,home,16580,30126,Notre Dame (OH),9,True,16,0,16,win,5067783,408,2508253,2024,2
 1,1,4.2,0.0,2,2,2,5,5,0,21,16,0,0,0,0,1,0,0,0,0,0,0,84,4,5,0,0,0,1,2,0,03/24/2024,home,16580,30063,Seton Hill,9,True,4,3,1,win,4532642,408,2508253,2024,2
+1,1,7.0,1,4,1,1,1,8,0,29,27,1,0,0,1,1,1,0,0,0,0,0,107,4,9,1,0,0,1,2,0,03/30/2024,away,16580,643,Slippery Rock,9,True,8,1,7,win,4534294,408,2508253,2024,2

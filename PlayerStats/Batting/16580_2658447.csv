@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,03/02/2024,neutral,16580,8956,Dominican (NY),9,True,11,0,11,win,4528171,643,2658447,2024,2
 0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/17/2024,home,16580,593,St. Anselm,9,True,5,0,5,win,4531549,643,2658447,2024,2
+0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/23/2024,away,16580,546,Pitt.-Johnstown,9,True,6,0,6,win,4532860,643,2658447,2024,2
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/30/2024,home,16580,408,Mercyhurst,9,True,1,8,-7,loss,4534294,643,2658447,2024,2

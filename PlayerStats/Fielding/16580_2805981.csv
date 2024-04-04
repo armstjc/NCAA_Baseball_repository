@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/06/2024,home,16580,429,Mississippi Col.,9,True,8,13,-5,loss,4528905,8411,2805981,2024,2
+0,1,1,0,0,0,0,0,0,0,04/02/2024,away,16580,1376,Southern Ark.,9,True,0,11,-11,loss,4534758,8411,2805981,2024,2

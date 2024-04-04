@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,5,0,0,0,02/18/2024,home,16580,384,Mansfield,9,True,1,5,-4,loss,4543465,743,2952600,2024,2
 0,1,1,0,0,0,0,0,0,0,03/13/2024,home,16580,1059,D'Youville,9,True,14,8,6,win,4530554,743,2952600,2024,2
+0,1,1,0,0,0,0,2,0,0,03/26/2024,home,16580,15646,Barton,9,True,4,17,-13,loss,4533276,743,2952600,2024,2
+0,0,0,0,0,0,5,0,0,0,04/01/2024,away,16580,741,VMI,9,True,2,16,-14,loss,4534629,743,2952600,2024,2

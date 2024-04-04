@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,1,0,03/03/2024,away,16580,985,Bluefield St.,9,True,17,6,11,win,4542668,12799,2318694,2024,2
 0,0,1,1,0,0,0,0,0,0,03/21/2024,home,16580,30119,Ohio Dominican,9,True,8,14,-6,loss,4531889,12799,2318694,2024,2
+0,7,7,0,0,0,0,0,0,0,03/25/2024,away,16580,174,Davis & Elkins,9,True,9,1,8,win,4544177,12799,2318694,2024,2
+4,2,7,1,0,0,0,0,1,0,03/30/2024,home,16580,1098,Glenville St.,9,True,11,8,3,win,4542933,12799,2318694,2024,2

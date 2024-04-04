@@ -1,3 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,4,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,03/16/2024,away,16580,30153,Union (TN),9,True,5,6,-1,loss,4531208,30151,2803557,2024,2
 1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,03/23/2024,home,16580,429,Mississippi Col.,9,True,11,7,4,win,5255152,30151,2803557,2024,2
+0,3,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,03/24/2024,home,16580,429,Mississippi Col.,9,True,8,11,-3,loss,5255367,30151,2803557,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/24/2024,home,16580,429,Mississippi Col.,9,True,11,6,5,win,5255445,30151,2803557,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/27/2024,home,16580,144,Clark Atlanta,9,True,16,4,12,win,4533408,30151,2803557,2024,2
+0,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,03/29/2024,away,16580,11740,West Florida,9,True,1,5,-4,loss,4534118,30151,2803557,2024,2

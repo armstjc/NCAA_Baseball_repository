@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/08/2024,away,16580,643,Slippery Rock,9,True,2,4,-2,loss,4529957,1439,2502674,2024,2
+0,0,0,0,0,0,1,0,0,0,03/17/2024,away,16580,12799,Wheeling,9,True,10,4,6,win,4531623,1439,2502674,2024,2
 1,1,2,0,0,0,1,0,0,0,03/22/2024,home,16580,1076,Fairmont St.,10,True,7,6,1,win,5254879,1439,2502674,2024,2
+0,0,0,0,0,0,1,0,0,0,03/29/2024,away,16580,30126,Notre Dame (OH),9,True,6,4,2,win,4544490,1439,2502674,2024,2

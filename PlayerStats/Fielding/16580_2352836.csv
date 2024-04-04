@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 16,0,16,0,0,0,0,0,0,0,03/19/2024,home,16580,560,Queens (NY),9,True,3,6,-3,loss,4531968,995,2352836,2024,2
+2,0,2,0,0,0,0,0,0,0,03/24/2024,away,16580,1126,Holy Family,9,True,5,7,-2,loss,4544062,995,2352836,2024,2
+7,0,7,0,0,0,0,0,0,0,03/26/2024,home,16580,8366,Goldey-Beacom,9,True,10,4,6,win,4533444,995,2352836,2024,2

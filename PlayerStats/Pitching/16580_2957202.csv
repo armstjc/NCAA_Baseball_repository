@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,0.1,0.0,1,4,4,3,0,0,5,2,0,0,0,1,1,0,0,0,0,0,0,20,1,0,0,0,0,3,0,0,02/09/2024,away,16580,1059,D'Youville,9,True,5,9,-4,loss,5015860,143,2957202,2024,2
 1,0,1.2,0.0,1,0,0,0,1,0,6,6,0,0,0,0,0,0,0,3,0,0,0,24,2,2,0,0,0,5,0,0,03/22/2024,away,16580,106,California (PA),9,True,1,9,-8,loss,4542748,143,2957202,2024,2
+1,1,0.2,0.0,5,5,5,1,0,0,8,7,3,1,0,0,0,0,0,0,0,0,0,28,1,1,0,0,0,1,0,0,03/29/2024,away,16580,307,Indiana (PA),9,True,8,9,-1,loss,4544182,143,2957202,2024,2

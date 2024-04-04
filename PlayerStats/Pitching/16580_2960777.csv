@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,0.2,0.0,0,2,2,2,0,0,5,1,0,0,0,0,0,1,0,0,0,1,0,16,1,1,0,0,0,3,0,0,02/18/2024,away,16580,159,Columbus St.,9,True,5,9,-4,loss,4526217,30154,2960777,2024,2
 1,0,1.0,0.0,1,2,2,0,0,0,5,4,0,0,0,1,0,1,0,0,0,0,0,15,1,2,0,0,0,3,0,0,03/19/2024,away,16580,1000,Carson-Newman,9,True,16,7,9,win,4531970,30154,2960777,2024,2
+1,0,0.2,0.0,1,2,2,1,0,0,4,3,0,0,0,1,0,0,0,0,0,0,0,12,1,1,0,0,0,3,0,0,03/30/2024,away,16580,9223,North Greenville,9,True,3,9,-6,loss,4543235,30154,2960777,2024,2

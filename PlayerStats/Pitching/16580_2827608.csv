@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,5.0,0.0,5,4,2,0,0,0,21,20,1,2,0,0,0,0,0,0,0,0,1,67,8,7,0,0,0,1,0,0,03/13/2024,neutral,16580,49,Barry,9,True,6,14,-8,loss,5021927,995,2827608,2024,2
 1,1,4.0,0.0,4,2,2,3,2,0,19,16,3,0,0,0,0,0,0,0,0,0,0,72,7,2,0,0,0,1,2,1,03/19/2024,home,16580,560,Queens (NY),9,True,3,6,-3,loss,4531968,995,2827608,2024,2
+1,1,4.1,0.0,4,2,2,5,1,0,21,13,0,0,0,0,2,0,0,0,0,2,1,65,4,7,1,0,0,1,0,0,03/22/2024,away,16580,74,Bridgeport,9,True,3,2,1,win,4542852,995,2827608,2024,2

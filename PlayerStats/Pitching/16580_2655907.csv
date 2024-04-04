@@ -1,2 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,10,0,3,0,0,0,5,0,0,03/16/2024,away,16580,2755,Southwest Baptist,9,True,4,14,-10,loss,4544809,499,2655907,2024,2
+1,0,0.1,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,1,6,0,1,0,0,0,6,0,0,03/23/2024,home,16580,436,Mo.-St. Louis,9,True,1,7,-6,loss,4542867,499,2655907,2024,2
+1,0,1.0,0.0,2,0,0,1,1,0,5,4,0,0,0,0,1,0,0,3,3,0,0,18,1,0,0,0,0,4,1,0,03/29/2024,away,16580,354,Lewis,9,True,3,13,-10,loss,4533979,499,2655907,2024,2

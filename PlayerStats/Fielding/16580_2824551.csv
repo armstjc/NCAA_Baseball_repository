@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/05/2024,neutral,16580,427,Minn. Duluth,9,True,13,2,11,win,4528885,30119,2824551,2024,2
+0,1,1,0,0,0,0,0,0,0,03/30/2024,away,16580,1402,Thomas More,9,True,14,4,10,win,4534285,30119,2824551,2024,2

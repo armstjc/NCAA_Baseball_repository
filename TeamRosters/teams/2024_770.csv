@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Andrews, John","Fr",NA,2024,"46","P",NA,770,"WestConn","/team/770/16580",867,"Little East",3,2024,16580
+"Andrews, John","Fr","2668120",2024,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=770&stats_player_seq=2668120",770,"WestConn","/team/770/16580",867,"Little East",3,2024,16580
 "Baia, Peter","Sr","2478576",2024,"44","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=770&stats_player_seq=2478576",770,"WestConn","/team/770/16580",867,"Little East",3,2024,16580
 "Barnett, Spencer","Jr","2668118",2024,"32","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=770&stats_player_seq=2668118",770,"WestConn","/team/770/16580",867,"Little East",3,2024,16580
 "Barry, Zachary","So","2811114",2024,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=770&stats_player_seq=2811114",770,"WestConn","/team/770/16580",867,"Little East",3,2024,16580
@@ -31,7 +31,7 @@
 "Pliego, Luke","Jr",NA,2024,"18","P",NA,770,"WestConn","/team/770/16580",867,"Little East",3,2024,16580
 "Razeq, Abdel","Sr","2334304",2024,"30","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=770&stats_player_seq=2334304",770,"WestConn","/team/770/16580",867,"Little East",3,2024,16580
 "Roman, Stanley","Sr","2811121",2024,"3","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=770&stats_player_seq=2811121",770,"WestConn","/team/770/16580",867,"Little East",3,2024,16580
-"Ruta, Zachary","Jr",NA,2024,"24","P",NA,770,"WestConn","/team/770/16580",867,"Little East",3,2024,16580
+"Ruta, Zachary","Jr","2980334",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=770&stats_player_seq=2980334",770,"WestConn","/team/770/16580",867,"Little East",3,2024,16580
 "Salonia, Richard","Fr","2980335",2024,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=770&stats_player_seq=2980335",770,"WestConn","/team/770/16580",867,"Little East",3,2024,16580
 "Schilling, Zach","Sr","2478567",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=770&stats_player_seq=2478567",770,"WestConn","/team/770/16580",867,"Little East",3,2024,16580
 "Scotto, Greg","Fr","2980337",2024,"49","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=770&stats_player_seq=2980337",770,"WestConn","/team/770/16580",867,"Little East",3,2024,16580

@@ -24,3 +24,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/29/2024,home,16580,457,North Carolina,9,True,5,6,-1,loss,4533818,749,2314412,2024,1
 2,2,4,0,0,0,0,0,0,0,03/30/2024,home,16580,457,North Carolina,9,True,6,10,-4,loss,4534166,749,2314412,2024,1
 1,3,4,0,0,0,0,0,0,0,03/31/2024,home,16580,457,North Carolina,9,True,10,14,-4,loss,4534576,749,2314412,2024,1
+0,2,2,0,0,0,0,0,0,0,04/02/2024,home,16580,459,UNC Greensboro,9,True,9,2,7,win,4534650,749,2314412,2024,1

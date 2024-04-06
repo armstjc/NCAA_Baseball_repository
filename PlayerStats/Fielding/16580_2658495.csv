@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 7,0,7,0,0,1,0,0,0,0,03/15/2024,away,16580,370,LMU (CA),9,True,4,28,-24,loss,4531058,172,2658495,2024,1
 5,0,5,0,0,0,0,0,0,0,03/30/2024,away,16580,167,Cornell,9,True,2,17,-15,loss,4542900,172,2658495,2024,1
+12,2,15,1,0,0,0,1,0,0,04/02/2024,away,16580,368,UMass Lowell,9,True,7,2,5,win,4534752,172,2658495,2024,1

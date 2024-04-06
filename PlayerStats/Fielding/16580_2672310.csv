@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,03/19/2024,home,16580,78,SUNY Brockport,9,True,0,12,-12,loss,5254494,30083,2672310,2024,3
 3,0,3,0,0,0,0,0,0,0,03/22/2024,away,16580,751,Wash. & Jeff.,9,True,2,6,-4,loss,4532366,30083,2672310,2024,3
+1,0,1,0,0,0,0,0,0,0,04/01/2024,away,16580,526,SUNY Oneonta,9,True,1,2,-1,loss,4535018,30083,2672310,2024,3

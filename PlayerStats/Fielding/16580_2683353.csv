@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,3,1,0,0,0,0,0,0,03/01/2024,neutral,16580,30035,Crown (MN),9,True,2,8,-6,loss,5250535,803,2683353,2024,3
+0,2,2,0,0,0,0,0,0,0,03/10/2024,away,16580,1226,Minn.-Morris,9,True,10,8,2,win,4530032,803,2683353,2024,3

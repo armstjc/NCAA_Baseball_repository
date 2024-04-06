@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/03/2024,neutral,16580,50,Bates,9,True,6,14,-8,loss,4543627,548,2828070,2024,3
 0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/15/2024,neutral,16580,1163,La Roche,9,True,7,3,4,win,5253314,548,2828070,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/30/2024,home,16580,200,Eastern Conn. St.,9,True,2,7,-5,loss,4534463,548,2828070,2024,3
+1,5,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,04/01/2024,away,16580,605,St. Joseph's (ME),9,True,12,11,1,win,4534627,548,2828070,2024,3

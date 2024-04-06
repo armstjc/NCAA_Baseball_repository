@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,6.0,0.0,2,2,2,4,4,0,22,17,0,1,0,0,0,1,0,0,0,0,0,72,7,4,1,0,0,1,2,1,03/02/2024,away,16580,40,Augustana (IL),9,True,15,11,4,win,4528574,372,2314976,2024,3
 1,1,5.0,0.0,5,3,3,2,7,0,22,19,1,0,0,0,0,1,0,0,0,0,0,74,2,4,1,0,0,1,0,0,03/16/2024,neutral,16580,376,Macalester,9,True,9,3,6,win,5020605,372,2314976,2024,3
+1,1,8.0,0.0,4,5,5,2,8,0,31,28,0,0,0,1,0,1,0,0,0,0,0,108,6,8,1,0,0,1,0,0,03/29/2024,away,16580,641,Simpson,9,True,8,7,1,win,4533873,372,2314976,2024,3

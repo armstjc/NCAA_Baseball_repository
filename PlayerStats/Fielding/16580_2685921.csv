@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2,1,0,0,0,0,0,0,03/12/2024,neutral,16580,20220,MSOE,9,True,1,15,-14,loss,4780634,580,2685921,2024,3
 0,1,1,0,0,0,0,0,0,0,03/27/2024,home,16580,1159,Keuka,9,True,21,11,10,win,4533588,580,2685921,2024,3
+2,0,2,0,0,0,0,0,0,0,03/30/2024,home,16580,146,Clarkson,9,True,20,5,15,win,4534451,580,2685921,2024,3

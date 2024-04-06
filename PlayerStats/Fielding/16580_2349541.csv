@@ -1,6 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,1,1,0,0,0,0,0,0,03/10/2024,home,16580,150,Coe,9,True,8,9,-1,loss,4530076,23260,2816768,2024,3
-0,3,5,2,0,0,0,0,0,0,03/10/2024,neutral,16580,150,Coe,9,True,7,3,4,win,4544970,23260,2816768,2024,3
-0,1,1,0,0,0,0,0,0,0,03/13/2024,neutral,16580,30042,Mitchell,9,True,2,10,-8,loss,4530629,23260,2816768,2024,3
-0,1,1,0,0,0,0,0,0,0,03/23/2024,away,16580,1111,Greenville,9,True,11,2,9,win,4532660,23260,2816768,2024,3
-1,4,6,1,0,0,0,0,2,0,03/23/2024,away,16580,1111,Greenville,9,True,6,1,5,win,4543914,23260,2816768,2024,3
+0,1,1,0,0,0,0,0,0,0,02/16/2024,neutral,16580,491,N.C. Wesleyan,10,True,4,3,1,win,4525573,23260,2349541,2024,3
+1,1,2,0,0,0,1,1,0,0,03/01/2024,home,16580,492,North Central (IL),9,True,14,5,9,win,4527741,23260,2349541,2024,3
+0,0,1,1,0,0,0,1,0,0,03/10/2024,home,16580,150,Coe,9,True,8,9,-1,loss,4530076,23260,2349541,2024,3
+0,1,1,0,0,0,0,0,0,0,03/14/2024,away,16580,623,Salve Regina,9,True,3,9,-6,loss,4530745,23260,2349541,2024,3

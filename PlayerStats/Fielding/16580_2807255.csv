@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/08/2024,away,16580,1044,Dallas,9,True,3,6,-3,loss,4529314,462,2807255,2024,3
 2,0,2,0,0,0,0,0,0,0,03/16/2024,home,16580,161,Concordia-M'head,9,True,10,6,4,win,4544156,462,2807255,2024,3
+2,0,2,0,0,0,0,0,0,0,04/02/2024,home,16580,641,Simpson,9,True,6,13,-7,loss,4534742,462,2807255,2024,3

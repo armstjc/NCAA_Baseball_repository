@@ -1,8 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/23/2024,neutral,16580,182,Denison,9,True,17,1,16,win,4526611,139,2972916,2024,3
-1,0,1,0,0,0,0,0,0,0,03/02/2024,neutral,16580,303,Immaculata,9,True,11,4,7,win,4791181,139,2972916,2024,3
 1,0,1,0,0,0,0,0,0,0,03/02/2024,neutral,16580,806,Wittenberg,9,True,4,0,4,win,4528172,139,2972916,2024,3
+1,0,1,0,0,0,0,0,0,0,03/02/2024,neutral,16580,303,Immaculata,9,True,11,4,7,win,4791181,139,2972916,2024,3
 1,0,1,0,0,0,0,0,0,0,03/10/2024,home,16580,30081,Penn St. Harrisburg,9,True,2,8,-6,loss,4529602,139,2972916,2024,3
 6,0,6,0,0,0,0,0,0,0,03/14/2024,home,16580,565,Randolph-Macon,9,True,9,6,3,win,4530704,139,2972916,2024,3
 1,0,1,0,0,0,0,0,0,0,03/15/2024,home,16580,394,Marymount (VA),9,True,9,3,6,win,5253724,139,2972916,2024,3
 1,0,1,0,0,0,0,0,0,0,03/22/2024,home,16580,21830,Piedmont,9,True,3,5,-2,loss,4532256,139,2972916,2024,3
+2,0,2,0,0,0,0,0,0,0,03/30/2024,away,16580,30114,Penn St.-Abington,9,True,9,6,3,win,4543111,139,2972916,2024,3

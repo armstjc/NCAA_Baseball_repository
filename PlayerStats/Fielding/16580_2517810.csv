@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 6,0,6,0,0,0,0,0,0,0,03/14/2024,neutral,16580,60,Bethel (MN),9,True,9,3,6,win,4530722,20220,2517810,2024,3
+7,0,7,0,0,0,0,0,1,0,03/27/2024,home,16580,1196,Marian (WI),9,True,11,3,8,win,4533561,20220,2517810,2024,3
+8,1,9,0,0,0,0,0,1,0,03/30/2024,home,16580,160,Concordia Chicago,9,True,1,0,1,win,4534307,20220,2517810,2024,3
+8,0,8,0,0,0,0,0,1,0,03/30/2024,home,16580,160,Concordia Chicago,9,True,9,4,5,win,4542930,20220,2517810,2024,3

@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/07/2024,home,16580,123,VTSU Castleton,9,True,21,14,7,win,4529200,214,2660035,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/29/2024,home,16580,656,UMass Dartmouth,9,True,6,22,-16,loss,5256008,214,2660035,2024,3

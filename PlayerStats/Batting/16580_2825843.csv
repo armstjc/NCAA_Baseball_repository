@@ -1,3 +1,7 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/25/2024,home,16580,611,St. Mary's (MD),9,True,15,1,14,win,4527376,269,2825843,2024,3
 0,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,03/24/2024,home,16580,578,Roanoke,9,True,1,8,-7,loss,4543941,269,2825843,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/28/2024,home,16580,374,Lynchburg,9,True,3,2,1,win,4533545,269,2825843,2024,3
+2,4,2,0,0,8,2,2,1,0,0,0,1,0,0,0,0,0,0,03/30/2024,away,16580,1112,Guilford,9,True,9,7,2,win,4534288,269,2825843,2024,3
+0,3,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,03/30/2024,away,16580,1112,Guilford,9,True,5,10,-5,loss,4542911,269,2825843,2024,3
+1,2,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,04/04/2024,away,16580,745,Va. Wesleyan,9,True,10,4,6,win,4534956,269,2825843,2024,3

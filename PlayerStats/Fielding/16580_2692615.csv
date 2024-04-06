@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,03/15/2024,neutral,16580,30042,Mitchell,9,True,7,9,-2,loss,4530902,78,2692615,2024,3
+0,2,2,0,0,0,0,0,0,0,03/29/2024,home,16580,9500,SUNY Poly,9,True,9,1,8,win,4533923,78,2692615,2024,3

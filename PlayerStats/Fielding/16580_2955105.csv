@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/14/2024,home,16580,168,Cortland,9,True,4,6,-2,loss,4530763,134,2955105,2024,3
 1,2,3,0,0,0,0,0,0,0,03/15/2024,home,16580,168,Cortland,11,True,2,5,-3,loss,4530988,134,2955105,2024,3
+2,4,6,0,0,0,0,0,2,0,03/29/2024,home,16580,567,Redlands,9,True,10,0,10,win,4543108,134,2955105,2024,3

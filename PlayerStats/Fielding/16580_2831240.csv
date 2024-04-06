@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,3,0,0,0,03/09/2024,neutral,16580,242,Fredonia,9,True,3,8,-5,loss,4529688,30219,2831240,2024,3
 0,1,1,0,0,0,1,2,0,0,03/22/2024,away,16580,8687,Saint Joseph (CT),9,True,2,5,-3,loss,4532718,30219,2831240,2024,3
+1,1,3,1,0,0,0,0,0,0,03/30/2024,away,16580,26,Anna Maria,9,True,3,13,-10,loss,4534340,30219,2831240,2024,3

@@ -1,8 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/09/2024,neutral,16580,618,St. Scholastica,9,True,5,11,-6,loss,4529671,1164,2833933,2024,3
 2,0,2,0,0,0,0,0,0,0,03/09/2024,neutral,16580,684,Suffolk,9,True,5,6,-1,loss,4529887,1164,2833933,2024,3
-3,0,3,0,0,0,0,0,0,0,03/10/2024,neutral,16580,30040,Me.-Presque Isle,9,True,14,7,7,win,4530038,1164,2833933,2024,3
 4,1,5,0,0,0,0,0,1,0,03/10/2024,neutral,16580,30047,Keystone,9,True,8,11,-3,loss,4530044,1164,2833933,2024,3
+3,0,3,0,0,0,0,0,0,0,03/10/2024,neutral,16580,30040,Me.-Presque Isle,9,True,14,7,7,win,4530038,1164,2833933,2024,3
 1,0,1,0,0,0,0,0,0,0,03/11/2024,neutral,16580,170,Curry,9,True,8,3,5,win,4530633,1164,2833933,2024,3
 1,0,1,0,0,0,0,0,0,0,03/13/2024,neutral,16580,379,Me.-Farmington,9,True,7,8,-1,loss,4530628,1164,2833933,2024,3
 5,0,5,0,0,0,0,0,0,0,03/13/2024,neutral,16580,379,Me.-Farmington,9,True,14,9,5,win,4544417,1164,2833933,2024,3
@@ -11,3 +11,6 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 3,0,3,0,0,0,0,0,0,0,03/15/2024,neutral,16580,555,Principia,9,True,6,16,-10,loss,4530938,1164,2833933,2024,3
 3,0,3,0,0,0,0,0,0,0,03/23/2024,away,16580,296,Benedictine (IL),9,True,2,9,-7,loss,4532712,1164,2833933,2024,3
 1,0,1,0,0,0,0,0,0,0,03/23/2024,away,16580,296,Benedictine (IL),9,True,0,10,-10,loss,4544095,1164,2833933,2024,3
+3,0,3,0,0,0,0,0,0,0,03/28/2024,home,16580,1036,Concordia Wisconsin,9,True,4,12,-8,loss,5255779,1164,2833933,2024,3
+2,0,2,0,0,0,0,0,0,0,03/30/2024,home,16580,42,Aurora,9,True,6,21,-15,loss,4534462,1164,2833933,2024,3
+1,0,1,0,0,0,0,0,0,0,03/30/2024,home,16580,42,Aurora,9,True,1,4,-3,loss,4543586,1164,2833933,2024,3

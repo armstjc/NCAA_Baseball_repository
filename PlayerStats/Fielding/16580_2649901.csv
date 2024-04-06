@@ -4,3 +4,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,2,2,0,0,0,0,0,0,0,03/09/2024,neutral,16580,455,Muskingum,9,True,15,4,11,win,5252487,239,2649901,2024,3
 0,3,3,0,0,0,0,1,0,0,03/14/2024,neutral,16580,642,Skidmore,9,True,8,6,2,win,5253573,239,2649901,2024,3
 1,2,3,0,0,0,0,0,0,0,03/22/2024,home,16580,589,Rutgers-Newark,9,True,12,1,11,win,5254968,239,2649901,2024,3
+0,2,2,0,0,0,3,0,0,0,03/30/2024,home,16580,686,Swarthmore,9,True,1,7,-6,loss,4534423,239,2649901,2024,3

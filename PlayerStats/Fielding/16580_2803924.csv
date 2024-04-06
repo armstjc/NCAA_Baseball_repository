@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 17,0,17,0,0,0,0,0,0,0,03/09/2024,neutral,16580,30219,Dean,9,True,8,3,5,win,4529688,242,2803924,2024,3
 8,1,9,0,0,0,0,0,2,0,03/11/2024,neutral,16580,272,Hartford,9,True,5,10,-5,loss,4530265,242,2803924,2024,3
+1,0,1,0,0,0,0,0,0,0,03/29/2024,away,16580,475,SUNY New Paltz,9,True,2,30,-28,loss,4533882,242,2803924,2024,3
+3,1,4,0,0,0,0,0,0,0,03/30/2024,away,16580,475,SUNY New Paltz,9,True,3,8,-5,loss,4542927,242,2803924,2024,3
+6,0,7,1,0,0,0,0,0,0,04/01/2024,away,16580,78,SUNY Brockport,9,True,2,12,-10,loss,5274387,242,2803924,2024,3
+4,0,4,0,0,0,0,0,0,0,04/01/2024,away,16580,78,SUNY Brockport,9,True,2,11,-9,loss,4544089,242,2803924,2024,3

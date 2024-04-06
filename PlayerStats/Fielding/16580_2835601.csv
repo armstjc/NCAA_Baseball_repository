@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,0,5,0,0,0,0,0,0,0,03/11/2024,home,16580,484,Nichols,9,True,7,16,-9,loss,4530239,953,2835601,2024,3
 1,0,1,0,0,0,0,0,0,0,03/23/2024,away,16580,125,Centenary (LA),9,True,2,3,-1,loss,4532686,953,2835601,2024,3
+2,0,2,0,0,0,0,0,0,0,03/29/2024,home,16580,1400,Texas Lutheran,9,True,4,9,-5,loss,4533711,953,2835601,2024,3
+4,0,4,0,0,0,0,0,0,0,03/30/2024,home,16580,1400,Texas Lutheran,9,True,1,9,-8,loss,4544215,953,2835601,2024,3

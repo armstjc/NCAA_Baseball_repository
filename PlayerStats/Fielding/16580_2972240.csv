@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,0,0,03/10/2024,neutral,16580,662,Southern Me.,9,True,3,13,-10,loss,4530029,30042,2972240,2024,3
 0,1,1,0,0,0,1,0,0,0,03/19/2024,home,16580,398,MIT,9,True,6,10,-4,loss,4531980,30042,2972240,2024,3
+0,1,1,0,0,0,1,0,0,0,03/27/2024,home,16580,145,Clark (MA),9,True,5,3,2,win,4533554,30042,2972240,2024,3

@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,0.1,0.0,3,4,4,2,1,0,6,4,0,0,0,2,0,0,0,0,0,0,0,25,0,0,0,0,0,2,0,0,03/01/2024,away,16580,30085,Lancaster Bible,9,True,18,4,14,win,4527921,8404,2820357,2024,3
 1,0,0.2,0.0,0,1,0,2,0,0,4,1,0,0,0,0,0,0,1,2,2,0,1,11,0,1,0,0,0,6,0,0,03/26/2024,away,16580,258,Gettysburg,9,True,7,11,-4,loss,4533430,8404,2820357,2024,3
+1,0,0.2,0.0,1,2,2,4,1,0,7,3,0,0,0,0,0,0,0,0,0,0,0,33,1,0,0,0,0,5,1,0,04/06/2024,away,16580,411,Messiah,9,True,10,16,-6,loss,4544366,8404,2820357,2024,3

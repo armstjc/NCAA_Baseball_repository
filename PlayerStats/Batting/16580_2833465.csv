@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/12/2024,neutral,16580,329,Kean,9,True,10,15,-5,loss,4530493,520,2833465,2024,3
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/29/2024,home,16580,335,Kenyon,9,True,2,15,-13,loss,5255988,520,2833465,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/29/2024,home,16580,335,Kenyon,9,True,6,14,-8,loss,4543405,520,2833465,2024,3

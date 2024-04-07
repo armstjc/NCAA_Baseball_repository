@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,03/12/2024,neutral,16580,783,Widener,9,True,4,10,-6,loss,4543674,656,2821591,2024,3
 0,0,0,0,0,0,1,0,0,0,03/21/2024,away,16580,583,Roger Williams,9,True,5,6,-1,loss,4532191,656,2821591,2024,3
+0,1,1,0,0,0,0,0,0,0,04/01/2024,away,16580,45,Babson,9,True,3,10,-7,loss,4534642,656,2821591,2024,3
+0,1,1,0,0,0,0,0,0,0,04/05/2024,home,16580,1064,Eastern Nazarene,10,True,7,7,0,tie,4535054,656,2821591,2024,3

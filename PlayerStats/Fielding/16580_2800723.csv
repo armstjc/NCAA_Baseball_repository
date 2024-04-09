@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/29/2024,away,16580,30179,Okla. Christian,9,True,13,8,5,win,4544641,1334,2800723,2024,2
 1,0,1,0,0,0,0,0,0,0,03/30/2024,away,16580,30179,Okla. Christian,9,True,10,3,7,win,4534500,1334,2800723,2024,2
+2,0,2,0,0,0,0,0,0,0,04/06/2024,home,16580,1346,St. Mary's (TX),9,True,5,8,-3,loss,4535641,1334,2800723,2024,2
+1,1,2,0,0,0,0,0,0,0,04/06/2024,home,16580,1346,St. Mary's (TX),9,True,7,11,-4,loss,4544882,1334,2800723,2024,2
+2,0,2,0,0,0,0,0,0,0,04/07/2024,home,16580,1346,St. Mary's (TX),9,True,15,14,1,win,4536067,1334,2800723,2024,2

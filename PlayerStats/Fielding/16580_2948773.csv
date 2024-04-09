@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,2,0,0,0,02/23/2024,away,16580,25,Angelo St.,9,True,8,5,3,win,4526520,30028,2948773,2024,2
 0,1,1,0,0,0,0,0,0,0,03/22/2024,away,16580,767,West Tex. A&M,9,True,4,7,-3,loss,4532524,30028,2948773,2024,2
+0,0,0,0,0,0,1,0,0,0,04/06/2024,away,16580,996,Cameron,9,True,7,9,-2,loss,4544899,30028,2948773,2024,2

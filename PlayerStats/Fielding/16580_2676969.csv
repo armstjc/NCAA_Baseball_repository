@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/20/2024,home,16580,639,Siena,9,True,7,17,-10,loss,4532148,725,2676969,2024,1
+0,0,1,1,0,0,0,0,0,0,04/07/2024,home,16580,285,Holy Cross,9,True,21,6,15,win,4535949,725,2676969,2024,1

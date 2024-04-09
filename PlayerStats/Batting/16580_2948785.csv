@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,03/23/2024,away,16580,767,West Tex. A&M,9,True,2,8,-6,loss,4543222,30028,2948785,2024,2
 2,1,1,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,03/29/2024,home,16580,206,Eastern N.M.,9,True,19,1,18,win,4534086,30028,2948785,2024,2
+0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,04/06/2024,away,16580,996,Cameron,9,True,7,9,-2,loss,4544899,30028,2948785,2024,2
+0,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,04/07/2024,away,16580,996,Cameron,11,True,10,9,1,win,4536068,30028,2948785,2024,2

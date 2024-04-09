@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/10/2024,away,16580,405,Menlo,9,True,11,8,3,win,4525252,98,2307272,2024,2
 1,2,1,0,0,4,1,2,0,0,0,0,0,0,0,0,0,0,0,03/30/2024,home,16580,30198,Cal St. San Marcos,9,True,3,17,-14,loss,4534349,98,2307272,2024,2
+0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,04/06/2024,away,16580,100,Cal State LA,9,True,0,5,-5,loss,4544547,98,2307272,2024,2

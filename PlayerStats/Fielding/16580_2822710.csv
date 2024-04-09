@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/25/2024,neutral,16580,360,Lock Haven,9,True,11,5,6,win,5249669,543,2822710,2024,2
 0,1,1,0,0,0,0,0,0,0,03/22/2024,home,16580,8366,Goldey-Beacom,9,True,11,19,-8,loss,4532780,543,2822710,2024,2
+0,1,1,0,0,0,0,0,0,0,04/04/2024,home,16580,21323,Chestnut Hill,10,True,5,9,-4,loss,4534945,543,2822710,2024,2

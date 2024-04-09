@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/01/2024,home,16580,458,Charlotte,9,True,2,4,-2,loss,4527757,523,2825583,2024,1
 1,0,1,0,0,0,0,0,0,0,03/24/2024,away,16580,671,Louisiana,9,True,0,2,-2,loss,4533161,523,2825583,2024,1
+0,0,1,1,0,0,0,0,0,0,04/07/2024,away,16580,149,Coastal Carolina,9,True,0,10,-10,loss,4535866,523,2825583,2024,1

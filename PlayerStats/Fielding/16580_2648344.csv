@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/12/2024,away,16580,591,Saginaw Valley,9,True,18,17,1,win,5253051,280,2648344,2024,2
 0,1,1,0,0,0,0,0,0,0,03/27/2024,home,16580,262,Grand Valley St.,9,True,4,3,1,win,4533464,280,2648344,2024,2
+0,0,1,1,0,0,0,0,0,0,04/06/2024,away,16580,2746,Lake Erie,10,True,7,9,-2,loss,5281341,280,2648344,2024,2

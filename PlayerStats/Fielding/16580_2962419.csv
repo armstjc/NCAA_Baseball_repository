@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,03/02/2024,away,16580,488,N.C. A&T,8,True,3,4,-1,loss,4528071,201,2962419,2024,1
 1,0,1,0,0,0,0,0,0,0,03/22/2024,home,16580,654,Southeast Mo. St.,9,True,13,20,-7,loss,4532292,201,2962419,2024,1
+0,0,0,0,0,0,1,0,0,0,04/06/2024,away,16580,771,Western Ill.,9,True,14,5,9,win,5281269,201,2962419,2024,1

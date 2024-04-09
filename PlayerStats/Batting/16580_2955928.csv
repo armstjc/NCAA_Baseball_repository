@@ -1,3 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/10/2024,home,16580,181,Delta St.,9,True,2,19,-17,loss,4525235,30191,2955928,2024,2
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,02/24/2024,away,16580,445,Morehouse,9,True,7,3,4,win,4527115,30191,2955928,2024,2
+1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,04/05/2024,home,16580,350,LeMoyne-Owen,9,True,23,0,23,win,4535330,30191,2955928,2024,2
+1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,04/06/2024,home,16580,350,LeMoyne-Owen,9,True,15,2,13,win,4535615,30191,2955928,2024,2
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/06/2024,home,16580,350,LeMoyne-Owen,9,True,23,4,19,win,4544856,30191,2955928,2024,2

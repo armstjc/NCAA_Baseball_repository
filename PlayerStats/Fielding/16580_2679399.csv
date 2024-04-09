@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,0,4,0,0,0,0,0,0,0,02/16/2024,away,16580,115,Campbell,9,True,20,8,12,win,4525676,104,2679399,2024,1
+8,2,10,0,0,0,0,0,0,0,04/06/2024,away,16580,109,UC Irvine,9,True,5,4,1,win,4535420,104,2679399,2024,1
+6,1,7,0,0,0,0,1,0,0,04/07/2024,away,16580,109,UC Irvine,9,True,4,11,-7,loss,4535870,104,2679399,2024,1

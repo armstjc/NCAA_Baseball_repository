@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/23/2024,away,16580,30002,Trevecca Nazarene,9,True,10,7,3,win,4544086,30137,2677993,2024,2
 0,0,0,0,0,0,1,0,0,0,03/28/2024,away,16580,35,Ashland,9,True,4,12,-8,loss,5255907,30137,2677993,2024,2
+0,1,1,0,0,0,0,0,0,0,04/06/2024,home,16580,1079,Findlay,9,True,0,10,-10,loss,4535567,30137,2677993,2024,2

@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/27/2024,away,16580,1009,Central Okla.,9,True,3,4,-1,loss,4527602,8744,2958484,2024,2
 0,0,0,0,0,0,1,0,0,0,03/19/2024,home,16580,0,Science & Arts Okla.,9,True,11,21,-10,loss,4531854,8744,2958484,2024,2
+0,1,1,0,0,0,0,0,0,0,04/02/2024,away,16580,0,Science & Arts Okla.,9,True,11,6,5,win,4534686,8744,2958484,2024,2
+0,0,1,1,0,0,0,0,0,0,04/05/2024,away,16580,30202,Okla. Baptist,9,True,4,10,-6,loss,4535359,8744,2958484,2024,2

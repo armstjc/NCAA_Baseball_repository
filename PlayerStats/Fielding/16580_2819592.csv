@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/09/2024,away,16580,24639,Nova Southeastern,9,True,4,16,-12,loss,4543315,30221,2819592,2024,2
 1,2,3,0,0,0,0,0,0,0,03/16/2024,away,16580,35,Ashland,9,True,5,7,-2,loss,4531384,30221,2819592,2024,2
+0,0,1,1,0,0,0,0,0,0,04/06/2024,home,16580,30222,Purdue Northwest,9,True,2,3,-1,loss,4535756,30221,2819592,2024,2

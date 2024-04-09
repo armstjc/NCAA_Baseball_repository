@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/24/2024,away,16580,235,Florida,9,True,3,7,-4,loss,4526778,158,2812744,2024,1
 0,0,0,0,0,0,1,0,0,0,03/16/2024,away,16580,196,East Carolina,9,True,0,8,-8,loss,4531113,158,2812744,2024,1
+0,1,1,0,0,0,0,1,0,0,04/07/2024,away,16580,172,Dartmouth,9,True,19,13,6,win,5281574,158,2812744,2024,1

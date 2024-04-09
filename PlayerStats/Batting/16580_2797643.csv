@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/26/2024,away,16580,196,East Carolina,9,True,4,7,-3,loss,4533277,460,2797643,2024,1
 1,3,2,0,1,4,0,0,2,0,0,0,0,0,0,0,0,0,0,03/29/2024,away,16580,488,N.C. A&T,9,True,9,3,6,win,4534142,460,2797643,2024,1
+0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,04/05/2024,home,16580,1014,Col. of Charleston,9,True,5,8,-3,loss,4535347,460,2797643,2024,1
+0,2,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,04/06/2024,home,16580,1014,Col. of Charleston,9,True,3,12,-9,loss,4535825,460,2797643,2024,1

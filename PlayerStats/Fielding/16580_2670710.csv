@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/06/2024,home,16580,30051,King (TN),9,True,16,8,8,win,4525129,30181,2670710,2024,2
+0,1,1,0,0,0,0,0,0,0,04/07/2024,home,16580,1462,Wingate,10,True,4,7,-3,loss,5281523,30181,2670710,2024,2
+0,0,0,0,0,0,3,0,0,0,04/07/2024,home,16580,1462,Wingate,9,True,5,9,-4,loss,5281588,30181,2670710,2024,2

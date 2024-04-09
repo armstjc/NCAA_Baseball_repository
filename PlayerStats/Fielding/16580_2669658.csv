@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/30/2024,home,16580,30152,Southern Nazarene,9,True,11,3,8,win,4534284,8744,2669658,2024,2
 3,0,3,0,0,0,0,0,0,0,03/30/2024,home,16580,30152,Southern Nazarene,9,True,4,0,4,win,4542907,8744,2669658,2024,2
+7,1,8,0,0,0,0,0,0,0,04/02/2024,away,16580,0,Science & Arts Okla.,9,True,11,6,5,win,4534686,8744,2669658,2024,2
+3,0,3,0,0,0,0,0,0,0,04/05/2024,away,16580,30202,Okla. Baptist,9,True,4,10,-6,loss,4535359,8744,2669658,2024,2
+1,0,1,0,0,0,0,0,0,0,04/06/2024,away,16580,30202,Okla. Baptist,9,True,14,11,3,win,4535742,8744,2669658,2024,2

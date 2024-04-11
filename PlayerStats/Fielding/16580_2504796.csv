@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/27/2024,home,16580,0,Dillard,9,True,13,6,7,win,4527512,665,2504796,2024,1
 0,0,0,0,0,0,1,3,0,0,03/03/2024,home,16580,483,Nicholls,9,True,5,9,-4,loss,4528493,665,2504796,2024,1
+0,1,1,0,0,0,0,0,0,0,03/29/2024,home,16580,553,Prairie View,9,True,7,5,2,win,4534056,665,2504796,2024,1
+0,0,0,0,0,0,1,0,0,0,04/07/2024,home,16580,2678,Ark.-Pine Bluff,9,True,6,11,-5,loss,4535872,665,2504796,2024,1

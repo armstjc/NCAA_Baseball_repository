@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/09/2024,neutral,16580,531,Otterbein,9,True,0,8,-8,loss,4529707,571,2516259,2024,3
 0,0,0,0,0,0,1,0,0,0,03/16/2024,home,16580,18422,Rivier,9,True,9,8,1,win,4531352,571,2516259,2024,3
+0,1,1,0,0,0,0,1,0,0,04/06/2024,away,16580,200,Eastern Conn. St.,9,True,4,10,-6,loss,4545017,571,2516259,2024,3

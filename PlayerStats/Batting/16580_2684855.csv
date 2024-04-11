@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/25/2024,home,16580,397,Marywood,9,True,21,3,18,win,4532790,303,2684855,2024,3
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/26/2024,away,16580,681,Stockton,9,True,15,6,9,win,4533449,303,2684855,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/07/2024,home,16580,394,Marymount (VA),9,True,5,18,-13,loss,4535272,303,2684855,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,04/09/2024,home,16580,12884,Centenary (NJ),9,True,16,8,8,win,5281868,303,2684855,2024,3

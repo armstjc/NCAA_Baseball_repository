@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/11/2024,neutral,16580,681,Stockton,9,True,8,1,7,win,4530262,53,2682139,2024,3
 1,0,1,0,0,0,0,0,0,0,03/24/2024,neutral,16580,166,Cornell College,9,True,16,13,3,win,4542694,53,2682139,2024,3
+0,0,1,1,0,0,0,0,0,0,04/06/2024,away,16580,337,Knox,9,True,13,5,8,win,4535676,53,2682139,2024,3

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/25/2024,neutral,16580,192,Dubuque,9,True,5,3,2,win,4527299,21,2476849,2024,3
 3,1,5,1,0,0,0,0,0,0,03/20/2024,away,16580,939,Anderson (IN),9,True,17,9,8,win,4544473,21,2476849,2024,3
+1,0,1,0,0,0,0,0,0,0,04/06/2024,away,16580,286,Hope,9,True,0,12,-12,loss,4542601,21,2476849,2024,3

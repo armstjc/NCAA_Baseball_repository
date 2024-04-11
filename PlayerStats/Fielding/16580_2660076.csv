@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,2,0,0,0,03/14/2024,neutral,16580,8687,Saint Joseph (CT),9,True,3,12,-9,loss,4530723,214,2660076,2024,3
 0,2,2,0,0,0,2,2,0,0,03/29/2024,home,16580,656,UMass Dartmouth,9,True,6,22,-16,loss,5256008,214,2660076,2024,3
+0,0,0,0,0,0,1,0,0,0,04/07/2024,home,16580,779,Wheaton (MA),9,True,5,8,-3,loss,4535690,214,2660076,2024,3
+0,1,1,0,0,0,0,0,0,0,04/09/2024,home,16580,808,WPI,9,True,9,8,1,win,4536238,214,2660076,2024,3

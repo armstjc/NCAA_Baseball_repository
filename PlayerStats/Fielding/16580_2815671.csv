@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,4,5,0,0,0,0,0,0,0,03/07/2024,away,16580,259,Rowan,9,True,2,5,-3,loss,4529157,42,2815671,2024,3
 0,1,1,0,0,0,0,1,0,0,03/15/2024,neutral,16580,192,Dubuque,9,True,1,0,1,win,4530906,42,2815671,2024,3
 0,0,0,0,0,0,1,0,0,0,03/23/2024,home,16580,8911,Wis. Lutheran,9,True,2,0,2,win,4532769,42,2815671,2024,3
+0,0,0,0,0,0,1,1,0,0,04/06/2024,home,16580,1036,Concordia Wisconsin,9,True,9,4,5,win,4535632,42,2815671,2024,3

@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2024,home,16580,0,Bushnell,9,True,7,17,-10,loss,5246063,1297,2531138,2024,3
 0,1,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,03/22/2024,away,16580,105,Cal Lutheran,9,True,1,15,-14,loss,5254951,1297,2531138,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/09/2024,away,16580,1454,Whitworth,9,True,1,10,-9,loss,5281895,1297,2531138,2024,3

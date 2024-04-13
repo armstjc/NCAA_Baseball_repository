@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/09/2024,neutral,16580,783,Widener,9,True,4,6,-2,loss,4543649,27892,2834708,2024,3
 1,1,3,1,0,0,0,0,0,0,03/12/2024,neutral,16580,166,Cornell College,10,True,7,6,1,win,5252848,27892,2834708,2024,3
+0,1,1,0,0,0,0,0,0,0,04/07/2024,away,16580,724,Merchant Marine,9,True,6,8,-2,loss,4543456,27892,2834708,2024,3
+1,2,5,2,0,0,0,0,0,0,04/10/2024,away,16580,279,Lehman,9,True,20,4,16,win,5282024,27892,2834708,2024,3

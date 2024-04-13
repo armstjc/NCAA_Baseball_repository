@@ -1,8 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,03/04/2024,neutral,16580,1050,Defiance,9,True,7,2,5,win,4528751,281,2813486,2024,3
 4,0,4,0,0,0,0,0,0,0,03/06/2024,neutral,16580,987,Bluffton,9,True,13,17,-4,loss,4529064,281,2813486,2024,3
-2,0,2,0,0,0,0,0,0,0,03/07/2024,neutral,16580,987,Bluffton,9,True,9,1,8,win,4529163,281,2813486,2024,3
 8,0,8,0,0,0,0,0,0,0,03/07/2024,neutral,16580,602,Saint John's (MN),9,True,16,10,6,win,4529164,281,2813486,2024,3
+2,0,2,0,0,0,0,0,0,0,03/07/2024,neutral,16580,987,Bluffton,9,True,9,1,8,win,4529163,281,2813486,2024,3
 4,0,4,0,0,0,0,0,0,0,03/08/2024,neutral,16580,531,Otterbein,9,True,11,5,6,win,4529368,281,2813486,2024,3
 1,0,1,0,0,0,0,0,0,0,03/13/2024,away,16580,452,Mount Union,9,True,1,5,-4,loss,4530602,281,2813486,2024,3
 3,0,3,0,0,0,0,0,0,0,03/16/2024,away,16580,117,Capital,9,True,2,7,-5,loss,4531246,281,2813486,2024,3
@@ -13,3 +13,6 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 6,0,7,1,0,0,0,0,0,0,03/29/2024,home,16580,806,Wittenberg,10,True,8,15,-7,loss,4543076,281,2813486,2024,3
 2,0,2,0,0,0,0,0,0,0,04/03/2024,away,16580,515,Oberlin,9,True,6,2,4,win,4534797,281,2813486,2024,3
 1,0,1,0,0,0,0,0,0,0,04/03/2024,away,16580,515,Oberlin,9,True,9,6,3,win,4544651,281,2813486,2024,3
+2,0,2,0,0,0,0,0,0,0,04/06/2024,away,16580,520,Ohio Wesleyan,9,True,0,12,-12,loss,4535654,281,2813486,2024,3
+3,0,4,1,0,0,0,0,0,0,04/06/2024,away,16580,520,Ohio Wesleyan,9,True,7,13,-6,loss,4545005,281,2813486,2024,3
+4,0,4,0,0,0,0,0,0,0,04/10/2024,home,16580,1451,Westminster (PA),9,True,14,3,11,win,4536455,281,2813486,2024,3

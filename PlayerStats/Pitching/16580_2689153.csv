@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.1,0.0,1,0,0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,15,1,2,0,0,0,4,0,0,03/03/2024,neutral,16580,211,Elizabethtown,9,True,11,3,8,win,4528571,335,2689153,2024,3
 1,0,3.0,0.0,2,0,0,0,5,0,11,11,0,1,0,0,0,0,0,0,0,0,0,50,2,3,0,0,1,2,0,0,03/09/2024,neutral,16580,8486,Lasell,9,True,4,2,2,win,4544289,335,2689153,2024,3
+1,0,3.0,0.0,1,0,0,2,2,0,12,10,1,0,0,0,1,0,0,0,0,0,0,40,3,4,0,0,0,2,1,0,04/09/2024,away,16580,807,Wooster,9,True,9,10,-1,loss,4544652,335,2689153,2024,3

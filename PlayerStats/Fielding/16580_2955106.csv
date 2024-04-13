@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,1,0,0,0,03/14/2024,home,16580,168,Cortland,9,True,4,6,-2,loss,4530763,134,2955106,2024,3
 0,0,0,0,0,0,1,1,0,0,03/20/2024,home,16580,717,Tufts,9,True,6,4,2,win,4532132,134,2955106,2024,3
+0,2,2,0,0,0,1,0,0,0,04/09/2024,home,16580,0,Bethesda (CA),9,True,8,2,6,win,4536406,134,2955106,2024,3

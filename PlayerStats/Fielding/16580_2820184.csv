@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/13/2024,neutral,16580,577,Ripon,9,True,11,4,7,win,4530607,150,2820184,2024,3
+0,0,1,1,0,0,0,0,0,0,04/06/2024,home,16580,166,Cornell College,9,True,12,5,7,win,4536124,150,2820184,2024,3
+1,0,1,0,0,0,0,1,0,0,04/12/2024,away,16580,462,Neb. Wesleyan,9,True,15,14,1,win,4536683,150,2820184,2024,3

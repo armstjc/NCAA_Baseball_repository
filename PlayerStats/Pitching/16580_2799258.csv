@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2.0,0.0,2,1,0,0,1,0,8,8,1,0,0,0,0,0,0,0,0,0,0,22,1,4,0,0,0,3,0,0,03/13/2024,home,16580,0,Point Park,9,True,7,17,-10,loss,4530680,751,2799258,2024,3
 1,0,3.0,0.0,2,2,2,1,1,0,12,11,1,0,0,1,0,0,0,0,0,0,0,40,4,4,1,0,0,2,0,0,03/27/2024,home,16580,30064,Saint Vincent,9,True,8,5,3,win,4542883,751,2799258,2024,3
+1,0,3.0,0.0,2,0,0,1,5,0,12,11,0,1,0,0,0,0,0,0,0,0,0,65,3,1,0,0,0,2,0,0,04/09/2024,home,16580,30069,Franciscan,9,True,10,3,7,win,4536266,751,2799258,2024,3

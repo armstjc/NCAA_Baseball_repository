@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,0.1,0.0,2,3,3,1,0,0,4,3,1,0,0,1,0,0,0,0,0,0,0,9,1,0,0,0,0,3,0,0,02/25/2024,away,16580,406,Mercer,9,True,1,10,-9,loss,4527186,439,2677132,2024,1
 1,1,5.2,0.0,4,2,0,0,3,0,21,21,0,1,0,0,0,0,0,0,0,0,0,69,6,7,0,0,0,1,1,0,03/19/2024,away,16580,635,Seton Hall,9,True,5,6,-1,loss,4531954,439,2677132,2024,1
+1,1,6.0,0.0,4,1,1,2,5,0,26,23,2,0,1,0,0,1,0,0,0,0,0,82,6,7,1,0,0,1,0,0,04/09/2024,away,16580,554,Princeton,9,True,10,3,7,win,4536520,439,2677132,2024,1

@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/12/2024,away,16580,958,Clarks Summit,9,True,15,6,9,win,4530418,761,2829800,2024,3
 0,1,2,1,0,0,0,0,0,0,03/13/2024,neutral,16580,548,Plymouth St.,9,True,10,3,7,win,5253312,761,2829800,2024,3
 1,1,2,0,0,0,0,0,0,0,03/28/2024,home,16580,18,Alfred,9,True,11,6,5,win,4532101,761,2829800,2024,3
+0,1,2,1,0,0,1,0,0,0,04/10/2024,home,16580,123,VTSU Castleton,9,True,7,8,-1,loss,4536449,761,2829800,2024,3

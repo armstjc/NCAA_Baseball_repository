@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,02/23/2024,away,16580,322,Johns Hopkins,9,True,0,7,-7,loss,4526663,589,2832424,2024,3
+3,0,3,0,0,0,0,0,0,0,04/11/2024,home,16580,319,New Jersey City,9,True,3,8,-5,loss,4536587,589,2832424,2024,3

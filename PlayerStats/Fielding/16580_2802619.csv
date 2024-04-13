@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/27/2024,home,16580,814,Yeshiva,9,True,30,1,29,win,4532358,382,2802619,2024,3
+4,0,4,0,0,0,2,0,0,0,04/07/2024,home,16580,451,UMSV,9,True,8,0,8,win,4536041,382,2802619,2024,3
+8,0,8,0,0,0,3,0,0,0,04/07/2024,home,16580,451,UMSV,9,True,8,7,1,win,4543457,382,2802619,2024,3
+2,0,2,0,0,1,2,0,0,0,04/10/2024,away,16580,475,SUNY New Paltz,9,True,10,11,-1,loss,4536447,382,2802619,2024,3

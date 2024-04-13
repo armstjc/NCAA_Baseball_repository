@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,0,0,0,02/23/2024,away,16580,1111,Greenville,9,True,9,17,-8,loss,4526528,800,2500055,2024,3
 0,0,0,0,0,0,1,0,0,0,03/10/2024,neutral,16580,8530,McMurry,9,True,2,12,-10,loss,4530066,800,2500055,2024,3
+0,0,0,0,0,0,1,0,0,0,04/10/2024,home,16580,805,Wis.-Whitewater,9,True,1,14,-13,loss,4545902,800,2500055,2024,3

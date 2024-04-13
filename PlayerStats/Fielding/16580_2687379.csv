@@ -5,3 +5,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,2,1,0,0,0,0,0,0,03/05/2024,neutral,16580,538,Penn St.-Behrend,9,True,1,19,-18,loss,4528896,730,2687379,2024,3
 1,1,2,0,0,0,0,0,0,0,03/07/2024,home,16580,351,Lebanon Valley,9,True,3,9,-6,loss,4529187,730,2687379,2024,3
 0,2,2,0,0,0,0,0,0,0,03/08/2024,neutral,16580,211,Elizabethtown,9,True,0,4,-4,loss,4544953,730,2687379,2024,3
+2,3,5,0,0,0,0,0,0,0,04/09/2024,away,16580,239,Franklin & Marshall,9,True,6,9,-3,loss,4536318,730,2687379,2024,3
+0,2,2,0,0,0,0,0,0,0,04/10/2024,away,16580,276,Haverford,9,True,12,6,6,win,4534848,730,2687379,2024,3

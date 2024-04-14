@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,1,0,0,0,03/11/2024,home,16580,30072,St. Joseph's (Brkln),9,True,33,16,17,win,4530264,325,2811651,2024,3
 0,1,1,0,0,0,0,0,0,0,03/17/2024,away,16580,124,Catholic,11,True,4,5,-1,loss,4531542,325,2811651,2024,3
+0,1,1,0,0,0,0,0,0,0,04/07/2024,home,16580,784,Wilkes,9,True,5,15,-10,loss,4535494,325,2811651,2024,3

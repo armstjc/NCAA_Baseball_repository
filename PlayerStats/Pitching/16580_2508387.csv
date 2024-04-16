@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,0.1,0.0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,1,0,0,0,13,0,0,0,0,0,3,0,0,02/17/2024,home,16580,1334,St. Edward's,9,True,0,10,-10,loss,4542970,767,2508387,2024,2
 1,0,3.2,0.0,0,0,0,0,4,0,11,11,0,0,0,0,0,0,0,2,0,0,0,42,4,3,1,0,0,4,1,0,03/28/2024,away,16580,30105,Ark.-Fort Smith,11,True,10,6,4,win,4533729,767,2508387,2024,2
+1,0,1.0,0.0,2,0,0,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,16,3,0,0,0,0,2,0,0,04/14/2024,away,16580,1346,St. Mary's (TX),9,True,19,1,18,win,4537576,767,2508387,2024,2

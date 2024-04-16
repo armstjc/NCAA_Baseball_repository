@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/20/2024,away,16580,537,UNC Pembroke,9,True,7,12,-5,loss,4526316,407,2947848,2024,2
 0,0,1,1,0,0,2,0,0,0,03/16/2024,home,16580,74,Bridgeport,9,True,1,13,-12,loss,4544019,407,2947848,2024,2
+1,0,1,0,0,0,0,0,0,0,04/09/2024,home,16580,1347,Saint Rose,9,True,11,6,5,win,5251643,407,2947848,2024,2

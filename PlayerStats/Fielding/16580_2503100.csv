@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 13,1,14,0,0,0,0,0,0,0,03/03/2024,home,16580,83,Bucknell,9,True,9,5,4,win,4528665,606,2503100,2024,1
 14,1,15,0,0,0,1,1,0,0,03/10/2024,away,16580,460,UNCW,9,True,3,4,-1,loss,4530164,606,2503100,2024,1
+9,0,9,0,0,0,0,0,0,0,04/14/2024,away,16580,572,Rhode Island,9,True,11,3,8,win,4537519,606,2503100,2024,1

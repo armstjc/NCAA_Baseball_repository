@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,4,1,0,0,0,0,0,0,03/22/2024,home,16580,792,Winthrop,9,True,6,4,2,win,4532322,1092,2685376,2024,1
 2,0,2,0,0,0,0,0,0,0,04/09/2024,away,16580,459,UNC Greensboro,9,True,1,11,-10,loss,4536201,1092,2685376,2024,1
+4,0,4,0,0,0,0,0,0,0,04/13/2024,away,16580,48,Charleston So.,9,True,6,5,1,win,4537278,1092,2685376,2024,1
+2,0,2,0,0,0,0,0,0,0,04/14/2024,away,16580,48,Charleston So.,10,True,7,8,-1,loss,4537590,1092,2685376,2024,1

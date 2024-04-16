@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,4,7,0,0,0,0,0,0,0,03/30/2024,away,16580,1001,Catawba,9,True,5,7,-2,loss,4534542,1176,2796390,2024,2
 1,2,4,1,0,0,0,0,0,0,03/30/2024,away,16580,1001,Catawba,9,True,7,8,-1,loss,4543736,1176,2796390,2024,2
+0,3,3,0,0,0,0,0,0,0,04/10/2024,home,16580,332,Kentucky St.,9,True,14,5,9,win,5280944,1176,2796390,2024,2

@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,02/23/2024,away,16580,149,Coastal Carolina,9,True,9,17,-8,loss,4492211,301,2801938,2024,1
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/09/2024,away,16580,694,Tennessee,9,True,1,24,-23,loss,4492215,301,2801938,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/12/2024,home,16580,503,NIU,9,True,15,5,10,win,4492224,301,2801938,2024,1

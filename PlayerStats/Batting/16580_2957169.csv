@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/17/2024,home,16580,30124,Cedarville,9,True,13,17,-4,loss,5246100,1000,2957169,2024,2
 0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/19/2024,home,16580,30154,Young Harris,9,True,7,16,-9,loss,4531970,1000,2957169,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/13/2024,away,16580,1176,Lincoln Memorial,9,True,7,16,-9,loss,5282477,1000,2957169,2024,2

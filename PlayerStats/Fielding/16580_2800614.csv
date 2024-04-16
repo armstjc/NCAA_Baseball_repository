@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/16/2024,away,16580,94,CSU Bakersfield,9,True,11,7,4,win,4531148,277,2800614,2024,1
 0,1,1,0,0,0,0,0,0,0,03/28/2024,home,16580,109,UC Irvine,9,True,3,6,-3,loss,4533809,277,2800614,2024,1
 0,2,2,0,0,0,0,0,0,0,04/06/2024,away,16580,108,UC Davis,10,True,4,2,2,win,4535703,277,2800614,2024,1
+0,2,2,0,0,0,0,0,1,0,04/13/2024,away,16580,104,UC Santa Barbara,9,True,6,10,-4,loss,4536937,277,2800614,2024,1

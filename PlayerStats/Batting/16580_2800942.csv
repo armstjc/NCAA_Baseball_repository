@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/13/2024,home,16580,100,Cal State LA,9,True,1,10,-9,loss,4525415,30146,2800942,2024,2
 0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,03/16/2024,home,16580,30220,Biola,9,True,9,2,7,win,4544051,30146,2800942,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/12/2024,home,16580,30260,Westmont,9,True,3,11,-8,loss,4546255,30146,2800942,2024,2
+0,1,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,04/13/2024,home,16580,30260,Westmont,9,True,3,11,-8,loss,4545337,30146,2800942,2024,2

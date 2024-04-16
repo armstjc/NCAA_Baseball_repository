@@ -22,3 +22,6 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,2,2,0,0,0,0,0,0,0,04/05/2024,home,16580,2,Abilene Christian,9,True,2,1,1,win,4535392,676,2809798,2024,1
 4,0,4,0,0,0,0,0,0,0,04/07/2024,home,16580,2,Abilene Christian,9,True,3,11,-8,loss,4536008,676,2809798,2024,1
 1,2,3,0,0,0,0,0,0,0,04/10/2024,away,16580,346,Lamar University,9,True,2,7,-5,loss,4536199,676,2809798,2024,1
+1,1,2,0,0,0,0,0,0,0,04/12/2024,away,16580,30135,California Baptist,9,True,0,7,-7,loss,5282265,676,2809798,2024,1
+1,0,1,0,0,0,0,0,0,0,04/12/2024,away,16580,30135,California Baptist,9,True,0,10,-10,loss,4536839,676,2809798,2024,1
+1,1,2,0,0,0,0,0,0,0,04/13/2024,away,16580,30135,California Baptist,9,True,0,10,-10,loss,4537338,676,2809798,2024,1

@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,1,1,0,0,0,0,0,0,03/28/2024,home,16580,400,Massachusetts,11,True,7,6,1,win,4533629,740,2815463,2024,1
 0,2,2,0,0,0,1,0,0,0,04/02/2024,away,16580,786,William & Mary,9,True,9,5,4,win,4534911,740,2815463,2024,1
 0,2,2,0,0,0,0,0,0,0,04/07/2024,home,16580,173,Davidson,9,True,6,1,5,win,4535858,740,2815463,2024,1
+1,1,2,0,0,0,0,0,0,0,04/14/2024,away,16580,596,St. Bonaventure,9,True,6,11,-5,loss,4537507,740,2815463,2024,1

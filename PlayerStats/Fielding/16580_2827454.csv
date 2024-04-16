@@ -22,3 +22,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 3,5,8,0,0,0,0,0,2,0,04/07/2024,home,16580,277,Hawaii,10,True,3,4,-1,loss,4536062,108,2827454,2024,1
 5,4,9,0,0,0,0,0,2,0,04/09/2024,home,16580,629,San Francisco,9,True,4,6,-2,loss,4536275,108,2827454,2024,1
 1,1,2,0,0,0,0,0,0,0,04/12/2024,away,16580,2,Abilene Christian,9,True,0,10,-10,loss,4536888,108,2827454,2024,1
+2,2,4,0,0,0,0,0,1,0,04/13/2024,away,16580,2,Abilene Christian,9,True,2,12,-10,loss,4537328,108,2827454,2024,1
+1,5,7,1,0,0,0,0,0,0,04/14/2024,away,16580,2,Abilene Christian,9,True,6,5,1,win,4537551,108,2827454,2024,1

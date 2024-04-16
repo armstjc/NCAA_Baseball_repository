@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,03/30/2024,home,16580,30124,Cedarville,9,True,9,2,7,win,4543385,1403,2156844,2024,2
+0,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,04/13/2024,away,16580,2746,Lake Erie,9,True,16,12,4,win,4537268,1403,2156844,2024,2

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/04/2024,away,16580,144,Clark Atlanta,9,True,12,2,10,win,4525089,743,2952604,2024,2
 0,0,0,0,0,0,1,0,0,0,02/27/2024,home,16580,30065,VTSU Lyndon,9,True,6,3,3,win,4527498,743,2952604,2024,2
+0,0,0,0,0,0,1,0,0,0,04/13/2024,away,16580,357,Lincoln (PA),9,True,4,17,-13,loss,4537077,743,2952604,2024,2

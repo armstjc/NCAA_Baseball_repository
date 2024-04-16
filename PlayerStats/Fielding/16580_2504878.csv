@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,3,3,0,0,0,0,1,0,0,03/08/2024,neutral,16580,30125,Minot St.,9,True,6,10,-4,loss,4529376,790,2504878,2024,2
+1,0,2,1,0,0,1,0,0,0,04/06/2024,home,16580,27854,Minn.-Crookston,12,True,11,10,1,win,4544533,790,2504878,2024,2
+0,2,3,1,0,0,0,0,0,0,04/13/2024,home,16580,41,Augustana (SD),9,True,6,13,-7,loss,4537027,790,2504878,2024,2

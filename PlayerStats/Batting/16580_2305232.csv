@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/29/2024,away,16580,49,Barry,9,True,2,6,-4,loss,4533998,584,2305232,2024,2
+2,4,1,1,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,04/12/2024,away,16580,208,Eckerd,9,True,13,5,8,win,4536827,584,2305232,2024,2
+0,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,04/13/2024,away,16580,208,Eckerd,9,True,5,1,4,win,4537161,584,2305232,2024,2

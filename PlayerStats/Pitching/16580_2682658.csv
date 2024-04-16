@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,1,1,1,0,2,0,4,4,0,0,0,1,0,0,0,0,0,0,0,8,1,0,0,0,0,2,0,0,03/24/2024,away,16580,408,Mercyhurst,9,True,13,2,11,win,4543779,30063,2682658,2024,2
 1,0,1.2,0.0,2,0,0,0,3,0,8,7,0,0,0,0,0,1,0,2,1,0,0,32,1,1,0,0,0,2,2,0,04/07/2024,home,16580,546,Pitt.-Johnstown,8,True,5,4,1,win,5281548,30063,2682658,2024,2
+1,0,1.1,0.0,4,3,3,0,2,0,9,9,0,1,0,2,0,0,0,0,0,0,0,30,1,1,0,0,0,2,0,0,04/13/2024,home,16580,307,Indiana (PA),9,True,3,13,-10,loss,4537261,30063,2682658,2024,2

@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/30/2024,home,16580,631,Santa Clara,9,True,0,2,-2,loss,5256672,629,2950792,2024,1
+1,0,1,0,0,0,0,0,0,0,04/14/2024,home,16580,260,Gonzaga,9,True,0,3,-3,loss,4537424,629,2950792,2024,1

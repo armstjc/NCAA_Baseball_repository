@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,02/03/2024,neutral,16580,423,Millersville,9,True,13,1,12,win,4525016,689,2662609,2024,2
 3,0,3,0,0,1,1,0,0,0,03/02/2024,home,16580,30045,Palm Beach Atl.,9,True,13,3,10,win,4543629,689,2662609,2024,2
+8,0,8,0,0,0,0,0,0,0,04/13/2024,home,16580,230,Florida Tech,9,True,13,0,13,win,4537222,689,2662609,2024,2

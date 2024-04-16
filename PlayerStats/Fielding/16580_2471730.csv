@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,3,1,0,0,0,0,0,0,04/06/2024,home,16580,487,North Ala.,9,True,9,2,7,win,4535481,316,2471730,2024,1
 0,3,3,0,0,0,0,0,0,0,04/07/2024,home,16580,487,North Ala.,10,True,5,4,1,win,4535950,316,2471730,2024,1
+0,1,2,1,0,0,0,0,0,0,04/13/2024,away,16580,43,Austin Peay,9,True,8,10,-2,loss,4537286,316,2471730,2024,1
+0,1,1,0,0,0,0,0,0,0,04/14/2024,away,16580,43,Austin Peay,9,True,18,11,7,win,4537560,316,2471730,2024,1

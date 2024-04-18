@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Belgrave, Josh","Jr","2815293",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2815293",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
 "Bockhop, Tarron","Fr","2963543",2024,"38","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2963543",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
-"Bohr, Evan","Fr",NA,2024,"36","INF",NA,800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
+"Bohr, Evan","Fr","2963531",2024,"36","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2963531",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
 "Bossert, Grant","Jr","2963495",2024,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2963495",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
 "Bredensteiner, Trey","Sr","2815270",2024,"11","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2815270",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
 "Breen, Charlie","So","2815275",2024,"14","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2815275",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
@@ -32,8 +32,8 @@
 "Parker, Caleb","So","2963501",2024,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2963501",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
 "Paulson, Conner","Jr","2669892",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2669892",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
 "Pomeroy, Mitchell","Sr","2815252",2024,"29","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2815252",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
-"Rickard, Dalen","Fr",NA,2024,"30","P",NA,800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
-"Rippentrop, Dylan","Fr",NA,2024,"31","OF",NA,800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
+"Rickard, Dalen","Fr","2963515",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2963515",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
+"Rippentrop, Dylan","Fr","2963522",2024,"31","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2963522",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
 "Robertson, Spencer","So","2815331",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2815331",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
 "Schneider, Jake","Sr","2500055",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2500055",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580
 "Stanton, Jordan","So","2815297",2024,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=800&stats_player_seq=2815297",800,"Wis.-Platteville","/team/800/16580",1473,"WIAC",3,2024,16580

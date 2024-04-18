@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Babin, Kyle","So","2818183",2024,"17","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2818183",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
-"Baker, Elijah","Fr",NA,2024,"32","C",NA,793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
+"Baker, Elijah","Fr","2964612",2024,"32","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2964612",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Baker, Austin","Fr",NA,2024,"24","INF",NA,793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Beardman, Thomas","Fr","2964600",2024,"40","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2964600",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Bender, Jameson","Jr","2964604",2024,"48","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2964604",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
@@ -28,17 +28,17 @@
 "McCormack II, James","Fr",NA,2024,"92","OF",NA,793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Melendez, Matt","Jr","2689456",2024,"27","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2689456",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Meuser, Nicholas","Fr","2964591",2024,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2964591",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
-"Mueller, Cade","Sr","2518955",2024,"1","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2518955",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Mueller, Ky","So","2818179",2024,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2818179",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
+"Mueller, Cade","Sr","2518955",2024,"1","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2518955",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Plantz, Ethan","Sr","2509534",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2509534",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Rathman, Joseph","Fr",NA,2024,"31","P",NA,793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
-"Sackmann, Tim","Fr",NA,2024,"46","C",NA,793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
+"Sackmann, Tim","Fr","2964602",2024,"46","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2964602",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Sagedal, Ty","So","2818192",2024,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2818192",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Salyers, Drew","Jr","2689459",2024,"26","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2689459",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Sandvik, Jack","So","2964593",2024,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2964593",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Schafer, Ty","So","2818188",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2818188",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Schutte, James","Jr","2686883",2024,"84","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2686883",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
-"Seville, C.J.","Fr",NA,2024,"0","P",NA,793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
+"Seville, C.J.","Fr","2964590",2024,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2964590",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Skrypek, Aaron","So","2818107",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2818107",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Smith, Joey","So","2818189",2024,"25","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=793&stats_player_seq=2818189",793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580
 "Taylor, Nolan","Fr",NA,2024,"45","INF",NA,793,"Wis.-Eau Claire","/team/793/16580",1473,"WIAC",3,2024,16580

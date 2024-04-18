@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Acosta, JC","So",NA,2024,"15","P",NA,508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580
+"Acosta, JC","So","2801760",2024,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=508&stats_player_seq=2801760",508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580
 "Alexis, Adam","Jr","2971891",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=508&stats_player_seq=2971891",508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580
 "Anderson, Austin","Fr","2971892",2024,"38","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=508&stats_player_seq=2971892",508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580
 "Benton, Braden","Jr","2971893",2024,"26","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=508&stats_player_seq=2971893",508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580
@@ -22,8 +22,8 @@
 "Joyner, Cole","Jr","2971928",2024,"42","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=508&stats_player_seq=2971928",508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580
 "Jung, Clay","Jr","2971929",2024,"5","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=508&stats_player_seq=2971929",508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580
 "Knotts, Hayden","So","2652329",2024,"23","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=508&stats_player_seq=2652329",508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580
-"Leonard, Bryce","Fr","2972766",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=508&stats_player_seq=2972766",508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580
 "Leonard, Brooks","Fr","2971930",2024,"39","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=508&stats_player_seq=2971930",508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580
+"Leonard, Bryce","Fr","2972766",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=508&stats_player_seq=2972766",508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580
 "Lipoma, Reese","Jr","2480119",2024,"24","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=508&stats_player_seq=2480119",508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580
 "Lusk, Lane","Fr",NA,2024,"51","OF",NA,508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580
 "Marionneaux, Dylan","Fr","2971932",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=508&stats_player_seq=2971932",508,"Northwestern St.","/team/508/16580",914,"Southland",1,2024,16580

@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Ammann, J.","N/A","2973727",2024,"0","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2973727",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
-"Anderson, Kaden","So",NA,2024,"0","C",NA,30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Anderson, Logan","So","2808878",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2808878",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
+"Anderson, Kaden","So",NA,2024,"0","C",NA,30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Andreasen, Zach","Sr","2314855",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2314855",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Barnard, Reid","Fr","2933965",2024,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2933965",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Bartels, Nick","Jr","2493366",2024,"54","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2493366",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
@@ -22,7 +22,7 @@
 "Hallman, Grant","Fr",NA,2024,"0","UT",NA,30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Hammerback, Nate","Fr",NA,2024,"14","INF",NA,30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Immel, Dylan","Jr","2933971",2024,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2933971",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
-"Jager, Carson","Fr",NA,2024,"0","OF",NA,30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
+"Jager, Carson","Fr","2933972",2024,"0","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2933972",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Keone Sibal, Kaiden","So",NA,2024,"34","C",NA,30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Klehr, Brady","Sr","2657489",2024,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2657489",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Klinkhammer, Kaleb","Fr",NA,2024,"0","P",NA,30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
@@ -30,13 +30,13 @@
 "Lindholm, Nolan","Fr",NA,2024,"0","P",NA,30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Lliff, Mitch","Fr","2933970",2024,"0","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2933970",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Lundgren, Derek","Sr","2314881",2024,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2314881",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
-"Maeyaert, Tyler","Fr",NA,2024,"0","OF",NA,30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
+"Maeyaert, Tyler","Fr","2933975",2024,"0","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2933975",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Oswald, Garrett","Sr","2809057",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2809057",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
-"Pick, Ashton","Fr",NA,2024,"13","P",NA,30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
+"Pick, Ashton","Fr","2809083",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2809083",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Pruchniak, Jake","Fr","2933976",2024,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2933976",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Rees, Myles","Fr","2933977",2024,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2933977",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Richeson, Jack","Fr","2933978",2024,"0","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2933978",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
-"Sehr, Casey","Fr",NA,2024,"19","INF",NA,30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
+"Sehr, Casey","Fr","2809065",2024,"19","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2809065",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Serie, Ben","Jr","2493299",2024,"3","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2493299",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Shastay, Zachary","Jr","2493359",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2493359",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580
 "Skinner, Grayson","Sr","2657452",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=30128&stats_player_seq=2657452",30128,"Sioux Falls","/team/30128/16580",12853,"NSIC",2,2024,16580

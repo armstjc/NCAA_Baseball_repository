@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Amarantos, Carter","Sr","2468717",2024,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2468717",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
 "Brewer, Ryan","Fr","2957435",2024,"42","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2957435",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
-"Burton, Jonathan","Sr",NA,2024,"34","P",NA,8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
+"Burton, Jonathan","Sr","2300771",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2300771",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
 "Carrell, Dylan","Jr","2948107",2024,"7","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2948107",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
 "Cortes, Dylan","Sr","2468705",2024,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2468705",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
 "Cox, Cruz","So","2819518",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2819518",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
@@ -27,13 +27,13 @@
 "Nabors, Xander","Jr","2678313",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2678313",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
 "Norris, Hayden","Sr","2468713",2024,"10","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2468713",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
 "Patel, Aman","Jr","2661957",2024,"6","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2661957",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
-"Peeples, Kaden","Fr",NA,2024,"45","P",NA,8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
+"Peeples, Kaden","Fr","2957440",2024,"45","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2957440",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
 "Pickett, Dalton","Jr","2661943",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2661943",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
 "Podsednik, Will","So","2819491",2024,"27","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2819491",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
 "Riggins, Weston","So",NA,2024,"20","P",NA,8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
 "Schneider, Zac","Sr","2468722",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2468722",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
-"Shannon, Joshua","So",NA,2024,"31","1B",NA,8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
-"Shipman, Trent","Jr",NA,2024,"32","1B",NA,8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
+"Shannon, Joshua","So","2819496",2024,"31","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2819496",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
+"Shipman, Trent","Jr","2661966",2024,"32","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2661966",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
 "Soto, Kevin","So","2819494",2024,"25","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2819494",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
 "Spitdowski, TJ","Sr","2300739",2024,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2300739",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580
 "Stocks, Landon","Jr","2661959",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8490&stats_player_seq=2661959",8490,"LeTourneau","/team/8490/16580",14825,"ASC",3,2024,16580

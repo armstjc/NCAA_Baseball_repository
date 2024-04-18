@@ -1,12 +1,12 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Barta, Carsen","Fr","2951537",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2951537",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
-"Bennett, Aaron","Fr","2951492",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2951492",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Bennett, Jaxson","Fr",NA,2024,"30","P",NA,27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
+"Bennett, Aaron","Fr","2951492",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2951492",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Benning, Nate","Fr","2951553",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2951553",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Bushbaum, Connor","Jr","2659587",2024,"26","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2659587",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Colgrove, Chance","Fr",NA,2024,"33","3B",NA,27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Connelly, Joey","So","2815855",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2815855",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
-"Denisen, Eli","So",NA,2024,"35","P",NA,27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
+"Denisen, Eli","So","2804406",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2804406",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Dykhoff, Josh","So","2804395",2024,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2804395",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Edwards, Caden","Jr","2951451",2024,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2951451",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Gaudette, Derin","Jr","2804391",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2804391",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
@@ -24,7 +24,7 @@
 "Mathiason, Jacob","Jr","2951487",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2951487",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Miller, Kodi","Jr","2951527",2024,"29","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2951527",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Norby, Christian","Sr","2804392",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2804392",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
-"Norman, Jonah","So",NA,2024,"31","C",NA,27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
+"Norman, Jonah","So","2804404",2024,"31","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2804404",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Osowski, Jake","Sr","2314443",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2314443",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Pacyga, Angelo","So","2804380",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2804380",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Proctor, Grant","Jr",NA,2024,"27","INF",NA,27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
@@ -37,6 +37,6 @@
 "Swanson, Owen","Fr","2951552",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2951552",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Thompson, Nick","Sr",NA,2024,"36","1B",NA,27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Weber, Max","Jr","2659575",2024,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2659575",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
-"Wensloff, Danny","Sr","2804389",2024,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2804389",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Wensloff, Isaac","So","2805788",2024,"3","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2805788",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
+"Wensloff, Danny","Sr","2804389",2024,"19","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2804389",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580
 "Wensloff, Aaron","Fr","2951504",2024,"17","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=27854&stats_player_seq=2951504",27854,"Minn.-Crookston","/team/27854/16580",12853,"NSIC",2,2024,16580

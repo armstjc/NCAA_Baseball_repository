@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Amend, Lucas","So","2832123",2024,"99","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2832123",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
+"Amend, Lucas","So","2832123",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2832123",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Baker, Jacob","So","2832093",2024,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2832093",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Bertrand, Brady","So","2832122",2024,"35","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2832122",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Bialek, Tyler","Sr","2519400",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2519400",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
@@ -17,7 +17,7 @@
 "Fujii, Lucas","Fr","2978471",2024,"2","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2978471",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Garcia, Sammy","Fr","2978474",2024,"12","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2978474",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Garrett, Andrew","So","2832091",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2832091",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
-"Grossnickle, Jadon","Fr",NA,2024,"76","",NA,337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
+"Grossnickle, Jadon","Fr","2978496",2024,"50","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2978496",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Heeren, Clark","Fr","2978484",2024,"43","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2978484",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Henning, Nick","Sr","2519399",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2519399",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Hernandez, Cesar","So","2832121",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2832121",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
@@ -32,11 +32,11 @@
 "Nitti, Nicholas","Fr","2978472",2024,"5","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2978472",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Platre, Niko","So","2811983",2024,"9","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2811983",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Ripka, Jeffery","So","2832098",2024,"30","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2832098",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
-"Rodriguez, Alonzo","Fr",NA,2024,"71","",NA,337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
+"Rodriguez, Alonzo","Fr",NA,2024,"54","",NA,337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Rompala-Matthews, Ethan","So","2832120",2024,"32","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2832120",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Rosenberg, Josh","Fr","2978486",2024,"45","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2978486",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Ruhs, JD","Jr","2686676",2024,"27","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2686676",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
-"Rutta, Johnny","Fr",NA,2024,"70","",NA,337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
+"Rutta, Johnny","Fr",NA,2024,"52","",NA,337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Scholes, Henry","So","2832096",2024,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2832096",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Simpson, Luke","Fr","2978482",2024,"33","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2978482",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Stan, Nicholas","Jr","2686649",2024,"39","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2686649",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
@@ -46,5 +46,5 @@
 "Ward, Brandon","Jr","2686674",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2686674",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Williams, Joseph","So","2832125",2024,"44","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2832125",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Wilmot, Thomas","So","2814961",2024,"28","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2814961",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
-"Windy, Brayden","Fr",NA,2024,"75","",NA,337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
+"Windy, Brayden","Fr",NA,2024,"57","",NA,337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580
 "Zamora, Buckie","Fr","2978487",2024,"46","","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=337&stats_player_seq=2978487",337,"Knox","/team/337/16580",23119,"MWC",3,2024,16580

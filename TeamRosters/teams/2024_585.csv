@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Barnes, Antonio","Fr","2954462",2024,"33","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=585&stats_player_seq=2954462",585,"Rose-Hulman","/team/585/16580",9174,"HCAC",3,2024,16580
-"Baum, Jamie","Jr",NA,2024,"6","INF",NA,585,"Rose-Hulman","/team/585/16580",9174,"HCAC",3,2024,16580
+"Baum, Jamie","Jr","2954435",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=585&stats_player_seq=2954435",585,"Rose-Hulman","/team/585/16580",9174,"HCAC",3,2024,16580
 "Borcherding, Brett","Sr","2472916",2024,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=585&stats_player_seq=2472916",585,"Rose-Hulman","/team/585/16580",9174,"HCAC",3,2024,16580
 "Brown, Colton","Jr","2654228",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=585&stats_player_seq=2654228",585,"Rose-Hulman","/team/585/16580",9174,"HCAC",3,2024,16580
 "Busboom, Dalton","Sr","2472910",2024,"24","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=585&stats_player_seq=2472910",585,"Rose-Hulman","/team/585/16580",9174,"HCAC",3,2024,16580
@@ -36,4 +36,4 @@
 "VanDerHulst, Collin","Jr",NA,2024,"37","P",NA,585,"Rose-Hulman","/team/585/16580",9174,"HCAC",3,2024,16580
 "Wilcox, Schuyler","Sr","2472904",2024,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=585&stats_player_seq=2472904",585,"Rose-Hulman","/team/585/16580",9174,"HCAC",3,2024,16580
 "Yager, Michael","Sr","2472913",2024,"17","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=585&stats_player_seq=2472913",585,"Rose-Hulman","/team/585/16580",9174,"HCAC",3,2024,16580
-"Zbonski, Zach","Sr",NA,2024,"44","P",NA,585,"Rose-Hulman","/team/585/16580",9174,"HCAC",3,2024,16580
+"Zbonski, Zach","Sr","2472931",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=585&stats_player_seq=2472931",585,"Rose-Hulman","/team/585/16580",9174,"HCAC",3,2024,16580

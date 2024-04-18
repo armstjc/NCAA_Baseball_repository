@@ -1,8 +1,8 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Aery, Dillon","Fr","2946391",2024,"1","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2946391",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
 "Ames, Cooper","So","2822994",2024,"7","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2822994",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
-"Collins, Jack","Fr","2946401",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2946401",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
 "Collins, Will","So","2822997",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2822997",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
+"Collins, Jack","Fr","2946401",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2946401",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
 "Cowles, Ryan","Sr","2525150",2024,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2525150",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
 "DiCaprio, Noah","Fr","2946404",2024,"29","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2946404",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
 "Erickson, Alex","Jr","2687468",2024,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2687468",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
@@ -35,6 +35,6 @@
 "Sheeran, Dan","Jr","2687456",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2687456",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
 "Strazza, Sam","Jr","2687460",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2687460",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
 "Suter, Chris","Jr","2687458",2024,"21","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2687458",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
-"Talacci, Danny","Fr",NA,2024,"44","OF",NA,727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
+"Talacci, Danny","Fr","2946409",2024,"44","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2946409",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
 "Weitz, Ethan","Fr","2946412",2024,"52","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2946412",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580
 "Zaslaw, Kyle","Jr","2687459",2024,"23","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=727&stats_player_seq=2687459",727,"Union (NY)","/team/727/16580",24197,"Liberty League",3,2024,16580

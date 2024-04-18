@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Abolafia, Paul","Fr",NA,2024,"49","P",NA,1167,"Lander","/team/1167/16580",12923,"Peach Belt",2,2024,16580
+"Abolafia, Paul","Fr","2957207",2024,"49","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1167&stats_player_seq=2957207",1167,"Lander","/team/1167/16580",12923,"Peach Belt",2,2024,16580
 "Barbee, Ethan","So","2809236",2024,"16","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1167&stats_player_seq=2809236",1167,"Lander","/team/1167/16580",12923,"Peach Belt",2,2024,16580
 "Bowen, Tyler","Jr","2656820",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1167&stats_player_seq=2656820",1167,"Lander","/team/1167/16580",12923,"Peach Belt",2,2024,16580
 "Bryant, Jackson","Jr","2310537",2024,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1167&stats_player_seq=2310537",1167,"Lander","/team/1167/16580",12923,"Peach Belt",2,2024,16580
@@ -24,7 +24,7 @@
 "McCurley, Ross","Sr","2478442",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1167&stats_player_seq=2478442",1167,"Lander","/team/1167/16580",12923,"Peach Belt",2,2024,16580
 "McKittrick, Caleb","So","2837723",2024,"40","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1167&stats_player_seq=2837723",1167,"Lander","/team/1167/16580",12923,"Peach Belt",2,2024,16580
 "Merrick, Anson","Jr","2656824",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1167&stats_player_seq=2656824",1167,"Lander","/team/1167/16580",12923,"Peach Belt",2,2024,16580
-"Metcalf, Jarren","Fr",NA,2024,"42","INF",NA,1167,"Lander","/team/1167/16580",12923,"Peach Belt",2,2024,16580
+"Metcalf, Jarren","Fr","2957205",2024,"42","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1167&stats_player_seq=2957205",1167,"Lander","/team/1167/16580",12923,"Peach Belt",2,2024,16580
 "Moeller, Chandler","Sr","2656789",2024,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1167&stats_player_seq=2656789",1167,"Lander","/team/1167/16580",12923,"Peach Belt",2,2024,16580
 "Murphy, Kyle","So","2809235",2024,"10","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1167&stats_player_seq=2809235",1167,"Lander","/team/1167/16580",12923,"Peach Belt",2,2024,16580
 "Nakao, Taichi","Jr","2957190",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1167&stats_player_seq=2957190",1167,"Lander","/team/1167/16580",12923,"Peach Belt",2,2024,16580

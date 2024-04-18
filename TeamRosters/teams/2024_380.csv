@@ -1,5 +1,5 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
-"Annis, Tyler","Fr",NA,2024,"27","UT",NA,380,"Maine","/team/380/16580",845,"America East",1,2024,16580
+"Annis, Tyler","Fr","2952327",2024,"27","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=380&stats_player_seq=2952327",380,"Maine","/team/380/16580",845,"America East",1,2024,16580
 "Baillargeon, Gavin","Fr",NA,2024,"43","P",NA,380,"Maine","/team/380/16580",845,"America East",1,2024,16580
 "Baschnagel, Evan","Fr",NA,2024,"22","OF",NA,380,"Maine","/team/380/16580",845,"America East",1,2024,16580
 "Bernardo, Caden","Fr",NA,2024,"50","INF",NA,380,"Maine","/team/380/16580",845,"America East",1,2024,16580
@@ -33,7 +33,7 @@
 "Sargent, Myles","Jr","2661228",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=380&stats_player_seq=2661228",380,"Maine","/team/380/16580",845,"America East",1,2024,16580
 "Scott, Ryan","Jr","2801690",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=380&stats_player_seq=2801690",380,"Maine","/team/380/16580",845,"America East",1,2024,16580
 "Smaracko, Marshall","Sr","2510357",2024,"15","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=380&stats_player_seq=2510357",380,"Maine","/team/380/16580",845,"America East",1,2024,16580
-"Taub, Charlie","Fr",NA,2024,"17","C",NA,380,"Maine","/team/380/16580",845,"America East",1,2024,16580
+"Taub, Charlie","Fr","2952319",2024,"17","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=380&stats_player_seq=2952319",380,"Maine","/team/380/16580",845,"America East",1,2024,16580
 "Trolaro, Chase","Fr","2952336",2024,"41","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=380&stats_player_seq=2952336",380,"Maine","/team/380/16580",845,"America East",1,2024,16580
 "Wheeler, Owen","Fr","2952332",2024,"37","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=380&stats_player_seq=2952332",380,"Maine","/team/380/16580",845,"America East",1,2024,16580
 "White, Nick","Sr","2801668",2024,"14","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=380&stats_player_seq=2801668",380,"Maine","/team/380/16580",845,"America East",1,2024,16580

@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Arechiga, Adrian","Jr",NA,2024,"20","OF",NA,1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
 "Ayers, Quentin","Sr","2325686",2024,"13","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1274&stats_player_seq=2325686",1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
-"Bateman, Nick","Jr",NA,2024,"43","P",NA,1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
+"Bateman, Nick","Jr","2938688",2024,"43","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1274&stats_player_seq=2938688",1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
 "Bell, Jason","Jr","2938684",2024,"33","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1274&stats_player_seq=2938684",1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
 "Bishopp, Josh","Jr","2649848",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1274&stats_player_seq=2649848",1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
 "Black, Nick","Jr","2649861",2024,"52","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1274&stats_player_seq=2649861",1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
@@ -35,7 +35,7 @@
 "Rochelle, Jakob","Fr","2799098",2024,"51","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1274&stats_player_seq=2799098",1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
 "Rojas, Bryan","Jr","2938685",2024,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1274&stats_player_seq=2938685",1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
 "Saunders, Kailer","So","2799088",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1274&stats_player_seq=2799088",1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
-"Sharples, CD","Fr",NA,2024,"24","P",NA,1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
+"Sharples, CD","Fr","2799097",2024,"24","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1274&stats_player_seq=2799097",1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
 "Tishenkel, Trevor","Sr","2464106",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1274&stats_player_seq=2464106",1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
 "Walsh, Carter","Fr","2938676",2024,"6","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1274&stats_player_seq=2938676",1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580
 "Wayne, Casey","Jr","2938683",2024,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1274&stats_player_seq=2938683",1274,"Northwest Nazarene","/team/1274/16580",30012,"Great Northwest",2,2024,16580

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/05/2024,away,16580,587,Rutgers,9,True,2,7,-5,loss,4780629,748,2488803,2024,1
 0,1,1,0,0,0,0,0,0,0,03/12/2024,home,16580,617,Saint Peter's,9,True,10,9,1,win,4530367,748,2488803,2024,1
+0,2,2,0,0,0,0,0,0,0,04/16/2024,home,16580,635,Seton Hall,11,True,3,4,-1,loss,4537725,748,2488803,2024,1

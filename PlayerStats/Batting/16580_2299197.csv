@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,3,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,04/16/2024,home,16580,0,Hannibal-La Grange,9,True,8,5,3,win,5283091,11538,2299197,2024,3
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/17/2024,away,16580,424,Millikin,9,True,1,12,-11,loss,4538028,11538,2299197,2024,3

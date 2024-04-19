@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/23/2024,home,16580,122,CWRU,9,True,5,7,-2,loss,4527153,751,2799271,2024,3
+2,4,2,1,0,3,0,4,0,0,0,0,0,0,0,0,0,0,0,04/14/2024,neutral,16580,1434,Waynesburg,9,True,17,4,13,win,4545935,751,2799271,2024,3
+1,2,1,0,0,4,1,3,0,1,0,0,1,0,0,0,0,0,0,04/17/2024,home,16580,0,Point Park,9,True,6,12,-6,loss,5283116,751,2799271,2024,3

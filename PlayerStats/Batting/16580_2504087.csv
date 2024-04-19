@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,03/23/2024,away,16580,555,Principia,9,True,13,0,13,win,4542722,759,2504087,2024,3
 0,1,1,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,04/09/2024,home,16580,64,Blackburn,9,True,19,2,17,win,4536134,759,2504087,2024,3
+1,1,1,0,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,04/17/2024,away,16580,585,Rose-Hulman,9,True,17,7,10,win,4538041,759,2504087,2024,3

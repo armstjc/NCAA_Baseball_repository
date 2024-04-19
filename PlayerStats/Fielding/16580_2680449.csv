@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/09/2024,neutral,16580,40,Augustana (IL),9,True,7,8,-1,loss,4529738,633,2680449,2024,3
 1,1,2,0,0,0,2,0,0,0,03/17/2024,away,16580,211,Elizabethtown,9,True,4,14,-10,loss,4544027,633,2680449,2024,3
+2,0,2,0,0,0,4,0,0,0,04/13/2024,home,16580,685,Susquehanna,9,True,19,13,6,win,4537074,633,2680449,2024,3

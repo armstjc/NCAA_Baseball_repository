@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/09/2024,neutral,16580,18422,Rivier,9,True,0,8,-8,loss,4529711,761,2829803,2024,3
 0,2,2,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,03/28/2024,home,16580,18,Alfred,9,True,20,0,20,win,4544474,761,2829803,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/13/2024,away,16580,30036,Mount Aloysius,9,True,3,10,-7,loss,4536998,761,2829803,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/13/2024,away,16580,30036,Mount Aloysius,9,True,0,14,-14,loss,4545172,761,2829803,2024,3

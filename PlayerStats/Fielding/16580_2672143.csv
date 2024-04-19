@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/26/2024,away,16580,0,Fisher,9,True,8,7,1,win,5249992,8486,2672143,2024,3
 0,0,0,0,0,0,1,0,0,0,03/12/2024,away,16580,195,Earlham,9,True,6,5,1,win,4530549,8486,2672143,2024,3
+0,1,1,0,0,0,0,0,0,0,03/22/2024,away,16580,214,Emerson,9,True,14,6,8,win,4527729,8486,2672143,2024,3
+0,2,2,0,0,0,0,0,0,0,04/13/2024,home,16580,26,Anna Maria,12,True,3,5,-2,loss,4545649,8486,2672143,2024,3
+0,0,0,0,0,0,2,0,0,0,04/16/2024,away,16580,45,Babson,9,True,4,5,-1,loss,5283016,8486,2672143,2024,3

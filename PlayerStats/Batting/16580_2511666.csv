@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/08/2024,neutral,16580,22626,JWU (Providence),9,True,2,7,-5,loss,5252423,773,2511666,2024,3
 1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,03/12/2024,neutral,16580,30219,Dean,9,True,20,3,17,win,4543675,773,2511666,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/13/2024,home,16580,276,Haverford,9,True,10,4,6,win,4545657,773,2511666,2024,3
+0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/16/2024,home,16580,322,Johns Hopkins,9,True,3,12,-9,loss,4537832,773,2511666,2024,3

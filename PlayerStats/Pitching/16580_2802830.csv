@@ -1,3 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,6.0,0.0,9,3,2,0,4,0,27,27,4,0,0,0,0,0,0,0,0,0,0,79,6,8,1,0,0,1,0,0,03/02/2024,home,16580,122,CWRU,9,True,13,6,7,win,4543289,807,2802830,2024,3
 1,1,6.0,0.0,5,1,0,2,1,0,26,22,0,0,0,0,0,1,0,0,0,0,1,91,5,12,0,0,0,1,1,0,03/18/2024,away,16580,1162,LaGrange,9,True,3,4,-1,loss,4531526,807,2802830,2024,3
+1,1,2.1,0.0,5,6,6,1,2,0,13,11,3,0,0,0,2,0,0,0,0,0,1,52,1,3,0,1,0,1,1,0,04/13/2024,home,16580,182,Denison,9,True,6,10,-4,loss,4545636,807,2802830,2024,3

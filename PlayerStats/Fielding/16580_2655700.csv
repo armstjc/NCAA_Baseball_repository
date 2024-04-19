@@ -4,3 +4,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,1,0,0,0,03/16/2024,home,16580,30190,Penn College,9,True,3,2,1,win,4531335,30085,2655700,2024,3
 0,1,1,0,0,0,1,0,0,0,03/22/2024,away,16580,30044,Penn St.-Berks,9,True,10,6,4,win,5255026,30085,2655700,2024,3
 0,1,1,0,0,0,0,0,0,0,04/05/2024,away,16580,30114,Penn St.-Abington,9,True,3,4,-1,loss,4535280,30085,2655700,2024,3
+0,1,1,0,0,0,1,0,0,0,04/13/2024,neutral,16580,30081,Penn St. Harrisburg,8,True,1,2,-1,loss,4537142,30085,2655700,2024,3

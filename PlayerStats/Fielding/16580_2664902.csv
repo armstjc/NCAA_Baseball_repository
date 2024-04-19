@@ -24,3 +24,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,2,3,0,0,0,0,0,0,0,04/12/2024,home,16580,456,UNC Asheville,9,True,4,5,-1,loss,4536698,563,2664902,2024,1
 2,1,3,0,0,0,0,0,0,0,04/13/2024,home,16580,456,UNC Asheville,9,True,1,7,-6,loss,4536973,563,2664902,2024,1
 1,1,2,0,0,0,0,0,0,0,04/14/2024,home,16580,456,UNC Asheville,9,True,13,9,4,win,4537444,563,2664902,2024,1
+3,1,4,0,0,0,0,0,0,0,04/16/2024,away,16580,742,Virginia Tech,9,True,1,7,-6,loss,4537712,563,2664902,2024,1

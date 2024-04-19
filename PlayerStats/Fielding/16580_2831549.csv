@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,04/10/2024,away,16580,727,Union (NY),9,True,5,15,-10,loss,4536540,789,2831549,2024,3
+0,0,0,0,0,0,3,0,0,0,04/13/2024,away,16580,420,Middlebury,9,True,4,15,-11,loss,4545634,789,2831549,2024,3
+0,0,0,0,0,0,1,1,0,0,04/17/2024,home,16580,570,Rensselaer,9,True,4,8,-4,loss,4537932,789,2831549,2024,3

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/24/2024,home,16580,19,Allegheny,8,True,2,19,-17,loss,4544253,30069,2812453,2024,3
 0,1,1,0,0,0,1,0,0,0,04/06/2024,home,16580,30064,Saint Vincent,9,True,0,9,-9,loss,4544367,30069,2812453,2024,3
+1,0,1,0,0,0,0,0,0,0,04/18/2024,away,16580,1451,Westminster (PA),9,True,1,5,-4,loss,4537978,30069,2812453,2024,3

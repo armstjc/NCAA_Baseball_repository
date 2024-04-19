@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 11,0,11,0,0,0,0,0,0,0,03/12/2024,neutral,16580,652,Sewanee,9,True,6,13,-7,loss,4530422,800,2815333,2024,3
 8,0,8,0,0,0,0,0,0,0,03/15/2024,neutral,16580,22989,Lyon,9,True,3,2,1,win,4530924,800,2815333,2024,3
+3,0,4,1,0,0,0,0,0,0,04/12/2024,away,16580,1066,Edgewood,9,True,13,3,10,win,4536664,800,2815333,2024,3

@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,1,0,0,04/10/2024,away,16580,532,Elms,9,True,10,2,8,win,4536471,775,2831986,2024,3
+1,0,2,1,0,0,1,0,0,0,04/16/2024,away,16580,713,Trinity (CT),10,True,3,4,-1,loss,4537721,775,2831986,2024,3

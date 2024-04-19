@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,03/21/2024,neutral,16580,802,Wis.-Stevens Point,9,True,1,9,-8,loss,4532203,775,2695098,2024,3
+0,1,1,0,0,0,0,0,0,0,04/14/2024,home,16580,684,Suffolk,9,True,7,16,-9,loss,4537197,775,2695098,2024,3

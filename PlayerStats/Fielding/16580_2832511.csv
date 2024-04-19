@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/10/2024,neutral,16580,379,Me.-Farmington,9,True,15,0,15,win,4544971,618,2832511,2024,3
+0,0,1,1,0,0,2,0,0,0,04/15/2024,home,16580,1267,Northland,9,True,16,6,10,win,4537653,618,2832511,2024,3

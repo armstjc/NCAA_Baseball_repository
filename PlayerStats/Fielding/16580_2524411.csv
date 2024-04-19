@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,0,4,0,0,0,0,0,0,0,03/21/2024,neutral,16580,478,SUNY Maritime,9,True,9,2,7,win,4544831,789,2524411,2024,3
 7,0,7,0,0,0,0,0,0,0,04/09/2024,home,16580,642,Skidmore,9,True,12,16,-4,loss,4536339,789,2524411,2024,3
+6,3,10,1,0,0,0,0,1,0,04/16/2024,away,16580,486,MCLA,9,True,16,8,8,win,4537853,789,2524411,2024,3

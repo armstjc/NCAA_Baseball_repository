@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/26/2024,away,16580,266,Gustavus Adolphus,9,True,2,12,-10,loss,4532104,30031,2837241,2024,3
 3,0,3,0,0,0,0,0,0,0,03/12/2024,neutral,16580,258,Gettysburg,9,True,5,14,-9,loss,4530451,30031,2837241,2024,3
+1,0,1,0,0,0,0,0,0,0,04/13/2024,away,16580,1267,Northland,9,True,15,1,14,win,4537053,30031,2837241,2024,3
+1,0,1,0,0,0,0,0,0,0,04/15/2024,away,16580,602,Saint John's (MN),9,True,3,11,-8,loss,5254701,30031,2837241,2024,3

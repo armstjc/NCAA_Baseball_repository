@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/21/2024,neutral,16580,443,Moravian,9,True,9,10,-1,loss,4542793,221,2821920,2024,3
 0,0,0,0,0,0,1,0,0,0,03/24/2024,home,16580,966,Arcadia,9,True,1,14,-13,loss,4543773,221,2821920,2024,3
+0,0,0,0,0,0,1,0,0,0,04/13/2024,home,16580,16142,Misericordia,9,True,2,4,-2,loss,4545181,221,2821920,2024,3

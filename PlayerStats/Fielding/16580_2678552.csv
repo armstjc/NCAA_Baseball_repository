@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 6,1,7,0,0,3,3,0,0,0,03/07/2024,neutral,16580,336,King's (PA),9,True,4,6,-2,loss,4529165,1064,2678552,2024,3
 5,0,5,0,0,0,0,0,0,0,04/02/2024,away,16580,401,UMass Boston,9,True,1,13,-12,loss,5280905,1064,2678552,2024,3
+1,2,3,0,0,0,2,1,0,0,04/13/2024,away,16580,30083,SUNY Cobleskill,10,True,2,1,1,win,5282424,1064,2678552,2024,3
+4,1,5,0,0,0,0,1,0,0,04/14/2024,away,16580,9500,SUNY Poly,9,True,4,5,-1,loss,4546258,1064,2678552,2024,3
+5,0,5,0,0,0,2,1,0,0,04/17/2024,away,16580,8687,Saint Joseph (CT),9,True,2,7,-5,loss,4538024,1064,2678552,2024,3

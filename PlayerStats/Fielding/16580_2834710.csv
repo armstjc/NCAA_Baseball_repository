@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,1,6,0,0,0,0,0,1,0,03/09/2024,neutral,16580,783,Widener,9,True,4,6,-2,loss,4543649,27892,2834710,2024,3
 6,0,7,1,0,0,0,0,0,0,03/12/2024,neutral,16580,20220,MSOE,9,True,3,13,-10,loss,5253084,27892,2834710,2024,3
+2,0,2,0,0,0,0,0,1,0,04/14/2024,home,16580,814,Yeshiva,9,True,32,0,32,win,4537541,27892,2834710,2024,3
+1,0,1,0,0,0,0,0,0,0,04/14/2024,home,16580,814,Yeshiva,9,True,43,1,42,win,4546354,27892,2834710,2024,3

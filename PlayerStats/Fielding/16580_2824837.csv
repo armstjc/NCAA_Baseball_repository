@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,3,0,0,0,03/03/2024,home,16580,562,Quinnipiac,9,True,3,21,-18,loss,4544276,410,2824837,2024,1
 0,0,0,0,0,0,1,0,0,0,04/02/2024,home,16580,285,Holy Cross,9,True,8,4,4,win,4534696,410,2824837,2024,1
+0,0,0,0,0,0,2,0,0,0,04/16/2024,home,16580,368,UMass Lowell,9,True,5,12,-7,loss,4537698,410,2824837,2024,1

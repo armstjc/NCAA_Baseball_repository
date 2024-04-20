@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/15/2024,away,16580,424,Millikin,9,True,4,7,-3,loss,4531027,1036,2337170,2024,3
 0,1,1,0,0,0,0,0,0,0,03/19/2024,home,16580,618,St. Scholastica,9,True,11,9,2,win,4544829,1036,2337170,2024,3
+0,2,2,0,0,0,0,0,0,0,04/16/2024,home,16580,1196,Marian (WI),10,True,2,4,-2,loss,4545212,1036,2337170,2024,3

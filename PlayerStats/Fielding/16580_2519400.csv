@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/17/2024,neutral,16580,1159,Keuka,9,True,8,7,1,win,4531631,337,2519400,2024,3
+0,0,0,0,0,0,1,0,0,0,04/13/2024,home,16580,264,Grinnell,11,True,10,12,-2,loss,4545766,337,2519400,2024,3
+0,0,0,0,0,0,2,0,0,0,04/17/2024,home,16580,297,Illinois Col.,9,True,6,14,-8,loss,4545368,337,2519400,2024,3

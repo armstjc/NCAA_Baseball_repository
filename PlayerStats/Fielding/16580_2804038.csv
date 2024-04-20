@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/10/2024,home,16580,451,UMSV,9,True,9,1,8,win,5250511,479,2804038,2024,3
 0,1,1,0,0,0,0,0,0,0,03/17/2024,neutral,16580,30172,IIT,9,True,20,6,14,win,4531632,479,2804038,2024,3
+0,3,3,0,0,0,0,0,0,0,04/14/2024,away,16580,73,Brandeis,9,True,18,6,12,win,4536756,479,2804038,2024,3
+0,1,1,0,0,0,0,0,0,0,04/14/2024,away,16580,73,Brandeis,9,True,16,4,12,win,4537487,479,2804038,2024,3

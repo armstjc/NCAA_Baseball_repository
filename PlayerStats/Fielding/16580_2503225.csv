@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,1,2,0,0,0,1,0,0,0,03/15/2024,away,16580,30147,Fresno Pacific,9,True,5,11,-6,loss,4542827,2697,2503225,2024,2
 0,1,1,0,0,0,0,0,0,0,04/07/2024,away,16580,2696,Hawaii Pacific,9,True,4,3,1,win,5282163,2697,2503225,2024,2
 0,1,1,0,0,0,0,1,0,0,04/13/2024,home,16580,133,Chaminade,11,True,4,6,-2,loss,4537098,2697,2503225,2024,2
+0,0,0,0,0,0,1,0,0,0,04/20/2024,home,16580,2696,Hawaii Pacific,9,True,7,6,1,win,4538779,2697,2503225,2024,2

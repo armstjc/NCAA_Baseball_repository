@@ -6,3 +6,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,2,0,0,0,03/15/2024,away,16580,30095,Utah Tech,9,True,7,9,-2,loss,4531088,102,2813729,2024,1
 1,0,1,0,0,0,1,0,0,0,03/17/2024,away,16580,30095,Utah Tech,9,True,4,5,-1,loss,4531703,102,2813729,2024,1
 0,1,1,0,0,0,0,0,0,0,04/05/2024,home,16580,30135,California Baptist,9,True,0,1,-1,loss,4535125,102,2813729,2024,1
+0,0,0,0,0,0,1,0,0,0,04/19/2024,away,16580,657,Southern California,9,True,6,3,3,win,4538203,102,2813729,2024,1
+0,0,1,1,0,0,0,0,0,0,04/21/2024,away,16580,657,Southern California,9,True,5,4,1,win,4538954,102,2813729,2024,1

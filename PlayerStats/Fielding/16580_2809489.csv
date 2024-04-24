@@ -1,2 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/02/2024,home,16580,1376,Southern Ark.,9,True,1,12,-11,loss,4543642,1116,2809489,2024,2
+1,0,1,0,0,0,0,0,0,0,04/15/2024,home,16580,23008,Ozarks (AR),9,True,2,1,1,win,5282912,1116,2809489,2024,2
+5,0,6,1,0,0,0,0,0,0,04/21/2024,away,16580,8965,East Central,9,True,14,3,11,win,5283693,1116,2809489,2024,2
+3,0,3,0,0,0,0,0,0,0,04/21/2024,away,16580,8965,East Central,9,True,10,0,10,win,5283777,1116,2809489,2024,2
+1,0,1,0,0,0,0,0,0,0,04/22/2024,away,16580,8965,East Central,9,True,16,5,11,win,4538156,1116,2809489,2024,2

@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/10/2024,home,16580,30138,McKendree,9,True,3,1,2,win,5252825,499,2350221,2024,2
 0,1,1,0,0,0,0,0,0,0,03/23/2024,home,16580,436,Mo.-St. Louis,9,True,1,7,-6,loss,4542867,499,2350221,2024,2
+1,0,1,0,0,0,0,0,0,0,04/12/2024,home,16580,435,Missouri S&T,9,True,3,5,-2,loss,4536760,499,2350221,2024,2
+0,0,0,0,0,0,2,0,0,0,04/13/2024,home,16580,435,Missouri S&T,9,True,1,4,-3,loss,4545926,499,2350221,2024,2
+0,1,1,0,0,0,0,0,0,0,04/20/2024,home,16580,30120,William Jewell,9,True,9,17,-8,loss,4538727,499,2350221,2024,2

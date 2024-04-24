@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/20/2024,neutral,16580,147,Clemson,9,True,1,11,-10,loss,4532108,1320,2805904,2024,1
 0,0,0,0,0,0,1,0,0,0,03/26/2024,away,16580,648,South Carolina,9,True,14,19,-5,loss,4533287,1320,2805904,2024,1
+0,0,0,0,0,0,1,0,0,0,04/19/2024,away,16580,19651,High Point,9,True,3,13,-10,loss,4538128,1320,2805904,2024,1

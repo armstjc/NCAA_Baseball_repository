@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/17/2024,away,16580,706,UTSA,9,True,2,7,-5,loss,4525796,702,2657275,2024,1
 0,1,1,0,0,0,0,0,0,0,04/07/2024,away,16580,536,UTRGV,10,True,2,3,-1,loss,4535987,702,2657275,2024,1
+0,0,0,0,0,0,1,0,0,0,04/20/2024,away,16580,30024,Utah Valley,9,True,9,4,5,win,4538817,702,2657275,2024,1

@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,04/17/2024,home,16580,299,Illinois St.,9,True,6,8,-2,loss,4537702,30136,2651960,2024,2
+2,0,2,0,0,0,0,0,0,0,04/21/2024,away,16580,444,Morehead St.,10,True,13,14,-1,loss,4538952,30136,2651960,2024,2

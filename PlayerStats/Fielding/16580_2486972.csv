@@ -26,3 +26,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,04/13/2024,away,16580,197,East Stroudsburg,9,True,3,14,-11,loss,4545943,423,2486972,2024,2
 6,0,6,0,0,0,1,0,0,0,04/14/2024,home,16580,197,East Stroudsburg,9,True,2,1,1,win,5282565,423,2486972,2024,2
 8,0,8,0,0,1,1,0,0,0,04/14/2024,home,16580,197,East Stroudsburg,9,True,5,0,5,win,5282639,423,2486972,2024,2
+7,1,8,0,0,0,0,0,0,0,04/19/2024,away,16580,638,Shippensburg,8,True,2,1,1,win,4538239,423,2486972,2024,2
+5,0,5,0,0,0,0,0,0,0,04/20/2024,home,16580,638,Shippensburg,9,True,0,5,-5,loss,4538726,423,2486972,2024,2

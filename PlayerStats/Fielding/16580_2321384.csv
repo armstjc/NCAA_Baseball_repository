@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,04/02/2024,home,16580,9223,North Greenville,9,True,2,11,-9,loss,4534902,1257,2321384,2024,2
+0,0,2,2,0,0,2,0,0,0,04/16/2024,neutral,16580,1245,Mount Olive,9,True,11,13,-2,loss,4537778,1257,2321384,2024,2
+0,0,0,0,0,0,1,0,0,0,04/20/2024,away,16580,1176,Lincoln Memorial,9,True,4,12,-8,loss,4546120,1257,2321384,2024,2

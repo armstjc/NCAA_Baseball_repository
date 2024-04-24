@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/12/2024,home,16580,127,Central Conn. St.,9,True,8,7,1,win,4530487,562,2486799,2024,1
 0,1,1,0,0,0,1,0,0,0,03/24/2024,home,16580,576,Rider,9,True,1,11,-10,loss,4533213,562,2486799,2024,1
+0,1,1,0,0,0,1,0,0,0,04/21/2024,home,16580,116,Canisius,9,True,10,5,5,win,5284019,562,2486799,2024,1

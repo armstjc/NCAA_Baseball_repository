@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/10/2024,home,16580,30181,UVA Wise,9,True,15,7,8,win,5245117,1238,2809473,2024,2
 1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/10/2024,home,16580,766,West Ga.,9,True,22,6,16,win,5252803,1238,2809473,2024,2
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/16/2024,home,16580,358,West Ala.,9,True,13,8,5,win,4537866,1238,2809473,2024,2

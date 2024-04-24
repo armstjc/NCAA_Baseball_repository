@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,03/20/2024,home,16580,246,Gannon,9,True,10,18,-8,loss,5254331,1076,2963298,2024,2
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/09/2024,away,16580,30063,Seton Hill,9,True,0,11,-11,loss,5281840,1076,2963298,2024,2
+1,4,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,04/16/2024,home,16580,106,California (PA),9,True,10,14,-4,loss,4537807,1076,2963298,2024,2

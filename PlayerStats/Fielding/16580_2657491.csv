@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,02/18/2024,away,16580,413,MSU Denver,9,True,15,12,3,win,5246365,30128,2657491,2024,2
 2,0,2,0,0,0,0,0,0,0,04/02/2024,home,16580,0,Dakota Wesleyan,9,True,13,7,6,win,4534651,30128,2657491,2024,2
+11,0,13,2,0,0,7,0,0,0,04/20/2024,away,16580,30075,Mary,9,True,4,14,-10,loss,4545521,30128,2657491,2024,2

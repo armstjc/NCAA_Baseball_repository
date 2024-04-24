@@ -1,2 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/10/2024,home,16580,30069,Franciscan,9,True,7,3,4,win,4542588,1434,2510599,2024,3
+0,3,2,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,04/14/2024,neutral,16580,751,Wash. & Jeff.,9,True,4,17,-13,loss,4545935,1434,2510599,2024,3
+0,4,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,04/16/2024,away,16580,707,Thiel,9,True,9,10,-1,loss,5283002,1434,2510599,2024,3

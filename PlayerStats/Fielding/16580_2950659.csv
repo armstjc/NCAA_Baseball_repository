@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,04/13/2024,away,16580,947,Arkansas Tech,9,True,1,17,-16,loss,4545185,8965,2950659,2024,2
+1,0,1,0,0,0,0,0,0,0,04/16/2024,away,16580,30202,Okla. Baptist,9,True,9,19,-10,loss,4537889,8965,2950659,2024,2
+1,0,1,0,0,0,0,0,0,0,04/21/2024,home,16580,1116,Harding,9,True,0,10,-10,loss,5283777,8965,2950659,2024,2

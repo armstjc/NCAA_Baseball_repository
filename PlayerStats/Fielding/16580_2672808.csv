@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,1,1,0,0,1,1,0,0,03/02/2024,home,16580,67,Boston College,9,True,7,9,-2,loss,4528399,786,2672808,2024,1
 0,1,1,0,0,0,0,0,0,0,03/08/2024,home,16580,236,Fordham,9,True,5,0,5,win,5252324,786,2672808,2024,1
 1,0,1,0,0,0,0,0,0,0,03/16/2024,home,16580,562,Quinnipiac,9,True,15,3,12,win,4531490,786,2672808,2024,1
+0,1,1,0,0,0,2,0,0,0,04/21/2024,away,16580,1014,Col. of Charleston,9,True,0,3,-3,loss,4539044,786,2672808,2024,1

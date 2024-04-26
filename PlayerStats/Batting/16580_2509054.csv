@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/14/2024,home,16580,399,Mass. Maritime,9,True,5,12,-7,loss,4536685,486,2509054,2024,3
+1,4,2,0,0,2,0,0,0,1,0,0,1,0,0,1,0,0,0,04/16/2024,home,16580,789,Williams,9,True,8,16,-8,loss,4537853,486,2509054,2024,3

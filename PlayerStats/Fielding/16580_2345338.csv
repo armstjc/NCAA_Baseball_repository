@@ -1,2 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,04/06/2024,home,16580,412,Methodist,9,True,6,7,-1,loss,4544711,30094,2345338,2024,3
+3,0,3,0,0,0,0,0,0,0,04/23/2024,away,16580,0,Bob Jones,9,True,8,9,-1,loss,5284344,30094,2345338,2024,3

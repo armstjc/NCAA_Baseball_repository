@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,1,6,0,0,0,0,0,2,0,02/29/2024,away,16580,1115,Hanover,9,True,4,5,-1,loss,4527719,30047,2822440,2024,3
 1,0,1,0,0,0,0,0,0,0,04/10/2024,away,16580,958,Clarks Summit,9,True,24,8,16,win,4544504,30047,2822440,2024,3
+1,0,1,0,0,0,0,0,0,0,04/20/2024,home,16580,9684,Saint Elizabeth,9,True,12,2,10,win,4545382,30047,2822440,2024,3

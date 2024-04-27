@@ -1,8 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,4,2,0,0,0,0,0,0,03/09/2024,neutral,16580,618,St. Scholastica,9,True,5,11,-6,loss,4529671,1164,2833892,2024,3
 0,1,2,1,0,0,0,0,0,0,03/09/2024,neutral,16580,684,Suffolk,9,True,5,6,-1,loss,4529887,1164,2833892,2024,3
-0,1,1,0,0,0,0,0,0,0,03/14/2024,neutral,16580,496,North Park,9,True,1,18,-17,loss,5252470,1164,2833892,2024,3
 1,0,3,2,0,0,0,0,0,0,03/14/2024,neutral,16580,1468,Mt. St. Mary (NY),9,True,3,18,-15,loss,4530719,1164,2833892,2024,3
+0,1,1,0,0,0,0,0,0,0,03/14/2024,neutral,16580,496,North Park,9,True,1,18,-17,loss,5252470,1164,2833892,2024,3
 2,4,7,1,0,0,0,0,1,0,03/15/2024,neutral,16580,30165,SUNY Canton,9,True,13,6,7,win,4530903,1164,2833892,2024,3
 0,2,2,0,0,0,0,0,0,0,03/23/2024,away,16580,296,Benedictine (IL),9,True,2,9,-7,loss,4532712,1164,2833892,2024,3
 0,0,1,1,0,0,0,0,0,0,03/23/2024,away,16580,296,Benedictine (IL),9,True,0,10,-10,loss,4544095,1164,2833892,2024,3
@@ -10,3 +10,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,1,3,0,0,0,0,0,0,0,03/30/2024,home,16580,42,Aurora,9,True,1,4,-3,loss,4543586,1164,2833892,2024,3
 4,0,4,0,0,0,0,0,0,0,04/07/2024,away,16580,1332,Dominican (IL),9,True,0,14,-14,loss,4544513,1164,2833892,2024,3
 13,0,13,0,0,0,0,0,1,0,04/13/2024,home,16580,30172,IIT,9,True,19,26,-7,loss,4545487,1164,2833892,2024,3
+1,0,1,0,0,0,0,0,1,0,04/20/2024,away,16580,798,Wis.-Oshkosh,9,True,3,16,-13,loss,5280947,1164,2833892,2024,3

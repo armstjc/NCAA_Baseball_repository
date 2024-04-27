@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,4,5,0,0,0,0,0,1,0,03/05/2024,home,16580,498,ULM,9,True,1,11,-10,loss,4528975,32,2825995,2024,1
 0,1,1,0,0,0,0,0,0,0,03/06/2024,away,16580,2678,Ark.-Pine Bluff,9,True,3,2,1,win,4529032,32,2825995,2024,1
+0,1,1,0,0,0,0,0,0,0,04/23/2024,away,16580,498,ULM,9,True,4,2,2,win,4539343,32,2825995,2024,1

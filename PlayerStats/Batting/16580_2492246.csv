@@ -1,4 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+3,3,2,0,0,2,0,1,1,1,0,0,0,0,0,0,0,0,0,04/26/2017,away,16580,314,Jackson St.,9,True,9,5,4,win,5285180,228,2492246,2017,1
 1,3,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,02/16/2024,home,16580,201,Eastern Ill.,9,True,6,5,1,win,4525657,228,2492246,2024,1
 1,2,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,02/18/2024,home,16580,201,Eastern Ill.,9,True,4,0,4,win,4525954,228,2492246,2024,1
 0,4,1,1,0,2,0,2,1,0,0,0,0,0,0,0,1,1,0,02/18/2024,home,16580,201,Eastern Ill.,10,True,8,9,-1,loss,4526224,228,2492246,2024,1
@@ -36,3 +37,4 @@ R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,sea
 0,3,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,04/19/2024,home,16580,6,Alabama A&M,9,True,11,9,2,win,4538331,228,2492246,2024,1
 1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/20/2024,home,16580,6,Alabama A&M,9,True,17,11,6,win,4538795,228,2492246,2024,1
 0,2,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,04/21/2024,home,16580,6,Alabama A&M,9,True,5,9,-4,loss,4539077,228,2492246,2024,1
+0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,04/23/2024,away,16580,37,Auburn,9,True,1,11,-10,loss,4539162,228,2492246,2024,1

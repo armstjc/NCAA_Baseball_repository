@@ -1,4 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,4,1,0,0,02/23/2024,neutral,16580,686,Swarthmore,9,True,1,9,-8,loss,4526751,30036,2684727,2024,3
 0,1,1,0,0,0,1,0,0,0,03/02/2024,away,16580,389,Mary Baldwin,9,True,8,3,5,win,4543173,30036,2684727,2024,3
+1,1,2,0,0,0,2,0,0,0,03/12/2024,neutral,16580,152,Colby-Sawyer,9,True,16,3,13,win,5284158,30036,2684727,2024,3
 0,1,2,1,0,0,0,1,0,0,03/21/2024,away,16580,30064,Saint Vincent,9,True,6,2,4,win,4531942,30036,2684727,2024,3
+0,2,3,1,0,0,0,0,0,0,04/20/2024,away,16580,8398,Hilbert,9,True,6,3,3,win,4546118,30036,2684727,2024,3
+0,2,3,1,0,0,0,0,0,0,04/26/2024,away,16580,1315,Pitt.-Bradford,9,True,4,3,1,win,5285125,30036,2684727,2024,3

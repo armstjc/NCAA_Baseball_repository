@@ -1,3 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1.0,0.0,3,5,5,2,1,0,9,5,1,1,0,0,0,1,0,0,0,0,1,35,0,2,0,0,0,5,1,0,03/11/2024,neutral,16580,142,Claremont-M-S,9,True,0,14,-14,loss,5253220,376,2695540,2024,3
 1,0,3.0,0.0,5,3,3,0,3,0,16,14,2,0,0,0,2,2,0,0,0,0,0,50,4,2,1,0,0,2,1,0,03/14/2024,neutral,16580,1066,Edgewood,9,True,19,9,10,win,5020603,376,2695540,2024,3
+1,0,1.0,0.0,1,1,0,0,0,0,6,6,1,0,0,0,0,0,0,0,0,0,0,25,1,2,0,0,0,4,0,0,04/21/2024,home,16580,615,St. Olaf,9,True,8,16,-8,loss,4538772,376,2695540,2024,3
+1,0,2.0,0.0,3,2,2,1,2,0,9,8,0,1,0,0,1,0,0,0,0,0,0,36,2,1,0,0,0,3,0,0,04/23/2024,away,16580,618,St. Scholastica,9,True,1,15,-14,loss,4545564,376,2695540,2024,3

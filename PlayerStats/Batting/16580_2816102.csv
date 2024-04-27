@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/02/2024,neutral,16580,531,Otterbein,9,True,14,15,-1,loss,4528185,16142,2816102,2024,3
 0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/28/2024,away,16580,336,King's (PA),9,True,20,3,17,win,4543373,16142,2816102,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/20/2024,away,16580,20,DeSales,9,True,15,1,14,win,4538752,16142,2816102,2024,3
+1,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,04/21/2024,away,16580,179,Delaware Valley,9,True,18,6,12,win,4532752,16142,2816102,2024,3

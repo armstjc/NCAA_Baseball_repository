@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,3,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,02/20/2024,home,16580,0,Tougaloo,9,True,11,1,10,win,5246825,314,2968935,2024,1
 0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,02/27/2024,away,16580,430,Mississippi St.,9,True,6,19,-13,loss,4527493,314,2968935,2024,1
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,04/23/2024,home,16580,474,New Orleans,9,True,10,3,7,win,4539344,314,2968935,2024,1

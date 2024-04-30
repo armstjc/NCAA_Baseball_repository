@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Ames, Camdyn","Sr","2512005",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8486&stats_player_seq=2512005",8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580
-"Angeles, Jeremy","Fr",NA,2024,"35","C",NA,8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580
+"Angeles, Jeremy","Fr","2975914",2024,"35","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8486&stats_player_seq=2975914",8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580
 "Audet, Ross","Sr","2511988",2024,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8486&stats_player_seq=2511988",8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580
 "Baumann, Bryan","Sr","2512002",2024,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8486&stats_player_seq=2512002",8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580
 "Bedell, Robert","Fr","2975920",2024,"46","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8486&stats_player_seq=2975920",8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580
@@ -28,7 +28,7 @@
 "Kinzer, Matt","Fr",NA,2024,"43","C",NA,8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580
 "Lallo, Darek","Sr","2511989",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8486&stats_player_seq=2511989",8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580
 "Lohsen, Ty","Fr","2975922",2024,"50","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8486&stats_player_seq=2975922",8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580
-"Long, Bobby","Fr",NA,2024,"23","INF",NA,8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580
+"Long, Bobby","Fr","2975910",2024,"23","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8486&stats_player_seq=2975910",8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580
 "Lowden, Justin","Sr","2681603",2024,"47","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8486&stats_player_seq=2681603",8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580
 "Lyon, Scott","Sr","2336592",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8486&stats_player_seq=2336592",8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580
 "Marsh, Adam","Jr","2672125",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=8486&stats_player_seq=2672125",8486,"Lasell","/team/8486/16580",23257,"Great Northeast",3,2024,16580

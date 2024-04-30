@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Andres, Anthony","Sr","2810185",2024,"31","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=455&stats_player_seq=2810185",455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
 "Arter, Tyler","Sr","2516329",2024,"21","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=455&stats_player_seq=2516329",455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
-"Barber, Gino","Sr",NA,2024,"39","P",NA,455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
+"Barber, Gino","Sr","2516323",2024,"39","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=455&stats_player_seq=2516323",455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
 "Black, Jackson","Fr","2953953",2024,"18","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=455&stats_player_seq=2953953",455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
 "Blecha, Noah","Jr","2662339",2024,"27","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=455&stats_player_seq=2662339",455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
 "Brison, Christopher","Jr","2662349",2024,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=455&stats_player_seq=2662349",455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
@@ -20,8 +20,8 @@
 "Hartman, Weston","Fr","2953971",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=455&stats_player_seq=2953971",455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
 "Hawk, Gavin","Sr","2516357",2024,"19","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=455&stats_player_seq=2516357",455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
 "Herman, Cole","Fr",NA,2024,"58","P",NA,455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
-"Hess, Benny","Fr","2953976",2024,"40","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=455&stats_player_seq=2953976",455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
 "Hess, Louie","So","2810308",2024,"20","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=455&stats_player_seq=2810308",455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
+"Hess, Benny","Fr","2953976",2024,"40","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=455&stats_player_seq=2953976",455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
 "Hon, Parker","Fr",NA,2024,"11","P",NA,455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
 "Hudson, Gerard","Jr","2662344",2024,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=455&stats_player_seq=2662344",455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580
 "Jacobs, Wally","Sr",NA,2024,"50","P",NA,455,"Muskingum","/team/455/16580",901,"OAC",3,2024,16580

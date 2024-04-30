@@ -1,10 +1,13 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Alcin, Ronaldhino","Jr","2663977",2024,"41","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2663977",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
+"Austin, Daniel","Fr",NA,2024,"29","OF",NA,1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Battaglia, Joe","Jr","2663994",2024,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2663994",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Bauers, Zach","So","2805368",2024,"24","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2805368",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Benson, Nick","So","2805376",2024,"40","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2805376",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
+"Bernhagen, Zach","Fr",NA,2024,"42","P",NA,1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Bottinger, Brett","Jr","2805232",2024,"9","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2805232",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Brosious, Paulie","So","2805369",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2805369",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
+"Brown, Zach","So",NA,2024,"45","OF",NA,1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Brown, Naaji","So","2805230",2024,"1","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2805230",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Dennis, Zachary","Fr","2958317",2024,"10","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2958317",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Ferguson, Connor","Sr","2486411",2024,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2486411",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
@@ -15,8 +18,8 @@
 "Greenwood, Joe","Sr","2365409",2024,"17","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2365409",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Gutierrez, Mikey","Fr","2958320",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2958320",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Harris, Tyler","Jr","2663974",2024,"25","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2663974",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
-"Hill, Brady","Jr","2663975",2024,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2663975",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Hill, Caden","So","2805375",2024,"4","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2805375",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
+"Hill, Brady","Jr","2663975",2024,"8","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2663975",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Hughes, Evan","So","2805337",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2805337",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Jackson, Dylan","Sr","2805366",2024,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2805366",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Jessup, Greg","So","2805371",2024,"34","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2805371",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
@@ -24,10 +27,11 @@
 "Kennedy, Donald","So","2805235",2024,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2805235",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Nightingale, Tyler","Fr","2958324",2024,"26","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2958324",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Peterson, Isaac","Fr","2958329",2024,"99","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2958329",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
-"Roberts, Josh","Sr","2972493",2024,"7","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2972493",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
+"Roberts, Josh","Sr","2972493",2024,"98","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2972493",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Sariano, Jay","Fr","2958315",2024,"5","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2958315",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Schooley, Eli","Sr","2486417",2024,"30","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2486417",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Schurga, Nathan","Fr","2958322",2024,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2958322",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
+"Spadea, Christian","Fr","2987464",2024,"44","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2987464",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Spadea, Sam","Sr","2350008",2024,"33","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2350008",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Switzer, Gavin","So","2805362",2024,"20","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2805362",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580
 "Tapp, Daniel","Fr","2958331",2024,"43","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1305&stats_player_seq=2958331",1305,"Cairn","/team/1305/16580",21062,"CSAC",3,2024,16580

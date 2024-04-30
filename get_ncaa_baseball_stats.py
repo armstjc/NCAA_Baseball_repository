@@ -70,10 +70,10 @@ def get_season_ncaa_baseball_stats(season: int, division: int):
 
     for i in tqdm(range(count, len_player_id_arr)):
         count += 1
-        #print(f"\n{count}/{len_player_id_arr}")
-        ######################################################################
+        # print(f"\n{count}/{len_player_id_arr}")
+        ###################################
         #  Batting Stats
-        ######################################################################
+        ###################################
         try:
             batting_df = ncaa.ncaa_player_game_logs(
                 player=int(player_id_arr[i]),
@@ -97,7 +97,7 @@ def get_season_ncaa_baseball_stats(season: int, division: int):
                 (batting_df["AB"] != 0) & (batting_df["result"] != "cancelled")
             ]
         except Exception:
-            print("No dataframe to filter.")
+            print("No DataFrame to filter.")
 
         if len(batting_df) > 0:
             batting_df.to_csv(
@@ -108,9 +108,9 @@ def get_season_ncaa_baseball_stats(season: int, division: int):
 
         time.sleep(3.5)
 
-        ######################################################################
+        ###################################
         #  Pitching Stats
-        ######################################################################
+        ###################################
         try:
             pitching_df = ncaa.ncaa_player_game_logs(
                 player=int(player_id_arr[i]),
@@ -129,7 +129,7 @@ def get_season_ncaa_baseball_stats(season: int, division: int):
                 & (pitching_df["pitches"] != 0)
             ]
         except Exception:
-            print("No dataframe to filter.")
+            print("No DataFrame to filter.")
 
         if len(pitching_df) > 0:
             pitching_df.to_csv(
@@ -140,9 +140,9 @@ def get_season_ncaa_baseball_stats(season: int, division: int):
 
         time.sleep(3.5)
 
-        ######################################################################
+        ###################################
         #  Fielding Stats
-        ######################################################################
+        ###################################
         try:
             fielding_df = ncaa.ncaa_player_game_logs(
                 player=int(player_id_arr[i]),
@@ -169,7 +169,7 @@ def get_season_ncaa_baseball_stats(season: int, division: int):
                 | (fielding_df["SBA"] > 0)
             ]
         except Exception:
-            print("No dataframe to filter.")
+            print("No DataFrame to filter.")
 
         if len(fielding_df) > 0:
             fielding_df.to_csv(
@@ -190,4 +190,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

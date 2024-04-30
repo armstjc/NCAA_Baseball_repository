@@ -1,13 +1,13 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Alonso, Nick","So",NA,2024,"1","OF",NA,366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
 "Ballard, Michael","Sr","2306810",2024,"7","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2306810",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
-"Bates, Ethan","Sr","2828783",2024,"16","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2828783",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
+"Bates, Ethan","Sr","2828783",2024,"16","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2828783",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
 "Berch, Thaxton","Jr","2660300",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2660300",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
-"Brodersen, Sam","Sr","2494873",2024,"31","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2494873",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
+"Brodersen, Sam","Sr","2494873",2024,"31","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2494873",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
 "Brown, R.J.","Fr",NA,2024,"51","C",NA,366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
 "Coates, Colton","Fr","2955521",2024,"9","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2955521",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
 "Comeaux, Grant","Fr","2955704",2024,"14","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2955704",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
-"Copeland, Caden","Jr","2660354",2024,"28","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2660354",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
+"Copeland, Caden","Jr","2660354",2024,"28","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2660354",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
 "Corona, Jorge","Sr","2349406",2024,"12","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2349406",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
 "Crabb, Isaac","Sr","2828785",2024,"29","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2828785",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
 "Crider, Nate","Jr","2955653",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2955653",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
@@ -25,7 +25,7 @@
 "LaRocca, Jake","Fr",NA,2024,"21","C",NA,366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
 "Martinez, Greg","Sr","2299469",2024,"36","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2299469",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
 "McConnell, Cole","Sr","2299456",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2299456",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
-"McLeod, Logan","Sr","2299457",2024,"10","SS","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2299457",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
+"McLeod, Logan","Sr","2299457",2024,"10","3B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2299457",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
 "Melby, Will","So",NA,2024,"57","P",NA,366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
 "Myers, Adarius","Sr","2117104",2024,"6","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2117104",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580
 "Nation, Connor","Jr","2955649",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=366&stats_player_seq=2955649",366,"Louisiana Tech","/team/366/16580",24312,"CUSA",1,2024,16580

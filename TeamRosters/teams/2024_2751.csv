@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Aden, Tegan","So",NA,2024,"15","P",NA,2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580
-"Arias, Gabriel","Fr",NA,2024,"17","OF",NA,2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580
+"Arias, Gabriel","Fr","2958162",2024,"17","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=2751&stats_player_seq=2958162",2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580
 "Aufranc, Governor","So","2811873",2024,"25","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=2751&stats_player_seq=2811873",2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580
 "Bergman, Miles","So","2811866",2024,"12","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=2751&stats_player_seq=2811866",2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580
 "Chavez, Gabriel","Fr",NA,2024,"45","INF",NA,2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580
@@ -18,7 +18,7 @@
 "Gonzales, Elijah","Sr","2496772",2024,"54","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=2751&stats_player_seq=2496772",2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580
 "Gushiken, Zaine","Sr","2496777",2024,"59","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=2751&stats_player_seq=2496777",2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580
 "Harmon, Joey","Sr","2496774",2024,"28","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=2751&stats_player_seq=2496774",2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580
-"Hirsh, Isaiah","Fr",NA,2024,"13","P",NA,2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580
+"Hirsh, Isaiah","Fr","2958155",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=2751&stats_player_seq=2958155",2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580
 "Kazahaya, Trevor","Fr","2958166",2024,"18","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=2751&stats_player_seq=2958166",2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580
 "Kim, Adam","Fr",NA,2024,"42","P",NA,2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580
 "Koester, Davis","Sr","2496781",2024,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=2751&stats_player_seq=2496781",2751,"Pacific (OR)","/team/2751/16580",25300,"NWC",3,2024,16580

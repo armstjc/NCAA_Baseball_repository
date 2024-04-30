@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Agosta, Anthony","Jr","2683864",2024,"25","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2683864",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
 "Anzalone, Santo","So","2975755",2024,"31","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2975755",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
-"Bowlin, Mark","So",NA,2024,"12","P",NA,321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
+"Bowlin, Mark","So","2975756",2024,"12","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2975756",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
 "Bowman, Quentin","Sr","2975757",2024,"17","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2975757",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
 "Cherichella, Ryan","So","2975758",2024,"26","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2975758",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
 "Christie, Sajuan","Fr","2975767",2024,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2975767",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
@@ -20,8 +20,8 @@
 "Reyes, Julio","Fr","2975765",2024,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2975765",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
 "Rivera, Dominick","Jr","2975766",2024,"20","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2975766",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
 "Salazar, Isaac","Fr","2975768",2024,"18","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2975768",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
-"Salerno, Joseph","Jr","2683860",2024,"7","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2683860",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
 "Salerno, Thomas","Jr","2683859",2024,"6","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2683859",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
+"Salerno, Joseph","Jr","2683860",2024,"7","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2683860",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
 "Simaan, Ethan","Jr","2683858",2024,"8","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2683858",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
 "Sladky, Fernando","Jr","2683857",2024,"4","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2683857",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580
 "Spallin, John","So","2828179",2024,"13","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=321&stats_player_seq=2828179",321,"John Jay","/team/321/16580",834,"CUNYAC",3,2024,16580

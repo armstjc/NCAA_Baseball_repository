@@ -1,14 +1,14 @@
 library(baseballr)
 library(dplyr)
 library(glue)
-library(dplyr)
 
-seasons = 2023:2023
+
+seasons = 2023:2024
 
 for (s in seasons) {
   print(glue::glue("Donwloading all the play-by-play data for the NCAA Baseball season of {s}"))
-  df = read.csv(glue::glue("{s}_batting_01.csv"))
-  df2 = read.csv(glue::glue("{s}_batting_02.csv"))
+  df = read.csv(glue::glue("game_stats/player/batting_game_stats/csv/{s}_batting_01.csv"))
+  df2 = read.csv(glue::glue("game_stats/player/batting_game_stats/csv/{s}_batting_02.csv"))
   main_df <- union(df,df2)
   game_list = main_df$game_id
   #print(list)

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,1,0,0,03/03/2024,home,16580,810,Wright St.,9,True,7,17,-10,loss,4528451,404,2945144,2024,1
 1,0,1,0,0,0,0,0,0,0,04/02/2024,home,16580,433,Ole Miss,9,True,9,4,5,win,4534687,404,2945144,2024,1
+0,1,1,0,0,0,0,0,0,0,04/27/2024,home,16580,196,East Carolina,9,True,3,14,-11,loss,4539884,404,2945144,2024,1

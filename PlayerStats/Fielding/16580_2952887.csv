@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/16/2024,home,16580,404,Memphis,9,True,6,1,5,win,4531130,474,2952887,2024,1
 1,0,1,0,0,0,1,2,0,0,04/06/2024,away,16580,287,Houston Christian,9,True,1,7,-6,loss,4535456,474,2952887,2024,1
 0,0,1,1,0,0,2,0,0,0,04/20/2024,home,16580,402,McNeese,9,True,6,3,3,win,4538890,474,2952887,2024,1
+1,1,3,1,0,0,1,0,0,0,04/27/2024,home,16580,26172,A&M-Corpus Christi,9,True,6,11,-5,loss,4539890,474,2952887,2024,1

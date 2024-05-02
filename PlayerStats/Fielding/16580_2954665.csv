@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/24/2024,home,16580,6,Alabama A&M,9,True,7,0,7,win,4533187,7,2954665,2024,1
 1,0,1,0,0,0,2,0,0,0,03/30/2024,away,16580,432,Mississippi Val.,9,True,13,6,7,win,4534575,7,2954665,2024,1
 0,0,0,0,0,0,2,0,0,0,04/12/2024,home,16580,61,Bethune-Cookman,9,True,5,4,1,win,4536864,7,2954665,2024,1
+0,0,0,0,0,0,2,0,0,0,04/30/2024,away,16580,716,Troy,9,True,3,12,-9,loss,4540579,7,2954665,2024,1

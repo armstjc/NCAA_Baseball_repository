@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,2,1,0,0,04/14/2024,home,16580,810,Wright St.,9,True,11,16,-5,loss,5245230,505,2490059,2024,1
 0,0,0,0,0,0,1,0,0,0,04/21/2024,away,16580,514,Oakland,10,True,9,10,-1,loss,4538937,505,2490059,2024,1
+0,1,2,1,0,0,2,1,0,0,04/30/2024,away,16580,367,Louisville,9,True,7,11,-4,loss,4540718,505,2490059,2024,1

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,03/28/2024,away,16580,219,Evansville,9,True,2,12,-10,loss,4533776,659,2824121,2024,1
 0,0,1,1,0,0,0,0,0,0,04/17/2024,home,16580,771,Western Ill.,12,True,12,11,1,win,4537894,659,2824121,2024,1
+1,0,1,0,0,0,0,0,0,0,04/28/2024,home,16580,305,Indiana St.,9,True,2,7,-5,loss,4540508,659,2824121,2024,1

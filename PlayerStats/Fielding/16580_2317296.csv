@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,2,0,0,0,0,0,1,0,03/20/2024,away,16580,559,Purdue,14,True,6,5,1,win,4492436,302,2317296,2024,1
 0,0,0,0,0,0,1,0,0,0,04/24/2024,home,16580,503,NIU,9,True,5,4,1,win,4539392,302,2317296,2024,1
+0,1,1,0,0,0,0,0,0,0,04/30/2024,home,16580,509,Northwestern,9,True,3,2,1,win,4492561,302,2317296,2024,1

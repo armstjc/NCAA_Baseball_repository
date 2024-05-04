@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/19/2024,home,16580,107,California,9,True,3,11,-8,loss,4531890,629,2494400,2024,1
 0,1,1,0,0,0,0,0,0,0,04/07/2024,away,16580,541,Pepperdine,9,True,3,6,-3,loss,4535896,629,2494400,2024,1
+0,0,0,0,0,0,1,0,0,0,05/02/2024,away,16580,551,Portland,9,True,3,7,-4,loss,4540817,629,2494400,2024,1

@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,0,0,0,04/07/2024,neutral,16580,174,Davis & Elkins,8,True,33,8,25,win,4536109,1028,2657660,2024,2
+0,1,1,0,0,0,0,0,0,0,04/26/2024,away,16580,1013,Charleston (WV),9,True,0,6,-6,loss,5285148,1028,2657660,2024,2
+1,1,2,0,0,0,0,0,0,0,04/28/2024,away,16580,1013,Charleston (WV),9,True,1,2,-1,loss,4540543,1028,2657660,2024,2
+1,2,3,0,0,0,0,0,0,0,04/28/2024,away,16580,1013,Charleston (WV),9,True,4,10,-6,loss,4546401,1028,2657660,2024,2
+1,1,2,0,0,0,0,0,0,0,05/03/2024,home,16580,1098,Glenville St.,9,True,6,1,5,win,4540953,1028,2657660,2024,2
+1,2,3,0,0,0,0,0,1,0,05/03/2024,home,16580,1098,Glenville St.,9,True,5,2,3,win,4545893,1028,2657660,2024,2

@@ -7,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/10/2024,away,16580,30178,Northwestern Okla.,9,True,9,12,-3,loss,5252817,30152,2946618,2024,2
 0,1,1,0,0,0,0,0,0,0,03/19/2024,away,16580,0,Mid-Amer. Christian,9,True,0,9,-9,loss,5254537,30152,2946618,2024,2
 1,1,2,0,0,0,1,0,0,0,03/23/2024,home,16580,8411,Ark.-Monticello,9,True,9,8,1,win,4532819,30152,2946618,2024,2
+0,0,0,0,0,0,1,1,0,0,04/28/2024,away,16580,30202,Okla. Baptist,9,True,1,13,-12,loss,5285564,30152,2946618,2024,2

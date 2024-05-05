@@ -10,3 +10,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,8,0,0,0,04/05/2024,away,16580,9223,North Greenville,9,True,4,12,-8,loss,5281186,2683,2475175,2024,2
 0,1,1,0,0,0,1,0,0,0,04/13/2024,home,16580,537,UNC Pembroke,9,True,8,14,-6,loss,4545954,2683,2475175,2024,2
 0,0,0,0,0,0,5,0,0,0,04/20/2024,away,16580,1245,Mount Olive,9,True,4,6,-2,loss,4545390,2683,2475175,2024,2
+1,0,1,0,0,0,0,0,0,0,05/03/2024,neutral,16580,1245,Mount Olive,9,True,15,4,11,win,5288994,2683,2475175,2024,2

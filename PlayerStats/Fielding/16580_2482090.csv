@@ -40,3 +40,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,4,6,0,0,0,0,0,1,0,04/26/2024,away,16580,725,Army West Point,9,True,0,1,-1,loss,4539791,726,2482090,2024,1
 4,1,5,0,0,0,0,0,1,0,04/27/2024,away,16580,725,Army West Point,9,True,2,0,2,win,4540255,726,2482090,2024,1
 0,2,2,0,0,0,0,0,0,0,04/28/2024,away,16580,725,Army West Point,9,True,6,7,-1,loss,5285535,726,2482090,2024,1
+2,2,4,0,0,0,0,0,2,0,05/01/2024,away,16580,746,Virginia,9,True,0,10,-10,loss,4540750,726,2482090,2024,1

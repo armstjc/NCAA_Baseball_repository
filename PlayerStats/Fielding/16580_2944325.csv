@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,03/30/2024,home,16580,384,Mansfield,9,True,2,1,1,win,4534298,197,2944325,2024,2
 0,2,2,0,0,0,1,0,0,0,04/14/2024,away,16580,423,Millersville,9,True,1,2,-1,loss,5282565,197,2944325,2024,2
 0,1,1,0,0,0,0,0,0,0,04/21/2024,away,16580,65,Bloomsburg,9,True,5,3,2,win,5283685,197,2944325,2024,2
+0,1,1,0,0,0,0,1,0,0,04/27/2024,away,16580,765,West Chester,9,True,1,2,-1,loss,4540019,197,2944325,2024,2

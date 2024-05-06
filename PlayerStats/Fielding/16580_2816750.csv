@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/22/2024,away,16580,1318,Post,9,True,9,3,6,win,5254952,23157,2816750,2024,2
 3,0,3,0,0,0,0,0,0,0,03/26/2024,home,16580,1126,Holy Family,9,True,7,0,7,win,4544629,23157,2816750,2024,2
+2,0,2,0,0,0,0,0,0,0,04/28/2024,away,16580,21323,Chestnut Hill,9,True,3,2,1,win,4546297,23157,2816750,2024,2
+5,0,5,0,0,0,0,0,0,0,04/30/2024,away,16580,533,Pace,9,True,1,0,1,win,4540600,23157,2816750,2024,2
+1,0,1,0,0,0,0,0,0,0,05/03/2024,home,16580,995,Caldwell,9,True,13,1,12,win,5285982,23157,2816750,2024,2

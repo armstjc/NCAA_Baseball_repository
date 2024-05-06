@@ -1,2 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,2.0,0.0,1,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,26,2,3,0,0,0,2,0,0,03/09/2024,away,16580,767,West Tex. A&M,9,True,2,6,-4,loss,4529898,996,2959241,2024,2
+1,0,1.0,0.0,3,3,3,0,0,0,6,5,1,0,0,0,0,1,0,2,0,0,0,22,1,1,0,0,0,2,0,0,04/23/2024,away,16580,8744,Southwestern Okla.,9,True,8,12,-4,loss,4530330,996,2959241,2024,2
+1,0,0.1,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,2,1,0,0,0,1,6,0,0,04/28/2024,away,16580,1346,St. Mary's (TX),11,True,9,8,1,win,4540493,996,2959241,2024,2

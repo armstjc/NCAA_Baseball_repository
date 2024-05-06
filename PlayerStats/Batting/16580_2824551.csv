@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/27/2024,home,16580,12799,Wheeling,9,True,3,12,-9,loss,4533427,30119,2824551,2024,2
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/30/2024,away,16580,1402,Thomas More,9,True,14,4,10,win,4534285,30119,2824551,2024,2
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/28/2024,home,16580,510,Northwood,9,True,4,11,-7,loss,4546296,30119,2824551,2024,2

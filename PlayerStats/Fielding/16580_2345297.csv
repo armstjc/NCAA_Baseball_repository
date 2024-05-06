@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,03/30/2024,home,16580,65,Bloomsburg,9,True,1,6,-5,loss,4543735,339,2345297,2024,2
 0,1,1,0,0,0,0,1,0,0,04/07/2024,home,16580,360,Lock Haven,9,True,11,17,-6,loss,5281550,339,2345297,2024,2
 0,0,1,1,0,0,2,0,0,0,04/14/2024,away,16580,10870,Shepherd,9,True,8,9,-1,loss,5282666,339,2345297,2024,2
+1,0,2,1,0,0,0,0,0,0,05/02/2024,neutral,16580,197,East Stroudsburg,9,True,5,13,-8,loss,4540829,339,2345297,2024,2

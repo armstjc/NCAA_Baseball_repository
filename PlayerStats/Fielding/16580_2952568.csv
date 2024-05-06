@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/26/2024,away,16580,39,Augusta,9,True,7,12,-5,loss,4533522,11276,2952568,2024,2
 0,1,1,0,0,0,0,0,0,0,04/09/2024,home,16580,1085,Francis Marion,9,True,1,6,-5,loss,4536353,11276,2952568,2024,2
+0,1,1,0,0,0,0,0,0,0,04/28/2024,home,16580,30259,USC Beaufort,9,True,5,3,2,win,4540488,11276,2952568,2024,2

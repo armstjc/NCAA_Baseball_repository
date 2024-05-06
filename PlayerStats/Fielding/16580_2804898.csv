@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 2,0,2,0,0,0,0,0,0,0,03/01/2024,home,16580,554,Princeton,9,True,12,2,10,win,4527959,457,2804898,2024,1
 0,0,1,1,0,0,0,0,0,0,03/13/2024,home,16580,587,Rutgers,9,True,9,8,1,win,5015852,457,2804898,2024,1
+2,0,2,0,0,0,0,0,0,0,05/01/2024,home,16580,786,William & Mary,9,True,19,2,17,win,4540804,457,2804898,2024,1

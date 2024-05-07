@@ -1,2 +1,9 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/10/2024,away,16580,1167,Lander,9,True,5,19,-14,loss,5245166,1176,2670375,2024,2
+1,0,1,0,0,0,0,0,0,0,03/10/2024,neutral,16580,468,Southern N.H.,9,True,10,13,-3,loss,4529317,1348,2815793,2024,2
+0,0,0,0,0,0,1,0,0,0,03/19/2024,away,16580,65,Bloomsburg,9,True,2,3,-1,loss,4531971,1348,2815793,2024,2
+0,1,1,0,0,0,1,0,0,0,03/24/2024,away,16580,197,East Stroudsburg,9,True,1,10,-9,loss,5255359,1348,2815793,2024,2
+1,0,1,0,0,0,0,0,0,0,04/06/2024,home,16580,675,Staten Island,9,True,10,6,4,win,5281384,1348,2815793,2024,2
+0,0,0,0,0,0,3,0,0,0,04/14/2024,home,16580,1059,D'Youville,9,True,8,12,-4,loss,4536807,1348,2815793,2024,2
+0,0,0,0,0,0,1,0,0,0,04/19/2024,away,16580,560,Queens (NY),11,True,3,4,-1,loss,4538259,1348,2815793,2024,2
+0,0,0,0,0,0,1,0,0,0,04/27/2024,away,16580,407,Mercy,9,True,6,4,2,win,4545115,1348,2815793,2024,2
+1,0,1,0,0,0,0,1,0,0,05/03/2024,away,16580,357,Lincoln (PA),9,True,4,3,1,win,5289011,1348,2815793,2024,2

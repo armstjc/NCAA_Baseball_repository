@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/04/2024,home,16580,2683,Belmont Abbey,9,True,2,19,-17,loss,4527992,1085,2947791,2024,2
 0,0,1,1,0,0,0,0,0,0,03/12/2024,away,16580,1167,Lander,9,True,7,24,-17,loss,4530517,1085,2947791,2024,2
+4,0,5,1,0,0,0,0,0,0,04/27/2024,home,16580,1245,Mount Olive,9,True,6,11,-5,loss,4545739,1085,2947791,2024,2

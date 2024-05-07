@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/23/2024,home,16580,474,New Orleans,9,True,10,3,7,win,4539344,314,2679692,2024,1
 0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/27/2024,home,16580,228,Florida A&M,9,True,5,3,2,win,4540267,314,2679692,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/05/2024,away,16580,432,Mississippi Val.,9,True,22,3,19,win,4541043,314,2679692,2024,1
+0,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,05/05/2024,away,16580,432,Mississippi Val.,9,True,7,4,3,win,4541298,314,2679692,2024,1

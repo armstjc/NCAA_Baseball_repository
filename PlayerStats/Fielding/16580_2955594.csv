@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,0,2,0,0,0,0,0,0,0,03/15/2024,home,16580,1267,Northland,9,True,3,1,2,win,5253692,799,2955594,2024,2
 1,1,2,0,0,0,0,0,0,0,03/23/2024,neutral,16580,262,Grand Valley St.,9,True,1,12,-11,loss,5255151,799,2955594,2024,2
 0,0,1,1,0,0,0,1,0,0,04/20/2024,home,16580,30221,Davenport,9,True,8,19,-11,loss,4545391,799,2955594,2024,2
+0,0,0,0,0,0,1,0,0,0,05/05/2024,away,16580,591,Saginaw Valley,9,True,1,7,-6,loss,4541525,799,2955594,2024,2

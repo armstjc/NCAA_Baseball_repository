@@ -1,4 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,02/18/2024,neutral,16580,8366,Goldey-Beacom,9,True,0,10,-10,loss,4526251,1347,2828388,2024,2
-4,0,4,0,0,0,0,0,0,0,03/03/2024,neutral,16580,9630,West Va. Wesleyan,9,True,4,12,-8,loss,4527859,1347,2828388,2024,2
-1,0,1,0,0,0,0,0,0,0,03/10/2024,neutral,16580,1059,D'Youville,9,True,5,10,-5,loss,5251630,1347,2828388,2024,2
+0,0,0,0,0,0,1,0,0,0,03/01/2024,home,16580,21323,Chestnut Hill,9,True,6,0,6,win,4527912,1347,2965073,2024,2
+0,2,2,0,0,0,0,0,0,0,03/29/2024,home,16580,658,Southern Conn. St.,9,True,19,14,5,win,5256108,1347,2965073,2024,2
+0,1,1,0,0,0,1,0,0,0,04/07/2024,away,16580,470,New Haven,9,True,6,10,-4,loss,4536009,1347,2965073,2024,2
+1,0,1,0,0,0,0,0,0,0,04/14/2024,away,16580,593,St. Anselm,9,True,14,8,6,win,4546273,1347,2965073,2024,2

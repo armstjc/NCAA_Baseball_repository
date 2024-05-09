@@ -1,4 +1,5 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,0.1,0.0,1,2,1,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,2,0,0,04/20/2024,away,16580,1176,Lincoln Memorial,9,True,4,12,-8,loss,4546120,1257,2321384,2024,2
 1,0,1.0,0.0,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,15,3,0,0,0,0,5,0,0,05/01/2024,away,16580,1096,Georgia College,9,True,2,3,-1,loss,4540793,1257,2321384,2024,2
-1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,2,0,0,05/03/2024,away,16580,1462,Wingate,9,True,18,6,12,win,5286037,1257,2321384,2024,2
+1,0,0.1,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0,0,7,0,0,0,0,0,2,0,0,05/03/2024,neutral,16580,1462,Wingate,9,True,18,6,12,win,5286037,1257,2321384,2024,2
+1,1,1.0,0.0,3,3,2,1,0,0,8,6,0,0,0,0,0,0,0,0,0,0,1,25,1,1,0,0,0,1,0,1,05/05/2024,away,16580,1462,Wingate,9,True,6,7,-1,loss,5289494,1257,2321384,2024,2

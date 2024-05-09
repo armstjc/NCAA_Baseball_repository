@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,0,4,0,0,0,0,0,0,0,04/23/2024,away,16580,660,SIUE,9,True,3,3,0,tie,4539362,72,2678340,2024,1
 1,0,1,0,0,0,0,0,0,0,04/30/2024,away,16580,771,Western Ill.,9,True,16,1,15,win,4540666,72,2678340,2024,1
+2,0,2,0,0,0,0,0,0,0,05/05/2024,home,16580,302,UIC,9,True,3,9,-6,loss,4541424,72,2678340,2024,1

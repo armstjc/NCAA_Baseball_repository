@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,02/25/2024,home,16580,78,SUNY Brockport,9,True,12,2,10,win,4527359,329,2510641,2024,3
 0,0,0,0,0,0,1,0,0,0,04/20/2024,away,16580,712,TCNJ,9,True,6,3,3,win,4545695,329,2510641,2024,3
+0,0,0,0,0,0,1,0,0,0,04/27/2024,home,16580,589,Rutgers-Newark,14,True,10,9,1,win,4545433,329,2510641,2024,3

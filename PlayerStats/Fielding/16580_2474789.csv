@@ -31,3 +31,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,05/02/2024,away,16580,67,Boston College,9,True,12,7,5,win,4540821,367,2474789,2024,1
 2,0,2,0,0,0,0,0,0,0,05/03/2024,away,16580,67,Boston College,9,True,3,0,3,win,4540921,367,2474789,2024,1
 2,0,2,0,0,0,0,0,0,0,05/04/2024,away,16580,67,Boston College,9,True,5,3,2,win,4541166,367,2474789,2024,1
+0,1,2,1,0,0,0,0,0,0,05/07/2024,away,16580,736,Vanderbilt,9,True,2,4,-2,loss,4541576,367,2474789,2024,1

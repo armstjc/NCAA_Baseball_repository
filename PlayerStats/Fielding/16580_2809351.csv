@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/18/2024,home,16580,334,Kentucky,9,True,3,9,-6,loss,4526105,10411,2809351,2024,1
 0,0,0,0,0,0,1,0,0,0,03/05/2024,away,16580,149,Coastal Carolina,9,True,8,14,-6,loss,4528802,10411,2809351,2024,1
+0,1,1,0,0,0,0,0,0,0,05/05/2024,home,16580,19651,High Point,9,True,7,13,-6,loss,4541441,10411,2809351,2024,1

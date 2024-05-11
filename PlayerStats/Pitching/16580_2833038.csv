@@ -1,4 +1,4 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,1,5.0,0.0,3,0,0,1,1,0,20,18,0,0,0,0,0,1,0,0,0,0,0,74,4,10,1,0,0,1,0,0,02/24/2024,neutral,16580,278,Heidelberg,9,True,11,4,7,win,5249423,348,2833038,2024,3
 1,1,2.0,0.0,9,8,7,0,1,0,17,15,2,0,0,1,1,1,0,0,0,0,1,46,3,1,0,1,0,1,0,1,04/13/2024,away,16580,137,UChicago,9,True,4,13,-9,loss,4545480,348,2833038,2024,3
-1,1,4.2,0.0,4,3,2,2,2,0,18,16,0,0,0,0,0,0,0,0,0,0,0,90,5,5,1,0,0,1,2,0,04/16/2024,away,16580,53,Beloit,9,True,10,4,6,win,4537770,348,2833038,2024,3
+1,1,5.0,0.0,4,1,0,0,2,0,20,19,0,0,0,0,0,0,0,0,0,1,0,69,11,2,0,0,0,1,0,0,05/01/2024,away,16580,577,Ripon,9,True,3,4,-1,loss,4536426,348,2833038,2024,3

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,04/10/2024,home,16580,805,Wis.-Whitewater,9,True,1,14,-13,loss,4545902,800,2669794,2024,3
 2,0,2,0,0,0,0,0,0,0,04/12/2024,away,16580,1066,Edgewood,9,True,13,3,10,win,4536664,800,2669794,2024,3
+2,0,2,0,0,0,0,0,0,0,04/30/2024,away,16580,750,Wartburg,9,True,10,5,5,win,5288636,800,2669794,2024,3

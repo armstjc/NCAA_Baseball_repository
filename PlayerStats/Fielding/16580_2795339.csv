@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 3,0,3,0,0,0,0,0,0,0,03/15/2024,away,16580,22235,Lewis & Clark,9,True,1,12,-11,loss,4530892,737,2795339,2024,3
 8,0,8,0,0,1,2,0,0,0,03/16/2024,away,16580,22235,Lewis & Clark,9,True,6,11,-5,loss,4542831,737,2795339,2024,3
+4,0,4,0,0,0,1,0,0,0,04/24/2024,home,16580,451,UMSV,9,True,9,10,-1,loss,4539390,737,2795339,2024,3

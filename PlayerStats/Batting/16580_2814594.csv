@@ -1,2 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/13/2024,home,16580,53,Beloit,9,True,2,20,-18,loss,4545746,297,2814594,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,04/21/2024,home,16580,166,Cornell College,9,True,1,12,-11,loss,4539015,297,2814594,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/27/2024,away,16580,348,Lawrence,9,True,3,10,-7,loss,4545608,297,2814594,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,05/05/2024,away,16580,264,Grinnell,9,True,2,4,-2,loss,4541267,297,2814594,2024,3

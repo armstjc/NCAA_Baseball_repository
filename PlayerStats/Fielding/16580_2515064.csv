@@ -1,3 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/18/2024,neutral,16580,24,Amherst,9,True,11,7,4,win,4531809,802,2515064,2024,3
 1,0,1,0,0,0,0,0,0,0,04/14/2024,away,16580,803,Wis.-Stout,9,True,6,7,-1,loss,4537544,802,2515064,2024,3
+1,1,2,0,0,0,0,0,0,0,04/23/2024,home,16580,348,Lawrence,10,True,16,17,-1,loss,4539230,802,2515064,2024,3
+0,1,1,0,0,0,2,1,0,0,04/30/2024,home,16580,577,Ripon,9,True,9,12,-3,loss,4540632,802,2515064,2024,3
+0,1,1,0,0,0,1,1,0,0,05/04/2024,away,16580,805,Wis.-Whitewater,9,True,10,7,3,win,4546323,802,2515064,2024,3

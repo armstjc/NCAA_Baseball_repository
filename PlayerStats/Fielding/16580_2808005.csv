@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,1,0,0,03/24/2024,home,16580,1196,Marian (WI),9,True,2,10,-8,loss,4532689,30172,2808005,2024,3
+0,0,0,0,0,0,2,0,0,0,04/24/2024,away,16580,160,Concordia Chicago,9,True,7,11,-4,loss,4545829,30172,2808005,2024,3
+0,0,0,0,0,0,2,0,0,0,05/03/2024,home,16580,1332,Dominican (IL),9,True,8,5,3,win,4546043,30172,2808005,2024,3

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/09/2024,neutral,16580,177,DePauw,9,True,3,13,-10,loss,5252515,1192,2827649,2024,3
 3,0,3,0,0,0,0,0,0,0,04/12/2024,home,16580,1115,Hanover,9,True,3,18,-15,loss,4536596,1192,2827649,2024,3
+5,0,5,0,0,0,0,0,0,0,04/21/2024,away,16580,747,Wabash,9,True,11,6,5,win,4539057,1192,2827649,2024,3

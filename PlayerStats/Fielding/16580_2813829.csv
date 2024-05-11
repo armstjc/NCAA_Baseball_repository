@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/24/2024,home,16580,300,Ill. Wesleyan,9,True,8,5,3,win,4533172,747,2813829,2024,3
 0,0,1,1,0,0,1,1,0,0,04/06/2024,home,16580,30243,Asbury,9,True,4,5,-1,loss,4544860,747,2813829,2024,3
+0,2,2,0,0,0,0,2,0,0,04/21/2024,home,16580,1192,Manchester,9,True,6,1,5,win,5283181,747,2813829,2024,3

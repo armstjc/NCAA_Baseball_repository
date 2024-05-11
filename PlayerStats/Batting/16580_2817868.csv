@@ -1,0 +1,5 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/27/2024,home,16580,105,Cal Lutheran,9,True,6,0,6,win,4545596,785,2817868,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/28/2024,home,16580,105,Cal Lutheran,9,True,6,10,-4,loss,4540447,785,2817868,2024,3
+3,2,1,0,0,1,0,0,1,2,0,0,0,0,0,0,0,0,0,05/05/2024,home,16580,780,Whitman,9,True,16,7,9,win,4546447,785,2817868,2024,3
+3,3,2,0,0,5,1,1,0,1,0,0,0,0,0,0,0,0,0,05/06/2024,home,16580,780,Whitman,9,True,9,2,7,win,4541497,785,2817868,2024,3

@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,0,1,0,0,0,0,0,0,0,04/27/2024,away,16580,152,Colby-Sawyer,9,True,18,8,10,win,4540035,18422,2677214,2024,3
+2,0,2,0,0,0,0,0,0,0,04/28/2024,away,16580,467,New England Col.,9,True,8,5,3,win,5285522,18422,2677214,2024,3
+2,0,2,0,0,0,0,0,0,0,04/28/2024,away,16580,467,New England Col.,9,True,16,5,11,win,4545664,18422,2677214,2024,3

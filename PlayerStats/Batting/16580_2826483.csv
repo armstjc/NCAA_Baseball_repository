@@ -1,2 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/23/2024,away,16580,621,Salem St.,9,True,1,16,-15,loss,5284270,238,2826483,2024,3
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,04/30/2024,away,16580,272,Hartford,9,True,1,14,-13,loss,4540561,238,2826483,2024,3

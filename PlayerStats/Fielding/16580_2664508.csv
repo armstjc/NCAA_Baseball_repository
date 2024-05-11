@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/11/2024,neutral,16580,221,FDU-Florham,9,True,6,3,3,win,4530266,24317,2664508,2024,3
 0,1,1,0,0,0,0,0,0,0,04/17/2024,home,16580,170,Curry,9,True,7,3,4,win,4537926,24317,2664508,2024,3
+0,0,0,0,0,0,1,0,0,0,04/30/2024,away,16580,30219,Dean,9,True,4,13,-9,loss,4540606,24317,2664508,2024,3
+0,1,1,0,0,0,0,0,0,0,05/04/2024,away,16580,30065,VTSU Lyndon,9,True,4,7,-3,loss,4546516,24317,2664508,2024,3

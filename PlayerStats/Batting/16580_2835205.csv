@@ -1,0 +1,3 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,04/23/2024,home,16580,1468,Mt. St. Mary (NY),9,True,23,5,18,win,4539216,397,2835205,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/25/2024,home,16580,382,Manhattanville,9,True,20,0,20,win,4537961,397,2835205,2024,3

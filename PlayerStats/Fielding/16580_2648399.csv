@@ -1,7 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 5,0,5,0,0,0,0,0,0,0,03/04/2024,neutral,16580,30085,Lancaster Bible,9,True,3,12,-9,loss,4528774,30084,2648399,2024,3
 0,1,1,0,0,0,0,0,0,0,03/05/2024,neutral,16580,30166,Valley Forge,9,True,8,7,1,win,4528874,30084,2648399,2024,3
-0,1,1,0,0,0,0,0,0,0,03/06/2024,neutral,16580,8398,Hilbert,9,True,9,10,-1,loss,4529067,30084,2648399,2024,3
 8,0,9,1,0,0,0,0,0,0,03/08/2024,neutral,16580,30166,Valley Forge,9,True,3,10,-7,loss,4529340,30084,2648399,2024,3
 0,1,1,0,0,0,0,1,0,0,03/11/2024,neutral,16580,761,Wells,9,True,5,3,2,win,4543194,30084,2648399,2024,3
 6,0,6,0,0,0,0,0,1,0,03/14/2024,away,16580,0,Penn St.-New Kens.,9,True,11,14,-3,loss,5282034,30084,2648399,2024,3
@@ -16,3 +15,7 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,1,0,0,0,04/20/2024,home,16580,1451,Westminster (PA),9,True,6,10,-4,loss,4546117,30084,2648399,2024,3
 7,0,7,0,0,0,0,0,1,0,04/23/2024,home,16580,30064,Saint Vincent,9,True,9,3,6,win,4539248,30084,2648399,2024,3
 7,2,10,1,0,0,0,0,0,0,04/23/2024,home,16580,30064,Saint Vincent,9,True,4,13,-9,loss,4545239,30084,2648399,2024,3
+8,0,8,0,0,0,0,0,0,0,04/27/2024,home,16580,59,Bethany (WV),9,True,8,0,8,win,4540177,30084,2648399,2024,3
+5,1,6,0,0,0,0,0,1,0,04/27/2024,home,16580,59,Bethany (WV),9,True,6,7,-1,loss,4545843,30084,2648399,2024,3
+8,1,10,1,0,0,0,0,2,0,04/29/2024,home,16580,10972,Chatham,9,True,9,11,-2,loss,4534976,30084,2648399,2024,3
+0,1,1,0,0,0,1,0,0,0,04/29/2024,home,16580,10972,Chatham,9,True,12,10,2,win,4542592,30084,2648399,2024,3

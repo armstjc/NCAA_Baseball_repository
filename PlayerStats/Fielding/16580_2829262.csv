@@ -4,3 +4,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/06/2024,home,16580,297,Illinois Col.,9,True,15,5,10,win,4544371,577,2829262,2024,3
 0,1,1,0,0,0,0,0,0,0,04/16/2024,home,16580,137,UChicago,9,True,3,5,-2,loss,4545202,577,2829262,2024,3
 0,1,1,0,0,0,4,1,0,0,04/23/2024,home,16580,805,Wis.-Whitewater,9,True,7,18,-11,loss,4539158,577,2829262,2024,3
+0,0,0,0,0,0,1,0,0,0,04/30/2024,away,16580,802,Wis.-Stevens Point,9,True,12,9,3,win,4540632,577,2829262,2024,3

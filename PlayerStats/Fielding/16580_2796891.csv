@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,3,0,0,0,02/16/2024,away,16580,8404,Hood,9,True,0,6,-6,loss,5246684,213,2796891,2024,3
 0,0,0,0,0,0,1,0,0,0,03/13/2024,away,16580,784,Wilkes,9,True,9,13,-4,loss,4530676,213,2796891,2024,3
+0,0,0,0,0,0,1,0,0,0,04/21/2024,away,16580,11036,Russell Sage,9,True,6,20,-14,loss,4538919,213,2796891,2024,3
+0,0,0,0,0,0,1,0,0,0,04/28/2024,home,16580,733,Utica,9,True,3,17,-14,loss,4545730,213,2796891,2024,3

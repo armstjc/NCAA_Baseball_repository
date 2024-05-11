@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,4,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,03/14/2024,neutral,16580,376,Macalester,9,True,9,19,-10,loss,5020603,1066,2489258,2024,3
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/12/2024,home,16580,800,Wis.-Platteville,9,True,3,13,-10,loss,4536664,1066,2489258,2024,3
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,05/03/2024,home,16580,614,St. Norbert,8,True,17,16,1,win,4540964,1066,2489258,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/03/2024,home,16580,614,St. Norbert,9,True,12,5,7,win,4546035,1066,2489258,2024,3

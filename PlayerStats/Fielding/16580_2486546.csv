@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 4,0,4,0,0,0,0,0,0,0,03/03/2024,neutral,16580,938,Alvernia,9,True,0,4,-4,loss,4544582,281,2486546,2024,3
 1,0,1,0,0,0,0,0,0,0,03/05/2024,neutral,16580,582,Rockford,9,True,7,6,1,win,4528871,281,2486546,2024,3
+2,0,2,0,0,0,0,0,0,0,04/22/2024,away,16580,538,Penn St.-Behrend,9,True,3,9,-6,loss,5284110,281,2486546,2024,3
+6,0,6,0,0,0,0,0,0,0,04/27/2024,home,16580,807,Wooster,9,True,4,3,1,win,4540106,281,2486546,2024,3
+3,0,3,0,0,0,0,0,0,0,04/27/2024,home,16580,807,Wooster,9,True,5,10,-5,loss,4545588,281,2486546,2024,3
+3,1,4,0,0,0,0,0,0,0,04/30/2024,home,16580,335,Kenyon,9,True,2,10,-8,loss,4540649,281,2486546,2024,3

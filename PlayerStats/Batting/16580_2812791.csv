@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/16/2024,away,16580,30160,Houghton,9,True,0,12,-12,loss,4544603,8398,2812791,2024,3
 0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/26/2024,neutral,16580,30165,SUNY Canton,9,True,11,1,10,win,5254895,8398,2812791,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,05/01/2024,home,16580,19,Allegheny,9,True,6,12,-6,loss,5283095,8398,2812791,2024,3

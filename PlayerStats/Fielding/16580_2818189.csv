@@ -1,3 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/30/2024,away,16580,798,Wis.-Oshkosh,9,True,2,12,-10,loss,4534270,793,2818189,2024,3
 3,1,5,1,0,0,3,1,0,0,04/14/2024,home,16580,805,Wis.-Whitewater,9,True,7,14,-7,loss,4546272,793,2818189,2024,3
+4,2,6,0,0,0,1,0,1,0,04/24/2024,away,16580,1267,Northland,9,True,8,6,2,win,4545833,793,2818189,2024,3
+1,0,1,0,0,0,0,0,0,0,04/27/2024,home,16580,800,Wis.-Platteville,9,True,2,9,-7,loss,4540004,793,2818189,2024,3
+1,0,1,0,0,0,0,0,0,0,05/01/2024,home,16580,800,Wis.-Platteville,9,True,6,16,-10,loss,4540401,793,2818189,2024,3
+1,1,2,0,0,0,3,0,0,0,05/03/2024,home,16580,795,Wis.-La Crosse,9,True,1,11,-10,loss,4540969,793,2818189,2024,3

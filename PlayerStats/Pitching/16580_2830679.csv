@@ -1,3 +1,6 @@
 App,GS,IP,CG,H,R,ER,BB,SO,SHO,BF,P-OAB,2B-A,3B-A,Bk,HR-A,WP,HB,IBB,Inh Run,Inh Run Score,SHA,SFA,pitches,GO,FO,W,L,SV,OrdAppeared,KL,pickoffs,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,0.2,0.0,5,6,6,0,0,0,8,7,2,0,2,0,0,1,0,0,0,0,0,24,0,2,0,0,0,2,0,0,03/18/2024,home,16580,1064,Eastern Nazarene,9,True,13,14,-1,loss,4531821,170,2830679,2024,3
 1,1,5.2,0.0,8,3,3,1,0,0,24,23,1,0,0,2,0,0,0,0,0,0,0,60,6,9,0,0,0,1,0,0,04/13/2024,home,16580,571,Rhode Island Col.,9,True,6,8,-2,loss,4545504,170,2830679,2024,3
+1,1,2.2,0.0,7,7,2,0,3,0,22,18,2,0,0,0,0,4,0,0,0,0,0,74,2,3,0,1,0,1,0,0,04/23/2024,home,16580,583,Roger Williams,9,True,6,20,-14,loss,4539229,170,2830679,2024,3
+1,1,6.1,0.0,5,3,2,4,2,0,27,23,0,1,0,0,0,0,0,0,0,0,0,93,7,8,0,0,0,1,0,0,04/30/2024,home,16580,762,Wentworth,9,True,3,10,-7,loss,4540671,170,2830679,2024,3
+1,0,1.1,0.0,4,6,5,2,1,0,11,7,1,0,0,0,1,1,0,0,0,0,1,30,0,3,0,0,0,2,0,0,05/04/2024,away,16580,1099,Gordon,9,True,9,12,-3,loss,4541272,170,2830679,2024,3

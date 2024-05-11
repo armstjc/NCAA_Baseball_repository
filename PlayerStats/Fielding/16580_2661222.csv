@@ -1,7 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,0,0,0,0,02/23/2024,away,16580,751,Wash. & Jeff.,9,True,7,5,2,win,4527153,122,2661222,2024,3
-0,0,0,0,0,0,1,0,0,0,03/02/2024,away,16580,807,Wooster,9,True,6,13,-7,loss,4543289,122,2661222,2024,3
 1,0,1,0,0,0,0,0,0,0,03/11/2024,neutral,16580,686,Swarthmore,9,True,8,9,-1,loss,4530286,122,2661222,2024,3
 0,1,1,0,0,0,0,0,0,0,03/15/2024,neutral,16580,530,Oswego St.,9,True,19,1,18,win,4530917,122,2661222,2024,3
 0,1,1,0,0,0,0,0,0,0,03/31/2024,away,16580,217,Emory,9,True,18,6,12,win,4534577,122,2661222,2024,3
 0,1,1,0,0,0,1,0,0,0,04/13/2024,home,16580,335,Kenyon,9,True,5,1,4,win,4545776,122,2661222,2024,3
+0,0,0,0,0,0,1,0,0,0,04/21/2024,away,16580,479,NYU,9,True,10,5,5,win,4538938,122,2661222,2024,3
+0,0,0,0,0,0,1,0,0,0,04/28/2024,home,16580,755,WashU,9,True,12,11,1,win,4540410,122,2661222,2024,3

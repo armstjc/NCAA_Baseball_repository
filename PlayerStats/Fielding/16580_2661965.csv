@@ -1,2 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,03/19/2024,home,16580,22989,Lyon,10,True,9,6,3,win,4532038,8490,2661965,2024,3
+0,0,0,0,0,0,1,0,0,0,04/19/2024,home,16580,271,Hardin-Simmons,9,True,1,4,-3,loss,4538223,8490,2661965,2024,3
+0,0,0,0,0,0,1,0,0,0,04/23/2024,away,16580,426,Millsaps,9,True,8,7,1,win,5253545,8490,2661965,2024,3
+0,1,1,0,0,0,0,0,0,0,04/27/2024,home,16580,23121,Texas-Dallas,9,True,4,9,-5,loss,4545256,8490,2661965,2024,3

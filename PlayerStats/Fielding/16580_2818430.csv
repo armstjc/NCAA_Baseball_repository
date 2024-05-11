@@ -1,2 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,1,0,0,0,04/06/2024,home,16580,549,Pomona-Pitzer,9,True,11,6,5,win,4544554,341,2818430,2024,3
+0,2,2,0,0,0,0,0,0,0,04/20/2024,home,16580,134,Chapman,9,True,7,5,2,win,4545689,341,2818430,2024,3
+0,0,0,0,0,0,2,0,0,0,04/24/2024,away,16580,0,Master's,9,True,16,6,10,win,5289315,341,2818430,2024,3

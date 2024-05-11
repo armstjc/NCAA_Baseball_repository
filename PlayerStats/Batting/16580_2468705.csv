@@ -1,3 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/09/2024,away,16580,8746,Southwestern (TX),9,True,6,9,-3,loss,4529818,8490,2468705,2024,3
 0,3,1,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,04/16/2024,away,16580,125,Centenary (LA),9,True,4,13,-9,loss,4536192,8490,2468705,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/19/2024,home,16580,271,Hardin-Simmons,9,True,13,2,11,win,4546367,8490,2468705,2024,3

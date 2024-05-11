@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,1,1,0,0,1,0,0,0,03/04/2024,neutral,16580,394,Marymount (VA),9,True,5,7,-2,loss,4542814,1133,2518558,2024,3
 0,2,2,0,0,0,0,0,0,0,04/08/2024,home,16580,24317,Lesley,9,True,5,3,2,win,4544362,1133,2518558,2024,3
+0,1,1,0,0,0,0,0,0,0,04/27/2024,home,16580,379,Me.-Farmington,9,True,20,6,14,win,4545119,1133,2518558,2024,3
+0,1,1,0,0,0,0,0,0,0,05/10/2024,away,16580,30083,SUNY Cobleskill,9,True,20,2,18,win,5334458,1133,2518558,2024,3

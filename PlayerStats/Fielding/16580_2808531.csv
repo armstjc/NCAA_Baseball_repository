@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,1,0,0,0,03/03/2024,home,16580,807,Wooster,9,True,9,5,4,win,4528712,122,2808531,2024,3
 0,2,2,0,0,0,0,1,0,0,03/11/2024,neutral,16580,966,Arcadia,9,True,1,9,-8,loss,4529683,122,2808531,2024,3
 1,0,1,0,0,0,0,0,0,0,03/19/2024,home,16580,265,Grove City,9,True,10,6,4,win,4531804,122,2808531,2024,3
 0,1,1,0,0,0,0,0,0,0,04/06/2024,home,16580,73,Brandeis,9,True,8,0,8,win,4535692,122,2808531,2024,3
+0,1,1,0,0,0,1,0,0,0,04/27/2024,home,16580,755,WashU,9,True,2,6,-4,loss,4540049,122,2808531,2024,3

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,04/07/2024,home,16580,443,Moravian,9,True,11,2,9,win,4535657,685,2675087,2024,3
 0,0,0,0,0,0,4,0,0,0,04/13/2024,away,16580,633,Scranton,9,True,13,19,-6,loss,4537074,685,2675087,2024,3
+0,0,0,0,0,0,1,0,0,0,04/30/2024,away,16580,815,York (PA),9,True,11,10,1,win,4540692,685,2675087,2024,3

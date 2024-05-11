@@ -1,3 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/09/2024,home,16580,395,Maryville (MO),9,True,4,3,1,win,4543151,1376,2817430,2024,2
 3,0,3,0,0,0,0,0,0,0,04/06/2024,home,16580,947,Arkansas Tech,9,True,1,7,-6,loss,4544674,1376,2817430,2024,2
+3,0,3,0,0,0,0,0,0,0,05/09/2024,neutral,16580,8411,Ark.-Monticello,9,True,2,3,-1,loss,5311980,1376,2817430,2024,2
+1,0,1,0,0,0,0,0,0,0,05/10/2024,neutral,16580,947,Arkansas Tech,10,True,3,4,-1,loss,5334486,1376,2817430,2024,2

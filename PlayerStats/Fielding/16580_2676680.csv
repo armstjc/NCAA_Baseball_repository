@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,2,0,0,0,04/13/2024,home,16580,103,Stanislaus St.,9,True,8,4,4,win,5282448,628,2676680,2024,2
 0,3,4,1,0,0,0,2,0,0,04/20/2024,away,16580,30198,Cal St. San Marcos,9,True,6,10,-4,loss,4538636,628,2676680,2024,2
 0,0,0,0,0,0,1,0,0,0,04/27/2024,home,16580,100,Cal State LA,9,True,14,17,-3,loss,4540110,628,2676680,2024,2
+1,2,3,0,0,0,0,1,0,0,05/09/2024,neutral,16580,30198,Cal St. San Marcos,10,True,10,9,1,win,5334481,628,2676680,2024,2

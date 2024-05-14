@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,03/12/2024,home,16580,5,Akron,9,True,13,3,10,win,4530478,545,2655373,2024,1
 0,0,0,0,0,0,2,0,0,0,03/26/2024,away,16580,539,Penn St.,9,True,1,10,-9,loss,4491825,545,2655373,2024,1
+0,0,0,0,0,0,1,0,0,0,05/12/2024,home,16580,234,Florida St.,9,True,4,15,-11,loss,4542061,545,2655373,2024,1

@@ -20,3 +20,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,2,1,0,0,0,0,0,0,04/23/2024,away,16580,243,Frostburg St.,9,True,2,11,-9,loss,4539279,643,2301706,2024,2
 3,0,3,0,0,0,0,0,0,0,04/26/2024,home,16580,30063,Seton Hill,9,True,2,6,-4,loss,4539675,643,2301706,2024,2
 3,0,3,0,0,0,0,0,0,0,05/02/2024,away,16580,143,Clarion,9,True,9,1,8,win,4540838,643,2301706,2024,2
+0,1,1,0,0,0,0,0,0,0,05/08/2024,neutral,16580,197,East Stroudsburg,9,True,10,16,-6,loss,5289681,643,2301706,2024,2

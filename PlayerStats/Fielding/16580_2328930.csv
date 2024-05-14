@@ -7,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,2,2,0,0,0,1,0,0,0,04/06/2024,away,16580,572,Rhode Island,9,True,4,2,2,win,4535717,400,2328930,2024,1
 1,2,3,0,0,0,1,0,1,0,04/20/2024,away,16580,248,George Mason,9,True,9,6,3,win,4538445,400,2328930,2024,1
 1,1,2,0,0,0,1,0,0,0,04/26/2024,home,16580,606,Saint Joseph's,9,True,8,5,3,win,4539730,400,2328930,2024,1
+1,0,1,0,0,0,1,0,0,0,05/10/2024,away,16580,249,George Washington,9,True,8,17,-9,loss,4541746,400,2328930,2024,1

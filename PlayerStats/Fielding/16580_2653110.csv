@@ -7,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/06/2024,home,16580,609,Saint Louis,9,True,9,1,8,win,4535702,606,2653110,2024,1
 0,2,2,0,0,0,0,0,0,0,04/19/2024,home,16580,596,St. Bonaventure,11,True,4,6,-2,loss,4538266,606,2653110,2024,1
 0,1,1,0,0,0,1,0,0,0,04/26/2024,away,16580,400,Massachusetts,9,True,5,8,-3,loss,4539730,606,2653110,2024,1
+0,0,0,0,0,0,1,0,0,0,05/11/2024,home,16580,248,George Mason,9,True,9,4,5,win,4541747,606,2653110,2024,1

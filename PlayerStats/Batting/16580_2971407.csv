@@ -1,3 +1,5 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/06/2024,away,16580,0,Talladega,9,True,11,14,-3,loss,4525114,720,2810332,2024,2
-0,2,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,02/14/2024,away,16580,0,Point U.,9,True,2,7,-5,loss,4525448,720,2810332,2024,2
+0,3,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/14/2024,away,16580,0,Point U.,9,True,2,7,-5,loss,4525448,720,2971407,2024,2
+0,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2024,away,16580,445,Morehouse,9,True,2,6,-4,loss,5246386,720,2971407,2024,2
+0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,02/21/2024,away,16580,358,West Ala.,9,True,5,7,-2,loss,4526439,720,2971407,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/26/2024,away,16580,55,Benedict,9,True,8,13,-5,loss,4527258,720,2971407,2024,2

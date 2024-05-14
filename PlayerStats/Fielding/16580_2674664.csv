@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/16/2024,away,16580,559,Purdue,10,True,12,13,-1,loss,4492434,625,2674664,2024,1
 0,1,1,0,0,0,0,0,0,0,05/03/2024,home,16580,406,Mercer,9,True,9,1,8,win,4540941,625,2674664,2024,1
+0,1,1,0,0,0,0,1,0,0,05/12/2024,away,16580,459,UNC Greensboro,9,True,4,6,-2,loss,4541989,625,2674664,2024,1

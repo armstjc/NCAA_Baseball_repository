@@ -1,6 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,away,16580,412,Methodist,9,True,3,13,-10,loss,4791182,303,2684856,2024,3
 1,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,03/03/2024,neutral,16580,806,Wittenberg,9,True,5,6,-1,loss,4528539,303,2684856,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,away,16580,412,Methodist,9,True,3,13,-10,loss,4791182,303,2684856,2024,3
 1,4,2,0,0,2,0,1,0,2,0,0,2,0,0,0,1,0,0,03/05/2024,neutral,16580,84,Buena Vista,9,True,19,7,12,win,4528867,303,2684856,2024,3
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/06/2024,neutral,16580,452,Mount Union,9,True,15,5,10,win,4529054,303,2684856,2024,3
 0,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,03/09/2024,neutral,16580,161,Concordia-M'head,9,True,13,3,10,win,4529662,303,2684856,2024,3

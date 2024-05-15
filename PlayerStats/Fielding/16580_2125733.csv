@@ -28,3 +28,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,2,1,0,0,0,0,0,0,05/03/2024,away,16580,30064,Saint Vincent,9,True,2,3,-1,loss,4541301,707,2125733,2024,3
 1,2,3,0,0,0,0,0,0,0,05/03/2024,away,16580,30064,Saint Vincent,9,True,17,13,4,win,4546478,707,2125733,2024,3
 0,1,1,0,0,0,0,0,0,0,05/08/2024,away,16580,751,Wash. & Jeff.,9,True,5,6,-1,loss,5289651,707,2125733,2024,3
+0,1,1,0,0,0,0,0,0,0,05/09/2024,neutral,16580,1451,Westminster (PA),9,True,0,2,-2,loss,5334310,707,2125733,2024,3

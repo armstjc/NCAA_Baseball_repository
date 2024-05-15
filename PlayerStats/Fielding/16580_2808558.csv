@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,2,2,0,0,0,0,0,0,0,03/12/2024,neutral,16580,126,Central (IA),9,True,6,11,-5,loss,4530252,214,2808558,2024,3
+0,2,2,0,0,0,0,0,0,0,03/12/2024,home,16580,126,Central (IA),9,True,6,11,-5,loss,4530252,214,2808558,2024,3
 1,1,2,0,0,0,0,0,0,0,03/13/2024,neutral,16580,605,St. Joseph's (ME),9,True,6,13,-7,loss,4530611,214,2808558,2024,3
 2,0,2,0,0,0,0,0,1,0,03/14/2024,neutral,16580,8687,Saint Joseph (CT),9,True,3,12,-9,loss,4530723,214,2808558,2024,3
 0,2,2,0,0,0,0,0,0,0,03/15/2024,neutral,16580,588,Rutgers-Camden,9,True,4,6,-2,loss,4530898,214,2808558,2024,3

@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,1,0,0,03/12/2024,away,16580,394,Marymount (VA),9,True,6,3,3,win,4530346,565,2494577,2024,3
 0,0,0,0,0,0,1,0,0,0,03/20/2024,home,16580,269,Hampden-Sydney,9,True,22,5,17,win,4532094,565,2494577,2024,3
 0,1,1,0,0,0,0,0,0,0,04/02/2024,home,16580,491,N.C. Wesleyan,9,True,12,3,9,win,4534763,565,2494577,2024,3
+0,0,0,0,0,0,1,0,0,0,05/10/2024,neutral,16580,637,Shenandoah,9,True,7,10,-3,loss,5315532,565,2494577,2024,3

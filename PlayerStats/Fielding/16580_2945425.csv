@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,04/09/2024,home,16580,96,Fresno St.,9,True,2,5,-3,loss,4536357,90,2945425,2024,1
 1,0,1,0,0,0,0,0,0,0,04/30/2024,away,16580,96,Fresno St.,9,True,13,8,5,win,4540704,90,2945425,2024,1
+1,0,1,0,0,0,0,2,0,0,05/14/2024,away,16580,541,Pepperdine,9,True,12,6,6,win,4542105,90,2945425,2024,1

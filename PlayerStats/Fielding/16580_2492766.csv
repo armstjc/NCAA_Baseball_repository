@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,2,2,0,0,0,0,1,0,0,03/20/2024,home,16580,17,Alcorn,9,True,5,7,-2,loss,4532064,432,2492766,2024,1
 0,0,0,0,0,0,1,0,0,0,03/29/2024,home,16580,7,Alabama St.,9,True,4,9,-5,loss,5256149,432,2492766,2024,1
+0,0,0,0,0,0,1,0,0,0,05/16/2024,away,16580,228,Florida A&M,9,True,3,7,-4,loss,4542253,432,2492766,2024,1

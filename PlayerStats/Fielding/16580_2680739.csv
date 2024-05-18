@@ -47,3 +47,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,05/09/2024,home,16580,333,Ky. Wesleyan,9,True,4,3,1,win,5334471,35,2680739,2024,2
 3,0,3,0,0,0,0,0,0,0,05/09/2024,home,16580,30002,Trevecca Nazarene,9,True,8,10,-2,loss,5334364,35,2680739,2024,2
 6,0,6,0,0,0,0,0,0,0,05/10/2024,away,16580,30002,Trevecca Nazarene,9,True,3,6,-3,loss,5334495,35,2680739,2024,2
+2,0,2,0,0,0,0,0,0,0,05/16/2024,neutral,16580,510,Northwood,9,True,4,11,-7,loss,5335047,35,2680739,2024,2
+2,0,2,0,0,0,0,0,0,0,05/16/2024,away,16580,591,Saginaw Valley,9,True,7,3,4,win,5335046,35,2680739,2024,2

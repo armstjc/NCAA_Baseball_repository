@@ -4,3 +4,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,03/24/2024,home,16580,116,Canisius,9,True,9,1,8,win,4533109,249,2334160,2024,1
 0,2,2,0,0,0,0,0,0,0,03/30/2024,home,16580,596,St. Bonaventure,9,True,6,3,3,win,4534473,249,2334160,2024,1
 0,2,2,0,0,0,1,0,0,0,04/19/2024,home,16580,572,Rhode Island,9,True,11,6,5,win,4538261,249,2334160,2024,1
+0,2,2,0,0,0,0,1,0,0,05/16/2024,away,16580,606,Saint Joseph's,9,True,0,9,-9,loss,4542238,249,2334160,2024,1

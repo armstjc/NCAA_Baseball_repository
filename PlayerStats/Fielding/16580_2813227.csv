@@ -9,3 +9,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,1,2,0,0,0,0,0,0,0,04/26/2024,home,16580,26172,A&M-Corpus Christi,9,True,0,2,-2,loss,4539586,474,2813227,2024,1
 0,2,2,0,0,0,0,1,0,0,05/03/2024,away,16580,655,Southeastern La.,9,True,4,3,1,win,4541074,474,2813227,2024,1
 0,0,0,0,0,0,1,0,0,0,05/10/2024,away,16580,508,Northwestern St.,9,True,18,15,3,win,4541716,474,2813227,2024,1
+0,0,0,0,0,0,1,0,0,0,05/16/2024,home,16580,346,Lamar University,9,True,3,12,-9,loss,4542190,474,2813227,2024,1

@@ -1,0 +1,8 @@
+R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,4,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,02/18/2024,home,16580,696,Tex. A&M-Kingsville,9,True,8,14,-6,loss,4526029,206,2946281,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/23/2024,home,16580,30088,Tex. Permian Basin,9,True,5,7,-2,loss,4532620,206,2946281,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/23/2024,home,16580,30088,Tex. Permian Basin,9,True,2,6,-4,loss,4543757,206,2946281,2024,2
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/29/2024,away,16580,30028,UT Tyler,9,True,1,19,-18,loss,4534086,206,2946281,2024,2
+5,5,4,1,0,5,0,3,1,0,1,0,1,0,0,0,1,0,0,04/07/2024,home,16580,30105,Ark.-Fort Smith,9,True,28,24,4,win,4535855,206,2946281,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/13/2024,away,16580,30179,Okla. Christian,9,True,13,14,-1,loss,4546103,206,2946281,2024,2
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/20/2024,home,16580,1346,St. Mary's (TX),9,True,5,7,-2,loss,4545224,206,2946281,2024,2

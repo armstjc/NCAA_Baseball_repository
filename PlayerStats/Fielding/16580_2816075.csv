@@ -10,3 +10,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,2,1,0,0,0,0,0,0,04/27/2024,home,16580,401,UMass Boston,9,True,7,10,-3,loss,4540109,200,2816075,2024,3
 1,1,2,0,0,0,0,0,0,0,05/03/2024,away,16580,656,UMass Dartmouth,9,True,8,3,5,win,4540968,200,2816075,2024,3
 0,0,0,0,0,0,1,1,0,0,05/10/2024,home,16580,656,UMass Dartmouth,9,True,0,4,-4,loss,5334528,200,2816075,2024,3
+0,1,2,1,0,0,0,0,0,0,05/18/2024,away,16580,1133,Husson,9,True,2,4,-2,loss,5335582,200,2816075,2024,3

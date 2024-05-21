@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,1,0,0,0,04/20/2024,away,16580,78,SUNY Brockport,9,True,10,1,9,win,4545554,475,2679878,2024,3
 1,0,1,0,0,0,2,0,0,0,04/24/2024,home,16580,30083,SUNY Cobleskill,9,True,4,2,2,win,4539420,475,2679878,2024,3
 0,0,0,0,0,0,2,0,0,0,05/04/2024,away,16580,530,Oswego St.,9,True,8,5,3,win,4546414,475,2679878,2024,3
+0,1,1,0,0,0,1,0,0,0,05/18/2024,neutral,16580,8981,Endicott,9,True,12,19,-7,loss,5335583,475,2679878,2024,3

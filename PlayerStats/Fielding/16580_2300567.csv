@@ -32,3 +32,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 6,0,6,0,0,0,2,0,0,0,05/10/2024,home,16580,702,UT Arlington,9,True,10,13,-3,loss,4541713,1356,2300567,2024,1
 6,0,6,0,0,0,1,0,0,0,05/12/2024,home,16580,702,UT Arlington,9,True,10,4,6,win,4541991,1356,2300567,2024,1
 1,0,1,0,0,0,0,0,0,0,05/16/2024,away,16580,2,Abilene Christian,11,True,7,5,2,win,4542279,1356,2300567,2024,1
+2,1,3,0,0,0,2,1,0,0,05/18/2024,away,16580,2,Abilene Christian,9,True,10,11,-1,loss,4542548,1356,2300567,2024,1

@@ -1,3 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,1,1,0,0,0,0,0,0,0,03/27/2024,away,16580,1162,LaGrange,9,True,8,5,3,win,4533279,28593,2649885,2024,3
 0,0,0,0,0,0,1,0,0,0,03/30/2024,away,16580,132,Centre,9,True,11,5,6,win,4543729,28593,2649885,2024,3
+0,1,1,0,0,0,0,0,0,0,05/17/2024,away,16580,28749,Transylvania,9,True,21,7,14,win,5335117,28593,2649885,2024,3

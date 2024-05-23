@@ -20,3 +20,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 5,2,7,0,0,0,2,0,0,0,04/30/2024,away,16580,784,Wilkes,9,True,9,7,2,win,4534841,633,2832745,2024,3
 7,1,9,1,0,0,1,1,0,0,05/11/2024,away,16580,211,Elizabethtown,9,True,7,3,4,win,5334671,633,2832745,2024,3
 3,0,3,0,0,1,1,0,0,0,05/12/2024,home,16580,211,Elizabethtown,9,True,9,2,7,win,5334860,633,2832745,2024,3
+4,0,5,1,0,0,5,0,0,0,05/18/2024,neutral,16580,303,Immaculata,9,True,0,8,-8,loss,5335577,633,2832745,2024,3

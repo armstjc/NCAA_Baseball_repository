@@ -24,3 +24,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,05/11/2024,home,16580,797,Milwaukee,9,True,8,3,5,win,4541863,514,2949778,2024,1
 2,0,2,0,0,0,0,0,0,0,05/16/2024,away,16580,308,Purdue Fort Wayne,9,True,10,9,1,win,4542231,514,2949778,2024,1
 2,0,2,0,0,0,0,0,0,0,05/18/2024,away,16580,308,Purdue Fort Wayne,9,True,9,7,2,win,4542500,514,2949778,2024,1
+4,0,4,0,0,0,0,0,0,0,05/22/2024,home,16580,308,Purdue Fort Wayne,10,True,8,14,-6,loss,5336056,514,2949778,2024,1

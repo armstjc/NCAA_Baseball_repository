@@ -1,7 +1,8 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-4,0,4,0,0,1,0,0,0,0,03/02/2024,neutral,16580,426,Millsaps,9,True,1,11,-10,loss,4528180,420,2677746,2024,3
 2,0,3,1,0,0,0,0,0,0,03/02/2024,neutral,16580,1066,Edgewood,9,True,12,9,3,win,5250621,420,2677746,2024,3
+4,0,4,0,0,1,0,0,0,0,03/02/2024,neutral,16580,426,Millsaps,9,True,1,11,-10,loss,4528180,420,2677746,2024,3
 11,0,11,0,0,3,2,0,0,0,03/08/2024,home,16580,330,Keene St.,9,True,4,3,1,win,5252320,420,2677746,2024,3
 11,0,11,0,0,1,3,0,0,0,03/09/2024,home,16580,123,VTSU Castleton,9,True,8,7,1,win,5252484,420,2677746,2024,3
 9,0,9,0,0,0,1,0,0,0,04/27/2024,away,16580,764,Wesleyan (CT),9,True,7,2,5,win,4545606,420,2677746,2024,3
 5,0,5,0,0,0,0,0,0,0,04/30/2024,home,16580,642,Skidmore,11,True,4,3,1,win,4540700,420,2677746,2024,3
+5,0,5,0,0,0,4,0,0,0,05/19/2024,neutral,16580,16142,Misericordia,9,True,4,6,-2,loss,5335741,420,2677746,2024,3

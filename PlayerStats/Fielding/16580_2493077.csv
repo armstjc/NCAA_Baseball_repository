@@ -45,3 +45,5 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,0,2,0,0,0,0,0,0,0,05/16/2024,away,16580,61,Bethune-Cookman,9,True,9,6,3,win,4542164,7,2493077,2024,1
 2,0,2,0,0,0,0,0,0,0,05/17/2024,away,16580,61,Bethune-Cookman,9,True,7,2,5,win,4542293,7,2493077,2024,1
 1,0,1,0,0,0,0,0,0,0,05/18/2024,away,16580,61,Bethune-Cookman,9,True,0,10,-10,loss,4542430,7,2493077,2024,1
+1,0,2,1,0,0,0,0,0,0,05/22/2024,neutral,16580,261,Grambling,9,True,3,6,-3,loss,5335937,7,2493077,2024,1
+0,0,1,1,0,0,0,0,0,0,05/23/2024,neutral,16580,665,Southern U.,9,True,11,8,3,win,5335940,7,2493077,2024,1

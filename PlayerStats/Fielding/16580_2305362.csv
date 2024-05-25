@@ -52,3 +52,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 7,1,8,0,0,0,0,0,2,0,05/16/2024,home,16580,255,Georgia Tech,9,True,8,3,5,win,4542188,234,2305362,2024,1
 9,1,10,0,0,0,0,0,2,0,05/17/2024,home,16580,255,Georgia Tech,9,True,11,3,8,win,4542317,234,2305362,2024,1
 8,0,8,0,0,0,0,0,1,0,05/17/2024,home,16580,255,Georgia Tech,9,True,10,11,-1,loss,4542454,234,2305362,2024,1
+14,1,15,0,0,0,0,0,2,0,05/21/2024,neutral,16580,255,Georgia Tech,9,True,12,9,3,win,5335980,234,2305362,2024,1

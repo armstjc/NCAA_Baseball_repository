@@ -3,3 +3,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/16/2024,away,16580,97,Cal St. Fullerton,9,True,3,1,2,win,4537736,28,2468765,2024,1
 0,0,0,0,0,0,1,0,0,0,04/28/2024,home,16580,657,Southern California,9,True,6,11,-5,loss,4540380,28,2468765,2024,1
 1,0,1,0,0,0,0,1,0,0,05/04/2024,home,16580,756,Washington,9,True,9,14,-5,loss,4541169,28,2468765,2024,1
+0,0,0,0,0,0,1,0,0,0,05/21/2024,neutral,16580,674,Stanford,9,True,7,8,-1,loss,5335890,28,2468765,2024,1

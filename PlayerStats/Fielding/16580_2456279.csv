@@ -53,3 +53,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,05/16/2024,home,16580,366,Louisiana Tech,9,True,3,4,-1,loss,4542211,355,2456279,2024,1
 2,0,2,0,0,0,0,0,0,0,05/17/2024,home,16580,366,Louisiana Tech,11,True,8,12,-4,loss,5335603,355,2456279,2024,1
 5,4,11,2,0,0,0,0,1,0,05/17/2024,home,16580,366,Louisiana Tech,9,True,1,10,-9,loss,5335622,355,2456279,2024,1
+2,4,6,0,0,0,0,0,0,0,05/23/2024,neutral,16580,624,Sam Houston,9,True,9,3,6,win,5335813,355,2456279,2024,1

@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/09/2024,home,16580,610,Saint Mary's (CA),9,True,1,6,-5,loss,4536166,107,2660069,2024,1
 1,1,2,0,0,0,0,0,1,0,04/16/2024,home,16580,629,San Francisco,9,True,6,3,3,win,4537685,107,2660069,2024,1
 0,0,0,0,0,0,2,0,0,0,05/13/2024,home,16580,674,Stanford,9,True,5,3,2,win,4542081,107,2660069,2024,1
+2,0,2,0,0,0,0,0,0,0,05/21/2024,neutral,16580,756,Washington,9,True,12,0,12,win,5335892,107,2660069,2024,1

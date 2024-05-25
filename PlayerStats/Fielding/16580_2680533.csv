@@ -9,3 +9,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,1,0,0,0,05/03/2024,away,16580,235,Florida,9,True,3,4,-1,loss,4540858,694,2680533,2024,1
 0,1,1,0,0,0,1,0,0,0,05/11/2024,away,16580,736,Vanderbilt,9,True,7,6,1,win,4541816,694,2680533,2024,1
 1,1,2,0,0,0,0,1,0,0,05/17/2024,home,16580,648,South Carolina,9,True,8,3,5,win,4542313,694,2680533,2024,1
+0,1,1,0,0,0,2,0,0,0,05/24/2024,neutral,16580,430,Mississippi St.,9,True,6,5,1,win,5336196,694,2680533,2024,1

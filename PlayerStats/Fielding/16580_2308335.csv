@@ -1,6 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,02/20/2024,home,16580,363,Longwood,9,True,16,6,10,win,4526291,740,2308335,2024,1
-3,1,4,0,0,0,0,0,0,0,02/23/2024,home,16580,410,Merrimack,9,True,12,3,9,win,4526474,740,2308335,2024,1
-7,0,7,0,0,0,1,0,0,0,03/16/2024,home,16580,554,Princeton,9,True,6,3,3,win,5253919,740,2308335,2024,1
-2,0,2,0,0,0,0,0,0,0,05/07/2024,home,16580,523,Old Dominion,9,True,8,14,-6,loss,4541568,740,2308335,2024,1
-2,0,2,0,0,0,0,0,0,0,05/17/2024,away,16580,575,Richmond,9,True,12,4,8,win,5335615,740,2308335,2024,1
+0,1,2,1,0,0,0,0,0,0,03/03/2024,home,16580,67,Boston College,9,True,10,1,9,win,4528429,740,2797598,2024,1
+0,0,0,0,0,0,1,0,0,0,03/07/2024,neutral,16580,769,Western Caro.,9,True,5,2,3,win,5251896,740,2797598,2024,1
+0,1,1,0,0,0,0,0,0,0,04/26/2024,away,16580,248,George Mason,9,True,6,4,2,win,4539612,740,2797598,2024,1
+0,1,1,0,0,0,1,1,0,0,05/07/2024,home,16580,523,Old Dominion,9,True,8,14,-6,loss,4541568,740,2797598,2024,1

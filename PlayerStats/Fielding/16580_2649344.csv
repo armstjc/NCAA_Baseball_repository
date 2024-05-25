@@ -6,3 +6,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,2,1,0,0,0,0,0,0,04/06/2024,away,16580,67,Boston College,11,True,6,7,-1,loss,4535465,234,2649344,2024,1
 0,1,1,0,0,0,0,0,0,0,05/11/2024,away,16580,545,Pittsburgh,9,True,7,9,-2,loss,4541928,234,2649344,2024,1
 0,1,1,0,0,0,0,0,0,0,05/17/2024,home,16580,255,Georgia Tech,9,True,11,3,8,win,4542317,234,2649344,2024,1
+0,2,2,0,0,0,0,0,0,0,05/21/2024,neutral,16580,255,Georgia Tech,9,True,12,9,3,win,5335980,234,2649344,2024,1

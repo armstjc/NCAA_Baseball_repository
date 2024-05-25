@@ -2,3 +2,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,2,3,1,0,0,1,0,0,0,03/12/2024,home,16580,554,Princeton,9,True,8,10,-2,loss,4530317,523,2825660,2024,1
 1,0,1,0,0,0,0,0,0,0,03/30/2024,home,16580,646,South Alabama,9,True,3,5,-2,loss,4534177,523,2825660,2024,1
 1,0,1,0,0,0,0,0,0,0,05/18/2024,away,16580,254,Georgia St.,9,True,20,6,14,win,4542442,523,2825660,2024,1
+0,1,1,0,0,0,1,0,0,0,05/24/2024,neutral,16580,317,James Madison,9,True,5,15,-10,loss,5336151,523,2825660,2024,1

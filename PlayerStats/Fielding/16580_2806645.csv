@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,1,2,0,0,0,0,0,0,0,04/27/2024,home,16580,657,Southern California,9,True,17,2,15,win,4539929,28,2806645,2024,1
 0,1,1,0,0,0,0,0,0,0,05/03/2024,home,16580,756,Washington,10,True,11,7,4,win,4540926,28,2806645,2024,1
 0,1,1,0,0,0,0,1,0,0,05/17/2024,home,16580,700,Texas Tech,9,True,17,11,6,win,4542349,28,2806645,2024,1
+0,1,1,0,0,0,0,0,0,0,05/21/2024,neutral,16580,674,Stanford,9,True,7,8,-1,loss,5335890,28,2806645,2024,1

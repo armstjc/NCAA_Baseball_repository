@@ -1,9 +1,2 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/23/2024,away,16580,8,Alabama,9,True,2,14,-12,loss,4526567,735,2487262,2024,1
-1,1,2,0,0,0,0,0,0,0,03/17/2024,away,16580,115,Campbell,9,True,7,18,-11,loss,4531761,735,2487262,2024,1
-0,1,1,0,0,0,0,0,0,0,03/24/2024,away,16580,659,Southern Ill.,9,True,5,9,-4,loss,4533194,735,2487262,2024,1
-0,2,2,0,0,0,1,1,0,0,04/13/2024,home,16580,14927,Belmont,9,True,10,9,1,win,4536959,735,2487262,2024,1
-0,0,0,0,0,0,2,0,0,0,04/19/2024,home,16580,669,Missouri St.,12,True,7,6,1,win,4538283,735,2487262,2024,1
-1,0,1,0,0,0,0,0,0,0,04/27/2024,away,16580,302,UIC,9,True,2,3,-1,loss,4539865,735,2487262,2024,1
-0,1,1,0,0,0,0,0,0,0,05/03/2024,home,16580,219,Evansville,9,True,1,13,-12,loss,4541038,735,2487262,2024,1
-1,0,1,0,0,0,0,0,0,0,05/17/2024,home,16580,305,Indiana St.,9,True,9,11,-2,loss,4542382,735,2487262,2024,1
+7,1,8,0,0,0,0,0,0,0,02/18/2024,away,16580,7,Alabama St.,9,True,1,9,-8,loss,4526159,735,2117499,2024,1

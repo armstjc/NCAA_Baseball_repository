@@ -22,3 +22,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 5,0,5,0,0,0,0,0,0,0,05/17/2024,home,16580,432,Mississippi Val.,9,True,13,3,10,win,5335598,228,2671381,2024,1
 15,0,15,0,0,0,1,0,0,0,05/17/2024,home,16580,432,Mississippi Val.,9,True,3,7,-4,loss,5335612,228,2671381,2024,1
 10,2,12,0,0,0,1,1,0,0,05/22/2024,neutral,16580,665,Southern U.,9,True,8,5,3,win,5335938,228,2671381,2024,1
+9,2,12,1,0,0,1,1,0,0,05/25/2024,neutral,16580,261,Grambling,9,True,11,14,-3,loss,5336280,228,2671381,2024,1

@@ -22,3 +22,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,1,2,0,0,0,0,0,0,0,05/11/2024,home,16580,112,UC San Diego,9,True,6,4,2,win,4541830,101,2955242,2024,1
 1,0,1,0,0,0,0,0,0,0,05/18/2024,home,16580,104,UC Santa Barbara,9,True,2,4,-2,loss,4542455,101,2955242,2024,1
 1,0,1,0,0,0,0,0,0,0,05/19/2024,home,16580,104,UC Santa Barbara,9,True,4,6,-2,loss,4542561,101,2955242,2024,1
+2,0,2,0,0,0,0,0,0,0,05/25/2024,away,16580,109,UC Irvine,9,True,9,14,-5,loss,4542578,101,2955242,2024,1

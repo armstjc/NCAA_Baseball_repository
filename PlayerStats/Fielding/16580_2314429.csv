@@ -11,3 +11,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 10,0,10,0,0,0,1,0,0,0,05/07/2024,home,16580,665,Southern U.,9,True,14,4,10,win,4541625,402,2314429,2024,1
 9,1,10,0,0,0,1,1,0,0,05/11/2024,home,16580,287,Houston Christian,9,True,7,9,-2,loss,4542075,402,2314429,2024,1
 2,0,2,0,0,1,1,0,0,0,05/14/2024,home,16580,670,Texas St.,10,True,7,6,1,win,4542146,402,2314429,2024,1
+1,0,1,0,0,0,0,0,0,0,05/24/2024,neutral,16580,346,Lamar University,9,True,9,18,-9,loss,5336126,402,2314429,2024,1

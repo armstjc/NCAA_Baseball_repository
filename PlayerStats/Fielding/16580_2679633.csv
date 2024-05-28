@@ -14,3 +14,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/02/2024,home,16580,657,Southern California,9,True,9,3,6,win,4534767,627,2679633,2024,1
 0,3,3,0,0,0,0,0,0,0,05/05/2024,home,16580,631,Santa Clara,9,True,14,4,10,win,4541449,627,2679633,2024,1
 0,1,1,0,0,0,1,0,0,0,05/12/2024,away,16580,629,San Francisco,9,True,7,2,5,win,4541993,627,2679633,2024,1
+0,2,2,0,0,0,0,1,0,0,05/23/2024,neutral,16580,260,Gonzaga,9,True,10,7,3,win,5335959,627,2679633,2024,1

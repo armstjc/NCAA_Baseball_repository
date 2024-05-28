@@ -43,3 +43,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,1,4,1,0,0,0,0,0,0,05/16/2024,away,16580,459,UNC Greensboro,9,True,8,14,-6,loss,4542202,10411,2971705,2024,1
 2,3,5,0,0,0,0,0,0,0,05/17/2024,away,16580,459,UNC Greensboro,9,True,1,9,-8,loss,4542332,10411,2971705,2024,1
 0,1,1,0,0,0,0,0,1,0,05/18/2024,away,16580,459,UNC Greensboro,9,True,7,0,7,win,4542469,10411,2971705,2024,1
+0,2,2,0,0,0,0,0,0,0,05/25/2024,neutral,16580,19651,High Point,9,True,0,6,-6,loss,5335789,10411,2971705,2024,1

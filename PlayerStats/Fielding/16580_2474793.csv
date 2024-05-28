@@ -23,3 +23,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,05/04/2024,away,16580,67,Boston College,9,True,5,3,2,win,4541166,367,2474793,2024,1
 1,0,1,0,0,0,0,0,0,0,05/12/2024,away,16580,457,North Carolina,9,True,7,16,-9,loss,4542045,367,2474793,2024,1
 0,1,1,0,0,0,0,0,0,0,05/16/2024,home,16580,513,Notre Dame,9,True,5,1,4,win,4542272,367,2474793,2024,1
+0,1,1,0,0,0,0,0,0,0,05/24/2024,neutral,16580,147,Clemson,9,True,7,8,-1,loss,5335989,367,2474793,2024,1

@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,03/15/2024,away,16580,196,East Carolina,9,True,3,17,-14,loss,4530790,158,2477413,2024,1
-0,0,0,0,0,0,2,0,0,0,04/13/2024,home,16580,813,Yale,9,True,8,10,-2,loss,4537002,158,2477413,2024,1
-0,0,0,0,0,0,1,0,0,0,04/21/2024,away,16580,80,Brown,9,True,6,1,5,win,4545691,158,2477413,2024,1
-0,0,1,1,0,0,0,0,0,0,05/18/2024,home,16580,554,Princeton,9,True,6,16,-10,loss,5334823,158,2477413,2024,1
+1,0,1,0,0,0,0,0,0,0,03/15/2024,away,16580,574056,East Carolina,9,True,3,17,-14,loss,4530790,158,2477413,2024,1
+0,0,0,0,0,0,2,0,0,0,04/13/2024,home,16580,573970,Yale,9,True,8,10,-2,loss,4537002,158,2477413,2024,1
+0,0,0,0,0,0,1,0,0,0,04/21/2024,away,16580,574019,Brown,9,True,6,1,5,win,4545691,158,2477413,2024,1
+0,0,1,1,0,0,0,0,0,0,05/18/2024,home,16580,574182,Princeton,9,True,6,16,-10,loss,5334823,158,2477413,2024,1

@@ -32,3 +32,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,2,2,0,0,0,0,0,0,0,05/04/2024,home,16580,538,Penn St.-Behrend,9,True,5,6,-1,loss,5289246,4,2832007,2024,3
 1,1,2,0,0,0,0,0,0,0,05/08/2024,home,16580,286,Hope,9,True,7,4,3,win,5315479,4,2832007,2024,3
 0,3,3,0,0,0,0,1,0,0,05/17/2024,neutral,16580,124,Catholic,9,True,5,2,3,win,5335139,4,2832007,2024,3
+0,1,1,0,0,0,0,0,0,0,05/24/2024,away,16580,565,Randolph-Macon,9,True,5,6,-1,loss,5335925,4,2832007,2024,3

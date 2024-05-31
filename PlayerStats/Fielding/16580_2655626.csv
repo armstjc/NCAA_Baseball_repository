@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/22/2024,away,16580,587,Rutgers,9,True,0,3,-3,loss,4780644,164,2655626,2024,1
-0,0,0,0,0,0,2,0,0,0,03/26/2024,home,16580,67,Boston College,9,True,4,7,-3,loss,4533320,164,2655626,2024,1
-0,1,1,0,0,0,0,0,0,0,04/21/2024,away,16580,251,Georgetown,9,True,7,6,1,win,4539072,164,2655626,2024,1
-0,0,0,0,0,0,2,0,0,0,05/23/2024,neutral,16580,251,Georgetown,10,True,9,10,-1,loss,5335757,164,2655626,2024,1
+0,1,1,0,0,0,0,0,0,0,03/22/2024,away,16580,574190,Rutgers,9,True,0,3,-3,loss,4780644,164,2655626,2024,1
+0,0,0,0,0,0,2,0,0,0,03/26/2024,home,16580,574015,Boston College,9,True,4,7,-3,loss,4533320,164,2655626,2024,1
+0,1,1,0,0,0,0,0,0,0,04/21/2024,away,16580,574072,Georgetown,9,True,7,6,1,win,4539072,164,2655626,2024,1
+0,0,0,0,0,0,2,0,0,0,05/23/2024,neutral,16580,574072,Georgetown,10,True,9,10,-1,loss,5335757,164,2655626,2024,1

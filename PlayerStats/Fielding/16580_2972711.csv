@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,1,1,0,0,0,1,0,0,02/24/2024,away,16580,288,Houston,9,True,2,7,-5,loss,4527165,603,2972711,2024,1
-0,1,1,0,0,0,0,0,0,0,05/14/2024,home,16580,220,Fairfield,9,True,4,5,-1,loss,4534683,603,2972711,2024,1
-1,0,1,0,0,0,1,0,0,0,05/18/2024,home,16580,251,Georgetown,9,True,0,3,-3,loss,4542452,603,2972711,2024,1
+0,0,1,1,0,0,0,1,0,0,02/24/2024,away,16580,574085,Houston,9,True,2,7,-5,loss,4527165,603,2972711,2024,1
+0,1,1,0,0,0,0,0,0,0,05/14/2024,home,16580,574062,Fairfield,9,True,4,5,-1,loss,4534683,603,2972711,2024,1
+1,0,1,0,0,0,1,0,0,0,05/18/2024,home,16580,574072,Georgetown,9,True,0,3,-3,loss,4542452,603,2972711,2024,1

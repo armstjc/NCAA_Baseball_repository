@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,2,0,0,0,03/01/2024,home,16580,817,Youngstown St.,9,True,19,1,18,win,4527935,367,2677941,2024,1
-0,1,1,0,0,0,1,0,0,0,04/12/2024,home,16580,746,Virginia,9,True,3,21,-18,loss,4536868,367,2677941,2024,1
-0,0,0,0,0,0,1,0,0,0,04/16/2024,home,16580,334,Kentucky,9,True,13,17,-4,loss,4537898,367,2677941,2024,1
+0,0,0,0,0,0,2,0,0,0,03/01/2024,home,16580,573971,Youngstown St.,9,True,19,1,18,win,4527935,367,2677941,2024,1
+0,1,1,0,0,0,1,0,0,0,04/12/2024,home,16580,573954,Virginia,9,True,3,21,-18,loss,4536868,367,2677941,2024,1
+0,0,0,0,0,0,1,0,0,0,04/16/2024,home,16580,574101,Kentucky,9,True,13,17,-4,loss,4537898,367,2677941,2024,1

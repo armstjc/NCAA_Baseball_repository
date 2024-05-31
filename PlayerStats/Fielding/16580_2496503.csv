@@ -5,3 +5,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,04/13/2024,home,16580,139,Chris. Newport,9,True,18,3,15,win,4536945,622,2496503,2024,3
 0,2,2,0,0,0,0,0,1,0,04/24/2024,home,16580,611,St. Mary's (MD),9,True,15,5,10,win,4539418,622,2496503,2024,3
 2,2,4,0,0,0,0,0,0,0,05/18/2024,neutral,16580,656,UMass Dartmouth,9,True,9,0,9,win,5335644,622,2496503,2024,3
+0,0,0,0,0,0,1,0,0,0,05/25/2024,home,16580,623,Salve Regina,9,True,12,14,-2,loss,5335920,622,2496503,2024,3

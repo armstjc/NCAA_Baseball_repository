@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/03/2024,away,16580,37,Auburn,9,True,2,8,-6,loss,4528445,164,2808362,2024,1
-0,1,1,0,0,0,0,0,0,0,03/12/2024,away,16580,110,UCLA,9,True,5,2,3,win,4530356,164,2808362,2024,1
-0,0,1,1,0,0,0,0,0,0,04/09/2024,home,16580,81,Bryant,9,True,12,1,11,win,4536342,164,2808362,2024,1
-0,1,1,0,0,0,0,0,0,0,04/19/2024,away,16580,251,Georgetown,9,True,7,6,1,win,4538358,164,2808362,2024,1
+0,0,0,0,0,0,1,0,0,0,03/03/2024,away,16580,574008,Auburn,9,True,2,8,-6,loss,4528445,164,2808362,2024,1
+0,1,1,0,0,0,0,0,0,0,03/12/2024,away,16580,574034,UCLA,9,True,5,2,3,win,4530356,164,2808362,2024,1
+0,0,1,1,0,0,0,0,0,0,04/09/2024,home,16580,574020,Bryant,9,True,12,1,11,win,4536342,164,2808362,2024,1
+0,1,1,0,0,0,0,0,0,0,04/19/2024,away,16580,574072,Georgetown,9,True,7,6,1,win,4538358,164,2808362,2024,1

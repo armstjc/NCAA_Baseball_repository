@@ -7,3 +7,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,0,0,0,0,0,1,0,0,0,04/14/2024,away,16580,326,Kalamazoo,9,True,7,9,-2,loss,4536814,4,2832030,2024,3
 0,1,1,0,0,0,2,0,0,0,05/10/2024,home,16580,326,Kalamazoo,9,True,3,2,1,win,5315478,4,2832030,2024,3
 0,0,1,1,0,0,0,1,0,0,05/18/2024,neutral,16580,538,Penn St.-Behrend,9,True,12,1,11,win,5335587,4,2832030,2024,3
+1,0,1,0,0,0,0,0,0,0,05/25/2024,home,16580,565,Randolph-Macon,9,True,5,4,1,win,5335926,4,2832030,2024,3

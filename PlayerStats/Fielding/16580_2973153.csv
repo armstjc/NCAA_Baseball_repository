@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,1,2,0,0,0,1,0,0,0,02/17/2024,neutral,16580,559,Purdue,9,True,8,12,-4,loss,4492416,683,2973153,2024,1
-0,1,1,0,0,0,0,0,0,0,04/23/2024,home,16580,381,Manhattan,9,True,16,4,12,win,4539191,683,2973153,2024,1
-0,1,1,0,0,0,0,0,0,0,04/30/2024,away,16580,220,Fairfield,9,True,7,13,-6,loss,4540652,683,2973153,2024,1
+1,1,2,0,0,0,1,0,0,0,02/17/2024,neutral,16580,574183,Purdue,9,True,8,12,-4,loss,4492416,683,2973153,2024,1
+0,1,1,0,0,0,0,0,0,0,04/23/2024,home,16580,574114,Manhattan,9,True,16,4,12,win,4539191,683,2973153,2024,1
+0,1,1,0,0,0,0,0,0,0,04/30/2024,away,16580,574062,Fairfield,9,True,7,13,-6,loss,4540652,683,2973153,2024,1

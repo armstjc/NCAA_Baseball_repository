@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,6,0,0,0,02/20/2024,home,16580,49,Barry,9,True,10,15,-5,loss,4526390,30045,2481386,2024,2
-0,0,1,1,0,0,0,0,0,0,03/13/2024,home,16580,1318,Post,9,True,6,8,-2,loss,5251920,30045,2481386,2024,2
-0,1,1,0,0,0,0,0,0,0,04/23/2024,away,16580,30092,Flagler,9,True,1,4,-3,loss,4539342,30045,2481386,2024,2
+0,0,0,0,0,0,6,0,0,0,02/20/2024,home,16580,574374,Barry,9,True,10,15,-5,loss,4526390,30045,2481386,2024,2
+0,0,1,1,0,0,0,0,0,0,03/13/2024,home,16580,574257,Post,9,True,6,8,-2,loss,5251920,30045,2481386,2024,2
+0,1,1,0,0,0,0,0,0,0,04/23/2024,away,16580,574325,Flagler,9,True,1,4,-3,loss,4539342,30045,2481386,2024,2

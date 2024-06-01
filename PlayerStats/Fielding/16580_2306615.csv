@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,03/10/2024,neutral,16580,1438,West Liberty,9,True,16,7,9,win,4544801,2746,2306615,2024,2
-3,0,3,0,0,0,0,0,0,0,04/20/2024,away,16580,1402,Thomas More,9,True,9,4,5,win,4538509,2746,2306615,2024,2
-1,0,1,0,0,0,0,0,0,0,04/20/2024,away,16580,1402,Thomas More,9,True,4,3,1,win,4545383,2746,2306615,2024,2
-4,0,6,2,0,0,0,0,0,0,05/03/2024,away,16580,1079,Findlay,11,True,10,11,-1,loss,4540954,2746,2306615,2024,2
+1,0,1,0,0,0,0,0,0,0,03/10/2024,neutral,16580,574268,West Liberty,9,True,16,7,9,win,4544801,2746,2306615,2024,2
+3,0,3,0,0,0,0,0,0,0,04/20/2024,away,16580,574486,Thomas More,9,True,9,4,5,win,4538509,2746,2306615,2024,2
+1,0,1,0,0,0,0,0,0,0,04/20/2024,away,16580,574486,Thomas More,9,True,4,3,1,win,4545383,2746,2306615,2024,2
+4,0,6,2,0,0,0,0,0,0,05/03/2024,away,16580,574237,Findlay,11,True,10,11,-1,loss,4540954,2746,2306615,2024,2

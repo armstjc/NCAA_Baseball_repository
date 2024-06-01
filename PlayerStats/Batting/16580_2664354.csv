@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/01/2024,home,16580,354,Lewis,9,True,3,8,-5,loss,4527834,30124,2664354,2024,2
-1,1,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,03/10/2024,away,16580,30013,Lee,9,True,10,20,-10,loss,4544008,30124,2664354,2024,2
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/20/2024,away,16580,30002,Trevecca Nazarene,9,True,5,11,-6,loss,4545228,30124,2664354,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/01/2024,home,16580,574414,Lewis,9,True,3,8,-5,loss,4527834,30124,2664354,2024,2
+1,1,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,03/10/2024,away,16580,574313,Lee,9,True,10,20,-10,loss,4544008,30124,2664354,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/20/2024,away,16580,574312,Trevecca Nazarene,9,True,5,11,-6,loss,4545228,30124,2664354,2024,2

@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,0,2,0,0,0,0,0,0,0,02/10/2024,home,16580,30192,Southern Wesleyan,9,True,19,8,11,win,4525298,1170,2664894,2024,2
-3,0,3,0,0,0,0,0,0,0,02/20/2024,home,16580,8875,Chowan,9,True,17,1,16,win,4526367,1170,2664894,2024,2
-5,1,6,0,0,0,0,0,0,0,03/05/2024,away,16580,8875,Chowan,9,True,6,0,6,win,5251612,1170,2664894,2024,2
-1,0,2,1,0,0,0,0,0,0,03/14/2024,home,16580,613,Saint Michael's,9,True,36,2,34,win,4530768,1170,2664894,2024,2
+2,0,2,0,0,0,0,0,0,0,02/10/2024,home,16580,574352,Southern Wesleyan,9,True,19,8,11,win,4525298,1170,2664894,2024,2
+3,0,3,0,0,0,0,0,0,0,02/20/2024,home,16580,574285,Chowan,9,True,17,1,16,win,4526367,1170,2664894,2024,2
+5,1,6,0,0,0,0,0,0,0,03/05/2024,away,16580,574285,Chowan,9,True,6,0,6,win,5251612,1170,2664894,2024,2
+1,0,2,1,0,0,0,0,0,0,03/14/2024,home,16580,574449,Saint Michael's,9,True,36,2,34,win,4530768,1170,2664894,2024,2

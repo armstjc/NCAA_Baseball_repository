@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,03/02/2024,home,16580,813,Yale,9,True,11,4,7,win,4528055,718,2680071,2024,1
-1,0,1,0,0,0,0,0,0,0,03/06/2024,home,16580,261,Grambling,9,True,9,4,5,win,4529144,718,2680071,2024,1
-1,0,1,0,0,0,0,0,0,0,04/02/2024,home,16580,699,Texas Southern,9,True,19,1,18,win,4534702,718,2680071,2024,1
-6,0,6,0,0,0,0,0,1,0,05/05/2024,home,16580,404,Memphis,10,True,5,7,-2,loss,4541404,718,2680071,2024,1
+1,0,1,0,0,0,0,0,0,0,03/02/2024,home,16580,573970,Yale,9,True,11,4,7,win,4528055,718,2680071,2024,1
+1,0,1,0,0,0,0,0,0,0,03/06/2024,home,16580,574078,Grambling,9,True,9,4,5,win,4529144,718,2680071,2024,1
+1,0,1,0,0,0,0,0,0,0,04/02/2024,home,16580,573915,Texas Southern,9,True,19,1,18,win,4534702,718,2680071,2024,1
+6,0,6,0,0,0,0,0,1,0,05/05/2024,home,16580,574122,Memphis,10,True,5,7,-2,loss,4541404,718,2680071,2024,1

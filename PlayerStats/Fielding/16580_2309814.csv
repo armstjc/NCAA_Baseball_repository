@@ -1,5 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,02/17/2024,home,16580,229,Fla. Atlantic,9,True,4,5,-1,loss,4525722,736,2309814,2024,1
-1,1,2,0,0,0,0,0,0,0,03/24/2024,away,16580,648,South Carolina,9,True,2,10,-8,loss,4532980,736,2309814,2024,1
-0,1,1,0,0,0,0,0,0,0,04/23/2024,home,16580,695,UT Martin,9,True,5,4,1,win,4539157,736,2309814,2024,1
-0,0,0,0,0,0,4,0,0,0,05/17/2024,away,16580,334,Kentucky,9,True,7,17,-10,loss,4542290,736,2309814,2024,1
+1,0,1,0,0,0,0,0,0,0,02/17/2024,home,16580,574065,Fla. Atlantic,9,True,4,5,-1,loss,4525722,736,2309814,2024,1
+1,1,2,0,0,0,0,0,0,0,03/24/2024,away,16580,574208,South Carolina,9,True,2,10,-8,loss,4532980,736,2309814,2024,1
+0,1,1,0,0,0,0,0,0,0,04/23/2024,home,16580,574227,UT Martin,9,True,5,4,1,win,4539157,736,2309814,2024,1
+0,0,0,0,0,0,4,0,0,0,05/17/2024,away,16580,574101,Kentucky,9,True,7,17,-10,loss,4542290,736,2309814,2024,1
+0,1,1,0,0,0,0,0,0,0,05/31/2024,neutral,16580,574044,Coastal Carolina,9,True,3,13,-10,loss,5336404,736,2309814,2024,1

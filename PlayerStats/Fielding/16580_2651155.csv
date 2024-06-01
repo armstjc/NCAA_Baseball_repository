@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-5,1,6,0,0,0,0,0,0,0,03/08/2024,neutral,16580,158,Columbia,9,True,32,2,30,win,4529335,109,2651155,2024,1
-2,0,2,0,0,0,0,0,0,0,04/09/2024,away,16580,657,Southern California,9,True,5,12,-7,loss,4536230,109,2651155,2024,1
-5,0,5,0,0,0,0,0,0,0,04/12/2024,away,16580,112,UC San Diego,9,True,4,15,-11,loss,4536705,109,2651155,2024,1
-1,0,1,0,0,0,0,0,0,0,04/17/2024,home,16580,657,Southern California,9,True,4,12,-8,loss,4537923,109,2651155,2024,1
-1,0,1,0,0,0,0,0,0,0,04/26/2024,away,16580,111,UC Riverside,9,True,15,1,14,win,4539655,109,2651155,2024,1
+5,1,6,0,0,0,0,0,0,0,03/08/2024,neutral,16580,574045,Columbia,9,True,32,2,30,win,4529335,109,2651155,2024,1
+2,0,2,0,0,0,0,0,0,0,04/09/2024,away,16580,574213,Southern California,9,True,5,12,-7,loss,4536230,109,2651155,2024,1
+5,0,5,0,0,0,0,0,0,0,04/12/2024,away,16580,574229,UC San Diego,9,True,4,15,-11,loss,4536705,109,2651155,2024,1
+1,0,1,0,0,0,0,0,0,0,04/17/2024,home,16580,574213,Southern California,9,True,4,12,-8,loss,4537923,109,2651155,2024,1
+1,0,1,0,0,0,0,0,0,0,04/26/2024,away,16580,574035,UC Riverside,9,True,15,1,14,win,4539655,109,2651155,2024,1

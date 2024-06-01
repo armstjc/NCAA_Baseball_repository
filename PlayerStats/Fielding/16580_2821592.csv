@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,04/20/2024,home,16580,427,Minn. Duluth,9,True,3,7,-4,loss,4538776,30125,2821592,2024,2
-0,0,1,1,0,0,0,0,0,0,04/24/2024,away,16580,1266,Northern St.,9,True,8,18,-10,loss,4546019,30125,2821592,2024,2
-1,0,1,0,0,0,1,0,0,0,05/03/2024,away,16580,41,Augustana (SD),9,True,6,13,-7,loss,4546202,30125,2821592,2024,2
+1,0,1,0,0,0,0,0,0,0,04/20/2024,home,16580,574426,Minn. Duluth,9,True,3,7,-4,loss,4538776,30125,2821592,2024,2
+0,0,1,1,0,0,0,0,0,0,04/24/2024,away,16580,574252,Northern St.,9,True,8,18,-10,loss,4546019,30125,2821592,2024,2
+1,0,1,0,0,0,1,0,0,0,05/03/2024,away,16580,574373,Augustana (SD),9,True,6,13,-7,loss,4546202,30125,2821592,2024,2

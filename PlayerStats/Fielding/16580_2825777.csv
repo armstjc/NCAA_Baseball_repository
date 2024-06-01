@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/17/2024,neutral,16580,107,California,9,True,3,12,-9,loss,4525846,251,2825777,2024,1
-0,1,1,0,0,0,0,0,0,0,02/27/2024,away,16580,392,Maryland,9,True,5,14,-9,loss,4492166,251,2825777,2024,1
-0,0,0,0,0,0,1,0,0,0,04/23/2024,home,16580,249,George Washington,9,True,13,5,8,win,4539381,251,2825777,2024,1
+0,1,1,0,0,0,0,0,0,0,02/17/2024,neutral,16580,574031,California,9,True,3,12,-9,loss,4525846,251,2825777,2024,1
+0,1,1,0,0,0,0,0,0,0,02/27/2024,away,16580,574118,Maryland,9,True,5,14,-9,loss,4492166,251,2825777,2024,1
+0,0,0,0,0,0,1,0,0,0,04/23/2024,home,16580,574071,George Washington,9,True,13,5,8,win,4539381,251,2825777,2024,1

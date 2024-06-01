@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,0,2,0,0,0,0,0,0,0,03/03/2024,away,16580,197,East Stroudsburg,9,True,0,11,-11,loss,4542993,593,2812728,2024,2
-0,0,0,0,0,0,1,0,0,0,03/30/2024,away,16580,613,Saint Michael's,9,True,4,9,-5,loss,5015878,593,2812728,2024,2
-0,0,0,0,0,0,1,0,0,0,04/07/2024,home,16580,241,Franklin Pierce,9,True,4,9,-5,loss,5281604,593,2812728,2024,2
-0,1,1,0,0,0,0,0,0,0,04/15/2024,home,16580,22,American Int'l,9,True,3,17,-14,loss,4537070,593,2812728,2024,2
-0,1,1,0,0,0,3,0,0,0,04/26/2024,home,16580,468,Southern N.H.,9,True,2,17,-15,loss,4539753,593,2812728,2024,2
+2,0,2,0,0,0,0,0,0,0,03/03/2024,away,16580,574396,East Stroudsburg,9,True,0,11,-11,loss,4542993,593,2812728,2024,2
+0,0,0,0,0,0,1,0,0,0,03/30/2024,away,16580,574449,Saint Michael's,9,True,4,9,-5,loss,5015878,593,2812728,2024,2
+0,0,0,0,0,0,1,0,0,0,04/07/2024,home,16580,574402,Franklin Pierce,9,True,4,9,-5,loss,5281604,593,2812728,2024,2
+0,1,1,0,0,0,0,0,0,0,04/15/2024,home,16580,574368,American Int'l,9,True,3,17,-14,loss,4537070,593,2812728,2024,2
+0,1,1,0,0,0,3,0,0,0,04/26/2024,home,16580,574432,Southern N.H.,9,True,2,17,-15,loss,4539753,593,2812728,2024,2

@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-3,0,3,0,0,0,0,0,0,0,03/05/2024,home,16580,130,Central Mo.,9,True,2,10,-8,loss,4528938,1057,2963420,2024,2
-2,1,3,0,0,0,0,0,0,0,04/05/2024,away,16580,30138,McKendree,9,True,9,15,-6,loss,4535979,1057,2963420,2024,2
-3,0,3,0,0,0,0,0,0,0,04/05/2024,away,16580,30138,McKendree,9,True,8,7,1,win,4535239,1057,2963420,2024,2
-3,0,3,0,0,0,0,0,0,0,04/28/2024,home,16580,395,Maryville (MO),9,True,4,8,-4,loss,4540450,1057,2963420,2024,2
-3,0,4,1,0,0,0,0,0,0,05/02/2024,away,16580,2755,Southwest Baptist,9,True,4,6,-2,loss,4540847,1057,2963420,2024,2
+3,0,3,0,0,0,0,0,0,0,03/05/2024,home,16580,574388,Central Mo.,9,True,2,10,-8,loss,4528938,1057,2963420,2024,2
+2,1,3,0,0,0,0,0,0,0,04/05/2024,away,16580,574336,McKendree,9,True,9,15,-6,loss,4535979,1057,2963420,2024,2
+3,0,3,0,0,0,0,0,0,0,04/05/2024,away,16580,574336,McKendree,9,True,8,7,1,win,4535239,1057,2963420,2024,2
+3,0,3,0,0,0,0,0,0,0,04/28/2024,home,16580,574420,Maryville (MO),9,True,4,8,-4,loss,4540450,1057,2963420,2024,2
+3,0,4,1,0,0,0,0,0,0,05/02/2024,away,16580,574278,Southwest Baptist,9,True,4,6,-2,loss,4540847,1057,2963420,2024,2

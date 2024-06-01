@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,04/26/2024,away,16580,14927,Belmont,9,True,6,8,-2,loss,4539777,72,2678367,2024,1
-0,0,0,0,0,0,1,0,0,0,05/03/2024,home,16580,302,UIC,9,True,3,4,-1,loss,4540908,72,2678367,2024,1
-0,0,0,0,0,0,1,0,0,0,05/16/2024,home,16580,454,Murray St.,9,True,3,9,-6,loss,4542208,72,2678367,2024,1
+0,1,1,0,0,0,0,0,0,0,04/26/2024,away,16580,573987,Belmont,9,True,6,8,-2,loss,4539777,72,2678367,2024,1
+0,0,0,0,0,0,1,0,0,0,05/03/2024,home,16580,574088,UIC,9,True,3,4,-1,loss,4540908,72,2678367,2024,1
+0,0,0,0,0,0,1,0,0,0,05/16/2024,home,16580,574137,Murray St.,9,True,3,9,-6,loss,4542208,72,2678367,2024,1

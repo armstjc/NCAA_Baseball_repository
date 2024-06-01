@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/11/2024,away,16580,49,Barry,9,True,1,11,-10,loss,4525348,56,2959892,2024,2
-0,0,0,0,0,0,1,0,0,0,03/30/2024,away,16580,241,Franklin Pierce,9,True,0,15,-15,loss,4534319,56,2959892,2024,2
-0,1,1,0,0,0,0,0,0,0,04/23/2024,away,16580,22,American Int'l,9,True,33,8,25,win,5284325,56,2959892,2024,2
+0,0,0,0,0,0,1,0,0,0,02/11/2024,away,16580,574374,Barry,9,True,1,11,-10,loss,4525348,56,2959892,2024,2
+0,0,0,0,0,0,1,0,0,0,03/30/2024,away,16580,574402,Franklin Pierce,9,True,0,15,-15,loss,4534319,56,2959892,2024,2
+0,1,1,0,0,0,0,0,0,0,04/23/2024,away,16580,574368,American Int'l,9,True,33,8,25,win,5284325,56,2959892,2024,2

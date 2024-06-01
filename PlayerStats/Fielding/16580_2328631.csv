@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,02/03/2024,away,16580,30178,Northwestern Okla.,9,True,9,3,6,win,5015989,413,2328631,2024,2
-2,0,2,0,0,0,0,0,0,0,02/08/2024,home,16580,30220,Biola,9,True,15,16,-1,loss,5021934,413,2328631,2024,2
-1,0,1,0,0,0,0,0,0,0,03/23/2024,home,16580,568,Regis (CO),9,True,9,8,1,win,4543932,413,2328631,2024,2
+1,0,1,0,0,0,0,0,0,0,02/03/2024,away,16580,574347,Northwestern Okla.,9,True,9,3,6,win,5015989,413,2328631,2024,2
+2,0,2,0,0,0,0,0,0,0,02/08/2024,home,16580,574357,Biola,9,True,15,16,-1,loss,5021934,413,2328631,2024,2
+1,0,1,0,0,0,0,0,0,0,03/23/2024,home,16580,574443,Regis (CO),9,True,9,8,1,win,4543932,413,2328631,2024,2

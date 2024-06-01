@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/01/2024,home,16580,711,Towson,9,True,6,5,1,win,4527916,490,2802498,2024,1
-0,0,0,0,0,0,1,0,0,0,04/02/2024,home,16580,196,East Carolina,9,True,4,12,-8,loss,4534893,490,2802498,2024,1
-1,0,1,0,0,0,0,0,0,0,04/13/2024,away,16580,147,Clemson,9,True,4,0,4,win,4537319,490,2802498,2024,1
-1,0,1,0,0,0,0,0,0,0,05/23/2024,neutral,16580,193,Duke,9,True,1,8,-7,loss,5335987,490,2802498,2024,1
+0,1,1,0,0,0,0,0,0,0,03/01/2024,home,16580,573921,Towson,9,True,6,5,1,win,4527916,490,2802498,2024,1
+0,0,0,0,0,0,1,0,0,0,04/02/2024,home,16580,574056,East Carolina,9,True,4,12,-8,loss,4534893,490,2802498,2024,1
+1,0,1,0,0,0,0,0,0,0,04/13/2024,away,16580,574043,Clemson,9,True,4,0,4,win,4537319,490,2802498,2024,1
+1,0,1,0,0,0,0,0,0,0,05/23/2024,neutral,16580,574055,Duke,9,True,1,8,-7,loss,5335987,490,2802498,2024,1

@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,03/30/2024,away,16580,458,Charlotte,9,True,8,11,-3,loss,4534496,651,2799871,2024,1
-0,0,0,0,0,0,1,0,0,0,04/07/2024,home,16580,782,Wichita St.,10,True,3,2,1,win,4535989,651,2799871,2024,1
-0,1,1,0,0,0,0,0,0,0,04/28/2024,home,16580,229,Fla. Atlantic,9,True,3,6,-3,loss,4540325,651,2799871,2024,1
-0,1,1,0,0,0,0,0,0,0,05/16/2024,home,16580,9,UAB,9,True,3,4,-1,loss,4542187,651,2799871,2024,1
+1,0,1,0,0,0,0,0,0,0,03/30/2024,away,16580,574140,Charlotte,9,True,8,11,-3,loss,4534496,651,2799871,2024,1
+0,0,0,0,0,0,1,0,0,0,04/07/2024,home,16580,573964,Wichita St.,10,True,3,2,1,win,4535989,651,2799871,2024,1
+0,1,1,0,0,0,0,0,0,0,04/28/2024,home,16580,574065,Fla. Atlantic,9,True,3,6,-3,loss,4540325,651,2799871,2024,1
+0,1,1,0,0,0,0,0,0,0,05/16/2024,home,16580,573999,UAB,9,True,3,4,-1,loss,4542187,651,2799871,2024,1

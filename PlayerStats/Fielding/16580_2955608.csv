@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/16/2024,home,16580,30199,CUI,9,True,5,8,-3,loss,4525595,92,2955608,2024,2
-1,0,1,0,0,0,0,0,0,0,03/09/2024,away,16580,100,Cal State LA,9,True,9,10,-1,loss,4529624,92,2955608,2024,2
-0,1,1,0,0,0,0,0,1,0,04/07/2024,home,16580,30055,Cal St. Monterey Bay,9,True,18,5,13,win,4536007,92,2955608,2024,2
-0,0,0,0,0,0,2,0,0,0,04/21/2024,home,16580,645,Sonoma St.,10,True,15,14,1,win,4539009,92,2955608,2024,2
-0,2,2,0,0,0,0,0,0,0,04/27/2024,away,16580,91,Cal Poly Pomona,9,True,2,5,-3,loss,4540265,92,2955608,2024,2
+0,1,1,0,0,0,0,0,0,0,02/16/2024,home,16580,574355,CUI,9,True,5,8,-3,loss,4525595,92,2955608,2024,2
+1,0,1,0,0,0,0,0,0,0,03/09/2024,away,16580,574385,Cal State LA,9,True,9,10,-1,loss,4529624,92,2955608,2024,2
+0,1,1,0,0,0,0,0,1,0,04/07/2024,home,16580,574319,Cal St. Monterey Bay,9,True,18,5,13,win,4536007,92,2955608,2024,2
+0,0,0,0,0,0,2,0,0,0,04/21/2024,home,16580,574453,Sonoma St.,10,True,15,14,1,win,4539009,92,2955608,2024,2
+0,2,2,0,0,0,0,0,0,0,04/27/2024,away,16580,574380,Cal Poly Pomona,9,True,2,5,-3,loss,4540265,92,2955608,2024,2

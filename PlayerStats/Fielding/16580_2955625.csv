@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,1,2,0,0,0,0,0,0,0,02/16/2024,away,16580,30058,Claflin,9,True,11,0,11,win,4525565,1072,2955625,2024,2
-0,0,0,0,0,0,1,0,0,0,02/23/2024,away,16580,30154,Young Harris,9,True,1,5,-4,loss,4526697,1072,2955625,2024,2
-0,0,0,0,0,0,1,0,0,0,04/20/2024,home,16580,15646,Barton,10,True,10,9,1,win,4545400,1072,2955625,2024,2
+1,1,2,0,0,0,0,0,0,0,02/16/2024,away,16580,574320,Claflin,9,True,11,0,11,win,4525565,1072,2955625,2024,2
+0,0,0,0,0,0,1,0,0,0,02/23/2024,away,16580,574344,Young Harris,9,True,1,5,-4,loss,4526697,1072,2955625,2024,2
+0,0,0,0,0,0,1,0,0,0,04/20/2024,home,16580,574305,Barton,10,True,10,9,1,win,4545400,1072,2955625,2024,2

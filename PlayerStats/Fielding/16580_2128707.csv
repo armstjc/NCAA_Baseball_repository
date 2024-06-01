@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,1,0,03/18/2024,away,16580,9754,UC-Colo. Springs,9,True,15,11,4,win,4531366,413,2128707,2024,2
-1,1,2,0,0,0,1,0,0,0,03/22/2024,home,16580,568,Regis (CO),9,True,8,11,-3,loss,4532324,413,2128707,2024,2
-0,0,0,0,0,0,1,0,0,0,04/29/2024,home,16580,155,Colo. Sch. of Mines,9,True,9,4,5,win,4540199,413,2128707,2024,2
+0,1,1,0,0,0,0,0,1,0,03/18/2024,away,16580,574295,UC-Colo. Springs,9,True,15,11,4,win,4531366,413,2128707,2024,2
+1,1,2,0,0,0,1,0,0,0,03/22/2024,home,16580,574443,Regis (CO),9,True,8,11,-3,loss,4532324,413,2128707,2024,2
+0,0,0,0,0,0,1,0,0,0,04/29/2024,home,16580,574391,Colo. Sch. of Mines,9,True,9,4,5,win,4540199,413,2128707,2024,2

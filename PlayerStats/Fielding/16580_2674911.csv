@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/09/2024,away,16580,413,MSU Denver,9,True,4,8,-4,loss,4542770,30220,2674911,2024,2
-0,0,1,1,0,0,0,0,0,0,03/01/2024,away,16580,2697,Hawaii Hilo,9,True,6,7,-1,loss,4527873,30220,2674911,2024,2
-0,1,1,0,0,0,1,0,0,0,03/09/2024,home,16580,30199,CUI,8,True,8,7,1,win,4543843,30220,2674911,2024,2
-1,1,2,0,0,0,0,0,0,0,03/22/2024,home,16580,133,Chaminade,9,True,4,6,-2,loss,4542759,30220,2674911,2024,2
+0,0,0,0,0,0,1,0,0,0,02/09/2024,away,16580,574423,MSU Denver,9,True,4,8,-4,loss,4542770,30220,2674911,2024,2
+0,0,1,1,0,0,0,0,0,0,03/01/2024,away,16580,574275,Hawaii Hilo,9,True,6,7,-1,loss,4527873,30220,2674911,2024,2
+0,1,1,0,0,0,1,0,0,0,03/09/2024,home,16580,574355,CUI,8,True,8,7,1,win,4543843,30220,2674911,2024,2
+1,1,2,0,0,0,0,0,0,0,03/22/2024,home,16580,583094,Chaminade,9,True,4,6,-2,loss,4542759,30220,2674911,2024,2

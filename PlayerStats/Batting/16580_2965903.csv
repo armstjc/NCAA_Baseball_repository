@@ -1,3 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,2,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,neutral,16580,370,LMU (CA),9,True,9,5,4,win,4527145,732,2965903,2024,1
-1,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,04/16/2024,home,16580,30024,Utah Valley,9,True,27,4,23,win,4537781,732,2965903,2024,1
+0,2,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,neutral,16580,574112,LMU (CA),9,True,9,5,4,win,4527145,732,2965903,2024,1
+1,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,04/16/2024,home,16580,573992,Utah Valley,9,True,27,4,23,win,4537781,732,2965903,2024,1

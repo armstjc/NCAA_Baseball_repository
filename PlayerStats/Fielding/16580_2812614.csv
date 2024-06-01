@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/15/2024,away,16580,645,Sonoma St.,9,True,17,3,14,win,4530815,91,2812614,2024,2
-0,1,1,0,0,0,0,0,0,0,04/06/2024,away,16580,103,Stanislaus St.,9,True,6,4,2,win,4542602,91,2812614,2024,2
-0,0,1,1,0,0,0,0,0,0,04/14/2024,home,16580,30198,Cal St. San Marcos,9,True,10,13,-3,loss,4537529,91,2812614,2024,2
-1,0,1,0,0,0,0,0,0,0,05/17/2024,home,16580,30149,Point Loma,9,True,3,8,-5,loss,5335099,91,2812614,2024,2
+0,0,0,0,0,0,1,0,0,0,03/15/2024,away,16580,574453,Sonoma St.,9,True,17,3,14,win,4530815,91,2812614,2024,2
+0,1,1,0,0,0,0,0,0,0,04/06/2024,away,16580,574386,Stanislaus St.,9,True,6,4,2,win,4542602,91,2812614,2024,2
+0,0,1,1,0,0,0,0,0,0,04/14/2024,home,16580,574354,Cal St. San Marcos,9,True,10,13,-3,loss,4537529,91,2812614,2024,2
+1,0,1,0,0,0,0,0,0,0,05/17/2024,home,16580,574340,Point Loma,9,True,3,8,-5,loss,5335099,91,2812614,2024,2

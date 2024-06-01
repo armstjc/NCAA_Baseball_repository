@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,1,1,0,0,2,1,0,0,02/20/2024,home,16580,706,UTSA,9,True,14,10,4,win,4526310,1395,2306133,2024,1
-1,0,1,0,0,0,0,0,0,0,02/27/2024,away,16580,2743,UIW,9,True,15,10,5,win,4527548,1395,2306133,2024,1
-0,0,0,0,0,0,1,0,0,0,05/07/2024,away,16580,51,Baylor,9,True,4,11,-7,loss,4541636,1395,2306133,2024,1
+0,0,1,1,0,0,2,1,0,0,02/20/2024,home,16580,573919,UTSA,9,True,14,10,4,win,4526310,1395,2306133,2024,1
+1,0,1,0,0,0,0,0,0,0,02/27/2024,away,16580,573984,UIW,9,True,15,10,5,win,4527548,1395,2306133,2024,1
+0,0,0,0,0,0,1,0,0,0,05/07/2024,away,16580,574012,Baylor,9,True,4,11,-7,loss,4541636,1395,2306133,2024,1

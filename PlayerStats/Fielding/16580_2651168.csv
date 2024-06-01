@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,03/19/2024,home,16580,219,Evansville,9,True,11,3,8,win,4531824,334,2651168,2024,1
-0,0,0,0,0,0,1,0,0,0,04/09/2024,away,16580,625,Samford,9,True,7,9,-2,loss,4536231,334,2651168,2024,1
-0,0,0,0,0,0,2,0,0,0,04/16/2024,away,16580,367,Louisville,9,True,17,13,4,win,4537898,334,2651168,2024,1
+1,0,1,0,0,0,0,0,0,0,03/19/2024,home,16580,574061,Evansville,9,True,11,3,8,win,4531824,334,2651168,2024,1
+0,0,0,0,0,0,1,0,0,0,04/09/2024,away,16580,574199,Samford,9,True,7,9,-2,loss,4536231,334,2651168,2024,1
+0,0,0,0,0,0,2,0,0,0,04/16/2024,away,16580,574110,Louisville,9,True,17,13,4,win,4537898,334,2651168,2024,1

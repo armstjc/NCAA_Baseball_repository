@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/03/2024,away,16580,30220,Biola,9,True,2,4,-2,loss,4544755,92,2811173,2024,2
-0,0,1,1,0,0,1,0,0,0,02/11/2024,home,16580,30147,Fresno Pacific,9,True,10,9,1,win,4525198,92,2811173,2024,2
-0,1,1,0,0,0,0,0,0,0,02/25/2024,away,16580,103,Stanislaus St.,9,True,4,5,-1,loss,4527349,92,2811173,2024,2
+0,1,1,0,0,0,0,0,0,0,02/03/2024,away,16580,574357,Biola,9,True,2,4,-2,loss,4544755,92,2811173,2024,2
+0,0,1,1,0,0,1,0,0,0,02/11/2024,home,16580,574339,Fresno Pacific,9,True,10,9,1,win,4525198,92,2811173,2024,2
+0,1,1,0,0,0,0,0,0,0,02/25/2024,away,16580,574386,Stanislaus St.,9,True,4,5,-1,loss,4527349,92,2811173,2024,2

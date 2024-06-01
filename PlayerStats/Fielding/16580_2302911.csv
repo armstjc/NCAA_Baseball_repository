@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,1,0,0,0,03/10/2024,home,16580,533,Pace,9,True,4,8,-4,loss,4529919,407,2302911,2024,2
-0,0,0,0,0,0,1,0,0,0,03/30/2024,away,16580,560,Queens (NY),9,True,4,10,-6,loss,4543237,407,2302911,2024,2
-0,0,0,0,0,0,2,0,0,0,04/07/2024,away,16580,423,Millersville,9,True,1,10,-9,loss,4536030,407,2302911,2024,2
-1,0,1,0,0,0,0,0,0,0,04/20/2024,away,16580,357,Lincoln (PA),9,True,11,6,5,win,4538576,407,2302911,2024,2
+0,1,1,0,0,0,1,0,0,0,03/10/2024,home,16580,574437,Pace,9,True,4,8,-4,loss,4529919,407,2302911,2024,2
+0,0,0,0,0,0,1,0,0,0,03/30/2024,away,16580,574441,Queens (NY),9,True,4,10,-6,loss,4543237,407,2302911,2024,2
+0,0,0,0,0,0,2,0,0,0,04/07/2024,away,16580,574425,Millersville,9,True,1,10,-9,loss,4536030,407,2302911,2024,2
+1,0,1,0,0,0,0,0,0,0,04/20/2024,away,16580,574415,Lincoln (PA),9,True,11,6,5,win,4538576,407,2302911,2024,2

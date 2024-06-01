@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/27/2024,home,16580,728,Upper Iowa,9,True,7,13,-6,loss,4545082,799,2684274,2024,2
-0,0,0,0,0,0,3,0,0,0,03/15/2024,home,16580,1267,Northland,9,True,7,1,6,win,5253722,799,2684274,2024,2
-0,1,1,0,0,0,1,0,0,0,04/20/2024,home,16580,30221,Davenport,9,True,6,20,-14,loss,4538517,799,2684274,2024,2
+0,1,1,0,0,0,0,0,0,0,02/27/2024,home,16580,574458,Upper Iowa,9,True,7,13,-6,loss,4545082,799,2684274,2024,2
+0,0,0,0,0,0,3,0,0,0,03/15/2024,home,16580,574636,Northland,9,True,7,1,6,win,5253722,799,2684274,2024,2
+0,1,1,0,0,0,1,0,0,0,04/20/2024,home,16580,574358,Davenport,9,True,6,20,-14,loss,4538517,799,2684274,2024,2

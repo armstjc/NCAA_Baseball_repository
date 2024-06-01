@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,0,4,2,0,0,0,0,0,0,02/09/2024,away,16580,1071,Emporia St.,11,True,4,5,-1,loss,4525374,155,2804515,2024,2
-2,0,2,0,0,0,0,0,0,0,03/02/2024,home,16580,30125,Minot St.,9,True,27,6,21,win,4528232,155,2804515,2024,2
-1,0,2,1,0,0,0,0,0,0,03/23/2024,home,16580,2720,CSU Pueblo,9,True,10,5,5,win,4532763,155,2804515,2024,2
-0,1,1,0,0,0,0,0,0,0,04/06/2024,home,16580,929,Adams St.,9,True,5,11,-6,loss,4535624,155,2804515,2024,2
+2,0,4,2,0,0,0,0,0,0,02/09/2024,away,16580,574483,Emporia St.,11,True,4,5,-1,loss,4525374,155,2804515,2024,2
+2,0,2,0,0,0,0,0,0,0,03/02/2024,home,16580,574332,Minot St.,9,True,27,6,21,win,4528232,155,2804515,2024,2
+1,0,2,1,0,0,0,0,0,0,03/23/2024,home,16580,574276,CSU Pueblo,9,True,10,5,5,win,4532763,155,2804515,2024,2
+0,1,1,0,0,0,0,0,0,0,04/06/2024,home,16580,574467,Adams St.,9,True,5,11,-6,loss,4535624,155,2804515,2024,2

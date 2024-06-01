@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/05/2024,away,16580,48,Charleston So.,9,True,9,6,3,win,4528962,540,2809583,2024,1
-0,0,0,0,0,0,1,0,0,0,03/17/2024,home,16580,342,Lafayette,9,True,22,8,14,win,4531573,540,2809583,2024,1
-0,1,1,0,0,0,0,0,0,0,04/10/2024,away,16580,739,Villanova,9,True,3,5,-2,loss,4536430,540,2809583,2024,1
-0,0,0,0,0,0,3,0,0,0,04/17/2024,home,16580,606,Saint Joseph's,9,True,3,8,-5,loss,4537943,540,2809583,2024,1
+0,0,0,0,0,0,1,0,0,0,03/05/2024,away,16580,574011,Charleston So.,9,True,9,6,3,win,4528962,540,2809583,2024,1
+0,0,0,0,0,0,1,0,0,0,03/17/2024,home,16580,574102,Lafayette,9,True,22,8,14,win,4531573,540,2809583,2024,1
+0,1,1,0,0,0,0,0,0,0,04/10/2024,away,16580,573950,Villanova,9,True,3,5,-2,loss,4536430,540,2809583,2024,1
+0,0,0,0,0,0,3,0,0,0,04/17/2024,home,16580,574194,Saint Joseph's,9,True,3,8,-5,loss,4537943,540,2809583,2024,1

@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,04/02/2024,away,16580,1092,Gardner-Webb,9,True,6,4,2,win,4534749,769,2966358,2024,1
-0,0,0,0,0,0,1,0,0,0,04/23/2024,away,16580,694,Tennessee,9,True,4,12,-8,loss,4539166,769,2966358,2024,1
-0,1,1,0,0,0,0,0,0,0,05/12/2024,home,16580,406,Mercer,9,True,14,13,1,win,4542011,769,2966358,2024,1
+0,0,0,0,0,0,1,0,0,0,04/02/2024,away,16580,573977,Gardner-Webb,9,True,6,4,2,win,4534749,769,2966358,2024,1
+0,0,0,0,0,0,1,0,0,0,04/23/2024,away,16580,574226,Tennessee,9,True,4,12,-8,loss,4539166,769,2966358,2024,1
+0,1,1,0,0,0,0,0,0,0,05/12/2024,home,16580,574123,Mercer,9,True,14,13,1,win,4542011,769,2966358,2024,1

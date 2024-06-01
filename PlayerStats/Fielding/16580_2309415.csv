@@ -1,3 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,03/02/2024,away,16580,740,VCU,9,True,0,10,-10,loss,4528027,127,2309415,2024,1
-0,0,0,0,0,0,2,0,0,0,04/23/2024,home,16580,562,Quinnipiac,9,True,14,15,-1,loss,5284286,127,2309415,2024,1
+1,0,1,0,0,0,0,0,0,0,03/02/2024,away,16580,573951,VCU,9,True,0,10,-10,loss,4528027,127,2309415,2024,1
+0,0,0,0,0,0,2,0,0,0,04/23/2024,home,16580,574184,Quinnipiac,9,True,14,15,-1,loss,5284286,127,2309415,2024,1

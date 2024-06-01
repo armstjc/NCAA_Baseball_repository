@@ -1,3 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,04/15/2024,home,16580,23008,Ozarks (AR),9,True,2,1,1,win,5282912,1116,2809488,2024,2
-1,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,04/26/2024,home,16580,947,Arkansas Tech,9,True,11,8,3,win,5285036,1116,2809488,2024,2
+0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,04/15/2024,home,16580,574682,Ozarks (AR),9,True,2,1,1,win,5282912,1116,2809488,2024,2
+1,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,04/26/2024,home,16580,574469,Arkansas Tech,9,True,11,8,3,win,5285036,1116,2809488,2024,2

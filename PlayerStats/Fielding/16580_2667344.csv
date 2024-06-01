@@ -1,3 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/08/2024,away,16580,30090,Tex. A&M Int'l,9,True,16,5,11,win,4529406,30105,2667344,2024,2
-1,0,1,0,0,0,0,0,0,0,03/29/2024,home,16580,767,West Tex. A&M,9,True,1,18,-17,loss,4544493,30105,2667344,2024,2
+0,1,1,0,0,0,0,0,0,0,03/08/2024,away,16580,574324,Tex. A&M Int'l,9,True,16,5,11,win,4529406,30105,2667344,2024,2
+1,0,1,0,0,0,0,0,0,0,03/29/2024,home,16580,574464,West Tex. A&M,9,True,1,18,-17,loss,4544493,30105,2667344,2024,2

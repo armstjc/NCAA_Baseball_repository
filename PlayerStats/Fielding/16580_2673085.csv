@@ -1,5 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/23/2024,away,16580,11504,Queens (NC),9,True,1,6,-5,loss,4526722,482,2673085,2024,1
-0,0,0,0,0,0,1,1,0,0,03/12/2024,away,16580,317,James Madison,9,True,1,2,-1,loss,4530501,482,2673085,2024,1
-0,0,0,0,0,0,1,0,0,0,04/07/2024,away,16580,416,Michigan St.,9,True,8,6,2,win,4780680,482,2673085,2024,1
-0,0,0,0,0,0,3,0,0,0,04/21/2024,away,16580,639,Siena,9,True,0,5,-5,loss,4539005,482,2673085,2024,1
+0,0,0,0,0,0,1,0,0,0,02/23/2024,away,16580,574231,Queens (NC),9,True,1,6,-5,loss,4526722,482,2673085,2024,1
+0,0,0,0,0,0,1,1,0,0,03/12/2024,away,16580,574097,James Madison,9,True,1,2,-1,loss,4530501,482,2673085,2024,1
+0,0,0,0,0,0,1,0,0,0,04/07/2024,away,16580,574126,Michigan St.,9,True,8,6,2,win,4780680,482,2673085,2024,1
+0,0,0,0,0,0,3,0,0,0,04/21/2024,away,16580,574206,Siena,9,True,0,5,-5,loss,4539005,482,2673085,2024,1
+0,1,1,0,0,0,0,0,0,0,05/31/2024,away,16580,574168,Oklahoma St.,9,True,7,19,-12,loss,5336459,482,2673085,2024,1

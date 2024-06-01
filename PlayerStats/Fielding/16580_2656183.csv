@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-3,0,3,0,0,0,0,0,0,0,02/22/2024,neutral,16580,94,CSU Bakersfield,9,True,6,3,3,win,4526450,434,2656183,2024,1
-1,0,1,0,0,0,0,0,0,0,02/27/2024,home,16580,654,Southeast Mo. St.,9,True,3,8,-5,loss,4527521,434,2656183,2024,1
-3,0,3,0,0,0,0,0,0,0,03/10/2024,home,16580,308,Purdue Fort Wayne,9,True,20,2,18,win,4529948,434,2656183,2024,1
-2,0,2,0,0,0,0,0,0,0,03/24/2024,home,16580,334,Kentucky,9,True,6,7,-1,loss,4532993,434,2656183,2024,1
-3,0,3,0,0,0,0,0,0,0,03/26/2024,neutral,16580,301,Illinois,9,True,3,11,-8,loss,4780688,434,2656183,2024,1
+3,0,3,0,0,0,0,0,0,0,02/22/2024,neutral,16580,574024,CSU Bakersfield,9,True,6,3,3,win,4526450,434,2656183,2024,1
+1,0,1,0,0,0,0,0,0,0,02/27/2024,home,16580,574211,Southeast Mo. St.,9,True,3,8,-5,loss,4527521,434,2656183,2024,1
+3,0,3,0,0,0,0,0,0,0,03/10/2024,home,16580,574091,Purdue Fort Wayne,9,True,20,2,18,win,4529948,434,2656183,2024,1
+2,0,2,0,0,0,0,0,0,0,03/24/2024,home,16580,574101,Kentucky,9,True,6,7,-1,loss,4532993,434,2656183,2024,1
+3,0,3,0,0,0,0,0,0,0,03/26/2024,neutral,16580,574087,Illinois,9,True,3,11,-8,loss,4780688,434,2656183,2024,1

@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,03/22/2024,away,16580,110,UCLA,9,True,15,2,13,win,4532294,657,2486505,2024,1
-0,0,0,0,0,0,1,0,0,0,05/04/2024,home,16580,107,California,9,True,4,11,-7,loss,4541180,657,2486505,2024,1
-1,0,1,0,0,0,0,0,0,0,05/14/2024,away,16580,260,Gonzaga,9,True,15,3,12,win,4542084,657,2486505,2024,1
+1,0,1,0,0,0,0,0,0,0,03/22/2024,away,16580,574034,UCLA,9,True,15,2,13,win,4532294,657,2486505,2024,1
+0,0,0,0,0,0,1,0,0,0,05/04/2024,home,16580,574031,California,9,True,4,11,-7,loss,4541180,657,2486505,2024,1
+1,0,1,0,0,0,0,0,0,0,05/14/2024,away,16580,574077,Gonzaga,9,True,15,3,12,win,4542084,657,2486505,2024,1

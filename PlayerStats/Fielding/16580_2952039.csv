@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/23/2024,home,16580,19117,Salem (WV),9,True,8,15,-7,loss,5255112,1098,2952039,2024,2
-0,0,0,0,0,0,1,0,0,0,04/06/2024,home,16580,1013,Charleston (WV),9,True,0,8,-8,loss,5281348,1098,2952039,2024,2
-0,0,1,1,0,0,0,0,0,0,04/20/2024,away,16580,174,Davis & Elkins,9,True,11,7,4,win,4546127,1098,2952039,2024,2
-0,0,0,0,0,0,2,0,0,0,05/03/2024,away,16580,1028,Concord,9,True,1,6,-5,loss,4540953,1098,2952039,2024,2
+0,0,0,0,0,0,1,0,0,0,03/23/2024,home,16580,574306,Salem (WV),9,True,8,15,-7,loss,5255112,1098,2952039,2024,2
+0,0,0,0,0,0,1,0,0,0,04/06/2024,home,16580,574478,Charleston (WV),9,True,0,8,-8,loss,5281348,1098,2952039,2024,2
+0,0,1,1,0,0,0,0,0,0,04/20/2024,away,16580,574394,Davis & Elkins,9,True,11,7,4,win,4546127,1098,2952039,2024,2
+0,0,0,0,0,0,2,0,0,0,05/03/2024,away,16580,574481,Concord,9,True,1,6,-5,loss,4540953,1098,2952039,2024,2

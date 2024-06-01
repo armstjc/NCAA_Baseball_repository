@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,2,2,0,0,0,1,1,0,0,02/18/2024,home,16580,249,George Washington,9,True,8,2,6,win,4526042,523,2825662,2024,1
-0,1,1,0,0,0,1,0,0,0,02/25/2024,home,16580,587,Rutgers,9,True,9,5,4,win,4780620,523,2825662,2024,1
-0,1,1,0,0,0,0,0,0,0,03/03/2024,home,16580,458,Charlotte,9,True,3,0,3,win,4528438,523,2825662,2024,1
-0,1,1,0,0,0,0,0,0,0,04/14/2024,home,16580,317,James Madison,9,True,6,3,3,win,4537562,523,2825662,2024,1
-0,1,1,0,0,0,0,0,0,0,04/21/2024,away,16580,388,Marshall,9,True,12,2,10,win,4538873,523,2825662,2024,1
+0,2,2,0,0,0,1,1,0,0,02/18/2024,home,16580,574071,George Washington,9,True,8,2,6,win,4526042,523,2825662,2024,1
+0,1,1,0,0,0,1,0,0,0,02/25/2024,home,16580,574190,Rutgers,9,True,9,5,4,win,4780620,523,2825662,2024,1
+0,1,1,0,0,0,0,0,0,0,03/03/2024,home,16580,574140,Charlotte,9,True,3,0,3,win,4528438,523,2825662,2024,1
+0,1,1,0,0,0,0,0,0,0,04/14/2024,home,16580,574097,James Madison,9,True,6,3,3,win,4537562,523,2825662,2024,1
+0,1,1,0,0,0,0,0,0,0,04/21/2024,away,16580,574116,Marshall,9,True,12,2,10,win,4538873,523,2825662,2024,1

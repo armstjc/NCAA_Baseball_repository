@@ -1,3 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/08/2024,away,16580,141,The Citadel,10,True,10,5,5,win,4529516,735,2660835,2024,1
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/16/2024,away,16580,115,Campbell,9,True,4,13,-9,loss,4531491,735,2660835,2024,1
+0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/08/2024,away,16580,574042,The Citadel,10,True,10,5,5,win,4529516,735,2660835,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/16/2024,away,16580,574036,Campbell,9,True,4,13,-9,loss,4531491,735,2660835,2024,1

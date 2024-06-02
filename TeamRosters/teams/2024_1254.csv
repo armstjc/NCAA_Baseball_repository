@@ -1,7 +1,7 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Balcerzak, Trevor","Fr","2966231",2024,"43","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1254&stats_player_seq=2966231",1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
 "Boccio, Joe","So","2816087",2024,"29","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1254&stats_player_seq=2816087",1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
-"Bradley, Travis","Jr",NA,2024,"8","INF",NA,1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
+"Bradley, Travis","Jr","2966209",2024,"8","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1254&stats_player_seq=2966209",1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
 "Brooks, Donovan","Fr","2966219",2024,"22","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1254&stats_player_seq=2966219",1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
 "Carroll, Thomas","Jr","2678591",2024,"5","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1254&stats_player_seq=2678591",1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
 "Colon, Gabe","So","2830159",2024,"1","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1254&stats_player_seq=2830159",1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
@@ -38,7 +38,7 @@
 "Tocci, Jordan","Fr","2966235",2024,"47","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1254&stats_player_seq=2966235",1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
 "Valentine, Jack","Sr","2511649",2024,"35","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1254&stats_player_seq=2511649",1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
 "Van Etten, Brian","Jr","2678590",2024,"14","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1254&stats_player_seq=2678590",1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
-"Veney, Kameron","Fr",NA,2024,"40","OF",NA,1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
+"Veney, Kameron","Fr","2966228",2024,"40","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1254&stats_player_seq=2966228",1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
 "Wescott, Ayden","Fr",NA,2024,"51","P",NA,1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
 "White, Marcus","Sr","2508944",2024,"12","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1254&stats_player_seq=2508944",1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580
 "Whitmore, Michael","Fr","2966226",2024,"38","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=1254&stats_player_seq=2966226",1254,"Neumann","/team/1254/16580",30233,"Atlantic East",3,2024,16580

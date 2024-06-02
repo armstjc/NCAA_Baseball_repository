@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Adamson, Tristan","Jr","2668650",2024,"2","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2668650",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
-"Alexander, Max","So",NA,2024,"23","OF",NA,281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
+"Alexander, Max","So","2813493",2024,"23","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2813493",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
 "Anderson, Kaden","Jr","2668688",2024,"22","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2668688",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
 "Bansek, Connor","Sr","2486520",2024,"26","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2486520",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
 "Barrera, Paul","Fr","2977473",2024,"55","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2977473",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
@@ -41,8 +41,8 @@
 "Olsen, Colin","Fr","2977471",2024,"51","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2977471",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
 "Rockow, Jimmy","So","2813471",2024,"45","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2813471",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
 "Ryan, Ethan","Fr","2977470",2024,"48","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2977470",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
-"Smith, Carter","Sr","2486546",2024,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2486546",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
 "Smith, Cooper","Jr","2668654",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2668654",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
+"Smith, Carter","Sr","2486546",2024,"15","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2486546",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
 "Trimble, Matthew","So","2813485",2024,"4","UT","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2813485",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
 "Walker Jr., Hal","Jr","2668685",2024,"50","1B","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2668685",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580
 "Wescott, Landin","So","2813496",2024,"44","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=281&stats_player_seq=2813496",281,"Hiram","/team/281/16580",897,"NCAC",3,2024,16580

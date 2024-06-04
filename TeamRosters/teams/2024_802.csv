@@ -1,6 +1,6 @@
 "player_name","class","player_id","season","number","position","player_url","team_id","team_name","team_url","conference_id","conference","division","year","season_id"
 "Adams, J.","N/A","2979570",2024,"4","cf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2979570",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
-"Affeldt, Jon","Jr",NA,2024,"46","INF",NA,802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
+"Affeldt, Jon","Jr","2686886",2024,"46","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2686886",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
 "Argersinger, Nick","N/A","2979808",2024,"24","rf","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2979808",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
 "Baumann, Matt","Sr","2515060",2024,"5","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2515060",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
 "Beyer, Tyler","Sr","2515064",2024,"23","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2515064",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
@@ -28,6 +28,7 @@
 "Martell, Colton","Jr","2686797",2024,"3","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2686797",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
 "Matson, Logan","Sr","2518954",2024,"4","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2518954",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
 "Meinholz, Jacob","Sr","2515071",2024,"33","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2515071",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
+"Mistele, Drew","Fr","2988410",2024,"35","ph","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2988410",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
 "O'Connell, Riley","So","2835537",2024,"13","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2835537",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
 "Oliver, Kamden","So","2835558",2024,"34","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2835558",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
 "Olson, C.","N/A","2979572",2024,"17","2b","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2979572",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
@@ -42,7 +43,7 @@
 "Soule, Tyler","So","2835556",2024,"15","INF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2835556",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
 "Tomczak, Anthony","Jr","2686836",2024,"28","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2686836",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
 "Van Ess, Trent","Sr","2515051",2024,"2","OF","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2515051",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
-"VanLaanen, Logan","Jr",NA,2024,"50","C",NA,802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
+"VanLaanen, Logan","Jr","2686798",2024,"50","C","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2686798",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
 "Weckler, Mason","So","2835536",2024,"11","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2835536",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
 "Weisenberger, Kale","Jr","2686834",2024,"19","P","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2686834",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580
 "Wintheiser, UNKNOWN","N/A","2979574",2024,"18","p","https://stats.ncaa.org/player/index?game_sport_year_ctl_id=16580&org_id=802&stats_player_seq=2979574",802,"Wis.-Stevens Point","/team/802/16580",1473,"WIAC",3,2024,16580

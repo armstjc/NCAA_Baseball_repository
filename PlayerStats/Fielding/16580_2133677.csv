@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/16/2024,home,16580,817,Youngstown St.,9,True,20,2,18,win,4525684,670,2133677,2024,1
-1,0,1,0,0,0,0,0,0,0,02/24/2024,neutral,16580,334,Kentucky,9,True,5,11,-6,loss,4526939,670,2133677,2024,1
-0,1,1,0,0,0,0,0,0,0,02/27/2024,home,16580,553,Prairie View,9,True,23,2,21,win,4527626,670,2133677,2024,1
+0,1,1,0,0,0,0,0,0,0,02/16/2024,home,16580,573971,Youngstown St.,9,True,20,2,18,win,4525684,670,2133677,2024,1
+1,0,1,0,0,0,0,0,0,0,02/24/2024,neutral,16580,574101,Kentucky,9,True,5,11,-6,loss,4526939,670,2133677,2024,1
+0,1,1,0,0,0,0,0,0,0,02/27/2024,home,16580,574181,Prairie View,9,True,23,2,21,win,4527626,670,2133677,2024,1

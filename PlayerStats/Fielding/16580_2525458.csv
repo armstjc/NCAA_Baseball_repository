@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,1,0,0,0,02/27/2024,away,16580,657,Southern California,9,True,8,5,3,win,4492264,418,2525458,2024,1
-0,1,1,0,0,0,0,0,0,0,03/09/2024,away,16580,149,Coastal Carolina,9,True,6,19,-13,loss,4492271,418,2525458,2024,1
-0,1,1,0,0,0,2,0,0,0,04/02/2024,home,16580,204,Eastern Mich.,9,True,18,6,12,win,4492279,418,2525458,2024,1
-1,1,2,0,0,0,0,1,0,0,04/27/2024,home,16580,99,Long Beach St.,9,True,7,5,2,win,4492291,418,2525458,2024,1
-0,1,1,0,0,0,1,1,0,0,05/03/2024,away,16580,416,Michigan St.,10,True,2,3,-1,loss,4492294,418,2525458,2024,1
+0,1,1,0,0,0,1,0,0,0,02/27/2024,away,16580,574213,Southern California,9,True,8,5,3,win,4492264,418,2525458,2024,1
+0,1,1,0,0,0,0,0,0,0,03/09/2024,away,16580,574044,Coastal Carolina,9,True,6,19,-13,loss,4492271,418,2525458,2024,1
+0,1,1,0,0,0,2,0,0,0,04/02/2024,home,16580,574060,Eastern Mich.,9,True,18,6,12,win,4492279,418,2525458,2024,1
+1,1,2,0,0,0,0,1,0,0,04/27/2024,home,16580,574027,Long Beach St.,9,True,7,5,2,win,4492291,418,2525458,2024,1
+0,1,1,0,0,0,1,1,0,0,05/03/2024,away,16580,574126,Michigan St.,10,True,2,3,-1,loss,4492294,418,2525458,2024,1

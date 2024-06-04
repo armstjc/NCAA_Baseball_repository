@@ -1,3 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/06/2024,home,16580,995,Caldwell,9,True,8,0,8,win,4544521,23157,2822161,2024,2
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/09/2024,away,16580,8956,Dominican (NY),9,True,14,0,14,win,4536407,23157,2822161,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/06/2024,home,16580,574472,Caldwell,9,True,8,0,8,win,4544521,23157,2822161,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/09/2024,away,16580,574286,Dominican (NY),9,True,14,0,14,win,4536407,23157,2822161,2024,2

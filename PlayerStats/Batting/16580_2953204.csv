@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/09/2024,home,16580,230,Florida Tech,9,True,11,0,11,win,4525158,734,2953204,2024,2
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/20/2024,home,16580,561,Quincy,9,True,11,9,2,win,4526290,734,2953204,2024,2
-0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/02/2024,neutral,16580,1096,Georgia College,9,True,15,3,12,win,4534661,734,2953204,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02/09/2024,home,16580,574400,Florida Tech,9,True,11,0,11,win,4525158,734,2953204,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/20/2024,home,16580,574442,Quincy,9,True,11,9,2,win,4526290,734,2953204,2024,2
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,04/02/2024,neutral,16580,574239,Georgia College,9,True,15,3,12,win,4534661,734,2953204,2024,2

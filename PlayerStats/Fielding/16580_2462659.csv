@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/02/2024,away,16580,202,Eastern Ky.,9,True,5,3,2,win,4527957,771,2462659,2024,1
-1,0,1,0,0,0,2,0,0,0,03/12/2024,away,16580,140,Cincinnati,9,True,12,11,1,win,4530348,771,2462659,2024,1
-0,0,0,0,0,0,1,0,0,0,04/21/2024,home,16580,660,SIUE,9,True,7,6,1,win,4539084,771,2462659,2024,1
-0,0,0,0,0,0,1,0,0,0,05/18/2024,away,16580,661,Southern Ind.,9,True,3,10,-7,loss,4542531,771,2462659,2024,1
+0,1,1,0,0,0,0,0,0,0,03/02/2024,away,16580,574059,Eastern Ky.,9,True,5,3,2,win,4527957,771,2462659,2024,1
+1,0,1,0,0,0,2,0,0,0,03/12/2024,away,16580,574041,Cincinnati,9,True,12,11,1,win,4530348,771,2462659,2024,1
+0,0,0,0,0,0,1,0,0,0,04/21/2024,home,16580,574215,SIUE,9,True,7,6,1,win,4539084,771,2462659,2024,1
+0,0,0,0,0,0,1,0,0,0,05/18/2024,away,16580,574232,Southern Ind.,9,True,3,10,-7,loss,4542531,771,2462659,2024,1

@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,1,2,0,0,0,0,0,0,0,02/23/2024,home,16580,540,Penn,9,True,4,3,1,win,4526755,2,2826935,2024,1
-0,1,1,0,0,0,0,0,0,0,03/28/2024,home,16580,30024,Utah Valley,9,True,3,7,-4,loss,4533803,2,2826935,2024,1
-1,0,1,0,0,0,0,0,0,0,04/10/2024,home,16580,700,Texas Tech,9,True,3,21,-18,loss,4536400,2,2826935,2024,1
-0,0,0,0,0,0,1,0,0,0,04/29/2024,away,16580,77,BYU,9,True,6,8,-2,loss,4540558,2,2826935,2024,1
+1,1,2,0,0,0,0,0,0,0,02/23/2024,home,16580,574177,Penn,9,True,4,3,1,win,4526755,2,2826935,2024,1
+0,1,1,0,0,0,0,0,0,0,03/28/2024,home,16580,573992,Utah Valley,9,True,3,7,-4,loss,4533803,2,2826935,2024,1
+1,0,1,0,0,0,0,0,0,0,04/10/2024,home,16580,573916,Texas Tech,9,True,3,21,-18,loss,4536400,2,2826935,2024,1
+0,0,0,0,0,0,1,0,0,0,04/29/2024,away,16580,574018,BYU,9,True,6,8,-2,loss,4540558,2,2826935,2024,1

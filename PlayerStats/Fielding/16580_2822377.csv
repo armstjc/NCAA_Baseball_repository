@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,04/09/2024,away,16580,1059,D'Youville,9,True,7,8,-1,loss,4536291,246,2822377,2024,2
-1,0,1,0,0,0,0,0,0,0,04/26/2024,away,16580,143,Clarion,9,True,3,1,2,win,4546243,246,2822377,2024,2
-0,0,0,0,0,0,3,0,0,0,05/02/2024,home,16580,30063,Seton Hill,9,True,4,10,-6,loss,5288942,246,2822377,2024,2
+0,0,0,0,0,0,1,0,0,0,04/09/2024,away,16580,574364,D'Youville,9,True,7,8,-1,loss,4536291,246,2822377,2024,2
+1,0,1,0,0,0,0,0,0,0,04/26/2024,away,16580,574389,Clarion,9,True,3,1,2,win,4546243,246,2822377,2024,2
+0,0,0,0,0,0,3,0,0,0,05/02/2024,home,16580,574321,Seton Hill,9,True,4,10,-6,loss,5288942,246,2822377,2024,2

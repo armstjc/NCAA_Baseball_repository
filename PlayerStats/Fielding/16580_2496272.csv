@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/16/2024,home,16580,468,Southern N.H.,9,True,3,8,-5,loss,4531414,1318,2496272,2024,2
-0,1,1,0,0,0,0,0,0,0,03/22/2024,home,16580,23157,Felician,9,True,3,9,-6,loss,5254952,1318,2496272,2024,2
-0,1,1,0,0,0,0,0,0,0,04/07/2024,home,16580,8366,Goldey-Beacom,9,True,8,10,-2,loss,4543451,1318,2496272,2024,2
-1,0,1,0,0,0,0,0,0,0,04/20/2024,away,16580,995,Caldwell,9,True,10,3,7,win,4545825,1318,2496272,2024,2
+0,0,0,0,0,0,1,0,0,0,03/16/2024,home,16580,574432,Southern N.H.,9,True,3,8,-5,loss,4531414,1318,2496272,2024,2
+0,1,1,0,0,0,0,0,0,0,03/22/2024,home,16580,574309,Felician,9,True,3,9,-6,loss,5254952,1318,2496272,2024,2
+0,1,1,0,0,0,0,0,0,0,04/07/2024,home,16580,574280,Goldey-Beacom,9,True,8,10,-2,loss,4543451,1318,2496272,2024,2
+1,0,1,0,0,0,0,0,0,0,04/20/2024,away,16580,574472,Caldwell,9,True,10,3,7,win,4545825,1318,2496272,2024,2

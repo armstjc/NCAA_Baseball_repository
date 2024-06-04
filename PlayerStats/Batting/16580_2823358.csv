@@ -1,3 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/17/2024,away,16580,30137,Malone,9,True,11,4,7,win,4543367,333,2823358,2024,2
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/26/2024,home,16580,332,Kentucky St.,9,True,22,3,19,win,4533393,333,2823358,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/17/2024,away,16580,574335,Malone,9,True,11,4,7,win,4543367,333,2823358,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/26/2024,home,16580,574408,Kentucky St.,9,True,22,3,19,win,4533393,333,2823358,2024,2

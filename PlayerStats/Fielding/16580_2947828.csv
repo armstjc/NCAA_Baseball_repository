@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/02/2024,home,16580,1257,Newberry,13,True,11,9,2,win,4524970,1085,2947828,2024,2
-0,1,1,0,0,0,0,0,0,0,03/11/2024,away,16580,8875,Chowan,9,True,16,13,3,win,4543856,1085,2947828,2024,2
-1,0,1,0,0,0,0,0,0,0,03/25/2024,home,16580,30154,Young Harris,9,True,6,11,-5,loss,4533180,1085,2947828,2024,2
-0,0,0,0,0,0,1,0,0,0,04/27/2024,home,16580,1245,Mount Olive,9,True,6,11,-5,loss,4545739,1085,2947828,2024,2
+0,0,0,0,0,0,1,0,0,0,02/02/2024,home,16580,574251,Newberry,13,True,11,9,2,win,4524970,1085,2947828,2024,2
+0,1,1,0,0,0,0,0,0,0,03/11/2024,away,16580,574285,Chowan,9,True,16,13,3,win,4543856,1085,2947828,2024,2
+1,0,1,0,0,0,0,0,0,0,03/25/2024,home,16580,574344,Young Harris,9,True,6,11,-5,loss,4533180,1085,2947828,2024,2
+0,0,0,0,0,0,1,0,0,0,04/27/2024,home,16580,574250,Mount Olive,9,True,6,11,-5,loss,4545739,1085,2947828,2024,2

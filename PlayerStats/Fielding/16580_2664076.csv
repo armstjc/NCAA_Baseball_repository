@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,02/09/2024,home,16580,230,Florida Tech,9,True,11,0,11,win,4525158,734,2664076,2024,2
-0,3,3,0,0,0,1,0,0,0,02/16/2024,home,16580,30093,AUM,9,True,5,0,5,win,4544926,734,2664076,2024,2
-0,1,1,0,0,0,0,0,0,0,03/02/2024,home,16580,30153,Union (TN),9,True,7,4,3,win,4542977,734,2664076,2024,2
+1,0,1,0,0,0,0,0,0,0,02/09/2024,home,16580,574400,Florida Tech,9,True,11,0,11,win,4525158,734,2664076,2024,2
+0,3,3,0,0,0,1,0,0,0,02/16/2024,home,16580,574326,AUM,9,True,5,0,5,win,4544926,734,2664076,2024,2
+0,1,1,0,0,0,0,0,0,0,03/02/2024,home,16580,574343,Union (TN),9,True,7,4,3,win,4542977,734,2664076,2024,2

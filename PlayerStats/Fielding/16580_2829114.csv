@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/10/2024,away,16580,457,North Carolina,10,True,5,6,-1,loss,4530178,545,2829114,2024,1
-0,1,1,0,0,0,0,0,0,0,03/15/2024,home,16580,67,Boston College,9,True,12,5,7,win,4530999,545,2829114,2024,1
-0,0,0,0,0,0,1,0,0,0,03/17/2024,home,16580,67,Boston College,9,True,3,7,-4,loss,4531752,545,2829114,2024,1
-0,0,0,0,0,0,2,0,0,0,04/06/2024,home,16580,255,Georgia Tech,9,True,3,2,1,win,4535815,545,2829114,2024,1
-0,1,1,0,0,0,0,0,0,0,04/14/2024,home,16580,193,Duke,9,True,11,10,1,win,4537601,545,2829114,2024,1
+0,1,1,0,0,0,0,0,0,0,03/10/2024,away,16580,574139,North Carolina,10,True,5,6,-1,loss,4530178,545,2829114,2024,1
+0,1,1,0,0,0,0,0,0,0,03/15/2024,home,16580,574015,Boston College,9,True,12,5,7,win,4530999,545,2829114,2024,1
+0,0,0,0,0,0,1,0,0,0,03/17/2024,home,16580,574015,Boston College,9,True,3,7,-4,loss,4531752,545,2829114,2024,1
+0,0,0,0,0,0,2,0,0,0,04/06/2024,home,16580,574075,Georgia Tech,9,True,3,2,1,win,4535815,545,2829114,2024,1
+0,1,1,0,0,0,0,0,0,0,04/14/2024,home,16580,574055,Duke,9,True,11,10,1,win,4537601,545,2829114,2024,1

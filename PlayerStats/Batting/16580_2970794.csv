@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/28/2024,home,16580,741,VMI,9,True,16,4,12,win,5250075,746,2970794,2024,1
-0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,03/06/2024,away,16580,249,George Washington,9,True,26,12,14,win,4529090,746,2970794,2024,1
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,05/08/2024,home,16580,249,George Washington,9,True,18,5,13,win,4541642,746,2970794,2024,1
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,02/28/2024,home,16580,573952,VMI,9,True,16,4,12,win,5250075,746,2970794,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,03/06/2024,away,16580,574071,George Washington,9,True,26,12,14,win,4529090,746,2970794,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,05/08/2024,home,16580,574071,George Washington,9,True,18,5,13,win,4541642,746,2970794,2024,1

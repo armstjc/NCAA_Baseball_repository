@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/20/2024,away,16580,30045,Palm Beach Atl.,9,True,15,10,5,win,4526390,49,2804476,2024,2
-0,1,1,0,0,0,0,0,0,0,03/01/2024,away,16580,608,Saint Leo,9,True,6,13,-7,loss,4527994,49,2804476,2024,2
-0,0,0,0,0,0,4,0,0,0,03/08/2024,home,16580,106,California (PA),9,True,6,12,-6,loss,4529469,49,2804476,2024,2
-1,0,1,0,0,0,0,0,0,0,04/16/2024,away,16580,24639,Nova Southeastern,9,True,2,9,-7,loss,4537878,49,2804476,2024,2
-0,0,0,0,0,0,1,0,0,0,04/27/2024,away,16580,689,Tampa,9,True,3,7,-4,loss,4540163,49,2804476,2024,2
+0,1,1,0,0,0,0,0,0,0,02/20/2024,away,16580,574314,Palm Beach Atl.,9,True,15,10,5,win,4526390,49,2804476,2024,2
+0,1,1,0,0,0,0,0,0,0,03/01/2024,away,16580,574448,Saint Leo,9,True,6,13,-7,loss,4527994,49,2804476,2024,2
+0,0,0,0,0,0,4,0,0,0,03/08/2024,home,16580,574387,California (PA),9,True,6,12,-6,loss,4529469,49,2804476,2024,2
+1,0,1,0,0,0,0,0,0,0,04/16/2024,away,16580,574310,Nova Southeastern,9,True,2,9,-7,loss,4537878,49,2804476,2024,2
+0,0,0,0,0,0,1,0,0,0,04/27/2024,away,16580,574455,Tampa,9,True,3,7,-4,loss,4540163,49,2804476,2024,2

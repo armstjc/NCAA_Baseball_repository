@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/12/2024,home,16580,255,Georgia Tech,9,True,5,9,-4,loss,4530314,406,2459837,2024,1
-0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,05/07/2024,home,16580,1157,Kennesaw St.,9,True,13,7,6,win,4541572,406,2459837,2024,1
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,05/10/2024,away,16580,769,Western Caro.,9,True,3,12,-9,loss,4541731,406,2459837,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/12/2024,home,16580,574075,Georgia Tech,9,True,5,9,-4,loss,4530314,406,2459837,2024,1
+0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,05/07/2024,home,16580,573979,Kennesaw St.,9,True,13,7,6,win,4541572,406,2459837,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,05/10/2024,away,16580,573960,Western Caro.,9,True,3,12,-9,loss,4541731,406,2459837,2024,1

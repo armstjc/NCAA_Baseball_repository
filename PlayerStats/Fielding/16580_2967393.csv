@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,04/05/2024,home,16580,30177,Lubbock Christian,9,True,10,15,-5,loss,5281155,696,2967393,2024,2
-3,0,3,0,0,0,0,0,0,0,04/19/2024,home,16580,30090,Tex. A&M Int'l,9,True,0,9,-9,loss,5283346,696,2967393,2024,2
-1,0,1,0,0,0,0,0,0,0,04/19/2024,home,16580,30090,Tex. A&M Int'l,9,True,5,8,-3,loss,5283380,696,2967393,2024,2
-1,0,1,0,0,0,0,0,0,0,04/20/2024,home,16580,30090,Tex. A&M Int'l,9,True,6,9,-3,loss,5283547,696,2967393,2024,2
+0,0,0,0,0,0,1,0,0,0,04/05/2024,home,16580,574346,Lubbock Christian,9,True,10,15,-5,loss,5281155,696,2967393,2024,2
+3,0,3,0,0,0,0,0,0,0,04/19/2024,home,16580,574324,Tex. A&M Int'l,9,True,0,9,-9,loss,5283346,696,2967393,2024,2
+1,0,1,0,0,0,0,0,0,0,04/19/2024,home,16580,574324,Tex. A&M Int'l,9,True,5,8,-3,loss,5283380,696,2967393,2024,2
+1,0,1,0,0,0,0,0,0,0,04/20/2024,home,16580,574324,Tex. A&M Int'l,9,True,6,9,-3,loss,5283547,696,2967393,2024,2

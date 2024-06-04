@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,04/16/2024,home,16580,51,Baylor,9,True,1,3,-2,loss,4537893,702,2657239,2024,1
-0,0,0,0,0,0,1,0,0,0,05/07/2024,away,16580,1045,DBU,9,True,6,7,-1,loss,4541589,702,2657239,2024,1
-0,1,1,0,0,0,0,0,0,0,05/17/2024,home,16580,1395,Tarleton St.,9,True,9,5,4,win,4542334,702,2657239,2024,1
+0,1,1,0,0,0,0,0,0,0,04/16/2024,home,16580,574012,Baylor,9,True,1,3,-2,loss,4537893,702,2657239,2024,1
+0,0,0,0,0,0,1,0,0,0,05/07/2024,away,16580,573975,DBU,9,True,6,7,-1,loss,4541589,702,2657239,2024,1
+0,1,1,0,0,0,0,0,0,0,05/17/2024,home,16580,573910,Tarleton St.,9,True,9,5,4,win,4542334,702,2657239,2024,1

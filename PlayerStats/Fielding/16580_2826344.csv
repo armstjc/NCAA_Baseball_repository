@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,2,1,0,0,0,0,0,0,02/17/2024,neutral,16580,439,Monmouth,9,True,3,10,-7,loss,4491803,539,2826344,2024,1
-0,0,1,1,0,0,0,0,0,0,03/24/2024,home,16580,418,Michigan,9,True,6,11,-5,loss,4491824,539,2826344,2024,1
-0,1,1,0,0,0,0,1,0,0,04/16/2024,home,16580,331,Kent St.,9,True,3,10,-7,loss,4491838,539,2826344,2024,1
-0,1,1,0,0,0,0,1,0,0,05/14/2024,away,16580,545,Pittsburgh,9,True,0,10,-10,loss,4491853,539,2826344,2024,1
+0,1,2,1,0,0,0,0,0,0,02/17/2024,neutral,16580,574134,Monmouth,9,True,3,10,-7,loss,4491803,539,2826344,2024,1
+0,0,1,1,0,0,0,0,0,0,03/24/2024,home,16580,574127,Michigan,9,True,6,11,-5,loss,4491824,539,2826344,2024,1
+0,1,1,0,0,0,0,1,0,0,04/16/2024,home,16580,574100,Kent St.,9,True,3,10,-7,loss,4491838,539,2826344,2024,1
+0,1,1,0,0,0,0,1,0,0,05/14/2024,away,16580,574179,Pittsburgh,9,True,0,10,-10,loss,4491853,539,2826344,2024,1

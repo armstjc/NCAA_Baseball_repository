@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,0,2,0,0,0,0,0,0,0,03/05/2024,away,16580,610,Saint Mary's (CA),9,True,10,8,2,win,4528910,630,2827589,2024,1
-3,0,3,0,0,0,0,0,0,0,03/26/2024,home,16580,629,San Francisco,9,True,2,5,-3,loss,4533342,630,2827589,2024,1
-1,0,1,0,0,0,0,0,0,0,03/28/2024,away,16580,104,UC Santa Barbara,10,True,2,3,-1,loss,4533653,630,2827589,2024,1
-3,0,3,0,0,0,0,0,0,0,04/02/2024,away,16580,631,Santa Clara,9,True,11,8,3,win,4534744,630,2827589,2024,1
+2,0,2,0,0,0,0,0,0,0,03/05/2024,away,16580,574196,Saint Mary's (CA),9,True,10,8,2,win,4528910,630,2827589,2024,1
+3,0,3,0,0,0,0,0,0,0,03/26/2024,home,16580,574202,San Francisco,9,True,2,5,-3,loss,4533342,630,2827589,2024,1
+1,0,1,0,0,0,0,0,0,0,03/28/2024,away,16580,574030,UC Santa Barbara,10,True,2,3,-1,loss,4533653,630,2827589,2024,1
+3,0,3,0,0,0,0,0,0,0,04/02/2024,away,16580,574204,Santa Clara,9,True,11,8,3,win,4534744,630,2827589,2024,1

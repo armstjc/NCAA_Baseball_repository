@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/17/2024,home,16580,317,James Madison,13,True,11,10,1,win,4531714,149,2328834,2024,1
-1,0,1,0,0,0,0,0,0,0,03/30/2024,away,16580,498,ULM,9,True,9,0,9,win,4534469,149,2328834,2024,1
-0,0,0,0,0,0,1,0,0,0,04/23/2024,away,16580,169,Creighton,9,True,3,7,-4,loss,4539361,149,2328834,2024,1
+0,1,1,0,0,0,0,0,0,0,03/17/2024,home,16580,574097,James Madison,13,True,11,10,1,win,4531714,149,2328834,2024,1
+1,0,1,0,0,0,0,0,0,0,03/30/2024,away,16580,574157,ULM,9,True,9,0,9,win,4534469,149,2328834,2024,1
+0,0,0,0,0,0,1,0,0,0,04/23/2024,away,16580,574049,Creighton,9,True,3,7,-4,loss,4539361,149,2328834,2024,1

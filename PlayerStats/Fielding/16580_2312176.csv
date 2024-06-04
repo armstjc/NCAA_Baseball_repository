@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,04/20/2024,home,16580,30124,Cedarville,9,True,11,5,6,win,4545228,30002,2312176,2024,2
-0,1,1,0,0,0,0,0,0,0,04/26/2024,away,16580,1402,Thomas More,9,True,6,5,1,win,4546226,30002,2312176,2024,2
-0,0,0,0,0,0,1,0,0,0,05/09/2024,away,16580,35,Ashland,9,True,10,8,2,win,5334364,30002,2312176,2024,2
-0,1,1,0,0,0,0,0,0,0,05/11/2024,neutral,16580,1403,Tiffin,9,True,14,9,5,win,5334685,30002,2312176,2024,2
+0,1,1,0,0,0,0,0,0,0,04/20/2024,home,16580,574331,Cedarville,9,True,11,5,6,win,4545228,30002,2312176,2024,2
+0,1,1,0,0,0,0,0,0,0,04/26/2024,away,16580,574486,Thomas More,9,True,6,5,1,win,4546226,30002,2312176,2024,2
+0,0,0,0,0,0,1,0,0,0,05/09/2024,away,16580,574370,Ashland,9,True,10,8,2,win,5334364,30002,2312176,2024,2
+0,1,1,0,0,0,0,0,0,0,05/11/2024,neutral,16580,574266,Tiffin,9,True,14,9,5,win,5334685,30002,2312176,2024,2

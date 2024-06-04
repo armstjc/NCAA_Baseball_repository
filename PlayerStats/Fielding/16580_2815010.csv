@@ -49,3 +49,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 2,0,3,1,0,0,0,0,0,0,05/23/2024,neutral,16580,574031,California,9,True,5,7,-2,loss,5335898,29,2815010,2024,1
 2,0,2,0,0,0,0,0,0,0,05/25/2024,neutral,16580,574213,Southern California,9,True,4,3,1,win,5335899,29,2815010,2024,1
 4,0,4,0,0,0,0,0,0,0,05/31/2024,home,16580,573978,Grand Canyon,9,True,4,9,-5,loss,5336471,29,2815010,2024,1
+5,0,5,0,0,0,0,0,0,0,06/01/2024,home,16580,573975,DBU,9,True,0,7,-7,loss,5336473,29,2815010,2024,1

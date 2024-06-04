@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,0,2,0,0,0,0,0,0,0,02/18/2024,home,16580,541,Pepperdine,9,True,25,4,21,win,4526071,30135,2472616,2024,1
-5,0,5,0,0,0,1,0,0,0,03/02/2024,home,16580,108,UC Davis,9,True,7,1,6,win,4542992,30135,2472616,2024,1
-1,0,1,0,0,0,0,0,0,0,03/25/2024,home,16580,101,CSUN,9,True,3,2,1,win,4533240,30135,2472616,2024,1
+2,0,2,0,0,0,0,0,0,0,02/18/2024,home,16580,574178,Pepperdine,9,True,25,4,21,win,4526071,30135,2472616,2024,1
+5,0,5,0,0,0,1,0,0,0,03/02/2024,home,16580,574032,UC Davis,9,True,7,1,6,win,4542992,30135,2472616,2024,1
+1,0,1,0,0,0,0,0,0,0,03/25/2024,home,16580,574028,CSUN,9,True,3,2,1,win,4533240,30135,2472616,2024,1

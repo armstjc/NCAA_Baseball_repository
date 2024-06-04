@@ -1,3 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/10/2024,home,16580,342,Lafayette,9,True,27,4,23,win,4529928,2915,2970217,2024,1
-0,0,1,1,0,0,0,0,0,0,04/02/2024,away,16580,48,Charleston So.,9,True,29,7,22,win,4534876,2915,2970217,2024,1
+0,1,1,0,0,0,0,0,0,0,03/10/2024,home,16580,574102,Lafayette,9,True,27,4,23,win,4529928,2915,2970217,2024,1
+0,0,1,1,0,0,0,0,0,0,04/02/2024,away,16580,574011,Charleston So.,9,True,29,7,22,win,4534876,2915,2970217,2024,1

@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,04/13/2024,home,16580,193,Duke,9,True,4,14,-10,loss,5282316,545,2118880,2024,1
-0,0,0,0,0,0,1,0,0,0,04/16/2024,away,16580,768,West Virginia,9,True,3,6,-3,loss,4537687,545,2118880,2024,1
-0,1,1,0,0,0,0,0,0,0,04/30/2024,neutral,16580,768,West Virginia,9,True,1,11,-10,loss,4540717,545,2118880,2024,1
-0,0,0,0,0,0,2,0,0,0,05/12/2024,home,16580,234,Florida St.,9,True,4,15,-11,loss,4542061,545,2118880,2024,1
-1,1,2,0,0,0,0,0,1,0,05/23/2024,neutral,16580,457,North Carolina,9,True,2,12,-10,loss,5335986,545,2118880,2024,1
+0,0,0,0,0,0,1,0,0,0,04/13/2024,home,16580,574055,Duke,9,True,4,14,-10,loss,5282316,545,2118880,2024,1
+0,0,0,0,0,0,1,0,0,0,04/16/2024,away,16580,573959,West Virginia,9,True,3,6,-3,loss,4537687,545,2118880,2024,1
+0,1,1,0,0,0,0,0,0,0,04/30/2024,neutral,16580,573959,West Virginia,9,True,1,11,-10,loss,4540717,545,2118880,2024,1
+0,0,0,0,0,0,2,0,0,0,05/12/2024,home,16580,574067,Florida St.,9,True,4,15,-11,loss,4542061,545,2118880,2024,1
+1,1,2,0,0,0,0,0,1,0,05/23/2024,neutral,16580,574139,North Carolina,9,True,2,12,-10,loss,5335986,545,2118880,2024,1

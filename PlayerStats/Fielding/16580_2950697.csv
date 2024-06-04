@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,2,0,0,0,02/03/2024,home,16580,0,William Woods,9,True,2,7,-5,loss,4525041,347,2950697,2024,2
-1,0,1,0,0,0,0,0,0,0,02/15/2024,home,16580,20794,Lynn,9,True,9,14,-5,loss,4525455,347,2950697,2024,2
-0,0,0,0,0,0,1,0,0,0,03/13/2024,away,16580,30154,Young Harris,9,True,1,7,-6,loss,4530673,347,2950697,2024,2
-0,0,0,0,0,0,5,0,0,0,04/16/2024,home,16580,1015,Christian Brothers,11,True,9,8,1,win,4537899,347,2950697,2024,2
-0,0,0,0,0,0,1,0,0,0,04/26/2024,home,16580,144,Clark Atlanta,9,True,13,14,-1,loss,4539692,347,2950697,2024,2
+1,0,1,0,0,0,0,0,0,0,02/15/2024,home,16580,574307,Lynn,9,True,9,14,-5,loss,4525455,347,2950697,2024,2
+0,0,0,0,0,0,1,0,0,0,03/13/2024,away,16580,574344,Young Harris,9,True,1,7,-6,loss,4530673,347,2950697,2024,2
+0,0,0,0,0,0,5,0,0,0,04/16/2024,home,16580,574479,Christian Brothers,11,True,9,8,1,win,4537899,347,2950697,2024,2
+0,0,0,0,0,0,1,0,0,0,04/26/2024,home,16580,574390,Clark Atlanta,9,True,13,14,-1,loss,4539692,347,2950697,2024,2

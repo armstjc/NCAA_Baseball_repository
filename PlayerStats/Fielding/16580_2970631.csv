@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/17/2024,home,16580,649,South Dakota St.,9,True,13,9,4,win,4525762,472,2970631,2024,1
-0,0,0,0,0,0,3,0,0,0,03/16/2024,home,16580,624,Sam Houston,9,True,8,19,-11,loss,4531164,472,2970631,2024,1
-0,1,1,0,0,0,0,0,0,0,04/16/2024,away,16580,1395,Tarleton St.,11,True,11,10,1,win,4537718,472,2970631,2024,1
-0,0,1,1,0,0,1,0,0,0,04/30/2024,home,16580,473,New Mexico,9,True,10,8,2,win,4540620,472,2970631,2024,1
+0,0,0,0,0,0,1,0,0,0,02/17/2024,home,16580,574209,South Dakota St.,9,True,13,9,4,win,4525762,472,2970631,2024,1
+0,0,0,0,0,0,3,0,0,0,03/16/2024,home,16580,574198,Sam Houston,9,True,8,19,-11,loss,4531164,472,2970631,2024,1
+0,1,1,0,0,0,0,0,0,0,04/16/2024,away,16580,573910,Tarleton St.,11,True,11,10,1,win,4537718,472,2970631,2024,1
+0,0,1,1,0,0,1,0,0,0,04/30/2024,home,16580,574149,New Mexico,9,True,10,8,2,win,4540620,472,2970631,2024,1

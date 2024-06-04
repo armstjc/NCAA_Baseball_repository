@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/01/2024,away,16580,692,Tennessee Tech,9,True,14,3,11,win,4527823,513,2660948,2024,1
-0,0,0,0,0,0,2,0,0,0,03/05/2024,home,16580,559,Purdue,9,True,11,2,9,win,4492426,513,2660948,2024,1
-0,0,0,0,0,0,1,0,0,0,03/19/2024,home,16580,774,Western Mich.,9,True,16,11,5,win,4531900,513,2660948,2024,1
+0,1,1,0,0,0,0,0,0,0,03/01/2024,away,16580,574225,Tennessee Tech,9,True,14,3,11,win,4527823,513,2660948,2024,1
+0,0,0,0,0,0,2,0,0,0,03/05/2024,home,16580,574183,Purdue,9,True,11,2,9,win,4492426,513,2660948,2024,1
+0,0,0,0,0,0,1,0,0,0,03/19/2024,home,16580,573963,Western Mich.,9,True,16,11,5,win,4531900,513,2660948,2024,1

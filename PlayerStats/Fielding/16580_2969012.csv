@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,0,3,1,0,0,0,0,0,0,02/24/2024,away,16580,1004,Central Ark.,9,True,8,9,-1,loss,4527100,659,2969012,2024,1
-1,0,1,0,0,0,0,0,0,0,03/02/2024,home,16580,27,App State,9,True,1,9,-8,loss,4528358,659,2969012,2024,1
-1,0,1,0,0,0,0,0,0,0,03/09/2024,home,16580,287,Houston Christian,9,True,13,0,13,win,4529743,659,2969012,2024,1
-4,0,4,0,0,0,0,0,0,0,03/19/2024,away,16580,30,Arkansas St.,9,True,5,10,-5,loss,4531878,659,2969012,2024,1
+2,0,3,1,0,0,0,0,0,0,02/24/2024,away,16580,573972,Central Ark.,9,True,8,9,-1,loss,4527100,659,2969012,2024,1
+1,0,1,0,0,0,0,0,0,0,03/02/2024,home,16580,574002,App State,9,True,1,9,-8,loss,4528358,659,2969012,2024,1
+1,0,1,0,0,0,0,0,0,0,03/09/2024,home,16580,574084,Houston Christian,9,True,13,0,13,win,4529743,659,2969012,2024,1
+4,0,4,0,0,0,0,0,0,0,03/19/2024,away,16580,574005,Arkansas St.,9,True,5,10,-5,loss,4531878,659,2969012,2024,1

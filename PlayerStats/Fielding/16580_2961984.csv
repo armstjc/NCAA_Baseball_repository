@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/19/2024,away,16580,333,Ky. Wesleyan,9,True,7,4,3,win,4525588,436,2939701,2024,2
-0,1,1,0,0,0,0,0,0,0,04/14/2024,away,16580,2755,Southwest Baptist,9,True,14,7,7,win,4537506,436,2939701,2024,2
-1,1,2,0,0,0,0,0,0,0,04/28/2024,away,16580,728,Upper Iowa,9,True,10,8,2,win,5285579,436,2939701,2024,2
+0,0,0,0,0,0,1,0,0,0,02/19/2024,away,16580,574409,Ky. Wesleyan,9,True,7,4,3,win,4525588,436,2939701,2024,2
+0,1,1,0,0,0,0,0,0,0,04/14/2024,away,16580,574278,Southwest Baptist,9,True,14,7,7,win,4537506,436,2939701,2024,2
+1,1,2,0,0,0,0,0,0,0,04/28/2024,away,16580,574458,Upper Iowa,9,True,10,8,2,win,5285579,436,2939701,2024,2

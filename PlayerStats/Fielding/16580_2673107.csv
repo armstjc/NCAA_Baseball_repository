@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,1,0,0,0,02/18/2024,neutral,16580,27,App State,10,True,11,15,-4,loss,4526095,1092,2673107,2024,1
-0,0,0,0,0,0,2,0,0,0,02/25/2024,home,16580,116,Canisius,9,True,5,8,-3,loss,4527254,1092,2673107,2024,1
-0,0,0,0,0,0,3,0,0,0,03/02/2024,away,16580,700,Texas Tech,9,True,3,29,-26,loss,4528046,1092,2673107,2024,1
-0,1,1,0,0,0,0,0,0,0,03/28/2024,home,16580,1320,Presbyterian,9,True,2,6,-4,loss,4533691,1092,2673107,2024,1
+0,1,1,0,0,0,1,0,0,0,02/18/2024,neutral,16580,574002,App State,10,True,11,15,-4,loss,4526095,1092,2673107,2024,1
+0,0,0,0,0,0,2,0,0,0,02/25/2024,home,16580,574037,Canisius,9,True,5,8,-3,loss,4527254,1092,2673107,2024,1
+0,0,0,0,0,0,3,0,0,0,03/02/2024,away,16580,573916,Texas Tech,9,True,3,29,-26,loss,4528046,1092,2673107,2024,1
+0,1,1,0,0,0,0,0,0,0,03/28/2024,home,16580,573980,Presbyterian,9,True,2,6,-4,loss,4533691,1092,2673107,2024,1

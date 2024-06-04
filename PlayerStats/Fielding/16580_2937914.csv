@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/06/2024,home,16580,9680,Embry-Riddle (FL),9,True,3,13,-10,loss,5020608,230,2937914,2024,2
-0,0,0,0,0,0,1,0,0,0,03/23/2024,away,16580,584,Rollins,9,True,4,10,-6,loss,4543782,230,2937914,2024,2
-0,1,1,0,0,0,1,0,0,0,04/20/2024,home,16580,49,Barry,9,True,4,8,-4,loss,4538489,230,2937914,2024,2
+0,1,1,0,0,0,0,0,0,0,02/06/2024,home,16580,574294,Embry-Riddle (FL),9,True,3,13,-10,loss,5020608,230,2937914,2024,2
+0,0,0,0,0,0,1,0,0,0,03/23/2024,away,16580,574444,Rollins,9,True,4,10,-6,loss,4543782,230,2937914,2024,2
+0,1,1,0,0,0,1,0,0,0,04/20/2024,home,16580,574374,Barry,9,True,4,8,-4,loss,4538489,230,2937914,2024,2

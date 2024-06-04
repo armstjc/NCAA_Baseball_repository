@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-9,1,10,0,0,0,0,0,0,0,03/05/2024,home,16580,363,Longwood,9,True,11,6,5,win,4528950,1068,2659496,2024,1
-1,1,2,0,0,0,0,0,0,0,04/09/2024,away,16580,196,East Carolina,9,True,0,12,-12,loss,4536370,1068,2659496,2024,1
-1,0,1,0,0,0,0,0,1,0,04/28/2024,away,16580,500,Northeastern,9,True,2,13,-11,loss,4540481,1068,2659496,2024,1
+9,1,10,0,0,0,0,0,0,0,03/05/2024,home,16580,574107,Longwood,9,True,11,6,5,win,4528950,1068,2659496,2024,1
+1,1,2,0,0,0,0,0,0,0,04/09/2024,away,16580,574056,East Carolina,9,True,0,12,-12,loss,4536370,1068,2659496,2024,1
+1,0,1,0,0,0,0,0,1,0,04/28/2024,away,16580,574158,Northeastern,9,True,2,13,-11,loss,4540481,1068,2659496,2024,1

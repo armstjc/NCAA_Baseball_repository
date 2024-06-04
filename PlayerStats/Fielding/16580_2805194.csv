@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/06/2024,away,16580,1104,Grand Canyon,9,True,13,5,8,win,4529086,529,2805194,2024,1
-0,1,1,0,0,0,0,0,0,0,04/10/2024,home,16580,102,Sacramento St.,9,True,11,4,7,win,4536551,529,2805194,2024,1
-0,2,2,0,0,0,0,0,0,0,04/22/2024,away,16580,629,San Francisco,9,True,7,2,5,win,4539129,529,2805194,2024,1
-0,0,0,0,0,0,1,0,0,0,04/30/2024,home,16580,528,Oregon St.,9,True,9,5,4,win,4540708,529,2805194,2024,1
+0,1,1,0,0,0,0,0,0,0,03/06/2024,away,16580,573978,Grand Canyon,9,True,13,5,8,win,4529086,529,2805194,2024,1
+0,1,1,0,0,0,0,0,0,0,04/10/2024,home,16580,574029,Sacramento St.,9,True,11,4,7,win,4536551,529,2805194,2024,1
+0,2,2,0,0,0,0,0,0,0,04/22/2024,away,16580,574202,San Francisco,9,True,7,2,5,win,4539129,529,2805194,2024,1
+0,0,0,0,0,0,1,0,0,0,04/30/2024,home,16580,574172,Oregon St.,9,True,9,5,4,win,4540708,529,2805194,2024,1

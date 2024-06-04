@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2024,home,16580,9754,UC-Colo. Springs,9,True,9,7,2,win,4525866,30149,2814425,2024,2
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/28/2024,home,16580,133,Chaminade,9,True,11,0,11,win,4543377,30149,2814425,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/17/2024,home,16580,574295,UC-Colo. Springs,9,True,9,7,2,win,4525866,30149,2814425,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/28/2024,home,16580,583094,Chaminade,9,True,11,0,11,win,4543377,30149,2814425,2024,2
 0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,04/10/2024,home,16580,0,St. Katherine,9,True,10,2,8,win,5282058,30149,2814425,2024,2

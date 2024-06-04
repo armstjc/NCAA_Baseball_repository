@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,1,2,0,0,0,0,0,1,0,03/25/2024,home,16580,985,Bluefield St.,9,True,3,6,-3,loss,4532971,743,2668848,2024,2
-2,1,4,1,0,0,0,0,0,0,03/26/2024,home,16580,15646,Barton,9,True,4,17,-13,loss,4533276,743,2668848,2024,2
+1,1,2,0,0,0,0,0,1,0,03/25/2024,home,16580,574471,Bluefield St.,9,True,3,6,-3,loss,4532971,743,2668848,2024,2
+2,1,4,1,0,0,0,0,0,0,03/26/2024,home,16580,574305,Barton,9,True,4,17,-13,loss,4533276,743,2668848,2024,2
 1,2,3,0,0,0,0,0,0,0,03/29/2024,home,16580,0,Apprentice,9,True,5,1,4,win,4544186,743,2668848,2024,2

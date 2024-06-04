@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/24/2024,home,16580,180,Delaware,9,True,5,8,-3,loss,4533050,115,2680048,2024,1
-0,1,1,0,0,0,0,0,0,0,04/06/2024,home,16580,488,N.C. A&T,9,True,13,6,7,win,4535816,115,2680048,2024,1
-0,1,1,0,0,0,0,0,0,0,05/18/2024,home,16580,786,William & Mary,9,True,3,11,-8,loss,4542555,115,2680048,2024,1
+0,1,1,0,0,0,0,0,0,0,03/24/2024,home,16580,574054,Delaware,9,True,5,8,-3,loss,4533050,115,2680048,2024,1
+0,1,1,0,0,0,0,0,0,0,04/06/2024,home,16580,574154,N.C. A&T,9,True,13,6,7,win,4535816,115,2680048,2024,1
+0,1,1,0,0,0,0,0,0,0,05/18/2024,home,16580,573965,William & Mary,9,True,3,11,-8,loss,4542555,115,2680048,2024,1

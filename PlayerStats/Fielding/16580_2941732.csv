@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,03/02/2024,away,16580,646,South Alabama,9,True,4,1,3,win,4527756,460,2941732,2024,1
-0,1,1,0,0,0,0,0,0,0,03/10/2024,home,16580,606,Saint Joseph's,9,True,4,3,1,win,4530164,460,2941732,2024,1
-0,1,1,0,0,0,0,0,0,0,03/31/2024,away,16580,488,N.C. A&T,9,True,14,6,8,win,4534609,460,2941732,2024,1
-0,0,0,0,0,0,2,0,0,0,05/03/2024,home,16580,115,Campbell,9,True,8,7,1,win,4541069,460,2941732,2024,1
+1,0,1,0,0,0,0,0,0,0,03/02/2024,away,16580,574207,South Alabama,9,True,4,1,3,win,4527756,460,2941732,2024,1
+0,1,1,0,0,0,0,0,0,0,03/10/2024,home,16580,574194,Saint Joseph's,9,True,4,3,1,win,4530164,460,2941732,2024,1
+0,1,1,0,0,0,0,0,0,0,03/31/2024,away,16580,574154,N.C. A&T,9,True,14,6,8,win,4534609,460,2941732,2024,1
+0,0,0,0,0,0,2,0,0,0,05/03/2024,home,16580,574036,Campbell,9,True,8,7,1,win,4541069,460,2941732,2024,1

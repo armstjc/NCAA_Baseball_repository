@@ -1,4 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,1,1,0,0,0,0,0,0,02/29/2024,home,16580,450,Mount St. Mary's,9,True,12,2,10,win,4527709,430,2471299,2024,1
-0,1,1,0,0,0,0,0,0,0,03/12/2024,neutral,16580,646,South Alabama,9,True,5,6,-1,loss,4530402,430,2471299,2024,1
-1,0,1,0,0,0,0,0,0,0,04/13/2024,away,16580,433,Ole Miss,12,True,9,10,-1,loss,4537350,430,2471299,2024,1
+0,0,1,1,0,0,0,0,0,0,02/29/2024,home,16580,574136,Mount St. Mary's,9,True,12,2,10,win,4527709,430,2471299,2024,1
+0,1,1,0,0,0,0,0,0,0,03/12/2024,neutral,16580,574207,South Alabama,9,True,5,6,-1,loss,4530402,430,2471299,2024,1
+1,0,1,0,0,0,0,0,0,0,04/13/2024,away,16580,574132,Ole Miss,12,True,9,10,-1,loss,4537350,430,2471299,2024,1
+0,0,0,0,0,0,1,0,0,0,05/31/2024,neutral,16580,574193,St. John's (NY),10,True,5,2,3,win,5336399,430,2471299,2024,1
+0,0,1,1,0,0,0,0,0,0,06/02/2024,home,16580,573954,Virginia,9,True,2,9,-7,loss,5336403,430,2471299,2024,1

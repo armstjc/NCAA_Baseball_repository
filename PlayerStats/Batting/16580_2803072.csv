@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,home,16580,609,Saint Louis,9,True,4,17,-13,loss,4527080,771,2803072,2024,1
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/13/2024,away,16580,140,Cincinnati,9,True,3,8,-5,loss,4530569,771,2803072,2024,1
-0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/06/2024,home,16580,201,Eastern Ill.,9,True,5,14,-9,loss,5281269,771,2803072,2024,1
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,02/24/2024,home,16580,574195,Saint Louis,9,True,4,17,-13,loss,4527080,771,2803072,2024,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/13/2024,away,16580,574041,Cincinnati,9,True,3,8,-5,loss,4530569,771,2803072,2024,1
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/06/2024,home,16580,574058,Eastern Ill.,9,True,5,14,-9,loss,5281269,771,2803072,2024,1

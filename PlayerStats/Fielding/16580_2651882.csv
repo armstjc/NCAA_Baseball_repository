@@ -1,3 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,1,0,03/13/2024,away,16580,198,ETSU,9,True,4,14,-10,loss,4530598,275,2651882,2024,1
-11,0,11,0,0,0,0,0,1,0,04/09/2024,neutral,16580,400,Massachusetts,9,True,10,3,7,win,4536259,275,2651882,2024,1
+1,0,1,0,0,0,0,0,1,0,03/13/2024,away,16580,574057,ETSU,9,True,4,14,-10,loss,4530598,275,2651882,2024,1
+11,0,11,0,0,0,0,0,1,0,04/09/2024,neutral,16580,574120,Massachusetts,9,True,10,3,7,win,4536259,275,2651882,2024,1

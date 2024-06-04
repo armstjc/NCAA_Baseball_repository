@@ -1,3 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,1,1,0,0,0,0,0,0,04/10/2024,neutral,16580,1245,Mount Olive,9,True,4,7,-3,loss,4536490,1257,2666584,2024,2
-1,1,2,0,0,0,0,0,0,0,04/16/2024,neutral,16580,1245,Mount Olive,9,True,11,13,-2,loss,4537778,1257,2666584,2024,2
+0,0,1,1,0,0,0,0,0,0,04/10/2024,neutral,16580,574250,Mount Olive,9,True,4,7,-3,loss,4536490,1257,2666584,2024,2
+1,1,2,0,0,0,0,0,0,0,04/16/2024,neutral,16580,574250,Mount Olive,9,True,11,13,-2,loss,4537778,1257,2666584,2024,2

@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 0,0,0,0,0,0,1,0,0,0,02/27/2024,home,16580,0,Stillman,9,True,13,7,6,win,4527499,6,2831060,2024,1
-0,0,0,0,0,0,1,0,0,0,03/05/2024,away,16580,692,Tennessee Tech,9,True,9,20,-11,loss,4528852,6,2831060,2024,1
-0,0,0,0,0,0,1,0,0,0,04/09/2024,away,16580,694,Tennessee,9,True,2,20,-18,loss,4536165,6,2831060,2024,1
-0,1,1,0,0,0,0,1,0,0,04/19/2024,away,16580,228,Florida A&M,9,True,9,11,-2,loss,4538331,6,2831060,2024,1
-0,0,0,0,0,0,2,1,0,0,04/30/2024,away,16580,43,Austin Peay,9,True,1,35,-34,loss,4540707,6,2831060,2024,1
+0,0,0,0,0,0,1,0,0,0,03/05/2024,away,16580,574225,Tennessee Tech,9,True,9,20,-11,loss,4528852,6,2831060,2024,1
+0,0,0,0,0,0,1,0,0,0,04/09/2024,away,16580,574226,Tennessee,9,True,2,20,-18,loss,4536165,6,2831060,2024,1
+0,1,1,0,0,0,0,1,0,0,04/19/2024,away,16580,574064,Florida A&M,9,True,9,11,-2,loss,4538331,6,2831060,2024,1
+0,0,0,0,0,0,2,1,0,0,04/30/2024,away,16580,574009,Austin Peay,9,True,1,35,-34,loss,4540707,6,2831060,2024,1

@@ -1,3 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,2,5,2,0,0,0,0,0,0,02/16/2024,neutral,16580,94,CSU Bakersfield,12,True,8,7,1,win,4491908,428,2799066,2024,1
-0,3,5,2,0,0,0,0,0,0,02/19/2024,neutral,16580,528,Oregon St.,9,True,1,6,-5,loss,4491911,428,2799066,2024,1
+1,2,5,2,0,0,0,0,0,0,02/16/2024,neutral,16580,574024,CSU Bakersfield,12,True,8,7,1,win,4491908,428,2799066,2024,1
+0,3,5,2,0,0,0,0,0,0,02/19/2024,neutral,16580,574172,Oregon St.,9,True,1,6,-5,loss,4491911,428,2799066,2024,1

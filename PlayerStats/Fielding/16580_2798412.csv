@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/23/2024,home,16580,349,Le Moyne,10,True,6,8,-2,loss,4526680,563,2798412,2024,1
-0,1,1,0,0,0,0,0,0,0,03/16/2024,home,16580,386,Marist,9,True,2,5,-3,loss,4531172,563,2798412,2024,1
-0,1,2,1,0,0,0,0,0,0,04/20/2024,away,16580,459,UNC Greensboro,9,True,6,9,-3,loss,5283529,563,2798412,2024,1
-0,0,0,0,0,0,2,0,0,0,05/10/2024,away,16580,48,Charleston So.,9,True,0,6,-6,loss,4541760,563,2798412,2024,1
+0,1,1,0,0,0,0,0,0,0,02/23/2024,home,16580,574412,Le Moyne,10,True,6,8,-2,loss,4526680,563,2798412,2024,1
+0,1,1,0,0,0,0,0,0,0,03/16/2024,home,16580,574115,Marist,9,True,2,5,-3,loss,4531172,563,2798412,2024,1
+0,1,2,1,0,0,0,0,0,0,04/20/2024,away,16580,574141,UNC Greensboro,9,True,6,9,-3,loss,5283529,563,2798412,2024,1
+0,0,0,0,0,0,2,0,0,0,05/10/2024,away,16580,574011,Charleston So.,9,True,0,6,-6,loss,4541760,563,2798412,2024,1

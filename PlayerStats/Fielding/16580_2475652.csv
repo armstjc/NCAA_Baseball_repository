@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/03/2024,neutral,16580,657,Southern California,9,True,9,5,4,win,4528726,698,2475652,2024,1
-0,0,0,0,0,0,1,0,0,0,03/19/2024,home,16580,702,UT Arlington,9,True,7,3,4,win,4532024,698,2475652,2024,1
-1,0,3,2,0,0,0,1,0,0,04/02/2024,away,16580,702,UT Arlington,9,True,4,6,-2,loss,4534907,698,2475652,2024,1
-0,0,0,0,0,0,1,0,0,0,05/17/2024,home,16580,768,West Virginia,9,True,2,7,-5,loss,4542418,698,2475652,2024,1
+0,0,0,0,0,0,1,0,0,0,03/03/2024,neutral,16580,574213,Southern California,9,True,9,5,4,win,4528726,698,2475652,2024,1
+0,0,0,0,0,0,1,0,0,0,03/19/2024,home,16580,573917,UT Arlington,9,True,7,3,4,win,4532024,698,2475652,2024,1
+1,0,3,2,0,0,0,1,0,0,04/02/2024,away,16580,573917,UT Arlington,9,True,4,6,-2,loss,4534907,698,2475652,2024,1
+0,0,0,0,0,0,1,0,0,0,05/17/2024,home,16580,573959,West Virginia,9,True,2,7,-5,loss,4542418,698,2475652,2024,1

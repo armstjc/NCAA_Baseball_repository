@@ -1,3 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,02/18/2024,neutral,16580,428,Minnesota,9,True,2,11,-9,loss,4491910,473,2676955,2024,1
-0,0,0,0,0,0,1,0,0,0,03/01/2024,home,16580,283,Hofstra,9,True,9,10,-1,loss,4527963,473,2676955,2024,1
+1,0,1,0,0,0,0,0,0,0,02/18/2024,neutral,16580,574129,Minnesota,9,True,2,11,-9,loss,4491910,473,2676955,2024,1
+0,0,0,0,0,0,1,0,0,0,03/01/2024,home,16580,574082,Hofstra,9,True,9,10,-1,loss,4527963,473,2676955,2024,1

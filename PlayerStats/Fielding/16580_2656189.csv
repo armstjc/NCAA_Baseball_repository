@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,1,4,1,0,0,0,0,0,0,02/16/2024,away,16580,102,Sacramento St.,11,True,12,10,2,win,4526014,370,2656189,2024,1
-1,2,3,0,0,0,0,0,1,0,03/15/2024,home,16580,172,Dartmouth,9,True,28,4,24,win,4531058,370,2656189,2024,1
-2,0,2,0,0,0,0,0,0,0,04/19/2024,away,16580,534,Pacific,9,True,21,4,17,win,4538371,370,2656189,2024,1
+2,1,4,1,0,0,0,0,0,0,02/16/2024,away,16580,574029,Sacramento St.,11,True,12,10,2,win,4526014,370,2656189,2024,1
+1,2,3,0,0,0,0,0,1,0,03/15/2024,home,16580,574050,Dartmouth,9,True,28,4,24,win,4531058,370,2656189,2024,1
+2,0,2,0,0,0,0,0,0,0,04/19/2024,away,16580,574174,Pacific,9,True,21,4,17,win,4538371,370,2656189,2024,1

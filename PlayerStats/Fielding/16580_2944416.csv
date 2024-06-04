@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,1,2,0,0,0,0,0,0,0,03/29/2024,away,16580,444,Morehead St.,9,True,8,7,1,win,4533997,661,2944416,2024,2
-0,0,0,0,0,0,2,0,0,0,04/23/2024,home,16580,14927,Belmont,11,True,4,3,1,win,4539355,661,2944416,2024,2
-0,0,1,1,0,0,0,0,0,0,05/18/2024,home,16580,771,Western Ill.,9,True,10,3,7,win,4542531,661,2944416,2024,2
+1,1,2,0,0,0,0,0,0,0,03/29/2024,away,16580,574135,Morehead St.,9,True,8,7,1,win,4533997,661,2944416,2024,2
+0,0,0,0,0,0,2,0,0,0,04/23/2024,home,16580,573987,Belmont,11,True,4,3,1,win,4539355,661,2944416,2024,2
+0,0,1,1,0,0,0,0,0,0,05/18/2024,home,16580,573961,Western Ill.,9,True,10,3,7,win,4542531,661,2944416,2024,2

@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,04/09/2024,away,16580,609,Saint Louis,9,True,5,13,-8,loss,4536344,661,2461834,2024,2
-0,0,0,0,0,0,1,0,0,0,04/19/2024,home,16580,695,UT Martin,9,True,10,15,-5,loss,4538355,661,2461834,2024,2
-0,0,0,0,0,0,1,0,0,0,05/10/2024,away,16580,32,Little Rock,9,True,9,11,-2,loss,4541784,661,2461834,2024,2
+0,0,0,0,0,0,1,0,0,0,04/09/2024,away,16580,574195,Saint Louis,9,True,5,13,-8,loss,4536344,661,2461834,2024,2
+0,0,0,0,0,0,1,0,0,0,04/19/2024,home,16580,574227,UT Martin,9,True,10,15,-5,loss,4538355,661,2461834,2024,2
+0,0,0,0,0,0,1,0,0,0,05/10/2024,away,16580,574007,Little Rock,9,True,9,11,-2,loss,4541784,661,2461834,2024,2

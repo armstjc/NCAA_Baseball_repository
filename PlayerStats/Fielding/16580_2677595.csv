@@ -1,3 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,04/02/2024,away,16580,306,Indiana,9,True,7,16,-9,loss,4492123,305,2677595,2024,1
-1,0,1,0,0,0,0,0,0,0,04/30/2024,away,16580,301,Illinois,9,True,11,21,-10,loss,4492232,305,2677595,2024,1
+0,1,1,0,0,0,0,0,0,0,04/02/2024,away,16580,574090,Indiana,9,True,7,16,-9,loss,4492123,305,2677595,2024,1
+1,0,1,0,0,0,0,0,0,0,04/30/2024,away,16580,574087,Illinois,9,True,11,21,-10,loss,4492232,305,2677595,2024,1

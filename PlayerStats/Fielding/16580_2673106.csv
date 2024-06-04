@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/23/2024,away,16580,149,Coastal Carolina,9,True,9,17,-8,loss,4492211,301,2673106,2024,1
-0,1,1,0,0,0,0,0,0,0,03/02/2024,neutral,16580,234,Florida St.,9,True,7,13,-6,loss,4780686,301,2673106,2024,1
-0,0,1,1,0,0,1,0,0,0,05/23/2024,neutral,16580,312,Iowa,10,True,4,2,2,win,5335692,301,2673106,2024,1
+0,1,1,0,0,0,0,0,0,0,02/23/2024,away,16580,574044,Coastal Carolina,9,True,9,17,-8,loss,4492211,301,2673106,2024,1
+0,1,1,0,0,0,0,0,0,0,03/02/2024,neutral,16580,574067,Florida St.,9,True,7,13,-6,loss,4780686,301,2673106,2024,1
+0,0,1,1,0,0,1,0,0,0,05/23/2024,neutral,16580,574093,Iowa,10,True,4,2,2,win,5335692,301,2673106,2024,1

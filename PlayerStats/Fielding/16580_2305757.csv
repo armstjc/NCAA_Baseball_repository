@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/10/2024,home,16580,947,Arkansas Tech,9,True,2,1,1,win,4543459,130,2305757,2024,2
-0,0,0,0,0,0,1,0,0,0,02/24/2024,home,16580,1009,Central Okla.,9,True,6,5,1,win,4527090,130,2305757,2024,2
-0,1,2,1,0,0,0,0,0,0,03/19/2024,home,16580,561,Quincy,9,True,10,6,4,win,4531846,130,2305757,2024,2
-0,0,1,1,0,0,1,0,0,0,05/09/2024,neutral,16580,2814,Washburn,9,True,1,11,-10,loss,5289648,130,2305757,2024,2
+0,0,0,0,0,0,1,0,0,0,02/10/2024,home,16580,574469,Arkansas Tech,9,True,2,1,1,win,4543459,130,2305757,2024,2
+0,0,0,0,0,0,1,0,0,0,02/24/2024,home,16580,574476,Central Okla.,9,True,6,5,1,win,4527090,130,2305757,2024,2
+0,1,2,1,0,0,0,0,0,0,03/19/2024,home,16580,574442,Quincy,9,True,10,6,4,win,4531846,130,2305757,2024,2
+0,0,1,1,0,0,1,0,0,0,05/09/2024,neutral,16580,574279,Washburn,9,True,1,11,-10,loss,5289648,130,2305757,2024,2

@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,1,0,0,02/03/2024,home,16580,1346,St. Mary's (TX),9,True,4,2,2,win,4544903,30088,2949570,2024,2
-0,0,0,0,0,0,1,1,0,0,02/17/2024,home,16580,25,Angelo St.,9,True,4,3,1,win,4544948,30088,2949570,2024,2
-0,1,1,0,0,0,0,0,0,0,03/02/2024,home,16580,696,Tex. A&M-Kingsville,9,True,5,6,-1,loss,4543005,30088,2949570,2024,2
-0,0,1,1,0,0,0,1,0,0,04/12/2024,away,16580,30028,UT Tyler,9,True,0,11,-11,loss,4536897,30088,2949570,2024,2
+0,0,0,0,0,0,1,1,0,0,02/03/2024,home,16580,574261,St. Mary's (TX),9,True,4,2,2,win,4544903,30088,2949570,2024,2
+0,0,0,0,0,0,1,1,0,0,02/17/2024,home,16580,574369,Angelo St.,9,True,4,3,1,win,4544948,30088,2949570,2024,2
+0,1,1,0,0,0,0,0,0,0,03/02/2024,home,16580,574456,Tex. A&M-Kingsville,9,True,5,6,-1,loss,4543005,30088,2949570,2024,2
+0,0,1,1,0,0,0,1,0,0,04/12/2024,away,16580,574361,UT Tyler,9,True,0,11,-11,loss,4536897,30088,2949570,2024,2

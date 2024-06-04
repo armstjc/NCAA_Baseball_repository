@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/17/2024,away,16580,769,Western Caro.,9,True,3,16,-13,loss,4525779,310,2949962,2024,1
-0,1,1,0,0,0,0,2,0,0,03/24/2024,away,16580,482,Niagara,9,True,3,12,-9,loss,4532913,310,2949962,2024,1
-0,1,1,0,0,0,0,0,0,0,04/05/2024,away,16580,562,Quinnipiac,9,True,3,12,-9,loss,4535292,310,2949962,2024,1
-0,0,0,0,0,0,1,0,0,0,05/01/2024,away,16580,603,St. John's (NY),9,True,4,5,-1,loss,4540745,310,2949962,2024,1
+0,1,1,0,0,0,0,0,0,0,02/17/2024,away,16580,573960,Western Caro.,9,True,3,16,-13,loss,4525779,310,2949962,2024,1
+0,1,1,0,0,0,0,2,0,0,03/24/2024,away,16580,574151,Niagara,9,True,3,12,-9,loss,4532913,310,2949962,2024,1
+0,1,1,0,0,0,0,0,0,0,04/05/2024,away,16580,574184,Quinnipiac,9,True,3,12,-9,loss,4535292,310,2949962,2024,1
+0,0,0,0,0,0,1,0,0,0,05/01/2024,away,16580,574193,St. John's (NY),9,True,4,5,-1,loss,4540745,310,2949962,2024,1

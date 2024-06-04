@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,02/18/2024,home,16580,30024,Utah Valley,9,True,6,10,-4,loss,4526253,101,2516459,2024,1
-0,1,1,0,0,0,0,0,0,0,03/23/2024,away,16580,111,UC Riverside,9,True,15,13,2,win,4532603,101,2516459,2024,1
-0,1,1,0,0,0,1,0,0,0,04/12/2024,home,16580,99,Long Beach St.,9,True,10,4,6,win,4536930,101,2516459,2024,1
-0,1,1,0,0,0,0,0,0,0,05/05/2024,away,16580,277,Hawaii,9,True,1,9,-8,loss,4541556,101,2516459,2024,1
-0,1,1,0,0,0,0,0,0,0,05/18/2024,home,16580,104,UC Santa Barbara,9,True,2,4,-2,loss,4542455,101,2516459,2024,1
+1,0,1,0,0,0,0,0,0,0,02/18/2024,home,16580,573992,Utah Valley,9,True,6,10,-4,loss,4526253,101,2516459,2024,1
+0,1,1,0,0,0,0,0,0,0,03/23/2024,away,16580,574035,UC Riverside,9,True,15,13,2,win,4532603,101,2516459,2024,1
+0,1,1,0,0,0,1,0,0,0,04/12/2024,home,16580,574027,Long Beach St.,9,True,10,4,6,win,4536930,101,2516459,2024,1
+0,1,1,0,0,0,0,0,0,0,05/05/2024,away,16580,574081,Hawaii,9,True,1,9,-8,loss,4541556,101,2516459,2024,1
+0,1,1,0,0,0,0,0,0,0,05/18/2024,home,16580,574030,UC Santa Barbara,9,True,2,4,-2,loss,4542455,101,2516459,2024,1

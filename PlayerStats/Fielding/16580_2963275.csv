@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/03/2024,away,16580,2915,Wofford,9,True,2,13,-11,loss,4528432,236,2963275,2024,1
-1,1,2,0,0,0,0,0,0,0,03/10/2024,away,16580,786,William & Mary,9,True,17,7,10,win,4530191,236,2963275,2024,1
-1,0,2,1,0,0,2,1,0,0,03/16/2024,away,16580,220,Fairfield,9,True,8,10,-2,loss,4531307,236,2963275,2024,1
-1,0,1,0,0,0,0,1,0,0,03/24/2024,home,16580,603,St. John's (NY),9,True,2,1,1,win,4532830,236,2963275,2024,1
+0,1,1,0,0,0,0,0,0,0,03/03/2024,away,16580,573985,Wofford,9,True,2,13,-11,loss,4528432,236,2963275,2024,1
+1,1,2,0,0,0,0,0,0,0,03/10/2024,away,16580,573965,William & Mary,9,True,17,7,10,win,4530191,236,2963275,2024,1
+1,0,2,1,0,0,2,1,0,0,03/16/2024,away,16580,574062,Fairfield,9,True,8,10,-2,loss,4531307,236,2963275,2024,1
+1,0,1,0,0,0,0,1,0,0,03/24/2024,home,16580,574193,St. John's (NY),9,True,2,1,1,win,4532830,236,2963275,2024,1

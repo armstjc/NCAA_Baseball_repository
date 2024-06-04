@@ -1,3 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/28/2024,away,16580,11504,Queens (NC),9,True,0,10,-10,loss,4533790,28755,2459257,2024,1
-1,0,1,0,0,0,0,0,0,0,04/10/2024,away,16580,231,FIU,9,True,4,5,-1,loss,4536561,28755,2459257,2024,1
+0,0,0,0,0,0,1,0,0,0,03/28/2024,away,16580,574231,Queens (NC),9,True,0,10,-10,loss,4533790,28755,2459257,2024,1
+1,0,1,0,0,0,0,0,0,0,04/10/2024,away,16580,574066,FIU,9,True,4,5,-1,loss,4536561,28755,2459257,2024,1

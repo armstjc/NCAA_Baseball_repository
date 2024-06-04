@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/20/2024,away,16580,140,Cincinnati,9,True,2,10,-8,loss,4526320,505,2810023,2024,1
-0,0,0,0,0,0,1,0,0,0,03/29/2024,away,16580,817,Youngstown St.,9,True,8,4,4,win,4534237,505,2810023,2024,1
-0,0,0,0,0,0,1,0,0,0,04/06/2024,away,16580,308,Purdue Fort Wayne,9,True,1,4,-3,loss,5281331,505,2810023,2024,1
-0,0,0,0,0,0,1,1,0,0,04/19/2024,away,16580,514,Oakland,9,True,24,3,21,win,4538187,505,2810023,2024,1
+0,0,0,0,0,0,1,0,0,0,02/20/2024,away,16580,574041,Cincinnati,9,True,2,10,-8,loss,4526320,505,2810023,2024,1
+0,0,0,0,0,0,1,0,0,0,03/29/2024,away,16580,573971,Youngstown St.,9,True,8,4,4,win,4534237,505,2810023,2024,1
+0,0,0,0,0,0,1,0,0,0,04/06/2024,away,16580,574091,Purdue Fort Wayne,9,True,1,4,-3,loss,5281331,505,2810023,2024,1
+0,0,0,0,0,0,1,1,0,0,04/19/2024,away,16580,574165,Oakland,9,True,24,3,21,win,4538187,505,2810023,2024,1

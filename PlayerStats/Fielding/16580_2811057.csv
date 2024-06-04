@@ -1,4 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,04/23/2024,home,16580,1057,Drury,9,True,12,2,10,win,4539347,130,2811057,2024,2
-0,1,1,0,0,0,0,1,0,0,04/28/2024,home,16580,9012,Mo. Southern St.,9,True,5,2,3,win,4540482,130,2811057,2024,2
-0,1,1,0,0,0,0,0,1,0,05/16/2024,home,16580,383,Minnesota St.,9,True,12,10,2,win,5335020,130,2811057,2024,2
+0,0,0,0,0,0,1,0,0,0,04/23/2024,home,16580,574482,Drury,9,True,12,2,10,win,4539347,130,2811057,2024,2
+0,1,1,0,0,0,0,1,0,0,04/28/2024,home,16580,574289,Mo. Southern St.,9,True,5,2,3,win,4540482,130,2811057,2024,2
+0,1,1,0,0,0,0,0,1,0,05/16/2024,home,16580,574418,Minnesota St.,9,True,12,10,2,win,5335020,130,2811057,2024,2
+0,1,1,0,0,0,1,0,0,0,06/01/2024,neutral,16580,574369,Angelo St.,11,True,2,3,-1,loss,5336490,130,2811057,2024,2

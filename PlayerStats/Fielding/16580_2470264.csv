@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/23/2024,away,16580,473,New Mexico,9,True,11,12,-1,loss,4526550,649,2470264,2024,1
-1,0,1,0,0,0,0,0,0,0,04/21/2024,home,16580,620,St. Thomas (MN),9,True,4,3,1,win,4538918,649,2470264,2024,1
-0,0,1,1,0,0,0,0,0,0,04/27/2024,home,16580,527,Oral Roberts,9,True,4,16,-12,loss,4539615,649,2470264,2024,1
-0,0,0,0,0,0,1,0,0,0,05/05/2024,away,16580,502,Northern Colo.,9,True,6,14,-8,loss,4541423,649,2470264,2024,1
-0,1,2,1,0,0,0,0,0,0,05/12/2024,home,16580,493,North Dakota St.,9,True,8,5,3,win,4541992,649,2470264,2024,1
+0,0,0,0,0,0,1,0,0,0,02/23/2024,away,16580,574149,New Mexico,9,True,11,12,-1,loss,4526550,649,2470264,2024,1
+1,0,1,0,0,0,0,0,0,0,04/21/2024,home,16580,573909,St. Thomas (MN),9,True,4,3,1,win,4538918,649,2470264,2024,1
+0,0,1,1,0,0,0,0,0,0,04/27/2024,home,16580,574171,Oral Roberts,9,True,4,16,-12,loss,4539615,649,2470264,2024,1
+0,0,0,0,0,0,1,0,0,0,05/05/2024,away,16580,574159,Northern Colo.,9,True,6,14,-8,loss,4541423,649,2470264,2024,1
+0,1,2,1,0,0,0,0,0,0,05/12/2024,home,16580,574156,North Dakota St.,9,True,8,5,3,win,4541992,649,2470264,2024,1

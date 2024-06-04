@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,2,0,0,0,03/06/2024,away,16580,140,Cincinnati,9,True,8,19,-11,loss,4529121,5,2946029,2024,1
-0,1,1,0,0,0,0,1,0,0,04/09/2024,away,16580,175,Dayton,9,True,7,12,-5,loss,4536292,5,2946029,2024,1
-0,0,0,0,0,0,1,0,0,0,05/14/2024,away,16580,418,Michigan,9,True,4,14,-10,loss,4492301,5,2946029,2024,1
+0,0,0,0,0,0,2,0,0,0,03/06/2024,away,16580,574041,Cincinnati,9,True,8,19,-11,loss,4529121,5,2946029,2024,1
+0,1,1,0,0,0,0,1,0,0,04/09/2024,away,16580,574052,Dayton,9,True,7,12,-5,loss,4536292,5,2946029,2024,1
+0,0,0,0,0,0,1,0,0,0,05/14/2024,away,16580,574127,Michigan,9,True,4,14,-10,loss,4492301,5,2946029,2024,1

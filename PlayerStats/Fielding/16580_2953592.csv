@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,03/26/2024,home,16580,741,VMI,9,True,16,3,13,win,4533327,248,2953592,2024,1
-0,0,0,0,0,0,1,0,0,0,04/17/2024,away,16580,746,Virginia,9,True,5,11,-6,loss,4537930,248,2953592,2024,1
-0,0,0,0,0,0,1,0,0,0,05/07/2024,home,16580,393,UMES,9,True,9,3,6,win,4541591,248,2953592,2024,1
+1,0,1,0,0,0,0,0,0,0,03/26/2024,home,16580,573952,VMI,9,True,16,3,13,win,4533327,248,2953592,2024,1
+0,0,0,0,0,0,1,0,0,0,04/17/2024,away,16580,573954,Virginia,9,True,5,11,-6,loss,4537930,248,2953592,2024,1
+0,0,0,0,0,0,1,0,0,0,05/07/2024,home,16580,574119,UMES,9,True,9,3,6,win,4541591,248,2953592,2024,1

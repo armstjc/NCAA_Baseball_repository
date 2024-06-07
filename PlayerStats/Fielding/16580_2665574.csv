@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/03/2024,home,16580,549,Pomona-Pitzer,9,True,4,3,1,win,4543294,142,2665574,2024,3
-0,0,0,0,0,0,1,0,0,0,04/20/2024,away,16580,516,Occidental,9,True,8,7,1,win,4545687,142,2665574,2024,3
-1,0,1,0,0,0,0,0,0,0,05/18/2024,neutral,16580,24400,Concordia (TX),9,True,6,5,1,win,5335654,142,2665574,2024,3
+0,1,1,0,0,0,0,0,0,0,03/03/2024,home,16580,574512,Pomona-Pitzer,9,True,4,3,1,win,4543294,142,2665574,2024,3
+0,0,0,0,0,0,1,0,0,0,04/20/2024,away,16580,574500,Occidental,9,True,8,7,1,win,4545687,142,2665574,2024,3
+1,0,1,0,0,0,0,0,0,0,05/18/2024,neutral,16580,574688,Concordia (TX),9,True,6,5,1,win,5335654,142,2665574,2024,3

@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,04/10/2024,away,16580,958,Clarks Summit,9,True,10,7,3,win,4534776,30047,2822488,2024,3
-0,0,1,1,0,0,2,1,0,0,04/18/2024,home,16580,784,Wilkes,9,True,4,3,1,win,5283085,30047,2822488,2024,3
-0,0,1,1,0,0,0,0,0,0,04/24/2024,home,16580,16142,Misericordia,9,True,9,16,-7,loss,4539404,30047,2822488,2024,3
-0,0,0,0,0,0,2,0,0,0,05/19/2024,neutral,16580,420,Middlebury,9,True,6,11,-5,loss,5335666,30047,2822488,2024,3
+0,0,0,0,0,0,1,0,0,0,04/10/2024,away,16580,574606,Clarks Summit,9,True,10,7,3,win,4534776,30047,2822488,2024,3
+0,0,1,1,0,0,2,1,0,0,04/18/2024,home,16580,574586,Wilkes,9,True,4,3,1,win,5283085,30047,2822488,2024,3
+0,0,1,1,0,0,0,0,0,0,04/24/2024,home,16580,574674,Misericordia,9,True,9,16,-7,loss,4539404,30047,2822488,2024,3
+0,0,0,0,0,0,2,0,0,0,05/19/2024,neutral,16580,574848,Middlebury,9,True,6,11,-5,loss,5335666,30047,2822488,2024,3

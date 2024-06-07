@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2024,away,16580,394,Marymount (VA),9,True,5,9,-4,loss,4543467,269,2825861,2024,3
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,home,16580,752,Wash. & Lee,9,True,2,16,-14,loss,4528272,269,2825861,2024,3
-1,2,1,0,0,1,0,1,1,1,0,0,1,0,0,0,2,0,0,03/11/2024,home,16580,267,Hamilton,9,True,14,11,3,win,4543024,269,2825861,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,02/18/2024,away,16580,574840,Marymount (VA),9,True,5,9,-4,loss,4543467,269,2825861,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,home,16580,574570,Wash. & Lee,9,True,2,16,-14,loss,4528272,269,2825861,2024,3
+1,2,1,0,0,1,0,1,1,1,0,0,1,0,0,0,2,0,0,03/11/2024,home,16580,574804,Hamilton,9,True,14,11,3,win,4543024,269,2825861,2024,3

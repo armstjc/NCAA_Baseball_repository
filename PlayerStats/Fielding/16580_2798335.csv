@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/13/2024,away,16580,752,Wash. & Lee,11,True,8,6,2,win,4530677,637,2798335,2024,3
-0,0,0,0,0,0,1,0,0,0,03/26/2024,away,16580,203,East. Mennonite,9,True,12,4,8,win,4533458,637,2798335,2024,3
-1,0,1,0,0,0,2,0,0,0,03/29/2024,away,16580,622,Salisbury,9,True,2,4,-2,loss,4534034,637,2798335,2024,3
-0,0,0,0,0,0,1,0,0,0,04/30/2024,away,16580,394,Marymount (VA),9,True,7,9,-2,loss,4540713,637,2798335,2024,3
+0,1,1,0,0,0,0,0,0,0,03/13/2024,away,16580,574570,Wash. & Lee,11,True,8,6,2,win,4530677,637,2798335,2024,3
+0,0,0,0,0,0,1,0,0,0,03/26/2024,away,16580,574784,East. Mennonite,9,True,12,4,8,win,4533458,637,2798335,2024,3
+1,0,1,0,0,0,2,0,0,0,03/29/2024,away,16580,574540,Salisbury,9,True,2,4,-2,loss,4534034,637,2798335,2024,3
+0,0,0,0,0,0,1,0,0,0,04/30/2024,away,16580,574840,Marymount (VA),9,True,7,9,-2,loss,4540713,637,2798335,2024,3

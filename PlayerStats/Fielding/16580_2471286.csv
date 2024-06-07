@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/03/2024,neutral,16580,348,Lawrence,9,True,7,11,-4,loss,4528592,212,2471286,2024,3
-0,2,2,0,0,0,2,0,0,0,04/09/2024,home,16580,496,North Park,9,True,1,12,-11,loss,4536348,212,2471286,2024,3
-0,0,0,0,0,0,2,0,0,0,04/20/2024,away,16580,778,Wheaton (IL),9,True,0,10,-10,loss,4546122,212,2471286,2024,3
-0,1,1,0,0,0,0,0,0,0,04/28/2024,home,16580,424,Millikin,11,True,8,12,-4,loss,4540554,212,2471286,2024,3
+0,0,0,0,0,0,1,0,0,0,03/03/2024,neutral,16580,574830,Lawrence,9,True,7,11,-4,loss,4528592,212,2471286,2024,3
+0,2,2,0,0,0,2,0,0,0,04/09/2024,home,16580,574497,North Park,9,True,1,12,-11,loss,4536348,212,2471286,2024,3
+0,0,0,0,0,0,2,0,0,0,04/20/2024,away,16580,574581,Wheaton (IL),9,True,0,10,-10,loss,4546122,212,2471286,2024,3
+0,1,1,0,0,0,0,0,0,0,04/28/2024,home,16580,574849,Millikin,11,True,8,12,-4,loss,4540554,212,2471286,2024,3

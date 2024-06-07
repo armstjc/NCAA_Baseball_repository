@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/11/2024,neutral,16580,713,Trinity (CT),9,True,6,5,1,win,4530301,313,2522070,2024,3
-0,0,0,0,0,0,2,0,0,0,03/14/2024,neutral,16580,686,Swarthmore,9,True,9,24,-15,loss,4530754,313,2522070,2024,3
-0,1,1,0,0,0,0,0,0,0,03/29/2024,away,16580,607,St. Lawrence,9,True,14,8,6,win,4534067,313,2522070,2024,3
-0,0,1,1,0,0,0,0,0,0,04/27/2024,home,16580,282,Hobart,9,True,8,4,4,win,4540078,313,2522070,2024,3
+0,0,0,0,0,0,1,0,0,0,03/11/2024,neutral,16580,574557,Trinity (CT),9,True,6,5,1,win,4530301,313,2522070,2024,3
+0,0,0,0,0,0,2,0,0,0,03/14/2024,neutral,16580,574554,Swarthmore,9,True,9,24,-15,loss,4530754,313,2522070,2024,3
+0,1,1,0,0,0,0,0,0,0,03/29/2024,away,16580,574533,St. Lawrence,9,True,14,8,6,win,4534067,313,2522070,2024,3
+0,0,1,1,0,0,0,0,0,0,04/27/2024,home,16580,574873,Hobart,9,True,8,4,4,win,4540078,313,2522070,2024,3

@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,0,2,0,0,0,0,0,0,0,03/17/2024,neutral,16580,212,Elmhurst,9,True,11,17,-6,loss,4531788,962,2663503,2024,3
-2,0,2,0,0,0,0,0,0,0,03/30/2024,home,16580,570,Rensselaer,9,True,5,16,-11,loss,4543406,962,2663503,2024,3
-2,0,2,0,0,0,0,0,0,0,04/10/2024,home,16580,9684,Saint Elizabeth,9,True,8,9,-1,loss,4536452,962,2663503,2024,3
-1,0,1,0,0,0,0,0,0,0,04/23/2024,home,16580,789,Williams,9,True,4,12,-8,loss,4539317,962,2663503,2024,3
+2,0,2,0,0,0,0,0,0,0,03/17/2024,neutral,16580,574786,Elmhurst,9,True,11,17,-6,loss,4531788,962,2663503,2024,3
+2,0,2,0,0,0,0,0,0,0,03/30/2024,home,16580,574518,Rensselaer,9,True,5,16,-11,loss,4543406,962,2663503,2024,3
+2,0,2,0,0,0,0,0,0,0,04/10/2024,home,16580,574856,Saint Elizabeth,9,True,8,9,-1,loss,4536452,962,2663503,2024,3
+1,0,1,0,0,0,0,0,0,0,04/23/2024,home,16580,574589,Williams,9,True,4,12,-8,loss,4539317,962,2663503,2024,3

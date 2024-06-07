@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/02/2024,home,16580,30036,Mount Aloysius,9,True,3,8,-5,loss,4543173,389,2829147,2024,3
-0,1,1,0,0,0,0,0,0,0,03/29/2024,away,16580,412,Methodist,9,True,6,0,6,win,4534099,389,2829147,2024,3
-0,0,1,1,0,0,0,0,0,0,04/05/2024,home,16580,30164,Southern Va.,9,True,3,12,-9,loss,4535201,389,2829147,2024,3
-0,1,1,0,0,0,0,0,0,0,04/22/2024,away,16580,491,N.C. Wesleyan,9,True,6,12,-6,loss,4538433,389,2829147,2024,3
+0,0,0,0,0,0,1,0,0,0,03/02/2024,home,16580,574697,Mount Aloysius,9,True,3,8,-5,loss,4543173,389,2829147,2024,3
+0,1,1,0,0,0,0,0,0,0,03/29/2024,away,16580,574847,Methodist,9,True,6,0,6,win,4534099,389,2829147,2024,3
+0,0,1,1,0,0,0,0,0,0,04/05/2024,home,16580,574715,Southern Va.,9,True,3,12,-9,loss,4535201,389,2829147,2024,3
+0,1,1,0,0,0,0,0,0,0,04/22/2024,away,16580,574495,N.C. Wesleyan,9,True,6,12,-6,loss,4538433,389,2829147,2024,3

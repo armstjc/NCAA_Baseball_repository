@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
 1,0,1,0,0,0,0,0,0,0,02/20/2024,home,16580,0,Penn St.-Shenango,9,True,19,5,14,win,5246839,265,2824950,2024,3
-1,0,1,0,0,0,0,0,1,0,02/24/2024,neutral,16580,30160,Houghton,9,True,24,2,22,win,4527082,265,2824950,2024,3
-1,0,1,0,0,0,0,0,0,0,04/15/2024,away,16580,59,Bethany (WV),9,True,16,2,14,win,4545491,265,2824950,2024,3
+1,0,1,0,0,0,0,0,1,0,02/24/2024,neutral,16580,574714,Houghton,9,True,24,2,22,win,4527082,265,2824950,2024,3
+1,0,1,0,0,0,0,0,0,0,04/15/2024,away,16580,574739,Bethany (WV),9,True,16,2,14,win,4545491,265,2824950,2024,3

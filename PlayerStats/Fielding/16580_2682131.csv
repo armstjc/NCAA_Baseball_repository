@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,2,0,0,0,03/28/2024,away,16580,577,Ripon,9,True,4,10,-6,loss,4543371,53,2682131,2024,3
-0,0,0,0,0,0,1,0,0,0,04/05/2024,away,16580,137,UChicago,9,True,12,8,4,win,5281437,53,2682131,2024,3
-0,1,1,0,0,0,0,0,0,0,04/16/2024,home,16580,348,Lawrence,9,True,5,10,-5,loss,4537770,53,2682131,2024,3
+0,0,0,0,0,0,2,0,0,0,03/28/2024,away,16580,574521,Ripon,9,True,4,10,-6,loss,4543371,53,2682131,2024,3
+0,0,0,0,0,0,1,0,0,0,04/05/2024,away,16580,574763,UChicago,9,True,12,8,4,win,5281437,53,2682131,2024,3
+0,1,1,0,0,0,0,0,0,0,04/16/2024,home,16580,574830,Lawrence,9,True,5,10,-5,loss,4537770,53,2682131,2024,3

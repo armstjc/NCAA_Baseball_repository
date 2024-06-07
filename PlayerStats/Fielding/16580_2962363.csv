@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/10/2024,away,16580,637,Shenandoah,9,True,6,19,-13,loss,4525292,783,2962363,2024,3
-0,2,2,0,0,0,1,0,0,0,04/16/2024,home,16580,329,Kean,9,True,1,10,-9,loss,5255804,783,2962363,2024,3
-0,2,2,0,0,0,2,0,1,0,04/24/2024,home,16580,15882,Rosemont,9,True,16,5,11,win,4534968,783,2962363,2024,3
+0,0,0,0,0,0,1,0,0,0,02/10/2024,away,16580,574543,Shenandoah,9,True,6,19,-13,loss,4525292,783,2962363,2024,3
+0,2,2,0,0,0,1,0,0,0,04/16/2024,home,16580,574824,Kean,9,True,1,10,-9,loss,5255804,783,2962363,2024,3
+0,2,2,0,0,0,2,0,1,0,04/24/2024,home,16580,574861,Rosemont,9,True,16,5,11,win,4534968,783,2962363,2024,3

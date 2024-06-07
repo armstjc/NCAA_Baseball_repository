@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,2,1,0,0,0,0,0,0,02/24/2024,home,16580,23121,Texas-Dallas,9,True,11,17,-6,loss,4543616,271,2672410,2024,3
-0,1,1,0,0,0,2,0,0,0,03/08/2024,away,16580,2810,St. Thomas (TX),9,True,3,1,2,win,4529302,271,2672410,2024,3
-0,1,1,0,0,0,0,0,0,0,03/15/2024,away,16580,1390,Sul Ross St.,9,True,4,5,-1,loss,4531031,271,2672410,2024,3
-0,0,0,0,0,0,1,0,0,0,04/21/2024,away,16580,8490,LeTourneau,9,True,7,5,2,win,4538438,271,2672410,2024,3
-0,1,1,0,0,0,2,0,1,0,05/02/2024,neutral,16580,1203,Mary Hardin-Baylor,10,True,6,5,1,win,5288835,271,2672410,2024,3
+1,0,2,1,0,0,0,0,0,0,02/24/2024,home,16580,574683,Texas-Dallas,9,True,11,17,-6,loss,4543616,271,2672410,2024,3
+0,1,1,0,0,0,2,0,0,0,03/08/2024,away,16580,574859,St. Thomas (TX),9,True,3,1,2,win,4529302,271,2672410,2024,3
+0,1,1,0,0,0,0,0,0,0,03/15/2024,away,16580,574643,Sul Ross St.,9,True,4,5,-1,loss,4531031,271,2672410,2024,3
+0,0,0,0,0,0,1,0,0,0,04/21/2024,away,16580,574660,LeTourneau,9,True,7,5,2,win,4538438,271,2672410,2024,3
+0,1,1,0,0,0,2,0,1,0,05/02/2024,neutral,16580,574633,Mary Hardin-Baylor,10,True,6,5,1,win,5288835,271,2672410,2024,3

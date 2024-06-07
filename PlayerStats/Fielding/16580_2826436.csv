@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,1,3,1,0,0,0,0,1,0,03/06/2024,neutral,16580,46,Baldwin Wallace,9,True,1,4,-3,loss,4529062,938,2826436,2024,3
-0,3,3,0,0,0,0,1,0,0,03/12/2024,home,16580,564,Ramapo,9,True,4,13,-9,loss,4530471,938,2826436,2024,3
-0,1,1,0,0,0,0,0,0,0,03/20/2024,home,16580,319,New Jersey City,9,True,9,13,-4,loss,4532158,938,2826436,2024,3
-0,0,0,0,0,0,1,0,0,0,04/10/2024,away,16580,966,Arcadia,9,True,8,17,-9,loss,5282039,938,2826436,2024,3
-0,1,1,0,0,0,1,1,0,0,05/12/2024,away,16580,411,Messiah,9,True,5,10,-5,loss,5334387,938,2826436,2024,3
+1,1,3,1,0,0,0,0,1,0,03/06/2024,neutral,16580,574735,Baldwin Wallace,9,True,1,4,-3,loss,4529062,938,2826436,2024,3
+0,3,3,0,0,0,0,1,0,0,03/12/2024,home,16580,574515,Ramapo,9,True,4,13,-9,loss,4530471,938,2826436,2024,3
+0,1,1,0,0,0,0,0,0,0,03/20/2024,home,16580,574818,New Jersey City,9,True,9,13,-4,loss,4532158,938,2826436,2024,3
+0,0,0,0,0,0,1,0,0,0,04/10/2024,away,16580,574608,Arcadia,9,True,8,17,-9,loss,5282039,938,2826436,2024,3
+0,1,1,0,0,0,1,1,0,0,05/12/2024,away,16580,574846,Messiah,9,True,5,10,-5,loss,5334387,938,2826436,2024,3

@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,1,0,03/27/2024,home,16580,123,VTSU Castleton,9,True,16,6,10,win,4533597,564,2521073,2024,3
-0,0,0,0,0,0,1,0,0,0,04/09/2024,away,16580,475,SUNY New Paltz,9,True,11,7,4,win,4536200,564,2521073,2024,3
-0,0,0,0,0,0,1,0,0,0,04/23/2024,home,16580,478,SUNY Maritime,9,True,6,1,5,win,4539293,564,2521073,2024,3
-2,2,4,0,0,0,2,0,0,0,04/27/2024,home,16580,681,Stockton,9,True,8,2,6,win,4545434,564,2521073,2024,3
-0,0,0,0,0,0,1,0,0,0,05/05/2024,neutral,16580,259,Rowan,9,True,9,7,2,win,5289428,564,2521073,2024,3
+0,1,1,0,0,0,0,0,1,0,03/27/2024,home,16580,574757,VTSU Castleton,9,True,16,6,10,win,4533597,564,2521073,2024,3
+0,0,0,0,0,0,1,0,0,0,04/09/2024,away,16580,574489,SUNY New Paltz,9,True,11,7,4,win,4536200,564,2521073,2024,3
+0,0,0,0,0,0,1,0,0,0,04/23/2024,home,16580,574490,SUNY Maritime,9,True,6,1,5,win,4539293,564,2521073,2024,3
+2,2,4,0,0,0,2,0,0,0,04/27/2024,home,16580,574551,Stockton,9,True,8,2,6,win,4545434,564,2521073,2024,3
+0,0,0,0,0,0,1,0,0,0,05/05/2024,neutral,16580,574799,Rowan,9,True,9,7,2,win,5289428,564,2521073,2024,3

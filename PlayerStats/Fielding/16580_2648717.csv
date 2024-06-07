@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,0,2,0,0,0,0,0,0,0,04/05/2024,home,16580,271,Hardin-Simmons,9,True,13,0,13,win,4535159,1203,2648717,2024,3
-2,0,2,0,0,0,0,0,0,0,04/20/2024,home,16580,23008,Ozarks (AR),9,True,8,2,6,win,4538451,1203,2648717,2024,3
-3,0,3,0,0,0,0,0,0,0,04/23/2024,home,16580,715,Trinity (TX),9,True,4,5,-1,loss,4539194,1203,2648717,2024,3
-4,1,5,0,0,0,0,0,0,0,05/02/2024,neutral,16580,8530,McMurry,9,True,4,7,-3,loss,5288965,1203,2648717,2024,3
+2,0,2,0,0,0,0,0,0,0,04/05/2024,home,16580,574807,Hardin-Simmons,9,True,13,0,13,win,4535159,1203,2648717,2024,3
+2,0,2,0,0,0,0,0,0,0,04/20/2024,home,16580,574682,Ozarks (AR),9,True,8,2,6,win,4538451,1203,2648717,2024,3
+3,0,3,0,0,0,0,0,0,0,04/23/2024,home,16580,574558,Trinity (TX),9,True,4,5,-1,loss,4539194,1203,2648717,2024,3
+4,1,5,0,0,0,0,0,0,0,05/02/2024,neutral,16580,574661,McMurry,9,True,4,7,-3,loss,5288965,1203,2648717,2024,3

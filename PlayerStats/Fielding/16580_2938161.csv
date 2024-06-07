@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/10/2024,away,16580,30094,Brevard,9,True,6,10,-4,loss,4525392,44,2938161,2024,3
-0,0,0,0,0,0,3,0,0,0,02/22/2024,home,16580,50,Bates,9,True,5,9,-4,loss,4526454,44,2938161,2024,3
-0,0,0,0,0,0,1,0,0,0,03/10/2024,away,16580,752,Wash. & Lee,9,True,7,16,-9,loss,4543859,44,2938161,2024,3
-0,0,0,0,0,0,3,0,0,0,03/30/2024,home,16580,565,Randolph-Macon,9,True,0,11,-11,loss,4543091,44,2938161,2024,3
+0,0,0,0,0,0,1,0,0,0,02/10/2024,away,16580,574867,Brevard,9,True,6,10,-4,loss,4525392,44,2938161,2024,3
+0,0,0,0,0,0,3,0,0,0,02/22/2024,home,16580,574736,Bates,9,True,5,9,-4,loss,4526454,44,2938161,2024,3
+0,0,0,0,0,0,1,0,0,0,03/10/2024,away,16580,574570,Wash. & Lee,9,True,7,16,-9,loss,4543859,44,2938161,2024,3
+0,0,0,0,0,0,3,0,0,0,03/30/2024,home,16580,574516,Randolph-Macon,9,True,0,11,-11,loss,4543091,44,2938161,2024,3

@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,2,2,0,0,0,0,0,0,0,03/05/2024,neutral,16580,938,Alvernia,9,True,9,6,3,win,4528870,531,2123476,2024,3
-1,1,2,0,0,0,0,0,0,0,03/08/2024,neutral,16580,281,Hiram,9,True,5,11,-6,loss,4529368,531,2123476,2024,3
-0,0,0,0,0,0,3,0,0,0,04/06/2024,away,16580,452,Mount Union,9,True,3,7,-4,loss,4535585,531,2123476,2024,3
-0,1,1,0,0,0,0,0,0,0,04/14/2024,home,16580,385,Marietta,9,True,8,7,1,win,4545910,531,2123476,2024,3
-0,0,0,0,0,0,1,1,0,0,05/10/2024,away,16580,46,Baldwin Wallace,9,True,4,5,-1,loss,5315528,531,2123476,2024,3
+0,2,2,0,0,0,0,0,0,0,03/05/2024,neutral,16580,574603,Alvernia,9,True,9,6,3,win,4528870,531,2123476,2024,3
+1,1,2,0,0,0,0,0,0,0,03/08/2024,neutral,16580,574811,Hiram,9,True,5,11,-6,loss,4529368,531,2123476,2024,3
+0,0,0,0,0,0,3,0,0,0,04/06/2024,away,16580,574870,Mount Union,9,True,3,7,-4,loss,4535585,531,2123476,2024,3
+0,1,1,0,0,0,0,0,0,0,04/14/2024,home,16580,574838,Marietta,9,True,8,7,1,win,4545910,531,2123476,2024,3
+0,0,0,0,0,0,1,1,0,0,05/10/2024,away,16580,574735,Baldwin Wallace,9,True,4,5,-1,loss,5315528,531,2123476,2024,3

@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/16/2024,home,16580,12884,Centenary (NJ),11,True,4,7,-3,loss,4525651,752,2806973,2024,3
-0,2,2,0,0,0,0,0,0,0,03/12/2024,home,16580,267,Hamilton,9,True,8,2,6,win,4530495,752,2806973,2024,3
-0,1,1,0,0,0,0,0,0,0,03/26/2024,home,16580,75,Bridgewater (VA),9,True,7,10,-3,loss,4533466,752,2806973,2024,3
-0,1,1,0,0,0,0,1,0,0,05/04/2024,away,16580,565,Randolph-Macon,9,True,1,12,-11,loss,5285988,752,2806973,2024,3
+0,0,0,0,0,0,1,0,0,0,02/16/2024,home,16580,574673,Centenary (NJ),11,True,4,7,-3,loss,4525651,752,2806973,2024,3
+0,2,2,0,0,0,0,0,0,0,03/12/2024,home,16580,574804,Hamilton,9,True,8,2,6,win,4530495,752,2806973,2024,3
+0,1,1,0,0,0,0,0,0,0,03/26/2024,home,16580,574744,Bridgewater (VA),9,True,7,10,-3,loss,4533466,752,2806973,2024,3
+0,1,1,0,0,0,0,1,0,0,05/04/2024,away,16580,574516,Randolph-Macon,9,True,1,12,-11,loss,5285988,752,2806973,2024,3

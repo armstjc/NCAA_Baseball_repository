@@ -47,3 +47,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 1,0,1,0,0,0,0,0,0,0,05/26/2024,neutral,16580,574226,Tennessee,9,True,3,4,-1,loss,5335902,365,2656613,2024,1
 0,2,2,0,0,0,0,0,0,0,05/31/2024,neutral,16580,573985,Wofford,9,True,4,3,1,win,5336392,365,2656613,2024,1
 2,0,2,0,0,0,0,0,0,0,06/01/2024,away,16580,574139,North Carolina,9,True,2,6,-4,loss,5336394,365,2656613,2024,1
+0,2,2,0,0,0,0,0,0,0,06/03/2024,home,16580,574139,North Carolina,10,True,3,4,-1,loss,5336584,365,2656613,2024,1

@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,04/06/2024,home,16580,1196,Marian (WI),9,True,7,11,-4,loss,4544368,160,2809306,2024,3
-0,0,0,0,0,0,1,0,0,0,04/10/2024,home,16580,42,Aurora,9,True,8,12,-4,loss,4545904,160,2809306,2024,3
-1,1,2,0,0,0,0,0,0,0,04/24/2024,home,16580,30172,IIT,9,True,11,7,4,win,4545829,160,2809306,2024,3
+0,0,0,0,0,0,1,0,0,0,04/06/2024,home,16580,574632,Marian (WI),9,True,7,11,-4,loss,4544368,160,2809306,2024,3
+0,0,0,0,0,0,1,0,0,0,04/10/2024,home,16580,574732,Aurora,9,True,8,12,-4,loss,4545904,160,2809306,2024,3
+1,1,2,0,0,0,0,0,0,0,04/24/2024,home,16580,574720,IIT,9,True,11,7,4,win,4545829,160,2809306,2024,3

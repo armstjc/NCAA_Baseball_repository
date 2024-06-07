@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,2,1,0,0,0,0,0,0,03/17/2024,neutral,16580,775,Western New Eng.,9,True,2,4,-2,loss,4543037,238,2518202,2024,3
-0,2,2,0,0,0,0,0,0,0,03/22/2024,away,16580,478,SUNY Maritime,9,True,3,17,-14,loss,4532367,238,2518202,2024,3
-0,1,1,0,0,0,0,0,0,0,03/23/2024,neutral,16580,802,Wis.-Stevens Point,9,True,5,10,-5,loss,4532722,238,2518202,2024,3
-2,2,6,2,0,0,0,0,1,0,03/26/2024,away,16580,24317,Lesley,9,True,11,8,3,win,4533296,238,2518202,2024,3
+0,1,2,1,0,0,0,0,0,0,03/17/2024,neutral,16580,574579,Western New Eng.,9,True,2,4,-2,loss,4543037,238,2518202,2024,3
+0,2,2,0,0,0,0,0,0,0,03/22/2024,away,16580,574490,SUNY Maritime,9,True,3,17,-14,loss,4532367,238,2518202,2024,3
+0,1,1,0,0,0,0,0,0,0,03/23/2024,neutral,16580,574593,Wis.-Stevens Point,9,True,5,10,-5,loss,4532722,238,2518202,2024,3
+2,2,6,2,0,0,0,0,1,0,03/26/2024,away,16580,574687,Lesley,9,True,11,8,3,win,4533296,238,2518202,2024,3

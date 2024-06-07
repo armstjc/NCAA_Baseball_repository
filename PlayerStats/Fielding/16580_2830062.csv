@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,2,1,0,0,4,1,0,0,03/12/2024,neutral,16580,124,Catholic,9,True,1,7,-6,loss,4530417,467,2830062,2024,3
-0,2,2,0,0,0,2,0,0,0,03/29/2024,away,16580,30042,Mitchell,9,True,3,10,-7,loss,4544213,467,2830062,2024,3
-0,0,0,0,0,0,1,0,0,0,04/07/2024,home,16580,2798,Albertus Magnus,9,True,11,23,-12,loss,4536076,467,2830062,2024,3
-1,1,2,0,0,0,0,0,0,0,04/28/2024,home,16580,18422,Rivier,9,True,5,16,-11,loss,4545664,467,2830062,2024,3
+0,1,2,1,0,0,4,1,0,0,03/12/2024,neutral,16580,574758,Catholic,9,True,1,7,-6,loss,4530417,467,2830062,2024,3
+0,2,2,0,0,0,2,0,0,0,03/29/2024,away,16580,574702,Mitchell,9,True,3,10,-7,loss,4544213,467,2830062,2024,3
+0,0,0,0,0,0,1,0,0,0,04/07/2024,home,16580,574656,Albertus Magnus,9,True,11,23,-12,loss,4536076,467,2830062,2024,3
+1,1,2,0,0,0,0,0,0,0,04/28/2024,home,16580,574676,Rivier,9,True,5,16,-11,loss,4545664,467,2830062,2024,3

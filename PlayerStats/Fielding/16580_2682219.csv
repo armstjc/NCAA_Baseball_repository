@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/23/2024,away,16580,1162,LaGrange,9,True,3,13,-10,loss,4532973,30171,2682219,2024,3
-0,0,0,0,0,0,1,0,0,0,03/27/2024,home,16580,30243,Asbury,9,True,4,16,-12,loss,4533513,30171,2682219,2024,3
-0,0,0,0,0,0,2,0,0,0,03/29/2024,home,16580,1130,Huntingdon,9,True,2,14,-12,loss,5256151,30171,2682219,2024,3
-1,0,1,0,0,0,0,0,0,0,03/30/2024,home,16580,1130,Huntingdon,9,True,3,17,-14,loss,4543418,30171,2682219,2024,3
+0,0,0,0,0,0,1,0,0,0,03/23/2024,away,16580,574626,LaGrange,9,True,3,13,-10,loss,4532973,30171,2682219,2024,3
+0,0,0,0,0,0,1,0,0,0,03/27/2024,home,16580,574863,Asbury,9,True,4,16,-12,loss,4533513,30171,2682219,2024,3
+0,0,0,0,0,0,2,0,0,0,03/29/2024,home,16580,574623,Huntingdon,9,True,2,14,-12,loss,5256151,30171,2682219,2024,3
+1,0,1,0,0,0,0,0,0,0,03/30/2024,home,16580,574623,Huntingdon,9,True,3,17,-14,loss,4543418,30171,2682219,2024,3

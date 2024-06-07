@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,04/04/2024,away,16580,268,Hamline,9,True,0,4,-4,loss,4542589,376,2840941,2024,3
-0,0,0,0,0,0,2,0,0,0,04/18/2024,away,16580,30038,Bethany Lutheran,9,True,17,3,14,win,4546191,376,2840941,2024,3
-0,0,0,0,0,0,1,0,0,0,04/23/2024,away,16580,618,St. Scholastica,9,True,1,15,-14,loss,4545564,376,2840941,2024,3
+0,0,0,0,0,0,1,0,0,0,04/04/2024,away,16580,574805,Hamline,9,True,0,4,-4,loss,4542589,376,2840941,2024,3
+0,0,0,0,0,0,2,0,0,0,04/18/2024,away,16580,574699,Bethany Lutheran,9,True,17,3,14,win,4546191,376,2840941,2024,3
+0,0,0,0,0,0,1,0,0,0,04/23/2024,away,16580,574538,St. Scholastica,9,True,1,15,-14,loss,4545564,376,2840941,2024,3

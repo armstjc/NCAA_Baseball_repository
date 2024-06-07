@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,2,0,0,0,03/16/2024,neutral,16580,30172,IIT,9,True,12,15,-3,loss,4544297,479,2804084,2024,3
-0,0,0,0,0,0,1,0,0,0,04/13/2024,away,16580,73,Brandeis,10,True,19,16,3,win,4537121,479,2804084,2024,3
-0,0,0,0,0,0,1,0,0,0,04/27/2024,away,16580,570,Rensselaer,9,True,11,5,6,win,4539931,479,2804084,2024,3
+0,0,0,0,0,0,2,0,0,0,03/16/2024,neutral,16580,574720,IIT,9,True,12,15,-3,loss,4544297,479,2804084,2024,3
+0,0,0,0,0,0,1,0,0,0,04/13/2024,away,16580,574743,Brandeis,10,True,19,16,3,win,4537121,479,2804084,2024,3
+0,0,0,0,0,0,1,0,0,0,04/27/2024,away,16580,574518,Rensselaer,9,True,11,5,6,win,4539931,479,2804084,2024,3

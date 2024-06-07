@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,03/07/2024,neutral,16580,266,Gustavus Adolphus,9,True,5,15,-10,loss,5252604,2741,2953563,2024,3
-0,1,1,0,0,0,0,0,0,0,03/26/2024,neutral,16580,953,Austin,9,True,2,14,-12,loss,4533524,2741,2953563,2024,3
-0,1,1,0,0,0,0,0,0,0,04/23/2024,home,16580,8746,Southwestern (TX),9,True,16,6,10,win,4539278,2741,2953563,2024,3
+1,0,1,0,0,0,0,0,0,0,03/07/2024,neutral,16580,574803,Gustavus Adolphus,9,True,5,15,-10,loss,5252604,2741,2953563,2024,3
+0,1,1,0,0,0,0,0,0,0,03/26/2024,neutral,16580,574605,Austin,9,True,2,14,-12,loss,4533524,2741,2953563,2024,3
+0,1,1,0,0,0,0,0,0,0,04/23/2024,home,16580,574664,Southwestern (TX),9,True,16,6,10,win,4539278,2741,2953563,2024,3

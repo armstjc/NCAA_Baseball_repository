@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-8,1,10,1,0,0,0,0,1,0,03/29/2024,away,16580,30038,Bethany Lutheran,9,True,1,6,-5,loss,5256103,1267,2830521,2024,3
-6,0,6,0,0,0,0,0,1,0,04/09/2024,away,16580,1194,Maranatha Baptist,9,True,7,3,4,win,4543112,1267,2830521,2024,3
-1,0,1,0,0,0,0,0,0,0,04/24/2024,home,16580,793,Wis.-Eau Claire,9,True,6,8,-2,loss,4545833,1267,2830521,2024,3
+8,1,10,1,0,0,0,0,1,0,03/29/2024,away,16580,574699,Bethany Lutheran,9,True,1,6,-5,loss,5256103,1267,2830521,2024,3
+6,0,6,0,0,0,0,0,1,0,04/09/2024,away,16580,574631,Maranatha Baptist,9,True,7,3,4,win,4543112,1267,2830521,2024,3
+1,0,1,0,0,0,0,0,0,0,04/24/2024,home,16580,574857,Wis.-Eau Claire,9,True,6,8,-2,loss,4545833,1267,2830521,2024,3

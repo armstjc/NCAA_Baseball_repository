@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,1,0,02/24/2024,home,16580,781,Whittier,9,True,11,0,11,win,4526986,134,2526103,2024,3
-1,0,1,0,0,0,0,0,0,0,03/03/2024,home,16580,4,Adrian,9,True,3,2,1,win,4528675,134,2526103,2024,3
-0,1,1,0,0,0,0,0,0,0,03/08/2024,home,16580,398,MIT,9,True,4,5,-1,loss,4529482,134,2526103,2024,3
+0,1,1,0,0,0,0,0,1,0,02/24/2024,home,16580,574584,Whittier,9,True,11,0,11,win,4526986,134,2526103,2024,3
+1,0,1,0,0,0,0,0,0,0,03/03/2024,home,16580,574722,Adrian,9,True,3,2,1,win,4528675,134,2526103,2024,3
+0,1,1,0,0,0,0,0,0,0,03/08/2024,home,16580,574843,MIT,9,True,4,5,-1,loss,4529482,134,2526103,2024,3

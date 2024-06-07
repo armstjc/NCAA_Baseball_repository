@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,2,2,0,0,0,2,0,0,0,03/20/2024,home,16580,30047,Keystone,9,True,4,8,-4,loss,4532075,685,2816997,2024,3
-0,0,0,0,0,0,1,0,0,0,03/26/2024,away,16580,325,Juniata,9,True,8,10,-2,loss,4533527,685,2816997,2024,3
-1,1,2,0,0,0,1,2,0,0,04/07/2024,home,16580,443,Moravian,9,True,1,5,-4,loss,4545008,685,2816997,2024,3
-0,2,2,0,0,0,2,0,0,0,04/16/2024,away,16580,16142,Misericordia,9,True,3,17,-14,loss,4537695,685,2816997,2024,3
+0,2,2,0,0,0,2,0,0,0,03/20/2024,home,16580,574704,Keystone,9,True,4,8,-4,loss,4532075,685,2816997,2024,3
+0,0,0,0,0,0,1,0,0,0,03/26/2024,away,16580,574822,Juniata,9,True,8,10,-2,loss,4533527,685,2816997,2024,3
+1,1,2,0,0,0,1,2,0,0,04/07/2024,home,16580,574868,Moravian,9,True,1,5,-4,loss,4545008,685,2816997,2024,3
+0,2,2,0,0,0,2,0,0,0,04/16/2024,away,16580,574674,Misericordia,9,True,3,17,-14,loss,4537695,685,2816997,2024,3

@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,neutral,16580,50,Bates,9,True,6,14,-8,loss,4543627,548,2828079,2024,3
-0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,03/13/2024,neutral,16580,761,Wells,9,True,3,10,-7,loss,5253312,548,2828079,2024,3
-0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/15/2024,away,16580,1099,Gordon,9,True,16,10,6,win,4537650,548,2828079,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,neutral,16580,574736,Bates,9,True,6,14,-8,loss,4543627,548,2828079,2024,3
+0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,03/13/2024,neutral,16580,574574,Wells,9,True,3,10,-7,loss,5253312,548,2828079,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/15/2024,away,16580,574618,Gordon,9,True,16,10,6,win,4537650,548,2828079,2024,3

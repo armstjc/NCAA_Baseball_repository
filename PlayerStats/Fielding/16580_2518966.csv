@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,2,1,0,0,0,0,0,0,03/05/2024,neutral,16580,747,Wabash,9,True,6,14,-8,loss,4528946,16142,2518966,2024,3
-1,0,1,0,0,0,0,0,0,0,04/14/2024,home,16580,221,FDU-Florham,9,True,7,4,3,win,4536634,16142,2518966,2024,3
-1,0,1,0,0,0,0,0,0,0,04/21/2024,away,16580,179,Delaware Valley,9,True,18,6,12,win,4532752,16142,2518966,2024,3
-0,0,0,0,0,0,1,0,0,0,05/19/2024,neutral,16580,420,Middlebury,9,True,6,4,2,win,5335741,16142,2518966,2024,3
+1,0,2,1,0,0,0,0,0,0,03/05/2024,neutral,16580,574567,Wabash,9,True,6,14,-8,loss,4528946,16142,2518966,2024,3
+1,0,1,0,0,0,0,0,0,0,04/14/2024,home,16580,574791,FDU-Florham,9,True,7,4,3,win,4536634,16142,2518966,2024,3
+1,0,1,0,0,0,0,0,0,0,04/21/2024,away,16580,574777,Delaware Valley,9,True,18,6,12,win,4532752,16142,2518966,2024,3
+0,0,0,0,0,0,1,0,0,0,05/19/2024,neutral,16580,574848,Middlebury,9,True,6,4,2,win,5335741,16142,2518966,2024,3

@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-3,0,3,0,0,0,0,0,0,0,03/03/2024,home,16580,938,Alvernia,9,True,2,10,-8,loss,4528569,281,2668687,2024,3
-1,0,1,0,0,0,0,0,0,0,03/03/2024,neutral,16580,938,Alvernia,9,True,0,4,-4,loss,4544582,281,2668687,2024,3
-1,0,1,0,0,0,0,0,0,0,03/04/2024,neutral,16580,1050,Defiance,9,True,7,2,5,win,4528751,281,2668687,2024,3
-2,0,2,0,0,0,0,0,0,0,03/05/2024,neutral,16580,582,Rockford,9,True,7,6,1,win,4528871,281,2668687,2024,3
+3,0,3,0,0,0,0,0,0,0,03/03/2024,home,16580,574603,Alvernia,9,True,2,10,-8,loss,4528569,281,2668687,2024,3
+1,0,1,0,0,0,0,0,0,0,03/03/2024,neutral,16580,574603,Alvernia,9,True,0,4,-4,loss,4544582,281,2668687,2024,3
+1,0,1,0,0,0,0,0,0,0,03/04/2024,neutral,16580,574613,Defiance,9,True,7,2,5,win,4528751,281,2668687,2024,3
+2,0,2,0,0,0,0,0,0,0,03/05/2024,neutral,16580,574525,Rockford,9,True,7,6,1,win,4528871,281,2668687,2024,3

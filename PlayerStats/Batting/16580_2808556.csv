@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/11/2024,neutral,16580,656,UMass Dartmouth,9,True,3,9,-6,loss,4780633,214,2808556,2024,3
-0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/13/2024,neutral,16580,605,St. Joseph's (ME),9,True,6,13,-7,loss,4530611,214,2808556,2024,3
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/29/2024,home,16580,656,UMass Dartmouth,9,True,6,22,-16,loss,5256008,214,2808556,2024,3
+1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/11/2024,neutral,16580,574547,UMass Dartmouth,9,True,3,9,-6,loss,4780633,214,2808556,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,03/13/2024,neutral,16580,574532,St. Joseph's (ME),9,True,6,13,-7,loss,4530611,214,2808556,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/29/2024,home,16580,574547,UMass Dartmouth,9,True,6,22,-16,loss,5256008,214,2808556,2024,3

@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,3,3,0,0,0,0,0,0,0,03/09/2024,away,16580,22235,Lewis & Clark,10,True,8,9,-1,loss,4529627,401,2527536,2024,3
-0,1,1,0,0,0,0,0,0,0,03/12/2024,away,16580,1179,Linfield,9,True,7,2,5,win,4530455,401,2527536,2024,3
-0,1,1,0,0,0,0,0,0,0,05/08/2024,home,16580,571,Rhode Island Col.,9,True,11,3,8,win,5289644,401,2527536,2024,3
+0,3,3,0,0,0,0,0,0,0,03/09/2024,away,16580,574680,Lewis & Clark,10,True,8,9,-1,loss,4529627,401,2527536,2024,3
+0,1,1,0,0,0,0,0,0,0,03/12/2024,away,16580,574629,Linfield,9,True,7,2,5,win,4530455,401,2527536,2024,3
+0,1,1,0,0,0,0,0,0,0,05/08/2024,home,16580,574519,Rhode Island Col.,9,True,11,3,8,win,5289644,401,2527536,2024,3

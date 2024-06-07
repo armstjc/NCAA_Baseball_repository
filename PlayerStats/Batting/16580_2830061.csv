@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/09/2024,neutral,16580,773,McDaniel,9,True,4,17,-13,loss,4529690,467,2830061,2024,3
-0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/14/2024,away,16580,808,WPI,9,True,4,18,-14,loss,4530705,467,2830061,2024,3
-0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,04/14/2024,away,16580,22626,JWU (Providence),9,True,4,27,-23,loss,4537447,467,2830061,2024,3
+0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,03/09/2024,neutral,16580,574578,McDaniel,9,True,4,17,-13,loss,4529690,467,2830061,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/14/2024,away,16580,574599,WPI,9,True,4,18,-14,loss,4530705,467,2830061,2024,3
+0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,04/14/2024,away,16580,574681,JWU (Providence),9,True,4,27,-23,loss,4537447,467,2830061,2024,3

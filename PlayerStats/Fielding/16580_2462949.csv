@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,1,1,0,0,0,0,0,0,03/03/2024,home,16580,784,Wilkes,9,True,0,4,-4,loss,4544597,538,2462949,2024,3
-0,1,1,0,0,0,1,0,0,0,03/07/2024,neutral,16580,179,Delaware Valley,9,True,4,5,-1,loss,4529189,538,2462949,2024,3
-0,0,0,0,0,0,1,0,0,0,04/03/2024,away,16580,46,Baldwin Wallace,9,True,3,19,-16,loss,5280885,538,2462949,2024,3
-0,3,3,0,0,0,1,0,0,0,04/10/2024,away,16580,8398,Hilbert,9,True,4,14,-10,loss,4546075,538,2462949,2024,3
+0,0,1,1,0,0,0,0,0,0,03/03/2024,home,16580,574586,Wilkes,9,True,0,4,-4,loss,4544597,538,2462949,2024,3
+0,1,1,0,0,0,1,0,0,0,03/07/2024,neutral,16580,574777,Delaware Valley,9,True,4,5,-1,loss,4529189,538,2462949,2024,3
+0,0,0,0,0,0,1,0,0,0,04/03/2024,away,16580,574735,Baldwin Wallace,9,True,3,19,-16,loss,5280885,538,2462949,2024,3
+0,3,3,0,0,0,1,0,0,0,04/10/2024,away,16580,574657,Hilbert,9,True,4,14,-10,loss,4546075,538,2462949,2024,3

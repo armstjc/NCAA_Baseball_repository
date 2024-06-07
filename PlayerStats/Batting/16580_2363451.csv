@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/13/2024,neutral,16580,777,Westfield St.,9,True,2,13,-11,loss,4530625,8486,2363451,2024,3
-1,1,1,0,0,4,1,2,0,0,1,0,0,0,0,0,0,0,0,04/14/2024,away,16580,511,Norwich,9,True,4,11,-7,loss,4546268,8486,2363451,2024,3
-0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,04/25/2024,away,16580,76,Bridgewater St.,9,True,7,20,-13,loss,4539542,8486,2363451,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/13/2024,neutral,16580,574580,Westfield St.,9,True,2,13,-11,loss,4530625,8486,2363451,2024,3
+1,1,1,0,0,4,1,2,0,0,1,0,0,0,0,0,0,0,0,04/14/2024,away,16580,574498,Norwich,9,True,4,11,-7,loss,4546268,8486,2363451,2024,3
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,04/25/2024,away,16580,574745,Bridgewater St.,9,True,7,20,-13,loss,4539542,8486,2363451,2024,3

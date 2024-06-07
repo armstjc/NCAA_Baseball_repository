@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,02/20/2024,home,16580,30164,Southern Va.,9,True,5,7,-2,loss,4526372,752,2671236,2024,3
-0,0,0,0,0,0,1,1,0,0,04/09/2024,home,16580,203,East. Mennonite,9,True,0,9,-9,loss,4536333,752,2671236,2024,3
-0,0,1,1,0,0,2,0,0,0,04/27/2024,away,16580,745,Va. Wesleyan,9,True,5,11,-6,loss,4540108,752,2671236,2024,3
+1,0,1,0,0,0,0,0,0,0,02/20/2024,home,16580,574715,Southern Va.,9,True,5,7,-2,loss,4526372,752,2671236,2024,3
+0,0,0,0,0,0,1,1,0,0,04/09/2024,home,16580,574784,East. Mennonite,9,True,0,9,-9,loss,4536333,752,2671236,2024,3
+0,0,1,1,0,0,2,0,0,0,04/27/2024,away,16580,574566,Va. Wesleyan,9,True,5,11,-6,loss,4540108,752,2671236,2024,3

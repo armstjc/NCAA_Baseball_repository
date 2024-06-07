@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,3,1,0,0,03/13/2024,neutral,16580,1226,Minn.-Morris,9,True,13,7,6,win,4544419,526,2815266,2024,3
-0,0,0,0,0,0,2,1,0,0,04/01/2024,home,16580,30083,SUNY Cobleskill,9,True,2,1,1,win,4535018,526,2815266,2024,3
-0,0,0,0,0,0,2,1,0,0,04/07/2024,away,16580,242,Fredonia,9,True,4,7,-3,loss,4544518,526,2815266,2024,3
-0,1,1,0,0,0,1,2,0,0,04/13/2024,home,16580,475,SUNY New Paltz,9,True,7,14,-7,loss,4536763,526,2815266,2024,3
-0,1,1,0,0,0,0,0,0,0,04/20/2024,away,16580,547,Plattsburgh St.,11,True,7,8,-1,loss,4538483,526,2815266,2024,3
+0,0,0,0,0,0,3,1,0,0,03/13/2024,neutral,16580,574634,Minn.-Morris,9,True,13,7,6,win,4544419,526,2815266,2024,3
+0,0,0,0,0,0,2,1,0,0,04/01/2024,home,16580,574709,SUNY Cobleskill,9,True,2,1,1,win,4535018,526,2815266,2024,3
+0,0,0,0,0,0,2,1,0,0,04/07/2024,away,16580,574796,Fredonia,9,True,4,7,-3,loss,4544518,526,2815266,2024,3
+0,1,1,0,0,0,1,2,0,0,04/13/2024,home,16580,574489,SUNY New Paltz,9,True,7,14,-7,loss,4536763,526,2815266,2024,3
+0,1,1,0,0,0,0,0,0,0,04/20/2024,away,16580,574510,Plattsburgh St.,11,True,7,8,-1,loss,4538483,526,2815266,2024,3

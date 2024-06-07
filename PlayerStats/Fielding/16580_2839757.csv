@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,1,0,03/19/2024,neutral,16580,322,Johns Hopkins,9,True,0,8,-8,loss,4531922,795,2839757,2024,3
-0,1,1,0,0,0,0,0,0,0,04/10/2024,away,16580,803,Wis.-Stout,9,True,6,7,-1,loss,4536492,795,2839757,2024,3
-0,1,1,0,0,0,0,1,0,0,04/21/2024,home,16580,805,Wis.-Whitewater,9,True,7,10,-3,loss,4538984,795,2839757,2024,3
-0,1,1,0,0,0,0,0,0,0,04/27/2024,away,16580,802,Wis.-Stevens Point,9,True,14,17,-3,loss,4540036,795,2839757,2024,3
-0,0,0,0,0,0,1,0,0,0,05/25/2024,away,16580,805,Wis.-Whitewater,9,True,0,8,-8,loss,5336135,795,2839757,2024,3
+0,1,1,0,0,0,0,0,1,0,03/19/2024,neutral,16580,574821,Johns Hopkins,9,True,0,8,-8,loss,4531922,795,2839757,2024,3
+0,1,1,0,0,0,0,0,0,0,04/10/2024,away,16580,574594,Wis.-Stout,9,True,6,7,-1,loss,4536492,795,2839757,2024,3
+0,1,1,0,0,0,0,1,0,0,04/21/2024,home,16580,574596,Wis.-Whitewater,9,True,7,10,-3,loss,4538984,795,2839757,2024,3
+0,1,1,0,0,0,0,0,0,0,04/27/2024,away,16580,574593,Wis.-Stevens Point,9,True,14,17,-3,loss,4540036,795,2839757,2024,3
+0,0,0,0,0,0,1,0,0,0,05/25/2024,away,16580,574596,Wis.-Whitewater,9,True,0,8,-8,loss,5336135,795,2839757,2024,3

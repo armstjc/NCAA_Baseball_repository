@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,1,2,0,0,0,0,0,0,0,04/13/2024,home,16580,150,Coe,9,True,13,30,-17,loss,4791210,462,2659747,2024,3
-0,3,3,0,0,0,0,0,0,0,04/28/2024,home,16580,372,Luther,9,True,7,10,-3,loss,4539999,462,2659747,2024,3
-3,2,5,0,0,0,0,0,0,0,04/28/2024,home,16580,372,Luther,9,True,7,20,-13,loss,4545258,462,2659747,2024,3
+1,1,2,0,0,0,0,0,0,0,04/13/2024,home,16580,574768,Coe,9,True,13,30,-17,loss,4791210,462,2659747,2024,3
+0,3,3,0,0,0,0,0,0,0,04/28/2024,home,16580,574833,Luther,9,True,7,10,-3,loss,4539999,462,2659747,2024,3
+3,2,5,0,0,0,0,0,0,0,04/28/2024,home,16580,574833,Luther,9,True,7,20,-13,loss,4545258,462,2659747,2024,3

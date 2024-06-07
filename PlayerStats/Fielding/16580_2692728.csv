@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/17/2024,neutral,16580,69,Bowdoin,9,True,3,7,-4,loss,4531647,789,2692728,2024,3
-0,2,2,0,0,0,0,1,0,0,03/21/2024,neutral,16580,478,SUNY Maritime,9,True,8,10,-2,loss,4532206,789,2692728,2024,3
-0,0,0,0,0,0,2,0,0,0,03/27/2024,neutral,16580,151,Colby,9,True,5,15,-10,loss,4533566,789,2692728,2024,3
-0,0,1,1,0,0,0,0,0,0,04/02/2024,home,16580,123,VTSU Castleton,9,True,8,3,5,win,4535020,789,2692728,2024,3
+0,1,1,0,0,0,0,0,0,0,03/17/2024,neutral,16580,574742,Bowdoin,9,True,3,7,-4,loss,4531647,789,2692728,2024,3
+0,2,2,0,0,0,0,1,0,0,03/21/2024,neutral,16580,574490,SUNY Maritime,9,True,8,10,-2,loss,4532206,789,2692728,2024,3
+0,0,0,0,0,0,2,0,0,0,03/27/2024,neutral,16580,574769,Colby,9,True,5,15,-10,loss,4533566,789,2692728,2024,3
+0,0,1,1,0,0,0,0,0,0,04/02/2024,home,16580,574757,VTSU Castleton,9,True,8,3,5,win,4535020,789,2692728,2024,3

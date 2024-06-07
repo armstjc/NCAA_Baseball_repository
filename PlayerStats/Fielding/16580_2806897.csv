@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,0,2,0,0,0,0,0,0,0,03/09/2024,away,16580,24400,Concordia (TX),9,True,1,9,-8,loss,4529632,781,2806897,2024,3
-1,0,1,0,0,0,0,0,0,0,03/13/2024,away,16580,1203,Mary Hardin-Baylor,9,True,13,10,3,win,4530577,781,2806897,2024,3
-4,0,4,0,0,0,0,0,0,0,04/21/2024,away,16580,516,Occidental,9,True,9,14,-5,loss,5283799,781,2806897,2024,3
-1,0,1,0,0,0,0,0,0,0,05/03/2024,home,16580,549,Pomona-Pitzer,9,True,0,2,-2,loss,4541052,781,2806897,2024,3
-1,0,1,0,0,0,0,0,0,0,05/04/2024,away,16580,549,Pomona-Pitzer,9,True,6,7,-1,loss,4546322,781,2806897,2024,3
+2,0,2,0,0,0,0,0,0,0,03/09/2024,away,16580,574688,Concordia (TX),9,True,1,9,-8,loss,4529632,781,2806897,2024,3
+1,0,1,0,0,0,0,0,0,0,03/13/2024,away,16580,574633,Mary Hardin-Baylor,9,True,13,10,3,win,4530577,781,2806897,2024,3
+4,0,4,0,0,0,0,0,0,0,04/21/2024,away,16580,574500,Occidental,9,True,9,14,-5,loss,5283799,781,2806897,2024,3
+1,0,1,0,0,0,0,0,0,0,05/03/2024,home,16580,574512,Pomona-Pitzer,9,True,0,2,-2,loss,4541052,781,2806897,2024,3
+1,0,1,0,0,0,0,0,0,0,05/04/2024,away,16580,574512,Pomona-Pitzer,9,True,6,7,-1,loss,4546322,781,2806897,2024,3

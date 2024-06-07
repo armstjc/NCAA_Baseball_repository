@@ -1,6 +1,6 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,03/22/2024,home,16580,1297,Pacific Lutheran,9,True,15,1,14,win,5254951,105,2802291,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,03/22/2024,home,16580,574637,Pacific Lutheran,9,True,15,1,14,win,5254951,105,2802291,2024,3
 0,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,04/02/2024,home,16580,0,Providence Christian,9,True,11,6,5,win,5280851,105,2802291,2024,3
 1,2,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,04/10/2024,home,16580,0,Bethesda (CA),9,True,16,4,12,win,4536510,105,2802291,2024,3
 0,3,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,04/16/2024,home,16580,0,Bethesda (CA),9,True,15,3,12,win,4537801,105,2802291,2024,3
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,05/04/2024,home,16580,134,Chapman,9,True,5,10,-5,loss,4546420,105,2802291,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,05/04/2024,home,16580,574762,Chapman,9,True,5,10,-5,loss,4546420,105,2802291,2024,3

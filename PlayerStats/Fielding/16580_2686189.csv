@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,8,0,0,0,03/14/2024,neutral,16580,337,Knox,9,True,2,8,-6,loss,4530740,30040,2686189,2024,3
-3,0,3,0,0,0,0,0,0,0,04/16/2024,away,16580,379,Me.-Farmington,9,True,12,4,8,win,4544562,30040,2686189,2024,3
-0,1,1,0,0,0,2,1,0,0,04/21/2024,away,16580,24317,Lesley,9,True,1,4,-3,loss,4538967,30040,2686189,2024,3
-0,2,2,0,0,0,3,1,0,0,04/28/2024,home,16580,30065,VTSU Lyndon,9,True,4,15,-11,loss,4540469,30040,2686189,2024,3
+0,1,1,0,0,0,8,0,0,0,03/14/2024,neutral,16580,574828,Knox,9,True,2,8,-6,loss,4530740,30040,2686189,2024,3
+3,0,3,0,0,0,0,0,0,0,04/16/2024,away,16580,574836,Me.-Farmington,9,True,12,4,8,win,4544562,30040,2686189,2024,3
+0,1,1,0,0,0,2,1,0,0,04/21/2024,away,16580,574687,Lesley,9,True,1,4,-3,loss,4538967,30040,2686189,2024,3
+0,2,2,0,0,0,3,1,0,0,04/28/2024,home,16580,574706,VTSU Lyndon,9,True,4,15,-11,loss,4540469,30040,2686189,2024,3

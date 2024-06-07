@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,0,2,0,0,0,0,0,1,0,03/02/2024,home,16580,300,Ill. Wesleyan,9,True,0,7,-7,loss,4543288,755,2519620,2024,3
-2,0,2,0,0,0,0,0,0,0,03/10/2024,home,16580,137,UChicago,9,True,12,8,4,win,4530111,755,2519620,2024,3
-1,0,1,0,0,0,0,0,0,0,03/17/2024,home,16580,266,Gustavus Adolphus,9,True,1,6,-5,loss,4531654,755,2519620,2024,3
+2,0,2,0,0,0,0,0,1,0,03/02/2024,home,16580,574815,Ill. Wesleyan,9,True,0,7,-7,loss,4543288,755,2519620,2024,3
+2,0,2,0,0,0,0,0,0,0,03/10/2024,home,16580,574763,UChicago,9,True,12,8,4,win,4530111,755,2519620,2024,3
+1,0,1,0,0,0,0,0,0,0,03/17/2024,home,16580,574803,Gustavus Adolphus,9,True,1,6,-5,loss,4531654,755,2519620,2024,3

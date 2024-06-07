@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/11/2024,away,16580,2741,Howard Payne,9,True,4,6,-2,loss,5245103,1355,2676425,2024,3
-1,1,2,0,0,0,0,0,1,0,02/23/2024,home,16580,1454,Whitworth,9,True,6,14,-8,loss,4526571,1355,2676425,2024,3
-0,1,1,0,0,0,0,0,0,0,03/06/2024,home,16580,20,DeSales,9,True,8,4,4,win,4529113,1355,2676425,2024,3
-0,0,0,0,0,0,1,0,0,0,03/29/2024,home,16580,125,Centenary (LA),9,True,7,11,-4,loss,4533966,1355,2676425,2024,3
+0,0,0,0,0,0,1,0,0,0,02/11/2024,away,16580,574653,Howard Payne,9,True,4,6,-2,loss,5245103,1355,2676425,2024,3
+1,1,2,0,0,0,0,0,1,0,02/23/2024,home,16580,574648,Whitworth,9,True,6,14,-8,loss,4526571,1355,2676425,2024,3
+0,1,1,0,0,0,0,0,0,0,03/06/2024,home,16580,574726,DeSales,9,True,8,4,4,win,4529113,1355,2676425,2024,3
+0,0,0,0,0,0,1,0,0,0,03/29/2024,home,16580,574759,Centenary (LA),9,True,7,11,-4,loss,4533966,1355,2676425,2024,3

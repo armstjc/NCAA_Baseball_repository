@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,2,1,0,0,02/16/2024,away,16580,8404,Hood,9,True,0,6,-6,loss,5246684,213,2796905,2024,3
-1,1,2,0,0,0,1,0,0,0,02/22/2024,away,16580,30166,Valley Forge,9,True,16,5,11,win,4526455,213,2796905,2024,3
-0,1,1,0,0,0,1,0,0,0,03/08/2024,away,16580,526,SUNY Oneonta,9,True,4,11,-7,loss,5251774,213,2796905,2024,3
-1,0,1,0,0,0,0,0,0,0,03/26/2024,away,16580,18,Alfred,9,True,22,9,13,win,4533083,213,2796905,2024,3
+0,1,1,0,0,0,2,1,0,0,02/16/2024,away,16580,574658,Hood,9,True,0,6,-6,loss,5246684,213,2796905,2024,3
+1,1,2,0,0,0,1,0,0,0,02/22/2024,away,16580,574717,Valley Forge,9,True,16,5,11,win,4526455,213,2796905,2024,3
+0,1,1,0,0,0,1,0,0,0,03/08/2024,away,16580,574505,SUNY Oneonta,9,True,4,11,-7,loss,5251774,213,2796905,2024,3
+1,0,1,0,0,0,0,0,0,0,03/26/2024,away,16580,575837,Alfred,9,True,22,9,13,win,4533083,213,2796905,2024,3

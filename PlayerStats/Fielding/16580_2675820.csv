@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/08/2024,neutral,16580,46,Baldwin Wallace,9,True,3,4,-1,loss,5251535,679,2675820,2024,3
-0,1,1,0,0,0,1,1,0,0,03/11/2024,home,16580,182,Denison,9,True,1,5,-4,loss,5253178,679,2675820,2024,3
-0,1,1,0,0,0,0,0,0,0,03/21/2024,home,16580,336,King's (PA),9,True,8,3,5,win,4532222,679,2675820,2024,3
-0,1,1,0,0,0,0,0,0,0,04/19/2024,home,16580,221,FDU-Florham,9,True,7,2,5,win,4538295,679,2675820,2024,3
+0,1,1,0,0,0,0,0,0,0,03/08/2024,neutral,16580,574735,Baldwin Wallace,9,True,3,4,-1,loss,5251535,679,2675820,2024,3
+0,1,1,0,0,0,1,1,0,0,03/11/2024,home,16580,574778,Denison,9,True,1,5,-4,loss,5253178,679,2675820,2024,3
+0,1,1,0,0,0,0,0,0,0,03/21/2024,home,16580,574827,King's (PA),9,True,8,3,5,win,4532222,679,2675820,2024,3
+0,1,1,0,0,0,0,0,0,0,04/19/2024,home,16580,574791,FDU-Florham,9,True,7,2,5,win,4538295,679,2675820,2024,3

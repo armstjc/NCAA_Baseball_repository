@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,3,6,1,0,0,0,0,1,0,03/15/2024,neutral,16580,525,Olivet,9,True,7,13,-6,loss,5253649,242,2803896,2024,3
-0,2,2,0,0,0,0,0,0,0,03/29/2024,away,16580,475,SUNY New Paltz,9,True,2,30,-28,loss,4533882,242,2803896,2024,3
-2,2,4,0,0,0,0,0,1,0,05/03/2024,away,16580,168,Cortland,9,True,1,18,-17,loss,4541264,242,2803896,2024,3
-1,2,3,0,0,0,0,0,0,0,05/03/2024,away,16580,168,Cortland,9,True,7,13,-6,loss,4546440,242,2803896,2024,3
+2,3,6,1,0,0,0,0,1,0,03/15/2024,neutral,16580,574504,Olivet,9,True,7,13,-6,loss,5253649,242,2803896,2024,3
+0,2,2,0,0,0,0,0,0,0,03/29/2024,away,16580,574489,SUNY New Paltz,9,True,2,30,-28,loss,4533882,242,2803896,2024,3
+2,2,4,0,0,0,0,0,1,0,05/03/2024,away,16580,574774,Cortland,9,True,1,18,-17,loss,4541264,242,2803896,2024,3
+1,2,3,0,0,0,0,0,0,0,05/03/2024,away,16580,574774,Cortland,9,True,7,13,-6,loss,4546440,242,2803896,2024,3

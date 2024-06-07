@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/24/2024,away,16580,30042,Mitchell,9,True,2,8,-6,loss,4533068,511,2810005,2024,3
-0,0,0,0,0,0,1,0,0,0,03/29/2024,away,16580,532,Elms,9,True,7,13,-6,loss,4544183,511,2810005,2024,3
-0,0,0,0,0,0,1,0,0,0,04/13/2024,home,16580,152,Colby-Sawyer,9,True,5,9,-4,loss,4545318,511,2810005,2024,3
-0,1,1,0,0,0,1,0,0,0,04/16/2024,home,16580,30219,Dean,9,True,7,8,-1,loss,4537769,511,2810005,2024,3
+0,0,0,0,0,0,1,0,0,0,03/24/2024,away,16580,574702,Mitchell,9,True,2,8,-6,loss,4533068,511,2810005,2024,3
+0,0,0,0,0,0,1,0,0,0,03/29/2024,away,16580,574508,Elms,9,True,7,13,-6,loss,4544183,511,2810005,2024,3
+0,0,0,0,0,0,1,0,0,0,04/13/2024,home,16580,574770,Colby-Sawyer,9,True,5,9,-4,loss,4545318,511,2810005,2024,3
+0,1,1,0,0,0,1,0,0,0,04/16/2024,home,16580,574854,Dean,9,True,7,8,-1,loss,4537769,511,2810005,2024,3

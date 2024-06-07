@@ -182,7 +182,7 @@ def get_season_ncaa_baseball_stats(season: int, division: int):
 
 
 def main():
-    # on 2
+    # on 3
     get_season_ncaa_baseball_stats(2024, 1)
     # get_season_ncaa_baseball_stats(2024, 2)
     # get_season_ncaa_baseball_stats(2024, 3)

@@ -1,6 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/07/2024,away,16580,303,Immaculata,9,True,5,10,-5,loss,4529158,1133,2518559,2024,3
-1,0,1,0,0,0,1,0,0,0,04/07/2024,home,16580,24317,Lesley,9,True,12,6,6,win,4542935,1133,2518559,2024,3
-1,2,3,0,0,0,0,2,0,0,04/16/2024,away,16580,30065,VTSU Lyndon,9,True,7,5,2,win,4545952,1133,2518559,2024,3
-2,0,2,0,0,0,2,0,0,0,05/11/2024,neutral,16580,30083,SUNY Cobleskill,9,True,9,1,8,win,5334663,1133,2518559,2024,3
-3,0,3,0,0,0,0,0,0,0,05/18/2024,home,16580,200,Eastern Conn. St.,9,True,4,2,2,win,5335582,1133,2518559,2024,3
+0,0,0,0,0,0,1,0,0,0,03/07/2024,away,16580,574816,Immaculata,9,True,5,10,-5,loss,4529158,1133,2518559,2024,3
+1,0,1,0,0,0,1,0,0,0,04/07/2024,home,16580,574687,Lesley,9,True,12,6,6,win,4542935,1133,2518559,2024,3
+1,2,3,0,0,0,0,2,0,0,04/16/2024,away,16580,574706,VTSU Lyndon,9,True,7,5,2,win,4545952,1133,2518559,2024,3
+2,0,2,0,0,0,2,0,0,0,05/11/2024,neutral,16580,574709,SUNY Cobleskill,9,True,9,1,8,win,5334663,1133,2518559,2024,3
+3,0,3,0,0,0,0,0,0,0,05/18/2024,home,16580,574783,Eastern Conn. St.,9,True,4,2,2,win,5335582,1133,2518559,2024,3

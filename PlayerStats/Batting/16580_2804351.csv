@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/07/2024,away,16580,520,Ohio Wesleyan,9,True,10,0,10,win,5281576,335,2804351,2024,3
-2,4,2,0,0,5,1,1,0,0,0,0,1,0,0,0,0,0,0,05/01/2024,home,16580,117,Capital,9,True,7,9,-2,loss,4533387,335,2804351,2024,3
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/10/2024,neutral,16580,182,Denison,9,True,1,14,-13,loss,5334630,335,2804351,2024,3
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/07/2024,away,16580,574502,Ohio Wesleyan,9,True,10,0,10,win,5281576,335,2804351,2024,3
+2,4,2,0,0,5,1,1,0,0,0,0,1,0,0,0,0,0,0,05/01/2024,home,16580,574752,Capital,9,True,7,9,-2,loss,4533387,335,2804351,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05/10/2024,neutral,16580,574778,Denison,9,True,1,14,-13,loss,5334630,335,2804351,2024,3

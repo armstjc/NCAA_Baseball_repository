@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,02/24/2024,neutral,16580,611,St. Mary's (MD),9,True,6,13,-7,loss,4527040,50,2523960,2024,3
-1,1,2,0,0,0,1,1,0,0,04/09/2024,neutral,16580,379,Me.-Farmington,9,True,8,4,4,win,4536310,50,2523960,2024,3
-1,1,3,1,0,0,0,0,0,0,04/23/2024,away,16580,1133,Husson,9,True,3,4,-1,loss,4539146,50,2523960,2024,3
+0,1,1,0,0,0,0,0,0,0,02/24/2024,neutral,16580,574534,St. Mary's (MD),9,True,6,13,-7,loss,4527040,50,2523960,2024,3
+1,1,2,0,0,0,1,1,0,0,04/09/2024,neutral,16580,574836,Me.-Farmington,9,True,8,4,4,win,4536310,50,2523960,2024,3
+1,1,3,1,0,0,0,0,0,0,04/23/2024,away,16580,574624,Husson,9,True,3,4,-1,loss,4539146,50,2523960,2024,3

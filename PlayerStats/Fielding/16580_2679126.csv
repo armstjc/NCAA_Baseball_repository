@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/09/2024,neutral,16580,589,Rutgers-Newark,9,True,5,8,-3,loss,4529699,30064,2679126,2024,3
-0,1,1,0,0,0,0,0,0,0,04/06/2024,away,16580,30069,Franciscan,9,True,10,11,-1,loss,4535502,30064,2679126,2024,3
-0,0,0,0,0,0,1,0,0,0,04/28/2024,home,16580,19,Allegheny,9,True,5,16,-11,loss,4545734,30064,2679126,2024,3
+0,0,0,0,0,0,1,0,0,0,03/09/2024,neutral,16580,574529,Rutgers-Newark,9,True,5,8,-3,loss,4529699,30064,2679126,2024,3
+0,1,1,0,0,0,0,0,0,0,04/06/2024,away,16580,574865,Franciscan,9,True,10,11,-1,loss,4535502,30064,2679126,2024,3
+0,0,0,0,0,0,1,0,0,0,04/28/2024,home,16580,574725,Allegheny,9,True,5,16,-11,loss,4545734,30064,2679126,2024,3

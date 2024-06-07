@@ -1,3 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,2,0,0,0,03/08/2024,neutral,16580,777,Westfield St.,9,True,3,6,-3,loss,4529359,117,2806440,2024,3
-0,0,0,0,0,0,1,0,0,0,03/21/2024,home,16580,515,Oberlin,11,True,12,19,-7,loss,4532219,117,2806440,2024,3
+0,0,0,0,0,0,2,0,0,0,03/08/2024,neutral,16580,574580,Westfield St.,9,True,3,6,-3,loss,4529359,117,2806440,2024,3
+0,0,0,0,0,0,1,0,0,0,03/21/2024,home,16580,574499,Oberlin,11,True,12,19,-7,loss,4532219,117,2806440,2024,3

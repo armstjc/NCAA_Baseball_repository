@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,02/18/2024,home,16580,939,Anderson (IN),9,True,4,7,-3,loss,4544924,652,2672938,2024,3
-1,0,1,0,0,0,0,0,0,0,03/10/2024,home,16580,1124,Hendrix,9,True,1,6,-5,loss,4529926,652,2672938,2024,3
-0,0,1,1,0,0,0,0,0,0,03/14/2024,neutral,16580,120,Carroll (WI),9,True,11,10,1,win,5253583,652,2672938,2024,3
+1,0,1,0,0,0,0,0,0,0,02/18/2024,home,16580,574604,Anderson (IN),9,True,4,7,-3,loss,4544924,652,2672938,2024,3
+1,0,1,0,0,0,0,0,0,0,03/10/2024,home,16580,574622,Hendrix,9,True,1,6,-5,loss,4529926,652,2672938,2024,3
+0,0,1,1,0,0,0,0,0,0,03/14/2024,neutral,16580,574754,Carroll (WI),9,True,11,10,1,win,5253583,652,2672938,2024,3

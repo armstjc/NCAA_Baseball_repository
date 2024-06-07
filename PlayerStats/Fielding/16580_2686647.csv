@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-4,0,4,0,0,0,0,0,0,0,03/02/2024,away,16580,939,Anderson (IN),9,True,1,11,-10,loss,4528116,337,2686647,2024,3
-1,0,1,0,0,0,0,0,0,0,03/15/2024,neutral,16580,555,Principia,9,True,17,0,17,win,4530948,337,2686647,2024,3
-5,1,6,0,0,0,0,0,0,0,03/16/2024,neutral,16580,30165,SUNY Canton,9,True,3,2,1,win,4531269,337,2686647,2024,3
-1,0,1,0,0,0,0,0,0,0,03/17/2024,neutral,16580,1159,Keuka,9,True,8,7,1,win,4531631,337,2686647,2024,3
+4,0,4,0,0,0,0,0,0,0,03/02/2024,away,16580,574604,Anderson (IN),9,True,1,11,-10,loss,4528116,337,2686647,2024,3
+1,0,1,0,0,0,0,0,0,0,03/15/2024,neutral,16580,574513,Principia,9,True,17,0,17,win,4530948,337,2686647,2024,3
+5,1,6,0,0,0,0,0,0,0,03/16/2024,neutral,16580,574716,SUNY Canton,9,True,3,2,1,win,4531269,337,2686647,2024,3
+1,0,1,0,0,0,0,0,0,0,03/17/2024,neutral,16580,574625,Keuka,9,True,8,7,1,win,4531631,337,2686647,2024,3

@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-2,0,2,0,0,0,0,0,0,0,03/26/2024,home,16580,958,Clarks Summit,9,True,23,1,22,win,4533356,397,2835246,2024,3
-6,0,6,0,0,0,0,0,0,0,04/07/2024,home,16580,9684,Saint Elizabeth,9,True,2,1,1,win,5281518,397,2835246,2024,3
-3,0,3,0,0,0,0,0,0,0,04/23/2024,home,16580,1468,Mt. St. Mary (NY),9,True,23,5,18,win,4539216,397,2835246,2024,3
+2,0,2,0,0,0,0,0,0,0,03/26/2024,home,16580,574606,Clarks Summit,9,True,23,1,22,win,4533356,397,2835246,2024,3
+6,0,6,0,0,0,0,0,0,0,04/07/2024,home,16580,574856,Saint Elizabeth,9,True,2,1,1,win,5281518,397,2835246,2024,3
+3,0,3,0,0,0,0,0,0,0,04/23/2024,home,16580,574650,Mt. St. Mary (NY),9,True,23,5,18,win,4539216,397,2835246,2024,3

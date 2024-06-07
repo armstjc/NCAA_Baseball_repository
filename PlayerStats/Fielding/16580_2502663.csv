@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,04/17/2024,away,16580,30081,Penn St. Harrisburg,9,True,0,20,-20,loss,4537969,351,2502663,2024,3
-0,0,0,0,0,0,1,0,0,0,04/23/2024,neutral,16580,30085,Lancaster Bible,9,True,20,6,14,win,4539197,351,2502663,2024,3
-0,0,0,0,0,0,1,0,0,0,04/27/2024,away,16580,966,Arcadia,9,True,8,10,-2,loss,4540103,351,2502663,2024,3
+0,1,1,0,0,0,0,0,0,0,04/17/2024,away,16580,574708,Penn St. Harrisburg,9,True,0,20,-20,loss,4537969,351,2502663,2024,3
+0,0,0,0,0,0,1,0,0,0,04/23/2024,neutral,16580,574711,Lancaster Bible,9,True,20,6,14,win,4539197,351,2502663,2024,3
+0,0,0,0,0,0,1,0,0,0,04/27/2024,away,16580,574608,Arcadia,9,True,8,10,-2,loss,4540103,351,2502663,2024,3

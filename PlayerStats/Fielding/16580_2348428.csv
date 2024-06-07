@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/01/2024,home,16580,467,New England Col.,9,True,13,1,12,win,4527711,401,2348428,2024,3
-0,2,2,0,0,0,0,0,0,0,03/09/2024,away,16580,22235,Lewis & Clark,9,True,8,4,4,win,4543343,401,2348428,2024,3
-0,1,1,0,0,0,0,0,0,0,03/13/2024,away,16580,2751,Pacific (OR),9,True,4,15,-11,loss,4530299,401,2348428,2024,3
-0,1,2,1,0,0,1,1,0,0,05/05/2024,away,16580,45,Babson,11,True,4,6,-2,loss,5288825,401,2348428,2024,3
+0,1,1,0,0,0,0,0,0,0,03/01/2024,home,16580,574488,New England Col.,9,True,13,1,12,win,4527711,401,2348428,2024,3
+0,2,2,0,0,0,0,0,0,0,03/09/2024,away,16580,574680,Lewis & Clark,9,True,8,4,4,win,4543343,401,2348428,2024,3
+0,1,1,0,0,0,0,0,0,0,03/13/2024,away,16580,574654,Pacific (OR),9,True,4,15,-11,loss,4530299,401,2348428,2024,3
+0,1,2,1,0,0,1,1,0,0,05/05/2024,away,16580,574734,Babson,11,True,4,6,-2,loss,5288825,401,2348428,2024,3

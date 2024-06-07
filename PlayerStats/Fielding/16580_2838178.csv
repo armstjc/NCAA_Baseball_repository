@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/09/2024,neutral,16580,160,Concordia Chicago,9,True,10,1,9,win,4529658,712,2838178,2024,3
-1,0,3,2,0,0,0,0,0,0,03/20/2024,home,16580,783,Widener,9,True,18,8,10,win,4532095,712,2838178,2024,3
-0,2,3,1,0,0,0,0,0,0,04/06/2024,home,16580,589,Rutgers-Newark,9,True,15,9,6,win,4544848,712,2838178,2024,3
+0,1,1,0,0,0,0,0,0,0,03/09/2024,neutral,16580,574771,Concordia Chicago,9,True,10,1,9,win,4529658,712,2838178,2024,3
+1,0,3,2,0,0,0,0,0,0,03/20/2024,home,16580,574585,Widener,9,True,18,8,10,win,4532095,712,2838178,2024,3
+0,2,3,1,0,0,0,0,0,0,04/06/2024,home,16580,574529,Rutgers-Newark,9,True,15,9,6,win,4544848,712,2838178,2024,3

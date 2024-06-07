@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,1,2,0,0,0,0,0,0,0,03/08/2024,neutral,16580,278,Heidelberg,9,True,7,10,-3,loss,4529454,329,2956274,2024,3
-0,0,0,0,0,0,1,0,0,0,03/12/2024,neutral,16580,520,Ohio Wesleyan,9,True,15,10,5,win,4530493,329,2956274,2024,3
-0,3,5,2,0,0,1,0,0,0,03/19/2024,away,16580,1340,St. Joseph's (L.I.),9,True,9,11,-2,loss,4531979,329,2956274,2024,3
-0,0,0,0,0,0,1,0,0,0,03/26/2024,home,16580,12884,Centenary (NJ),10,True,5,7,-2,loss,4533453,329,2956274,2024,3
+1,1,2,0,0,0,0,0,0,0,03/08/2024,neutral,16580,574809,Heidelberg,9,True,7,10,-3,loss,4529454,329,2956274,2024,3
+0,0,0,0,0,0,1,0,0,0,03/12/2024,neutral,16580,574502,Ohio Wesleyan,9,True,15,10,5,win,4530493,329,2956274,2024,3
+0,3,5,2,0,0,1,0,0,0,03/19/2024,away,16580,574641,St. Joseph's (L.I.),9,True,9,11,-2,loss,4531979,329,2956274,2024,3
+0,0,0,0,0,0,1,0,0,0,03/26/2024,home,16580,574673,Centenary (NJ),10,True,5,7,-2,loss,4533453,329,2956274,2024,3

@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/23/2024,away,16580,132,Centre,9,True,9,14,-5,loss,5249364,117,2469271,2024,3
-0,0,0,0,0,0,1,0,0,0,03/08/2024,neutral,16580,777,Westfield St.,9,True,3,6,-3,loss,4529359,117,2469271,2024,3
-0,0,0,0,0,0,2,0,0,0,03/16/2024,home,16580,281,Hiram,9,True,7,19,-12,loss,4544167,117,2469271,2024,3
-0,1,1,0,0,0,0,0,0,0,04/18/2024,home,16580,1461,Wilmington (OH),9,True,5,15,-10,loss,4537979,117,2469271,2024,3
+0,0,0,0,0,0,1,0,0,0,02/23/2024,away,16580,574761,Centre,9,True,9,14,-5,loss,5249364,117,2469271,2024,3
+0,0,0,0,0,0,1,0,0,0,03/08/2024,neutral,16580,574580,Westfield St.,9,True,3,6,-3,loss,4529359,117,2469271,2024,3
+0,0,0,0,0,0,2,0,0,0,03/16/2024,home,16580,574811,Hiram,9,True,7,19,-12,loss,4544167,117,2469271,2024,3
+0,1,1,0,0,0,0,0,0,0,04/18/2024,home,16580,574649,Wilmington (OH),9,True,5,15,-10,loss,4537979,117,2469271,2024,3

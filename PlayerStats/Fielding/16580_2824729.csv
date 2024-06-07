@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,2,0,0,0,03/16/2024,away,16580,1203,Mary Hardin-Baylor,9,True,3,11,-8,loss,4544056,8530,2824729,2024,3
-0,1,1,0,0,0,4,0,0,0,03/29/2024,away,16580,1062,East Tex. Baptist,9,True,5,15,-10,loss,4534011,8530,2824729,2024,3
-0,1,1,0,0,0,1,1,0,0,04/13/2024,away,16580,8490,LeTourneau,9,True,3,9,-6,loss,4537045,8530,2824729,2024,3
-0,1,2,1,0,0,0,0,0,0,05/02/2024,neutral,16580,24400,Concordia (TX),9,True,2,6,-4,loss,5288836,8530,2824729,2024,3
+0,1,1,0,0,0,2,0,0,0,03/16/2024,away,16580,574633,Mary Hardin-Baylor,9,True,3,11,-8,loss,4544056,8530,2824729,2024,3
+0,1,1,0,0,0,4,0,0,0,03/29/2024,away,16580,574614,East Tex. Baptist,9,True,5,15,-10,loss,4534011,8530,2824729,2024,3
+0,1,1,0,0,0,1,1,0,0,04/13/2024,away,16580,574660,LeTourneau,9,True,3,9,-6,loss,4537045,8530,2824729,2024,3
+0,1,2,1,0,0,0,0,0,0,05/02/2024,neutral,16580,574688,Concordia (TX),9,True,2,6,-4,loss,5288836,8530,2824729,2024,3

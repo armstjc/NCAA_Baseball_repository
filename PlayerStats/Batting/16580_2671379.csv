@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,03/14/2024,away,16580,321,John Jay,9,True,21,7,14,win,5253493,478,2671379,2024,3
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/07/2024,away,16580,1468,Mt. St. Mary (NY),9,True,14,1,13,win,4535962,478,2671379,2024,3
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/21/2024,home,16580,1340,St. Joseph's (L.I.),10,True,3,4,-1,loss,4546388,478,2671379,2024,3
+1,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,03/14/2024,away,16580,574820,John Jay,9,True,21,7,14,win,5253493,478,2671379,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/07/2024,away,16580,574650,Mt. St. Mary (NY),9,True,14,1,13,win,4535962,478,2671379,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/21/2024,home,16580,574641,St. Joseph's (L.I.),10,True,3,4,-1,loss,4546388,478,2671379,2024,3

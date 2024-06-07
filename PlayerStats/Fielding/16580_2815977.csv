@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,04/07/2024,away,16580,259,Rowan,9,True,5,2,3,win,4535317,681,2815977,2024,3
-0,1,1,0,0,0,0,0,0,0,04/09/2024,home,16580,259,Rowan,9,True,5,4,1,win,5281849,681,2815977,2024,3
-0,0,0,0,0,0,1,0,0,0,04/23/2024,home,16580,221,FDU-Florham,9,True,6,4,2,win,4539289,681,2815977,2024,3
+0,0,0,0,0,0,1,0,0,0,04/07/2024,away,16580,574799,Rowan,9,True,5,2,3,win,4535317,681,2815977,2024,3
+0,1,1,0,0,0,0,0,0,0,04/09/2024,home,16580,574799,Rowan,9,True,5,4,1,win,5281849,681,2815977,2024,3
+0,0,0,0,0,0,1,0,0,0,04/23/2024,home,16580,574791,FDU-Florham,9,True,6,4,2,win,4539289,681,2815977,2024,3

@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/13/2024,neutral,16580,30035,Crown (MN),9,True,18,7,11,win,5015847,38,2528416,2024,3
-0,0,0,0,0,0,1,0,0,0,03/29/2024,home,16580,266,Gustavus Adolphus,9,True,1,15,-14,loss,4543101,38,2528416,2024,3
-1,1,2,0,0,0,1,0,0,0,04/06/2024,away,16580,618,St. Scholastica,9,True,2,12,-10,loss,4535824,38,2528416,2024,3
-0,0,1,1,0,0,0,0,0,0,04/21/2024,away,16580,118,Carleton,9,True,9,14,-5,loss,4546537,38,2528416,2024,3
+0,0,0,0,0,0,1,0,0,0,03/13/2024,neutral,16580,574696,Crown (MN),9,True,18,7,11,win,5015847,38,2528416,2024,3
+0,0,0,0,0,0,1,0,0,0,03/29/2024,home,16580,574803,Gustavus Adolphus,9,True,1,15,-14,loss,4543101,38,2528416,2024,3
+1,1,2,0,0,0,1,0,0,0,04/06/2024,away,16580,574538,St. Scholastica,9,True,2,12,-10,loss,4535824,38,2528416,2024,3
+0,0,1,1,0,0,0,0,0,0,04/21/2024,away,16580,574753,Carleton,9,True,9,14,-5,loss,4546537,38,2528416,2024,3

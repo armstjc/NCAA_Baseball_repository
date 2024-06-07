@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,1,0,0,0,02/16/2024,away,16580,549,Pomona-Pitzer,9,True,7,8,-1,loss,4525616,1179,2670648,2024,3
-0,1,1,0,0,0,0,0,0,0,03/29/2024,away,16580,785,Willamette,9,True,9,17,-8,loss,4534079,1179,2670648,2024,3
+0,1,1,0,0,0,1,0,0,0,02/16/2024,away,16580,574512,Pomona-Pitzer,9,True,7,8,-1,loss,4525616,1179,2670648,2024,3
+0,1,1,0,0,0,0,0,0,0,03/29/2024,away,16580,574587,Willamette,9,True,9,17,-8,loss,4534079,1179,2670648,2024,3
 0,1,1,0,0,0,0,0,0,0,04/23/2024,home,16580,0,Bushnell,9,True,6,10,-4,loss,4539310,1179,2670648,2024,3

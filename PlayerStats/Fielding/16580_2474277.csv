@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,04/05/2024,away,16580,2741,Howard Payne,9,True,14,7,7,win,4535244,23121,2474277,2024,3
-0,0,1,1,0,0,2,0,0,0,04/12/2024,home,16580,1203,Mary Hardin-Baylor,9,True,1,9,-8,loss,4536682,23121,2474277,2024,3
-0,1,1,0,0,0,1,0,0,0,05/05/2024,neutral,16580,24400,Concordia (TX),9,True,0,9,-9,loss,5289442,23121,2474277,2024,3
+0,0,0,0,0,0,1,0,0,0,04/05/2024,away,16580,574653,Howard Payne,9,True,14,7,7,win,4535244,23121,2474277,2024,3
+0,0,1,1,0,0,2,0,0,0,04/12/2024,home,16580,574633,Mary Hardin-Baylor,9,True,1,9,-8,loss,4536682,23121,2474277,2024,3
+0,1,1,0,0,0,1,0,0,0,05/05/2024,neutral,16580,574688,Concordia (TX),9,True,0,9,-9,loss,5289442,23121,2474277,2024,3

@@ -1,3 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/13/2024,neutral,16580,30035,Crown (MN),9,True,18,7,11,win,5015847,38,2682431,2024,3
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/04/2024,home,16580,615,St. Olaf,9,True,1,13,-12,loss,4542597,38,2682431,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/13/2024,neutral,16580,574696,Crown (MN),9,True,18,7,11,win,5015847,38,2682431,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/04/2024,home,16580,574537,St. Olaf,9,True,1,13,-12,loss,4542597,38,2682431,2024,3

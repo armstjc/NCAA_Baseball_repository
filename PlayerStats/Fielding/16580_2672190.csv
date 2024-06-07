@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/27/2024,away,16580,23260,Spalding,9,True,9,3,6,win,4527491,132,2672190,2024,3
-0,1,1,0,0,0,0,0,0,0,03/30/2024,home,16580,28593,Birmingham-So.,9,True,5,11,-6,loss,4543729,132,2672190,2024,3
-0,1,1,0,0,0,0,0,0,0,04/17/2024,home,16580,23260,Spalding,9,True,3,12,-9,loss,4537896,132,2672190,2024,3
-0,1,1,0,0,0,0,0,0,0,04/22/2024,away,16580,28749,Transylvania,9,True,4,9,-5,loss,4536409,132,2672190,2024,3
+0,0,0,0,0,0,1,0,0,0,02/27/2024,away,16580,574684,Spalding,9,True,9,3,6,win,4527491,132,2672190,2024,3
+0,1,1,0,0,0,0,0,0,0,03/30/2024,home,16580,574691,Birmingham-So.,9,True,5,11,-6,loss,4543729,132,2672190,2024,3
+0,1,1,0,0,0,0,0,0,0,04/17/2024,home,16580,574684,Spalding,9,True,3,12,-9,loss,4537896,132,2672190,2024,3
+0,1,1,0,0,0,0,0,0,0,04/22/2024,away,16580,574692,Transylvania,9,True,4,9,-5,loss,4536409,132,2672190,2024,3

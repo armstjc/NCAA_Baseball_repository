@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,1,2,0,0,0,0,0,0,0,03/17/2024,away,16580,321,John Jay,9,True,17,4,13,win,4531698,30029,2831449,2024,3
-0,0,2,2,0,0,0,0,0,0,03/17/2024,away,16580,321,John Jay,9,True,4,11,-7,loss,4543214,30029,2831449,2024,3
-1,0,1,0,0,0,0,0,0,0,04/07/2024,away,16580,1340,St. Joseph's (L.I.),9,True,1,11,-10,loss,4542948,30029,2831449,2024,3
-1,0,2,1,0,0,0,0,0,0,04/27/2024,away,16580,478,SUNY Maritime,9,True,5,23,-18,loss,4545270,30029,2831449,2024,3
+1,1,2,0,0,0,0,0,0,0,03/17/2024,away,16580,574820,John Jay,9,True,17,4,13,win,4531698,30029,2831449,2024,3
+0,0,2,2,0,0,0,0,0,0,03/17/2024,away,16580,574820,John Jay,9,True,4,11,-7,loss,4543214,30029,2831449,2024,3
+1,0,1,0,0,0,0,0,0,0,04/07/2024,away,16580,574641,St. Joseph's (L.I.),9,True,1,11,-10,loss,4542948,30029,2831449,2024,3
+1,0,2,1,0,0,0,0,0,0,04/27/2024,away,16580,574490,SUNY Maritime,9,True,5,23,-18,loss,4545270,30029,2831449,2024,3

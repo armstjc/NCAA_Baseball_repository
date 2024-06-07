@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/12/2024,neutral,16580,783,Widener,9,True,4,10,-6,loss,4543674,656,2821562,2024,3
-1,0,1,0,0,0,1,0,0,0,04/05/2024,home,16580,1064,Eastern Nazarene,10,True,7,7,0,tie,4535054,656,2821562,2024,3
-0,0,0,0,0,0,1,0,0,0,04/27/2024,away,16580,330,Keene St.,9,True,9,11,-2,loss,4545126,656,2821562,2024,3
+0,0,0,0,0,0,1,0,0,0,03/12/2024,neutral,16580,574585,Widener,9,True,4,10,-6,loss,4543674,656,2821562,2024,3
+1,0,1,0,0,0,1,0,0,0,04/05/2024,home,16580,574615,Eastern Nazarene,10,True,7,7,0,tie,4535054,656,2821562,2024,3
+0,0,0,0,0,0,1,0,0,0,04/27/2024,away,16580,574825,Keene St.,9,True,9,11,-2,loss,4545126,656,2821562,2024,3

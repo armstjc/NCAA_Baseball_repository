@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,03/27/2024,home,16580,2798,Albertus Magnus,9,True,15,9,6,win,4533605,722,2677889,2024,3
-0,0,2,2,0,0,0,1,0,0,04/09/2024,home,16580,779,Wheaton (MA),9,True,5,10,-5,loss,4536331,722,2677889,2024,3
-0,1,1,0,0,0,0,0,0,0,04/24/2024,away,16580,484,Nichols,9,True,21,12,9,win,4539480,722,2677889,2024,3
-0,1,1,0,0,0,0,0,0,0,04/27/2024,home,16580,45,Babson,10,True,4,6,-2,loss,4545723,722,2677889,2024,3
+0,0,0,0,0,0,1,0,0,0,03/27/2024,home,16580,574656,Albertus Magnus,9,True,15,9,6,win,4533605,722,2677889,2024,3
+0,0,2,2,0,0,0,1,0,0,04/09/2024,home,16580,574582,Wheaton (MA),9,True,5,10,-5,loss,4536331,722,2677889,2024,3
+0,1,1,0,0,0,0,0,0,0,04/24/2024,away,16580,574493,Nichols,9,True,21,12,9,win,4539480,722,2677889,2024,3
+0,1,1,0,0,0,0,0,0,0,04/27/2024,home,16580,574734,Babson,10,True,4,6,-2,loss,4545723,722,2677889,2024,3

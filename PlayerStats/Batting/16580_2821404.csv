@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,home,16580,520,Ohio Wesleyan,9,True,7,11,-4,loss,4528624,8567,2821404,2024,3
-0,6,1,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,03/05/2024,home,16580,1461,Wilmington (OH),11,True,10,9,1,win,4528860,8567,2821404,2024,3
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/23/2024,home,16580,396,Maryville (TN),9,True,6,13,-7,loss,4539228,8567,2821404,2024,3
+0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,03/03/2024,home,16580,574502,Ohio Wesleyan,9,True,7,11,-4,loss,4528624,8567,2821404,2024,3
+0,6,1,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,03/05/2024,home,16580,574649,Wilmington (OH),11,True,10,9,1,win,4528860,8567,2821404,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/23/2024,home,16580,574841,Maryville (TN),9,True,6,13,-7,loss,4539228,8567,2821404,2024,3

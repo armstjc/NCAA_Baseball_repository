@@ -1,4 +1,4 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/09/2024,neutral,16580,177,DePauw,9,True,3,13,-10,loss,5252515,1192,2827649,2024,3
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/13/2024,home,16580,1115,Hanover,9,True,4,14,-10,loss,4536988,1192,2827649,2024,3
-2,1,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,04/21/2024,away,16580,747,Wabash,9,True,11,6,5,win,4539057,1192,2827649,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,03/09/2024,neutral,16580,574776,DePauw,9,True,3,13,-10,loss,5252515,1192,2827649,2024,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,04/13/2024,home,16580,574621,Hanover,9,True,4,14,-10,loss,4536988,1192,2827649,2024,3
+2,1,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,04/21/2024,away,16580,574567,Wabash,9,True,11,6,5,win,4539057,1192,2827649,2024,3

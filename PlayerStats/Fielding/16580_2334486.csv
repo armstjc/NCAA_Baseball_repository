@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,2,0,0,0,03/13/2024,home,16580,1254,Neumann,9,True,13,23,-10,loss,4530492,8968,2334486,2024,3
-0,0,0,0,0,0,1,0,0,0,03/30/2024,away,16580,411,Messiah,9,True,1,11,-10,loss,4542897,8968,2334486,2024,3
-0,1,1,0,0,0,0,0,0,0,04/10/2024,home,16580,179,Delaware Valley,9,True,6,15,-9,loss,4536524,8968,2334486,2024,3
+0,0,0,0,0,0,2,0,0,0,03/13/2024,home,16580,574635,Neumann,9,True,13,23,-10,loss,4530492,8968,2334486,2024,3
+0,0,0,0,0,0,1,0,0,0,03/30/2024,away,16580,574846,Messiah,9,True,1,11,-10,loss,4542897,8968,2334486,2024,3
+0,1,1,0,0,0,0,0,0,0,04/10/2024,home,16580,574777,Delaware Valley,9,True,6,15,-9,loss,4536524,8968,2334486,2024,3

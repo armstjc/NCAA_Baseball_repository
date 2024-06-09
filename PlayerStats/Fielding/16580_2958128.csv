@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/09/2024,away,16580,159,Columbus St.,9,True,15,6,9,win,4525217,1001,2958128,2024,2
-0,1,2,1,0,0,0,0,0,0,03/19/2024,away,16580,1245,Mount Olive,9,True,11,15,-4,loss,4531863,1001,2958128,2024,2
-0,0,0,0,0,0,1,0,0,0,03/26/2024,away,16580,537,UNC Pembroke,11,True,9,10,-1,loss,5255653,1001,2958128,2024,2
-0,0,0,0,0,0,2,0,0,0,03/30/2024,home,16580,1176,Lincoln Memorial,9,True,8,7,1,win,4543736,1001,2958128,2024,2
+0,0,0,0,0,0,1,0,0,0,02/09/2024,away,16580,574392,Columbus St.,9,True,15,6,9,win,4525217,1001,2958128,2024,2
+0,1,2,1,0,0,0,0,0,0,03/19/2024,away,16580,574250,Mount Olive,9,True,11,15,-4,loss,4531863,1001,2958128,2024,2
+0,0,0,0,0,0,1,0,0,0,03/26/2024,away,16580,574438,UNC Pembroke,11,True,9,10,-1,loss,5255653,1001,2958128,2024,2
+0,0,0,0,0,0,2,0,0,0,03/30/2024,home,16580,574247,Lincoln Memorial,9,True,8,7,1,win,4543736,1001,2958128,2024,2

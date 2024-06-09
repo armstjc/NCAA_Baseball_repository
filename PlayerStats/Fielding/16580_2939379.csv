@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,02/10/2024,home,16580,1257,Newberry,9,True,24,2,22,win,4525340,689,2939379,2024,2
-1,0,1,0,0,0,0,0,0,0,03/09/2024,home,16580,1170,Lenoir-Rhyne,9,True,23,7,16,win,4529877,689,2939379,2024,2
-1,0,1,0,0,0,0,0,0,0,04/13/2024,home,16580,230,Florida Tech,9,True,19,11,8,win,4545922,689,2939379,2024,2
+1,0,1,0,0,0,0,0,0,0,02/10/2024,home,16580,574251,Newberry,9,True,24,2,22,win,4525340,689,2939379,2024,2
+1,0,1,0,0,0,0,0,0,0,03/09/2024,home,16580,574245,Lenoir-Rhyne,9,True,23,7,16,win,4529877,689,2939379,2024,2
+1,0,1,0,0,0,0,0,0,0,04/13/2024,home,16580,574400,Florida Tech,9,True,19,11,8,win,4545922,689,2939379,2024,2

@@ -1,3 +1,3 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-9,2,11,0,0,0,0,0,1,0,04/09/2024,home,16580,30199,CUI,9,True,6,15,-9,loss,4536198,30146,2950551,2024,2
-2,0,2,0,0,0,0,0,0,0,04/12/2024,home,16580,30260,Westmont,9,True,3,11,-8,loss,4546255,30146,2950551,2024,2
+9,2,11,0,0,0,0,0,1,0,04/09/2024,home,16580,574355,CUI,9,True,6,15,-9,loss,4536198,30146,2950551,2024,2
+2,0,2,0,0,0,0,0,0,0,04/12/2024,home,16580,574235,Westmont,9,True,3,11,-8,loss,4546255,30146,2950551,2024,2

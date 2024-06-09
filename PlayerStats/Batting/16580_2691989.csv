@@ -1,3 +1,3 @@
 R,AB,H,2B,3B,TB,HR,RBI,BB,HBP,SF,SH,K,OPP DP,CS,Picked,SB,IBB,GDP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2024,neutral,16580,383,Minnesota St.,9,True,0,6,-6,loss,4528890,510,2691989,2024,2
-0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/21/2024,home,16580,280,Hillsdale,9,True,2,16,-14,loss,4539038,510,2691989,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03/05/2024,neutral,16580,574418,Minnesota St.,9,True,0,6,-6,loss,4528890,510,2691989,2024,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,04/21/2024,home,16580,574405,Hillsdale,9,True,2,16,-14,loss,4539038,510,2691989,2024,2

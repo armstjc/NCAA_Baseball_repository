@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,03/02/2024,home,16580,1371,Southeastern Okla.,9,True,17,7,10,win,4528104,8744,2958472,2024,2
+0,1,1,0,0,0,0,0,0,0,03/02/2024,home,16580,574264,Southeastern Okla.,9,True,17,7,10,win,4528104,8744,2958472,2024,2
 0,0,0,0,0,0,2,1,0,0,03/19/2024,home,16580,0,Science & Arts Okla.,9,True,11,21,-10,loss,4531854,8744,2958472,2024,2
-0,1,1,0,0,0,0,0,0,0,03/26/2024,away,16580,996,Cameron,9,True,8,9,-1,loss,4533257,8744,2958472,2024,2
-0,2,2,0,0,0,0,0,0,0,04/20/2024,away,16580,8411,Ark.-Monticello,9,True,0,6,-6,loss,5283509,8744,2958472,2024,2
+0,1,1,0,0,0,0,0,0,0,03/26/2024,away,16580,574473,Cameron,9,True,8,9,-1,loss,4533257,8744,2958472,2024,2
+0,2,2,0,0,0,0,0,0,0,04/20/2024,away,16580,574281,Ark.-Monticello,9,True,0,6,-6,loss,5283509,8744,2958472,2024,2

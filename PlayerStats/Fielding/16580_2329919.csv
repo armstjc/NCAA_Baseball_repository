@@ -42,3 +42,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 3,0,3,0,0,0,0,0,0,0,05/25/2024,away,16580,574319,Cal St. Monterey Bay,13,True,10,8,2,win,5335543,30149,2329919,2024,2
 3,0,3,0,0,0,0,0,0,0,05/25/2024,home,16580,574319,Cal St. Monterey Bay,9,True,7,1,6,win,5335544,30149,2329919,2024,2
 2,0,2,0,0,0,0,0,0,0,06/01/2024,neutral,16580,574406,Indiana (PA),9,True,2,1,1,win,5336491,30149,2329919,2024,2
+2,0,2,0,0,0,0,0,0,0,06/05/2024,neutral,16580,574406,Indiana (PA),9,True,0,1,-1,loss,5336483,30149,2329919,2024,2

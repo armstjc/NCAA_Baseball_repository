@@ -1,6 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,1,0,0,0,02/09/2024,home,16580,574391,Colo. Sch. of Mines,11,True,5,4,1,win,4525374,1071,2670965,2024,2
-0,1,1,0,0,0,0,0,0,0,03/02/2024,home,16580,574279,Washburn,9,True,14,11,3,win,4528354,1071,2670965,2024,2
-0,1,1,0,0,0,0,0,0,0,03/16/2024,home,16580,574349,Rogers St.,9,True,4,6,-2,loss,4531459,1071,2670965,2024,2
-1,0,1,0,0,0,0,0,0,0,03/28/2024,away,16580,574476,Central Okla.,11,True,6,7,-1,loss,4533797,1071,2670965,2024,2
-1,0,1,0,0,0,0,0,0,0,04/16/2024,away,16580,574256,Pittsburg St.,9,True,9,7,2,win,5283047,1071,2670965,2024,2
+3,0,3,0,0,0,0,0,0,0,02/02/2024,neutral,16580,574356,Okla. Baptist,9,True,2,6,-4,loss,4524948,1071,2954368,2024,2
+2,1,3,0,0,0,0,0,0,0,02/18/2024,home,16580,574276,CSU Pueblo,9,True,9,5,4,win,4525632,1071,2954368,2024,2
+3,0,3,0,0,0,0,0,0,0,02/20/2024,away,16580,574347,Northwestern Okla.,9,True,4,11,-7,loss,4526321,1071,2954368,2024,2

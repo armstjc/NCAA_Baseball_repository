@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,1,0,0,0,03/12/2024,home,16580,30260,Westmont,9,True,10,13,-3,loss,5253647,2696,2814975,2024,2
-0,1,1,0,0,0,0,0,0,0,04/20/2024,away,16580,2697,Hawaii Hilo,9,True,7,6,1,win,4546162,2696,2814975,2024,2
-0,1,1,0,0,0,0,0,0,0,05/09/2024,neutral,16580,30149,Point Loma,9,True,4,6,-2,loss,5334372,2696,2814975,2024,2
+0,1,1,0,0,0,1,0,0,0,03/12/2024,home,16580,574235,Westmont,9,True,10,13,-3,loss,5253647,2696,2814975,2024,2
+0,1,1,0,0,0,0,0,0,0,04/20/2024,away,16580,574275,Hawaii Hilo,9,True,7,6,1,win,4546162,2696,2814975,2024,2
+0,1,1,0,0,0,0,0,0,0,05/09/2024,neutral,16580,574340,Point Loma,9,True,4,6,-2,loss,5334372,2696,2814975,2024,2

@@ -1,2 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,0,0,0,04/23/2024,away,16580,574247,Lincoln Memorial,9,True,4,10,-6,loss,4539314,1072,2816909,2024,2
+0,0,0,0,0,0,2,1,0,0,02/16/2024,away,16580,574320,Claflin,9,True,21,5,16,win,4544108,1072,2955618,2024,2
+0,0,0,0,0,0,1,0,0,0,03/07/2024,home,16580,574352,Southern Wesleyan,9,True,10,11,-1,loss,5251862,1072,2955618,2024,2
+0,0,1,1,0,0,0,0,0,0,03/19/2024,home,16580,574246,Limestone,9,True,12,10,2,win,4531875,1072,2955618,2024,2
+0,1,1,0,0,0,0,0,0,0,04/13/2024,away,16580,574353,Emmanuel (GA),9,True,3,16,-13,loss,4545341,1072,2955618,2024,2
+0,1,1,0,0,0,1,0,0,0,04/20/2024,home,16580,574305,Barton,10,True,10,9,1,win,4545400,1072,2955618,2024,2
+0,1,1,0,0,0,1,0,0,0,04/27/2024,home,16580,574292,North Greenville,9,True,7,12,-5,loss,4545566,1072,2955618,2024,2

@@ -1,4 +1,4 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,2,3,0,0,0,0,0,1,0,03/16/2024,away,16580,11740,West Florida,9,True,1,17,-16,loss,4544806,1015,2816292,2024,2
-0,1,1,0,0,0,0,0,0,0,03/20/2024,away,16580,350,LeMoyne-Owen,9,True,15,3,12,win,4532091,1015,2816292,2024,2
-0,1,1,0,0,0,0,0,1,0,03/23/2024,away,16580,30013,Lee,9,True,10,28,-18,loss,4542865,1015,2816292,2024,2
+1,2,3,0,0,0,0,0,1,0,03/16/2024,away,16580,574300,West Florida,9,True,1,17,-16,loss,4544806,1015,2816292,2024,2
+0,1,1,0,0,0,0,0,0,0,03/20/2024,away,16580,574413,LeMoyne-Owen,9,True,15,3,12,win,4532091,1015,2816292,2024,2
+0,1,1,0,0,0,0,0,1,0,03/23/2024,away,16580,574313,Lee,9,True,10,28,-18,loss,4542865,1015,2816292,2024,2

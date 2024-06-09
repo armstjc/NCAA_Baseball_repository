@@ -1,5 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,1,2,0,0,0,0,0,0,0,02/13/2024,away,16580,2683,Belmont Abbey,9,True,2,9,-7,loss,4525438,1199,2475481,2024,2
-0,0,0,0,0,0,2,0,0,0,02/16/2024,home,16580,1176,Lincoln Memorial,9,True,5,16,-11,loss,4525606,1199,2475481,2024,2
-1,0,1,0,0,0,4,0,0,0,03/02/2024,away,16580,1174,Limestone,9,True,2,15,-13,loss,5250807,1199,2475481,2024,2
-1,0,1,0,0,0,1,0,0,0,04/27/2024,home,16580,1170,Lenoir-Rhyne,9,True,3,13,-10,loss,4545438,1199,2475481,2024,2
+0,0,0,0,0,0,4,0,0,0,02/17/2024,home,16580,574247,Lincoln Memorial,9,True,5,9,-4,loss,4542624,1199,2801178,2024,2
+0,0,1,1,0,0,1,0,0,0,03/12/2024,away,16580,574352,Southern Wesleyan,9,True,19,9,10,win,4530305,1199,2801178,2024,2
+0,0,0,0,0,0,1,0,0,0,03/24/2024,away,16580,574272,Wingate,9,True,3,13,-10,loss,5255373,1199,2801178,2024,2
+0,0,0,0,0,0,1,0,0,0,04/16/2024,home,16580,574352,Southern Wesleyan,9,True,15,10,5,win,4537794,1199,2801178,2024,2
+1,0,1,0,0,0,0,0,0,0,04/23/2024,home,16580,574353,Emmanuel (GA),9,True,4,3,1,win,4539252,1199,2801178,2024,2
+0,0,0,0,0,0,4,0,0,0,04/30/2024,away,16580,574304,Anderson (SC),9,True,6,7,-1,loss,4540658,1199,2801178,2024,2

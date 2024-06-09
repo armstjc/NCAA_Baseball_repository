@@ -1,7 +1,7 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,2,2,0,0,0,0,0,0,0,03/10/2024,home,16580,30152,Southern Nazarene,9,True,12,9,3,win,5252817,30178,2953604,2024,2
-0,1,1,0,0,0,1,0,0,0,03/16/2024,home,16580,947,Arkansas Tech,9,True,3,2,1,win,4531219,30178,2953604,2024,2
-1,0,1,0,0,0,0,0,0,0,03/30/2024,away,16580,1371,Southeastern Okla.,9,True,4,3,1,win,4534536,30178,2953604,2024,2
-1,0,1,0,0,0,0,1,0,0,04/13/2024,home,16580,8411,Ark.-Monticello,9,True,15,9,6,win,5282340,30178,2953604,2024,2
-0,2,2,0,0,0,0,0,1,0,04/19/2024,away,16580,1376,Southern Ark.,9,True,0,1,-1,loss,4546369,30178,2953604,2024,2
-0,1,1,0,0,0,0,0,0,0,04/26/2024,away,16580,8744,Southwestern Okla.,9,True,6,7,-1,loss,4545129,30178,2953604,2024,2
+0,2,2,0,0,0,0,0,0,0,03/10/2024,home,16580,574342,Southern Nazarene,9,True,12,9,3,win,5252817,30178,2953604,2024,2
+0,1,1,0,0,0,1,0,0,0,03/16/2024,home,16580,574469,Arkansas Tech,9,True,3,2,1,win,4531219,30178,2953604,2024,2
+1,0,1,0,0,0,0,0,0,0,03/30/2024,away,16580,574264,Southeastern Okla.,9,True,4,3,1,win,4534536,30178,2953604,2024,2
+1,0,1,0,0,0,0,1,0,0,04/13/2024,home,16580,574281,Ark.-Monticello,9,True,15,9,6,win,5282340,30178,2953604,2024,2
+0,2,2,0,0,0,0,0,1,0,04/19/2024,away,16580,574265,Southern Ark.,9,True,0,1,-1,loss,4546369,30178,2953604,2024,2
+0,1,1,0,0,0,0,0,0,0,04/26/2024,away,16580,574284,Southwestern Okla.,9,True,6,7,-1,loss,4545129,30178,2953604,2024,2

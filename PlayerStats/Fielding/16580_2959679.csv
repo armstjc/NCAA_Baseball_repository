@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,1,1,0,0,0,0,1,0,0,02/18/2024,home,16580,1009,Central Okla.,9,True,6,16,-10,loss,4526262,30179,2959679,2024,2
-0,1,1,0,0,0,0,0,0,0,02/24/2024,away,16580,1346,St. Mary's (TX),9,True,8,9,-1,loss,4544267,30179,2959679,2024,2
-0,1,1,0,0,0,0,0,0,0,03/15/2024,home,16580,30090,Tex. A&M Int'l,10,True,6,5,1,win,4531046,30179,2959679,2024,2
-0,1,1,0,0,0,0,0,0,0,04/27/2024,home,16580,30088,Tex. Permian Basin,9,True,9,21,-12,loss,4546029,30179,2959679,2024,2
+0,1,1,0,0,0,0,1,0,0,02/18/2024,home,16580,574476,Central Okla.,9,True,6,16,-10,loss,4526262,30179,2959679,2024,2
+0,1,1,0,0,0,0,0,0,0,02/24/2024,away,16580,574261,St. Mary's (TX),9,True,8,9,-1,loss,4544267,30179,2959679,2024,2
+0,1,1,0,0,0,0,0,0,0,03/15/2024,home,16580,574324,Tex. A&M Int'l,10,True,6,5,1,win,4531046,30179,2959679,2024,2
+0,1,1,0,0,0,0,0,0,0,04/27/2024,home,16580,574323,Tex. Permian Basin,9,True,9,21,-12,loss,4546029,30179,2959679,2024,2

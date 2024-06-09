@@ -1,5 +1,5 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-1,0,1,0,0,0,0,0,0,0,04/10/2024,away,16580,307,Indiana (PA),9,True,2,9,-7,loss,4534775,1438,2659811,2024,2
-1,0,2,1,0,0,0,0,0,0,04/14/2024,home,16580,19117,Salem (WV),9,True,6,14,-8,loss,4537549,1438,2659811,2024,2
-1,0,1,0,0,0,0,0,0,0,05/05/2024,home,16580,12799,Wheeling,9,True,3,8,-5,loss,4541466,1438,2659811,2024,2
-2,0,2,0,0,0,0,0,0,0,05/05/2024,home,16580,12799,Wheeling,9,True,10,1,9,win,4545305,1438,2659811,2024,2
+1,0,1,0,0,0,0,0,0,0,04/10/2024,away,16580,574406,Indiana (PA),9,True,2,9,-7,loss,4534775,1438,2659811,2024,2
+1,0,2,1,0,0,0,0,0,0,04/14/2024,home,16580,574306,Salem (WV),9,True,6,14,-8,loss,4537549,1438,2659811,2024,2
+1,0,1,0,0,0,0,0,0,0,05/05/2024,home,16580,574301,Wheeling,9,True,3,8,-5,loss,4541466,1438,2659811,2024,2
+2,0,2,0,0,0,0,0,0,0,05/05/2024,home,16580,574301,Wheeling,9,True,10,1,9,win,4545305,1438,2659811,2024,2

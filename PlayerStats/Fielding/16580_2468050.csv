@@ -8,3 +8,4 @@ PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,in
 0,1,1,0,0,0,0,0,0,0,05/12/2024,away,16580,574179,Pittsburgh,9,True,15,4,11,win,4542061,234,2468050,2024,1
 0,0,0,0,0,0,1,0,0,0,05/17/2024,home,16580,574075,Georgia Tech,9,True,10,11,-1,loss,4542454,234,2468050,2024,1
 0,0,0,0,0,0,1,0,0,0,05/25/2024,neutral,16580,573956,Wake Forest,9,True,9,6,3,win,5335482,234,2468050,2024,1
+1,1,2,0,0,0,0,0,0,0,06/18/2024,neutral,16580,574139,North Carolina,9,True,9,5,4,win,5336655,234,2468050,2024,1

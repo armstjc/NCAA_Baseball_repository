@@ -1,5 +1,2 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,0,0,0,0,0,2,0,0,0,02/27/2024,away,16580,574132,Ole Miss,9,True,6,12,-6,loss,4527614,32,2826052,2024,1
-0,0,0,0,0,0,1,0,0,0,04/23/2024,away,16580,574157,ULM,9,True,4,2,2,win,4539343,32,2826052,2024,1
-0,0,1,1,0,0,0,0,0,0,05/07/2024,away,16580,574171,Oral Roberts,9,True,3,5,-2,loss,4541590,32,2826052,2024,1
-0,0,0,0,0,0,2,0,0,0,05/14/2024,home,16580,573972,Central Ark.,9,True,3,6,-3,loss,4542152,32,2826052,2024,1
+1,0,1,0,0,0,0,0,0,0,05/14/2024,home,16580,573972,Central Ark.,9,True,3,6,-3,loss,4542152,32,2826015,2024,1

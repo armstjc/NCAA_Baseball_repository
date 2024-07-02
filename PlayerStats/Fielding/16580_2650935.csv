@@ -1,5 +1,6 @@
 PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
-0,2,2,0,0,0,0,0,0,0,02/20/2024,home,16580,573980,Presbyterian,9,True,8,2,6,win,4526331,147,2796513,2024,1
-0,0,0,0,0,0,1,0,0,0,02/27/2024,home,16580,573986,USC Upstate,9,True,12,6,6,win,4527547,147,2796513,2024,1
-1,0,1,0,0,0,0,0,0,0,03/08/2024,home,16580,574141,UNC Greensboro,9,True,12,5,7,win,4529280,147,2796513,2024,1
-1,1,2,0,0,0,0,0,0,0,03/23/2024,home,16580,574067,Florida St.,9,True,9,8,1,win,4532584,147,2796513,2024,1
+0,0,0,0,0,0,1,0,0,0,02/23/2024,home,16580,573979,Kennesaw St.,9,True,1,18,-17,loss,4526537,147,2650935,2024,1
+0,1,1,0,0,0,0,0,0,0,03/13/2024,home,16580,574114,Manhattan,9,True,5,1,4,win,4530578,147,2650935,2024,1
+0,1,1,0,0,0,0,0,0,0,04/02/2024,neutral,16580,573986,USC Upstate,9,True,11,1,10,win,4534787,147,2650935,2024,1
+0,1,1,0,0,0,0,0,0,0,04/16/2024,home,16580,574140,Charlotte,9,True,8,5,3,win,4537724,147,2650935,2024,1
+0,1,1,0,0,0,0,0,0,0,05/05/2024,home,16580,574075,Georgia Tech,9,True,9,3,6,win,4541425,147,2650935,2024,1

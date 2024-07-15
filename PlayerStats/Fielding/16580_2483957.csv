@@ -1,0 +1,4 @@
+PO,A,TC,E,CI,PB,SBA,CSB,IDP,TP,date,field,season_id,opponent_id,opponent_name,innings_played,extras,runs_scored,runs_allowed,run_difference,result,game_id,school_id,stats_player_seq,season,division
+0,1,1,0,0,0,1,0,0,0,04/20/2024,home,16580,574310,Nova Southeastern,9,True,3,8,-5,loss,4538829,233,2942105,2024,2
+0,0,0,0,0,0,1,0,0,0,04/28/2024,away,16580,574294,Embry-Riddle (FL),9,True,4,13,-9,loss,4540499,233,2942105,2024,2
+1,0,1,0,0,0,0,0,0,0,05/03/2024,away,16580,574444,Rollins,9,True,13,1,12,win,4540994,233,2942105,2024,2
